@@ -1,0 +1,92 @@
+# Numeracy Hub review for ACCESS IS4S program research
+
+Reviewed 22 October 2026. Source review of `GOSTROGIS/access-trades-numeracy` at commit `7c0ceaab485e36aa45c596ac58e43bba63e4f824`. Checkout: `/workspace/reference-repos/access-trades-numeracy`. The reference checkout was left unchanged. This review inspected source and content; it does not claim a browser usability or runtime test.
+
+## What the hub actually establishes
+
+The [README](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/README.md) describes math practice for ACCESS pre-apprentices in fabrication, pipe trades and millwright work. It includes a browser hub, Shape Canvas, calculator emulators, a textbook, exercise book, answer key, BC Building Code drawings, and carpentry slides. The README documents offline use and browser-local progress.
+
+Its explicit layout direction is a **shop workbook**: diagram on layout paper beside numbered steps, then practice cards, with sources near the end ([hub source, line 5](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L5)). This is the strongest direction to carry into the new research pack: a practical task, an example, practice, feedback, and a clear workplace purpose.
+
+The [brand notes, line 29](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/brand/BRAND.md#L29) name all nine current Skills for Success: Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, Creativity and Innovation. They give a numeracy description: “find, understand, use and report mathematical information presented through words, numbers, symbols and graphics.” They do **not** provide a researched description or assessment framework for the other eight skills. Their appearance in the brand notes is not evidence that the hub already assesses all nine.
+
+## Visual and writing direction observed
+
+| Element | Observed direction | Application to program research |
+|---|---|---|
+| Ground and cards | Warm ground `#F7F4F1`, white cards, ink `#1A1512`, slate `#4A4E54`, restrained borders, 6px corners | Plain document/workbook structure; readable program sections and task sheets |
+| Colour | ACCESS red `#D2181F`, deep red `#C60016`, gold `#FFBC00`; 4px gold header rule | Red headings/actions, gold rules and highlight fills; never gold body text |
+| Typography | Archivo for headings, IBM Plex Sans for prose, IBM Plex Mono/tabular figures for measurements | Retain clear headings and aligned units/data; the brand file calls this pairing recommended, not formally confirmed by ACCESS |
+| Diagram treatment | White drawing paper remains white in dark mode; dimensions and geometric elements are labelled | Keep job sheets, diagrams and examples legible in print and on screen |
+| Voice | Direct verbs, short explanations, actual materials and consequences: “On the job,” “Worked example,” “Practice tasks,” “Your answer” | Write “Read the drawing. Mark the length. Check the unit. Explain your choice.” |
+| Feedback | “Right,” “Not yet,” and hints about the specific error | Feedback identifies an actionable next step, rather than labelling the learner |
+
+Evidence: [brand colours](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/brand/BRAND.md#L3), [type guidance](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/brand/BRAND.md#L13), [hub tokens](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L8), [diagnostic feedback](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L20538).
+
+The [book wording checks](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/lint.js#L1) also show a deliberate plain-language voice: no filler, no em dashes or semicolons in learner reading text, and no “as an AI” language. These are evidence about that project's style, not mandatory rules for a staff research register. Research uncertainty must remain explicit even though final learner materials exclude draft placeholders.
+
+## Teaching structure and interactions worth carrying forward
+
+- Start with **On the job**: why this action matters in this occupation.
+- Show a labelled diagram, form, table, schedule, or model, then number the steps.
+- Include a worked example with answer and units. Calculator key sequences are visible and can run on the selected emulator. A global control hides operations so learners can attempt the task first ([header and controls](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1065)).
+- Move into practice with new values. Guided practice gives the first steps and fades them across questions ([exam settings](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1173)).
+- Give a reasoned correction: wrong unit, decimal position, sign, or premature rounding ([feedback implementation](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L20538)).
+- Revisit topics across days. The review exam uses missed topics and time since last practice; progress is local to that browser ([topic record](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1194)).
+- Provide printable blank and answer versions: the hub offers Word and PDF exports ([exports](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1215)).
+- Preserve accessibility choices: visible focus, reduced-motion handling, keyboard tabs, text-size controls and readable body text. Source presence is not a full accessibility audit.
+
+The hub tags numeracy tasks Level 1–3 and separately offers Easy, Medium, Hard, Brutal and Nightmare settings ([difficulty implementation](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L2060)). Do not present these local settings as validated proficiency levels for all nine skills. For the new program pack, a proposed progression of **Supported practice → Independent practice → Transfer to a new situation** is clearer and avoids importing the intimidating labels. Formal proficiency alignment requires a separate framework check.
+
+## Existing content paths for all 11 programs
+
+The following are genuine existing numeracy starting points; the occupation-specific integrations are proposed. Tab fragments refer to the downloaded page `numeracy-hub/index.html`. The [shell routing](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L20814) accepts `#shape`, `#ooo`, `#vlm`, `#angles`, `#fab`, `#pipe`, `#units`, `#mech`, `#coords`, `#measure`, and `#exam`. Module anchors inside embedded frames are internal identifiers, not additional outer-page deep links. Do not publish invented compound fragments such as `#fab/m-tape`.
+
+| Program | Existing resource and stable identifiers | Practical research/use direction |
+|---|---|---|
+| Welding | `numeracy-hub/index.html#fab`: internal `m-tape`, `m-square`, `m-nesting`; `#vlm`: internal `m-area` (area/perimeter) | Read a cut list, calculate lengths or weld perimeter, check diagonals, record fit-up measurements. Add an oral handover and a written discrepancy note. |
+| Asphalt Paving | `#vlm`: internal `m-vol`, `m-area`; `#units`; [book chapter 11](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch11-volume.js) | Reuse area × thickness as a geometry exercise and convert units. Asphalt density, compaction, temperature and field specifications must come from the selected provider, not the hub's concrete example. |
+| Ironworker | `#fab`: `m-weight`, `m-square`, `m-scale`; `#mech`: levers and pulleys | Estimate mass from a supplied classroom density; read a plan; compare diagonals. Do not turn ideal mechanical-advantage examples into lift authorization or substitute them for approved load charts. |
+| Carpentry | `#vlm`: internal `m-layout` and `m-area`; `#measure`: rules/tapes, squares/levels; `carpentry/intake-142/PowerPoint/`, `carpentry/intake-142/PDF/` | Read scales, make cut lists, check square, estimate materials; adapt known carpentry slides only after checking their intake and code edition. |
+| Piping | `#pipe`: `m1` Measuring and pipe lengths; `#units`; pipe code-book/materials/glossary/drawings sections | Read a schematic, calculate cut lengths, find a table/Article, explain a material choice. The code section explicitly names NPC 2025; establish the applicable B.C. edition with the instructor before using it as a compliance reference. |
+| Tower Crane | `#mech`: `m2` Levers, `m3` Pulleys; `#fab`: `m-weight`; `#units` | Prepare the concepts of mass, units, radius and reading tables. Build communication/stop-and-clarify exercises around instructor-supplied simulation documents. No crane capacity can be established from these general numeracy modules. |
+| Marine Mechanical Technician | `#mech`: `m4` Gears/sprockets/belts, `m6` Wheel and axle/torque, `m7` Hydraulics; `#measure`: calipers/micrometers/gauges | Read a mock service job, measure a part, compare a provider-supplied tolerance, calculate a ratio and document the finding. Manufacturer service limits remain the authoritative input. |
+| Security | [book chapter 1, Time on the job](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch01-whole-numbers.js#L295), tables/graphs from line 395 | Use elapsed time, 24-hour clocks and a fictional patrol log. Pair observations with factual report writing, clarification and handover. The hub contains no BST/legal curriculum. |
+| Metal Fabrication | `#fab`: `m-tape`, `m-stretch`, `m-nesting`, `m-weight`, `m-square`, `m-bending`, `m-cones`, `m-scale`; `#coords`; `#measure` | Closest existing match. Reuse layout, nesting and scrap tasks as a basis for design choices, team verification and a revision record. Shop-specific bend parameters must be supplied by the instructor. |
+| Educational Assistant | [chapter 1](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch01-whole-numbers.js#L295), [fractions](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch04-fractions.js), [Kitchen Math](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/app-a-kitchen-math.js) | Adapt scheduling, counting, proportions and reading charts to a fictional classroom activity; design more than one representation. Do not claim the trade hub supplies inclusion, behaviour-support or practicum standards. |
+| Nursing | [decimals](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch05-decimals.js), [percent/ratio](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch06-percent-ratio.js), [units](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch07-units.js), chapter 1 time | Use general unit reasoning, estimates, elapsed time and data tables as preparation. Clinical medication tasks, notation and acceptable methods require nursing-faculty review; trade calculators/materials do not establish clinical competency. |
+
+The outer tab list is visible at [hub lines 1078 onward](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1078). Embedded module payloads are at [Volume/Layout L1241](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1241), [Fabrication L1243](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1243), [Pipe L1244](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1244), [Mechanical L1246](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1246), and [Measuring L1248](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L1248).
+
+## Concrete examples that show the approach
+
+1. **Ordering brackets:** 3 units × 14 brackets + 6 spares = 48. Boxes hold 10, so 48 ÷ 10 = 4.8 and the order is 5 boxes. The explanation distinguishes rounding purchases up from rounding possible cut pieces down. This creates a natural nine-skills extension: read the job, calculate, record the order, enter a spreadsheet, explain the rounding, peer-check, handle a quantity change and compare an alternative. [Existing example](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch01-whole-numbers.js#L285).
+2. **Timesheets:** 45 min ÷ 60 = 0.75 h. The lesson first explains clocks/elapsed time, then decimal hours and pay. It does not assume that a learner who reads decimals already understands that time is base 60. Useful for all 11 programs, particularly security, care and classroom schedules. [Existing sequence](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch01-whole-numbers.js#L295).
+3. **Proportion with a reasonableness check:** 18 m of pipe takes 4 h, so a same-rate classroom model gives 45 m in 10 h. The text says to keep units aligned and check that more work takes more time. Do not treat this simplified model as a production or staffing promise. [Existing practice](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/source/book/chapters/ch06-percent-ratio.js#L305).
+4. **Documents as tools:** the piping code-book section asks learners to locate a Division, read a reference number, find a table value, then do the math. This already combines reading, digital navigation and numeracy. It is an excellent pattern for security procedures, classroom plans or a simulated service manual, with authoritative content supplied for each occupation.
+
+## Research sources already named in the hub
+
+These URLs were extracted from the repository. Their presence is verified; their current live contents and suitability for a 2027 cohort have **not** been independently verified in this review.
+
+| Source | Existing URL | Best use |
+|---|---|---|
+| Government of Canada, Skills for Success | https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/understanding-individuals.html | Verify current nine-skill definitions and subcomponents |
+| BCcampus, Math for Trades 2 | https://opentextbc.ca/mathfortrades2/chapter/order-of-operations/ | Open numeracy explanation and worked-example research |
+| BCcampus, volume of cylinder | https://opentextbc.ca/mathfortrades2/chapter/volume-of-a-cylinder/ | Volume and capacity lesson research |
+| BCcampus, Pattern Development | https://opentextbc.ca/patterndevelopment/chapter/frustum-of-a-cone/ | Fabrication drawings and pattern-development research |
+| Camosun / BCcampus, Trades Access Common Core C-1 | https://collection.bccampus.ca/textbook/BzEe9fcq | Hand tools and measuring; hub labels it CC BY 4.0, which still needs source-level confirmation before reuse |
+| NIST SP 811, conversions | https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8 | Authoritative unit factors; not occupation licensing or code rules |
+| B.C., Plumbing Code bulletin P24-01 | https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/construction-industry/building-codes-and-standards/bulletins/p24-01_2024_bc_plumbing_code_revised_2024-05-28.pdf | Establish jurisdiction and historical 2024 adoption context, then check newer notices |
+| Texas Instruments, TI-30Xa guide | https://education.ti.com/en/guidebook/details/en/E4CC4C51FCA94B33A48137F1FCE16670/30xa | Confirm calculator operations |
+| Mitutoyo, measuring instruments | https://www.mitutoyo.com/webfoo/wp-content/uploads/E11003-Quick-Guide.pdf | Instrument-specific reading/care research |
+
+Some hub sources are commercial explainers, Wikipedia, old manuals or dealer-hosted copies. The reference hub is a useful lead set, not a substitute for provider curricula, current regulations or manufacturer instructions.
+
+## Proposed common program research structure
+
+Use the same sequence for every program: **Workplace purpose → Cohort facts and open questions → Authentic document/task → Worked example → Supported practice → Independent attempt → Change in the situation → Reflection and transfer → Nine-skill evidence → Sources and instructor checks.**
+
+Keep learner pages short and practical. Put admissions, credentials, purchasing questions and source-status notes in a staff research page. For each skill, name what the learner actually does and what the instructor can see or collect. A tag alone is not integration. Use two or three focus skills in a short lesson; make all nine observable over the module or sequence rather than forcing nine separate exercises into every activity.
+
+Retain ACCESS/IS4S brand assets according to the [brand-use notes](https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/brand/BRAND.md#L32). No repository-wide LICENSE or AGENTS.md was found in this checkout. Reusing the user's design direction does not establish redistribution rights for external code books, textbook passages, fonts or manufacturer images. Link or paraphrase with source attribution until the particular item's reuse terms are checked; original diagrams and activity wording can follow the existing style.
