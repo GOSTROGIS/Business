@@ -8,6 +8,8 @@ Received from the user on **23 October 2026**. These three original PDFs form th
 | STBC-PROFILE-2014 | [Asphalt Paving/Laydown Technician Program Profile — November 2014](asphalt-paving-laydown-technician-program-profile-nov-2014.pdf) · 7 PDF pages | Historical pathway, technical-training and endorsement context; distinct from the ACCESS cohort's delivery agreement. |
 | SKILLPLAN-SFS-2024 | [Skills for Success Get Started Guide for Practitioners — revised March 2024](SFS-Get-Started-Guide_FINAL_MAR2024.pdf) · 148 PDF pages | SkillPlan's instructional approaches, named skill components and assessment strategies. Government of Canada funding is identified on the cover. |
 
+The [detailed outline notes](outline-notes.md) record A1–A6 titles, all nine A1 learning tasks, equipment references and source-version boundaries.
+
 ## Page references for the first unit
 
 PDF page means the file viewer's one-based page number. Printed page means the number shown on the document page.

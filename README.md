@@ -1,5 +1,11 @@
 # Business
 
+## Asphalt curriculum — start here
+
+[Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Learner workbook (PDF)](curriculum/asphalt-paving/unit-01/learner-workbook.pdf) · [Instructor guide (PDF)](curriculum/asphalt-paving/unit-01/instructor-guide.pdf)
+
+The first SkilledTradesBC competency, A1, now has three opening sessions with readings, worked examples, 18 learner activities, answer guidance and evidence for all nine Skills for Success. [Original source PDFs](curriculum/asphalt-paving/sources/README.md), editable lessons and reusable classroom materials are included. The design follows the ACCESS Numeracy Hub. Teaching draft for instructor review and pilot.
+
 ## ACCESS Indigenous Skills 4 Success — 2027 program research
 
 [Download the research workbook (PDF)](research/2027-is4s/research-workbook.pdf) · [Browse the workbook](research/2027-is4s/research-workbook.html)

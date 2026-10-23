@@ -1,0 +1,97 @@
+# Session 1 • Stage and equipment cards
+
+Original introductory teaching cards • Use with **A1-Q03, A1-Q04 and A1-Q07**.
+
+Print and cut apart if useful. The equipment cards identify a main purpose; they do not give operating instructions. The screed is a component of paving equipment. The simplified process omits additional preparation, checks and finishing work found on real projects.
+
+## Stage labels for sorting
+
+Copy or cut each label separately. Arrange them in order and add a purpose under each.
+
+| PLACE |
+|---|
+| Purpose: |
+| |
+| |
+
+| HAUL |
+|---|
+| Purpose: |
+| |
+| |
+
+| PIT OR QUARRY |
+|---|
+| Purpose: |
+| |
+| |
+
+| COMPACT |
+|---|
+| Purpose: |
+| |
+| |
+
+| PLANT |
+|---|
+| Purpose: |
+| |
+| |
+
+## Equipment and component cards
+
+These are reading cards for the matching task; learners may consult the descriptions.
+
+| E1 • Screed |
+|---|
+| The paving-equipment component that helps control the thickness of the asphalt layer being placed. |
+
+| E2 • Crusher or screening plant |
+|---|
+| A crusher reduces material size; a screen separates material by size. |
+
+| E3 • Asphalt plant |
+|---|
+| Prepares the specified asphalt paving mixture. |
+
+| E4 • Haul truck |
+|---|
+| Transports paving material between the supply point and work area. |
+
+| E5 • Asphalt paver |
+|---|
+| Receives asphalt mixture and moves it toward the screed during placement. |
+
+| E6 • Compaction roller |
+|---|
+| Compacts the placed material as part of the paving process. |
+
+## Need cards for A1-Q04
+
+Match each need to an E-code. Keep the equipment descriptions available while you check.
+
+| Need 1 • Transport the mixture |
+|---|
+| E-code: |
+
+| Need 2 • Receive and move mixture toward the screed during placement |
+|---|
+| E-code: |
+
+| Need 3 • Separate mineral material by size |
+|---|
+| E-code: |
+
+| Need 4 • Compact placed material |
+|---|
+| E-code: |
+
+| Need 5 • Help control the thickness of the layer being placed |
+|---|
+| E-code: |
+
+| Need 6 • Prepare the asphalt mixture |
+|---|
+| E-code: |
+
+**Partner explanation:** Why do the paver and roller have different jobs? Use the cards to support your answer, then listen to your partner's restatement.

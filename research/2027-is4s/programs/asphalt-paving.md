@@ -1,5 +1,7 @@
 # Asphalt Paving — prepare a simulated small-site materials plan
 
+**Curriculum development update — 23 October 2026:** The [asphalt curriculum workspace](../../../curriculum/asphalt-paving/README.md) now contains the supplied SkilledTradesBC outline/profile, SkillPlan guide and a three-session A1 teaching draft. See the [source timing note](../../../curriculum/asphalt-paving/sources/README.md#scheduling-distinction) for the distinction between this profile’s 120 technical-training hours and the earlier provider reference below. This research brief and its previously generated workbook remain an earlier planning snapshot.
+
 [All programs](README.md) · [Teaching framework](../framework.md) · [Worked numeracy starters](../numeracy-starters.md)
 
 **Research stage:** Initial learning-design draft. Activities are proposed for ACCESS/instructor review. Cohort and public-program details come from [the supplied reference](../sources/supplied-program-reference-2026-10-22.txt), section “Asphalt Paving”, and have not been independently confirmed.
