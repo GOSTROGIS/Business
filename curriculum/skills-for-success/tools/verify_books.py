@@ -1,0 +1,515 @@
+#!/usr/bin/env python3
+"""Check ACCESS IS4S book sources and generated artifacts without network access.
+
+Run from any directory. Use --require-generated after building both books and
+--report PATH to retain a JSON result. Only pypdf and the standard library are
+required. These checks establish structural integrity and navigability; they do
+not replace curriculum, cultural-context, accessibility, or visual review.
+"""
+
+from __future__ import annotations
+
+import argparse
+from collections import Counter
+from datetime import datetime, timezone
+import hashlib
+from html import unescape
+from html.parser import HTMLParser
+import ipaddress
+import json
+from pathlib import Path
+import re
+import sys
+import unicodedata
+from urllib.parse import parse_qs, unquote, urlsplit
+
+from pypdf import PdfReader
+
+
+ROOT = Path(__file__).resolve().parents[1]
+SOURCE_PAGES = 148
+SOURCE_SHA256 = "32dad4699b1ef1ab281ad4bdf95bef310048741703fc401094c57f6c62e33caf"
+SKILLS = (
+    ("01-reading", "RD", "Reading"),
+    ("02-writing", "WR", "Writing"),
+    ("03-numeracy", "NU", "Numeracy"),
+    ("04-digital", "DG", "Digital"),
+    ("05-problem-solving", "PS", "Problem Solving"),
+    ("06-communication", "CM", "Communication"),
+    ("07-collaboration", "CL", "Collaboration"),
+    ("08-adaptability", "AD", "Adaptability"),
+    ("09-creativity-innovation", "CI", "Creativity and Innovation"),
+)
+BOOKS = ("learner-textbook", "practitioner-guide")
+
+
+def normalized(value: str) -> str:
+    value = unicodedata.normalize("NFKC", unescape(value)).casefold()
+    return re.sub(r"[^\w]+", " ", value.replace("&", " and ")).strip()
+
+
+def without_code(text: str) -> str:
+    """Ignore fenced examples and inline code when inspecting Markdown links."""
+    result = []
+    fence = None
+    for line in text.splitlines():
+        match = re.match(r"^\s{0,3}(`{3,}|~{3,})", line)
+        if match:
+            marker = match.group(1)
+            if fence is None:
+                fence = marker
+            elif marker[0] == fence[0] and len(marker) >= len(fence):
+                fence = None
+            result.append("")
+        else:
+            result.append(line if fence is None else "")
+    return re.sub(r"(`+).*?\1", "", "\n".join(result))
+
+
+def destination_at(text: str, start: int) -> str:
+    """Read a Markdown destination, preserving balanced URL parentheses."""
+    while start < len(text) and text[start].isspace():
+        start += 1
+    if start >= len(text):
+        return ""
+    if text[start] == "<":
+        end = text.find(">", start + 1)
+        return text[start + 1:end] if end >= 0 else ""
+    result = []
+    depth = 0
+    index = start
+    while index < len(text):
+        char = text[index]
+        if char == "\\" and index + 1 < len(text):
+            result.append(text[index + 1])
+            index += 2
+            continue
+        if (char.isspace() or char == ")") and depth == 0:
+            break
+        if char == "(":
+            depth += 1
+        elif char == ")":
+            depth -= 1
+        result.append(char)
+        index += 1
+    return "".join(result)
+
+
+class HTMLDocument(HTMLParser):
+    def __init__(self, source: str):
+        super().__init__(convert_charrefs=True)
+        self.ids: list[str] = []
+        self.links: list[str] = []
+        self.headings: list[str] = []
+        self.text: list[str] = []
+        self._heading: list[str] | None = None
+        self.feed(source)
+
+    def handle_starttag(self, tag, attrs):
+        for name, value in attrs:
+            if value is None:
+                continue
+            if name == "id" or (tag == "a" and name == "name"):
+                self.ids.append(value)
+            if name in {"href", "src"}:
+                self.links.append(value)
+        if re.fullmatch(r"h[1-6]", tag):
+            self._heading = []
+
+    handle_startendtag = handle_starttag
+
+    def handle_endtag(self, tag):
+        if re.fullmatch(r"h[1-6]", tag) and self._heading is not None:
+            self.headings.append("".join(self._heading))
+            self._heading = None
+
+    def handle_data(self, data):
+        self.text.append(data)
+        if self._heading is not None:
+            self._heading.append(data)
+
+
+def markdown_links(text: str) -> list[str]:
+    text = without_code(text)
+    targets = [destination_at(text, match.end()) for match in re.finditer(r"\]\(", text)]
+    targets += [destination_at(text, match.end()) for match in
+                re.finditer(r"(?m)^\s{0,3}\[[^\]\n]+\]:[ \t]*", text)]
+    targets += HTMLDocument(text).links
+    return [unescape(target) for target in targets if target]
+
+
+def markdown_anchors(text: str) -> set[str]:
+    """Accept common GitHub/Python-Markdown heading IDs and explicit HTML IDs.
+
+    Markdown has no universal heading-slug standard. Keep both established
+    conventions here; generated HTML is checked against its actual IDs instead.
+    """
+    text = without_code(text)
+    ids = set(HTMLDocument(text).ids)
+    headings = re.findall(r"(?m)^\s{0,3}#{1,6}\s+(.+?)\s*#*\s*$", text)
+    headings += re.findall(r"(?m)^([^\n]+)\n(?:={3,}|-{3,})\s*$", text)
+    github_seen: Counter = Counter()
+    python_seen: Counter = Counter()
+    for heading in headings:
+        explicit = re.search(r"\{[^}]*#([^\s}]+)[^}]*\}\s*$", heading)
+        if explicit:
+            ids.add(explicit.group(1))
+            heading = heading[:explicit.start()]
+        heading = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", heading)
+        heading = unescape(re.sub(r"<[^>]+>", "", heading)).strip().casefold()
+        github = "".join(c for c in heading if c in "-_ " or c.isalnum()).replace(" ", "-")
+        count = github_seen[github]
+        ids.add(github if count == 0 else f"{github}-{count}")
+        github_seen[github] += 1
+        ascii_heading = unicodedata.normalize("NFKD", heading).encode("ascii", "ignore").decode()
+        python = re.sub(r"[^\w\s-]", "", ascii_heading)
+        python = re.sub(r"[-\s]+", "-", python).strip("-")
+        count = python_seen[python]
+        ids.add(python if count == 0 else f"{python}_{count}")
+        python_seen[python] += 1
+    return ids
+
+
+def local_host(uri: str) -> bool:
+    try:
+        host = (urlsplit(uri).hostname or "").rstrip(".").casefold()
+        if host == "localhost" or host.endswith(".localhost"):
+            return True
+        try:
+            return ipaddress.ip_address(host).is_loopback
+        except ValueError:
+            return False
+    except ValueError:
+        return False
+
+
+class Verifier:
+    def __init__(self, root: Path, require_generated: bool):
+        self.root = root.resolve()
+        self.repo_root = next((p for p in self.root.parents if (p / ".git").exists()), self.root)
+        self.require_generated = require_generated
+        self.counts: Counter = Counter()
+        self.errors: list[str] = []
+        self.notes: list[str] = []
+        self.artifacts: dict = {}
+        self._pdfs: dict[Path, PdfReader] = {}
+        self._html: dict[Path, HTMLDocument] = {}
+        self._anchors: dict[Path, set[str]] = {}
+        self.book_specs: dict[str, dict] = {}
+
+    def label(self, path: Path) -> str:
+        try:
+            return str(path.relative_to(self.root))
+        except ValueError:
+            return str(path)
+
+    def check(self, condition, group: str, message: str):
+        self.counts[group] += 1
+        if not condition:
+            self.errors.append(message)
+
+    def read(self, path: Path, group: str) -> str:
+        self.check(path.is_file(), group, f"Missing file: {self.label(path)}")
+        return path.read_text(encoding="utf-8") if path.is_file() else ""
+
+    def pdf(self, path: Path) -> PdfReader:
+        path = path.resolve()
+        if path not in self._pdfs:
+            reader = PdfReader(path)
+            if reader.is_encrypted and not reader.decrypt(""):
+                raise ValueError(f"Encrypted PDF requires a password: {self.label(path)}")
+            self._pdfs[path] = reader
+        return self._pdfs[path]
+
+    def html(self, path: Path) -> HTMLDocument:
+        path = path.resolve()
+        if path not in self._html:
+            self._html[path] = HTMLDocument(path.read_text(encoding="utf-8"))
+        return self._html[path]
+
+    def verify_inventory(self):
+        path = self.root / "research/sfs-inventory.json"
+        text = self.read(path, "source inventory")
+        if not text:
+            return
+        inventory = json.loads(text)
+        pages = inventory.get("page_inventory", [])
+        numbers = [page.get("pdf_page") for page in pages]
+        self.check(numbers == list(range(1, SOURCE_PAGES + 1)), "source inventory",
+                   "page_inventory must contain each PDF page 1–148 once, in order")
+        sections = {item.get("id"): item for item in inventory.get("major_sections", [])}
+        subsections = {item.get("id"): item for item in inventory.get("subsections", [])}
+        for key in ("major_sections", "subsections"):
+            coverage: list[int] = []
+            entries = inventory.get(key, [])
+            self.check(len({e.get('id') for e in entries}) == len(entries), "source inventory",
+                       f"Duplicate IDs in inventory {key}")
+            for entry in entries:
+                start, end = entry.get("pdf_start"), entry.get("pdf_end")
+                valid = isinstance(start, int) and isinstance(end, int) and 1 <= start <= end <= SOURCE_PAGES
+                self.check(valid, "source inventory", f"Invalid page interval in {key}/{entry.get('id')}")
+                if valid:
+                    expected = list(range(start, end + 1))
+                    self.check(entry.get("pdf_pages") == expected, "source inventory",
+                               f"pdf_pages differs from interval in {key}/{entry.get('id')}")
+                    coverage.extend(expected)
+            self.check(sorted(coverage) == list(range(1, SOURCE_PAGES + 1)), "source inventory",
+                       f"{key} must cover pages 1–148 without gaps or overlaps")
+        for page in pages:
+            number = page.get("pdf_page")
+            self.check(bool(page.get("source_text_as_extracted", "").strip()), "source inventory",
+                       f"Inventory page {number} has no extracted source text")
+            self.check(bool(page.get("content_summary", "").strip()), "source inventory",
+                       f"Inventory page {number} has no content summary")
+            for key, entries in (("section_id", sections), ("subsection_id", subsections)):
+                entry = entries.get(page.get(key), {})
+                self.check(number in entry.get("pdf_pages", []), "source inventory",
+                           f"Inventory page {number} is outside its {key}")
+        skill_ids = [entry.get("id") for entry in inventory.get("skills", [])]
+        self.check(skill_ids == [stem[3:] for stem, _, _ in SKILLS], "source inventory",
+                   "Inventory must include all nine skills once in book order")
+        for skill in inventory.get("skills", []):
+            self.check(len(skill.get("components", [])) == 6, "source inventory",
+                       f"Inventory skill {skill.get('id')} must retain six components")
+            for key in ("learner", "practitioner", "answer_guidance"):
+                target = skill.get("access_destinations", {}).get(key)
+                self.check(bool(target), "source inventory", f"Missing {key} destination for {skill.get('id')}")
+                if target:
+                    self.verify_link(path, target)
+        for key in ("access_crosswalk_file", "original_bibliography_index_file"):
+            target = inventory.get(key)
+            self.check(bool(target), "source inventory", f"Inventory missing {key}")
+            if target:
+                self.verify_link(path, target)
+        source = inventory.get("source", {})
+        self.check(source.get("pdf_pages") == SOURCE_PAGES, "source identity", "Inventory source page count must be 148")
+        self.check(source.get("sha256") == SOURCE_SHA256, "source identity", "Inventory source SHA-256 differs from the supplied PDF identity")
+        source_path = source.get("local_source_path")
+        self.check(bool(source_path), "source identity", "Inventory missing source.local_source_path")
+        if source_path:
+            pdf_path = (path.parent / source_path).resolve()
+            self.check(pdf_path.is_file(), "source identity", f"Missing supplied PDF: {pdf_path}")
+            if pdf_path.is_file():
+                data = pdf_path.read_bytes()
+                actual_hash = hashlib.sha256(data).hexdigest()
+                self.check(actual_hash == SOURCE_SHA256, "source identity", "Supplied PDF SHA-256 mismatch")
+                self.check(len(data) == source.get("bytes"), "source identity", "Supplied PDF byte count differs from inventory")
+                self.check(len(self.pdf(pdf_path).pages) == SOURCE_PAGES, "source identity", "Supplied PDF does not contain 148 pages")
+                self.artifacts["source"] = {"path": str(pdf_path), "sha256": actual_hash, "pages": len(self.pdf(pdf_path).pages)}
+
+    def verify_activities(self):
+        pairs = [(stem, prefix, 18) for stem, prefix, _ in SKILLS]
+        pairs.append(("10-integrated-projects", "CP", 12))
+        for stem, prefix, count in pairs:
+            expected = [f"{prefix}-{number:02d}" for number in range(1, count + 1)]
+            for folder in ("learner", "answers"):
+                path = self.root / folder / f"{stem}.md"
+                text = without_code(self.read(path, "activity coverage"))
+                headings = list(re.finditer(r"(?m)^#{1,6}\s+(?:\*\*)?([A-Z]{2}-\d{2})\b[^\n]*", text))
+                actual = [match.group(1) for match in headings]
+                self.check(actual == expected, "activity coverage",
+                           f"{self.label(path)} activity headings must be {expected[0]}–{expected[-1]} exactly once in order; found {actual}")
+                for match in headings:
+                    # A heading alone is not an activity or an answer. Require
+                    # actual body content before the next Markdown heading.
+                    remainder = text[match.end():]
+                    block = re.split(r"(?m)^#{1,6}\s+", remainder, maxsplit=1)[0]
+                    self.check(bool(block.strip()), "activity coverage",
+                               f"{self.label(path)} has an empty {match.group(1)} entry")
+
+    def verify_manifest(self):
+        text = self.read(self.root / "book-manifest.json", "book manifest")
+        if not text:
+            return
+        manifest = json.loads(text)
+        books = manifest.get("books", [])
+        self.check([book.get("name") for book in books] == list(BOOKS), "book manifest",
+                   "Book manifest must identify the learner textbook and practitioner guide once each")
+        self.check([normalized(skill) for skill in manifest.get("skills", [])] ==
+                   [normalized(name) for _, _, name in SKILLS], "book manifest",
+                   "Book manifest must list all nine Skills for Success")
+        for book in books:
+            name = book.get("name")
+            self.book_specs[name] = book
+            self.check(bool(book.get("title", "").strip()), "book manifest", f"Missing book title: {name}")
+            chapters = book.get("chapters", [])
+            self.check(bool(chapters) and len(chapters) == len(set(chapters)), "book manifest",
+                       f"Missing or duplicate chapter list in {name}")
+            for chapter in chapters:
+                self.check((self.root / chapter).is_file(), "book manifest",
+                           f"Manifest chapter missing from {name}: {chapter}")
+        for folder, name in (("learner", "learner-textbook"), ("practitioner", "practitioner-guide"),
+                             ("answers", "practitioner-guide")):
+            chapters = self.book_specs.get(name, {}).get("chapters", [])
+            for path in (self.root / folder).glob("*.md"):
+                self.check(str(path.relative_to(self.root)) in chapters, "book manifest",
+                           f"{name} omits source chapter: {self.label(path)}")
+
+    def verify_link(self, origin: Path, target: str):
+        try:
+            parsed = urlsplit(target)
+        except ValueError:
+            self.check(False, "links", f"Invalid URL in {self.label(origin)}: {target}")
+            return
+        if parsed.scheme or parsed.netloc:
+            self.counts["external links skipped"] += 1
+            return
+        if parsed.path.startswith("/"):
+            path = (self.repo_root / unquote(parsed.path).lstrip("/")).resolve()
+        else:
+            path = (origin.parent / unquote(parsed.path)).resolve() if parsed.path else origin.resolve()
+        self.check(path.exists(), "links", f"Broken link in {self.label(origin)}: {target}")
+        if not path.exists() or not parsed.fragment:
+            return
+        fragment = unquote(parsed.fragment)
+        suffix = path.suffix.casefold()
+        if suffix == ".pdf":
+            params = parse_qs(fragment)
+            if "page" in params:
+                value = params["page"]
+                valid = len(value) == 1 and value[0].isdigit() and 1 <= int(value[0]) <= len(self.pdf(path).pages)
+                self.check(valid, "fragments", f"Invalid PDF page target in {self.label(origin)}: {target}")
+            else:
+                self.counts["unsupported fragments skipped"] += 1
+        elif suffix in {".html", ".htm"}:
+            self.check(fragment in self.html(path).ids, "fragments",
+                       f"Missing HTML fragment in {self.label(origin)}: {target}")
+        elif suffix == ".md":
+            if path not in self._anchors:
+                self._anchors[path] = markdown_anchors(path.read_text(encoding="utf-8"))
+            self.check(fragment in self._anchors[path], "fragments",
+                       f"Missing Markdown heading/explicit fragment in {self.label(origin)}: {target}")
+        elif suffix == ".svg":
+            self.check(fragment in self.html(path).ids, "fragments",
+                       f"Missing SVG fragment in {self.label(origin)}: {target}")
+        else:
+            self.counts["unsupported fragments skipped"] += 1
+
+    def verify_markdown(self):
+        paths = sorted(self.root.rglob("*.md"))
+        self.check(bool(paths), "markdown", "No Markdown source files found")
+        for path in paths:
+            text = path.read_text(encoding="utf-8")
+            self.check(bool(text.strip()), "markdown", f"Empty Markdown source: {self.label(path)}")
+            for target in markdown_links(text):
+                self.verify_link(path, target)
+        self.artifacts["markdown_files"] = len(paths)
+
+    def verify_html(self):
+        for stem in BOOKS:
+            path = self.root / f"{stem}.html"
+            if self.require_generated:
+                self.check(path.is_file(), "generated HTML", f"Missing generated book: {path.name}")
+            elif not path.is_file():
+                self.notes.append(f"Not built; skipped {path.name}")
+        for path in sorted(self.root.rglob("*.html")):
+            doc = self.html(path)
+            self.check(bool("".join(doc.text).strip()), "generated HTML", f"Empty HTML: {self.label(path)}")
+            duplicates = [key for key, count in Counter(doc.ids).items() if count > 1]
+            self.check(not duplicates, "generated HTML", f"Duplicate HTML IDs in {self.label(path)}: {duplicates}")
+            for target in doc.links:
+                self.check(not local_host(target), "generated HTML", f"Localhost link in {self.label(path)}: {target}")
+                self.verify_link(path, target)
+            if path.parent == self.root and path.stem in BOOKS:
+                body = normalized(" ".join(doc.text))
+                self.check("access" in body and "skills for success" in body, "book identity",
+                           f"Missing ACCESS / Skills for Success identity in {path.name}")
+                headings = [normalized(heading) for heading in doc.headings]
+                spec = self.book_specs.get(path.stem, {})
+                if spec:
+                    self.check(normalized(spec["title"]) in headings, "book identity",
+                               f"Declared book title is absent from {path.name}")
+                    for source_name in spec.get("chapters", []):
+                        source = self.root / source_name
+                        if source.is_file():
+                            match = re.search(r"(?m)^#\s+(.+)$", source.read_text(encoding="utf-8"))
+                            self.check(bool(match) and normalized(match.group(1)) in headings,
+                                       "book chapters", f"Source chapter heading absent from {path.name}: {source_name}")
+                for _, _, skill in SKILLS:
+                    name = normalized(skill)
+                    self.check(any(re.search(rf"\b{re.escape(name)}\b", heading) for heading in headings),
+                               "book chapters", f"No {skill} chapter heading found in {path.name}")
+                self.artifacts[path.name] = {"bytes": path.stat().st_size, "headings": len(doc.headings), "ids": len(doc.ids)}
+        if self.require_generated:
+            for folder in ("learner", "practitioner", "answers"):
+                for source in sorted((self.root / folder).glob("*.md")):
+                    self.check(source.with_suffix(".html").is_file(), "generated HTML",
+                               f"Missing standalone chapter: {self.label(source.with_suffix('.html'))}")
+
+    def verify_pdfs(self):
+        for stem in BOOKS:
+            path = self.root / f"{stem}.pdf"
+            if not path.is_file():
+                if self.require_generated:
+                    self.check(False, "generated PDF", f"Missing generated book: {path.name}")
+                else:
+                    self.notes.append(f"Not built; skipped {path.name}")
+                continue
+            self.check(path.stat().st_size > 0, "generated PDF", f"Empty PDF file: {path.name}")
+            reader = self.pdf(path)
+            self.check(len(reader.pages) > 0, "generated PDF", f"PDF has no pages: {path.name}")
+            texts = []
+            annotations = 0
+            for number, page in enumerate(reader.pages, 1):
+                texts.append(page.extract_text() or "")
+                for reference in page.get("/Annots", []):
+                    annotation = reference.get_object()
+                    action = annotation.get("/A")
+                    if action:
+                        action = action.get_object()
+                        uri = str(action.get("/URI", ""))
+                        if uri:
+                            annotations += 1
+                            self.check(not local_host(uri), "PDF annotations",
+                                       f"Localhost annotation in {path.name}, page {number}: {uri}")
+            body = normalized(" ".join(texts))
+            self.check(bool(body), "generated PDF", f"PDF has no extractable text: {path.name}")
+            opening = normalized(" ".join(texts[:3]))
+            self.check("access" in opening and "skills for success" in opening, "book identity",
+                       f"Missing ACCESS / Skills for Success identity near the start of {path.name}")
+            spec = self.book_specs.get(stem, {})
+            if spec:
+                self.check(normalized(spec["title"]) in opening, "book identity",
+                           f"Declared title is absent near the start of {path.name}")
+            for _, _, skill in SKILLS:
+                self.check(re.search(rf"\b{re.escape(normalized(skill))}\b", body), "book chapters",
+                           f"Missing {skill} text in {path.name}")
+            self.artifacts[path.name] = {"bytes": path.stat().st_size, "pages": len(reader.pages), "URI_annotations": annotations}
+
+    def run(self) -> dict:
+        for operation in (self.verify_inventory, self.verify_activities, self.verify_manifest, self.verify_markdown,
+                          self.verify_html, self.verify_pdfs):
+            try:
+                operation()
+            except Exception as error:
+                self.errors.append(f"{operation.__name__}: {type(error).__name__}: {error}")
+        return {
+            "status": "failed" if self.errors else "passed",
+            "checked_at_utc": datetime.now(timezone.utc).isoformat(),
+            "root": str(self.root),
+            "require_generated": self.require_generated,
+            "checks": dict(sorted(self.counts.items())),
+            "artifacts": self.artifacts,
+            "errors": self.errors,
+            "notes": self.notes,
+            "limits": "Offline structural verification; external URLs, instructional correctness, cultural context and visual layout require separate review.",
+        }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", type=Path, default=ROOT, help="Skills for Success source directory")
+    parser.add_argument("--require-generated", action="store_true", help="Require both full books and standalone chapter HTML")
+    parser.add_argument("--report", type=Path, help="Also save the JSON result at this path")
+    args = parser.parse_args()
+    result = Verifier(args.root, args.require_generated).run()
+    output = json.dumps(result, indent=2, ensure_ascii=False)
+    if args.report:
+        args.report.parent.mkdir(parents=True, exist_ok=True)
+        args.report.write_text(output + "\n", encoding="utf-8")
+    print(output)
+    return 1 if result["errors"] else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

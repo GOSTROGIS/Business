@@ -1,5 +1,7 @@
 # ACCESS | Asphalt curriculum
 
+The [complete ACCESS IS4S nine-skills textbook and practitioner guide](../skills-for-success/README.md) now provide extended foundation instruction, 174 activities with answers and a full reworking of the supplied 148-page Skills for Success guide. Use them alongside this trade-specific A1 unit.
+
 **First unit · Teaching draft · 23 October 2026**
 
 Start with the paving industry. Read a useful document, explain an equipment role, check a number and work through a change with a partner.

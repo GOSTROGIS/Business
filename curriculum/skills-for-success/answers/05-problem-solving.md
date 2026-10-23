@@ -1,0 +1,77 @@
+# Answer guidance • Problem solving
+
+Observe the reasoning process as well as the result. Accept a different feasible choice when the learner explains the criteria and evidence. Do not accept an unsupported claim merely because its final recommendation matches the model. All costs, times and records are fictional.
+
+## PS-01
+
+A bounded statement identifies ten learners needing individual 25-minute digital turns, three available devices, different departure limits and the extra budget. Example: “We need a feasible classroom arrangement so all ten learners can complete their own digital turn within their availability and the $50 extra limit after two devices become unavailable.” “The group is too large” assumes changing enrolment is the solution and omits the actual outcome and constraints.
+
+## PS-02
+
+Required: genuine individual turn, no more than $50 extra spending, and completion within each person's availability. Preferred: everybody finishes by 10:00. Device familiarity is not stated as mandatory; access and usability must be checked rather than assumed. A respectful question is “Would this proposed time and device setup work for you, or is there an adjustment we need to arrange?” No personal explanation should be required.
+
+## PS-03
+
+Learners need usable access and a genuine turn; the instructor organizes and observes learning; the office confirms/reserves loans and spending arrangements; the technician handles unavailable equipment. Accept coordinator responsibility where it is clearly distinguished from the learner's proposal. Learners can identify access needs, check schedules and contribute ideas without authorizing expenditure or repairing devices.
+
+## PS-04
+
+Provided facts include three working devices, ten learners, 25-minute turns, 5-minute group changes, three departures at 10:00, remaining availability until 11:00, loan cost 40 and deadline 08:30. Possible real-delivery checks include compatibility/access settings, pickup/delivery, current reservation and who authorizes payment. A device's colour is normally irrelevant unless the learner offers a genuine identification/access reason. The checklist should not overwrite supplied facts with guesses.
+
+## PS-05
+
+Questions should specify purpose and recipient. Examples: “To restore the five-device schedule, can the office confirm both compatible loan devices by 08:30 for the stated $40 total?” “Does the proposed first-group time work for your available time?” “What must each learner demonstrate during the five-minute save/reopen check?” If a partner cannot answer from the brief, the learner should mark it unresolved and identify a confirmation route.
+
+## PS-06
+
+The two records conflict on availability, which changes whether a later plan includes everyone. A sound response records both statements, asks the coordinator to confirm the current availability without demanding private explanations, and temporarily preserves the brief's three early departures. Do not choose the sticky note just because it makes the preferred schedule easier. The classroom calculations continue with three early departures as instructed.
+
+## PS-07
+
+Possible contributors include near-identical file names, an older file left open, search results that made the wrong version easy to select, and the absence of a displayed version example. Each needs its evidence and limit. The record does not establish every correction's cause. A respectful check could observe which version learners select using dummy files and ask what made the intended file clear or unclear, without collecting names unnecessarily.
+
+## PS-08
+
+The map should distinguish observations from hypotheses. Example test: provide a clearly named current-file folder and ask learners to find the specified version; record successful selections and questions. Fewer wrong selections would support usability, but other changes and small samples limit causal conclusions. If learners still select the old version, investigate search routes, open files or instructions rather than declaring the test a personal failure.
+
+## PS-09
+
+The colleague's statement confuses an observed improvement with proof of cause and labels prior behaviour without evidence. A supported alternative is “Fewer reviewed sets needed correction in the sessions using the revised arrangement.” A useful question is “Which part of the revised arrangement helped learners identify the current version?” The learner should identify a specific revised assumption, not simply report agreement with the partner.
+
+## PS-10
+
+Examples of distinct routes: separate current and archived files; display a version-check example; add a pre-print check; provide an accessible written/audio instruction. Each should include a mechanism, effort and check. Three stronger verbal reminders are not meaningfully different routes. The partner contribution must be identified and considered, even if not chosen.
+
+## PS-11
+
+Loan plan: 5 devices, 2 groups, `25+5+25=55 min`, cost $40, can finish 09:55 and meet all mandatory criteria. Extended plan: 3 devices, 4 groups, `4×25+3×5=115 min`, cost $0, can finish 10:55 if early departures receive earlier turns. Later room: cost $60 exceeds $50; 10:00 start excludes three learners. Paper-only: does not provide actual Digital evidence. Either feasible route can be justified by the priority given to time or spending. Requirements cannot be traded away with an unexplained score.
+
+## PS-12
+
+For loans, drawbacks include extra cost, reservation deadline and reliance on availability. For extension, drawbacks include longer waiting and later finish for some learners. A suitable challenge could ask whether required access settings are confirmed or whether the longer schedule remains usable. Accept a revised choice when the learner explains the new evidence. Assess reasoned response, not winning an argument.
+
+## PS-13
+
+A loan plan should identify confirmation before 08:30, classroom setup/check, group assignment and observed individual turns. A possible schedule is Group 1 09:00–09:25, reset 09:25–09:30, Group 2 09:30–09:55. Put the three early-departure learners in either group where available. An extended plan uses four groups and places those learners in an early group. The office/coordinator authorizes/reserves; the learner supplies a proposal. Every plan needs an evidence check and a fallback/confirmation point.
+
+## PS-14
+
+A valid fallback is groups 3, 3, 3, 1 at 09:00–09:25, 09:30–09:55, 10:00–10:25 and 10:30–10:55. Place all three early-departure learners in the first group, or otherwise ensure completion before 10:00. Extra cost is $0 under the provided facts. Explain the later finish, waiting arrangements and need to reconfirm usable access in real delivery. Paper planning during waiting does not replace any person's 25-minute device turn.
+
+## PS-15
+
+The immediate decision is what can appear in tomorrow's display. The approved diagram and fictional information are available; permission for a particular story/photo is absent. Feasible routes include using the approved material now and considering a later separately directed contribution, or postponing a proposed addition until the appropriate permission and scope are established. A personal connection and an approaching deadline do not supply permission. A recommendation should retain an inviting useful display while making no claim to speak for a Nation or community.
+
+## PS-16
+
+Possible checks: all 10 control a device; each completes the save/reopen task with support recorded; departure needs respected; actual cost≤$50. Attendance 10/10 is met, observed completed individual task 9/10 is not enough for full completion, cost $40 is within budget and availability is respected. Arrange the remaining learner's individual turn and record Digital evidence only after it occurs. Do not call the whole plan a failure without recognizing met criteria, or a complete success while ignoring the missing turn.
+
+## PS-17
+
+Before: 9 corrections/30 sets=30%. After: 1/20=5%. Difference 25 percentage points. A supported interpretation describes a lower recorded proportion after the revised arrangement and notes that the sessions/groups were not controlled or necessarily comparable. A useful feedback question asks whether file labels and the version card were clear and accessible. A next observation might record version-selection routes in another class, alongside correction counts. Do not attribute the difference solely to the folder or generalize it to every learner.
+
+## PS-18
+
+Look for all six steps and a labelled original practice document. A two-time notice needs confirmation of the authorized current time before travel advice is given; an unquantified supply item needs its quantity/specification before ordering. Alternatives could include holding the uncertain part while completing confirmed work, asking the responsible contact, or issuing a clearly marked correction after confirmation. The evaluation should specify how the corrected information will be checked. A personal reflection needs an example of reasoning, and proposed workplace transfer remains a plan until observed.
+
+**Source:** SkillPlan, revised March 2024, [Problem Solving pp.78–84](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=78). Answer models and case records are original classroom material.

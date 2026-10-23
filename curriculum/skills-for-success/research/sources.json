@@ -1,0 +1,623 @@
+{
+  "schema_version": 1,
+  "title": "ACCESS IS4S curriculum research source ledger",
+  "research_date": "2026-10-23",
+  "scope": "Current official federal sources and BC Indigenous adult-learning context for original learner and practitioner materials.",
+  "method": "Direct official-page retrieval plus site searches and attempted general search. This is a curated evidence snapshot, not an exhaustive systematic review.",
+  "portability": "All supplied-file paths are relative to this research directory. No full scraped text, private workspace paths or third-party research PDFs are included.",
+  "verification_status_meanings": {
+    "content_retrieved_and_read": "The stated content or sections were retrieved and examined; this is not a claim that every link or entire linked course was reviewed.",
+    "retrieved_selective_inspection_only": "File retrieved and selectively inspected; only the limited claims stated here are supported.",
+    "not_verified_blocked": "Content not accessed; no substantive claim supported.",
+    "directory_listing_verified_report_not_read": "Listing and description read, underlying report not read."
+  },
+  "sources": [
+    {
+      "id": "douglas-is4s",
+      "title": "Indigenous Skills for Success Journey, Planting the Seeds for Growth",
+      "publisher": "Douglas College",
+      "requested_url": "https://www.douglascollege.ca/programs-courses/training-group/indigenous-skills-for-success",
+      "final_url": "https://www.douglascollege.ca/programs-and-courses/workplace-skills/skills-success/skills-success-practitioner-training/indigenous-skills-success-journey-planting-seeds-growth",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:49:12.267298+00:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 676704,
+      "sha256": "ea1492b10ca5a317c25a3a255b4afabd1b2e88d25665cddaeca45e54e7b6978c",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "A train-the-trainer resource introduces Canada’s Skills for Success model from an Indigenous perspective for community, education, career and workplace practitioners.",
+        "The live landing page links a facilitator guide, participant workbook, course materials, and nine skill-specific learning tools.",
+        "Credit toward the Douglas practitioner program is conditional on taking the course with a certified instructor."
+      ],
+      "claim_locator": "What is the course about?; Who is the course for?; Free Downloads Of",
+      "limits": [
+        "No claim our ACCESS materials are this course, qualify for its credit, or are endorsed by Douglas.",
+        "Linked videos, interactive course and approved facilitator list were not independently reviewed."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "douglas-is4s-facilitator",
+      "title": "Indigenous Skills for Success Journey: Planting the Seeds for Growth — Facilitation Guide",
+      "publisher": "Douglas College",
+      "requested_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/indigenous-skills-for-success-journey-facilitator-guide_.pdf",
+      "final_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/indigenous-skills-for-success-journey-facilitator-guide_.pdf",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:49:22.559590+00:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1114016,
+      "sha256": "a6fad3e759383b8165cf4d752117d266d379c9c56ae545617d6a0e6741a9a8c0",
+      "pdf_pages": 48,
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Printed pp4–5 acknowledge project partners and Indigenous advisory contributions; p4 names Carlene Quock of ACCESS on the advisory committee.",
+        "Printed p6 dedicates the course to John Webster, former CEO of ACCESS, and describes authentic Indigenous experiences as a basis for the course.",
+        "Printed pp7–10 identify practitioner audiences, individual journeys, reflection on participants’ contexts and values, and online/in-person/hybrid delivery.",
+        "Printed p9 describes the learning tools as definitions, video, reflection, practice activities and skills-coach review."
+      ],
+      "claim_locator": "Printed pp1,4–10; PDF pp2,5–11",
+      "limits": [
+        "Claims are about the Douglas course and its credited contributors, not approval of this ACCESS draft.",
+        "Reviewed front matter and selected delivery sections, not all 48 pages.",
+        "Do not reuse its Indigenous stories, artwork, framework imagery, worksheets or activity sequences as our own."
+      ],
+      "rights_observation": "Printed p1 / PDF p2: CC BY-NC-ND 4.0, attribution required, noncommercial unadapted distribution only; adaptation requests go to Douglas. The guide also discusses adapting delivery, but this does not remove its explicit no-derivatives licence. Link for further study; do not bundle or adapt into this edition."
+    },
+    {
+      "id": "douglas-indigenous",
+      "title": "Indigenous Student Services",
+      "publisher": "Douglas College",
+      "requested_url": "https://www.douglascollege.ca/student-services/indigenous-student-services",
+      "final_url": "https://www.douglascollege.ca/student-services/indigenous-student-services",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:44:55.628847-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 510702,
+      "sha256": "c22b834a2d9da1a7a242092aedc28a0a4bc98eb6ce861cbae0a509869f55725c",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Supports self-identifying Indigenous students as self-directed independent learners; welcomes mature, new, returning, full-time and part-time students.",
+        "Lists individualized funding, community-referral, housing/childcare and academic supports; describes confidential voluntary self-identification.",
+        "Distinguishes Elders’ cultural/spiritual guidance from mental-health counselling."
+      ],
+      "claim_locator": "Indigenous Student Services; Services we provide; Self-identification",
+      "limits": [
+        "Institutional services, eligibility and confidentiality statements apply to Douglas; do not promise them as ACCESS services.",
+        "Listed cultural activities are examples at Douglas, not directions for generic classroom ceremonies."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "bcit-guides",
+      "title": "Indigenous Guides",
+      "publisher": "British Columbia Institute of Technology",
+      "requested_url": "https://www.bcit.ca/indigenous-initiatives/resources/indigenous-guides/",
+      "final_url": "https://www.bcit.ca/indigenous-initiatives/resources/indigenous-guides/",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:45:44.571633-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72323,
+      "sha256": "0e4ff08ff7bf2d7c7674ebbe068373feeff6b29cb0c9ca58549380df2b7d8cc2",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Identifies BCcampus’ Indigenization Professional Learning Series as a collaboration with the BC ministry.",
+        "States steering committee included Indigenous post-secondary leaders, FNESC, IAHLA and Métis Nation BC; guides authored by Indigenous and ally teams.",
+        "Links separate Pulling Together guides for foundations, teachers/instructors, frontline workers, leaders/administrators and curriculum developers."
+      ],
+      "claim_locator": "BCcampus’ Indigenization Professional Learning Series",
+      "limits": [
+        "Verifies provenance and the existence of linked resources; contents and licences of the linked BCcampus books were not retrieved.",
+        "Does not establish FNESC, IAHLA or Métis Nation BC endorsement of our draft."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "bcit-protocol-welcome",
+      "title": "Protocol Welcome",
+      "publisher": "British Columbia Institute of Technology",
+      "requested_url": "https://www.bcit.ca/indigenous-initiatives/resources/land-acknowledgement-protocol-welcome/protocol-welcome/",
+      "final_url": "https://www.bcit.ca/indigenous-initiatives/resources/land-acknowledgement-protocol-welcome/protocol-welcome/",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:45:44.572781-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 120110,
+      "sha256": "e4911e421b81c982ce213f098919e0cbb812b7ebf4162d121a142dff19d8fcf6",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Distinguishes a host-Nation protocol welcome from a general acknowledgement; says the welcome can be offered only by a member of the First Nation whose territory hosts the event.",
+        "Explicitly states that not every Indigenous culture shares the same protocols or practices."
+      ],
+      "claim_locator": "Protocol Welcome",
+      "limits": [
+        "BCIT institutional guidance is a source for respecting local authority; ACCESS must establish its own relationships and arrangements.",
+        "Do not transfer BCIT honorarium amounts, booking times or gift suggestions into universal requirements."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "bcit-land-ack",
+      "title": "Land Acknowledgement",
+      "publisher": "British Columbia Institute of Technology",
+      "requested_url": "https://www.bcit.ca/indigenous-initiatives/resources/land-acknowledgement-protocol-welcome/land-acknowledgement/",
+      "final_url": "https://www.bcit.ca/indigenous-initiatives/resources/land-acknowledgement-protocol-welcome/land-acknowledgement/",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:46:14.059499-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 75654,
+      "sha256": "bb5e1c99aa586e773ec0e07829a737ad4ed86de31521d9c1602bae5f8d710ba9",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Describes acknowledgement as recognizing historical and ongoing presence and relationships to land.",
+        "Distinguishes acknowledgement from protocol welcome and encourages personal learning and action."
+      ],
+      "claim_locator": "Land Acknowledgement",
+      "limits": [
+        "BCIT campus territory statements are location-specific; do not copy into ACCESS curriculum without confirming the location and local guidance."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "bcit-modules",
+      "title": "Indigenous Modules",
+      "publisher": "British Columbia Institute of Technology",
+      "requested_url": "https://www.bcit.ca/indigenous-initiatives/resources/indigenous-modules/",
+      "final_url": "https://www.bcit.ca/indigenous-initiatives/resources/indigenous-modules/",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:45:44.573549-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 72633,
+      "sha256": "4fd25ac8296c3a0b33eb0e98cd3391fe07e4cdeecce01fd96799ccd2cd686551",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Lists an Indigenous Awareness course with modules on Indigenous Peoples, Colonization and Decolonization, with external access through BCIT Free Online Learning."
+      ],
+      "claim_locator": "Indigenous Modules",
+      "limits": [
+        "Course landing/registration and full course content were not retrieved; availability and any terms require checking before enrolment."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "jibc-practice",
+      "title": "Indigenization",
+      "publisher": "Justice Institute of British Columbia",
+      "requested_url": "https://www.jibc.ca/office-indigenization/indigenization",
+      "final_url": "https://www.jibc.ca/office-indigenization/indigenization",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:45:44.574371-07:00",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 39015,
+      "sha256": "1d695cd93c5bfc702974a0c7629bc8668e88933c429f358454bf560a4456e482",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Connects respect for cultures, languages and protocols with understanding historical, social and economic conditions.",
+        "Describes institutional responsibility across curriculum, policies, services and community partnerships."
+      ],
+      "claim_locator": "Indigenization",
+      "limits": [
+        "JIBC policy and public-safety context are not ACCESS policy."
+      ],
+      "rights_observation": "No open licence verified; cite and link, do not assume reproduction permission."
+    },
+    {
+      "id": "jibc-engagement",
+      "title": "Living Indigenization: Engagement Protocols & Guidelines",
+      "publisher": "Justice Institute of British Columbia; content credited to Heather Saranczak and Jason La Rochelle",
+      "requested_url": "https://www.jibc.ca/sites/default/files/2025-01/Engagement_Protocols_and_Guidelines-Online-FINAL.pdf",
+      "final_url": "https://www.jibc.ca/sites/default/files/2025-01/Engagement_Protocols_and_Guidelines-Online-FINAL.pdf",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T14:46:14.058917-07:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 22228008,
+      "sha256": "0706e2b3dd54881fc7c6142822e3065dc7c703d38b561ca3fe18f08bf665028b",
+      "verification_status": "content_retrieved_and_read",
+      "claims": [
+        "Printed pp12–15 emphasize dignity, agency, self-determination and context-specific engagement, including whether and how a community wishes to engage.",
+        "Printed p15 distinguishes First Nations, Inuit and Métis and explicitly considers migration and urbanization; there is no single way to be Indigenous.",
+        "Printed pp16–17 emphasize sustained relationships, reciprocity and respectful contribution."
+      ],
+      "claim_locator": "Printed pp3,12–17 / PDF pp2,7–9",
+      "limits": [
+        "Institutional guidance, not a universal statement of every Nation’s protocols.",
+        "PDF has 13 pages with facing-page spreads; printed numbers differ from PDF positions.",
+        "Do not use demographic statistics from this source; no statistics were checked.",
+        "No Indigenous cultural review or community consent for this draft is implied."
+      ],
+      "rights_observation": "Printed p3 / PDF p2: ©2025 JIBC, all rights reserved; personal copying only, further reproduction/adaptation requires permission. Research copy remains in scratch evidence only; do not include PDF or artwork in deliverables."
+    },
+    {
+      "id": "douglas-is4s-workbook",
+      "title": "Indigenous Skills for Success Journey: Participant Workbook",
+      "publisher": "Douglas College",
+      "requested_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/indigenous-skills-for-success-journey-participant-workbook_.pdf",
+      "final_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/indigenous-skills-for-success-journey-participant-workbook_.pdf",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:49:23.338187+00:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 11047247,
+      "sha256": "9565b7cc8095edb9d97d2bf3b415cd41890efd49b68d137274a7f636ca8c35ef",
+      "pdf_pages": 119,
+      "verification_status": "retrieved_selective_inspection_only",
+      "claims": [
+        "Linked publicly from the verified Douglas course page; downloaded successfully."
+      ],
+      "limits": [
+        "No comprehensive content review; do not attribute findings from the facilitator guide to this entire resource.",
+        "Do not adapt/reprint on assumption of a different licence."
+      ],
+      "rights_observation": "Related facilitator guide explicitly CC BY-NC-ND; no broader permission established."
+    },
+    {
+      "id": "douglas-is4s-tools",
+      "title": "Indigenous Skills for Success Journey: Learning Tools",
+      "publisher": "Douglas College",
+      "requested_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/learning-tools.pdf",
+      "final_url": "https://www.douglascollege.ca/sites/default/files/docs/training-group/learning-tools.pdf",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:49:25.424286+00:00",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 9557607,
+      "sha256": "dbc58cefaab05ff01ebc1ddb9e80c42b16e69bb0a789dbf2361af40d89171096",
+      "pdf_pages": 66,
+      "verification_status": "retrieved_selective_inspection_only",
+      "claims": [
+        "Linked publicly from the verified Douglas course page; downloaded successfully."
+      ],
+      "limits": [
+        "No comprehensive content review; do not attribute findings from the facilitator guide to this entire resource.",
+        "Do not adapt/reprint on assumption of a different licence."
+      ],
+      "rights_observation": "Related facilitator guide explicitly CC BY-NC-ND; no broader permission established."
+    },
+    {
+      "title": "Skills for Success - Canada.ca",
+      "requested_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html",
+      "final_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success.html",
+      "status": 200,
+      "sha256": "47dc179cabcf5104b6d66e5d0b4a441bf5a976762686a039d427dbfa3543c311",
+      "id": "canada-skills-success",
+      "publisher": "Employment and Social Development Canada, Government of Canada",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:47:52.953031+00:00",
+      "verification_status": "content_retrieved_and_read",
+      "rights_observation": "Official live webpage used through attributed summary and links; linked third-party materials retain their own terms. No scraped page content is distributed in this ledger.",
+      "claim_locator": "Main introduction, resources links, video transcript and page details",
+      "claims": [
+        "Describes Skills for Success as foundational and transferable skills for employment.",
+        "The transcript names the nine skills, and the page links training, assessment, research and component/proficiency resources."
+      ],
+      "limits": [
+        "This is the official introductory page, not an individual assessment or validation of the ACCESS materials.",
+        "Its resource links do not mean every linked publication was read."
+      ],
+      "page_date_observed": "2026-01-21"
+    },
+    {
+      "title": "Skill components and proficiency levels - Canada.ca",
+      "requested_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/learning-steps.html",
+      "final_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/learning-steps.html",
+      "status": 200,
+      "sha256": "0531b3b83349a955e25ca809afe1e9808e90fe332d12ed0ed5270b66ddf1ed21",
+      "id": "learning-steps",
+      "publisher": "Employment and Social Development Canada, Government of Canada",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:48:05.344573+00:00",
+      "verification_status": "content_retrieved_and_read",
+      "rights_observation": "Official live webpage used through attributed summary and links; linked third-party materials retain their own terms. No scraped page content is distributed in this ledger.",
+      "claim_locator": "Page introduction; skill-specific component and proficiency sections",
+      "claims": [
+        "Provides skill definitions, components and proficiency descriptions for all nine Skills for Success.",
+        "Says organizations can adapt the resources for curricula, training and assessment, and that the Skills for Success Program will refine proficiency levels over time.",
+        "Links a separate Skills for Success Proficiency Levels Development research report."
+      ],
+      "limits": [
+        "The linked SRDC report was not independently retrieved or read.",
+        "The page is a current online source snapshot; it does not validate the local classroom feedback statuses or turn the original activities into a standardized assessment.",
+        "Source component labels reproduced in the books are attributed to the supplied March 2024 SkillPlan guide; small wording differences from the current federal page should not be silently erased."
+      ]
+    },
+    {
+      "title": "Research Reports - Canada.ca",
+      "requested_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/research-reports.html",
+      "final_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/research-reports.html",
+      "status": 200,
+      "sha256": "108c41999573b1236be8f46297e5c45888ea8bac9e9b38364984114732fe6b02",
+      "id": "research-reports",
+      "publisher": "Employment and Social Development Canada, Government of Canada",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:48:05.345567+00:00",
+      "verification_status": "content_retrieved_and_read",
+      "rights_observation": "Official live webpage used through attributed summary and links; linked third-party materials retain their own terms. No scraped page content is distributed in this ledger.",
+      "claim_locator": "2024, 2023, 2022 and 2021 directory sections; page details",
+      "claims": [
+        "Lists Skills for Success Proficiency Levels Development (2024), attributed to SRDC, and says the study produced resources for further development of proficiency descriptors.",
+        "Lists a 2023 implementation-guidance item, a 2022 Indigenous foundational/transferable-skills item attributed to Northern Policy Analytics, and the 2021 SRDC launch report."
+      ],
+      "limits": [
+        "These are verified directory listings and descriptions, not independently read research findings.",
+        "The 2024 report and descriptor tables were not retrieved; no claim about their full contents or a replacement validated proficiency scale is made.",
+        "The directory label and destination link for the 2023 implementation-guidance item should be checked before use; the retrieved destination path names a launch report. Do not silently treat the directory title as verified report metadata.",
+        "Do not merge the directory’s 2023 label with SkillPlan’s 2022 bibliography entry without checking the underlying publication."
+      ],
+      "page_date_observed": "2026-04-14"
+    },
+    {
+      "title": "Skills for Success – Assessment and training tools - Canada.ca",
+      "requested_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/tools.html?category=&type=Training",
+      "final_url": "https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/tools.html?category=&type=Training",
+      "status": 200,
+      "sha256": "2e8bdb258d53f63b209d2a6ab4f96f0ae15b214bee8af48437fa894e45156a73",
+      "id": "skills-tools",
+      "publisher": "Employment and Social Development Canada, Government of Canada",
+      "access_date": "2026-10-23",
+      "accessed_at": "2026-10-23T21:48:05.347364+00:00",
+      "verification_status": "content_retrieved_and_read",
+      "rights_observation": "Official live webpage used through attributed summary and links; linked third-party materials retain their own terms. No scraped page content is distributed in this ledger.",
+      "claim_locator": "Introduction and disclaimer; Indigenous Skills for Success Journey course and learning-tools entries",
+      "claims": [
+        "Lists assessment and training tools from government and external organizations, with audience, skill, delivery and cost information.",
+        "Lists Douglas College’s Indigenous Skills for Success Journey course and learning tools, leading to the directly retrieved Douglas resources in this ledger.",
+        "Explicitly states the government does not endorse third-party websites or guarantee their content."
+      ],
+      "limits": [
+        "Directory inclusion is not government endorsement of a tool or this ACCESS edition.",
+        "Costs, availability, licences, certification and suitability must be checked on the actual provider’s current resource.",
+        "The URL has a Training query parameter, but the extracted page includes the directory data; no claim is made that every entry was individually inspected."
+      ]
+    }
+  ],
+  "supplied_sources": [
+    {
+      "id": "skillplan-march2024",
+      "title": "Skills for Success Get Started Guide for Practitioners",
+      "publisher": "SkillPlan",
+      "edition": "Revised March 2024",
+      "verification_status": "supplied_pdf_read",
+      "locator": "148-page user-supplied guide; printed and PDF page numbers agree",
+      "claims_and_pages": {
+        "learner_centred_and_culturally_responsive": "pp24–25",
+        "recommended_Pulling_Together_lead": "p30; reference only, linked book not independently read",
+        "explicit_social_emotional_teaching": "pp40–42",
+        "communication_difference": "pp86–87",
+        "collaboration_and_diversity": "pp93–95",
+        "feedback_and_growth": "p100",
+        "professional_development_and_bibliography": "pp136–148"
+      },
+      "authorship_note": "SkillPlan is the author/publisher; Government of Canada is identified as funder, not author.",
+      "rights_note": "User-supplied source. No open licence identified; the new teaching prose and scenarios are independently authored and source claims are attributed. No new third-party research PDFs are included.",
+      "relative_path": "../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf",
+      "sha256": "32dad4699b1ef1ab281ad4bdf95bef310048741703fc401094c57f6c62e33caf",
+      "coverage_index": "source-coverage.md",
+      "bibliography_status": "The guide’s bibliography is indexed separately; its entries are not represented as independently read publications."
+    }
+  ],
+  "design_sources": [
+    {
+      "id": "numeracy-hub-design",
+      "title": "ACCESS Numeracy Hub — observed design implementation",
+      "publisher": "GOSTROGIS/access-trades-numeracy repository",
+      "commit": "7c0ceaab485e36aa45c596ac58e43bba63e4f824",
+      "verification_status": "cloned_source_inspected",
+      "access_date": "2026-10-23",
+      "url": "https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/numeracy-hub/index.html#L9",
+      "brand_notes_url": "https://github.com/GOSTROGIS/access-trades-numeracy/blob/7c0ceaab485e36aa45c596ac58e43bba63e4f824/brand/BRAND.md",
+      "claims": [
+        "Observed hub CSS uses background #F7F4F1, ink #1A1512, red #D2181F and gold #FFBC00.",
+        "Observed font tokens name Archivo, IBM Plex Sans and IBM Plex Mono."
+      ],
+      "limits": [
+        "The repository supplies the user-requested design direction, not proof of institution-wide brand approval or a universal Indigenous design style.",
+        "Brand notes call the type pairing recommended rather than confirmed by ACCESS.",
+        "No new Nation-specific artwork, cultural pattern or third-party guide artwork is licensed through this source."
+      ],
+      "assets_readme_check": "The four colours and font families in ../assets/README.md match the observed hub implementation."
+    }
+  ],
+  "research_leads_not_independently_read": [
+    {
+      "title": "Skills for Success Proficiency Levels Development (2024)",
+      "publisher": "Social Research and Demonstration Corporation",
+      "url": "https://www.srdc.org/project/skills-for-success-proficiency-levels-development/",
+      "verified_via": [
+        "research-reports",
+        "learning-steps"
+      ],
+      "status": "directory_listing_verified_report_not_read",
+      "limit": "Do not attribute findings, complete descriptor changes or validation status to this unread report."
+    },
+    {
+      "title": "The Foundational and Transferable Skills of Indigenous People (2022)",
+      "publisher": "Northern Policy Analytics",
+      "url": "https://www.northernpolicyanalytics.com/our-publications",
+      "verified_via": [
+        "research-reports"
+      ],
+      "status": "directory_listing_verified_report_not_read",
+      "limit": "The directory description is the only reviewed content; no findings from the report are claimed."
+    },
+    {
+      "title": "Pulling Together: A Guide for Indigenization of Post-Secondary Institutions — curriculum developers",
+      "publisher": "BCcampus",
+      "url": "https://opentextbc.ca/indigenizationcurriculumdevelopers/",
+      "verified_via": [
+        "bcit-guides",
+        "skillplan-march2024"
+      ],
+      "status": "provenance_and_reference_verified_book_blocked",
+      "limit": "Linked book content and licence not verified; no FPPL alignment or endorsement inferred."
+    }
+  ],
+  "search_log": [
+    {
+      "id": "search-fppl",
+      "requested_url": "https://www.google.com/search?q=FNESC+First+Peoples+Principles+of+Learning+adult+Indigenous+BC",
+      "accessed_at": "2026-10-23T14:43:16.893311-07:00",
+      "status": "blocked_or_failed",
+      "interpretation": "Proxy CONNECT403; request attempted, no results or snippets retrieved.",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "search-bing",
+      "requested_url": "https://www.bing.com/search?q=site%3Afnesc.ca+First+Peoples+Principles+of+Learning",
+      "accessed_at": "2026-10-23T14:44:00.464310-07:00",
+      "status": "blocked_or_failed",
+      "interpretation": "Proxy CONNECT403; request attempted, no results or snippets retrieved.",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "search-ddg",
+      "requested_url": "https://html.duckduckgo.com/html/?q=Indigenous+Adult+Higher+Learning+Association+BC+IAHLA",
+      "accessed_at": "2026-10-23T14:44:00.465282-07:00",
+      "status": "blocked_or_failed",
+      "interpretation": "Proxy CONNECT403; request attempted, no results or snippets retrieved.",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "bcit-guide-search",
+      "requested_url": "https://libguides.bcit.ca/srch.php?q=First+Peoples+Principles+of+Learning",
+      "final_url": "https://libguides.bcit.ca/srch.php?q=First+Peoples+Principles+of+Learning",
+      "accessed_at": "2026-10-23T14:44:55.622829-07:00",
+      "status": 200,
+      "sha256": "0fdaa8db590e6c51cd66f1c4e022cd3eb5e04c38dd6e9b8b2df8d73875e3cac1",
+      "interpretation": "HTTP200 search landing rendered Loading; no actual result text available."
+    },
+    {
+      "id": "bcit-search-indigenous",
+      "requested_url": "https://www.bcit.ca/?s=Indigenous+education",
+      "final_url": "https://www.bcit.ca/?s=Indigenous+education",
+      "accessed_at": "2026-10-23T21:49:14.463178+00:00",
+      "status": 200,
+      "sha256": "734ba91780583af71bd302c540518c77eaaacf36bcf62362a30c20803e69faf4",
+      "interpretation": "HTTP200 delivered JavaScript/robot challenge, not search results; no attempt to solve or bypass challenge."
+    },
+    {
+      "id": "jibc-search",
+      "requested_url": "https://www.jibc.ca/search?search=indigenization",
+      "final_url": "https://www.jibc.ca/search?search=indigenization",
+      "accessed_at": "2026-10-23T14:44:55.627608-07:00",
+      "status": 200,
+      "sha256": "7f3dd645dfaab26fc3958ac99d6c9f25b9f36a672fcf6d0d83b6119587da3b86",
+      "interpretation": "Initial generic search URL did not yield targeted query results; superseded by inspected /advanced-search form."
+    },
+    {
+      "id": "jibc-search-fppl",
+      "requested_url": "https://www.jibc.ca/advanced-search?search=First+Peoples+Principles",
+      "final_url": "https://www.jibc.ca/advanced-search?search=First+Peoples+Principles",
+      "accessed_at": "2026-10-23T14:46:59.933503-07:00",
+      "status": 200,
+      "sha256": "9948a59b92a8fff44ca98d93cdef0ff5a6cb4c164da3fe309c60a370a063d853",
+      "interpretation": "Actual official advanced-search results retrieved; 351 broad results including Indigenization and Rights of Indigenous Peoples. No First Peoples Principles of Learning text verified."
+    },
+    {
+      "id": "douglas-search",
+      "requested_url": "https://www.douglascollege.ca/search?search=indigenous+learning",
+      "final_url": "https://www.douglascollege.ca/search/site",
+      "accessed_at": "2026-10-23T14:44:55.625423-07:00",
+      "status": 200,
+      "sha256": "3b4f9c8d7c027000200adfc033de8196f3cb30337890f96b14781712e3c704cc",
+      "interpretation": "Initial query field was wrong; redirected to untargeted search landing. Superseded by inspected keys field."
+    },
+    {
+      "id": "douglas-search-fppl",
+      "requested_url": "https://www.douglascollege.ca/search/site?keys=First+Peoples+Principles",
+      "final_url": "https://www.douglascollege.ca/search/site?keys=First+Peoples+Principles",
+      "accessed_at": "2026-10-23T14:46:59.934651-07:00",
+      "status": 200,
+      "sha256": "1d6886f1414954b7673e7f42b25fb699dd6f40756b146f3f0729da2e61b1d26e",
+      "interpretation": "Query accepted in title, Google CSE client-rendered results unavailable; no result snippets verified."
+    },
+    {
+      "id": "douglas-search-iahla",
+      "requested_url": "https://www.douglascollege.ca/search/site?keys=Indigenous+Adult+Higher+Learning",
+      "final_url": "https://www.douglascollege.ca/search/site?keys=Indigenous+Adult+Higher+Learning",
+      "accessed_at": "2026-10-23T14:46:59.935259-07:00",
+      "status": 200,
+      "sha256": "fd17f5c2da41610bd63bc6d6c1a2befc346d6a12ac5d063d5f5b32bd44918214",
+      "interpretation": "Query accepted in title, Google CSE client-rendered results unavailable; no result snippets verified."
+    },
+    {
+      "id": "bcit-site-search",
+      "requested_url": "https://www.bcit.ca/?s=First+Peoples+Principles+of+Learning",
+      "accessed_at": "2026-10-23T14:44:55.624441-07:00",
+      "status": "blocked_or_failed",
+      "error": "HTTP Error 503: Service Unavailable",
+      "interpretation": "HTTP 503; query attempted, no search results retrieved."
+    }
+  ],
+  "blocked_primary_sources": [
+    {
+      "id": "fnesc",
+      "requested_url": "https://www.fnesc.ca/",
+      "accessed_at": "2026-10-23T14:43:16.892801-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    },
+    {
+      "id": "fnesc-fppl",
+      "requested_url": "https://www.fnesc.ca/first-peoples-principles-of-learning/",
+      "accessed_at": "2026-10-23T14:43:16.891563-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    },
+    {
+      "id": "iahla",
+      "requested_url": "https://iahla.ca/",
+      "accessed_at": "2026-10-23T14:43:16.890400-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    },
+    {
+      "id": "access",
+      "requested_url": "https://accessfutures.com/",
+      "accessed_at": "2026-10-23T14:43:16.891035-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    },
+    {
+      "id": "bccampus-guide",
+      "requested_url": "https://opentextbc.ca/indigenizationcurriculumdevelopers/",
+      "accessed_at": "2026-10-23T14:43:16.892230-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    },
+    {
+      "id": "bccampus-organization",
+      "requested_url": "https://bccampus.ca/",
+      "accessed_at": "2026-10-23T14:44:00.466040-07:00",
+      "status": "blocked_or_failed",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "verification_status": "not_verified_blocked",
+      "claims_supported": []
+    }
+  ],
+  "proficiency_status_note": "The supplied March 2024 guide describes preliminary levels. The current federal components page was read and still describes refinement over time. The federal directory lists a separate 2024 proficiency-development report, whose full text and tables were not read. Local feedback statuses are not official levels, and none of these sources validates the original curriculum activities.",
+  "unresolved": [
+    "FNESC First Peoples Principles of Learning original text and reproduction permissions not verified.",
+    "IAHLA original site/content not retrieved.",
+    "ACCESS official site not retrieved; no independent confirmation of current program services or curriculum approval.",
+    "BCcampus linked guide contents and licences not retrieved.",
+    "No local Nation, Elder, Knowledge Keeper or ACCESS cultural reviewer consulted by this research task."
+  ],
+  "distribution_note": "Do not add the downloaded Douglas or JIBC PDFs, their stories, worksheets or artwork to the books or source bundle. Douglas facilitator terms are CC BY-NC-ND; JIBC states all rights reserved. This ledger contains concise attributed descriptions and links."
+}

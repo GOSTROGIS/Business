@@ -1,0 +1,75 @@
+{
+  "edition": "1",
+  "date": "2026-10-23",
+  "skills": [
+    "Reading",
+    "Writing",
+    "Numeracy",
+    "Digital",
+    "Problem solving",
+    "Communication",
+    "Collaboration",
+    "Adaptability",
+    "Creativity and innovation"
+  ],
+  "books": [
+    {
+      "name": "learner-textbook",
+      "title": "Nine skills for learning, work and community",
+      "short_title": "Learner textbook",
+      "eyebrow": "Book 1 \u00b7 Learner textbook",
+      "description": "Build the nine Skills for Success through clear explanations, worked examples, 162 skill activities and two integrated projects.",
+      "edition_note": "Begin with a useful goal and the skills you already bring. This learner textbook expands all 54 skill components into original instruction and practice. Use it with the practitioner companion for feedback, answer guidance and teaching support.",
+      "chapters": [
+        "learner/00-start-here.md",
+        "learner/01-reading.md",
+        "learner/02-writing.md",
+        "learner/03-numeracy.md",
+        "learner/04-digital.md",
+        "learner/05-problem-solving.md",
+        "learner/06-communication.md",
+        "learner/07-collaboration.md",
+        "learner/08-adaptability.md",
+        "learner/09-creativity-innovation.md",
+        "learner/10-integrated-projects.md",
+        "learner/11-reference-and-portfolio.md"
+      ]
+    },
+    {
+      "name": "practitioner-guide",
+      "title": "Teaching the nine Skills for Success",
+      "short_title": "Practitioner guide",
+      "eyebrow": "Book 2 \u00b7 Practitioner guide and answer companion",
+      "description": "A complete ACCESS IS4S reworking of the supplied guide: framework, six teaching approaches, nine skills, integrated lessons, assessment and practitioner development.",
+      "edition_note": "This practitioner companion reworks the instructional scope of the complete 148-page SkillPlan guide in original prose and activities. It includes teaching decisions, complete lesson materials and answer guidance for every learner activity. Source bibliography entries are preserved as an attributed index; outside works are not presented as independently verified unless the research record says so.",
+      "chapters": [
+        "practitioner/01-purpose-and-framework.md",
+        "practitioner/02-teaching-approaches.md",
+        "practitioner/03-reading.md",
+        "practitioner/04-writing.md",
+        "practitioner/05-numeracy.md",
+        "practitioner/06-digital.md",
+        "practitioner/07-problem-solving.md",
+        "practitioner/08-communication.md",
+        "practitioner/09-collaboration.md",
+        "practitioner/10-adaptability.md",
+        "practitioner/11-creativity-innovation.md",
+        "practitioner/12-integrated-lesson-plans.md",
+        "practitioner/13-practitioner-development.md",
+        "answers/01-reading.md",
+        "answers/02-writing.md",
+        "answers/03-numeracy.md",
+        "answers/04-digital.md",
+        "answers/05-problem-solving.md",
+        "answers/06-communication.md",
+        "answers/07-collaboration.md",
+        "answers/08-adaptability.md",
+        "answers/09-creativity-innovation.md",
+        "answers/10-integrated-projects.md",
+        "research/online-research.md",
+        "research/source-coverage.md",
+        "research/original-guide-bibliography.md"
+      ]
+    }
+  ]
+}
