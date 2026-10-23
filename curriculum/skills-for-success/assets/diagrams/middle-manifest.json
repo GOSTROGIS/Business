@@ -1,0 +1,44 @@
+[
+  {
+    "file": "middle-problem-solving-routes.svg",
+    "source": "learner/05-problem-solving.md",
+    "after_heading": "Develop options before selecting one",
+    "caption": "Two routes meet the required individual turns, availability and budget. The shorter route costs $40; the longer route requires the three early departures to go first. Group segments share the same time scale.",
+    "alt": "Two feasible schedules: five devices in two groups finish at 09:55 for $40; three devices in groups of three, three, three and one finish at 10:55 for no extra cost, with early departures first."
+  },
+  {
+    "file": "middle-problem-solving-trial.svg",
+    "source": "learner/05-problem-solving.md",
+    "after_heading": "Evaluate results and learn from them",
+    "caption": "The recorded correction proportion fell from 9/30 (30%) to 1/20 (5%): 25 percentage points. The small before-and-after record supports another check, not a claim that one change alone caused the result.",
+    "alt": "Thirty before-trial circles include nine corrected sets; twenty after-trial circles include one. A current-file folder and version card mark the tested change. An observation loop notes that sessions and learners may differ and there is no concurrent comparison group."
+  },
+  {
+    "file": "middle-communication-check-back.svg",
+    "source": "learner/06-communication.md",
+    "after_heading": "Listen to understand, then check",
+    "caption": "A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message.",
+    "alt": "Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check."
+  },
+  {
+    "file": "middle-communication-equipment.svg",
+    "source": "learner/06-communication.md",
+    "after_heading": "Case document B • Two people understood different tasks",
+    "caption": "Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only.",
+    "alt": "Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath."
+  },
+  {
+    "file": "middle-problem-solving-components.svg",
+    "source": "learner/05-problem-solving.md",
+    "after_heading": "Six steps that can loop back",
+    "caption": "All six Problem Solving components contribute to a reasoned decision. New evidence can send you back to an earlier action; returning to check a fact is useful progress.",
+    "alt": "A six-action loop links identifying an issue, gathering information, analyzing the issue, developing multiple routes, addressing the issue, and evaluating effectiveness, with a return arrow for new evidence."
+  },
+  {
+    "file": "middle-communication-components.svg",
+    "source": "learner/06-communication.md",
+    "after_heading": "Six connected components",
+    "caption": "The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order.",
+    "alt": "Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools."
+  }
+]

@@ -10,6 +10,13 @@ Keep first drafts and revisions. The change is part of the task, not a trick. Yo
 
 ## Project 1: A training information morning
 
+<!-- visual:social-project-1-versions--learner-10 -->
+<figure class="teaching-figure diagram" data-visual="social-project-1-versions--learner-10">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-project-1-versions.svg" alt="Documents A, B and C feed initial work CP-01–04 saved as CP01-budget-v1. The 8 May change card leads to revised work CP-05–06 saved as CP01-budget-v2 while preserving the first work." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Process preview: the initial notice versions and your saved-work versions identify different things. Keep the sources and first work, read the later change card, and check and save the revised work. Use the supplied documents to make your own decisions. <a class="visual-original" href="../assets/diagrams/social-project-1-versions.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-project-1-versions--learner-10 -->
+
 A fictional Learning Centre is preparing a short information morning for people considering a training course. You are helping the planning team make the arrangements clear and keep supplies within the available budget. No cultural activity or personal disclosure is required. The purpose is to help participants know where to go, what to expect and whom to ask.
 
 Your planning package contains three initial documents and one later change card. Work with the initial documents for CP-01 to CP-04. Read the change card before CP-05 and use the updated information in CP-06. Do not erase the first plan; label its version so another person can follow your decisions.
@@ -134,6 +141,13 @@ A fictional Community Learning Room will host a practice session using tablets a
 The project begins with a confirmed group and an initial resource count. Later, two more learners join and some equipment becomes unavailable. The goal is a workable plan within the existing time, room capacity and printing budget. You are planning a learning activity, not repairing devices or changing the building’s procedures.
 
 ### Document D: session brief
+
+<!-- visual:social-project-2-stations--learner-10 -->
+<figure class="teaching-figure diagram" data-visual="social-project-2-stations--learner-10">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-project-2-stations.svg" alt="Tablet and printed stations each provide a 20-minute activity. A tablet block divides into ten minutes for learner 1, ten for learner 2, and five for checking, saving and moving, totalling 25 minutes." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Concept schematic: each pair completes both 20-minute activities. Within a tablet block, each learner has ten minutes of control, followed by five minutes for checking, saving and moving. Plan the pair assignments using the case conditions. <a class="visual-original" href="../assets/diagrams/social-project-2-stations.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-project-2-stations--learner-10 -->
 
 **Date:** 21 May 2027<br>
 **Session:** 1:00–2:30 p.m., Community Learning Room<br>

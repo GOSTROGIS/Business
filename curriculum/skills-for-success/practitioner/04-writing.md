@@ -6,6 +6,13 @@ The learner chapter uses fictional resource requests, materials records, classro
 
 ## Keep the six components connected
 
+<!-- visual:foundation-writing-map--practitioner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-map--practitioner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-map.svg" alt="Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools. <a class="visual-original" href="../assets/diagrams/foundation-writing-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-map--practitioner-04 -->
+
 SkillPlan identifies the writing task, planning, producing words and phrases, choosing language and style, using an appropriate format, and reviewing or revising (2024, p. 54). WR-01–WR-04 develop purpose, selection, planning and drafting. WR-05–WR-06 address clarity and audience. WR-07–WR-11 use factual forms, handovers, procedures and tables. WR-12–WR-15 develop notices, tone, source checking and reader feedback. WR-16–WR-18 provide a new context, revision and reflection.
 
 The former Document Use skill remains visible when writers complete forms, arrange a table or prepare a schedule (p. 55). Teach how a label controls an entry and how a blank field differs from a known zero or an unavailable fact. Reading supplies evidence; Numeracy checks quantities; Digital may support composing and saving. Assess these additional demands separately when they obscure the writing decision you want to observe.
@@ -18,11 +25,25 @@ WR-05 offers an ambiguous calculator request. Ask the reader to underline words 
 
 ## Make context and audience do real work
 
+<!-- visual:writing-feedback--practitioner-04 -->
+<figure class="teaching-figure scene" data-visual="writing-feedback--practitioner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/illustrations/writing-feedback.png" alt="An adult writer revises a paper draft beside a laptop while another adult reader gives feedback." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Teaching scene</span> A reader’s response gives the writer useful evidence for revision. This illustration is a teaching scene, not a text specimen to transcribe. <a class="visual-original" href="../assets/illustrations/writing-feedback.png">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:writing-feedback--practitioner-04 -->
+
 The second strategy is context-driven instruction (p. 57). Compare two messages about the same event for different readers. A resource helper needs a quantity and return arrangement; learners attending the session need to know what to bring. WR-06 makes this difference explicit. Ask which details can be omitted without losing the reader's ability to act.
 
 Discuss register as a choice shaped by purpose, relationship and local practice. Clear, respectful language does not require unnecessary formality, gendered titles or elaborate vocabulary. Avoid presenting one email model as the only acceptable voice. Provide several valid versions and compare their usefulness. Peer feedback should answer a reader question—“Can I tell what you need?”—rather than turn classmates into unrestricted editors of each other's style.
 
 ## A worked teaching example: request the extra quantity
+
+<!-- visual:foundation-writing-request--practitioner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-request--practitioner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-request.svg" alt="A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking. <a class="visual-original" href="../assets/diagrams/foundation-writing-request.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-request--practitioner-04 -->
 
 Use Case document A. Twelve learners can work in pairs, so the plan needs six calculators. Four are available. The writer must request **two additional calculators**, needed at 09:00 on Practice Thursday, with return by 11:45. The helper needs the request by 15:00 on Practice Wednesday and must still check availability. Model a planning note with reader, purpose, required facts and unresolved status.
 
@@ -31,6 +52,13 @@ Say: “If I write ‘We need six more,’ the reader may supply ten in total. I
 Then use WR-04 for the learner's own message. Keep the model available as a structure, while asking for independent wording and information choices. Use WR-14 later to check a different draft against its source. The point is a repeatable planning and review process, not memorizing the first request.
 
 ## Teach a process that can be reused
+
+<!-- visual:foundation-writing-record--practitioner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-record--practitioner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-record.svg" alt="Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events. <a class="visual-original" href="../assets/diagrams/foundation-writing-record.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-record--practitioner-04 -->
 
 The third strategy makes the writing process explicit (p. 58): establish purpose, gather information, plan, draft, review and revise. These stages may loop. A reader's question can reveal missing information and send the writer back to the source. Model that return openly rather than implying that experienced writers produce finished text immediately.
 

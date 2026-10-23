@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "book": "learner-textbook.pdf",
+      "page": 1,
+      "label": "Redesigned nine-skills cover"
+    },
+    {
+      "book": "learner-textbook.pdf",
+      "page": 10,
+      "label": "Reading component map"
+    },
+    {
+      "book": "learner-textbook.pdf",
+      "page": 37,
+      "label": "Whole packs and the complete order cost"
+    },
+    {
+      "book": "learner-textbook.pdf",
+      "page": 41,
+      "label": "Dimensioned board, margins and card layout"
+    },
+    {
+      "book": "learner-textbook.pdf",
+      "page": 75,
+      "label": "Equipment roles and the screed component"
+    },
+    {
+      "book": "learner-textbook.pdf",
+      "page": 98,
+      "label": "Original and revised time plan"
+    },
+    {
+      "book": "practitioner-guide.pdf",
+      "page": 84,
+      "label": "Evidence-led fishbone diagram"
+    },
+    {
+      "book": "practitioner-guide.pdf",
+      "page": 89,
+      "label": "Annotated email specimen"
+    }
+  ]
+}

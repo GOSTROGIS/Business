@@ -1,0 +1,44 @@
+[
+  {
+    "file": "assets/diagrams/teaching-nine-skills-map.svg",
+    "source": "practitioner/01-purpose-and-framework.md",
+    "after_heading": "What the nine skills describe",
+    "caption": "The learner’s purpose connects all nine skills. Document use and continued learning remain visible across tasks. This is a planning map, not a sequence or proficiency scale.",
+    "alt": "Nine labelled skills surround a central learner’s purpose: Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation. Every skill connects to the shared purpose."
+  },
+  {
+    "file": "assets/diagrams/teaching-six-approaches.svg",
+    "source": "practitioner/02-teaching-approaches.md",
+    "after_heading": "Bring the six approaches into one session",
+    "caption": "Plan purpose, context, complexity, modelling, evidence and participation together. Revisit these decisions when the learner’s evidence changes.",
+    "alt": "A connected path links six teaching approaches: learner-centred purpose, contextualized tasks, complexity, direct instruction, assessment and social-emotional interaction. A return arrow indicates that planning is iterative."
+  },
+  {
+    "file": "assets/diagrams/teaching-evidence-cycle.svg",
+    "source": "practitioner/02-teaching-approaches.md",
+    "after_heading": "5. Collect evidence that can guide the next lesson",
+    "caption": "An observed attempt informs the next teaching move. Keep the task, tools, support and version with the evidence; review transfer through a later task.",
+    "alt": "A six-stage cycle moves from setting a task and criterion to observing, interpreting, teaching and feedback, trying again, and reviewing change or transfer. The centre reminds practitioners to record task, tools, support and version."
+  },
+  {
+    "file": "assets/diagrams/teaching-fraction-ruler.svg",
+    "source": "practitioner/12-integrated-lesson-plans.md",
+    "after_heading": "Worked example 1: count the divisions",
+    "caption": "Five sixteenth-inch intervals beyond 3 inches give 3 5/16 inches. The enlarged illustration is not a measuring tool.",
+    "alt": "Enlarged ruler segment from 3 to 4 inches, divided into sixteen equal intervals, with the fifth interval marked at 3 5/16 between 3¼ and 3½."
+  },
+  {
+    "file": "assets/diagrams/teaching-root-cause-fishbone.svg",
+    "source": "practitioner/12-integrated-lesson-plans.md",
+    "after_heading": "Handout P3: cause map",
+    "caption": "Observed conditions from evidence cards E1, E3 and E4 suggest questions to test. The 15 corrected packets do not establish a cause.",
+    "alt": "Fishbone map for the fictional packet case. File access, instructions, layout and final checking contain supplied observations; dashed questions identify hypotheses. Fifteen of 72 packets needed correction: 10 old sheets and 5 missing maps."
+  },
+  {
+    "file": "assets/diagrams/teaching-email-anatomy.svg",
+    "source": "practitioner/12-integrated-lesson-plans.md",
+    "after_heading": "Worked comparison: unclear draft and useful revision",
+    "caption": "A concise model makes the recipient, purpose, context, request and sender visible while keeping Room 5 unconfirmed.",
+    "alt": "Annotated fictional confirmation email for Wednesday, 9:00–10:30 a.m., eight participants. Room 3 is booked and Room 5 possible. The request asks for room and step-free route information by 3 p.m. Tuesday; no personal contact list is attached."
+  }
+]

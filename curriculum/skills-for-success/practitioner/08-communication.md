@@ -6,6 +6,13 @@ The learner chapter uses fictional classroom changes, a misunderstood card task 
 
 ## Include all six components and accessible modes
 
+<!-- visual:middle-communication-components--practitioner-08 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-components--practitioner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-components.svg" alt="Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order. <a class="visual-original" href="../assets/diagrams/middle-communication-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-components--practitioner-08 -->
+
 SkillPlan names listening with intention, listening to understand, speaking clearly, speaking with purpose, adapting to audience and context, and adapting to different modes and tools (2024, p. 85). The learner chapter provides three activities for each: CM-01–CM-03, CM-04–CM-06, CM-07–CM-09, CM-10–CM-12, CM-13–CM-15 and CM-16–CM-18 respectively. Use this sequence flexibly, returning to a component when a later task reveals a need.
 
 The component names use speaking and listening, while the purpose can be supported through speech, sign, text, augmentative and alternative communication or another agreed mode. Record the mode and support accurately. Give every learner turns sending, receiving and clarifying. Document Use appears when a diagram, schedule or reference card carries part of the message; Reading helps inspect it, while Collaboration supports shared turn-taking and repair.
@@ -26,6 +33,13 @@ Use CM-01 to identify the information needed before receiving a message. CM-02 a
 
 ## A worked teaching example: preserve a room change
 
+<!-- visual:middle-communication-check-back--practitioner-08 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-check-back--practitioner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-check-back.svg" alt="Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message. <a class="visual-original" href="../assets/diagrams/middle-communication-check-back.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-check-back--practitioner-08 -->
+
 Use Case A. The current message places Thursday's indoor classroom session in Room 2, from 10:00 to 10:45, and asks learners to bring a workbook and pen. Printed process maps will be available. Model a concise check-back: “The indoor session is now in Room 2, starting at ten and ending at ten forty-five. I bring my workbook and a pen; maps are supplied. Is that correct?”
 
 Have the sender compare the paraphrase with the source rather than automatically agreeing. Then model an unanswered question: “Will transport be provided?” The message contains no transport arrangement. A useful response identifies that limit and asks the responsible course contact; it does not invent a bus. This distinction matters because helpful intentions can still produce inaccurate instructions.
@@ -33,6 +47,13 @@ Have the sender compare the paraphrase with the source rather than automatically
 In CM-06, a partner repeats the old Room 1 location and an 11:00 finish. Practise describing the discrepancy and checking the current message together. The outcome is an agreed version or an explicit question for the instructor, not a judgement about the person who repeated the old information. Repeat with another comparable message so that successful recall of the first script is not mistaken for transferable listening.
 
 ## Use simulations with feedback and another attempt
+
+<!-- visual:middle-communication-equipment--practitioner-08 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-equipment--practitioner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-equipment.svg" alt="Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only. <a class="visual-original" href="../assets/diagrams/middle-communication-equipment.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-equipment--practitioner-08 -->
 
 The third strategy uses role-play and simulations (pp. 88–89). Keep roles simple and the purpose clear. Demonstrate one exchange, allow rehearsal, observe a short attempt, give one useful piece of feedback and repeat with roles reversed. Let learners pause or choose an instructor partnership. They should not imitate another person's disability or perform a cultural stereotype.
 

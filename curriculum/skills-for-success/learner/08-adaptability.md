@@ -1,5 +1,12 @@
 # Adaptability — keep the purpose, adjust the plan
 
+<!-- visual:social-adaptability-six-components--learner-08 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-six-components--learner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-six-components.svg" alt="Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-adaptability-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-six-components--learner-08 -->
+
 ## Change the approach with care
 
 Adaptability is the ability to work toward or adjust a goal when circumstances change. It includes noticing what has changed, deciding what still matters, choosing a workable response and learning from the attempt. Sometimes the response is a new method. Sometimes it is a request for support, a revised deadline or a decision to pause until the right information is available.
@@ -67,6 +74,13 @@ Draft a response to this classroom request: “We are behind, so skip checking t
 
 ## Persistence means learning from the attempt
 
+<!-- visual:social-adaptability-retry--learner-08 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-retry--learner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-retry.svg" alt="Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result. <a class="visual-original" href="../assets/diagrams/social-adaptability-retry.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-retry--learner-08 -->
+
 Repeating the same action is not always persistence toward the goal. If a saved file cannot be found, opening random folders again may create more confusion. A purposeful next attempt uses information from the first one: check the file name, recall the chosen location, use the application's recent-files list if available, or ask for a demonstration of the search step. The method changes while the learning goal remains visible.
 
 A useful retry has four parts: **notice the result → identify one likely gap → choose a different action → check what happened**. A likely gap is a working explanation, not a judgement about ability. “I did not record the save location” points toward a practical action. “I am bad with computers” does not tell you what to practise next and may hide the exact step you already know.
@@ -98,6 +112,13 @@ The folder must continue to distinguish completed work from pending work. The pr
 The learner and instructor need to decide how Thursday's first 35 minutes will be used and what will happen during the 25-minute device turn. They also need a clear handover to Monday: what was done, where the practice file is saved and which action remains. The change is a planning problem with support options, not a test of how much personal pressure a learner can withstand.
 
 ## Revise the plan without losing the goal
+
+<!-- visual:social-adaptability-time-plan--learner-08 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-time-plan--learner-08">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-time-plan.svg" alt="Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work. <a class="visual-original" href="../assets/diagrams/social-adaptability-time-plan.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-time-plan--learner-08 -->
 
 Start by separating **changed conditions, unchanged outcomes and open decisions**. The changed conditions are the shorter Thursday period and limited device access. The outcomes still include accurate information, an authored note, genuine tool use and a reflection based on evidence. The open decision is the agreed completion arrangement. Keeping these categories separate prevents a resource change from silently becoming a lower-quality outcome.
 

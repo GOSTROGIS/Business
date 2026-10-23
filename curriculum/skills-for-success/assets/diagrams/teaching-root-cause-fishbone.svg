@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+<title id="title">Packet correction cause map</title><desc id="desc">A fishbone cause map uses the fictional packet lesson. Supplied observations concern similar old and current files, an instruction without a version, adjacent stacks with maps elsewhere, and no final checker named. Dashed questions are hypotheses to test, not proven causes. Fifteen of seventy-two packets needed correction: ten had an old sheet and five lacked a map.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#1A1512"/></marker></defs>
+<rect width="1000" height="580" fill="#F7F4F1"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#1A1512">
+<text x="48" y="54" font-size="32" font-weight="700" fill="#1A1512" text-anchor="start">Build a cause map from evidence</text>
+<text x="48" y="89" font-size="22" font-weight="400" fill="#1A1512" text-anchor="start">Fictional packet case • observations support questions, not blame</text>
+<line x1="75" y1="300" x2="785" y2="300" stroke="#1A1512" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="280" y1="243" x2="350" y2="300" stroke="#1A1512" stroke-width="3" />
+<line x1="610" y1="243" x2="680" y2="300" stroke="#1A1512" stroke-width="3" />
+<line x1="280" y1="353" x2="350" y2="300" stroke="#1A1512" stroke-width="3" />
+<line x1="610" y1="353" x2="680" y2="300" stroke="#1A1512" stroke-width="3" />
+<rect x="40" y="114" width="330" height="132" rx="12" fill="white" stroke="#1A1512" stroke-width="1.5" />
+<text x="56" y="141" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">FILE ACCESS</text>
+<text x="56" y="170" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">v1 remains beside v3</text>
+<text x="56" y="194" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">in a shared folder. (E1)</text>
+<rect x="50" y="205" width="310" height="31" rx="7" fill="#F7F4F1" stroke="#D2181F" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="63" y="227" font-size="20" font-weight="700" fill="#D2181F" text-anchor="start">Wrong file selected?</text>
+<rect x="400" y="114" width="330" height="132" rx="12" fill="white" stroke="#1A1512" stroke-width="1.5" />
+<text x="416" y="141" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">INSTRUCTIONS</text>
+<text x="416" y="170" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">“Prepare 24 packets.”</text>
+<text x="416" y="194" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">No version stated. (E4)</text>
+<rect x="410" y="205" width="310" height="31" rx="7" fill="#F7F4F1" stroke="#D2181F" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="423" y="227" font-size="20" font-weight="700" fill="#D2181F" text-anchor="start">Wrong version used?</text>
+<rect x="40" y="353" width="330" height="132" rx="12" fill="white" stroke="#1A1512" stroke-width="1.5" />
+<text x="56" y="380" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">MATERIALS / LAYOUT</text>
+<text x="56" y="409" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">Old/current stacks adjacent;</text>
+<text x="56" y="433" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">maps on another shelf. (E3)</text>
+<rect x="50" y="444" width="310" height="31" rx="7" fill="#F7F4F1" stroke="#D2181F" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="63" y="466" font-size="20" font-weight="700" fill="#D2181F" text-anchor="start">Items mixed or omitted?</text>
+<rect x="400" y="353" width="330" height="132" rx="12" fill="white" stroke="#1A1512" stroke-width="1.5" />
+<text x="416" y="380" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">FINAL CHECK</text>
+<text x="416" y="409" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">No final checker named.</text>
+<text x="416" y="433" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">Instruction record: E4</text>
+<rect x="410" y="444" width="310" height="31" rx="7" fill="#F7F4F1" stroke="#D2181F" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="423" y="466" font-size="20" font-weight="700" fill="#D2181F" text-anchor="start">Errors leave undetected?</text>
+<rect x="793" y="240" width="172" height="122" rx="14" fill="#FFBC00" stroke="#1A1512" stroke-width="2" />
+<text x="879" y="273" font-size="21" font-weight="700" fill="#1A1512" text-anchor="middle">PACKETS</text>
+<text x="879" y="300" font-size="21" font-weight="700" fill="#1A1512" text-anchor="middle">NEED</text>
+<text x="879" y="327" font-size="21" font-weight="700" fill="#1A1512" text-anchor="middle">CORRECTION</text>
+<text x="793" y="390" font-size="19" font-weight="700" fill="#1A1512" text-anchor="start">15 of 72 packets</text>
+<text x="793" y="416" font-size="19" font-weight="400" fill="#1A1512" text-anchor="start">10 old sheets</text>
+<text x="793" y="441" font-size="19" font-weight="400" fill="#1A1512" text-anchor="start">5 missing maps</text>
+<text x="48" y="532" font-size="21" font-weight="700" fill="#1A1512" text-anchor="start">Solid statement = supplied observation</text>
+<text x="48" y="561" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">Dashed question = hypothesis to test. The counts do not identify a cause.</text>
+</g></svg>

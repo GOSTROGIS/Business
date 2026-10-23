@@ -6,6 +6,13 @@ The learner chapter uses fictional device scheduling, repeated card-label correc
 
 ## Use the complete six-part cycle
 
+<!-- visual:middle-problem-solving-components--practitioner-07 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-components--practitioner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-components.svg" alt="A six-action loop links identifying an issue, gathering information, analyzing the issue, developing multiple routes, addressing the issue, and evaluating effectiveness, with a return arrow for new evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> All six Problem Solving components contribute to a reasoned decision. New evidence can send you back to an earlier action; returning to check a fact is useful progress. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-components--practitioner-07 -->
+
 The source identifies defining the issue, gathering information, analysing, developing multiple routes, addressing the issue, and evaluating effectiveness (SkillPlan, 2024, p. 78). PS-01–PS-03 establish the issue and responsibilities. PS-04–PS-06 gather and organize information. PS-07–PS-09 examine explanations and assumptions. PS-10–PS-12 generate and test options. PS-13–PS-15 make an action plan that respects new information and permission. PS-16–PS-18 evaluate and transfer the method.
 
 These stages can loop. New information may change the problem statement; an unsuccessful trial may require another explanation. Reading and Document Use support briefs, evidence tables and cause maps. Numeracy can compare time, cost and proportions. Collaboration contributes other perspectives, while Adaptability helps a learner revise an idea without treating revision as defeat.
@@ -26,6 +33,13 @@ The Five Whys approach is a prompt for deeper inquiry, not a rule that exactly f
 
 ## A worked teaching example: two feasible routes
 
+<!-- visual:middle-problem-solving-routes--practitioner-07 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-routes--practitioner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-routes.svg" alt="Two feasible schedules: five devices in two groups finish at 09:55 for $40; three devices in groups of three, three, three and one finish at 10:55 for no extra cost, with early departures first." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Two routes meet the required individual turns, availability and budget. The shorter route costs $40; the longer route requires the three early departures to go first. Group segments share the same time scale. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-routes.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-routes--practitioner-07 -->
+
 Use Case A and PS-11. Each digital turn lasts 25 minutes, and a five-minute reset is needed between groups. With five devices, ten learners require two groups: `25 + 5 + 25 = 55 minutes`. Two loan devices restore five available devices for $40, within the $50 budget, provided the reservation is confirmed by 08:30. Starting at 09:00, this route ends at 09:55.
 
 With the three remaining devices, four groups are needed: three learners, three, three and one. The duration is `4 × 25 + 3 × 5 = 115 minutes`, ending at 10:55. This can respect everyone's availability if the three learners leaving at 10:00 receive early turns. It costs nothing extra but does not meet the preferred early finish. Both routes can be justified under the supplied conditions.
@@ -39,6 +53,13 @@ The third strategy uses group reasoning, different perspectives and role-play (p
 PS-09 challenges a claim that a new folder proves earlier carelessness. The record supports possible process improvements; it does not establish motivation. PS-15 adds a permission question: an attractive display idea does not authorize use of knowledge or imagery. Learners should identify whose decision is needed and a useful alternative while permission remains unresolved. Respecting that boundary is part of solving the actual problem.
 
 ## Evaluate outcomes without overstating causation
+
+<!-- visual:middle-problem-solving-trial--practitioner-07 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-trial--practitioner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-trial.svg" alt="Thirty before-trial circles include nine corrected sets; twenty after-trial circles include one. A current-file folder and version card mark the tested change. An observation loop notes that sessions and learners may differ and there is no concurrent comparison group." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The recorded correction proportion fell from 9/30 (30%) to 1/20 (5%): 25 percentage points. The small before-and-after record supports another check, not a claim that one change alone caused the result. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-trial.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-trial--practitioner-07 -->
 
 Assessment should examine process, evidence, action and reflection (p. 82). Use a rubric that accepts different justified responses. Record how much support was needed and whether the learner can repeat the process on a changed case. Increase complexity through ambiguity, number of constraints, competing perspectives or less direct consequences rather than simply making the text longer.
 

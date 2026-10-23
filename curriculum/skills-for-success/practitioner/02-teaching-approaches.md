@@ -158,6 +158,13 @@ When modelling communication, make the interaction visible. Demonstrate a check-
 
 ## 5. Collect evidence that can guide the next lesson
 
+<!-- visual:teaching-evidence-cycle--practitioner-02 -->
+<figure class="teaching-figure diagram" data-visual="teaching-evidence-cycle--practitioner-02">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-evidence-cycle.svg" alt="A six-stage cycle moves from setting a task and criterion to observing, interpreting, teaching and feedback, trying again, and reviewing change or transfer. The centre reminds practitioners to record task, tools, support and version." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> An observed attempt informs the next teaching move. Keep the task, tools, support and version with the evidence; review transfer through a later task. <a class="visual-original" href="../assets/diagrams/teaching-evidence-cycle.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-evidence-cycle--practitioner-02 -->
+
 Assessment should answer a useful question: what can this learner do under these conditions, and what teaching or practice should follow? It should not turn a short activity into a judgment about the person. Decide what evidence would support the intended claim before choosing an assessment format.
 
 A starting task helps select instruction. Formative checks guide teaching while learning is underway. An end-of-unit task shows performance against the unit's stated outcomes. A later unfamiliar task can provide evidence of transfer. These purposes overlap, but the conclusions differ. Completing the same worksheet twice may show recall and improved familiarity; it does not automatically establish general transfer or a validated skill-level gain.
@@ -248,6 +255,13 @@ A learner's explanation is valuable evidence, but distinguish a stated intention
 Avoid fixed labels in feedback. Say, “You tried two layouts and tested them with a reader” rather than “You are a creative type.” Say, “You noticed the missing source and asked before using the number” rather than “You are naturally careful.” Action-focused language helps the learner identify a strategy that can be used again.
 
 ## Bring the six approaches into one session
+
+<!-- visual:teaching-six-approaches--practitioner-02 -->
+<figure class="teaching-figure diagram" data-visual="teaching-six-approaches--practitioner-02">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-six-approaches.svg" alt="A connected path links six teaching approaches: learner-centred purpose, contextualized tasks, complexity, direct instruction, assessment and social-emotional interaction. A return arrow indicates that planning is iterative." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Plan purpose, context, complexity, modelling, evidence and participation together. Revisit these decisions when the learner’s evidence changes. <a class="visual-original" href="../assets/diagrams/teaching-six-approaches.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-six-approaches--practitioner-02 -->
 
 The following plan is a complete 45-minute example using the two fictional notices in this chapter. It can introduce a longer learning sequence. Its timing is a proposed classroom design, not an official Skills for Success allocation.
 

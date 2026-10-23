@@ -1,0 +1,86 @@
+[
+  {
+    "file": "assets/diagrams/social-collaboration-two-checks.svg",
+    "source": "learner/07-collaboration.md",
+    "after_heading": "Disagree about the work without reducing the person",
+    "caption": "Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence.",
+    "alt": "A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts."
+  },
+  {
+    "file": "assets/diagrams/social-collaboration-handover.svg",
+    "source": "learner/07-collaboration.md",
+    "after_heading": "Turn individual tasks into one finished result",
+    "caption": "Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing.",
+    "alt": "A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct."
+  },
+  {
+    "file": "assets/diagrams/social-adaptability-time-plan.svg",
+    "source": "learner/08-adaptability.md",
+    "after_heading": "Revise the plan without losing the goal",
+    "caption": "Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work.",
+    "alt": "Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review."
+  },
+  {
+    "file": "assets/diagrams/social-adaptability-retry.svg",
+    "source": "learner/08-adaptability.md",
+    "after_heading": "Persistence means learning from the attempt",
+    "caption": "Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result.",
+    "alt": "Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check."
+  },
+  {
+    "file": "assets/diagrams/social-creativity-three-prototypes.svg",
+    "source": "learner/09-creativity-innovation.md",
+    "after_heading": "Case document 2 · Three possible prototypes",
+    "caption": "Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested.",
+    "alt": "Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits."
+  },
+  {
+    "file": "assets/diagrams/social-creativity-kit-revision.svg",
+    "source": "learner/09-creativity-innovation.md",
+    "after_heading": "Case document 3 · Results and a changed requirement",
+    "caption": "Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest.",
+    "alt": "Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip."
+  },
+  {
+    "file": "assets/diagrams/social-collaboration-six-components.svg",
+    "source": "learner/07-collaboration.md",
+    "after_heading": "Collaboration — contribute, listen and finish together",
+    "caption": "Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
+    "alt": "Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team."
+  },
+  {
+    "file": "assets/diagrams/social-adaptability-six-components.svg",
+    "source": "learner/08-adaptability.md",
+    "after_heading": "Adaptability — keep the purpose, adjust the plan",
+    "caption": "Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
+    "alt": "Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement."
+  },
+  {
+    "file": "assets/diagrams/social-creativity-six-components.svg",
+    "source": "learner/09-creativity-innovation.md",
+    "after_heading": "Creativity and innovation — notice, make, test and improve",
+    "caption": "Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
+    "alt": "Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity."
+  },
+  {
+    "file": "assets/diagrams/social-project-1-versions.svg",
+    "source": "learner/10-integrated-projects.md",
+    "after_heading": "Project 1: A training information morning",
+    "caption": "Process preview: the initial notice versions and your saved-work versions identify different things. Keep the sources and first work, read the later change card, and check and save the revised work. Use the supplied documents to make your own decisions.",
+    "alt": "Documents A, B and C feed initial work CP-01–04 saved as CP01-budget-v1. The 8 May change card leads to revised work CP-05–06 saved as CP01-budget-v2 while preserving the first work."
+  },
+  {
+    "file": "assets/diagrams/social-project-2-stations.svg",
+    "source": "learner/10-integrated-projects.md",
+    "after_heading": "Document D: session brief",
+    "caption": "Concept schematic: each pair completes both 20-minute activities. Within a tablet block, each learner has ten minutes of control, followed by five minutes for checking, saving and moving. Plan the pair assignments using the case conditions.",
+    "alt": "Tablet and printed stations each provide a 20-minute activity. A tablet block divides into ten minutes for learner 1, ten for learner 2, and five for checking, saving and moving, totalling 25 minutes."
+  },
+  {
+    "file": "assets/diagrams/social-portfolio.svg",
+    "source": "learner/11-reference-and-portfolio.md",
+    "after_heading": "Add a short evidence note",
+    "caption": "Five examples of evidence types flow into a short note and a next attempt. Choose the items that fit your goal; identify your own action, supports, result and limits. Keep personal sharing and permission choices visible.",
+    "alt": "Five evidence examples—source explanation, draft and revision, checked working, file with observed tool use, and observed exchange—lead to an evidence note and a new attempt with a record of what happened."
+  }
+]

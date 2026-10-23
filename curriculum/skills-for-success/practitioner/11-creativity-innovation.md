@@ -6,6 +6,13 @@ The learner chapter uses a fictional practice-card shelf. Learners can change la
 
 ## Make all six components visible
 
+<!-- visual:social-creativity-six-components--practitioner-11 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-six-components--practitioner-11">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-six-components.svg" alt="Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-creativity-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-six-components--practitioner-11 -->
+
 The source identifies imagination and curiosity; identifying opportunities; generating ideas novel to oneself or others; developing ideas; applying ideas; and facilitating a creative environment (SkillPlan, 2024, p. 106). Creativity does not require a world-first invention. An idea can be new to a learner or useful in a particular setting. Teach its value through the task it helps someone perform.
 
 CI-01–CI-04 investigate and frame the opportunity. CI-05–CI-07 generate alternatives and challenge assumptions. CI-08–CI-10 compare features and develop a prototype. CI-11–CI-15 test, revise and make limited claims. CI-16–CI-18 facilitate, transfer and collect evidence. Document Use appears in labels, contents lists and version records. Problem Solving structures inquiry, Collaboration supports feedback, and Digital can provide another making tool when it suits the task.
@@ -20,6 +27,13 @@ Keep a visible brief with requirements: accurate contents, plain language, black
 
 ## Separate idea generation from selection
 
+<!-- visual:social-creativity-three-prototypes--practitioner-11 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-three-prototypes--practitioner-11">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-three-prototypes.svg" alt="Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested. <a class="visual-original" href="../assets/diagrams/social-creativity-three-prototypes.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-three-prototypes--practitioner-11 -->
+
 The second strategy teaches a structured creative problem-solving process (p. 109). Allow a period of divergent thinking before comparing options. Learners can sketch, speak, write, arrange materials or use an accessible tool. Ask for genuinely different approaches, such as a contents-list folder, matching board and return tray, rather than three colours of the same design.
 
 During generation, invite clarifying questions and possible extensions. During selection, compare ideas against the brief and investigate uncertainties. “No criticism” is a temporary protection for early possibilities, not a ban on checking facts or feasibility. Teach the change between phases explicitly. A table can help organize criteria, but guessed scores do not make a decision objective. Label predictions, and revisit them after a test.
@@ -27,6 +41,13 @@ During generation, invite clarifying questions and possible extensions. During s
 Use CI-06 to practise supporting another person's unfinished idea. The listener asks a question and offers an extension; the author decides what to use. Credit the contribution with permission. This routine helps prevent a confident partner from taking over the work while believing they are helping.
 
 ## A worked teaching example: a testable contents system
+
+<!-- visual:social-creativity-kit-revision--practitioner-11 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-kit-revision--practitioner-11">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-kit-revision.svg" alt="Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest. <a class="visual-original" href="../assets/diagrams/social-creativity-kit-revision.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-kit-revision--practitioner-11 -->
 
 Use the Number Check kit. Version 1 contains one data table, one worked example and two blank record sheets: four items. Model a large folder label, a contents list and a “check needed” slip. State the intended user action: find the kit, check its contents and report a missing item. This creates a small prototype that can be tested before investing in a finished design.
 

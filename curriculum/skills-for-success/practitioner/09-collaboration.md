@@ -6,6 +6,13 @@ The learner chapter asks a team to prepare a fictional visitor information pack 
 
 ## Teach all six components
 
+<!-- visual:social-collaboration-six-components--practitioner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-six-components--practitioner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-six-components.svg" alt="Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-collaboration-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-six-components--practitioner-09 -->
+
 SkillPlan's components are working well with others; valuing diversity and inclusion; managing difficult interactions; facilitating a collaborative environment; achieving a common goal; and reflecting to improve teamwork (2024, p. 92). These component labels belong to the 2024 source; current federal wording may differ slightly. Use them to notice actions rather than to assign a permanent description of a learner.
 
 CL-01–CL-03 establish the shared purpose, agreements and roles. CL-04–CL-06 address inclusion and permission around knowledge. CL-07–CL-09 separate factual disagreement, design choice and situations needing support. CL-10–CL-15 coordinate, revise and test a shared product. CL-16–CL-18 turn reflection into another attempt. Reading, Writing, Digital and Numeracy contribute to the pack, but their accuracy must be assessed separately from how the team works.
@@ -24,6 +31,13 @@ For a handover, model three parts: what is finished, what is uncertain and what 
 
 ## A worked teaching example: fact, preference or process?
 
+<!-- visual:social-collaboration-two-checks--practitioner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-two-checks--practitioner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-two-checks.svg" alt="A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence. <a class="visual-original" href="../assets/diagrams/social-collaboration-two-checks.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-two-checks--practitioner-09 -->
+
 Use Case document 2 and CL-07. The draft says a roller places asphalt. The supplied introductory card assigns placement to the paver and compaction to rollers. Say: “This is a factual question with evidence available. Voting would tell us what the group prefers, not whether the sentence matches the source.” Model a correction that identifies the wording and evidence without labelling its author.
 
 The same case includes a preference for a flow diagram versus question-and-answer boxes. Neither layout has been tested. Ask learners to set a criterion: can a visitor quickly find who owns the fictional road? Sketch both versions and ask a reader to use them. Record what the reader finds, then decide. The absence of an agreed correction process is a third issue; it needs a team agreement about checking and approving changes.
@@ -31,6 +45,13 @@ The same case includes a preference for a flow diagram versus question-and-answe
 Have pairs rehearse this distinction in CL-08, with an observer recording one exact phrase that helped. Stop role-play if it becomes personal or discriminatory. CL-09 explicitly distinguishes ordinary task disagreement, conflicting sources and harmful behaviour needing instructor support. Demonstrating collaboration never requires tolerating harm or inventing a workplace reporting procedure.
 
 ## Structure group work so everyone can act
+
+<!-- visual:social-collaboration-handover--practitioner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-handover--practitioner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-handover.svg" alt="A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing. <a class="visual-original" href="../assets/diagrams/social-collaboration-handover.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-handover--practitioner-09 -->
 
 The third strategy uses purposeful small-group activity, varied roles and active monitoring (p. 95). Teams of two to four are manageable for this pack, but select grouping to fit the room and access needs. Provide each learner with the source. Rotate coordinator, source checker, drafter and reader-test roles; a person operating the keyboard should not automatically control decisions.
 

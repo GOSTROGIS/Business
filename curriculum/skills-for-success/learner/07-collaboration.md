@@ -1,5 +1,12 @@
 # Collaboration — contribute, listen and finish together
 
+<!-- visual:social-collaboration-six-components--learner-07 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-six-components--learner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-six-components.svg" alt="Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-collaboration-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-six-components--learner-07 -->
+
 ## Your contribution belongs in the work
 
 Collaboration means contributing and supporting other people toward a shared goal. You may already do this when arranging a ride, working alongside a crew, helping organize an activity or making decisions with people you trust. This chapter gives you language and practice for making that work clearer. It also gives you ways to notice whether everyone has a useful opportunity to contribute.
@@ -79,6 +86,13 @@ The coordinator is available for clarification. If a conversation becomes person
 
 ## Disagree about the work without reducing the person
 
+<!-- visual:social-collaboration-two-checks--learner-07 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-two-checks--learner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-two-checks.svg" alt="A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence. <a class="visual-original" href="../assets/diagrams/social-collaboration-two-checks.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-two-checks--learner-07 -->
+
 Use a short sequence: **describe the issue → hear each view → check the task or evidence → agree a next action → confirm the decision**. Each step protects information that can otherwise get lost. Describing the issue keeps the conversation specific. Hearing each view checks whether people are discussing the same question. Evidence and criteria give the group something more reliable than status or volume.
 
 A useful statement names an observable detail: “Our sentence says the roller places the mixture, but the source gives placement to the paver.” It does not claim, “You never listen.” The first statement can be checked and corrected. The second makes a judgement about the person and invites a different argument. You can be clear about an error without weakening the relationship.
@@ -100,6 +114,13 @@ With a partner, use the layout disagreement from the case. Each person explains 
 Consider three situations: a teammate wants a different heading; the source documents appear to conflict; a teammate makes a personal or discriminatory remark. For each, propose an appropriate next step and explain why. Include when to continue a task discussion, when to ask the coordinator for source clarification and when to stop and seek support. Do not invent a workplace reporting policy.
 
 ## Turn individual tasks into one finished result
+
+<!-- visual:social-collaboration-handover--learner-07 -->
+<figure class="teaching-figure diagram" data-visual="social-collaboration-handover--learner-07">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-handover.svg" alt="A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing. <a class="visual-original" href="../assets/diagrams/social-collaboration-handover.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-collaboration-handover--learner-07 -->
 
 Shared work needs visible connections. A list of names beside tasks is only a beginning. The team also needs to know what each task produces, who needs that output, how it will be checked and what happens if it is delayed. A handover can be a brief spoken exchange, a labelled paper or a note in a shared document. Its purpose is to prevent someone from guessing whether unfinished work is ready.
 

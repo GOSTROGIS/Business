@@ -10,6 +10,13 @@ Try a task before checking the answer guidance. Keep a record of your method, in
 
 ## Six connected parts of numeracy
 
+<!-- visual:foundation-numeracy-map--learner-03 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-map--learner-03">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-map.svg" alt="Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-map--learner-03 -->
+
 The supplied SkillPlan guide names these six components on page 62. This chapter turns them into a repeatable working routine.
 
 | Component | What it looks like in your work |
@@ -66,6 +73,13 @@ Use the folder example as a model, but calculate the pens yourself. Show the lea
 Calculate the label order independently. Then use the folder, pen and label costs to find the goods subtotal, applicable delivery charge and complete order cost. Compare the complete cost with the $65 budget and state the size of any surplus or shortfall. A note says, “The goods cost less than $65, so the order fits.” Correct that note with evidence. Do not invent a discount or permission to omit required supplies.
 
 A fraction compares a part with a defined whole. Seven existing folders out of a target of twenty is `7/20`. Dividing gives `0.35`; multiplying by one hundred gives `35%`. These are three ways to represent the same share. The denominator must be the relevant whole, not a number chosen because it is nearby in the document. “We already have nine pens and seven folders” does not tell us which requirement is better covered because the target quantities differ.
+
+<!-- visual:foundation-numeracy-whole-packs--learner-03 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-whole-packs--learner-03">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-whole-packs.svg" alt="A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-whole-packs.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-whole-packs--learner-03 -->
 
 ### NU-05 • Compare shares fairly
 
@@ -150,6 +164,13 @@ Calculate the whole board's perimeter in metres and its area in square metres. T
 ### NU-13 • Test fit, not just total area
 
 Using the original margins, work out how many cards fit across and how many fit down. Include only the gaps between cards: two cards have one gap, three cards have two. Find the total number of cards in a rectangular arrangement. Show why a proposed three-column layout fails even if the cards' combined area seems small enough. Draw a labelled sketch that another learner can check without measuring your drawing.
+
+<!-- visual:foundation-numeracy-board-fit--learner-03 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-board-fit--learner-03">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-board-fit.svg" alt="A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-board-fit.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-board-fit--learner-03 -->
 
 ### NU-14 • Read a different unit system
 

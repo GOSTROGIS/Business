@@ -8,6 +8,13 @@ All organizations, timetables, messages and project arrangements in this chapter
 
 ## Six parts of a useful reading process
 
+<!-- visual:foundation-reading-map--learner-01 -->
+<figure class="teaching-figure diagram" data-visual="foundation-reading-map--learner-01">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-map.svg" alt="Reading has six connected components: identify the task that requires reading; identify information in the documents; connect different parts; understand and apply the information; evaluate the documents; and reflect on the documents. Six distinct icons sit on a connecting loop. Numbering identifies the components and does not prescribe a fixed sequence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Use the component numbers as an index, not a compulsory sequence. A missing date, unfamiliar word or changed question can send you back to another action. <a class="visual-original" href="../assets/diagrams/foundation-reading-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-reading-map--learner-01 -->
+
 The Skills for Success Reading components are:
 
 1. **Identify the task that requires you to read.** What are you trying to find out or do?
@@ -101,6 +108,13 @@ Find the departure and arrival for direct service A1. Identify which service lea
 
 A classmate says, “B1 arrives before B2 leaves, so the connection works.” Find the exact condition that must be checked. Does the statement meet it? Explain using the times and the minimum connection allowance. Then identify a different second-leg service that can be combined with B1.
 
+<!-- visual:foundation-reading-connection--learner-01 -->
+<figure class="teaching-figure diagram" data-visual="foundation-reading-connection--learner-01">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-connection.svg" alt="A time-scaled line shows B1 arriving at Market at 08:25. B2 leaves at 08:28, only three minutes later, so it fails the five-minute minimum connection. The earliest usable departure is 08:30. B3 leaves at 08:32, a seven-minute connection, reaches Northside at 08:47, and allows reception arrival at 08:52 after the five-minute allowance, before the 08:55 deadline." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Arriving before departure is not enough: this timetable also requires a five-minute connection. Read the condition with the row. <a class="visual-original" href="../assets/diagrams/foundation-reading-connection.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-reading-connection--learner-01 -->
+
 ## Worked example 2: combine a table and a paragraph
 
 **Question:** Does direct service A2 meet the reception deadline?
@@ -170,6 +184,13 @@ Check the actual claim, too. “Always” requires much stronger evidence than �
 Identify D1's main claim and two features that make it unreliable for a whole-project environmental conclusion. State the limited comparison D2 permits. Name two missing facts that would matter before making a broader comparison. Explain how D2's admission of limits affects its usefulness for this reading task.
 
 ## Worked example 3: resolve a version conflict
+
+<!-- visual:foundation-reading-versions--learner-01 -->
+<figure class="teaching-figure diagram" data-visual="foundation-reading-versions--learner-01">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-versions.svg" alt="The earlier introductory-group draft says Room 3 and is marked replaced. Welcome Note version 2 names the same group and explicitly replaces that draft; it directs learners to Room 2. The route is entrance, reception between 08:40 and 08:55, then Room 2." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Use the matching audience and explicit replacement statement, then follow the check-in instruction. This shows Welcome Note version 2 before the later RD-12 update. <a class="visual-original" href="../assets/diagrams/foundation-reading-versions.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-reading-versions--learner-01 -->
 
 An old classroom notice says, “Introductory group: Room 3.” Document A says “Version 2,” identifies the introductory audience and explicitly replaces the earlier Room 3 draft. It directs learners to Room 2 after reception. For this fictional visit, **use the Room 2 instruction** and check in first. This conclusion depends on the replacement statement and matching group, not only on a bigger version number.
 

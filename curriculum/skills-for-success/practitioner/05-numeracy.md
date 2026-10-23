@@ -6,6 +6,13 @@ The learner chapter offers fictional supply orders, journey planning and an info
 
 ## Use the complete numeracy cycle
 
+<!-- visual:foundation-numeracy-map--practitioner-05 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-map--practitioner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-map.svg" alt="Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-map--practitioner-05 -->
+
 The six components are identifying the task; identifying mathematical information; connecting information; applying operations and tools; interpreting and evaluating; and sharing results and implications (SkillPlan, 2024, p. 62). Keep all six visible. A worksheet that ends at a calculator answer leaves interpretation and communication unobserved. Ask what the answer means, whether it is plausible and what another person needs to know before using it.
 
 NU-01–NU-06 develop this cycle through quantities, stock, packs and budget conditions. NU-07–NU-10 use time and fares. NU-11–NU-16 distinguish units, area, perimeter, fit and data displays. NU-17–NU-18 require transfer and a numerical handover. Tables, graphs and diagrams integrate Document Use throughout (p. 63). Correct a source labelling error when planning: component 6 concerns sharing results; it is not another instance of choosing operations.
@@ -18,11 +25,25 @@ Avoid praising speed as evidence of understanding. Ask a learner who answers qui
 
 ## Make context support the mathematics
 
+<!-- visual:foundation-numeracy-board-fit--practitioner-05 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-board-fit--practitioner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-board-fit.svg" alt="A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-board-fit.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-board-fit--practitioner-05 -->
+
 The second strategy uses meaningful contexts and explicitly teaches missing foundations (pp. 65–66). Before introducing a formula, establish what is being counted or measured. Write units beside quantities. Ask for an estimate before exact calculation and a second check afterwards. A calculator is appropriate when it supports the intended task; show how to detect a mistaken input or an implausible result.
 
 Context can also overload a learner. Separate a long paragraph into a quantity table while retaining its conditions. Practise one foundational relationship, then return to the full decision. Do not replace every task with isolated arithmetic: the return to context shows whether the learner can choose and use the method. When changing a scenario, distinguish invented assumptions from real workplace specifications. These lessons do not establish material tolerances, equipment capacities or operating instructions.
 
 ## A worked teaching example: whole packs
+
+<!-- visual:foundation-numeracy-whole-packs--practitioner-05 -->
+<figure class="teaching-figure diagram" data-visual="foundation-numeracy-whole-packs--practitioner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-whole-packs.svg" alt="A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-whole-packs.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-numeracy-whole-packs--practitioner-05 -->
 
 Use the pen order in NU-03. Eighteen learners need two pens each, and the group wants four spares. The target is `18 × 2 + 4 = 40 pens`. Nine usable pens are already available, so the additional requirement is `40 − 9 = 31 pens`. Each pack contains 12 pens. Two packs provide only 24, while three provide 36; therefore the order needs three whole packs.
 

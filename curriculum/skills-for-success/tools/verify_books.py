@@ -3,8 +3,9 @@
 
 Run from any directory. Use --require-generated after building both books and
 --report PATH to retain a JSON result. Only pypdf and the standard library are
-required. These checks establish structural integrity and navigability; they do
-not replace curriculum, cultural-context, accessibility, or visual review.
+required. Checks cover content, links, figure placement, accessible figure
+descriptions and self-contained SVGs. They do not replace curriculum,
+cultural-context, accessibility, or visual-layout review.
 """
 
 from __future__ import annotations
@@ -17,11 +18,13 @@ from html import unescape
 from html.parser import HTMLParser
 import ipaddress
 import json
+import math
 from pathlib import Path
 import re
 import sys
 import unicodedata
 from urllib.parse import parse_qs, unquote, urlsplit
+from xml.etree import ElementTree
 
 from pypdf import PdfReader
 
@@ -102,10 +105,23 @@ class HTMLDocument(HTMLParser):
         self.links: list[str] = []
         self.headings: list[str] = []
         self.text: list[str] = []
+        self.figures: list[dict] = []
+        self._figure_stack: list[dict] = []
+        self._caption_stack: list[dict] = []
         self._heading: list[str] | None = None
         self.feed(source)
 
     def handle_starttag(self, tag, attrs):
+        attributes = dict(attrs)
+        if tag == "figure":
+            figure = {"id": attributes.get("data-visual", ""), "images": [],
+                      "caption": [], "closed": False}
+            self.figures.append(figure)
+            self._figure_stack.append(figure)
+        elif tag == "img" and self._figure_stack:
+            self._figure_stack[-1]["images"].append(attributes)
+        elif tag == "figcaption" and self._figure_stack:
+            self._caption_stack.append(self._figure_stack[-1])
         for name, value in attrs:
             if value is None:
                 continue
@@ -119,6 +135,10 @@ class HTMLDocument(HTMLParser):
     handle_startendtag = handle_starttag
 
     def handle_endtag(self, tag):
+        if tag == "figcaption" and self._caption_stack:
+            self._caption_stack.pop()
+        elif tag == "figure" and self._figure_stack:
+            self._figure_stack.pop()["closed"] = True
         if re.fullmatch(r"h[1-6]", tag) and self._heading is not None:
             self.headings.append("".join(self._heading))
             self._heading = None
@@ -127,6 +147,8 @@ class HTMLDocument(HTMLParser):
         self.text.append(data)
         if self._heading is not None:
             self._heading.append(data)
+        if self._caption_stack:
+            self._caption_stack[-1]["caption"].append(data)
 
 
 def markdown_links(text: str) -> list[str]:
@@ -196,6 +218,7 @@ class Verifier:
         self._html: dict[Path, HTMLDocument] = {}
         self._anchors: dict[Path, set[str]] = {}
         self.book_specs: dict[str, dict] = {}
+        self._checked_svgs: set[Path] = set()
 
     def label(self, path: Path) -> str:
         try:
@@ -436,6 +459,175 @@ class Verifier:
                     self.check(source.with_suffix(".html").is_file(), "generated HTML",
                                f"Missing standalone chapter: {self.label(source.with_suffix('.html'))}")
 
+    def figure_image_path(self, origin: Path, source: str) -> Path | None:
+        """Resolve a figure image locally; network and embedded HTML images are invalid."""
+        try:
+            parsed = urlsplit(source)
+        except ValueError:
+            parsed = None
+        valid = bool(parsed and parsed.path and not parsed.scheme and not parsed.netloc)
+        self.check(valid, "visual images", f"Figure image must be a local file in {self.label(origin)}: {source}")
+        if not valid:
+            return None
+        base = self.repo_root if parsed.path.startswith("/") else origin.parent
+        path = (base / unquote(parsed.path).lstrip("/")).resolve()
+        self.check(path.is_file(), "visual images", f"Missing figure image in {self.label(origin)}: {source}")
+        if path.is_file() and path.suffix.casefold() == ".svg":
+            self.verify_svg(path)
+        return path
+
+    def verify_svg(self, path: Path):
+        """Check self-contained instructional SVGs without interpreting their artwork."""
+        if path in self._checked_svgs:
+            return
+        self._checked_svgs.add(path)
+        text = path.read_text(encoding="utf-8")
+        self.check(not re.search(r"<!\s*(?:DOCTYPE|ENTITY)\b", text, re.I), "SVG structure",
+                   f"SVG must not declare external entities or a DTD: {self.label(path)}")
+        try:
+            root = ElementTree.fromstring(text)
+        except ElementTree.ParseError as error:
+            self.check(False, "SVG structure", f"Invalid SVG XML in {self.label(path)}: {error}")
+            return
+        local_name = lambda tag: tag.rsplit("}", 1)[-1].casefold()
+        self.check(local_name(root.tag) == "svg", "SVG structure", f"Non-SVG root in {self.label(path)}")
+        try:
+            box = [float(v) for v in re.split(r"[\s,]+", root.get("viewBox", "").strip())]
+            valid_box = len(box) == 4 and all(math.isfinite(v) for v in box) and box[2] > 0 and box[3] > 0
+        except ValueError:
+            valid_box = False
+        self.check(valid_box, "SVG structure", f"Missing or invalid SVG viewBox: {self.label(path)}")
+        for tag in ("title", "desc"):
+            value = " ".join("".join(child.itertext()) for child in root if local_name(child.tag) == tag)
+            self.check(bool(value.strip()), "SVG accessibility", f"SVG needs a nonempty {tag}: {self.label(path)}")
+
+        def internal_reference(value: str) -> bool:
+            # Fragment references and embedded raster/font data are self-contained.
+            # Nested SVG/HTML data is excluded so scripts cannot hide in another document.
+            return value.startswith("#") or bool(re.match(
+                r"data:(?:image/(?:png|jpeg|gif|webp)|font/[\w.+-]+|application/(?:font-woff|octet-stream));base64,",
+                value, re.I))
+
+        for element in root.iter():
+            tag = local_name(element.tag)
+            self.check(tag not in {"script", "foreignobject"}, "SVG resources",
+                       f"Active SVG content ({tag}) in {self.label(path)}")
+            values = []
+            for attribute, value in element.attrib.items():
+                name = local_name(attribute)
+                self.check(not name.startswith("on"), "SVG resources",
+                           f"SVG event handler {name} in {self.label(path)}")
+                if name in {"href", "src"}:
+                    self.check(internal_reference(value.strip()), "SVG resources",
+                               f"External SVG reference in {self.label(path)}: {value[:160]}")
+                values.append(value)
+            if tag == "style":
+                values.append("".join(element.itertext()))
+            for value in values:
+                self.check(not re.search(r"@import\b", value, re.I), "SVG resources",
+                           f"SVG CSS import in {self.label(path)}")
+                for match in re.finditer(r"url\(\s*(['\"]?)(.*?)\1\s*\)", value, re.I | re.S):
+                    self.check(internal_reference(match.group(2).strip()), "SVG resources",
+                               f"External SVG CSS resource in {self.label(path)}: {match.group(2)[:160]}")
+
+    def verify_visuals(self):
+        manifest_path = self.root / "assets/visuals-manifest.json"
+        text = self.read(manifest_path, "visual manifest")
+        if not text:
+            return
+        manifest = json.loads(text)
+        entries = manifest.get("figures", []) if isinstance(manifest, dict) else manifest
+        self.check(isinstance(entries, list) and bool(entries), "visual manifest",
+                   "Visuals manifest must contain a nonempty figure array")
+        if not isinstance(entries, list):
+            return
+        cover = manifest.get("cover") if isinstance(manifest, dict) else None
+        if cover is not None:
+            self.check(isinstance(cover, dict), "visual manifest", "Cover entry must be an object")
+            if isinstance(cover, dict):
+                self.check(bool((cover.get("alt") or "").strip()), "visual accessibility",
+                           "Cover illustration needs nonempty alt text")
+                cover_path = self.figure_image_path(self.root / "index.html", cover.get("file") or "")
+                self.check(cover_path is not None and cover_path.suffix.casefold() == ".svg", "visual manifest",
+                           "Cover illustration must identify a local SVG")
+        documents: dict[Path, HTMLDocument] = {}
+        for path in self.root.rglob("*.md"):
+            documents[path.resolve()] = HTMLDocument(without_code(path.read_text(encoding="utf-8")))
+        for path in self.root.rglob("*.html"):
+            documents[path.resolve()] = self.html(path)
+        figure_paths: dict[Path, dict[str, list[Path]]] = {}
+        for path, document in documents.items():
+            by_id: dict[str, list[Path]] = {}
+            for figure in document.figures:
+                visual_id = figure["id"]
+                context = f"{self.label(path)} figure {visual_id or '(no data-visual ID)'}"
+                self.check(bool(visual_id), "visual figures", f"Missing data-visual ID: {context}")
+                self.check(visual_id not in by_id, "visual figures", f"Duplicate visual ID: {context}")
+                self.check(figure["closed"], "visual figures", f"Unclosed figure: {context}")
+                self.check(bool(figure["images"]), "visual figures", f"Figure has no image: {context}")
+                self.check(bool("".join(figure["caption"]).strip()), "visual accessibility",
+                           f"Figure has no nonempty figcaption: {context}")
+                paths = []
+                for image in figure["images"]:
+                    self.check(bool((image.get("alt") or "").strip()), "visual accessibility",
+                               f"Figure image lacks meaningful alt text: {context}")
+                    image_path = self.figure_image_path(path, image.get("src") or "")
+                    if image_path is not None:
+                        paths.append(image_path)
+                by_id[visual_id] = paths
+            figure_paths[path] = by_id
+
+        registered: set[str] = set()
+        for entry in entries:
+            self.check(isinstance(entry, dict), "visual manifest", "Visual manifest entry must be an object")
+            if not isinstance(entry, dict):
+                continue
+            file = entry.get("file", "")
+            source = entry.get("source", "")
+            visual_id = entry.get("id") or Path(file).stem
+            self.check(bool(file and source and visual_id), "visual manifest",
+                       f"Visual manifest entry needs file, source and ID: {entry}")
+            self.check(visual_id not in registered, "visual manifest", f"Duplicate manifest visual ID: {visual_id}")
+            registered.add(visual_id)
+            asset = (self.root / file).resolve()
+            source_path = (self.root / source).resolve()
+            self.check(source_path.is_file(), "visual manifest", f"Missing visual source chapter: {source}")
+            self.check(asset.is_file(), "visual manifest", f"Missing visual asset: {file}")
+            if asset.is_file() and asset.suffix.casefold() == ".svg":
+                self.verify_svg(asset)
+            expected_documents = [source_path]
+            standalone = source_path.with_suffix(".html")
+            if standalone.is_file() or self.require_generated:
+                expected_documents.append(standalone)
+            for name, spec in self.book_specs.items():
+                if source in spec.get("chapters", []):
+                    book = self.root / f"{name}.html"
+                    if book.is_file() or self.require_generated:
+                        expected_documents.append(book.resolve())
+            for document in expected_documents:
+                actual = figure_paths.get(document, {}).get(visual_id, [])
+                self.check(asset in actual, "visual placement",
+                           f"Visual {visual_id} missing or uses wrong asset in {self.label(document)}")
+        for path, figures in figure_paths.items():
+            for visual_id in figures:
+                self.check(visual_id in registered, "visual manifest",
+                           f"Unregistered visual {visual_id} in {self.label(path)}")
+
+        skill_sources = sorted((self.root / "learner").glob("0[1-9]-*.md"))
+        expected = [self.root / "learner" / f"{stem}.md" for stem, _, _ in SKILLS]
+        self.check(skill_sources == expected, "visual skill coverage", "Visual coverage requires exactly the nine named skill chapters")
+        for source in expected:
+            versions = [source]
+            if source.with_suffix(".html").is_file() or self.require_generated:
+                versions.append(source.with_suffix(".html"))
+            for path in versions:
+                figures = figure_paths.get(path.resolve(), {})
+                count = sum(any(asset.suffix.casefold() == ".svg" for asset in assets) for assets in figures.values())
+                self.check(count >= 3, "visual skill coverage",
+                           f"{self.label(path)} needs at least 3 SVG figures; found {count}")
+        self.artifacts["visuals"] = {"manifest_entries": len(entries), "SVG_assets": len(self._checked_svgs),
+                                    "figure_occurrences": sum(len(doc.figures) for doc in documents.values())}
+
     def verify_pdfs(self):
         for stem in BOOKS:
             path = self.root / f"{stem}.pdf"
@@ -474,11 +666,68 @@ class Verifier:
             for _, _, skill in SKILLS:
                 self.check(re.search(rf"\b{re.escape(normalized(skill))}\b", body), "book chapters",
                            f"Missing {skill} text in {path.name}")
+            # SVG figures can repeat labels and IDs; require content presence,
+            # never an exact occurrence count or a fixed page count.
+            for prefix, count in [(prefix, 18) for _, prefix, _ in SKILLS] + [("CP", 12)]:
+                for number in range(1, count + 1):
+                    activity = f"{prefix}-{number:02d}"
+                    self.check(re.search(rf"\b{re.escape(normalized(activity))}\b", body), "PDF activity coverage",
+                               f"Missing activity {activity} from {path.name}")
             self.artifacts[path.name] = {"bytes": path.stat().st_size, "pages": len(reader.pages), "URI_annotations": annotations}
+
+    def verify_sampler(self):
+        """Validate the eight-page preview against the actual full-book page bounds."""
+        path = self.root / "visual-sampler.pdf"
+        manifest_path = self.root / "visual-sampler.json"
+        if not self.require_generated and not path.exists() and not manifest_path.exists():
+            self.notes.append("Not built; skipped visual-sampler.pdf")
+            return
+        text = self.read(manifest_path, "visual sampler")
+        self.check(path.is_file(), "visual sampler", "Missing visual-sampler.pdf")
+        if not text or not path.is_file():
+            return
+        manifest = json.loads(text)
+        entries = manifest.get("pages", []) if isinstance(manifest, dict) else []
+        self.check(isinstance(entries, list) and len(entries) == 8, "visual sampler",
+                   "Sampler manifest must contain eight page references")
+        if not isinstance(entries, list):
+            return
+        reader = self.pdf(path)
+        self.check(len(reader.pages) == 8, "visual sampler", "Visual sampler must contain eight PDF pages")
+        self.check(len(reader.pages) == len(entries), "visual sampler", "Sampler PDF and manifest page counts differ")
+        for number, entry in enumerate(entries, 1):
+            if not isinstance(entry, dict):
+                self.check(False, "visual sampler", f"Invalid sampler entry {number}")
+                continue
+            book, page = entry.get("book"), entry.get("page")
+            valid_book = book in {f"{stem}.pdf" for stem in BOOKS}
+            self.check(valid_book, "visual sampler", f"Unknown full book in sampler entry {number}: {book}")
+            self.check(bool((entry.get("label") or "").strip()), "visual sampler",
+                       f"Sampler entry {number} needs a label")
+            if valid_book:
+                source = self.root / book
+                self.check(source.is_file(), "visual sampler", f"Sampler source PDF missing: {book}")
+                if source.is_file():
+                    self.check(type(page) is int and 1 <= page <= len(self.pdf(source).pages), "visual sampler",
+                               f"Sampler entry {number} references an out-of-range page: {book} page {page}")
+        annotations = 0
+        for number, page in enumerate(reader.pages, 1):
+            self.check(bool((page.extract_text() or "").strip()), "visual sampler",
+                       f"Sampler page {number} has no readable text")
+            for reference in page.get("/Annots", []):
+                action = reference.get_object().get("/A")
+                if action:
+                    uri = str(action.get_object().get("/URI", ""))
+                    if uri:
+                        annotations += 1
+                        self.check(not local_host(uri), "visual sampler",
+                                   f"Localhost annotation in sampler page {number}: {uri}")
+        self.artifacts[path.name] = {"bytes": path.stat().st_size, "pages": len(reader.pages),
+                                     "source_references": len(entries), "URI_annotations": annotations}
 
     def run(self) -> dict:
         for operation in (self.verify_inventory, self.verify_activities, self.verify_manifest, self.verify_markdown,
-                          self.verify_html, self.verify_pdfs):
+                          self.verify_html, self.verify_visuals, self.verify_pdfs, self.verify_sampler):
             try:
                 operation()
             except Exception as error:

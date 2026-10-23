@@ -2,9 +2,17 @@
 
 [Download the learner textbook](learner-textbook.pdf) · [Download the practitioner guide](practitioner-guide.pdf)
 
+[Preview eight illustrated pages](visual-sampler.pdf) · [Browse the SVG index](VISUALS.md)
+
 [Read the learner book](learner-textbook.html) · [Read the practitioner book](practitioner-guide.html)
 
 Two substantial companion books expand the complete **148-page Skills for Success Get Started Guide for Practitioners**, revised March 2024, into original ACCESS Indigenous Skills 4 Success teaching prose and practice. The nine Skills for Success are taught in BC learning, work and community contexts, with asphalt paving as the starting trade connection. The colour, type and badge follow the [ACCESS Numeracy Hub](https://github.com/GOSTROGIS/access-trades-numeracy).
+
+## Visual teaching edition
+
+The books now lead with **38 SVG assets**, including a visual map and two case diagrams for every skill. Across the books there are **67 SVG placements** and four people-focused illustrations. Annotated notices, proportional time and cost diagrams, dimensioned layouts, file-version views, equipment sketches, feedback loops, prototype comparisons and lesson diagrams make the reasoning visible. A figure from the supplied guide is also reused with attribution. [Preview the redesign](visual-sampler.pdf).
+
+Worked visual checks provide model responses after practice; use the changed cases for independent evidence. On narrow screens, scroll a diagram within its frame or use its full-size link. PDFs retain vector clarity when enlarged.
 
 ## What is included
 
@@ -56,6 +64,6 @@ python curriculum/skills-for-success/tools/build_books.py
 python curriculum/skills-for-success/tools/verify_books.py --require-generated
 ```
 
-Chromium must be installed. Set `IS4S_CHROMIUM_PATH` to an alternate Chromium executable if needed. Use `--html-only` to build without PDF export. The builder serves repository files briefly on localhost to render them, uses bundled fonts, and converts PDF links to repository URLs. No external service is required. The [book manifest](book-manifest.json) controls the chapter order; [design provenance and font licences](assets/README.md) accompany the assets.
+Chromium must be installed. Set `IS4S_CHROMIUM_PATH` to an alternate Chromium executable if needed. Use `--html-only` to build without PDF export. The builder serves repository files briefly on localhost to render them, uses bundled fonts, and converts PDF links to repository URLs. No external service is required. The [book manifest](book-manifest.json) controls the chapter order and the [visual manifest](assets/visuals-manifest.json) controls managed figure blocks; [design provenance and font licences](assets/README.md) accompany the assets.
 
 See [validation results](VALIDATION.md) for the actual build, content review and artifact checks. Pilot feedback should be recorded against an activity ID, the observed issue, the proposed revision and who reviewed it; do not store identifiable learner work in the public repository.

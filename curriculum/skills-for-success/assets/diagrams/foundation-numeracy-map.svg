@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+<title id="title">Six connected numeracy actions</title>
+<desc id="desc">A numbered route connects six distinct symbols: a task sheet with a question mark for identifying the task; a magnifying glass over quantities and units for identifying mathematical information; linked loops for connecting related information; a calculator for applying operations and tools; a balance for interpreting and evaluating the result; and a speech bubble containing a chart for sharing information, results and implications. Follow steps one to three across the top, then four to six from right to left below. A red return arrow from evaluation to the task shows that checking can send you back to the original question or inputs.</desc>
+<style>text{font-family:Arial,sans-serif;fill:#1A1512}.action{font-size:24px;font-weight:700;text-anchor:middle}.prompt{font-size:20px;text-anchor:middle}.route{fill:none;stroke:#1A1512;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.icon{fill:none;stroke:#1A1512;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}</style>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1A1512"/></marker>
+<marker id="return" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D2181F"/></marker>
+</defs>
+<rect width="1000" height="580" fill="#F7F4F1"/>
+<text x="40" y="31" font-size="20" font-weight="700" letter-spacing="1">ACCESS IS4S · NUMERACY</text>
+<text x="40" y="74" font-size="34" font-weight="700">From a useful question to a checked result</text>
+<!-- Forward route: left-to-right above, right-to-left below. -->
+<path d="M 225 166 H 423" class="route" marker-end="url(#arrow)"/>
+<path d="M 575 166 H 773" class="route" marker-end="url(#arrow)"/>
+<path d="M 925 166 H 990 V 400 H 927" class="route" marker-end="url(#arrow)"/>
+<path d="M 775 400 H 577" class="route" marker-end="url(#arrow)"/>
+<path d="M 425 400 H 227" class="route" marker-end="url(#arrow)"/>
+<!-- Rechecking is part of the routine, not a seventh component. -->
+<path d="M 500 326 V 306 H 18 V 166 H 74" fill="none" stroke="#D2181F" stroke-width="2.8" stroke-dasharray="7 5" stroke-linejoin="round" marker-end="url(#return)"/>
+<text x="267" y="326" text-anchor="middle" font-size="20" font-weight="700" style="fill:#D2181F">Recheck the question or inputs</text>
+<!-- 1: a task to clarify. -->
+<circle cx="150" cy="166" r="68" fill="#FFBC00"/>
+<path d="M 119 125 H 181 V 211 H 119 Z" fill="#FFFFFF" stroke="#1A1512" stroke-width="4" stroke-linejoin="round"/>
+<rect x="133" y="118" width="34" height="16" rx="4" fill="#1A1512"/>
+<text x="150" y="193" text-anchor="middle" font-size="54" font-weight="700">?</text>
+<text x="150" y="257" class="action">1 · Identify the task</text>
+<text x="150" y="283" class="prompt">What decision is needed?</text>
+<!-- 2: find quantities, units and conditions in a source. -->
+<circle cx="500" cy="166" r="68" fill="#FFFFFF" stroke="#1A1512" stroke-width="1.5"/>
+<path d="M 463 124 H 516 V 211 H 463 Z" class="icon"/>
+<text x="475" y="157" font-size="26" font-weight="700">12</text>
+<text x="473" y="189" font-size="23">mm</text>
+<circle cx="520" cy="177" r="23" fill="#FFBC00" fill-opacity=".7" stroke="#1A1512" stroke-width="4"/>
+<path d="M 537 195 L 555 215" class="icon"/>
+<text x="500" y="257" class="action">2 · Find the information</text>
+<text x="500" y="283" class="prompt">Quantities · units · conditions</text>
+<!-- 3: connect related pieces rather than treating each in isolation. -->
+<circle cx="850" cy="166" r="68" fill="#FFFFFF" stroke="#1A1512" stroke-width="1.5"/>
+<g transform="rotate(-30 850 166)">
+<rect x="799" y="149" width="65" height="34" rx="17" fill="none" stroke="#1A1512" stroke-width="8"/>
+<rect x="836" y="149" width="65" height="34" rx="17" fill="none" stroke="#D2181F" stroke-width="8"/>
+<path d="M 832 149 H 847" fill="none" stroke="#1A1512" stroke-width="8"/>
+</g>
+<text x="850" y="257" class="action">3 · Connect the facts</text>
+<text x="850" y="283" class="prompt">Relate what you know</text>
+<!-- 4: select and use a mathematical operation or tool. -->
+<circle cx="850" cy="400" r="68" fill="#FFBC00"/>
+<rect x="815" y="353" width="70" height="95" rx="7" fill="#FFFFFF" stroke="#1A1512" stroke-width="4"/>
+<rect x="824" y="364" width="52" height="21" fill="#F7F4F1" stroke="#1A1512" stroke-width="2"/>
+<text x="874" y="382" text-anchor="end" font-size="20">26.25</text>
+<path d="M 826 400 H 840 M 833 393 V 407 M 858 400 H 872 M 827 419 L 839 431 M 827 431 L 839 419" class="icon"/>
+<path d="M 859 420 H 872 M 859 429 H 872" fill="none" stroke="#D2181F" stroke-width="4"/>
+<text x="850" y="491" class="action">4 · Calculate or measure</text>
+<text x="850" y="519" class="prompt">Choose operations and tools</text>
+<!-- 5: weigh the result against what is expected and needed. -->
+<circle cx="500" cy="400" r="68" fill="#FFFFFF" stroke="#1A1512" stroke-width="1.5"/>
+<path d="M 500 355 V 443 M 478 443 H 522 M 452 371 H 548" class="icon"/>
+<path d="M 459 372 L 444 407 H 474 Z M 541 372 L 526 407 H 556 Z" fill="#FFBC00" stroke="#1A1512" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="500" cy="370" r="6" fill="#D2181F"/>
+<path d="M 486 418 L 495 428 L 516 404" fill="none" stroke="#D2181F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="500" y="491" class="action">5 · Interpret and evaluate</text>
+<text x="500" y="519" class="prompt">Does the result make sense?</text>
+<!-- 6: share a result together with its meaning. -->
+<circle cx="150" cy="400" r="68" fill="#FFFFFF" stroke="#1A1512" stroke-width="1.5"/>
+<path d="M 108 362 H 193 V 422 H 144 L 123 441 V 422 H 108 Z" fill="#FFBC00" stroke="#1A1512" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 122 407 V 390 H 135 V 407 Z M 145 407 V 378 H 158 V 407 Z M 168 407 V 385 H 181 V 407 Z" fill="#1A1512"/>
+<text x="150" y="491" class="action">6 · Share the result</text>
+<text x="150" y="519" class="prompt">Method · meaning · next step</text>
+<text x="500" y="563" text-anchor="middle" font-size="23" font-weight="700">A useful result answers the original question.</text>
+</svg>

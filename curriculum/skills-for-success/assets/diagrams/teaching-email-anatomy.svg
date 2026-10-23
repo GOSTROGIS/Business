@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Anatomy of a clear confirmation email</title><desc id="desc">An annotated fictional email to coordinator at example dot invalid requests confirmation of Wednesday’s nine to ten thirty session for eight participants. Room three is booked; room five remains possible. The request asks for room and step-free route information by three p.m. Tuesday. The sender is Training team. No personal contact list is attached. Five callouts show recipient, subject, context, specific request and sign-off.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#1A1512"/></marker></defs>
+<rect width="1000" height="620" fill="#F7F4F1"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#1A1512">
+<text x="48" y="53" font-size="32" font-weight="700" fill="#1A1512" text-anchor="start">Make the next action easy to find</text>
+<text x="48" y="89" font-size="22" font-weight="400" fill="#1A1512" text-anchor="start">Anatomy of a fictional classroom draft</text>
+<rect x="42" y="112" width="610" height="445" rx="16" fill="white" stroke="#1A1512" stroke-width="1.5" />
+<rect x="43" y="113" width="608" height="50" rx="15" fill="#F7F4F1" stroke="none" stroke-width="1" />
+<text x="67" y="146" font-size="21" font-weight="600" fill="#1A1512" text-anchor="start">To: coordinator@example.invalid</text>
+<text x="67" y="193" font-size="22" font-weight="700" fill="#1A1512" text-anchor="start">Subject: Confirm Wednesday room</text>
+<text x="67" y="220" font-size="22" font-weight="700" fill="#1A1512" text-anchor="start">and route information</text>
+<line x1="64" y1="238" x2="628" y2="238" stroke="#c9bfb7" stroke-width="1" />
+<text x="67" y="269" font-size="21" font-weight="400" fill="#1A1512" text-anchor="start">Hello Training Coordinator,</text>
+<text x="67" y="309" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">Wednesday • 9:00–10:30 a.m. • 8 participants</text>
+<text x="67" y="338" font-size="21" font-weight="400" fill="#1A1512" text-anchor="start">Booked: Room 3. Room 5 is possible.</text>
+<rect x="63" y="356" width="567" height="89" rx="8" fill="#FFF2C7" stroke="#FFBC00" stroke-width="2" />
+<text x="77" y="386" font-size="21" font-weight="600" fill="#1A1512" text-anchor="start">Please confirm the room and step-free route</text>
+<text x="77" y="416" font-size="21" font-weight="600" fill="#1A1512" text-anchor="start">information by 3:00 p.m. Tuesday.</text>
+<text x="67" y="474" font-size="20" font-weight="400" fill="#1A1512" text-anchor="start">We will use your reply for the final notice.</text>
+<text x="67" y="513" font-size="21" font-weight="400" fill="#1A1512" text-anchor="start">Thank you,</text>
+<text x="67" y="540" font-size="21" font-weight="600" fill="#1A1512" text-anchor="start">Training team</text>
+<line x1="655" y1="140" x2="686" y2="140" stroke="#D2181F" stroke-width="2" />
+<circle cx="703" cy="140" r="16" fill="#D2181F"/><text x="703" y="147" font-size="20" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="731" y="137" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">RECIPIENT</text>
+<text x="731" y="163" font-size="18" font-weight="400" fill="#1A1512" text-anchor="start">The right person or role</text>
+<line x1="655" y1="207" x2="686" y2="207" stroke="#D2181F" stroke-width="2" />
+<circle cx="703" cy="207" r="16" fill="#D2181F"/><text x="703" y="214" font-size="20" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="731" y="204" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">SUBJECT</text>
+<text x="731" y="230" font-size="18" font-weight="400" fill="#1A1512" text-anchor="start">A useful purpose label</text>
+<line x1="655" y1="325" x2="686" y2="325" stroke="#D2181F" stroke-width="2" />
+<circle cx="703" cy="325" r="16" fill="#D2181F"/><text x="703" y="332" font-size="20" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="731" y="322" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">CONTEXT</text>
+<text x="731" y="348" font-size="18" font-weight="400" fill="#1A1512" text-anchor="start">Facts and current status</text>
+<line x1="655" y1="399" x2="686" y2="399" stroke="#D2181F" stroke-width="2" />
+<circle cx="703" cy="399" r="16" fill="#D2181F"/><text x="703" y="406" font-size="20" font-weight="700" fill="white" text-anchor="middle">4</text>
+<text x="731" y="396" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">REQUEST</text>
+<text x="731" y="422" font-size="18" font-weight="400" fill="#1A1512" text-anchor="start">What is needed, by when</text>
+<line x1="655" y1="525" x2="686" y2="525" stroke="#D2181F" stroke-width="2" />
+<circle cx="703" cy="525" r="16" fill="#D2181F"/><text x="703" y="532" font-size="20" font-weight="700" fill="white" text-anchor="middle">5</text>
+<text x="731" y="522" font-size="20" font-weight="700" fill="#1A1512" text-anchor="start">SIGN-OFF</text>
+<text x="731" y="548" font-size="18" font-weight="400" fill="#1A1512" text-anchor="start">A clear sender identity</text>
+<text x="48" y="597" font-size="20" font-weight="600" fill="#1A1512" text-anchor="start">Draft only • Room 5 is unconfirmed • No participant contact list attached</text>
+</g></svg>

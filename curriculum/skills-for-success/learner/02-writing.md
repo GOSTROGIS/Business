@@ -8,6 +8,13 @@ All people, organizations, schedules, quantities and funding arrangements below 
 
 ## Six parts of writing with a purpose
 
+<!-- visual:foundation-writing-map--learner-02 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-map--learner-02">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-map.svg" alt="Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools. <a class="visual-original" href="../assets/diagrams/foundation-writing-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-map--learner-02 -->
+
 The Skills for Success Writing components are:
 
 1. **Identify the task that requires you to write.** Name the purpose and intended reader.
@@ -52,6 +59,13 @@ Make a two-column planning table: **Include** and **Leave out**. Sort at least e
 Plan a four-part request: subject line, request, supporting context and confirmation question. Write short notes under each part. Arrange the information so the helper can answer without searching the whole paragraph. If a fact is missing, mark the question you would ask rather than inventing an answer.
 
 ## Worked example 1: turn the plan into a useful request
+
+<!-- visual:foundation-writing-request--learner-02 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-request--learner-02">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-request.svg" alt="A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking. <a class="visual-original" href="../assets/diagrams/foundation-writing-request.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-request--learner-02 -->
 
 **Subject: Request for two calculators for Practice Thursday**
 
@@ -106,6 +120,13 @@ Create and complete this practice form using case B: **Practice day; location; i
 Rewrite the draft note from case B as three or four factual sentences. Include the quantities, the independent recount, the action already taken and the next check. Mark one phrase you removed because it was unsupported. Explain how the revision lets the resource coordinator investigate without accepting an accusation as fact.
 
 ## Worked example 2: order the record for the reader
+
+<!-- visual:foundation-writing-record--learner-02 -->
+<figure class="teaching-figure diagram" data-visual="foundation-writing-record--learner-02">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-record.svg" alt="Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events. <a class="visual-original" href="../assets/diagrams/foundation-writing-record.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-writing-record--learner-02 -->
 
 An unordered note reads: “Instructor told. Twenty-two books. It said twenty-four. Counted again at 09:15. Box arrived 09:10.” A useful revision is:
 

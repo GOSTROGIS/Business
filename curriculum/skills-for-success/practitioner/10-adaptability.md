@@ -6,6 +6,13 @@ The learner chapter uses a fictional learning folder, reduced device access and 
 
 ## Keep the six components distinct
 
+<!-- visual:social-adaptability-six-components--practitioner-10 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-six-components--practitioner-10">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-six-components.svg" alt="Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-adaptability-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-six-components--practitioner-10 -->
+
 The source names responsibility; persistence and perseverance; regulating emotions when appropriate; setting or adjusting goals; planning and prioritizing; and seeking improvement (SkillPlan, 2024, p. 99). Teach responsibility as an honest account of commitments and evidence. Teach persistence as purposeful continued effort that can include changing strategy. Emotional regulation here concerns a learner-selected action that supports the task; it is not an assessment of feelings or personality.
 
 AD-01–AD-03 establish purpose and a plan. AD-04–AD-06 offer optional response strategies and boundaries. AD-07–AD-09 examine persistence. AD-10–AD-12 revise a goal and communicate the arrangement. AD-13–AD-15 use feedback and prepare for another change. AD-16–AD-18 test a strategy and assemble evidence across all components. Numeracy supports time allocation, Reading supports interpreting updates, and Communication makes changed commitments clear.
@@ -26,6 +33,13 @@ AD-06 adds an essential boundary: a request to skip a source check does not auth
 
 ## A worked teaching example: revise the folder plan
 
+<!-- visual:social-adaptability-time-plan--practitioner-10 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-time-plan--practitioner-10">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-time-plan.svg" alt="Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work. <a class="visual-original" href="../assets/diagrams/social-adaptability-time-plan.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-time-plan--practitioner-10 -->
+
 Begin with Case document 2. Thursday shrinks from 90 minutes to 60, and device access is limited to the final 25 minutes. The original digital allocation was 35 minutes. Model three columns: changed conditions, unchanged outcomes and decisions to confirm. The 30-minute reduction affects the work period; the 10-minute shortfall concerns device time. Those are related but different quantities.
 
 The note can be drafted from checked paper information before the device is available. A workable plan uses the first 35 minutes for a 25-minute draft and a 10-minute source review, then the final 25 minutes for the agreed digital actions. The offered Monday appointment supplies another 10 minutes. The instructor has agreed a Monday completion arrangement for the digital evidence; the Friday review can remain partial.
@@ -33,6 +47,13 @@ The note can be drafted from checked paper information before the device is avai
 Ask learners what this plan does and does not demonstrate. It shows planning, but actual device actions still require observation. A paper plan cannot establish saving and reopening a file. Have pairs use AD-11 to propose a schedule, then AD-12 to communicate the commitment and check the listener's understanding. Accept different workable sequences when they respect the stated conditions.
 
 ## Vary situations and make reflection actionable
+
+<!-- visual:social-adaptability-retry--practitioner-10 -->
+<figure class="teaching-figure diagram" data-visual="social-adaptability-retry--practitioner-10">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-retry.svg" alt="Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result. <a class="visual-original" href="../assets/diagrams/social-adaptability-retry.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-adaptability-retry--practitioner-10 -->
 
 The third strategy develops flexibility through varied scenarios, practice and adaptive leadership (p. 102). Introduce one manageable change at a time: a different file layout, revised information or an unavailable resource. Give enough information to reason and a route to clarify what remains unknown. Avoid surprise pressure as a proxy for authentic learning.
 

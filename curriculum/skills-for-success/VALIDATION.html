@@ -5,7 +5,7 @@
 </head><body class="reading"><a class="skip" href="#content">Skip to learning material</a>
 <nav class="toolbar" aria-label="Book resources"><a href="./index.html">ACCESS IS4S books</a></nav>
 <header class="reading-mast"><img src="./assets/is4s-badge.svg" width="100" height="100" alt="ACCESS Indigenous Skills4Success"><p class="eyebrow">ACCESS IS4S · Learning resources</p></header><main id="content" class="reading-sheet"><h1 id="build-and-content-validation">Build and content validation</h1>
-<p>Validated <strong>23 October 2026</strong> for the first ACCESS IS4S curriculum-development edition. These checks establish source coverage, internal consistency and artifact integrity. Instructor pilot, learner feedback and local Indigenous community review remain delivery work; the materials do not claim those reviews have occurred.</p>
+<p>Validated <strong>23 October 2026</strong> for the second ACCESS IS4S visual teaching edition. These checks establish source coverage, internal consistency and artifact integrity. Instructor pilot, learner feedback and local Indigenous community review remain delivery work; the materials do not claim those reviews have occurred.</p>
 <h2 id="delivered-books">Delivered books</h2>
 <div class="table-wrap" tabindex="0" role="region" aria-label="Learning table"><table>
 <thead>
@@ -18,12 +18,12 @@
 <tbody>
 <tr>
 <td><a href="learner-textbook.pdf">Learner textbook</a></td>
-<td>104</td>
+<td>129</td>
 <td>12 chapters including the nine skills, two integrated projects, reference and portfolio.</td>
 </tr>
 <tr>
 <td><a href="practitioner-guide.pdf">Practitioner guide</a></td>
-<td>155</td>
+<td>185</td>
 <td>13 teaching chapters, 10 answer sections and three research/reference sections.</td>
 </tr>
 </tbody>
@@ -39,14 +39,23 @@
 <li>Independent project review checked both project budgets, revised totals, capacity, rotation feasibility, schedules, activity IDs and response word limits.</li>
 <li>Feedback labels are consistent: Not observed; Not yet demonstrated; Demonstrated with support; Demonstrated independently. Official proficiency levels are not inferred from these local records. Writing, Digital, Communication and Collaboration retain observable evidence appropriate to each skill.</li>
 </ul>
+<h2 id="visual-teaching-validation">Visual teaching validation</h2>
+<ul>
+<li><strong>38 unique SVG assets</strong>: 37 newly authored graphics and one attributed vector extraction from the supplied guide. The two covers and 65 body placements provide <strong>67 SVG placements</strong> across the books. Four generated illustrations add fictional human context.</li>
+<li>Every learner skill chapter contains a six-component map and two case-specific diagrams. Matching diagrams appear in the practitioner teaching chapters. Three more diagrams support the two integrated projects and the learning portfolio.</li>
+<li>The canonical visual manifest records <strong>69 body figure placements</strong> with an exact source location, caption and alternative text. All managed blocks occur once per source chapter and once in each intended reading/book output. Reinstalling them is idempotent.</li>
+<li>Independent diagram reviews checked time scales, quantities, costs, measurement intervals, case versions, equipment roles, component labels and capstone boundaries. Text bounds and rendered images were checked; identified label overlaps were corrected before export.</li>
+<li>PDF inspection confirms the graphics remain vectors: the full learner PDF has one raster-image placement and the practitioner PDF has three, matching the four contextual illustrations. All pages contain text. Both PDFs retain their tagged structure, bookmarks and valid companion-book page links.</li>
+<li>The <a href="visual-sampler.pdf">eight-page visual sampler</a> gives a quick view of the redesigned cover, component map, numerical diagrams, equipment roles, revised timetable, fishbone and annotated email.</li>
+</ul>
 <h2 id="research-and-presentation-checks">Research and presentation checks</h2>
 <p>The research ledger contains <strong>15 online source records and 11 search records</strong>, with retrieval status, exact source URLs, supported claims and limitations. Current federal pages and BC institutional resources were inspected; unavailable original pages and unreviewed linked reports are explicitly distinguished. No scraped third-party pages or downloaded research PDFs are redistributed in this directory.</p>
-<p>Desktop, tablet and mobile browser checks covered both complete books and their landing page at <strong>390, 768 and 1440 pixels</strong>. All nine combinations loaded bundled fonts and images, produced no page errors or failed requests, and had no page-level horizontal overflow. Wide tables remain horizontally scrollable within their own regions on small screens.</p>
-<p>Visual inspection covered the cover, contents, opening chapter, activity/worked-example layout, practitioner teaching pages, reference layout and mobile reading. Print checks confirm every PDF page contains body text. Chapter headings begin on new pages; table headers repeat, rows avoid splitting where they fit, and worked examples use the Hub's gold treatment. The bibliography uses a compact reference layout. These checks do not constitute a full assistive-technology or PDF accessibility certification.</p>
+<p>Desktop, tablet and mobile browser checks covered both complete books and their landing page at <strong>390, 768 and 1440 pixels</strong>. All nine combinations loaded bundled fonts and images, produced no page errors or failed requests, and had no page-level horizontal overflow. Wide tables and diagrams remain horizontally scrollable within their own regions on small screens. Figures also link to the full-size asset; SVG labels remain sharp when enlarged.</p>
+<p>Visual inspection covered the revised covers, component maps, numerical/technical diagrams, communication and social-skill sequences, projects, practitioner teaching diagrams, source inset and mobile reading. Print checks confirm every PDF page contains body text. Chapter headings begin on new pages; table headers repeat, rows avoid splitting where they fit, and worked examples use the Hub's gold treatment. The bibliography uses a compact reference layout. These checks do not constitute a full assistive-technology or PDF accessibility certification.</p>
 <h2 id="reproduce-the-structural-checks">Reproduce the structural checks</h2>
 <pre><code class="language-sh">python -m pip install -r curriculum/skills-for-success/tools/requirements.txt
 python curriculum/skills-for-success/tools/build_books.py
 python curriculum/skills-for-success/tools/verify_books.py --require-generated --report /tmp/is4s-book-verification.json
 </code></pre>
-<p>The verifier checks source identity, complete page coverage, component/strategy/activity inventory, paired activity IDs and answer bodies, manifest membership, book titles and chapter presence, local links and fragments, PDF source-page bounds, generated HTML identifiers, nonempty PDF pages and absence of localhost PDF links. It skips external URL validation because the live research ledger records those checks separately. The script itself was checked against deliberately invalid paths, fragments, page targets and localhost URLs in temporary files.</p>
+<p>The verifier checks source identity, complete page coverage, component/strategy/activity inventory, paired activity IDs and answer bodies, manifest membership, book titles and chapter presence, local links and fragments, PDF source-page bounds, generated HTML identifiers, nonempty PDF pages, absence of localhost PDF links, all 174 activity IDs in both PDFs, figure placement, image alternative text, captions, SVG accessibility metadata and self-contained SVG resources. It requires at least three SVG figures in each of the nine learner skill chapters. It skips external URL validation because the live research ledger records those checks separately. The script itself was checked against deliberately invalid paths, fragments, page targets and localhost URLs in temporary files.</p>
 <p>The build requires Python dependencies and a Chromium executable. <code>--html-only</code> supports environments without PDF rendering. The repository retains the supplied source PDFs, original asphalt A1 unit and earlier program research; this expansion adds the foundation books without claiming completion of the full asphalt trade curriculum.</p></main><footer class="site-footer">ACCESS · Indigenous Skills 4 Success · Curriculum development edition · 23 October 2026</footer></body></html>

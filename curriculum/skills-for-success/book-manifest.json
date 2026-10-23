@@ -1,5 +1,5 @@
 {
-  "edition": "1",
+  "edition": "2 — visual teaching edition",
   "date": "2026-10-23",
   "skills": [
     "Reading",
@@ -17,7 +17,7 @@
       "name": "learner-textbook",
       "title": "Nine skills for learning, work and community",
       "short_title": "Learner textbook",
-      "eyebrow": "Book 1 \u00b7 Learner textbook",
+      "eyebrow": "Book 1 · Learner textbook",
       "description": "Build the nine Skills for Success through clear explanations, worked examples, 162 skill activities and two integrated projects.",
       "edition_note": "Begin with a useful goal and the skills you already bring. This learner textbook expands all 54 skill components into original instruction and practice. Use it with the practitioner companion for feedback, answer guidance and teaching support.",
       "chapters": [
@@ -39,7 +39,7 @@
       "name": "practitioner-guide",
       "title": "Teaching the nine Skills for Success",
       "short_title": "Practitioner guide",
-      "eyebrow": "Book 2 \u00b7 Practitioner guide and answer companion",
+      "eyebrow": "Book 2 · Practitioner guide and answer companion",
       "description": "A complete ACCESS IS4S reworking of the supplied guide: framework, six teaching approaches, nine skills, integrated lessons, assessment and practitioner development.",
       "edition_note": "This practitioner companion reworks the instructional scope of the complete 148-page SkillPlan guide in original prose and activities. It includes teaching decisions, complete lesson materials and answer guidance for every learner activity. Source bibliography entries are preserved as an attributed index; outside works are not presented as independently verified unless the research record says so.",
       "chapters": [

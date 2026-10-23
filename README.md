@@ -4,7 +4,7 @@
 
 [Open the books](curriculum/skills-for-success/README.md) · [Learner textbook (PDF)](curriculum/skills-for-success/learner-textbook.pdf) · [Practitioner guide (PDF)](curriculum/skills-for-success/practitioner-guide.pdf)
 
-The complete 148-page Skills for Success guide has been reworked into two substantial ACCESS IS4S companion books: all 54 components, 162 skill activities, two integrated projects, complete teaching lessons and answer guidance. Original BC learning and community examples, current online research and a full source crosswalk are included. The design follows the Numeracy Hub. Instructor-review and pilot edition.
+The complete 148-page Skills for Success guide has been reworked into two substantial ACCESS IS4S companion books: all 54 components, 162 skill activities, two integrated projects, complete teaching lessons and answer guidance. The visual edition adds 38 SVG assets, four illustrations and an [eight-page preview](curriculum/skills-for-success/visual-sampler.pdf). Original BC learning and community examples, current online research and a full source crosswalk are included. The design follows the Numeracy Hub. Instructor-review and pilot edition.
 
 ## Asphalt curriculum — start here
 

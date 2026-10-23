@@ -1,0 +1,86 @@
+[
+  {
+    "file": "assets/diagrams/foundation-reading-map.svg",
+    "source": "learner/01-reading.md",
+    "after_heading": "Six parts of a useful reading process",
+    "caption": "Use the component numbers as an index, not a compulsory sequence. A missing date, unfamiliar word or changed question can send you back to another action.",
+    "alt": "Reading has six connected components: identify the task that requires reading; identify information in the documents; connect different parts; understand and apply the information; evaluate the documents; and reflect on the documents. Six distinct icons sit on a connecting loop. Numbering identifies the components and does not prescribe a fixed sequence."
+  },
+  {
+    "file": "assets/diagrams/foundation-reading-connection.svg",
+    "source": "learner/01-reading.md",
+    "after_heading": "RD-05 • Read the condition",
+    "caption": "Arriving before departure is not enough: this timetable also requires a five-minute connection. Read the condition with the row.",
+    "alt": "A time-scaled line shows B1 arriving at Market at 08:25. B2 leaves at 08:28, only three minutes later, so it fails the five-minute minimum connection. The earliest usable departure is 08:30. B3 leaves at 08:32, a seven-minute connection, reaches Northside at 08:47, and allows reception arrival at 08:52 after the five-minute allowance, before the 08:55 deadline."
+  },
+  {
+    "file": "assets/diagrams/foundation-reading-versions.svg",
+    "source": "learner/01-reading.md",
+    "after_heading": "Worked example 3: resolve a version conflict",
+    "caption": "Use the matching audience and explicit replacement statement, then follow the check-in instruction. This shows Welcome Note version 2 before the later RD-12 update.",
+    "alt": "The earlier introductory-group draft says Room 3 and is marked replaced. Welcome Note version 2 names the same group and explicitly replaces that draft; it directs learners to Room 2. The route is entrance, reception between 08:40 and 08:55, then Room 2."
+  },
+  {
+    "file": "assets/diagrams/foundation-writing-map.svg",
+    "source": "learner/02-writing.md",
+    "after_heading": "Six parts of writing with a purpose",
+    "caption": "Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools.",
+    "alt": "Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions."
+  },
+  {
+    "file": "assets/diagrams/foundation-writing-request.svg",
+    "source": "learner/02-writing.md",
+    "after_heading": "Worked example 1: turn the plan into a useful request",
+    "caption": "A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking.",
+    "alt": "A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45."
+  },
+  {
+    "file": "assets/diagrams/foundation-writing-record.svg",
+    "source": "learner/02-writing.md",
+    "after_heading": "Worked example 2: order the record for the reader",
+    "caption": "Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events.",
+    "alt": "Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed."
+  },
+  {
+    "file": "assets/diagrams/foundation-numeracy-map.svg",
+    "source": "learner/03-numeracy.md",
+    "after_heading": "Six connected parts of numeracy",
+    "caption": "Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table.",
+    "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task."
+  },
+  {
+    "file": "assets/diagrams/foundation-numeracy-whole-packs.svg",
+    "source": "learner/03-numeracy.md",
+    "after_heading": "NU-04 • Complete and evaluate the order",
+    "caption": "Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional.",
+    "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15."
+  },
+  {
+    "file": "assets/diagrams/foundation-numeracy-board-fit.svg",
+    "source": "learner/03-numeracy.md",
+    "after_heading": "NU-13 • Test fit, not just total area",
+    "caption": "Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size.",
+    "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit."
+  },
+  {
+    "file": "assets/diagrams/foundation-digital-map.svg",
+    "source": "learner/04-digital.md",
+    "after_heading": "Six parts of Digital",
+    "caption": "Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence.",
+    "alt": "Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order."
+  },
+  {
+    "file": "assets/diagrams/foundation-digital-versions.svg",
+    "source": "learner/04-digital.md",
+    "after_heading": "DG-06 • Make a usable second version",
+    "caption": "A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example.",
+    "alt": "A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review."
+  },
+  {
+    "file": "assets/diagrams/foundation-digital-privacy.svg",
+    "source": "learner/04-digital.md",
+    "after_heading": "DG-14 • Make a practice sharing decision",
+    "caption": "Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool.",
+    "alt": "The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions."
+  }
+]

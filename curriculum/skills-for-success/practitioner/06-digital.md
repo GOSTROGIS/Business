@@ -6,6 +6,13 @@ The learner chapter uses fictional classroom equipment-card records and training
 
 ## Cover the six components through purposeful actions
 
+<!-- visual:foundation-digital-map--practitioner-06 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-map--practitioner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-map.svg" alt="Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence. <a class="visual-original" href="../assets/diagrams/foundation-digital-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-map--practitioner-06 -->
+
 The source identifies using devices, common tools, digital information, online platforms, safe and responsible practices, and updating digital skills (SkillPlan, 2024, p. 71). DG-01–DG-03 establish device and file control. DG-04–DG-06 build a useful record. DG-07–DG-09 examine digital information; DG-10–DG-12 address public online sources and navigation. DG-13–DG-15 develop protection and sharing decisions. DG-16–DG-18 ask learners to test a new method and plan transfer.
 
 Document Use appears in tables, menus, forms, search results and file structures. Reading supports source evaluation, Numeracy supports formulas, and Problem Solving supports troubleshooting. Name these connections, then keep the evidence precise. A learner who explains a paper screenshot has demonstrated useful reasoning but has not yet demonstrated control of the application.
@@ -30,6 +37,13 @@ Use small iterations: create a draft, test it, receive a change and check the re
 
 ## A worked teaching example: check the changed record
 
+<!-- visual:foundation-digital-versions--practitioner-06 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-versions--practitioner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-versions.svg" alt="A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example. <a class="visual-original" href="../assets/diagrams/foundation-digital-versions.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-versions--practitioner-06 -->
+
 In DG-05 the fictional card record contains 24 prepared sets and 16 checked sets, leaving eight. Demonstrate `prepared − checked = remaining` using the first row: `8 − 5 = 3 sets`. Explain that a formula performs a relationship; it does not establish whether the entries are correct. Check each row against the supplied case, then compare the totals.
 
 For DG-06, two additional Road users sets are checked. Its checked count changes from seven to nine while prepared sets remain ten. The row now has one remaining set. Total checked becomes 18 and total remaining becomes six; `24 − 18 = 6` confirms the relationship. Ask the learner to predict the change before editing and explain why prepared sets stay unchanged. Save the second version and reopen it.
@@ -37,6 +51,13 @@ For DG-06, two additional Road users sets are checked. Its checked count changes
 Collect the editable file, a brief change note and an observed explanation. A screenshot may show the result but cannot establish that the learner can edit, retrieve or inspect a formula. If formulas are not the intended target, a clearly documented alternative calculation can support the task; record exactly what was used.
 
 ## Teach protection without collecting secrets
+
+<!-- visual:foundation-digital-privacy--practitioner-06 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-privacy--practitioner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-privacy.svg" alt="The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool. <a class="visual-original" href="../assets/diagrams/foundation-digital-privacy.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-privacy--practitioner-06 -->
 
 Use the suspicious-message case and practice sharing decisions in DG-13–DG-15. Ask what the requester needs, what remains uncertain and how to verify through a known channel. Discuss unique passwords, suitable password management and multifactor authentication using fictional examples and the program's current guidance. Never ask learners to reveal a password, recovery code or private account screen. Explain that a public link may expose more than the immediate recipient needs.
 

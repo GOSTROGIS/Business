@@ -68,6 +68,13 @@ For examples of a checkable record, revisit [Reading](01-reading.md), [Writing](
 
 ## Add a short evidence note
 
+<!-- visual:social-portfolio--learner-11 -->
+<figure class="teaching-figure diagram" data-visual="social-portfolio--learner-11">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-portfolio.svg" alt="Five evidence examples—source explanation, draft and revision, checked working, file with observed tool use, and observed exchange—lead to an evidence note and a new attempt with a record of what happened." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Five examples of evidence types flow into a short note and a next attempt. Choose the items that fit your goal; identify your own action, supports, result and limits. Keep personal sharing and permission choices visible. <a class="visual-original" href="../assets/diagrams/social-portfolio.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-portfolio--learner-11 -->
+
 Copy this template for each selected item. A few clear sentences are enough.
 
 | Field | Your note |

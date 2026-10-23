@@ -1,5 +1,12 @@
 # Start with the skills you already use
 
+<!-- visual:community-learning--learner-00 -->
+<figure class="teaching-figure scene" data-visual="community-learning--learner-00">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/illustrations/community-learning.png" alt="Four fictional Indigenous adults compare a drawing, notebook and tablet outside a BC community learning centre, with a mountain landscape and a separated closed training road beyond." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Teaching scene</span> Skills connect learning, work and community. This original illustration depicts fictional adults in a BC learning setting. <a class="visual-original" href="../assets/illustrations/community-learning.png">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:community-learning--learner-00 -->
+
 You bring knowledge and experience to this learning. You may have organized a journey, explained an idea, compared prices, cared for someone, repaired something, asked a useful question or found a way through a changed plan. Some skills may feel familiar. Others may need a clear example, more time or a chance to practise in a new setting. This book gives you those opportunities.
 
 ACCESS IS4S uses the nine Skills for Success to support learning, work and everyday life. The chapters show practical ways to find information, use numbers, communicate, work with other people and make decisions. You do not need to know every term before you begin. Start with a task that matters to you and build from there.
@@ -17,6 +24,13 @@ You may already have a strategy that works. Perhaps you underline a date, talk t
 Learning does not have to look the same for everyone. You can ask for time to think, a demonstration, a glossary, larger print, a quieter place, accessible electronic text or help using a tool. Your instructor can explain which supports are available. You do not need to discuss private information with the group to ask what would make a task easier to access.
 
 ## Find your way through the nine skills
+
+<!-- visual:teaching-nine-skills-map--learner-00 -->
+<figure class="teaching-figure diagram" data-visual="teaching-nine-skills-map--learner-00">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-nine-skills-map.svg" alt="All nine Skills for Success connect to the learner’s purpose. Reading, writing, numeracy, digital, problem solving, communication, collaboration, adaptability, and creativity and innovation contribute to learning, work and community tasks." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Start with a useful purpose. One real task can call on several connected skills; this map is not a ranking or a required learning order. <a class="visual-original" href="../assets/diagrams/teaching-nine-skills-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-nine-skills-map--learner-00 -->
 
 Each skill chapter gives an explanation, examples and activities. The questions below can help you choose where to start. They are a navigation guide, not a test or a ranking.
 

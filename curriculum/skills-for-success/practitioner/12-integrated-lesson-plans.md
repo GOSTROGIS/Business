@@ -16,6 +16,13 @@ A learner meets the core classroom outcome when they select the intended dimensi
 
 ### Prepare the task and the space
 
+<!-- visual:measuring-together--practitioner-12 -->
+<figure class="teaching-figure scene" data-visual="measuring-together--practitioner-12">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/illustrations/measuring-together.png" alt="Two fictional Indigenous adults measure a small practice board and check a calculator in a BC training room." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Teaching scene</span> Use safe tabletop objects and give each learner a turn with the measuring tool. The illustration is contextual; the labelled SVG ruler below supplies the exact mathematical divisions. <a class="visual-original" href="../assets/illustrations/measuring-together.png">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:measuring-together--practitioner-12 -->
+
 Provide a ruler marked in millimetres, a ruler or tape marked in sixteenths of an inch, pencils, the record table below and ordinary tabletop objects such as a notebook, a paper rectangle and a small empty box. Use items the instructor has checked for suitability. A stable desk is sufficient. Learners do not climb, reach above their comfortable range, extend a tape competitively, measure electrical equipment or measure another person's body.
 
 A learner can choose a familiar safe object or use the supplied one. Record its identifier and dimension so another person knows what was measured. “Box: inside width” and “box: outside width” are different measurements. Decide which one the task requires before placing the tool. If two learners measure different dimensions, their disagreement is not necessarily a calculation error.
@@ -47,6 +54,13 @@ An inch divided into 16 equal parts has marks one-sixteenth of an inch apart. Ei
 A second measurement is useful when it checks the process. Repeating the same misalignment can produce the same wrong value. Ask the checker to inspect the selected dimension, the starting mark, the viewing position and the recorded unit. If a tool is unsuitable or the reading is unclear, state that limitation and ask for an appropriate tool. Confidence does not improve a tool's resolution.
 
 ### Worked example 1: count the divisions
+
+<!-- visual:teaching-fraction-ruler--practitioner-12 -->
+<figure class="teaching-figure diagram" data-visual="teaching-fraction-ruler--practitioner-12">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-fraction-ruler.svg" alt="Enlarged ruler segment from 3 to 4 inches, divided into sixteen equal intervals, with the fifth interval marked at 3 5/16 between 3¼ and 3½." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Five sixteenth-inch intervals beyond 3 inches give 3 5/16 inches. The enlarged illustration is not a measuring tool. <a class="visual-original" href="../assets/diagrams/teaching-fraction-ruler.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-fraction-ruler--practitioner-12 -->
 
 The end of a paper strip lies five small divisions beyond the 3-inch mark on a ruler divided into sixteenths. The whole part is 3 inches. Five divisions represent 5/16 inch. The length is therefore 3 5/16 in. As a reasonableness check, 5/16 is greater than 1/4 and less than 1/2, so the end should lie between 3 1/4 and 3 1/2 in.
 
@@ -174,6 +188,13 @@ The table also reveals two different defect types. Removing an old file may redu
 
 ### Handout P3: cause map
 
+<!-- visual:teaching-root-cause-fishbone--practitioner-12 -->
+<figure class="teaching-figure diagram" data-visual="teaching-root-cause-fishbone--practitioner-12">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-root-cause-fishbone.svg" alt="Fishbone map for the fictional packet case. File access, instructions, layout and final checking contain supplied observations; dashed questions identify hypotheses. Fifteen of 72 packets needed correction: 10 old sheets and 5 missing maps." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Observed conditions from evidence cards E1, E3 and E4 suggest questions to test. The 15 corrected packets do not establish a cause. <a class="visual-original" href="../assets/diagrams/teaching-root-cause-fishbone.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-root-cause-fishbone--practitioner-12 -->
+
 Write the effect at the centre: “Packets require correction before use.” Place possible contributing factors under the categories below. A drawn fishbone, a table or a set of movable cards is acceptable; the evidence relationship matters more than the drawing style.
 
 | Category | Possible contributing condition | Evidence card | What remains unknown? |
@@ -286,6 +307,13 @@ A message also has a channel and timing. Email can provide a record, but the sen
 The case supplies every fact needed for the draft. Learners do not have to disclose a disability, identify a classmate or describe a real accommodation. The purpose is to request relevant information while avoiding unnecessary personal detail.
 
 ### Worked comparison: unclear draft and useful revision
+
+<!-- visual:teaching-email-anatomy--practitioner-12 -->
+<figure class="teaching-figure diagram" data-visual="teaching-email-anatomy--practitioner-12">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-email-anatomy.svg" alt="Annotated fictional confirmation email for Wednesday, 9:00–10:30 a.m., eight participants. Room 3 is booked and Room 5 possible. The request asks for room and step-free route information by 3 p.m. Tuesday; no personal contact list is attached." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A concise model makes the recipient, purpose, context, request and sender visible while keeping Room 5 unconfirmed. <a class="visual-original" href="../assets/diagrams/teaching-email-anatomy.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-email-anatomy--practitioner-12 -->
 
 **Unclear draft:** “Hi, are we moving? Everyone needs to know soon. I attached all the phone numbers. Let me know.”
 

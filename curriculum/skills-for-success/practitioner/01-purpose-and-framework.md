@@ -18,6 +18,13 @@ Before delivery, choose a manageable purpose. “Use a changed training notice c
 
 ## What the nine skills describe
 
+<!-- visual:teaching-nine-skills-map--practitioner-01 -->
+<figure class="teaching-figure diagram" data-visual="teaching-nine-skills-map--practitioner-01">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-nine-skills-map.svg" alt="Nine labelled skills surround a central learner’s purpose: Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation. Every skill connects to the shared purpose." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The learner’s purpose connects all nine skills. Document use and continued learning remain visible across tasks. This is a planning map, not a sequence or proficiency scale. <a class="visual-original" href="../assets/diagrams/teaching-nine-skills-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:teaching-nine-skills-map--practitioner-01 -->
+
 The Skills for Success framework, launched in 2021, describes foundational skills used in work, learning and life. The skills overlap and interact with technical knowledge and other experience. They are not a list of occupations, a personality inventory or an ordered ranking of people. SkillPlan explains this relationship and the expanded model on pp.10–11. The short descriptions below are our paraphrases for planning instruction. [S1, pp.10–11]
 
 | Skill | Useful instructional question | Evidence you could observe |
@@ -37,6 +44,13 @@ These examples cover selected actions. Each skill has a fuller component structu
 Consider a learner checking a revised session notice. Reading helps locate the new time and compare versions. Numeracy may help calculate a journey duration. Digital may help retrieve the latest file. Communication helps clarify an unresolved detail. Adaptability helps revise the plan. You can recognize the whole task while focusing the observation on whether the learner used the correct version. The framework gives a way to distinguish evidence within integrated work.
 
 ## Preserve useful Essential Skills work and update its purpose
+
+<!-- visual:source-transition-chart--practitioner-01 -->
+<figure class="teaching-figure source-diagram" data-visual="source-transition-chart--practitioner-01">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/source-transition-chart.svg" alt="Original SkillPlan transition chart links historical Essential Skills labels to Skills for Success labels. Document Use branches to reading, numeracy and writing; the accompanying text qualifies the simplified historical arrows." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Source figure</span> Original historical transition chart from SkillPlan’s Skills for Success Get Started Guide for Practitioners (March 2024), p.18. Document Use remains embedded; continued learning is relevant across skills. Read these arrows with the explanation below, rather than as exact one-to-one equivalents. <a class="visual-original" href="../assets/diagrams/source-transition-chart.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:source-transition-chart--practitioner-01 -->
 
 The older Essential Skills framework supported occupational profiles, document-based teaching and task complexity. SkillPlan traces that history on pp.12–16. Existing materials can still contain useful notices, forms, diagrams and questions. A transition requires more than replacing the old title with the new one. Check what the learner actually does, whether the document is current and how the task relates to the expanded skill components. [S1, pp.12–18]
 

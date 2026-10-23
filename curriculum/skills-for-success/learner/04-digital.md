@@ -8,6 +8,13 @@ The cases in this chapter concern a **fictional training centre in B.C.** All na
 
 ## Six parts of Digital
 
+<!-- visual:foundation-digital-map--learner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-map--learner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-map.svg" alt="Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence. <a class="visual-original" href="../assets/diagrams/foundation-digital-map.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-map--learner-04 -->
+
 The following component names appear in the supplied SkillPlan guide on page 71. The activities develop selected beginner and extending applications of every component; completing them does not establish an official proficiency level.
 
 | Component | What it means in this chapter | Main evidence |
@@ -76,6 +83,13 @@ Create the four-column table from Case A. Enter and check every row, calculate r
 ### DG-06 • Make a usable second version
 
 A reviewer checks two more **Road users** sets; no new sets are prepared. Update the checked value from 7 to 9 and save a second version. Record what changed and who made the practice update using your learning ID. Check the new totals and remaining count. Show both versions, identify the current one, and explain how a future reader would know which to use. Do not delete the earlier version until the exercise review is complete.
+
+<!-- visual:foundation-digital-versions--learner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-versions--learner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-versions.svg" alt="A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example. <a class="visual-original" href="../assets/diagrams/foundation-digital-versions.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-versions--learner-04 -->
 
 ## Find and judge information before using it
 
@@ -160,6 +174,13 @@ Identify four details in Case C that need attention. Give a sequence of actions 
 ### DG-14 • Make a practice sharing decision
 
 Duplicate the current card-count file for this simulation. Add the reviewer note **Check remaining sets against the current practice version** and a dummy column labelled **personal phone**, containing the literal words **sample only** in each row. Then create a review copy containing only the information needed to check the counts. Remove the unnecessary dummy column and explain the choice. Never add a real phone number. If an approved classroom sharing tool is available, inspect the recipient and access options with the instructor before a dummy-data demonstration. Otherwise, demonstrate the local review copy and record online permission-setting as not observed.
+
+<!-- visual:foundation-digital-privacy--learner-04 -->
+<figure class="teaching-figure diagram" data-visual="foundation-digital-privacy--learner-04">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-privacy.svg" alt="The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool. <a class="visual-original" href="../assets/diagrams/foundation-digital-privacy.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:foundation-digital-privacy--learner-04 -->
 
 ### DG-15 • Practise account-protection reasoning
 

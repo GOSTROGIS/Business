@@ -10,6 +10,13 @@ All cases, people, times and arrangements are invented classroom examples. The a
 
 ## Six connected components
 
+<!-- visual:middle-communication-components--learner-06 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-components--learner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-components.svg" alt="Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order. <a class="visual-original" href="../assets/diagrams/middle-communication-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-components--learner-06 -->
+
 The component names below come from page 85 of the supplied SkillPlan guide. Use appropriate communication modes to demonstrate each purpose.
 
 | Component | What you practise | Main evidence |
@@ -55,6 +62,13 @@ Partner A sends the Case A message in the agreed mode. Partner B receives it, th
 
 ## Listen to understand, then check
 
+<!-- visual:middle-communication-check-back--learner-06 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-check-back--learner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-check-back.svg" alt="Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message. <a class="visual-original" href="../assets/diagrams/middle-communication-check-back.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-check-back--learner-06 -->
+
 Understanding means more than remembering isolated words. Connect the details to the speaker's purpose. In Case A, the room change matters because someone following the earlier notice could go to the wrong place. The statement that the activity stays indoors limits what the listener should assume about equipment or travel. The access-contact instruction offers a private route without promising a particular adjustment before it is discussed.
 
 Paraphrasing means expressing the message in your own words while keeping its meaning. It is not adding what you think the speaker should have said. A useful check-back is short enough for the sender to confirm or correct. You can then ask about an unresolved detail. Confirmation is a two-way action: the sender needs to notice whether the paraphrase is accurate, not simply say “yes” to finish the conversation.
@@ -88,6 +102,13 @@ Plain language preserves accuracy. “The screed helps control the thickness of 
 Check reference words such as “it,” “that” and “over there.” They may be clear to someone standing beside you and unclear to a person on a phone or using a text version. Name the item or location. If a sequence matters, use numbered steps or clear transition words. Avoid packing a change, an exception and a new request into one long sentence.
 
 ## Case document B • Two people understood different tasks
+
+<!-- visual:middle-communication-equipment--learner-06 -->
+<figure class="teaching-figure diagram" data-visual="middle-communication-equipment--learner-06">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-equipment.svg" alt="Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only. <a class="visual-original" href="../assets/diagrams/middle-communication-equipment.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-communication-equipment--learner-06 -->
 
 > **Fictional pair activity**
 >

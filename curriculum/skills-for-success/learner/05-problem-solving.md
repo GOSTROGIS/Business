@@ -8,6 +8,13 @@ The cases involve classroom scheduling, learning documents and a community infor
 
 ## Six steps that can loop back
 
+<!-- visual:middle-problem-solving-components--learner-05 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-components--learner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-components.svg" alt="A six-action loop links identifying an issue, gathering information, analyzing the issue, developing multiple routes, addressing the issue, and evaluating effectiveness, with a return arrow for new evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> All six Problem Solving components contribute to a reasoned decision. New evidence can send you back to an earlier action; returning to check a fact is useful progress. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-components--learner-05 -->
+
 The component names below follow SkillPlan's supplied guide, page 78. You may return to an earlier step when a new fact changes the picture. Returning to gather information is progress when it prevents an unsupported decision.
 
 | Component | Practical question | Main chapter evidence |
@@ -119,6 +126,13 @@ A fictional colleague says, “The new folder proves that people were careless b
 
 ## Develop options before selecting one
 
+<!-- visual:middle-problem-solving-routes--learner-05 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-routes--learner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-routes.svg" alt="Two feasible schedules: five devices in two groups finish at 09:55 for $40; three devices in groups of three, three, three and one finish at 10:55 for no extra cost, with early departures first." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Two routes meet the required individual turns, availability and budget. The shorter route costs $40; the longer route requires the three early departures to go first. Group segments share the same time scale. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-routes.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-routes--learner-05 -->
+
 Options should be genuinely different ways to address the issue. “Tell people more firmly,” “give a stronger reminder” and “repeat the instruction louder” may be three versions of the same approach. A different option might change the file arrangement, provide a visible example, add a check before printing or allow a different way to access the instruction. Generate possibilities first, then compare their likely effects and constraints.
 
 Mandatory criteria come before preferences. An option that cannot meet a required access need does not become suitable because it is cheap. An option outside the authorized budget needs a new decision by the responsible person; a learner cannot make the limit disappear by giving cost a low score. After checking requirements, compare useful preferences such as time, simplicity, travel or the amount of new learning needed.
@@ -174,6 +188,13 @@ At 08:35, the fictional office confirms that the loan devices are unavailable. U
 Apply the six-step process to Case C. Identify the immediate display decision, the facts and missing permissions, at least two possible routes and a justified action before tomorrow. Explain how the group could remain open to a future contribution without treating a possible personal connection as permission. Write a short recommendation to the fictional coordinator. Use the supplied case; no learner needs to provide a real cultural story or photograph.
 
 ## Evaluate results and learn from them
+
+<!-- visual:middle-problem-solving-trial--learner-05 -->
+<figure class="teaching-figure diagram" data-visual="middle-problem-solving-trial--learner-05">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-problem-solving-trial.svg" alt="Thirty before-trial circles include nine corrected sets; twenty after-trial circles include one. A current-file folder and version card mark the tested change. An observation loop notes that sessions and learners may differ and there is no concurrent comparison group." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The recorded correction proportion fell from 9/30 (30%) to 1/20 (5%): 25 percentage points. The small before-and-after record supports another check, not a claim that one change alone caused the result. <a class="visual-original" href="../assets/diagrams/middle-problem-solving-trial.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:middle-problem-solving-trial--learner-05 -->
 
 Evaluation asks whether the response achieved its intended purpose, what else happened and what should be done next. Decide what evidence you will collect before trying the change. In Case A, useful evidence includes whether every learner actually controlled a device, whether files were saved and reopened, whether departures were respected and whether the cost stayed within the limit. A full attendance list alone does not answer those questions.
 

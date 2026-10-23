@@ -1,5 +1,12 @@
 # Creativity and innovation — notice, make, test and improve
 
+<!-- visual:social-creativity-six-components--learner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-six-components--learner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-six-components.svg" alt="Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-creativity-six-components.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-six-components--learner-09 -->
+
 ## Useful ideas can begin with an ordinary question
 
 Creativity and innovation involve imagining possibilities, developing ideas and putting them into use. You do not need to be an artist, invent a product for sale or produce an idea nobody has ever had. An idea can be new to you or useful in a particular setting. A clearer information card, a better way to organize a practice kit or a different explanation of a number can all make learning and work easier.
@@ -83,6 +90,13 @@ Choose an assumption such as “every kit needs a separate colour,” “instruc
 
 ## Case document 2 · Three possible prototypes
 
+<!-- visual:social-creativity-three-prototypes--learner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-three-prototypes--learner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-three-prototypes.svg" alt="Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested. <a class="visual-original" href="../assets/diagrams/social-creativity-three-prototypes.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-three-prototypes--learner-09 -->
+
 **Fictional design notes.** A group develops three ideas. **Option A: labelled folders** uses one folder per kit, a large code and name on the front, and a contents list inside. A small “check needed” marker can be placed on a folder when something is missing. The marker identifies the kit status, not the person who last used it.
 
 **Option B: a matching board** shows an outlined space and label for each kind of item. Learners place returned items beside the corresponding labels. The board makes some gaps visible, but the group is unsure whether it will fit the shelf or whether small cards will stay together when moved.
@@ -132,6 +146,13 @@ Write a task for a willing partner using your prototype. Include what you will o
 Exchange prototypes with another learner or pair. Give one specific observation, one question and one suggestion tied to the brief. The author restates the feedback, decides what to use and explains the decision. If testing is not available, rehearse with the instructor and label the result as a supported walkthrough. Do not present a rehearsal as an independent user test.
 
 ## Case document 3 · Results and a changed requirement
+
+<!-- visual:social-creativity-kit-revision--learner-09 -->
+<figure class="teaching-figure diagram" data-visual="social-creativity-kit-revision--learner-09">
+<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-kit-revision.svg" alt="Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest. <a class="visual-original" href="../assets/diagrams/social-creativity-kit-revision.svg">Open full-size visual</a></figcaption>
+</figure>
+<!-- /visual:social-creativity-kit-revision--learner-09 -->
 
 **Fictional test record.** A first-time user finds the Number Check folder after reading its large name and code. They count the data table, worked example and two blank sheets correctly. When the worked example is removed for the next trial, they notice that there are only three items but do not know where to put the “check needed” slip. The slip's instruction is printed on its reverse side, which the user has not seen.
 
