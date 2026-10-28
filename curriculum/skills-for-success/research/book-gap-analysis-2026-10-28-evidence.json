@@ -1,0 +1,525 @@
+{
+  "review_date": "2026-10-28",
+  "date_timezone": "America/Los_Angeles",
+  "reviewed_revision": "928cda6f6e7434a10a25d5bb204725282be9495f",
+  "review_status": "Desk review complete; recommendations open; existing books unchanged by this review",
+  "books": [
+    {
+      "path": "curriculum/skills-for-success/learner-textbook.pdf",
+      "pages": 129,
+      "sha256": "c5e3425cbdbac2e11f6bd9fc9f86459b50d85ee3e3c9f8306271c75879f86519"
+    },
+    {
+      "path": "curriculum/skills-for-success/practitioner-guide.pdf",
+      "pages": 185,
+      "sha256": "9b30b2495d80fc17da37304aa572b1c407ac3bd62e0fc903731c23a22c3999f0"
+    }
+  ],
+  "source": {
+    "path": "curriculum/asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf",
+    "sha256": "32dad4699b1ef1ab281ad4bdf95bef310048741703fc401094c57f6c62e33caf",
+    "pages": 148
+  },
+  "structural_verification": {
+    "status": "passed",
+    "checked_at_utc": "2026-10-28T16:18:39.881899+00:00",
+    "command": "python curriculum/skills-for-success/tools/verify_books.py --require-generated",
+    "errors": [],
+    "checks": {
+      "PDF activity coverage": 348,
+      "PDF annotations": 417,
+      "SVG accessibility": 76,
+      "SVG resources": 45044,
+      "SVG structure": 114,
+      "activity coverage": 388,
+      "book chapters": 74,
+      "book identity": 8,
+      "book manifest": 80,
+      "external links skipped": 109,
+      "fragments": 1145,
+      "generated HTML": 1839,
+      "generated PDF": 6,
+      "links": 2431,
+      "markdown": 44,
+      "source identity": 7,
+      "source inventory": 709,
+      "visual accessibility": 415,
+      "visual figures": 828,
+      "visual images": 416,
+      "visual manifest": 556,
+      "visual placement": 207,
+      "visual sampler": 45,
+      "visual skill coverage": 19
+    },
+    "limits": "Offline structural verification; external URLs, instructional correctness, cultural context and visual layout require separate review."
+  },
+  "review_passes": [
+    "Pedagogy and assessment",
+    "BC Indigenous context and social-skill facilitation",
+    "Source fidelity and coverage claims",
+    "Asphalt trade alignment",
+    "Visual design and accessibility"
+  ],
+  "visual_sample": {
+    "learner_pages": 28,
+    "practitioner_pages": 23,
+    "method": "Rendered contact sheets and enlarged selected pages; not a full human accessibility evaluation",
+    "detail_pages": {
+      "learner": [
+        7,
+        34,
+        119,
+        120,
+        121
+      ],
+      "practitioner": [
+        3,
+        143,
+        144,
+        157
+      ]
+    }
+  },
+  "browser_observations": [
+    {
+      "viewport": 320,
+      "docWidth": 320,
+      "bodyFont": "16px",
+      "figures": [
+        {
+          "width": 272,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task."
+        },
+        {
+          "width": 272,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15."
+        },
+        {
+          "width": 272,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit."
+        }
+      ],
+      "tables": [
+        {
+          "width": 274,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 274,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 274,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 274,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 274,
+          "scroll": 540,
+          "label": "Learning table"
+        }
+      ],
+      "navigation": [
+        "Book resources"
+      ],
+      "keyboard_figure_scroll": {
+        "before": 0,
+        "after": 40
+      }
+    },
+    {
+      "viewport": 390,
+      "docWidth": 390,
+      "bodyFont": "16px",
+      "figures": [
+        {
+          "width": 342,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task."
+        },
+        {
+          "width": 342,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15."
+        },
+        {
+          "width": 342,
+          "scroll": 720,
+          "label": "Learning visual",
+          "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit."
+        }
+      ],
+      "tables": [
+        {
+          "width": 344,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 344,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 344,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 344,
+          "scroll": 540,
+          "label": "Learning table"
+        },
+        {
+          "width": 344,
+          "scroll": 540,
+          "label": "Learning table"
+        }
+      ],
+      "navigation": [
+        "Book resources"
+      ],
+      "keyboard_figure_scroll": {
+        "before": 0,
+        "after": 40
+      }
+    },
+    {
+      "viewport": 1280,
+      "docWidth": 1280,
+      "bodyFont": "17px",
+      "figures": [
+        {
+          "width": 936,
+          "scroll": 936,
+          "label": "Learning visual",
+          "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task."
+        },
+        {
+          "width": 936,
+          "scroll": 936,
+          "label": "Learning visual",
+          "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15."
+        },
+        {
+          "width": 936,
+          "scroll": 936,
+          "label": "Learning visual",
+          "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit."
+        }
+      ],
+      "tables": [
+        {
+          "width": 938,
+          "scroll": 938,
+          "label": "Learning table"
+        },
+        {
+          "width": 938,
+          "scroll": 938,
+          "label": "Learning table"
+        },
+        {
+          "width": 938,
+          "scroll": 938,
+          "label": "Learning table"
+        },
+        {
+          "width": 938,
+          "scroll": 938,
+          "label": "Learning table"
+        },
+        {
+          "width": 938,
+          "scroll": 938,
+          "label": "Learning table"
+        }
+      ],
+      "navigation": [
+        "Book resources"
+      ],
+      "keyboard_figure_scroll": {
+        "before": 0,
+        "after": 0
+      }
+    },
+    {
+      "projects": {
+        "viewport": 390,
+        "docWidth": 390,
+        "tables": [
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          },
+          {
+            "width": 344,
+            "scroll": 540,
+            "label": "Learning table"
+          }
+        ]
+      }
+    },
+    {
+      "svg": {
+        "width": 390,
+        "docWidth": 1000,
+        "title": "Project 2 station activities and individual tablet turns",
+        "description": "Every pair needs a 20-minute tablet activity and a 20-minute printed activity. The activities may run at the same time for different pairs. Within a tablet station block, learner 1 controls the device for ten minutes, learner 2 controls it for ten minutes, and five minutes remain for checking, saving and moving. Ten plus ten plus five makes a 25-minute block. This concept schematic does not supply the changed seven-pair rotation or resource calculations."
+      }
+    }
+  ],
+  "confirmed_crosswalk_defects": {
+    "headings_inside_cells": [
+      "### Writing",
+      "### Numeracy",
+      "### Digital",
+      "### Problem Solving",
+      "### Communication",
+      "### Collaboration",
+      "### Adaptability",
+      "### Creativity & Innovation"
+    ],
+    "affected_heading_pdf_pages": [
+      156,
+      157,
+      158,
+      159
+    ],
+    "strategy_header_columns": 4,
+    "strategy_delimiter_columns": 3,
+    "strategy_rows_rendered_as_raw_markdown": 27,
+    "strategy_pdf_pages": [
+      159,
+      160
+    ]
+  },
+  "new_external_check": {
+    "url": "https://iuoe115.ca/asphalt-laydown-operator/",
+    "checked_date": "2026-10-28",
+    "http_status": 200,
+    "observed_statement": "Four weeks; dates to be announced; Total accumulated hours equivalent to 140.",
+    "supported_claim": "The current provider page states these hours; not regulator confirmation or an ACCESS schedule.",
+    "unresolved": [
+      "Reconciliation with historical 120 technical hours",
+      "Credential/pathway wording and applicability to ACCESS"
+    ],
+    "failed_attempt": {
+      "url": "https://skilledtradesbc.ca/asphalt-pavinglaydown-technician",
+      "http_status": 403,
+      "url_provenance": "Guessed route, not an officially linked trade page",
+      "limit": "Does not establish general regulator-site unavailability or that the historical standard is superseded."
+    }
+  },
+  "findings": [
+    {
+      "id": "G01",
+      "priority": "P1",
+      "type": "Publishing defect",
+      "improvement": "Repair crosswalk headings and strategy table",
+      "proposed_responsible_role": "Curriculum editor / build maintainer",
+      "dependencies": "None",
+      "evidence_location": "research/source-coverage.md; practitioner PDF 156–160",
+      "acceptance_check": "Nine semantic skill headings; strategy table has four columns and 27 body rows; no raw Markdown; targeted generated-output check passes.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G02",
+      "priority": "P1",
+      "type": "Claim precision and content depth",
+      "improvement": "Qualify equivalence wording and leadership-adaptation coverage",
+      "proposed_responsible_role": "Curriculum lead / source reviewer",
+      "dependencies": "G01",
+      "evidence_location": "README.md; practitioner/10-adaptability.md; source PDF 102/105",
+      "acceptance_check": "Every strategy/activity maps to a specific task and treatment status; claims match evidence; leadership-training case is supplied or explicitly partial.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G03",
+      "priority": "P1",
+      "type": "Assessment delivery",
+      "improvement": "Package unfamiliar checks and criterion anchors",
+      "proposed_responsible_role": "Curriculum author / assessment lead",
+      "dependencies": "Select initial delivery slice",
+      "evidence_location": "answers/; practitioner/02-teaching-approaches.md; learner/11-reference-and-portfolio.md",
+      "acceptance_check": "Fresh complete case per skill; separate key; criterion records distinguish essential details, supports and missing evidence; actual moderation recorded after pilot.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G04",
+      "priority": "P2",
+      "type": "Learning opportunity",
+      "improvement": "Connect problem-solving plans with an observed trial",
+      "proposed_responsible_role": "Curriculum author / instructor",
+      "dependencies": "G03 criteria; CI-10–CI-15 available",
+      "evidence_location": "learner/05-problem-solving.md PS-13–PS-18; learner/09-creativity-innovation.md CI-10–CI-15",
+      "acceptance_check": "Prediction, enacted low-risk action, learner-collected observation and limited interpretation are retained; planning and simulated data remain labelled.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G05",
+      "priority": "P2",
+      "type": "Differentiation",
+      "improvement": "Supply entry bridges and chapter routes",
+      "proposed_responsible_role": "Literacy/numeracy/digital teaching team",
+      "dependencies": "Starting-task design",
+      "evidence_location": "practitioner/03-reading.md; practitioner/04-writing.md; practitioner/12-integrated-lesson-plans.md M-03/M-04",
+      "acceptance_check": "Each route includes starting evidence, short model, guided practice, materials and a return-to-core check; language and pacing piloted.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G06",
+      "priority": "P1",
+      "type": "Practical evidence",
+      "improvement": "Supply runnable Digital practice and setup instructions",
+      "proposed_responsible_role": "Digital instructor / resource developer",
+      "dependencies": "Actual cohort device/platform choice",
+      "evidence_location": "learner/04-digital.md DG-10–DG-14; Use online tools with a clear boundary",
+      "acceptance_check": "Another instructor can prepare/reset the environment; simulation is labelled; actual permissions require a learner-controlled setting change and access check on an approved platform, otherwise Not observed.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G07",
+      "priority": "P1",
+      "type": "Delivery validation",
+      "improvement": "Pilot teaching, observation and local support arrangements",
+      "proposed_responsible_role": "Delivery lead / instructors",
+      "dependencies": "G03; G05; G06; begin G08 early",
+      "evidence_location": "practitioner/13-practitioner-development.md; CP-03/CP-09; CL-12",
+      "acceptance_check": "Feasible observation rota; no concurrent demand on one observer; selected individual turns and recovery slots exist; actual timing/missing evidence recorded; real local contacts and access arrangements supplied.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G08",
+      "priority": "P1",
+      "type": "Context validation",
+      "improvement": "Record actual local review and contribution decisions",
+      "proposed_responsible_role": "ACCESS delivery lead with agreed participants",
+      "dependencies": "Relationships and participation arrangements",
+      "evidence_location": "practitioner/01-purpose-and-framework.md; research/online-research.md",
+      "acceptance_check": "Dated scoped review/response records; actual permission for specific contributions; unresolved areas stay unreviewed; fictional alternatives remain.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G09",
+      "priority": "P2",
+      "type": "Learner usability",
+      "improvement": "Improve response sheets, mobile tables and visual access",
+      "proposed_responsible_role": "Learning designer / accessibility reviewer",
+      "dependencies": "Cohort format/access needs",
+      "evidence_location": "learner PDF 7; assets/books.css; learner/10-integrated-projects.html",
+      "acceptance_check": "Usable handwriting space; simple schedules fit 320/390px; wide-region keyboard access retained; representative assistive-technology and print results documented.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G10",
+      "priority": "P1",
+      "type": "Asphalt development",
+      "improvement": "Complete source-backed A1.6/A1.8/A1.9",
+      "proposed_responsible_role": "Trade curriculum lead / research reviewer",
+      "dependencies": "Dated sources and trade review",
+      "evidence_location": "curriculum/asphalt-paving/curriculum-map.md; unit-01/instructor.md",
+      "acceptance_check": "Industry data, applicable project/regulatory documents and bounded environmental comparison are traceable, reviewed and mapped to honest completion statuses.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G11",
+      "priority": "P2",
+      "type": "Asphalt development",
+      "improvement": "Author A2–A6 and map later technical progression",
+      "proposed_responsible_role": "Trade curriculum lead / qualified provider",
+      "dependencies": "G10; G12; current documents for each unit",
+      "evidence_location": "curriculum/asphalt-paving/curriculum-map.md; supplied outline PDF 23–103",
+      "acceptance_check": "Developed units include sources, tasks, evidence and keys; whole-outline status separates mapped/authored/reviewed/delivered; practical work has its own qualified delivery conditions.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G12",
+      "priority": "P1",
+      "type": "Program information",
+      "improvement": "Reconcile historical and current provider hours/pathways",
+      "proposed_responsible_role": "Program lead / responsible provider or authority",
+      "dependencies": "Current authoritative confirmation",
+      "evidence_location": "2014 profile PDF 2–3; outline PDF 17; IUOE asphalt page checked 2026-10-28",
+      "acceptance_check": "Dated decision separates technical hours, added IS4S preparation and workplace/practical requirements; no unsupported schedule or credential claim.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G13",
+      "priority": "P2",
+      "type": "Instruction defect",
+      "improvement": "Accept evidence-based no-change outcome in CL-14",
+      "proposed_responsible_role": "Curriculum editor",
+      "dependencies": "None",
+      "evidence_location": "learner/07-collaboration.md CL-14; answers/07-collaboration.md CL-14",
+      "acceptance_check": "Prompt and key accept either useful revision or documented successful reader check; both have acceptable evidence examples.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    },
+    {
+      "id": "G14",
+      "priority": "P2",
+      "type": "Print navigation",
+      "improvement": "Add contents page numbers and preserve short task blocks",
+      "proposed_responsible_role": "Build maintainer / learning designer",
+      "dependencies": "Final pagination after content/layout edits",
+      "evidence_location": "learner PDF 2,119–122; practitioner PDF 2–3,143–144",
+      "acceptance_check": "Printed destinations match final PDF; short schedules/change cards stay together; no clipping/excessive gaps; links/bookmarks remain valid.",
+      "status": "Open at reviewed revision 928cda6; recommendation, not implemented"
+    }
+  ],
+  "not_completed_as_part_of_this_review": [
+    "Learner pilot",
+    "Local Indigenous community review",
+    "Practitioner moderation of pilot evidence",
+    "Human screen-reader evaluation",
+    "PDF/UA or WCAG conformance assessment",
+    "Physical printer/photocopier trial",
+    "Current regulator program confirmation"
+  ]
+}

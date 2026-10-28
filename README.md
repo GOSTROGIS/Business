@@ -6,6 +6,8 @@
 
 The complete 148-page Skills for Success guide has been reworked into two substantial ACCESS IS4S companion books: all 54 components, 162 skill activities, two integrated projects, complete teaching lessons and answer guidance. The visual edition adds 38 SVG assets, four illustrations and an [eight-page preview](curriculum/skills-for-success/visual-sampler.pdf). Original BC learning and community examples, current online research and a full source crosswalk are included. The design follows the Numeracy Hub. Instructor-review and pilot edition.
 
+The [28 October book review and gap analysis](curriculum/skills-for-success/research/book-gap-analysis-2026-10-28.md) identifies 14 prioritized improvements, with evidence and completion checks for teaching, assessment, visual usability, local review and the asphalt pathway.
+
 ## Asphalt curriculum — start here
 
 [Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Learner workbook (PDF)](curriculum/asphalt-paving/unit-01/learner-workbook.pdf) · [Instructor guide (PDF)](curriculum/asphalt-paving/unit-01/instructor-guide.pdf)

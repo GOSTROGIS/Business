@@ -4,6 +4,8 @@
 
 [Preview eight illustrated pages](visual-sampler.pdf) · [Browse the SVG index](VISUALS.md)
 
+[Read the 28 October book review and gap analysis](research/book-gap-analysis-2026-10-28.md) · [Improvement action register](research/book-gap-analysis-2026-10-28-actions.csv)
+
 [Read the learner book](learner-textbook.html) · [Read the practitioner book](practitioner-guide.html)
 
 Two substantial companion books expand the complete **148-page Skills for Success Get Started Guide for Practitioners**, revised March 2024, into original ACCESS Indigenous Skills 4 Success teaching prose and practice. The nine Skills for Success are taught in BC learning, work and community contexts, with asphalt paving as the starting trade connection. The colour, type and badge follow the [ACCESS Numeracy Hub](https://github.com/GOSTROGIS/access-trades-numeracy).
