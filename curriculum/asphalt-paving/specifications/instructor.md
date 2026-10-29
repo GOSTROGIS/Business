@@ -10,6 +10,10 @@ The technical reading comes from selected clauses of the **2006 Design Build Sta
 
 The workbook supplies all fictional inputs. Historical Table 501-E and Table 501-F values are identified separately. The [source map](source-map.html) gives clause numbers, PDF pages, printed footers and scope boundaries. A qualified technical reviewer and a classroom pilot remain appropriate next steps before operationally contextualized delivery. Do not record either review as complete unless it has occurred.
 
+### Trade outcomes and teaching scope
+
+The trade outline's **A5, “Describe basic road and highway profiles,” task 4**, asks learners to review specifications for different types of roads. Here you practise that document-reading skill with a clearly dated B.C. specification. The unit also introduces parts of **F2, “Verify slopes, crowns and grades,” tasks 1 and 4**: units, drawing information and calculations. SP-02 and the area exercise provide introductory context for **F3, “Describe final grade preparation,” tasks 2 and 4**: fine grading and the limit of asphalt layout. A rectangle calculation does not demonstrate grade measurement, equipment calibration or finished-mat layout. Keep those practical outcomes for supervised technical training (SkilledTradesBC, 2016, printed pp. 24, 49–51; PDF pp. 26, 51–53).
+
 ### Prepare the learning space
 
 Print or provide the workbook and the selected excerpts. Supply calculators, markers, larger-print options and an agreed folder for practice files. For SP-12 provide spreadsheet software and the [load register CSV](data/load-register-v1.csv). Practice the import yourself so identifiers remain text. Do not require a personal email address or real employer records. For a cohort of one, the facilitator acts as listener, checker and reviewer while keeping the learner's contributions distinct.
@@ -38,6 +42,8 @@ For SP-12, retain the formula bar or observe it live; a printed correct total al
 Expected address: **2006 Design Build Standard Specifications for Highway Construction; adopted 20 February 2006; Section 501, Table 501-E; PDF page 286; printed 3 of 13**. The original cover spells the month “FEBUARY”; use the normal month spelling in the learner's record without changing the stored PDF. The source publisher is the BC Ministry of Transportation, Construction and Maintenance Branch.
 
 A valid current-project completion is: “I need to confirm the governing edition, amendments, project design and authorized review route.” Do not mark the 2006 file as current because it is the available document. If learners use the printed source card instead of navigating the actual PDF, note that distinction in the reading and digital evidence.
+
+**Figure S1 check.** Learners should locate the full table title, the mm unit under Sieve Size, and the Medium Asphalt Mix heading under Percentage by Mass Passing. At 4.75 mm the Medium interval is 50–75%; the adjacent Coarse interval is 30–65%. Both are real cells, but only the requested column answers the question. Pointing at the row without identifying the column is incomplete. Offer enlargement of the original crop; do not substitute the fictional sample value for a specification limit.
 
 ### SP-02 · Put work descriptions in context
 
@@ -76,6 +82,8 @@ This exercise establishes a failed displayed grading-interval check, not permiss
 The form must provide: **truck number; ticket number and net weight; delivery time and station; area dimensions and material-rate calculations; notes for features such as letdowns/intersections/tapers**. It should also include the exercise's version, correction reason and checker/date fields. Those added workflow fields are ACCESS teaching choices, not a claim that the source lists them verbatim.
 
 An identifier connects a mass to its source ticket and helps reveal omissions or duplicates. Correcting a mass must not invent another delivery. A source paragraph on PDF 299 continues as the five-item list on PDF 300; teach readers to follow the continuation. Distinguish time from station and net load mass from vehicle-plus-load gross mass. Do not introduce a tare deduction because no gross or tare inputs are supplied.
+
+**Figure S2 check.** Item (d) belongs to the Road Checker’s Summary introduced at the end of PDF 299. “Include, but not be limited to” keeps the list open; a learner should not call five fields the entire specification. “Minimally … every 10 loads” states the calculation frequency. Ask the learner to identify those two qualifiers and explain them before choosing form fields. Accept a spoken, pointed or assistive explanation and record the support.
 
 ## Complete key · Delivery and area calculations
 
@@ -172,3 +180,11 @@ Use one row per learner and task. Suggested statuses are **demonstrated independ
 | __________________ | __________________ | __________ | __________ | __________________ |
 
 Give feedback that connects an action with its effect: “You kept the old ticket and labelled the replacement, so I could check the 198 t total.” Then identify one achievable next step. Preserve useful mistakes as learning evidence when the learner agrees; the correction trail shows reasoning and growth. Before closing, ensure every learner has a next practice opportunity and understands which classroom conclusions require a qualified project decision in real work.
+
+## References and figure credits
+
+British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). *2006 design build standard specifications for highway construction*. [Complete supplied edition](../sources/design_build_standard_specs_2006.pdf).
+
+SkilledTradesBC. (2016). *Asphalt paving/laydown technician program outline* (August 2016). [Supplied outline](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf).
+
+Figures S1 and S2 reproduce cropped regions of the 2006 specification. Each caption records the clause or table and both page-number systems. The five explanatory SVGs are original ACCESS IS4S curriculum illustrations (2026); their captions distinguish historical source identifiers or limits from invented practice data. [Crop coordinates and integrity record](crop-manifest.json).

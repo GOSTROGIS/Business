@@ -14,6 +14,8 @@ The technical reading is selected from the **2006 Design Build Standard Specific
 
 The numerical test results, loads, dimensions, people and delivery events in the exercises are invented. The table limits identified as Table 501-E or 501-F are transcribed from the historical document. Its current contractual applicability has not been established. Before using a specification on a real project, the responsible project team must identify the governing edition, amendments, design, project conditions and authorized reviewer. Classroom calculations do not authorize mix acceptance, payment decisions or equipment operation.
 
+Two source figures place the original grading table and the Road Checker’s Summary continuation beside the explanations. Their three faithful crops retain headings, units and qualifiers; APA figure notes and the [crop manifest](crop-manifest.json) make the exact source traceable.
+
 ## Teaching route
 
 Plan four 90-minute sessions, with flexibility for language, access and prior experience. The teaching guide includes a complete key, worked calculations, a role rotation, independent evidence criteria and a practical next-step record. Timings are an ACCESS teaching proposal, not a trade-program time allocation. A facilitator can act as the partner in a cohort of one.
@@ -25,9 +27,10 @@ Use the workbook on paper, in HTML, or as an editable document. The Digital acti
 From the repository root, install the existing asphalt tool requirements with `python -m pip install -r curriculum/asphalt-paving/tools/requirements.txt`. Provide Chromium through `IS4S_CHROMIUM_PATH` or install Playwright Chromium with `python -m playwright install chromium`.
 
 ```sh
+python curriculum/asphalt-paving/specifications/tools/build_source_crops.py
 python curriculum/asphalt-paving/specifications/tools/build_module.py
 python curriculum/asphalt-paving/specifications/tools/verify_module.py
 python curriculum/asphalt-paving/specifications/tools/check_browser.py
 ```
 
-The independent builder reads the Markdown, keeps local fonts and SVGs, and generates the two PDFs and four HTML reading pages. The verifier checks the original PDF hash, selected table data, exercise arithmetic, activity coverage, local links, SVG accessibility, PDF links and printed contents-page numbers. Visual inspection and qualified technical review remain separate from these automated checks.
+The independent builder reads the Markdown, keeps local fonts and SVGs, and generates the two PDFs and five HTML reading pages. The verifier checks the original PDF hash, selected table data, exercise arithmetic, activity coverage, local links, SVG accessibility, PDF links and printed contents-page numbers. Visual inspection and qualified technical review remain separate from these automated checks.

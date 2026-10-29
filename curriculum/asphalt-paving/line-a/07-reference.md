@@ -27,6 +27,10 @@
 | EPS in the 2006 specifications | End Product Specification, explicitly defined in clause 502.03.01; identify the edition and context before applying the term |
 | EPS geofoam | Expanded-polystyrene material for an engineered geotechnical application; an abbreviation's meaning still depends on context |
 
+## Read the word, find the evidence, explain the limit
+
+To practise a term, write the trade word, point to its feature or source statement, and explain the function in one plain sentence. Then say what the picture or statement cannot establish. Keep technical words intact while making the explanation easier to follow. For example: “The **asphalt course** is the surface layer shown here; this picture does not specify its required thickness.”
+
 ## Record evidence without overstating it
 
 For each selected activity, record: activity ID; date; task and document version; what you did; support used; result; check; feedback; revision; and next practice. Mark the observed skill. A group product needs an individual contribution record. An accurate calculation needs units and assumptions. A digital claim needs actual tool use. A future application is a plan until it has been observed.
@@ -67,3 +71,17 @@ British Columbia Ministry of Transportation, Construction and Maintenance Branch
 - Statistics Canada. [Canadian Business Counts, with employees, December 2025](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310109501). Published table period December 2025; release 13 February 2026; REF_DATE 2025-07 retained. Retrieved 29 October 2026.
 
 The [curated evidence register](research/source-ledger.md) gives the teaching use and limits; [exact selected excerpts and hashes](research/public-evidence.json) support checking. The [road-industry table extract](research/statcan-road-businesses.csv) preserves the nine source rows.
+
+## Trade-outline and figure references (APA 7)
+
+SkilledTradesBC. (2016). *Asphalt paving/laydown technician program outline* (August 2016). [Program outline, Line A, printed pp. 20–25 / PDF pp. 22–27](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22).
+
+ACCESS IS4S. (2026a). *Follow the material, step by step* [SVG instructional illustration]. [Local illustration](../../skills-for-success/assets/diagrams/edition3-material-flow.svg).
+
+ACCESS IS4S. (2026b). *See how the layers work together* [SVG instructional illustration]. [Local illustration](../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg).
+
+Figures LA-1 and LA-2 are original ACCESS IS4S teaching illustrations. Figure LA-3 retains the manufacturer’s component callouts and is accompanied by a selected text legend. The trade terms are connected to the supplied outline; source-specific technical claims retain their evidence cards and reference entries.
+
+LeeBoy. (2026). *LeeBoy model 8680 commercial paver: Safety and operations manual* (Manual No. 1033428-SOP). https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf
+
+Figure LA-3 uses Figure 3-1, printed p. 3-7 / PDF p. 43. The manufacturer names shown beside the crop are a selected subset of the complete legend. The [image provenance manifest](../manuals/assets/figure-manifest.json) records the original PDF hash, page and crop boundary.

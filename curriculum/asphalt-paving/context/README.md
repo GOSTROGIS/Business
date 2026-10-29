@@ -1,6 +1,6 @@
 # Asphalt PDF context library
 
-**22 PDF paths · 21 unique PDFs · 1,470 original pages · 71 PDF chunks and 71 text extracts.**
+**22 PDF paths · 21 unique PDFs · 1,492 original pages · 71 PDF chunks and 71 text extracts.**
 
 Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **4,034,508 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
@@ -8,7 +8,7 @@ Every available PDF under the asphalt curriculum is indexed here. Originals rema
 
 ## Primary textbook still pending
 
-The Asphalt Handbook, MS-4, Seventh Edition was supplied by the user on 29 October 2026, but the original upload exceeds the workspace transfer limit. The full file is not accessible here, not read, and not included or chunked. The builder can include this primary textbook after a directly accessible file or smaller uploaded parts are available. Rerun it after the real PDFs arrive; no page count, contents or source hash is invented.
+The Asphalt Handbook, MS-4, Seventh Edition was supplied by the user on 29 October 2026. Its upload exceeds the workspace transfer limit and the later Google Drive link currently requires sign-in. The full file is not accessible here, not read, converted to HTML, included or chunked. The builder can include this primary textbook after the supplied Drive file becomes accessible or smaller uploaded parts are available. Rerun it after the real PDFs arrive; no page count, contents or source hash is invented.
 
 ## How to use the chunks
 
@@ -175,84 +175,84 @@ Original: [curriculum/asphalt-paving/manuals/pdfs/multiquip-mrh800gs-operation-r
 
 ### Line A · roadbuilding foundations
 
-**PDF-1c1448e9d733** · generated-curriculum · 28 pages · original SHA-256 `1c1448e9d733dde49a829a3f3fb56d0bbd6dc319205b7dec695ebbe761eda35b`
+**PDF-aafbd57af6c1** · generated-curriculum · 34 pages · original SHA-256 `aafbd57af6c1948d25f0877ec667b32bbbd8936f81ef0cdcf153e24eb9341c7f`
 
 Original: [curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf](../line-a/roadbuilding-foundations.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–25 | [PDF](chunks/roadbuilding-foundations-1c1448e9d733/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-1c1448e9d733/p0001-0025.txt) | 255,556 | extracted |
-| 26–28 | [PDF](chunks/roadbuilding-foundations-1c1448e9d733/p0026-0028.pdf) | [Text](chunks/roadbuilding-foundations-1c1448e9d733/p0026-0028.txt) | 74,048 | extracted |
+| 1–25 | [PDF](chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.txt) | 1,613,712 | extracted |
+| 26–34 | [PDF](chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.pdf) | [Text](chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.txt) | 131,241 | extracted |
 
 ### Line A · teaching guide
 
-**PDF-cd1ab9ef3ca1** · generated-curriculum · 17 pages · original SHA-256 `cd1ab9ef3ca14236457103b3c7a4a4ca5163da374d8c2f5960d0f01037e3ed9d`
+**PDF-cf3d0ad9debb** · generated-curriculum · 17 pages · original SHA-256 `cf3d0ad9debbc5579638b7f11cda8fcd328948de2e4beb9f322dd818a6e5d879`
 
 Original: [curriculum/asphalt-paving/line-a/teaching-guide.pdf](../line-a/teaching-guide.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–17 | [PDF](chunks/teaching-guide-cd1ab9ef3ca1/p0001-0017.pdf) | [Text](chunks/teaching-guide-cd1ab9ef3ca1/p0001-0017.txt) | 153,647 | extracted |
+| 1–17 | [PDF](chunks/teaching-guide-cf3d0ad9debb/p0001-0017.pdf) | [Text](chunks/teaching-guide-cf3d0ad9debb/p0001-0017.txt) | 149,357 | extracted |
 
 ### Manuals · manual reading instructor
 
-**PDF-1396c9815f32** · generated-curriculum · 3 pages · original SHA-256 `1396c9815f32c0ea4264a0be20c9a8a649f59a253b8c33699276e79766ca90d0`
+**PDF-83e58ffbf3f8** · generated-curriculum · 5 pages · original SHA-256 `83e58ffbf3f84222dff6300497703b54f685df111ef325f6220987d07396206c`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-instructor.pdf](../manuals/manual-reading-instructor.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–3 | [PDF](chunks/manual-reading-instructor-1396c9815f32/p0001-0003.pdf) | [Text](chunks/manual-reading-instructor-1396c9815f32/p0001-0003.txt) | 51,588 | extracted |
+| 1–5 | [PDF](chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.pdf) | [Text](chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.txt) | 73,525 | extracted |
 
 ### Manuals · manual reading lesson
 
-**PDF-30c5a64d142d** · generated-curriculum · 5 pages · original SHA-256 `30c5a64d142dc60bd8b64572b82fa68ff891493c8bb12613452bdf727ecec612`
+**PDF-94613c8f1714** · generated-curriculum · 12 pages · original SHA-256 `94613c8f1714c1a5847a6b1b1902c8a43c35dd27d6826661377505d817de5fcd`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf](../manuals/manual-reading-lesson.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–5 | [PDF](chunks/manual-reading-lesson-30c5a64d142d/p0001-0005.pdf) | [Text](chunks/manual-reading-lesson-30c5a64d142d/p0001-0005.txt) | 58,972 | extracted |
+| 1–12 | [PDF](chunks/manual-reading-lesson-94613c8f1714/p0001-0012.pdf) | [Text](chunks/manual-reading-lesson-94613c8f1714/p0001-0012.txt) | 3,107,667 | extracted |
 
 ### Specifications · learner workbook
 
-**PDF-7ebd66632aab** · generated-curriculum · 15 pages · original SHA-256 `7ebd66632aab944545cf66a2c55cb154b9d2b1a1bfd872b8e50f5fffca8819d8`
+**PDF-c657077cdf0a** · generated-curriculum · 18 pages · original SHA-256 `c657077cdf0ade87f84f428a1996d9d5cf74b98a01b7ac970e0af9f2f02785ef`
 
 Original: [curriculum/asphalt-paving/specifications/learner-workbook.pdf](../specifications/learner-workbook.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–15 | [PDF](chunks/learner-workbook-7ebd66632aab/p0001-0015.pdf) | [Text](chunks/learner-workbook-7ebd66632aab/p0001-0015.txt) | 390,288 | extracted |
+| 1–18 | [PDF](chunks/learner-workbook-c657077cdf0a/p0001-0018.pdf) | [Text](chunks/learner-workbook-c657077cdf0a/p0001-0018.txt) | 671,724 | extracted |
 
 ### Specifications · teaching guide
 
-**PDF-3d72e58f4fd0** · generated-curriculum · 10 pages · original SHA-256 `3d72e58f4fd05e4806ada2c90cc04233b28cf876c7c6612d60119c60ba947dd6`
+**PDF-d0cde3dba1d1** · generated-curriculum · 11 pages · original SHA-256 `d0cde3dba1d1d619eb846d0431343f3319a5e25cc8da1f9e0438a1ce1447d030`
 
 Original: [curriculum/asphalt-paving/specifications/teaching-guide.pdf](../specifications/teaching-guide.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–10 | [PDF](chunks/teaching-guide-3d72e58f4fd0/p0001-0010.pdf) | [Text](chunks/teaching-guide-3d72e58f4fd0/p0001-0010.txt) | 120,232 | extracted |
+| 1–11 | [PDF](chunks/teaching-guide-d0cde3dba1d1/p0001-0011.pdf) | [Text](chunks/teaching-guide-d0cde3dba1d1/p0001-0011.txt) | 129,301 | extracted |
 
 ### Unit 01 · instructor guide
 
-**PDF-c90a6acb02b2** · generated-curriculum · 12 pages · original SHA-256 `c90a6acb02b2af3c281b033f8ca78f1be01a551060c102f202eb4d0d6e1b2b16`
+**PDF-adeb32a5ccf0** · generated-curriculum · 12 pages · original SHA-256 `adeb32a5ccf085cad5b140fe72ef9c2300e17a31643f8f29d52b0e89c67592ef`
 
 Original: [curriculum/asphalt-paving/unit-01/instructor-guide.pdf](../unit-01/instructor-guide.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–12 | [PDF](chunks/instructor-guide-c90a6acb02b2/p0001-0012.pdf) | [Text](chunks/instructor-guide-c90a6acb02b2/p0001-0012.txt) | 198,657 | extracted |
+| 1–12 | [PDF](chunks/instructor-guide-adeb32a5ccf0/p0001-0012.pdf) | [Text](chunks/instructor-guide-adeb32a5ccf0/p0001-0012.txt) | 200,185 | extracted |
 
 ### Unit 01 · learner workbook
 
-**PDF-83d9ca588570** · generated-curriculum · 11 pages · original SHA-256 `83d9ca58857003b7f5dee001ed63aeb0274aa681f18f620096aeb978d540d7f4`
+**PDF-5aa80142eb88** · generated-curriculum · 13 pages · original SHA-256 `5aa80142eb88cd7a627c7c3f8644d1435d01db5f23e692ac300fbc72c0f6b405`
 
 Original: [curriculum/asphalt-paving/unit-01/learner-workbook.pdf](../unit-01/learner-workbook.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–11 | [PDF](chunks/learner-workbook-83d9ca588570/p0001-0011.pdf) | [Text](chunks/learner-workbook-83d9ca588570/p0001-0011.txt) | 178,785 | extracted |
+| 1–13 | [PDF](chunks/learner-workbook-5aa80142eb88/p0001-0013.pdf) | [Text](chunks/learner-workbook-5aa80142eb88/p0001-0013.txt) | 221,559 | extracted |
 
 ### Materials · change card
 
@@ -276,13 +276,13 @@ Original: [curriculum/asphalt-paving/unit-01/materials/process-cards.pdf](../uni
 
 ### Materials · response sheet
 
-**PDF-7e63bca8a79d** · generated-curriculum · 11 pages · original SHA-256 `7e63bca8a79dca91c8bf2e0d26531183b480108b69b0e7e1a75096fc9296e6cf`
+**PDF-3096d063d181** · generated-curriculum · 12 pages · original SHA-256 `3096d063d1810114516d0e59a02da79b66cdf83bcbed08b2f0d2341664166586`
 
 Original: [curriculum/asphalt-paving/unit-01/materials/response-sheet.pdf](../unit-01/materials/response-sheet.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–11 | [PDF](chunks/response-sheet-7e63bca8a79d/p0001-0011.pdf) | [Text](chunks/response-sheet-7e63bca8a79d/p0001-0011.txt) | 105,195 | extracted |
+| 1–12 | [PDF](chunks/response-sheet-3096d063d181/p0001-0012.pdf) | [Text](chunks/response-sheet-3096d063d181/p0001-0012.txt) | 107,012 | extracted |
 
 ## Rebuild after PDFs change
 

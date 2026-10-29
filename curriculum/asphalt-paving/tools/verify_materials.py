@@ -29,6 +29,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REPOSITORY = ROOT.parents[1]
 HTML_PAGES = (
     "index.html", "curriculum-map.html", "skills-map.html",
+    "teaching-route.html", "review-and-integration.html",
     "unit-01/index.html", "unit-01/instructor.html", "unit-01/materials/index.html",
     "unit-01/materials/response-sheet.html", "unit-01/materials/change-card.html",
     "unit-01/materials/process-cards.html",

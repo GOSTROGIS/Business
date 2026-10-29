@@ -28,6 +28,8 @@ DOCUMENTS = [
     ("unit-01/instructor.md", "unit-01/instructor.html", "Teaching the opening unit", "A1 · Instructor guide", "instructor-guide.pdf"),
     ("curriculum-map.md", "curriculum-map.html", "The opening learning sequence", "Line A · Curriculum map", None),
     ("skills-map.md", "skills-map.html", "Nine skills in the work", "A1 · Skills and evidence", None),
+    ("teaching-route.md", "teaching-route.html", "Teach the trade words through useful work", "Integrated teaching route", None),
+    ("review-and-integration.md", "review-and-integration.html", "Curriculum review and integration", "Development and review record", None),
     ("unit-01/materials/README.md", "unit-01/materials/index.html", "Tools for the opening unit", "A1 · Classroom materials", None),
     ("unit-01/materials/response-sheet.md", "unit-01/materials/response-sheet.html", "Your work and reflections", "A1 · Response sheet", "response-sheet.pdf"),
     ("unit-01/materials/change-card.md", "unit-01/materials/change-card.html", "A change to the brief", "A1 · Instructor handout", "change-card.pdf"),

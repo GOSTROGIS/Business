@@ -44,6 +44,112 @@ Show a second way to reach the same page, such as searching its heading after us
 
 Also open OEM-07’s original HTML contents and follow **Record Engine Serial Number**. Record its heading and local filename. Explain why an HTML section is located by its link/title rather than assuming the PDF page number from a different document. Do not enter any real serial number. **Skills: Digital, Reading, Writing.**
 
+## See the equipment, then use the trade words
+
+The trade outline asks learners to describe paving equipment in **A1**, then develops paving-machine components in **I2**, screed functions and attachments in **J1**, and compaction equipment in **L1**. These four visual practices introduce those words through actual manufacturer figures. They build document-reading evidence; the later technical units still need their full instruction and practical assessment. The complete learning-task locations are listed in the teaching guide.
+
+Use this reading routine: **look at the whole view → find a callout → read its name → explain its function → check the complete page.** A callout is the number or letter joined to part of a drawing. A legend connects the callout to its meaning. Read both; the shape alone can mislead.
+
+### VIS-01 · Name the part and say what it does
+
+<figure class="manual-figure" id="mf-01">
+<img src="assets/crops/leeboy-8680-machine-overview.png" alt="LeeBoy 8680 paver photograph with numbered callouts 1 to 12. Callout 7 identifies the hopper, 10 the screed extension, 11 the end gate and 12 the rubber tracks. The following table gives all twelve names.">
+<figcaption><strong>Figure 1</strong><br><em>Locate the paver components.</em><br><em>Note.</em> Cropped from Figure 3-1, “Machine Overview,” in <em>LeeBoy model 8680 commercial paver: Safety and operations manual</em> (Manual No. 1033428-SOP, p. 3-7; PDF p. 43), by LeeBoy, 2026 (<a href="https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf">manufacturer PDF</a>). Copyright 2026 by LeeBoy. Original numbered callouts retained; the surrounding page and function table are outside the crop. Component names appear below. This manual applies to serial number 365152 and above.</figcaption>
+</figure>
+
+[Open the larger figure](assets/crops/leeboy-8680-machine-overview.png) · [Read the complete source page](pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=43)
+
+| Callout | Name printed in the manual | Callout | Name printed in the manual |
+|---|---|---|---|
+| 1 | Screed Control Panel | 7 | Hopper |
+| 2 | Horizontal Depth Screw | 8 | Push Rollers or Hydraulic Truck Hitch Option |
+| 3 | Beacon Light | 9 | Foldable Walkboard |
+| 4 | Main Control Panel | 10 | Screed Extension |
+| 5 | Spray Down Wand | 11 | End Gate |
+| 6 | Screed Elevation Guide | 12 | High-Speed Rubber Tracks |
+
+**Use the trade words.** A paver has a **tractor** and a **screed**. Here, *tractor* means the powered machine section that carries material and pulls the screed. The **hopper** receives asphalt mixture. **Conveyors** carry that mixture rearward; **augers** distribute it toward the screed. The screed shapes the placed layer and provides initial compaction. A **screed extension** changes the working width; an **end gate** helps form the edge. These are functions to understand before learning the actual machine's procedures.
+
+**Worked example.** “Number 10 is a screed extension. I can locate it at the side of the screed. Its role relates to paving width.” This connects a visible callout, a precise term and a function. “Number 10 is the yellow part” does not identify a function and will not help someone reading a different view.
+
+Find **7, 10, 11 and 12**. Write or dictate one name-and-function sentence for each. Check against the full source table, then explain one sentence to a partner using the picture. The listener points to the intended callout and explains what they understood. If pointing is not an accessible action, identify the number and position by words or an agreed communication method. **Skills: Reading, Writing, Communication.**
+
+### VIS-02 · Follow the material, not just the arrows
+
+<figure class="manual-figure compact-photo" id="mf-02">
+<img src="assets/crops/leeboy-8680-augers.png" alt="Close view of the auger area beneath the LeeBoy 8680 paver. The source photograph shows equipment details rather than an operating sequence. The adjoining explanation distinguishes conveyors, augers and screed.">
+<figcaption><strong>Figure 2</strong><br><em>Look at the auger area.</em><br><em>Note.</em> Cropped from the unnumbered photograph above “Augers,” in <em>LeeBoy model 8680 commercial paver: Safety and operations manual</em> (Manual No. 1033428-SOP, p. 3-6; PDF p. 42), by LeeBoy, 2026 (<a href="https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf">manufacturer PDF</a>). Copyright 2026 by LeeBoy. The complete photograph is retained; its surrounding explanation is available in the linked source page.</figcaption>
+</figure>
+
+[Open the larger figure](assets/crops/leeboy-8680-augers.png) · [Read “Augers” and “Hopper and Conveyors” together](pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=42)
+
+**Read in everyday words.** The hopper holds the delivered mixture. Conveyors move material towards the rear. Augers move material across towards the screed. The screed works on the placed layer. *Hopper*, *conveyor*, *auger* and *screed* name different components; they are not four words for the same thing.
+
+Make four labelled cards using those terms. Add one short function to each. Arrange the cards to explain the material route from receipt to the screed, then compare your explanation with the source page. Connect the two parts that mainly move material with different direction words: **rearward** and **across**. A learner's draft says, “The hopper compacts the finished mat.” Correct that sentence and explain which idea was mixed up.
+
+Try the card arrangement with a partner who has not seen your first arrangement. Record which term they found easiest and which needed clarification. Improve one label if the trial shows a problem, or keep it and explain why. A diagram of material flow does not give a safe place to stand or permission to reach into equipment. **Skills: Reading, Problem Solving, Creativity and Innovation, Collaboration.**
+
+### VIS-03 · Match the roller view to the right vocabulary
+
+<figure class="manual-figure portrait-figure" id="mf-03">
+<img src="assets/crops/multiquip-ar13-roller-components.png" alt="Numbered line drawing of an AR13HA/AR13HAR tandem drum roller. The rear drum, operator position and machine body connect to callouts 1 to 25. Selected names from the next source page are listed below.">
+<figcaption><strong>Figure 3</strong><br><em>Read a roller component diagram.</em><br><em>Note.</em> Cropped from Figure 4, “Roller Components,” in <em>AR13HA/AR13HAR ride-on tandem drum roller: Operation manual</em> (Rev. 1, p. 14), by Multiquip Inc., 2021 (<a href="https://service.multiquip.com/pdfs/AR13HA-R-rev-1-SN-110301-and-above-ops-manual.pdf">manufacturer PDF</a>). Copyright 2021 by Multiquip Inc. All callouts and the original figure caption are retained. The component descriptions follow on p. 15. Serial scope: 110301 and above.</figcaption>
+</figure>
+
+[Open the larger figure](assets/crops/multiquip-ar13-roller-components.png) · [Open the diagram and following component descriptions](pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf#page=14)
+
+| Selected callout | Name from the source legend on page 15 | What to notice in document reading |
+|---|---|---|
+| 6 | Rear Roller | The description identifies a steel drum. |
+| 16 | Hourmeter | Its reading concerns accumulated use, not travel speed. |
+| 17 | Water Tank | Water storage is a different system from the fuel tank. |
+| 19 | Operator's Seat | The diagram provides an operator position; it does not demonstrate safe operation. |
+| 21 | Seat Belt | The source description also contains a safety instruction; read that complete description. |
+| 25 | Documentation Box | The manufacturer identifies a place for the machine's manuals. |
+
+**Use the trade words.** **Drum** and **pneumatic (rubber tire)** describe different contact types. **Vibratory** and **static** describe different compaction actions: vibratory equipment adds vibration; static compaction uses load without added vibration. Those words answer different questions. The drawing shows a tandem drum roller; it does not show a pneumatic roller. The outline also names **breakdown**, **intermediate** and **finish** as phases in a compaction train. A component picture alone does not select a roller, phase, pass count or machine setting for a job.
+
+On a device, open the full PDF, find Figure 4 and then page 15. Locate three of the selected callouts and record the exact names, figure number and both page locations in your saved note. With a partner, swap the finder and checker roles for another two callouts. Keep each person's contribution.
+
+Now review a fictional draft label: “All compaction rollers are diesel powered, so this diagram shows a diesel model.” Check the cover and page 12. Revise the label using the named engine's fuel type and the stated model. Explain why neither a broad category nor a familiar picture establishes the engine specification. Save the corrected version while keeping the first draft. **Skills: Digital when performed, Reading, Collaboration, Adaptability.**
+
+### VIS-04 · Read the dimension, its letter and its unit
+
+<figure class="manual-figure portrait-figure" id="mf-04">
+<img src="assets/crops/multiquip-mrh800gs-dimensions.png" alt="Plan and side views of the MRH800GS roller with dimension letters A to L, followed by the complete table in inches and millimetres. Width F is 692 millimetres and half-width G is 346 millimetres.">
+<figcaption><strong>Figure 4</strong><br><em>Connect a dimension letter to its value.</em><br><em>Note.</em> Cropped from Figure 1, “MRH800GS Dimensions,” and Table 3, “Dimensions,” in <em>MRH800GS vibratory roller: Operation manual</em> (Rev. 10, p. 12), by Multiquip Inc., 2020 (<a href="https://www.multiquip.com/multiquip/pdfs/MRH800GS_rev_10_ops_manual.pdf">manufacturer PDF</a>). Copyright 2020 by Multiquip Inc. The complete diagram and its associated table are retained together; page header and footer are omitted.</figcaption>
+</figure>
+
+[Open the larger figure](assets/crops/multiquip-mrh800gs-dimensions.png) · [Read the full dimensions page](pdfs/multiquip-mrh800gs-operation-rev10-2020.pdf#page=12)
+
+**Metric reading table.** The following values are transcribed from Table 3 so the dimensions can also be read as text. Use the drawing to identify each letter's endpoints.
+
+| Source group | Letter | Published metric value |
+|---|---|---|
+| Length | A | 2,670 mm |
+| Length | B | 1,470 mm |
+| Length | C | 255 mm |
+| Length | D | 580 mm |
+| Length | E | 350 mm |
+| Width | F | 692 mm |
+| Width | G | 346 mm |
+| Height | H | 1,990 mm |
+| Height | I | 1,170 mm |
+| Height | J | 950 mm |
+| Height | K | 1,120 mm |
+| Height | L | 238 mm |
+
+**Worked example.** Find **B** on the side view, then its row in the table. The metric value is **1,470 mm**, which is **1.470 m** because 1,000 mm = 1 m. Keep the letter and unit with the value. Writing only “1,470” loses what was measured and in which unit. The imperial and metric values are published rounded measurements; do not expect every pair to give an exact conversion match.
+
+Use the **metric column only** for these checks:
+
+1. Find **F** and **G** on the upper view. Record both values and test whether **2 × G = F** in the published table.
+2. Convert F from millimetres to metres. Explain why **692 m** would be an unreasonable transcription of **692 mm**.
+3. Read **H** and **I** in the side view/table. Calculate their numerical difference in millimetres. Keep the dimension letters in your statement so another reader can check the comparison.
+4. A fictional room plan lists a doorway as **700 mm** wide. Calculate the difference between that value and dimension F. Explain why this arithmetic alone cannot approve moving a machine through the doorway: the route, machine configuration, clearances and safe movement procedure have not been checked.
+
+Show the source row, your calculation, unit and explanation. Ask a partner to trace one answer back to the diagram rather than only checking the arithmetic. **Skills: Numeracy, Reading, Writing, Communication.**
+
 ## Case A · Three fictional machine records
 
 A classroom resource coordinator has three practice records. The records do not authorize any real assignment.
@@ -107,3 +213,13 @@ Make a small usable version. Ask a willing reader to use it to find the CAT docu
 | | | | | |
 
 A useful record shows the decision, the source and the check. It can include an unresolved result when the supplied evidence does not support a choice. Keep your authored note, actual file-action record, calculations, check-back and tested navigation aid. Discuss the next practice with your instructor using the local descriptions Not observed, Not yet demonstrated, Demonstrated with support or Demonstrated independently under the agreed conditions.
+
+## Figure references
+
+LeeBoy. (2026). *LeeBoy model 8680 commercial paver: Safety and operations manual* (Manual No. 1033428-SOP). https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf
+
+Multiquip Inc. (2020, June 11). *MRH800GS vibratory roller: Operation manual* (Rev. 10). https://www.multiquip.com/multiquip/pdfs/MRH800GS_rev_10_ops_manual.pdf
+
+Multiquip Inc. (2021, June 18). *AR13HA/AR13HAR ride-on tandem drum roller: Operation manual* (Rev. 1; serial no. 110301 and above). https://service.multiquip.com/pdfs/AR13HA-R-rev-1-SN-110301-and-above-ops-manual.pdf
+
+The figure notes identify the exact source and crop. Full manufacturer documents and their notices remain in this collection. [Figure provenance](assets/figure-manifest.json) records source checksums, original page locations and crop coordinates.

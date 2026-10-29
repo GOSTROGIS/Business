@@ -1,10 +1,36 @@
 # 6 · Investigate a paving trend
 
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A6 · Describe future paving/construction trends</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+| Outline learning task | Practise here |
+|---|---|
+| A6.1 · Describe green roads | LA6-01, LA6-04 |
+| A6.2 · Describe new paving materials | LA6-03–04 |
+| A6.3 · Describe new sub-bases | LA6-02 |
+| A6.4 · Describe floating roads | LA6-02, LA6-04 |
+| A6.5 · Describe added value enhancements | LA6-03, LA6-06 |
+
+Learning-task wording: SkilledTradesBC (2016, p. 25; PDF viewer p. 27). The activities develop classroom understanding; the answer guide records the evidence to check.
+
 ## Turn a promising idea into a testable question
 
 A trend is useful to investigate when it responds to a defined need. A product described as *green*, *new* or *innovative* still needs evidence. Ask what problem it addresses, how it works, where it has been studied, what limits apply and who would approve its use. Something new to a local project may have been used elsewhere for decades. Publication date and location matter.
 
 This unit compares material and design ideas without selecting a live road design. You will prepare a recommendation for further investigation using complete evidence cards and a fictional project brief. A careful recommendation can say that one option deserves a closer technical study while leaving design approval to the appropriate professional.
+
+## Keep the outline term and explain the mechanism
+
+| Outline wording | Meaning to investigate in this unit | First useful question |
+|---|---|---|
+| Green roads | A claim about an environmental purpose or outcome | Which outcome, comparison and time period? |
+| Pave stones / paving stones | Individual paving units in a designed system | Does this particular system manage water through its joints? |
+| Porous asphalt | A surface with interconnected voids, used within an appropriate pavement system | Where will water go, and how will the system be maintained? |
+| Modified asphalt | Asphalt whose binder or mixture has been changed for a defined purpose | Which property changes, and what evidence supports the use? |
+| New sub-bases / pumice | Foundation or fill ideas whose actual design role must be established | Is this material proposed as sub-base, embankment fill or something else? |
+| Floating roads / Styrofoam | Historical outline wording discussed here through engineered lightweight fill and EPS geofoam | What engineered material and geotechnical design are intended? |
+| Street print | A patterned surface treatment or visual enhancement | What are its purpose, performance and maintenance requirements? |
+
+A trade term helps you find the right subject. The project documents establish the actual material and use. Keep *sub-base* and *embankment fill* distinct when interpreting the historical cost example below.
 
 ## Compare surface and reuse approaches
 
@@ -41,7 +67,7 @@ FHWA's **April 2017 Ground Modification Methods, Volume I** describes lightweigh
 
 ### LA6-02 · Read the cost boundary
 
-Calculate the difference between EPS-block geofoam and pumice in N6. Name three reasons the table cannot be used as a current B.C. quotation. Explain why price ranking alone cannot establish technical suitability. Keep units and the word *historical* in your conclusion. **Skills:** Numeracy, Reading, Problem Solving.
+Calculate the difference between EPS-block geofoam and pumice in N6. Name three reasons the table cannot be used as a current B.C. quotation. Explain why a lightweight-fill cost table does not by itself establish an approved pavement sub-base material. Explain why price ranking alone cannot establish technical suitability. Keep units and the word *historical* in your conclusion. **Skills:** Numeracy, Reading, Problem Solving.
 
 ## Separate an enhancement from a requirement
 

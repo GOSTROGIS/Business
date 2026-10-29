@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "figures": [
+    {
+      "id": "opening-figure-1",
+      "asset": "diagrams/eps-evidence-route.svg",
+      "kind": "original ACCESS IS4S explanatory SVG",
+      "source_path": "../sources/design_build_standard_specs_2006.pdf",
+      "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+      "source_pdf_page": 297,
+      "source_printed_page": "1 of 22",
+      "source_clause": "502.03.01",
+      "title": "Two responsibilities within an End Product Specification",
+      "asset_sha256": "e1ae14c865abca02844561691e2cd6c682176f696af32f563509768d6773e54e",
+      "adaptation": "Original explanatory layout of the cited clause; not an MS-4 figure or operating procedure.",
+      "apa_reference": "British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). 2006 design build standard specifications for highway construction (clause 502.03.01)."
+    }
+  ]
+}

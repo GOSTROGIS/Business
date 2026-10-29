@@ -151,6 +151,18 @@ Why funding, ownership and performing the work are different roles:
 
 ### A1-Q10 • Find what needs confirming
 
+EPS means, in clause 502.03.01:
+
+<div class="writing-line" aria-hidden="true"></div>
+
+Contractor's responsibility:
+
+<div class="writing-line" aria-hidden="true"></div>
+
+Ministry's responsibility:
+
+<div class="writing-line" aria-hidden="true"></div>
+
 | Item | What I need to confirm | Person, issuer or document that could establish it |
 |---|---|---|
 | EPS | | |

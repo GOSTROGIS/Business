@@ -25,6 +25,12 @@ Reading helps you locate conditions and compare versions. Writing leaves a recor
 
 The activities use identifiers such as LA3-02. Keep the identifier with your work, the date and the support you used. You may begin with paper, a spoken explanation, a diagram or an accessible tool where the task allows. When the outcome is writing, keep a text whose wording you control. When the outcome is digital tool use, demonstrate the action on an actual device; a paper plan can prepare you for it but does not show the action itself.
 
+## Use the trade language without getting lost in it
+
+Each unit begins with the SkilledTradesBC competency and the exact learning-task wording used in the supplied outline. Read the short word tables before tackling the longer case. Use three moves: **look** at a feature or evidence card, **name** it with the trade word, and **explain** its job in your own words. A useful explanation keeps the correct term and makes its meaning clear.
+
+Figure notes identify original teaching illustrations and reproduced manual images. The note and reference entry help you find the source, edition and page. Read a picture together with its caption and model information; a photo of one machine cannot establish the controls or configuration of another.
+
 ## A routine for every unit
 
 Read the task and name the required decision. Mark the facts, units, dates and limits. Make a first attempt before consulting answer guidance. Compare your reasoning with a partner or instructor, then revise a specific feature. Keep both the original and the revision when possible. A changed answer is useful evidence when you can explain what changed and why.

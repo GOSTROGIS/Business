@@ -7,3 +7,8 @@ The curriculum follows the ACCESS Numeracy Hub's existing design direction: warm
 Local font files provide Archivo headings, IBM Plex Sans reading text and IBM Plex Mono/tabular figures. The Fontsource package versions and integrity metadata are recorded in [fonts/manifest.json](fonts/manifest.json). The accompanying licence files are retained. The generated reading pages do not need a font-network request.
 
 New layouts and activity wording are original curriculum-development material. The source PDFs remain unmodified in the source library.
+
+
+## End Product Specification figure
+
+`diagrams/eps-evidence-route.svg` is an original ACCESS IS4S explanation of the two responsibilities in the supplied 2006 specification, clause 502.03.01 (PDF 297, printed 1 of 22). The opening learner book carries its APA figure note and full reference. [Figure provenance](figure-sources.json) records the exact source and asset hashes. It is not derived from MS-4.

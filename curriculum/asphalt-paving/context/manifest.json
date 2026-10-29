@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_utc": "2026-10-29T22:35:50.663867+00:00",
+  "built_utc": "2026-10-29T23:35:46.952269+00:00",
   "collection": "All available PDFs under curriculum/asphalt-paving, excluding this context directory",
   "originals_preserved": true,
   "chunk_policy": {
@@ -14,10 +14,10 @@
     "original_file_paths": 22,
     "unique_pdfs": 21,
     "duplicate_alias_paths": 1,
-    "unique_original_pages": 1470,
+    "unique_original_pages": 1492,
     "chunks": 71,
-    "chunk_pdf_bytes": 53178202,
-    "chunk_text_bytes": 5465778,
+    "chunk_pdf_bytes": 57996517,
+    "chunk_text_bytes": 5521994,
     "largest_chunk_bytes": 4034508,
     "largest_chunk_pages": 25,
     "empty_text_pages": 3,
@@ -1322,16 +1322,16 @@
       ]
     },
     {
-      "id": "PDF-1c1448e9d733",
+      "id": "PDF-aafbd57af6c1",
       "title": "Line A · roadbuilding foundations",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf",
       "aliases": [
         "curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf"
       ],
-      "sha256": "1c1448e9d733dde49a829a3f3fb56d0bbd6dc319205b7dec695ebbe761eda35b",
-      "original_bytes": 285423,
-      "pdf_pages": 28,
+      "sha256": "aafbd57af6c1948d25f0877ec667b32bbbd8936f81ef0cdcf153e24eb9341c7f",
+      "original_bytes": 1692194,
+      "pdf_pages": 34,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -1345,50 +1345,50 @@
           "original_page_start": 1,
           "original_page_end": 25,
           "page_count": 25,
-          "pdf": "chunks/roadbuilding-foundations-1c1448e9d733/p0001-0025.pdf",
-          "bytes": 255556,
-          "sha256": "8dab97b2c8fc349735245983934b895f9529c186b437e187583e2828c3e12c6a",
-          "text": "chunks/roadbuilding-foundations-1c1448e9d733/p0001-0025.txt",
-          "text_bytes": 67102,
-          "text_sha256": "2028e5b97c20f525b7ce71d9b653221007a3376e08b97c9ba47a565e912f95ec",
+          "pdf": "chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.pdf",
+          "bytes": 1613712,
+          "sha256": "19097952b65cf22a281d3012234a1e6402d5a6a14650849032c4fa67f0361bce",
+          "text": "chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.txt",
+          "text_bytes": 67391,
+          "text_sha256": "531bdc1a6431de10ac43e534f1fb2d8284ecc81a90b9628e05990798e5393054",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 8,
-          "external_uri_link_annotations_retained": 2
+          "external_uri_link_annotations_retained": 6
         },
         {
           "original_page_start": 26,
-          "original_page_end": 28,
-          "page_count": 3,
-          "pdf": "chunks/roadbuilding-foundations-1c1448e9d733/p0026-0028.pdf",
-          "bytes": 74048,
-          "sha256": "efed25dc70b249db4a74bd4f65113877bbf2bba9fda55cf5d5b480fa185306bd",
-          "text": "chunks/roadbuilding-foundations-1c1448e9d733/p0026-0028.txt",
-          "text_bytes": 7600,
-          "text_sha256": "e29b2e5a467a0d5ce77ab27619443119b08efc18f1b1cb2c2f051b3623e49f7c",
+          "original_page_end": 34,
+          "page_count": 9,
+          "pdf": "chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.pdf",
+          "bytes": 131241,
+          "sha256": "ea06edd7602d0aaf838f65acfb519c529e953cd56a160fcc30eb4ead9e3b4e1c",
+          "text": "chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.txt",
+          "text_bytes": 29272,
+          "text_sha256": "f7f138e893a1068ccdf2709988ca1de7f16415661573cb293d23af7253cf61d8",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 0,
-          "external_uri_link_annotations_retained": 26
+          "external_uri_link_annotations_retained": 31
         }
       ]
     },
     {
-      "id": "PDF-cd1ab9ef3ca1",
+      "id": "PDF-cf3d0ad9debb",
       "title": "Line A · teaching guide",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/line-a/teaching-guide.pdf",
       "aliases": [
         "curriculum/asphalt-paving/line-a/teaching-guide.pdf"
       ],
-      "sha256": "cd1ab9ef3ca14236457103b3c7a4a4ca5163da374d8c2f5960d0f01037e3ed9d",
-      "original_bytes": 154373,
+      "sha256": "cf3d0ad9debbc5579638b7f11cda8fcd328948de2e4beb9f322dd818a6e5d879",
+      "original_bytes": 150083,
       "pdf_pages": 17,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
@@ -1403,12 +1403,12 @@
           "original_page_start": 1,
           "original_page_end": 17,
           "page_count": 17,
-          "pdf": "chunks/teaching-guide-cd1ab9ef3ca1/p0001-0017.pdf",
-          "bytes": 153647,
-          "sha256": "13b0fbf8c293a7adf853aa1d010695c1bc4c6e1c90be5d338e726f382d7f08cf",
-          "text": "chunks/teaching-guide-cd1ab9ef3ca1/p0001-0017.txt",
-          "text_bytes": 41417,
-          "text_sha256": "8fe420feb2d52a713fbdd4738e2f3a351e3ff034eca5dbf567731378dccc198e",
+          "pdf": "chunks/teaching-guide-cf3d0ad9debb/p0001-0017.pdf",
+          "bytes": 149357,
+          "sha256": "05c71f4278b5cfdcd7b7ca86956ec646adf719df88c17f9c49a186e05e1d89c5",
+          "text": "chunks/teaching-guide-cf3d0ad9debb/p0001-0017.txt",
+          "text_bytes": 42979,
+          "text_sha256": "267b65ed3525a92bd2d868ba6470f50ddb43b23ecc36bbfd471a8185ae2ff9fd",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -1420,55 +1420,15 @@
       ]
     },
     {
-      "id": "PDF-1396c9815f32",
+      "id": "PDF-83e58ffbf3f8",
       "title": "Manuals · manual reading instructor",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/manuals/manual-reading-instructor.pdf",
       "aliases": [
         "curriculum/asphalt-paving/manuals/manual-reading-instructor.pdf"
       ],
-      "sha256": "1396c9815f32c0ea4264a0be20c9a8a649f59a253b8c33699276e79766ca90d0",
-      "original_bytes": 83548,
-      "pdf_pages": 3,
-      "original_encryption_present": false,
-      "opened_with_standard_empty_password": false,
-      "extraction": {
-        "status": "extracted",
-        "warning": null,
-        "ocr_performed": false,
-        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
-      },
-      "chunks": [
-        {
-          "original_page_start": 1,
-          "original_page_end": 3,
-          "page_count": 3,
-          "pdf": "chunks/manual-reading-instructor-1396c9815f32/p0001-0003.pdf",
-          "bytes": 51588,
-          "sha256": "4b70e4347234b76575b473a276e307d4d4957eab74fa71fc55e5d0ff15e69fb7",
-          "text": "chunks/manual-reading-instructor-1396c9815f32/p0001-0003.txt",
-          "text_bytes": 10690,
-          "text_sha256": "94a6493ca42d28ee4c0bd7f4f776d440759d1a38ada6933726e4c04191267bec",
-          "extraction_status": "extracted",
-          "empty_text_original_pages": [],
-          "sparse_text_original_pages": [],
-          "ocr_performed": false,
-          "single_page_exceeds_target_bytes": false,
-          "internal_or_non_uri_link_annotations_removed": 0,
-          "external_uri_link_annotations_retained": 0
-        }
-      ]
-    },
-    {
-      "id": "PDF-30c5a64d142d",
-      "title": "Manuals · manual reading lesson",
-      "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf",
-      "aliases": [
-        "curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf"
-      ],
-      "sha256": "30c5a64d142dc60bd8b64572b82fa68ff891493c8bb12613452bdf727ecec612",
-      "original_bytes": 105012,
+      "sha256": "83e58ffbf3f84222dff6300497703b54f685df111ef325f6220987d07396206c",
+      "original_bytes": 130858,
       "pdf_pages": 5,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
@@ -1483,112 +1443,32 @@
           "original_page_start": 1,
           "original_page_end": 5,
           "page_count": 5,
-          "pdf": "chunks/manual-reading-lesson-30c5a64d142d/p0001-0005.pdf",
-          "bytes": 58972,
-          "sha256": "22613ac468cece65b616a0500d7b15c245161f2d2326b47f2b1564a44d6a082e",
-          "text": "chunks/manual-reading-lesson-30c5a64d142d/p0001-0005.txt",
-          "text_bytes": 14140,
-          "text_sha256": "d4ec3e4deadd550096366b05ac567587b9b547553ffa4ef989ab57ff71a14379",
+          "pdf": "chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.pdf",
+          "bytes": 73525,
+          "sha256": "887d2b42096629395bd000e02306646bdb83409ea966ad371233fcdc9d42314b",
+          "text": "chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.txt",
+          "text_bytes": 18548,
+          "text_sha256": "9f0a5cfaf83160b609b5a344b192b44308671e0687e469159968d85aa0ac350a",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 0,
-          "external_uri_link_annotations_retained": 7
+          "external_uri_link_annotations_retained": 0
         }
       ]
     },
     {
-      "id": "PDF-7ebd66632aab",
-      "title": "Specifications · learner workbook",
+      "id": "PDF-94613c8f1714",
+      "title": "Manuals · manual reading lesson",
       "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/specifications/learner-workbook.pdf",
+      "original_path": "curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf",
       "aliases": [
-        "curriculum/asphalt-paving/specifications/learner-workbook.pdf"
+        "curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf"
       ],
-      "sha256": "7ebd66632aab944545cf66a2c55cb154b9d2b1a1bfd872b8e50f5fffca8819d8",
-      "original_bytes": 511421,
-      "pdf_pages": 15,
-      "original_encryption_present": false,
-      "opened_with_standard_empty_password": false,
-      "extraction": {
-        "status": "extracted",
-        "warning": null,
-        "ocr_performed": false,
-        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
-      },
-      "chunks": [
-        {
-          "original_page_start": 1,
-          "original_page_end": 15,
-          "page_count": 15,
-          "pdf": "chunks/learner-workbook-7ebd66632aab/p0001-0015.pdf",
-          "bytes": 390288,
-          "sha256": "b4eaa2252d8bcb7fb4e1b9a55aa471c40b77ab8610b85f388c25452e584adef4",
-          "text": "chunks/learner-workbook-7ebd66632aab/p0001-0015.txt",
-          "text_bytes": 29755,
-          "text_sha256": "89c5a2304fda93aee21d246bce3410dd5f593cca9f3d735093c7f0cb40079624",
-          "extraction_status": "extracted",
-          "empty_text_original_pages": [],
-          "sparse_text_original_pages": [],
-          "ocr_performed": false,
-          "single_page_exceeds_target_bytes": false,
-          "internal_or_non_uri_link_annotations_removed": 5,
-          "external_uri_link_annotations_retained": 9
-        }
-      ]
-    },
-    {
-      "id": "PDF-3d72e58f4fd0",
-      "title": "Specifications · teaching guide",
-      "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/specifications/teaching-guide.pdf",
-      "aliases": [
-        "curriculum/asphalt-paving/specifications/teaching-guide.pdf"
-      ],
-      "sha256": "3d72e58f4fd05e4806ada2c90cc04233b28cf876c7c6612d60119c60ba947dd6",
-      "original_bytes": 197282,
-      "pdf_pages": 10,
-      "original_encryption_present": false,
-      "opened_with_standard_empty_password": false,
-      "extraction": {
-        "status": "extracted",
-        "warning": null,
-        "ocr_performed": false,
-        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
-      },
-      "chunks": [
-        {
-          "original_page_start": 1,
-          "original_page_end": 10,
-          "page_count": 10,
-          "pdf": "chunks/teaching-guide-3d72e58f4fd0/p0001-0010.pdf",
-          "bytes": 120232,
-          "sha256": "660fa91ad74f7c8c66e572e4a47d465be7a03973a8149201ab21a462f9222759",
-          "text": "chunks/teaching-guide-3d72e58f4fd0/p0001-0010.txt",
-          "text_bytes": 24177,
-          "text_sha256": "95f9bf821b2bb13810982804cffc65cb671ee953fdf2b1cdb60ebfc28391c7f1",
-          "extraction_status": "extracted",
-          "empty_text_original_pages": [],
-          "sparse_text_original_pages": [],
-          "ocr_performed": false,
-          "single_page_exceeds_target_bytes": false,
-          "internal_or_non_uri_link_annotations_removed": 7,
-          "external_uri_link_annotations_retained": 2
-        }
-      ]
-    },
-    {
-      "id": "PDF-c90a6acb02b2",
-      "title": "Unit 01 · instructor guide",
-      "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/unit-01/instructor-guide.pdf",
-      "aliases": [
-        "curriculum/asphalt-paving/unit-01/instructor-guide.pdf"
-      ],
-      "sha256": "c90a6acb02b2af3c281b033f8ca78f1be01a551060c102f202eb4d0d6e1b2b16",
-      "original_bytes": 201474,
+      "sha256": "94613c8f1714c1a5847a6b1b1902c8a43c35dd27d6826661377505d817de5fcd",
+      "original_bytes": 3224807,
       "pdf_pages": 12,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
@@ -1603,32 +1483,72 @@
           "original_page_start": 1,
           "original_page_end": 12,
           "page_count": 12,
-          "pdf": "chunks/instructor-guide-c90a6acb02b2/p0001-0012.pdf",
-          "bytes": 198657,
-          "sha256": "c510a16290c257548b42e5deecd25c09e160e46d5442c64fc87ca6caff852aa6",
-          "text": "chunks/instructor-guide-c90a6acb02b2/p0001-0012.txt",
-          "text_bytes": 33479,
-          "text_sha256": "06904d7ee2fadb476d37e87d5a7373579358921689bccde5e54132ec2665a90a",
+          "pdf": "chunks/manual-reading-lesson-94613c8f1714/p0001-0012.pdf",
+          "bytes": 3107667,
+          "sha256": "722ba82a2b039923382d2135bb8bdba65cfb90cdfed338297aff69ea5f479726",
+          "text": "chunks/manual-reading-lesson-94613c8f1714/p0001-0012.txt",
+          "text_bytes": 27166,
+          "text_sha256": "03e23cdd4b5c39d16f1d608ed732c162665845dca575d352f928086c616226f2",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
-          "internal_or_non_uri_link_annotations_removed": 11,
-          "external_uri_link_annotations_retained": 27
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 20
         }
       ]
     },
     {
-      "id": "PDF-83d9ca588570",
-      "title": "Unit 01 · learner workbook",
+      "id": "PDF-c657077cdf0a",
+      "title": "Specifications · learner workbook",
       "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/unit-01/learner-workbook.pdf",
+      "original_path": "curriculum/asphalt-paving/specifications/learner-workbook.pdf",
       "aliases": [
-        "curriculum/asphalt-paving/unit-01/learner-workbook.pdf"
+        "curriculum/asphalt-paving/specifications/learner-workbook.pdf"
       ],
-      "sha256": "83d9ca58857003b7f5dee001ed63aeb0274aa681f18f620096aeb978d540d7f4",
-      "original_bytes": 180590,
+      "sha256": "c657077cdf0ade87f84f428a1996d9d5cf74b98a01b7ac970e0af9f2f02785ef",
+      "original_bytes": 811911,
+      "pdf_pages": 18,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 18,
+          "page_count": 18,
+          "pdf": "chunks/learner-workbook-c657077cdf0a/p0001-0018.pdf",
+          "bytes": 671724,
+          "sha256": "b128cedb39da4d49d1728e7cff4b73dccbfa017792b82bb38c28510a4ee08c1e",
+          "text": "chunks/learner-workbook-c657077cdf0a/p0001-0018.txt",
+          "text_bytes": 34826,
+          "text_sha256": "d740ede09c85835ee99b22a441b932c06f8ea9ed69fb36636f277dddff120edc",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 6,
+          "external_uri_link_annotations_retained": 21
+        }
+      ]
+    },
+    {
+      "id": "PDF-d0cde3dba1d1",
+      "title": "Specifications · teaching guide",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/specifications/teaching-guide.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/specifications/teaching-guide.pdf"
+      ],
+      "sha256": "d0cde3dba1d1d619eb846d0431343f3319a5e25cc8da1f9e0438a1ce1447d030",
+      "original_bytes": 212039,
       "pdf_pages": 11,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
@@ -1643,19 +1563,99 @@
           "original_page_start": 1,
           "original_page_end": 11,
           "page_count": 11,
-          "pdf": "chunks/learner-workbook-83d9ca588570/p0001-0011.pdf",
-          "bytes": 178785,
-          "sha256": "2e2c848a6208e026697305036e7abd18b49210e10c7538204e1c3a8a7736fc52",
-          "text": "chunks/learner-workbook-83d9ca588570/p0001-0011.txt",
-          "text_bytes": 24186,
-          "text_sha256": "ad0e27c9da835e2f36a4d4aaccd3976784db1da0294e6cc61e204838ca1e01bb",
+          "pdf": "chunks/teaching-guide-d0cde3dba1d1/p0001-0011.pdf",
+          "bytes": 129301,
+          "sha256": "44f3be75b26840ad0e97c60f0fe4a6130744325ab59bd26a9e0e09a1aec6a5f6",
+          "text": "chunks/teaching-guide-d0cde3dba1d1/p0001-0011.txt",
+          "text_bytes": 26994,
+          "text_sha256": "cdd2227f6f28ee5972febb9fbda17048c23a817e521e087ddc58489e03af076f",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
-          "internal_or_non_uri_link_annotations_removed": 6,
-          "external_uri_link_annotations_retained": 7
+          "internal_or_non_uri_link_annotations_removed": 8,
+          "external_uri_link_annotations_retained": 6
+        }
+      ]
+    },
+    {
+      "id": "PDF-adeb32a5ccf0",
+      "title": "Unit 01 · instructor guide",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/unit-01/instructor-guide.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/unit-01/instructor-guide.pdf"
+      ],
+      "sha256": "adeb32a5ccf085cad5b140fe72ef9c2300e17a31643f8f29d52b0e89c67592ef",
+      "original_bytes": 203005,
+      "pdf_pages": 12,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 12,
+          "page_count": 12,
+          "pdf": "chunks/instructor-guide-adeb32a5ccf0/p0001-0012.pdf",
+          "bytes": 200185,
+          "sha256": "83b2f447990b7a0523a2f89e251f0180f5038d41187865e21978b834834b79fc",
+          "text": "chunks/instructor-guide-adeb32a5ccf0/p0001-0012.txt",
+          "text_bytes": 34245,
+          "text_sha256": "4855667cd870d22b8e7f215a5d8a0f9e2e5675b8caf939b472735f6c7e91e76d",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 11,
+          "external_uri_link_annotations_retained": 27
+        }
+      ]
+    },
+    {
+      "id": "PDF-5aa80142eb88",
+      "title": "Unit 01 · learner workbook",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/unit-01/learner-workbook.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/unit-01/learner-workbook.pdf"
+      ],
+      "sha256": "5aa80142eb88cd7a627c7c3f8644d1435d01db5f23e692ac300fbc72c0f6b405",
+      "original_bytes": 223570,
+      "pdf_pages": 13,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 13,
+          "page_count": 13,
+          "pdf": "chunks/learner-workbook-5aa80142eb88/p0001-0013.pdf",
+          "bytes": 221559,
+          "sha256": "e76979385f4acfd374cfdf14122bad687addd5d0780a97e1ac9e69508dac4256",
+          "text": "chunks/learner-workbook-5aa80142eb88/p0001-0013.txt",
+          "text_bytes": 27133,
+          "text_sha256": "2e2a3ad7bbcd8c093665ae6d47344f12b2ec3ffba3e60335286f4240c67ef102",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 7,
+          "external_uri_link_annotations_retained": 9
         }
       ]
     },
@@ -1740,16 +1740,16 @@
       ]
     },
     {
-      "id": "PDF-7e63bca8a79d",
+      "id": "PDF-3096d063d181",
       "title": "Materials · response sheet",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/unit-01/materials/response-sheet.pdf",
       "aliases": [
         "curriculum/asphalt-paving/unit-01/materials/response-sheet.pdf"
       ],
-      "sha256": "7e63bca8a79dca91c8bf2e0d26531183b480108b69b0e7e1a75096fc9296e6cf",
-      "original_bytes": 105767,
-      "pdf_pages": 11,
+      "sha256": "3096d063d1810114516d0e59a02da79b66cdf83bcbed08b2f0d2341664166586",
+      "original_bytes": 107591,
+      "pdf_pages": 12,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -1761,14 +1761,14 @@
       "chunks": [
         {
           "original_page_start": 1,
-          "original_page_end": 11,
-          "page_count": 11,
-          "pdf": "chunks/response-sheet-7e63bca8a79d/p0001-0011.pdf",
-          "bytes": 105195,
-          "sha256": "ba87cc07f217e38499f1d48dc2d45ab58f6e195a304724d9bab4019ff0c11977",
-          "text": "chunks/response-sheet-7e63bca8a79d/p0001-0011.txt",
-          "text_bytes": 7371,
-          "text_sha256": "a6162166244e4f453463fac2e4172764245fc05235562f40b3f4447d56eb5d69",
+          "original_page_end": 12,
+          "page_count": 12,
+          "pdf": "chunks/response-sheet-3096d063d181/p0001-0012.pdf",
+          "bytes": 107012,
+          "sha256": "01152f3508b8151a41a8dfeee49b3dfb4c168f6e662f6da9df570493abc86d19",
+          "text": "chunks/response-sheet-3096d063d181/p0001-0012.txt",
+          "text_bytes": 7579,
+          "text_sha256": "f55eac6a54d90c25acd2240cfc7d89746341f6d53f9dfa6a31387f38ecd47cd9",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -1784,8 +1784,8 @@
     {
       "title": "The Asphalt Handbook MS-4 — Seventh Edition",
       "role": "primary textbook requested by the user",
-      "status": "The Asphalt Handbook, MS-4, Seventh Edition was supplied by the user on 29 October 2026, but the original upload exceeds the workspace transfer limit. The full file is not accessible here, not read, and not included or chunked.",
-      "needed": "The builder can include this primary textbook after a directly accessible file or smaller uploaded parts are available. Rerun it after the real PDFs arrive; no page count, contents or source hash is invented."
+      "status": "The Asphalt Handbook, MS-4, Seventh Edition was supplied by the user on 29 October 2026. Its upload exceeds the workspace transfer limit and the later Google Drive link currently requires sign-in. The full file is not accessible here, not read, converted to HTML, included or chunked.",
+      "needed": "The builder can include this primary textbook after the supplied Drive file becomes accessible or smaller uploaded parts are available. Rerun it after the real PDFs arrive; no page count, contents or source hash is invented."
     }
   ]
 }

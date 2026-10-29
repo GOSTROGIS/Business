@@ -1,5 +1,17 @@
 # 1 · Industry evidence and decisions
 
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A1 · Introduction to the paving industry and paving equipment</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+| Outline learning task | Practise here |
+|---|---|
+| A1.6 · Demonstrate understanding of relevant statistics | LA1-01–02 |
+| A1.8 · Review relevant regulations and funding | LA1-03–04 |
+| A1.9 · Discuss environmentally friendly | LA1-05–06 |
+
+Learning-task wording: SkilledTradesBC (2016, p. 20; PDF viewer p. 22). The activities develop classroom understanding; the answer guide records the evidence to check.
+
+This unit develops the statistics, document and environmental-comparison tasks. Industry purpose, equipment, resources, road types and uses are introduced in the opening lessons and developed in Units 2–5.
+
 ## Read a number with its label
 
 A statement about an industry needs a measure, geography and period. A count of people employed is different from a count of employers. A forecast of openings over ten years is different from the number employed in one year. Construction includes building work and civil engineering as well as paving. A broad construction figure provides context; it cannot be renamed an asphalt-paving total.

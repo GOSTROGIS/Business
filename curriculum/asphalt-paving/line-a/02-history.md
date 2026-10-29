@@ -1,10 +1,33 @@
 # 2 · How roads changed
 
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A2 · Describe history of asphalt pavement</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+| Outline learning task | Practise here |
+|---|---|
+| A2.1 · Describe evolution of roads | LA2-01, LA2-06 |
+| A2.2 · Describe products used | LA2-02, LA2-05 |
+| A2.3 · Describe logging roads | LA2-02–03, LA2-05 |
+| A2.4 · Explain methods of placement | LA2-05 |
+| A2.5 · Rationale for more roads | LA2-04, LA2-06 |
+
+Learning-task wording: SkilledTradesBC (2016, p. 21; PDF viewer p. 23). The activities develop classroom understanding; the answer guide records the evidence to check.
+
 ## Ask what a road was built to do
 
 Road history is a history of materials, movement, power and relationships with place. A route can serve travel, trade, access to resources, settlement or military movement. Its purpose can change. A road that enables one activity may also affect land, water, access and existing travel routes. A timeline should identify whose account is being used and avoid treating one engineering tradition as the beginning of all movement.
 
 In B.C., a classroom discussion of road history does not give permission to map or publish community-held routes or knowledge. Use the public evidence cards below. Invite local knowledge only through the appropriate relationships and agreed purpose. The lesson asks you to explain change, not to speak for a community.
+
+## Say what kind of word it is
+
+| Trade word | Everyday explanation | Avoid this mix-up |
+|---|---|---|
+| Corduroy road | A construction form using closely laid logs across the direction of travel | The pattern describes a method; it does not prove a logging purpose |
+| Logging road | A road used in forestry access or timber movement | It can have different surfaces and construction methods |
+| Placement | Putting the prepared material into its intended position and form | Delivery gets it to the work; placement puts it in the layer |
+| Compaction | Making the placed material denser through the applicable process | A smooth-looking surface alone does not prove specified density |
+
+**Try the words aloud.** “Timber is the material; corduroy is the construction form; logging is one possible purpose.” Use this three-part pattern in LA2-02.
 
 ## Evidence cards for a timeline
 

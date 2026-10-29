@@ -1,5 +1,33 @@
 # 4 · Working in a paving team
 
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A4 · Describe industry expectations of/for workers</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+| Outline learning task | Practise here |
+|---|---|
+| A4.1 · Explain the importance of Health and Safety | LA4-02 |
+| A4.2 · Define types of paving jobs | LA4-01 |
+| A4.3 · Explain license requirements for paving equipment operators | LA4-03 |
+| A4.4 · Demonstrate professionalism | LA4-04 |
+| A4.5 · Explain employer’s responsibility to provide a safe environment | LA4-02 |
+| A4.6 · Describe advancement opportunities | LA4-06 |
+| A4.7 · Describe job security | LA4-05–06 |
+| A4.8 · Explain role of organized Labour | LA4-06 |
+| A4.9 · Review working conditions | LA4-05–06 |
+
+Learning-task wording: SkilledTradesBC (2016, p. 23; PDF viewer p. 25). The activities develop classroom understanding; the answer guide records the evidence to check.
+
+## Connect the job title to the work
+
+| Outline job term | Broad function to explain | Information another role needs |
+|---|---|---|
+| Raker | Supports hand placement and finishing | Where the agreed handwork is needed |
+| Screed | Forms the placed mat as part of the paver system; the screed role attends to this work | The applicable placement requirements and changes |
+| Asphalt Paver | Places the supplied mixture through the machine system | Delivery status and the approved work arrangement |
+| Compaction Roller | Compacts the placed material under the assigned procedure | Placement status and the applicable compaction requirements |
+| Milling machine | Removes or profiles existing pavement | The authorized removal or profile requirements |
+
+**Worked language check.** “The roller does the road” is hard to check. “The compaction roller compacts the placed material” names the equipment and its function. In LA4-01, make each explanation this specific, then add the information handover. These are broad functions, not machine operating instructions.
+
 ## Understand the role and the handover
 
 A paving team coordinates people whose tasks depend on one another. The driver delivers material; the paver operator manages the machine's placement function; the screed role attends to the screed's contribution to the placed mat; rakers support hand placement and finishing; roller operators perform the assigned compaction work; milling operators work with equipment that removes or profiles existing material. Job titles and boundaries vary. A job title alone does not establish a person's training, authorization or responsibility on a particular site.

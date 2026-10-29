@@ -23,6 +23,25 @@ These are bounded excerpts and table transcriptions from the user-supplied **200
 
 The learner workbook selects six of these rows. All sample A/B results are invented; no test results are reproduced from the source.
 
+## Table 501-E · Complete text alternative to Figure S1
+
+All five mix columns are headed **percentage by mass passing**. Sieve size is in **mm**. Dashes reproduce blank/not-specified entries in the original table; they are not zeros. This text alternative preserves all 12 rows shown in the crop. The learner exercise deliberately selects only six rows from the Medium column.
+
+| Sieve size (mm) | Coarse Asphalt Mix | Medium Asphalt Mix | Fine Asphalt Mix | Asphalt Base Course Mix | Asphalt Bound Open Graded Base Mix |
+|---:|---:|---:|---:|---:|---:|
+| 37.5 | 100 | — | — | — | — |
+| 25.0 | 80–100 | — | — | 100 | 100 |
+| 19.0 | 60–92 | 100 | — | 80–94 | 75–100 |
+| 12.5 | 50–85 | 84–95 | 100 | — | — |
+| 9.50 | 40–80 | 73–90 | 90–100 | 50–84 | 30–60 |
+| 4.75 | 30–65 | 50–75 | 55–80 | 25–55 | 5–30 |
+| 2.36 | 20–50 | 35–57 | 32–64 | 20–45 | 0–10 |
+| 1.18 | 15–35 | 26–45 | 24–51 | 15–35 | — |
+| 0.600 | 8–30 | 18–34 | 17–40 | — | — |
+| 0.300 | 6–22 | 10–26 | 13–29 | 5–20 | 0–8 |
+| 0.150 | 3–15 | 6–17 | 8–18 | — | — |
+| 0.075 | 1–7 | 3–7 | 4–10 | 0–5 | 0–4 |
+
 ## Clause 501.15.03 · Grading Curve
 
 [PDF pages 286–287](../sources/design_build_standard_specs_2006.pdf#page=286), printed **3–4 of 13**. The opening sentence spans the page boundary:
@@ -61,9 +80,9 @@ The rest of that paragraph discusses refinements to maintain the curve and a var
 >
 > c) Time and location by station of delivery
 >
-> d) Material Application Rate Dimensions and Calculations. Calculations frequency minimally shall be for every 10 loads.
+> d) Material Application Rate Dimensions and Calculations. Calculation frequency minimally shall be for every 10 loads.
 >
-> e) Notes pertaining to the paving of appurtenances (letdowns, intersections, tapers, etc.)
+> e) Notes pertaining to the paving of any appurtenances (letdowns, intersections, tapers, etc.)
 
 The classroom version/checker/correction-reason fields are additional teaching choices. They are not represented as text from this list.
 

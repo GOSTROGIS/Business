@@ -1,5 +1,17 @@
 # 5 · Read road documents and quantities
 
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A5 · Describe basic road and highway profiles</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+| Outline learning task | Practise here |
+|---|---|
+| A5.1 · Review categories of projects | LA5-01 |
+| A5.2 · Describe types of owners | LA5-01 |
+| A5.3 · Describe common types of asphalt work | LA5-03 |
+| A5.4 · Review specifications for different types of roads | LA5-01, LA5-05 |
+| A5.5 · Describe cross section of road | LA5-02–03 |
+
+Learning-task wording: SkilledTradesBC (2016, p. 24; PDF viewer p. 26). The activities develop classroom understanding; the answer guide records the evidence to check.
+
 ## Identify the project before the specification
 
 A project may be described by use—commercial, industrial or residential—or by jurisdiction and delivery, such as a provincial highway project. These categories answer different questions and can overlap. A private industrial site is different from a provincially administered highway, even if both use asphalt. Owners can include provincial, federal, municipal or private organizations. A funder, designer, contractor and owner may be different parties.
@@ -18,7 +30,12 @@ Identify the project use, owner, contractor and funder in R1. Explain why “pri
 
 A **plan** looks down on a project and shows its horizontal arrangement. A **profile** shows elevations along a chosen line, commonly using chainage or stationing to locate points. A **cross-section** cuts across the route and shows its transverse form and layers. A number must be associated with the correct view, direction and unit. Plan width, profile rise and layer thickness are different quantities.
 
-![Conceptual road cross-section with crown, surface-water direction, layers and edge alternatives](../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg)
+<figure class="learning-figure" id="figure-la-2">
+<p class="figure-number">Figure LA-2</p>
+<p class="figure-title"><em>See how the layers work together</em></p>
+<img src="../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg" alt="Conceptual cross-section showing a crown, outward surface-water arrows, shoulders, an open ditch, asphalt course, aggregate base and prepared subgrade.">
+<figcaption><strong>Note.</strong> An original ACCESS IS4S instructional illustration. Layer depths are exaggerated. Curb-and-gutter and superelevation alternatives are discussed in the text, not drawn here. No design dimensions or acceptance standards are supplied. By ACCESS IS4S (2026b); see the figure references in the working reference section.</figcaption>
+</figure>
 
 A **crown** is a raised transverse form that can direct water toward the sides. **Superelevation** describes a cross-slope arrangement used on curves; its design depends on the project. **Runoff** is water moving from the surface. An open ditch and shoulder arrangement differs from a contained curb-and-gutter edge. A sidewalk serves a different function from the vehicle surface. A grader is equipment used in earthwork or grading, not a layer in the finished section. Drainage and preparation must be coordinated before paving; a drawing needs more than a surface outline to establish a buildable design.
 
@@ -39,6 +56,22 @@ For route length, width, centreline rise and layer thickness, identify the relev
 ### LA5-03 · Describe the road form
 
 Using the visual and paragraph, explain crown, shoulder, open ditch, curb/gutter, sidewalk, runoff and superelevation. Put “grader” in the correct category. Choose one drainage question and one preparation question that the conceptual drawing leaves unanswered. **Skills:** Reading, Communication, Problem Solving.
+
+## Point, name and explain
+
+Use the drawing and the reading to connect each word to a function. A learner may point, annotate a copy, or describe the location verbally.
+
+| Trade word | Look for or explain | What the word does not tell you |
+|---|---|---|
+| Crown | Raised transverse form near the centre of a crowned road | The specified crossfall or an acceptance result |
+| Shoulder / open ditch | Edge area / open drainage channel | Their required dimensions or capacity |
+| Curb and gutter | A contained edge and associated drainage form | That it is drawn in this open-ditch example |
+| Runoff | Surface water moving away from where it falls | The complete route, quantity or drainage design |
+| Superelevation | A curve-related cross-slope arrangement | That it is the same shape as the crown in this figure |
+| Grader | Equipment used in grading work | A layer in the cross-section |
+| Prepared subgrade | The prepared foundation below the pavement structure | That its preparation has been inspected or accepted |
+
+**Worked language check.** “The arrows are runoff direction; the dark layer is the asphalt course.” The arrows describe movement; the layer describes material. In LA5-03, explain two more features in the same way.
 
 ## Calculate a quantity you can check
 

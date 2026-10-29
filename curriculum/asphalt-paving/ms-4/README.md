@@ -4,7 +4,7 @@
 
 ## Access and verification status
 
-The user supplied an MS-4 Seventh Edition file on 29 October 2026. Its transfer into this workspace is pending because the upload exceeds the available transfer tool's 32 MiB limit. The uploaded textbook has **not been read, copied into this folder or included in a resource ZIP**. Full-text, chapter and page alignment therefore remain pending. This folder currently contains authored planning documents only; the textbook can be added when a transferable copy is available.
+The user supplied an MS-4 Seventh Edition file and later a Google Drive sharing link on 29 October 2026. The upload exceeds the transfer tool's 32 MiB limit; the Drive link currently returns an authorization requirement and redirects downloading to Google sign-in. The PDFCoffee link also did not deliver the PDF: its normal download queue required a CAPTCHA and its file server returned HTTP 403. The textbook has **not been read, converted to HTML, copied into this folder or included in a resource ZIP**. Full-text, chapter and page alignment remain pending access. This folder contains authored planning documents only. Once the file is accessible, preserve edition/page evidence, convert it to searchable HTML sections with faithful figure/table views, and verify any MS-4-derived SVG against its original figure.
 
 The Asphalt Institute's [official product page](https://my.asphaltinstitute.org/Shop/Product-Catalog/Product-Details?productid=%7B9E5A6840-361B-E811-80F2-000D3A011CEC%7D), accessed 29 October 2026, verifies:
 

@@ -2,13 +2,49 @@
 
 ## Prepare a complete document-reading session
 
-Allow about 90–120 minutes, or divide the lesson into two sessions. Prepare the six original OEM PDFs, the original Deere HTML manual, their covers/contents for print access, a PDF reader, a writable practice folder and the fictional records. Do not place machines in this activity. Arrange actual device turns if Digital is an intended observation. Confirm that all learners can reach a useful view and that practice IDs carry no private data. Model page navigation using a different heading before assigning MAN-02. The Deere HTML contents and local images/styles work without an internet connection.
+Allow about 90–120 minutes for MAN-01–09, or divide that sequence into two sessions. Add about 45–60 minutes for VIS-01–04, with more time when needed for the full-size figures and actual device turns. These are proposed ACCESS classroom practice times, not official technical-training allocations. Prepare the six original OEM PDFs, the original Deere HTML manual, their covers/contents for print access, a PDF reader, a writable practice folder and the fictional records. Do not place machines in this activity. Arrange actual device turns if Digital is an intended observation. Confirm that all learners can reach a useful view and that practice IDs carry no private data. Model page navigation using a different heading before assigning MAN-02. The Deere HTML contents and local images/styles work without an internet connection.
 
 The lesson teaches source selection, document navigation and a bounded handover. It does not award an equipment endorsement or demonstrate maintenance performance. Cover matching is necessary evidence for document selection; it does not establish every detail of actual-machine applicability. The manuals include original technical instructions, but the lesson assesses finding and interpreting information, not carrying those procedures out.
 
 Use agreed access tools and record exact solving prompts separately. A learner can use text-to-speech and still independently decide which serial statement applies. If the observer supplies the matching manual, that decision has been supported. A missing device turn is Not observed for Digital, not an inferred failure. Invite another attempt with changed fictional data after feedback.
 
-## Answer guidance
+## Teach the visual vocabulary
+
+Begin with the whole view, then a callout and its exact name. Model one sentence joining **number + term + function**. Ask learners to explain the remaining terms in their own words. Pointing alone may show a location; it does not yet demonstrate understanding of a function. Allow speech, signing, text or an agreed communication aid, and preserve the learner's own decision.
+
+Open the larger PNG or the source PDF when a callout is too small. Describe the part's position and supply the accessible name table, without selecting the learner's answer. For the dimension page, keep both the diagram and its table visible. Read letters and units aloud when useful. Do not infer a practical skill or assign an official Skills for Success proficiency level from these classroom checks.
+
+The images are faithful page-region crops. Their figure notes use APA-style source credits, and the lesson's reference list provides the full publication details. Source files, publication dates and serial scopes remain distinct. No MS-4 figure is claimed in this lesson: the pictured sources are the three identified OEM manuals.
+
+### Relationship to the trade outline
+
+The following locators refer to the supplied *Asphalt Paving/Laydown Technician Program Outline* file dated August 2016 in its filename. Use the exact learning-task scope below. This lesson supplies introductory reading and vocabulary practice, not complete technical coverage of I2, J1 or L1.
+
+| Visual practice | SkilledTradesBC competency and learning task | Outline PDF / printed page | Evidence produced here / remaining scope |
+|---|---|---|---|
+| VIS-01 | A1.1, “Describe paving and what types of equipment are used”; I2.2, “Describe major components” | 22 / 20; 72 / 70 | Four component names and explained functions; I2's other machine categories and attachments remain separate instruction. |
+| VIS-01–02 | J1.2, “Describe common attachments”; J1.3, “Describe principal functions” | 84 / 82 | Screed extension and end-gate vocabulary plus the route of material to the screed. Screed categories, the full attachment set, adjustments and timing are not assessed. J2 concerns safety/job planning and is not the component-identification code. |
+| VIS-02 | A1.1; preparatory context for A3, “Describe paving technology” | 22 / 20; 24 / 22 | Material-route explanation. The four-card route does not cover A3's two plant types, ingredients, resources, liquids or recycling requirements. |
+| VIS-03 | L1.1, “Describe types of Compaction Rollers”; L1.2, “Describe major components of compaction equipment” | 95 / 93 | Reads one identified tandem-drum example and distinguishes component type from action. L1's complete selection criteria and compaction-train functions remain to be taught. |
+| VIS-04 | Supporting document and numeracy practice for equipment descriptions | 95 / 93, L1.1 includes drum widths and weight | Reads published whole-machine dimensions, not drum width or weight; do not substitute this task for that specific L1 content. |
+
+The outline's category words and an actual manual's model-specific information can differ in detail. In VIS-03, the source model uses gasoline. Preserve the correct model-specific wording rather than teaching the outline's “diesel powered” bullet as a universal statement about every roller. A diagram or rounded dimension is not an approved machine-selection or site-clearance decision.
+
+### Visual-practice answer guidance
+
+| Activity | Expected evidence and useful check |
+|---|---|
+| VIS-01 | 7 **Hopper** receives/holds delivered mixture; 10 **Screed Extension** relates to working width; 11 **End Gate** helps form the paving edge; 12 **High-Speed Rubber Tracks** provide the tractor's ground-contact/traction system. Require a correct source callout and sensible function for each, then an actual listener check-back. Do not require the source's promotional comparisons or machine settings. |
+| VIS-02 | **Hopper → conveyors → augers → screed** is the conceptual material route. Conveyors move mixture rearward; augers distribute it across towards the screed. The draft hopper claim should be corrected: the hopper receives/holds mixture; the screed shapes and initially compacts the placed layer, with subsequent rolling addressed separately. Retain the actual partner trial and reasoned change/retention. A diagram arrow does not identify a safe personnel route. |
+| VIS-03 | The selected source names are 6 Rear Roller, 16 Hourmeter, 17 Water Tank, 19 Operator's Seat, 21 Seat Belt and 25 Documentation Box. Diagram: Figure 4 on PDF/printed page 14; descriptions: page 15. Cover: Honda GX630RQZB2 **gasoline** engine; page 12 identifies a Honda GX630 gasoline engine. Accept a corrected label naming the AR13HA/AR13HAR model and gasoline power. Observe actual navigation, saved version and swapped finder/checker roles before recording Digital, Adaptability or Collaboration evidence. |
+| VIS-04.1 | F = **692 mm**; G = **346 mm**. 2 × 346 mm = 692 mm, matching the published width F. Require locating the dimension letters on the upper view as well as reading the rows. |
+| VIS-04.2 | 692 mm ÷ 1,000 = **0.692 m**. 692 m is one thousand times the stated dimension, so retaining the unchanged number while changing the unit is an error. |
+| VIS-04.3 | H = 1,990 mm; I = 1,170 mm; H − I = **820 mm**. This is a comparison of the two labelled dimensions, not a new manufacturer operating limit. |
+| VIS-04.4 | 700 mm − 692 mm = **8 mm total nominal difference**. Do not call it safe clearance, or assign half to each side without an explicit centring assumption. The doorway value is fictional; orientation, actual dimensions/configuration, route and safe-movement requirements are not supplied. |
+
+**Fresh visual check.** Ask the learner to find callout **3** and **9** in Figure 1 (Beacon Light; Foldable Walkboard), then locate **B** and **F** in Figure 4 (1,470 mm; 692 mm). Compare 1.470 m and 0.692 m only after showing the letter-to-row route. A correct memorized number without the matching dimension is incomplete evidence of document reading.
+
+## Answer guidance for MAN-01–09
 
 | Activity | Expected evidence and common errors |
 |---|---|

@@ -1,5 +1,5 @@
 {
-  "checks": 291,
+  "checks": 354,
   "errors": [],
   "status": "passed",
   "counts": {
@@ -8,8 +8,10 @@
     "activity_ids": 18,
     "skills": 9,
     "svg_figures": 5,
-    "learner-workbook_pages": 15,
-    "teaching-guide_pages": 10
+    "source_figures": 2,
+    "faithful_crops": 3,
+    "learner-workbook_pages": 18,
+    "teaching-guide_pages": 11
   },
   "scope": "Offline source integrity, selected table data, arithmetic, activity/skill coverage, local assets, HTML/PDF links and PDF TOC destinations; not technical sign-off or a classroom pilot."
 }

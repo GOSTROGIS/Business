@@ -2,11 +2,17 @@
 
 **29 October 2026 · classroom teaching edition**
 
-- **291 offline checks passed**, no errors: [validation.json](validation.json).
+- **354 offline checks passed**, no errors: [validation.json](validation.json).
 - **61 browser checks passed**, no errors, across five HTML pages at 375, 768 and 1280 px: [browser-validation.json](browser-validation.json).
-- Learner workbook: **15 PDF pages**. Teaching and answer guide: **10 PDF pages**. Printed contents-page numbers were compared with the final PDFs' named destinations; both books converged in two export passes.
-- **18 learner activities and 18 complete answer entries**, with evidence criteria for all **nine Skills for Success**; **five CSV datasets** and **five original SVG diagrams**.
+- Learner workbook: **18 PDF pages**. Teaching and answer guide: **11 PDF pages**. Printed contents-page numbers were compared with the final PDFs' named destinations; both books converged in two export passes.
+- **18 learner activities and 18 complete answer entries**, with evidence criteria for all **nine Skills for Success**; **five CSV datasets** and **five original SVG diagrams**, plus **two source figures made from three faithful PDF crops**. Every learner figure has a source/provenance note; the new source figures use APA-style captions and full reference entries.
 - Original specification: **441 pages**, **4,949,922 bytes**, SHA-256 `0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13`. Original bytes preserved.
+
+## Visual and terminology integration
+
+The complete Table 501-E crop preserves its title, five mix columns, all twelve sieve rows and original footer. The paired Road Checker’s Summary crops preserve the clause heading, both paragraphs and the entire continued list, including the open-list and minimum-frequency qualifiers. The crop manifest records page numbers, bounding boxes, source and asset hashes, and rendering parameters. Verification renders those exact source regions again and compares every pixel. A complete table text alternative and a delivery-paragraph/list transcript support the image reading. Two previously mistyped words in the latter transcript were corrected against the actual PDF.
+
+New SP-01 and SP-08 steps ask learners to trace a row/column and a paragraph continuation; the answer guide explicitly checks both. The module identifies its support for A5.4, F2.1/F2.4 and introductory F3.2/F3.4 context without marking those technical competencies complete. Printed learner pages 5 and 11 were reviewed at full size for readable source crops and uninterrupted figure notes.
 
 ## What was checked
 
@@ -19,6 +25,7 @@ Every page was included in the final PDF contact-sheet review. Full-size checks 
 ## Reproduce
 
 ```sh
+python curriculum/asphalt-paving/specifications/tools/build_source_crops.py
 python curriculum/asphalt-paving/specifications/tools/build_module.py
 python curriculum/asphalt-paving/specifications/tools/verify_module.py
 python curriculum/asphalt-paving/specifications/tools/check_browser.py

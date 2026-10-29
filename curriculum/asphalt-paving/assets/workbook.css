@@ -41,3 +41,11 @@
 .instructor h2[id^="session-"]+p+.table-wrap th:first-child{width:92px;white-space:nowrap}
 .instructor h2[id^="session-"]+p+.table-wrap td:first-child{white-space:nowrap}
 }
+
+/* Source figures: keep the credit with the visual in print. */
+.teaching-figure{margin:24px 0;padding:16px;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
+.teaching-figure img{display:block;width:100%;height:auto}
+.teaching-figure figcaption{font-size:14px;line-height:1.5;margin-top:12px;color:var(--muted)}
+@media print{.teaching-figure{break-inside:avoid;padding:8px;margin:14px 0}.teaching-figure figcaption{font-size:8.5pt}}
+
+@media print{.response-sheet .sheet>h3[id^="a1-q10"]{break-before:page;margin-top:0}}

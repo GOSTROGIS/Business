@@ -12,6 +12,10 @@ All sample results, deliveries and dimensions below are **invented for classroom
 
 This is a document-and-calculation classroom task. It does not involve sampling, plant settings, equipment operation or approval of pavement. Work in a classroom or other agreed learning space. Choose written, spoken or supported responses where offered. A calculator and a unit guide are welcome. Use a partner or ask the facilitator to take that role.
 
+### Where this work fits in the trade
+
+The trade outline's **A5, “Describe basic road and highway profiles,” task 4**, asks learners to review specifications for different types of roads. Here you practise that document-reading skill with a clearly dated B.C. specification. The unit also introduces parts of **F2, “Verify slopes, crowns and grades,” tasks 1 and 4**: units, drawing information and calculations. SP-02 and the area exercise provide introductory context for **F3, “Describe final grade preparation,” tasks 2 and 4**: fine grading and the limit of asphalt layout. A rectangle calculation does not demonstrate grade measurement, equipment calibration or finished-mat layout. Keep those practical outcomes for supervised technical training (SkilledTradesBC, 2016, printed pp. 24, 49–51; PDF pp. 26, 51–53).
+
 ### Your record pack
 
 You need this workbook, paper or an editable copy, a calculator, and a device with spreadsheet software for SP-12. The [CSV data pack](data/README.md) contains the same invented numbers printed here. Keep your first calculation and the corrected version. Write a name or learner code only if you choose; use no personal information in a practice delivery record.
@@ -26,11 +30,15 @@ PDF pages count from the first page of the file. A printed footer may restart at
 
 Sections 501 and 502 describe different specification arrangements. Here, the Section 501 exercise concerns grading limits and a four-test mean. The Section 502 exercise concerns delivery records and material application calculations. We will keep those rules separate; the grading worksheet is not a Section 502 acceptance calculation.
 
-<figure class="teaching-figure"><img src="assets/diagrams/document-address.svg" alt="A document address has four parts: 2006 edition, Section 501, Table 501-E, PDF page 286 with printed page 3 of 13."><figcaption>A complete source address lets the next reader find the same table.</figcaption></figure>
+<figure class="teaching-figure"><img src="assets/diagrams/document-address.svg" alt="A document address has four parts: 2006 edition, Section 501, Table 501-E, PDF page 286 with printed page 3 of 13."><figcaption>A complete source address lets the next reader find the same table. <strong>Note.</strong> Original ACCESS IS4S diagram (2026), using document identifiers from British Columbia Ministry of Transportation, Construction and Maintenance Branch (2006, Section 501, Table 501-E, PDF p. 286).</figcaption></figure>
+
+<figure class="teaching-figure source-figure" id="figure-s1"><a href="assets/crops/table-501-e.png"><img src="assets/crops/table-501-e.png" alt="Complete original Table 501-E with five mix columns. The Medium Asphalt Mix cell at 4.75 millimetres is 50 to 75 percentage by mass passing; all twelve original sieve rows remain visible."></a><figcaption><strong>Figure S1</strong><br><em>Find the row, then the correct mix column.</em><br><strong>Note.</strong> From <em>2006 Design Build Standard Specifications for Highway Construction</em> (Section 501, Table 501-E, printed p. 3 of 13; PDF p. 286), by British Columbia Ministry of Transportation, Construction and Maintenance Branch, 2006. Cropped from the supplied PDF; original wording, values and footer retained. <a href="../sources/design_build_standard_specs_2006.pdf#page=286">Open the complete source page</a>. Select the image to enlarge it. <a href="source-excerpts.html#table-501-e-complete-text-alternative-to-figure-s1">Read all table values as text</a>.</figcaption></figure>
+
+**Read the picture in three moves.** Find **SIEVE SIZE (mm)**. Move down to **4.75**. Move across to **MEDIUM ASPHALT MIX** under **PERCENTAGE BY MASS PASSING**. The answer is **50–75% by mass passing**; 4.75 mm describes the sieve opening, not the passing amount. The neighbouring Coarse Asphalt Mix cell belongs to a different mix column.
 
 ### SP-01 · Leave an exact page trail
 
-Open the [cover](../sources/design_build_standard_specs_2006.pdf#page=1) and [Table 501-E](../sources/design_build_standard_specs_2006.pdf#page=286), or use the source card and table printed in this workbook. Record: document title; adoption date; section and table identifier; PDF page; printed footer. Then finish this sentence: “Before I use this on a current project, I need to confirm …”. If the facilitator supplies the page aloud, record that support.
+Open the [cover](../sources/design_build_standard_specs_2006.pdf#page=1) and [Table 501-E](../sources/design_build_standard_specs_2006.pdf#page=286), or use the source card and table printed in this workbook. Record: document title; adoption date; section and table identifier; PDF page; printed footer. Using Figure S1, point to the table title, sieve-size unit and Medium Asphalt Mix column; explain why the neighbouring Coarse column would answer a different question. Then finish this sentence: “Before I use this on a current project, I need to confirm …”. If the facilitator supplies the page aloud, record that support.
 
 | Record field | Your response |
 |---|---|
@@ -79,7 +87,7 @@ ______________________________________________________________________________
 
 If a fictional dry sample has a total mass of **1,000 g**, and **26%** passes the **0.600 mm** sieve, the passing mass is **26 ÷ 100 × 1,000 g = 260 g**. Check: one quarter of 1,000 g is 250 g, so 260 g is sensible for 26%. This arithmetic explains the reported percentage; it is not a procedure for performing a sieve test.
 
-<figure class="teaching-figure"><img src="assets/diagrams/passing-mass.svg" alt="For the same 1,000 gram sample, 900 grams passes 12.5 millimetres, 260 grams passes 0.600 millimetres and 50 grams passes 0.075 millimetres. These are nested cumulative amounts, not parts to sum."><figcaption>Each bar starts from the same total sample mass. Passing amounts overlap across sieve rows.</figcaption></figure>
+<figure class="teaching-figure"><img src="assets/diagrams/passing-mass.svg" alt="For the same 1,000 gram sample, 900 grams passes 12.5 millimetres, 260 grams passes 0.600 millimetres and 50 grams passes 0.075 millimetres. These are nested cumulative amounts, not parts to sum."><figcaption>Each bar starts from the same total sample mass. Passing amounts overlap across sieve rows. <strong>Note.</strong> Original ACCESS IS4S illustration (2026) of the fictional 1,000 g classroom sample; not a reproduced test result.</figcaption></figure>
 
 ### SP-04 · Convert percentage to mass
 
@@ -124,7 +132,7 @@ Check: each mean must lie between the smallest and largest value in its own wind
 
 A different invented established curve is **51%** at 4.75 mm. Four results are **49%, 49%, 50%, 50%**. Calculate the mean, its difference from 51%, and whether the mean lies inside 50–75%. A colleague writes: “The difference is less than 4.5, so every requirement is met.” Write a two-sentence correction using both constraints. Identify the missing evidence before any overall mix conclusion.
 
-<figure class="teaching-figure"><img src="assets/diagrams/two-constraints.svg" alt="Two checks for a 49.5 percent four-test mean: difference from the 51 percent curve is minus 1.5 percentage points, within plus or minus 4.5; however 49.5 percent is below the 50 percent lower grading limit."><figcaption>The curve tolerance and the grading interval are separate checks. One can be satisfied while the other is not.</figcaption></figure>
+<figure class="teaching-figure"><img src="assets/diagrams/two-constraints.svg" alt="Two checks for a 49.5 percent four-test mean: difference from the 51 percent curve is minus 1.5 percentage points, within plus or minus 4.5; however 49.5 percent is below the 50 percent lower grading limit."><figcaption>The curve tolerance and the grading interval are separate checks. One can be satisfied while the other is not. <strong>Note.</strong> Original ACCESS IS4S diagram (2026), illustrating fictional results against the historical limits in British Columbia Ministry of Transportation, Construction and Maintenance Branch (2006, Section 501, clause 501.15.03 and Tables 501-E–F, PDF pp. 286–287).</figcaption></figure>
 
 Response: ____________________________________________________________________
 
@@ -134,7 +142,11 @@ ______________________________________________________________________________
 
 The historical **502.04.04**, [PDF 299–300](../sources/design_build_standard_specs_2006.pdf#page=299), lists these Road Checker's Summary items: truck number; weigh-ticket number and net weight; delivery time and station location; dimensions and calculations for material application rate; and notes about features such as letdowns, intersections and tapers. Its calculation frequency is minimally every ten loads. Here “station” is a location reference along the work; it is not a time.
 
-Create a blank record with those five information groups. Add a **version**, **correction reason** and **checked by/date** field for this classroom workflow. Explain why net load mass and a ticket identifier belong together. A ticket identifier must stay intact even if its mass is corrected.
+<figure class="teaching-figure source-figure" id="figure-s2"><div class="source-pair"><div><p class="crop-label">Start · PDF 299 / printed 3 of 22</p><a href="assets/crops/road-checker-introduction.png"><img src="assets/crops/road-checker-introduction.png" alt="Original clause 502.04.04. The Contractor consolidates the Road Checker's Summary and weigh tickets at the end of each shift; the Summary shall include, but not be limited to, the following information. The list continues on the next page."></a></div><div><p class="crop-label">Continue · PDF 300 / printed 4 of 22</p><a href="assets/crops/road-checker-fields.png"><img src="assets/crops/road-checker-fields.png" alt="Continued original list: truck number; weigh-ticket number and net weight; delivery time and station; dimensions and material-application-rate calculations minimally every ten loads; notes about appurtenances including letdowns, intersections and tapers."></a></div></div><figcaption><strong>Figure S2</strong><br><em>Keep a requirement together when it crosses a page.</em><br><strong>Note.</strong> From <em>2006 Design Build Standard Specifications for Highway Construction</em> (Section 502, clause 502.04.04, printed pp. 3–4 of 22; PDF pp. 299–300), by British Columbia Ministry of Transportation, Construction and Maintenance Branch, 2006. Two separate crops, in reading order; paragraph and list wording unchanged. <a href="../sources/design_build_standard_specs_2006.pdf#page=299">Open the complete source pages</a>. Select either crop to enlarge it. <a href="source-excerpts.html#clause-5020404-delivery-records">Read the delivery paragraph and list as text</a>.</figcaption></figure>
+
+**Put the document's words to work.** The **Road Checker's Summary** brings the delivery information together. A **weigh ticket** identifies a load and its recorded mass. **Net weight** is the load amount, while **station** locates the delivery along the work. **Appurtenances** here means associated features such as the listed letdowns, intersections and tapers. The words **“include, but not be limited to”** mean the five items are not an exhaustive checklist. The ten-load statement is a minimum calculation frequency, not a definition of an acceptance Lot.
+
+Before drawing, use Figure S2 to trace item (d) back to the paragraph on the preceding page. Explain why a list without that paragraph could mislead a reader. Create a blank record with those five information groups. Add a **version**, **correction reason** and **checked by/date** field for this classroom workflow. Explain why net load mass and a ticket identifier belong together. A ticket identifier must stay intact even if its mass is corrected.
 
 Sketch your fields: _____________________________________________________________
 
@@ -175,7 +187,7 @@ Estimate and check: ____________________________________________________________
 
 **Version 1 dimensions:** main rectangle **200 m × 4 m**; adjacent letdown rectangle **20 m × 10 m**. Calculate each area and add them. Show square units. The diagram is a schematic, not a scale drawing: use the printed dimensions, not a ruler on the image.
 
-<figure class="teaching-figure"><img src="assets/diagrams/area-plan.svg" alt="Schematic of a 200 metre by 4 metre main rectangle and a separate adjacent 20 metre by 10 metre letdown rectangle. They share an edge and do not overlap. Version 2 changes the letdown depth from 10 to 15 metres."><figcaption>Use area components once each. Version 2 extends the letdown; it does not add a second complete letdown.</figcaption></figure>
+<figure class="teaching-figure"><img src="assets/diagrams/area-plan.svg" alt="Schematic of a 200 metre by 4 metre main rectangle and a separate adjacent 20 metre by 10 metre letdown rectangle. They share an edge and do not overlap. Version 2 changes the letdown depth from 10 to 15 metres."><figcaption>Use area components once each. Version 2 extends the letdown; it does not add a second complete letdown. <strong>Note.</strong> Original ACCESS IS4S illustration (2026) of invented classroom dimensions; not a construction drawing.</figcaption></figure>
 
 Main area: __________________ · Letdown area: __________________ · Total: __________________
 
@@ -216,7 +228,7 @@ Keep version 1. Copy to version 2, change the existing ticket row once, and revi
 
 Target comparison / change / reasonableness check: __________________________________
 
-<figure class="teaching-figure"><img src="assets/diagrams/revision-trail.svg" alt="Keep version 1, apply the two documented corrections, recalculate version 2, then have another person check the record. A corrected ticket replaces the old value; it is not an eleventh load."><figcaption>A correction changes a value while preserving the evidence of what changed.</figcaption></figure>
+<figure class="teaching-figure"><img src="assets/diagrams/revision-trail.svg" alt="Keep version 1, apply the two documented corrections, recalculate version 2, then have another person check the record. A corrected ticket replaces the old value; it is not an eleventh load."><figcaption>A correction changes a value while preserving the evidence of what changed. <strong>Note.</strong> Original ACCESS IS4S illustration (2026) of the fictional record correction; not a source-manual figure.</figcaption></figure>
 
 ### SP-14 · Write a useful handover
 
@@ -285,3 +297,11 @@ Collect your source address, comparison table, means, version 1 and version 2 re
 My evidence: __________________________________________________________________
 
 My next practice step: ___________________________________________________________
+
+## References and figure credits
+
+British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). *2006 design build standard specifications for highway construction*. [Complete supplied edition](../sources/design_build_standard_specs_2006.pdf).
+
+SkilledTradesBC. (2016). *Asphalt paving/laydown technician program outline* (August 2016). [Supplied outline](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf).
+
+Figures S1 and S2 reproduce cropped regions of the 2006 specification. Each caption records the clause or table and both page-number systems. The five explanatory SVGs are original ACCESS IS4S curriculum illustrations (2026); their captions distinguish historical source identifiers or limits from invented practice data. [Crop coordinates and integrity record](crop-manifest.json).

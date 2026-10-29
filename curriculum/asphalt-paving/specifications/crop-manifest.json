@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "source_title": "2006 Design Build Standard Specifications for Highway Construction",
+  "source_original_bytes_preserved": true,
+  "figure_count": 2,
+  "crop_count": 3,
+  "assets": [
+    {
+      "id": "table-501-e",
+      "file": "assets/crops/table-501-e.png",
+      "source_file": "../sources/design_build_standard_specs_2006.pdf",
+      "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+      "pdf_page": 286,
+      "printed_page": "Section 501, 3 of 13",
+      "crop_bbox_pdf_points": [
+        48,
+        429,
+        576,
+        780
+      ],
+      "coordinate_origin": "top-left",
+      "render_scale": 3,
+      "width_px": 1584,
+      "height_px": 1053,
+      "sha256": "4cb7829e2a2df7c8e579ec9c25b259acdc9b3b9704bc171a6d1bbe57f157534c",
+      "scope": "Complete Table 501-E, including title, all columns and rows, and original footer.",
+      "processing": "Unaltered PDF-region rasterization at 216 dpi; no redrawing, recolouring, added labels, OCR, or generative editing.",
+      "apa_reference": "British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). 2006 design build standard specifications for highway construction.",
+      "source_url": null,
+      "source_origin": "User-supplied complete PDF; local source link is the verified retrieval location."
+    },
+    {
+      "id": "road-checker-introduction",
+      "file": "assets/crops/road-checker-introduction.png",
+      "source_file": "../sources/design_build_standard_specs_2006.pdf",
+      "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+      "pdf_page": 299,
+      "printed_page": "Section 502, 3 of 22",
+      "crop_bbox_pdf_points": [
+        326,
+        449,
+        583,
+        635
+      ],
+      "coordinate_origin": "top-left",
+      "render_scale": 3,
+      "width_px": 771,
+      "height_px": 558,
+      "sha256": "046e4dd789e109f853ec012fa550fe7703fd2e5d168c977bd452bc17529c6125",
+      "scope": "Clause 502.04.04 heading and both paragraphs; list continues on PDF page 300.",
+      "processing": "Unaltered PDF-region rasterization at 216 dpi; no redrawing, recolouring, added labels, OCR, or generative editing.",
+      "apa_reference": "British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). 2006 design build standard specifications for highway construction.",
+      "source_url": null,
+      "source_origin": "User-supplied complete PDF; local source link is the verified retrieval location."
+    },
+    {
+      "id": "road-checker-fields",
+      "file": "assets/crops/road-checker-fields.png",
+      "source_file": "../sources/design_build_standard_specs_2006.pdf",
+      "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+      "pdf_page": 300,
+      "printed_page": "Section 502, 4 of 22",
+      "crop_bbox_pdf_points": [
+        45,
+        69,
+        285,
+        223
+      ],
+      "coordinate_origin": "top-left",
+      "render_scale": 3,
+      "width_px": 720,
+      "height_px": 462,
+      "sha256": "e04abb87cbbfa759ac6968a587e7b156b25d43c713e7acfdcc820fb178a9e4c6",
+      "scope": "Complete continued list (a)–(e), including minimum calculation frequency and examples of appurtenances.",
+      "processing": "Unaltered PDF-region rasterization at 216 dpi; no redrawing, recolouring, added labels, OCR, or generative editing.",
+      "apa_reference": "British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). 2006 design build standard specifications for highway construction.",
+      "source_url": null,
+      "source_origin": "User-supplied complete PDF; local source link is the verified retrieval location."
+    }
+  ]
+}

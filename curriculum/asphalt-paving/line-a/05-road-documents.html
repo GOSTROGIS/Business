@@ -1,17 +1,52 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>5 · Read road documents and quantities | ACCESS IS4S</title><style>
 @font-face{font-family:Plex;src:url('../assets/fonts/ibm-plex-sans-latin-400-normal.woff2')}
 @font-face{font-family:Plex;src:url('../assets/fonts/ibm-plex-sans-latin-600-normal.woff2');font-weight:600}
-*{box-sizing:border-box}body{margin:0;color:#173b3a;background:#f4f0e7;font-family:Plex,Arial,sans-serif;line-height:1.58}
-main{max-width:960px;margin:auto;padding:32px}header{background:#143d3b;color:white;padding:36px 32px}
-header div{max-width:896px;margin:auto}h1{font-size:2.1rem;line-height:1.2}h2{margin-top:1.6em;color:#175f5c;font-size:1.42rem;line-height:1.25}
-h3{font-size:1.13rem;color:#954d32;line-height:1.3}a{color:#146b68}header a{color:#fff}article{background:#fff;padding:28px;margin-bottom:28px;border-top:5px solid #b7754b}
-table{border-collapse:collapse;width:100%;font-size:.91em;margin:1.2em 0}th,td{border:1px solid #bccdca;padding:9px;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#e4eeeb}
-.table-wrap{max-width:100%;overflow-x:auto}.table-wrap:focus{outline:2px solid #146b68;outline-offset:3px}
-img{max-width:100%;height:auto}code{background:#edf4f1;padding:1px 3px;white-space:normal}.activity-id{white-space:nowrap}nav li{margin:8px 0}p,li{overflow-wrap:break-word}.edition{font-size:.9rem}.skip{position:absolute;left:-9999px}.skip:focus{left:8px;top:8px;background:white;padding:8px}
-@media(max-width:600px){main{padding:12px}article{padding:16px}header{padding:24px 16px}table{font-size:.78rem}th,td{padding:5px}}
-@media print{body{background:white;font-size:10.3pt;line-height:1.45}main{max-width:none;padding:0}header{background:white;color:#173b3a;padding:12mm 0;break-after:page}header a{color:#173b3a}article{padding:0;border:0;margin:0;break-before:page}h1{font-size:23pt}h2{font-size:15pt}h3{font-size:12pt}h1,h2,h3{break-after:avoid}p,li{orphans:3;widows:3}thead{display:table-header-group}tr,img{break-inside:avoid}table{font-size:9pt}th,td{padding:6px}.screen{display:none}nav{break-after:page}.chapter-nav{display:none}}
-@media print{.table-wrap{overflow:visible}}
+:root{--paper:#F7F4F1;--ink:#1A1512;--red:#D2181F;--gold:#FFBC00;--muted:#625D58;--line:#d8cdc3}
+*{box-sizing:border-box}body{margin:0;color:var(--ink);background:var(--paper);font-family:Plex,Arial,sans-serif;line-height:1.6}
+main{max-width:1040px;margin:auto;padding:36px 32px}header{background:var(--ink);color:white;padding:42px 32px;border-bottom:8px solid var(--gold)}
+header div{max-width:920px;margin:auto}header div>p:first-child{color:var(--gold);font-size:.85rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase}h1{font-size:2.35rem;line-height:1.16;letter-spacing:-.025em;max-width:25ch}h2{margin-top:1.6em;color:var(--ink);font-size:1.5rem;line-height:1.25}
+h3{font-size:1.16rem;color:#a3141a;line-height:1.32}a{color:#a3141a;text-underline-offset:3px}a:focus-visible{outline:3px solid var(--red);outline-offset:4px}header a{color:#fff}article{background:#fff;padding:32px;margin-bottom:28px;border-top:5px solid var(--red)}
+table{border-collapse:collapse;width:100%;font-size:.91em;margin:1.2em 0}th,td{border:1px solid var(--line);padding:10px;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#eee6df;color:var(--ink)}tbody tr:nth-child(even){background:#fcfaf8}
+.table-wrap{max-width:100%;overflow-x:auto}.table-wrap:focus{outline:3px solid var(--red);outline-offset:3px}
+img{max-width:100%;height:auto}code{background:#f0eae4;padding:1px 3px;white-space:normal}.activity-id{white-space:nowrap}nav li{margin:8px 0}p,li{overflow-wrap:break-word}.edition{font-size:.9rem}.skip{position:absolute;left:-9999px}.skip:focus{left:8px;top:8px;background:white;padding:8px;color:var(--ink)}
+.competency{border-left:5px solid var(--gold);background:var(--paper);padding:20px 24px;margin:24px 0}.competency h2{margin:.4em 0;font-size:1.3rem}.competency p{margin:.4em 0 0}.eyebrow{font-size:.76rem;letter-spacing:.1em;font-weight:600;color:#a3141a}
+.learning-figure{margin:28px 0;padding:20px;border:1px solid var(--line);border-top:4px solid var(--gold);background:var(--paper)}.learning-figure img{display:block;width:100%;object-fit:contain;max-height:750px;margin:14px auto;background:white}.figure-number{font-size:.8rem;color:#a3141a;font-weight:600;letter-spacing:.07em;margin:0}.figure-title{font-size:1.12rem;margin:4px 0 10px;font-weight:600}.learning-figure figcaption{font-size:.83rem;line-height:1.45;color:#51483f;overflow-wrap:anywhere}.learning-figure figcaption a{color:inherit}.learning-figure.manual img{max-height:510px}.learning-figure .scope{font-weight:600;margin:10px 0}
+@media(max-width:600px){main{padding:12px}article{padding:17px}header{padding:28px 18px}h1{font-size:1.85rem}table{font-size:.83rem}.table-wrap table:has(thead th:nth-child(3)){min-width:540px}th,td{padding:7px}.competency{padding:16px}.learning-figure{padding:12px;margin:22px 0}.learning-figure figcaption{font-size:.82rem}.learning-figure img{max-height:none}}
+@media print{body{background:white;font-size:10.3pt;line-height:1.45}main{max-width:none;padding:0}header{background:white;color:var(--ink);padding:12mm 0;break-after:page;border-bottom:3px solid var(--red)}header div>p:first-child{color:var(--ink)}header a{color:var(--ink)}article{padding:0;border:0;margin:0;break-before:page}h1{font-size:25pt}h2{font-size:15pt}h3{font-size:12pt}h1,h2,h3{break-after:avoid}p,li{orphans:3;widows:3}thead{display:table-header-group}tr,img{break-inside:avoid}table{font-size:8.8pt}th,td{padding:6px}.screen{display:none}nav{break-after:page}.chapter-nav{display:none}.table-wrap{overflow:visible}.competency{padding:10px 14px;margin:12px 0;break-inside:avoid}.competency h2{font-size:13pt}.eyebrow{font-size:8pt}.learning-figure{break-inside:avoid;padding:10px;margin:16px 0}.learning-figure img{max-height:165mm;width:100%;margin:8px auto}.learning-figure.manual img{max-height:130mm}.figure-number{font-size:8pt}.figure-title{font-size:11pt}.learning-figure figcaption{font-size:8pt;line-height:1.35}.learning-figure .scope{font-size:8.5pt}}
 </style></head><body><a class="skip" href="#content">Skip to content</a><header><div><p>ACCESS · Indigenous Skills 4 Success</p><h1>5 · Read road documents and quantities</h1><p>Read, practise, check and explain.</p><p class="edition">Classroom teaching edition · 29 October 2026 · Technical review and pilot pending</p></div></header><main id="content"><article><h1 id="5-read-road-documents-and-quantities">5 · Read road documents and quantities</h1>
+<div class="competency"><span class="eyebrow">SKILLEDTRADESBC · LINE A</span><h2>A5 · Describe basic road and highway profiles</h2><p>Read the trade words, use them in a clear explanation, then keep evidence of your own work.</p></div>
+
+<div class="table-wrap" tabindex="0" role="region" aria-label="Data table"><table>
+<thead>
+<tr>
+<th scope="col">Outline learning task</th>
+<th scope="col">Practise here</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A5.1 · Review categories of projects</td>
+<td><span class="activity-id">LA5-01</span></td>
+</tr>
+<tr>
+<td>A5.2 · Describe types of owners</td>
+<td><span class="activity-id">LA5-01</span></td>
+</tr>
+<tr>
+<td>A5.3 · Describe common types of asphalt work</td>
+<td><span class="activity-id">LA5-03</span></td>
+</tr>
+<tr>
+<td>A5.4 · Review specifications for different types of roads</td>
+<td><span class="activity-id">LA5-01</span>, <span class="activity-id">LA5-05</span></td>
+</tr>
+<tr>
+<td>A5.5 · Describe cross section of road</td>
+<td><span class="activity-id">LA5-02</span>–03</td>
+</tr>
+</tbody>
+</table></div>
+<p>Learning-task wording: SkilledTradesBC (2016, p. 24; PDF viewer p. 26). The activities develop classroom understanding; the answer guide records the evidence to check.</p>
 <h2 id="identify-the-project-before-the-specification">Identify the project before the specification</h2>
 <p>A project may be described by use—commercial, industrial or residential—or by jurisdiction and delivery, such as a provincial highway project. These categories answer different questions and can overlap. A private industrial site is different from a provincially administered highway, even if both use asphalt. Owners can include provincial, federal, municipal or private organizations. A funder, designer, contractor and owner may be different parties.</p>
 <p><strong>Fictional practice project R1 · Cedar Learning Access, drawing P-01 revision B.</strong> The fictional Cedar Learning Society owns a short access route on its own practice property. Valley Surface Ltd. is the fictional contractor. The classroom project brief classifies the work as a private facility access project. A fictional community fund contributes money but does not become the owner. There is no real construction instruction or permission attached to this case.</p>
@@ -21,7 +56,13 @@ img{max-width:100%;height:auto}code{background:#edf4f1;padding:1px 3px;white-spa
 <p>Identify the project use, owner, contractor and funder in R1. Explain why “private” and “asphalt” do not tell you which public standard or special provision applies. Compare provincial, MMCD, local-government and building-specific document families: what project-adoption evidence would you check before using any of them? Name the record you would need before treating a requirement as authorized. <strong>Skills:</strong> Reading, Problem Solving, Writing.</p>
 <h2 id="read-three-views-of-the-same-place">Read three views of the same place</h2>
 <p>A <strong>plan</strong> looks down on a project and shows its horizontal arrangement. A <strong>profile</strong> shows elevations along a chosen line, commonly using chainage or stationing to locate points. A <strong>cross-section</strong> cuts across the route and shows its transverse form and layers. A number must be associated with the correct view, direction and unit. Plan width, profile rise and layer thickness are different quantities.</p>
-<p><img alt="Conceptual road cross-section with crown, surface-water direction, layers and edge alternatives" src="../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg" /></p>
+<figure class="learning-figure" id="figure-la-2">
+<p class="figure-number">Figure LA-2</p>
+<p class="figure-title"><em>See how the layers work together</em></p>
+<img src="../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg" alt="Conceptual cross-section showing a crown, outward surface-water arrows, shoulders, an open ditch, asphalt course, aggregate base and prepared subgrade.">
+<figcaption><strong>Note.</strong> An original ACCESS IS4S instructional illustration. Layer depths are exaggerated. Curb-and-gutter and superelevation alternatives are discussed in the text, not drawn here. No design dimensions or acceptance standards are supplied. By ACCESS IS4S (2026b); see the figure references in the working reference section.</figcaption>
+</figure>
+
 <p>A <strong>crown</strong> is a raised transverse form that can direct water toward the sides. <strong>Superelevation</strong> describes a cross-slope arrangement used on curves; its design depends on the project. <strong>Runoff</strong> is water moving from the surface. An open ditch and shoulder arrangement differs from a contained curb-and-gutter edge. A sidewalk serves a different function from the vehicle surface. A grader is equipment used in earthwork or grading, not a layer in the finished section. Drainage and preparation must be coordinated before paving; a drawing needs more than a surface outline to establish a buildable design.</p>
 <p><strong>P-01 revision B · Complete fictional drawing data.</strong> The rectangle extends from chainage 0 m to 50 m. Its constant width is 6 m. The new uniform layer is 40 mm thick for this calculation exercise. No widening, taper, overlap, waste allowance or material loss is included. The exercise asks for geometric volume only. Use the written dimensions; a screen image is not a measuring scale.</p>
 <div class="table-wrap" tabindex="0" role="region" aria-label="Data table"><table>
@@ -55,6 +96,55 @@ img{max-width:100%;height:auto}code{background:#edf4f1;padding:1px 3px;white-spa
 <p>For route length, width, centreline rise and layer thickness, identify the relevant view and unit. Explain why the profile elevation 100.50 m is not the layer thickness. Sketch three boxes labelled plan, profile and cross-section and put the matching information in each. <strong>Skills:</strong> Reading, Numeracy, Creativity and Innovation.</p>
 <h3 id="la5-03-describe-the-road-form"><span class="activity-id">LA5-03</span> · Describe the road form</h3>
 <p>Using the visual and paragraph, explain crown, shoulder, open ditch, curb/gutter, sidewalk, runoff and superelevation. Put “grader” in the correct category. Choose one drainage question and one preparation question that the conceptual drawing leaves unanswered. <strong>Skills:</strong> Reading, Communication, Problem Solving.</p>
+<h2 id="point-name-and-explain">Point, name and explain</h2>
+<p>Use the drawing and the reading to connect each word to a function. A learner may point, annotate a copy, or describe the location verbally.</p>
+<div class="table-wrap" tabindex="0" role="region" aria-label="Data table"><table>
+<thead>
+<tr>
+<th scope="col">Trade word</th>
+<th scope="col">Look for or explain</th>
+<th scope="col">What the word does not tell you</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crown</td>
+<td>Raised transverse form near the centre of a crowned road</td>
+<td>The specified crossfall or an acceptance result</td>
+</tr>
+<tr>
+<td>Shoulder / open ditch</td>
+<td>Edge area / open drainage channel</td>
+<td>Their required dimensions or capacity</td>
+</tr>
+<tr>
+<td>Curb and gutter</td>
+<td>A contained edge and associated drainage form</td>
+<td>That it is drawn in this open-ditch example</td>
+</tr>
+<tr>
+<td>Runoff</td>
+<td>Surface water moving away from where it falls</td>
+<td>The complete route, quantity or drainage design</td>
+</tr>
+<tr>
+<td>Superelevation</td>
+<td>A curve-related cross-slope arrangement</td>
+<td>That it is the same shape as the crown in this figure</td>
+</tr>
+<tr>
+<td>Grader</td>
+<td>Equipment used in grading work</td>
+<td>A layer in the cross-section</td>
+</tr>
+<tr>
+<td>Prepared subgrade</td>
+<td>The prepared foundation below the pavement structure</td>
+<td>That its preparation has been inspected or accepted</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Worked language check.</strong> “The arrows are runoff direction; the dark layer is the asphalt course.” The arrows describe movement; the layer describes material. In <span class="activity-id">LA5-03</span>, explain two more features in the same way.</p>
 <h2 id="calculate-a-quantity-you-can-check">Calculate a quantity you can check</h2>
 <p><strong>Worked example, P-01 revision B.</strong> Convert thickness first: <code>40 mm ÷ 1,000 = 0.040 m</code>. Plan area is <code>50 m × 6 m = 300 m²</code>. Geometric layer volume is <code>300 m² × 0.040 m = 12 m³</code>. Estimate: a 300 m² layer one-tenth of a metre thick would occupy 30 m³; a 0.04 m layer is less than half as thick, so 12 m³ is plausible. Units check as <code>m × m × m = m³</code>.</p>
 <p>The profile rises <code>100.50 − 100.00 = 0.50 m</code> across 50 m of stated horizontal distance. For this drawing-reading exercise, rise/run is <code>0.50 ÷ 50 × 100 = 1%</code>. This centreline grade is not the transverse crown or an acceptance limit. A real quantity may need a different geometry and an approved measurement method; our rectangular model has stated simplifications.</p>

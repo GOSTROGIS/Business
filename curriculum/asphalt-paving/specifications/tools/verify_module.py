@@ -115,6 +115,26 @@ def verify_assets():
     for ref in re.findall(r'url\([\'"]?([^\)\'\"]+)',css.read_text()):check((css.parent/ref).resolve().is_file(),'Missing font: '+ref)
     stats['svg_figures']=len(svgpaths)
 
+def verify_crops():
+    import fitz
+    manifest=json.loads((ROOT/'crop-manifest.json').read_text())
+    check(manifest['figure_count']==2 and manifest['crop_count']==3,'Expected two source figures with three faithful crops')
+    source=ROOT.parent/'sources/design_build_standard_specs_2006.pdf'
+    digest=hashlib.sha256(source.read_bytes()).hexdigest();pdf=fitz.open(source)
+    for asset in manifest['assets']:
+        path=ROOT/asset['file']
+        check(path.is_file(),'Missing crop '+asset['id'])
+        check(asset['source_sha256']==digest,'Crop source checksum mismatch '+asset['id'])
+        check(hashlib.sha256(path.read_bytes()).hexdigest()==asset['sha256'],'Crop checksum mismatch '+asset['id'])
+        pix=pdf[asset['pdf_page']-1].get_pixmap(matrix=fitz.Matrix(asset['render_scale'],asset['render_scale']),clip=fitz.Rect(asset['crop_bbox_pdf_points']),alpha=False)
+        image=fitz.Pixmap(str(path))
+        check((image.width,image.height)==(pix.width,pix.height) and image.samples==pix.samples,'Crop pixels differ from exact source region '+asset['id'])
+        check(bool(asset['printed_page']) and bool(asset['apa_reference']),'Crop page/credit missing '+asset['id'])
+    text=(ROOT/'learner.md').read_text()
+    check(text.count('<figcaption>')==7 and text.count('<strong>Note.</strong>')==7,'Expected APA/provenance notes for all seven learner figures')
+    check('Calculation frequency minimally' in (ROOT/'source-excerpts.md').read_text(),'Source continuation wording mismatch')
+    stats['source_figures']=2;stats['faithful_crops']=3
+
 def verify_generated():
     parsed={}
     for name in ['index','learner-workbook','teaching-guide','source-map','source-excerpts']:
@@ -151,7 +171,7 @@ def verify_generated():
         stats[stem+'_pages']=len(r.pages)
 
 def main():
-    for fn in [verify_source,verify_math,verify_content,verify_assets,verify_generated]:
+    for fn in [verify_source,verify_math,verify_content,verify_assets,verify_crops,verify_generated]:
         try:fn()
         except Exception as e:check(False,f'{fn.__name__}: {type(e).__name__}: {e}')
     report={'checks':checks,'errors':errors,'status':'passed' if not errors else 'failed','counts':stats,'scope':'Offline source integrity, selected table data, arithmetic, activity/skill coverage, local assets, HTML/PDF links and PDF TOC destinations; not technical sign-off or a classroom pilot.'}

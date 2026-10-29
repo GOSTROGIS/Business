@@ -130,17 +130,23 @@ The supplied historical training outline includes this short line under A1 learn
 
 > “Government regulations like EPS, MMCD, etc.”
 
-The page carries a **12/12** footer. That line does not give full document titles, an issuing body, an edition, a current web address or the project where a requirement applies. It also does not establish that every named item is a law. An abbreviation is a starting point for a question, not a complete rule.
+The page carries a **12/12** footer. Its short list does not identify the edition or project where a requirement applies. Start by finding the term in the right document, then check what governs the work.
 
-**A1-Q10 — Find what needs confirming.** Complete three entries:
+**Read the trade term.** The supplied *2006 Design Build Standard Specifications for Highway Construction*, clause **502.03.01**, defines **EPS as End Product Specification**. In that clause, the contractor is responsible for quality control of construction processes. The Ministry performs the specified quality-audit sampling and testing of the end product to determine acceptance/rejection and payment adjustment. These are different responsibilities. The definition explains the term in this particular document; the actual contract determines which requirements apply to a job.
+
+**Say it plainly.** “Quality control” asks how the construction process is being controlled. “Quality audit” checks the end product through the sampling and testing specified in this historical clause. Knowing what EPS stands for does not establish that this 2006 specification governs today's project.
+
+<figure class="teaching-figure"><img src="../assets/diagrams/eps-evidence-route.svg" alt="The 2006 End Product Specification assigns construction-process quality control to the contractor and specified end-product quality-audit sampling and testing to the Ministry. Audit evidence is used to determine acceptance or rejection and payment adjustment."><figcaption><strong>Figure 1. Two responsibilities within an End Product Specification.</strong> <em>Note.</em> Original ACCESS IS4S illustration based on <em>2006 Design Build Standard Specifications for Highway Construction</em> (clause 502.03.01, PDF p. 297, printed p. 1 of 22), by British Columbia Ministry of Transportation, Construction and Maintenance Branch, 2006. <a href="../sources/design_build_standard_specs_2006.pdf#page=297">Read the original clause.</a></figcaption></figure>
+
+**A1-Q10 — Find what needs confirming.** First write the full term for EPS as used in the clause above. Explain one difference between the contractor's and the Ministry's responsibilities. Then complete three entries:
 
 | Item in the older source | What I need to confirm | Who or what could provide the answer |
 |---|---|---|
-| EPS | | |
+| EPS — End Product Specification in clause 502.03.01 | | |
 | MMCD | | |
 | Funding for a real project | | |
 
-You can ask for the full title, issuer, current version, legal or contractual status, applicability and responsible contact. For funding, ask about the actual funding agreement and conditions. Do not invent an expansion for an unknown abbreviation.
+For EPS, you now have a documented definition; ask which specification and edition the actual contract adopts. For MMCD, confirm the full document title, issuer, version and contractual applicability. For funding, ask about the actual funding agreement and conditions. Keep a documented meaning separate from a decision about current project requirements.
 
 ### 8. Worked example: read a small industry table
 
@@ -279,3 +285,8 @@ Name one habit from these sessions you could use when reading a real job documen
 Use [Industry evidence and decisions](../line-a/01-industry-evidence.md) to work with dated public industry figures, workplace requirements, a real project funding record and a sourced material-recovery comparison. Follow the [Roadbuilding foundations sequence](../line-a/README.md) for history, technology, teamwork, road documents and emerging trends. Keep your evidence from each activity and record the support you used.
 
 *Occupational alignment: [SkilledTradesBC Asphalt Paving/Laydown Technician Program Outline, A1](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22), PDF page 22 / printed page 20. The [instructor guide](instructor.md) records the question mapping, teaching sequence and feedback criteria.*
+
+
+## Figure reference
+
+British Columbia Ministry of Transportation, Construction and Maintenance Branch. (2006). *2006 design build standard specifications for highway construction* (clause 502.03.01, PDF p. 297). [Local full publication](../sources/design_build_standard_specs_2006.pdf#page=297).

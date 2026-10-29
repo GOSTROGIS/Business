@@ -4,13 +4,17 @@ Read the work, understand the equipment and use the nine Skills for Success to m
 
 **Classroom teaching edition · 29 October 2026**
 
+[Integrated teaching route](teaching-route.html) · [Curriculum review and gaps](review-and-integration.html)
+
+The teaching route connects the occupational sequence to the nine-skills books, manual-picture exercises and specification reading. Teach the exact trade term, locate it in a labelled figure or document, work an example, then keep each learner's explanation and checked work. Figures carry source credits and links to the original pages.
+
 ## Primary textbook · MS-4, Seventh Edition
 
 The ACCESS asphalt curriculum uses **The Asphalt Handbook, MS-4, Seventh Edition** as its primary textbook. Section 4 of the trade outline lists this edition among the required resources. The trade outline defines the occupational sequence; the nine Skills for Success guide how learners read, calculate, explain, practise and demonstrate their learning.
 
 [Textbook integration plan](ms-4/README.md) · [Chapter and competency map](ms-4/chapter-map.md) · [Indexed PDF context library](context/README.md)
 
-The handbook was supplied on 29 October 2026, but its upload exceeds the workspace's 32 MiB transfer limit. The original file and its page-level breakdown are **pending transfer**. Existing lessons are not represented as fully checked against the handbook until that text is available. The historical 2006 specifications support contract-document practice; OEM manuals supply model-specific equipment context.
+The handbook's full text and HTML conversion are **pending access**. The original upload exceeds the workspace's 32 MiB transfer limit; the subsequently supplied Google Drive link currently requires sign-in. Existing lessons and figures are attributed to the documents actually read. MS-4 chapter alignment and redrawn handbook figures will be verified after the full file becomes accessible. The historical 2006 specifications support contract-document practice; OEM manuals supply model-specific equipment context.
 
 ## Roadbuilding foundations
 

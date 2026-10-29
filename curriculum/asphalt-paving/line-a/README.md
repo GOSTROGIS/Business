@@ -17,3 +17,9 @@ Read the industry, understand the process, work with a team and check a road-doc
 The classroom teaching edition contains 37 activities, complete cases and separate answer guidance. Qualified technical review and classroom pilot are pending. Current public facts and invented teaching inputs are distinguished in the lessons.
 
 For delivery planning, use the [68-competency status map](competency-status.md), [technical review and pathway record](technical-handoff.md), and [curated research register](research/source-ledger.md). Rebuild with `python tools/build_line_a.py` from the asphalt-paving directory, or use the script's absolute path from elsewhere.
+
+## Read the trade language and the pictures
+
+The learner book opens each unit with the exact SkilledTradesBC competency and learning-task wording for its scope. Five plain-language word tables connect the trade terms to functions, questions and worked explanations. The existing 37 activities retain their identifiers and separate answer guidance.
+
+Two original SVG teaching diagrams have numbered figure notes and APA 7 references. A cropped LeeBoy 8680 machine photograph retains the manufacturer’s numbered component callouts; selected names, plain-language explanations, model/serial scope and the full source-page link stay together. LA3-07 now asks learners to keep a checkable source record with two component explanations. The visual supports equipment vocabulary and later I2 study; it does not establish machine-operation competence.

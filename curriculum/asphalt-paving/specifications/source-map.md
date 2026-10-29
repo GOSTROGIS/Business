@@ -39,3 +39,9 @@ PDF page numbers are one-based file-viewer pages. Printed pages restart within s
 Selected Table 501-E and 501-F values and the Road Checker's Summary/application-rate clauses were checked against rendered source PDF pages, not only text extraction. The automated verifier checks the preserved PDF hash, selected transcription, datasets, worked arithmetic, activity IDs, local assets and generated documents. Its success does not substitute for technical sign-off or a classroom pilot.
 
 Before a delivery team extends this module into current project training, identify the actual specification and amendments, have a qualified reviewer check the proposed technical use, confirm accessible delivery arrangements, then pilot the learning sequence and record changes. Do not infer current contractual authority from the document being available in the source library.
+
+## Source figures and editable diagrams
+
+Figure S1 reproduces Table 501-E from PDF286 as a faithful crop. Figure S2 joins two separately labelled crops from PDF299–300 so the clause introduction and complete list can be read together. The [crop manifest](crop-manifest.json) records exact coordinates, printed/viewer pages, source hashes and output hashes. Regenerate them with `tools/build_source_crops.py`; the original PDF is never modified. The source-excerpts page includes the complete table as text and the delivery paragraph/list transcript.
+
+The five SVGs remain original ACCESS IS4S illustrations. The document-address and two-constraint diagrams use historical identifiers or limits and now credit those exact locations. Passing-mass, area-plan and revision-trail illustrations identify their fictional classroom data. The books provide APA figure notes and full source references.

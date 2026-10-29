@@ -1,6 +1,6 @@
 # ACCESS IS4S · Asphalt manufacturer manual resource pack
 
-[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **51,004,355 bytes** (51.00 MB), **709 files**, **61,203,850 bytes** when extracted. ZIP SHA-256: `dacefec2312dee664034cab30ae4d5157658f24eedbc358df3c40fece94821bc`.
+[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **57,006,441 bytes** (57.01 MB), **715 files**, **67,451,927 bytes** when extracted. ZIP SHA-256: `4804c29e2e6c9b82de2d58ecba86cca95977f314afdc5298a24d8b0474be8e0a`.
 
 [Open the offline-friendly manual index](index.html) · [Learner lesson](lesson.html) · [Printable learner PDF](manual-reading-lesson.pdf) · [Teaching and answer PDF](manual-reading-instructor.pdf)
 
@@ -21,7 +21,9 @@ Extract the ZIP and open `index.html`. All local manuals, images, styles, lesson
 
 The **pdfs/** files are full originals. The **extracts/** files contain short cover extracts and original identity/navigation notes; they are not complete manuals. The **deere-410g-omt166701-d1/** directory preserves the full retrieved original HTML collection. **manifest.json** identifies each model, serial/configuration scope, publication, source URL, date, size and hash. **deere-file-manifest.json** covers all 675 Deere files. **checksums.sha256** and **archive-info.json** record integrity evidence.
 
-The standalone lesson uses real manual identities and fictional machine records to practise all nine Skills for Success. It includes individual digital actions, inclusive page-range arithmetic, an unresolved serial-range case, a written handover, check-back, shared verification, a changed record and a tested navigation aid. Instructor answers and criteria are separate.
+The standalone lesson uses real manual identities and fictional machine records to practise all nine Skills for Success. It includes individual digital actions, inclusive page-range arithmetic, an unresolved serial-range case, a written handover, check-back, shared verification, a changed record and a tested navigation aid. Four additional visual practices use faithful manual crops, precise trade vocabulary and worked examples: paver components, material delivery, roller components and dimension diagrams. APA-style figure notes and a full reference list credit the pictures. Instructor answers and criteria are separate.
+
+The four PNG crops and [figure manifest](assets/figure-manifest.json) retain source hashes, original/printed page locations, crop coordinates and processing details. Regenerate them with `python curriculum/asphalt-paving/manuals/tools/extract_figures.py` (requires PyMuPDF), then rebuild this pack. Whole manufacturer PDFs are unchanged. These images introduce A1 and the vocabulary needed for I2, J1 and L1; they do not establish complete technical-unit coverage.
 
 Section 4 of the uploaded outline lists six **course manuals**—Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine—and other resources. Those exact course publications were not retrieved. The OEM files are not relabelled as them. Read [the precise requirement and access gaps](access-status.md) for the provider route, historical CD titles and MS-4 handbook status. CAT engine/fluids manuals do not replace a complete CAT paving-machine manual; Deere 410G is a backhoe-loader reference for supporting roadbuilding work.
 

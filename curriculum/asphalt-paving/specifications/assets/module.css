@@ -12,3 +12,8 @@
 .write-in{display:inline-block;width:5em;max-width:100%;min-height:1.5em;border-bottom:1px solid #b5a99f;vertical-align:baseline}.response-line{display:block;width:100%;min-height:1.8em;border-bottom:1px solid #b5a99f;margin:2px 0 7px}p,li{overflow-wrap:break-word}@media print{.response-line{min-height:7mm}.write-in{min-height:5mm}}
 
 @media print{.learner article h2{break-before:auto;margin-top:8mm}.learner article h2:first-of-type{margin-top:0}.final-reflection{break-inside:avoid}.learner article p:has(.response-line){break-inside:avoid}}
+
+/* Faithful source crops remain visually distinct from authored explanations. */
+.source-figure{background:#fff;border:1px solid var(--line);border-top:4px solid var(--red)}.source-figure>a{display:block;padding:12px}.source-figure img{object-fit:contain}.source-pair{display:grid;grid-template-columns:1fr 1fr;gap:18px;padding:18px;align-items:start}.source-pair>div{min-width:0}.crop-label{font-weight:600;font-size:13px;color:#8e1217;margin-bottom:12px}.source-pair a{display:block}.source-figure figcaption{background:var(--cream)}
+@media(max-width:650px){.source-pair{grid-template-columns:1fr;gap:22px;padding:12px}}
+@media print{.source-figure>a{padding:3mm}.source-pair{gap:4mm;padding:4mm}.source-figure img{max-height:120mm}.source-pair img{max-height:none}.crop-label{font-size:8.8pt}.source-figure figcaption{font-size:8.1pt;line-height:1.35}}
