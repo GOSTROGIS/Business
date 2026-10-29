@@ -1,6 +1,6 @@
 # Three complete lessons for the ACCESS IS4S learning room
 
-These lessons rework the three appendix lesson purposes in the supplied SkillPlan guide: measurement, root-cause analysis and workplace email. Each includes the documents, practice questions, teaching sequence and answer guidance needed to begin. They are original ACCESS classroom designs. They can be used alongside the learner chapters or as a short integrated sequence.
+Teach measurement, evidence-based investigation and useful workplace messages through three complete ACCESS IS4S lessons. Each supplies its documents, practice questions, teaching sequence and answer guidance. Use them as a short integrated sequence or select the lesson that fits the current learning goal.
 
 Each lesson proposes 90 minutes. Check the actual pace with the cohort, arrange breaks according to the program's practice, and extend the sequence when learners need more time. The durations do not establish an official training requirement. Choose a manageable focus for observation even when the activity uses several skills.
 
@@ -18,8 +18,9 @@ A learner meets the core classroom outcome when they select the intended dimensi
 
 <!-- visual:measuring-together--practitioner-12 -->
 <figure class="teaching-figure scene" data-visual="measuring-together--practitioner-12">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/illustrations/measuring-together.png" alt="Two fictional Indigenous adults measure a small practice board and check a calculator in a BC training room." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Prepare the task and the space — visual"><img src="../assets/illustrations/measuring-together.png" alt="Two fictional Indigenous adults measure a small practice board and check a calculator in a BC training room." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Teaching scene</span> Use safe tabletop objects and give each learner a turn with the measuring tool. The illustration is contextual; the labelled SVG ruler below supplies the exact mathematical divisions. <a class="visual-original" href="../assets/illustrations/measuring-together.png">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Two fictional Indigenous adults measure a small practice board and check a calculator in a BC training room.</p></details>
 </figure>
 <!-- /visual:measuring-together--practitioner-12 -->
 
@@ -57,8 +58,9 @@ A second measurement is useful when it checks the process. Repeating the same mi
 
 <!-- visual:teaching-fraction-ruler--practitioner-12 -->
 <figure class="teaching-figure diagram" data-visual="teaching-fraction-ruler--practitioner-12">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-fraction-ruler.svg" alt="Enlarged ruler segment from 3 to 4 inches, divided into sixteen equal intervals, with the fifth interval marked at 3 5/16 between 3¼ and 3½." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Worked example 1: count the divisions — visual"><img src="../assets/diagrams/teaching-fraction-ruler.svg" alt="An enlarged ruler segment from three to four inches is divided into sixteen equal intervals. The first five intervals are counted, locating three and five sixteenths inches. Quarter, half and three-quarter marks provide a check: the endpoint lies between three and one quarter and three and one half. The illustration must not be measured as a physical ruler." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Five sixteenth-inch intervals beyond 3 inches give 3 5/16 inches. The enlarged illustration is not a measuring tool. <a class="visual-original" href="../assets/diagrams/teaching-fraction-ruler.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An enlarged ruler segment from three to four inches is divided into sixteen equal intervals. The first five intervals are counted, locating three and five sixteenths inches. Quarter, half and three-quarter marks provide a check: the endpoint lies between three and one quarter and three and one half. The illustration must not be measured as a physical ruler.</p></details>
 </figure>
 <!-- /visual:teaching-fraction-ruler--practitioner-12 -->
 
@@ -121,7 +123,7 @@ The next task can ask the learner to use a different object or record template w
 
 **Purpose:** Distinguish a symptom, a possible cause and an evidenced explanation. Use a cause map and a short chain of “why” questions to choose a useful next check.
 
-**Primary component:** Problem Solving 3, analyzing an issue. **Supporting components:** Problem Solving 1, 2, 4, 5 and 6 across the investigation cycle; Collaboration 2 and 3 through considering different views and discussing disagreement. The lesson extends the source appendix's analysis focus into a small classroom trial so learners can see how a proposed explanation is checked.
+**Primary component:** Problem Solving 3, analyzing an issue. **Supporting components:** Problem Solving 1, 2, 4, 5 and 6 across the investigation cycle; Collaboration 2 and 3 through considering different views and discussing disagreement. A small classroom trial lets learners see how a proposed explanation is checked.
 
 This lesson uses preparation of classroom learning packets. It does not investigate an actual incident, assign blame to a real person or authorize changes to a workplace process. If learners offer a real example, remove personal information and determine whether it is appropriate to discuss before using it. The supplied case is sufficient for every question.
 
@@ -190,8 +192,9 @@ The table also reveals two different defect types. Removing an old file may redu
 
 <!-- visual:teaching-root-cause-fishbone--practitioner-12 -->
 <figure class="teaching-figure diagram" data-visual="teaching-root-cause-fishbone--practitioner-12">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-root-cause-fishbone.svg" alt="Fishbone map for the fictional packet case. File access, instructions, layout and final checking contain supplied observations; dashed questions identify hypotheses. Fifteen of 72 packets needed correction: 10 old sheets and 5 missing maps." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Handout P3: cause map — visual"><img src="../assets/diagrams/teaching-root-cause-fishbone.svg" alt="A fishbone cause map separates observations from dashed hypotheses. File access evidence E1 says v1 remains beside v3 in a shared folder. Instruction evidence E4 says prepare twenty-four packets without a version or named final checker. Material evidence E3 places old and current stacks adjacent and maps on another shelf. Hypotheses ask about wrong selection, mixed or omitted items and undetected errors. Fifteen of seventy-two packets need correction: ten old sheets and five missing maps. The counts do not identify a cause." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Observed conditions from evidence cards E1, E3 and E4 suggest questions to test. The 15 corrected packets do not establish a cause. <a class="visual-original" href="../assets/diagrams/teaching-root-cause-fishbone.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A fishbone cause map separates observations from dashed hypotheses. File access evidence E1 says v1 remains beside v3 in a shared folder. Instruction evidence E4 says prepare twenty-four packets without a version or named final checker. Material evidence E3 places old and current stacks adjacent and maps on another shelf. Hypotheses ask about wrong selection, mixed or omitted items and undetected errors. Fifteen of seventy-two packets need correction: ten old sheets and five missing maps. The counts do not identify a cause.</p></details>
 </figure>
 <!-- /visual:teaching-root-cause-fishbone--practitioner-12 -->
 
@@ -262,7 +265,7 @@ For a supported entry, provide two categories and one partially completed eviden
 
 **Primary components:** Writing 4 and 5, choosing suitable language/style and format. **Supporting components:** Writing 1, 2, 3 and 6 through identifying purpose, planning, using relevant words and revising; Digital 2 and 5 when learners actually use a tool and demonstrate relevant privacy decisions. A paper draft can demonstrate Writing but does not establish a learner's digital actions.
 
-The source appendix uses a tourism employment context. This ACCESS version uses a training-room booking and handover. The writing process transfers to service, office, trades preparation and community work. It does not teach a fixed cultural rule for how every supervisor, client or community member should be addressed.
+This lesson uses a training-room booking and handover. The writing process transfers to service, office, trades preparation and community work. It does not teach a fixed cultural rule for how every supervisor, client or community member should be addressed.
 
 ### Prepare the task
 
@@ -310,8 +313,9 @@ The case supplies every fact needed for the draft. Learners do not have to discl
 
 <!-- visual:teaching-email-anatomy--practitioner-12 -->
 <figure class="teaching-figure diagram" data-visual="teaching-email-anatomy--practitioner-12">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-email-anatomy.svg" alt="Annotated fictional confirmation email for Wednesday, 9:00–10:30 a.m., eight participants. Room 3 is booked and Room 5 possible. The request asks for room and step-free route information by 3 p.m. Tuesday; no personal contact list is attached." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Worked comparison: unclear draft and useful revision — visual"><img src="../assets/diagrams/teaching-email-anatomy.svg" alt="An annotated fictional email names coordinator@example.invalid, a subject requesting Wednesday room and route confirmation, and a greeting. Context gives Wednesday 9:00–10:30 a.m. for eight participants, booked Room 3 and possible Room 5. The action asks for room and step-free-route confirmation by 3:00 p.m. Tuesday. The reply will inform the final notice. The sign-off identifies the training team; Room 5 remains unconfirmed and no participant contact list is attached." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> A concise model makes the recipient, purpose, context, request and sender visible while keeping Room 5 unconfirmed. <a class="visual-original" href="../assets/diagrams/teaching-email-anatomy.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An annotated fictional email names coordinator@example.invalid, a subject requesting Wednesday room and route confirmation, and a greeting. Context gives Wednesday 9:00–10:30 a.m. for eight participants, booked Room 3 and possible Room 5. The action asks for room and step-free-route confirmation by 3:00 p.m. Tuesday. The reply will inform the final notice. The sign-off identifies the training team; Room 5 remains unconfirmed and no participant contact list is attached.</p></details>
 </figure>
 <!-- /visual:teaching-email-anatomy--practitioner-12 -->
 
@@ -350,7 +354,7 @@ This message names the purpose, gives relevant context and asks for a specific r
 | Closing | Ends respectfully and may confirm the next step. | Does not make an unsupported promise. |
 | Sign-off | Identifies the sender. | Suitable name or role; no unnecessary personal data. |
 
-The source guide presents eight common email parts. In this edition, a pleasantry is optional rather than a requirement for every message. The outcome is effective communication, not counting decorative sentences. A short urgent operational message may follow a different approved format; teach that format from the actual workplace source when relevant.
+A pleasantry is optional; use one when it serves the relationship and purpose. The outcome is effective communication, not counting decorative sentences. A short urgent operational message may follow a different approved format; teach that format from the actual workplace source when relevant.
 
 ### Handout E2: six practice prompts
 
@@ -402,9 +406,3 @@ After each lesson, identify one skill-specific next step and one transfer opport
 Use the nine-skills chapters for deeper instruction. These three lessons illustrate integration; they do not replace the complete component coverage in those chapters. A learner's portfolio can include a checked measurement record, an evidence-based problem statement and trial plan, and a revised message. Add individual observations of interaction and tool use where those skills were actually performed.
 
 A practical review conversation asks: What did you do? Which evidence supports your answer? What changed after checking? What will you try next? These questions keep the focus on purposeful work, observable learning and a next opportunity rather than on a single global score.
-
-## Source connection and deliberate changes
-
-The three lesson purposes come from SkillPlan's supplied guide: [measurement 115–121](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=115), [root-cause analysis 122–127](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=122), and [workplace email 128–135](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=128). The new passages, data, templates, timings and answer guidance are original ACCESS curriculum drafts.
-
-The measurement lesson uses safe tabletop tasks and omits the source's tape-extension contest and high or difficult-to-reach measurement suggestions. The analysis lesson treats causes as hypotheses to test and avoids presenting the fifth “why” as proof. The email lesson uses non-deliverable examples, requires no real account or sending, treats privacy explicitly and makes formal language a contextual choice rather than a rigid rule. These changes preserve the learning purposes while making the material usable in this program's classroom context.

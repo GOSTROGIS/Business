@@ -1,0 +1,624 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf
+SOURCE SHA-256: 5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831
+ORIGINAL PDF VIEWER PAGES: 151–162 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 151 ===
+M0108394-08                                                                                                      151
+                                                                                   Reference Information Section
+                                                                                                  Engine Ratings
+
+
+Reference Information                                                                                      i04650089
+
+
+Section                                                     Engine Rating Definitions
+                                                            SMCS Code: 1000
+
+Engine Ratings                                              All engine ratings are in compliance with the following
+                                                            standard ambient air conditions of “ISO14396:2002”:
+                                                i07853902   • 100 kPa (29.3 Inches Hg)
+
+Engine Rating Conditions                                    • 30 percent relative humidity
+SMCS Code: 1000                                             • A temperature of 25 °C (77 °F)
+It is important to know the use of the engine so that       The engine ratings are based on the following fuel
+the rating will match the operating profile. The correct    specifications:
+rating selection is also important so that the
+perception of price and value is realized by the            •    The Low Heat Value (LHV) of the fuel at 29 °C
+customer.                                                       (84.2 °F) at 42780 kJ/kg (18390 Btu/lb)
+In selecting a rating for a specific application, the       • Specific gravity of .833 - 837 at 15 °C (60 °F)
+most important consideration is the time that is spent
+at full throttle. The rating definitions identify the       The engine ratings are gross output ratings.
+percent of time at full throttle. The definitions also
+identify the corresponding times below rated rpm.           Gross Output Ratings – The total output capability
+                                                            of the engine that is equipped with standard
+Note: For an exact determination of the appropriate         accessories.
+rating, follow the OEM specifications or consult your
+Caterpillar dealer.
+                                                            Standard accessories include the following
+The C3.6 industrial engine can have two ratings.            components:
+
+For C3.6 industrial engine with power rating from           • Oil pumps
+56 to 90 kW (75 to 120.7 hp) the rating is C.
+                                                            • Fuel pumps
+For C3.6 industrial engine with power ratings of
+95 kW (127.4 hp) and 100 kW (134 hp), the rating is         • Water pumps
+D.
+                                                            Subtract the power that is required to drive auxiliary
+For C2.8 industrial engine, the rating is C.                components from the gross output. This process will
+                                                            produce the net power that is available for the
+C – Intermittent service along with maximum power           external load (flywheel).
+and/or speed are cyclic. The engine at full load
+should not exceed 50 percent of the duty cycle.
+
+D – For service when the rated power is required for
+periodic overloads. The maximum horsepower and
+the rpm of the engine can be utilized continuously for
+a maximum of 30 uninterrupted minutes. This run is
+followed by one hour of operation at rating C. The
+engine should be run at full load. The engine should
+not exceed 10 percent of the duty cycle.
+
+
+                        NOTICE
+Operating engines above the rating definitions can
+result in shorter service life before overhaul.
+
+=== ORIGINAL PDF PAGE 152 ===
+152                                                                                                   M0108394-08
+Reference Information Section
+Customer Service
+
+
+Customer Service                                                 Australia and New Zealand
+                                                                 Caterpillar of Australia Ltd.
+                                                                 1 Caterpillar Drive
+                                                 i07191578
+                                                                 Private Mail Bag 4
+                                                                 Tullamarine, Victoria 3043
+Customer Assistance                                              Australia
+SMCS Code: 1000; 4450                                            Phone: 03-9953-9333
+                                                                 Fax: 03-9335-3366
+USA and Canada                                                                                               i03655027
+
+When a problem arises concerning the operation or
+the service of an engine, the problem will normally be       Ordering Replacement Parts
+managed by the dealer in your area.
+                                                             SMCS Code: 4450; 7567
+Outside of the USA and of Canada
+If a problem arises outside the USA and outside
+Canada, and if the problem cannot be resolved at the         When replacement parts are required for this
+dealer level, consult the appropriate Caterpillar office.    product Caterpillar recommends using Caterpillar
+                                                             replacement parts or parts with equivalent speci-
+      Latin America, Mexico, Carribean                       fications including, but not limited to, physical di-
+      Caterpillar Americas Co.                               mensions, type, strength and material.
+      701 Waterford Way, Suite 200
+                                                             Failure to heed this warning can lead to prema-
+      Miami, FL 33126-4670
+                                                             ture failures, product damage, personal injury or
+      USA                                                    death.
+      Phone: 305-476-6800
+      Fax: 305-476-6801                                      Quality Caterpillar replacement parts are available
+                                                             from Caterpillar dealers throughout the world.
+      Europe, Africa, and Middle East                        Caterpillar dealers' parts inventories are up-to-date.
+      Caterpillar Overseas S.A.                              The parts stocks include all of the parts that are
+      76 Route de Frontenex                                  normally needed to protect your Caterpillar engine
+      P.O. Box 6000                                          investment.
+      CH-1211 Geneva 6
+      Switzerland                                            When you order parts, please specify the following
+      Phone: 22-849-4444                                     information:
+      Fax: 22-849-4544
+                                                             • When a Caterpillar engine requires maintenance
+      Far East                                                 and/or repair, provide the dealer with all the
+      Caterpillar Asia Pte. Ltd.                               information that is stamped on the Information
+      7 Tractor Road                                           Plate. Refer to this Operation and Maintenance
+      Jurong, Singapore 627968                                 Manual, “Plate Locations and Film Locations”.
+      Republic of Singapore
+                                                             • Part number
+      Phone: 65-662-8333
+      Fax: 65-662-8302                                       • Part name
+      China                                                  • Quantity
+      Caterpillar China Ltd.
+      37/F., The Lee Gardens                                 If there is a question concerning the part number,
+      33 Hysan Avenue                                        please provide your dealer with a complete
+      Causeway Bay                                           description of the needed item.
+      G.P.O. Box 3069
+      Hong Kong                                              Discuss the problem with the dealer. Inform the
+      Phone: 852-2848-0333                                   dealer about the conditions of the problem and the
+      Fax: 852-2848-0440                                     nature of the problem. Inform the dealer about when
+                                                             the problem occurs. This will help the dealer in
+                                                             troubleshooting the problem and solving the problem
+                                                             faster.
+
+=== ORIGINAL PDF PAGE 153 ===
+M0108394-08                                                                        153
+                                                          Reference Information Section
+                                                                   Reference Materials
+
+
+Reference Materials
+                                              i08530562
+
+
+Maintenance Records
+SMCS Code: 1000; 4450
+Caterpillar recommends the retention of accurate
+maintenance records. Accurate maintenance records
+can be used for the following purposes:
+• Determine operating costs.
+
+• Establish maintenance schedules for other
+  engines that are operated in the same
+  environment.
+
+• Show compliance with the required maintenance
+  practices and maintenance intervals.
+Maintenance records can be used for various other
+business decisions that are related to engine
+maintenance.
+Maintenance records are a key element of a
+maintenance program that is managed. Accurate
+maintenance records can help your Cat dealer to
+fine-tune the recommended maintenance intervals to
+meet the specific operating situation. These
+recommendations should result in a lower engine
+operating cost.
+Records should be kept for the following items:
+Fuel Consumption – A record of fuel consumption is
+essential to determine when the load sensitive
+components should be inspected or repaired. Fuel
+consumption assists in determining overhaul
+intervals.
+Service Hours – A record of service hours is
+essential to determine when the speed sensitive
+components should be inspected or repaired.
+Documents – These items should be easy to obtain,
+and these items should be kept in the engine history
+file. All documents should show this information:
+date, service hours, fuel consumption, unit number,
+and engine serial number. The following types of
+documents should be kept as proof of maintenance
+or repair for warranty:
+
+Keep the following types of documents as proof of
+maintenance for warranty. Also, keep these types of
+documents as proof of repair for warranty:
+• Dealer work orders and itemized bills
+
+• Owner repair costs
+• Owner receipts
+
+• Maintenance log
+
+=== ORIGINAL PDF PAGE 154 ===
+154                                                                    M0108394-08
+Reference Information Section
+Maintenance Log
+
+
+                                i08254037
+
+
+Maintenance Log
+SMCS Code: 1000; 4450
+
+Table 29
+Engine Model                           Customer Identifier
+
+Serial Number                          Arrangement Number
+
+  Service   Quantity Of
+                                Service Item                 Date   Authorization
+   Hours       Fuel
+
+=== ORIGINAL PDF PAGE 155 ===
+M0108394-08                                                                                                  155
+                                                                                 Reference Information Section
+                                                                                            Reference Material
+
+
+                                                i07853896   • Special Publication, PECP9067, “One Safe
+                                                              Source” English language for use in NACD
+Reference Material
+                                                            • Special Publication, SEBF8029, “Index to
+SMCS Code: 1000; 4450                                         Guidelines for Reusable Parts and Salvage
+                                                              Operations”
+The following literature can be obtained through any
+Caterpillar dealer.                                         • Special Publication, SEBF8062, “Procedure to
+                                                              Inspect and Clean Air Filters”
+Lubricants
+                                                            • Special Instruction, SEHS9031, “Storage
+• Operation and Maintenance Manual, SEBU5898,                 Procedure for Caterpillar Products”
+  “Cold-Weather Recommendations”
+                                                            • Special Publication, NEHS0526, “Service
+• Operation and Maintenance Manual, SEBU6251,                 Technician Application Guide”
+  “Caterpillar Commercial Diesel Engine Fluids
+  Recommendations”                                          • Special Publication, SEBU6251, “Caterpillar
+                                                              Commercial Diesel Engine Fluids
+• Special Publication, PEHP6001, “How To Take A               Recommendations”
+  Good Oil Sample”
+                                                            • Special Instruction, SEHS7633, “Battery Test
+                                                              Procedure”
+Coolants
+• Special Publication, PEHP4036, “Data Sheet -
+  Extended Life Coolant”
+
+• Special Publication, PEHP7057, “Data Sheet -
+  S·O·S Coolant Analysis”
+
+• Special Publication, SEBD0518, “Know Your
+  Cooling System”
+• Label, PEEP5027, “Extended Life Coolant/
+  Antifreeze”
+
+Miscellaneous
+• Service Manual, REG1139F, “Service Manual
+  Contents Microfiche”
+• Service Manual, UENR7548, “ C3.6 and C2.8
+  Industrial Engines”
+• Troubleshooting, M0107940, “ C3.6 Engines”
+
+• Troubleshooting, M0112481, “ C2.8 Engines”
+• Systems Operation, Testing, and Adjusting,
+  M0107832, “ C3.6 and C2.8 Industrial Engines”
+
+• Specifications, M0107642, “ C3.6 Industrial
+  Engines.”
+
+• Specifications, M0109805, “ C2.8 Industrial
+  Engines.”
+• Disassembly and Assembly, M0108719, “ C3.6
+  and C2.8 Industrial Engines”
+• Specifications, SENR3130, “Torque
+  Specifications”
+
+=== ORIGINAL PDF PAGE 156 ===
+156                                                                                                                              M0108394-08
+Index Section
+
+
+
+
+Index
+A                                                                             Fill ...............................................................114
+                                                                              Flush ...........................................................114
+Additional Messages ....................................... 16
+                                                                            Coolant Extender (ELC) - Add .......................115
+After Starting Engine ....................................... 71
+                                                                            Coolant Level - Check ....................................116
+After Stopping Engine ..................................... 88
+                                                                              Open Power Unit (OPU) Radiators ............116
+Aftercooler Core - Clean/Test (Air-To-Air
+                                                                            Coolant Sample (Level 1) - Obtain.................117
+ Aftercooler) .................................................. 104
+                                                                            Coolant Sample (Level 2) - Obtain.................118
+Aftercooler Core - Inspect ............................. 104
+                                                                            Cooling System Supplemental Coolant
+Aftertreatment Operation................................. 76
+                                                                             Additive (SCA) - Test/Add.............................118
+Alarms and Shutoffs ........................................ 53
+                                                                              Add the SCA, If Necessary .........................119
+  Alarms.......................................................... 53
+                                                                              S·O·S Coolant Analysis..............................118
+  Shutoffs........................................................ 53
+                                                                              Test for SCA Concentration ........................118
+  Testing ......................................................... 54
+                                                                            Crushing Prevention and Cutting Prevention.. 25
+Alternator - Inspect ........................................ 104
+                                                                            Customer Assistance .................................... 152
+Alternator and Fan Belts - Replace ............... 104
+                                                                              Outside of the USA and of Canada ........... 152
+                                                                              USA and Canada....................................... 152
+B                                                                           Customer Service.......................................... 152
+Battery - Replace........................................... 104
+Battery Disconnect Switch (If Equipped)......... 54                         D
+Battery Electrolyte Level - Check .................. 105
+                                                                            DEF Filler Screen (Emission Related
+Battery or Battery Cable - Disconnect........... 105
+                                                                             Component) - Clean .....................................119
+Before Starting Engine .............................. 27, 69
+                                                                            DEF Manifold Filters (Emission Related
+Belt - Inspect.................................................. 106
+                                                                             Component) - Replace ................................ 120
+Belt Tensioner - Check .................................. 107
+                                                                            Diagnostic Flash Code Retrieval..................... 67
+Burn Prevention............................................... 21
+                                                                            Diagnostic Lamp.............................................. 67
+  Batteries....................................................... 22
+                                                                            Diesel Exhaust Fluid (Emission Related
+  Coolant ........................................................ 22
+                                                                             Component) - Fill ......................................... 120
+  Diesel Fuel ................................................... 22
+                                                                            Diesel Exhaust Fluid Filter (Emission
+  Engine and Aftertreatment System ............. 22
+                                                                             Related Component) - Replace................... 121
+  Induction System ......................................... 22
+                                                                            Diesel Exhaust Fluid in Cold Weather............. 86
+  Oils............................................................... 22
+                                                                            Diesel Exhaust Fluid Injector (Emission
+                                                                             Related Component) - Replace................... 122
+C                                                                           Diesel Exhaust Fluid Tank - Flush................. 123
+Cold Weather Operation ................................. 83                   Flushing Procedure ................................... 123
+ Hints for Cold-Weather Operation ............... 83                          Required Tools........................................... 123
+ Idling the Engine .......................................... 84            Driven Equipment - Check ............................ 125
+ Recommendations for Coolant Warm Up.... 84
+ Recommendations for the Coolant.............. 84                           E
+ Viscosity of the Engine Lubrication Oil ........ 84
+                                                                            Electrical System............................................. 28
+Cold Weather Starting ..................................... 69
+                                                                              Grounding Practices .................................... 28
+Coolant (DEAC) - Change............................. 107
+                                                                            Emergency Stopping....................................... 88
+ Cooling Systems with Heavy Deposits or
+                                                                            Emissions Certification Film ............................ 47
+   Plugging .................................................... 111
+                                                                            Emissions Warranty Information ................... 150
+ Drain .......................................................... 108
+                                                                            Engaging the Driven Equipment ..................... 74
+ Fill ............................................................... 111
+                                                                            Engine - Clean............................................... 125
+ Flush ...........................................................110
+                                                                              Aftertreatment ............................................ 125
+Coolant (ELC) - Change.................................112
+                                                                            Engine Air Cleaner Element - Replace ......... 125
+ Drain ...........................................................112
+
+=== ORIGINAL PDF PAGE 157 ===
+M0108394-08                                                                                                                                 157
+                                                                                                                               Index Section
+
+
+
+  Servicing the Air Cleaner Elements........... 125                         Coolant ........................................................ 99
+Engine Air Cleaner Service Indicator -                                      Diesel Exhaust Fluid .................................... 97
+ Inspect ......................................................... 127      Engine Lubrication Oil ................................. 94
+  Test the Service Indicator .......................... 127                 Fuel .............................................................. 97
+  Type 1 Service Indicator ............................ 127                 Lubricating Grease ...................................... 96
+  Type 2 Service Indicator ............................ 127                 S·O·S Coolant Analysis............................. 100
+Engine Air Precleaner - Check/Clean ........... 128                       Foreword ........................................................... 4
+Engine Diagnostics ......................................... 67             California Proposition 65 Warning ................. 4
+Engine Electronics........................................... 29            Literature Information .................................... 4
+Engine Mounts - Inspect................................ 128                 Maintenance .................................................. 4
+Engine Oil and Filter - Change ...................... 130                   Maintenance Intervals ................................... 5
+  Drain the Engine Lubricating Oil From a                                   Operation ....................................................... 4
+   Standard Oil Pan...................................... 130               Overhaul ........................................................ 5
+  Draining the Engine Lubricating Oil From an                               Safety............................................................. 4
+   Oil Pan Equipped With a Balancer .......... 131                        Fuel and the Effect from Cold Weather ........... 85
+  Fill the Oil Pan............................................ 133        Fuel Conservation Practices ........................... 74
+  Oil and Filter Change Intervals .................. 130                  Fuel Related Components in Cold Weather ... 86
+  Replace the Oil Filter Element................... 133                     Fuel Filters ................................................... 86
+Engine Oil Level - Check............................... 128                 Fuel Heaters ................................................ 86
+  After Operating the Engine ........................ 129                   Fuel Tanks ................................................... 86
+  Before Operating the Engine ..................... 128                   Fuel System - Prime...................................... 135
+Engine Oil Sample - Obtain........................... 129                   Electric Fuel Priming Pump ....................... 135
+  Obtain the Sample and the Analysis ......... 129                          Mechanical Fuel Priming Pump................. 135
+Engine Operation ............................................ 73          Fuel System Primary Filter (Water
+  C2.8 Industrial Engine ................................. 74              Separator) Element - Replace..................... 136
+  C3.6 Industrial Engine ................................. 74               Fuel System Primary Filter (Water Separator)
+  Carbon Dioxide (CO2) Emissions                                             Element for Electric Fuel Priming Pump.. 136
+   Statement................................................... 74          Fuel System Primary Filter (Water Separator)
+  Engine Operation and the Aftertreatment                                    Element for Manual Fuel Priming Pump.. 137
+   System ....................................................... 73      Fuel System Primary Filter/Water
+Engine Operation with Active Diagnostic                                    Separator - Drain ......................................... 139
+ Codes ............................................................ 67      Drain Procedure......................................... 139
+Engine Operation with Intermittent                                        Fuel System Secondary Filter - Replace ...... 139
+ Diagnostic Codes .......................................... 68             Install the Element ..................................... 140
+Engine Rating Conditions.............................. 151                  Remove the Element ................................. 140
+Engine Rating Definitions.............................. 151               Fuel Tank Water and Sediment - Drain ......... 141
+Engine Ratings .............................................. 151           Drain the Water and the Sediment ............ 141
+Engine Starting.......................................... 27, 69            Fuel Storage Tanks.................................... 141
+Engine Stopping ........................................ 28, 88             Fuel Tank ................................................... 141
+
+F                                                                         G
+Fan Clearance - Check ................................. 134               Gauges and Indicators .................................... 54
+  C2.8 Open Power Unit (OPU) ................... 134                       Aftertreatment Lamps and gauges .............. 56
+  C3.6TA Open Power Unit (OPU) ............... 134                         Indicator Lamps ........................................... 55
+Fault Logging................................................... 67       General Hazard Information............................ 17
+Features and Controls..................................... 53              Containing Fluid Spillage............................. 19
+Fire Prevention and Explosion Prevention...... 23                          Diesel Exhaust Fluid .................................... 21
+  Ether ............................................................ 24    Dispose of Waste Properly .......................... 21
+  Fire Extinguisher.......................................... 24           Fluid Penetration ......................................... 19
+  Lines, Tubes, and Hoses ............................. 25                 Inhalation ..................................................... 20
+Fluid Recommendations ................................. 94                 Pressurized Air and Water........................... 18
+
+=== ORIGINAL PDF PAGE 158 ===
+158                                                                                                                        M0108394-08
+Index Section
+
+
+
+ Static Electricity Hazard when Fueling with                             Monitoring System (Engine Indicators and
+  Ultra-low Sulfur Diesel Fuel ....................... 19                 Aftertreatment Indicators).............................. 56
+General Information ........................................ 31            Engine Indicator Lamps............................... 56
+                                                                         Mounting and Dismounting ............................. 25
+H
+                                                                         O
+High Pressure Fuel Lines ................................ 25
+Hoses and Clamps - Inspect/Replace........... 141                        Operation Section............................................ 49
+  Replace the Hoses and the Clamps .......... 142                        Ordering Replacement Parts......................... 152
+                                                                         Overhaul Considerations............................... 142
+I                                                                          Oil Consumption as an Overhaul
+                                                                            Indicator ................................................... 143
+Important Safety Information............................. 2                Overhaul Recommendation....................... 143
+
+L                                                                        P
+Lifting and Storage .......................................... 49        Plate Locations and Film Locations ................ 47
+                                                                           Serial Number Plate..................................... 47
+M                                                                        Product Description ((Engine and
+                                                                          Aftertreatment)) ............................................. 44
+Maintenance Interval Schedule..................... 102
+                                                                           Aftermarket Products and Caterpillar
+ Daily ........................................................... 102
+                                                                            Engines ...................................................... 46
+ Every 10 000 Service Hours ...................... 103
+                                                                           Aftertreatment System................................. 46
+ Every 1000 Service Hours......................... 102
+                                                                           C2.8 Industrial Engine ................................. 44
+ Every 12 000 Service Hours or 6 Years..... 103
+                                                                           C3.6 Industrial Engine ................................. 44
+ Every 2000 Service Hours......................... 102
+                                                                           Electronic Engine Features ......................... 45
+ Every 250 Service Hours ........................... 102
+                                                                           Engine Cooling and Lubrication .................. 45
+ Every 3000 Service Hours......................... 102
+                                                                           Engine Diagnostics...................................... 45
+ Every 3000 Service Hours or 3 Years ....... 103
+                                                                           Engine Service Life...................................... 46
+ Every 4000 Service Hours......................... 103
+                                                                           Engine Specifications .................................. 44
+ Every 4500 Service Hours......................... 103
+                                                                         Product Identification Information ................... 47
+ Every 50 Service Hours ............................. 102
+                                                                         Product Information Section............................ 31
+ Every 500 Service Hours or 1 Year ........... 102
+                                                                         Product Lifting ................................................. 49
+ Every 6000 Service Hours......................... 103
+                                                                           C2.8 Industrial Engine ................................. 51
+ Every 6000 Service Hours or 3 Years ....... 103
+                                                                           C2.8 Open Power Unit (OPU) ..................... 51
+ Every Week ............................................... 102
+                                                                           C3.6 Industrial Engine ................................. 49
+ Every Year ................................................. 102
+                                                                           C3.6 Industrial Engine Equipped With A
+ Overhaul .................................................... 103
+                                                                            Balancer..................................................... 50
+ When Required.......................................... 102
+                                                                           C3.6 Open Power Unit (OPU) ..................... 50
+Maintenance Log........................................... 154
+                                                                         Product Storage .............................................. 51
+Maintenance Recommendations .................... 90
+                                                                           Aftertreatment .............................................. 52
+Maintenance Records ................................... 153
+Maintenance Section....................................... 90
+Model View Illustrations ...................... 31, 36, 39               R
+ C2.8 Industrial Engine Views....................... 33                  Radiator - Clean ............................................ 145
+ C2.8 OPU .................................................... 42        Radiator Mounts - Inspect ............................. 146
+ C3.6 Industrial Engine Views....................... 31                  Radiator Restrictions....................................... 85
+ C3.6 Industrial Engine Views For Engines                                Reference Information..................................... 48
+  Equipped With A Balancer......................... 36                    Record for Reference .................................. 48
+ C3.6 Open Power Unit (OPU) ..................... 39                     Reference Information Section ..................... 151
+ Loose or Off Engine Components ......... 35, 38                         Reference Material ........................................ 155
+                                                                          Coolants..................................................... 155
+
+=== ORIGINAL PDF PAGE 159 ===
+M0108394-08                                                                                                                              159
+                                                                                                                            Index Section
+
+
+
+ Lubricants .................................................. 155      Stopping the Engine ........................................ 88
+ Miscellaneous ............................................ 155           Delayed Engine Shutdown (if Equipped) .... 88
+Reference Materials ...................................... 153          System Pressure Release............................... 90
+Refill Capacities............................................... 93       Coolant System ........................................... 90
+ Cooling System............................................ 94            Engine Oil .................................................... 90
+ DEF System................................................. 94           Fuel System................................................. 90
+ Lubrication System for Engines Equipped
+   With a Balancer Oil Pan............................. 93              T
+ Lubrication System for Engines Equipped
+   With a Standard Oil Pan ............................ 93              Table of Contents .............................................. 3
+                                                                        Turbocharger - Inspect .................................. 146
+S
+                                                                        W
+Safety Messages................................... 6, 10, 13
+  C2.8 Industrial Engine ................................... 8          Walk-Around Inspection ................................ 147
+  C3.6 Industrial Engine ................................... 7            High-Pressure Fuel Lines .......................... 148
+  C3.6 Industrial Engine With A Balancer .......11                        Inspect the Engine for Leaks and for Loose
+  C3.6 Open Power Unit (OPU) ..................... 14                      Connections ............................................. 147
+  Ether Warning .................................... 9, 12, 16          Warranty Information..................................... 150
+  Hand (High Pressure).................................... 9            Warranty Section ........................................... 150
+  Hand (High Pressure) 2 ............................... 12             Water Pump - Inspect.................................... 148
+  Hand (High Pressure) 3 ............................... 15             Welding on Engines with Electronic
+  Hot Fluid Under Pressure 2 ......................... 15                Controls ......................................................... 90
+  Universal Warning ......................................... 8
+  Universal Warning 1 ...............................11, 14
+Safety Section ................................................... 6
+Selective Catalytic Reduction Warning
+ System........................................................... 76
+  Warning Indicators....................................... 76
+  Warning Levels ............................................ 76
+  Warning Strategy ......................................... 76
+Self-Diagnostics .............................................. 67
+Sensors and Electrical Components............... 57
+  C2.8 Industrial Engine ................................. 63
+  C3.6 Industrial Engines ............................... 58
+  Off Engine Sensors and Electrical
+   Components .............................................. 62
+Severe Service Application ............................. 92
+  Improper Maintenance Procedures
+   (Maintenance Procedures Which May
+   Contribute to a Severe Service
+   Application) ................................................ 92
+  Severe Environmental Factors .................... 92
+  Severe Operating Conditions ...................... 92
+Starting Motor - Inspect ................................. 146
+Starting the Engine.......................................... 70
+  Starting the Engine ...................................... 70
+Starting with Jump Start Cables (Do Not
+ Use This Procedure in Hazardous
+ Locations that have Explosive
+ Atmospheres) ................................................ 70
+
+=== ORIGINAL PDF PAGE 160 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 161 ===
+Product and Dealer Information
+Note: For product identification plate locations, see the section “Product Identification Information” in the Operation
+and Maintenance Manual.
+
+Delivery Date:
+
+
+Product Information
+Model:
+
+
+Product Identification Number:
+
+Engine Serial Number:
+
+Transmission Serial Number:
+
+Generator Serial Number:
+
+Attachment Serial Numbers:
+
+
+Attachment Information:
+
+Customer Equipment Number:
+
+Dealer Equipment Number:
+
+
+Dealer Information
+Name:                                                               Branch:
+
+
+Address:
+
+
+
+
+                    Dealer Contact                        Phone Number                              Hours
+
+
+Sales:
+
+Parts:
+
+
+Service:
+
+=== ORIGINAL PDF PAGE 162 ===
+M0108394              CAT, CATERPILLAR, LET’S DO THE WORK, their respective
+©2022 Caterpillar     logos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat
+All Rights Reserved   “Modern Hex” trade dress as well as corporate and product identity
+                      used herein, are trademarks of Caterpillar and may not be used
+                      without permission.
+
+
+162       July 2022
+

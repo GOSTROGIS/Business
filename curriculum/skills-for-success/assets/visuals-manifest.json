@@ -1,9 +1,9 @@
 {
-  "edition": "2 — visual teaching edition",
-  "date": "2026-10-23",
+  "edition": "3",
+  "date": "2026-10-29",
   "cover": {
     "file": "assets/diagrams/cover-nine-skills.svg",
-    "alt": "Nine original pictograms identify all nine Skills for Success and show their connection in everyday work."
+    "alt": "An original editorial illustration brings a planning notebook, a tablet, a revised note, and a pencil together on an ink-coloured work surface. A gold connecting line moves between planning, trying and reviewing. Alongside the illustration, a clear index names Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation. The objects are a fictional learning scene, not a task sheet or calibrated measuring tool."
   },
   "figures": [
     {
@@ -11,7 +11,7 @@
       "source": "learner/01-reading.md",
       "after_heading": "Six parts of a useful reading process",
       "caption": "Use the component numbers as an index, not a compulsory sequence. A missing date, unfamiliar word or changed question can send you back to another action.",
-      "alt": "Reading has six connected components: identify the task that requires reading; identify information in the documents; connect different parts; understand and apply the information; evaluate the documents; and reflect on the documents. Six distinct icons sit on a connecting loop. Numbering identifies the components and does not prescribe a fixed sequence.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Let the question and document guide your next move. Six connected components: Identify the reading task; Find the information; Connect related details; Understand and apply; Evaluate the document; Reflect on the document. Return to any action when you need to check meaning or evidence.",
       "kind": "diagram",
       "id": "foundation-reading-map--learner-01",
       "placement": "after_heading"
@@ -21,7 +21,7 @@
       "source": "learner/01-reading.md",
       "after_heading": "RD-05 • Read the condition",
       "caption": "After your attempt, use this worked visual check. Arriving before departure is not enough: this timetable also requires a five-minute connection. Read the condition with the row.",
-      "alt": "A time-scaled line shows B1 arriving at Market at 08:25. B2 leaves at 08:28, only three minutes later, so it fails the five-minute minimum connection. The earliest usable departure is 08:30. B3 leaves at 08:32, a seven-minute connection, reaches Northside at 08:47, and allows reception arrival at 08:52 after the five-minute allowance, before the 08:55 deadline.",
+      "alt": "A proportional timetable shows B1 arriving at Market at 08:25. The required connection allowance is five minutes. B2 leaves at 08:28, giving only three minutes; B3 leaves at 08:32, giving seven. The earliest usable departure is 08:30. B1 plus B3 reaches Northside at 08:47; five minutes to reception gives 08:52, before the 08:55 deadline.",
       "kind": "diagram",
       "placement": "after_section",
       "id": "foundation-reading-connection--learner-01"
@@ -31,7 +31,7 @@
       "source": "learner/01-reading.md",
       "after_heading": "Worked example 3: resolve a version conflict",
       "caption": "Use the matching audience and explicit replacement statement, then follow the check-in instruction. This shows Welcome Note version 2 before the later RD-12 update.",
-      "alt": "The earlier introductory-group draft says Room 3 and is marked replaced. Welcome Note version 2 names the same group and explicitly replaces that draft; it directs learners to Room 2. The route is entrance, reception between 08:40 and 08:55, then Room 2.",
+      "alt": "Two document specimens show an earlier introductory-group draft with Room 3 and a version 2 notice that explicitly replaces it, names Room 2 and requires check-in first. A route below moves from the entrance to reception during 08:40–08:55, then to Room 2 after check-in.",
       "kind": "diagram",
       "id": "foundation-reading-versions--learner-01",
       "placement": "after_heading"
@@ -41,7 +41,7 @@
       "source": "learner/02-writing.md",
       "after_heading": "Six parts of writing with a purpose",
       "caption": "Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools.",
-      "alt": "Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Keep the reader and purpose at the centre. Six connected components: Identify purpose and reader; Plan the writing task; Use words to convey meaning; Choose language and style; Choose a useful format; Review and revise. Revisit a plan, wording or format when feedback reveals a better choice.",
       "kind": "diagram",
       "id": "foundation-writing-map--learner-02",
       "placement": "after_heading"
@@ -51,7 +51,7 @@
       "source": "learner/02-writing.md",
       "after_heading": "Worked example 1: turn the plan into a useful request",
       "caption": "A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking.",
-      "alt": "A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45.",
+      "alt": "An annotated request asks the resource helper for two calculators by 09:00 on Practice Thursday. Four available plus two requested would make six for pairs. The loan is pending, borrowed items are to return by 11:45, and the request is due by 15:00 on Practice Wednesday. The callouts identify reader, needed facts and requested confirmation.",
       "kind": "diagram",
       "id": "foundation-writing-request--learner-02",
       "placement": "after_heading"
@@ -61,7 +61,7 @@
       "source": "learner/02-writing.md",
       "after_heading": "Worked example 2: order the record for the reader",
       "caption": "Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events.",
-      "alt": "Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed.",
+      "alt": "A factual record compares a delivery note of twenty-four copies with an independent count of twenty-two, a difference of two with no confirmed cause. The timeline records receipt at 09:10, recount at 09:15 and informing the instructor at 09:20.",
       "kind": "diagram",
       "id": "foundation-writing-record--learner-02",
       "placement": "after_heading"
@@ -71,7 +71,7 @@
       "source": "learner/03-numeracy.md",
       "after_heading": "Six connected parts of numeracy",
       "caption": "Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table.",
-      "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. From a useful question to a checked result Six connected components: Identify the task; Find the information; Connect the facts; Calculate or measure; Interpret and evaluate; Share the result. Recheck the question or inputs. A useful result answers the original question.",
       "kind": "diagram",
       "id": "foundation-numeracy-map--learner-03",
       "placement": "after_heading"
@@ -80,8 +80,8 @@
       "file": "assets/diagrams/foundation-numeracy-whole-packs.svg",
       "source": "learner/03-numeracy.md",
       "after_heading": "NU-04 • Complete and evaluate the order",
-      "caption": "After your attempt, use this worked visual check. Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional.",
-      "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15.",
+      "caption": "After your attempt, check the worked example: version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional.",
+      "alt": "A worked whole-pack order needs twenty folders including spares, has seven, and needs thirteen more. Three packs of five bring stock to twenty-two. Folders cost $26.25, pens $19.80 and labels $12.60, making goods $58.65. Because goods are below $60, delivery adds $8.50. The delivered cost is $67.15, or $2.15 over the $65 budget. A scaled budget bar shows the comparison.",
       "kind": "diagram",
       "placement": "after_section",
       "id": "foundation-numeracy-whole-packs--learner-03"
@@ -90,8 +90,8 @@
       "file": "assets/diagrams/foundation-numeracy-board-fit.svg",
       "source": "learner/03-numeracy.md",
       "after_heading": "NU-13 • Test fit, not just total area",
-      "caption": "After your attempt, use this worked visual check. Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size.",
-      "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit.",
+      "caption": "After your attempt, check the worked example: 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size.",
+      "alt": "Fictional board 600 by 400 millimetres with 25-millimetre margins has a clear rectangle 550 by 350. Four fixed-orientation cards, each180 by110, fit as two across and two down with20-millimetre gaps. Three across needs580, exceeding550. Three down needs370, exceeding350. The four-card group measures380 by240 millimetres.",
       "kind": "diagram",
       "placement": "after_section",
       "id": "foundation-numeracy-board-fit--learner-03"
@@ -101,7 +101,7 @@
       "source": "learner/04-digital.md",
       "after_heading": "Six parts of Digital",
       "caption": "Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence.",
-      "alt": "Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Choose the next action to meet a real task purpose. Six connected components: Use digital devices; Use tools to complete tasks; Use digital information; Use online tools and platforms; Protect privacy; act responsibly; Update your digital skills. Actual tool use supplies evidence that a paper plan cannot show.",
       "kind": "diagram",
       "id": "foundation-digital-map--learner-04",
       "placement": "after_heading"
@@ -111,7 +111,7 @@
       "source": "learner/04-digital.md",
       "after_heading": "DG-06 • Make a usable second version",
       "caption": "After your attempt, use this worked visual check. A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example.",
-      "alt": "A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review.",
+      "alt": "Two files in a practice folder show the change from v01 to v02. Road-user cards remain ten prepared while checked increases from seven to nine and remaining decreases from three to one. Across all topics, prepared stays twenty-four, checked rises from sixteen to eighteen and remaining falls from eight to six. Both versions stay available for review.",
       "kind": "diagram",
       "placement": "after_section",
       "id": "foundation-digital-versions--learner-04"
@@ -121,7 +121,7 @@
       "source": "learner/04-digital.md",
       "after_heading": "DG-14 • Make a practice sharing decision",
       "caption": "After your attempt, use this worked visual check. Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool.",
-      "alt": "The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions.",
+      "alt": "A practice copy and review copy display prepared, checked and remaining counts for material flow, equipment purposes and road users. The dummy personal-phone field is removed from the review copy. The useful totals are twenty-four prepared, eighteen checked and six remaining. Sharing checks name the intended recipient, minimum useful access and tool setting; a local file view does not demonstrate online permissions.",
       "kind": "diagram",
       "placement": "after_section",
       "id": "foundation-digital-privacy--learner-04"
@@ -131,7 +131,7 @@
       "source": "learner/05-problem-solving.md",
       "after_heading": "Develop options before selecting one",
       "caption": "Two routes meet the required individual turns, availability and budget. The shorter route costs $40; the longer route requires the three early departures to go first. Group segments share the same time scale.",
-      "alt": "Two feasible schedules: five devices in two groups finish at 09:55 for $40; three devices in groups of three, three, three and one finish at 10:55 for no extra cost, with early departures first.",
+      "alt": "Two proportional schedules compare tool turns for ten learners. Borrowing two devices makes five available: two groups of five take twenty-five minutes each plus a five-minute change, ending at 09:55 for $40, with confirmation by 08:30. Using three available devices makes groups of three, three, three and one, taking 115 minutes to 10:55 for no extra cost. The first three finish at 09:25. The maximum extra cost is $50; a later $60 room and paper-only work fail named constraints.",
       "kind": "diagram",
       "id": "middle-problem-solving-routes--learner-05",
       "placement": "after_heading"
@@ -141,7 +141,7 @@
       "source": "learner/05-problem-solving.md",
       "after_heading": "Evaluate results and learn from them",
       "caption": "The recorded correction proportion fell from 9/30 (30%) to 1/20 (5%): 25 percentage points. The small before-and-after record supports another check, not a claim that one change alone caused the result.",
-      "alt": "Thirty before-trial circles include nine corrected sets; twenty after-trial circles include one. A current-file folder and version card mark the tested change. An observation loop notes that sessions and learners may differ and there is no concurrent comparison group.",
+      "alt": "Dot arrays show nine of thirty sets needing correction before the change, or thirty percent, compared with one of twenty afterward, or five percent. The observed difference is twenty-five percentage points. The current folder and a version-check card were introduced, but different sessions, potentially different learners and no same-time comparison group limit causal claims.",
       "kind": "diagram",
       "id": "middle-problem-solving-trial--learner-05",
       "placement": "after_heading"
@@ -151,7 +151,7 @@
       "source": "learner/06-communication.md",
       "after_heading": "Listen to understand, then check",
       "caption": "A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message.",
-      "alt": "Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check.",
+      "alt": "Three speech bubbles demonstrate sending Thursday, Room 2, 10:00–10:45; restating those details; and confirming their accuracy. A dashed return path asks partners to correct a mismatch and check again. The accompanying reminder includes workbook and pen, indoor activity, printed maps and the usual route for access questions.",
       "kind": "diagram",
       "id": "middle-communication-check-back--learner-06",
       "placement": "after_heading"
@@ -161,7 +161,7 @@
       "source": "learner/06-communication.md",
       "after_heading": "Case document B • Two people understood different tasks",
       "caption": "Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only.",
-      "alt": "Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath.",
+      "alt": "Six original equipment silhouettes show E2 crusher and screen reducing and separating material by size; E3 asphalt plant preparing the specified mixture; E4 haul truck moving paving material; E5 paver receiving mixture and moving it to the screed; E1 screed helping control layer thickness; and E6 roller compacting placed material. The broad flow is pit or quarry, plant, haul, place and compact. The screed is shown with the paver, not as an additional broad stage.",
       "kind": "diagram",
       "id": "middle-communication-equipment--learner-06",
       "placement": "after_heading"
@@ -171,7 +171,7 @@
       "source": "learner/05-problem-solving.md",
       "after_heading": "Six steps that can loop back",
       "caption": "All six Problem Solving components contribute to a reasoned decision. New evidence can send you back to an earlier action; returning to check a fact is useful progress.",
-      "alt": "A six-action loop links identifying an issue, gathering information, analyzing the issue, developing multiple routes, addressing the issue, and evaluating effectiveness, with a return arrow for new evidence.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. A decision can improve as the evidence changes. Six connected components: Identify the issue; Gather information; Analyze the issue; Develop multiple routes; Address the issue; Evaluate effectiveness. Keep a record: issue · facts · unknowns · options · action · results. Return when new evidence changes the decision.",
       "kind": "diagram",
       "id": "middle-problem-solving-components--learner-05",
       "placement": "after_heading"
@@ -181,7 +181,7 @@
       "source": "learner/06-communication.md",
       "after_heading": "Six connected components",
       "caption": "The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order.",
-      "alt": "Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Build shared understanding together. Six connected components: Listen with intention; Listen to understand; Speak with clarity; Speak with purpose; Adapt to audience + context; Adapt modes + tools. Speech · sign · text · AAC · another agreed accessible mode. Observe understanding, not a preferred communication style.",
       "kind": "diagram",
       "id": "middle-communication-components--learner-06",
       "placement": "after_heading"
@@ -191,7 +191,7 @@
       "source": "learner/07-collaboration.md",
       "after_heading": "Disagree about the work without reducing the person",
       "caption": "Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence.",
-      "alt": "A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts.",
+      "alt": "Two side-by-side checks distinguish a source fact from a design choice. The equipment statement is checked against the source: a paver places and rollers compact. A flow diagram and question-and-answer layout are both tested with a reader asking who owns the road. Different issues require different evidence.",
       "kind": "diagram",
       "id": "social-collaboration-two-checks--learner-07",
       "placement": "after_heading"
@@ -201,7 +201,7 @@
       "source": "learner/07-collaboration.md",
       "after_heading": "Turn individual tasks into one finished result",
       "caption": "Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing.",
-      "alt": "A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct.",
+      "alt": "A checked visitor schedule lists welcome at 10:00, an equipment activity at 10:10, questions at 10:30 and finish at 10:45. The receiving partner retains those confirmed times while readability and copy formats remain pending. The team asks the coordinator before printing.",
       "kind": "diagram",
       "id": "social-collaboration-handover--learner-07",
       "placement": "after_heading"
@@ -211,7 +211,7 @@
       "source": "learner/08-adaptability.md",
       "after_heading": "Revise the plan without losing the goal",
       "caption": "Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work.",
-      "alt": "Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review.",
+      "alt": "Proportional time bars compare an original ninety-minute Thursday plan with a revised sixty-minute session. The original has thirty-five minutes digital work, twenty-five drafting, fifteen reviewing and fifteen buffer. The revision has twenty-five drafting, ten reviewing and twenty-five digital. Monday adds ten minutes digital and five paper reflection in separate periods before noon. Digital practice remains thirty-five minutes.",
       "kind": "diagram",
       "id": "social-adaptability-time-plan--learner-08",
       "placement": "after_heading"
@@ -221,7 +221,7 @@
       "source": "learner/08-adaptability.md",
       "after_heading": "Persistence means learning from the attempt",
       "caption": "Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result.",
-      "alt": "Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check.",
+      "alt": "Four actions compare the source value ninety with an incorrect entry of nine, correct the entry to ninety, recalculate, and compare the new result with the paper work. The strategy, action and new check provide evidence of a useful retry.",
       "kind": "diagram",
       "id": "social-adaptability-retry--learner-08",
       "placement": "after_heading"
@@ -231,7 +231,7 @@
       "source": "learner/09-creativity-innovation.md",
       "after_heading": "Case document 2 · Three possible prototypes",
       "caption": "Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested.",
-      "alt": "Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits.",
+      "alt": "Three original prototypes show a labelled Number Check folder, a matching board with data, example and two blank-sheet spaces, and a return tray with N and C kits and a named helper-reset action. Questions ask whether a new user can find instructions, whether cards fit and stay together, and who checks and resets the tray. These are options to test.",
       "kind": "diagram",
       "id": "social-creativity-three-prototypes--learner-09",
       "placement": "after_heading"
@@ -241,7 +241,7 @@
       "source": "learner/09-creativity-innovation.md",
       "after_heading": "Case document 3 · Results and a changed requirement",
       "caption": "Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest.",
-      "alt": "Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip.",
+      "alt": "Two Number Check folders show an inspectable revision. Version 1 has four items: one data card, one worked example and two blank sheets. Version 2 has five: one data card, two worked examples and two blanks. A further check must make the slip instruction visible and retest; used sheets stay with the learner and two blank sheets are restocked.",
       "kind": "diagram",
       "id": "social-creativity-kit-revision--learner-09",
       "placement": "after_heading"
@@ -250,8 +250,8 @@
       "file": "assets/diagrams/social-collaboration-six-components.svg",
       "source": "learner/07-collaboration.md",
       "after_heading": "Collaboration — contribute, listen and finish together",
-      "caption": "Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team.",
+      "caption": "Six connected components of collaboration. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Different strengths. One shared purpose. Six connected components: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-collaboration-six-components--learner-07",
       "placement": "after_heading"
@@ -260,8 +260,8 @@
       "file": "assets/diagrams/social-adaptability-six-components.svg",
       "source": "learner/08-adaptability.md",
       "after_heading": "Adaptability — keep the purpose, adjust the plan",
-      "caption": "Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement.",
+      "caption": "Six connected components of adaptability. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Purpose stays visible as plans change. Six connected components: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-adaptability-six-components--learner-08",
       "placement": "after_heading"
@@ -270,8 +270,8 @@
       "file": "assets/diagrams/social-creativity-six-components.svg",
       "source": "learner/09-creativity-innovation.md",
       "after_heading": "Creativity and innovation — notice, make, test and improve",
-      "caption": "Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity.",
+      "caption": "Six connected components of creativity and innovation. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Make ideas usable. Learn from the trial. Six connected components: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-creativity-six-components--learner-09",
       "placement": "after_heading"
@@ -281,7 +281,7 @@
       "source": "learner/10-integrated-projects.md",
       "after_heading": "Project 1: A training information morning",
       "caption": "Process preview: the initial notice versions and your saved-work versions identify different things. Keep the sources and first work, read the later change card, and check and save the revised work. Use the supplied documents to make your own decisions.",
-      "alt": "Documents A, B and C feed initial work CP-01–04 saved as CP01-budget-v1. The 8 May change card leads to revised work CP-05–06 saved as CP01-budget-v2 while preserving the first work.",
+      "alt": "Three source documents feed the first project work: A is the current version 2 notice, B the earlier message plus room facts, and C the supplies quote with prices and rules. CP01–CP04 produce CP01-budget-v1. A change card issued 8 May 2027 leads to CP05–CP06 and CP01-budget-v2. The first work is retained and the revision saved.",
       "kind": "diagram",
       "id": "social-project-1-versions--learner-10",
       "placement": "after_heading"
@@ -291,7 +291,7 @@
       "source": "learner/10-integrated-projects.md",
       "after_heading": "Document D: session brief",
       "caption": "Concept schematic: each pair completes both 20-minute activities. Within a tablet block, each learner has ten minutes of control, followed by five minutes for checking, saving and moving. Plan the pair assignments using the case conditions.",
-      "alt": "Tablet and printed stations each provide a 20-minute activity. A tablet block divides into ten minutes for learner 1, ten for learner 2, and five for checking, saving and moving, totalling 25 minutes.",
+      "alt": "Tablet and printed activities each need twenty minutes. A proportional tablet-station bar separates ten minutes controlled by learner 1, ten controlled by learner 2 and five for checking, saving and moving, totalling twenty-five minutes. Each learner needs an individual turn; station time and activity time are different constraints.",
       "kind": "diagram",
       "id": "social-project-2-stations--learner-10",
       "placement": "after_heading"
@@ -301,7 +301,7 @@
       "source": "learner/11-reference-and-portfolio.md",
       "after_heading": "Add a short evidence note",
       "caption": "Five examples of evidence types flow into a short note and a next attempt. Choose the items that fit your goal; identify your own action, supports, result and limits. Keep personal sharing and permission choices visible.",
-      "alt": "Five evidence examples—source explanation, draft and revision, checked working, file with observed tool use, and observed exchange—lead to an evidence note and a new attempt with a record of what happened.",
+      "alt": "Five possible evidence items are a source plus explanation, draft plus revision, checked working, file plus tool observation and an observed exchange. A personal evidence note records task and action, tools and supports, checks and result, and limits and permission. A next attempt moves from choosing a task to trying a strategy and keeping new evidence.",
       "kind": "diagram",
       "id": "social-portfolio--learner-11",
       "placement": "after_heading"
@@ -311,7 +311,7 @@
       "source": "practitioner/01-purpose-and-framework.md",
       "after_heading": "What the nine skills describe",
       "caption": "The learner’s purpose connects all nine skills. Document use and continued learning remain visible across tasks. This is a planning map, not a sequence or proficiency scale.",
-      "alt": "Nine labelled skills surround a central learner’s purpose: Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation. Every skill connects to the shared purpose.",
+      "alt": "Nine skill labels connect to a central learner purpose: Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, and Creativity and Innovation. The radial relationship shows that one meaningful task can use several skills. Document use and continued learning connect across tasks.",
       "kind": "diagram",
       "id": "teaching-nine-skills-map--practitioner-01",
       "placement": "after_heading"
@@ -321,7 +321,7 @@
       "source": "practitioner/02-teaching-approaches.md",
       "after_heading": "Bring the six approaches into one session",
       "caption": "Plan purpose, context, complexity, modelling, evidence and participation together. Revisit these decisions when the learner’s evidence changes.",
-      "alt": "A connected path links six teaching approaches: learner-centred purpose, contextualized tasks, complexity, direct instruction, assessment and social-emotional interaction. A return arrow indicates that planning is iterative.",
+      "alt": "Six planning approaches surround one purposeful session: learner-centred work, contextualized tasks, complexity, direct instruction, assessment, and social-emotional teaching. The accompanying moves start with a purpose, use a meaningful task, adjust demand, model a strategy, use individual evidence and teach useful interactions. These approaches support one another within a session.",
       "kind": "diagram",
       "id": "teaching-six-approaches--practitioner-02",
       "placement": "after_heading"
@@ -331,7 +331,7 @@
       "source": "practitioner/02-teaching-approaches.md",
       "after_heading": "5. Collect evidence that can guide the next lesson",
       "caption": "An observed attempt informs the next teaching move. Keep the task, tools, support and version with the evidence; review transfer through a later task.",
-      "alt": "A six-stage cycle moves from setting a task and criterion to observing, interpreting, teaching and feedback, trying again, and reviewing change or transfer. The centre reminds practitioners to record task, tools, support and version.",
+      "alt": "Six arrow-linked teaching moves cycle through setting the task and criterion, observing an individual attempt, interpreting evidence against the criterion, teaching with useful feedback, trying a comparable new task, and reviewing change and transfer. A central record names task, tools, support and version so the conditions remain visible.",
       "kind": "diagram",
       "id": "teaching-evidence-cycle--practitioner-02",
       "placement": "after_heading"
@@ -341,7 +341,7 @@
       "source": "practitioner/12-integrated-lesson-plans.md",
       "after_heading": "Worked example 1: count the divisions",
       "caption": "Five sixteenth-inch intervals beyond 3 inches give 3 5/16 inches. The enlarged illustration is not a measuring tool.",
-      "alt": "Enlarged ruler segment from 3 to 4 inches, divided into sixteen equal intervals, with the fifth interval marked at 3 5/16 between 3¼ and 3½.",
+      "alt": "An enlarged ruler segment from three to four inches is divided into sixteen equal intervals. The first five intervals are counted, locating three and five sixteenths inches. Quarter, half and three-quarter marks provide a check: the endpoint lies between three and one quarter and three and one half. The illustration must not be measured as a physical ruler.",
       "kind": "diagram",
       "id": "teaching-fraction-ruler--practitioner-12",
       "placement": "after_heading"
@@ -351,7 +351,7 @@
       "source": "practitioner/12-integrated-lesson-plans.md",
       "after_heading": "Handout P3: cause map",
       "caption": "Observed conditions from evidence cards E1, E3 and E4 suggest questions to test. The 15 corrected packets do not establish a cause.",
-      "alt": "Fishbone map for the fictional packet case. File access, instructions, layout and final checking contain supplied observations; dashed questions identify hypotheses. Fifteen of 72 packets needed correction: 10 old sheets and 5 missing maps.",
+      "alt": "A fishbone cause map separates observations from dashed hypotheses. File access evidence E1 says v1 remains beside v3 in a shared folder. Instruction evidence E4 says prepare twenty-four packets without a version or named final checker. Material evidence E3 places old and current stacks adjacent and maps on another shelf. Hypotheses ask about wrong selection, mixed or omitted items and undetected errors. Fifteen of seventy-two packets need correction: ten old sheets and five missing maps. The counts do not identify a cause.",
       "kind": "diagram",
       "id": "teaching-root-cause-fishbone--practitioner-12",
       "placement": "after_heading"
@@ -361,7 +361,7 @@
       "source": "practitioner/12-integrated-lesson-plans.md",
       "after_heading": "Worked comparison: unclear draft and useful revision",
       "caption": "A concise model makes the recipient, purpose, context, request and sender visible while keeping Room 5 unconfirmed.",
-      "alt": "Annotated fictional confirmation email for Wednesday, 9:00–10:30 a.m., eight participants. Room 3 is booked and Room 5 possible. The request asks for room and step-free route information by 3 p.m. Tuesday; no personal contact list is attached.",
+      "alt": "An annotated fictional email names coordinator@example.invalid, a subject requesting Wednesday room and route confirmation, and a greeting. Context gives Wednesday 9:00–10:30 a.m. for eight participants, booked Room 3 and possible Room 5. The action asks for room and step-free-route confirmation by 3:00 p.m. Tuesday. The reply will inform the final notice. The sign-off identifies the training team; Room 5 remains unconfirmed and no participant contact list is attached.",
       "kind": "diagram",
       "id": "teaching-email-anatomy--practitioner-12",
       "placement": "after_heading"
@@ -371,7 +371,7 @@
       "source": "practitioner/03-reading.md",
       "after_heading": "Keep all six components in view",
       "caption": "Use the component numbers as an index, not a compulsory sequence. A missing date, unfamiliar word or changed question can send you back to another action.",
-      "alt": "Reading has six connected components: identify the task that requires reading; identify information in the documents; connect different parts; understand and apply the information; evaluate the documents; and reflect on the documents. Six distinct icons sit on a connecting loop. Numbering identifies the components and does not prescribe a fixed sequence.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Let the question and document guide your next move. Six connected components: Identify the reading task; Find the information; Connect related details; Understand and apply; Evaluate the document; Reflect on the document. Return to any action when you need to check meaning or evidence.",
       "kind": "diagram",
       "id": "foundation-reading-map--practitioner-03",
       "placement": "after_heading"
@@ -381,7 +381,7 @@
       "source": "practitioner/03-reading.md",
       "after_heading": "A worked teaching routine",
       "caption": "Arriving before departure is not enough: this timetable also requires a five-minute connection. Read the condition with the row.",
-      "alt": "A time-scaled line shows B1 arriving at Market at 08:25. B2 leaves at 08:28, only three minutes later, so it fails the five-minute minimum connection. The earliest usable departure is 08:30. B3 leaves at 08:32, a seven-minute connection, reaches Northside at 08:47, and allows reception arrival at 08:52 after the five-minute allowance, before the 08:55 deadline.",
+      "alt": "A proportional timetable shows B1 arriving at Market at 08:25. The required connection allowance is five minutes. B2 leaves at 08:28, giving only three minutes; B3 leaves at 08:32, giving seven. The earliest usable departure is 08:30. B1 plus B3 reaches Northside at 08:47; five minutes to reception gives 08:52, before the 08:55 deadline.",
       "kind": "diagram",
       "id": "foundation-reading-connection--practitioner-03",
       "placement": "after_heading"
@@ -391,7 +391,7 @@
       "source": "practitioner/03-reading.md",
       "after_heading": "Teach with documents that have a purpose",
       "caption": "Use the matching audience and explicit replacement statement, then follow the check-in instruction. This shows Welcome Note version 2 before the later RD-12 update.",
-      "alt": "The earlier introductory-group draft says Room 3 and is marked replaced. Welcome Note version 2 names the same group and explicitly replaces that draft; it directs learners to Room 2. The route is entrance, reception between 08:40 and 08:55, then Room 2.",
+      "alt": "Two document specimens show an earlier introductory-group draft with Room 3 and a version 2 notice that explicitly replaces it, names Room 2 and requires check-in first. A route below moves from the entrance to reception during 08:40–08:55, then to Room 2 after check-in.",
       "kind": "diagram",
       "id": "foundation-reading-versions--practitioner-03",
       "placement": "after_heading"
@@ -401,7 +401,7 @@
       "source": "practitioner/04-writing.md",
       "after_heading": "Keep the six components connected",
       "caption": "Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools.",
-      "alt": "Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Keep the reader and purpose at the centre. Six connected components: Identify purpose and reader; Plan the writing task; Use words to convey meaning; Choose language and style; Choose a useful format; Review and revise. Revisit a plan, wording or format when feedback reveals a better choice.",
       "kind": "diagram",
       "id": "foundation-writing-map--practitioner-04",
       "placement": "after_heading"
@@ -411,7 +411,7 @@
       "source": "practitioner/04-writing.md",
       "after_heading": "A worked teaching example: request the extra quantity",
       "caption": "A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking.",
-      "alt": "A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45.",
+      "alt": "An annotated request asks the resource helper for two calculators by 09:00 on Practice Thursday. Four available plus two requested would make six for pairs. The loan is pending, borrowed items are to return by 11:45, and the request is due by 15:00 on Practice Wednesday. The callouts identify reader, needed facts and requested confirmation.",
       "kind": "diagram",
       "id": "foundation-writing-request--practitioner-04",
       "placement": "after_heading"
@@ -421,7 +421,7 @@
       "source": "practitioner/04-writing.md",
       "after_heading": "Teach a process that can be reused",
       "caption": "Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events.",
-      "alt": "Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed.",
+      "alt": "A factual record compares a delivery note of twenty-four copies with an independent count of twenty-two, a difference of two with no confirmed cause. The timeline records receipt at 09:10, recount at 09:15 and informing the instructor at 09:20.",
       "kind": "diagram",
       "id": "foundation-writing-record--practitioner-04",
       "placement": "after_heading"
@@ -431,7 +431,7 @@
       "source": "practitioner/05-numeracy.md",
       "after_heading": "Use the complete numeracy cycle",
       "caption": "Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table.",
-      "alt": "Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. From a useful question to a checked result Six connected components: Identify the task; Find the information; Connect the facts; Calculate or measure; Interpret and evaluate; Share the result. Recheck the question or inputs. A useful result answers the original question.",
       "kind": "diagram",
       "id": "foundation-numeracy-map--practitioner-05",
       "placement": "after_heading"
@@ -441,7 +441,7 @@
       "source": "practitioner/05-numeracy.md",
       "after_heading": "A worked teaching example: whole packs",
       "caption": "Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional.",
-      "alt": "A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15.",
+      "alt": "A worked whole-pack order needs twenty folders including spares, has seven, and needs thirteen more. Three packs of five bring stock to twenty-two. Folders cost $26.25, pens $19.80 and labels $12.60, making goods $58.65. Because goods are below $60, delivery adds $8.50. The delivered cost is $67.15, or $2.15 over the $65 budget. A scaled budget bar shows the comparison.",
       "kind": "diagram",
       "id": "foundation-numeracy-whole-packs--practitioner-05",
       "placement": "after_heading"
@@ -451,7 +451,7 @@
       "source": "practitioner/05-numeracy.md",
       "after_heading": "Make context support the mathematics",
       "caption": "Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size.",
-      "alt": "A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit.",
+      "alt": "Fictional board 600 by 400 millimetres with 25-millimetre margins has a clear rectangle 550 by 350. Four fixed-orientation cards, each180 by110, fit as two across and two down with20-millimetre gaps. Three across needs580, exceeding550. Three down needs370, exceeding350. The four-card group measures380 by240 millimetres.",
       "kind": "diagram",
       "id": "foundation-numeracy-board-fit--practitioner-05",
       "placement": "after_heading"
@@ -461,7 +461,7 @@
       "source": "practitioner/06-digital.md",
       "after_heading": "Cover the six components through purposeful actions",
       "caption": "Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence.",
-      "alt": "Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Choose the next action to meet a real task purpose. Six connected components: Use digital devices; Use tools to complete tasks; Use digital information; Use online tools and platforms; Protect privacy; act responsibly; Update your digital skills. Actual tool use supplies evidence that a paper plan cannot show.",
       "kind": "diagram",
       "id": "foundation-digital-map--practitioner-06",
       "placement": "after_heading"
@@ -471,7 +471,7 @@
       "source": "practitioner/06-digital.md",
       "after_heading": "A worked teaching example: check the changed record",
       "caption": "A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example.",
-      "alt": "A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review.",
+      "alt": "Two files in a practice folder show the change from v01 to v02. Road-user cards remain ten prepared while checked increases from seven to nine and remaining decreases from three to one. Across all topics, prepared stays twenty-four, checked rises from sixteen to eighteen and remaining falls from eight to six. Both versions stay available for review.",
       "kind": "diagram",
       "id": "foundation-digital-versions--practitioner-06",
       "placement": "after_heading"
@@ -481,7 +481,7 @@
       "source": "practitioner/06-digital.md",
       "after_heading": "Teach protection without collecting secrets",
       "caption": "Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool.",
-      "alt": "The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions.",
+      "alt": "A practice copy and review copy display prepared, checked and remaining counts for material flow, equipment purposes and road users. The dummy personal-phone field is removed from the review copy. The useful totals are twenty-four prepared, eighteen checked and six remaining. Sharing checks name the intended recipient, minimum useful access and tool setting; a local file view does not demonstrate online permissions.",
       "kind": "diagram",
       "id": "foundation-digital-privacy--practitioner-06",
       "placement": "after_heading"
@@ -491,7 +491,7 @@
       "source": "practitioner/07-problem-solving.md",
       "after_heading": "A worked teaching example: two feasible routes",
       "caption": "Two routes meet the required individual turns, availability and budget. The shorter route costs $40; the longer route requires the three early departures to go first. Group segments share the same time scale.",
-      "alt": "Two feasible schedules: five devices in two groups finish at 09:55 for $40; three devices in groups of three, three, three and one finish at 10:55 for no extra cost, with early departures first.",
+      "alt": "Two proportional schedules compare tool turns for ten learners. Borrowing two devices makes five available: two groups of five take twenty-five minutes each plus a five-minute change, ending at 09:55 for $40, with confirmation by 08:30. Using three available devices makes groups of three, three, three and one, taking 115 minutes to 10:55 for no extra cost. The first three finish at 09:25. The maximum extra cost is $50; a later $60 room and paper-only work fail named constraints.",
       "kind": "diagram",
       "id": "middle-problem-solving-routes--practitioner-07",
       "placement": "after_heading"
@@ -501,7 +501,7 @@
       "source": "practitioner/07-problem-solving.md",
       "after_heading": "Evaluate outcomes without overstating causation",
       "caption": "The recorded correction proportion fell from 9/30 (30%) to 1/20 (5%): 25 percentage points. The small before-and-after record supports another check, not a claim that one change alone caused the result.",
-      "alt": "Thirty before-trial circles include nine corrected sets; twenty after-trial circles include one. A current-file folder and version card mark the tested change. An observation loop notes that sessions and learners may differ and there is no concurrent comparison group.",
+      "alt": "Dot arrays show nine of thirty sets needing correction before the change, or thirty percent, compared with one of twenty afterward, or five percent. The observed difference is twenty-five percentage points. The current folder and a version-check card were introduced, but different sessions, potentially different learners and no same-time comparison group limit causal claims.",
       "kind": "diagram",
       "id": "middle-problem-solving-trial--practitioner-07",
       "placement": "after_heading"
@@ -511,7 +511,7 @@
       "source": "practitioner/08-communication.md",
       "after_heading": "A worked teaching example: preserve a room change",
       "caption": "A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message.",
-      "alt": "Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check.",
+      "alt": "Three speech bubbles demonstrate sending Thursday, Room 2, 10:00–10:45; restating those details; and confirming their accuracy. A dashed return path asks partners to correct a mismatch and check again. The accompanying reminder includes workbook and pen, indoor activity, printed maps and the usual route for access questions.",
       "kind": "diagram",
       "id": "middle-communication-check-back--practitioner-08",
       "placement": "after_heading"
@@ -521,7 +521,7 @@
       "source": "practitioner/08-communication.md",
       "after_heading": "Use simulations with feedback and another attempt",
       "caption": "Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only.",
-      "alt": "Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath.",
+      "alt": "Six original equipment silhouettes show E2 crusher and screen reducing and separating material by size; E3 asphalt plant preparing the specified mixture; E4 haul truck moving paving material; E5 paver receiving mixture and moving it to the screed; E1 screed helping control layer thickness; and E6 roller compacting placed material. The broad flow is pit or quarry, plant, haul, place and compact. The screed is shown with the paver, not as an additional broad stage.",
       "kind": "diagram",
       "id": "middle-communication-equipment--practitioner-08",
       "placement": "after_heading"
@@ -531,7 +531,7 @@
       "source": "practitioner/07-problem-solving.md",
       "after_heading": "Use the complete six-part cycle",
       "caption": "All six Problem Solving components contribute to a reasoned decision. New evidence can send you back to an earlier action; returning to check a fact is useful progress.",
-      "alt": "A six-action loop links identifying an issue, gathering information, analyzing the issue, developing multiple routes, addressing the issue, and evaluating effectiveness, with a return arrow for new evidence.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. A decision can improve as the evidence changes. Six connected components: Identify the issue; Gather information; Analyze the issue; Develop multiple routes; Address the issue; Evaluate effectiveness. Keep a record: issue · facts · unknowns · options · action · results. Return when new evidence changes the decision.",
       "kind": "diagram",
       "id": "middle-problem-solving-components--practitioner-07",
       "placement": "after_heading"
@@ -541,7 +541,7 @@
       "source": "practitioner/08-communication.md",
       "after_heading": "Include all six components and accessible modes",
       "caption": "The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order.",
-      "alt": "Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Build shared understanding together. Six connected components: Listen with intention; Listen to understand; Speak with clarity; Speak with purpose; Adapt to audience + context; Adapt modes + tools. Speech · sign · text · AAC · another agreed accessible mode. Observe understanding, not a preferred communication style.",
       "kind": "diagram",
       "id": "middle-communication-components--practitioner-08",
       "placement": "after_heading"
@@ -551,7 +551,7 @@
       "source": "practitioner/09-collaboration.md",
       "after_heading": "A worked teaching example: fact, preference or process?",
       "caption": "Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence.",
-      "alt": "A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts.",
+      "alt": "Two side-by-side checks distinguish a source fact from a design choice. The equipment statement is checked against the source: a paver places and rollers compact. A flow diagram and question-and-answer layout are both tested with a reader asking who owns the road. Different issues require different evidence.",
       "kind": "diagram",
       "id": "social-collaboration-two-checks--practitioner-09",
       "placement": "after_heading"
@@ -561,7 +561,7 @@
       "source": "practitioner/09-collaboration.md",
       "after_heading": "Structure group work so everyone can act",
       "caption": "Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing.",
-      "alt": "A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct.",
+      "alt": "A checked visitor schedule lists welcome at 10:00, an equipment activity at 10:10, questions at 10:30 and finish at 10:45. The receiving partner retains those confirmed times while readability and copy formats remain pending. The team asks the coordinator before printing.",
       "kind": "diagram",
       "id": "social-collaboration-handover--practitioner-09",
       "placement": "after_heading"
@@ -571,7 +571,7 @@
       "source": "practitioner/10-adaptability.md",
       "after_heading": "A worked teaching example: revise the folder plan",
       "caption": "Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work.",
-      "alt": "Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review.",
+      "alt": "Proportional time bars compare an original ninety-minute Thursday plan with a revised sixty-minute session. The original has thirty-five minutes digital work, twenty-five drafting, fifteen reviewing and fifteen buffer. The revision has twenty-five drafting, ten reviewing and twenty-five digital. Monday adds ten minutes digital and five paper reflection in separate periods before noon. Digital practice remains thirty-five minutes.",
       "kind": "diagram",
       "id": "social-adaptability-time-plan--practitioner-10",
       "placement": "after_heading"
@@ -581,7 +581,7 @@
       "source": "practitioner/10-adaptability.md",
       "after_heading": "Vary situations and make reflection actionable",
       "caption": "Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result.",
-      "alt": "Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check.",
+      "alt": "Four actions compare the source value ninety with an incorrect entry of nine, correct the entry to ninety, recalculate, and compare the new result with the paper work. The strategy, action and new check provide evidence of a useful retry.",
       "kind": "diagram",
       "id": "social-adaptability-retry--practitioner-10",
       "placement": "after_heading"
@@ -591,7 +591,7 @@
       "source": "practitioner/11-creativity-innovation.md",
       "after_heading": "Separate idea generation from selection",
       "caption": "Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested.",
-      "alt": "Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits.",
+      "alt": "Three original prototypes show a labelled Number Check folder, a matching board with data, example and two blank-sheet spaces, and a return tray with N and C kits and a named helper-reset action. Questions ask whether a new user can find instructions, whether cards fit and stay together, and who checks and resets the tray. These are options to test.",
       "kind": "diagram",
       "id": "social-creativity-three-prototypes--practitioner-11",
       "placement": "after_heading"
@@ -601,7 +601,7 @@
       "source": "practitioner/11-creativity-innovation.md",
       "after_heading": "A worked teaching example: a testable contents system",
       "caption": "Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest.",
-      "alt": "Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip.",
+      "alt": "Two Number Check folders show an inspectable revision. Version 1 has four items: one data card, one worked example and two blank sheets. Version 2 has five: one data card, two worked examples and two blanks. A further check must make the slip instruction visible and retest; used sheets stay with the learner and two blank sheets are restocked.",
       "kind": "diagram",
       "id": "social-creativity-kit-revision--practitioner-11",
       "placement": "after_heading"
@@ -610,8 +610,8 @@
       "file": "assets/diagrams/social-collaboration-six-components.svg",
       "source": "practitioner/09-collaboration.md",
       "after_heading": "Teach all six components",
-      "caption": "Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team.",
+      "caption": "Six connected components of collaboration. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Different strengths. One shared purpose. Six connected components: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-collaboration-six-components--practitioner-09",
       "placement": "after_heading"
@@ -620,8 +620,8 @@
       "file": "assets/diagrams/social-adaptability-six-components.svg",
       "source": "practitioner/10-adaptability.md",
       "after_heading": "Keep the six components distinct",
-      "caption": "Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement.",
+      "caption": "Six connected components of adaptability. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Purpose stays visible as plans change. Six connected components: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-adaptability-six-components--practitioner-10",
       "placement": "after_heading"
@@ -630,8 +630,8 @@
       "file": "assets/diagrams/social-creativity-six-components.svg",
       "source": "practitioner/11-creativity-innovation.md",
       "after_heading": "Make all six components visible",
-      "caption": "Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs.",
-      "alt": "Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity.",
+      "caption": "Six connected components of creativity and innovation. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs.",
+      "alt": "An original task illustration occupies the left panel; six numbered actions appear on the right. Make ideas usable. Learn from the trial. Six connected components: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity. Revisit the component that helps the task.",
       "kind": "diagram",
       "id": "social-creativity-six-components--practitioner-11",
       "placement": "after_heading"
@@ -642,19 +642,8 @@
       "after_heading": "Find your way through the nine skills",
       "kind": "diagram",
       "caption": "Start with a useful purpose. One real task can call on several connected skills; this map is not a ranking or a required learning order.",
-      "alt": "All nine Skills for Success connect to the learner’s purpose. Reading, writing, numeracy, digital, problem solving, communication, collaboration, adaptability, and creativity and innovation contribute to learning, work and community tasks.",
+      "alt": "Nine skill labels connect to a central learner purpose: Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, and Creativity and Innovation. The radial relationship shows that one meaningful task can use several skills. Document use and continued learning connect across tasks.",
       "id": "teaching-nine-skills-map--learner-00",
-      "placement": "after_heading"
-    },
-    {
-      "file": "assets/diagrams/source-transition-chart.svg",
-      "source": "practitioner/01-purpose-and-framework.md",
-      "after_heading": "Preserve useful Essential Skills work and update its purpose",
-      "kind": "source-diagram",
-      "caption": "Original historical transition chart from SkillPlan’s Skills for Success Get Started Guide for Practitioners (March 2024), p.18. Document Use remains embedded; continued learning is relevant across skills. Read these arrows with the explanation below, rather than as exact one-to-one equivalents.",
-      "alt": "Original SkillPlan transition chart links historical Essential Skills labels to Skills for Success labels. Document Use branches to reading, numeracy and writing; the accompanying text qualifies the simplified historical arrows.",
-      "credit": "SkillPlan, March 2024, PDF p.18. Extracted from the user-supplied guide; original vector geometry preserved.",
-      "id": "source-transition-chart--practitioner-01",
       "placement": "after_heading"
     },
     {
@@ -696,7 +685,91 @@
       "alt": "Two fictional Indigenous adults measure a small practice board and check a calculator in a BC training room.",
       "id": "measuring-together--practitioner-12",
       "placement": "after_heading"
+    },
+    {
+      "id": "edition3-fractions-regrouping--learner-03-numeracy",
+      "file": "assets/diagrams/edition3-fractions-regrouping.svg",
+      "source": "learner/03-numeracy.md",
+      "after_heading": "Regroup one whole before subtracting",
+      "caption": "Equivalent parts make addition and regrouping visible.",
+      "alt": "Three eighths is six sixteenths. Adding five sixteenths gives eleven sixteenths. Four and one eighth is four and two sixteenths, or three and eighteen sixteenths. Subtracting two and three sixteenths leaves one and fifteen sixteenths. Adding the difference to the subtracted quantity returns four and one eighth.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-fractions-regrouping--practitioner-05-numeracy",
+      "file": "assets/diagrams/edition3-fractions-regrouping.svg",
+      "source": "practitioner/05-numeracy.md",
+      "after_heading": "Regroup one whole before subtracting",
+      "caption": "Equivalent parts make addition and regrouping visible.",
+      "alt": "Three eighths is six sixteenths. Adding five sixteenths gives eleven sixteenths. Four and one eighth is four and two sixteenths, or three and eighteen sixteenths. Subtracting two and three sixteenths leaves one and fifteen sixteenths. Adding the difference to the subtracted quantity returns four and one eighth.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-fractions-regrouping--teaching-foundations-numeracy-entry-bridge",
+      "file": "assets/diagrams/edition3-fractions-regrouping.svg",
+      "source": "teaching/foundations/numeracy-entry-bridge.md",
+      "after_heading": "Regroup one whole before subtracting",
+      "caption": "Equivalent parts make addition and regrouping visible.",
+      "alt": "Three eighths is six sixteenths. Adding five sixteenths gives eleven sixteenths. Four and one eighth is four and two sixteenths, or three and eighteen sixteenths. Subtracting two and three sixteenths leaves one and fifteen sixteenths. Adding the difference to the subtracted quantity returns four and one eighth.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-learner-route--learner-00-start-here",
+      "file": "assets/diagrams/edition3-learner-route.svg",
+      "source": "learner/00-start-here.md",
+      "after_heading": "Use a chapter in a practical way",
+      "caption": "Start with a task, choose useful practice, and check the skill with a fresh example.",
+      "alt": "A starting task branches to foundation practice or the core task. Foundation practice uses a model, guided examples and useful supports. The core task brings the skill into a meaningful purpose. Both paths lead to a fresh check using a new example of the same skill, then a next step: practise a part, use the skill again, or transfer it to another task.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-prediction-trial-cycle--learner-05-problem-solving",
+      "file": "assets/diagrams/edition3-prediction-trial-cycle.svg",
+      "source": "learner/05-problem-solving.md",
+      "after_heading": "Put a chosen change into practice",
+      "caption": "A prediction becomes useful evidence through a small trial, clear observations and a next decision.",
+      "alt": "A four-step cycle begins with a prediction and reason, continues with a small trial under recorded conditions, then records observable actions and help needed before deciding whether to keep, adjust or retest. An example distinguishes an observation, the reader opened two folders, from a possible explanation, the label was hard to find.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-prediction-trial-cycle--practitioner-07-problem-solving",
+      "file": "assets/diagrams/edition3-prediction-trial-cycle.svg",
+      "source": "practitioner/07-problem-solving.md",
+      "after_heading": "Observe an implemented change",
+      "caption": "A prediction becomes useful evidence through a small trial, clear observations and a next decision.",
+      "alt": "A four-step cycle begins with a prediction and reason, continues with a small trial under recorded conditions, then records observable actions and help needed before deciding whether to keep, adjust or retest. An example distinguishes an observation, the reader opened two folders, from a possible explanation, the label was hard to find.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-quantity-check--learner-03-numeracy",
+      "file": "assets/diagrams/edition3-quantity-check.svg",
+      "source": "learner/03-numeracy.md",
+      "after_heading": "Reconnect the arithmetic to a task",
+      "caption": "Follow a quantity from the target through stock, whole packs, cost and a final check.",
+      "alt": "The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-quantity-check--practitioner-05-numeracy",
+      "file": "assets/diagrams/edition3-quantity-check.svg",
+      "source": "practitioner/05-numeracy.md",
+      "after_heading": "Reconnect the arithmetic to a task",
+      "caption": "Follow a quantity from the target through stock, whole packs, cost and a final check.",
+      "alt": "The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example.",
+      "kind": "diagram"
+    },
+    {
+      "id": "edition3-quantity-check--teaching-foundations-numeracy-entry-bridge",
+      "file": "assets/diagrams/edition3-quantity-check.svg",
+      "source": "teaching/foundations/numeracy-entry-bridge.md",
+      "after_heading": "Reconnect the arithmetic to a task",
+      "caption": "Follow a quantity from the target through stock, whole packs, cost and a final check.",
+      "alt": "The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example.",
+      "kind": "diagram"
     }
   ],
-  "notes": "SVG diagrams are the main visual language. Four fictional generated illustrations provide human context; exact learning data are carried by authored diagrams and case documents."
+  "notes": [
+    "Editable teaching vectors and contextual illustrations for ACCESS IS4S. Figure descriptions match the current drawing.",
+    "Some figure placements support individually printable teaching materials as well as the integrated book chapters."
+  ]
 }

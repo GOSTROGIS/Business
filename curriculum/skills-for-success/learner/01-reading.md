@@ -10,8 +10,9 @@ All organizations, timetables, messages and project arrangements in this chapter
 
 <!-- visual:foundation-reading-map--learner-01 -->
 <figure class="teaching-figure diagram" data-visual="foundation-reading-map--learner-01">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-map.svg" alt="Reading has six connected components: identify the task that requires reading; identify information in the documents; connect different parts; understand and apply the information; evaluate the documents; and reflect on the documents. Six distinct icons sit on a connecting loop. Numbering identifies the components and does not prescribe a fixed sequence." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Six parts of a useful reading process — visual"><img src="../assets/diagrams/foundation-reading-map.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Let the question and document guide your next move. Six connected components: Identify the reading task; Find the information; Connect related details; Understand and apply; Evaluate the document; Reflect on the document. Return to any action when you need to check meaning or evidence." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Use the component numbers as an index, not a compulsory sequence. A missing date, unfamiliar word or changed question can send you back to another action. <a class="visual-original" href="../assets/diagrams/foundation-reading-map.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Let the question and document guide your next move. Six connected components: Identify the reading task; Find the information; Connect related details; Understand and apply; Evaluate the document; Reflect on the document. Return to any action when you need to check meaning or evidence.</p></details>
 </figure>
 <!-- /visual:foundation-reading-map--learner-01 -->
 
@@ -27,6 +28,40 @@ The Skills for Success Reading components are:
 These are connected actions, not six boxes you must complete in a fixed order. A confusing footnote may send you back to the heading. A missing date may stop you from using an otherwise clear instruction. The aim is an accurate understanding, with a reason you can explain.
 
 Choose supports that let you work with the text: larger print, a ruler under a line, a glossary, text-to-speech, a reading partner or extra time. Keep track of the support used. You can demonstrate comprehension by pointing to evidence, explaining aloud, using an accessible communication method or writing. This chapter does not require polished writing to prove that you understood a reading.
+
+<!-- teaching:reading-entry-bridge-learner -->
+## Build a word, read a phrase, use its meaning
+
+Practise privately, with a partner or through an agreed accessible format. No one needs to read aloud to the group. Keep track of whether you recognized the printed word yourself, used audio access or received help with its meaning. These are useful but different observations.
+
+### Start with a small observation
+
+Look at **return, returned, check, checked, available**. Identify a familiar word, use it in a classroom sentence and read a short phrase. If these words are already familiar, move to the notice practice. If a word becomes clear after someone says it, compare the spoken word with its letters and practise it in a useful phrase.
+
+### See a useful word part
+
+Compare **check → checked**. Point to the shared letters. Adding **-ed** here shows a completed action. In this word the ending sounds like /t/; the spelling still records **-ed**. Compare **return → returned**, where the ending sounds like /d/. The same spelling can have different sounds; use the whole word to check its pronunciation. Read “the helper checked the kit” and explain which action is complete.
+
+Break **unavailable** into **un + available**: in this notice, **un-** reverses the meaning. Say the base word, read the whole word, then test its meaning in “The kit is unavailable today.” A word part is a clue; the sentence confirms whether that meaning fits.
+
+Try with support: choose from **checked / check / unavailable / available**. Complete “Please ___ the code before the loan” and “The kit is ___ because it is already lent.” Explain your choice. Then compare “return pending” with “returned and checked.” Identify which record still needs an action.
+
+### Read a short passage in meaningful phrases
+
+> The practice desk opens at ten. / A helper checks the kit code / before handing over a folder. / The learner checks the return time. / If the folder is unavailable, / ask about another suitable resource. / Do not assume that a reserved item is free to take. / A learner can ask for a printed reminder / without explaining private reasons. / Keep the agreed return point / with the practice record.
+
+Listen to one sentence read by your instructor if helpful, then explain its meaning. Read it together or reread a short chosen part, using the slashes as optional phrase guides. Answer: What happens before a folder is handed over? What should happen if it is unavailable? Return to the words that support the answers. Fluency here means readable phrasing that supports meaning; faster reading is not the goal.
+
+### Fresh exit passage
+
+Remove the model passage while using this new text:
+
+> A learning pack is ready for collection at two. The helper must check its code before recording the loan. The pack includes a return slip. If a requested pack is unavailable, ask the helper to check another option. A reserved pack belongs to an agreed booking. Do not remove it without confirmation.
+
+Identify **check**, **unavailable** and **reserved**. Explain the collection condition and what to do if the requested pack is unavailable. Reread after feedback if useful. Keep word help, phrasing help and comprehension help separate in your note.
+
+**Check after your attempt:** collection is at two, subject to the helper's code check before the loan is recorded; ask the helper to check another option if unavailable; reserved is not unrestricted availability. If a word needs more practice, name it and ask for a useful example. When you can locate the condition with your agreed supports, continue to RD-03 and connect information from a short paragraph and table. You can agree more focused word-reading practice without repeating a whole long case.
+<!-- /teaching:reading-entry-bridge-learner -->
 
 ## Begin with the task, then preview the document
 
@@ -110,8 +145,9 @@ A classmate says, “B1 arrives before B2 leaves, so the connection works.” Fi
 
 <!-- visual:foundation-reading-connection--learner-01 -->
 <figure class="teaching-figure diagram" data-visual="foundation-reading-connection--learner-01">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-connection.svg" alt="A time-scaled line shows B1 arriving at Market at 08:25. B2 leaves at 08:28, only three minutes later, so it fails the five-minute minimum connection. The earliest usable departure is 08:30. B3 leaves at 08:32, a seven-minute connection, reaches Northside at 08:47, and allows reception arrival at 08:52 after the five-minute allowance, before the 08:55 deadline." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="RD-05 • Read the condition — visual"><img src="../assets/diagrams/foundation-reading-connection.svg" alt="A proportional timetable shows B1 arriving at Market at 08:25. The required connection allowance is five minutes. B2 leaves at 08:28, giving only three minutes; B3 leaves at 08:32, giving seven. The earliest usable departure is 08:30. B1 plus B3 reaches Northside at 08:47; five minutes to reception gives 08:52, before the 08:55 deadline." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Arriving before departure is not enough: this timetable also requires a five-minute connection. Read the condition with the row. <a class="visual-original" href="../assets/diagrams/foundation-reading-connection.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A proportional timetable shows B1 arriving at Market at 08:25. The required connection allowance is five minutes. B2 leaves at 08:28, giving only three minutes; B3 leaves at 08:32, giving seven. The earliest usable departure is 08:30. B1 plus B3 reaches Northside at 08:47; five minutes to reception gives 08:52, before the 08:55 deadline.</p></details>
 </figure>
 <!-- /visual:foundation-reading-connection--learner-01 -->
 
@@ -187,8 +223,9 @@ Identify D1's main claim and two features that make it unreliable for a whole-pr
 
 <!-- visual:foundation-reading-versions--learner-01 -->
 <figure class="teaching-figure diagram" data-visual="foundation-reading-versions--learner-01">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-reading-versions.svg" alt="The earlier introductory-group draft says Room 3 and is marked replaced. Welcome Note version 2 names the same group and explicitly replaces that draft; it directs learners to Room 2. The route is entrance, reception between 08:40 and 08:55, then Room 2." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Worked example 3: resolve a version conflict — visual"><img src="../assets/diagrams/foundation-reading-versions.svg" alt="Two document specimens show an earlier introductory-group draft with Room 3 and a version 2 notice that explicitly replaces it, names Room 2 and requires check-in first. A route below moves from the entrance to reception during 08:40–08:55, then to Room 2 after check-in." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Use the matching audience and explicit replacement statement, then follow the check-in instruction. This shows Welcome Note version 2 before the later RD-12 update. <a class="visual-original" href="../assets/diagrams/foundation-reading-versions.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Two document specimens show an earlier introductory-group draft with Room 3 and a version 2 notice that explicitly replaces it, names Room 2 and requires check-in first. A route below moves from the entrance to reception during 08:40–08:55, then to Room 2 after check-in.</p></details>
 </figure>
 <!-- /visual:foundation-reading-versions--learner-01 -->
 
@@ -268,6 +305,84 @@ Compare the promotional card D1 with the resource guide E. Explain their audienc
 
 Use the local feedback descriptions **Not observed**, **Not yet demonstrated**, **Demonstrated with support** and **Demonstrated independently**. Record transfer separately when you use the process in a new situation. These descriptions are not official proficiency levels. Keep a marked document, a short explanation and the support used. Together they give a more useful picture than speed alone.
 
-## Source and teaching notes
+<!-- teaching:reading-learner-checks-learner -->
+## Reading · fresh document checks
 
-The six component names are recorded in SkillPlan's supplied *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [PDF/printed page 45](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=45). Document-use integration is discussed on page 46; contextual documents and foundational reading on pages 47–49; explicit skimming, scanning and question strategies on pages 49–50; assessment cautions on page 51; and document comparison/reflection activities on page 53. All case documents, questions and worked examples here are original teaching designs. The source guide's descriptions do not establish official proficiency scores for these new activities.
+Use the form selected by your instructor. Read the supplied documents and show which words, rows or conditions support your answers. You may mark the document and explain through an agreed communication mode. Writing polish is not the focus. Ask for the agreed access tools before starting. All information is fictional; do not visit or contact a real service.
+
+### Form A · Pick up a practice kit
+
+#### A1 · Earlier notice, issued Practice Monday
+
+The introductory learning group can collect its reserved practice kits at Counter East on Practice Friday, 13:00–13:30. Bring the kit code and your learning ID. This is a classroom collection arrangement.
+
+#### A2 · Correction, issued Practice Tuesday
+
+**For the same introductory learning group and Practice Friday collection:** Counter West replaces Counter East. The collection window remains 13:00–13:30. Bring the kit code and learning ID as previously stated. A helper must check the current counter record before handing over a kit. This correction replaces A1's location only. A separate evening group uses Counter East at 17:00; that arrangement does not apply to this group. Ask the course coordinator when information cannot be confirmed.
+
+#### A3 · Counter record for the exercise
+
+| Kit code | Resource | Status | Collection condition |
+|---|---|---|---|
+| P14 | Large-print process cards | Reserved for the introductory group | Helper checks code and learning ID. |
+| P18 | Standard process cards | In use | No return time has been supplied. |
+| N22 | Number practice kit | Available | Helper checks the current record and agrees a loan. |
+
+“Reserved” means set aside for the named group. “Available” means a loan can be discussed now, not that the item has already been booked. “In use” means currently lent. A request for a particular format does not require a learner to explain private reasons. The counter record says nothing about transport or a charge.
+
+#### CK-RD-A01 · Find the current instruction
+
+Where and when should the introductory learner collect P14? What must they bring, and what must the helper do? Mark the source for the location, unchanged time and collection condition.
+
+#### CK-RD-A02 · Connect the records
+
+A peer says, “I will go to Counter East at 17:00 because the correction mentions it.” Explain the problem using the audience and replacement wording. Then explain whether P14 and P18 can both be promised for collection at 13:00.
+
+#### CK-RD-A03 · Check a summary
+
+A proposed summary says, “All kits are ready. Bring identity documents to Counter West any time Friday. Transport is included.” Identify four unsupported or contradicted claims. For one claim, distinguish “the documents say something different” from “the documents do not say.”
+
+#### CK-RD-A04 · Explain your next step
+
+You receive an undated cropped image saying only “Counter East.” Explain what it cannot establish, where you would seek confirmation and one part of your reading process that helped you. Do not invent the coordinator's answer.
+
+<div class = "response-space" style = "min-height: 12rem; border: 1px solid #9b9189; padding: 0.6rem">My evidence notes: write the task ID, answer, source and any unresolved question. An additional sheet or recorded oral response can be used.<br><br><br><br><br><br></div>
+
+### Form B · Return a practice resource
+
+#### B1 · Earlier notice, issued Practice Wednesday
+
+The afternoon learning group returns borrowed folders on Practice Monday, 11:15–11:45, at the Materials Desk. Bring the folder code and your learning ID. Do not write a personal phone number on a folder.
+
+#### B2 · Correction, issued Practice Thursday
+
+**For the same afternoon learning group and Practice Monday returns:** use the Library Desk instead of the Materials Desk. The 11:15–11:45 window and code/learning-ID requirement stay the same. The desk helper checks the folder against the loan record and records its return; placing it on a desk alone does not confirm a return. This correction replaces B1's location only. The evening group's return to the Materials Desk at 18:00 is a separate arrangement. Ask the course coordinator about information that cannot be confirmed.
+
+#### B3 · Loan record for the exercise
+
+| Folder code | Record status | Required next step |
+|---|---|---|
+| F32 | Loaned to afternoon group; return due Practice Monday | Present to helper for return check. |
+| F35 | Returned and checked | No second return is required. |
+| F39 | Return reported, check pending | Helper must confirm against the loan record. |
+
+“Check pending” means a necessary check has not yet been confirmed. It is different from a completed return. No penalty, charge or delivery service is specified. Learners can ask privately for an accessible way to identify the folder code.
+
+#### CK-RD-B01 · Find the current instruction
+
+Where and when should the afternoon learner return F32? What must they bring, and what must the helper do? Mark the source for the location, unchanged time and return condition.
+
+#### CK-RD-B02 · Connect the records
+
+A peer says, “I will go to the Materials Desk at 18:00 because the correction mentions it.” Explain the problem using the audience and replacement wording. Then explain whether F35 and F39 can both be recorded as checked returns.
+
+#### CK-RD-B03 · Check a summary
+
+A proposed summary says, “Every folder is checked in. Leave F32 at the Library Desk any time Monday. Bring your personal phone number; late returns cost $5.” Identify four unsupported or contradicted claims. For one claim, distinguish “the documents say something different” from “the documents do not say.”
+
+#### CK-RD-B04 · Explain your next step
+
+You receive an undated cropped image saying only “Materials Desk.” Explain what it cannot establish, where you would seek confirmation and one part of your reading process that helped you. Do not invent the coordinator's answer.
+
+<div class = "response-space" style = "min-height: 12rem; border: 1px solid #9b9189; padding: 0.6rem">My evidence notes: write the task ID, answer, source and any unresolved question. An additional sheet or recorded oral response can be used.<br><br><br><br><br><br></div>
+<!-- /teaching:reading-learner-checks-learner -->

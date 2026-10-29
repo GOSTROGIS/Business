@@ -9,12 +9,12 @@ ROOT = Path(__file__).resolve().parents[1]
 SELECTIONS = [
     ('learner-textbook', None, 'Redesigned nine-skills cover'),
     ('learner-textbook', 'Six parts of a useful reading process', 'Reading component map'),
-    ('learner-textbook', 'Whole packs → the complete order', 'Whole packs and the complete order cost'),
-    ('learner-textbook', 'Test the fit in both directions', 'Dimensioned board, margins and card layout'),
-    ('learner-textbook', 'Six equipment cards. Different roles.', 'Equipment roles and the screed component'),
-    ('learner-textbook', 'Revise the plan without losing the goal', 'Original and revised time plan'),
+    ('learner-textbook', 'Count the packs. Then check the order.', 'Whole packs and the complete order cost'),
+    ('learner-textbook', 'Area is only the first check.', 'Dimensioned board, margins and card layout'),
+    ('learner-textbook', 'Six cards. Five broad stages.', 'Equipment roles and the screed component'),
+    ('learner-textbook', 'Make the parts the same size.', 'Fraction strips and regrouping one whole'),
     ('practitioner-guide', 'Build a cause map from evidence', 'Evidence-led fishbone diagram'),
-    ('practitioner-guide', 'Anatomy of a fictional classroom draft', 'Annotated email specimen'),
+    ('practitioner-guide', 'Make the next action easy to find.', 'Annotated email specimen'),
 ]
 
 

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Edition 3 · Implementation record | ACCESS IS4S</title><meta name="description" content="">
+<link rel="stylesheet" href="./assets/books.css"><link rel="icon" href="./assets/is4s-badge.svg" type="image/svg+xml">
+</head><body class="reading"><a class="skip" href="#content">Skip to learning material</a>
+<nav class="toolbar" aria-label="Book resources"><a href="./index.html">ACCESS IS4S books</a></nav>
+<header class="reading-mast"><img src="./assets/is4s-badge.svg" width="100" height="100" alt="ACCESS Indigenous Skills4Success"><p class="eyebrow">ACCESS IS4S · Learning resources</p></header><main id="content" class="reading-sheet"><h1 id="edition-3-implementation-record">Edition 3 · Implementation record</h1>
+<p><strong>29 October 2026.</strong> This editorial record tracks the work following the 28 October review. It is outside the learner and practitioner books.</p>
+<p>The books now teach directly as standalone ACCESS IS4S materials. Source-comparison passages, original-guide page references and adaptation commentary have been removed from their instructional text. Research provenance remains in the repository's editorial records. Complete fresh exercises, entry teaching and answer guidance are integrated into the relevant chapters rather than presented as a lesser or supplementary version.</p>
+<h2 id="changes-against-the-review">Changes against the review</h2>
+<p class="table-scroll-hint">If needed, scroll across this table. Keyboard: focus the table, then use the arrow keys.</p><div class="table-wrap table-wide" tabindex="0" role="region" aria-label="Changes against the review — table 1: ID, Implemented work, Remaining evidence or decision"><table class="table-wide">
+<thead>
+<tr>
+<th scope="col">ID</th>
+<th scope="col">Implemented work</th>
+<th scope="col">Remaining evidence or decision</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G01</td>
+<td>Repaired the eight crosswalk headings and the 27-row strategy table; added generated-structure checks. The crosswalk is editorial material outside the books.</td>
+<td>Final generated-output checks are recorded in VALIDATION.</td>
+</tr>
+<tr>
+<td>G02</td>
+<td>Removed equivalence claims from book-facing prose; made editorial treatment labels precise; added a complete facilitator-adaptation case and answer guidance.</td>
+<td>The editorial inventory explicitly identifies partial treatment where appropriate.</td>
+</tr>
+<tr>
+<td>G03</td>
+<td>Added fresh cases across all nine skills, separate keys, criterion anchors, sample judgments and observation records.</td>
+<td>Actual practitioner moderation of learner evidence remains field work.</td>
+</tr>
+<tr>
+<td>G04</td>
+<td>Added an enacted problem-solving cycle with a prediction, actual trial, observed result and next decision; connected appropriate prototype work across skills.</td>
+<td>Individual performance is recorded when the activity is delivered.</td>
+</tr>
+<tr>
+<td>G05</td>
+<td>Added step-by-step entry teaching for Reading, Writing, Numeracy, Digital and Problem solving, plus routes for all nine skills.</td>
+<td>Learner feedback and actual pacing remain to be observed.</td>
+</tr>
+<tr>
+<td>G06</td>
+<td>Supplied and functionally checked the Digital practice desk, local version workflow, download and reset, setup instructions and observation record.</td>
+<td>Real online permission-setting requires an approved platform and actual access verification.</td>
+</tr>
+<tr>
+<td>G07</td>
+<td>Supplied complete teaching schedules, sequential observer assignments, individual turns, recovery slots and planned-versus-actual records.</td>
+<td>A classroom pilot has not been conducted by this development work.</td>
+</tr>
+<tr>
+<td>G08</td>
+<td>Supplied local review, support, contribution-permission, response and change-record templates.</td>
+<td>Actual ACCESS/local partner participation, approved contacts and scoped decisions must be completed by the delivery team.</td>
+</tr>
+<tr>
+<td>G09</td>
+<td>Improved handwriting space, simple-table reflow, figure labels, visible descriptions and a keyboard-operable visual viewer.</td>
+<td>Human assistive-technology and physical-print evaluation remain distinct from automated/browser checks.</td>
+</tr>
+<tr>
+<td>G10</td>
+<td>Added source-backed A1 industry, project/regulatory and bounded environmental-comparison teaching, with full cases and keys.</td>
+<td>Trade review of delivery use remains required; the dated ledger identifies the scope of each public fact.</td>
+</tr>
+<tr>
+<td>G11</td>
+<td>Authored the A2–A6 Roadbuilding foundations units, full task inputs and keys, technical diagrams, a 68-competency status map and practical-training handoff.</td>
+<td>Later technical competencies and practical delivery are identified separately in that map.</td>
+</tr>
+<tr>
+<td>G12</td>
+<td>Updated the dated program-information record and distinguished historical technical hours, the current provider-page statement and local delivery decisions.</td>
+<td>Current regulator/provider reconciliation and an ACCESS-specific timetable are not claimed complete.</td>
+</tr>
+<tr>
+<td>G13</td>
+<td>Updated CL-14 and its key to accept an evidenced successful reader check without manufacturing a revision.</td>
+<td>Check the task in actual delivery.</td>
+</tr>
+<tr>
+<td>G14</td>
+<td>Added final-PDF page numbers to printed contents and checks against named destinations; improved short-document pagination and deep links.</td>
+<td>Recheck destinations after future content or font changes.</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="visual-direction">Visual direction</h2>
+<p>The existing teaching diagrams and cover have been redesigned with a consistent cream, ink, red and gold palette, stronger type hierarchy, custom vector illustrations, larger labels and precise callouts. New diagrams explain fraction regrouping, choosing a learning route, testing an idea, checking quantities, road structure and material flow. The artwork preserves the teaching facts and calculations.</p>
+<p>The canonical visual manifest controls figure placements. Its alternative text and the SVG descriptions must agree with the current drawing. Both book PDFs, the visual preview and the Roadbuilding files are rebuilt from the final artwork.</p>
+<h2 id="reproducible-authoring">Reproducible authoring</h2>
+<ul>
+<li><code>tools/install_teaching.py</code> integrates the complete authoring inputs listed in <code>teaching-manifest.json</code> into editable chapter blocks, rebasing links.</li>
+<li><code>tools/install_visuals.py</code> applies the canonical figure placements after teaching integration.</li>
+<li><code>tools/build_books.py</code> generates reading pages and both books, converges printed contents to actual destinations, and builds the visual preview.</li>
+<li><code>tools/verify_books.py</code> checks structure, links, figures, activities, standalone prose, fresh-practice presence and PDF navigation.</li>
+<li>The Digital practice desk uses local browser state and downloads only. Its simulated recipient settings are explicitly distinct from online access-control performance.</li>
+</ul>
+<p>See <a href="VALIDATION.html">VALIDATION.md</a> for completed checks and final artifact measurements. The <a href="research/book-gap-analysis-2026-10-28.html">28 October review</a> remains a historical assessment of revision <code>928cda6</code>; its original evidence and action register preserve that snapshot.</p>
+<h2 id="asphalt-resource-integration">Asphalt resource integration</h2>
+<p>The asphalt pathway now includes a complete 2006 specifications workshop, manufacturer manuals with an offline ZIP and nine-skill reading lesson, and indexed PDF/text chunks for all available asphalt PDFs. These resources retain source editions and equipment scopes. MS-4 Seventh Edition is the selected primary asphalt textbook; its original upload remains pending transfer because it exceeds the workspace transfer tool's limit. The textbook planning map records verified publisher information without inventing chapter or page alignment.</p></main><footer class="site-footer">ACCESS · Indigenous Skills 4 Success · 29 October 2026 · Edition 3 · Teaching and visual practice edition</footer></body></html>

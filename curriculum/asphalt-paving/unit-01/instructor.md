@@ -1,6 +1,6 @@
 # Asphalt A1 • Instructor guide and answer key
 
-**Original ACCESS IS4S supplementary curriculum draft • Three 60-minute sessions • 180 minutes proposed**
+**ACCESS IS4S classroom teaching • Three 60-minute sessions • 180 minutes**
 
 Pair with the [learner workbook](learner.md) and [supporting materials](materials/README.md). The workbook supplies the readings, equipment cards, data and questions; the separate change card is in the supporting materials. No unavailable provider worksheet or live website is required to complete this opening sequence. A device and spreadsheet or accessible table tool are needed to observe Digital; a later individual tool turn is required if devices are unavailable.
 
@@ -12,11 +12,11 @@ Learner question IDs **A1-Q01 through A1-Q18** identify original workbook questi
 
 The supplied outline is a historical source, not evidence of current regulations or this ACCESS cohort's approved syllabus. The packet includes later-dated sections; record page-specific footers rather than assigning one date to all content. A1's “EPS, MMCD” wording is retained only as a source-evaluation prompt. Do not expand EPS by guesswork or tell learners that every listed item is a statute. Identify full titles, issuers, current versions, legal/contractual status and applicability before teaching specific requirements.
 
-**Time boundary:** These are 180 minutes of expanded IS4S preparation. They are not an official A1 allocation, a substitute for the partner's technical timetable or evidence of qualification. The supplied outline's **PDF page 17 / printed page 15** allocates 3% to all of Line A, A1–A6, and marks it 100% theory. Applied to the supplied profile's 120 technical-training hours, that is 3.6 hours for the entire line. Confirm how supplementary literacy/numeracy time sits alongside actual technical delivery.
+**Time boundary:** These are 180 minutes of ACCESS IS4S classroom teaching. They are not an official A1 allocation, a substitute for the partner's technical timetable or evidence of qualification. The supplied outline's **PDF page 17 / printed page 15** allocates 3% to all of Line A, A1–A6, and marks it 100% theory. Applied to the supplied profile's 120 technical-training hours, that is 3.6 hours for the entire line. Plan these classroom sessions alongside the provider’s technical delivery.
 
-Adjacent content stays out of scope: **A2**, PDF page 23 / printed page 21, develops historical evolution; **A3**, PDF page 24 / printed page 22, develops paving technology. The present sequence gives A1's basic history and pit-to-finished-product overview without claiming to teach plant operation, asphalt mix design, paving settings, compaction procedures or detailed historical A2 content.
+Continue into the authored [A2 history unit](../line-a/02-history.md) and [A3 technology unit](../line-a/03-technology.md), then the [A4–A6 units on workers, road documents and trends](../line-a/README.md). The six-unit Line A sequence contains 37 activities. This opening workbook develops A1’s basic history, equipment purposes and pit-to-finished-product overview; operation, mix design, machine settings and compaction procedures belong in supervised technical training.
 
-All place names, companies, fund names, employment counts, money and comparison distances in the workbook are invented and labelled. The materials/process/history readings are original introductory teaching summaries, not quotations or provider-issued operating documents. Before delivery, the asphalt instructor should review terminology and relevance. The method is aligned to the inspected Numeracy Hub's practical workbook sequence: task → useful document → worked steps → your turn → check → explain → changed condition.
+All place names, companies, fund names, employment counts, money and comparison distances in the workbook are invented and labelled. The materials/process/history readings are original introductory teaching summaries, not quotations or provider-issued operating documents. Before delivery, the asphalt instructor should review terminology and relevance. Use the practical teaching sequence: task → useful document → worked steps → your turn → check → explain → changed condition.
 
 ## Observable outcomes and A1 coverage
 
@@ -29,13 +29,13 @@ By the end, learners can explain a basic process and equipment functions, connec
 | 3. Describe the importance of roads | Infrastructure | A1-Q01 interpretation and a daily-life/trade example. |
 | 4. Describe provincial road paving resources | Gravel, aggregates | Reading section 2; A1-Q05 resource examples and suitability question. No unverified provincial inventory is implied. |
 | 5. Explain who uses paving | Recreation, trade, shared reliance | Reading section 1; A1-Q06 two user groups and their access questions. |
-| 6. Demonstrate understanding of relevant statistics | Industry size, economics, employers | **Partial / introduced:** A1-Q11 totals, fraction and money comparison; invented data teach interpretation, not real industry size. A1-Q13 communicates one accurately labelled statistic. Current B.C. size/economics/employer data require a dated source and instructor supplement. |
+| 6. Demonstrate understanding of relevant statistics | Industry size, economics, employers | **Opening practice:** A1-Q11 totals, fraction and money comparison use invented data; A1-Q13 communicates one accurately labelled statistic. Continue with [LA1-01–LA1-02](../line-a/01-industry-evidence.md#la1-01-report-what-the-data-can-support): dated WorkBC construction figures and Statistics Canada road-industry business-location counts, with explicit measure, period and scope limits. |
 | 7. Describe other road types | Ice roads, etc. | Road-type table; A1-Q06 two descriptions/possible uses. |
-| 8. Review relevant regulations and funding | Historical “EPS, MMCD, etc.” labels | **Partial / introduced:** fictional project brief; A1-Q09 roles/funding and A1-Q10 verification questions. This is source literacy, not review of current applicable regulation/funding. A current-source/instructor supplement is required. |
-| 9. Discuss environmental friendliness | Asphalt versus concrete | **Partial / introduced:** reading section 12 and C1–C3; A1-Q14 conditional comparison and evidence gaps. A sourced comparison of actual asphalt/concrete impacts still needs an instructor supplement. No blanket material ranking. |
+| 8. Review relevant regulations and funding | Historical “EPS, MMCD, etc.” labels | **Opening practice:** A1-Q09 roles/funding and A1-Q10 verification questions use a fictional brief. Continue with [LA1-03–LA1-04](../line-a/01-industry-evidence.md#la1-03-match-a-question-to-a-document): selected B.C. workplace-orientation provisions, the highway-specification publisher’s current reference and a documented project funding/contract example. Check the applicable contract and current requirements for any actual job. |
+| 9. Discuss environmental friendliness | Asphalt versus concrete | **Opening practice:** reading section 12, C1–C3 and A1-Q14 introduce conditional comparison and evidence gaps. Continue with [LA1-05–LA1-06](../line-a/01-industry-evidence.md#la1-05-make-the-strongest-supported-comparison): sourced asphalt/concrete recovery pathways and a complete comparison case with stated boundaries. The sources do not establish a matched B.C. whole-life emissions ranking. |
 | A1 objective: history and governing-body/contractor relationship | Objective above the nine tasks | A1-Q02 history; A1-Q09 owner/contractor/funder distinctions; A1-Q13 and final sheet show transfer. |
 
-**Coverage limit:** The sequence introduces and practises all nine A1 content tasks. It cannot certify complete competency in task 8's actual relevant regulations, supply real current industry statistics for task 6, or complete task 9's sourced environmental comparison until the provider supplies/approves current sources. Do not mark simulated-data interpretation as knowledge of real B.C. totals.
+**Coverage and progression:** This opening sequence introduces and practises all nine A1 content tasks. The [industry-evidence unit](../line-a/01-industry-evidence.md) supplies the dated public evidence and further activities for tasks 6, 8 and 9; its [source register](../line-a/research/source-ledger.md) records publishers, retrieval dates and limits. Collect that work separately from the fictional A1-Q01–A1-Q18 practice. Check the current [competency status and technical-review record](../line-a/competency-status.md) before making a trade-completion claim.
 
 ## Prepare the room and materials
 
@@ -89,7 +89,7 @@ By the end, learners can explain a basic process and equipment functions, connec
 | 43–55 (12) | Observe revisions and paired usability checks. Ask the reader to locate each answer rather than merely praise the layout. | Revised sheet of no more than 90 words; A1-Q17 feedback and justified improvement; both drafts retained. |
 | 55–60 (5) | Ask learners to point to evidence for the three focus skills and identify a transfer habit. | A1-Q18 reflection with evidence references and next practice goal. |
 
-**Total: 8 + 14 + 12 + 9 + 12 + 5 = 60 minutes. Overall: 180 supplementary minutes.**
+**Total: 8 + 14 + 12 + 9 + 12 + 5 = 60 minutes. Overall: 180 minutes.**
 
 ## Answer key and acceptable responses
 
@@ -165,32 +165,21 @@ For the A1 occupational-content record, separately mark each of the nine tasks *
 - Start: use a partly ordered process map, highlighted headings, fraction counters and a preformatted spreadsheet. Practise: remove some prompts. Extend: use the optional percentage, compare two supported statistics, or test the information sheet with a second reader. These labels are instructional choices, not validated SFS complexity levels.
 - If an instructor changes the fictional data, regenerate the answer key and check totals before delivery. Do not mix a real statistic into the fictional table without a source, period, geography and clear label.
 
-## Teaching-source notes
+## Trade alignment and teaching resources
 
-Open the [source outline](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22), [program profile](../sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf#page=2) and [SkillPlan guide](../sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=10). The [Skills for Success map](../skills-map.md) connects guide components to this unit.
+Use the [ACCESS IS4S practitioner guide](../../skills-for-success/practitioner-guide.html) for teaching routines and individual evidence records, and the [Skills for Success map](../skills-map.md) for this workbook’s question-to-skill alignment. The [Line A teaching guide](../line-a/teaching-guide.html) supports the continuing six-unit sequence. Trade references are the [program outline](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22) and [program profile](../sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf#page=2).
 
-The following references were read from the user-supplied files. Page references identify **PDF page and printed page**. In the SkillPlan guide, they match. These references support instructional decisions; they do not prove that this new three-session lesson improves outcomes without a pilot.
+The trade references below identify **PDF page and printed page**. Use the [public evidence register](../line-a/research/source-ledger.md) for the dated sources used in the continuing classroom units.
 
 | Source | Exact location | Decision used here |
 |---|---|---|
 | SkilledTradesBC, supplied Asphalt Paving/Laydown Technician Program Outline | PDF 22 / printed 20, A1, footer 12/12 | A1 objective and all nine learning tasks; historical EPS/MMCD wording. |
-| Same outline | PDF 17 / printed 15 | Line A allocation is 3% across A1–A6 and 100% theory; 180 minutes is explicitly supplementary. |
-| Same outline | PDF 23 / printed 21, A2; PDF 24 / printed 22, A3 | Boundaries preventing the introductory unit from silently expanding into detailed history or technology/operations. |
+| Same outline | PDF 17 / printed 15 | Line A allocation is 3% across A1–A6 and 100% theory; this 180-minute classroom sequence is a local delivery plan. |
+| Same outline | PDF 23 / printed 21, A2; PDF 24 / printed 22, A3 | Alignment for the continuing A2 history and A3 technology units; equipment operation remains supervised technical training. |
 | Same outline | PDF 39 / printed 37, C1; PDF 40 / printed 38, C2; PDF 41 / printed 39, C3 | Supporting source context for pits/quarries, crusher/screening purposes, aggregate characteristics and asphalt-plant mixing. Only broad introductory functions are used here. |
 | Same outline | PDF 71 / printed 69, I1; PDF 75 / printed 73, I4 | Supporting context for haul-truck loads and mixture flow through the paver toward the screed. Equipment-card wording is an original paraphrase. |
 | Same outline | PDF 84 / printed 82, J1; PDF 87 / printed 85, J3; PDF 95 / printed 93, L1 | Supporting context for the screed's thickness-control role and compaction equipment functions; no machine settings or operating procedures are imported. |
-| SkillPlan, *Skills for Success Get Started Guide for Practitioners*, revised March 2024 | PDF/printed 24–27 | Learner-centred/contextualized tasks, useful work documents and meaningful choices. The workbook's documents are original simulations, not authentic employer documents. |
-| SkillPlan guide | PDF/printed 32; 35–38 | Scaffolding, direct instruction, model → guided practice → individual attempt, feedback and observable assessment. |
-| SkillPlan guide | PDF/printed 47–48 | Navigate different document structures; teach vocabulary and locate evidence. |
-| SkillPlan guide | PDF/printed 56–57 | Meaningful writing, audience/purpose, templates, peer reading and revision. |
-| SkillPlan guide | PDF/printed 64–65 | Contextual numeracy, strengths, explicit language, calculators and scaffolded practice. |
-| SkillPlan guide | PDF/printed 72–73 | Assess digital starting points, use gradual tasks and provide just-in-time support. |
-| SkillPlan guide | PDF/printed 79–80 | Teach a structured problem-solving routine and gather information before choosing a conclusion. |
-| SkillPlan guide | PDF/printed 86–87 | Perspective-taking and explicitly taught active listening, clarification and restatement. |
-| SkillPlan guide | PDF/printed 94–95 | Teach collaboration directly, structure roles and record individual accountability. |
-| SkillPlan guide | PDF/printed 99–102 | Goal adjustment, useful feedback, varied scenarios and supported responses to changed conditions. |
-| SkillPlan guide | PDF/printed 106–109 | Generate alternatives, develop an idea, apply it and test a visible product. |
 
 ## After the pilot
 
-Record actual timings, unclear vocabulary, data errors, device barriers, individual evidence gaps and learner feedback. Obtain partner review of A1 terminology and the coverage map. For the next lesson, replace the regulation/source placeholders with verified applicable documents and add a current industry-data source with its year, geography, definitions and limitations. Add a sourced asphalt/concrete environmental comparison with equivalent project requirements and explicit comparison boundaries. Keep the fictional practice set available as a simpler entry task. Do not treat current-source follow-up or technical competency as completed by this pilot.
+Record actual timings, unclear vocabulary, data errors, device barriers, individual evidence gaps and learner feedback. Obtain qualified technical review of A1 terminology and the coverage map. Continue with [Industry evidence and decisions](../line-a/01-industry-evidence.md), then the remaining [Line A units](../line-a/README.md). Check the retained source dates and any changes before delivery; use the [technical handoff record](../line-a/technical-handoff.md) for reviewer decisions and required revisions. Keep the fictional practice set available as an entry task and retain separate evidence from the public-source activities. Classroom participation alone does not establish technical competency.

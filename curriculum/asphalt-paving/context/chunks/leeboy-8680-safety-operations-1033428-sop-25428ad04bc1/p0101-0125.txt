@@ -1,0 +1,1281 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf
+SOURCE SHA-256: 25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96
+ORIGINAL PDF VIEWER PAGES: 101–125 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 101 ===
+Operation
+
+Pave Screen                                               When you turn on the generator to heat the screed, the
+                                                          generator icon changes from red (OFF) to green (ON).
+Pressing the Home Button navigates to the Pave Screen     If operating in MANUAL mode, the actual temperature is
+where paving function status is displayed, along with     shown in black. If operating generator in AUTO mode,
+a navigation banner for making speed adjustments.
+                                                          the actual temperature is shown in black.
+(Figure 4-29)
+                                                          NOTE: The IDLE throttle speed button ceases to
+                                                                function when the generator is on. When the
+                                                                generator turns off, the IDLE functionality
+                                                                returns.
+                                                          NOTE: The generator is set at the factory to default at
+                                                                1800 RPMs.
+
+
+                                                          Important gauges are shown beneath the row of paving
+                                                          status icons. (Figure 4-30)
+                                                                      Tachometer         Odometer
+                                                                      (Engine RPMs)     (Ground Speed)
+
+
+
+
+                Figure 4-29. Pave Screen
+                                                                                                                    4
+Engine status icons appear across the top of the
+screen, with auger, conveyor, DPF level, generator, and
+screed temperature shown in the row beneath.
+                                                              Left Auger Speed           Right Auger Speed
+NOTE: If “fault” appears instead of screed tempera-
+      ture, there is an issue with the sensor.                     Figure 4-30. Pave Screen Gauges
+
+The auger, conveyor and generator icons are the same      • Bar graphs on the left and right sides of the screen
+symbols shown on the main control panel and screed          reflect auger speed (set by the operator on the auger
+keypad (generator is not shown on the screed keypad).       dial if operating in the MANUAL mode).
+Conveyor speed is shown just below its icon. The auger    • The tachometer shows engine RPMs (same gauge as
+and conveyor icons display in three color states:           on the engine screen). The red needle indicates the
+Red: Off                                                    actual speed. The set point triangle indicates speed
+                                                            set points. “Pave Lo” or “Pave Hi” appears in the
+Green: On                                                   tachometer denoting whether operating in low or high
+Blue: Paused.                                               RPMs.
+                                                          • The set point triangle automatically changes color
+                                                            when shifting between low gear [green] or high gear
+                                                            [red]. “FPM-HI” [high gear] or “FPM” [low gear] also
+                                                            displays on the FPM (feet per minute) navigation
+                                                            banner above Button #4.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                 4-33
+
+=== ORIGINAL PDF PAGE 102 ===
+Operation
+
+• The ground speed gauge displays a digital value         Pave Screen Alert Messages
+  for actual speed and odometer that accumulates
+  distance in feet. The red needle indicates the actual   If a fault is present, a red warning icon      will flash (on
+  ground speed. The green triangle indicates speed set    both the engine and pave screens). If the icon is solid,
+  points.                                                 the main controller is offline and cannot communicate
+• The maximum ground speed can be adjusted using          with the display, therefore no fault information can be
+  Buttons #3 (-) [decrease] and #4 (+) [increase].        shown. A list of paving-related fault codes is shown on
+  (Figure 4-31)                                           the following pages.
+• Pressing and holding the center of the navigation       You can view active (Figure 4-32) and logged (Figure
+  button ( ) resets the odometer to zero feet.           33) system faults by pressing the screen navigation left
+                                                          or right from any screen.
+
+
+
+
+                     Decrease FPM        Increase FPM
+                      Button #3            Button #4       Figure 4-32. Active Paving Function Faults Screen
+       Figure 4-31. Ground Speed Adjustment               • Press Button #1 to view active paving function faults.
+                                                          • Press Button #2 to view logged paving function faults.
+                                                          • Use Buttons #3 and #4 (PREV [previous] and NEXT) to
+                                                            scroll between fault screens.
+
+
+
+
+4-34                                                                               LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 103 ===
+Operation
+
+                                                           The following pop-up messages appears if the operator
+                                                           attempts to activate a control panel while parked regen-
+                                                           eration is in process. (Figure 4-35)
+
+
+
+
+Figure 4-33. Logged Paving Function Faults Screen
+
+
+Pop-Up message banners may also appear on the pave
+
+                                                                                                                      4
+                                                                  Figure 4-35. Parked Regen Active Alert
+(and engine) screen to alert the operator of an issue,
+or if the operator attempts to do something under the
+wrong conditions. (Figures 4-34 to 4-42)                   If the operator attempts to crank the engine or activate
+The following banner appears if the operator attempts to   a control panel console while one or more joystick(s) is
+crank the engine with the auger, conveyor or generator     out of neutral, an alert message appears. (Figure 4-36)
+are engaged. (Figure 4-34) This banner notifies the        NOTE: The joystick in the wrong position will be
+operator that the engine will not start unless these            shown in red.
+components are turned off.
+
+
+
+
+                                                              Figure 4-36. Joysticks Must Be in Neutral Alert
+     Figure 4-34. Component Engine Start Alert
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                  4-35
+
+=== ORIGINAL PDF PAGE 104 ===
+Operation
+
+The following message alert appears if the paver in high   If the operator is attempting to use the joystick(s) on an
+gear with the conveyors or augers on. (Figure 4-37)        inactive console, the following message appears that
+                                                           notifies operator to activate the control panel console.
+                                                           (Figure 4-39)
+
+
+
+
+          Figure 4-37. High Gear Pave Alert
+
+                                                                     Figure 4-39. Activate Console Alert
+If the operator attempts to shift from high to low gear
+while traveling too fast, the following message pops-up
+on the screen. (Figure 4-38)                               If the control panel or a joystick is disabled or faulty, the
+NOTE: The downshift will automatically occur if the        following message appears: (Figure 4-40)
+     operator slows down.
+
+
+
+
+                                                              Figure 4-40. Joysticks Must Be in Neutral Alert
+        Figure 4-38. Downshift Inhibited Alert
+
+
+
+
+4-36                                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 105 ===
+Operation
+
+The following message alert appears if the operator      Pave Function Fault Codes
+sets the RPMs above the Pave Hi (high) preset. (Figure
+4-41)                                                     Fault
+                                                                               Fault Description
+                                                          Code
+                                                            1     Left Display Time Out
+                                                           2      Left Keypad (Lower Left) Time Out
+                                                           3      Left Keypad (Lower Right) Time Out
+                                                           4      Left Keypad (Upper Left) Time Out
+                                                           5      Left Keypad Time Out
+                                                           6      Left Keypad (Upper Right) Time Out
+                                                           7      Left Console, Left Joystick Fault
+                                                           8      Left Console, Left Neutral Fault
+                                                           9      Left Console, Right Joystick/Steer Fault
+                                                           10     Left Console, Right Neutral Fault
+                                                           11     Left Console, Auger Potentiometer Fault
+                                                           12     Left Screed, Auger Potentiometer Fault
+                                                           17     Right Display Time Out
+                                                           18     Right Keypad (Upper Left) Time Out
+                                                           19     Right Keypad (Lower Left) Time Out
+
+
+                                                                                                                   4
+         Figure 4-41. High Engine RPM Alert                20     Right Keypad (Upper Right) Time Out
+The following messages appears if the RPM is set           21     Right Keypad (Lower Right) Time Out
+above idle while turbo protection is active. (Figure       22     Right Keypad Time Out
+4-42)
+                                                           23     Right Console Left Joystick Fault
+NOTE: The turbo protection feature takes control of
+                                                           24     Right Console Left Neutral Fault
+     the throttle for the first 1 - 30 seconds based
+     on ambient temperatures. It does not allow            25     Right Console Right Joystick/Steer Fault
+     the engine RPM to increase to ensure proper           26     Right Console Right Neutral Fault
+     lubrication to the turbo and cylinders before         27     Right Console Auger Potentiometer Fault
+     increasing RPMs.
+                                                           28     Right Screed Auger Potentiometer Fault
+                                                           33     Safety Controller Error Detected
+                                                           34     Engine J1939 Time out
+                                                           35     Engine ACU J939 Time Out
+                                                           36     Engine ACU2 J1939 Time Out
+                                                           37     Input Fault, Fuel Level Sender
+                                                           38     Press Sensor 1 Fault, Auger/Work Pump
+                                                           39     Press Sensor 2 Fault, Conveyor Manifold
+                                                           40     Press Sensor 3 Fault, Cylinder Manifold
+                                                           41     Press Sensor 4 Fault, Propel Left Forward
+                                                           42     Press Sensor 5 Fault, Propel Right Forward
+                                                           43     Sensor Power Fault
+                                                           44     Input Fault, Left Auger Sonic
+                                                           45     Input Fault, Right Auger Sonic
+                                                           46     Input Fault, Left Propel Speed Sensor
+
+
+       Figure 4-42. Throttle Up Inhibited Alert
+
+LeeBoy 8680 Commercial Paver                                                                                4-37
+
+=== ORIGINAL PDF PAGE 106 ===
+Operation
+
+  Fault                                               Fault
+                       Fault Description                                   Fault Description
+  Code                                                Code
+   47     Input Fault, Right Propel Speed Sensor       82     Output Fault, Right Hopper Close
+   48     Input Fault, Hydraulic Temperature Sensor    83     Output Fault, Right Hopper Open
+   49     Input Fault, Screed Temperature Sensor       84     Output Fault, Horn
+   50     Cylinder Output Module Time Out              85     Output Fault, Lights
+   51     Motor Output Module Time Out                 86     Output Fault, Propel High Gear
+   52     Screed Output Module Time Out                87     Output Fault, Left Propel Forward
+   53     Output Fault, Left Auger Proportional        88     Output Fault, Left Propel Reverse
+   54     Output Fault, Left Auger Reverser            89     Output Fault, Right Propel Forward
+   55     Output Fault, Right Auger Proportional       90     Output Fault, Right Propel Reverse
+   56     Output Fault, Right Auger Reverser           91     Output Fault, Screed Down
+   57     Output Fault, Beacon Light                   92     Output Fault, Screed Up
+   58     Output Fault, Left Berm Down                 93     Output Fault, Left Slope Down
+   59     Output Fault, Left Berm Up                   94     Output Fault, Left Slope Up
+   60     Output Fault, Right Berm Down                95     Output Fault, Right Slope Down
+   61     Output Fault, Right Berm Up                  96     Output Fault, Right Slope Up
+   62     Output Fault, Brake Release                  97     Output Fault, Left Sonic Enable
+   63     Output Fault, Backup Alarm                   98     Output Fault, Right Sonic Enable
+   64     Output Fault, Left Conveyor Proportional     99     Output Fault, Spray Down Pump
+   65     Output Fault, Left Conveyor Reverser        100     Output Fault, Left Tow Down
+   66     Output Fault, Right Conveyor Proportional    101    Output Fault, Left Tow Up
+   67     Output Fault, Right Conveyor Reverser       102     Output Fault, Right Tow Down
+   68     Output Fault, Left Cut-Off Close            103     Output Fault, Right Tow Up
+   69     Output Fault, Left Cut-Off Open             104     Output Fault, Vibrator
+   70     Output Fault, Right Cut-Off Close           105     Engine Shut Down, Low Oil Pressure
+   71     Output Fault, Right Cut-Off Open                    Engine Shut Down, High Coolant
+                                                      106
+   72     Output Fault, Engine On                             Temperature
+   73     Output Fault, Engine Start                  107     Propel Pump Charge Pressure Low
+   74     Output Fault, Left Extension                108     Engine Oil Pressure Low
+   75     Output Fault, Right Extension               109     Water in Fuel
+   76     Output Fault, Generator Neutral Signal       110    Engine Coolant High Temperature
+   77     Output Fault, Generator On                   111    Hydraulic Oil Temperature
+   78     Output Fault, Truck Hitch In                 112    Primary/Secondary Processor Mismatch
+   79     Output Fault, Truck Hitch Out                113    No Valid Parameter File Loaded
+   80     Output Fault, Left Hopper Close              114    Output Fault, Track Tension Unloader
+   81     Output Fault, Left Hopper Open
+
+
+
+
+4-38                                                                      LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 107 ===
+Operation
+
+Operator Settings Screen                                     Console Setup: You can disable the left, right or both
+                                                             main control panels in this window in the event of fault
+Navigate to the Operator Settings screens to set paving      conditions. For example, if joysticks are malfunctioning
+controls by pressing left or right on the screen naviga-     on one console, disable that console and use the other
+tion button. (Figures 4-43 and 4-44) Use this screen         side.
+to select manual or AUTO mode for operating the under
+auger material cut-offs, conveyor and generator. You
+can set the screed temperature for automatic tempera-        Generator: Set the generator to operate in manual or
+ture control or choose to operate the screed heat            AUTO mode in this window.
+manually using the keypad. You can also disable one or       • In auto, the generator will turn on and off automatically
+both screed control panels.                                    to maintain the temperature set point.
+• Use the up and down arrow buttons to scroll to each        • In manual mode, the generator will turn on and off after
+  setting window. Pressing the left/right arrow (right) to     an elapsed timer.
+  the end will navigate to the second operations settings
+  screen.                                                    NOTE: If the temperature sensor is faulted, manual
+                                                                   mode will be forced.
+• Press the center of the navigation button ( ) to select
+  desired setting when highlighted in the window.
+                                                             Screed Set Point: Use this window to adjust the screed
+                                                             set point temperature.
+                                                             • Use the plus and minus buttons for setting the screed
+                                                               set point temperature.
+
+
+                                                                                                                           4
+                                                             • If in manual mode, N/A will be shown in the window.
+                                                               This is the default setting.
+
+
+                                                             Screed Actual: This is the actual measured screed
+                                                             temperature.
+                                                             NOTE: If a fault exists in the sensor, FAULT will be
+                                                                   shown rather than the temperature.
+
+
+                                                             Blower: The blower will automatically turn on when
+                                                             either conveyor is turned on in AUTO mode, and shut off
+                                                             when conveyors are both off.
+
+    Figure 4-43. Operator Settings Initial Screen
+Cut-Off Close: There are two settings for the under
+auger material cut-offs: Manual and AUTO.
+• In AUTO mode, the cut-off will automatically close
+  when putting the paver in reverse.
+
+
+Conveyor Hold: There are two settings for the
+conveyor hold: Manual and AUTO.
+• In AUTO mode, the conveyors will stop when the
+  paver stops.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                       4-39
+
+=== ORIGINAL PDF PAGE 108 ===
+Operation
+
+                                                           Motor Settings Screen
+                                                           Navigate to the Motor Settings screen by the pressing
+                                                           left or right on the screen navigation button. (Figure
+                                                           4-45)
+                                                           Use this screen to set the left/right augers and conveyor
+                                                           for operating in forward or reverse. You can also set the
+                                                           left and right conveyor speed on this screen.
+                                                           • Use the up and down arrow buttons to scroll to each
+                                                             setting window.
+                                                           • Press the center of the navigation button ( ) to select
+                                                             desired setting when highlighted in the window.
+                                                           • Use the plus and minus buttons for setting the
+                                                             conveyor speed.
+
+
+
+ Figure 4-44. Operator Settings Secondary Screen
+
+
+Conveyor Speed Left/Right: Sets the maximum speed
+allowed by the conveyor paddles.
+
+
+Apron: When set to AUTO, the system will automatically
+raise/lower the apron when the hopper is opened and
+closed.
+
+
+Hopper Wings: When set to AUTO, the system will
+automatically run with the hopper open when the
+operator presses the Hopper Open button.
+
+
+Tunnel: When set to AUTO, the tunnel will automatically             Figure 4-45. Motor Settings Screen
+function while operating the screed extension.
+
+
+Generator: In AUTO mode, the generator turns on and
+off automatically to maintain the temperature set point.
+In MANUAL mode, the generator turns on and off on a
+timer basis.
+NOTE: If the temperature sensor fails, manual mode
+     will be forced.
+
+
+
+
+4-40                                                                               LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 109 ===
+Operation
+
+Pressure Gauge Screen                                        DPF and Regeneration
+Use the Home button to cycle between the Pave screen         It cannot be emphasized enough that the paver should
+and the Pressure Gauge screen. The pressure gauge            be maintained in good operating condition so the emis-
+screen displays hydraulic pressure information for five      sion system can automatically perform the regeneration
+paver functions: auger, conveyor, cylinders, propel left     (regen) process.
+and propel right. (Figure 4-46)
+                                                                             If engine faults are present that pre-
+NOTE: If a fault exists, the LO CHG icon will illumi-        vent the ability to perform regeneration, DPF levels
+      nate, and the pressure digital read-out back-          will continue to rise. It is important to resolve any en-
+      ground for that component will turn red.               gine faults immediately and perform the needed re-
+• Press Button #1 to idle the engine.                        generation to prevent costly DPF technician service
+                                                             if DPF level warnings or engine faults are ignored.
+• Press Button #4 to use preset RPMs, or adjust engine
+  RPMs:                                                      If regeneration begins while operating, immediately
+                                                             move the paver to a safe location to allow regeneration
+    •      Press Button #2 to decrease RPMs.                 to occur. During regeneration, there may be a notice-
+    •      Press Button #3 to increase RPMs.                 able sound difference. The high exhaust temperature
+                                                             icon will illuminate on engine and pave screens will
+NOTE: The engine RPMs is shown in the center of the          appear during the process.
+      navigation banner.
+                                                             • If unable to move to a safe location for the engine to
+            Load Sense      Blower    Cylinders                perform a regeneration automatically, the operator
+           Pump Pressure   Pressure   Pressure                 may choose to temporarily inhibit (disable) the
+                                                               regeneration process.
+
+
+                                                   Propel
+                                                  Pressure
+                                                                 •   Press Button #4 while on the Engine screen,
+                                                                     then use Button #2 to inhibit regeneration,
+                                                                     described on Page 4-27, until you can move
+                                                                                                                          4
+                                                   Right             to a safe location and complete the parked
+ Propel                                            Track             regeneration process. (Page 4-44)
+Pressure                                          Tension
+  Left                                                       NOTE: The ability to inhibit (disable) regeneration is
+                                                                   only possible at DPF levels 1 and 2, described
+                                                                   on the following page.
+                                                             NOTE: Regeneration will remain disabled until the
+                                                                   engine is turned off or the operator navigates
+                                                                   back to the screen to enable regeneration.
+                  Decrease RPM   Increase RPM
+                   Button #2       Button #3                            EXHAUST TEMPERATURES WILL BE
+                                                             EXTREMELY HIGH. BE SURE EXHAUST WILL NOT
+           Figure 4-46. Pressure Gauge Screen
+                                                             COME INTO CONTACT WITH ANY COMBUSTIBLE
+                                                             MATERIALS.
+                                                                            Monitor the surrounding area during
+                                                             regeneration. If unsafe conditions develop, shut the
+                                                             unit off immediately.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                       4-41
+
+=== ORIGINAL PDF PAGE 110 ===
+Operation
+
+DPF Levels                                                 DPF Level 1: The DPF is loaded with soot and needs
+                                                           to be regenerated. When safe, please uninhibit auto-
+Pay attention to the DPF level icon on the engine and
+                                                           matic active regeneration.
+pave screens. Automatic regeneration can only occur
+at DPF Level 1 and 2.
+DO NOT allow soot levels to reach high levels to prevent   DPF Level 2: The soot level has continued to accu-
+damage to the engine and/or DPF components that will       mulate. Increase engine RPMs (if at idle) and engine
+require costly repairs. DPF levels are described below.    load to prompt automatic regeneration.
+NOTE: If the operator has not inhibited regeneration       NOTE: If the operator is inhibiting automatic regener-
+     and there are no engine faults, but automatic               ation and does not perform parked regenera-
+     regeneration is not occurring at DPF Level 1                tion, the soot level will continue to rise.
+     or 2, increase engine RPMs and/or load to al-
+     low the DPF to automatically regenerate.
+                It is important to perform a parked        DPF Level 3: An orange message alert banner
+regeneration BEFORE the DPF level reaches Level            may appear to warn the operator that soot levels are
+4. If the regeneration process is not performed and        extremely high. (Figure 4-48) If you have allowed the
+the soot level reaches Level 4, non-warranty factory       exhaust soot level to reach Level 3, automatic regen-
+assistance from the engine manufacturer is required.       eration is not possible. If this message appears, the
+                                                           operator must perform parked regeneration at the
+If an engine fault is present at DPF Levels 1 and 2, a     earliest opportunity. When safe, complete a parked
+message banner may appear on the engine and pave           regeneration as described on the following pages.
+screen notifying operator regeneration is not possible
+until the engine fault is resolved. DPF levels will                      Continued operation without
+continue to rise. (Figure 4-47)                            completing a parked regeneration can cause engine
+                                                           damage and will void engine warranty. The operator
+                                                           should perform parked regeneration immediately!
+
+
+
+
+       Figure 4-47. Active Engine Code DPF Alert
+
+                                                            Figure 4-48. Parked Regeneration Required Alert
+
+
+
+
+4-42                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 111 ===
+Operation
+
+DPF Level 4: If the operator continues ignoring DPF        Regen Level 5: If the DPF level reaches Level 5,
+level warnings and the soot level reaches Level 4, a red   a red message alert banner appears on the engine
+message alert banner appears on the engine and pave        and pave screens notifying operator the DPF must be
+screens. (Figure 4-49)                                     replaced. (Figure 4-50) The DPF must be removed
+Engine output is limited and the operator can no longer    and cleaned by a qualified cleaning facility, and the ECU
+perform regeneration. Regeneration is required IMME-       must be reset by a qualified engine or OEM service
+DIATELY by a qualified engine or OEM service techni-       technician. The engine will derate to idle with no torque
+cian using specialized equipment. Move the paver to a      available. IMMEDIATELY contact your authorized
+safe location, shut down, and contact your authorized      dealer.
+dealer for service.
+               If the soot level reaches Level 4 or 5,
+specialized equipment is needed to perform regen-
+eration and the machine must be serviced by your
+authorized dealer. The DPF system may become
+damaged and require replacement. Therefore, per-
+forming regeneration BEFORE reaching Level 4 is
+imperative for preventing costly repair.
+
+
+
+
+                                                                                                                       4
+                                                                 Figure 4-50. DPF Must Be Replaced Alert
+
+
+
+
+   Figure 4-49. DPF Exceeds Normal Limits Alert
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                   4-43
+
+=== ORIGINAL PDF PAGE 112 ===
+Operation
+
+Parked Regeneration                                        5.   Press Button #1 to start the regeneration process.
+                                                           During this process:
+If the DPF is at Level 2 or 3, and no engine faults
+are present, perform parked regeneration using the              •   DO NOT move machine out of park or neutral.
+following procedure:                                            •   DO NOT touch the accelerator pedal/lever.
+1.   Park the paver in an open area away from people,           •   DO NOT turn the engine off or stop the
+     equipment, trees/shrubbery, debris, and combusti-              regeneration process.
+     ble materials as exhaust temperatures will increase
+     considerably during regeneration.                     • The engine speed will increase and there may be
+                                                             a noticeable sound difference. This is normal. The
+2.   Place the paver in NEUTRAL and engage the park          “Parked DPF Regen Active” message alert will appear
+     brake.                                                  (Figure 4-52).
+     •   Ensure the coolant temperature is the operating   NOTE: The High Exhaust icon will illuminate when the
+         range of 155° to 160° F.                                exhaust temperature reaches >842° F Both
+3. Set the engine to low idle.                                   alerts will stay on during the regeneration
+                                                                 process.
+                DO NOT ATTEMPT TO OPERATE
+THE UNIT, CHANGE ENGINE RPM OR MOVE FROM
+PARK/NEUTRAL WHILE REGEN IS OCCURRING. This
+will abort the Regeneration process and require you
+to start the process over.
+4.   From the engine screen, press Button #4 to access
+     DPF commands. A pop-up banner appears with re-
+     generation selections corresponding to the buttons.
+     (Figure 4-51)
+NOTE: If the icon background is gray, the function is
+      unavailable (or unneeded) at the moment.
+
+
+
+
+                                                                    Figure 4-52. Parked Regen Active Alert
+                                                           6. Monitor your surroundings while the system is
+                                                              regenerating, ensuring others stay away from the
+                                                              machine. If any unsafe condition arises, shut off the
+                                                              engine immediately and restart the process when
+                                                              the area is clear.
+                                                           When the parked regeneration process is complete,
+                                                           the engine will automatically return to normal idle
+                                                           speed. The Parked DPF Regen Active message will
+                                                           disappear and the high exhaust icon light will turn
+                                                           off.
+       Button   Button                       Button
+         #1       #2                           #4
+
+       Figure 4-51. Engine Screen Pop-Up Banner
+
+
+
+
+4-44                                                                               LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 113 ===
+Operation
+
+Plus +1® Controllers
+The Plus +1® system contains several controllers and
+OX-modules operating in the background that moni-
+tors paver control systems and alerts the operator in
+the event of a fault. This is the brains behind paver
+and engine systems. When it senses a fault, the Plus
++1® sends a message to the DM430 display to alert
+the operator. The Plus +1 controller and OX-modules
+are located throughout the engine compartment and
+on the screed. (A complete list of fault codes with
+corrective action messages are shown in Section 5,
+Troubleshooting.)
+The Plus One system will not allow the engine to start if:
+• Steering control box not detected.
+• Joystick(s) not in neutral at start-up.
+                                                             Driving the 8680 Paver
+• Pump control coil fault.
+                                                             The dual operator platforms allow easy and convenient
+• Brake valve/pump neutral bypass coil fault.                access for controls of most paver functions. The paver
+                                                             is usually operated from the left operator station, but
+                                                             can also be operated from the right side. Dual joysticks
+
+
+                                                                                                                        4
+                                                             propel forward and reverse, and steer the paver.
+                                                             Ramping for acceleration and deceleration are propor-
+                                                             tional to the movement of the joysticks. The amount of
+                                                             steering is controlled by the amount of joystick move-
+                                                             ment and the speed of the paver.
+                                                                            NEVER leave the operator platform
+                                                             unattended while the paver is in gear or in motion.
+                                                             Operator must return joystick(s) to the neutral posi-
+                                                             tion, engage the park brake, press the Start/Stop
+                                                             button, and remove the ignition key before leaving
+                                                             the operator platform.
+                                                                             Ensure there are no people,
+                                                             equipment or obstacles in the paver’s before moving
+                                                             in either direction.
+                                                             Make seat and operator platform adjustments described
+                                                             on Page 4-5 before operating the paver. Follow
+                                                             the instructions on Page 4-6 to start the engine and
+                                                             activate the desired operator main control panel.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                     4-45
+
+=== ORIGINAL PDF PAGE 114 ===
+Operation
+
+Keep these items in mind for operating with rubber
+tracks and maximizing track life:
+• Avoid detracking episodes by:
+    •   Maneuvering at lowest speed possible;
+    •   Avoiding sharp turns on hot asphalt (move to a
+        cold area for turns);
+    •   Making gradual turns in as large an arc as
+        possible, repeating zigzag motions gradually
+        instead of pivoting;
+    •   Using forward instead of reverse when possible;
+    •   Preventing large foreign objects from being
+        entangled in the undercarriage/tracks.
+• Properly trained operators who practice good
+  operating techniques will make a big difference.
+• Avoid spot turns, spinning, constant operation on
+  slopes and contact with the side of tracks on curbs,
+  hard walls and other objects. Limit use around large,
+  sharp and rocky surfaces such as manholes and
+  drainage covers.
+• Clean, inspect and check alignment on the rubber
+  tracks at least once per day. Replace worn parts
+  immediately if needed.
+• Avoid track contact with abrasive/corrosive materials.
+  If oil or similar products get on the tracks, clean it off
+  immediately. Over time, oil degrades rubber quality.
+• Remove asphalt buildup on the undercarriage                  Steering and Speed Control
+  components and rubber tracks. Buildup causes
+  misalignment between the drive wheel and guide               Use the dual joysticks for steering and speed control.
+  lugs, poor tracking performance and premature                Move the joysticks SLOWLY. Lift up on the joystick
+  undercarriage components/rubber track wear.                  collar and move joystick either FORWARD or REVERSE.
+  Periodically check the undercarriage components              The joystick collar will lock back into place in the
+  for wear (i.e., drive wheel, rollers and idler) and make     NEUTRAL position. (Figure 4-53)
+  repairs if needed.                                                           Rapid counter-rotation in either
+                                                               direction can result in the operator being thrown
+                                                               from the machine and suffer personal injury or
+                                                               death. Counter-rotation occurs if one joystick is in
+                                                               the extreme forward position and the other is in the
+                                                               extreme rear position while the machine is in gear
+                                                               and moving. Make only SLOW adjustments to the
+                                                               joysticks to turn the paver right or left.
+                                                                              Be aware of the terrain, traffic and
+                                                               other driving conditions. Adjust speed accordingly.
+                                                                              Avoid low limbs, power lines, and other
+                                                               objects that can endanger crew or paver.
+                                                                            ALWAYS pave in Work mode. Use
+                                                               Travel mode only for traveling.
+
+
+
+4-46                                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 115 ===
+Operation
+
+To drive the 8680 Commercial Paver:                            If you need to stop the paver:
+                               Select WORK Hi/Lo or            1.   Place joysticks into the neutral position.
+                               TRAVEL Hi/Lo mode on            2.   Throttle back to idle using settings on the DM430
+                               the main control panel,              digital display screen.
+                               then use joysticks to move
+                               forward and reverse.            3. Turn ignition key on the junction box counterclock-
+                                                                  wise to the OFF position and remove key.
+                                                               NOTE: If the engine does not shut down when the key
+                                                                     is turned to OFF, press the E-Stop button on
+                                                                     the control panel to terminate power.
+                                                                               You can also use the Pause button once
+                                                                               to pause propel, conveyors and augers
+                                                                               functions. Pressing the button again
+                        Joystick                                               resumes these functions.
+                         Collar
+                                                               NOTE: The engine idle will remain at high but auto-
+                                                               matically go into low idle if paused for a preset
+                                                               period of time (unless the generator is enabled.)
+
+
+                                                               If equipped with the optional steering knob, it is used for
+                                                               steering and replaces the right joystick on the control
+
+
+                                                                                                                              4
+                                                               panel. (Figure 4-54) Use the left joystick for forward
+                 Figure 4-53. Joysticks
+                                                               and reverse speed control and steer right or left using
+• To slow the paver, move joysticks closer to the neutral      the steering knob.
+  position.
+                                                                                                       1     2     3
+• To stop the paver, pull joysticks back to the neutral         1 - Press button for incremental
+  position.                                                         steering to the left.
+• To drive the paver forward, lift up on the joystick collar
+  and push joystick forward to reach the desired speed.         2 - Press button to center paver.
+
+• To move in reverse, lift up on the joystick collar and        3 - Press button for incremental
+  move joystick backwards to reach desired speed.                   steering to the right.
+• Return joysticks to the neutral position to stop paver.                                       4
+                                                                4 - Turn knob left to steer left;
+• To steer the unit to the left, SLOWLY push the right
+                                                                    Turn knob right to steer right.
+  joystick farther forward than the left joystick. The
+  farther the joystick is pushed, the more the paver
+  turns. Slow and easy adjustments are required for
+  safe operation.
+• To steer the unit to the right, SLOWLY push the left
+  joystick farther forward than the right joystick. The
+  farther the joystick is pushed, the more the paver
+  turns. Slow and easy adjustments are required for
+  safe operation.
+
+
+
+
+                                                                              Figure 4-54. Steering Knob
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                           4-47
+
+=== ORIGINAL PDF PAGE 116 ===
+Operation
+
+If equipped with the optional steering wheel, it is used for
+steering and replaces the right joystick on the control
+panel. (Figure 4-55)
+The joystick is used for speed control and propelling
+forward and in reverse. The center position is neutral.
+• To drive the paver forward, lift up on the joystick collar
+  and push joystick forward to reach the desired speed.
+• To move in reverse, lift up on the joystick collar and
+  move joystick backwards to reach desired speed.
+• Return joystick to the neutral position to stop paver.
+
+
+                                                               Paver Operation
+                                                               Spray Down
+                                                               Always spray down the machine to clean it before and
+                                                               after paving. Spray solvent or release agent on any
+                                                               part of the paver that comes into contact with asphalt to
+                                                               prevent buildup that will damage the machine over time.
+                                                               The citrus tank with filler cap is located under the right
+                                                               floorboard beside of the DEF tank. (Figure 4-56)
+
+
+
+
+                                                                             DEF                                Citrus
+                                                                           Tank Cap                           Tank Cap
+         Figure 4-55. Steering Wheel Option                            Figure 4-56. DEF and Citrus Fill Caps
+                                                                             Ensure the area is clear of others
+                                                               and flammable materials before spraying. Allow the
+                                                               screed to cool at least 10 minutes before spraying to
+                                                               prevent possible burns from solvent spray on a hot
+                                                               screed. The screed should be warm, but not hot.
+                                                                              Never spray cleaning solvent or
+                                                               release agent near the screed heating element or
+                                                               near open flame. These agents are highly flammable
+                                                               and can ignite, causing serious personal injury.
+                                                                            When using solvents and release
+                                                               agents, DO NOT allow cleaning solvent to run onto
+                                                               the ground. Only spray down the machine in a desig-
+                                                               nated area away from the paving site.
+
+
+
+
+4-48                                                                                    LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 117 ===
+Operation
+
+There is a spray down system on both sides of the          Start at the front of the machine and work rearward,
+Leeboy 8680 paver. A spray wand is conveniently            using a scraper if needed, paying particular attention to:
+located on each side of the operator platform. (Figure
+                                                           • Push Rollers: Rotate the rollers while cleaning and
+4-57) The hose reels are located inside the access
+                                                             soak bearing ends to maintain free rotation.
+panel on each side of the paver.
+                                                           • Rubber Tracks and Undercarriage: The importance
+         Spray Wand                                          of keeping the heavy-duty rubber tracks cannot
+                                                             be emphasized enough to prevent premature
+                                                             wear. Don’t operate in corrosive, abrasive, salt or
+                                                             other contaminant materials that cause rubber to
+                                                             deteriorate. Look for oil and grease that may drip from
+                                                             the machine onto the tracks and rinse off as soon as
+                                                             possible. Mud can also harden and adversely affect
+                                                             track operation along with other problems. You can
+                                                             use a pressure washer to remove the mud. Cleaning
+                                                             is especially important in colder temperatures.
+                                                           NOTE: DO NOT operate with frozen tracks. If you try
+                                                                to use power to force the tracks to move, you
+Figure 4-57. Spray Down Wand Location (Each Side)               could damage them or your final drive.
+                                                           • Hopper and Conveyors: Thoroughly clean surfaces
+                                                             and any material accumulating in chains, drive
+To operate the spray down system:
+                                                             sprockets, idler shaft, bearings and tunnel areas.
+
+
+                                                                                                                        4
+                                                             AFTER cleaning the machine, operate the conveyors
+            1.   Push the Spray Down button on the main      briefly to carry solvent into return areas where it can
+                 control panel to turn system ON.            help dissolve hidden asphalt material.
+
+                 •   Press the button again to turn OFF.   • Augers: Scrape away any accumulated material
+                                                             around bearings and clean contact surfaces down to
+                                                             the metal to avoid quick build-up while paving.
+2.   Extend hose from the hose reel.
+                                                           • Screed: Face and bottom plates should be clean and
+3. Squeeze the wand handle to spray desired areas.           smooth on the main and screed extensions to achieve
+                                                             a smooth paving mat.
+                                                           • Operator Platforms: Be sure to wash away solvent
+                                                             residue so walk boards and operator platforms do not
+                                                             become slippery.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                    4-49
+
+=== ORIGINAL PDF PAGE 118 ===
+Operation
+
+                                                             The hopper wings are operated using hopper buttons
+                                                             on the lower right control panel keypad:
+
+                                                                              1.   Use the hopper wing select button
+                                                                                   to choose hopper wing function. If
+                                                                                   operating both hopper wings, there
+                                                                                   is no need to press the hopper
+                                                                                   select button as operating both
+                                                                                   wings is the default operational
+                                                                                   mode.
+
+                                                             • Press the hopper wing select button once to operate
+                                                               the LEFT hopper wing.
+                                                             • Press the wing selection button again to operate the
+Hopper Wings                                                   RIGHT hopper wing.
+
+The hopper wings are hydraulically opened so the             • Pressing the button again returns to the default
+hopper can be filled with paving material. The 8680            operation control for both hopper wings.
+paver features a 9-ton, rounded design to reduce cold                      Be sure the hopper wings are com-
+material build-up while rear hopper wing wipers help         pletely opened before receiving paving material from
+prevent spillage. Material in the hopper is moved toward     the truck.
+the back of the paver to the screed by conveyors.
+                                                             2.   After selecting the left, right or both wings on the
+The operator can also extend and retract each hopper              hopper wing select button, use the hopper UP and
+wing individually. This feature gives you the ability to          Down buttons to open and close the hopper wings:
+pave very close to walls, fences, road barriers, buildings
+or other obstacles with ease.                                     •   Press and hold the hopper wing up (Close) or
+                                                                      down (Open) buttons to close or open one or
+                DO NOT retract the hopper wings until                 both hopper wings based upon the hopper wing
+the material truck has moved completely away from                     selection made.
+the paver or if the hopper is full of asphalt. NEVER
+raise the conveyor bed with asphalt in the hopper.
+                                                                                          Press and hold the Apron
+              Ensure no people, equipment or other                                        UP / DOWN button to pivot
+obstacles are in or near the hopper when raising or                                       the front apron to assist in
+lowering the hopper wings to prevent injury or                                            cleaning out the hopper. All
+damage to the paver.                                                                      three LED lights illuminate
+                                                                                          while in operation.
+              Ensure the hopper cylinder is un-
+locked before extending or retracting the hopper
+wings.
+
+
+
+
+4-50                                                                                  LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 119 ===
+Operation
+
+Hopper Lock Valves
+The hopper cylinder valves can be used to lock each
+hopper wing when they are open or closed. The lock
+valves are located inside the left engine panel. (Figure
+4-58) Be sure to unlock the hopper valves before
+operation!
+• Turn the valve counterclockwise to unlock the hopper
+  wings.
+• Turn the valve clockwise to lock the hopper wings.
+
+                                         Right
+                               ®
+                                         Left
+
+                                        Hopper Cylinder    Conveyors
+                                          Lock Valves      The conveyor is a very important part of the paver that
+                                                           moves the asphalt mix from the hopper to the auger,
+                                                           which controls the amount of material delivered to the
+                                                           screed. Pay close attention to integrating conveyor
+                                                           operation into the total operation of the paver. The left
+                                                           and right conveyors can be operated in conjunction with
+
+
+
+      Figure 4-58. Hopper Cylinder Lock Valve
+                                                           the augers from either control panel, and both can be
+                                                           operated in reverse.
+                                                                         NEVER leave the paver unattended
+                                                                                                                       4
+                                                           while the conveyor is operating. DO NOT leave paver
+                                                           with empty conveyors running for any length of time
+                                                           to prevent excessive wear.
+
+
+                                                           When operating the conveyor:
+                                                           • Spray down the conveyor drive chains with cleaning
+                                                             solvent or release agent several times during the
+                                                             work day for optimum performance. (See Section 5
+                                                             Lubrication Chart.)
+                                                                         Asphalt in the conveyors can fill tracks
+                                                           and cause damage to the machine. To prevent flight
+                                                           chains from sticking inside the conveyor pans, lubri-
+                                                           cate them daily for maximum operational efficiency.
+                                                           • If equipped with the Under Auger Material Cut-Offs
+                                                             option, some spillage can occur while the conveyors
+                                                             are operating. This is normal. To help prevent this,
+                                                             operate conveyors manually when loading hopper and
+                                                             not paving.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                    4-51
+
+=== ORIGINAL PDF PAGE 120 ===
+Operation
+
+• Irregular movement of the conveyor indicates that                                     • Press and hold the
+  the conveyor chains need adjustment. The conveyor                                       button in the desired
+  chains are easily adjusted on the 8680 paver. Fine                                      increase/decrease
+  tuning conveyor chain tension is described in detail in                                 direction to set conveyor
+  Section 5.                                                                              speed. You can also fine
+                                                                                          tune the conveyor speed
+NOTE: Check conveyor chain adjustment every 100
+                                                                                          in the digital display.
+      hours.
+                                                                                          (See Motor Settings on
+NOTE: Moving the joysticks into neutral will pause                                        Page 4-40)
+      conveyor operation. (This feature can be
+      turned off.)                                                              The screed operator can press
+                                                                                the Conveyor Bypass button on
+                                                                                the screed control box to pause
+To operate the conveyor(s) from the main control panel:
+                                                                                conveyor operation while paving.
+                     • Press one or both auger
+                       conveyor buttons on either
+                       control panel to turn on the                           The screed operator can press
+                       conveyor(s) and auger(s).                              the Auger/Conveyor Reverse
+• AUTO mode is the default. The conveyor automatically                        button on the screed control box
+  stops when proximity sensors detect asphalt height                          for reversing the direction of both
+  at the appropriate level for pausing the augers                             functions to help clear material as
+  conveyors.                                                                  needed.
+                                                            NOTE: The conveyor will only reverse in the manual
+• Press and hold the button(s) again for manual
+                                                                  mode, and conveyor speed is reduced.
+  operation.
+
+                                                            PRO TIP: Use the Pad Builder function on the main
+Screed operators can also increase or decrease
+                                                            control panel to build a starter pad:
+conveyor speed (and auger speed/pile height) using
+buttons on the screed control box. (Figure 4-59)
+
+         Auger Speed/                                                      • Press the button once to engage the
+                                                                             augers and conveyors. Both Under
+          Pile Height            Conveyor Speed                              Auger Material Cut-Offs will open.
+                                                                           • Press the button again and the
+                                                                             augers/conveyors will turn off.
+
+                                                            • Press and hold button to manually engage both
+                                                              conveyors only.
+
+
+
+
+                Screed Extension IN/OUT
+ Figure 4-59. Screed Control Box (Left Box Shown)
+
+
+
+
+4-52                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 121 ===
+Operation
+
+                                                          The sensor sits in its mount on the end gate(s) and
+                                                          connects to its cable on the screed. The sonic auger
+                                                          sensor system must be connected to operate in
+                                                          AUTO mode. (Figure 4-60)
+                                                          • When the material height moves into the sonic range,
+                                                            the system slows the auger speed and turns it off as
+                                                            needed. It will turn back on when the material level
+                                                            drops and continue monitoring pile height.
+
+
+
+
+Augers and Sonic Auger Sensor
+Independent right and left augers can be operated in
+
+
+                                                                                                                     4
+manual or AUTO (automatic) mode. The left and right
+augers are operated in conjunction with the conveyors
+from either control panel, and both can be operated in              Figure 4-60. Sonic Auger Sensor
+reverse.
+                                                                       To raise the augers:
+                      Press one or both auger/
+                                                                       • Press and hold the auger lift button ( )
+                      conveyor button on either
+                                                                         to raise both the left and right auger.
+                      the main control panel or the
+                      screed control box to turn on the                To lower the augers:
+                      conveyor(s) and auger(s).                        • Press and hold the auger lower button
+                                                                         ( ) to lower both the left and right
+                                                                         auger.
+              • The screed operator can also select                    • Releasing the button will hold the
+                manual or AUTO mode after the main                       augers at that position.
+                operator has turned on the auger/
+                conveyor using the Auger Manual           NOTE: ALWAYS raise the augers when loading the
+                AUTO button on the screed control box.    paver onto transport vehicles.
+                (AUTO operation is the default.)
+
+                                                          The screed operator can use the Auger Speed / Pile
+AUTO Mode: The TopCon sonic auger sensor detects          Height button during operation.
+the amount of material present and controls its flow to
+the end gates, gauging the amount of paving material in                               • When operating in AUTO
+the extensions.                                                                         mode, press and hold
+                                                                                        button in the desired
+                                                                                        increase/decrease
+                                                                                        direction to set the pile
+                                                                                        height at the end gate.
+                                                          • When operating in MANUAL mode, press and hold
+                                                            button in the desired increase/decrease direction to
+                                                            set the auger speed.
+
+LeeBoy 8680 Commercial Paver                                                                                  4-53
+
+=== ORIGINAL PDF PAGE 122 ===
+Operation
+
+                     The screed operator can press
+                     the Auger Bypass button on the
+                     screed control box to pause auger
+                     operation while paving.
+                                                                                                         Auger
+
+                                                                                                         Under
+                  The screed operator can press                                                           Auger
+                  the Auger/Conveyor Reverse                                                             Material
+                  button on the screed control box                                                       Cut-Off
+                  for reversing the direction of both
+                  functions to help clear material as           Figure 4-61. Under Auger Material Cut-Offs
+                  needed.
+NOTE: The auger/conveyor reverse function will only
+      work when operating in the manual mode.              Under Auger Material Cut-Offs
+                                                           The asphalt material moves from the auger to the Under
+                                                           Auger Material Cut-Offs, which control asphalt flow to
+                     The screed operator can press         the screed and extensions. (Figure 4-61) Cut-offs
+                     and hold the Tunnel In or Out         open to increase asphalt flow and close to decrease
+                     buttons to extend or retract the      flow when making narrow passes at the beginning
+                     auger on the screed control boxes     and end of each pass or pull. Proper use of cut-offs
+                     when paving wider lengths.            prevents spillage and minimizes clean-up.
+                                                           NOTE: To prevent excessive handwork, turn off the
+                                                           conveyors and close the cut-offs about three feet
+If operating in MANUAL mode:                               from the end of a pull to prevent excessive handwork.
+
+• Press and hold the Tunnel Out button once to extend                    NEVER back up with the cut-offs open
+  the tunnel. All LED lights illuminate green.             to prevent machine damage.
+• Press and hold the Tunnel In button to retract the       The cut-offs can be configured to automatically close
+  tunnel. All LED lights illuminate green.                 when moving paver in reverse by navigating to the Oper-
+                                                           ator Settings screen on the DM430 digital controller.
+If operating in AUTO mode:                                 (Page 4-39)
+• Simultaneously press and hold the extension control      The Under Auger Material Cut-Offs can be operated via
+  switch in the extend position and the Tunnel Out         the main control panel and the corresponding active
+  button to extend the tunnel.                             side on the screed control box keypad.
+• Simultaneously press and hold the extension control
+  switch in the extend position and the Tunnel In button
+  to retract the tunnel.                                                        • Press and hold the left or right
+• To lock the tunnel in place, press and hold the Tunnel                          Close Cut-Off button to close.
+  In and Tunnel Out buttons simultaneously until the LED                        • Press and hold the left or right
+  light flashes green.                                                            Open Cut-Off button to open.
+• To unlock, press and hold both buttons again.
+
+
+
+
+4-54                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 123 ===
+Operation
+
+Heating the Screed, Extensions                                   The optional LB7 Screed electric heat box also features
+                                                                 On/Off control switches for the main screed, screed
+and End Gates                                                    extensions, heated end gates and [optional] power
+Heating the left and right main screed, extensions and           crown control. It is also equipped with a breaker switch
+end gates helps prevent hot mix from sticking to the cold        to protect circuits from damage by overloads or short
+screed plates to produce a smooth, tight mat surface.            circuits. (Figure 4-63) (See Page 3-32)
+Heat the screed before paving and when the paver is
+idle long enough for the screed to cool between loads
+using the electric heat control box above the main
+screed.
+Both the standard LB5 and optional LB7 screed heat
+systems are heated by a hydraulically-driven generator
+that powers electric heating elements. Blade heating
+elements in the main screed and extensions cycle
+during heat-up to save horsepower and fuel consump-
+tion while paving.
+Both sides of the main screed elements heat when the
+paver is in neutral. When you start to pave, the right side
+heat turns off for 128 seconds while the left remains on,
+then turns back on, then the left sides turns off for 128
+seconds. This “flip flop” system helps take some of the
+load off the generator for increased efficiency.
+The standard LB5 Screed electric heat box features On/
+Off control switches for the main screed, screed exten-
+sions, heated end gates (if equipped with this option),
+                                                                                                                            4
+and optional power crown control (if equipped with this
+option). (Figure 4-62) (See Pages 3-30 to 3-31)
+
+
+                                                                   Figure 4-63. Optional LB7 Screed Electric Heat
+                                               Right End Gate
+                                                                                    Control Box
+ Left End Gate
+
+Left Extension
+                                                                 NOTE: Lower the screed two inches off the ground
+                                               Right Extension
+     Left Main                                 Right Main              while heating to prevent cold air and wind
+       Screed                                    Screed                from affecting the heating process.
+ Power Crown
+   (Option)
+                                                                 NOTE: Allow the screed components to heat 15 min-
+                                                                       utes before beginning to pave.
+                                                                 NOTE: You can set the screed directly onto a fresh
+                                                                       mat of hot asphalt while running the heating
+  Figure 4-62. Standard LB5 Screed Electric Heat                       system, allowing the heat of the asphalt to
+                   Control Box                                         help heat the screed plate.
+                                                                 NOTE: Engine speed automatically increases to 1800
+                                                                       RPMs when the heat cycle is active.
+                                                                 NOTE: The engine speed automatically decreases to
+                                                                      idle after the heat cycle completes.
+                                                                                Overheating the screed can warp the
+                                                                 screed plate and possibly cause damage. If screed
+                                                                 extensions lock, allow the machine to cool before
+                                                                 attempting to extend or retract. Replace a warped
+                                                                 screed plate immediately.
+
+
+LeeBoy 8680 Commercial Paver                                                                                        4-55
+
+=== ORIGINAL PDF PAGE 124 ===
+Operation
+
+Heat cycles for both screeds can be controlled by
+automatic time and temperature settings via the DM430
+digital display on the main control panel or operated
+manually as described below.
+To operate the screed heating system:
+1.   Start the paver and idle until the engine reaches
+     normal operating temperature.
+2.   Raise the screed plate two inches off the ground.
+3. Turn the desired components for heating on by
+   moving the electric heat box switches up.
+
+                4.   Press the Generator button on the
+                     control panel to activate the heating
+                     process.
+
+
+5.   Navigate to the Pave screen in the DM430 digital        LB5 and LB7 Screeds
+     controller to set desired heating temperature and       The 8680 Commercial Paver features the new LB5
+     duration if operating in AUTO mode.                     screed, or choose the optional LB7 screed for your
+Once the heating function has been enabled, the              paver. Both provide variable paving widths from 8
+electric heat box will apply electrical power to the         to 15.6 feet, and include berm/slope capability, hori-
+heating elements and the heating cycle will begin. The       zontal depth screws, and spring-loaded end gates for
+heating cycle is timed to optimize the heat generated at     matching pavement joints and seams.
+the screed plates.                                           Multiple adjustment mechanisms are located on top
+NOTE: The idle throttle speed ceases to function             of the screed, extensions and end gate to ensure a
+      when the generator is on. When the generator           quality mat. Electric dual vibrators mounted on the main
+      turns off, the idle functionality returns.             screed frame increase paving material compaction. The
+                                                             optional LB7 screed includes electronic vertical height
+NOTE: The generator is set at the factory to default at
+                                                             and angle-of-attack (AOA) adjustments, along with
+      1800 RPMs.
+                                                             hydraulic crown/invert adjustment.
+NOTE: If equipped with the power crown option, push
+                                                             Screed operators can manage numerous functions
+      and hold the power crown switch UP for in-
+                                                             using the screed control boxes on each side of the
+      creased crown or DOWN for increased valley.
+                                                             main screed. The screed operator can control augers/
+                                                             conveyors, under auger material cut-offs, tow points,
+                                                             and slope/grade/berm; increase/decrease Angle-of-
+                                                             Attack (AOA) and extension vertical; and extend/retract
+                                                             the screed extensions.
+
+
+
+
+4-56                                                                                LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 125 ===
+Operation
+
+Screed Locks                                                Use the end gate height adjusters to raise and lower the
+                                                            end gate height as needed. (Figure 4-66)
+This machine is provided with screed lock mechanisms
+as added safety and stability during transport. A locking   NOTE: Never allow the end gate to carry the weight of
+lever is located on each side of the screed on the paver          the screed to prevent uneven compaction.
+frame. (Figure 4-64)
+• Push the locking lever UP to lock screed.
+• Push the locking lever DOWN to unlock screed.
+              Ensure locks are in the unlocked
+                                                                                                       End Gate
+position before extending or retracting the screed.                                                    Adjusters
+
+
+
+
+                                                  Screed            Figure 4-66. End Gate Height Adjusters
+                                                   Lock
+                                                   Knob
+
+    Figure 4-64. Screed Lock (Left Side Shown)              Raise/Lower Screed
+                                                            Raising and lowering the screed can only be accom-
+Use the procedures on the following pages for oper-         plished from the activated main control panel.
+
+
+                                                                                                                          4
+ating the screed and screed extensions:                                             • Press and hold the
+• Always heat the screed extension(s) and end gate(s)                                 corresponding button to raise
+  described on the previous page before making any                                    () or lower () the screed.
+  adjustments.
+• Set the screed extension(s) and adjustment                • The screed lower () button also controls floating the
+  components when paving widths exceeding eight (8)           screed:
+  feet. When adjusted correctly, pressure on the rear           •    Placing the joysticks into neutral (activated main
+  edge of the extended screed is the same as the rear                control panel only) moves into screed hold, and
+  edge of the main screed, resulting in a smooth mat the             float resumes when joysticks are returned to the
+  length of the screed.                                              forward position.
+NOTE: To set the asphalt depth, you can place small             •    If the paver is moving forward, then stops,
+      starter blocks under the main screed while                     screed float is paused (the center LED light
+      you make adjustments. (Figure 4-65)                            illuminates when paused. Screed float resumes
+                                                                     when joysticks are returned to the forward
+                                                                     position.
+
+
+
+
+        Figure 4-65. Starter Blocks Location
+
+
+LeeBoy 8680 Commercial Paver                                                                                      4-57
+

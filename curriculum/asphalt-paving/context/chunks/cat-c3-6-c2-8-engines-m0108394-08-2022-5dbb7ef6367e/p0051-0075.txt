@@ -1,0 +1,1127 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf
+SOURCE SHA-256: 5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831
+ORIGINAL PDF VIEWER PAGES: 51–75 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 51 ===
+M0108394-08                                                                                                      51
+                                                                                               Operation Section
+                                                                                                Product Storage
+
+
+Use all the lifting eyes when lifting OPU.                Caterpillar recommends that model-specific cradles
+                                                          are used to store and transport engines. Supporting
+C2.8 Industrial Engine                                    engines on the sump/oil pan is not recommended
+                                                          under any circumstances. This action is for both
+                                                          safety and quality reasons.
+
+                                                          C2.8 Open Power Unit (OPU)
+
+
+
+
+Illustration 48                               g06458398
+Typical example
+(1) Rear lifting eye
+(2) Front lifting eye
+                                                          Illustration 49                                  g06742366
+Use both lifting eyes when lifting engine assembly.       Typical example
+                                                          (1) Radiator lifting eye (1 of 2)
+                                                          (2) Radiator lifting eye (2 of 2)
+                                                          (3) Front lifting eye
+                                                          (4) Rear lifting eye
+
+                                                          Use both lifting eyes when lifting engine assembly.
+                                                          Use both lifting eyes when lifting radiator assembly.
+                                                          Use all the lifting eyes when lifting the OPU.
+
+                                                                                                           i07676027
+
+
+                                                          Product Storage
+                                                          SMCS Code: 7002
+                                                          If the engine will not be started for several weeks, the
+                                                          lubricating oil will drain from the cylinder walls and
+                                                          from the piston rings. Rust can form on the cylinder
+                                                          liner surface. Rust on the cylinder liner surface will
+                                                          cause increased engine wear and a reduction in
+                                                          engine service life.
+
+=== ORIGINAL PDF PAGE 52 ===
+52                                                                                                             M0108394-08
+Operation Section
+Product Storage
+
+
+To help prevent excessive engine wear, use the              Removal from Storage
+following guidelines:
+                                                            DEF has a limited life, refer to table 3 for the time and
+• Complete all the lubrication recommendations that         temperature range. DEF that is outside this range
+  are listed in the Operation and Maintenance               MUST be replaced.
+  Manual, “Maintenance Interval Schedule”.
+                                                            On removal from storage the DEF quality in the tank
+• If freezing temperatures are expected, check the          must be tested with a refractometer. The DEF in the
+  cooling system for adequate protection against            tank must meet the requirements defined in ISO
+  freezing. Refer to Operation and Maintenance              22241-1 and comply with table 3 .
+  Manual, “Fluid Recommendations” for more                  1. If necessary, drain the tank and fill with DEF that
+  information.                                                 meets ISO 22241-1.
+If an engine is out of operation and if use of the          2. Replace the DEF filter. Refer to Operation and
+engine is not planned, special precautions should be
+                                                               Maintenance Manual, “Diesel Exhaust Fluid Filter
+made. If the engine will be stored for more than 1
+month, a complete protection procedure is                      (Emission Related Component) - Replace” for the
+recommended.                                                   correct procedure.
+Ensure that the outlets on the Clean Emission               3. Ensure that the drive belt is correctly installed.
+Module (CEM) are capped. Ensure that the Diesel                Ensure that all engine coolant and engine oil has
+Exhaust Fluid (DEF) connections are capped.                    the correct specification and grade. Ensure that
+To prevent damage to the exhaust outlet connection             the coolant and the engine oil are at the correct
+during storage, the weight of the CEM must not act             level. Start the engine. If a fault becomes active
+on the exhaust outlet.                                         turn off the engine, allow 2 minutes for the DEF
+                                                               system to purge, then restart the engine.
+For more detailed information on engine storage,
+refer to Special Instruction, SEHS9031, “Storage            4. If the fault continues to stay active, refer to
+Procedure For Caterpillar Products”.                           Troubleshooting for more information.
+Your Caterpillar dealer can help in preparing the           Table 3
+engine for extended storage periods.                                    Temperature                         Duration
+
+                                                            10° C (50° F)                       36 months
+Aftertreatment
+                                                            25° C (77° F)                       18 months
+The engine must be allowed to perform a DEF purge
+before the battery disconnect switch is turned off.         30° C (86° F)                       12 months
+Allow 2 minutes after the engine has stopped before
+                                                            35° C (95° F)(1)                    6 months
+disconnecting the battery disconnect switch.
+                                                            (1)   At 35° C, significant degradation can occur. Check every batch
+The exhaust outlet of the aftertreatment must be                  before use.
+capped. To prevent damage to the exhaust outlet
+connection during storage, the weight of the CEM
+must not act on the exhaust outlet.
+
+DEF Tank Storage
+1. Ensure normal engine shutdown, allow the DEF to
+   be purged. Do not disconnect the battery
+   disconnect switch, allow 2 minutes after key off
+   before disconnection.
+2. Fill the tank with DEF that meets all the
+   requirement defined in ISO 22241-1.
+3. Ensure that all DEF lines and electrical connection
+   are connected prior to prevent crystal from
+   forming.
+4. Ensure that the DEF filler cap is correctly installed.
+
+=== ORIGINAL PDF PAGE 53 ===
+M0108394-08                                                                                                           53
+                                                                                                  Operation Section
+                                                                                               Features and Controls
+
+
+Features and Controls                                         Intake manifold pressure – The intake manifold
+                                                              pressure sensor checks the rated pressure in the
+                                                              engine manifold.
+                                                  i07925952
+                                                              Fuel rail pressure – The fuel rail pressure sensor
+Alarms and Shutoffs                                           measures the high pressure or low pressure in the
+                                                              fuel rail. The ECM will Check the pressure.
+SMCS Code: 7400
+                                                              Engine oil pressure – The engine oil pressure
+                                                              switch indicates when oil pressure drops below rated
+Shutoffs                                                      system pressure, at a set engine speed.
+The shutoffs are electrically operated or mechanically        Engine overspeed – If the engine rpm exceeds the
+operated. The electrically operated shutoffs are              overspeed setting, the alarm will be activated.
+controlled by the ECM.
+                                                              Air filter restriction – The switch checks the air filter
+Shutoffs are set at critical levels for the following         when the engine is operating.
+items:
+                                                              User-defined switch – This switch can shut down
+• Operating temperature                                       the engine remotely.
+                                                              Water in fuel switch – This switch checks for water
+• Operating pressure                                          in the primary fuel filter when the engine is operating.
+• Operating level                                             Fuel temperature – The fuel temperature sensor
+                                                              monitors the pressurized fuel in the high-pressure
+• Operating rpm                                               fuel pump.
+The particular shutoff may need to be reset before
+the engine will start.                                        NRS absolute pressure and NRS delta pressure –
+                                                              A combined pressure sensor across the NRS valve.
+                     NOTICE
+Always determine the cause of the engine shutdown.
+                                                              Note: The sensing element of the coolant
+Make necessary repairs before attempting to restart
+the engine.                                                   temperature sensor must be submerged in coolant to
+                                                              operate.
+
+Be familiar with the following items:                         Engines may be equipped with alarms to alert the
+                                                              operator when undesirable operating conditions
+• Types and locations of shutoff                              occur.
+
+• Conditions which cause each shutoff to function                                    NOTICE
+                                                              When an alarm is activated, corrective measures
+• The resetting procedure that is required to restart         must be taken before the situation becomes an emer-
+  the engine                                                  gency in order to avoid possible engine damage.
+
+Alarms                                                        If corrective measures are not taken within a
+                                                              reasonable time, engine damage could result. The
+The alarms are electrically operated. The operations          alarm will continue until the condition is corrected.
+of the alarms are controlled by the ECM.                      The alarm may need to be reset.
+
+The alarm is operated by a sensor or by a switch.             Note: If installed, the coolant level switch and the oil
+When the sensor or the switch is activated, a signal is       level switch are indicators. Both switches operate
+sent to the ECM. An event code is created by the              when the application is on level ground and the
+ECM. The ECM will send a signal to illuminate the             engine RPM at zero.
+lamp.
+                                                              Aftertreatment System
+Your engine may be equipped with the following
+sensors or switches:                                          • Diesel Oxidation Catalyst                       (DOC)
+Coolant temperature – The coolant temperature
+sensor indicates high jacket water coolant                    • Selective Catalyst Reduction                    (SCR)
+temperature.
+                                                              • Diesel Particulate Filter                        (DPF)
+Intake manifold air temperature – The intake
+manifold air temperature sensor indicates high intake         Soot Sensors – The soot sensor monitor the soot
+air temperature.                                              level within the DPF.
+
+=== ORIGINAL PDF PAGE 54 ===
+54                                                                                                   M0108394-08
+Operation Section
+Battery Disconnect Switch
+
+
+NOx Sensors – Two NOx sensors monitor the NOx
+concentration within the exhaust gas before and after
+the selective catalyst reduction module.
+Temperature Sensor – A temperature sensor after
+the engine exhaust gas exit, after the DOC and
+before the SCR module monitor the temperatures
+within the system.
+
+DEF Tank Header Unit – The DEF level sensor
+monitors the volume of fluid in the tank and signals
+the ECM if the level drops below a given point.
+
+
+Testing
+                                                             Illustration 50                               g03265058
+Turning the keyswitch to the ON position will check
+the indicator lights on the control panel. All the           Battery disconnect switch label
+indicator lights will be illuminated for 2 seconds after
+the keyswitch is operated. Replace suspect bulbs                                    NOTICE
+immediately.                                                 Do not turn off the battery disconnect switch until the
+                                                             indicator lamp has turned off. If the switch is turned
+Refer to Troubleshooting for more information.               off when the indicator lamp is illuminated the Diesel
+                                                             Exhaust Fluid (DEF) system will not purge the DEF. If
+                                                 i05408886   the DEF does not purge, DEF could freeze and dam-
+                                                             age the pump and lines.
+Battery Disconnect Switch
+(If Equipped)                                                                        NOTICE
+                                                             Never move the battery disconnect switch to the OFF
+SMCS Code: 1411
+                                                             position while the engine is operating. Serious dam-
+Allow at least 2 minutes after the engine has stopped        age to the electrical system could result.
+before you turn the battery disconnect switch to OFF.
+Disconnecting the battery power too soon will prevent
+purging of the Diesel Exhaust Fluid (DEF) lines after                                                       i08773514
+the engine is shut down. Also, during the 2 minutes
+the engine Electronic Control Module (ECM) is active         Gauges and Indicators
+storing information from the engine and
+aftertreatment sensors.                                      SMCS Code: 7450
+
+Not allowing the DEF purge to be performed can               Your engine may not have the same gauges or all the
+damage the DEF system. Not allowing the engine               gauges that are described. For more information
+ECM time to store the information from the sensors           about the gauge package, see the OEM information.
+can damage to emission control system.
+                                                             Gauges provide indications of engine performance.
+Some applications, the engine can be equipped with           Ensure that the gauges are in good working order.
+a wait to disconnect lamp. The wait to disconnect            Determine the normal operating range by observing
+lamp will be illuminated during engine operation and         the gauges over a period.
+will be extinguished approximately 2 minutes after
+the engine has stopped.                                      Noticeable changes in gauge readings indicate
+                                                             potential gauge or engine problems. Problems may
+                                                             also be indicated by gauge readings that change
+                                                             even if the readings are within specifications.
+                                                             Determine and correct the cause of any significant
+                                                             change in the readings. Consult your Caterpillar
+                                                             dealer for assistance.
+                                                             Some engine applications are equipped with
+                                                             Indicator Lamps. Indicator lamps can be used as a
+                                                             diagnostic aid. There are two lamps. One lamp has
+                                                             an orange lens and the other lamp has a red lens.
+                                                             These indicator lamps can be used in two ways:
+
+=== ORIGINAL PDF PAGE 55 ===
+M0108394-08                                                                                                   55
+                                                                                            Operation Section
+                                                                                         Gauges and Indicators
+
+
+• The indicator lamps can be used to identify the                  Tachometer – This gauge indicates
+  current operational status of the engine. The                    engine speed (rpm). When the throttle
+  indicator lamps can also indicate that the engine                control lever is moved to the full throttle
+  has a fault. This system is automatically operated     position without load, the engine is running at
+  via the ignition switch.                               high idle. The engine is running at the full load
+                                                         rpm when the throttle control lever is at the full
+• The indicator lamps can be used to identify active     throttle position with maximum rated load.
+  diagnostic codes. This system is activated by
+  pressing the Flash Code button.
+                                                                                NOTICE
+Refer to the Troubleshooting Guide, “Indicator           To help prevent engine damage, never exceed the
+Lamps” for further information.                          high idle rpm. Overspeeding can result in serious
+                                                         damage to the engine. Operation at speeds exceed-
+                                                         ing high idle rpm should be kept to a minimum.
+                       NOTICE
+If no oil pressure is indicated, STOP the engine. If
+maximum coolant temperature is exceeded, STOP                     Ammeter – This gauge indicates the
+the engine. Engine damage can result.
+                                                                  amount of charge or discharge in the
+                                                                  battery charging circuit. Operation of
+         Engine Oil Pressure – The oil pressure          the indicator should be to the “ +” side of “ 0”
+         should be greatest after a cold engine is       (zero).
+         started. The typical engine oil pressure
+                                                                  Engine - Electrical Preheat – This
+with SAE10W40 is 350 to 450 kPa (50 to 65 psi) at
+                                                                  indicator comes “ ON” to show that the
+rated rpm.
+                                                                  glow plug preheat is active. The engine
+A lower oil pressure is normal at low idle. If the       should be set to “ RUN” only after indicator lamp
+engine speed and load are stable and the gauge           on the display turns “ OFF” .
+reading changes, perform the following procedure:
+                                                                  Fuel Level – This gauge indicates the
+1. Remove the load.                                               fuel level in the fuel tank. The fuel level
+                                                                  gauge operates when the “ START/STOP”
+2. Stop the engine.                                      switch is in the “ on” position.
+3. Check and maintain the oil level.
+                                                                   Service Hour Meter – The gauge
+         Jacket Water Coolant Temperature –                        indicates total operating hours of the
+         Typical temperature range is 82° to 94°C                  engine.
+         (179.6° to 169.2°F). This temperature
+range will vary according to engine load and the         Indicator Lamps
+ambient temperature.
+                                                         • Shutdown lamp
+A 100 kPa (14.5 psi) radiator cap must be installed
+on the cooling system. The maximum temperature for       • Warning lamp
+the cooling system is 108° C (226.4° F). This
+temperature is measured at the outlet for the water      • Low oil pressure lamp
+temperature regulator. The engine coolant
+temperature is monitored by the engine sensors and       • Wait to start lamp (Glow plug warning lamp)
+the engine ECM. This programming cannot be
+altered. Derates can occur if the maximum engine         For information, refer to this manual, “Monitoring
+coolant temperature is exceeded.                         System (Table for the Indicator Lamps)” for the
+                                                         sequence of operation of the shutdown lamp and the
+If the engine is operating above the normal range,       warning lamp.
+reduce the engine load. If high coolant temperatures
+are a frequent event, perform the following              The function of the wait to start lamp is automatically
+procedures:                                              controlled at engine start-up.
+1. Reduce the load on the engine.                        The function of the low oil pressure lamp is controlled
+                                                         by the engine ECM. If low oil pressure is detected,
+2. Determine if the engine must be shut down             the lamp will be illuminated. The reason for the
+   immediately or if the engine can be cooled by         illumination of the low-pressure lamp should be
+   reducing the load.                                    investigated immediately.
+3. Inspect the cooling system for leaks. If necessary,
+   consult your Caterpillar dealer for assistance.
+
+=== ORIGINAL PDF PAGE 56 ===
+56                                                           M0108394-08
+Operation Section
+Monitoring System
+
+
+The glow plug warning lamp will flash to show that
+the engine is being held at low speed. This function
+will be performed at engine starting and the duration
+will depend on ambient temperature and engine
+temperature.
+The lamps will illuminate for 2 seconds to check that
+the lamps are functioning when the keyswitch is
+turned to the ON position. If any of the lamps stay
+illuminated, or a lamp fails to be illuminated the
+reason should be investigated immediately.
+
+Aftertreatment Lamps and gauges
+All applications will require the following lamps and
+gauges:
+• Emission malfunction lamp
+
+• Action indicator lamp
+• Gauge for Diesel Exhaust Fluid (DEF)
+
+• Low warning lamp for DEF
+• Wait to disconnect lamp (optional)
+The wait to disconnect lamp will be illuminated during
+engine operation and will be extinguished
+approximately 2 minutes after the engine has
+stopped. Do not disconnect the battery disconnect
+switch during the period the lamp is illuminated. The
+diesel exhaust fluid system will be purged during this
+time. Also, during the 2 minutes the engine electronic
+control module is active storing information from the
+engine and aftertreatment sensors.
+Note: The wait to disconnect lamp will not be
+checked at key on.
+
+                                                 i07682718
+
+
+Monitoring System
+(Engine Indicators and
+Aftertreatment Indicators)
+SMCS Code: 1900; 7400; 7450; 7451
+
+Engine Indicator Lamps
+Note: When in operation the amber warning lamp
+has three states, solid, flashing, and fast flashing.
+The sequence is to give a visual indication of the
+importance of the warning. Some application can
+have an audible warning installed.
+Ensure that the engine maintenance is carried out at
+the correct intervals. A lack of maintenance can
+result in illumination of the warning lamp. For the
+correct intervals of maintenance, refer to the
+Operation and Maintenance Manual, “Maintenance
+Interval Schedule”.
+
+=== ORIGINAL PDF PAGE 57 ===
+M0108394-08                                                                                                                                  57
+                                                                                                                    Operation Section
+                                                                                                    Sensors and Electrical Components
+
+
+Table 4
+                                                          Indicator Lamp Table
+
+             Shutdown
+  Warning    Action Indi-
+   Lamp      cator Lamp       Lamp State              Description of the Indication                             Engine Status
+     On          On            Lamp Check        When the keyswitch is moved to the ON po- The keyswitch is in the ON position but the en-
+                                                 sition, the lamps come on for 2 seconds and gine has not yet been cranked.
+                                                 the lamps will then go off.
+
+                If any of the indicators will not illuminate during indicator check, the fault must be investigated immediately
+                            If any Indicators stay illuminated or flash, the fault must be investigated immediately.
+
+     Off         Off            No Faults        With the engine in operation, there are no      The engine is operating with no detected
+                                                 active warnings, diagnostic codes, or event     faults.
+                                                 codes.
+  On Solid       Off             Warning         Level 1 warning                                 The engine is operating normally but there is
+                                                                                                 one or more faults with the electronic manage-
+                                                                                                 ment system for the engine.
+
+                                            As soon as possible the fault should be investigated.
+
+  Flashing       Off             Warning         Level 2 warning                                 The engine continues to be operated, but the
+                                                                                                 level of importance of the warning has
+                                                                                                 increased.
+                                                                                                 Depending on the particular fault and the se-
+                                                                                                 verity the engine may be de-rated.
+                                                                                                 The engine could be damaged if continued to
+                                                                                                 be operated.
+
+                                                   Stop the engine. Investigate the code.
+
+  Flashing       On         Engine Shutdown Level 3 warning                                      The engine is either shutdown or an engine
+                                            If both the warning lamp and the shutdown            shutdown is imminent. One or more monitored
+                                            lamp are in operation, this issue indicates          engine parameters have exceeded the limit for
+                                            one of the following conditions.                     an engine shutdown. This pattern of lamps can
+                                                                                                 be caused by the detection of a serious active
+                                                 1. One or more of the shutdown values for       diagnostic code.
+                                                 the engine protection strategy has been
+                                                 exceeded.                                       Contact your Caterpillar dealer.
+
+                                                 2. A serious active diagnostic code has
+                                                 been detected.
+
+                                                 If installed, the audible warning will sound.
+                                                 After a short time period, the engine may
+                                                 shut down.
+
+
+Flash Codes                                                                  For more information on the illumination of the
+                                                                             aftertreatment indicators refer to this Operation and
+Some applications may support flash codes. A flash                           Maintenance Manual, “Selective Catalytic Reduction
+code can be viewed by an indicator lamp that when                            Warning System”.
+asked will flash in a particular sequence. The
+indicator lamp used to view the codes is the warning                                                                                   i08068136
+lamp, the lamp can then be referred to as a
+diagnostic lamp. For more information refer to this
+Operation and Maintenance Manual, “Diagnostic
+                                                                             Sensors and Electrical
+Lamp”.                                                                       Components
+Aftertreatment System                                                        SMCS Code: 1900; 7400
+                                                                             The illustrations within the following sections are
+The aftertreatment indicators should illuminate at key                       typical location of the sensors or electrical
+on for 2 seconds to test the system. If any of the                           components for an industrial engine. Specific
+indicators do not illuminate, the fault must be                              engines may appear different due to differences in
+investigated immediately.                                                    applications.
+
+=== ORIGINAL PDF PAGE 58 ===
+58                                                                                                       M0108394-08
+Operation Section
+Sensors and Electrical Components
+
+
+NRS – NOx Reduction System
+DEF – Diesel Exhaust Fluid
+DOC – Diesel Oxidation Catalyst
+DPF – Diesel Particulate Filter
+SCR – Selective Catalytic Reduction
+ECM – Electronic Control Module
+NOx – Nitrogen Oxides
+
+C3.6 Industrial Engines
+
+
+
+
+Illustration 51                                                                                                 g06299856
+Typical example
+(1) Engine 47-pin interface connector      (5) Coolant temperature sensor     (10) Control valve for high-pressure fuel
+(2) Inlet throttle valve                   (6) Alternator                         pump
+(3) Inlet manifold combined pressure and   (7) Starting motor                 (11) Temperature sensor post NRS valve
+     temperature sensor                    (8) Camshaft speed/timing sensor
+(4) Temperature sensor pre-NRS valve       (9) Fuel temperature sensor
+
+=== ORIGINAL PDF PAGE 59 ===
+M0108394-08                                                                                                           59
+                                                                                              Operation Section
+                                                                              Sensors and Electrical Components
+
+
+
+
+Illustration 52                                                                                                 g06299988
+Typical example
+(12) NRS Differential pressure sensor   (15) Injector 3 and injector 4        (18) Engine oil pressure switch
+(13) NRS valve                          (16) Actuator for turbocharger        (19) Fuel rail pressure sensor
+(14) Injector 1 and injector 2          (17) Crankshaft speed/timing sensor
+
+=== ORIGINAL PDF PAGE 60 ===
+60                                                                                                          M0108394-08
+Operation Section
+Sensors and Electrical Components
+
+
+
+
+Illustration 53                                                                                                 g06300327
+Typical example
+(20) DEF Injector                       (22) Temperature sensor controller with 3   (A) DPF temperature probe
+(21) DPF Differential pressure sensor       probes across aftertreatment (in        (B) DOC temperature probe
+                                            transport position)                     (C) SCR temperature probe
+
+=== ORIGINAL PDF PAGE 61 ===
+M0108394-08                                                                                                     61
+                                                                                              Operation Section
+                                                                              Sensors and Electrical Components
+
+
+
+
+Illustration 54                                                                                           g06511813
+Industrial engine equipped with a balancer
+(23) DPF Differential pressure sensor   (25) Temperature sensor controller    (A) DOC temperature probe
+(24) DEF Injector                           connection with 3 probes across   (B) DPF temperature probe
+                                            aftertreatment                    (C) SCR temperature probe
+
+=== ORIGINAL PDF PAGE 62 ===
+62                                                                                                             M0108394-08
+Operation Section
+Sensors and Electrical Components
+
+
+
+Off Engine Sensors and Electrical
+Components
+
+
+
+
+Illustration 55                                                                                                    g06300407
+Typical example
+(1) ECM                                   (4) Water in fuel switch                      (7) DEF pump
+(2) If equipped, Air intake temperature   (5) Coolant diverter valve                    (8) NOx sensors
+     sensor (Air Cleaner)                 (6) DEF tank level, temperature sensor, and   (9) DEF heated lines
+(3) Priming pump                              DEF quality sensor
+
+=== ORIGINAL PDF PAGE 63 ===
+M0108394-08                                                                                                                 63
+                                                                                                   Operation Section
+                                                                                   Sensors and Electrical Components
+
+
+
+C2.8 Industrial Engine
+
+
+
+
+Illustration 56                                                                                                    g06481405
+Typical example
+(1) Engine 47-pin interface connector   (6) Starting motor                         (10) Inlet Manifold Temperature Sensor
+(2) Inlet throttle valve                (7) Camshaft speed/timing sensor           (11) Inlet Manifold Pressure Sensor
+(3) Temperature sensor pre-NRS valve    (8) Fuel temperature sensor                (12) Temperature sensor post NRS valve
+(4) Coolant temperature sensor          (9) Control valve for high-pressure fuel
+(5) Alternator                              pump
+
+=== ORIGINAL PDF PAGE 64 ===
+64                                                                                                                  M0108394-08
+Operation Section
+Sensors and Electrical Components
+
+
+
+
+Illustration 57                                                                                                            g06481410
+Typical example
+(13) NRS Differential pressure sensor   (15) Injector 1 and injector 2 (Injector 3 and   (17) Engine oil pressure switch
+(14) NRS valve                              injector 4 not shown)                        (18) Fuel rail pressure sensor
+                                        (16) Crankshaft speed/timing sensor
+
+=== ORIGINAL PDF PAGE 65 ===
+M0108394-08                                                                                                                  65
+                                                                                                           Operation Section
+                                                                                           Sensors and Electrical Components
+
+
+
+
+Illustration 58                                                                                                        g06481414
+Typical example
+(19) Temperature sensor controller with 2   (20) Tube assembly for Differential pressure   (A) DPF temperature probe
+    probes across aftertreatment (in        (21) DPF Differential pressure sensor          (B) DOC temperature probe
+    transport position)                     (22) Tube assembly for Differential pressure
+
+=== ORIGINAL PDF PAGE 66 ===
+66                                                                                                       M0108394-08
+Operation Section
+Sensors and Electrical Components
+
+
+
+C2.8 Off Engine Sensors and Electrical Components
+
+
+
+
+Illustration 59                                                                                              g06481423
+Typical example
+(1) ECM                             (2) If equipped, Air intake temperature   (3) Priming pump
+                                         sensor (Air Cleaner)                 (4) Water in fuel switch
+
+=== ORIGINAL PDF PAGE 67 ===
+M0108394-08                                                                                                     67
+                                                                                               Operation Section
+                                                                                              Engine Diagnostics
+
+
+Engine Diagnostics                                         1. Move the keyswitch from the on/off two times
+                                                              within 3 seconds.
+                                               i01796959   2. The shutdown warning lamp will flash once.
+                                                           3. A flashing YELLOW lamp indicates a 3-digit
+Self-Diagnostics                                              diagnostic code for the engine. The sequence of
+SMCS Code: 1000; 1900; 1901; 1902                             flashes represents the system diagnostic
+                                                              message. Count the first sequence of flashes in
+Caterpillar Electronic Engines have the capability to
+perform a self-diagnostics test. When the system              order to determine the first digit of the flash code.
+detects an active problem, a diagnostic lamp is               After a two second pause, the second sequence of
+activated. Diagnostic codes will be stored in                 flashes will identify the second digit of the flash
+permanent memory in the Electronic Control Module             code. After the second pause, the third sequence
+(ECM). The diagnostic codes can be retrieved by               of flashes will identify the flash code.
+using Caterpillar electronic service tools.
+                                                           4. After the diagnostic codes have been displayed,
+Some installations have electronic displays that              the shutdown lamp will flash twice and the
+provide direct readouts of the engine diagnostic              indicator lamp will start to flash the logged
+codes. Refer to the manual that is provided by the
+OEM for more information on retrieving engine                 diagnostic codes.
+diagnostic codes.                                          5. After the logged diagnostic codes have been
+Active codes represent problems that currently exist.         displayed, the shutdown lamp will flash three times
+These problems should be investigated first.                  in order to indication that the code sequences
+                                                              have finished.
+Logged codes represent the following items:
+                                                           Note: If there are no diagnostic codes or logged
+• Intermittent problems                                    diagnostic codes, the system will flash the code 551.
+• Recorded events
+                                                                                                           i05406659
+
+• Performance history
+                                                           Fault Logging
+The problems may have been repaired since the
+logging of the code. These codes do not indicate that      SMCS Code: 1000; 1900; 1901; 1902
+a repair is needed. The codes are guides or signals        The system provides the capability of Fault Logging.
+when a situation exists. Codes may be helpful to           When the Electronic Control Module (ECM)
+troubleshoot problems.                                     generates an active diagnostic code, the code will be
+When the problems have been corrected, the                 logged in the memory of the ECM. The codes that
+corresponding logged fault codes should be cleared.        have been logged by the ECM can be identified by
+                                                           the electronic service tool. The active codes that
+                                                           have been logged will be cleared when the fault has
+                                               i03554520   been rectified or the fault is no longer active. The
+                                                           following logged faults cannot be cleared from the
+Diagnostic Lamp                                            memory of the ECM without using a factory
+                                                           password: Overspeed, low engine oil pressure, high
+SMCS Code: 1000; 1900; 1901; 1902; 7451                    engine coolant temperature, and aftertreatment
+                                                           codes.
+A diagnostic lamp is used to indicate the existence of
+an active fault. A fault diagnostic code will remain
+active until the problem is repaired. The diagnostic                                                       i03554534
+code may be retrieved by using the electronic service
+tool.                                                      Engine Operation with Active
+                                               i04907245
+                                                           Diagnostic Codes
+                                                           SMCS Code: 1000; 1900; 1901; 1902
+Diagnostic Flash Code                                      If a diagnostic lamp illuminates during normal engine
+Retrieval                                                  operation, the system has identified a situation that is
+                                                           not within the specification. Use electronic service
+SMCS Code: 1000; 1900; 1901; 1902                          tools to check the active diagnostic codes.
+Use the following procedure to retrieve the flash
+codes if the engine is equipped with a
+“DIAGNOSTIC” lamp:
+
+=== ORIGINAL PDF PAGE 68 ===
+68                                                           M0108394-08
+Operation Section
+Engine Operation with Intermittent Diagnostic Codes
+
+
+Note: If the customer has selected “DERATE” and if
+there is a low oil pressure condition, the Electronic
+Control Module (ECM) will limit the engine power
+until the problem is corrected. If the oil pressure is
+within the normal range, the engine may be operated
+at the rated speed and load. However, maintenance
+should be performed as soon as possible.
+The active diagnostic code should be investigated.
+The cause of the problem should be corrected as
+soon as possible. If the cause of the active diagnostic
+code is repaired and there is only one active
+diagnostic code, the diagnostic lamp will turn off.
+Operation of the engine and performance of the
+engine can be limited as a result of the active
+diagnostic code that is generated. Acceleration rates
+may be significantly slower. Refer to the
+Troubleshooting Guide for more information on the
+relationship between these active diagnostic codes
+and engine performance.
+
+                                                 i01797063
+
+
+Engine Operation with
+Intermittent Diagnostic Codes
+SMCS Code: 1000; 1900; 1901; 1902
+If a diagnostic lamp illuminates during normal engine
+operation and the diagnostic lamp shuts off, an
+intermittent fault may have occurred. If a fault has
+occurred, the fault will be logged into the memory of
+the Electronic Control Module (ECM).
+In most cases, it is not necessary to stop the engine
+because of an intermittent code. However, the
+operator should retrieve the logged fault codes and
+the operator should reference the appropriate
+information in order to identify the nature of the event.
+The operator should log any observation that could
+have caused the lamp to light.
+
+• Low power
+• Limits of the engine speed
+
+• Excessive smoke, etc
+This information can be useful to help troubleshoot
+the situation. The information can also be used for
+future reference. For more information on diagnostic
+codes, refer to the Troubleshooting Guide for this
+engine.
+
+=== ORIGINAL PDF PAGE 69 ===
+M0108394-08                                                                                                       69
+                                                                                                Operation Section
+                                                                                                  Engine Starting
+
+
+Engine Starting                                                                                            i08165229
+
+
+
+                                                i08171598
+                                                            Cold Weather Starting
+                                                            SMCS Code: 1000; 1250; 1450; 1453; 1456; 1900
+Before Starting Engine
+SMCS Code: 1000; 1400; 1450
+Perform the required daily maintenance and other            Do not use aerosol types of starting aids such as
+periodic maintenance before the engine is started.          ether. Such use could result in an explosion and
+Inspect the engine compartment. This inspection can         personal injury.
+help prevent major repairs later. Refer to the
+Operation and Maintenance Manual, “Maintenance              The ability to start the engine will be improved at
+Interval Schedule” for more information.                    temperatures below −18 °C (0 °F) from the use of a
+                                                            jacket water heater or extra battery capacity.
+• Ensure that the engine has an adequate fuel
+  supply.                                                   The following items provide a means of minimizing
+                                                            starting problems and fuel problems in cold weather:
+• Ensure that the engine has an adequate diesel             Engine oil pan heaters, jacket water heaters, fuel
+  exhaust fluid supply                                      heaters, and fuel line insulation.
+                                                            Use the procedure that follows for cold weather
+• Open the fuel supply valve (if equipped).                 starting.
+• Drain the water separators.                               Note: Do not adjust the engine speed control during
+                                                            start-up. The electronic control module (ECM) will
+                         NOTICE                             control the engine speed during start-up.
+All valves in the fuel return line must be open and fuel
+supply lines must be open. Damage to the fuel sys-          1. Disengage any driven equipment.
+tem can occur if fuel lines are closed with the engine
+in operation.                                               Note: During key ON, the indicator lamps will be
+                                                            illuminated for 2 seconds to check the lamp
+                                                            operation. If any of the indicator lamps do not
+If the engine has not been started for several weeks,
+                                                            illuminate check the bulb. If any indicator lamps stay
+fuel may have drained from the fuel system. Air may
+have entered the filter housing. Also, when fuel filters    illuminated or flash, refer to Troubleshooting,
+have been changed, some air pockets will be trapped         “Indicator Lamp Circuit - Test”.
+in the engine. In these instances, prime the fuel
+system. Refer to the Operation and Maintenance              2. Turn the keyswitch to the RUN position. Leave the
+Manual, “Fuel System - Prime” for more information             keyswitch in the RUN position until the warning
+on priming the fuel system. Also, check that the fuel          light for the glow plugs is extinguished.
+specification is correct and that the fuel condition is
+correct. Refer to the Operation and Maintenance             3. When the warning light for the glow plugs is
+Manual, “Fuel Recommendations”.                                extinguished, turn the keyswitch to the START
+                                                               position to engage the electric starting motor and
+                                                               crank the engine.
+
+Engine exhaust contains products of combustion              Note: The operating period of the warning light for
+which may be harmful to your health. Always                 the glow plugs will change due to the ambient air
+start and operate the engine in a well ventilated           temperature.
+area and, if in an enclosed area, vent the exhaust
+to the outside.                                                                     NOTICE
+                                                            Do not engage the starting motor when flywheel is
+                                                            turning. Do not start the engine under load.
+• Do not start the engine or move any of the controls
+  if there is a “DO NOT OPERATE” warning tag or             If the engine fails to start within 30 seconds, release
+  similar warning tag attached to the start switch or       the starter switch or button and wait two minutes to
+  to the controls.                                          allow the starting motor to cool before attempting to
+                                                            start the engine again.
+• Reset all the shutoffs or alarm components.
+• Ensure that any driven equipment has been                 4. Allow the keyswitch to return to the RUN position
+  disengaged. Minimize electrical loads or remove              after the engine starts.
+  any electrical loads.
+
+=== ORIGINAL PDF PAGE 70 ===
+70                                                                                                    M0108394-08
+Operation Section
+Starting the Engine
+
+
+5. Repeat step 2 through step 4 if the engine fails to      3. When the warning light for the glow plugs is
+   start.                                                      extinguished, turn the keyswitch to the START
+                                                               position to engage the electric starting motor and
+Note: After starting, the engine may be held at low            crank the engine.
+speed for a duration between 1 and 60 seconds to
+allow engine systems to stabilize. The duration will        Note: The operating period of the warning light for
+depend on ambient temperature, time since last run          the glow plugs will change due to the temperature of
+and other factors. The glow plug warning lamp will          the engine.
+flash to indicate that the engine has been held at low
+speed.
+                                                                                    NOTICE
+                                                            Do not engage the starting motor when flywheel is
+6. The engine should not be raced to speed up the           turning. Do not start the engine under load.
+   warm-up process. Allow the engine to idle for 3 to
+   5 minutes, or allow the engine to idle until the         If the engine fails to start within 30 seconds, release
+   water temperature indicator begins to rise. When         the starter switch or button and wait two minutes to
+                                                            allow the starting motor to cool before attempting to
+   idling after the engine has started in cold weather,
+                                                            start the engine again.
+   increase the engine rpm from low idle to 1200 rpm.
+   This operation will warm up the engine more
+   quickly.                                                 4. Allow the keyswitch to return to the RUN position
+                                                               after the engine starts.
+7. Operate the engine at low load until all systems
+   reach operating temperature. Check the gauges            5. Repeat step 2 through step 4 if the engine fails to
+   during the warm-up period.                                  start.
+
+Following a cold start, white vapor can be seen from        6. After starting, the engine may be held at low speed
+the tailpipe. This vapor is normal and caused by               for a duration between 1 and 60 seconds to allow
+condensation leaving the exhaust system after                  engine systems to stabilize. The duration will
+warming up. The white vapor should clear following             depend on ambient temperature, time since last
+working of the engine.                                         run and other factors. The glow plug warning light
+                                                               will flash to indicate that the engine is being held at
+                                                i08165241      low speed in some applications.
+Starting the Engine                                                                                           i07926219
+SMCS Code: 1000; 1450
+                                                            Starting with Jump Start
+Note: Do not adjust the engine speed control during
+start-up. The electronic control module (ECM) will          Cables
+control the engine speed during start-up.                   (Do Not Use This Procedure in
+Starting the Engine                                         Hazardous Locations that have
+                                                            Explosive Atmospheres)
+1. Disengage any equipment that is driven by the
+   engine.                                                  SMCS Code: 1000; 1401; 1402; 1900
+
+2. Turn the keyswitch to the RUN position. Leave the
+   keyswitch in the RUN position until the warning
+   light for the glow plugs is extinguished.                The connection of battery cables to a battery and
+                                                            the disconnection of battery cables from a battery
+Note: If the keyswitch has been left in the RUN             may cause an explosion which may result in in-
+position for a long period of time without engaging the     jury or death. The connection and the disconnec-
+electric starting motor, turn the keyswitch from the        tion of other electrical equipment may also cause
+RUN position to the OFF position and then back to           an explosion which may result in injury or death.
+the RUN position to reactivate the glow plug preheat        The procedures for the connection and the dis-
+stage.                                                      connection of battery cables and other electrical
+                                                            equipment should only be performed in a nonex-
+Note: During the key on, the indicator lamps will be        plosive atmosphere.
+illuminated for 2 seconds to check lamp operation. If
+any of the lamps do not illuminate, check the bulb. If
+any indicator lamps stay illuminated or flash, refer to
+Troubleshooting, “Indicator Lamp Circuit - Test”.
+
+=== ORIGINAL PDF PAGE 71 ===
+M0108394-08                                                                                                     71
+                                                                                                Operation Section
+                                                                                             After Starting Engine
+
+
+                                                            3. Connect one negative end of the jump-start cable
+                                                               to the negative cable terminal of the electrical
+Improper jump start cable connections can cause                source. Connect the other negative end of the
+an explosion resulting in personal injury.                     jump-start cable to the engine block or to the
+                                                               chassis ground. This procedure helps to prevent
+Prevent sparks near the batteries. Sparks could                potential sparks from igniting the combustible
+cause vapors to explode. Do not allow jump start
+cable ends to contact each other or the engine.                gases that are produced by some batteries.
+                                                            Note: The engine ECM must be powered before the
+Note: If possible, first diagnose the reason for the        starting motor is operated or damage can occur.
+starting failure. Refer to Troubleshooting, “Engine
+Will Not Crank and Engine Cranks But Will Not Start”        4. Start the engine in the normal operating
+for further information. Make any necessary repairs.           procedure. Refer to this Operation and
+If the engine will not start only due to the condition of      Maintenance Manual, “Starting the Engine”.
+the battery, either charge the battery, or start the        5. Immediately after the engine is started, disconnect
+engine by using another battery with jump-start
+                                                               the jump-start cables in reverse order.
+cables. The condition of the battery can be
+rechecked after the engine has been switched OFF.           After jump starting, the alternator may not be able to
+                                                            recharge fully batteries that are severely discharged.
+                      NOTICE                                The batteries must be replaced or charged to the
+For C3.6 industrial engines, ensure that a 12 VDC or        proper voltage with a battery charger after the engine
+24 VDC battery source is used to start the engine.          is stopped. Many batteries which are considered
+For C2.8 industrial engines, use a 12 VDC battery           unusable are still rechargeable. Refer to Operation
+source to start the engine. Never attempt to start an       and Maintenance Manual, “Battery - Replace” and
+engine from an external power source such as elec-          Testing and Adjusting Manual, “Battery - Test”.
+tric welding equipment, which has a voltage that is
+unsuitable for engine starting and will damage the                                                         i08165244
+electrical system.
+                                                            After Starting Engine
+                       NOTICE                               SMCS Code: 1000
+Using a battery source with the same voltage as the
+electric starting motor. Use ONLY equal voltage for         After starting, the engine may be held at low speed
+jump starting. The use of higher voltage will damage        for a duration between 1 and 60 seconds to allow
+the electrical system.                                      engine systems to stabilize. Holding the engine
+                                                            speed low is controlled by the Electronic Control
+Do not reverse the battery cables. The alternator can       Module (ECM). The duration will depend on ambient
+be damaged. Attach ground cable last and remove             temperature, time since last run and other factors.
+first.
+                                                            Note: In ambient temperatures from 15° to 20°C
+Turn all electrical accessories OFF before attaching        (59° to 68°F), the warm-up time is approximately 20
+the jump start cables.                                      to 30 minutes. In temperatures below 15°C (59°F),
+                                                            additional warm-up time may be required. In
+Ensure that the main power switch is in the OFF posi-       temperatures greater than 20° C (68° F), warm-up
+tion before attaching the jump start cables to the en-      time may be less.
+gine being started.
+                                                            When the engine idles during warm-up, observe the
+1. Turn the start switch on the stalled engine to the       following conditions:
+   OFF position. Turn off all the engines accessories.      Do not check the high-pressure fuel lines with the
+                                                            engine or the starting motor in operation. If you
+2. Connect one positive end of the jump-start cable to
+                                                            inspect the engine in operation, always use the
+   the positive cable terminal of the discharged            correct inspection procedure to avoid a fluid
+   battery. Connect the other positive end of the           penetration hazard. Refer to Operation and
+   jump-start cable to the positive cable terminal of       Maintenance Manual, “General hazard Information”.
+   the electrical source.
+                                                            • Check for any fluid or air leaks at idle rpm and at
+                                                              one-half full rpm (no load on the engine), before
+                                                              operating the engine under load. This check may
+                                                              not be possible in some applications.
+
+=== ORIGINAL PDF PAGE 72 ===
+72                                                        M0108394-08
+Operation Section
+After Starting Engine
+
+
+• Allow the engine to idle for 3 to 5 minutes, or allow
+  the engine to idle until the water temperature
+  indicator begins to rise. Check all gauges during
+  the warm-up period.
+Constant speed engines should be allowed to
+operate at low idle for 3 minutes before used at
+operational speed. If the low idle option is not
+available, then operate the engine at operational
+speed with no load for 2 minutes.
+Note: Gauge readings should be observed and the
+data should be recorded frequently while the engine
+is operating. Comparing the data over time will help
+to determine normal readings for each gauge.
+Comparing data over time will also help detect
+abnormal operating developments. Significant
+changes in the readings should be investigated.
+
+=== ORIGINAL PDF PAGE 73 ===
+M0108394-08                                                                                                     73
+                                                                                              Operation Section
+                                                                                              Engine Operation
+
+
+Engine Operation                                          The DPF may require the exhaust gas temperature to
+                                                          rise to remove the soot. If necessary, the throttle
+                                                          valve is operated to help in rising the exhaust
+                                              i07853963   temperature.
+
+Engine Operation                                          The engine software will control the amount of DEF
+                                                          that will be required to keep the exhaust emission
+SMCS Code: 1000                                           compliant.
+Correct operation and maintenance are key factors in      This design of DPF will not require a service
+obtaining the maximum life and economy of the             maintenance interval. The DPF can be expected to
+engine. If the directions in the Operation and            function properly for the useful life of the engine
+Maintenance Manual are followed, costs can be             (emissions durability period), as defined by
+minimized and engine service life can be maximized.       regulation, subject to prescribed maintenance
+                                                          requirements being followed.
+The time that is needed for the engine to reach
+normal operating temperature can be less than the         A fault code will be active for any DPF system-related
+time taken for a walk-around inspection of the            issue. Follow the troubleshooting guide to rectify the
+engine.                                                   issue.
+The engine can be operated at the rated rpm after         If the DPF loses function, or is tampered with in any
+the engine is started and after the engine reaches        way, the check engine lamp, and an amber action (if
+operating temperature. The engine will reach normal       equipped) will illuminate. A fault code will also
+operating temperature sooner during a low engine          annunciate. The lamps and fault code will remain
+speed (rpm) and during a low-power demand. This           active until the problem is rectified.
+procedure is more effective than idling the engine at
+no load. The engine should reach operating
+temperature in a few minutes.
+Avoid excess idling. Excessive idling causes carbon
+buildup, engine slobber, and soot loading of the
+Diesel Particulate Filter (DPF). These issues are
+harmful to the engine.
+Gauge readings should be observed and the data
+should be recorded frequently while the engine is
+operating. Comparing the data over time will help to
+determine normal readings for each gauge.
+Comparing data over time will also help detect
+abnormal operating developments. Significant
+changes in the readings should be investigated.
+
+Engine Operation and the
+Aftertreatment System
+The exhaust gases and hydrocarbon particles from
+the engine first pass through Diesel Oxidation
+Catalyst (DOC). Some of the gasses and matter are
+oxidized as the gasses pass through the DOC. The
+gasses then pass through the Diesel Particulate Filter
+(DPF). The DPF collects the soot and any ash that is
+produced by the combustion in the engine. During
+regeneration, the soot is converted into a gas and the
+ash remains in the DPF. The gasses finally pass
+through the Selective Catalytic Reduction (SCR).
+Before the gasses pass through the SCR, Diesel
+Exhaust Fluid (DEF) is injected into the gas stream.
+The DEF is stored in the DEF tank and is pumped to
+the DEF injector. The DEF injector is controlled by
+the ECM. The mixtures of DEF and the exhaust gas
+pass through the SCR reducing the NOx in the
+exhaust emissions.
+
+=== ORIGINAL PDF PAGE 74 ===
+74                                                                                                    M0108394-08
+Operation Section
+Engaging the Driven Equipment
+
+
+                                                               Interrupted starts put excessive stress on the drive
+                        NOTICE
+The engine and emissions control system shall be               train. Interrupted starts also waste fuel. To get the
+operated, used, and maintained in accordance with              driven equipment in motion, engage the clutch
+the instructions provided. Failure to follow the instruc-      smoothly with no load on the equipment. This
+tions could result in emissions performance that does          method should produce a start that is smooth and
+not meet the requirements applicable to the category           easy. The engine rpm should not increase and the
+of the engine. No deliberate tampering with, or mis-
+use of the engine emissions control system should              clutch should not slip.
+take place. Prompt action is critical to rectify any in-     3. Ensure that the ranges of the gauges are normal
+correct operation, use, or maintenance of the emis-             when the engine is operating at one-half of the
+sions control system.
+                                                                rated rpm. Ensure that all gauges operate
+                                                                properly.
+Carbon Dioxide (CO2) Emissions                               4. Increase the engine rpm to the rated rpm. Always
+Statement                                                       increase the engine rpm to the rated rpm before
+                                                                the load is applied.
+Emissions regulations require that the value of the
+CO2 emissions be reported to the end user.                   5. Apply the load. Begin operating the engine at low
+                                                                load. Check the gauges and equipment for proper
+                                                                operation. After normal oil pressure is reached and
+C3.6 Industrial Engine
+                                                                the temperature gauge begins to move, the engine
+For engines with a power rating of 56 kW (75.1 hp)              may be operated at full load. Check the gauges
+and below, 903.75 g/kWh was determined to be the                and equipment frequently when the engine is
+CO2 value during the EU type approval process. For              operated under load.
+engines with a power rating of 70 kW (93.9 hp) and
+above, 733.73 g/kWh was determined to be the CO2               Extended operation at low idle or at reduced load
+value during the EU type approval process. This                may cause increased oil consumption and carbon
+value was recorded in EU type approval certificate.            buildup in the cylinders. This carbon buildup
+This CO2 measurement results from testing over a               results in a loss of power and/or poor
+fixed test cycle, under laboratory conditions, with a          performance.
+parent engine representative of the engine family.
+This value shall not imply or express any guarantee
+of the performance of a particular engine.                                                                   i04018250
+
+
+
+C2.8 Industrial Engine                                       Fuel Conservation Practices
+                                                             SMCS Code: 1000; 1250
+856.35 g/kWh was determined to be the CO2 value
+during the EU type approval process. This value was          The efficiency of the engine can affect the fuel
+recorded in EU type approval certificate. This CO2           economy. Caterpillar's design and technology in
+measurement results from testing over a fixed test           manufacturing provides maximum fuel efficiency in
+cycle, under laboratory conditions, with a parent            all applications. Follow the recommended procedures
+engine representative of the engine family. This value       in order to attain optimum performance for the life of
+shall not imply or express any guarantee of the              the engine.
+performance of a particular engine.
+                                                             • Avoid spilling fuel.
+                                                 i01646335   Fuel expands when the fuel is warmed up. The fuel
+                                                             may overflow from the fuel tank. Inspect fuel lines for
+Engaging the Driven                                          leaks. Repair the fuel lines, as needed.
+Equipment                                                    • Be aware of the properties of the different fuels.
+SMCS Code: 1000                                                Use only the recommended fuels. Refer to the
+                                                               Operations and Maintenance Manual, “Fuel
+1. Operate the engine at one-half of the rated rpm,            Recommendations”for further information.
+   when possible.
+                                                             • Avoid unnecessary idling.
+2. Engage the driven equipment without a load on the
+                                                             Shut off the engine rather than idle for long periods of
+   equipment, when possible.
+                                                             time.
+
+                                                             • Observe the service indicator frequently. Keep the
+                                                               air cleaner elements clean.
+
+=== ORIGINAL PDF PAGE 75 ===
+M0108394-08                                                                     75
+                                                                 Operation Section
+                                                        Fuel Conservation Practices
+
+
+• Ensure that the turbocharger is operating
+  correctly. For more information refer to this
+  Operation and Maintenance Manual,
+  “Turbocharger - Inspect”.
+• Maintain a good electrical system.
+One faulty battery cell will overwork the alternator.
+This fault will consume excess power and excess
+fuel.
+• The belt should be in good condition. Refer to the
+  Systems Operation, Testing and Adjusting, “V -
+  Belt Test” for further information.
+• Ensure that all of the connections of the hoses are
+  tight. The connections should not leak.
+• Ensure that the driven equipment is in good
+  working order.
+
+• Cold engines consume excess fuel. Utilize heat
+  from the jacket water system and the exhaust
+  system, when possible. Keep cooling system
+  components clean and keep cooling system
+  components in good repair. Never operate the
+  engine without water temperature regulators. All of
+  these items will help maintain operating
+  temperatures.
+

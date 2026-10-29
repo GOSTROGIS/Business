@@ -1,12 +1,13 @@
 # Asphalt curriculum source library
 
-Received from the user on **23 October 2026**. These three original PDFs form the reference set for the opening asphalt curriculum. Original filenames and bytes are preserved; [manifest.json](manifest.json) records SHA-256 hashes, sizes and page counts.
+The first three original PDFs were received from the user on **23 October 2026**. The 2006 design-build specifications were added on **29 October 2026**. These four PDFs form the source library for the asphalt curriculum. Original filenames and bytes are preserved; [manifest.json](manifest.json) records SHA-256 hashes, sizes and page counts.
 
 | Source ID | Original document | Role in curriculum |
 |---|---|---|
 | STBC-OUTLINE-2016 | [Asphalt Paving/Laydown Technician Program Outline — August 2016](asphalt-paving-laydown-technician-program-outline-august-2016.pdf) · 108 PDF pages | Trade competencies, learning-task sequence and technical-program context. Begin at Line A, A1. |
 | STBC-PROFILE-2014 | [Asphalt Paving/Laydown Technician Program Profile — November 2014](asphalt-paving-laydown-technician-program-profile-nov-2014.pdf) · 7 PDF pages | Historical pathway, technical-training and endorsement context; distinct from the ACCESS cohort's delivery agreement. |
 | SKILLPLAN-SFS-2024 | [Skills for Success Get Started Guide for Practitioners — revised March 2024](SFS-Get-Started-Guide_FINAL_MAR2024.pdf) · 148 PDF pages | SkillPlan's instructional approaches, named skill components and assessment strategies. Government of Canada funding is identified on the cover. |
+| BC-MOT-DBSS-2006 | [2006 Design Build Standard Specifications for Highway Construction — adopted 20 February 2006](design_build_standard_specs_2006.pdf) · 441 PDF pages | Historical Section 501 grading tables and Section 502 delivery records/material-rate calculations; [complete classroom module](../specifications/README.md). Current contractual applicability is not established. |
 
 The [detailed outline notes](outline-notes.md) record A1–A6 titles, all nine A1 learning tasks, equipment references and source-version boundaries.
 
@@ -42,3 +43,9 @@ The supplied outline file is dated August 2016, its front matter says approved F
 The profile specifies **120 hours / four weeks** of technical training (PDF pp. 2–3). The outline allocates **3% to the whole of Line A, A1–A6**, with theory-only allocation (PDF p. 17). Applying 3% to 120 hours gives **3.6 hours for all of Line A**, not for A1 alone.
 
 The opening ACCESS unit uses expanded Skills for Success preparation time. Its proposed session lengths are a teaching-design choice, not an official SkilledTradesBC time allocation. The earlier research pack's public-provider reference to **140 hours** described a different supplied reference and remains unverified; it must not replace the 120-hour statement in this uploaded profile or be presented as the confirmed ACCESS timetable.
+
+## Historical design-build specification module
+
+The [specifications module](../specifications/README.md) provides 18 complete activities, a worked answer guide, original SVG diagrams, practice CSV files and HTML/PDF editions. The [source map](../specifications/source-map.md) identifies exact clauses, PDF pages and printed section pages. The [selected excerpts](../specifications/source-excerpts.md) preserve a bounded technical reading without reproducing all 441 pages as extracted text.
+
+The 2006 edition is a historical design-build specification. It is not presented as the governing document for a current project. Classroom grading, delivery and area data are invented and clearly separated from transcribed historical limits. A ten-load calculation block is not assumed to be an acceptance Lot; no payment, pavement acceptance or equipment-operation decision is authorized by the exercise.

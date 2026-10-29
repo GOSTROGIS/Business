@@ -1,0 +1,339 @@
+{
+  "schema_version": 1,
+  "checked_date": "2026-10-29",
+  "records": [
+    {
+      "evidence_id": "LA-S01",
+      "source_key": "workbc-construction",
+      "title": "WorkBC: Construction industry profile",
+      "publisher": "Province of British Columbia / WorkBC",
+      "version_or_period": "2024 observed data; 2025–2035 forecast",
+      "retrieved": "2026-10-29",
+      "url": "https://www.workbc.ca/industry-profile/construction",
+      "resolved_url": "https://www.workbc.ca/industry-profile/construction",
+      "retrieved_sha256": "d98535133d5856c9eb49b587fc14bbf28ef2572de82bd8d5c37698a2d7a7dd3d",
+      "locator": "Employment (2024)",
+      "excerpt": "Employment (2024) 246,750 Employment Growth (2025-2035) +1.0% Job Openings (2025-2035) 87,280",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S02",
+      "source_key": "workbc-construction",
+      "title": "WorkBC: employment types",
+      "publisher": "Province of British Columbia / WorkBC",
+      "version_or_period": "2024 Labour Force Survey",
+      "retrieved": "2026-10-29",
+      "url": "https://www.workbc.ca/industry-profile/construction",
+      "resolved_url": "https://www.workbc.ca/industry-profile/construction",
+      "retrieved_sha256": "d98535133d5856c9eb49b587fc14bbf28ef2572de82bd8d5c37698a2d7a7dd3d",
+      "locator": "Types of Employment",
+      "excerpt": "Types of Employment Shows % of persons employed for each type B.C. (2024) Full Time 80% Part Time 20% Self-employed 16% Temporary Jobs 9% Industry (2024) Full Time 92% Part Time 8% Self-employed 27% Temporary Jobs 5% Source: 2024 Labour Force Survey Latest Employment Trends Aug 2026 vs. Jul 2026 Employment (change since last month) -4,800 % Change (since last month) -1.7% Source: Monthly Labour Force Survey, 3-month moving average, seasonally unadjusted Em",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S03",
+      "source_key": "iuoe-provider",
+      "title": "Asphalt Paving Laydown Technician",
+      "publisher": "IUOE Local115 Training Association",
+      "version_or_period": "Retrieved29October2026; course dates listed TBA",
+      "retrieved": "2026-10-29",
+      "url": "https://iuoe115.ca/asphalt-laydown-operator/",
+      "resolved_url": "https://iuoe115.ca/asphalt-laydown-operator/",
+      "retrieved_sha256": "136bab2c5ada6a61615434853c897519948e5e61ec3249c9e545be5393cacd2b",
+      "locator": "Entrance Requirements",
+      "excerpt": "Entrance Requirements Pre-requisites: A valid Class 5 or 7 driver’s license",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S04",
+      "source_key": "iuoe-provider",
+      "title": "Provider duration statement",
+      "publisher": "IUOE Local115 Training Association",
+      "version_or_period": "Retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://iuoe115.ca/asphalt-laydown-operator/",
+      "resolved_url": "https://iuoe115.ca/asphalt-laydown-operator/",
+      "retrieved_sha256": "136bab2c5ada6a61615434853c897519948e5e61ec3249c9e545be5393cacd2b",
+      "locator": "Dates Asphalt Paving Technician Program:",
+      "excerpt": "Dates Asphalt Paving Technician Program: Monday to Friday, at Maple Ridge training site (4 weeks) Course dates: To be announced Total accumulated hours equivalent to 140",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S05",
+      "source_key": "bc-ohs",
+      "title": "Occupational Health and Safety Regulation, sections3.22–3.25",
+      "publisher": "B.C. Laws",
+      "version_or_period": "Consolidated regulation retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/296_97_01",
+      "resolved_url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/296_97_01",
+      "retrieved_sha256": "65609aa5ac98a273578b7320451867ef78c1b066dee1e9362d7af2ed6d5e63cd",
+      "locator": "Young or New Workers Definitions",
+      "excerpt": "Young or New Workers Definitions 3.22 In sections 3.23 to 3.25: \"new worker\" means any worker who is (a) new to the workplace, (b) returning to a workplace where the hazards in that workplace have changed during the worker's absence, (c) affected by a change in the hazards of a workplace, or (d) relocated to a new workplace if the hazards in that workplace are different from the hazards in the worker's previous workplace; \"young worker\" means any worker who is under 25 years of age. [en. B.C. Reg. 105/2007.] Young or new worker orientation and training 3.23 (1) An employer must ensure that before a young or new worker begins work in a workplace, the young or new worker is given health and safety orientation and training specific to that young or new worker's workplace. (2) The following topics must be included in the young or new worker's orientation and training: (a) the name and contact information for the young or new worker's supervisor; (b) the employer's and young or new worker's rights and responsibilities under the Workers Compensation Act and this Regulation including the reporting of unsafe conditions and the right to refuse to perform unsafe work; (c) workplace health and safety rules; (d) hazards to which the young or new worker may be exposed, including risks from robbery, assault or confrontation; (e) working alone or in isolation; (f) violence in the workplace; (g) personal protective equipment; (h) location of first aid facilities and means of summoning first aid and reporting illnesses and injuries; (i) emergency procedures; (j) instruction and demonstration of the young or new worker's work task or work process; (k) the employer's health and safety program, if required under section 3.1 of this Regulation; (l) WHMIS information requirements set out in Part 5, as applicable to the young or new worker's workplace; (m) contact information for the occupational health and safety committee or the worker health and safety representative, as applicable to the workplace. [en. B.C. Reg. 105/2007.] Additional orientation and training 3.24 An employer must provide a young or new worker with additional orientation and training if (a) workplace observation reveals that the young or new worker is not able to perform work tasks or work processes safely, or (b) requested by the young or new worker. [en. B.C. Reg. 105/2007.] Documentation 3.25 An employer must keep records of all orientation and training provided under sections 3.23 and 3.24. [en. B.C. Reg. 105/2007.] Joint Health and Safety Committees Evaluation of joint committees 3.26 (1) In this section, a reference to a joint committee does not include a joint committee established and maintained under section 32 of the Workers Compensation Act , if (a) an order under section 32 (1) of the Workers Compensation Act respecting the joint committee provides for a variation as set out in subsection (2) (b) of that section of that Act, and (b) the variation is in regards to evaluating the joint committee. (2) An employer must ensure that, with respect to each of the employer's joint committees, a written evaluation is conducted annually by (a) the co-chairs of the joint committee or, with respect to each co-chair, the member or members of the joint committee designated by the co-chair, or (b) the employer or a person retained by the employer. (3) The evaluation must contain, but is not limited to, the following information: (a) whether or not, throughout the period of time that is the subject of the evaluation, (i) the joint committee met the membership requirements under section 33 of the Workers Compensation Act , (ii) worker representatives on the joint committee were selected in ",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S06",
+      "source_key": "bc-standard-specs",
+      "title": "Standard Specifications for Highway Construction",
+      "publisher": "Province of British Columbia",
+      "version_or_period": "Page updated1April2026; 2025edition adopted1February2025",
+      "retrieved": "2026-10-29",
+      "url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/standard-specifications-for-highway-construction",
+      "resolved_url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/standard-specifications-for-highway-construction",
+      "retrieved_sha256": "c8453b8e3f8a5b4213c2deea1c5134c1fa9b45c3cd5b8fa834bffa5b1d402b5e",
+      "locator": "Standard Specifications for Highway Construction Last updated",
+      "excerpt": "Standard Specifications for Highway Construction Last updated on April 1, 2026 Standard specifications for highway construction serves as a standard reference in construction contracts. The specifications outline minimum requirements for highway construction in British Columbia. Where modifications are necessary to suit local conditions they will be specified in special provisions for each contract. 2025 Standard Specifications The 2025 Standard Specifications for Highway Construction is completed and is adopted February 1, 2025. 2025 Standard Specifications for Highway Construction Volume 1 (PDF, 32MB) February 1, 2025 2025 Standard Specifications for Highway Construction Volume 2 (PDF, 67MB) February 1, 2025 Amendments Amendments the Standard Specifications are detailed below. Special Provisions Appendix for Amendments to the 2025 Standard Specifications for Highway Construction (PDF) Adopted February 1, 2025 Updated April 1, 2026 Historical Standard Specifications 2004-2020 Standard specifications for highway construction for previous years are available for review. Standard specifications for highway construction 2020 Standard specifications for highway construction 2016 Standard specifications for highway construction 2012 Standard specifications for highway construction 2009 Standard specifications for highway construction 2006 Standard specifications for highway construction 2004 More topics Printed Copies Order printed copies: 2025 Standard Specifications 2020 Standard Specifications 2016 Standard Specifications 2012 Standard Specifications Related Links Tender & Contract Information General Conditions Supplemental General Conditions Sample Special Provisions Specifications Design Build Standard Specifications Highway Maintenance Specifications Electrical Mainte",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S07",
+      "source_key": "bc-project-overview",
+      "title": "Kicking Horse Canyon Phase4: Project Overview",
+      "publisher": "B.C. project website",
+      "version_or_period": "Project completed31July2024; retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.kickinghorsecanyon.ca/about/project-overview/",
+      "resolved_url": "https://www.kickinghorsecanyon.ca/about/project-overview/",
+      "retrieved_sha256": "3904227538c8c2638d977d1096ed6079b3a7703a77749e65c9391dc2b3a560d4",
+      "locator": "More than $600 million",
+      "excerpt": "More than $600 million was invested in the project, with the Government of Canada contributing $215.19 million and the B.C. government providing the remaining $385.58 million. Kicking Horse Canyon Phase 4 Useful Contacts For information about the Kicking Horse Canyon Project, contact: Telephone: 250-828-4220 Email: TCHInfo@gov.bc.ca Traffic www.DriveBC.ca Disclaimer Privacy Accessibility Copyright",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S08",
+      "source_key": "bc-project-contractor",
+      "title": "Kicking Horse Canyon Phase4: Procurement/Contractor",
+      "publisher": "B.C. project website",
+      "version_or_period": "Contract awarded6November2020; completed31July2024",
+      "retrieved": "2026-10-29",
+      "url": "https://www.kickinghorsecanyon.ca/about/procurement-contractor/",
+      "resolved_url": "https://www.kickinghorsecanyon.ca/about/procurement-contractor/",
+      "retrieved_sha256": "3964955bba97af9ffafd33a30ff88bcada16de8bcdcd1fbd7678deb64ff5e213",
+      "locator": "Procurement Process",
+      "excerpt": "Procurement Process The contract to design and construct the fourth and final phase of the Kicking Horse Canyon Project near Golden was procured as a Design-Build arrangement, with the following milestones: A Request for Qualifications (RFQ) was issued in September 2019, inviting potential bidders to provide their credentials and prove they have the ability to finalize the design and construct this complex and challenging project. On December 13, 2019, a Request for Proposals was issued to a short list of qualified teams that were required to submit detailed proposals to actually carry out the work according to the Ministry’s specifications and schedule. On September 18, 2020, following a competitive procurement process, the Province announced that Kicking Horse Canyon Constructors, consisting of Aecon Group Inc., Parsons Inc. and Emil Anderson Construction has been selected to enter into final contract negotiations to design and construct the fourth and final phase of the Kicking Horse Canyon Project. Read September 18, 2020 – Preferred proponent team chosen for Phase 4 of Kicking Horse Canyon Project On November 6, 2020, the Province formally awarded the contract to Kicking Horse Canyon Constructors. Read November 6, 2020 – Contract Awarded for Kicking Horse Canyon Project – Phase 4 The project was completed on July 31, 2024 Additional information related to the procurement process Important information related to the procurement process is found in the following key documents: Design-Build Agreement Fairness advisor report on RFP process Fairness advisor report on RFQ process Request for Proposals Relationship Review Process Description (175 KB PDF, 10 pages, Ap ril 2019) Describes the process (“Relationship Review Process”) for identifying issues related to actual o",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S09",
+      "source_key": "unesco-appian",
+      "title": "Via Appia. Regina Viarum",
+      "publisher": "UNESCO World Heritage Centre",
+      "version_or_period": "World Heritage listing2024; retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://whc.unesco.org/en/list/1708/",
+      "resolved_url": "https://whc.unesco.org/en/list/1708/",
+      "retrieved_sha256": "1edc2564528bfcc22a5d21921fddbfe6b2be2ad0512049d5f1ab1f87f43fd2cf",
+      "locator": "Constructed and developed from 312 BCE",
+      "excerpt": "Constructed and developed from 312 BCE to the 4th century CE, it was originally conceived as a strategic road for military conquest, advancing towards the East and Asia Minor. The Via Appia later enabled the cities it connected to grow and new settlements emerged, facilitating agricultural production and trade. This property, composed of 19 component parts, is a fully developed ensemble of engineering works, illustrating the advanced technical skill of Roman engineers in the construction of roads, civil engineering projects, infrastructure and sweeping land reclamation works, as well as a vast series of monumental structures including, for example, triumphal arches, baths, amphitheatres and basilicas, aqueducts, canals, bridges, and public fountains. Description is available under license CC-BY-SA IGO 3.0 Via Appia. Regina Viarum Longue de plus de 800 kilomètres, la Via Appia est la plus ancienne et la plus importante des grandes voies ",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S10",
+      "source_key": "alaska-about",
+      "title": "About the Alaska Highway",
+      "publisher": "Public Services and Procurement Canada",
+      "version_or_period": "Page updated16December2025",
+      "retrieved": "2026-10-29",
+      "url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway/about.html",
+      "resolved_url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway/about.html",
+      "retrieved_sha256": "fbc8d136e5283b2db918290d0babce89b9f8e22272cdf00e83ba4e23b85f817a",
+      "locator": "History of the highway The U.S.",
+      "excerpt": "History of the highway The U.S. Army Corps of Engineers built the Alaska Highway in response to the bombing of Pearl Harbour. It was built to provide land access to Alaska from the lower 48 states during the Second World War. Local First Nations played a vital role during the construction of the highway, acting as guides through this difficult and remote territory. 1942: Construction began on the Alaska Highway the construction of the Alaska Highway was considered the most expensive project of the Second World War, costing approximately $185 million at the time it took around 11,000 soldiers and engineers, about 16,000 civilians and 7,000 pieces of equipment to build the highway the original pioneer road was completed in 1942, taking just 9 months to connect Dawson Creek, B.C., to Delta Junction, Alaska 1943: The permanent location of the Alaska Highway was completed in 1943 1946: After the Second World War, the U.S. Army transferred responsibility for the portion of the highway residing in Canada to National Defence 1948: The opening of the Alaska Highway to civilian non-military use officially started 1961: Responsibility for the section of the highway from km 0 (Dawson Creek) to km 133 (north of Fort St. John) was transferred to the Province of B.C. 1964: Responsibility for the remaining highway infrastructure and operations was transferred to PSPC April 1, 1992: The Government of Yukon assumed responsibility for the Yukon portion of the highway 2022: The Alaska Highway turned 80 Related links Alaska Highway: Information for motorists and trucking traffic Alaska Highway: Current projects Alaska Highway: Completed projects Bridge-culverts × Close overlay (escape key) A bridge culvert is a culvert over 3 meters in diameter. Close overlay (escape key) From: Public Services and Procurement Canada Page details 2025-12-16 About this site Public Services and Procurement Canada Contact Real property services Media relations Contact Public Services and Procurement Canada Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S11",
+      "source_key": "fhwa-interstate",
+      "title": "History of the Interstate Highway System",
+      "publisher": "U.S. Federal Highway Administration",
+      "version_or_period": "Historical account; retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.fhwa.dot.gov/interstate/history.cfm",
+      "resolved_url": "https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system",
+      "retrieved_sha256": "8dddc40390797c52307f1131b66d2efae0474d605f9bcec94b9aea76a8af404c",
+      "locator": "The Interstate System has been called",
+      "excerpt": "The Interstate System has been called the Greatest Public Works Project in History. From the day President Dwight D. Eisenhower signed the Federal-Aid Highway Act of 1956 , the Interstate System has been a part of our culture as construction projects, as transportation in our daily lives, and as an integral part of the American way of life. Every citizen has been touched by it, if not directly as motorists, then indirectly because every item we buy has been on the Interstate System at some point. President Eisenhower considered it one of the most important achievements of his two terms in office, and historians agree. In this section, you will find articles explaining the origins of the Interstate System and how it came together, as well as other aspects of its development. Check the bibliography for additional readings on all aspects of the story. Links will connect you to other sources of information. Featured The Video Gallery : Motion pictures have frequently portrayed the American",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S12",
+      "source_key": "fhwa-concrete-recycling",
+      "title": "Recycled Concrete Aggregate: Federal Highway Administration National Review",
+      "publisher": "U.S. Federal Highway Administration",
+      "version_or_period": "Undated historical review page; retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.fhwa.dot.gov/pavement/recycling/rca.cfm",
+      "resolved_url": "https://www.fhwa.dot.gov/pavement/recycling/rca.cfm",
+      "retrieved_sha256": "9a6a8758d2960089a27f18737ed654aed074f727a767878c4712e0f2d5889229",
+      "locator": "Some conclusions that can be drawn",
+      "excerpt": "Some conclusions that can be drawn from the figures are as follows: Concrete is routinely being recycled into the highway environment in the United States. The principal application of recycled concrete aggregate in the United States has been as a base material The utilization of recycled concrete aggregate as aggregate in hot mix asphalt (HMA) and concrete is not as widely accepted in the United States. Further issues were identified in the survey, but will be saved for further clarification and discussion by the review team in the final report. Team Members: Bryan Cawley, Materials Engineer, FHWA Resource Center Midwest Jason Harrington, As",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S13",
+      "source_key": "bc-forestry-roads",
+      "title": "Resource roads",
+      "publisher": "Province of British Columbia",
+      "version_or_period": "Page updated5May2025; retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/resource-roads",
+      "resolved_url": "https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/resource-roads",
+      "retrieved_sha256": "5f9ccdbf086f4a7f8ad16217e0fea33666d008f1d0b2bfd64268e5cdcfe97043",
+      "locator": "Resource roads Last updated",
+      "excerpt": "Resource roads Last updated on May 5, 2025 Resource roads are found on Crown land but are not part of the provincial highway system. They are frequently used by industrial vehicles involved in forestry, mining, oil and gas, clean energy, or agriculture operations. They also provide access to communities and high value recreation in remote areas.",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S14",
+      "source_key": "icbc-license",
+      "title": "Licence classes and types",
+      "publisher": "ICBC",
+      "version_or_period": "Retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.icbc.com/driver-licensing/types-licences/Licence-classes-and-types",
+      "resolved_url": "https://www.icbc.com/driver-licensing/types-licences/Licence-classes-and-types",
+      "retrieved_sha256": "e7ad933cad638caed6ad39bca966a018f915c87a4ecae82b549ba533400b6994",
+      "locator": "The most common licence",
+      "excerpt": "The most common licence is the Class 5-passenger vehicle licence.",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S15",
+      "source_key": "bc-labour",
+      "title": "Collective Agreements",
+      "publisher": "Labour Relations Board of British Columbia",
+      "version_or_period": "Retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.lrb.bc.ca/collective-agreements",
+      "resolved_url": "https://www.lrb.bc.ca/collective-agreements",
+      "retrieved_sha256": "96a39e3a08470bded88f7bfda68ad23cb101b85bde8488d46986f05265a6eb6a",
+      "locator": "Within 30 days after executing",
+      "excerpt": "Within 30 days after executing a first or renewal collective agreement or any ancillary documents, the union and employer must file a copy of it with the Labour Relations Board. If the collective agreement or ancillary document is not filed, it may result in the Board declining to consider it in a Labour Relations Code proceeding. Search collective agreements filed with the Labour Relations Board or scroll through the list below. You can search by employer name, union name, or industry. File an agreement Use the Board's webform to file your agreement. Please complete as much information as possible to support robust reporting on collective ag",
+      "excerpt_type": "verbatim text extract; navigation omitted where locator permits"
+    },
+    {
+      "evidence_id": "LA-S16",
+      "source_key": "epa-asphalt",
+      "title": "AP-42 Section11.1: Hot Mix Asphalt Plants",
+      "publisher": "U.S. Environmental Protection Agency",
+      "version_or_period": "March2004 chapter; downloaded from2020host path",
+      "retrieved": "2026-10-29",
+      "url": "https://www.epa.gov/sites/default/files/2020-10/documents/c11s01.pdf",
+      "resolved_url": "https://www.epa.gov/sites/default/files/2020-10/documents/c11s01.pdf",
+      "retrieved_sha256": "91fbfd5fffc9c243ce70c1aae551c54fe0d3a569950d58dd3adfd0fb08dd2e57",
+      "source_pdf_pages": 63,
+      "extracts": [
+        {
+          "pdf_page": 1,
+          "text": "3/04 Mineral Products Industry 11.1-1\n11.1  Hot Mix Asphalt Plants\n11.1.1  General1-3,23, 392-394\nHot mix asphalt (HMA) paving materials are a mixture of size-graded, high quality aggregate\n(which can include reclaimed asphalt pavement [RAP]), and liquid asphalt cement, which is heated and\nmixed in measured quantities to produce HMA.  Aggregate and RAP (if used) constitute over 92 percent\nby weight of the total mixture.  Aside from the amount and grade of asphalt cement used, mix\ncharacteristics are determined by the relative amounts and types of aggregate and RAP used.  A certain\npercentage of fine aggregate (less than 74 micrometers [µm] in physical diameter) is required for the\nproduction of good quality HMA.\nHot mix asphalt paving materials can be manufactured by:  (1) batch mix plants, (2) continuous\nmix (mix outside dryer drum) plants, (3) parallel flow drum mix plants, and (4) counterflow drum mix\nplants.  This order of listing generally reflects the chronological order of development and use within the\nHMA industry.\nIn 1996, approximately 500 million tons of HMA were produced at the 3,600 (estimated) active\nasphalt plants in the United States.  Of these 3,600 plants, approximately 2,300 are batch plants, 1,000 are\nparallel flow drum mix plants, and 300 are counterflow drum mix plants.  The total 1996 HMA\nproduction from batch and drum mix plants is estimated at about 240 million tons and 260 million tons,\nrespectively.  About 85 percent of plants being manufactured today are of the counterflow drum mix\ndesign, while batch plants and parallel flow drum mix plants account for 10 percent and 5 percent\nrespectively.  Continuous mix plants represent a very small fraction of the plants in use (#0.5 percent)\nand, therefore, are not discussed further.\nAn HMA plant can be constructed as a permanent plant, a skid-mounted (easily relocated) plant,\nor a portable plant.  All plants can have RAP processing capabilities.  Virtually all plants being\nmanufactured today have RAP processing capability.  Most plants have the capability to use either\ngaseous fuels (natural gas) or fuel oil.  However, based upon Department of Energy and limited State\ninventory information, between 70 and 90 percent of the HMA is produced using natural gas as the fuel to\ndry and heat the aggregate.\n11.1.1.1  Batch Mix Plants \n!  \nFigure 11.1-1 shows the batch mix HMA production process.  Raw aggregate normally is\nstockpiled near the production unit.  The bulk aggregate moisture content typically stabilizes between 3 to\n5 percent by weight.\nProcessing begins as the aggregate is hauled from the storage piles and is placed in the\nappropriate hoppers of the cold feed unit.  The material is metered from the hoppers onto a conveyer belt\nand is transported into a rotary dryer (typically gas- or oil-fired).  Dryers are equipped with flights\ndesigned to shower the aggregate inside the drum to promote drying efficiency.\nAs the hot aggregate leaves the dryer, it drops into a bucket elevator and is transferred to a set of\nvibrating screens, where it is classified into as many as four different grades (sizes) and is dropped into\nindividual “hot” bins according to size.  At newer facilities, RAP also may be transferred to a separate\nheated storage bin.  To control aggregate size distribution in the final batch\n mix, the operator opens\nvarious hot bins over a weigh hopper until the desired mix and weight are obtained.  Concurrent with the\naggregate being weighed, liquid asphalt cement is pumped from a heated storage tank to an asphalt\nbucket, where it is weighed to achieve the desired aggregate-to-asphalt cement ratio in the final mix."
+        },
+        {
+          "pdf_page": 3,
+          "text": "3/04 Mineral Products Industry 11.1-3\nThe aggregate from the weigh hopper is dropped into the mixer (pug mill) and dry-mixed for\n6 to 10 seconds.  The liquid asphalt is then dropped into the pug mill where it is mixed for an additional\nperiod of time.  At older plants, RAP typically is conveyed directly to the pug mill from storage hoppers\nand combined with the hot aggregate.  Total mixing time usually is less than 60 seconds.  Then the hot\nmix is conveyed to a hot storage silo or is dropped directly into a truck and hauled to the job site.  \n11.1.1.2  Parallel Flow Drum Mix Plants !\nFigure 11.1-2 shows the parallel flow drum mix process.  This process is a continuous mixing\ntype process, using proportioning cold feed controls for the process materials.  The major difference\nbetween this process and the batch process is that the dryer is used not only to dry the material but also to\nmix the heated and dried aggregates with the liquid asphalt cement.  Aggregate, which has been\nproportioned by size gradations, is introduced to the drum at the burner end.  As the drum rotates, the\naggregates, as well as the combustion products, move toward the other end of the drum in parallel. \nLiquid asphalt cement flow is controlled by a variable flow pump electronically linked to the new (virgin)\naggregate and RAP weigh scales.  The asphalt cement is introduced in the mixing zone midway down the\ndrum in a lower temperature zone, along with any RAP and particulate matter (PM) from collectors.\nThe mixture is discharged at the end of the drum and is conveyed to either a surge bin or HMA\nstorage silos, where it is loaded into transport trucks.  The exhaust gases also exit the end of the drum and\npass on to the collection system.\nParallel flow drum mixers have an advantage, in that mixing in the discharge end of the drum\ncaptures a substantial portion of the aggregate dust, therefore lowering the load on the downstream PM\ncollection equipment.  For this reason, most parallel flow drum mixers are followed only by primary\ncollection equipment (usually a baghouse or venturi scrubber).  However, because the mixing of\naggregate and liquid asphalt cement occurs in the hot combustion product flow, organic emissions\n(gaseous and liquid aerosol) may be greater than in other asphalt mixing processes.  Because data are not\navailable to distinguish significant emissions differences between the two process designs, this effect on\nemissions cannot be verified.\n11.1.1.3  Counterflow Drum Mix Plants \n!\nFigure 11.1-3 shows a counterflow drum mix plant.  In this type of plant, the material flow in the\ndrum is opposite or counterflow to the direction of exhaust gases.  In addition, the liquid asphalt cement\nmixing zone is located behind the burner flame zone so as to remove the materials from direct contact\nwith hot exhaust gases.\nLiquid asphalt cement flow is controlled by a variable flow pump which is electronically linked\nto the virgin aggregate and RAP weigh scales.  It is injected into the mixing zone along with any RAP and\nparticulate matter from primary and secondary collectors.\nBecause the liquid asphalt cement, virgin aggregate, and RAP are mixed in a zone removed from\nthe exhaust gas stream, counterflow drum mix plants will likely have organic emissions (gaseous and\nliquid aerosol) that are lower than parallel flow drum mix plants.  However, the available data are\ninsufficient to discern any differences in emissions that result from differences in the two processes.  A\ncounterflow drum mix plant can normally process RAP at ratios up to 50 percent with little or no\nobserved effect upon emissions."
+        }
+      ],
+      "excerpt_type": "selected exact PDF page text, not the entire publication"
+    },
+    {
+      "evidence_id": "LA-S17",
+      "source_key": "fhwa-porous",
+      "title": "Porous Asphalt Pavements with Stone Reservoirs, FHWA-HIF-15-009",
+      "publisher": "U.S. Federal Highway Administration",
+      "version_or_period": "April2015",
+      "retrieved": "2026-10-29",
+      "url": "https://www.fhwa.dot.gov/pavement/asphalt/pubs/hif15009.pdf",
+      "resolved_url": "https://www.fhwa.dot.gov/pavement/asphalt/pubs/hif15009.pdf",
+      "retrieved_sha256": "a3c7e3ce8e95cfc63f287c490a5cb4ab9f76e9c381f5654dd096ac00d8f5a502",
+      "source_pdf_pages": 11,
+      "extracts": [
+        {
+          "pdf_page": 1,
+          "text": " \n \n \n \nThe Asphalt Pavement \nTechnology Program is an \nintegrated national effort to \nimprove the long-term \nperformance and cost \neffectiveness of asphalt \npavements. Managed by the \nFederal Highway \nAdministration through \npartnerships with state highway \nagencies, industry and \nacademia, the program’s \nprimary goals are to reduce \ncongestion, improve safety, \nand foster technology \ninnovation. The program was \nestablished to develop and \nimplement guidelines, methods, \nprocedures and other tools for \nuse in asphalt pavement \nmaterials selection, mixture \ndesign, testing, construction \nand quality control. \n \n \n \n \nOffice of Asset Management, \nPavements, and Construction \nFHWA-HIF-15-009 \nApril 2015 \nPorous Asphalt Pavements \nwith Stone Reservoirs \nThis Technical Brief provides an overview of the benefits, \nlimitations and applications of porous asphalt pavements with \nstone reservoirs. Considerations for design and construction, as \nwell as maintenance, are discussed. \nIntroduction \nPorous asphalt pavements with stone reservoirs are a \nmultifunctional low impact development (LID) technology, which \nintegrates ecological and environmental goals for a site with land \ndevelopment goals, reducing the net environmental impact for a \nproject. \nNot only do they provide a strong pavement surface for \nparking, walkways, trails, and roads; they are designed to manage \nand treat stormwater runoff. With proper design and installation, \nporous asphalt pavements can provide a cost-effective solution for \nstormwater management in an environmentally friendly way. As a \nresult, they are recognized as a best practice by the U.S. \nEnvironmental Protection Agency (EPA) and many state agencies \n(EPA n.d.; PDEP 2006; NJDEP 2004).\n \nFigure 1: Typical porous asphalt pavement with stone \nreservoir cross section \n"
+        },
+        {
+          "pdf_page": 2,
+          "text": "2 | Porous Asphalt Pavements with Stone Reservoirs FHWA-HIF-15-009 \nUnlike c\nonventional pavements, porous asphalt \npavements are typically built over an uncompacted \nsubgrade to maximize infiltration through the soil. \nAbove the uncompacted subgrade is a geotextile \nfabric, which prevents the migration of fines from \nthe subgrade into the stone recharge bed while still \nallowing for water to pass through. The next layer is \na stone reservoir consisting of uniformly graded, \nclean crushed stone with 40% voids serving as a \nstructural layer and to temporarily store water as it \ninfiltrates into the soil below. Then, to stabilize the \nsurface for paving, a thin (about 1-inch thick) layer \nof clean, smaller, single-size crushed stones is often \nplaced on top; this is called the stabilizing course or \nchoker course. The last layer consists of one or more \nlayers of open-graded asphalt mixes with \ninterconnected voids, allowing water to flow through \nthe pavement into the stone reservoir. These open-\ngraded asphalt layers consist of asphalt binder, stone \naggregates, and other additives. By excluding fines, the \nopen-graded mixture allows for more air voids \n(typically between 16% and 22% voids). \nOGFC \nVS. POROUS \nPAVEMENT \nThe\nre are two common uses for \nopen-graded asphalt mixes for \npav\nements. \nAn open-graded friction course \n(OGFC) is a thin, open-graded \nasphalt mix placed atop a dense-\ngraded pavement. Rainwater \ndrains into the OGFC and then \nout the side of the pavement. \nPorous asphalt pavements use \nopen-graded mixes placed atop \na ston\ne reservoir. Rainwater \nflows down through the open-\ngraded mix layers into the stone \nreservoir where it can then \ninfiltrate into the subgrade. \nBenefits and Limitations \nTable 1 summarizes many benefits and limitations of porous asphalt pavements. One of the \ngreatest benefits of porous asphalt pavements is its effectiveness for stormwater management, \nimproving water runoff quality, reducing stormwater runoff, and restoring groundwater supplies. \nStormwater drains through the open-graded asphalt surface, is temporarily held in the voids of the \nstone reservoir reducing stormwater runoff, and then slowly drains into the underlying, \nuncompacted subgrade to eventually restore groundwater supplies. As it drains, contaminants are \nfiltered and microbial activity decomposes pollutants, improving water quality. \nSeveral studies have quantified high removal rates of total suspended solids (TSS), metals, oil \nand grease, as well as moderate removal rates for phosphorous, from using porous asphalt \npavements (Cahill et al. 2005; Roseen et al. 2012). During the winter, porous asphalt pavements \nhave excellent performance since water drains quickly through the surface. They are a potential \nstrategy for minimizing use of deicing chemicals. The University of New Hampshire Stormwater \nCenter reports a 75% or greater reduction of deicing salts. While the system does not remove \nchloride, the drastic reduction of deicing chemicals required is an effective method for reducing \nchloride pollution (Roseen et al. 2014). \n "
+        },
+        {
+          "pdf_page": 3,
+          "text": "3 | Porous Asphalt Pavements with Stone Reservoirs FHWA-HIF-15-009 \nTable 1. Benefits and limitations of porous asphalt pavements with stone reservoirs \n \nBenefit\ns/Advantages \n Snow and ice melts faster, reduction in \ndeicing salts (Lebens 2012) \n Cools stormwater temperature during \nsummertime before discharge and \nmitigates heat island effects (Lebens \n2012). \n Reduction in contamination in water \nrunoff and sediment loading (Lebens \n2012; Houle et al. 2013) \n Recharging of groundwater supplies \n(UNHSC 2012) \n Low impact development and cost \neffective technology for stormwater \nmanagement, by reducing need for \ndrainage structures and rights of way \n(Houle et al. 2013; UNHSC 2011; EPA \n2014) \n Improved wet-weather visibility, tire \nspray, and hydroplaning (Lebens 2012) \n Absorption of noise from tires and \nengines (Lebens 2012) \n Reduction in Stormwater runoff volume \n(Lebens 2012) \n Improves water and oxygen transfer to \nnearby plant roots (CTC & Associates \n2012) \n Credits in green construction rating \nsystems (i.e., LEED; Greenroads; IgCC) \n  \n \nLimitations/Disadvantages \n Pavement structure initial costs are \noften higher; however, this may be \noffset by cost reductions realized from \nstormwater infrastructure (Houle et al. \n2013) \n Sloped pavements require extra design \nconsiderations such as terraced parking, \nunderground berms, and drainage pipes \nat low points \n Potential clogging with dirt and organic \ndebris requiring specialized \nmaintenance such as vacuuming or \nother cleaning mechanisms (UNHSC \n2012) \n Limited use for heavy loading areas \nwhere sharp turns are probable \n Porous pavements should not be \nconstructed where there is a high risk of \ntoxic spills; however, porous pavements \nhave been noted to contain spills from \nuncontrolled runoff (Lebens 2012) \n Some variation from standard \nconstruction practices "
+        }
+      ],
+      "excerpt_type": "selected exact PDF page text, not the entire publication"
+    },
+    {
+      "evidence_id": "LA-S18",
+      "source_key": "fhwa-geofoam",
+      "title": "Ground Modification Methods, Reference Manual VolumeI, FHWA-NHI-16-027",
+      "publisher": "U.S. Federal Highway Administration",
+      "version_or_period": "April2017",
+      "retrieved": "2026-10-29",
+      "url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi16027.pdf",
+      "resolved_url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi16027.pdf",
+      "retrieved_sha256": "f2b5931d707ad4b08acae137040d4eaaec7475d5e41b906daaaf7e23d4c3e0bf",
+      "source_pdf_pages": 394,
+      "extracts": [
+        {
+          "pdf_page": 1,
+          "text": "U.S. Department of Transportation \nFederal Highway Administration \nPublication No. FHWA-NHI-16-027 \nFHWA GEC 013 \nApril 2017 \nNHI Course No. 132034 \nGround Modification Methods \nReference Manual – Volume I \n"
+        },
+        {
+          "pdf_page": 2,
+          "text": "NOTICE \nThe contents of this document reflect the views of the authors, who are responsible for the facts and \naccuracy of the data presented herein. The contents do not necessarily reflect policy of the Department \nof Transportation. This document does not constitute a standard, specification, or regulation. The United \nStates Government does not endorse products or manufacturers. Trade or manufacturer’s names appear \nherein only because they are considered essential to the objective of this document. \nCOVER PHOTO CREDITS \nUpper left: Massachusetts Department of Transportation \nUpper middle: MixOnSite USA, Inc. \nUpper right: Bob Lukas, Ground Engineering Consultants, Inc. \nLower left: Menard Group USA \nLower middle: Subsurface Constructors \nLower right: Hayward Baker "
+        },
+        {
+          "pdf_page": 152,
+          "text": "3-2 \nThere\n is a wide range in the unit weight of these lightweight fill materials, but all have a \ndensity less than conventional soils. The composition and sources of the lightweight fill \nmaterials listed in Table 3-1 are discussed in Section 3. The availability of some of these \nmaterials and, therefore cost, will vary by geographic region.  \nLightweight fill materials have been used for decades. The worldwide interest and use of \nlightweight fill materials led to the publication of a 1997 authoritative reference, Lightweight \nFilling Materials, by the Permanent International Association of Road Congresses (PIARC \n1997). \nGeofoam is a generic term used to describe expanded polystyrene (EPS) and extruded \npolystyrene (XPS) material used in geotechnical applications. Geofoam was initially \ndeveloped for insulation material to prevent frost from penetrating soils. The initial use of \ngeofoam was in Scandinavia and North America in the early 1960s. In 1972, EPS-block \ngeofoam was used as a lightweight fill for a project in Norway (PIARC 1997; Horvath 1995). \nToday, EPS-block geofoam is widely used by state transportation agencies as lightweight fill \nfor embankment construction; and standards for its use are well established. \nThe technique of using pumping equipment to inject foaming agents into concrete was \ndeveloped in the late 1930s. Little is known about the early uses of this product. However, \nthe United States Army Corps of Engineers used foamed concrete as a tunnel lining and \nannular fill. This product is generally job-produced as cement/water slurry, with preformed \nfoam blended for accurate control and immediate placement. Today, lightweight cellular \nconcrete (a.k.a. foamed concrete) is widely used by state transportation agencies for \ngeotechnical fills. \nWood fiber has been used for many years by timber companies for roadways crossing peat \nbogs and low-lying land, as well as for landslide repairs (PIARC 1997). The steel-making \ncompanies have produced slag by-product since the start of the iron- and steel-making \nindustry. Initially, the slag was stockpiled as waste materials, but beginning around 1950, the \nslag were crushed, graded, and sold for fill materials (Lewis 1982; National Slag Association \n1968; National Slag Association 1988). \nTire shreds are a relatively more recent source of lightweight fill materials. Tire shreds have \nbeen used for lightweight fill in the United States and in other countries since the mid 1980s. \nThe availability of this material is increasing each year, and its use as a lightweight fill is \nfurther promoted by the need to dispose of tires. Tires are shredded to create tire-derived \naggregate (TDA), which can be used as a substitute for gravel, sand and other lightweight fill \nmaterials (FHWA 2010).  "
+        },
+        {
+          "pdf_page": 154,
+          "text": " \n3-4 \nThe technical summary discusses preparation of specifications and construction control \nprocedures, and references where detailed information is available at. Approximate costs for \nthe various lightweight fill materials are also presented. Four case histories are presented to \ndemonstrate the effectiveness of lightweight fills for specific situations.  \nThis chapter should not be considered to be a design manual on use of lightweight fill, since \nthe information contained herein is not presented in detail. Furthermore, the engineering \nproperties of some materials can vary significantly depending upon the source of the material \nand the manufacturing process. The engineering parameters presented in this document are \ntypical values, and a detailed design should include additional testing and evaluation of the \ncontemplated lightweight fill material. References are given so that the reader may obtain \nmore specific information regarding the lightweight fill materials, including properties, \nperformance records, and applications. Key references are listed in Section 1.5. \n1.4 Terminology and Acronyms \nEPS-block geofoam – generic block‐molded product form of expanded polystyrene used in \nsmall-strain geofoam applications \nGeofoam – block or planar rigid cellular foam polymeric material used in geotechnical \nengineering applications. (ASTM 2015) \nTire bales are produced by mechanically compressing and tying 100 (automobile) whole \ntires to form a bale, approximately 2 cubic yards in volume (Zornberg et al. 2005).  \nTire chips – pieces of scrap tires that have a basic geometrical shape and are generally \nbetween 12 and 50 mm [½ and 2 inches] in size and have most of the wire removed. (ASTM \n2012) \nTire derived aggregate (TDA) – pieces of scrap tires that have a basic geometrical shape \nand are generally between 12 and 305 mm [½ to 12 inches] in size and are intended for use in \ncivil engineering applications. (ASTM 2012) \nTire shreds – pieces of scrap tires that have a basic geometrical shape and are generally \nbetween 50 and 305 mm [½ to 12 inches] in size. (ASTM 2012) \nTire shreds are defined by New York State DOT as pieces of scrap tire between 2 inches \nand 12 inches in size (NYSDOT 2015a). \nA number of abbreviations are used throughout this chapter: \n• ACBFS air-cooled blast furnace slag "
+        },
+        {
+          "pdf_page": 157,
+          "text": "3-7 \n2.0 FEASIBI\nLITY CONSIDERATIONS \n2.1 Functions and Design Considerations \nLightweight fill materials have many potential highway applications, principally where the \ncapacity of the underlying soft soil is too low to carry the design load and/or the estimated \nsettlement of the embankment is too large. Under these conditions, the foundation soils must \nbe improved or bypassed, or the embankment load reduced. Lightweight fills fulfill the latter \nfunction. A brief overview of lightweight fill use or function is summarized as follows. \n2.1.1 Load Reduction \nWhen a fill is placed on soft ground, the main driving force is from the weight of the \nembankment itself. Conventional methods of improving the foundation stability have \nincluded the following (Holtz 1989): \n• Removing the soft soil and replacing it with compacted select fill\n• Improving the strength of the weak foundation soils through incremental surcharging\neither with or without vertical drains, to speed consolidation and the development of\nthe shear strength\n• Use of deep foundations to transfer some of the load through the weak foundation\ndeposits\n• Use of stabilizing berms adjacent to the embankment or flatter side slopes\n• Use of some form of ground modification, such as stone columns or soil mixing, to\nreinforce the weak foundation soils\nAll of the above solutions require extra time, cost, or the acquisition of additional right of \nway to allow for construction of the fill. Some of these solutions also require specialized \nequipment and experienced labor. In these situations, it may be more advantageous to use a \nlightweight fill material so as to reduce the driving forces, thereby increasing the overall \nglobal stability of the fill. The reduction in driving force will depend upon the type of \nlightweight fill material used. The geotechnical properties of various types of lightweight fill \nmaterials are discussed in more detail in Section 4. \nA secondary benefit of the use of lightweight fill material is the reduction in settlement under \nloading. The amount of settlement will be reduced proportionately to the reduction in load. "
+        },
+        {
+          "pdf_page": 192,
+          "text": " \n3-42 \ncomparison of various fills for an embankment fill project in Milpitas, California (Cheng \n2016) is presented in Table 3-13.  \nTable 3-13. Example Lightweight Fill Project Cost Comparison \nMaterial Total Cost* \nTraditional Soil Fill $563K \nPumice Rock $633K \nEPS-block Geofoam $1,145K \nExpanded Shale Clay $490K \nWood Chips $545K \nTire-derived Aggregate $334K \n* Total costs based on material, transportation \nand longevity costs; does not include installation \ncosts or contractor’s overhead and profit. \nSource: Cheng 2016 \nAdditional cost considerations would include compaction methods, loose versus compacted \nvolume adjustment, and any – a specialty items, such as the need for geotextiles, \ngeomembranes, drainage blankets, or soil cover.   "
+        }
+      ],
+      "excerpt_type": "selected exact PDF page text, not the entire publication"
+    },
+    {
+      "evidence_id": "LA-S19",
+      "source_key": "mmcd",
+      "title": "Master Municipal Construction Documents Association",
+      "publisher": "MMCD Association",
+      "version_or_period": "Publisher overview retrieved29October2026",
+      "retrieved": "2026-10-29",
+      "url": "https://www.mmcd.net/",
+      "resolved_url": "https://www.mmcd.net/",
+      "retrieved_sha256": "a92af0b4030aeea233d8fa9dc45b5a77f10327e60bd1551f277323f2943a6708",
+      "locator": "Documents publisher description",
+      "excerpt": "Master Municipal Construction Documents Association produces and publishes standardized documents and updates to support consistent municipal practices. Browse the latest releases on the right or click below to view the full document library View Documents 2019 MMCD Edition The Master Municipal Construction Documents Association 2019 Edition is the most recent and com",
+      "excerpt_type": "verbatim text extract"
+    },
+    {
+      "evidence_id": "LA-S20",
+      "source_key": "statcan-road-businesses",
+      "title": "Canadian Business Counts, with employees, December 2025",
+      "publisher": "Statistics Canada",
+      "version_or_period": "Published December2025; release13February2026; REF_DATE2025-07 retained",
+      "retrieved": "2026-10-29",
+      "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310109501",
+      "resolved_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310109501",
+      "retrieved_sha256": "a7917c5fd307c2665eeb3772641126f63e9799f4e1aa8b49727d5ed1ee72364c",
+      "hash_target": "Full ZIP downloaded from csv_url in statcan-road-businesses.json",
+      "locator": "GEO British Columbia; NAICS237310; all nine Employment size categories",
+      "excerpt": "Total427; 1–4:175; 5–9:63; 10–19:72; 20–49:62; 50–99:32; 100–199:18; 200–499:4; 500plus:1. Exact unmodified rows and metadata notes retained separately.",
+      "data_file": "statcan-road-businesses.json"
+    }
+  ],
+  "notes": [
+    "Public facts only. Fictional classroom inputs are separately labelled in lesson text.",
+    "Complete raw captures remain in the working research archive; hashes identify downloaded bytes.",
+    "No claim that historical technical publications are current BC standards."
+  ]
+}

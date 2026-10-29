@@ -1,44 +1,48 @@
 # Build and content validation
 
-Validated **23 October 2026** for the second ACCESS IS4S visual teaching edition. These checks establish source coverage, internal consistency and artifact integrity. Instructor pilot, learner feedback and local Indigenous community review remain delivery work; the materials do not claim those reviews have occurred.
+**Edition 3 · 29 October 2026.** These checks cover authored content, generated artifacts, software behaviour and sampled visual presentation. Qualified teaching review, a classroom pilot and local Indigenous community participation remain delivery work; this record does not claim they have occurred.
 
 ## Delivered books
 
 | Artifact | Pages | Contents |
 |---|---|---|
-| [Learner textbook](learner-textbook.pdf) | 129 | 12 chapters including the nine skills, two integrated projects, reference and portfolio. |
-| [Practitioner guide](practitioner-guide.pdf) | 185 | 13 teaching chapters, 10 answer sections and three research/reference sections. |
+| [Learner textbook](learner-textbook.pdf) | 186 | 12 chapters: nine skills, entry teaching, fresh practice, two projects, learning reference and portfolio. |
+| [Practitioner guide](practitioner-guide.pdf) | 248 | 14 teaching and delivery chapters, integrated fresh cases and keys, and 10 core answer sections. |
+| [Visual preview](visual-sampler.pdf) | 8 | Actual pages selected from the complete books. |
 
-Both PDFs contain selectable text, tagged structure, bookmarks and clickable contents. Their source HTML and individual chapter reading pages are committed alongside editable Markdown. Chromium generated the PDFs using bundled fonts. PDF links to companion chapters resolve to actual PDF page numbers; source-document links preserve their page targets. Temporary localhost URLs are removed from PDF annotations.
+Both PDFs contain selectable text, tagged structure, bookmarks and clickable contents. Printed chapter page numbers were checked against the final PDF destinations; both books stabilized after two export passes. Companion-book links resolve to the intended chapter or heading page. No temporary localhost URLs remain in PDF annotations.
 
-## Coverage and content review
+The books teach as standalone ACCESS IS4S documents. Automated checks reject original-guide comparison language in their text. Editorial research and coverage records remain outside both books.
 
-- All **148 source pages** are accounted for in the page inventory and nonoverlapping section crosswalk. The source PDF SHA-256 remains `32dad4699b1ef1ab281ad4bdf95bef310048741703fc401094c57f6c62e33caf`.
-- All **nine skills and 54 components** are mapped to actual learner activities. Each skill chapter supplies **18 numbered activities**, with corresponding answer guidance. The two integrated projects add **12 activities**, for **174 matched activity/answer pairs**.
-- The practitioner guide accounts for **six teaching approaches, 27 instructional strategy groups, 27 grab-and-go patterns, three appendix lessons, six historical professional-development listings and 122 indexed bibliography entries**. Outside bibliography works are distinguished from sources actually read.
-- Independent chapter review checked task inputs, component opportunities, worked examples, answer alignment and arithmetic. Repairs included missing digital-task inputs and six equipment-purpose cards, receipt/recount fields, journey-time boundaries and realistic Adaptability timing. Reflection prompts allow truthful evidence rather than requiring invented gaps.
-- The three integrated practitioner lessons have complete handouts, worked models, answers and **90-minute schedules**. The teaching-approaches chapter also supplies a complete **45-minute sequence**, including the independent changed-date notice pair.
-- Independent project review checked both project budgets, revised totals, capacity, rotation feasibility, schedules, activity IDs and response word limits.
-- Feedback labels are consistent: Not observed; Not yet demonstrated; Demonstrated with support; Demonstrated independently. Official proficiency levels are not inferred from these local records. Writing, Digital, Communication and Collaboration retain observable evidence appropriate to each skill.
+## Content and activity checks
 
-## Visual teaching validation
+- All nine skills and 54 framework components have mapped learning opportunities. The 174 core learner activities retain matching answer guidance: 18 per skill and 12 integrated-project activities.
+- The five foundation skills add 38 individually identified practice checks, complete case inputs, separate answer guidance, entry routes and observation criteria. Reading, Writing, Numeracy, Digital and Problem solving each provide changed tasks for a fresh attempt.
+- Communication, Collaboration, Adaptability, and Creativity and innovation add complete new cases, role cards or changed conditions, separate keys, evidence criteria and teaching routes. Individual performance is distinguished from group discussion or a proposed action.
+- Independent reviews checked fresh-task arithmetic, case totals, changed requirements and key alignment. Fraction regrouping, whole packs, stock updates, transport connections and trial percentages were checked against the actual inputs.
+- CL-14 and its answer accept an evidenced successful reader check without requiring an invented revision. Communication timing permits interpretation, signing, AAC and processing time.
+- Delivery tools include sequential observer assignments, fresh-attempt and recovery arrangements, reusable local-review records and task-specific evidence prompts. They contain no prefilled approvals or invented learner results.
+- The editorial crosswalk now renders its eight intended headings and a consistent 27-row strategy table. Its structural checks pass; it is excluded from the published books.
 
-- **38 unique SVG assets**: 37 newly authored graphics and one attributed vector extraction from the supplied guide. The two covers and 65 body placements provide **67 SVG placements** across the books. Four generated illustrations add fictional human context.
-- Every learner skill chapter contains a six-component map and two case-specific diagrams. Matching diagrams appear in the practitioner teaching chapters. Three more diagrams support the two integrated projects and the learning portfolio.
-- The canonical visual manifest records **69 body figure placements** with an exact source location, caption and alternative text. All managed blocks occur once per source chapter and once in each intended reading/book output. Reinstalling them is idempotent.
-- Independent diagram reviews checked time scales, quantities, costs, measurement intervals, case versions, equipment roles, component labels and capstone boundaries. Text bounds and rendered images were checked; identified label overlaps were corrected before export.
-- PDF inspection confirms the graphics remain vectors: the full learner PDF has one raster-image placement and the practitioner PDF has three, matching the four contextual illustrations. All pages contain text. Both PDFs retain their tagged structure, bookmarks and valid companion-book page links.
-- The [eight-page visual sampler](visual-sampler.pdf) gives a quick view of the redesigned cover, component map, numerical diagrams, equipment roles, revised timetable, fishbone and annotated email.
+## Visuals and print
 
-## Research and presentation checks
+The core books use **41 unique SVGs**, with **73 SVG placements including the two covers**, plus four contextual illustrations. Two further SVGs support Roadbuilding foundations. The canonical manifest has 77 body placements, including two in separate authoring material; 75 body placements occur in the books (71 SVGs and four illustrations).
 
-The research ledger contains **15 online source records and 11 search records**, with retrieval status, exact source URLs, supported claims and limitations. Current federal pages and BC institutional resources were inspected; unavailable original pages and unreviewed linked reports are explicitly distinguished. No scraped third-party pages or downloaded research PDFs are redistributed in this directory.
+All 36 existing teaching SVGs and the cover were redesigned. Four new core figures explain choosing a learning route, fraction equivalence and regrouping, a quantity check, and a prediction/trial cycle. The two roadbuilding figures explain road structure and material flow. SVG titles, descriptions and chapter alternative text were synchronized.
 
-Desktop, tablet and mobile browser checks covered both complete books and their landing page at **390, 768 and 1440 pixels**. All nine combinations loaded bundled fonts and images, produced no page errors or failed requests, and had no page-level horizontal overflow. Wide tables and diagrams remain horizontally scrollable within their own regions on small screens. Figures also link to the full-size asset; SVG labels remain sharp when enlarged.
+Independent visual review rendered all 41 core SVGs and checked text bounds, labels, arithmetic and connector meaning. Two connector collisions were repaired. Inspection of final PDF pages confirms the corrected evidence cycle, fraction diagram and tall quantity check are captured, readable and contained with their captions. The eight-page preview was rendered and inspected for the cover, reading map, budget, board layout, equipment roles, fractions, cause map and annotated email. The drawings remain vectors in the PDFs.
 
-Visual inspection covered the revised covers, component maps, numerical/technical diagrams, communication and social-skill sequences, projects, practitioner teaching diagrams, source inset and mobile reading. Print checks confirm every PDF page contains body text. Chapter headings begin on new pages; table headers repeat, rows avoid splitting where they fit, and worked examples use the Hub's gold treatment. The bibliography uses a compact reference layout. These checks do not constitute a full assistive-technology or PDF accessibility certification.
+Actual-book browser checks at **320, 390 and 1280 pixels** found no page-level horizontal overflow, failed images or overflowing two-column tables. Wider tables scroll inside labelled regions. Table regions have unique descriptive labels. Print inspection confirmed usable learning-plan response space and clear cover/contents pages. The visual viewer offers fit/zoom controls, keyboard panning, a text description and a return link; its print layout accommodates tall figures.
 
-## Reproduce the structural checks
+These checks are bounded presentation reviews, not a full assistive-technology or PDF accessibility certification.
+
+## Digital practice desk
+
+The [practice desk](teaching/digital-lab/index.html) was exercised in Chromium using fictional records. Checks covered invalid input, calculated totals, removal of the dummy contact column, stale-preview detection, saving two versions, reopening the earlier version, JSON download, persistence after reload, narrow-screen layout and reset. Reset preserved unrelated browser storage. No JavaScript errors or external network requests occurred in the tested workflow.
+
+Recipient and access choices are explicitly simulated. Real account permissions must be observed in an approved platform when that is the learning objective. A supplied total is not evidence that a learner constructed a spreadsheet formula.
+
+## Reproduce the checks
 
 ```sh
 python -m pip install -r curriculum/skills-for-success/tools/requirements.txt
@@ -46,6 +50,8 @@ python curriculum/skills-for-success/tools/build_books.py
 python curriculum/skills-for-success/tools/verify_books.py --require-generated --report /tmp/is4s-book-verification.json
 ```
 
-The verifier checks source identity, complete page coverage, component/strategy/activity inventory, paired activity IDs and answer bodies, manifest membership, book titles and chapter presence, local links and fragments, PDF source-page bounds, generated HTML identifiers, nonempty PDF pages, absence of localhost PDF links, all 174 activity IDs in both PDFs, figure placement, image alternative text, captions, SVG accessibility metadata and self-contained SVG resources. It requires at least three SVG figures in each of the nine learner skill chapters. It skips external URL validation because the live research ledger records those checks separately. The script itself was checked against deliberately invalid paths, fragments, page targets and localhost URLs in temporary files.
+The final structural run passed **39,046 checks** at this revision of the documentation. Counts may grow when linked editorial records are added. Checks cover source integrity, coverage inventory, activity/answer IDs, book membership, standalone prose, fresh-practice presence, local links and fragments, contents destinations, companion PDF targets, nonempty PDF pages, figures, alternative descriptions and SVG self-containment. External URLs are outside this offline verifier.
 
-The build requires Python dependencies and a Chromium executable. `--html-only` supports environments without PDF rendering. The repository retains the supplied source PDFs, original asphalt A1 unit and earlier program research; this expansion adds the foundation books without claiming completion of the full asphalt trade curriculum.
+Running the teaching and visual installers twice produced identical Markdown hashes across all 69 authoring and editorial files. Build tools preserve unmarked prose and replace only their declared managed blocks. Python bytecode is excluded from version control; PDF and ZIP artifacts are tracked as binary files.
+
+For asphalt-specific validation and remaining technical review, see the [asphalt record](../asphalt-paving/VALIDATION.md) and [Roadbuilding delivery record](../asphalt-paving/line-a/technical-handoff.md).

@@ -1,60 +1,67 @@
-# ACCESS | Asphalt curriculum
+# ACCESS IS4S · Asphalt paving
 
-The [complete ACCESS IS4S nine-skills textbook and practitioner guide](../skills-for-success/README.md) now provide extended foundation instruction, 174 activities with answers and a full reworking of the supplied 148-page Skills for Success guide. Use them alongside this trade-specific A1 unit.
+Read the work, understand the equipment and use the nine Skills for Success to make and explain a sound decision.
 
-**First unit · Teaching draft · 23 October 2026**
+**Classroom teaching edition · 29 October 2026**
 
-Start with the paving industry. Read a useful document, explain an equipment role, check a number and work through a change with a partner.
+## Primary textbook · MS-4, Seventh Edition
 
-This curriculum follows the supplied **SkilledTradesBC Asphalt Paving/Laydown Technician outline**. The **SkillPlan Skills for Success Get Started Guide, revised March 2024**, provides the teaching and assessment framework. The visual and writing direction comes from the existing ACCESS Numeracy Hub.
+The ACCESS asphalt curriculum uses **The Asphalt Handbook, MS-4, Seventh Edition** as its primary textbook. Section 4 of the trade outline lists this edition among the required resources. The trade outline defines the occupational sequence; the nine Skills for Success guide how learners read, calculate, explain, practise and demonstrate their learning.
 
-## Start with A1
+[Textbook integration plan](ms-4/README.md) · [Chapter and competency map](ms-4/chapter-map.md) · [Indexed PDF context library](context/README.md)
 
-**A1: Introduction to the paving industry and paving equipment** is the first competency in Line A, **Road Building Principles and Introduction to Paving**. The outline's A1 objective also includes road-construction history and the relationship between governing bodies and contractors.
+The handbook was supplied on 29 October 2026, but its upload exceeds the workspace's 32 MiB transfer limit. The original file and its page-level breakdown are **pending transfer**. Existing lessons are not represented as fully checked against the handbook until that text is available. The historical 2006 specifications support contract-document practice; OEM manuals supply model-specific equipment context.
+
+## Roadbuilding foundations
+
+The six units follow A1–A6 in the SkilledTradesBC Asphalt Paving/Laydown Technician outline. They provide complete readings, worked examples, 37 activities and separate teaching and answer guidance. Current industry evidence, road documents, worker expectations and material-flow diagrams connect the classroom work to British Columbia paving contexts.
 
 | Material | Open it |
 |---|---|
-| Learner workbook: readings, cards, practice data and activities | [HTML version](unit-01/index.html) · [Print PDF](unit-01/learner-workbook.pdf) · [Edit Markdown](unit-01/learner.md) |
-| Instructor guide: session plans, answer guidance and observation prompts | [HTML version](unit-01/instructor.html) · [Print PDF](unit-01/instructor-guide.pdf) · [Edit Markdown](unit-01/instructor.md) |
-| A1–A6 sequence and scope | [Curriculum map](curriculum-map.md) |
-| Nine skills, source components and evidence | [Skills map](skills-map.md) |
-| Original source PDFs and precise page references | [Source library](sources/README.md) |
-| Reusable practice files | [Learning materials](unit-01/materials/README.md) |
+| Roadbuilding foundations · learner book | [PDF](line-a/roadbuilding-foundations.pdf) · [Read online](line-a/roadbuilding-foundations.html) |
+| Roadbuilding foundations · teaching and answer guide | [PDF](line-a/teaching-guide.pdf) · [Read online](line-a/teaching-guide.html) |
+| Six-unit navigation and editable chapters | [Start here](line-a/README.md) |
+| Occupational scope and development status | [68-competency map](line-a/competency-status.md) |
+| Dated evidence and technical review record | [Research register](line-a/research/source-ledger.md) · [Delivery and review](line-a/technical-handoff.md) |
 
-## Three opening sessions
+Use the [complete nine-skills books](../skills-for-success/README.md) for explicit instruction, entry routes, fresh practice, assessment records and the Digital practice desk. Their chapters teach Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation.
 
-| Session | Learner work | Focus Skills for Success |
-|---|---|---|
-| 1 · Understand the industry | Read the short introduction, sort equipment/functions, sequence the material flow and explain who uses roads. | Reading, Communication, Collaboration |
-| 2 · Read and share the numbers | Interpret clearly labelled fictional industry data, check calculations, create a digital record and write a short summary. | Numeracy, Digital, Writing |
-| 3 · Respond to a changed brief | Check an environmental claim, identify missing evidence and improve an information sheet when the audience requirements change. | Problem solving, Adaptability, Creativity and innovation |
+## Specifications and equipment manuals
 
-The proposed design uses **three 60-minute sessions of expanded IS4S preparation**. It is not an official A1 training allocation. The supplied outline allocates 3% of technical-training time to all of A1–A6; the supplied profile specifies 120 technical-training hours. See the [source timing note](sources/README.md#scheduling-distinction).
+- [Specifications workshop](specifications/README.md): work with the 2006 Design Build Standard Specifications through asphalt document-reading and decision exercises.
+- [2006 Design Build Standard Specifications PDF](sources/design_build_standard_specs_2006.pdf): the complete supplied document, preserved as issued. Its edition is part of every classroom record; current project requirements must be checked separately.
+- [Manufacturer manuals and Section 4 resource pack](manuals/README.md): downloaded manuals, exact model and edition details, extracted learning material and the ZIP download. Required course publications and OEM manuals are identified separately.
+- [Source library](sources/README.md): the program outline, profile and other source documents with integrity records.
 
-## What is ready, and what remains
+## Opening sessions and reusable handouts
 
-The opening unit contains the reading passages, equipment/function cards, fictional project brief, practice numbers, learner questions and instructor guidance needed for a classroom pilot. These are original teaching materials, with source references.
+The original three-session A1 sequence remains available for an initial classroom introduction. The Roadbuilding foundations book develops the subsequent industry evidence and A2–A6 work.
 
-All nine A1 learning tasks are mapped. Some are introduced rather than completed: real B.C. industry statistics, current applicable regulations/funding and a sourced environmental comparison still need a current source or instructor supplement. Fictional practice data supports learning a method; it does not establish actual industry facts. Completing this workbook does not itself demonstrate all A1 outcomes or establish a trade credential.
+| Material | Open it |
+|---|---|
+| Opening learner workbook | [PDF](unit-01/learner-workbook.pdf) · [Read online](unit-01/index.html) |
+| Opening instructor guide | [PDF](unit-01/instructor-guide.pdf) · [Read online](unit-01/instructor.html) |
+| Response sheets, change card and process cards | [Classroom materials](unit-01/materials/README.md) |
+| Sequence and nine-skills evidence | [Curriculum map](curriculum-map.md) · [Skills map](skills-map.md) |
 
-All nine Skills for Success have explicit activity and observation evidence across the sequence. Each session concentrates feedback on three skills. If an alternate response mode changes the skill being observed, record that distinction; for example, a paper table does not by itself demonstrate Digital.
+## Delivery and development
 
-## Continue through Line A
+The materials are ready for qualified technical review and a classroom pilot. The [status map](line-a/competency-status.md) records which occupational competencies have authored classroom activities and which remain to be developed. Equipment operation and practical assessment require the applicable machine, current procedures, qualified instruction and authorized observation.
 
-After the A1 pilot and source supplements, develop **A2: Describe history of asphalt pavement**. The [curriculum map](curriculum-map.md) preserves A2–A6 in outline order and identifies suitable Skills for Success applications. The A2–A6 lessons are not yet written. Safety orientation and equipment-specific instruction remain distinct parts of the trade sequence.
+The historical profile, current provider statements and proposed ACCESS classroom practice times are separate records in the [delivery notes](line-a/technical-handoff.md). No classroom timing in these books is presented as an approved program allocation.
+
+Learners choose whether to contribute personal experience. Local people direct any Nation-specific knowledge, language or protocols they wish to include. The supplied cases allow participation without disclosing personal records or cultural knowledge.
 
 ## Edit and rebuild
 
-Edit `unit-01/learner.md`, `unit-01/instructor.md`, the Markdown files in `unit-01/materials/`, `curriculum-map.md` or `skills-map.md`. Rebuild the reading pages and PDFs with:
-
 ```sh
-python -m pip install -r tools/requirements.txt
-python tools/build_materials.py
-python tools/verify_materials.py
+python -m pip install -r curriculum/asphalt-paving/tools/requirements.txt
+python curriculum/asphalt-paving/tools/build_materials.py
+python curriculum/asphalt-paving/tools/verify_materials.py
+python curriculum/asphalt-paving/tools/build_line_a.py
+python curriculum/asphalt-paving/tools/verify_line_a.py
 ```
 
-Run those commands from this folder. The builder can also run from another directory using its full path. It uses an installed `chromium` executable, `IS4S_CHROMIUM_PATH`, or Playwright's installed Chromium. If needed, install the latter with `python -m playwright install chromium`. Use `--html-only` to build reading pages without a browser. The build script starts and stops its own local rendering server; public document links in the PDFs point to this GitHub repository.
+Each resource folder records its own build or packaging steps. Chromium is required for PDF export. The HTML pages use bundled fonts and assets; serve the repository locally to open the reading pages. GitHub displays the PDFs and editable Markdown directly.
 
-The reading pages, fonts and badge work from a downloaded folder without a network connection. Source hyperlinks require the included PDFs or an internet connection for GitHub references. The [design asset notes](assets/README.md) record the Numeracy Hub source and font licences.
-
-[Validation notes](VALIDATION.md) record the checks completed for this draft and the remaining instructor review.
+[Validation record](VALIDATION.md) · [Design assets](assets/README.md)

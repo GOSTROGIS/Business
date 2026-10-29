@@ -1,0 +1,880 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf
+SOURCE SHA-256: d51df06a83128f87a4ee5e8923ef6ca1ec44f8d1c39de7b3d2b9183c3b665f01
+ORIGINAL PDF VIEWER PAGES: 26–42 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 26 ===
+MAINTENANCE
+FORWARD/REVERSE HYDRAULIC PRESSURE                               4. To start the vibration, press the pushbutton switch
+TEST                                                                (vibration control) located on top of the travel lever.
+                                                                    Under normal operating conditions this pressure will
+1. Park the machine on a solid flat surface and stop the            range between 900-1,500 psi.
+   engine. Set the parking brake and block the front drum
+   securely.                                                        NOTICE
+2. Check hydraulic oil level by viewing the hydraulic oil         Vibration relief pressure is hard to read accurately using
+   sight glass. The hydraulic oil level must be below the         this test. It may be necessary to disconnect the pressure
+   top and above the bottom of the sight glass. DO NOT            line to the vibration drive motor. Plug this line and retest,
+   OVERFILL!                                                      pressure will be exact relief pressure. DO NOT perform
+                                                                  this test for a long period of time — damage could occur.
+3. Adjust engine RPM (3,500 +/- 50 RPM).
+4. Let engine run for 5 minutes, this will bring the hydraulic   STEERING PRESSURE TEST
+   oil operating temperature to a minimum of 135° F.
+                                                                 1. On the manifold block, install a 5,000 psi pressure
+5. Check and repair all hydraulic leaks.
+                                                                    gauge into quick disconnect test port 1 (Figure 29).
+6. On the manifold block, install a 5,000 psi pressure
+                                                                 2. Start the engine and run at full throttle.
+   gauge (Figure 29) to the forward pressure quick
+   disconnect test port 2.                                       3. Turn the steering wheel to the left or right (maximum)
+                                                                    and hold. Read the steering relief pressure. The relief
+7. Run engine at full throttle.
+                                                                    pressure reading for the steering test port 1 will be 700
+8. Move the travel lever to the forward position. MAKE              psi. Again, under normal operating conditions, pressure
+   SURE FRONT AND REAR DRUMS DO NOT SPIN.                           for the steering port will be between 200-400 psi.
+9. Read the pressure gauge. The relief pressure (roller          4. If maximum pressure cannot be reached, plug the
+   drums blocked) will read 2,900 ± 145 psi. Under normal           steering cylinder pressure hoses and retest. If pressure
+   operating conditions this pressure will read 400-600 psi.        is correct, the steering cylinder is leaking. DO NOT
+                                                                    ACTIVATE THE VIBRATION FUNCTION WHILE
+10. Return the travel lever to the neutral position and stop
+                                                                    PERFORMING THIS TEST!
+    the engine.
+11. Install the pressure gauge into the reverse quick
+    disconnect port 3 and repeat the above procedures.
+    The relief pressure reading for the reverse test port 3
+    will be the same (2,900 psi). Again normal operation
+    pressure for the reverse port will be 400-600 psi.
+12. Normal operating pressures are based on the machine
+    traveling on level, firm surface. The operating pressures
+    will increase significantly when traveling uphill.
+VIBRATION CIRCUIT PRESSURE TEST
+1. Place the front drum on soil, gravel, or a heavy rubber
+   mat. DO NOT ACTIVATE VIBRATION FEATURE ON
+   CONCRETE OR HARD SURFACE!
+2. On the manifold block install a 5,000 psi pressure
+   gauge to quick disconnect test port 1.                                   Figure 29. Manifold Test Ports
+3. Start the engine and run at full throttle.
+
+        PAGE 26 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 27 ===
+MAINTENANCE
+FORWARD/REVERSE RELIEF VALVES DRIVE                              S T E E R I N G R E L I E F VA LV E P R E S S U R E
+ADJUSTMENT                                                       ADJUSTMENT
+The forward and reverse relief valves (Figure 30) are            To adjust the relief valve steering pressure perform the
+located in the hydrostatic pump (not on the manifold block)      following:
+under plugs 1 and 2 . Plug 2 is located in the same location
+                                                                 1. Insert an 8 mm allen wrench into steering relief port 4
+as plug 1, except it is on the bottom side of the pump. Relief
+                                                                    (Figure 36) on the manifold block.
+valve 1 is reverse and 2 is forward.
+   NOTICE
+  Pumps supplied after 01/01/2003 do not have adjustable
+  relief cartridges. The pressure is fixed at 2,900 ± 145
+  psi. If the relief pressure is not within normal range, the
+  complete cartridge must be replaced.
+                              REVERSE
+                             RELIEF VALVE
+                               (PLUG 1)
+               HYDROSTATIC
+                  PUMP
+
+
+
+                                                                 Figure 31. Steering and Vibration Relief Valves
+                                                                 2. On the manifold, connect at 5,000 psi pressure gauge
+                                                                    into quick disconnect test port 1.
+                                                                 3. Start the engine and run at full throttle.
+                                                                 4. Turn the steering wheel to the left or right (maximum)
+                                                                    and hold. Read the steering relief pressure. The relief
+                       FORWARD
+                      RELIEF VALVE
+                                                                    pressure reading for the steering test port 1 will should
+                        (PLUG 2)                                    be 700 psi.
+         Figure 30. Adjusting Relief Valves                      5. If the steering relief pressure is not 700 psi, using the
+                                                                    allen wrench adjust the pressure at port 4 until the
+1. Clean the area around the cap.
+                                                                    pressure gauge reads 500 psi.
+2. Remove the cap.
+                                                                 V I B R AT I O N R E L I E F VA LV E P R E S S U R E
+3. Carefully remove the valve cartridge.                         ADJUSTMENT
+4. Using an allen wrench, remove the top nut (extreme            1. Insert an 8 mm allen wrench into steering relief port 5
+   care must be taken not to loosen existing shims, spring,         (Figure 31) on the manifold block.
+   or valve) Add or remove shims as required. Adding
+   shims increases pressure; removing shims lowers               2. On the manifold block, insert a 5,000 psi pressure
+   pressure. One shim is equal to approximately 50 psi.             gauge into quick disconnect test port 1.
+   Shim P/N is 34538.                                            3. Start the engine and run at full throttle.
+5. Install the top nut and install valve in the pump cavity      4. To start the vibration, press the pushbutton switch
+   using extreme care not to bind.                                  (vibration control) located on top of the travel lever. The
+6. Install the valve cap.                                           relief pressure should read 900 ~ 1,500 psi.
+7. Retest pressure, further adjustment may be needed if          5. If the vibration relief pressure is not 900 ~ 1,500 psi,
+   pressure is not correct.                                         using the allen wrench, adjust the pressure at port 5
+                                                                    until the pressure gauge reads correctly.
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 27
+
+=== ORIGINAL PDF PAGE 28 ===
+MAINTENANCE
+REMOVING AND REPLACING HYDROSTATIC                             DRUMS AND MAIN FRAME
+PUMP
+                                                               1. The front drum is designed to apply vibration and
+1. Set the parking brake.                                         compaction force to the operating surface for
+                                                                  compaction. This vibration and compaction force is
+2. Disconnect the battery.                                        produced when the vibrator shaft is rotated. Maximum
+3. Clean the pump and all connections.                            efficiency is achieved only when the engine is operated
+                                                                  at full throttle.
+4. Mark and disconnect all hoses and lines from the pump.
+                                                               2. A single drive motor is mounted on the left side of the
+5. Disconnect the forward / reverse control cable.                drum and is shock mounted. This type of drive motor
+6. Disconnect the pump support bracket.                           is designed for maximum torque and power.
+
+7. Remove the engine mounting bolts.                           3. The vibrator is driven by a gear motor coupled to the
+                                                                  vibrator shaft. The vibrator assembly rotates inside of a
+8. Elevate the pump and engine assembly using a proper            sealed housing containing oil to lubricate the bearings.
+   lifting device.                                                This side of the drum is also shock mounted.
+9. Disconnect and remove the hydrostatic pump assembly.        FRONT AND REAR DRUM REMOVAL AND
+10. Repair or replace the hydrostatic pump as required.        DISASSEMBLY.
+11. Install the hydrostatic pump in the reverse order of       Refer to Figure 32, Figure 33, and Figure 34 for the
+    removal, using Locktite 271 on all mounting bolts and      removal and disassembly of the front and rear drums.
+    nuts.                                                      When reassembling the front drum, use Locktite 271 on
+                                                               all mounting hardware.
+12. Test operation. Test and adjust the forward and reverse
+    relief pressures as required. Adjust the forward/reverse
+    control cable.
+REMOVING AND REPLACING VIBRATION/
+STEERING PUMP
+1. Remove the hydrostatic pump as per preceding
+   instructions.
+2. Remove all hoses and lines.
+3. Disconnect the vibration / steering pump and remove.
+4. Repair or replace pump as required.
+5. Install the pump in the reverse order of removal, using
+   Locktite 271 on all mounting bolts and nuts.
+6. Test operate. Test and adjust the forward and reverse
+   pressure relief valves as required. Adjust the forward/
+   reverse control cable. Test and adjust the vibration and
+   steering pressure relief valves as required.
+
+
+
+
+       PAGE 28 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 29 ===
+MAINTENANCE
+
+
+
+
+                                                    Q
+STEP 1
+                                                    STEP 4                 P
+
+                                                        O
+                                                               Q
+                                                                          STEP 3
+            STEP 2                                                  P
+1. JACK FRAME UP SLIGHTLY AT                                3. MARK AND DISCONNECT
+   ARTICULATION JOINT.                                         HOSES FROM MOTOR AND
+                                                               MANIFOLD.
+2. REMOVE THE FOUR ALLEN HEAD
+   SCREWS HOLDING THE SIDE                                  4. REMOVE FOUR ALLEN HEAD
+   COVER OF THE DRUM SUPPORT                                   SCREWS FROM DRUM SUPPORT
+   PLATE.                                                      PLATES.(SCREWS MAY NEED TO BE
+                                                               HEATED TO REMOVE)
+
+
+
+
+5. REMOVE NUTS SECURING FLANGE
+   ASSEMBLY TO DRUM SUPPORT PLATE
+   AND PULL OFF OF FLANGE ASSEMBLY.
+
+6. REMOVE THE SIX 9/16 BOLTS SECURING
+   EXCITER PLATE TO DRUM WALL
+
+
+
+
+                                                                     M
+                                                               D   RU
+                                                                             STEP 7
+                                                           ONT
+                                                        FR
+
+
+                                                                   7. PULL EXCITER ASSEMBLY TO
+                                                                      REMOVE FROM DRUM INTERIOR.
+                                           STEP 6
+                                                                   8. REVERSE PROCEDURES TO
+                                                                      REASSEMBLE DRUM. USE
+             STEP 5                                                   LOCKTITE 271 ON ALL BOLTS
+                                                                      AND NUTS.
+                            Figure 32. Front Right Drum Removal
+
+  AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 29
+
+=== ORIGINAL PDF PAGE 30 ===
+MAINTENANCE
+
+
+
+
+                              STEP 1
+                                                                                STEP 4
+
+
+                                                                               M
+                                                                  N
+                STEP 2                                                 STEP 3
+
+
+
+1. JACK FRAME UP SLIGHTLY AT                         3. MARK AND DISCONNECT
+   ARTICULATION JOINT.                                  HOSES FROM MOTOR.
+
+2. REMOVE THE EIGHT ALLEN HEAD                       4. REMOVE FOUR ALLEN HEAD
+   SCREWS HOLDING THE SIDE                              SCREWS FROM DRUM SUPPORT
+   COVER OF THE DRUM SUPPORT                            PLATE. (SCREWS MAY NEED TO BE
+   PLATE.                                               HEATED TO REMOVE)
+
+
+
+5. PULL DRUM SUPPORT PLATE
+   OFF DRIVE PLATE ASSEMBLY.
+
+6. REMOVE FOUR ALLEN HEAD
+   SCREWS SECURING MOTOR TO
+   DRUM SUPPORT PLATE AND
+   SET ASIDE.
+
+7. REMOVE SIX NUTS SECURING
+   DRIVE PLATE TO SHOCK MOUNTS.                                                          STEP 6
+   PULL OFF DRIVE PLATE AND SET
+   ASIDE.
+                  STEP 9                                                        STEP 5
+
+
+
+
+                                                                      STEP 7
+                                                      STEP 8
+
+                                                 STEP 8     8.   UN-THREAD SIX SHOCK MOUNTS
+                                                                 FROM DRUM WALL TO REPLACE.
+                                     M
+                                 DRU
+                              NT                            9.   PULL EXCITER ASSEMBLY TO
+                           O
+                         FR                                      REMOVE FROM DRUM INTERIOR.
+
+                                                            10. REVERSE PROCEDURES TO
+                                                                REASSEMBLE DRUM. USE
+                                                                LOCKTITE ON ALL NUTS AND
+                                                                BOLTS.
+                               Figure 33. Front Left Drum Removal
+
+PAGE 30 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 31 ===
+MAINTENANCE
+
+
+
+
+                                                                              STEP 6
+
+                                                                               STEP 4
+
+
+
+ STEP 2
+                                                             I STEP 5
+                    STEP 1                                            J
+          STEP 3
+                                                                     STEP 4
+
+1. JACK FRAME UP SLIGHTLY AT                        4. REMOVE ALLEN HEAD SCREWS
+   ARTICULATION JOINT.                                 HOLDING THE SIDE COVER OF THE
+                                                       DRUM SUPPORT PLATE.
+2. REMOVE THE FOUR ALLEN HEAD
+   SCREWS SECURING THE DRUM                         5. MARK AND DISCONNECT
+   SUPPORT PLATE TO THE FRAME.                         HOSES FROM MOTOR.
+
+3. REMOVE NUTS SECURING BEARING                     6. REMOVE FOUR ALLEN HEAD
+   FLANGE TO BASE OF DRUM SUPPORT                      SCREWS FROM DRUM SUPPORT
+   PLATE.                                              PLATES.
+
+7. REMOVE TWO NUTS SECURING
+   DRUM SUPPORT PLATE TO FLANGE.
+   PULL OFF LEFT DRUM SUPPORT
+   PLATE AND SET ASIDE.
+
+8. PULL FLANGE OFF DRUM ROD                                                              STEP 10
+   FOR SERVICE.
+
+9. PULL RIGHT DRUM SUPPORT PLATE
+   OFF DRIVE PLATE ASSEMBLY.                                                    STEP 9
+
+
+
+                                                                    STEP 11
+
+
+
+                                            M              10. REMOVE FOUR ALLEN HEAD
+                                           U                   SCREWS SECURING MOTOR TO
+                                        DR
+                                   AR                          DRUM SUPPORT PLATE AND
+                                 RE                            SET ASIDE.
+
+                                                           11. REMOVE SIX BOLTS SECURING
+                                                               DRIVE PLATE TO DRUM WALL.
+                   STEP 8                                      PULL OFF DRIVE PLATE AND SET
+          STEP 7                                               ASIDE.
+
+                                                           12. REVERSE PROCEDURES TO
+                                                               REASSEMBLE DRUM.
+                       Figure 34. Rear Drum Removal/Installation
+
+AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 31
+
+=== ORIGINAL PDF PAGE 32 ===
+MAINTENANCE
+ALTERNATOR/REGULATOR
+This roller is equipped with a 20-amp charging system. This
+system uses three charge coils connected in parallel. The
+windings of each coil are wound with heavy-duty insulated
+wire and are further protected by insulating material for long
+life. A voltage regulator is provided to control the amount
+of charge voltage being delivered to the 12 volt electrical
+system. For servicing this charging system, contact your
+Honda dealer.
+NEUTRAL SAFETY SWITCH
+The travel lever is provided with a neutral safety switch                     Figure 36. Vibration Solenoid
+(Figure 35) that prevents the engine from starting when
+                                                                   BATTERY
+the lever is in the forward or reverse drive position. Lever
+must be placed in the neutral position in order for the starter    Mishandling of the battery shortens the service life of the
+to function.                                                       battery and adds to maintenance cost. When handling the
+                                                                   battery do the following:
+                                                                    Be careful not to let the battery electrolyte come in
+                                                                     contact with your body or clothing.
+                                                                    Always wear eye protection and rubber gloves, since
+                                                                     the battery contains sulfuric acid which burns skin and
+                                                                     eats through clothing.
+                                                                    Check the battery regularly and make sure that each
+               Figure 35. Safety Switch
+                                                                     electrolyte level is to the bottom of the vent well (Figure
+To check this switch, remove the panel located below and             42). If necessary, add only distilled water in a well-
+to the rear of the floor. This switch is mounted to the lower        ventilated area.
+forward/ reverse lever mechanism. Disconnect the white
+and green wires. Place the lever in neutral and test for
+continuity. Place the lever in forward or reverse; no continuity
+should be present. Repair or replace as required.
+VIBRATOR SOLENOID
+The vibrator solenoid (Figure 36) is located in the manifold
+valve block and is controlled by the vibration switch located
+on top of the travel lever. This solenoid controls the vibration
+control valve which supplies hydraulic oil to the vibration
+drive motor.
+To test the vibration solenoid, turn the ignition switch on.
+                                                                             Figure 37. Battery Fluid Levels
+Check for proper supply voltage and ground. If proper
+voltage and ground are present, check the solenoid for
+continuity. If no continuity, replace the solenoid coil. If
+continuity is present, place your hand on the solenoid and
+turn the switch to the ON position; movement should be felt.
+DO NOT START THE ENGINE FOR THIS TEST.
+
+        PAGE 32 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 33 ===
+PREPARATION FOR LONG-TERM STORAGE
+ROLLER STORAGE
+For storage of the roller for over 30 days, the following is
+recommended:
+1. Drain the fuel tank completely, or add STA-BIL to the
+   fuel.
+2. Run the engine until the fuel in the injection system is
+   completely consumed.
+3. Completely drain used oil from the engine crankcase
+   and fill with fresh clean oil, then follow the procedures
+   described in the engine manual for engine storage.
+4. Drain water tank.
+5. Clean the entire roller and engine compartment.
+6. Remove battery and store it in cool dry place.
+7. Cover the roller and place it a clean dry area, that is
+   protected from harsh elements.
+8. Remove ignition key, and store in a safe place.
+
+
+
+
+       AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 33
+
+=== ORIGINAL PDF PAGE 34 ===
+MANIFOLD TEST PORTS
+
+
+
+
+PAGE 34 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 35 ===
+HYDRAULIC SYSTEM DIAGRAM
+
+
+                                                 EXCITER
+                                               RELIEF VALVE
+                                               2000 PSI
+
+                                                                 MANIFOLD
+
+
+                                                      P
+                                               TEST
+                                               G1                          EXCITER   1
+                                                                            VALVE
+                             STEERING                                                                 VIBRATION
+                                                             M       W                                EXCITER
+                            RELIEF VALVE                                                              MOTOR
+                             700 PSI
+
+                                                                                     2
+           CHARGE PRESSURE
+
+
+
+
+                                                                                                W
+             RELIEF VALVE                                                                                     L       STEERING
+          150-210 PSI
+                                                                                     3   P                            CYLINDER
+                                 INTERNAL DRIVE PUMP
+                                                             M
+                                      RELIEF VALVES                                  4 T
+                                    2900 ± 145 PSI
+                                                                                                              R
+
+
+
+
+                                                                                                W
+                                                                                             STEERING VALVE
+
+
+
+                                                 TEST
+                                                  G2
+                                           M
+EXCITER                                                                                             SERIES
+           DRIVE                                                                                    DRIVE
+ PUMP      PUMP
+                        W
+
+
+
+
+                                           W
+                                                                   TOW
+                                                                                     A                                    B
+                                                                   VALVE
+                   CHARGE                        TEST                                      FRONT                   REAR
+                    PUMP                            G3                                     DRIVE                  DRIVE
+                                                                                           MOTOR                  MOTOR
+
+
+                            PUMP ASSEMBLY
+                                                             T
+
+
+
+                                           10 MICRON
+
+
+
+          SUCTION               14.5 PSI
+           FILTER           M
+                                                         W
+
+
+
+
+                                    RETURN LINE FILTER
+                                        ASSEMBLY
+
+
+                                                                   FILTER BY-PASS
+                                                                   25 PSI
+
+
+
+
+      AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 35
+
+=== ORIGINAL PDF PAGE 36 ===
+HYDRAULIC HOSE CONNECTIONS
+
+
+
+             MANIFOLD FROM OPERATOR’S                            FRONT RIGHT SIDE
+                                 POSITION
+                                                                            H
+
+     C
+G
+                                                                                  F
+
+
+                                                                    G                  B
+                             A
+
+
+
+                   E
+
+
+
+                                                                                 D
+                                   B
+         A
+
+       F                                         C
+
+                                                                    FRONT LEFT SIDE
+
+                                           FROM OPERATOR’S
+             E           D                 POSITION
+                 HYDRAULIC
+                 DRIVE PUMP
+                                                                   NOTES
+                                                                        HOSES SHADED FOR
+                                                                        VISUAL CLARITY.
+
+
+
+
+PAGE 36 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 37 ===
+HYDRAULIC HOSE CONNECTIONS
+
+        FRONT RIGHT MOTOR
+
+          Q
+
+
+
+                                                                     STEERING COLUMN
+
+
+
+          O
+                           P         O
+                  Q
+                                                                       K
+
+                                                                                    L
+    MANIFOLD                                              P
+
+      N                                            K L
+      M
+
+
+
+
+                                         I   J
+                                                          REAR LEFT MOTOR
+                               FROM OPERATOR’S
+                               POSITION
+
+
+
+
+                                                                           J
+
+                                                                I
+
+
+
+
+                            N
+              M
+          FRONT LEFT MOTOR                                          NOTES
+                                                                        HOSES SHADED FOR
+                                                                        VISUAL CLARITY.
+
+
+AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 37
+
+=== ORIGINAL PDF PAGE 38 ===
+TROUBLESHOOTING
+                                            Troubleshooting (Roller)
+        SYMPTOM                       POSSIBLE PROBLEM                                  SOLUTION
+                              Low engine RPM?                           Check and adjust engine speed.
+Low Vibration
+                              Low hydraulic pressure?                   Check and adjust hydraulic pressure.
+                                                                        Check vibration switch, check coil for
+                             No voltage to 12 volt solenoid?
+                                                                        continuity.
+No Vibration                                                            Check for proper oil pressure or defective
+                             No oil pressure?
+                                                                        relief valve.
+                             Broken motor coupler?                      Replace coupler.
+                             Low hydraulic pressure?                    Check pressure.
+Slow Steering                Steering column connector?                 Inspect bearings and grease if necessary.
+                             Defective steering cylinder?               Check seals, replace if necessary.
+                                                                        Inspect cylinder for contamination,
+Steers Slow in One Direction Defective steering cylinder?
+                                                                        replace if necessary.
+                             Low hydraulic pressure?                    Check pressure.
+                                                                        Check for proper adjustment against
+                             Rubber scrapper adjustment incorrect?
+                                                                        drum.
+Slow Forward/Reverse
+                                                                        Inspect for broken mount, replace if
+Speed                        Rubber shock mount loose?
+                                                                        necessary.
+                             Free wheel valve "open"?                   Close valve.
+                             Speed control cable out of adjustment?     Inspect cable and adjust if necessary.
+Main Hydraulic Pressure      Incorrect engine speed?                    Adjust engine speed to correct speed.
+Low                          Broken rubber shock mounts or drive plate? Inspect for cracks, replace if necessary.
+
+
+
+
+      PAGE 38 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 39 ===
+TROUBLESHOOTING
+                                                                 Troubleshooting (Engine)
+                     Symptom                                          Possible Problem                                         Solution
+                                                      Spark plug bridging?                              Check gap, insulation or replace spark plug.
+                                                      Carbon deposit on spark plug?                     Clean or replace spark plug.
+                                                      Short circuit due to deficient spark plug
+                                                                                                        Check spark plug insulation, replace if worn.
+                                                      insulation?
+                                                      Improper spark plug gap?                          Set to proper gap.
+                                                      Spark plug is red?                                Check transistor ignition unit.
+                                                                                                        If insufficient compression, repair or replace
+Difficult to start, fuel is available, but no spark at Spark plug is bluish white?                      engine. If injected air leaking, correct leak. If
+spark plug.                                                                                             carburetor jets clogged, clean carburetor.
+                                                                                                        Check if transistor ignition unit is broken, and
+                                                                                                        replace defective unit. Check if voltage cord
+                                                      No spark present at tip of spark plug?
+                                                                                                        cracked or broken and replace. Check if spark
+                                                                                                        plug is fouled and replace.
+                                                      No oil?                                           Add oil as required.
+                                                      Oil pressure alarm lamp blinks upon starting?     Check automatic shutdown circuit, oil sensor.
+                                                      (if applicable)                                   (if applicable)
+                                                      ON/OFF switch is shorted?                         Check switch wiring, replace switch.
+                                                      Ignition coil defective?                          Replace ignition coil.
+Difficult to start, fuel is available, and spark is
+                                                      Improper spark gap, points dirty?                 Set correct spark gap and clean points.
+present at the spark plug.
+                                                      Condenser insulation worn or short circuiting?    Replace condenser.
+                                                      Spark plug wire broken or short circuiting?       Replace defective spark plug wiring.
+                                                                                                        Flush fuel system, replace with correct type of
+                                                      Wrong fuel type?
+                                                                                                        fuel.
+Difficult to start, fuel is available, spark is       Water or dust in fuel system?                     Flush fuel system.
+present and compression is normal.
+                                                      Air cleaner dirty?                                Clean or replace air cleaner.
+                                                      Choke open?                                       Close choke.
+                                                      Suction/exhaust valve stuck or protruded?         Reseat valves.
+                                                      Piston ring and/or cylinder worn?                 Replace piston rings and/or piston.
+Difficult to start, fuel is available, spark is
+present and compression is low.                       Cylinder head and/or spark plug not tightened
+                                                                                                        Torque cylinder head bolts and spark plug.
+                                                      properly?
+                                                      Head gasket and/or spark plug gasket damaged?     Replace head and spark plug gaskets.
+                                                      No fuel in fuel tank?                             Fill with correct type of fuel.
+                                                                                                        Apply lubricant to loosen fuel cock lever,
+                                                      Fuel cock does not open properly?
+                                                                                                        replace if necessary.
+No fuel present at carburetor.
+                                                      Fuel filter/lines clogged?                        Replace fuel filter.
+                                                      Fuel tank cap breather hole clogged?              Clean or replace fuel tank cap.
+                                                      Air in fuel line?                                 Bleed fuel line.
+
+
+
+
+         AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 39
+
+=== ORIGINAL PDF PAGE 40 ===
+WIRING DIAGRAM
+
+                          FORWARD
+                       REVERSE SHIFTER
+
+
+
+
+                                                                                                                                      IGNITION SWITCH
+                                                                                                                                        COMBINATION
+                                      WHT
+                                                                                                                                POSITION CIRCUIT “MAKE”
+                                      BLK
+                                                                                                                                 1. OFF    G + M (GND).
+                                      BLK
+                                                                                                            S                    2. RUN      B+L
+                                      RED
+                                                                                                                                 3. START    B+L+S
+                                      BLK
+                                      GRN                                                         M
+                                                                                                                            2    7
+                                                                                              L
+                   NEUTRAL
+                   POSITION                                        +12VDC                                       B (BATT.)
+                    SWITCH                                                                             G
+                                                                                                                                                                       BLUE
+                                                                                                                                                                 NC
+                             WHT               BLU
+                                                                                                      CHASSIS
+                                                                                                       GND.                                                            YEL
+                  VIBRATION                                                                 YEL
+                   SWITCH                                                                                                       GRN
+                             BLK               YEL                                                                                                                     BLK                 UNIT
+                                                                                                                                                  CHASSIS
+                                                                                                                                                   GND.
+                             BLK               WHT
+
+                   REVERSE
+                    ALARM
+                                                                           +12VDC
+
+
+
+
+                    SWITCH                                                                                                               TB1 4
+             RED             BLK               BLK                                                                                                                                                      CHASSIS
+                                                                                                                                                                                                         GND.
+                                                                                                                                                                                         IGNITION
+             +12VDC          GRN               RED                                                                                                                                      COIL (RIGHT)
+
+                   BACK-UP                          30 AMP                                                                       HOUR
+                                                                                                                 RED                         BLK
+                    ALARM                            FUSE                                                                        METER
+                                                                                                                                                                       YEL
+                                                                                                                                                       CHASSIS
+                                                                                                                                                        GND.
+
+                                   CHASSIS                                                                                                                                               OIL LEVEL
+             3 (OPTION)             GND.                                                                                                                                                  SWITCH 1
+                                               WHT               WHT
+
+                                                                                                                RED              FUEL     BLK
+                                                                                                                                 PUMP
+                                                                                                                                              5        CHASSIS
+                                                                                                                                                        GND.
+                                                                                                                                                                       YEL
+                                                                                                       ORANGE
+                                                           WHT
+                                                                                                                                                                       BLK
+
+
+                   STARTER          (B)              (S)
+                                                                                                                                                                                           UNIT
+                    MOTOR
+  POSITIVE
+                                                                                                                  BLK/YEL
+
+
+
+
+                                                                                                  BLK/YEL
+                                                                                                                                                                                                        CHASSIS
+BATTERY                                   M                                                                                                                                                              GND.
+                                                                                                                                                                                         IGNITION
+                                                                                                                                 FUEL CUT-OFF                                           COIL (LEFT)
+                                                                                                                                   SOLENOID
+                                                                                BLK/YEL
+
+
+
+
+                                    CHASSIS     CHASSIS                                                                                                                                       HYDRAULIC
+                  NEGATIVE           GND.        GND.                                                                                                                         EXCITER         VALVE BLOCK
+                                                                                                                                                                             SOLENOID
+                   CHASSIS
+                    GND.                                                                                                               WHT                       WHT
+
+
+
+
+                                              WHT
+                                                                                                                                                                                                   CHASSIS
+                                                                                                                                                                                             YEL
+                                                                                                                                                                                                    GND.
+
+                                                                BLK/YEL/                                                                          NOTES:
+                                                WHT               RED
+                                                                                                                                                   1     GROUND TO STOP ENGINE, (OIL SWITCH).
+
+                                                                                                                                                   2     PINS M AND G GROUNDED TO IGNITION CASE.
+                                                           GR
+                                                                                                         VOLTAGE
+                                                                 GR                                   6 REGULATOR                                  3     AUDIBLE ALARM ORDER AS OPTION.
+                                                                           BLK
+             GR                      GR                                                                  RECTIFIER
+                                                                                                                                                   4     LOCATED INSIDE STEERING COLUMN.
+
+                                                                                          CHASSIS                                                  5     LOCATED UNDERNEATH FOOT PLATFORM.
+                                                                                           GND.
+               20 AMP                                                                                                                              6     LOCATED IN ENGINE COMPARTMENT.
+             CHARGE COIL
+                                                                                                                                                   7     GROUND TO START ENGINE, (IGNITION SWITCH).
+
+
+     PAGE 40 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 41 ===
+NOTES
+
+
+
+
+AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 41
+
+=== ORIGINAL PDF PAGE 42 ===
+OPERATION MANUAL
+
+                                             HERE’S HOW TO GET HELP
+                                               PLEASE HAVE THE MODEL AND SERIAL
+                                                 NUMBER ON-HAND WHEN CALLING
+     UNITED STATES
+     Multiquip Inc.
+     (310) 537- 3700
+     6141 Katella Avenue Suite 200
+     Cypress, CA 90630
+     E-MAIL: mq@multiquip.com
+     WEBSITE: www.multiquip.com
+
+     CANADA                                                                                             UNITED KINGDOM
+     Multiquip                                                                                          Multiquip (UK) Limited Head Office
+     (450) 625-2244                                                                                     0161 339 2223
+     4110 Industriel Boul.                                                                              Unit 2, Northpoint Industrial Estate,
+     Laval, Quebec, Canada H7L 6V3                                                                      Globe Lane,
+     E-MAIL: infocanada@multiquip.com                                                                   Dukinfield, Cheshire SK16 4UJ
+                                                                                                        E-MAIL: sales@multiquip.co.uk
+
+
+
+
+© COPYRIGHT 2021, MULTIQUIP INC.
+
+Multiquip Inc, the MQ logo are registered trademarks of Multiquip Inc. and may not be used, reproduced, or altered without written permission. All other trademarks are the property
+of their respective owners and used with permission.
+
+This manual MUST accompany the equipment at all times. This manual is considered a permanent part of the equipment and should remain with the unit if resold.
+
+The information and specifications included in this publication were in effect at the time of approval for printing. Illustrations, descriptions, references and technical data contained in
+this manual are for guidance only and may not be considered as binding. Multiquip Inc. reserves the right to discontinue or change specifications, design or the information published
+in this publication at any time without notice and without incurring any obligations.
+
+
+                               Your Local Dealer is:
+

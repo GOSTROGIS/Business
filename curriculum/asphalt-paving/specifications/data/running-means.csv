@@ -1,0 +1,3 @@
+Case,Curve_pct,Test_1_pct,Test_2_pct,Test_3_pct,Test_4_pct,Test_5_pct,Historical_lower_pct,Historical_upper_pct,Historical_tolerance_pp
+moving_window,62,60,62,64,66,68,50,75,4.5
+edge_case,51,49,49,50,50,,50,75,4.5

@@ -2,8 +2,9 @@
 
 <!-- visual:social-collaboration-six-components--learner-07 -->
 <figure class="teaching-figure diagram" data-visual="social-collaboration-six-components--learner-07">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-six-components.svg" alt="Collaboration overview: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team." loading="eager" decoding="sync"></div>
-<figcaption><span class="figure-label">Visual guide</span> Six connected components of collaboration. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-collaboration-six-components.svg">Open full-size visual</a></figcaption>
+<div class="figure-art" tabindex="0" role="region" aria-label="Collaboration — contribute, listen and finish together — visual"><img src="../assets/diagrams/social-collaboration-six-components.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Different strengths. One shared purpose. Six connected components: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team. Revisit the component that helps the task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of collaboration. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-collaboration-six-components.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Different strengths. One shared purpose. Six connected components: Work well with others; Value diversity and inclusion; Manage difficult interactions; Support collaboration; Achieve a common goal; Reflect and improve as a team. Revisit the component that helps the task.</p></details>
 </figure>
 <!-- /visual:social-collaboration-six-components--learner-07 -->
 
@@ -15,7 +16,7 @@ Working together does not mean everyone must speak in the same way, agree immedi
 
 In an ACCESS IS4S classroom, learners may have connections with different First Nations, Métis or Inuit communities, may live away from their home community, or may choose not to discuss those connections. You decide what personal knowledge you share. No classmate is the spokesperson for an entire people. The cases here are fictional classroom situations; they do not describe a Nation's decision-making practices.
 
-You will practise six connected parts of collaboration. The component names below come from the supplied SkillPlan guide. The activities, cases and evidence descriptions are original learning materials.
+You will practise six connected parts of collaboration.
 
 | Component | What you will practise | Main evidence |
 |---|---|---|
@@ -25,6 +26,20 @@ You will practise six connected parts of collaboration. The component names belo
 | 4. Facilitate an environment where you can collaborate with others | Make it easier to contribute, ask questions and receive feedback. | CL-04, CL-12, CL-16 |
 | 5. Achieve a common goal with others | Coordinate contributions and check the shared result. | CL-10–CL-15 |
 | 6. Reflect and improve on how well the team works together | Use observations to choose and try a better team practice. | CL-15–CL-18 |
+
+<!-- teaching:cl-route-learner -->
+## Collaboration route card
+
+**Core route.** Agree a goal and contribution process with CL-01/02/03. Use CL-04/05/06 to widen meaningful participation without requiring cultural content. Distinguish facts and preferences with CL-07/08/09. Make the task board, hand over and facilitate with CL-10/11/12; test the pack and a team-process improvement with CL-13/14/15/16. In CK-CL, each learner has a role, a facilitation turn, a product contribution and an opportunity to check the result.
+
+**Support route.** Begin in a pair with the instructor as a practice partner. Use a task board with empty fields for responsibility, handover and check. A facilitation prompt card may say “purpose → invite → hear → dependency → next action → check back.” Record the scaffold and any live prompt separately. A learner can direct a scribe or use a written invitation. Do not assign all decisions permanently to the quickest speaker or keyboard user. Offer private practice and a different partner when needed.
+
+**Retry route.** Select one observable interaction: wait for the written contribution, restate the handover, name a source discrepancy, or check the next-action summary. Try it with CK-CL Version 2 or another familiar small task. Keep the actual interaction and product result separate. A correct reader test can justify keeping the product; it does not require a manufactured revision. An absent disagreement is Not observed rather than proof of either conflict skill or failure.
+
+**Chapter coverage map:** preparation CL-01/02/04/05/06/07/09/10; guided/observed practice CL-03/08/11/12/13/14/15/16; evidence and next-context planning CL-17/18. Planning a future handover does not demonstrate it.
+
+**Next-attempt agreement:** shared task ___; individual role/action ___; contribution mode ___; chosen process improvement ___; partners and observer ___; date/time ___; missing evidence ___.
+<!-- /teaching:cl-route-learner -->
 
 ## Case document 1 · The visitor information pack
 
@@ -88,8 +103,9 @@ The coordinator is available for clarification. If a conversation becomes person
 
 <!-- visual:social-collaboration-two-checks--learner-07 -->
 <figure class="teaching-figure diagram" data-visual="social-collaboration-two-checks--learner-07">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-two-checks.svg" alt="A branching diagram separates a source-fact correction from a comparison of the flow-diagram and question-and-answer layouts." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Disagree about the work without reducing the person — visual"><img src="../assets/diagrams/social-collaboration-two-checks.svg" alt="Two side-by-side checks distinguish a source fact from a design choice. The equipment statement is checked against the source: a paver places and rollers compact. A flow diagram and question-and-answer layout are both tested with a reader asking who owns the road. Different issues require different evidence." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Worked-example preview: check the equipment sentence against its source; test the two layouts with a reader. Different issues need different evidence. <a class="visual-original" href="../assets/diagrams/social-collaboration-two-checks.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Two side-by-side checks distinguish a source fact from a design choice. The equipment statement is checked against the source: a paver places and rollers compact. A flow diagram and question-and-answer layout are both tested with a reader asking who owns the road. Different issues require different evidence.</p></details>
 </figure>
 <!-- /visual:social-collaboration-two-checks--learner-07 -->
 
@@ -117,8 +133,9 @@ Consider three situations: a teammate wants a different heading; the source docu
 
 <!-- visual:social-collaboration-handover--learner-07 -->
 <figure class="teaching-figure diagram" data-visual="social-collaboration-handover--learner-07">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-collaboration-handover.svg" alt="A visitor schedule passes from its author to a receiver, with confirmed times and pending readability and copy-format checks kept distinct." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Turn individual tasks into one finished result — visual"><img src="../assets/diagrams/social-collaboration-handover.svg" alt="A checked visitor schedule lists welcome at 10:00, an equipment activity at 10:10, questions at 10:30 and finish at 10:45. The receiving partner retains those confirmed times while readability and copy formats remain pending. The team asks the coordinator before printing." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Worked-example preview: pass along the checked schedule and the unresolved format question. The receiver checks back before printing. <a class="visual-original" href="../assets/diagrams/social-collaboration-handover.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A checked visitor schedule lists welcome at 10:00, an equipment activity at 10:10, questions at 10:30 and finish at 10:45. The receiving partner retains those confirmed times while readability and copy formats remain pending. The team asks the coordinator before printing.</p></details>
 </figure>
 <!-- /visual:social-collaboration-handover--learner-07 -->
 
@@ -158,7 +175,7 @@ Read the update separately, then each person identifies one changed requirement 
 
 ### CL-14 · Produce and test the shared pack
 
-Finish a practice pack using the available classroom tools. Ask another pair or the instructor to find the process order, the road owner and the question-period end time. Also ask how the larger-print and spoken-review requests will be met. Record the reader's answers and one useful change. Each team member explains their contribution without claiming work completed by someone else.
+Finish a practice pack using the available classroom tools. Ask another pair or the instructor to find the process order, the road owner and the question-period end time. Also ask how the larger-print and spoken-review requests will be met. Record the reader's answers and either a useful change or the evidence showing that the pack already meets the reader's needs. Each team member explains their contribution without claiming work completed by someone else.
 
 ### CL-15 · Compare result and interaction
 
@@ -190,4 +207,58 @@ For a supported route, work in a pair, use a partly completed task board and reh
 
 For an extension, work with a new partner and a different supplied document. Agree the process before beginning, then compare what transferred and what needed adjustment. More people or less time do not automatically make a better assessment. The task must still allow each learner to contribute and the observer to collect useful evidence.
 
-**Source and design note.** The six component names are reproduced from [SkillPlan's March 2024 guide, p.92](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=92). Relationship-centred instruction, explicit teaching and structured roles inform this chapter (pp.93–95); assessment of interaction separately from group products informs the evidence tasks (p.96). The cases and learning activities are original ACCESS IS4S adaptations. They do not claim community endorsement, current regulatory authority or official proficiency assessment.
+<!-- teaching:cl-case-learner -->
+## CK-CL · Make a resource handover together
+
+These four original cases give you another opportunity to use a skill after the chapter practice. **All people, rooms, events and organizations in these cards are fictional.** You can use these cases without sharing personal, family, community or cultural knowledge. They are classroom tasks, not instructions for operating equipment or following an actual workplace procedure.
+
+Your instructor will give you the relevant card when your turn begins. Keep a sender's information separate from the receiver's card until after the exchange. If you have already read the information, say so: the activity remains useful practice, but that attempt cannot show how you receive an unfamiliar message. No one needs to conceal prior practice.
+
+Agree your language, communication mode, tools, access supports and response time before beginning. Speech, sign, text, AAC, a learner-directed scribe and agreed interpretation can be appropriate. The person observing needs a reliable way to understand the meaning of your contribution. Receiving a message in writing shows reception through that mode; it does not automatically show auditory listening. You may decline audio/video recording and use live observation. Ask for a pause or another opportunity if the conditions are not usable. There is no requirement to look cheerful, make eye contact or disclose why you need an arrangement.
+
+**Purpose:** three people prepare and test one accurate handover card. Work with the same source, contribute in an agreed mode and take turns facilitating. The group product and each person's collaboration are different kinds of evidence.
+
+### CK-CL shared source · Northbank practice room
+
+> **Fictional classroom brief · Version 1**
+>
+> The next group begins at **13:20**. Your three-person team will hand over the practice resources at a **13:10 check-in**.
+>
+> - **8 laminated maps** have been checked and are ready in **Bag A**.
+> - **6 pencils** have been checked and are ready in **Box B**.
+> - **2 clipboards** are at **Desk C**, waiting for the instructor's check. They are **not yet ready for handover**.
+>
+> The handover card must identify each resource, quantity, location and ready/pending status. It must state the check-in time and identify what still needs the instructor's decision. No learner is authorized to declare an unchecked clipboard ready.
+>
+> A receiver should be able to locate the ready resources and explain what to leave pending. The card can use headings, rows, symbols with text, or another agreed accessible layout. It is a practice document and must say so.
+
+An earlier draft says: **“All 16 items are ready. Collect everything from Desk C.”** Check it against the source. Keep factual checking separate from a preference about how the corrected information should look.
+
+### CK-CL role card 1 · Prepare and facilitate the first check-in
+
+Your starting task is to organize the shared work. Invite each person's preferred contribution route and ask what they notice in the brief. At the first check-in, help the team agree the goal, who will do what and how corrections will be confirmed. Ask the others for reasons before the team chooses a layout. You may propose short labelled sections, but you are not required to insist on them or win a vote. Hand a clear next action to another member.
+
+### CK-CL role card 2 · Check the source and facilitate the second check-in
+
+Your starting task is to compare the draft with the source. Identify exact facts that need checking. At the second check-in, invite both other members' updates, explain a dependency or unresolved item and ask the group how to address it. You may propose a row for each resource, but listen to the other layout idea. A source fact cannot be decided by preference or majority vote. Confirm who will make the agreed change and who will check it.
+
+### CK-CL role card 3 · Act for the receiver and facilitate the third check-in
+
+Your starting task is to consider whether the next group can use the card. Ask where the ready maps and pencils are and how the pending clipboards are identified. At the third check-in, invite each person's review and help the team choose one way to improve the handover process. Test that process while handing the completed card to a reader. The process may involve a receiver restating pending work or a checker naming the source line. If the product is already accurate and usable, retain it with evidence from the test.
+
+### CK-CL three check-ins and reader test
+
+Each learner facilitates one check-in, provisionally five minutes with more time agreed when needed. During a check-in, the other members respond in their chosen modes and contribute an actual observation or proposal. Do not act out insults, discrimination or a personal conflict. A respectful disagreement about the draft or layout supplies enough practice. If no disagreement occurs, record that opportunity as absent; do not invent one in the evidence note.
+
+A reader, who may be the instructor, uses only your finished card to answer:
+
+1. Where are the maps and pencils, and which are ready?
+2. What is still pending, and who can resolve that status?
+3. When is the handover check-in?
+
+Keep the reader's actual answers. Make a useful revision if the check reveals a need, or explain why the result supports keeping the current card. Each person identifies their own contribution. Then try the chosen handover improvement once and record what happened; planning a better interaction does not prove it happened.
+
+### CK-CL later retry source · Hold until another attempt
+
+For another short handover, use this **fictional Version 2 update**: one of the two clipboards at Desk C has now been checked and is ready; the second remains pending. The 8 maps, 6 pencils, their locations and the 13:10 check-in stay unchanged. Label the revision Version 2. Check that a receiver can distinguish the two clipboards' statuses without treating the whole location as ready. Use new role allocations where possible. This update is not authority to change any real equipment status.
+<!-- /teaching:cl-case-learner -->

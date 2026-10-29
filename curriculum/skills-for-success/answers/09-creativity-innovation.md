@@ -73,5 +73,3 @@ Accept a room-booking form, a clearer practice schedule, a supply label or anoth
 ## CI-18 · Assemble your idea-development record
 
 The record should link curiosity to questions, opportunity identification to the design brief, idea generation to alternatives, development to the specification/prototype, application to testing/revision, and a supportive environment to observed feedback or facilitation. Name another contribution accurately and with agreed attribution. A next goal might be “In the next prototype test, I will record observations separately from explanations before choosing a revision.” Accept unobserved components honestly and identify a suitable follow-up task.
-
-**Source note:** Component names and teaching/assessment considerations follow the supplied [SkillPlan guide, pp.106–113](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=106). The kit system, counts, test records and answer models are original ACCESS IS4S learning material, not validated assessment instruments.

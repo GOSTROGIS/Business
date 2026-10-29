@@ -56,7 +56,7 @@ Changes include two large-print requests, one spoken-review request, a second ro
 
 ## CL-14 · Produce and test the shared pack
 
-The reader should find the correct process order, Town of Willow Reach and 10:45 end time. The plan must address the two larger-print requests and one spoken review within the stated classroom arrangement. The product should retain fictional labels and the additional-steps qualification. Collect reader responses and the team's reasoned revision. Assess each learner's explanation of their own contribution separately from the group's product quality.
+The reader should find the correct process order, Town of Willow Reach and 10:45 end time. The plan must address the two larger-print requests and one spoken review within the stated classroom arrangement. The product should retain fictional labels and the additional-steps qualification. Collect reader responses and either the team's reasoned revision or a reasoned decision to retain the successful version. An accurate pack that answers all stated reader questions can meet the task without an invented change. Assess each learner's explanation of their own contribution separately from the group's product quality.
 
 ## CL-15 · Compare result and interaction
 
@@ -73,5 +73,3 @@ A supply handover may need item counts, condition and a recipient check; a room 
 ## CL-18 · Build your collaboration evidence note
 
 The note should connect all six components to specific actions or artifacts: role/handover, inclusion adjustment, disagreement process, facilitation, finished shared work and a tested improvement. A useful goal is “At the next check-in I will invite each person's status and ask one receiver to restate the handover.” “I will be a better team player” lacks an observable action. A partner or instructor can verify the description while recognizing that some components may still be Not observed and need another task.
-
-**Source note:** Component names and the distinction between interaction quality and group-product quality follow the supplied [SkillPlan guide, pp.92–96](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=92). The answer models are original teaching guidance, not official scoring standards.

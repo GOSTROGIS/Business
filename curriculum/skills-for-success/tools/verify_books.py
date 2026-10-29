@@ -106,6 +106,9 @@ class HTMLDocument(HTMLParser):
         self.headings: list[str] = []
         self.text: list[str] = []
         self.figures: list[dict] = []
+        self.body_attributes: dict = {}
+        self.toc_pages: list[dict] = []
+        self._toc_page: dict | None = None
         self._figure_stack: list[dict] = []
         self._caption_stack: list[dict] = []
         self._heading: list[str] | None = None
@@ -113,6 +116,12 @@ class HTMLDocument(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attributes = dict(attrs)
+        if tag == "body":
+            self.body_attributes = attributes
+        if "toc-page" in attributes.get("class", "").split():
+            self._toc_page = {"target": attributes.get("data-toc-target", ""),
+                              "page": attributes.get("data-page", ""), "text": []}
+            self.toc_pages.append(self._toc_page)
         if tag == "figure":
             figure = {"id": attributes.get("data-visual", ""), "images": [],
                       "caption": [], "closed": False}
@@ -135,6 +144,8 @@ class HTMLDocument(HTMLParser):
     handle_startendtag = handle_starttag
 
     def handle_endtag(self, tag):
+        if tag == "span" and self._toc_page is not None:
+            self._toc_page = None
         if tag == "figcaption" and self._caption_stack:
             self._caption_stack.pop()
         elif tag == "figure" and self._figure_stack:
@@ -145,10 +156,63 @@ class HTMLDocument(HTMLParser):
 
     def handle_data(self, data):
         self.text.append(data)
+        if self._toc_page is not None:
+            self._toc_page["text"].append(data)
         if self._heading is not None:
             self._heading.append(data)
         if self._caption_stack:
             self._caption_stack[-1]["caption"].append(data)
+
+
+class CrosswalkStructure(HTMLParser):
+    """Keep section/table relationships that plain text presence cannot prove."""
+
+    def __init__(self, source: str):
+        super().__init__(convert_charrefs=True)
+        self.headings: list[dict] = []
+        self.tables: list[dict] = []
+        self._path: dict[int, str] = {}
+        self._heading: list[str] | None = None
+        self._heading_level = 0
+        self._table: dict | None = None
+        self._row: list[str] | None = None
+        self._cell: list[str] | None = None
+        self.feed(source)
+
+    def handle_starttag(self, tag, attrs):
+        if re.fullmatch(r"h[1-6]", tag):
+            self._heading_level = int(tag[1])
+            self._heading = []
+        elif tag == "table":
+            self._table = {"path": dict(self._path), "rows": []}
+            self.tables.append(self._table)
+        elif tag == "tr" and self._table is not None:
+            self._row = []
+        elif tag in {"td", "th"} and self._row is not None:
+            self._cell = []
+
+    def handle_data(self, data):
+        if self._heading is not None:
+            self._heading.append(data)
+        if self._cell is not None:
+            self._cell.append(data)
+
+    def handle_endtag(self, tag):
+        if re.fullmatch(r"h[1-6]", tag) and self._heading is not None:
+            level = self._heading_level
+            title = " ".join("".join(self._heading).split())
+            self._path = {key: value for key, value in self._path.items() if key < level}
+            self._path[level] = title
+            self.headings.append({"level": level, "text": title, "path": dict(self._path)})
+            self._heading = None
+        elif tag in {"td", "th"} and self._cell is not None:
+            self._row.append(" ".join("".join(self._cell).split()))
+            self._cell = None
+        elif tag == "tr" and self._row is not None:
+            self._table["rows"].append(self._row)
+            self._row = None
+        elif tag == "table":
+            self._table = None
 
 
 def markdown_links(text: str) -> list[str]:
@@ -328,7 +392,9 @@ class Verifier:
             for folder in ("learner", "answers"):
                 path = self.root / folder / f"{stem}.md"
                 text = without_code(self.read(path, "activity coverage"))
-                headings = list(re.finditer(r"(?m)^#{1,6}\s+(?:\*\*)?([A-Z]{2}-\d{2})\b[^\n]*", text))
+                # Additional teaching packets may use their own IDs. Preserve
+                # the original sequence without treating unrelated IDs as edits.
+                headings = list(re.finditer(rf"(?m)^#{{1,6}}\s+(?:\*\*)?({prefix}-\d{{2}})\b[^\n]*", text))
                 actual = [match.group(1) for match in headings]
                 self.check(actual == expected, "activity coverage",
                            f"{self.label(path)} activity headings must be {expected[0]}–{expected[-1]} exactly once in order; found {actual}")
@@ -437,6 +503,14 @@ class Verifier:
                 body = normalized(" ".join(doc.text))
                 self.check("access" in body and "skills for success" in body, "book identity",
                            f"Missing ACCESS / Skills for Success identity in {path.name}")
+                reference_framing = re.findall(
+                    r"\bskillplan\b|\b(?:supplied|original|source) guide\b|\bget started guide\b|\b148[- ]page\b",
+                    body, re.I)
+                self.check(not reference_framing, "standalone books",
+                           f"Reference-guide framing remains in {path.name}: {reference_framing[:8]}")
+                for prefix in ("RD", "WR", "NU", "DG", "PS", "CM", "CL", "AD", "CI"):
+                    self.check(bool(re.search(rf"\bck\s+{prefix.lower()}\b", body)), "fresh practice coverage",
+                               f"Fresh {prefix} practice missing from {path.name}")
                 headings = [normalized(heading) for heading in doc.headings]
                 spec = self.book_specs.get(path.stem, {})
                 if spec:
@@ -458,6 +532,151 @@ class Verifier:
                 for source in sorted((self.root / folder).glob("*.md")):
                     self.check(source.with_suffix(".html").is_file(), "generated HTML",
                                f"Missing standalone chapter: {self.label(source.with_suffix('.html'))}")
+
+    def check_crosswalk_structure(self, source: str, label: str):
+        """Verify the actual rendered crosswalk, including both past failure modes."""
+        doc = CrosswalkStructure(source)
+        group = "crosswalk structure"
+        component_section = normalized("Fifty-four skill components")
+        expected_skills = [normalized(name) for _, _, name in SKILLS]
+        component_headings = [normalized(h["text"]) for h in doc.headings
+                              if h["level"] == 3 and
+                              normalized(h["path"].get(2, "")).startswith(component_section)]
+        self.check(component_headings == expected_skills, group,
+                   f"{label}: component crosswalk needs nine real skill headings in order")
+        tables = [table for table in doc.tables
+                  if normalized(table["path"].get(2, "")).startswith(component_section)]
+        self.check(len(tables) == 9, group,
+                   f"{label}: component crosswalk needs one table for each of nine skills")
+        for skill in expected_skills:
+            matching = [table for table in tables if normalized(table["path"].get(3, "")) == skill]
+            valid = len(matching) == 1 and len(matching[0]["rows"]) == 7
+            self.check(valid, group, f"{label}: {skill} needs one header row and six component rows")
+            if matching:
+                rows = matching[0]["rows"]
+                self.check(all(len(row) == 3 for row in rows), group,
+                           f"{label}: {skill} component table needs three cells per row")
+                self.check([row[0] for row in rows[1:] if row] == [str(n) for n in range(1, 7)],
+                           group, f"{label}: {skill} component numbers must be 1–6 once in order")
+        for section, columns in (("Twenty-seven instructional strategy groups", 4),
+                                 ("Twenty-seven grab-and-go activity patterns", 3)):
+            matching = [table for table in doc.tables
+                        if normalized(table["path"].get(2, "")) == normalized(section)]
+            self.check(len(matching) == 1, group, f"{label}: {section} must render as one HTML table")
+            if len(matching) != 1:
+                continue
+            rows = matching[0]["rows"]
+            self.check(len(rows) == 28, group, f"{label}: {section} needs a header and 27 body rows")
+            self.check(all(len(row) == columns for row in rows), group,
+                       f"{label}: {section} needs {columns} cells in every row")
+            actual_skills = [normalized(row[0].split(",")[0]) for row in rows[1:] if row]
+            self.check(actual_skills == [skill for skill in expected_skills for _ in range(3)], group,
+                       f"{label}: {section} needs three rows per skill in book order")
+            treatments = ("adapted", "partially adapted", "replaced", "summarized", "indexed", "deferred")
+            self.check(all(row and any(normalized(row[-1]).startswith(status + " ")
+                                      for status in treatments) for row in rows[1:]), group,
+                       f"{label}: {section} rows need explicit treatment labels")
+        self.check(not any(re.match(r"\s*#{1,6}\s", cell) for table in doc.tables
+                           for row in table["rows"] for cell in row), group,
+                   f"{label}: a Markdown heading has been swallowed by a table cell")
+
+    def verify_crosswalk(self):
+        paths = ["research/source-coverage.html"]
+        if "research/source-coverage.md" in self.book_specs.get("practitioner-guide", {}).get("chapters", []):
+            paths.append("practitioner-guide.html")
+        for relative in paths:
+            path = self.root / relative
+            if not path.is_file():
+                if self.require_generated:
+                    self.check(False, "crosswalk structure", f"Missing generated crosswalk: {relative}")
+                else:
+                    self.notes.append(f"Not built; skipped crosswalk structure in {relative}")
+                continue
+            self.check_crosswalk_structure(path.read_text(encoding="utf-8"), relative)
+
+    def verify_contents_destinations(self):
+        """Compare generated contents labels and cross-book links with final PDFs."""
+        group = "PDF contents destinations"
+        for stem in BOOKS:
+            html_path = self.root / f"{stem}.html"
+            pdf_path = self.root / f"{stem}.pdf"
+            if not html_path.is_file() or not pdf_path.is_file():
+                if self.require_generated:
+                    self.check(False, group, f"Contents check needs {stem}.html and {stem}.pdf")
+                continue
+            doc, reader = self.html(html_path), self.pdf(pdf_path)
+            verified = doc.body_attributes.get("data-pdf-pagination") == "verified"
+            if not verified and not self.require_generated:
+                self.notes.append(f"Pagination not exported; skipped final contents labels in {stem}")
+                continue
+            self.check(verified, group, f"{stem}: HTML does not record converged PDF pagination")
+            self.check(doc.body_attributes.get("data-pdf-pages") == str(len(reader.pages)), group,
+                       f"{stem}: recorded pagination page count differs from the final PDF")
+            expected = ["-".join(Path(chapter).with_suffix("").parts)
+                        for chapter in self.book_specs.get(stem, {}).get("chapters", [])]
+            self.check([entry["target"] for entry in doc.toc_pages] == expected, group,
+                       f"{stem}: contents page slots must match manifest chapters once in order")
+            destinations = reader.named_destinations
+            for entry in doc.toc_pages:
+                target = entry["target"]
+                destination = destinations.get("/" + target)
+                if destination is None:
+                    destination = destinations.get(target)
+                self.check(destination is not None, group, f"{stem}: missing PDF contents destination {target}")
+                if destination is None:
+                    continue
+                index = reader.get_destination_page_number(destination)
+                valid = isinstance(index, int) and 0 <= index < len(reader.pages)
+                self.check(valid, group, f"{stem}: invalid PDF contents destination {target}")
+                if valid:
+                    shown = "".join(entry["text"]).strip()
+                    self.check(entry["page"] == shown == str(index + 1), group,
+                               f"{stem}: contents label for {target} must match final PDF page {index + 1}")
+
+            # A valid chapter target does not prove that a deep cross-book
+            # heading survived export. Inspect the actual final URI targets too.
+            uri_targets = set()
+            for page in reader.pages:
+                for reference in page.get("/Annots", []):
+                    action = reference.get_object().get("/A")
+                    if not action:
+                        continue
+                    uri = str(action.get_object().get("/URI", ""))
+                    if not uri:
+                        continue
+                    parsed = urlsplit(uri)
+                    params = parse_qs(parsed.fragment)
+                    if parsed.path.endswith(".pdf") and len(params.get("page", [])) == 1:
+                        uri_targets.add((Path(parsed.path).stem, params["page"][0]))
+            checked = set()
+            for link in doc.links:
+                parsed = urlsplit(link)
+                target_stem = Path(parsed.path).stem
+                if (parsed.scheme or parsed.netloc or target_stem not in BOOKS or target_stem == stem
+                        or not parsed.path.endswith(".html") or not parsed.fragment):
+                    continue
+                fragment = unquote(parsed.fragment)
+                key = target_stem, fragment
+                if key in checked:
+                    continue
+                checked.add(key)
+                target_pdf = self.root / f"{target_stem}.pdf"
+                if not target_pdf.is_file():
+                    self.check(False, group, f"{stem}: missing companion PDF {target_pdf.name}")
+                    continue
+                companion = self.pdf(target_pdf)
+                destination = companion.named_destinations.get("/" + fragment)
+                if destination is None:
+                    destination = companion.named_destinations.get(fragment)
+                self.check(destination is not None, group,
+                           f"{stem}: companion PDF omits destination {target_stem}#{fragment}")
+                if destination is not None:
+                    index = companion.get_destination_page_number(destination)
+                    self.check(isinstance(index, int) and 0 <= index < len(companion.pages), group,
+                               f"{stem}: invalid companion destination {target_stem}#{fragment}")
+                    if isinstance(index, int) and index >= 0:
+                        self.check((target_stem, str(index + 1)) in uri_targets, group,
+                                   f"{stem}: exported link to {target_stem}#{fragment} must point to PDF page {index + 1}")
 
     def figure_image_path(self, origin: Path, source: str) -> Path | None:
         """Resolve a figure image locally; network and embedded HTML images are invalid."""
@@ -727,7 +946,8 @@ class Verifier:
 
     def run(self) -> dict:
         for operation in (self.verify_inventory, self.verify_activities, self.verify_manifest, self.verify_markdown,
-                          self.verify_html, self.verify_visuals, self.verify_pdfs, self.verify_sampler):
+                          self.verify_html, self.verify_crosswalk, self.verify_visuals,
+                          self.verify_pdfs, self.verify_contents_destinations, self.verify_sampler):
             try:
                 operation()
             except Exception as error:

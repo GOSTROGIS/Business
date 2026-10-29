@@ -2,8 +2,9 @@
 
 <!-- visual:social-creativity-six-components--learner-09 -->
 <figure class="teaching-figure diagram" data-visual="social-creativity-six-components--learner-09">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-six-components.svg" alt="Creativity and innovation overview: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity." loading="eager" decoding="sync"></div>
-<figcaption><span class="figure-label">Visual guide</span> Six connected components of creativity and innovation. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-creativity-six-components.svg">Open full-size visual</a></figcaption>
+<div class="figure-art" tabindex="0" role="region" aria-label="Creativity and innovation — notice, make, test and improve — visual"><img src="../assets/diagrams/social-creativity-six-components.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Make ideas usable. Learn from the trial. Six connected components: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity. Revisit the component that helps the task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of creativity and innovation. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-creativity-six-components.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Make ideas usable. Learn from the trial. Six connected components: Use imagination and curiosity; Find opportunities to innovate; Generate new ideas; Develop your ideas; Apply your ideas; Make room for creativity. Revisit the component that helps the task.</p></details>
 </figure>
 <!-- /visual:social-creativity-six-components--learner-09 -->
 
@@ -27,6 +28,20 @@ A useful design is developed with attention to the people who will use it. An ur
 | 4. Develop your ideas | Add details, compare features and prepare a usable prototype. | CI-08–CI-10 |
 | 5. Apply your ideas | Try the prototype, observe results and improve it. | CI-11–CI-15 |
 | 6. Facilitate a creative and innovative environment for yourself and others | Make room for ideas, give useful feedback and share work by agreement. | CI-06, CI-12, CI-16–CI-18 |
+
+<!-- teaching:ci-route-learner -->
+## Creativity and Innovation route card
+
+**Core route.** Identify the user's task with CI-01/02/03/04. Generate different options with CI-05/06/07, select/develop with CI-08/09/10 and plan a fair trial with CI-11/12. Use CI-13/14/15 to distinguish observation from inference and make a bounded revision. In CK-CI, keep options, a prototype, actual user actions, help given and a reasoned next version or keep decision. Give a partner concrete feedback without taking over their design.
+
+**Support route.** Use plain words, movable cards, a spoken specification or a learner-directed scribe. Start with one visible need and practise two approaches before the fuller three-option attempt. A model can support learning; record when it was available and do not call the copied solution independent idea generation. Ask a willing partner or the instructor to be the user. No artistic quality, cultural motif or personal story is required.
+
+**Retry route.** Change one feature in response to actual evidence, or retain an effective feature with a reason. Try the held status-change card and matching user request. Separate help to the designer from prompts to the user. A repeat with a familiar user shows that repeat under those conditions; it does not establish first-use accessibility or usefulness for everyone. If a truly new user is needed, arrange one rather than claiming a familiar partner is new.
+
+**Chapter coverage map:** preparation CI-01/02/03/04/05/07/08/09/11/13; guided/observed action CI-06/10/12/14/15/16; next-context planning/evidence review CI-17/18. A transfer plan needs later action before it can be called observed application.
+
+**Next-attempt agreement:** user task ___; design decision ___; authoring support ___; user/role and prior familiarity ___; trial prompts ___; change/keep reason ___; observer/booking ___; limit of conclusion ___.
+<!-- /teaching:ci-route-learner -->
 
 ## Case document 1 · The practice-card shelf
 
@@ -92,8 +107,9 @@ Choose an assumption such as “every kit needs a separate colour,” “instruc
 
 <!-- visual:social-creativity-three-prototypes--learner-09 -->
 <figure class="teaching-figure diagram" data-visual="social-creativity-three-prototypes--learner-09">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-three-prototypes.svg" alt="Three physical prototype sketches show a labelled folder, a four-space Number Check matching board and a shared return tray with a helper responsible for resetting kits." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Case document 2 · Three possible prototypes — visual"><img src="../assets/diagrams/social-creativity-three-prototypes.svg" alt="Three original prototypes show a labelled Number Check folder, a matching board with data, example and two blank-sheet spaces, and a return tray with N and C kits and a named helper-reset action. Questions ask whether a new user can find instructions, whether cards fit and stay together, and who checks and resets the tray. These are options to test." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Case preview: the labelled folder, matching board and shared return tray organize the same task in different ways. The questions beneath them remain to be tested. <a class="visual-original" href="../assets/diagrams/social-creativity-three-prototypes.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Three original prototypes show a labelled Number Check folder, a matching board with data, example and two blank-sheet spaces, and a return tray with N and C kits and a named helper-reset action. Questions ask whether a new user can find instructions, whether cards fit and stay together, and who checks and resets the tray. These are options to test.</p></details>
 </figure>
 <!-- /visual:social-creativity-three-prototypes--learner-09 -->
 
@@ -149,8 +165,9 @@ Exchange prototypes with another learner or pair. Give one specific observation,
 
 <!-- visual:social-creativity-kit-revision--learner-09 -->
 <figure class="teaching-figure diagram" data-visual="social-creativity-kit-revision--learner-09">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-creativity-kit-revision.svg" alt="Side-by-side Number Check folders show version 1 with four items and version 2 with five, including the additional worked example and a visible check-needed slip." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Case document 3 · Results and a changed requirement — visual"><img src="../assets/diagrams/social-creativity-kit-revision.svg" alt="Two Number Check folders show an inspectable revision. Version 1 has four items: one data card, one worked example and two blank sheets. Version 2 has five: one data card, two worked examples and two blanks. A further check must make the slip instruction visible and retest; used sheets stay with the learner and two blank sheets are restocked." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Worked-example preview: the second worked example changes the Number Check kit from four items to five. D = data table; E = worked example; unlettered pages = blank record sheets. Update the version and visible instructions, then retest. <a class="visual-original" href="../assets/diagrams/social-creativity-kit-revision.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Two Number Check folders show an inspectable revision. Version 1 has four items: one data card, one worked example and two blank sheets. Version 2 has five: one data card, two worked examples and two blanks. A further check must make the slip instruction visible and retest; used sheets stay with the learner and two blank sheets are restocked.</p></details>
 </figure>
 <!-- /visual:social-creativity-kit-revision--learner-09 -->
 
@@ -202,4 +219,44 @@ For supported practice, use one kit, a partly completed contents list and an ins
 
 Use the local evidence descriptions **Not observed, Not yet demonstrated, Demonstrated with support,** and **Demonstrated independently** for the stated task. These are not official proficiency levels. A plan to use the design process elsewhere is a transfer intention; a later documented task provides stronger evidence of actual transfer.
 
-**Source and design note.** Component names come from [SkillPlan's March 2024 guide, p.106](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=106). Real-world application, structured idea development, inclusive participation and performance evidence inform the chapter (pp.107–113). The kit cases, counts, prototypes and activities are original ACCESS IS4S teaching materials. Specific community knowledge remains under appropriate local direction; this chapter does not claim cultural endorsement or validated proficiency scoring.
+<!-- teaching:ci-case-learner -->
+## CK-CI · Design a clear choose-and-check display
+
+These four original cases give you another opportunity to use a skill after the chapter practice. **All people, rooms, events and organizations in these cards are fictional.** You can use these cases without sharing personal, family, community or cultural knowledge. They are classroom tasks, not instructions for operating equipment or following an actual workplace procedure.
+
+Your instructor will give you the relevant card when your turn begins. Keep a sender's information separate from the receiver's card until after the exchange. If you have already read the information, say so: the activity remains useful practice, but that attempt cannot show how you receive an unfamiliar message. No one needs to conceal prior practice.
+
+Agree your language, communication mode, tools, access supports and response time before beginning. Speech, sign, text, AAC, a learner-directed scribe and agreed interpretation can be appropriate. The person observing needs a reliable way to understand the meaning of your contribution. Receiving a message in writing shows reception through that mode; it does not automatically show auditory listening. You may decline audio/video recording and use live observation. Ask for a pause or another opportunity if the conditions are not usable. There is no requirement to look cheerful, make eye contact or disclose why you need an arrangement.
+
+**Purpose:** develop and test a small information design. Artistic polish is not the goal. The design should help someone make a correct choice from the supplied fictional facts.
+
+### CK-CI design brief and source cards
+
+A practice shelf has three classroom packs. Users need to check what is ready before choosing. Make a tabletop paper prototype; a screen version is optional if available. Use only these facts:
+
+| Pack | Current status | What a user may do |
+|---|---|---|
+| MAP | Ready | Select it for the classroom activity. |
+| WORD | Being checked | Leave it in place; ask the instructor when it will be ready. |
+| NUMBER | Ready | Select it for the classroom activity. |
+
+The prototype must name all three packs, make each status and next action understandable, and identify itself as **classroom practice**. It must work without colour as the only status signal. It must not collect names, photographs, cultural knowledge or personal reasons for choosing a pack. Available materials are plain paper, six blank cards, a marker or pencil and removable tape. A learner-directed scribe may prepare the marks you specify. Use descriptive words or simple original shapes; no cultural imagery is required.
+
+Before choosing a design, ask a useful question about the user's task and record at least three different possible approaches. Differences must change how information is found or used, not just the colour. Select one approach with a reason tied to the brief. Make a usable small prototype. Keep a sketch or note of the other options; a finished attractive product alone does not show idea generation.
+
+### CK-CI user card · Give to a willing test partner
+
+You want the **WORD** pack first. If it is not ready, you would use the **MAP** pack today and ask the instructor about WORD. Using the prototype, identify your first-choice pack's status, say what you will do next and locate the pack you can use today. Explain one point that helped or confused you. Do not pretend to misunderstand a clear display, and do not praise it just to be polite. You can decline or stop the user role; the instructor can take the role or arrange another partner.
+
+### CK-CI test and revision
+
+Tell the user the task and agree how they will give feedback. During the first trial, observe rather than coaching the answer. If the user asks for help, you may provide it, but record the actual prompt and treat the trial as supported at that point. A person's support need is not a fault in them. Note whether the display itself made the required information available in the agreed mode.
+
+Ask permission before marking or changing someone else's contribution. Identify a useful change from the trial, make it, and repeat the task. If no change is needed, retain the prototype and explain the evidence from the check. A repeat with the same user is a familiar-task retest; it is not an independent first-use trial with a new person. State what this trial supports and what it cannot establish.
+
+When you take the user role for a partner's design, offer one concrete observation and leave the design decision with its author. Each learner needs a design turn and an opportunity to give feedback. A peer's successful use of your display does not prove you developed it without support.
+
+### CK-CI later change card · Hold for a later design attempt
+
+The fictional status changes: **WORD is now Ready**; **MAP is now Being checked**; **NUMBER remains Ready**. The next user's first choice is **MAP**, with **NUMBER** as their acceptable alternative. The action for a pack being checked remains “leave it in place and ask the instructor.” Update the prototype, verify all three statuses, and test with this task. If the same person already knows the earlier display, record that familiarity. This is a bounded application in a changed classroom task, not evidence of effectiveness across workplaces or communities.
+<!-- /teaching:ci-case-learner -->

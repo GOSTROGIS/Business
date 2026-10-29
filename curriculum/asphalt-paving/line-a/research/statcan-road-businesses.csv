@@ -1,0 +1,10 @@
+REF_DATE,GEO,DGUID,Employment size,North American Industry Classification System (NAICS),UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2025-07,British Columbia,2021A000259,"Total, with employees","Highway, street and bridge construction [237310]",Number,223,units,0,v1807823689,11.1.545,427,,,,0
+2025-07,British Columbia,2021A000259,1 to 4 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807816448,11.2.545,175,,,,0
+2025-07,British Columbia,2021A000259,5 to 9 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807817684,11.3.545,63,,,,0
+2025-07,British Columbia,2021A000259,10 to 19 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807818857,11.4.545,72,,,,0
+2025-07,British Columbia,2021A000259,20 to 49 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807819975,11.5.545,62,,,,0
+2025-07,British Columbia,2021A000259,50 to 99 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807821073,11.6.545,32,,,,0
+2025-07,British Columbia,2021A000259,100 to 199 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807821993,11.7.545,18,,,,0
+2025-07,British Columbia,2021A000259,200 to 499 employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807822733,11.8.545,4,,,,0
+2025-07,British Columbia,2021A000259,500 plus employees,"Highway, street and bridge construction [237310]",Number,223,units,0,v1807823271,11.9.545,1,,,,0

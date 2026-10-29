@@ -1,0 +1,1504 @@
+SOURCE: curriculum/asphalt-paving/sources/design_build_standard_specs_2006.pdf
+SOURCE SHA-256: 0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13
+ORIGINAL PDF VIEWER PAGES: 376–400 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 376 ===
+ELECTRICAL AND SIGNING                                                                                       SECTION 635
+
+
+Pedestrian push buttons and signs shall be securely attached      635.18 Service Equipment - Service equipment shall be
+to the pole. Pedestrian pushbutton signs shall be temporarily     installed in accordance with Drawings SS SP635-2.4.1
+covered until the signal is in operation.                         through SS SP635-2.4.16.
+
+635.17.03 Luminaires and Photocells - Luminaires and              Service Equipment shall include electrical panels and
+photocells shall be installed as per manufacturer's               telephone demarcation panels.
+instructions or as noted on the Design. Luminaires shall be
+installed level. Where the luminaire has a multi-tap ballast,     Specialized service equipment (e.g., service kiosks) shall be
+the Contractor shall verify the service voltage and adjust the    installed in accordance with the Design and the Contract.
+luminaire voltage tap to suit.
+                                                                  Service equipment shall be securely attached to the poles.
+When installing flat glass cobra head roadway luminaires
+the flat glass lens shall be oriented parallel to the roadway     635.19 Wiring - All wiring shall be installed in accordance
+surface to reduce glare.                                          with the Design or as directed by the Designer.
+
+Sign luminaires will require different aiming depending on        All conductors shall be stranded copper, RW90 XLPE
+the manufacturer. Aiming angles shall be noted on the             insulated unless otherwise noted.
+Design.
+                                                                  Conductor gauges (AWG) shall be as specified on the
+Photocell eyes shall be aimed north.                              Drawings and the Design.
+
+635.17.04 Streetname Signs - Streetname signs shall be            Shielded detector loop and telephone demarcation cables
+bolted directly to the pole arms in accordance with Drawing       shall be 2 conductor No. 18 Ministry pre-approved product.
+SS SP635-3.2.1.                                                   Shielded detector loop cables shall run continuous with no
+                                                                  splices, from the traffic controller (or other type of control
+635.17.05 Audible Signals -Audible Signals shall be               equipment) to the respective detector loop conductor.
+installed on pedestrian signal heads in accordance with
+Drawing SS SP635-2.3.8. The Contractor shall aim and              Single conductor colour coding and labelling is required and
+adjust the audible signal heads to the satisfaction of the        shall be as noted on Drawings SS SP635-2.5.7 and 2.5.8.
+Designer and the Ministry Representative.                         Conductor colour coding shall also meet the requirements of
+                                                                  the Canadian Electrical Code.
+635.17.06 Emergency Vehicle Pre-emption Equipment –
+Emergency vehicle pre-emption equipment shall be installed        Where specifically noted on the Design, signal cable shall be
+in accordance with the Contract, Design and manufacturer’s        used. Signal cable colour coding and conductor
+instructions. The Contractor shall undertake all                  designations shall be as noted on Drawing SS SP635-2.5.9.
+commissioning and set-up of the equipment under the               Where signal cable is used all conductor splices shall be
+direction of the supplier technical representative.               made in pole hand holes in accordance with Drawing SS
+                                                                  SP635-2.5.10.
+635.17.07 Small Overhead Signs - Small overhead signs
+are classed as signs 1200 mm x 900 mm or smaller. Small           Each traffic and pedestrian signal head section and luminaire
+overhead signs shall be installed in accordance with              shall be wired separately to the base of the pole. A separate
+Drawings SS SP635-3.2.2 through SS SP635-3.2.6.                   neutral and bond conductor shall run to each signal head and
+                                                                  luminaire from the base of the pole. The neutral and bond
+Sign installations shall meet the requirements of DBSS            conductors shall be bundled with the feeder circuits.
+635.32.
+                                                                  Luminaire conductor wiring and fusing in pole handholes
+635.17.08 Video Detection Equipment – Video Detection             shall conform to Drawing SS SP635-2.5.6.
+equipment shall be installed in accordance with the Contract,
+Design and manufacturer’s instructions. The cameras shall         Wiring inside junction boxes and vaults shall conform to
+be installed on signal arms or on special combination type        Drawings SS SP635-2.5.1 through SS SP635-2.5.5.
+2A luminaire / camera arms in accordance with Drawings
+SS SP635-2.3.12 and .13 The Contractor shall undertake all        Conductor splices shall be secured with solderless
+commissioning and set-up of the equipment under the               "Marrette" type connectors. Where the number and/or size
+direction of the supplier technical representative.               of conductors exceed the capacity of the Marrette split bolt
+                                                                  connectors shall be used.
+
+BC - MOT                                                     DB 2006                                                  7 of 12
+
+=== ORIGINAL PDF PAGE 377 ===
+SECTION 635                                                                                ELECTRICAL AND SIGNING
+
+
+All wiring shall be neatly bundled and labelled in all             pole mount cabinets. The Ministry’s electrical maintenance
+junction boxes, vaults, traffic controllers, handholes at pole     contractor or Ministry Electrical Trades Supervisor will
+bases, and service panels.                                         connect all field wiring in controller cabinets, trouble-shoot
+                                                                   problems in the cabinet, enter all signal timings, undertake
+Sealing of connections shall be performed using one of the         modifications to existing signal phasing and timings, start-
+following methods:                                                 up controller and complete Ministry signal turn-on sheets.
+
+   a) Double dipping using 3M "Scotchcote" or approved             The Contractor shall be on hand to assist with controller
+   alternate. Dipping shall be performed strictly adhering         start-up and make any repairs to field wiring or hardware as
+   to the manufacturer's specifications.                           required. The Contractor shall provide traffic control and
+                                                                   assistance during the controller start-up.
+   b) Each conductor shall have a wrap of the self-holding
+   tape (3M Linerless Rubber Splicing Tape, Steadfast 8            The Contractor shall coil and label 2 m of each conductor
+   Ounce Splicing tape or approved alternate), then the            inside the traffic controller for connections by the Ministry’s
+   complete splice shall be wrapped. PVC tape shall then           electrical maintenance contractor or Ministry Electrical
+   be applied to cover the complete splice.                        Trades Supervisor. The Contractor shall verify that all
+                                                                   traffic and pedestrian signal phases are wired as shown on
+If conductor connections require the use of split bolts or         the Design and that all circuits are tested prior to activation.
+similar style devices due to wire size, then the splice shall be   The Contractor shall verify that all signal and pedestrian
+completely covered with Duct Seal to form a ball over the          phases are properly colour coded and labelled with
+connection. This Duct Seal shall be thick enough to prevent        identification tags.
+sharp ends of the conductors and/or points of the connector
+from protruding through the taped connection. Once the             635.22 Detector Loops - Detector loops shall be
+duct seal has been applied, the splice shall be taped with         constructed as noted on the Design and shall be installed in
+self-holding and PVC tape as described in DBSS 635.19 b).          accordance with Drawings SS SP635-2.8.1 through SS
+                                                                   SP635-2.8.16. Loop check sheets shall be completed and
+All luminaires and signal heads shall be bonded with a No.         submitted to the Ministry Representative prior to signal
+12 RW90 conductor. Steel junction box lids and steel vault         start-up.
+lids shall be bonded in accordance with Drawings SS
+SP635-2.5.1 through SS SP635-2.5.5.                                635.23 Repairing Galvanized Surfaces - Any spots where
+                                                                   the galvanized finish is damaged due to drilling, tapping,
+635.20 Traffic Counter Stations - Traffic counter stations         reaming or welding and any surface damage incurred during
+shall be short-duration type or permanent type.                    transportation and erection shall be refinished with cold
+                                                                   galvanizing compound. Cold galvanizing compound shall
+Short duration traffic counter stations shall be installed in      be Crown No. 67007 spray type (or approved alternative).
+accordance with Drawing SS SP635-2.6.1.                            The application of cold galvanizing compound shall
+                                                                   conform to the Manufacturer's instructions and the
+Perforated square steel tubing shall conform to DBSS               following:
+635.28.
+                                                                      a) The surface shall be mechanically cleaned with a
+Permanent traffic counter stations shall be installed in              wire brush or grinder and chemically cleaned to remove
+accordance with Drawing SS SP635-2.6.2 and 2.6.3.                     all welding flux, paint, grease, oil, rust, scale or other
+                                                                      detrimental foreign matter.
+The Contractor will install all pole mount cabinets. The
+Ministry’s electrical maintenance contractor will connect all         b) The surface shall be absolutely dry and the ambient
+field wiring in cabinets, trouble-shoot problems in the               temperature shall be over 10°C.
+cabinet and undertake all equipment set-up
+                                                                      c) Uniform coats shall be applied. Each coat shall be as
+635.21 Controllers - Type B, C, M and S traffic controller            thick as possible without causing runs on the finished
+cabinets shall be installed in accordance with Drawings SS            surface.
+SP635-2.7.1 through SS SP635-2.7.3.
+                                                                   635.24 Flasher Luminaires - Flasher luminaires shall be
+The Ministry’s electrical maintenance contractor or Ministry       mounted on perforated square steel tubing in accordance
+Electrical Trades Supervisor will install all base mount           with Drawings SS SP635-2.9.1 through SS SP635-2.9.3.
+traffic controller and cabinets. The Contractor will install all
+
+
+8 of 12                                                     DB 2006                                                 BC - MOT
+
+=== ORIGINAL PDF PAGE 378 ===
+ELECTRICAL AND SIGNING                                                                                      SECTION 635
+
+
+Flasher luminaires shall be mounted on poles in accordance       After concrete bases are installed, the Contractor shall
+with Drawings SS SP635-2.9.4 through SS SP635-2.9.6.             survey the finished base elevations to determine the correct
+                                                                 leg lengths. The fabricator shall cut legs to the correct
+All perforated square steel tubing shall be in accordance        lengths.
+with DBSS 635.28.
+                                                                 All legs and columns are to be transported in an unstressed
+                  PART D - SIGNING                               manner.
+
+635.25 Overhead Signs - Overhead signs are categorized           All breakaway structures shall be installed with the legs and
+in two classes:                                                  columns plumb, and the battens and signs level.
+
+   a) small overhead signs are 1200 mm x 900 mm or               The Contractor shall tighten all bolts and nuts with a torque
+   smaller;                                                      wrench to the torque specified on the Design.
+
+   b) large overhead sheet aluminum, plywood or extruded         Signs shall be sheet aluminum plywood or extruded
+   aluminum guide signs are larger than 1200 mm x                aluminum, as specified.
+   900 mm.
+                                                                 Plywood signs shall generally be installed in accordance
+Small overhead signs are generally plywood or sheet              with Drawings SS SP635-3.4.7 and, 3.4.8 and DBSS
+aluminum, and are mounted on signal poles. Small                 635.32.
+overhead signs shall be installed in accordance with
+Drawings SS SP635-3.2.2 through SS SP635-3.2.6.                  Plywood signs shall be installed with wood battens on the
+                                                                 breakaway sign columns to support the signs. Wood battens
+Large overhead guide signs are installed on sign poles in        shall be 4" x 6" Douglas Fir/Larch, No. 1 Grade or pressure
+accordance with Drawings SS SP635-3.3.1 through SS               treated, surfaced four sides, in complete lengths without
+SP635-3.3.6, unless otherwise noted. Large overhead              splices. Battens shall be straight and free of cracks. All
+extruded aluminum signs are installed on sign poles in           wood battens shall be painted green with one coat of oil base
+accordance with Drawings SS SP635-3.3.11 through SS              exterior paint (General Paint No. 63-324 - Highway Green,
+SP635-3.3.17, unless otherwise noted. Sign poles shall be        or approved alternative) over a compatible primer (General
+installed in accordance with Drawings SS SP635-3.1.1             Paint No. 32002 - Primer or approved alternative). All
+through SS SP535-3.1.19. Large overhead plywood signs            painting shall conform to DBSS 308 – Paint It is not
+are not typically used for new installations.                    required to paint pressure treated sign battens.
+
+Sign lighting, where specified by the Ministry, shall be         All pressure treated wood battens shall be pressure treated in
+installed in accordance with Drawing SS SP635-3.3.18 and         accordance with CSA Standard 080.5 “Preservative
+DBSS 635.17.03.                                                  Treatment of Posts by Pressure Processes”
+
+Overhead signs shall be securely installed on sign pole          Signs shall not be installed until the paint on the battens has
+structures.                                                      completely dried.
+
+All horizontal supports and signs shall be level and vertical    Extruded aluminum signs shall be installed in accordance
+supports plumb.                                                  with Drawings SS SP635-3.4.9 through SS SP635-3.4.12
+                                                                 and DBSS 635.32.
+Sign Poles shall be installed in accordance with DBSS
+635.17.                                                          Extruded aluminum signs on breakaway sign structures will
+                                                                 not be illuminated.
+Advance warning signs shall be extruded aluminum, and
+shall be installed in accordance with Drawings SS SP635-         All sign installations shall be in accordance with DBSS
+3.3.7 through SS SP635-3.3.10.                                   635.32.
+
+All signs shall be installed in accordance with DBSS 635.32.     635.27 Wood Post Sign Structures - Wood post sign
+                                                                 structures shall be installed in accordance with Drawings SS
+635.26 Breakaway Sign Structures - Breakaway sign                SP635-3.5.1 through SS SP635-3.5.9.
+structures shall be installed in accordance with Drawings SS
+SP635-3.4.1 through SS SP635-3.4.12.
+
+BC - MOT                                                    DB 2006                                                   9 of 12
+
+=== ORIGINAL PDF PAGE 379 ===
+SECTION 635                                                                               ELECTRICAL AND SIGNING
+
+
+Excavations for wood posts shall be wide enough to allow          sheet aluminum. Sheet aluminum signs shall be installed in
+for proper compaction of backfill around the wood posts.          accordance with Drawing SS SP635-3.5.1 and DBSS
+Wood posts shall be embedded in the ground to the depths          635.32.
+indicated on Drawings SS SP635-3.5.1 through SS SP635-
+3.5.3.                                                            Signs on multiple wood post structures shall be sheet
+                                                                  aluminum, plywood or extruded aluminum.
+Wood post excavations shall be backfilled using the
+excavated material except where excavated material is ruled       Plywood signs shall be installed in accordance with
+unacceptable. Where new material is required, 25 mm Well          Drawings SS SP635-3.5.4 and 3.5.5, and DBSS 635.32.
+Graded Base Course Aggregate material shall be used as            Plywood signs shall be installed on wood battens mounted
+specified in DBSS 635.14. Unacceptable materials shall be         on the sign posts to support the signs. Wood battens shall be
+disposed of as specified in DBSS 635.15.                          Douglas Fir/Larch, No. 1 Grade or pressure treated, surfaced
+                                                                  four sides, and shall be supplied in complete lengths without
+Wood posts shall be Douglas Fir/Larch, No. 1 Grade or             splices. Wood battens shall be straight and free of cracks.
+pressure treated, surfaced four sides, and shall be supplied in
+complete lengths without splices. Posts shall be straight and     Wood battens shall be painted green with one coat of
+free of cracks.                                                   exterior paint (General Paint No. 63-324 - Highway Green,
+                                                                  or approved alternative) over a compatible primer (General
+All pressure treated wood posts and battens shall be pressure     Paint No. 32002 primer or approved alternative). It is not
+treated in accordance with CSA Standard 080.5                     required to paint pressure treated wood battens.
+“Preservative Treatment of Posts by Pressure Processes”
+                                                                  Extruded aluminum signs shall be installed in accordance
+All portions of wood posts that are not pressure treated          with Drawings SS SP635-3.5.6 through SS SP635-3.5.9 and
+installed below finished grade shall be treated with wood         DBSS 635.32.
+preservative.
+                                                                  Signs or battens or extruded aluminum signs and angle
+Wood posts shall be installed plumb and at the proper offset      mounting brackets shall not be installed on wood posts until
+and elevation.                                                    the paint has completely dried.
+
+Backfill material shall be placed in layers not exceeding         All areas around the post shall be fully restored to their
+150 mm compacted thickness and shall be compacted to a            original condition.
+minimum 100% of the laboratory density obtained by the
+current ASTM test method D 698. Layer thickness and               635.28 Perforated Square Steel Sign Post Structures -
+moisture content of the material shall be adjusted as             Perforated Square Steel Sign Post shall be supplied in
+necessary to achieve compaction.                                  accordance with Drawings SS SP635-3.6.1 through SS
+                                                                  SP635-6.4.
+All areas excavated and backfilled shall be restored to their
+original condition.                                               Sign posts shall be perforated square steel tubing. The
+                                                                  perforated square steel tubing will be required in different
+Wooden sign posts shall be completely painted, prior to           outside dimensions as noted on the Design. The perforated
+installing the sign or signs, with one coat of white oil base     square steel tubing shall be formed from 12 gauge cold
+exterior paint (General Paint No. 10010 or approved               rolled steel, conforming to ASTM Specification A 446,
+alternative) over a compatible primer (General Paint No.          Grade A. The tubing shall be hot dipped galvanized
+32002 primer or approved alternative) for the length of the       conforming to ASTM Specification A 525, Designation
+post from the ground line to the bottom of the sign. Where        G-90. Steel tubing shall have 7/16" holes on all four sides at
+plywood signs are installed, the portion of the post behind       1" centres.
+the sign from the bottom of the sign to the top of the post
+shall be completely painted with one coat of green oil base       Galvanized perforated square steel tubing shall be supplied
+exterior paint (General Paint No. 63-324 - Highway Green          in continuous lengths, with no splices, and shall be field cut
+or approved alternative) over a compatible primer (General        to suit the particular installation. All field cuts shall be
+Paint No. 32002 primer or approved alternative). All              painted with cold galvanizing compound in accordance with
+painting shall meet the requirements of DBSS 308 - Paint. It      DBSS 635.23.
+is not required to paint pressure treated sign posts
+
+Signs on single wood post structures shall be plywood or
+
+
+10 of 12                                                    DB 2006                                                BC - MOT
+
+=== ORIGINAL PDF PAGE 380 ===
+ELECTRICAL AND SIGNING                                                                                      SECTION 635
+
+
+Perforated square steel tubing sign posts shall be installed on   Perforated square steel tubing delineator posts shall be
+concrete bases or direct buried in accordance with Drawing        installed in accordance with Drawing SS SP635-3.10.2.
+SS SP635-1.1.35.
+                                                                  Where plastic delineators are specified, they shall be a
+Perforated square steel tubing posts shall be installed plumb.    Ministry preapproved type and shall be installed in
+                                                                  accordance with the manufacturer's instructions.
+Signs on single perforated square steel sign posts shall be
+sheet aluminum or steel. Sheet aluminum and steel signs           Where delineators are mounted on a pole, sign post or
+shall be installed in accordance with Drawings SS SP635-          structure, they shall be installed in accordance with Drawing
+3.6.1 and 3.6.3 and DBSS 635.32.                                  SS SP635-3.10.3.
+
+Signs on double perforated square steel sign posts shall be       Wood delineator post excavation, backfill, type of wood,
+plywood or sheet aluminum.                                        painting and installation methods shall be in accordance
+                                                                  with DBSS 635.27.
+Double post plywood and sheet aluminum signs shall be
+installed in accordance with Drawings SS SP635-3.6.2              Perforated square steel tubing shall be in accordance with
+through SS SP635-3.6.4 and DBSS 635.32.                           DBSS 635.28.
+
+635.29 Round Steel Sign Post Structures - Round Steel             All holes drilled in galvanized surfaces shall be coated with
+sign posts shall be installed in accordance with Drawings SS      cold galvanizing compound in accordance with
+SP635-3.8.1 through SS SP635-3.8.3.                               DBSS 635.23.
+
+Barrier sign posts shall be mounted on barrier stands, which      635.32 Signs - Small signs which are generally
+shall be securely bolted to concrete roadside or concrete         1200 mm x 900 mm or smaller shall be sheet aluminum or
+median barriers.                                                  plywood. Large signs which are generally larger than
+                                                                  1200 mm x 900 mm shall be plywood or extruded aluminum
+Posts and pipe sleeves shall be round Schedule 40 steel pipe      as specified.
+conforming to ASTM Specification A 53, Grade B. The
+pipe shall be hot dip galvanized in accordance with CSA           All sign installations shall meet the requirements of the most
+Specification G164 Table A. Pipe shall be field cut to            current edition of the Ministry Manual of Standard Traffic
+lengths to suit sign mounting heights as noted on the Design      Signs and Pavement Markings available at;
+or as directed by the Designer. All field cuts in galvanized
+steel pipes shall be coated with cold galvanizing compound        http://www.th.gov.bc.ca/publications/eng_publicati
+in accordance with DBSS 635.23.                                   ons/electrical/MoST_PM.pdf
+
+Signs shall be installed in accordance with DBSS 635.32.          The Contractor shall have a current copy of this document
+                                                                  on site when installing signs.
+635.30 Sign Mounting on the Side of Poles - Signs
+mounted on the side of steel poles shall be installed in          All signs shall be completely covered with a suitable grade
+accordance with Drawing SS SP635-3.9.1.                           of polyethylene sheeting from the time they are installed
+                                                                  until the roadway is in full operation, unless otherwise
+Signs shall be securely attached to poles.                        directed by the Designer. The polyethylene sheeting
+                                                                  material shall prevent sign messages from being visible.
+Signs shall be installed in accordance with DBSS 635.32.
+                                                                  All signs shall be handled so as not to damage them in any
+Holes drilled in galvanized steel poles shall be coated with      way. Slip sheets between signs shall be removed carefully
+cold galvanizing compound in accordance with DBSS                 to avoid damage due to adhesion of the slip sheet to the sign.
+635.23.                                                           Signs shall be stored on end on dunnage or racks in a dry,
+                                                                  covered area, safe from damage. Damaged signs shall be
+635.31 Delineators - Delineators shall be wood, perforated        replaced by the Contractor at the Contractor's expense.
+steel tubing or plastic as noted on the Design.                   Taping, screwing, nailing, gluing, bolting or stapling to sign
+                                                                  faces or back is prohibited unless otherwise noted.
+Wood delineator posts shall be installed in accordance with
+Drawing SS SP635-3.10.1.
+
+
+BC - MOT                                                   DB 2006                                                  11 of 12
+
+=== ORIGINAL PDF PAGE 381 ===
+SECTION 635                                                                                ELECTRICAL AND SIGNING
+
+
+The Contractor shall confirm that all signs have the correct      Any unused holes in wooden sign boards shall be sealed.
+messaging. The Contractor shall verify that all signs are free    Holes on the sign face shall be covered with a trimmed piece
+of cracks, dents or warpage prior to installation.                of patching material to match the colour of the sign face.
+
+Signs shall be bolted to the mounting hardware or structure       Patching material shall meet current Ministry Specifications.
+as indicated on the applicable Design. Nylon washers shall
+be installed between the mounting bolt heads and the              All plywood, sheet aluminum and extruded aluminum signs
+plywood sign face. The sign panels shall be tightened so as       will be identified with their sign numbers labelled on the
+to eliminate sign movement but not over tightened so as to        back. Sign numbers shall be determined as directed by the
+recess the bolt heads into the sign face.                         Ministry Representative
+
+Plywood signs larger than 1200 mm x 3000 mm will consist          The Contractor shall maintain all signs installed as part of
+of multiple plywood panels. Each panel shall be correctly         the work within the project area for the duration of the
+aligned so that no gaps exist between sign panels. The            Work. Maintenance shall be performed for the duration of
+bottom of the sign panels shall be installed level.               the work in accordance with the following:
+
+Plywood exit number tabs shall be attached to plywood                  a) Sign maintenance shall include the straightening,
+signs in accordance with Drawing SS SP635-3.7.1.                       replacing, repairing and cleaning of all signs installed.
+
+Extruded aluminum signs will be supplied unassembled.                  b) The Contractor shall regularly inspect the signs to
+Aluminum sign sections shall be assembled and correctly                ensure consistent maintenance for maximum visibility.
+aligned to the satisfaction of the Ministry Representative
+                                                                       c) Where necessary the Contractor shall clean the signs
+Extruded aluminum signs are supplied in typical widths                 by power washing or steam cleaning using pressures not
+shown on Drawing SS SP635-3.3.13.                                      exceeding 7 MPa and temperatures not exceeding 65°C.
+                                                                       Chemical washing of sign faces will not be accepted.
+Extruded aluminum exit number tabs shall attach to
+extruded aluminum signs in accordance with Drawings SS
+SP635-3.7.2 and 3.7.3.
+
+
+
+
+12 of 12                                                     DB 2006                                                BC - MOT
+
+=== ORIGINAL PDF PAGE 382 ===
+SECTION 741
+
+                                              FENCE CONSTRUCTION
+
+                     DESCRIPTION                               Wildlife Branch and the B.C. Cattlemen's Association.
+                                                               741.12 Standard Wire Type A, B & C Fences and Gates
+Note: For any SS Drawing (SP XXX - XX) referenced in           - Materials generally shall be in accordance with the
+this Section refer to the like-numbered Drawings in the        requirements set out on Drawings SS SP741-01.01 and
+“Standard Specifications For Highway Construction” 2006        SS SP741-02.01, the relevant subsections of DBSS 316 and
+edition.                                                       DBSS 909 and/or the Special Provisions.
+
+741.01 Scope - This Section covers the construction of wire    Preservative treatment for protecting field cuts and notches
+fencing with wood and/or metal posts, gates, wood privacy      and for making good any superficial damage to treated wood
+and noise barrier fencing and, with reference to the           posts, braces and anchors, where permitted by the Quality
+SS SP741 drawing series, is intended to specify acceptable     Manager, shall be compatible with the original pressure
+standards and some optional features as may be required by     treatment for application in two separate heavy coatings.
+the Contract.
+                                                               Touch-up treatment for damaged galvanizing of steel posts
+Alternative construction and methods may be called for by      and braces shall be a heavy application of a zinc rich colour
+the Drawings, the Special Provisions or instructions of the    matched paint to CGSB Standard 1-GP-181M Specification
+Designer.                                                      for Ready Mixed Zinc Rich Coating.
+
+For SP Drawing referenced herein, such as SS SP741-01.01,      741.12.01 Gates - Gates shall be of the prefabricated type
+see the corresponding SP Drawing in the Ministry’s Standard    indicated on Drawings SS SP741-04.04, SS SP741-04.05
+Specifications for Highway Construction, 2006 edition.         and as specified in DBSS 316.11 and/or as specified in the
+                                                               Special Provisions.
+                      MATERIALS
+                                                               741.13 High-tensile Smooth-wire Fences - Materials to be
+741.11 General - Material for fencing including wire           supplied in accordance with the Purchase Order will
+fabric, barbed and high-tensile wire, chain link mesh and      include:
+metal posts are specified in DBSS 316. Wood fence posts
+are specified in DBSS 909.                                         •   high-tensile smooth galvanized wire 2.5 mm nominal
+                                                                       diameter
+Chain link fabric as protection on rock slopes is covered by       •   mechanical wire splices and fasteners for high-tensile
+DBSS 207 and DBSS 316.                                                 wire
+                                                                   •   in-line high-tensile wire tensioning devices
+The types of standard wire and chain link fencing are              •   metal or wood droppers for high-tensile fencing.
+designated in Table 741-A. Tentative requirements for
+High-tensile Smooth-wire Fences are included.                  Wood posts and braces shall be supplied by the Contractor
+                                                               in accordance with the requirements of DBSS 909 together
+TABLE 741-A TYPES OF STANDARD WIRE AND                         with steel posts, gates and hardware, brace wire, dowels,
+CHAIN LINK FENCING                                             staples and the like in accordance with the relevant
+                                                               subsections of DBSS 316.
+
+                Special Wire Fabric Fence for use              741.14 Chain Link Type D Fences and Gates- Chain link
+   TYPE A       only on railway right-of-way                   mesh, steel pipe and accessory materials generally shall be
+   TYPE B       Standard Wire Fabric Fence                     in accordance with the requirements set out on Drawings
+                                                               SS SP741-05.01 and SS SP741-05.02, the relevant portions
+   TYPE C       Standard Barbed Wire Fence                     of DBSS 316, and/or the Special Provisions.
+   TYPE D       Chain Link Fence
+                                                               741.14.01 Gates - Gates shall be of the type indicated on
+                                                               Drawings SS SP741-05.03 and SS SP741-05.04 and/or
+                                                               specified by the Special Provisions, and shall be equipped
+Note: Drawing SS SP741-01.01 indicates the general             with hinges (or sliding) and locking hardware.
+requirements of Types A and B Fences, Drawing
+SS SP741-02.01 indicates those of Type C Fences, and
+Drawing SS SP741-05.01 indicates those for Type D. The
+requirements for Type C are acceptable to the Provincial
+
+
+BC - MOT                                                 DB 2006                                                     1 of 5
+
+=== ORIGINAL PDF PAGE 383 ===
+SECTION 741                                                                                     FENCE CONSTRUCTION
+
+
+741.15 Wood Fences - Materials used for the fabrication            SP Drawings.
+and installation of wood fences shall be as follows:
+                                                                   All material shall be supplied by the Contractor.
+   i) Concrete footings: Minimum 18 MPa compressive
+   strength concrete, comprised of aggregate, sand and             Construction shall be carried out with all labour, tools,
+   Portland cement (4:2:1).                                        equipment and incidentals supplied by the Contractor, as
+                                                                   necessary, to complete all fencing work in accordance with
+   ii) Lumber: Rough sawn or dressed, as specified, shall          good work practice.
+   be of Western Red Cedar with:
+                                                                   741.32 Clearing & Grading - All trees (other than any
+         •   Wood posts and stringers of "No. 1 Structural"
+                                                                   required by the Design or Contract to remain), all brush and
+             grade posts and framing or plank
+                                                                   other obstacles which interfere with the construction and
+         •   Boards and planks of "Quality Fencing" grade
+                                                                   maintenance of fencing and not removed by the normal
+             except where noise barrier fencing is specified for
+                                                                   clearing operations, shall be removed prior to commencing
+             "Select Fencing" or plank equivalent.
+                                                                   fencing work so that both sides of the fence line are free of
+                                                                   all clearing and grubbing debris.
+   Other species may be specified or approved and shall be
+   of equivalent grades with pressure preservative treatment
+                                                                   Minor ground undulations shall be corrected to obtain a
+   in accordance with CSA Standard 080 and compatible
+                                                                   smooth uniform grade, but appreciable grade depressions
+   with staining requirements.
+                                                                   may be backfilled only with the permission of the Designer
+                                                                   and Quality Manager.
+   All lumber shall be in conformity with the NLGA
+   "Standard Grading Rules for Canadian Lumber."
+                                                                   The site shall be left in a smooth and tidy condition.
+   iii) Galvanized steel pipe: 48 mm OD for privacy
+                                                                   741.33 Setting Out and Connections to Existing - Fence
+   fence posts shall conform to the requirements of
+                                                                   line, as shown on the Design, generally will be along the
+   DBSS 316.10 with weatherproof caps where open ends
+                                                                   right-of-way boundary. Where undergrowth clearing is
+   are not covered by wood members.
+                                                                   carried out to the right-of-way boundary, the fence line will
+                                                                   be offset 0.5 m in from the boundary.
+   iv) Steel: Steel used as posts for noise barrier fences or
+   as wood post supports shall be of the structural shape(s)
+                                                                   Post installation in fill material or minimum overburden
+   indicated in accordance with CAS Standard G40.21M,
+                                                                   shall be carried out to the Designer’s or Quality Manager’s
+   grade 300W and where galvanized, hot dipped to the
+                                                                   directions. Where it is not possible to drive or set wood
+   requirements of CSA G164.
+                                                                   posts to proper depth or to relocate same along the fence
+                                                                   line, steel fence posts as specified or, where permitted,
+   v) Fastenings: Bolts generally shall conform to ASTM            multiple wood post and brace assemblies shall be
+   A 307, nuts to ASTM A 563 Grade A, plain washers to             substituted.
+   ANSI B27.2 Type A, plate washers, where required, to
+   ASTM A 36; all galvanized according to CSA G164.
+                                                                   Existing cross fences shall be connected to new with posts
+   Nails shall be casing headed heavy gauge of appropriate
+                                                                   and braces for tensioning fencing wire in every direction in
+   length, hot dip galvanized with deformed shank (annular,
+                                                                   accordance with Drawings SS SP741-01.03 and
+   barbed or helical) for noise barrier fence plank fixing.
+                                                                   SS SP741-02.02.
+   vi) Finish: Penetrating stain with preservative shall be
+                                                                   741.34 Standard Wire Type A, B & C Fences and Gates
+   of type and colour specified at least conforming to
+   CGSB Standards 1-GP145M and 204M, to all surfaces
+                                                                   741.34.01 Post Installation - Fence posts shall be driven in
+   prior to prefabrication or installation and on any cuts
+                                                                   place with equipment acceptable to the Quality Manager, set
+   before final fitment.
+                                                                   in augered pilot holes or, where permitted by the Quality
+                                                                   Manager, set in dug holes with necessary well tamped
+                      CONSTRUCTION                                 backfill for a firm installation and post penetration to at least
+                                                                   the depth indicated on Drawings SS SP741-01.01 and
+741.31 Provision of Fencing - Fencing of the type(s) called        SS SP741-02.01.
+for shall be carried out at the locations and as shown on the
+Design with the materials to the height, spacing and with          On straight alignments all posts shall be plumb. On
+accessories all in accordance with the details indicated on        appreciable grades, posts shall be installed perpendicular to
+the Design, Standard Specifications, Special Provisions and
+
+2 of 5                                                       DB 2006                                                 BC - MOT
+
+=== ORIGINAL PDF PAGE 384 ===
+FENCE CONSTRUCTION                                                                                             SECTION 741
+
+
+the slope.                                                         Horizontal alignment changes over 30° with wood posts and
+                                                                   over 15° with steel posts shall be stabilized as for corners
+On curved alignments, the posts shall be set 50 mm off             above. Where a change is less than 30° with wood posts, a
+plumb away from the curve centre, with a post spacing in           pair of line posts, set 2.4 m or 3.0 m apart, shall be stabilized
+accordance with Drawing SS SP741-04.02 and increased               with a horizontal wood brace and diagonal wire bracing both
+post lengths and bury depth for post stability where               ways. For a change of less than 15° with steel posts, a steel
+necessary.                                                         line post at the change shall be stabilized in both directions
+                                                                   with diagonal steel braces to adjoining line posts as
+Gate post sizes and stabilizing shall be as required by the        indicated on Drawing SS SP741-04.01.
+Special Provisions and/or Drawing SS SP741-04.04.
+                                                                   Similar requirements shall be maintained at each change to
+Steel fence posts, as specified by DBSS 316.09, are required       or within any curved fence alignment where the closer post
+on exposed rock or rock with "minimum overburden" (as              spacing indicated by Drawing SS SP741-04.02 is not
+defined on Drawing SS SP741-04.01) and shall be driven             considered adequate.
+and/or wedged to the full depth in a vertical drilled hole of
+minimum diameter or set plumb and rigid in cement and              Vertical alignment changes shall be stabilized, and fence
+sand or fine aggregate mortar all as indicated by Drawing          requirements at ditch and gully conditions shall be as called
+SS SP741-04.01.                                                    for by Drawing SS SP741-04.03 or as the Designer may
+                                                                   direct.
+   Note: Assemblies of securely wire tied multiple wood
+posts/braces may be specified by the Design or permitted by        741.34.03 Fabric and Wire - Fence fabric shall normally
+the Designer especially for minor rock outcropping and             be installed on the side of the posts away from the highway,
+unforeseen minimum overburden occurrences.                         stretched between end type assemblies and intermediate
+                                                                   tensioning assemblies with proper equipment (tensioning
+When full bury depth of wood posts is not attainable, the          directly by truck or tractor will not normally be permitted)
+specified steel fence posts shall be used to the full              and securely stapled in accordance with good practice to
+penetration into rock, all as indicated on Drawing                 wood posts, as indicated by Drawing SS SP741-01.01, or
+SS SP741-04.01.                                                    securely wired or clipped to steel posts to permit free wire
+                                                                   movement on line posts. Similarly, barbed wire shall be
+Tops of all posts shall be set to a uniform 50 mm above the        installed so as to allow it to "prestretch" before final
+level of the top wire of fencing and, where necessary, cut to      tensioning, and shall be securely stapled to tensioning
+line-up in vertical uniformity Wood post tops where cut,           assemblies.
+shall be bevelled and preservative treated in two heavy
+applications.                                                      For fencing on a curve requiring the fabric and/or barbed
+                                                                   wire on the highway side of the posts, all line wires shall be
+Wood posts which are burred, split or otherwise damaged            double stapled and the top wire shall be securely wire tied to
+from the installation shall be replaced.                           posts in addition where the adjoining property has livestock.
+
+741.34.02 Bracing for Fence Tensioning - Braces of                 Barbed wire Type C fences shall normally have wood
+treated wood and twisted galvanized diagonal wire shall be         droppers "interwoven" and securely figure-of-eight wire tied
+installed between end posts and adjoining panel posts to           to every line wire, as indicated by Drawing SS SP741-02.01.
+stabilize the tensioning of the fencing fabric and/or barbed       Alternatively, proprietary galvanized sheet metal
+wire, all as indicated by Drawings SS SP741-01.03 and              prefabricated droppers of pre-approved design for secure
+SS SP741-02.03. Corner and intersection assemblies shall           clip-on application may be approved.
+be similarly tensioned in each fence direction.
+                                                                      Note: High livestock pressures may warrant Type C1
+Intermediate tensioning assemblies shall be provided within        fencing and nursery livestock enclosures Type C1 or B
+the maximum spacings indicated on Drawings                         fencing. Where such fences, 1200 mm and higher, are in
+SS SP741-01.02 and SS SP741-02.02 to make use of rolls of          wildlife sensitive areas, the top strand may be specified
+fabric etc. of standard length with a minimum of cutting and       smooth (barbless) as Type C2 or B1 fences.
+waste.
+                                                                   741.34.04 Gates - Hardware, of design to permit the gate
+Steel corner, intersection and intermediate tensioning             to operate correctly, shall be securely attached to prevent the
+assemblies with steel angle posts and diagonal bracing are         easy removal of the gate and hardware. Hinges shall be
+indicated on Drawing SS SP741-04.01.                               installed to permit the gate to swing back one-way against
+
+
+BC - MOT                                                      DB 2006                                                     3 of 5
+
+=== ORIGINAL PDF PAGE 385 ===
+SECTION 741                                                                                 FENCE CONSTRUCTION
+
+
+the fence. Locking hardware shall be of the type specified.      With supplied tensioning devices installed in each line, all
+                                                                 wires shall be individually tensioned in stages and after
+741.35 High-tensile Smooth-wire Fences - For rangeland           "wire-set" to 1.33 kN (300#) at completion.
+and other locations with favourable terrain, soil conditions
+and fence alignment at the locations indicated on Design,        Droppers, as supplied, shall be installed and securely clipped
+construct high-tensile smooth-wire fencing between rigid         to all line wires at 3 to 4 m spacing.
+end, gates, corner and any necessary intermediate tensioning
+assemblies in general accordance with Drawings                   741.36 Chain Link Type D Fences and Gates
+SS SP741-03.01 through SS SP741-03.03.
+                                                                 741.36.01 Post and Rail Installation
+741.35.01 Fence Style - Fence style for wildlife crossing
+areas shall comprise 5 wires, the bottom wire for installation      i) All terminal posts (posts at ends, gates, corners and
+at 250 mm ± 50 mm above grade at and between posts, the             intersections), all line posts and any intermediate
+next two wires at 200 mm spacing and the top two 225 mm             tensioning posts shall be set plumb into concrete footings
+for a total height of 1100 mm, as indicated by Drawing              in augered or dug holes to the depths and regular spacing
+SS SP741-03.01 for HT Fences. Elsewhere, and for nursery            all as shown on Drawing SS SP741-05.01, or as
+livestock enclosures and other areas of high livestock              otherwise specified.
+pressure, a 6-wire fence may be specified, having the bottom
+wire 200 mm ± 50 mm above grade at and between posts                ii) Gate post sizes and stabilizing shall be as required by
+with the remaining wires at 200 mm spacing for a total              the Special Provisions and/or Drawing SS SP741-05.03.
+height of 1200 mm indicated as HT-1 Fences.
+                                                                    iii) On exposed rock, posts shall be set without concrete
+741.35.02 Post and Brace Installation - Fence posts shall           footings to full depth and fully grouted in holes, 25 mm
+be driven in place with equipment acceptable to the Quality         greater than the pipe diameter, drilled to a depth into
+Manager and set out in general accordance with the                  solid rock of half the depth of pipe bury to that indicated
+recommendations of the B.C. Ministry of Agriculture and             for concrete footings on Drawing SS SP741-05.01 (i.e.
+Food (BCMAF) Publication #ISBN 0-7719-9824-4, good                  c/2 and f/2).
+local trade practice and to the Quality Manager’s direction.
+                                                                    Grout shall be non-shrink cement and sand mortar.
+Terminal (end and gate) tensioning assemblies and any               Standard length posts may be used where the overburden
+intermediate assemblies shall be "single" assemblies and at         depth is such that the depth of bury into solid rock is less
+the spacings and post bury depths indicated by Drawing              than that specified above, provided normal diameter
+SS SP741-03.02 (or such greater depths and/or decreased             concrete footings of the diameter indicated on Drawing
+spacings as may be directed by Designer) with "double"              SS SP741-05.01 are formed from solid rock to grade
+assemblies used with scant bury depths all to form rigid,           level. Similarly, form concrete footings for posts set in
+stable and accurately aligned assemblies for tensioning line        loose or friable rock. Sleeves shall be provided to form
+wires.                                                              holes similar in diameter and depth to above for casting
+                                                                    into concrete where shown or specified.
+Line posts 100 mm minimum diameter driven to a depth of
+not less than 650 mm in firm soil, or as otherwise required         iv) Tops of all posts shall be set or cut for an even
+by Drawing SS SP741-03.01, or directed, shall be spaced up          height of top rail, which shall form a continuous brace
+to a maximum of 15 m where permitted, but normally at               and mesh support between terminal posts and any
+10 m spacing and such closer spacing at changes in                  intermediate tensioning posts. Top rails shall pass
+horizontal and vertical alignments to keep the bottom wire at       through line post caps and be joined in the length with
+the regular specified ground clearance.                             internal sleeves to allow expansion and contraction. All
+                                                                    posts shall be fitted with appropriate weathertight caps
+741.35.03 Wire and Dropper Installation - Wires shall be            securely fixed.
+installed on the side of the fence posts away from the
+highway except on such curves requiring the wires on the         741.36.02 Bracing for Fence Tensioning - Bottom tension
+highway side so as to bear on the posts.                         wire shall be securely fixed taut and sag free to terminal
+                                                                 posts and any intermediate tensioning posts. Similarly,
+Stapling doubled at curves, etc. and mechanical fasteners at     provide top tension wire, when specified, in place of top rail
+tied-off ends and splices (where permitted) shall be to          to pass through line post tops except on uneven terrain
+BCMAF recommended practice.                                      where the height of the top tension wire shall be such that it
+                                                                 is secured to all line posts and the mesh within the top
+
+
+4 of 5                                                    DB 2006                                                BC - MOT
+
+=== ORIGINAL PDF PAGE 386 ===
+FENCE CONSTRUCTION                                                                                            SECTION 741
+
+
+300 mm of the mesh.                                                accordance with the requirements shown on Drawing
+                                                                   SS SP741.05.02. The mesh shall be installed on the
+Terminal posts, where more than 10 m apart in any fence
+                                                                   highway side of the fence posts, or as otherwise specified or
+run, shall have horizontal pipe braces to adjoining line posts.
+                                                                   directed, and joints in the length shall be made by weaving
+Diagonal pipe braces may be called for where soil
+                                                                   the meshes together with a single wire picket to form a neat
+conditions warrant, especially where fencing without top
+                                                                   continuous fabric mesh.
+rails is specified, but no pipe bracing is normally required
+for residential height fences.                                     Security barbed wire, where specified, shall be installed in
+                                                                   the slots of all extension arms and secured to extended
+Intermediate tensioning assemblies shall be provided where
+                                                                   height terminal and any intermediate tensioning posts taut
+terminal posts are more than 150 m apart, and at any
+                                                                   and free of sag.
+subsequent 150 m maximum spacing, to consist of a
+straining post (to full height of fence where barbed wire on       741.36.04 Gates - Hardware, of design to permit the gate to
+extension arms is specified) with horizontal pipe braces at        operate correctly, shall be securely attached to prevent the
+the mid to two-thirds height above grade to adjoining line         easy removal of the gate and hardware. Hinged gates shall
+posts each way for the discontinuity of top rail, tension          be installed to permit the gate to swing back one-way
+and/or barbed wire and mesh; provide similar tensioning            against the fence.
+assembly at abrupt vertical alignment changes.
+                                                                   741.37 Wood Fences
+Horizontal alignment changes where abrupt shall be
+                                                                   741.37.01 Privacy Fences - Galvanized pipe posts shall be
+considered as corners.
+                                                                   set plumb in concrete footings in augered or dug holes to the
+At changes in horizontal alignment and to curved fence             depth and regular spacing all as shown on Drawing
+alignments, where the top rail can be continuous by                SS SP741-06.02.
+accurately bending to proper curvature without damage to
+                                                                   Wood fixing members for fence panels shall be securely
+the galvanized coating, a pair of line posts shall be stabilized
+                                                                   nailed, "II-shaped" frames fixed and supported with 9.5 mm
+and tensioned as follows:
+                                                                   (3/8") galvanized bolts and nuts to pipe posts all as indicated
+   •   A horizontal pipe brace shall be securely fixed to          on Drawing SS SP741-06.01.
+       adjoining line posts at the two-thirds height above
+                                                                   Metal fixing members for fence panels, when specified,
+       grade.
+                                                                   shall be of named or otherwise pre-approved proprietary
+   •   Crossed diagonal wire braces shall each be two              brand or detailed formed metal channel and strap, bolted on
+       strands of 3.5 mm nominal diameter galvanized wire          around pipe posts and securely machine screwed and tapped
+       securely fixed to the brace band fixing of the              at the correct levels all as indicated on Drawing
+       horizontal brace and to a brace band 100 mm above           SS SP741-06.03.
+       grade.
+                                                                   Fence panels of boards and stringers prestained, as specified,
+   •   Each pair of wires shall be twisted taut to mutually        shall be prefabricated to the required design, as indicated by
+       stabilize the assembly with the tensioning battens left     the Design, Special Provisions and/or Drawings
+       in place.                                                   SS SP741-06.01 through SS SP741-06.03, and shall be
+                                                                   accurately fitted and securely nailed to fixing members on
+Similar requirements shall be maintained within any curved
+                                                                   steel posts to form uniformly level and/or stepped fencing.
+fence alignment over 30 m in length.
+                                                                   741.37.02 Noise Barrier Fences - Posts of indicated type,
+Fencing where continuous over a creek or ditch shall be
+                                                                   size and length shall be set plumb in concrete footings in
+stabilized with a horizontal pipe brace and diagonal brace
+                                                                   augered or dug holes to the depth and regular spacing all as
+wires as specified above, and the bottom tension wire shall
+                                                                   shown on the Design.
+be wire tied to a similar pipe brace. In addition, in-fill under
+where specified or required, shall be a hanging or rigidly         Stringers, to bear full width of post at each end of
+fixed bent pipe of brace diameter hung or in-filled with           "alternating" or "zig zag" (on plan) panels, shall be securely
+closely spaced barbed wire or suitable fence fabric (similar       bolted with large washers behind head and nut.
+to that indicated on Drawing SP741-04.03), all to the
+                                                                   Planking shall be firmly secured to stringers with deformed
+Designer’s direction.
+                                                                   shank nails to form close butted and battened or tightly
+741.36.03 Fabric and Wire - Chain link fencing mesh shall          overlapped vertical planked panels. All gaps, especially at
+be stretched between terminal posts and any intermediate           bottom, shall not exceed 1% of the total area of the fencing.
+tensioning posts with proper equipment (tensioning directly        Ends of panels shall be closed over the gap between stringer
+by truck or tractor will not normally be permitted), and           and post with return plank material.
+secured with tension bars and bands, tie wire and clips all in
+
+
+BC - MOT                                                     DB 2006                                                     5 of 5
+
+=== ORIGINAL PDF PAGE 387 ===
+SECTION 751
+
+                                    TOPSOIL AND LANDSCAPE GRADING
+
+Note: For any SS Drawing (SP XXX - XX) referenced in                751.13 On-Site Topsoil - On-Site topsoil may be used
+this Section refer to the like-numbered Drawings in the             provided that it meets the standard set for imported topsoil
+“Standard Specifications For Highway Construction” 2006             and can be modified to meet the requirements set out for
+edition.                                                            the specified topsoil. On-Site topsoil shall be defined as
+                                                                    the existing "A" horizon containing accumulated organic
+DESCRIPTION                                                         matter. On-Site topsoil shall be tested prior to stockpiling.
+
+751.01 Scope - This Section refers to those portions of             751.14 Imported Topsoil - Imported topsoil shall be of a
+work that are unique to the supply and placement of                 sandy loam or loamy sand texture (no less than 50% sand
+topsoil and subsequent finish grading. In this Section, the         by weight) containing between 4% and 15% organic
+term "topsoil" is used to identify either:                          matter (dry weight basis).
+
+   a) On-Site topsoil: material stockpiled for use, or              Imported topsoil shall be free of propagules of plant
+                                                                    species designated as noxious weeds under the BC Weed
+   b) Imported topsoil, or                                          Control Act and Regulation and other perennial, weedy
+                                                                    plants such as couch-grass, horsetail, broom, Japanese
+   c) Manufactured topsoil (Growing Medium).                        Knotweed and blackberry species.
+
+751.02 Related Work - DBSS 754, Planting of Trees,                  At least 80% of imported topsoil shall pass a Tyler #10
+Shrubs and Ground Covers; DBSS 757, Revegetation                    sieve after appropriate crushing of structural units using
+Seeding.                                                            accepted laboratory test methods.
+
+751.03      References - Canadian System of Soil                    751.15 Manufactured Topsoil - Manufactured topsoil is
+Classification, Canada Fertilizer Act, Canadian National            any soil or growing medium mixture whose chemical and
+Master Specification.                                               physical properties fall within ranges required by this
+                                                                    Section for a particular application.
+751.04 Topsoil Supplied by the Contractor - The
+Contractor shall advise the Ministry Representative of the          Manufactured topsoil shall conform to DBSS 751.16 or as
+sources of topsoil not less than seven days before any is           specified in the Contract.
+used in the work.
+                                                                    751.16    Requirements For Topsoil - Commercial
+The Contractor shall acquire a soil analysis from an                processing and mixing of topsoil components shall be
+accredited soil testing laboratory, to verify that supplied         done thoroughly by a mechanized screening process. No
+material is within the requirements indicated.                      hand mixing shall occur. The resulting product shall be a
+                                                                    homogenous mixture having the required properties
+                                                                    throughout.
+MATERIALS
+                                                                    The general amendment of both natural topsoils and
+751.11 General - In this Section, a range of measurable
+                                                                    manufactured topsoils by mixing in situ with rototill
+physical and chemical properties are set out as being
+                                                                    cultivation equipment after placement is an acceptable
+acceptable in a topsoil. Compliance with this Section shall
+                                                                    method. Fertilizers typically used at time of seeding or
+be determined by testing for those properties. When
+                                                                    planting will be surface applied and incorporated as
+imported or on-Site topsoil is used, it shall be tested and
+                                                                    described in DBSS 751.33, Applying Fertilizers.
+modified as necessary by a mixture of other components to
+bring its properties to within the range set in
+                                                                    The Contractor shall also require the laboratory to include
+DBSS 751.16, or as stated in the Contract. Topsoil shall
+                                                                    recommendations for incorporating fertilizers and other
+not be prepared or handled in an excessively wet or frozen
+                                                                    amendments into the topsoil as needed for plant
+condition, or in any manner in which structure is adversely
+                                                                    establishment and maintenance, and as they specifically
+affected.
+                                                                    relate to:
+751.12 Topsoil Types - Three topsoil types are described               •   grassed areas
+in DBSS 751.13 through DBSS 751.15. Regardless of                      •   ground covers, shrubs and trees
+origin, all types shall conform to DBSS 751.16.                        •   container or planter box installations, and to site
+                                                                           conditions and season of planting.
+
+BC – MOT                                                  DB 2006                                                       1 of 4
+
+=== ORIGINAL PDF PAGE 388 ===
+SECTION 751                                                                 TOPSOIL AND LANDSCAPE GRADING
+
+Refer to Table 751-A for required properties of growing              Particle size in sand shall be as follows:
+medium for different applications.
+                                                                        •   95 - 100% passing a 4.75 mm sieve;
+                                                                        •   0 - 40% passing a 0.600 mm sieve;
+Other specific requirements are as follows:
+                                                                        •   0 - 5% passing a 0.075 mm sieve.
+Fertility :
+                                                                     751.17.03 Manure and Compost - Manure shall be well-
+    •   Nitrogen - total nitrogen shall be 0.2% to 0.6% by
+                                                                     rotted farm animal manure or mushroom manure, rotted to
+        weight.
+                                                                     the extent that the material is crumbly. Manure shall be
+    •   Phosphorus - available phosphorus shall be 20 to
+                                                                     free from weed seeds, rocks, sticks, rubble and shall
+        100 ppm.
+                                                                     contain not more than 40% composted sawdust, straw or
+    •   Potassium - available potassium shall be 50 to 250
+                                                                     shavings. Manure shall be free of propagules of plant
+        ppm.
+                                                                     species designated as noxious weeds under the BC Weed
+    •   Boron - concentration in saturation extract shall not
+                                                                     Control Act & Regulation and other perennial, weedy
+        exceed 1 ppm
+                                                                     plants such as couch-grass and horsetail.
+General:
+                                                                     Commercial compost shall be free from all weed seeds,
+    •   Acidity - in accordance with Table 751-A.                    coliform, pathogens and chemical or toxic contaminants.
+        Maximum of 0.5 kg/m2 of dolomite lime to achieve             Physical contaminants such as rocks, plastic, metal or glass
+        the required pH level.                                       shall be less than 0.5%. Compost shall not be derived
+    •   Salinity - saturation extract conductivity shall not         from or contain processed municipal sewage sludge,
+        exceed 3.0 mmho/cm at 25 degrees C. Sodium                   unless such product is authorized for use by the Ministry
+        absorption ration (SAR) as calculated from analysis          of Environment, and meets all local regulations and
+        of saturated extract shall not exceed 8.0.                   approvals.
+    •   C/N ratio - carbon to nitrogen ration shall not
+        exceed 40:1.                                                 751.17.04      Wood Residuals - Raw sawdust and
+    •   Texture - in accordance with Table 751-A.                    woodwaste are not acceptable components of topsoil.
+    •   Organic content - in accordance with Table 751-A             Wood residuals used as a component of topsoil, compost,
+    •   Cedar or redwood sawdust shall not be present in             farm animal manure or mushroom manure are acceptable
+        the topsoil.                                                 provided they are rotted and the total Carbon to total
+    •   Soil shall be virtually free from subsoil, wood              Nitrogen ratio for the topsoil is a maximum of 40:1.
+        including woody plant parts, weeds, toxic materials,
+        stones over 30 mm, and foreign objects.                      751.18    Fertilizers - Fertilizers shall be standard
+    •   Drainage - in accordance with Table 751-A.                   commercial brands, meeting the requirements of the
+        Drainage of growing medium can be measured only              Canada Fertilizer Act.
+        after growing medium is in place. Mixing and
+        handling of growing medium shall be done in such a           All fertilizers shall be in granular, pelleted or prill form,
+        manner that the minimum saturated hydraulic                  and shall be dry, free-flowing and free from lumps.
+        conductivity indicated is achieved.
+                                                                     Fertilizers shall be packed in standard waterproof
+751.17 Soil Amendments - The following amendments                    containers, clearly marked with the name of the
+shall be added to the topsoil as required.                           manufacturer, weight and guaranteed analysis.
+
+751.17.01 Peat Moss - Peat moss shall be Horticultural               All fertilizer shall be stored in a weatherproof storage
+grade, partially decomposed fibrous or cellular stems and            place and in such a manner that it will stay dry and its
+leaves of sphagnum mosses with a texture varying from                effectiveness will not be impaired.
+porous to spongy fibrous, fairly elastic and substantially
+homogeneous with pH value not less than 3.5 and not                  The types, formulations, and rates of application for
+greater than 6.5, medium to coarse shredded, suitable for            fertilizers and liming agents to topsoil supplied by the
+horticultural purposes.                                              Contractor shall be as recommended by a laboratory soil
+                                                                     specialist on the basis of tests of the topsoil.
+751.17.02 Sand - Sand shall be clean river pump sand or
+alternative suitable source, free of impurities, chemical or         751.19 Fill Material - Fill Material shall not be toxic to
+organic matter.                                                      plant and animal life in part or in concentration.
+
+
+
+
+2 of 4                                                     DB 2006                                                 BC - MOT
+
+=== ORIGINAL PDF PAGE 389 ===
+TOPSOIL AND LANDSCAPE GRADING                                                                                SECTION 751
+
+TABLE 751-A PROPERTIES OF TOPSOIL FOR                                 thickness.
+DIFFERENT APPLICATIONS
+                                                                      Surplus excavated material shall utilized on-Site in
+                                            Planting                  accordance with the Design or shall be removed from the
+                           Low    Traffic                             Site and disposed of at the Contractor's expense
+  PROPERTIES               Lawn Areas       Areas,
+                           Trees    and     Planters,
+                           Large Shrubs     Shrub     and             The landscape area subgrade shall be prepared to a
+                                            Groundcover               consistent 80 - 85% Proctor density.
+                                            Areas
+  TEXTURE:                                                            Soft and unstable areas below the landscape area subgrade
+  Particle          size                                              that cannot be compacted to this standard shall be
+                           Percent of Dry Weight Mineral
+  classes      by    the
+                           Fraction (%)                               excavated and filled with suitable fill material, except in
+  Canadian system of                                                  locations where special environmental conditions have
+  soil Classification                                                 been identified. In such cases, appropriate alternative
+  Gravel                                                              solutions shall be approved by the Ministry Representative
+  greater than 2 mm,       0 - 10           0                         and environmental agencies as required and carried out.
+  less than 30 mm
+                                                                      Debris, roots, branches, stones, building material,
+  Sand greater than
+  0.05 mm, less than       50 - 70          50 – 70                   contaminated subsoil, visible weeds and anything else that
+  2 mm                                                                may interfere with the proper growth and development of
+                                                                      the planned finished landscaping shall be removed.
+  Silt   &         Clay    Maximum          Maximum
+  combined                 25%              25%
+                                                                      Fill materials shall be placed so as to achieve stability.
+  ACIDITY (pH)             6.0 - 7.0        4.5 - 6.5                 This may necessitate placing in lifts of 225 mm and
+                                                                      compacting each layer to 80 - 85% standard proctor
+  DRAINAGE:                                                           density.
+  Minimum saturated
+                           2.0              2.0
+  hydraulic
+  conductivity (cm/hr)                                                Grade transitions of landscape area subgrade should be
+  in place                                                            smooth and even and shall be such that ponding cannot
+                                                                      occur on the landscape area subgrade surface.
+  ORGANIC
+  CONTENT:                 5 - 10           14 – 20
+  Percent    of     Dry                                               Existing land forms shall be warped and blended into the
+  Weight (%)                                                          landscaped areas with a minimum of visual disharmony.
+
+                                                                      751.31.03 Fine Grading - Areas requiring topsoil shall be
+                                                                      fine graded by raking out spoil material and debris such as
+CONSTRUCTION                                                          rocks, asphalt and concrete over 50 mm in diameter.
+
+751.31 Area Preparation                                               Naturalized areas not requiring topsoil shall be similarly
+                                                                      cleaned, raked and manicured.
+751.31.01 Stripping of Topsoil - Existing top soil
+material shall be stripped and removed to stockpile(s)                751.31.04 Scarifying - All landscape area subgrade shall
+within the project area, kept properly drained, and                   be scarified to a minimum depth of 150 mm immediately
+maintained in a neat and presentable condition free of spoil          before placing topsoil.
+and subsoil material for subsequent spreading on prepared
+rough graded areas.                                                   751.31.05     Cleanup - All unsuitable material and
+                                                                      inorganic debris shall be removed from the project area by
+The storage of topsoil shall not interfere with the effective         the Contractor.
+utilization of a granular source or borrow pits.
+                                                                      All surplus or unsuitable organic waste and debris shall be
+751.31.02 Preparation of Landscape Area Subgrade -                    removed from the Site unless its complete burning is
+This Section applies only to grading of landscaped areas              approved by the Ministry Representative in compliance
+outside the roadway prism.                                            with the B.C. open burning regulation.
+
+Rough grading shall be carried out by necessary cutting               751.32 Placing Topsoil - The landscape area subgrade
+and filling work to produce the lines and grades shown on             shall be appropriately prepared prior to placing of topsoil
+the Design and allowing for the stipulated new topsoil
+
+BC – MOT                                                    DB 2006                                                     3 of 4
+
+=== ORIGINAL PDF PAGE 390 ===
+SECTION 751                                                                TOPSOIL AND LANDSCAPE GRADING
+
+The topsoil shall be:                                               Fertilizers normally applied at the time of seeding and
+                                                                    planting are specified under the appropriate sections.
+   •   placed over the prepared landscape area subgrade             These fertilizers are generally supplemental to the base
+       and shall be allowed to settle or be compacted by            fertility requirements outlined for topsoil and are applied
+       light rolling such that it is firm against deep              after topsoil is in place.
+       footprints and shall not be compacted more than
+       necessary to meet this requirement;                          Surface applied fertilizers shall be evenly spread over the
+   •   moist (25% to 75% of field capacity) but not wet             topsoil with a suitable mechanical spreader and fully
+       when placed, and shall not be handled if frozen or           incorporated to a minimum depth of 50 mm.
+       wet such that its structure will be altered;
+   •   manually spread around trees, shrubs and obstacles;          Lime used for top dressing shall be thoroughly cultivated
+   •   evenly spread to a depth which after settlement or           into the top 100 mm of topsoil.
+       light compaction will be that shown in the Design .
+   •   During hauling and spreading, the paved roadway              751.34 Finish Grading - After placing the topsoil to the
+       and other finished surfaces including subgrade               finish elevations and contours required, the grade shall be
+       under future base courses shall be kept clean and            finished to a high standard, to the grades shown on the
+       free of all topsoil.                                         Design with a smooth and even surface. Rough spots and
+                                                                    low areas shall be eliminated to ensure positive surface
+751.33 Applying Fertilizers - Fertilizers shall be added            drainage, and the surface shall be left smooth, uniform,
+to bring topsoil fertility within the ranges set out in this        free of debris and firm enough to resist deep footprinting.
+Section or as specified in the Design.
+                                                                    Topsoil placed in traffic islands and medians shall be
+Manufactured topsoils and processed imported topsoils               crowned for drainage, as shown on SS Drawing SP751-01.
+will typically have fertilizers and amendments
+incorporated at the time of mixing and screening, while
+other topsoils will receive in situ amendment.
+
+
+
+
+4 of 4                                                    DB 2006                                               BC - MOT
+
+=== ORIGINAL PDF PAGE 391 ===
+SECTION 754
+
+                       PLANTING OF TREES, SHRUBS, AND GROUND COVERS
+
+Note: For any SS Drawing (SP XXX - XX) referenced in            to be dug prior to inspection.
+this Section refer to the like-numbered Drawings in the
+“Standard Specifications For Highway Construction” 2006         Approval of plant material at the source does not preclude
+edition.                                                        rejection of non-conforming stock on the Site prior to, or
+                                                                after planting.
+                     DESCRIPTION
+                                                                Imported plant material shall be accompanied by all
+754.01 Scope - This Section refers to those portions of the     necessary permits and import licences, and shall conform to
+work that are unique to the supply and planting of trees,       federal and provincial regulations.
+shrubs and ground covers, including seeded and sodded
+areas that are not designated for treatment under DBSS 757      It shall be the Contractor's responsibility to ensure that all
+“Revegetation Seeding”. This Section must be referenced         regulations pertaining to the import of plant materials or
+and interpreted simultaneously with all other Sections          their movement to or from a particular region of the
+pertinent to the works described herein.                        province are adhered to, and all inspection certificates
+                                                                required by the Ministry of Agriculture and Lands are
+754.02 Related Work – DBSS 751, Topsoil and Landscape           completed to the satisfaction of that Ministry.
+Grading; DBSS 757, Revegetation Seeding; .
+                                                                754.12 Transporting Plants to Site
+754.03 References - Canadian Standards For Nursery Stock
+(Canadian Nursery Trades Association), BC Weed Control          754.12.01 Dormant Period
+Act & Regulations, Canada Seed Act, British Columbia
+Standard for Turfgrass Sod.                                          Deciduous: Bare Root Stock (only in dormant
+                                                                     period): Adequate protection shall be given in order to
+754.04 Warranty                                                      preserve moisture around the root system. For short
+                                                                     transit period, four hours or less, maximum temperature
+754.04.01 The Contractor shall warranty all materials and            in the truck shall not be above 20°C. In all cases, at all
+quality of work for a period of one full year from the Actual        times, roots should be protected from frost, wind and
+Completion Date.                                                     sun (e.g., a closed van with wet straw or other suitable
+                                                                     packing material protecting the roots). The temperature
+754.04.02 The warranty includes replacing all plants as              shall be maintained as uniformly as possible by
+determined by the Ministry Representative which are found            mechanical means, or in any event to prevent frost
+dead or failing during the entire warranty period.                   damage to roots. The appropriate temperature range
+Replacements shall be made immediately unless otherwise
+                                                                     shall be between 1°C and 10°C.
+directed by the Ministry Representative, and conditions of
+the warranty shall apply to all replacement seeding for one          Evergreens: It is recommended that root balls not be
+full growing season.                                                 subjected to freezing temperatures below -5°C for a
+Approval of plant material at the source does not preclude           period longer than four hours. Plants shall be protected
+rejection of non-conforming stock on the Site prior to, or           to prevent desiccation by wind and sun.
+after planting.                                                 754.12.02 Non-Dormant period - Deciduous and
+The warranty shall not apply to plants and planted areas        Evergreen plant material shall be transported in a closed van
+damaged after Acceptance by causes beyond the                   or well-covered truck with a tarp or similar material in order
+Contractor's control, such as vandalism, "acts of God",         to protect the leaves or needles from windburn. When in
+"excessive wear and tear", or abuse.                            transit, with protection of a tarp cover only, it is
+                                                                recommended that foliage be sprayed with an antidesiccant.
+                      MATERIALS                                 For the above material in transit for more than three days, it
+                                                                shall be unloaded and then stored away from direct sun for
+754.11 Source Quality Control - The Contractor shall            24 hours to avoid leaf burning.
+notify the Ministry Representative of the sources of plant
+                                                                Sod shall be protected during transportation to prevent
+materials to be supplied at least two weeks prior to
+                                                                drying out and shall arrive at the Site in a fresh and healthy
+commencing the landscape work. All non-seed plant
+                                                                condition.
+materials shall be made available for inspection at the
+nursery by the Quality Manager or Ministry Representative       754.13 Unloading and Handling Procedures - Plants shall
+upon at least three days notice. Field grown material is not    be carefully handled to minimize disturbance to root systems
+
+BC - MOT                                                   DB 2006                                                      1 of 6
+
+=== ORIGINAL PDF PAGE 392 ===
+SECTION 754                                          PLANTING OF TREES, SHRUBS, AND GROUND COVERS
+
+and damage to stems and branches. Plants shall not be                be given to the root ball, and unless weather is rainy or
+dropped to the ground when unloading. Plant material that            cool, root balls shall be protected by covering with
+is mishandled and showing evidence of damage to root balls,          material suitable to protect them from drying out (e.g.
+or undue damage and breakage to top growth will be                   sawdust, peat moss, topsoil). Plants intended to be
+rejected.                                                            planted in the open shall not be kept stored in a building
+                                                                     or any area of low light intensity for a period exceeding
+Plants are to be kept in a moist condition at all times. All         seven days. All plants shall be kept well watered and
+plants shall be well protected against physical damage and           protected from heat and frost.
+desiccation until they are planted on the Site.
+                                                                     Containerized Plants: In extreme weather, freezing or
+   B.R. (Bare Roots) Stock: Roots shall be covered and               high dry heat, the containers shall be buried in a
+   protected immediately from frost, sun and wind.                   protective medium. Plants intended to be planted in the
+                                                                     open shall not be kept stored in a building, truck or any
+   Stock in Pots/Containers: Shall be handled as much as             area of low light intensity for a period exceeding seven
+   possible by pots only in order to reduce breakage of              days during the growing season.
+   branches/leaves.
+                                                                754.14.02 Storage During Dormant Period - Plants shall
+   Balled & Burlapped (B & B) Material: Plants shall be         be cared for according to each plant's requirement for winter
+   handled by holding the root ball and supporting the stem     protection, and according to geographical location.
+   to minimize disturbance to the root ball and damage to
+   stems and branches.                                          754.15 Plant Material
+
+   Material in Wire Basket: Specimen trees shall be lifted      754.15.01 Species - Selection of species shall be as
+   and supported by the wire basket and not by the trunk.       specified Contract and the Design. Every effort shall be
+                                                                made by the Contractor to obtain the plant material
+   All plants shall be promptly unloaded and their condition    specified. Where evidence is submitted that a Contract-
+   checked immediately upon arrival. Watering shall be          specified plant cannot be obtained, substitutions in kind, size
+   provided as required and necessary pruning of minor          and grade shall be made upon written approval by the
+   breakage on branches performed.                              Ministry Manager.
+
+Protection Against Stem and Branch Damage - During              754.15.02 Origin and Requirements - All plant material
+loading, transportation, off-loading and planting, all trees    shall be nursery grown stock or approved collected native
+shall be protected against damage to stems and branches.        plants unless specified otherwise. All nursery grown plants
+This applies particularly to larger wire-basketed trees.        shall, as a minimum, comply with the Canadian Nursery
+                                                                Trades Association Specification “Canadian Standards for
+Bark shall be protected against chafing and cuts by             Nursery Stock” with respect to sizing, grading and quality.
+providing a wrapping of cardboard, sackcloth or other
+material as appropriate and when required.                      Plants shall be true to name, type and form and shall be
+                                                                representative of their species and variety.
+754.14 Storage
+                                                                All plants shall be sturdy stock, with tree and shrub heights
+754.14.01 Storage During Growing Season - All plants in         proportional to trunk caliper, overall plant width and size of
+containers, balled and burlapped, or in wire basket, if not     root ball,. Plants that are weak and thin, and those showing
+planted within three days, shall be stored in an upright        effects of being grown too closely together or poorly
+position in an area providing even light and offering           maintained, will not be accepted.
+protection from wind and sun scald. Enough space shall be
+provided between plants so that light reaches all around to     Plants shall be vigorous and healthy with normal, well
+the bottom of the plant in order to avoid leaf burning when     developed branches and good fibrous root systems and be
+planted out.                                                    free from decay, physical injury, disease and insect damage
+                                                                and infestation.
+   Sod: Sod shall be installed as soon as possible after
+   delivery. If there is a delay of more than 24 hours, the     In particular, conifers shall have a healthy, single leader
+   sod shall be properly stored and kept moist and cool until   with well shaped whorls of vigorous, newly growing
+   it is placed. Sod shall not be stacked more than three       branches and shall exhibit natural growth habit characteristic
+   levels high while being stored.                              of the species and variety. Trees sheared as Christmas trees
+                                                                are not acceptable.
+   Balled and Burlapped Material: Special attention shall
+
+2 of 6                                                     DB 2006                                               BC - MOT
+
+=== ORIGINAL PDF PAGE 393 ===
+PLANTING OF TREES, SHRUBS, AND GROUND COVERS                                                                  SECTION 754
+
+The root balls of dug material and the soil of containerized       All other requirements are referenced in DBSS 757
+plants shall be free from pernicious perennial weeds. All          Revegetation Seeding.
+balled and burlapped plant stock shall be supplied in
+biodegradable root ball sacking.                                   754.15.06 Sod - Sod shall be nursery grown, true to type
+                                                                   and conform to the British Columbia Standard for Turfgrass
+The search area for plants shall include, but not necessarily      Sod, and the general requirements of the Canadian
+be limited to, the provinces of British Columbia, Alberta and      Standards For Nursery Stock.
+the states of Washington, Oregon, California (northern
+portion), Idaho and Montana. All plant material being              Sod grade shall be as specified in the Contract and Design.
+sourced from milder areas shall be properly “hardened off”
+prior to shipping and planting.                                    754.16 Water - Water shall be clean and potable and shall
+                                                                   be supplied by the Contractor.
+754.15.03 Nursery Grown Stock - All plants specified
+"Container" shall be grown for the length of time necessary        754.17 Fertilizer - Fertilizer shall comply with the
+to permit the roots to fill and hold the soil within the           provisions of the Canada Fertilizers Act and Fertilizer
+container, as required by the Canadian Standards for               Regulations. Fertilizer shall be supplied to the specifications
+Nursery Stock.                                                     in the Special Provisions.
+
+Similarly, all field dug material will show evidence of            754.18 Bark Mulch - Bark mulch shall be sized 25 mm and
+having been root pruned to encourage fibrous root system           minus, Douglas Fir or Hemlock bark chips and fines, or a
+development and resulting in root balls that retain their          combination of both types and of the quality used for
+integrity during handling.                                         decorative landscape mulching purposes. It should be free
+                                                                   of chunks and sticks, dark brown in colour and free of all
+Forestry seedlings shall be supplied and handled in                soil, stones, roots or other extraneous matter.
+accordance with the requirements of the Silvicultural
+Manual, Ministry of Forests, Province of B.C., 1993. This          754.19 Backfill Topsoil - Backfill topsoil for planting
+manual can be found on the Internet at:                            operations shall conform to the requirements of DBSS 751 -
+http://www.for.gov.bc.ca/hfp/pubs/silvman/index.htm                Topsoil and Landscape Grading.
+
+All plant material shall be appropriately identified and           754.20 Other Materials - When required, various other
+individually labelled with weatherproof tags. In the case of       materials such as soil amendments, erosion control products,
+small containerized plants such as ground covers and               hydraulic mulches, etc. shall be supplied to the
+bundled bare root seedlings, which are supplied in large           specifications in the Contract and Design.
+numbers, labelling shall be limited to identification of group
+lots.                                                                                  CONSTRUCTION
+754.15.04 Collected Plant Stock - The Contractor shall             754.31 Scheduling - Work shall be scheduled to meet the
+provide either permits or verification that permission was         milestone dates provided in the Contract, and to ensure its
+obtained for collecting native and/or introduced plant             execution meets the requirements of living plant material.
+materials. Information shall be supplied on where, when
+and how collection was made.                                       The work shall be co-ordinated with the schedule of other
+                                                                   trades, and be well integrated with other specific
+All collected plant material shall have been grown and             requirements such as Sediment and Drainage Management
+maintained in a nursery environment for a minimum of one           Drawings, which may be provided for any given project.
+growing season, unless, at the sole discretion of the Ministry
+Representative, certain species are approved for a lesser          754.32 Preplanting Operations - The Contractor shall
+period of time. As for nursery grown stock, collected plants       ensure that all requirements of DBSS 754.11 through
+shall be held long enough prior to planting to allow roots to      DBSS 754.15 have been met and that any minor damage to
+fill the container or the dug root ball and to retain the soil     plant stock is taken care of through appropriate pruning or
+within.                                                            other measure. When conditions require it, the Contractor
+                                                                   shall apply anti-desiccant to large conifers and deciduous
+Collected plant stock shall be appropriately labeled with          trees that are in leaf. Application will be in accordance with
+weather proof tags for easy identification at the job site.        the manufacturer’s instructions for the particular product.
+
+754.15.05 Seed - Seed quality and type shall conform to            754.33 Location of Planting - Locations, quantities and
+that specified in the Contract and Design                          spacing of trees, shrubs, vines and groundcovers as shown
+                                                                   on the Design shall be considered approximate and may
+
+BC - MOT                                                      DB 2006                                                    3 of 6
+
+=== ORIGINAL PDF PAGE 394 ===
+SECTION 754                                           PLANTING OF TREES, SHRUBS, AND GROUND COVERS
+
+require adjustment by the Contractor to meet field                      •   providing a means of sub-surface drainage
+conditions. If underground obstructions are uncovered they              •   utilizing elevated planting techniques where some
+shall be reported to Designer for resolution.                               of the planting soil will be placed into a partial
+                                                                            excavation and the remainder on the surface to
+754.34 Area Preparation                                                     meet the depth requirement for growing medium, or
+                                                                        •   considering alternate planting sites.
+754.34.01 Finish Grade Preparation - The Contractor
+shall verify that grades are correct.                             754.35 Time of Planting - All planting operations shall be
+                                                                  performed during the normal planting season for each type
+754.34.02 Planting Beds and Grass Areas - Prepare                 of material, and within the milestone dates provided in the
+planting beds and grass areas in accordance with DBSS 751         Contract, unless otherwise authorized in writing. During the
+- Topsoil and Landscape Grading.                                  specified timeframe, plant operations shall, as far as
+                                                                  practicable, take advantage of soil and weather conditions
+754.34.03 Planting Holes - Planting holes shall be dug in         favourable to the work.
+accordance with the specific requirements described below.
+The bottom of planting holes shall be scarified and loosened      Planting into frozen ground is not acceptable.
+to a depth of 100 mm prior to placement of plants and
+backfill soil.                                                    754.36 Planting Procedures - Trees and Shrubs
+
+Subsoil, rocks, roots and extraneous material shall be            General Procedure - Plants shall be installed so that after
+removed from excavated material that will be used as              settlement they will be at the same planting depth they were
+planting backfill soil. Unsuitable or excess material shall be    at in the field or in containers. The soil mark on the stem is
+disposed of.                                                      an indication of this, and it shall be flush with the finished
+                                                                  level allowing for settling of the topsoil after planting and
+Holes dug by a mechanical tree spade shall have their sides       settlement. The entire root ball shall be covered with
+scarified to loosen any compaction glazing caused by the          growing medium.
+blades. Planting holes shall be tested by filling with water.
+Inadequate drainage conditions permitting the retention of        Once the bottom of the planting hole is scarified and the
+water in planting pits for more than 12 hours shall be            initial lift of backfill topsoil is placed, the holes shall be pre-
+rectified by the Contractor before proceeding with the work.      watered and allowed to drain prior to installation of plant
+                                                                  material.
+   i) Free Draining Sub-Grade: Where the subgrade and
+   existing native surface soils are of good drainage and of      Plants shall be set plumb in the planting beds or in the centre
+   a non-compacted nature, planting holes shall be                of the pits except where the plant's character requires
+   excavated and prepared to allow the following depth of         variation from this.
+   topsoil backfill underneath and around the root ball:
+                                                                  The growing medium shall be placed in layers around the
+      •   For plants up to and including 27 cm (#5) pot size -
+                                                                  roots or ball, preferably by hand. Each layer shall be firmed
+          not less than 150 mm .
+                                                                  to eliminate air void and ensure good soil contact with the
+      •   For plants larger than 27 cm (#5) pot- size not less
+                                                                  roots. The process shall be carried out carefully to avoid
+          than 300 mm
+                                                                  injuring the roots or ball, or disturbing the position of the
+                                                                  plant.
+   ii) Poor Draining Sub Grade: Where the subgrade
+   and existing native surface soils are of poor texture and
+                                                                  Trees requiring staking shall have support stakes placed
+   conditions are generally compacted, planting holes shall
+                                                                  carefully between the roots before backfilling.
+   be excavated and prepared to allow the following depth
+                                                                  Specifications for tree supports are described in DBSS 754.
+   of topsoil backfill underneath and around the root ball:
+      •   For plants up to and including 27 cm (#5) pot size      After the planting hole is filled with soil to ground level, the
+          not less than 300 mm                                    plant shall receive a thorough watering. A final backfill
+      •   For plants up to 45 cm pot size - not less than         layer shall be applied to form a saucer-like berm around the
+          450 mm                                                  circumference of the planting hole in order to catch and hold
+      •   For tree root balls larger than 45 cm - not less than   rainwater. This rain basin shall be maintained until final
+          600mm                                                   acceptance of the work.
+
+   If severely compacted conditions are encountered, and          Once planting and mulching is complete, the Site shall be
+   surface or ground water entering the excavations does          cleaned of all excess soil, rock and debris.
+   not drain, the Contractor shall correct the problem by;
+
+4 of 6                                                      DB 2006                                                   BC - MOT
+
+=== ORIGINAL PDF PAGE 395 ===
+PLANTING OF TREES, SHRUBS, AND GROUND COVERS                                                                 SECTION 754
+
+Specific Planting Requirements:                                   The requirements for construction shall be in accordance
+                                                                  with DBSS 757 Revegetation Seeding.
+Bare Root Stock - The roots of bare root plant material
+shall be soaked in water prior to planting. During                754.38 Sodding - The required fertilizer shall be applied at
+installation, the plant roots shall be evenly spread out over a   the rates specified in the Contract and Design, and worked
+cone of soil in the bottom of the hole, and the plant             well into the topsoil prior to laying the sod.
+supported to the correct depth as backfilling takes place.
+The plant shall be gently shaken in a vertical motion to          Sod shall be laid within 24 hours after delivery unless
+ensure that soil particles sift into the root system and          proper storage arrangements can be made.
+establish close contact with the roots
+                                                                  The sections of sod shall be laid close together with joints
+Container Stock - Non-perishable, impervious containers           staggered. No open joints are to be visible, and no pieces
+such as plastic pots and tubs shall be removed from plants        are to overlap.
+before planting. Once plants are removed from these
+containers, root systems shall not be disturbed with the          Sod shall be laid smooth and flush with the adjoining grass
+exception of unraveling any roots starting to spiral around       areas, adjacent hard surfacing, and the tops of curbs and
+the root ball.                                                    planting bed liners, unless otherwise shown on the Design.
+                                                                  All necessary cutting shall be done using sharp implements.
+Bio-degradable containers such as peat or paper fibre pots
+shall not be removed before planting, but shall be                On slopes of approximately 2.5 to 1 and steeper, the sod
+thoroughly soaked with water prior to placement in the            shall be laid lengthwise across the slope, and the material
+holes. This will ensure that containers absorb subsequent         secured with wooden stakes driven flush with the sod at
+watering and not repel it due to the presence of a dry barrier.   intervals not exceeding 0.5 metres. There shall be at least
+The rim of such containers shall be not be exposed to the air,    three stakes per individual sod piece. On slopes of gradients
+and when necessary, shall be removed after planting.              between 2.5 and 1.5 to 1, the bottom three rows of sod and
+                                                                  every third subsequent row shall be secured with stakes. For
+Balled and Burlapped Stock - When backfill soil is placed         slopes steeper than 1.5 to 1, every sod course shall be
+to approximately two-thirds of the root ball height, the ties     staked.
+on the sacking shall be cut and the top portion of the burlap
+folded back carefully to avoid disturbing the integrity of the    Sodded areas shall be rolled or suitably tamped to ensure a
+root ball. The sacking shall not be removed. The remainder        good bond with the topsoil, and then subsequently protected
+of the hole will then be backfilled and firmed.                   from heavy foot traffic or equipment travel.
+
+Where wire baskets are used to encase and support the root        Unless otherwise indicated, sodded areas shall be evenly
+ball of supplied plant material, these shall not be removed.      watered within 12 hours of installation, and with sufficient
+The top of the wire basket shall be cut away or completely        quantity to saturate the grass and the upper portion of the
+folded back and buried without disturbing the integrity of        topsoil.
+the root ball.
+                                                                  754.39 Watering - All trees, shrubs, groundcovers, vines,
+Forestry Seedlings - Planting of forestry seedlings shall be      and designated grass areas, shall be watered immediately
+in accordance with the Silvicultural Policy and Procedures        after planting, and regular watering shall continue as
+Manual, Volume 3, of the British Columbia Ministry of             required for plant health until final acceptance of the work.
+Forests and Range.
+                                                                  754.40 Pruning - Pruning shall be limited to the minimum
+Tree Support - All trees of a size requiring staking or guy       necessary to remove dead or injured tissue and branches
+wiring shall be supported in accordance with the details and      interfering with desirable growth habit and overall health of
+instructions provided on SS Drawings SP754-04 through             the plant.
+SP754-07. All hardware required shall be installed without
+damage to plants.                                                 Pruning shall be done in accordance with proper
+                                                                  horticultural practice, using clean, sharp tools appropriate to
+Trees that are dislodged during the Contract period shall be      the task and in a manner that preserves the natural character
+uprighted and re-secured as required. Trees that are              of the plant.
+damaged shall be replaced by the Contractor.
+                                                                  754.41 Mulching - When specified in the Design or the
+754.37 Seeding - Application of seed, fertilizer, and other       Contract, individual tree pits and planting beds shall be
+materials shall be at the rates specified in the Special          mulched.
+Provisions.
+
+BC - MOT                                                    DB 2006                                                     5 of 6
+
+=== ORIGINAL PDF PAGE 396 ===
+SECTION 754                                          PLANTING OF TREES, SHRUBS, AND GROUND COVERS
+
+Mulching of tree pits and planting beds shall be carried out            causing surface soil erosion.
+after watering, to an even depth of 50 mm after settlement,
+unless otherwise specified on the Design or the Contract.               b) Weed control will be carried out, as required to
+                                                                        prevent competition with establishing planted material
+754.42 Clean-up - All plant containers and waste materials              and to maintain the aesthetic appearance of landscaped
+resulting from landscaping and planting operations shall be             areas. The presence of weeds in plantation beds,
+removed from the Site and appropriately disposed of.                    individual planting pits, and designated lawn areas, is
+                                                                        limited to a maximum of 5% of the surface area at any
+754.43 Conditions for Acceptance - The Contractor shall                 given time, unless otherwise stated in the Contract. The
+ensure that the following conditions are met for all planted            use of herbicides for the control of weed growth is not
+and grassed areas:                                                      permitted.
+
+   a) Topsoil quality, fertility levels, depths and surface             c) Mowing shall be carried out at regular intervals, as
+   conditions are as set out in the Design and Contract;                required, to maintain grass in the areas designated, and at
+                                                                        the height(s) specified in the Contract. Edges of areas
+   b) All plants are of the species and varieties specified             designated “Lawn” shall be neatly trimmed. Excess
+   and planted in the locations shown on Design;                        clippings shall be removed immediately after mowing
+                                                                        and trimming.
+   c) All plants are healthy and growing vigorously.
+   Seeded grass areas are sufficiently established into the             d) Fertility levels in planted and grassed areas shall be
+   underlying growing medium, are free of thin and bare                 maintained in accordance with the requirements of the
+   patches, and are relatively free of weeds: not more than             plant material.
+   5% in lawn areas, and not more than 15% in rough grass
+   areas;                                                               e) Bark Mulch shall be maintained to the depth specified
+                                                                        in the Design.
+   d) The water content in the topsoil is adequate, i.e. –
+   when irrigation is provided,                                         f) For non-mulched areas, the soil surface shall be
+                                                                        cultivated, as required, to keep it loose and friable.
+   e) Trees are supported, as specified;
+                                                                        g) Insect and disease control shall be carried out as
+   f) Pruning is complete, in accordance with proper                    required. The Contractor shall secure all necessary
+   horticultural practice and to the satisfaction of the                Pesticide Use Permits in accordance with Ministry of
+   Designer and Quality Manager;                                        Environment regulations, and possess a valid Pesticide
+                                                                        Service License. When required, the Contractor shall
+   g) All planting beds and tree pits are free of weeds;                provide a Pest Management Plan to MoE.
+
+   h) Mulch is in place, as required and;                               h) Establishment pruning to encourage proper shape and
+                                                                        health of plants by removing dead, or broken and
+   i) Unmulched areas are cultivated to leave a loose,                  interfering branches and diseased or damaged tissue.
+   friable, water-permeable surface;
+                                                                        i) Maintenance of tree stakes, guy wires and tree ties to
+   j) Maintenance procedures set out in DBSS 754.71 have                prevent plant dislodgement and damage to trunk and
+   been carried out.                                                    branches.
+
+                    MAINTENANCE                                         j) All plant material shall be alive and maintained in a
+                                                                        healthy growing condition during the entire
+754.71 Maintenance - The following maintenance                          establishment period. Plant material which has died or is
+operations shall be performed as required ,from the time of             not healthy, and does not perform its function, shall be
+landscape installation, until the Actual Completion Date :              removed and replaced by the Contractor at the earliest
+                                                                        opportunity, weather and season permitting. Grassed
+   a) Water shall be applied in sufficient quantity and by              areas that show deterioration or bare spots shall be
+   appropriate method to maintain optimum soil moisture                 repaired immediately. All repair and/or replacement
+   conditions for healthy plant establishment, without                  shall be in accordance with the original specifications
+                                                                        and requirements.
+
+
+
+
+6 of 6                                                        DB 2006                                                 BC - MOT
+
+=== ORIGINAL PDF PAGE 397 ===
+SECTION 757
+
+                                              REVEGETATION SEEDING
+
+                     DESCRIPTION                                 757.12.03 Seed Analysis Report - The Contractor shall
+                                                                 provide valid Certificates of Analysis for each species and
+757.01 Scope - This Section refers to those portions of the      seed lot used in a mix. These shall set out details of the seed
+work that are unique to the supply and application of seed,      as specified in the “Canadian Methods and Procedures for
+fertilizer, mulch, tackifier, and other materials used for       Testing Seed”.
+revegetating disturbed areas, and that are not designated for
+treatment under DBSS 754, Planting of Trees, Shrubs, and         757.12.04 Packaging and Labelling - Seed shall be
+Ground Covers. This Section must be referenced and               supplied in the original sealed packages, with legible labels
+interpreted simultaneously with all other Sections pertinent     securely attached, and providing the following information:
+to the works described herein.                                       •   Supplier’s name and address
+                                                                     •   Analysis of seed mixture – the grade, and the name
+757.02 References - Guidelines for Hydroseeding in                       and percentage by weight of individual seed species
+Proximity to Hydro Lines, Canada Seed Act, and BC Weed               •   Percentage of Pure Live Seed (PLS) for each species
+Control Act & Regulation.                                            •   Lot number and crop year for each species in the mix
+                                                                     •   Net weight (mass)
+                       MATERIALS                                     •   Date and location of packaging
+
+757.11 Handling and Storage - All seed, mulch, fertilizers       757.13 Fertilizer - Fertilizer shall comply with the
+and other dry materials shall be stored in a dry, weather        provisions of the Canada Fertilizers Act and Fertilizer
+proof storage place and shall be protected from damage by        Regulations. Fertilizer shall be supplied as noted on the
+heat, moisture, rodents or other causes until the time of        table “Standard Grass Seed Mixes For Revegetation of
+seeding. Supplier labels or other identification are not to be   British Columbia Highway Roadsides” unless otherwise
+removed or defaced.                                              specified in the Contract.
+
+757.12 Seed                                                      757.14 Hydraulic Mulch - Hydraulic mulch shall be a
+                                                                 wood fibre type, specifically designed for hydraulic seeding,
+757.12.01 Supply of Seed - All seed specified shall be           and having demonstrated satisfactory past performance for
+supplied by the Contractor and obtained from a recognized        this purpose. The product shall be dyed green for
+source.                                                          appearance and ease of monitoring application.
+                                                                 Mulch shall be supplied in packages bearing the
+757.12.02 Seed Type and Grade - All seed supplied either         manufacturer’s label, clearly indicating the weight and
+as individual species, or as a seed mix, shall comply with       product name.
+the requirements of the Canada Seed Act and Regulations,
+and the grade standards for that particular crop kind. Grass     Mulch may contain a tackifier, which shall adhere to mulch
+and legume seed shall meet or exceed Common No.1 grade           to prevent separation during shipment and to avoid chemical
+prior to mixing with other species. Seed shall be free of        agglomeration during mixing in hydraulic mulching
+propagules of plant species designated as noxious weeds          equipment.
+under the BC Weed Control Act & Regulations.                     757.15 Water - Water used for hydraulic seeding
+                                                                 operations shall be free of impurities that would inhibit
+All legume seed shall be inoculated with an adapted              germination and growth or may be harmful to the
+bacterial culture to ensure nitrogen fixation.                   environment. Unless otherwise noted in the Contract, the
+                                                                 Contractor shall be responsible for securing a water source
+Seed mixes used for general roadside revegetation, and for       for hydraulic application of materials, including obtaining
+the general conditions and areas indicated, shall be as shown    use permits under the Water Act if water is to be drawn from
+on the table “Standard Grass Seed Mixes For Revegetation         waterbodies, and for all cost to supply.
+of British Columbia Highway Roadsides”, unless otherwise
+specified in the Contract.                                       757.16 Other Materials - Tackifiers, Bonded Fiber Matrix
+                                                                 coverings, erosion control blankets, soil amendments and
+When specified, wildflower and shrub seed shall be supplied      other materials shall be supplied to the specifications in the
+to the requirements of the Contract and Design.                  Contract.
+
+
+
+
+BC – MOT                                                   DB 2006                                                     1 of 8
+
+=== ORIGINAL PDF PAGE 398 ===
+SECTION 757                                                                                  REVEGETATION SEEDING
+
+                       EQUIPMENT
+
+757.21 General - Equipment used shall be capable of                757.36 Record of Application - The Contractor shall
+applying the materials uniformly over the designated areas.        maintain a record of all pertinent application information on
+                                                                   the form supplied by the Ministry for this purpose, or
+Equipment shall not cause soil rutting or other site damage.       similarly provided by the Contractor. Refer to Sample Form
+                                                                   “Daily Seeding/Application Record”.
+757.22 Hydraulic Seeding/Mulching Equipment -
+Equipment shall have the tank volume identified by an              757.37 Application Method for Mechanical Drop or
+identification plate or sticker, which shall be affixed in plain   Broadcast Dry Seeding - Seed shall be applied in two
+view.                                                              intersecting directions, except where conditions dictate
+                                                                   seeding in one direction only.
+The hydraulic seeder/mulcher shall be capable of sufficient
+agitation to mix the materials into a homogenous slurry, and       Seeding shall overlap adjoining ground cover by 300mm.
+to maintain the slurry in a homogeneous state until
+application.                                                       Refer to the Contract for specific instructions for installation
+                                                                   of wildflower, shrub and other seed as may be applicable.
+Equipment shall be adequately sized to the task, to complete
+work efficiently within the time frame specified, and to           757.38 Hydraulic Application of Materials
+permit application of materials without excess water being
+applied, or undue time lapse between operations. Hydraulic         757.38.01 General - The hydraulic seeder/mulcher shall be
+mulchers should be capable of producing slurry viscosities         operated in compliance with Ministry safety standards
+containing approximately 18 to 30kg of mulch per 500 litres        including those detailed in the publication “Guidelines for
+of water.                                                          Hydroseeding in Proximity to Hydro Lines.”
+
+Extension hoses or pipes shall be provided to reach areas not      Materials shall not be sprayed on objects not expected to
+accessible from the hydraulic seeder.                              support plant growth.
+
+                    CONSTRUCTION                                   The Contractor shall be responsible for any overspray or
+                                                                   damages incurred during hydroseeding.
+757.31 Scheduling - Work shall be scheduled to ensure a
+minimum duration of on-Site storage of materials, minimum          757.38.02 Mixing - The required quantities of seed,
+compaction of topsoil, and prompt mulching operations.             fertilizer, mulch, tackifier and other material shall be
+                                                                   charged into the tank accurately by weight or by an
+The work shall be co-ordinated with the schedule of other          acceptable system of mass calibrated volume measurement.
+trades, and be well integrated with specific requirements
+such as Sediment and Drainage Management Plans, which              The materials shall be thoroughly mixed into a
+may be provided for any given project.                             homogeneous water slurry prior to application.
+
+757.32 Protection - Existing Site equipment, roadways,             All seed shall be added last when mixing. Pellet inoculated
+landscaping, reference points, monuments, markers, utilities       seed shall be applied immediately after placement into tank,
+and structures shall be protected from damage.                     and if this is not possible, dry application methods must be
+                                                                   used. Other seed shall not be left in the tank for
+757.33 Timing of Material Application - Material                   unreasonable lengths of time prior to application, i.e. –
+application shall be carried out in accordance with the            exceeding one or two hours, particularly when in contact
+milestone dates provided in the Contract, and after fine           with fertilizer solution.
+grading has been completed and the areas prepared.
+                                                                   757.38.03 Application - The mulch and tackifier
+757.34 Methods - The methods chosen for material                   components of hydraulically applied mixtures will generally
+application shall be at the Contractor’s discretion, unless        be applied in stages. The initial pass of the hydraulic seeder
+otherwise specified in the Contract.                               will distribute the correct amount of seed and fertilizer for
+                                                                   the area being done, as well as up to one third of the
+757.35 Rates of Application - Application of fertilizers,          required mulch/tackifier. The subsequent pass(es) will
+seed mixtures, mulch and other materials shall be at the rates     complete the mulching/tacking process to the required rate.
+specified in the Contract and by the Designer.
+
+
+
+2 of 8                                                        DB 2006                                              BC – MOT
+
+=== ORIGINAL PDF PAGE 399 ===
+REVEGETATION SEEDING                                                                                      SECTION 757
+
+Mulch shall be applied to form an even, uniform mat             Hydraulic seeding and/or mulching overspray that may
+blended 150 mm into adjacent vegetated areas or previous        cause problems on areas or objects not designated for re-
+mulch applications.                                             vegetation, shall be removed in an appropriate manner.
+
+757.39 Related Work - Additional related work such as the       757.41 Not Used
+application of erosion control blanket or other coverings,
+and harrowing or discing of soil following material             757.42 Repairs - Seeded areas that show thin application or
+application, shall be as specified in the Contract and by the   bare spots shall be re-treated with the specified materials at
+Design.                                                         the Contractor’s earliest opportunity, weather and season
+                                                                permitting.
+757.40 Clean-up - All surplus and waste materials resulting
+from seeding operations shall be removed from the job site..
+
+
+
+
+BC – MOT                                                 DB 2006                                                     3 of 8
+
+=== ORIGINAL PDF PAGE 400 ===
+SECTION 757             REVEGETATION SEEDING
+
+
+
+
+4 of 8        DB 2006               BC – MOT
+

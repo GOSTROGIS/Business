@@ -37,5 +37,19 @@
     "received_date": "2026-10-23",
     "provenance": "User-supplied PDF; original bytes preserved",
     "current_website_version_verified": false
+  },
+  {
+    "source_id": "BC-MOT-DBSS-2006",
+    "file": "design_build_standard_specs_2006.pdf",
+    "title": "2006 Design Build Standard Specifications for Highway Construction",
+    "edition_or_version": "2006; adopted February 20, 2006",
+    "publisher_as_presented": "British Columbia Ministry of Transportation, Construction and Maintenance Branch",
+    "pdf_pages": 441,
+    "bytes": 4949922,
+    "sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+    "received_date": "2026-10-29",
+    "provenance": "User-supplied PDF; original bytes preserved",
+    "current_website_version_verified": false,
+    "applicability": "Historical design-build specification; current project applicability and amendments are not established."
   }
 ]

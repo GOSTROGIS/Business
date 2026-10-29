@@ -12,12 +12,13 @@ All cases, people, times and arrangements are invented classroom examples. The a
 
 <!-- visual:middle-communication-components--learner-06 -->
 <figure class="teaching-figure diagram" data-visual="middle-communication-components--learner-06">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-components.svg" alt="Six distinct icons connect to shared understanding: listen with intention, listen to understand, speak with clarity, speak with purpose, adapt to audience and contexts, and adapt to other people’s communication modes and tools." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Six connected components — visual"><img src="../assets/diagrams/middle-communication-components.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Build shared understanding together. Six connected components: Listen with intention; Listen to understand; Speak with clarity; Speak with purpose; Adapt to audience + context; Adapt modes + tools. Speech · sign · text · AAC · another agreed accessible mode. Observe understanding, not a preferred communication style." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> The six Communication components work together around a shared purpose. Agree accessible ways to send, receive and check meaning; the map does not prescribe a fixed order. <a class="visual-original" href="../assets/diagrams/middle-communication-components.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Build shared understanding together. Six connected components: Listen with intention; Listen to understand; Speak with clarity; Speak with purpose; Adapt to audience + context; Adapt modes + tools. Speech · sign · text · AAC · another agreed accessible mode. Observe understanding, not a preferred communication style.</p></details>
 </figure>
 <!-- /visual:middle-communication-components--learner-06 -->
 
-The component names below come from page 85 of the supplied SkillPlan guide. Use appropriate communication modes to demonstrate each purpose.
+The six components below help you receive and share meaning. Use appropriate communication modes to demonstrate each purpose.
 
 | Component | What you practise | Main evidence |
 |---|---|---|
@@ -29,6 +30,20 @@ The component names below come from page 85 of the supplied SkillPlan guide. Use
 | 6. Adapt to other people's different communication modes and tools | Agree a usable channel, pace and check-back method. | CM-16–CM-18 |
 
 A shared product does not show every person's communication. Each learner needs turns sending and receiving a message. A written summary may help, but do not use its spelling or length as the only evidence of listening. The instructor can observe a paraphrase, a selected response, an appropriate action in the simulation or a clarification exchange. Recording is optional and requires agreement; live observation also provides evidence.
+
+<!-- teaching:cm-route-learner -->
+## Communication route card
+
+**Core route.** Begin with a purpose and usable mode. Practise a check-back, clarification and contradiction repair with CM-01/02/04/05/06. Use CM-08/11/12 for an instruction, call and handover; then CM-14/15/16/18 for assumptions, audience choices and a changed-mode exchange. Take both sender and receiver turns in CK-CM. Keep the source/version, essential details confirmed and the actual question/response.
+
+**Support route.** Use a familiar chapter source first, a key-detail organizer with headings but no completed answers, a learner-controlled communication tool, agreed interpretation or an instructor counterpart. Rehearse “What is the current room/time?” or another learner-chosen clarification. If an instructor supplies a phrase or points to the missed answer, record that support on the relevant criterion. Reduce unrelated writing; let the receiver show meaning through a check-back, selected details or an appropriate action. No speed or eye-contact target is added.
+
+**Retry route.** Choose the missed action, receive feedback and try it again with the familiar source. If the next goal is unfamiliar reception, use held CK-CM Card C only when it is genuinely unseen by the receiver. Record prior exposure honestly; otherwise arrange another checked message. Compare the essential details and how the uncertainty was resolved, not how confident the learner looked.
+
+**Chapter coverage map:** preparation CM-01/02/05/07/10/13/14/15; guided/observed practice CM-03/04/06/08/09/11/12/16/17/18. Combine activities only when their distinct actions remain visible. A single receiver turn does not supply the sender evidence.
+
+**Next-attempt agreement:** criterion ___; message/version ___; sender/receiver role ___; mode/language ___; access and task support ___; observer/date ___; evidence still missing ___.
+<!-- /teaching:cm-route-learner -->
 
 ## Listen with a reason
 
@@ -64,8 +79,9 @@ Partner A sends the Case A message in the agreed mode. Partner B receives it, th
 
 <!-- visual:middle-communication-check-back--learner-06 -->
 <figure class="teaching-figure diagram" data-visual="middle-communication-check-back--learner-06">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-check-back.svg" alt="Three panels show a sender giving Thursday, Room 2, 10:00–10:45; a listener restating those details as a question; and the sender confirming. A return arrow invites correction and another check." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Listen to understand, then check — visual"><img src="../assets/diagrams/middle-communication-check-back.svg" alt="Three speech bubbles demonstrate sending Thursday, Room 2, 10:00–10:45; restating those details; and confirming their accuracy. A dashed return path asks partners to correct a mismatch and check again. The accompanying reminder includes workbook and pen, indoor activity, printed maps and the usual route for access questions." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> A check-back makes the listener’s understanding visible. Restate the room, day and time, then confirm or correct them and check the remaining details in the full message. <a class="visual-original" href="../assets/diagrams/middle-communication-check-back.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Three speech bubbles demonstrate sending Thursday, Room 2, 10:00–10:45; restating those details; and confirming their accuracy. A dashed return path asks partners to correct a mismatch and check again. The accompanying reminder includes workbook and pen, indoor activity, printed maps and the usual route for access questions.</p></details>
 </figure>
 <!-- /visual:middle-communication-check-back--learner-06 -->
 
@@ -105,8 +121,9 @@ Check reference words such as “it,” “that” and “over there.” They ma
 
 <!-- visual:middle-communication-equipment--learner-06 -->
 <figure class="teaching-figure diagram" data-visual="middle-communication-equipment--learner-06">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/middle-communication-equipment.svg" alt="Six labelled equipment sketches are grouped into materials, move, place and compact roles: crusher or screen, asphalt plant, haul truck, paver, its screed component, and roller. The five separate stage labels appear underneath." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Case document B • Two people understood different tasks — visual"><img src="../assets/diagrams/middle-communication-equipment.svg" alt="Six original equipment silhouettes show E2 crusher and screen reducing and separating material by size; E3 asphalt plant preparing the specified mixture; E4 haul truck moving paving material; E5 paver receiving mixture and moving it to the screed; E1 screed helping control layer thickness; and E6 roller compacting placed material. The broad flow is pit or quarry, plant, haul, place and compact. The screed is shown with the paver, not as an additional broad stage." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Six equipment-purpose cards support terminology checking. The screed is a paver component, so six equipment cards are different from the five stage labels in the pair task. Illustrations explain purpose only. <a class="visual-original" href="../assets/diagrams/middle-communication-equipment.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Six original equipment silhouettes show E2 crusher and screen reducing and separating material by size; E3 asphalt plant preparing the specified mixture; E4 haul truck moving paving material; E5 paver receiving mixture and moving it to the screed; E1 screed helping control layer thickness; and E6 roller compacting placed material. The broad flow is pit or quarry, plant, haul, place and compact. The screed is shown with the paver, not as an additional broad stage.</p></details>
 </figure>
 <!-- /visual:middle-communication-equipment--learner-06 -->
 
@@ -205,6 +222,8 @@ Consider this fictional exchange: a learner pauses for several seconds after a q
 
 Revise these questions: “People from your community always prefer stories, right?” and “Why won't you look at me when I speak?” Make them relevant to the present task, with room for choice. Then practise asking a partner which information and communication format would help them review the process map. The partner may answer briefly or choose the supplied Case C preferences. No one has to describe their community or personal history.
 
+An approximate one-minute message is a guide to the amount of content, not a speed test. Agree additional time for interpretation, AAC, signing, reading, processing or another access need. Check the intended meaning and the exchange; do not treat a faster response as stronger communication.
+
 ## Adapt the mode and keep the interaction two-way
 
 A communication mode is a way of exchanging meaning, such as speech, sign, text, symbols or an augmentative communication system. A tool supports that exchange, such as a phone, caption display, shared document or communication device. Ask which mode and tool work for the task and the people involved. Do not assume that access to a tool guarantees that a conversation is accessible.
@@ -231,4 +250,60 @@ Keep an example of a paraphrase, a useful clarification, a plain-language explan
 
 For supported practice, use a short script, a visual checklist, a private instructor partnership or more response time. For extension, change the audience or introduce one missing detail while preserving a clear purpose. Give specific feedback and repeat the interaction. The local descriptions **Not observed**, **Not yet demonstrated**, **Demonstrated with support** and **Demonstrated independently** describe evidence under stated conditions; they are not official Communication proficiency scores.
 
-**Teaching-source connection:** SkillPlan, *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [pp.85–91](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=85): six Communication components, intercultural interpretation, explicit listening instruction, repeated simulations and assessment that does not confuse listening with extended writing. The cases and prose are original ACCESS IS4S adaptations. Equipment-card purposes are supported by the supplied [asphalt outline](../../asphalt-paving/sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=39), PDF pp.39–41, 75, 84, 87 and 95, as mapped in the asphalt A1 instructor guide. This chapter deliberately uses understanding and accessible interaction as evidence rather than treating eye contact, stillness, accent or voluntary personal disclosure as universal standards.
+<!-- teaching:cm-case-learner -->
+## CK-CM · Send, receive and check a fresh classroom change
+
+These four original cases give you another opportunity to use a skill after the chapter practice. **All people, rooms, events and organizations in these cards are fictional.** You can use these cases without sharing personal, family, community or cultural knowledge. They are classroom tasks, not instructions for operating equipment or following an actual workplace procedure.
+
+Your instructor will give you the relevant card when your turn begins. Keep a sender's information separate from the receiver's card until after the exchange. If you have already read the information, say so: the activity remains useful practice, but that attempt cannot show how you receive an unfamiliar message. No one needs to conceal prior practice.
+
+Agree your language, communication mode, tools, access supports and response time before beginning. Speech, sign, text, AAC, a learner-directed scribe and agreed interpretation can be appropriate. The person observing needs a reliable way to understand the meaning of your contribution. Receiving a message in writing shows reception through that mode; it does not automatically show auditory listening. You may decline audio/video recording and use live observation. Ask for a pause or another opportunity if the conditions are not usable. There is no requirement to look cheerful, make eye contact or disclose why you need an arrangement.
+
+**Purpose:** make the practical change clear, receive the other person's meaning and resolve a relevant question. Each person has a sender turn and a receiver turn. Your instructor distributes Card A only to the first sender and Card B only to the second sender. Do not show your source card before your partner has received and checked the message. Sending an agreed written message is allowed; copying the entire source into a receiver's worksheet is a different task and must be recorded as such.
+
+### CK-CM receiver card · Use before either exchange
+
+You are planning to attend a fictional classroom session. An earlier note may be out of date. Ask the sender to explain the current arrangements. Choose how you want to receive the message and how to request repetition or a pause. Find out the activity, current room, start and finish times, and what you need to bring or do. Check your understanding with the sender. Ask one useful question; if the source does not answer it, agree who should check rather than inventing an answer.
+
+You may take notes, select or arrange written details, use your communication tool, or give a spoken check-back. Do not try to memorize the message without access supports you would normally use. After checking, identify the information you can act on and anything still unresolved.
+
+### CK-CM sender card A · Give only to the first sender
+
+> **Fictional Tuesday update · Current notice A2**
+>
+> The classroom label-making session is now in **Room Cedar**, from **14:10 to 14:45**. The earlier notice A1 said Room Birch and a 14:00 start. The finish time has not changed.
+>
+> Bring the **practice folder** supplied in class. The activity uses fictional labels and the classroom provides pens and blank cards. No personal documents are needed. It is an indoor paper activity.
+>
+> **Jo, the classroom coordinator**, can check questions that this notice does not answer. The notice gives no parking, travel, food or childcare information.
+
+Explain the current arrangements to your partner, who has not received this notice. State why you are contacting them. Agree a usable mode, invite a check-back and resolve any discrepancy against the notice. Answer only from the supplied information. If something is unknown, identify it and the relevant next contact. A diagram or key-point card can help, but colour or pointing must not carry the only meaning.
+
+### CK-CM sender card B · Give only to the second sender
+
+> **Fictional Thursday update · Current notice B3**
+>
+> The classroom map-reading session is now in **Room Spruce**, from **09:35 to 10:05**. The earlier notice B2 said Room Pine and a 09:30 start. The finish time has not changed.
+>
+> Bring **one blank practice card** from your classroom pack. The classroom provides the maps and pencils. You do not need a phone or a personal address. The activity uses a fictional neighbourhood map indoors.
+>
+> **Rae, the classroom coordinator**, can check questions that this notice does not answer. The notice gives no information about transport, refreshments or building access outside class time.
+
+Deliver the update to your partner and complete the same two-way check. This is a new source for the person who received Card A as sender; do not assume that the earlier room or time applies.
+
+### CK-CM retry card C · Hold until a later attempt
+
+> **Fictional Friday update · Current notice C2**
+>
+> The classroom display-review session is now in **Room Alder**, from **11:20 to 11:50**. The earlier notice C1 said Room Maple and an 11:10 start. The finish time has not changed.
+>
+> Bring the **draft display title card** made in class. The classroom supplies the practice display and removable labels. Personal photographs are not needed. This is an indoor classroom review.
+>
+> **Lee, the classroom coordinator**, can check questions not answered here. The notice does not identify an actual street address, travel service or meal arrangement.
+
+Use the receiver card again. Record whether this information was new to the receiver. If it was already seen, use it as a supported retry or rehearsal, not an unfamiliar reception check. A later new-message check needs another checked source and corresponding key.
+
+### CK-CM evidence note
+
+Keep the current source identifier, the mode used, one actual check-back or clarification, any remaining unknown, and the support supplied. Identify a phrase or action you would retain or improve. Your partner's correct answer alone does not show which message you sent; the observer needs evidence of each person's turn.
+<!-- /teaching:cm-case-learner -->

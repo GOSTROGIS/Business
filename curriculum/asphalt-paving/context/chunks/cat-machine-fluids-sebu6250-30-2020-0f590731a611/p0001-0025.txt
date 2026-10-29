@@ -1,0 +1,1616 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-machine-fluids-sebu6250-30-2020.pdf
+SOURCE SHA-256: 0f590731a6116be33e619690c5e572ff13b41c0ac1398d4e47335a6e96eb2df4
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+SEBU6250-30 (en-us)
+                                                  December 2020
+
+
+
+
+Operation and
+Maintenance
+Manual
+Caterpillar Machine Fluids
+Recommendations
+All Machines87A 1-UP
+(Machine)
+
+
+
+
+Special Publication
+
+                       PUBLICATIONS.CAT.COM
+
+=== ORIGINAL PDF PAGE 2 ===
+i07966018
+
+
+                              Important Safety Information
+Most accidents that involve product operation, maintenance and repair are caused by failure to observe
+basic safety rules or precautions. An accident can often be avoided by recognizing potentially hazardous
+situations before an accident occurs. A person must be alert to potential hazards, including human factors
+that can affect safety. This person should also have the necessary training, skills and tools to perform these
+functions properly.
+Improper operation, lubrication, maintenance or repair of this product can be dangerous and could
+result in injury or death.
+Do not operate or perform any lubrication, maintenance or repair on this product, until you verify
+that you are authorized to perform this work, and have read and understood the operation,
+lubrication, maintenance and repair information.
+Safety precautions and warnings are provided in this manual and on the product. If these hazard warnings
+are not heeded, bodily injury or death could occur to you or to other persons.
+The hazards are identified by the “Safety Alert Symbol” and followed by a “Signal Word” such as
+“DANGER”, “WARNING” or “CAUTION”. The Safety Alert “WARNING” label is shown below.
+
+
+
+
+The meaning of this safety alert symbol is as follows:
+Attention! Become Alert! Your Safety is Involved.
+The message that appears under the warning explains the hazard and can be either written or pictorially
+presented.
+A non-exhaustive list of operations that may cause product damage are identified by “NOTICE” labels on
+the product and in this publication.
+Caterpillar cannot anticipate every possible circumstance that might involve a potential hazard.
+The warnings in this publication and on the product are, therefore, not all inclusive. You must not
+use this product in any manner different from that considered by this manual without first
+satisfying yourself that you have considered all safety rules and precautions applicable to the
+operation of the product in the location of use, including site-specific rules and precautions
+applicable to the worksite. If a tool, procedure, work method or operating technique that is not
+specifically recommended by Caterpillar is used, you must satisfy yourself that it is safe for you
+and for others. You should also ensure that you are authorized to perform this work, and that the
+product will not be damaged or become unsafe by the operation, lubrication, maintenance or repair
+procedures that you intend to use.
+The information, specifications, and illustrations in this publication are on the basis of information that was
+available at the time that the publication was written. The specifications, torques, pressures,
+measurements, adjustments, illustrations, and other items can change at any time. These changes can
+affect the service that is given to the product. Obtain the complete and most current information before you
+start any job. Cat dealers have the most current information available.
+
+                                             NOTICE
+When replacement parts are required for this product Caterpillar recommends using original Cater-
+pillar® replacement parts.
+Other parts may not meet certain original equipment specifications.
+When replacement parts are installed, the machine owner/user should ensure that the machine re-
+mains in compliance with all applicable requirements.
+
+In the United States, the maintenance, replacement, or repair of the emission control devices and
+systems may be performed by any repair establishment or individual of the owner's choosing.
+
+=== ORIGINAL PDF PAGE 3 ===
+SEBU6250-30                                                                              3
+                                                                          Table of Contents
+
+
+
+Table of Contents
+Foreword ........................................................... 4
+
+Maintenance Section
+
+Lubricant Specifications .................................... 5
+
+Fuel Specifications .......................................... 86
+
+Cooling System Specifications...................... 120
+
+Exhaust Aftertreatment Fluids Specifications 141
+
+Contamination Control .................................. 146
+
+Warranty Section
+
+Warranty Information..................................... 152
+
+Reference Information Section
+
+Reference Materials ...................................... 153
+
+Index Section
+
+Index.............................................................. 154
+
+=== ORIGINAL PDF PAGE 4 ===
+4                                                                                                  SEBU6250-30
+Foreword
+
+
+
+Foreword                                                  Under extremely severe, dusty, or wet operating
+                                                          conditions, more frequent lubrication and/or filter
+                                                          changes than is specified in the maintenance
+Fluids/Filters Recommendation                             intervals chart might be necessary.
+
+Literature Information                                    Following the recommended maintenance intervals
+                                                          reduces the risk of excessive wear and potential
+This manual should be stored in the literature holder     failures of components.
+or in the literature storage area on the machine.
+Immediately replace this manual if lost, damaged, or      Aftermarket Products and Warranty
+unreadable.
+The information contained in this document is the                                   NOTICE
+most current information available for fluid              When auxiliary devices, accessories or consumables
+maintenance and service products. Special                 (filters, oil, additives, catalysts, fuel, etc.) made by
+maintenance and service products may be required          other manufacturers are used on Cat products, the
+for some machine compartments. Refer to the               Caterpillar warranty is not affected simply because of
+Operation and Maintenance Manual for your machine         such use. Failures that result from the installation or
+for the maintenance and service requirements. Read,       usage of other manufacturers auxiliary devices, ac-
+study, and keep this manual with the product. This        cessories or consumables, however, are not Caterpil-
+manual should be read carefully before using this         lar factory defects and therefore are NOT covered by
+product for the first time and before performing          Caterpillar's warranty.
+maintenance.
+                                                          Caterpillar is not in a position to evaluate the many
+Whenever a question arises regarding your product,        auxiliary devices, accessories or consumables pro-
+or this publication, consult your dealer for the latest   moted by other manufacturers and their effect on Cat
+available information.                                    products. Installation or use of such items is at the
+                                                          discretion of the customer who assumes ALL risks for
+Safety                                                    the effects that result from this usage.
+
+Refer to the Operation and Maintenance Manual for         Furthermore, Caterpillar does not authorize the use
+your machine for all safety information. Read and         of its trade name, trademark, or logo in a manner
+understand the basic safety precautions listed in the     which implies our endorsement of these aftermarket
+Safety Section. In addition to safety precautions, this   products.
+section identifies the text and locations of warning
+signs used on the machine.
+Read and understand the applicable precautions
+listed in the Maintenance and Operation Sections
+before operating or performing lubrication,
+maintenance, and repair on this machine.
+Maintenance
+Refer to the Operation and Maintenance Manual for
+your machine to determine all maintenance
+requirements.
+Proper maintenance and repair are essential to keep
+the equipment and systems operating correctly. As
+the owner, you are responsible for the performance
+of the required maintenance listed in the Owner
+Manual, Operation and Maintenance Manual, and
+Service Manual.
+Maintenance Interval Schedule
+Use the Maintenance Interval Schedule in the
+Operation and Maintenance Manual for your machine
+to determine servicing intervals. Use the service hour
+meter to determine servicing intervals. Calendar
+intervals shown (daily, weekly, monthly, etc.) can be
+used instead of service hour meter intervals if
+calendar intervals provide more convenient servicing
+schedules and approximate the indicated service
+hour meter reading. Recommended service should
+always be performed at the interval that occurs first.
+
+=== ORIGINAL PDF PAGE 5 ===
+SEBU6250-30                                                                                                          5
+                                                                                             Maintenance Section
+                                                                                           Lubricant Specifications
+
+
+Maintenance Section                                          Many of the guidelines, recommendations, and
+                                                             requirements that are provided in this Special
+                                                             Publication are interrelated. Before using the
+                                                             provided information, the user is responsible to read
+Lubricant Specifications                                     this Special Publication and understand the
+                                                             information provided.
+                                                 i07922835   The user is responsible to follow all safety guidelines
+                                                             found in this Special Publication and in the engine
+Lubricant Information                                        Operation and Maintenance Manual when performing
+                                                             all recommended and/or required engine, engine
+SMCS Code: 1000; 1300; 7581                                  systems, and/or machine maintenance.
+
+                        NOTICE                               For questions concerning the information presented
+Every attempt is made to provide accurate, up-to-            in this Special Publication and/or in your product
+date information. By the use of this document, you           Operation and Maintenance Manual, and/or for
+agree that Caterpillar Inc. is not responsible for errors    additional guidelines and recommendations
+or omissions.                                                (including maintenance interval recommendations/
+                                                             requirements) consult your Cat dealer.
+The information that is provided is the latest
+recommendations for Cat diesel engines that are              Commercial products that make generic claims of
+covered by this Special Publication. This information        meeting “Cat” and/or “Cat requirements" without
+supersedes all previous recommendations which                listing the specific Cat recommendations and/or
+have been published for Cat diesel engines that are          requirements that are met may not provide
+covered by this Special Publication. Special fluids are      acceptable performance. Reduced engine and/or
+required for some engines. These fluids will still be        machine fluid compartment life may result. Refer to
+necessary in those engines. Refer to the applicable          this Special Publication and refer to the product
+Operation and Maintenance Manual.                            Operation and Maintenance Manual for Cat fluids
+                                                             recommendations and/or requirements.
+This publication is a supplement to the Operation and
+Maintenance Manual. This publication does not                Use of fluids that do not meet at least the minimum
+replace the engine-specific Operation and                    performance recommendations and/or requirements
+Maintenance Manuals.                                         may lead to lower compartment performance and/or
+                                                             compartment failure.
+                      NOTICE                                 Problems/failures that are caused by using fluids that
+These recommendations are subject to change with-            do not meet the minimum recommended and/or
+out notice. Consult your local Cat dealer for the most       required performance level for the compartment are
+up to date recommendations.                                  not warrantable by Caterpillar. The fluid manufacturer
+                                                             and customer are responsible.
+Failure to follow the recommendations found in this          When fluids made by other manufacturers are used
+Special Publication can cause engine failures,               on Cat products, the Cat warranty is not affected
+shortened engine service life, and reduced engine            simply because of such use. Failures that result from
+performance.                                                 the installation or usage of other manufacturer fluids,
+In order to avoid potential damage to your Cat               however, are not Cat factory defects and therefore
+engine, only purchase Cat fluids and Cat filters             are NOT covered by the Cat warranty. Cat is not in a
+through your Cat dealer or Cat authorized outlets.           position to evaluate the many fluids promoted by
+For a list of authorized Cat parts outlets in your area,     other manufacturers and their effects on Cat
+                                                             products. Installation or use of such items is at the
+consult your Cat dealer.                                     discretion of the customer who assumes ALL risks for
+                                                             the effects that result from this usage.
+If you purchase what appear to be Cat fluids and/
+or Cat filters through other outlets/sources, you            Different brand oils may use different additive
+are at a very high risk of purchasing counterfeit            packages to meet the various engine performance
+(“look-alike”) products.                                     category/specification requirements. For the best
+                                                             results, do not mix oil brands.
+Counterfeit or “look-alike” products may visually
+appear the same as the original Cat product. The             The overall performance of engine and machine
+product performance and internal quality will typically      compartments is dependent on the choice of the
+be very low.                                                 lubricants and on the maintenance and cleanliness
+                                                             practices. The choices include filtration products,
+Counterfeit or “look-alike” products have a very high        contamination control, tank management, and
+likelihood of causing and/or allowing engine and/or          general handling practices. Cat designed and
+machine compartment damage.                                  produced filtration products offer optimal
+                                                             performance and system protection.
+
+=== ORIGINAL PDF PAGE 6 ===
+6                                                                                            SEBU6250-30
+Maintenance Section
+Lubricant Information
+
+
+In order to obtain additional information on Cat
+designed and produced filtration products, refer to
+Special Publication, SEBU9208, “Caterpillar Filters
+Recommendations”. Also refer to the “Reference
+Material” article, “Filters” and “Miscellaneous” topics
+in this Special Publication. Consult your Cat dealer
+for assistance with filtration recommendations for
+your Cat machine.
+
+Note: Inorder to help ensure the maximum expected
+compartment performance and life, use a fluid that
+meets Cat highest level of fluid performance as
+described in this Special Publication for the
+compartment. Using a fluid that is considered an
+acceptable, but lower performing option for typical
+applications, will provide lower performance.
+
+                        NOTICE
+Faulty engine coolant temperature regulators, or op-
+erating with light loads, short operation cycles, exces-
+sive idling, or operating in applications where normal
+operating temperature is seldom reached can con-
+tribute to excessive water in the crankcase oil. Corro-
+sive damage, piston deposits, increased oil
+consumption, and other damage can result. If a com-
+plete oil analysis program is not followed or if the re-
+sults are ignored, the potential for damage increases.
+Follow engine warmup recommendations provided in
+this Special Publication and/or given in your engine
+Operation and Maintenance Manual.
+
+
+Cat Fluids
+Cat fluids have been developed and tested by Cat to
+optimize the performance and the life of Cat engines
+and machines. The quality of finished oil is
+dependent on the quality of the base stock, the
+quality of the additives and the compatibility of the
+base stock and additives. Cat fluids are formulated of
+high-quality refined oil base stocks and additives of
+optimal chemistry and quantity in order to provide
+high performance in engines and machine
+components. Cat fluids are used for factory fill of Cat
+engines and components and are offered by Cat
+dealers for service fills and as aftermarket products.
+Consult with your Cat dealer for more information on
+these Cat fluids.
+Cat recommends the use of the following Cat fluids:
+Table 1
+
+                                          Cat Lubricants                          Viscosity Grade
+                                                                                    SAE 15W-40
+                                                              Cat DEO-ULS
+    Diesel Engine Oil-Ultra Low Sulfur (1)(2) (API                                  SAE 10W-30
+                      CK-4)                                 Cat DEO-ULS SYN         SAE 5W-40
+                                                           Cat DEO Cold Weather     SAE 0W-40
+
+
+
+                                                                                                    (continued)
+
+=== ORIGINAL PDF PAGE 7 ===
+SEBU6250-30                                                                                                            7
+                                                                                                    Maintenance Section
+                                                                                                    Lubricant Information
+
+
+(Table 1, contd)
+
+                                           Cat Lubricants                                    Viscosity Grade
+
+               Diesel Engine Oil (1)                                                            SAE 15W-40
+                                                                    Cat DEO
+             (API CI-4/API CI-4PLUS)                                                            SAE 10W-30
+            Multi-Application Engine Oil              Cat MAEO Plus (Non-Cat mixed fleets)      SAE 10W-40
+
+                Pre Combustion Oil                                  Cat PCO                        SAE 40
+                                                                                                  SAE 10W
+                                                                    Cat TDTO                       SAE 30
+
+            Transmission/Drive Train Oil                                                           SAE 50
+
+                                                                 Cat TDTO-TMS                    Multigrade
+
+                                                             Cat TDTO Cold Weather               SAE 0W-20
+        Special Application Transmission Oil                        Cat SATO                     Multigrade
+
+           Automatic Transmission Fluid                           Cat ATF-HD2                Multigrade Synthetic
+
+                                                                   Cat FDAO                        SAE 60
+              Final Drive and Axles Oil
+                                                                 Cat FDAO SYN                    Multigrade
+
+                                                                                                SAE 80W-90
+                                                                     Cat GO
+                                                                                                SAE 85W-140
+                                                                Cat Synthetic GO                SAE 75W-140
+                      Gear Oil
+                                                              Cat Marine POD GO                 SAE 75W-90
+                                                               Cat Compactor Oil                  ISO 220
+
+                                                                     Cat GO                       ISO 220
+                                                                                                  SAE 10W
+                                                              Cat HYDO Advanced                   SAE 20W
+                    Hydraulic Oil
+                                                                                                   SAE 30
+                                                        Cat Bio HYDO Advanced (HEES)          ISO 46 Multigrade
+
+              Multipurpose Tractor Oil                              Cat MTO                     SAE 10W-30
+(1)   Cat engine oils exceed the performance requirements of the respective API categories
+(2)   These oils have changed from API CJ-4 to API CK-4 early in 2017
+
+Note: Additional Cat fluids may be available. Some
+specialized oils are available in limited regions
+globally. Refer to your Cat dealer for oil availability.
+Note: Cat offers Special Application Engine Oil
+(SAEO), of SAE 30 and SAE 40 viscosity grades that
+fullfills all the requirements of API CF category oil.
+These oils are recommended for use in 3116 and
+3126 marine engines only.
+
+Note: Cat offers a Diesel Engine oil (DEO), SAE 40,
+that fulfills all the requirements of API CF category for
+use in Cat 3600 engine models only. Refer to Special
+Publication, SEBU7003.
+
+=== ORIGINAL PDF PAGE 8 ===
+8                                                                                                                       SEBU6250-30
+Maintenance Section
+Engine Oil
+
+
+Table 2
+                                                        Cat Grease products
+                                                                                      Cat Utility Grease
+
+                                                                                Cat Prime Application Grease
+
+                                                                               Cat Extreme Application Grease
+
+                                                                           Cat Extreme Application Grease - Desert
+                       Grease
+                                                                   Cat Extreme Application Grease - Arctic (Semi-Synthetic)
+
+                                                                                   Cat Ball Bearing Grease
+
+                                                                                 Cat White Assembly Grease
+
+                                                                                     Cat Hammer Paste
+
+
+Table 3
+                                                   Cat Engine Coolant Products
+               Cat Extend Life Coolants and Extenders                              Cat Extended Life Coolant (Cat ELC)
+
+                                                                                    Cat Extended Life Inhibitor (Cat ELI)
+
+                                                                              Cat Extended Life Extender (Cat ELC Extender)
+
+    Cat Conventional Coolants and Supplemental Coolant Additives                   Cat Diesel Engine Antifreeze Coolant
+
+                                                                                 Cat Supplemental Coolant Additive (SCA)
+
+
+Note: Cat fluids availability will vary by region.                     Note: The optimal application of the lubricants is
+                                                                       dependent on the oil quality and the maintenance
+This information applies to Cat machines. For more                     practices such as contamination control, tank
+lubricant recommendations see the following Special                    management, and general handling practices.
+Publications:
+
+• Special Publication, SEBU6251, “Caterpillar                                                                                 i08154578
+  Commercial Diesel Engine Fluid
+  Recommendations”                                                     Engine Oil
+• Special Publication, SEBU6385, “Caterpillar On-                      (Cat Machine Diesel Engines)
+  Highway Diesel Engine Fluids Recommendations”                        SMCS Code: 1348; 7581
+• Special Publication, SEBU6400, “Caterpillar Gas                      Engine lubricants play multiple roles in engines.
+  Engine Fluids Recommendations”                                       Appropriate lubricants offer the following:
+• Special Publication, SEBU7003, “Caterpillar 3600                     • Provide lubrication to the moving components of
+  Series and C280 Series Diesel Engine Fluids                            the engine under a wide range of temperatures
+  Recommendations”                                                       and pressures
+Always consult your Cat dealer to ensure that you                      • Keep the engine components clean and remove
+have the current revision level of the publication.                      wear debris
+
+                                                                       • Remove heat from the lubricated components
+                                                                       • Neutralize acidic products due to combustion
+                                                                         process
+                                                                       • Protect the engine from cavitation and foaming
+                                                                       • Protect the engine from corrosion and rust
+
+                                                                       • Control Oil Consumption
+                                                                       • Disperse/Solubilize Contaminants (soot)
+
+=== ORIGINAL PDF PAGE 9 ===
+SEBU6250-30                                                                                                   9
+                                                                                        Maintenance Section
+                                                                                  Cat Machine Diesel Engines
+
+
+• Support the regulated engine emissions limits           Cat Diesel Engine Oils
+Current lubricant formulations are more advanced
+                                                          Recommendations
+and complex than older formulations. Current
+lubricants are developed to support advanced engine       Cat DEO-ULS and Cat DEO multigrade oils are the
+technologies as well as those with lower emissions        preferred and recommended oils for use in ALL Cat
+while supporting the performance and durability of        diesel engines that are covered by this Special
+these engines. At the same time, these oils are           Publication. Commercial alternative diesel engine oils
+backwards compatible and protect older engines.           are, as a group, second choice oils. Refer to Table 5
+                                                          below for information.
+Cat high-performance oils are produced and
+validated using industry standard tests, internal
+proprietary tests, field tests, and often prior
+experience with similar formulations. The American
+Petroleum Institute (API) categories describe the key
+industry standards that set the minimum acceptable
+performance for engine oils. Other global standard
+setting organizations may also develop common
+standards, for example the European ACEA oil
+specs. Cat high quality and high-performance
+lubricants are validated based on these factors.
+Use the recommended engine oils as provided in this
+special publication to provide optimal engine
+performance and life and comply with regulated
+emission reductions. Due to the significant variations
+in the quality and performance of commercially
+available oils on a global basis, Cat recommends the
+use of Cat oils as detailed in this article.
+
+Cat Diesel Engine Oils
+Cat fluids have been developed and tested by
+Caterpillar to provide the full performance and
+service life that has been designed and built into Cat
+engines. The quality of finished oil is dependent on
+the quality of the base stock, the quality of the
+additives, and the compatibility of the base stock and
+additives. Cat fluids are formulated of high-quality
+refined oil base stocks and additives of optimal
+chemistry and quantity in order to provide high
+performance in engines and machine components.
+Cat fluids are used for factory fill of Cat engines and
+components and are offered by Cat dealers for
+service fills and as aftermarket products. Consult
+your Cat dealer for more information on these Cat
+fluids.
+Cat recommends the use of the lubricants given in
+Tables 1 and 9 in diesel engines covered by this
+Special Publication.
+This information applies to Cat machine engines. For
+more lubricant recommendations refer to other SEBU
+publications listed earlier in this Chapter.
+Note: The optimal application of the lubricants is
+dependent on the oil quality and the maintenance
+practices. Such practices include contamination
+control, oil tank management and general handling
+practices.
+
+=== ORIGINAL PDF PAGE 10 ===
+10                                                                                                                        SEBU6250-30
+Maintenance Section
+Cat Machine Diesel Engines
+
+
+Table 4
+                                                Cat Engine Lubricants Recommendations
+                   Engines with aftertreatment devices(1)                               Required: Cat DEO-ULS (API CK-4)
+
+                                                                           Commercial (second-class) oils: API CK-4; Cat ECF-3/API CJ-4
+
+                  Engines without aftertreatment devices                 Recommended oils: Cat DEO-ULS (API CK-4); Cat DEO (API CI-4/
+                                                                                                API CI-4 PLUS)
+
+                                                                           Commercial (second class) oils: API CK-4; Cat ECF-3/API CJ-4,
+                                                                                                Cat CF-2/API CI-4
+(1)   For details, refer to Recommendations for US EPA Tier 4 Certified Nonroad Engines and Recommendations for Europe Stage V Certified
+      Nonroad Engines
+
+Note: Cat DEO-ULS (API CK-4) oil is backwards                               • 0.4 percent sulfur maximum
+compatible and can be used in all engines with some
+restrictions related to fuel sulfur level, refer to Table 4                 These chemical limits were developed to support the
+for more details. Cat DEO (API CI-4/API CI-4 PLUS)                          expected aftertreatment devices life, performance,
+can be used in engines that are Tier 3 emissions                            and service intervals. Use of oils other than those
+                                                                            listed in this section of this special publication in
+certified and prior, and in engines that do not use                         aftertreatment equipped engines can negatively
+aftertreatment devices.                                                     impact performance of the aftertreatment devices,
+Caterpillar has released a new Cat diesel engine oil,                       can contribute to Diesel Particulate Filter (DPF)
+Cat DEO-ULS that is per the latest API CK-4 heavy                           plugging and/or can cause the need for more
+duty engine oil category. The new Cat DEO-ULS                               frequent DPF ash service intervals.
+replaces the prior Cat oil that was per API CJ-4                            Cat DEO-ULS and Cat DEO are recommended for all
+category, but it is of the same brand name. The new                         non-Tier 4 engines that use Ultra Low Sulfur Diesel
+Cat has the following characteristics:                                      (ULSD) or Low Sulfur Diesel (LSD) fuels. Cat DEO is
+                                                                            recommended for engines using fuels of sulfur levels
+• Improved oxidation stability (per ASTM D8048).                            that exceed 0.2 percent (2000 ppm). Cat DEO-ULS
+                                                                            may be used in these applications if an oil analysis
+• Improved air release (Per ASTM D8047).                                    program is followed. The oil change interval may be
+• Improved used oil shear stability per tighter                             affected by the fuel sulfur level. Refer to Table 6 in
+                                                                            this section of this Special Publication.
+  specification limits.
+                                                                            Cat DEO-ULS is formulated with 1000 ppm (parts per
+• Preserved the same level of phosphorous, 1000                             million) (mg/kg) phosphorous level to ensure
+  ppm (parts per million) (mg/kg), to ensure                                achieving long hour engine durability goals.
+  achieving long hour engine durability goals
+                                                                            Cat diesel engine oils, DEO-ULS and Cat DEO are
+• Same chemical limits as API CJ-4 oil category,                            rigorously tested with full-scale proprietary Cat
+  designed for use in engines with aftertreatment                           engine tests to ensure optimal protection of Cat
+  devices.                                                                  diesel engines. The tests include the following:
+                                                                            sticking of the piston rings, piston deposits, oil control
+Note: The new API FA-4 Heavy Duty Engine Oil                                tests, wear tests and soot tests. Proprietary tests
+Category is NOT allowed in Cat engines. API FA-4 is                         help ensure that Cat oils provide superior
+a special low High Temperature High Shear (HTHS)                            performance in Cat diesel engines.
+viscosity oil that is designed for certain 2017 and later
+On-Highway engine models.                                                   There are significant variations in the quality and
+                                                                            performance of commercially available oils. For this
+Note: Each of the Cat ECF specifications provides                           reason, Cat recommends the Cat oils listed in Table 4
+increased performance over lower Cat ECF                                    and the guidelines in Table 4.
+specifications. For example, Cat ECF-3 provides
+higher performance than Cat ECF-2 and Cat ECF-3
+provides much higher performance than Cat ECF-1-
+a. Refer to Table 6 for details.
+The engine oils recommended/required for Tier 4
+certified engines are formulated with limited ash and
+chemical limits:
+
+• 1 percent sulfated ash maximum
+• 0.12 percent phosphorous maximum
+
+=== ORIGINAL PDF PAGE 11 ===
+SEBU6250-30                                                                                                    11
+                                                                                          Maintenance Section
+                                                                                    Cat Machine Diesel Engines
+
+
+                                                           Cat DEO-ULS (API CK-4) is compatible for use in
+                        NOTICE                             engines with aftertreatment devices. Refer to the
+Do not use single grade API CF oils or multigrade
+API CF oils in Cat Series 3500, Series C175and smaller     appropriate section in this article for details.
+Direct Injection (DI) diesel engines. Single grade API
+CF oils (or oils that meet all the performance require-    Consult your Cat dealer for part numbers and for
+ments of API CF category) may only be used in Cat          available sizes of containers.
+Series 3600 and Series C280 diesel engines, and older
+                                                           Note: API oil category CF is obsolete. The API
+Cat engines that have precombustion chamber (PC)
+fuel systems. Oils that are used in Cat Series 3600        (American Petroleum Institute) does not license this
+and Series C280 diesel engines must also pass a            category effective end of 2010. API does not validate
+7000 our field performance evaluation. Consult your        the quality of API CF oils and does not allow the
+Cat dealer for details                                     display of API symbol (also called API doughnut) with
+                                                           CF as highest claim on the oil container. Oils that
+                                                           claim the requirements of API CF can be used ONLY
+Cat diesel engine oils are formulated with the optimal     in Cat Series 3112 and Cat Series 3126 Marine
+amounts and chemistry of various additives including       Engines and in 3600 engine models per the OMM of
+detergents, dispersants, antioxidants, alkalinity,         these engines. Refer to the details given in the
+antifoam, viscosity modifiers, and others. These oils      Marine engine section in this Special Publication.
+have been proven in internal tests and in the field to
+provide superior performance in Cat diesel engines
+where recommended for use.                                 Recommendation for US EPA Tier 4
+Cat DEO-ULS and Cat DEO are multigrade oils.               Certified Nonroad Engines
+Refer to Table 1 in this article for details. Multigrade
+oils provide the correct viscosity for a broad range of    All diesel engines with aftertreatment devices are
+operating temperatures. Multigrade oils provide the        REQUIRED to use specially formulated engine oils
+appropriate oil film thickness for moving engine           and specific diesel fuels. The engine categories that
+components such as piston, ring and liners, bearings,      are certified per the emissions regulations listed
+valve train and others.                                    below commonly have aftertreatment devices:
+
+Mixed fleets: Cat diesel engine oils exceed many of        • United States Environmental Protection Agency
+the performance requirements of the corresponding            (EPA) Tier 4 Nonroad
+API categories and of other manufacturers of diesel
+engines. Therefore these oils are excellent choices        • European Union Stage IIIB, IV, and V, Nonroad
+for many mixed fleets. Refer to the engine
+manufacturer literature for the recommended                • Japan 2014 (Tier 4) Nonroad
+categories/specifications. Compare the categories/
+specifications to the specifications of Cat diesel         • Korea Tier 4 Nonroad
+engine oils. The current industry standards for Cat
+diesel engine oils are listed on the product labels.       • India Bharat Stage IV for Construction Equipment
+                                                             Vehicles
+Also, refer to the datasheets for the product for
+technical details.                                         • China Nonroad Stage IV
+Non-EPA certified engines: Cat DEO-ULS and Cat             Engine Oils
+DEO are recommended for all pre-Tier 4 engines that
+use Ultra Low Sulfur Diesel (ULSD) or Low Sulfur
+Diesel (LSD) fuels. Cat DEO is recommended for             The REQUIRED engine oils are listed below. These
+engines using fuels of sulfur levels that exceed 0.2       oils are developed with restricted ash level and
+                                                           chemical limits that are suitable for use in engines
+percent (2000 ppm). Cat DEO-ULS may be used in
+these applications if an oil analysis program is           with aftertreatment.
+followed. The oil change interval may be affected by       • Cat DEO-ULS (preferred)
+the fuel sulfur level. Refer to the Oil Analysis and Cat
+S.O.S. Services section of this Special Publication.       • API CK-4 engine oil category
+Tier-4 certified engines: Use appropriate lubricating      • Oils meeting the Cat ECF-3 specification
+oils that are compatible with the engine certification
+and aftertreatment system and with the fuel sulfur         • API CJ-4 engine oil category
+levels. Refer to the oil recommendations for Tier 4
+certified engines in this Chapter, to “Diesel Fuel         • ACEA E9
+Sulfur Impacts” article of the “Fuels Specifications”
+section and to “Lubricants Specifications” section of
+this Special Publication.
+
+=== ORIGINAL PDF PAGE 12 ===
+12                                                                                                  SEBU6250-30
+Maintenance Section
+Cat Machine Diesel Engines
+
+
+Note: Note that ACEA E9 oils are validated using           Regulations may vary around the world. Follow all
+some but not all ECF-3 and API CJ-4 standard               the local regulations and fluids requirements in your
+engine performance tests. Consult your oil supplier        area. Refer to your engine-specific Operation and
+when considering use of an oil that is not API CK-4,       Maintenance Manual, and refer to your
+Cat ECF-3 or API CJ-4 qualified.                           aftertreatment device documentation, if available, for
+                                                           additional guidance.
+The chemical limits are detailed in the Section titled
+“Cat Diesel Engine Oils Recommendations, and Cat”                                  NOTICE
+of this chapter                                            Do not add new engine oil, waste engine oil or any oil
+                                                           product to the fuel unless the engine is designed and
+Diesel Fuels                                               certified to burn diesel engine oil (for example Cater-
+                                                           pillar ORS designed for large engines). Caterpillar ex-
+The diesel fuels REQUIRED by regulations for use in        perience has shown that adding oil products to Tier 4
+engines that are certified to nonroad emissions            engine fuels (U. S. EPA Tier 4 certified), to Euro IV/
+standards listed above and in engines equipped with        Stage IV certified engine fuels, or to the fuels of en-
+exhaust aftertreatment systems are.                        gines equipped with exhaust aftertreatment devices,
+                                                           will generally cause the need for more frequent ash
+• United States Ultra Low Sulfur Diesel (ULSD) fuel        service intervals and/or cause loss of performance.
+  ≤15 ppm (mg/kg) (0.0015 percent) sulfur                  Adding oil products to the fuel may raise the sulfur
+                                                           level of the fuel and may cause fouling of the fuel sys-
+• European ULSD ≤10ppm (mg/kg) (0.0010                     tem and loss of performance.
+  percent) sulfur fuel. This fuel is also called “sulfur
+  free”
+                                                           Recommendation for Europe Stage V
+• Other fuels available around the world that are ≤15
+  ppm (mg/kg) (0.0015 percent) sulfur
+                                                           Certified Nonroad Engines
+
+Certain governments/localities and/or applications         All the recommendations and requirements given in
+MAY require the use of ULSD fuel. Consult federal,         “Recommendation for US EPA Tier 4 Certified
+state, and local authorities for guidance on fuel          Nonroad Engines” section are applicable to the
+requirements for your area.                                Europe Stage V type-approved Nonroad Engines
+
+ULSD fuel or sulfur-free diesel fuels are suitable for     Additionally, for the correct operation of the engine in
+use in all engines regardless of the engine Tier or        order to maintain the gaseous and particulate
+Stage.                                                     pollutant emissions of the engine within the limits of
+                                                           the type-approval, unless specified otherwise in the
+The fuels listed above have to meet the performance        engine-specific Operation and Maintenance Manual,
+levels detailed in the Fuel Information for Diesel         EU Stage V regulations REQUIRE the diesel fuels
+Engines chapter in this Publication. The Fuel              (also called non-road gas oil) used in engines
+Information for Diesel Engines Chapter also includes       operated within the European Union (EU) to have the
+the pertinent recommendations for biodiesel fuels in       characteristics below
+the engines certified to non-road emissions
+standards listed above.                                    • The sulfur content should not be greater than 10
+                                                             mg/kg (20 mg/kg) at point of final distribution
+Diesel Exhaust Fluid (DEF)
+                                                           • The Cetane number should not be less than 45
+This fluid MUST be used in engines that are
+                                                           • The biodiesel (also called Fatty Acid Methyl Ester
+equipped with Selective Catalytic Reduction (SCR)
+systems. DEF must meet all the requirements                  (FAME)) content should not be greater than 8 %
+detailed in the Exhaust Aftertreatment Fluids                volume/volume
+Specification chapter in this Special Publication.
+                                                           Note: Certain Cat engines that are certified per EU
+Aftertreatment systems may include the following:          Stage V can use up to B20 biodiesel blends. Refer to
+                                                           your engine specific Operation and Maintenance
+• Diesel Particulate Filters (DPF)                         Manual.
+• Diesel Oxidation Catalysts (DOC)
+
+• Selective Catalytic Reduction (SCR)
+• Lean NOx Traps (LNT)
+Other systems may apply.
+
+=== ORIGINAL PDF PAGE 13 ===
+SEBU6250-30                                                                                            13
+                                                                                      Maintenance Section
+                                                                                Cat Machine Diesel Engines
+
+
+Follow all the local regulations and fluids             Table 5 below provides details of Cat ECF
+requirements in your area. Refer to your engine-        specifications.
+specific Operation and Maintenance Manual, and
+refer to your aftertreatment device documentation, if
+available, for additional guidance.
+
+Commercial Engine Oil
+Note: Non-Cat commercial oils are, as a group,
+second choice oils. Within this grouping of second
+choice oils there are tiered levels of performance.
+
+                    NOTICE
+Cat does not warrant the quality or performance of
+non-Cat fluids.
+There are significant variations in the quality and
+performance of commercially available oils. For this
+reason, Cat recommends the Cat oils listed in Tables
+1 and 3.
+Caterpillar strongly recommends the use of Cat
+engine oils in Cat engines since these oils are
+developed and optimized for use in these engines.
+When the recommended Cat diesel engine oils are
+not used, commercial oils that are API CK-4 licensed
+and/or meet the requirements of the Cat ECF-1-a,
+Cat ECF-2, and/or the Cat ECF-3 specification are
+acceptable, but second choice, for use in Cat diesel
+engine.
+Oils that are API CJ-4, API CI-4/CI-4 PLUS and API
+CH-4 licensed, and do not meet any Cat ECF
+specification are, as a group, third choice.
+Cat diesel engine oils exceed many of the
+performance requirements of Cat ECF specifications
+and of API categories.
+Oils that meet only API CI-4/CI-4 PLUS and/or API
+CH-4 categories and that have not met the
+requirements of at least one Cat ECF specification
+may cause reduced engine life.
+
+Note: API FA-4 oils are NOT allowed for use in Cat
+engines. These oils are designed for use in certain
+2017 On-Highway engine models.
+API CK-4 oils exceed the performance requirements
+of prior API categories. Cat developed the Engine
+Crankcase Fluid (ECF) specifications to ensure the
+availability of minimum acceptable performance
+commercial diesel engine oils. The three Cat ECF
+specifications: Cat ECF-1-a, Cat ECF-2 and Cat
+ECF-3 are described in Table 5. These specifications
+require more engine tests than the corresponding
+API categories.
+Each higher Cat ECF specification provides
+increased performance over lower Cat ECF
+specifications. For example, Cat ECF-3 provides
+higher performance than Cat ECF-2 and Cat ECF-3
+provides much higher performance than Cat ECF-1-
+a. Refer to Table 5 for details.
+
+=== ORIGINAL PDF PAGE 14 ===
+14                                                                                                                              SEBU6250-30
+Maintenance Section
+Cat Machine Diesel Engines
+
+
+Table 5
+                                              Cat Engine Crankcase Fluids (ECF) Definitions
+
+      Cat Minimum Performance Requirements for Commer-                                 Cat ECF Specifications Requirements
+                          cial Oils
+                                     (1)                                             API CK-4 Oil Category performance requirements
+
+                                 Cat ECF-3                                           API CJ-4 Oil Category performance requirements
+
+                                 Cat ECF-2                                   API CI-4 / CI-4 PLUS Oil Category performance requirements and
+                                                                            Passing standard Cat C13 engine test per API requirements and sul-
+                                                                                                 fated ash ≤ 1.50 percent
+
+                               Cat ECF-1–a                                  API CH-4 Oil Category performance requirements and: For oils that
+                                                                             are between 1.30 percent and 1.50 percent sulfated ash, passing
+                                                                            one additional Cat 1P SCOTE test (“ASTM D6681”) is required and
+                                                                                                sulfated ash ≤ 1.50 percent
+(1)   Caterpillar did not develop an ECF external specification for API CK-4. Cat DEO-ULS API CK-4 oil is specifically developed and validated for
+      Cat engines. The API categories define the minimum common OEM requirements for engine oils
+
+Refer to “Commercial Engine Oil Recommendations”
+and “The Current American Petroleum Institute (API)                                                 NOTICE
+                                                                               Failure to follow these oil recommendations can
+Oil Categories” sections of this chapter for                                   cause shortened engine service life due to deposits
+information on the API categories and corresponding                            and/or excessive wear.
+Cat engine oils.
+Note: Cat diesel engine oils are required to pass
+proprietary full-scale diesel engine testing. The                                                      NOTICE
+                                                                               Do not use single grade API CF oils or multigrade
+testing is above and beyond the testing required by                            API CF oils in Cat Series 3500, Series C175and smaller
+the various Cat ECF specifications and by the                                  Direct Injection (DI) diesel engines. Single grade API
+various API oil categories that are also met. This                             CF oils (or oils that meet all the performance require-
+additional proprietary testing helps ensure that Cat                           ments of API CF category) may only be used in Cat
+multigrade diesel engine oils, when used as                                    Series 3600 and Series C280 diesel engines, and older
+recommended, provide superior performance in Cat                               Cat engines that have precombustion chamber (PC)
+diesel engines. If Cat diesel engine oils are not used,                        fuel systems. Oils that are used in Cat Series Series
+use only commercial oils that meet the                                         3600 and Series C280 diesel engines must also pass a
+recommendations and requirements stated in this                                7000 hour field performance evaluation. Consult your
+section of this Special Publication.                                           Cat dealer for details.
+
+Note: For engines that are Tier 4 EPA certified, refer
+to the Recommendations for Tier 4 Engines article in                           The current API categories represent the minimum
+                                                                               requirements for diesel engine oils. These categories
+this Engine Oil section. Tier 4 EPA certified engines                          are developed in collaboration of OEMs and the Oil
+require specifically formulated oils.                                          and Chemical industries.
+The fuel sulfur level impacts oil drain intervals and                          The current licensed oils are:
+hence the choice of oils. Fuels of sulfur level of >0.2
+percent (2000 ppm) require the use of oils of                                  • API CK-4, released December 2016
+adequate ash content such as Cat DEO oils. Cat
+DEO-ULS is of limited ash content and can be used if                           • API CJ-4, released 2006
+an oil analysis program is followed.
+                                                                               • API CI-4, API CI-4PLUS released 2002
+In selecting oil for any engine application, both the oil
+viscosity and oil performance category/specification                           • API CH-4, released 1998
+as specified by the engine manufacturer must be
+defined and satisfied. Using only one of these                                 Each API category is technically more advanced and
+parameters will not sufficiently define oil for an                             of higher performance than the prior one.
+engine application.
+                                                                               Refer to API 1509 document and/or ASTM D4485 for
+In order to make the proper diesel engine oil viscosity                        details of the API tests requirements and limits.
+grade choice, refer to the “Lubricant Viscosities for
+Ambient Temperatures” table in this Special
+Publication.
+
+=== ORIGINAL PDF PAGE 15 ===
+SEBU6250-30                                                                                                    15
+                                                                                         Maintenance Section
+                                                                                   Cat Machine Diesel Engines
+
+
+Note: Obsolete API oil categories are not licensed by     • For fuel sulfur level of > 0.05 percent to 0.5
+the API and hence are of uncontrolled quality. These        percent (500 ppm to 5000 ppm), SOS services oil
+oils are technically inferior to current oils and can       analysis is strongly recommended to determine oil
+result in reduced engine performance and life. These        drain intervals. Sample the oil every 250 hours
+obsolete oil categories are not allowed in Cat              until a trend is established, then sample as
+engines.                                                    needed.
+API FA-4 is NOT recommended for Cat engines. API          • For fuel sulfur level of > 0.50 percent (>5000
+FA oil is designed with low High Temperature High           ppm), SOS services oil analysis is required to
+Shear (HTHS) viscosity oil for use in certain 2017          determine oil drain intervals. Sample oil every 125
+On-Highway truck engines that have to meet certain          hours until a trend is established, then sample as
+on-road emissions regulations. This category is not         needed.
+backwards compatible.
+                                                          These recommendations apply for Cat DEO-ULS and
+In order to help protect your engine, and in order to     DEO oils.
+help optimize oil drain intervals for engine
+applications and duty cycles, use Cat S·O·S Services      Note: Engine operating conditions play a key role in
+oil analysis. Refer to the section below and to the       determining the effect that fuel sulfur will have on
+section on Cat S·O·S Services given later in the          engine deposits and on engine wear. Refer to the
+Special Publication.                                      Diesel Fuel Chapter in this Special Publication for the
+                                                          impacts of high sulfur in the fuel on engine
+                         NOTICE                           performance and oil service interval and consult your
+Depending on application severity and localized envi-     Cat dealer for guidance when fuel sulfur levels are
+ronmental conditions, and also depending on mainte-
+                                                          above 0.2% (2000 ppm).
+nance practices, operating Direct Injection (DI) diesel
+engines and operating PC (Precombustion Chamber)          The engine oil Total Base Number (TBN) and ash
+diesel engines on fuel with sulfur levels over 0.1 per-   content can impact the oil performance and the oil
+cent (1000 ppm) may require significantly shortened       service interval. Excessive piston deposits can be
+oil change intervals in order to help maintain ad-        produced by oil with a high TBN and/or high ash.
+equate wear protection. Refer to this Special Publica-    These deposits can lead to a loss of control of the oil
+tion, “Fuel Specifications” section, “Diesel Fuel         consumption and to the polishing of the cylinder bore.
+Sulfur” topic for additional information.                 The engine oil TBN can be measured by SOS
+                                                          Services upon special request. However, analysis of
+                                                          used oil for parameters such as oxidation, wear
+Fuel Sulfur Impact on Engine Oil                          metals and other typical S·O·S Services analyses are
+                                                          strong indicators of the condition of the oil and
+The use of Cat S·O·S Services oil analysis is             impacts of fuel sulfur level on its degradation.
+recommended for determining oil life.
+                                                          Refer to Severe Operation Conditions in this Section
+For Caterpillar machines operating under emissions        of this Special Publication.
+regulations such as US EPA Tier4, EU Stage V or
+other emission regulations controls, the maximum          Consult a trained S·O·S Services analyst when
+fuel sulfur level permitted by regulations in the US is   making oil drain decisions based on oil sample
+0.0015% or 15 ppm. Maximum permitted fuel sulfur          results.
+levels in other emissions regulated countries may
+                                                          Note: Do NOT use only this Special Publication as
+vary from .0015% or 15 ppm slightly and must be
+followed.                                                 a basis for determining oil drain intervals.
+
+In order to help protect your engine and optimize oil     This Special Publication does not address
+drain intervals for engine applications and duty          recommended oil drain intervals, but rather provides
+cycles, it is important to use SOS Services oil           guidance that should be used with your specific
+analysis to determine if the sulfur has degraded the      engine/machine Operation and Maintenance
+oil. Use Cat S·O·S Services oil analysis per the          Manuals in determining acceptable oil drain intervals.
+following general guidelines:
+                                                          Consult your engine/machine Operation and
+• Recommended normally                                    Maintenance Manuals, and consult your Cat dealer
+                                                          for additional guidance, including but not limited to
+• For fuel sulfur level up to 0.05 percent (500 ppm),     guidance on establishing optimized and/or
+  no additional sampling is required. Follow the          acceptable oil drain intervals.
+  recommended oil sampling in the machine OMM             Note: The use of Cat S·O·S Services oil analysis
+                                                          helps environmental sustainability as the best way to
+                                                          optimize oil life, and help engines reach expected life.
+
+=== ORIGINAL PDF PAGE 16 ===
+16                                                                                                  SEBU6250-30
+Maintenance Section
+Cat Machine Diesel Engines
+
+
+Consult your Cat dealer regarding the testing              • Frequent operation with inlet air which has a
+required to establish a safe, optimized oil drain            corrosive content
+interval.
+                                                           • Operation with inlet air which has a combustible
+Severe Applications                                          content
+                                                           • Operation which is outside of the intended
+An engine which operates outside of normal
+conditions is operating in a severe service                  application
+application.                                               • Operation with a plugged fuel filter
+An engine that operates in a severe service
+application may need more frequent maintenance             • Extended operation at low idle (more than 20% of
+intervals in order to maximize the following                 hours)
+conditions:
+                                                           • Frequent cold starts at temperatures below 0° C
+• Reliability                                                (32° F)
+
+• Service life                                             • Frequent dry starts (starting after more than 72
+                                                             hours of shutdown)
+Severe Applications Require the Use of Higher
+Performing Diesel Engine Oils. Examples of                 • Frequent hot shutdowns (shutting down the
+severe duty applications include, but not limited to         engine without the minimum of 2 minutes to 5
+the following:                                               minutes of cool down time)
+• operating at greater than 75% load factor                • Operation above the engine rated speed
+• operating in high humidity                               • Operation below the peak torque speed
+• operating with fuel sulfur levels that are above         • Operating with fuel which does not meet the
+  0.2% (2000 ppm)                                            standards for distillate diesel fuel as stated in
+                                                             Special Publication, SEBU6250, “Caterpillar
+In order to help ensure the maximum expected                 Machine Fluids Recommendations” “Distillate
+compartment performance and life, higher performing          Diesel Fuel”
+fluids as described in this Special Publication may be
+required. Fluids that meet only the minimum                • Operating with a blend of distillate fuel which
+performance levels may result in reduction of                contains more than 20 percent (B20) biodiesel
+maintenance intervals. For the maximum expected
+engine compartment performance and life and where          Improper Maintenance Procedures (Maintenance
+LSD or ULSD fuels are available, Cat DEO-ULS or,           Procedures Which May Contribute to a Severe
+as a second choice, oils meeting the API CK-4 or Cat       Service Application)
+ECF-3 specification must be used.
+                                                           • Inadequate maintenance of fuel storage tanks
+The vast number of varying applications of Cat
+machines and engines makes it impossible to identify         from causes such as excessive water, sediment,
+all the factors which may contribute to severe service       and microorganism growth.
+operation. Consult your Cat dealer for the unique
+maintenance that may be necessary for your engine.         • Extending maintenance intervals beyond the
+                                                             recommended intervals
+An application is a severe service application if any of
+the following conditions apply:                            • Using fluids which are not recommended in
+                                                             Special Publication, SEBU6250, “Caterpillar
+Severe Environmental Factors                                 Machine Fluids Recommendations”
+
+• Frequent operation in dirty air                          • Extending maintenance intervals for changing the
+                                                             engine oil and engine coolant without S·O·S
+• Frequent operation at an altitude which is above           validation
+  1525 m (5000 ft)
+                                                           • Extending maintenance intervals for changing air
+• Frequent operation in ambient temperatures which           filters, oil filters, and fuel filters
+  are above 32° C (90° F)
+                                                           • Failure to use a water separator
+• Frequent operation in ambient temperatures which
+  are below 0° C (32° F)
+Severe Operating Conditions
+
+=== ORIGINAL PDF PAGE 17 ===
+SEBU6250-30                                                                                                      17
+                                                                                            Maintenance Section
+                                                                                                   Hydraulic Oil
+
+
+• Using filters which are not recommended by               Cat HYDO Advanced hydraulic oils are preferred in
+  Special Publication, PEWJ0074, “2008 Cat Filter          most hydraulic systems and in most hydrostatic
+  and Fluid Application Guide” and/or “Caterpillar         systems. Refer to this Special Publication, “Lubricant
+  Filters Recommendations” (SEBU 9208)                     Viscosities”, Table “Hydraulic Systems Lubricant
+                                                           Viscosities for Ambient Temperatures” for the
+• Storing the engine for more than 3 months but less       ambient operating temperatures for Cat HYDO
+  than 1 year (For information about engine storage,       Advanced hydraulic oils.
+  refer to Special Publication, SEHS9031, “Storage
+  Procedure for Caterpillar Products”)                     Cat HYDO Advanced oils allow 6000 hours or
+                                                           higher oil drain intervals for most applications.
+For fuel and coolant analysis and use of SOS               S·O·S Services oil analysis is recommended when
+services, refer to the Diesel Fuel and Coolants            the oil drain interval is increased to 6000 hours or
+chapters in this Special Publication.                      higher. In comparison, non-Cat commercial hydraulic
+                                                           oils (second choice oils), allow for a 2000 hour oil
+                                                           drain interval. Caterpillar recommends following the
+                                               i08315052   maintenance interval schedule for oil filter changes
+                                                           and for oil sampling that is stated in the Operation
+Hydraulic Oil                                              and Maintenance Manual for your machine. Consult
+                                                           your Cat dealer for details.
+SMCS Code: 5095; 7581
+                                                           Cat HYDO Advanced hydraulic oils offer the following
+Applications                                               benefits:
+
+• Hydraulic Systems                                        • Enhanced anti-wear protection: protect wear
+                                                             surfaces and reduce component wear in various
+• Hydrostatic Transmissions                                  hydraulic pumps.
+
+Caterpillar has developed a new class of hydraulic         • Protection against rusting and corrosive wear.
+oils, the HYDO Advanced fluids. These new
+advanced fluids are designed for optimal                   • Dispersion of water prevents pump damage due to
+performance in new advanced hydraulic systems that           water ingestion and prevents system damage due
+are designed with close tolerances for precise               to freezing of water.
+operation and that operate under demanding
+conditions of temperatures and pressures. These            • 250% increase in oxidation stability per “ASTM
+fluids ensure optimal performance in current and             D943”.
+previous hydraulic systems. Four new products have
+been introduced:                                           • Rapid air release protects against cavitation.
+
+• HYDO Advanced 10, SAE 10W                                • Improved filtration properties help support
+                                                             component cleanliness.
+• HYDO Advanced 20, SAE 20W
+                                                           Cat HYDO Advanced hydraulic oils should be used to
+• HYDO Advanced 30, SAE 30                                 achieve maximum life and maximum performance
+                                                           from hydraulic system components and from
+• Bio HYDO Advanced, Multigrade                            hydrostatic transmissions. To gain the most benefit
+                                                           from the improved performance designed into Cat
+Cat HYDO Advanced Hydraulic                                HYDO Advanced oils, when switching to Cat HYDO
+                                                           Advanced oils, cross contamination with the previous
+Oils, SAE 10W, SAE 20W, and SAE                            hydraulic oil should be kept to less than 10%.
+30                                                         If a different viscosity is required due to ambient
+                                                           temperatures, the following Caterpillar oils can be
+Cat HYDO Advanced hydraulic oils are designed to
+                                                           used:
+provide extended oil drain intervals and to provide
+extra protection to Cat hydraulic system components        • Cat DEO-ULS and Cat DEO
+and hydrostatic transmissions.
+                                                           • Cat DEO-ULS SYN and Cat DEO SYN
+Cat HYDO Advanced hydraulic oils are formulated of
+premium additives and premium base stocks that             • Cat DEO Cold Weather
+pass severe qualification testing requirements, in the
+field and in the laboratory, to provide superior           • Cat TDTO
+protection for Cat hydraulic systems.
+                                                           • Cat TDTO Cold Weather
+
+                                                           • Cat TDTO-TMS
+
+=== ORIGINAL PDF PAGE 18 ===
+18                                                                                                 SEBU6250-30
+Maintenance Section
+Hydraulic Oil
+
+
+• Cat MTO                                                  Cat Bio HYDO Advanced is formulated with premium
+                                                           additives and synthetic biodegradable base oil that
+Note: Oil drain intervals of the oils listed above are     pass severe qualification testing requirements to
+less than the intervals of Cat HYDO Advanced oils.         provide superior protection for Cat hydraulic systems
+The oil drain intervals of the listed oils are typically   and hydrostatic transmissions.
+2000 hours and up to a maximum of 4000 hours. An
+exception is Cat TDTO Cold Weather oil, which              Cat Bio HYDO Advanced oils allow 6000 hours or
+                                                           higher oil drain intervals for most applications.
+allows for a 6000 hour oil drain interval or higher.       S·O·S Services oil analysis is recommended when
+S·O·S Services oil analysis is required when the oils      the oil drain interval is increased to 6000 service
+listed above are used in Cat hydraulic system              hours or higher. In comparison, non-Cat commercial
+components and hydrostatic transmissions.                  biodegradable hydraulic oils (second choice oils)
+                                                           allow for a maximum 2000 hour oil drain interval.
+Note: Caterpillar oil availability will vary by region.    Follow the maintenance interval schedule for oil filter
+                                                           changes and for oil sampling that is stated in the
+Fire resistant hydraulic Fluids                            Operation and Maintenance Manual for your
+                                                           machine. Consult your Cat dealer for details.
+For applications requiring the use of fire-resistant
+hydraulic fluids, Caterpillar recommends the use of        Cat Bio HYDO Advanced performs similar to Cat
+water-free hydraulic fluids that are Per "DIN 24317        HYDO Advanced 10 and offers the following benefits:
+and "ISO 12922" specifications. These fluids include       superior protection against mechanical wear,
+HFDR, HFDU (ester based), HFDU (anhydrous                  foaming, and corrosion in hydraulic systems and in
+glycol based) and others per the specs given above.        hydrostatic transmissions. This oil should be used to
+Water-based hydraulic fluids are not recommended           achieve maximum life and maximum performance
+for use in Cat machine hydraulic systems. The              from hydraulic system components and from
+acceptable water-free, fire-resistant hydraulic fluids     hydrostatic transmissions. Cat Bio HYDO Advanced
+are available as ISO 46 and 68 viscosity grade             is preferred in most hydraulic systems and in most
+products. For more information and questions               hydrostatic systems when ambient temperature is
+regarding compatibility and conversion, refer to the       between −30° C (−22° F) and 45° C (113° F).
+product information provided by manufacturers of           Consult your Caterpillar dealer for details.
+fire-resistant hydraulic fluids.
+                                                           To gain the most benefit from the improved
+Food grade hydraulic fluids                                performance designed into Cat Bio HYDO Advanced
+                                                           oils, when switching to Cat Bio HYDO Advanced oils,
+For applications requiring the use of food grade           cross contamination with the previous hydraulic oil
+hydraulic fluid such as for machines operating on          should be kept to less than 3%. Flushing of the
+cattle farms, food processing facilities or others,        hydraulic system is recommended to reduce the
+Caterpillar recommends the use of NSF H1                   cross contamination.
+registered hydraulic fluid that offers high performance
+and protects the hydraulic system under severe             Cat Bio HYDO Advanced can be used in hydraulic
+operating conditions. Food Grade fluids may have to        systems of other Original Equipment Manufacturers
+comply with the Food and Drug Administration               (OEM). Refer to your manufacturer requirements for
+requirements. Refer to the regulations and                 application details.
+requirements in your region. For information
+regarding compatibility, conversion and application
+details, refer to the product information provided by
+the manufacturer of your Food-Grade hydraulic fluid.
+Caterpillar strongly recommend that the hydraulic oil
+user avoid any exposure and make every effort to
+avoid any contact of the hydraulic fluid with the feed
+supply, even if food grade oils are used.
+
+Cat Bio HYDO Advanced
+(Hydraulic Oil)
+Cat Bio HYDO Advanced is biodegradable non-toxic
+hydraulic oil that is recommended for use in hydraulic
+systems when environmental compliance is required
+or desired. Cat Bio HYDO Advanced has a
+renewable content that exceeds 90% and complies
+with the European Eco-Label. Consult Federal, state,
+or local authorities for guidance on hydraulic oils
+environmental requirements in your area.
+
+=== ORIGINAL PDF PAGE 19 ===
+SEBU6250-30                                                                                                      19
+                                                                                           Maintenance Section
+                                                                                     Transmission/Drive Train Oil
+
+
+                                                          Commercial Biodegradable Hydraulic Oil
+                                                          Note: Non-Cat commercial oils that are acceptable
+                                                          for use in most Cat hydraulic and hydrostatic
+                                                          transmission systems are as a group third choice
+                                                          oils. Within this grouping of third choice oils there are
+                                                          tiered levels of performance.
+                                                          Commercial oils that meet the Cat BF-2 specification
+                                                          should be used.
+
+                                                          Note: Oil meeting the Cat BF-2 specification should
+                                                          only be used in hydraulic systems where specifically
+                                                          recommended.
+
+Illustration 1                                g00103844                       NOTICE
+                                                          Cat does not warrant the quality or performance of
+Machines with this symbol are filled with                 non-Cat fluids.
+biodegradable hydraulic oil. This symbol is on the
+hydraulic tank.
+                                                          If Cat oils cannot be used, commercial biodegradable
+                                                          hydraulic oils that meet the Cat BF-2 Performance
+Commercial Oils                                           Requirements should be used. Cat BF-2 replaces
+                                                          Cat BF-1 Performance Requirements. Cat BF-1
+Note: Non-Caterpillar commercial oils that are            Performance Requirements is obsolete.
+acceptable for use in most Cat hydraulic and
+hydrostatic transmission systems are as a group third                             NOTICE
+choice oils. Within this grouping of third choice oils    Do not use commercial oils that meet the BF-2 speci-
+there are tiered levels of performance.                   fication in compartments containing friction material
+                                                          except Hydraulic Excavators. Refer to the machine
+                    NOTICE                                Operation and Maintenance Manual or consult your
+Cat does not warrant the quality or performance of        local Cat dealer for guidance before using commer-
+non-Cat fluids.                                           cial oils that meet the BF-2 specification in Hydraulic
+                                                          Excavators.
+The minimum viscosity for commercial alternative oils
+used in most Caterpillar machine hydraulic systems
+                                                          Biodegradable hydraulic oils are formulated with the
+and in most Cat hydrostatic transmission systems is
+                                                          following components: a saturated HEES (Hydraulic
+6.6 cSt at 100 °C (212 °F) “ASTM D445”.
+                                                          Environmental Ester Synthetic), synthetic base stock,
+If Caterpillar oils cannot be used, oils meeting the      and selected additives. Consult Federal, state, or
+                                                          local authorities for guidance on hydraulic oil
+following commercial specifications can be used in
+                                                          environmental requirements in your area.
+most Cat hydraulic systems and in most Cat
+hydrostatic transmission systems:
+                                                                                                           i08186549
+• Engine oils that meet the Cat ECF-1-a, Cat ECF-
+  2, or Cat ECF-3 specifications and have a               Transmission/Drive Train Oil
+  minimum zinc additive of 0.09 percent (900 ppm)
+                                                          SMCS Code: 3080; 4000-OC; 4070; 7581
+• Biodegradable oils that meet the Cat BF-2
+                                                          Transmission/drive train oils are classified by the Cat
+  specification
+                                                          TO-4 and the Cat TO-4M Performance
+                                                          Requirements. These Performance Requirements
+• TO-4 specification oils that have a minimum zinc        were developed by Caterpillar for use in Cat
+  additive of 0.09 percent (900 ppm)                      Powershift transmissions and in most Cat final
+                                                          drives. Refer to the “Maintenance Section”,
+Note: Industrial hydraulic oils are not                   “Caterpillar Fluids” article for more information on
+recommended for service fill in Caterpillar               Caterpillar fluids and to the Tables in the Lubricants
+hydraulic systems.                                        Viscosity section for the application of these fluids in
+                                                          various Cat machines.
+
+=== ORIGINAL PDF PAGE 20 ===
+20                                                                                               SEBU6250-30
+Maintenance Section
+Transmission/Drive Train Oil
+
+
+                                                          TDTO-TMS is specifically formulated to reduce
+                      NOTICE                              transmission gears wear, improve the performance
+The Cat CD/TO-2 transmission/drive train oil specifi-
+cation has been obsolete since 1990. The obsolete         and efficiency of transmissions in cold weather,
+CD/TO-2 specification is tied ONLY to the also obso-      especially for machines with electronic controls, and
+lete API CD oil category. The “TO-2” oil specification    to ensure long life and excellent performance for
+existed only as CD/TO-2. Specification claims of CF/      gears, bearings, and friction disc materials.
+TO-2, ATF/TO-2, Cat TO-2 and other similar “TO-2”
+claims are not accurate. Caterpillar does not monitor                            NOTICE
+or support the obsolete Cat CD/TO-2 specification.        Cat Transmission oils are formulated for transmis-
+Use of CD/TO-2 oils, or the use of oils claiming to       sions and drive trains only, and should not be used in
+meet “TO-2” in machine compartments where Cat             engines. Shortened engine life will result.
+TO-4 specification oils are required is NOT recom-
+mended and their use is at the user's risk.
+                                                                                 NOTICE
+                                                          Do not use the Cat GO (Gear Oil) or commercial gear
+Applications                                              oil in the machine compartments unless specifically
+                                                          recommended by Caterpillar. The gear oil can cause
+                                                          seals to fail. The seals can also leak. The gear oil
+Transmission/Drive Train oils are recommended for         may not be compatible with friction materials. The oil
+use in Powershift Transmissions, certain Direct Drive
+Transmissions, certain Final Drives, Differentials and    can reduce the efficiency of the transmission and the
+Final Drives, Drive Axles, Transfer Drives, hydrostatic   brake performance.
+drive/hydraulic and certain Electric Drive systems of
+various machines.
+The details of the applications of Transmission/Drive     Cat TDTO-Cold Weather
+Train oils are given in the “Lubricant Viscosity”
+                                                          Cat TDTO Cold Weather is a synthetic lubricant
+section of this Special Publication.
+                                                          blend that provides superior performance and
+                                                          protection in transmissions, torque converters, final
+Cat TDTO (Transmission/Drive                              drives, hydraulics, and/or wet brakes at temperatures
+                                                          down to -40°F (-40°C). The special formulation
+Train Oil)                                                creates optimal friction performance and controls
+                                                          transmission slippage while eliminating clutch
+Cat TDTO exceeds the requirements of the Cat TO-4         glazing. Cat TDTO Cold Weather has excellent
+transmission/drive train oil specification by passing     compatibility with all materials used in Cat machines,
+five more Cat tests.                                      including friction materials, seals, and elastomers.
+Cat TDTO is balanced to give maximum frictional           The outstanding thermal stability and oxidation
+material life in powershift transmissions. Cat TDTO       resistance gives Cat TDTO Cold Weather long drain
+also helps eliminate brake chatter in wet brake           intervals.
+applications in Cat machines. This oil passes the
+requirements for the TO-4 oil specification which         Commercial Transmission/Drive
+includes the frictional requirements and gear wear
+requirements. This oil is offered in several lubricant    Train Oils
+viscosity grades.
+                                                          Note: Non-Caterpillar commercial oils are as a group
+                                                          typically second or third choice oils. Within this
+Cat TDTO-TMS (Transmission/                               grouping of second and/or third choice oils there are
+Drive Train Oil-Transmission Multi-                       typically tiered levels of performance.
+Season)
+                                                                              NOTICE
+Cat TDTO-TMS exceeds the requirements of the Cat          Cat does not warrant the quality or performance of
+TO-4M transmission/drive train oil Performance            non-Cat fluids.
+Requirements by passing additional Cat tests.
+                                                          Commercial oils that are substituted for the Cat
+Cat TDTO-TMS is synthetic multigrade oil that is          TDTO must comply with the requirements of the Cat
+developed to provide optimal performance in               TO-4 or the Cat TO-4M transmission/drive train oil
+transmissions, wet brakes, final drives, and hydraulic    Performance Requirements.
+compartments that must operate in wide range of
+temperatures. Cat TDTO-TMS can be used in Cat
+machine compartments where Cat TO-4 and TO-4M
+oils are recommended. This oil can be used in other
+manufacturer machines that recommend TO-4 or TO-
+4M Performance Requirements oils.
+
+=== ORIGINAL PDF PAGE 21 ===
+SEBU6250-30                                                                                                    21
+                                                                                          Maintenance Section
+                                                                                    Transmission/Drive Train Oil
+
+
+Note: Commercial multigrade oils must meet the            For the wheel loaders filled with SATO, topping off
+requirements of the Cat TO-4M specification to be         with other products from the Cat TDTO family should
+used in transmissions. Multigrade oils that use high      be limited to less than 10% maximum of sump
+molecular weight polymers as viscosity index              capacity. The use of higher viscosity fluids for top-off
+improvers may lose the viscosity effectiveness. This      can adversely affect cold start performance. When
+effectiveness may be lost by the temporary shear of       switching from Cat SATO to Cat TDTO or from Cat
+the polymer viscosity index improver. Permanent           TDTO to Cat SATO, no special compartment flushing
+shear of the polymer viscosity index improver may         or alternative procedures are required. Follow
+                                                          standard oil change procedures as outlined in the
+also occur. These types of multigrade oils are not
+                                                          machine Operation and Maintenance Manual.
+recommended for Caterpillar drive train
+compartments. The Cat TO-4M Performance
+Requirements include a test for the shear stability of    Final Drive and Axle Oil
+multigrade oil.
+                                                          Final Drive and Axle Oils are classified by the Cat
+                                                          FD-1 (Final Drive - 1) oil Performance Requirements.
+Cat SATO (Special Application                             The Cat FD-1 Performance Requirements was
+Transmission Oil)                                         developed by Caterpillar for use in certain highly
+                                                          loaded Cat final drives and axles that do not contain
+                                                          friction material.
+Cat Special Application Transmission Oil (SATO) is
+multi-grade, semi-synthetic oil. This new Cat oil is      Cat FDAO (Final Drive and Axle Oil), Cat FDAO
+introduced for use in all medium wheel loaders for        SYN, or commercial FD-1 are the preferred oil types
+factory fill and service fill.                            to maximize gear and bearing life in machine
+                                                          compartments where recommended for use.
+Cat SATO is applicable in all Medium Wheel Loader,
+including but not limited to the following models:
+                                                          Applications
+• 966K XE, 966M XE, 972M XE (Advanced Power
+  Train Transmission)                                     Final Drive and Axle oils are recommended for use in
+                                                          certain Final Drives, Axles, and Differentials. The
+• 950M, 962M, 966M, 972M, 980M, 982M                      details of the applications of these oils are given in
+  (Powershift Transmission)                               the “Lubricant Viscosity” section of this Special
+                                                          Publication.
+Note: Cat SATO should not be used in lower power
+train components including final drives, axles, and       Cat FDAO (Final Drive and Axle
+differentials.
+                                                          Oil)
+Cat SATO offers the following benefits:
+                                                          Cat FDAO is blended specifically for applications with
+• Excellent cold start performance.                       high load and high temperature conditions. In these
+                                                          conditions, the protection of gears and bearings is a
+• Improved oxidation stability compared to the semi-      primary concern. Cat FDAO is the preferred lubricant
+  synthetic base stocks.                                  for Cat final drives and axles that formerly specified
+                                                          Cat TO-4 oils and that do not contain friction
+• Extended oil drain interval for powershift              materials. This oil should not be used in
+  transmissions. The oil drain interval is 2000 hrs for   compartments that contain friction material unless
+  SATO compared to 1000 hrs for TDTO 10 or 30.            Cat FDAO or oil meeting Cat FD-1 (Final Drive oil
+                                                          Performance Requirements - 1) has been specified
+                                                          because these oils do not develop a sufficient friction
+                                                          coefficient to satisfy the requirements of most
+                                                          clutches and brakes.
+                                                          The performance of the Cat FDAO equaled or
+                                                          exceeded the performance of Cat TDTO in 18 of 18
+                                                          tests for the following characteristics:
+                                                          • Gear and bearing protection
+
+                                                          • Physical properties and chemical properties
+                                                          Cat FDAO also has the following qualities:
+                                                          • Compatible with the Cat TDTO oils and the seals
+                                                            for the related compartments
+
+                                                          • Excellent protection against rust
+
+=== ORIGINAL PDF PAGE 22 ===
+22                                                                                                  SEBU6250-30
+Maintenance Section
+Gear Oil
+
+
+• Excellent protection against copper corrosion             The S·O·S oil analysis program is recommended
+                                                            when extending the oil drain intervals.
+• Minimizes foaming
+                                                                                                           i03597902
+• Extended life of the oil due to low rate of oxidation
+• Reduced downtime due to extended oil change               Gear Oil
+  intervals                                                 SMCS Code: 7000; 7551; 7581
+
+Cat FDAO SYN                                                                       NOTICE
+                                                            Do not use the Cat GO (Gear Oil) or commercial gear
+Cat FDAO SYN is a full synthetic, natural multigrade        oil in the machine compartments unless specifically
+(non-viscosity improved) final drive and axle oil that is   recommended by Caterpillar. The gear oil can cause
+designed for operation in a wide temperature range.         seals to fail. The seals can also leak. The gear oil
+Cat FDAO SYN is the preferred oil for extremely cold        may not be compatible with friction materials. The oil
+or hot environments. Cat FDAO SYN exceeds the               can reduce the efficiency of the transmission and the
+requirements of Cat FD-1 specification.
+                                                            brake performance.
+Cat FDAO SYN is the preferred lubricant for Cat off-
+highway truck differentials, front wheels, and final
+drives that operate under high load factors and/or          Applications
+that are operated continuously (multiple shifts per
+day).                                                       Gear oils are recommended for use in certain Direct
+                                                            Drive Transmissions, Differentials, Final Drives,
+Cat FDAO SYN is formulated for optimizing                   Transfer drives, Circle Drives (excavators), and other
+component life and for extending the oil change             applications. The details of the applications of these
+intervals. Cat FDAO SYN use in off-highway truck            oils are given in the “Lubricant Viscosity” section of
+final drives offers the following:                          this Special Publication.
+• Extends the oil drain intervals for off-highway truck
+  final drives as compared to Cat FDAO SAE 60 and           Cat GO (Gear Oil)
+  FD-1 oils as well as Cat TDTO and TO-4 oils
+                                                            Cat GO offers maximum protection against the
+• Increases bearing life and gear life compared to          following damage: scoring of the gear teeth, pitting of
+  the use of Cat FDAO SAE 60 and FD-1 oils as well          the gear teeth and pitting of the parts in roller
+  as Cat Cat TDTO or TO-4 oils                              bearings. Cat GO provides excellent stability under
+                                                            high temperature conditions. Cat GO also has
+The S·O·S oil analysis program is recommended               superior low temperature performance. This oil also
+when extending the oil drain intervals.                     gives protection against rust and corrosion. Some
+                                                            applications require additives for the extreme
+                                                            pressures that can occur at the surfaces/edges of the
+Commercial Final Drive and Axle                             components. For these applications, Cat GO
+Oil                                                         provides the extra protection.
+
+Commercial oils that are substituted for Cat FDAO           When the use of gear oil is specified, use Cat GO or
+must comply with the Cat FD-1 final drive oil               Cat Synthetic GO in order to maximize the
+Performance Requirements.                                   component life.
+Note: Non-Caterpillar commercial oils that meet the                              NOTICE
+Cat FD-1 Performance Requirements are second                Cat GO is not the same as Cat TDTO, and does not
+choice oils.                                                meet Cat TO-4 or TO-4M oil Performance Require-
+                                                            ments. Cat GO or commercial gear oils should not be
+Cat FDAO SYN is formulated for optimizing                   used in compartments that specify Cat TO-4 or TO-
+component life and for extending the oil change             4M oil.
+intervals. Cat FDAO SYN use in off-highway trucks
+final drives offers the following:
+• Extends the oil drain intervals for off-Highway
+  Trucks final drives as compared to Cat TDTO and
+  TO-4 oils
+• Increases bearing life and gear life compared to
+  the use of Cat TDTO or TO-4 oils.
+
+=== ORIGINAL PDF PAGE 23 ===
+SEBU6250-30                                                                                                     23
+                                                                                           Maintenance Section
+                                                                                         Multipurpose Tractor Oil
+
+
+                                                           Cat MTO is multigrade oil that is developed, tested
+                     NOTICE                                and approved by Caterpillar to provide optimal
+Cat GO is not the same as Cat FDAO, and does not
+meet the Cat FD-1 oil Performance Requirements.            protection for components where approved for use.
+Cat GO or commercial gear oil should not be used in        Cat MTO offers the following service qualties:
+compartments that specify Cat FD-1 oil.                    improved braking and clutching, enhanced control
+                                                           and extended life in clutches and wet brakes,
+                                                           superior anti-wear properties, thermal stability, and
+                                                           oxidation resistance for long service life in severe
+Commercial Gear Oils                                       applications.
+
+                    NOTICE                                 Commercial Multipurpose Tractor
+Cat does not warrant the quality or performance of         Oils
+non-Cat fluids.
+Gear lubricants are classified by the API service          Note: Non-Caterpillar commercial multipurpose
+category and by the SAE viscosity grade that is            tractor oils are as a group second choice oils.
+defined in “SAE J306”.
+                                                                               NOTICE
+If the Cat GO or Cat Synthetic GO cannot be used,          Cat does not warrant the quality or performance of
+select a commercial oil that meets the “API GL-            non-Cat fluids.
+5”specification.
+                                                           If Cat MTO is not available, use an oil that meets the
+Note: Non-Caterpillar commercial “API GL-5” gear           “Ford/New Holland M2C134-D” specification. The oil
+oils are as a group second choice oils.                    must also satisfy the requirements of the following
+                                                           commercial machine systems:
+                                               i07925226
+                                                           • Multipurpose tractor transmission
+Multipurpose Tractor Oil                                   • Hydraulic drives on agricultural tractors and on
+SMCS Code: 7000; 7581                                        industrial tractors
+                                                           • Final drives on agricultural tractors and on
+Application                                                  industrial tractors
+Multipurpose Tractor Oils are recommended for use
+in certain Axles, Final Drives, Implement Steering,        Cat Compactor Oil
+Rear Drive Axles, and other applications. The details
+of the applications of these oils are given in the         Cat Compactor Oil is recommended for use in
+“Lubricant Viscosity” section of this Special              compactor vibrator drums and other applications.
+Publication.                                               The details of the applications of these oils are given
+                                                           in the “Lubricant Viscosity” section of this Special
+Cat MTO is multigrade oil that can be used in cold         Publication.
+weather operations. Refer to the “Viscosity Tables” in
+the “Lubricant Viscosities” section of this Special        Cat compactor oil is a premium PAO
+Publication for details.                                   (polyalphaolefin) synthetic gear oil with no viscosity
+                                                           improver. This lubricant has an ISO viscosity grade to
+                                                           220 and a minimum viscosity index of 152. This
+Cat MTO (Multipurpose Tractor Oil)                         lubricant can be used in cold weather operations.
+                                                           Refer to the “Viscosity Tables” in the “Lubricant
+                       NOTICE                              Viscosities” section of this Special Publication for
+Cat MTO is not the same as Cat TDTO, and does not          details.
+meet Cat TO-4 or TO-4M transmission/drive train oil
+specifications. Cat MTO should not be used in com-         Commercial oil for this application should have a full
+partments that specify Cat TO-4 or TO-4M oil.              synthetic base stock with no viscosity improvers and
+                                                           an ISO viscosity grade to 220, and a minimum
+                                                           viscosity index of 150.**
+                     NOTICE
+Cat MTO is not the same as Cat FDAO, and does not          Automatic Transmission Oil
+meet the Cat FD-1 oil specification. Cat MTO should
+not be used in compartments that specify Cat FD-1          Automatic Transmission Oils are classified by the Cat
+oil.                                                       AT-1 (Automatic Transmission - 1) oil Performance
+                                                           Requirements. Caterpillar developed AT-1 for use in
+                                                           automatic transmissions of on-highway trucks and in
+                                                           Caterpillar CX Series on-highway transmissions.
+
+=== ORIGINAL PDF PAGE 24 ===
+24                                                                                                  SEBU6250-30
+Maintenance Section
+Lubricant Viscosities
+
+
+Cat ATF-HD2 automatic transmission fluid is the          Note: Non-Caterpillar commercial oils that meet the
+preferred oil to maximize the life and performance of    Cat AT-1 Performance Requirements are second
+automatic transmissions where recommended for            choice oils.
+use.
+Application                                                                                                i08186555
+
+Automatic Transmission oils are recommended for
+use in automatic transmissions of on-highway trucks
+                                                         Lubricant Viscosities
+and in Caterpillar CX Series on-highway                  SMCS Code: 1000; 7000; 7581
+transmissions. Refer to the Operation and
+Maintenance Manual for information for details.
+                                                         Selecting the Viscosity
+                     NOTICE                              Ambient temperature is the temperature of the air in
+Do not use Cat TDTO fluids in CX Series on-highway
+automatic transmissions.                                 the immediate vicinity of the machine. The
+                                                         temperature may differ due to the machine
+                                                         application from the generic ambient temperature for
+                                                         a geographic region. When selecting the proper oil
+Cat ATF-HD2                                              viscosity for use, review both the regional ambient
+                                                         temperature and the potential ambient temperature
+Cat ATF-HD2 fluid is synthetic automatic                 for a given machine application. Generally, use the
+transmission fluid developed to provide optimal          higher temperature as the criterion for the selection
+performance in Caterpillar CX Series on-highway          of the oil viscosity. Generally, use the highest oil
+transmissions. Cat ATF fluid can be used in              viscosity that is allowed for the ambient temperature
+automatic transmissions that are designed to operate     when you start the machine. Refer to the “Lubricant
+with fluids meeting Cat AT-1 or Dexron-III(H)            Viscosities for Ambient Temperatures” tables for
+Performance Requirements. Consult your Caterpillar       guidance. In cold-weather applications, the preferred
+dealer for Cat ATF-HD2 availability.                     method is to use properly sized machine
+                                                         compartment heaters and a higher viscosity grade
+Cat ATF-HD2 increases the standard oil drain interval    oil. Thermostatically controlled heaters that circulate
+for CX Series on-highway automatic transmission (4
+                                                         the oil are preferred.
+to 6 times) over second choice oils when following
+the maintenance interval schedule for oil filter         The proper oil viscosity grade is determined by the
+changes and for oil sampling that is stated in the
+                                                         minimum ambient temperature (the air in the
+Operation and Maintenance Manual for your
+                                                         immediate vicinity of the machine). Ambient
+particular transmission.
+                                                         temperature is the temperature when the machine is
+Note: Proper warm up procedures should be                started and while the machine is operated. To
+                                                         determine the proper oil viscosity grade, refer to the
+followed when the temperature is less than −23° C        “Min” column in the table. This information reflects
+(−10° F). In order to maintain optimum operating         the coldest ambient temperature condition for starting
+conditions of the bearing components, allow the          a cold machine and for operating a cold machine.
+engine to warm up for about 20 minutes. As an            Refer to the “Max” column in the table to select the oil
+alternative, properly sized transmission heater can      viscosity grade for operating the machine at the
+be installed. Follow all instructions and consult your   highest temperature that is anticipated. Unless
+Caterpillar dealer for cold weather operation of Cat     specified otherwise in the “Lubricant Viscosities for
+CX Series on-highway automatic transmissions.            Ambient Temperatures” tables, use the highest oil
+                                                         viscosity that is allowed for the ambient temperature
+                                                         when you start the machine.
+Commercial Fluids
+                                                         Machines that are operated continuously should use
+For use in Cat CX Series on-highway automatic            oils that have the higher oil viscosity in the final drives
+transmissions, commercial fluids must comply with        and in the differentials. The oils that have the higher
+the requirements of Cat AT-1 specification or the        oil viscosity will maintain the highest possible oil film
+requirements of Dexron-III(H).                           thickness. Refer to this Special Publication, General
+                                                         Information for Lubricants article, Lubricant
+                                                         Viscosities tables, and any associated footnotes.
+                                                         Consult your Cat dealer if additional information is
+                                                         needed.
+
+=== ORIGINAL PDF PAGE 25 ===
+SEBU6250-30                                                                                                         25
+                                                                                                Maintenance Section
+                                                                                                Lubricant Viscosities
+
+
+Note: SAE 0W and SAE 5W oils, where allowed for
+                                                                                   NOTICE
+use in non-hydraulic system compartments, are not            Cat does not warrant the quality or performance of
+recommended for use in machines that are operated            non-Cat fluids and greases.
+continuously and/or are heavily loaded. Refer to the
+“Lubricant Viscosities for Ambient Temperatures”
+tables for guidance. The oils that have the higher oil                              NOTICE
+viscosity will maintain the highest possible oil film        Not following the recommendations found in this Spe-
+thickness. Consult your Cat dealer if additional             cial Publication can lead to reduced performance and
+information is needed.                                       compartment failure.
+Note: Oil viscosity grade selection is also machine
+compartment specific. Some machine models and/or                                   NOTICE
+machine compartments do not allow the use of all             Do NOT use only the oil viscosities when determining
+available viscosity grades. For guidance on selecting        the recommended oil for an engine compartment.
+oil viscosity, refer to the “Lubricant Viscosities for       The oil type (performance requirements) MUST also
+Ambient Temperatures” tables.                                be used.
+Note: Generally, use the highest oil viscosity that is
+available to meet the requirement for the temperature        Note: Some machine models and/or machine
+at start-up.                                                 compartments do NOT allow the use of all available
+                                                             oil viscosity grades.
+                        NOTICE
+Proper oil viscosity AND oil type/specification are re-      Note: Only use the oil type and the specification that
+quired to maximize machine compartment perform-              is recommended for the various machine
+ance and life. Do NOT use only oil viscosity, or only        compartments.
+oil type to determine the machine compartment oil se-
+lection. Using only the oil viscosity or only the oil type   Note: Some machine compartments allow the use of
+to determine a machine compartment oil selection             more than one oil type. For the best results, do not
+can lead to reduced performance and compartment              mix oil types.
+failure. Refer to the “Lubricant Viscosities for Ambient
+Temperatures” tables and to ALL of the associated            Note: Different brand oils may use different additive
+footnotes.                                                   packages to meet the various machine compartment
+                                                             performance specification recommendations. For the
+                                                             best results, do not mix oil brands.
+                        NOTICE
+Not following the recommendations found in the “Lu-          Note: The availability of the various Cat oils will vary
+bricant Viscosities for Ambient Temperatures” tables         by region.
+and associated footnotes can lead to reduced per-
+formance and compartment failure.                            Note: Cat oils are the preferred oils. All other oil
+                                                             types and specifications that are listed in the
+                                                             applicable section are acceptable oils.
+                       NOTICE
+In colder ambient conditions a machine warm-up pro-          The minimum requirements for commercial oils for
+cedure and/or supplemental machine fluid compart-            machine components are provided in Table 6 of this
+ment heat may be required. Machine specific warm-            Special Publication. These requirements apply to all
+up procedures can typically be found in the Operation        the fluids recommendations given in this Special
+and Maintenance Manual for the machine. In addi-             Publication. Commercial oils are, as a group, second
+tion, generic machine warm-up procedures can be              choice oils.
+found in this Special Publication, “Procedures for Ma-
+chines that are Used in Cold Weather - (Generic)”            The factory fill oils for standard configuration
+topic.                                                       machines are indicated in the lubricant
+                                                             recommendations tables, where pertinent. Factory fill
+                                                             information is general and exceptions may exist. For
+                                                             example, machines that are shipped to cold climates
+General Information for Lubricants                           may have other factory fill oils.
+
+The information provided in this “Lubricant                  When you are operating the machine in temperatures
+Viscosities for Ambient Temperatures” article and            below −20°C (−4°F), refer to Special Publication,
+Tables should be used with the information provided          SEBU5898, “Cold Weather Recommendations”. This
+in the “Lubricant Specifications” section                    publication is available from your Cat dealer.
+(Maintenance Section) of this Special Publication.
+

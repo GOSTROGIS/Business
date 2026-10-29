@@ -12,8 +12,9 @@ Keep first drafts and revisions. The change is part of the task, not a trick. Yo
 
 <!-- visual:social-project-1-versions--learner-10 -->
 <figure class="teaching-figure diagram" data-visual="social-project-1-versions--learner-10">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-project-1-versions.svg" alt="Documents A, B and C feed initial work CP-01–04 saved as CP01-budget-v1. The 8 May change card leads to revised work CP-05–06 saved as CP01-budget-v2 while preserving the first work." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Project 1: A training information morning — visual"><img src="../assets/diagrams/social-project-1-versions.svg" alt="Three source documents feed the first project work: A is the current version 2 notice, B the earlier message plus room facts, and C the supplies quote with prices and rules. CP01–CP04 produce CP01-budget-v1. A change card issued 8 May 2027 leads to CP05–CP06 and CP01-budget-v2. The first work is retained and the revision saved." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Process preview: the initial notice versions and your saved-work versions identify different things. Keep the sources and first work, read the later change card, and check and save the revised work. Use the supplied documents to make your own decisions. <a class="visual-original" href="../assets/diagrams/social-project-1-versions.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Three source documents feed the first project work: A is the current version 2 notice, B the earlier message plus room facts, and C the supplies quote with prices and rules. CP01–CP04 produce CP01-budget-v1. A change card issued 8 May 2027 leads to CP05–CP06 and CP01-budget-v2. The first work is retained and the revision saved.</p></details>
 </figure>
 <!-- /visual:social-project-1-versions--learner-10 -->
 
@@ -144,8 +145,9 @@ The project begins with a confirmed group and an initial resource count. Later, 
 
 <!-- visual:social-project-2-stations--learner-10 -->
 <figure class="teaching-figure diagram" data-visual="social-project-2-stations--learner-10">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-project-2-stations.svg" alt="Tablet and printed stations each provide a 20-minute activity. A tablet block divides into ten minutes for learner 1, ten for learner 2, and five for checking, saving and moving, totalling 25 minutes." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Document D: session brief — visual"><img src="../assets/diagrams/social-project-2-stations.svg" alt="Tablet and printed activities each need twenty minutes. A proportional tablet-station bar separates ten minutes controlled by learner 1, ten controlled by learner 2 and five for checking, saving and moving, totalling twenty-five minutes. Each learner needs an individual turn; station time and activity time are different constraints." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Concept schematic: each pair completes both 20-minute activities. Within a tablet block, each learner has ten minutes of control, followed by five minutes for checking, saving and moving. Plan the pair assignments using the case conditions. <a class="visual-original" href="../assets/diagrams/social-project-2-stations.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Tablet and printed activities each need twenty minutes. A proportional tablet-station bar separates ten minutes controlled by learner 1, ten controlled by learner 2 and five for checking, saving and moving, totalling twenty-five minutes. Each learner needs an individual turn; station time and activity time are different constraints.</p></details>
 </figure>
 <!-- /visual:social-project-2-stations--learner-10 -->
 
@@ -254,8 +256,6 @@ Finish with a brief portfolio note: identify an example for each of the nine ski
 | Adaptability | CP-11 implements the changed group and equipment conditions. |
 | Creativity and innovation | CP-12 develops two layouts, selects one and tests its usefulness. |
 
-## Sources and next steps
-
-These are original integrated teaching cases. Their use of contextual tasks, explicit practice, feedback and reflection is informed by SkillPlan’s *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [pp.24–42](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=24). They sample actions within all nine skills; they do not assess every component or assign official proficiency levels.
+## Review your work
 
 Use the [answer guidance](../answers/10-integrated-projects.md) after an attempt as agreed with your instructor. Retain the evidence that best shows your learning, record support conditions and choose a specific next task. A project completed in class is evidence of that project; workplace or everyday transfer needs a separate opportunity and observation.

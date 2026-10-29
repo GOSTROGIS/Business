@@ -73,5 +73,3 @@ The receiver notices that the room is missing rather than guessing it. The sende
 ## CM-18
 
 The adapted message must preserve the three status categories from CM-12, identify the intended next action and allow a question/response. Look for a tested adjustment, such as explicit labels, named objects, clearer responsibility or accessible formatting. The final reflection should identify a new plausible context and a specific strategy, such as separating completed work from approval still needed. Record proposed future transfer separately from the demonstrated classroom exchange.
-
-**Source:** SkillPlan, revised March 2024, [Communication pp.85–91](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=85). Case scripts and response models are original classroom material.

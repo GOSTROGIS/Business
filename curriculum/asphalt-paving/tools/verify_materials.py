@@ -1,4 +1,4 @@
-"""Validate the complete asphalt curriculum packet offline.
+"""Validate the opening asphalt curriculum packet and source library offline.
 
 Run from any directory after build_materials.py. Requires only pypdf from
 tools/requirements.txt plus Python's standard library. This verifies artefact
@@ -26,6 +26,18 @@ from pypdf import PdfReader
 
 
 ROOT = Path(__file__).resolve().parents[1]
+REPOSITORY = ROOT.parents[1]
+HTML_PAGES = (
+    "index.html", "curriculum-map.html", "skills-map.html",
+    "unit-01/index.html", "unit-01/instructor.html", "unit-01/materials/index.html",
+    "unit-01/materials/response-sheet.html", "unit-01/materials/change-card.html",
+    "unit-01/materials/process-cards.html",
+)
+PDF_FILES = (
+    "unit-01/learner-workbook.pdf", "unit-01/instructor-guide.pdf",
+    "unit-01/materials/response-sheet.pdf", "unit-01/materials/change-card.pdf",
+    "unit-01/materials/process-cards.pdf",
+)
 QUESTION_IDS = {f"A1-Q{number:02d}" for number in range(1, 19)}
 SKILLS = (
     "Reading", "Writing", "Numeracy", "Digital", "Problem solving",
@@ -117,7 +129,10 @@ class Verifier:
         entries = json.loads(manifest_path.read_text(encoding="utf-8"))
         if not isinstance(entries, list):
             raise ValueError("sources/manifest.json must contain a list")
-        self.check(len(entries) == 3, "sources", "Source manifest must describe the three supplied PDFs")
+        required = {"STBC-PROFILE-2014", "STBC-OUTLINE-2016", "SKILLPLAN-SFS-2024"}
+        identifiers = [entry.get("source_id") for entry in entries]
+        self.check(required.issubset(identifiers), "sources", "Source manifest must retain the three founding documents")
+        self.check(len(identifiers) == len(set(identifiers)), "sources", "Duplicate source identifiers")
         declared = []
         for entry in entries:
             relative = Path("sources") / entry["file"]
@@ -217,10 +232,11 @@ class Verifier:
                    "A1-Q09 answer key does not contain the $120,000 funding total")
 
     def verify_html(self):
-        for relative in ("index.html", "unit-01/index.html", "unit-01/instructor.html",
-                         "curriculum-map.html", "skills-map.html"):
+        for relative in HTML_PAGES:
             self.require_file(relative, "HTML links")
-        pages = sorted(self.root.rglob("*.html"))
+        # Roadbuilding, specifications and the acquired manual library have their
+        # own checks; this verifier covers build_materials.py's nine outputs.
+        pages = [self.root / name for name in HTML_PAGES if (self.root / name).is_file()]
         self.check(bool(pages), "HTML links", "No generated HTML pages found; run build_materials.py")
         for page in pages:
             parser = Links()
@@ -233,8 +249,8 @@ class Verifier:
                 target = ((self.root / decoded.lstrip("/")) if decoded.startswith("/")
                           else (page.parent / decoded)).resolve()
                 label = f"{page.relative_to(self.root)} -> {reference}"
-                self.check(target.is_relative_to(self.root), "HTML links",
-                           f"Local HTML link escapes the curriculum folder: {label}")
+                self.check(target.is_relative_to(REPOSITORY), "HTML links",
+                           f"Local HTML link escapes the repository: {label}")
                 self.check(target.is_file(), "HTML links", f"Broken local HTML link: {label}")
                 if target.is_file() and target.suffix.casefold() == ".pdf":
                     for raw_page in parse_qs(url.fragment).get("page", []):
@@ -262,10 +278,11 @@ class Verifier:
         return bool(re.search(r"(?:^|file://)(?:/workspace(?:/|$)|/tmp(?:/|$)|/home(?:/|$)|[A-Za-z]:/)", decoded))
 
     def verify_generated_pdfs(self):
-        for relative in ("unit-01/learner-workbook.pdf", "unit-01/instructor-guide.pdf"):
+        for relative in PDF_FILES:
             self.require_file(relative, "generated PDFs")
-        generated = sorted(path for path in self.root.rglob("*.pdf")
-                           if not path.is_relative_to(self.root / "sources"))
+        # Original OEM PDFs and their context chunks can contain intentional blank
+        # pages. They are integrity-checked separately, not treated as authored A1 pages.
+        generated = [self.root / name for name in PDF_FILES if (self.root / name).is_file()]
         self.check(bool(generated), "generated PDFs", "No generated PDFs found")
         for path in generated:
             reader = self.pdf(path)

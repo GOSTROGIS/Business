@@ -1,0 +1,1559 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf
+SOURCE SHA-256: 5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831
+ORIGINAL PDF VIEWER PAGES: 76–100 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 76 ===
+76                                                                                                    M0108394-08
+Operation Section
+Aftertreatment Operation
+
+
+Aftertreatment Operation
+                                               i07682723
+
+
+Selective Catalytic Reduction
+Warning System
+SMCS Code: 1091-WXX; 7400
+The Selective Catalytic Reduction (SCR) system is a
+system used to reduce Nitrogen Oxide (NOx)
+emissions from the engine. Diesel Exhaust Fluid
+(DEF) is pumped from the DEF tank and is sprayed
+into the exhaust stream. The DEF reacts with the
+SCR catalyst to reduce NOx and leaves a nitrogen
+                                                           Illustration 60                                   g03069862
+and water vapor.
+                                                           (1) DEF gauge
+The engine and emissions control system shall be           (A) Low-level warning lamp
+operated, used, and maintained in accordance with
+the instructions provided to the end user to maintain
+the emissions performance of the engine within the
+requirements applicable to the category of the
+engine. No deliberate tampering with, or misuse of
+the engine emissions control system should take
+place. In particular regarding deactivating, or not
+maintaining the SCR system.
+
+                      NOTICE
+Stopping the engine immediately after the engine has       Illustration 61                                   g02852336
+been working under load can result in overheating of       Emission malfunction lamp
+SCR components.
+Refer to the Operation and Maintenance Manual,             Warning Levels
+“Engine Stopping” procedure to allow the engine to
+cool and to prevent excessive temperatures in the          The SCR has three levels of warning. The time that
+turbocharger housing and the DEF injector.                 the system will stay at each warning level depends
+                                                           on the fault detected and the type of software
+                                                           enabled.
+                      NOTICE
+Allow at least 2 minutes after shutting down the en-       Any warning should be investigated immediately.
+gine before you turn the battery disconnect switch to      Contact your Caterpillar dealer if further assistance is
+OFF. Disconnecting the battery power too soon will         required. The system is equipped with an override
+prevent purging of the DEF lines after the engine is       option. If the override option has been used and the
+shutdown.                                                  fault still exists, the engine will be locked in de-rate or
+                                                           shutdown mode.
+
+Note: For information on DEF, refer to this Operation      Definitions
+and Maintenance Manual, “Fluid Recommendations”.
+                                                           • Self-correct Fault condition no longer exists. An
+Warning Strategy                                             active fault code will no longer be active.
+                                                           • Notification Action taken by the system to alert
+The Electronic Control Module (ECM) will be enabled          the operator of pending Inducement.
+with a world-wide warning strategy.
+                                                           • Inducement Engine derates, vehicle speed
+Warning Indicators                                           limits, or other actions intended to prompt the
+                                                             operator to repair or maintain the emission control
+The warning indicators consist of a level gauge for          system.
+the DEF, a low-level lamp for the DEF, an emission
+malfunction lamp, and the application stop lamp.
+
+=== ORIGINAL PDF PAGE 77 ===
+M0108394-08                                                                                                  77
+                                                                                              Operation Section
+                                                                  Selective Catalytic Reduction Warning System
+
+
+• Inducement Categories The Inducements are                • At Level 3 cycling the keyswitch will give 20
+  separated into categories. DEF Levels have                 minutes override at full power, before the
+  inducement fault codes separate from the other             shutdown or idle is triggered. The emission
+  inducement categories. DEF level inducements               malfunction lamp will continue to flash.
+  are based on the DEF level, the other inducement
+  categories are based on escalating time. The
+  escalating time inducements will always have an
+  associated fault code along with the inducement
+  fault code. The associated fault is the root cause.
+  The escalating time inducement fault code is just
+  an indicator of what level of inducement the
+  engine is in. The escalating time inducement fault
+  code also indicates how much time remains until
+  the next level of inducement. There are three
+  inducement categories that will trigger an
+  escalating time inducement fault code.
+
+Note: The associated codes for each of the
+escalating time categories can be found in
+Troubleshooting, SCR Warning System Problem.
+
+• First Time When an escalating time inducement
+  fault code becomes active for the first time.
+
+• Repeat occurrence When any escalating time
+  inducement fault code becomes active again
+  within 40 hours of the first occurrence. Engine
+  must run for 40 hours without tripping any
+  escalating time inducement fault before returning
+  back to first occurrence times.
+
+• Safe Harbor Mode (Worldwide) Safe Harbor
+  Mode is a 20 minute engine run time period. Once
+  in level 3 inducement, the operator can perform a
+  key cycle and the engine will enter Safe Harbor
+  Mode. Safe Harbor Mode can only be
+  implemented once. Safe Harbor Mode is not
+  allowed for DEF level inducements with Worldwide
+  configuration.
+
+                        NOTICE
+It is essential to take prompt action to rectify any in-
+correct operation, use, or maintenance of the emis-
+sions SCR control system in accordance with the
+rectification measures indicated by the warnings
+listed on the following pages.
+
+
+World-Wide SCR Warnings
+• At Level 1 the emission malfunction lamp will be
+  on solid.
+
+• At Level 2 the emission malfunction lamp will
+  flash.
+• At Level 3 the emission malfunction lamp will flash
+  and the stop lamp will activate.
+• At Level 3 the engine may shut down, or operate
+  at 1000 Revolutions Per Minute (RPM).
+
+=== ORIGINAL PDF PAGE 78 ===
+78                                                                                                                                  M0108394-08
+Operation Section
+Selective Catalytic Reduction Warning System
+
+
+
+World-Wide Reduced Performance Setting
+Table 5
+                                                   World-Wide Reduced Performance Setting
+
+                                        Category 1 Fault (Tampering Dosing Interruption and Quality)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+Inducement Time           None                      2.5 Hours               70 minutes               50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat occurrence inducement time will be triggered.
+The override can only be used once
+
+Inducement Time           None                      5 minutes               75 Percent torque        50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    None
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will be
+                                                                                              on solid
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+
+Table 6
+                                                   World-Wide Reduced Performance Setting
+
+                                          Category 2 Fault (Non-Tampering Dosing and Interruption)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+Inducement Time           None                      10 Hours                10 Hours                 50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat occurrence inducement time will be triggered.
+The override can only be used once
+
+Inducement Time           None                      None                    2 Hours                  50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    75 Percent of torque
+
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will be
+                                                                                              on solid
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+
+Table 7
+                                                   World-Wide Reduced Performance Setting
+
+                               Category 3 Fault (Non-Tampering NOx Control Monitoring and Impeded EGR)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+
+
+                                                                                                                                           (continued)
+
+=== ORIGINAL PDF PAGE 79 ===
+M0108394-08                                                                                                                                        79
+                                                                                                                     Operation Section
+                                                                                         Selective Catalytic Reduction Warning System
+
+
+(Table 7, contd)
+Inducement Time           None                      36 Hours                64 Hours                 50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat occurrence inducement time will be triggered.
+The override can only be used once
+
+Inducement Time           None                      None                    5 Hours                  50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    75 Percent of torque
+
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will be
+                                                                                              on solid
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+=== ORIGINAL PDF PAGE 80 ===
+80                                                                                                                                  M0108394-08
+Operation Section
+Selective Catalytic Reduction Warning System
+
+
+
+World-Wide Reduce Time Setting
+Table 8
+                                                       World-Wide Reduced Time Setting
+
+                                        Category 1 Fault (Tampering Dosing Interruption and Quality)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+Inducement Time           None                      2.5 Hours               70 minutes               50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat inducement time will be triggered.
+The override can only be used once.
+
+Inducement Time           None                      5 minutes               5 minutes                50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    None
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will
+                                                                                              activate
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+
+Table 9
+                                                       World-Wide Reduced Time Setting
+
+                                             Category 2 Fault (Non-Tampering Dosing Interruption)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+Inducement Time           None                      5 Hours                 5 Hours                  50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat inducement time will be triggered.
+The override can only be used once.
+
+Inducement Time           None                      None                    1 Hour                   50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    None
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will
+                                                                                              activate
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+
+Table 10
+                                                       World-Wide Reduced Time Setting
+
+                               Category 3 Fault (Non-Tampering NOx Control Monitoring and Impeded EGR)
+
+-                         Normal operation          Level 1                 Level 2                  Level 3                   Override
+
+
+
+                                                                                                                                           (continued)
+
+=== ORIGINAL PDF PAGE 81 ===
+M0108394-08                                                                                                                                        81
+                                                                                                                     Operation Section
+                                                                                         Selective Catalytic Reduction Warning System
+
+
+(Table 10, contd)
+Inducement Time           None                      18 Hours                18 Hours                 50 Percent torque         Cycling the keyswitch
+First Occurrence                                                                                     Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+
+The system must be fault free for 40 hours before the system will reset to zero. If the fault is intermittent, and returns within the 40 hours, then
+the repeat inducement time will be triggered.
+The override can only be used once.
+
+Inducement Time           None                      None                    108 Minutes              50 Percent torque         Cycling the keyswitch
+Repeat Occurrence                                                                                    Shut down or idle         will give 20 minutes
+                                                                                                     Until fault heals         of full power
+Inducement                None                      None                    None
+Notification              None                      Emission malfunction Emission malfunction Emission malfunction             Emission malfunction
+                                                    lamp will be on solid lamp will flash     lamp will flash                  lamp will flash
+                                                                                              The stop lamp will
+                                                                                              activate
+Contact your Caterpillar dealer at level 1 warning, do not let the fault develop.
+
+
+World-Wide DEF Level Warnings
+Two options are available but only one option will be
+enabled.
+
+• The low-level warning lamp will operate when DEF
+  level reaches the trigger point of below 20 percent.
+• At Level 1 the low-level warning lamp in the DEF
+  gauge will illuminate and the emission malfunction
+  lamp will be on solid.
+• At Level 2 the low-level warning lamp for the DEF
+  is active and the emission malfunction lamp will
+  flash.
+• At Level 3 all level 2 warning lamps are active,
+  plus the stop lamp will become active. The engine
+  will shut down or will only operate at 1000 RPM.
+Filling the DEF tank will remove the warning from the
+system.
+Table 11
+                                                          World-Wide DEF Level Option 1
+
+-                        Normal operation          Initial indication       Level 1                  Level 2                   Level 3
+
+Inducement Trigger       Above 19 percent          Below 19 percent         Below 12.5 percent       0 Percent reading         Empty tank
+
+Inducement               None                      None                     None                     Engine may be de-         The engine may be
+                                                                                                     rated by 25 percent       derated by 50 percent
+                                                                                                     torque                    torque.
+                                                                                                                               A shutdown or low
+                                                                                                                               idle only will be en-
+                                                                                                                               forced after 5
+                                                                                                                               minutes.
+Notification             None                      Low-level lamp           Low-level lamp           Low-level lamp            Low-level lamp
+                                                   illuminated              illuminated              illuminated               illuminated
+                                                                            Emission malfunction     Emission malfunction      Emission malfunction
+                                                                            lamp on solid            lamp flashing             lamp flashing
+                                                                                                                               Stop lamp on solid
+
+=== ORIGINAL PDF PAGE 82 ===
+82                                                                                                              M0108394-08
+Operation Section
+Selective Catalytic Reduction Warning System
+
+
+Table 12
+                                               World-Wide DEF Level Option 2
+
+-                    Normal operation   Initial indication    Level 1                Level 2                Level 3
+
+Inducement Trigger   Above 19 percent   Below 19 percent      Below 12.5 percent     6 Percent reading      0 Percent reading
+
+Inducement           None               None                  None                   None                   The engine may be
+                                                                                                            derated by 50 percent
+                                                                                                            torque
+                                                                                                            A shutdown or low
+                                                                                                            idle only will be en-
+                                                                                                            forced after 5
+                                                                                                            minutes.
+Notification         None               Low-level lamp        Low-level lamp         Low-level lamp         Low-level lamp
+                                        illuminated           illuminated            illuminated            illuminated
+                                                              Emission malfunction   Emission malfunction   Emission malfunction
+                                                              lamp on solid          lamp flashing          lamp flashing
+                                                                                                            Stop lamp on solid
+
+=== ORIGINAL PDF PAGE 83 ===
+M0108394-08                                                                                                       83
+                                                                                                Operation Section
+                                                                                           Cold Weather Operation
+
+
+Cold Weather Operation                                      • Achieving operating temperature will help prevent
+                                                              the intake valves and exhaust valves from
+                                                              sticking.
+                                                i08185453
+                                                            • The cooling system and the lubrication system for
+Cold Weather Operation                                        the engine do not lose heat immediately upon
+                                                              shutdown. Therefore an engine can be shut down
+SMCS Code: 1000; 1250                                         for a period of time and the retained heat within
+Caterpillar Diesel Engines can operate effectively in         the engine will allow the engine to start readily.
+cold weather. During cold weather, the starting and
+the operation of the diesel engine depends on the           • Install the correct specification of engine lubricant
+following items:                                              before the beginning of cold weather. Refer to this
+                                                              Operation and Maintenance Manual, “Fluid
+• The type of fuel that is used                               Recommendations” for the recommended
+                                                              viscosity of oil.
+• The viscosity of the engine oil
+                                                            • Check all rubber parts (hoses, fan drive belts)
+• The operation of the glow plugs                             weekly.
+• Optional Cold starting aid                                • Check all electrical wiring and connections for any
+                                                              fraying or damaged insulation.
+• Battery condition
+                                                            • Keep all batteries fully charged and warm by
+• Ambient air temperature and altitude                        ensuring that the engine is allowed to operate at
+                                                              normal operating temperature.
+• Parasitic load of the application
+                                                            • Fill the fuel tank at the end of each shift.
+• Application hydraulic and transmission oil
+  viscosities                                               • Check the air cleaners and the air intake daily.
+Refer to Special Publication, SEBU5898, “Cold-                Check the air intake more often when you operate
+Weather Recommendations for Caterpillar                       in snow.
+Machines”.
+                                                            • Ensure that the glow plugs are in working order.
+This section will cover the following information:            Refer to Troubleshooting, “Glow Plug Starting Aid-
+                                                              Test”.
+• Potential problems that are caused by cold-
+  weather operation
+• Suggested steps which can be taken to minimize            Personal injury or property damage can result
+  starting problems and operating problems when             from alcohol or starting fluids.
+  the ambient air temperature is between
+  0° to−40 °C (32° to 40 °F).                               Alcohol or starting fluids are highly flammable
+                                                            and toxic and if improperly stored could result in
+The operation and maintenance of an engine in               injury or property damage.
+freezing temperatures is complex . This complexity is
+because of the following conditions:
+• Weather conditions
+• Engine applications                                       Do not use aerosol types of starting aids such as
+                                                            ether. Such use could result in an explosion and
+Recommendations from your Caterpillar dealer are            personal injury.
+based on past proven practices. The information that
+is contained in this section provides guidelines for
+cold-weather operation.
+
+Hints for Cold-Weather Operation
+• After starting the engine, the engine speed will be
+  governed for up to a maximum of 60 seconds.
+  After this period, the engine should be operated at
+  low loads until a minimum operating temperature
+  of 80° C (176° F) is achieved.
+
+=== ORIGINAL PDF PAGE 84 ===
+84                                                                                                   M0108394-08
+Operation Section
+Cold Weather Operation
+
+
+• For jump starting with cables in cold weather, refer     While the engine is idling, the application of a light
+  to the Operation and Maintenance Manual,                 load (parasitic load) will help in achieving the
+  “Starting with Jump-Start Cables.” for instructions.     minimum operating temperature. The minimum
+                                                           operating temperature is 80° C (176° F).
+Viscosity of the Engine Lubrication
+Oil                                                        Recommendations for Coolant
+                                                           Warm Up
+Correct engine oil viscosity is essential. Oil viscosity
+affects lubrication properties and wear protection that    Warm up an engine that has cooled below normal
+the oil provides for the engine. Refer to this Operation   operating temperatures due to inactivity. This warm
+and Maintenance Manual, “Fluid Recommendations”            -up should be performed before the engine is
+for the recommended viscosity of oil.                      returned to full operation. During operation in very
+                                                           cold temperature conditions, damage to engine valve
+At temperatures below −10° C (14° F) damage to             mechanisms can result from engine operation for
+engine components can occur if the engine is               short intervals. This damage can happen if the
+allowed to operate at high load and speed                  engine is started and the engine is stopped many
+immediately after starting.                                times without being operated to warm up completely.
+
+Recommendations for the Coolant                            When the engine is operated below normal operating
+                                                           temperatures, fuel and oil are not burned completely
+Provide cooling system protection for the lowest           in the combustion chamber. This fuel and oil causes
+expected outside temperature. Refer to this                soft carbon deposits to form on the valve stems.
+Operation and Maintenance Manual, “Fluid                   Generally, the deposits do not cause problems and
+Recommendations” for the recommended coolant               the deposits are burned off during operation at
+mixture.                                                   normal engine operating temperatures.
+In cold weather, check the coolant often for the           When starting and stopping an engine many times
+correct glycol concentration to ensure adequate            without being operated to warm up completely, the
+freeze protection.                                         carbon deposits become thicker. This starting and
+                                                           stopping can cause the following problems:
+Engine Block Heaters
+                                                           • Free operation of the valves is prevented.
+Engine block heaters (if equipped) heat the engine
+jacket water that surrounds the combustion                 • Valves become stuck.
+chambers. This heat provides the following functions:
+                                                           • Pushrods may become bent.
+• Startability is improved.
+                                                           • Other damage to valve train components can
+• Warm up time is reduced.                                   result.
+
+An electric block heater can be activated once the         For these reasons, when the engine is started, the
+engine is stopped. A block heater can be 120 V ac          engine must be operated until the coolant
+600W or 220 V ac 550W. Consult your Caterpillar            temperature is 80° C (176° F) minimum. Carbon
+dealer for more information.                               deposit on the valve stems will be kept at a minimum.
+                                                           The free operation of the valves and the valve
+                                                           components will be maintained.
+Idling the Engine
+                                                           The engine must be warmed thoroughly to keep
+After starting the engine, the engine speed will be        other engine parts in better condition. The service life
+governed for a maximum period of 60 seconds.               of the engine will generally be extended. Lubrication
+When idling after the engine is started in cold            will be improved. There will be less acid and less
+weather, increase the engine rpm from 1000 to 1200         sludge in the oil. This condition will provide longer
+rpm. This idling will warm up the engine more quickly.     service life for the engine bearings, the piston rings,
+Maintaining an elevated low idle speed for extended        and other parts. However, limit unnecessary idle time
+periods will be easier with the installation of a hand     to 10 minutes to reduce wear and unnecessary fuel
+throttle. The engine should not be “raced” to speed        consumption.
+up the warm-up process.
+
+=== ORIGINAL PDF PAGE 85 ===
+M0108394-08                                                                                                         85
+                                                                                                  Operation Section
+                                                                                                Radiator Restrictions
+
+
+The Water Temperature Regulator and                           If an airflow restriction device must be used, the
+                                                              device should have a permanent opening directly in
+Insulated Heater Lines                                        line with the fan hub. The device must have a
+                                                              minimum opening dimension of at least 770 cm2
+The engine is equipped with a water temperature               (120 in2).
+regulator. When the engine coolant is below the
+correct operating temperature, jacket water circulates        A centered opening that is directly in line with the fan
+through the engine cylinder block and into the engine         hub is specified to prevent an interrupted airflow on
+cylinder head. The coolant then returns to the                the fan blades. Interrupted airflow on the fan blades
+cylinder block via an internal passage that bypasses          could cause a fan failure.
+the valve of the coolant temperature regulator. This
+return ensures that coolant flows around the engine           Caterpillar recommends a warning device for the inlet
+under cold operating conditions. The water                    manifold temperature and/or the installation of an
+temperature regulator begins to open when the                 inlet air temperature gauge.
+engine jacket water has reached the correct
+minimum operating temperature. As the jacket water            • For turbocharged, air to air charge cooled
+coolant temperature rises above the minimum                     engines, the warning device for the inlet manifold
+operating temperature, the water temperature                    temperature should be set at 75 °C (167 °F). The
+regulator opens further allowing more coolant                   inlet manifold air temperature should not exceed
+through the radiator to dissipate excess heat.                  75 °C (167 °F).
+The progressive opening of the water temperature              • For turbocharged engines, the warning device for
+regulator operates the progressive closing of the               the inlet manifold temperature should be set at
+bypass passage between the cylinder block and
+                                                                180 °C (356 °F). The inlet manifold air
+head. This action ensures maximum coolant flow to
+the radiator to achieve maximum heat dissipation.               temperature should not exceed 180 °C (356 °F).
+
+Note: Do not restrict the air flow. Restriction of the air    Temperatures that exceed these limits can cause
+flow can damage the fuel system. Caterpillar                  power loss and potential engine damage.
+discourages the use of all air flow restriction devices
+such as radiator shutters. Restriction of the air flow                                                         i05385898
+can result in the following: high exhaust
+temperatures, power loss, excessive fan usage, and            Fuel and the Effect from Cold
+reduction in fuel economy.                                    Weather
+A cab heater is beneficial in very cold weather. The          SMCS Code: 1000; 1250; 1280
+feed from the engine and the return lines from the
+cab should be insulated to reduce heat loss to the            The following fuels are the grades that are available
+outside air.                                                  for Cat engines:
+
+                                                  i07940051   • NO. 1 is ASTM D975 grade 1D S15
+
+Radiator Restrictions                                         • NO. 2 is ASTM D975 grade 2D S15
+
+SMCS Code: 1353; 1396                                         No. 2 diesel fuel is the most commonly used fuel.
+                                                              Either No. 1 diesel fuel or a blend of No. 1 and No. 2
+Caterpillar discourages the use of airflow restriction        is best suited for cold-weather operation.
+devices that are mounted in front of radiators. Airflow
+restriction can cause the following conditions:               Quantities of No. 1 diesel fuel are limited. No. 1
+                                                              diesel fuels are usually available during the months
+• High exhaust temperatures                                   of the winter in the colder climates. During cold-
+                                                              weather operation, if No. 1 diesel fuel is not available,
+• Power loss                                                  use No. 2 diesel fuel, if necessary.
+
+• Excessive fan usage                                         There are three major differences between No. 1 and
+                                                              No. 2 diesel fuel. No. 1 diesel fuel has the following
+• Reduction in fuel economy                                   properties:
+
+Reducing air flow over components will also affect            • Lower cloud point
+under hood temperatures. Reducing air flow can
+increase surface temperatures during an                       • Lower pour point
+aftertreatment regeneration and could affect
+component reliability.                                        • Lower rating of kJ (BTU) per unit volume of fuel
+
+=== ORIGINAL PDF PAGE 86 ===
+86                                                                                                       M0108394-08
+Operation Section
+Fuel Related Components in Cold Weather
+
+
+When No. 1 diesel fuel is used, a decrease in power          Drain the water and sediment from any fuel storage
+and in fuel efficiency may be noticed. Other operating       tank at the following intervals: weekly, service
+effects should not be experienced.                           intervals and refueling of the fuel tank. This
+                                                             procedure will help prevent water and/or sediment
+The cloud point is the temperature when a cloud of           from being pumped from the fuel storage tank and
+wax crystals begins to form in the fuel. These crystals      into the engine fuel tank.
+can cause the fuel filters to plug. The pour point is the
+temperature when diesel fuel will thicken. The diesel
+fuel becomes more resistant to flow through fuel             Fuel Filters
+pumps and through fuel lines.
+                                                             After you change the fuel filter, always prime the fuel
+Be aware of these values when diesel fuel is                 system to remove air bubbles from the fuel system.
+purchased. Anticipate the average ambient                    Refer to the Operation and Maintenance Manual in
+temperature of the area. Engines that are fueled in          the Maintenance Section for more information on
+one climate may not operate well if the engines are          priming the fuel system.
+moved to another climate. Problems can result due to
+changes in temperature.                                      The micron rating and the location of a primary fuel
+                                                             filter is important in cold-weather operation. The In-
+Before troubleshooting for low power or for poor             line filter, primary fuel filter, and the fuel supply line
+performance in the winter, check the type of fuel that       are the most common components that are affected
+is being used.                                               by cold fuel.
+
+When No. 2 diesel fuel is used, the following                                         NOTICE
+components provide a means of minimizing problems            To maximize fuel system life and prevent premature
+in cold weather:                                             wear out from abrasive particles in the fuel, a four mi-
+                                                             cron [c] absolute high efficiency fuel filter is required
+• Starting aids                                              for all Caterpillar Electronic Unit Injectors. Caterpillar
+                                                             High Efficiency Fuel Filters meet these requirements.
+• Engine oil pan heaters                                     Consult your Caterpillar dealer for the correct part
+                                                             numbers.
+• Engine coolant heaters
+
+• Fuel heaters
+                                                             Fuel Heaters
+• Fuel line insulation
+                                                             Fuel heaters help to prevent fuel filters from plugging
+For more information on cold-weather operation, see          in cold weather due to waxing. A fuel heater should
+Special Publication, SEBU5898, “Cold Weather                 be installed in the fuel system before the electric fuel
+Recommendations”.                                            pump.
+
+                                                 i08298402
+                                                             Note: If so, the temperature of the fuel must not
+                                                             exceed 75° C (167° F) at the electric fuel pump.
+Fuel Related Components in                                   For further information on fuel heaters, consult your
+Cold Weather                                                 Caterpillar dealer.
+
+SMCS Code: 1000; 1250; 1280                                                                                     i08811356
+
+
+Fuel Tanks                                                   Diesel Exhaust Fluid in Cold
+Condensation can form in partially filled fuel tanks.        Weather
+Top off the fuel tanks after you operate the engine.         SMCS Code: 108K
+Fuel tanks should contain some provision for draining        Due to the freezing point of Diesel Exhaust Fluid
+water and sediment from the bottom of the tanks.             (DEF) the aftertreatment system is equipped with
+Some fuel tanks use supply pipes that allow water
+                                                             electrically heated DEF lines. The system also has a
+and sediment to settle below the end of the fuel             coolant heated element in the DEF tank and the DEF
+supply pipe.                                                 pump.
+Some fuel tanks use supply lines that take fuel              During periods of weather in which DEF can freeze
+directly from the bottom of the tank. If the engine is       the application should be stood on level ground when
+equipped with this system, regular maintenance of            not in use. DEF can start to freeze at −11° C
+the fuel system filter is important.                         (12.2° F).
+
+=== ORIGINAL PDF PAGE 87 ===
+M0108394-08                                                                             87
+                                                                          Operation Section
+                                                       Diesel Exhaust Fluid in Cold Weather
+
+
+Note: At certain angles DEF can cover the DEF filler
+cap. If the DEF freezes, the DEF tank vent could
+block. A blocked vent in the DEF tank assembly will
+cause operational difficulties.
+For information on DEF refer to this Operation and
+Maintenance Manual, “Fluid Recommendations”.
+
+=== ORIGINAL PDF PAGE 88 ===
+88                                                                                                   M0108394-08
+Operation Section
+Engine Stopping
+
+
+Engine Stopping                                              Note: There may be regulations that define the
+                                                             requirements for the operator and/or support
+                                                             personnel to be present when the engine is running.
+                                                 i07693085
+
+
+Stopping the Engine
+SMCS Code: 1000                                              Leaving the machine unattended when the engine
+                                                             is running may result in personal injury or death.
+                                                             Before leaving the machine operator station, neu-
+                      NOTICE                                 tralize the travel controls, lower the work tools to
+Stopping the engine immediately after the engine has         the ground and deactivate all work tools, and
+been working under load, can result in overheating           place the lever for the hydraulic lockout control
+and accelerated wear of the engine components.               in the LOCKED position.
+Avoid accelerating the engine prior to shutting down
+the engine.                                                  Leaving the engine unattended while running may
+                                                             result in property damage in the event of a
+Avoiding hot engine shutdowns will maximize turbo-           malfunction.
+charger shaft and bearing life. Also, selective cata-
+lytic reduction component life.                              Note: An authorized dealer can change the
+                                                             maximum run time value up to 30 minutes but the
+                                                             default setting is 10 minutes.
+Note: Individual applications will have different
+control systems. Ensure that the shutoff procedures          An override can be enabled so that the delayed
+are understood. Use the following general guidelines         engine shutdown will not operate. Overriding delayed
+to stop the engine.                                          engine shutdown may reduce engine and system
+                                                             component life. The override is operated by the
+1. Remove the load from the engine. Reduce the               keyswitch.
+   engine speed to low idle. Allow the engine to idle
+   for 5 minutes to cool the engine.                         At any time during a delayed engine shutdown, the
+                                                             engine start switch may be turned to the ON position.
+2. Stop the engine after the cool down period                The engine may be placed back into service.
+   according to the shutoff system on the engine and
+   turn the ignition keyswitch to the OFF position. If                                                      i05195199
+   necessary, refer to the instructions that are
+   provided by the OEM.                                      Emergency Stopping
+                                                             SMCS Code: 1000; 7418
+Note: In some applications the engine will continue
+to operate after the keyswitch is turned to the OFF
+position. The engine will operate for a short time to                               NOTICE
+allow engine components to cool.                             Emergency shutoff controls are for EMERGENCY
+                                                             use ONLY. DO NOT use emergency shutoff devices
+3. Allow at least 2 minutes after the engine has             or controls for normal stopping procedure.
+   stopped before you turn the battery disconnect
+                                                             The OEM may have equipped the application with an
+   switch to OFF. Disconnecting the battery power            emergency stop button. For more information about
+   too soon will prevent purging of the DEF fluid lines      the emergency stop button, refer to the OEM
+   after the engine is shut down. Also, during the 2         information.
+   minutes the engine electronic control module is
+                                                             Ensure that any components for the external system
+   active, storing information from the engine and           that support the engine operation are secured after
+   aftertreatment sensors.                                   the engine is stopped.
+
+Delayed Engine Shutdown (if                                                                                 i07486528
+Equipped)
+                                                             After Stopping Engine
+The delayed engine shutdown allows the engine to             SMCS Code: 1000
+run for a time after the engine start switch is turned to
+the OFF position to cool the system components.              Note: Before you check the engine oil, do not
+The engine start switch key may be removed.
+                                                             operate the engine. Wait for at least 30 minutes after
+                                                             the engine has stopped to allow the engine oil to
+                                                             return to the oil pan.
+
+=== ORIGINAL PDF PAGE 89 ===
+M0108394-08                                                                                                 89
+                                                                                            Operation Section
+                                                                                        After Stopping Engine
+
+
+                                                         • Check the coolant for correct antifreeze protection
+                                                           and the correct corrosion protection. Add the
+Contact with high pressure fuel may cause fluid            correct coolant/water mixture, if necessary.
+penetration and burn hazards. High pressure fuel
+spray may cause a fire hazard. Failure to follow         • Perform all required periodic maintenance on all
+these inspection, maintenance and service in-              driven equipment. This maintenance is outlined in
+structions may cause personal injury or death.             the instructions from the OEM.
+
+
+• Diesel Exhaust Fluid (DEF) purge, do not
+  disconnect the battery disconnect switch until the
+  DEF purge has been completed. The procedure is
+  automatically controlled and will take
+  approximately 2 minutes.
+
+• After the engine has stopped, you must wait for 10
+  minutes to allow the fuel pressure to be purged
+  from the high-pressure fuel lines before any
+  service or repair is performed on the engine fuel
+  lines. If necessary, perform minor adjustments.
+  Repair any leaks from the low-pressure fuel
+  system and from the cooling, lubrication, or air
+  systems. Replace any high-pressure fuel line that
+  has leaked. Refer to Disassembly and Assembly
+  Manual, “Fuel Injection Lines - Install”.
+
+• Check the crankcase oil level. Maintain the oil
+  level between the “MIN” mark and the “MAX” mark
+  on the engine oil level gauge.
+• If the engine is equipped with a service hour
+  meter, note the reading. Perform the maintenance
+  that is in the Operation and Maintenance Manual,
+  “Maintenance Interval Schedule”.
+• Fill the fuel tank, to help prevent accumulation of
+  moisture in the fuel. Do not overfill the fuel tank.
+• Fill the DEF tank, a low level of DEF in the tank
+  can result in engine de-rate.
+
+                      NOTICE
+Only use antifreeze/coolant mixtures recommended
+in this Operation and Maintenance Manual, “Refill
+Capacities and Recommendations” topic or in this
+Operation and Maintenance Manual, “Fluid Recom-
+mendations” topic. Failure to do so can cause engine
+damage.
+
+
+
+
+Pressurized System: Hot coolant can cause seri-
+ous burns. To open the cooling system filler cap,
+stop the engine and wait until the cooling system
+components are cool. Loosen the cooling system
+pressure cap slowly in order to relieve the
+pressure.
+
+
+• Allow the engine to cool. Check the coolant level.
+
+=== ORIGINAL PDF PAGE 90 ===
+90                                                                                                   M0108394-08
+Maintenance Section
+Maintenance Recommendations
+
+
+Maintenance Section                                         The high-pressure fuel lines are different from fuel
+                                                            lines on other fuel systems, the differences are as
+                                                            follows:
+
+Maintenance                                                 • The high-pressure fuel lines are constantly
+                                                              charged with high pressure.
+Recommendations
+                                                            • The internal pressures of the high-pressure fuel
+                                                i07819420     lines are higher than other types of fuel system.
+                                                            Before any service or repair is performed on the
+System Pressure Release                                     engine fuel lines, perform the following tasks:
+SMCS Code: 1250; 1300; 1350; 5050                           1. Stop the engine.
+
+Coolant System                                              2. Wait for 10 minutes.
+                                                            Do not loosen the high-pressure fuel lines to remove
+                                                            air from the fuel system.
+
+Pressurized system: Hot coolant can cause seri-             Engine Oil
+ous burn. To open cap, stop engine, wait until ra-
+diator is cool. Then loosen cap slowly to relieve           To relieve pressure from the lubricating system, turn
+the pressure.                                               off the engine.
+
+                                                                                                            i07703516
+
+
+
+When the engine is in the AUTOMATIC mode, the
+                                                            Welding on Engines with
+engine can start at any moment. To avoid person-            Electronic Controls
+al injury, always remain clear of the the engine
+when the engine is in the AUTOMATIC mode.                   SMCS Code: 1000
+
+The engine can have the ability to auto start. Ensure                               NOTICE
+that the power supply is isolated before any service        Because the strength of the frame may decrease,
+or repair is performed.                                     some manufacturers do not recommend welding onto
+                                                            a chassis frame or rail. Consult the OEM of the equip-
+To relieve the pressure from the coolant system, turn       ment or your Caterpillar dealer regarding welding on
+off the engine. Allow the cooling system pressure cap       a chassis frame or rail.
+to cool. Remove the cooling system pressure cap
+slowly to relieve pressure.                                 Correct welding procedures are necessary to avoid
+                                                            damage to the engines ECM, sensors, and
+Fuel System                                                 associated components. When possible, remove the
+                                                            component from the unit and then weld the
+To relieve the pressure from the fuel system, turn off      component. If removal of the component is not
+the engine.                                                 possible, the following procedure must be followed
+                                                            when you weld on a unit equipped with an Electronic
+                                                            Engine. The following procedure is considered to be
+High-Pressure Fuel Lines                                    the safest procedure to weld on a component. This
+                                                            procedure should provide a minimum risk of damage
+                                                            to electronic components.
+
+Contact with high pressure fuel may cause fluid                                  NOTICE
+penetration and burn hazards. High pressure fuel            Do not ground the welder to electrical components
+spray may cause a fire hazard. Failure to follow            such as the ECM or sensors. Improper grounding
+these inspection, maintenance and service in-               can cause damage to the drive train bearings, hy-
+structions may cause personal injury or death.              draulic components, electrical components, and oth-
+                                                            er components.
+The high-pressure fuel lines are the fuel lines that are    Clamp the ground cable from the welder to the com-
+between the high-pressure fuel pump and the high-           ponent that will be welded. Place the clamp as close
+pressure fuel manifold and the fuel lines that are          as possible to the weld. This will help reduce the pos-
+between the fuel manifold and the fuel injectors.           sibility of damage.
+
+=== ORIGINAL PDF PAGE 91 ===
+M0108394-08                                                                                                          91
+                                                                                             Maintenance Section
+                                                                        Welding on Engines with Electronic Controls
+
+
+Note: Perform the welding in areas that are free from
+explosive hazards.
+
+1. Stop the engine. Turn the switched power to the
+   OFF position.
+2. Ensure that the fuel supply to the engine is turned
+   off.
+3. Disconnect the negative battery cable from the
+   battery. If a battery disconnect switch is provided,
+   open the switch.
+4. Disconnect all electronic components from the
+   wiring harnesses. Include the following
+   components:
+
+   • Electronic components for the driven
+     equipment
+
+   • ECM
+
+   • Sensors
+                                                          Illustration 62                                      g06392357
+
+   • Electric operated fuel pump                          Use the example above. The current flow from the
+                                                          welder to the ground clamp of the welder will not
+   • Electronically controlled valves                     damage any associated components.
+                                                          (1) Engine
+   • Relays                                               (2) Welding electrode
+                                                          (3) Keyswitch in the OFF position
+                                                          (4) Battery disconnect switch in the open position
+   • Aftertreatment ID module                             (5) Disconnected battery cables
+                                                          (6) Battery
+                       NOTICE                             (7) Electrical/Electronic component
+Do not use electrical components (ECM or ECM sen-         (8) The component that is being welded
+                                                          (9) Current path of the welder
+sors) or electronic component grounding points for        (10) Ground clamp for the welder
+grounding the welder.
+                                                          5. Connect the welding ground cable directly to the
+                                                             part that will be welded. Place the ground cable as
+                                                             close as possible to the weld to reduce the
+                                                             possibility of welding current damage to the
+                                                             following components. Bearings, hydraulic
+                                                             components, electrical components, and ground
+                                                             straps.
+                                                          Note: If electrical/electronic components are used as
+                                                          a ground for the welder, or electrical/electronic
+                                                          components are located between the welder ground
+                                                          and the weld, current flow from the welder could
+                                                          severely damage the component.
+
+                                                          6. Protect the wiring harness from welding debris and
+                                                             spatter.
+                                                          7. Use standard welding practices to weld the
+                                                             materials.
+
+=== ORIGINAL PDF PAGE 92 ===
+92                                                                                                    M0108394-08
+Maintenance Section
+Severe Service Application
+
+
+                                                 i04807435   • Frequent hot shutdowns (shutting down the
+                                                               engine without the minimum of 2 minutes to 5
+Severe Service Application                                     minutes of cool down time)
+SMCS Code: 1000                                              • Operation above the engine rated speed
+An engine which operates outside of normal                   • Operation below the peak torque speed
+conditions is operating in a severe service
+application.                                                 • Operating with fuel which does not meet the
+                                                               standards for distillate diesel fuel as stated in
+An engine that operates in a severe service
+                                                               Special Publication, SEBU6250, “Caterpillar
+application may need more frequent maintenance
+intervals in order to maximize the following                   Machine Fluids Recommendations” “Distillate
+conditions:                                                    Diesel Fuel”
+
+• Reliability                                                • Operating with a blend of distillate fuel which
+                                                               contains more than 20 percent biodiesel
+• Service life
+The number of individual applications cause the
+                                                             Improper Maintenance Procedures
+impossibility of identifying all of the factors which may    (Maintenance Procedures Which
+contribute to severe service operation. Consult your
+Caterpillar dealer for the unique maintenance that           May Contribute to a Severe Service
+may be necessary for your engine.                            Application)
+An application is a severe service application if any of     • Inadequate maintenance of fuel storage tanks
+the following conditions apply:                                from causes such as excessive water, sediment,
+                                                               and microorganism growth.
+Severe Environmental Factors
+                                                             • Extending maintenance intervals beyond the
+• Frequent operation in dirty air                              recommended intervals
+
+• Frequent operation at an altitude which is above           • Using fluids which are not recommended in
+  1525 m (5000 ft)                                             Special Publication, SEBU6250, “Caterpillar
+                                                               Machine Fluids Recommendations”
+• Frequent operation in ambient temperatures which
+  are above 32° C (90° F)                                    • Extending maintenance intervals for changing the
+                                                               engine oil and engine coolant without S·O·S
+• Frequent operation in ambient temperatures which             validation
+  are below 0° C (32° F)
+                                                             • Extending maintenance intervals for changing air
+Severe Operating Conditions                                    filters, oil filters, and fuel filters
+
+                                                             • Failure to use a water separator
+• Frequent operation with inlet air which has a
+  corrosive content                                          • Using filters which are not recommended by
+                                                               Special Publication, PEWJ0074, “2008 Cat Filter
+• Operation with inlet air which has a combustible
+                                                               and Fluid Application Guide”
+  content
+                                                             • Storing the engine for more than 3 months but less
+• Operation which is outside of the intended
+                                                               than 1 yr (For information about engine storage,
+  application
+                                                               refer to Special Publication, SEHS9031, “Storage
+• Operation with a plugged fuel filter                         Procedure for Caterpillar Products”)
+
+• Extended operation at low idle (more than 20% of
+  hours)
+
+• Frequent cold starts at temperatures below 0° C
+  (32° F)
+
+• Frequent dry starts (starting after more than 72
+  hours of shutdown)
+
+=== ORIGINAL PDF PAGE 93 ===
+M0108394-08                                                                                                                                         93
+                                                                                                                           Maintenance Section
+                                                                                                                               Refill Capacities
+
+
+Refill Capacities                                                            Table 14
+                                                                                                     C2.8 Industrial Engine
+                                                                                                       Refill Capacities
+                                                                i09512674
+                                                                                   Compartment or System                         Capacity
+Refill Capacities                                                                                                              7.5 to 8.8 L
+                                                                             Crankcase Oil Sump(1)
+SMCS Code: 1000; 1348; 1395; 7560                                                                                      (1.98150 to 2.32496 US gal)
+                                                                             (1)   These values are the approximate capacities for the crankcase
+Lubrication System for Engines                                                     oil sump which includes the standard factory installed oil filters.
+                                                                                   Engines with auxiliary oil filters will require extra oil. Refer to
+Equipped With a Standard Oil Pan                                                   the OEM specifications for the capacity of the auxiliary oil filter.
+                                                                                   The design of the oil pan can change the oil capacity of the oil
+                                                                                   pan.
+
+
+                                                                             Lubrication System for Engines
+                                                                             Equipped With a Balancer Oil Pan
+
+
+
+
+Illustration 63                                                 g06511838
+Typical example
+(1) Standard Oil Pan
+
+OEM – Original Equipment Manufacturer
+The refill capacities for the engine crankcase reflect                       Illustration 64                                                 g06511850
+the approximate capacity of the crankcase or sump                            Typical example
+plus standard oil filters. Auxiliary oil filter systems will                 (2) Oil Pan with a balancer
+require extra oil. Refer to the OEM specifications for
+the capacity of the auxiliary oil filter. Refer to the                       OEM – Original Equipment Manufacturer
+Operation and Maintenance Manual, “Maintenance
+Section” for more information on Lubricant                                   The refill capacities for the engine crankcase reflect
+Specifications.                                                              the approximate capacity of the crankcase or sump
+Table 13                                                                     plus standard oil filters. Auxiliary oil filter systems will
+                                                                             require extra oil. Refer to the OEM specifications for
+                        C3.6 Industrial Engine                               the capacity of the auxiliary oil filter. Refer to the
+                          Refill Capacities                                  Operation and Maintenance Manual, “Maintenance
+      Compartment or System                         Capacity                 Section” for more information on Lubricant
+                                                                             Specifications.
+                                                 9.1 to 10.6 L
+Crankcase Oil Sump(1)                                                        Note: During engine oil changes both sides of the
+                                          (2.40422 to 2.80052 US gal)
+                                                                             engine oil pan must be drained of lubricant.
+(1)   These values are the approximate capacities for the crankcase
+      oil sump which includes the standard factory installed oil filters.
+      Engines with auxiliary oil filters will require extra oil. Refer to
+      the OEM specifications for the capacity of the auxiliary oil filter.
+      The design of the oil pan can change the oil capacity of the oil
+      pan.
+
+=== ORIGINAL PDF PAGE 94 ===
+94                                                                                                                          M0108394-08
+Maintenance Section
+Fluid Recommendations
+
+
+Table 15
+        C3.6 Industrial Engine With a Balancer Oil Pan                  Table 19
+                        Refill Capacities
+                                                                                                     C2.8 OPU
+  Compartment or System                        Capacity                                           Refill Capacities
+
+  Crankcase Oil Sump (1)             8.5 to 10 L                              Compartment or System                    Capacity
+                                     (2.246 to 2.642 US gal)
+                                                                        Engine Only                                3.9 L (1.03 US gal)
+
+                                                                        Radiator                                   8.9 L (2.35 US gal)
+Cooling System
+                                                                                                                      10.6 to 12.2 L
+                                                                        Total coolant capacity
+Refer to the OEM specifications for the External                                                                  (2.80 to 3.22 US gal)
+System capacity. This capacity information will be
+needed to determine the amount of coolant/
+antifreeze that is required for the Total Cooling                       DEF System
+System.
+Table 16                                                                DEF – Diesel Exhaust Fluid
+                      C3.6 Industrial Engine                            Table 20
+                        Refill Capacities
+                                                                                                  DEF Tank Capacity
+           Compartment or System                      Capacity
+                                                                        19 L (5 US gal)(1)
+                                                         4.3 L
+Engine Only                                                             (1)    OEM tank size shape, and capacities could be different.
+                                                    (1.136 US gal)
+
+External System Per OEM(1)                                                                                                          i08811382
+(1)   The External System includes a radiator or an expansion tank
+      with the following components: heat exchanger and piping. Re-     Fluid Recommendations
+      fer to the OEM specifications. Enter the value for the capacity
+      of the External System in this row.                               SMCS Code: 1280; 1348; 1395; 7560
+
+Table 17
+                                                                        Engine Lubrication Oil
+                      C2.8 Industrial Engine
+                        Refill Capacities
+                                                                                               NOTICE
+           Compartment or System                      Capacity          These recommendations are subject to change with-
+                                                                        out notice. Contact your local Cat dealer for the most
+                                                         3.9 L          up-to-date fluids recommendations.
+Engine Only
+                                                   (1.03038 US gal)
+
+External System Per OEM(1)
+                                                                        • EMA                      Engine Manufacturers Association
+(1)   The External System includes a radiator or an expansion tank
+      with the following components: heat exchanger and piping. Re-     • API                            American Petroleum Institute
+      fer to the OEM specifications. Enter the value for the capacity
+      of the External System in this row.                               • SAE                  Society Of Automotive Engineers Inc.
+
+Open Power Unit (OPU)                                                   • DEO-ULS                          Diesel Engine Oil-Ultra Low
+                                                                          Sulfur
+Table 18
+                             C3.6 OPU                                   Cat DEO-ULS
+                          Refill Capacities
+                                                                        Cat DEO-ULS is developed and tested to provide
+  Compartment or System                        Capacity                 superior protection and life for your Caterpillar
+                                                                        engines.
+Engine Only                               4.3 L (1.136 US gal)
+                                                                        • Better Detergents
+Radiator                                   8.7 L (2.3 US gal)
+
+                                              11.5 to 13.2 L
+                                                                        • Advanced Additive Package
+Total coolant capacity
+                                          (3.04 to 3.49 US gal)
+                                                                        • Enhanced Dispersants
+                                                                        • Improved Protection from Thermal breakdown and
+                                                                          Oxidation Breakdown
+
+=== ORIGINAL PDF PAGE 95 ===
+M0108394-08                                                                                                        95
+                                                                                             Maintenance Section
+                                                                                          Fluid Recommendations
+
+
+Due to significant variations in the quality and in the
+performance of commercially available oils,                                      NOTICE
+                                                            Failure to follow these oil recommendations can
+Caterpillar makes the following recommendations:            cause shortened engine service life due to deposits
+                                                            and/or excessive wear.
+• Cat DEO-ULS (SAE 10W-30)
+
+• Cat DEO-ULS (SAE 15W-40)                                  Note: API FA-4 oil is designed for use in selected on-
+Cat DEO-ULS Multigrade oil is available in various          highway applications and is NOT designed to support
+viscosity grades that include SAE 10W-30 and SAE            off-road applications, including Caterpillar Engines.
+15W-40. To choose the correct viscosity grade for the       DO NOT use API FA-4 oil for Caterpillar engines.
+ambient temperature, see illustration 65 . Multigrade
+oils provide the correct viscosity for a broad range of     Refer to Special Publication, SEBU6251, “Caterpillar
+operating temperatures. Multigrade oils are also            Commercial Diesel Engine Fluids
+effective in maintaining low oil consumption and low        Recommendations” for additional information that
+                                                            relates to lubrication for your engine.
+levels of piston deposits.
+Consult your Cat dealer for part numbers and for            Lubricant Viscosity Recommendations
+available sizes of containers.
+                                                            The proper SAE viscosity grade of oil is determined
+Note: Cat DEO-ULS in SAE 15W-40 passes the                  by the minimum ambient temperature during cold
+following proprietary tests: sticking of the piston ring,   engine start-up, and the maximum ambient
+oil control tests, wear tests, and soot tests.              temperature during engine operation.
+Proprietary tests help ensure that Caterpillar
+multigrade oil provides superior performance in             Refer to illustration 65 (minimum temperature) to
+Caterpillar Diesel Engines. In addition, Cat DEO-ULS        determine the required oil viscosity for starting a cold
+                                                            engine.
+Multigrade oil exceeds many of the performance
+requirements of other manufacturers of diesel               Refer to illustration 65 (maximum temperature) to
+engines. Therefore, this oil is an excellent choice for     select the oil viscosity for engine operation at the
+many mixed fleets. True high-performance oil is             highest ambient temperature that is anticipated.
+produced with a combination of the following
+factors: industry standard tests, proprietary               Note: Generally, use the highest oil viscosity that is
+tests, field tests, and prior experience with               available to meet the requirement for the temperature
+similar formulations. The design and the                    at start-up.
+development of Caterpillar lubricants that are
+both high performance and high quality are                  If ambient temperature conditions at engine start-up
+based on these factors.                                     require the use of multigrade SAE 0W oil, SAE 0W-
+                                                            40 viscosity grade is preferred.
+Commercial Oils
+Note: Non-Caterpillar commercial oils are second
+choice oils.
+
+                         NOTICE
+Caterpillar require the use of the following specifica-
+tion of engine oil. Failure to use the appropriate spec-
+ification of engine oil will reduce the life of your
+engine. Failure to use the correct specification of en-
+gine will also reduce the life and the effectiveness of
+your aftertreatment system.
+
+Table 21
+           API Classifications for the Industrial Engine
+
+                        Oil Specification
+
+ECF-3
+CK-4
+AECA E9
+
+=== ORIGINAL PDF PAGE 96 ===
+96                                                                                                  M0108394-08
+Maintenance Section
+Fluid Recommendations
+
+
+                                                            Refer to Special Publication, SEBU6251, “Caterpillar
+                                                            Commercial Diesel Engine Fluids
+                                                            Recommendations” or contact your local Cat dealer
+                                                            for additional information concerning the S·O·S Oil
+                                                            Analysis program.
+
+                                                            Lubricating Grease
+                                                            Caterpillar provides a range of moderate greases to
+                                                            high performance greases to service the entire line of
+                                                            Caterpillar products that operate throughout the wide
+                                                            variety of climates. You will always be able to find a
+                                                            grease that will meet your machines requirements for
+                                                            a certain application. Caterpillar grease products
+                                                            often exceed Caterpillar specifications.
+                                                            Before selecting a grease products for any
+                                                            application, the performance requirements must be
+                                                            determined. Consult the grease recommendations
+                                                            that are made by the OEM for the equipment when
+                                                            the equipment is operated in the expected
+                                                            conditions. Then, consult with your Cat dealer for a
+Illustration 65                                 g03329687
+                                                            list of greases and the following related
+                                                            characteristics.
+Supplemental heat is recommended for cold soaked
+starts below the minimum ambient temperature.               • Performance specifications
+Supplemental heat may be required for cold soaked
+starts that are above the minimum temperature that          • Available sizes of containers
+is stated, depending on the parasitic load and other
+factors. Cold soaked starts occur when the engine           • Part numbers
+has not been operated for time. This time period will
+allow the oil to become more viscous due to cooler          Always choose a grease that meets the
+ambient temperatures.                                       recommendations that are specified by the
+                                                            equipment manufacturer for the application, or
+S·O·S Oil Analysis                                          choose a grease that exceeds the recommendations
+                                                            that are specified by the equipment manufacturer for
+Caterpillar has developed a tool for maintenance            the application.
+management that evaluates oil degradation and the           Always choose a grease that meets the requirements
+tool also detects the early signs of wear on internal       of the most demanding application. A product that
+components. The Caterpillar tool for oil analysis is        barely meets the minimum performance
+called S·O·S Oil Analysis and the tool is part of the       requirements will shorten the life of the part. Use the
+S·O·S Services program. S·O·S Oil Analysis divides          grease that yields the least total operating cost. Base
+oil analysis into three categories:                         this cost on an analysis that includes the costs of the
+                                                            parts, the labor, the downtime, and the cost of the
+• Wear Analysis                                             grease that is used.
+• Oil condition                                             Some greases are not chemically compatible.
+                                                            Consult your supplier to determine if two or more
+• Extra tests
+                                                            greases are compatible.
+The wear analysis monitors metal particles, some oil
+additives, and some contaminants.                           Purge the grease from a joint at the following times:
+
+Oil condition uses infrared (IR) analysis to evaluate       • Switching from one grease to another grease
+the chemistry of the oil. Infrared analysis is also used
+to detect certain types of contamination.                   • Switching from one supplier to another supplier
+
+Extra tests are used to measure contamination levels        Note: All Caterpillar brand name greases are
+from water, fuel, or coolant. Oil viscosity and             compatible with each other.
+corrosion protection can be evaluated, as needed.
+
+=== ORIGINAL PDF PAGE 97 ===
+M0108394-08                                                                                                        97
+                                                                                             Maintenance Section
+                                                                                          Fluid Recommendations
+
+
+Note: Refer to Special Publication, SEBU6251,               In special circumstances, Caterpillar recognizes the
+“Caterpillar Commercial Diesel Engine Fluids                need for fuel additives. Use caution if using fuel
+Recommendations” for additional information that            additives. The additive may not be compatible with
+relates to lubrication for your engine.                     the fuel. Some additives may precipitate. This action
+                                                            causes deposits in the fuel system. The deposits may
+                                                            cause seizure. Some additives may be corrosive and
+Fuel                                                        some additives may be harmful to the elastomers in
+                                                            the fuel system.
+Refer to Special Publication, SEBU6251, “Caterpillar
+Commercial Diesel Engine Fluids                             Some additives may damage emission control
+Recommendations” for the Caterpillar Specification          systems. Some additives may cause the amount of
+for distillate fuel and for additional information that     sulfur in the fuel to be greater than 15 ppm.
+relates to fuel for your engine.
+                                                            Contact your fuel supplier for those circumstances
+Ultra low Sulfur Diesel (ULSD)
+                                                            when fuel additives are required. Your fuel supplier
+Your Caterpillar Diesel Engine must use ultra low           can recommend the best additives for your
+sulfur diesel fuel. This fuel complies with the             application and for the proper level of treatment.
+emissions regulations that are prescribed by the
+European Union and the Environmental Protection             Note: For the best results, your fuel supplier should
+Agency of the United States.                                treat the fuel when additives are necessary.
+
+Engines that are manufactured by Caterpillar are            Diesel Exhaust Fluid
+certified with the fuel that is prescribed by the United
+States Environmental Protection Agency. Engines
+that are manufactured by Caterpillar are certified with     General Information
+the fuel that is prescribed by the European
+Certification. Caterpillar does not certify diesel          Diesel Exhaust Fluid (DEF) is a liquid that is injected
+engines on any other fuel.                                  into the exhaust system of engines equipped with
+                                                            Selective Catalytic Reduction (SCR) systems. SCR
+Note: The owner and the operator of the engine has          reduces emissions of nitrogen oxides (NOx) in diesel
+the responsibility of using the fuel that is prescribed     engine exhaust.
+by the United States Environmental Protection               In engines equipped with SCR emissions reduction
+Agency and other appropriate regulatory agencies.           system, DEF is injected in controlled amounts into
+                                                            the engine exhaust stream. At the elevated exhaust
+Fuel tank inlet labels are installed to ensure that the     temperature, urea in DEF is converted to ammonia.
+correct fuels are used. Illustration 66 is an example of
+one of the labels designs that will be installed.           The ammonia chemically reacts with NOx in diesel
+                                                            exhaust in the presence of the SCR catalyst. The
+                                                            reaction converts NOx into nitrogen (N2) and water
+                                                            (H2O).
+                                                            DEF is known by many brands including AdBlue or
+                                                            API certification.
+                                                            Refer to Special Publication, SEBU6251, “Caterpillar
+                                                            Commercial Diesel Engine Fluids
+                                                            Recommendations” for more information.
+
+                                                            DEF Recommendations
+                                                            For use in Caterpillar engines, DEF must meet all the
+                                                            requirements defined by “ISO 22241-1”
+                                                            Requirements.
+Illustration 66                                 g02157153   Caterpillar recommends the use of DEF available
+Typical example                                             through the Cat parts ordering system for use in
+                                                            Caterpillar engines equipped with SCR systems.
+                                                            Refer to Table 22 for part number information:
+Fuel Additives
+                                                            Table 22
+Many types of fuel additives are available. Caterpillar           Cat Part Number              Container Size
+does not generally recommend the use of fuel
+additives.                                                  350-8733                    2.5 gal bottle
+
+                                                            350-8734                    1000-L totes
+
+=== ORIGINAL PDF PAGE 98 ===
+98                                                                                                 M0108394-08
+Maintenance Section
+Fluid Recommendations
+
+
+In North America, commercial DEF that is API             Stainless Steels:
+approved and meets all the requirements defined in
+“ISO 22241-1” may be used in Cat engines that are        • 304 (S30400)
+equipped with SCR systems.
+                                                         • 304L (S30403)
+Outside of North America, commercial DEF that
+meets all requirements defined in “ISO 22241-1” may      • 316 (S31600)
+be used in Cat engines that are equipped with SCR
+systems.                                                 • 316L (S31603)
+The supplier should provide documentation to prove       Alloys and metals:
+that the DEF is compliant with the requirements of
+“ISO 22241-1”.                                           • Chromium Nickel (CrNi)
+
+                     NOTICE                              • Chromium Nickel Molybdenum (CrNiMo)
+Cat ® does not warrant the quality or performance of
+non-Cat fluids.                                          • Titanium
+                                                         Non-metallic materials:
+                        NOTICE                           • Polyethylene
+Do not use agriculture grade urea solutions. Do
+not use any fluids that do not meet “ISO 22241-1” Re-    • Polypropylene
+quirements in SCR emissions reduction systems.
+Use of these fluids can result in numerous problems      • Polyisobutylene
+including damage to SCR equipment and a reduction
+in NOx conversion efficiency.                            • Teflon (PFA)
+                                                         • Polyfluoroethylene (PFE)
+DEF is a solution of solid urea that is dissolved in
+demineralized water to produce a final concentration     • Polyvinylidene fluoride (PVDF)
+of 32.5% urea. DEF concentration of 32.5% is
+optimal for use in SCR systems. DEF solution of          • Polytetrafluoroethylene (PTFE)
+32.5% urea has the lowest attainable freeze point of
+−11.5° C (11.3° F). DEF concentrations that are          Materials NOT compatible with DEF solutions include
+higher or lower than 32.5% have higher freeze            Aluminum, Magnesium, Zinc, Nickel coatings, Silver,
+points. DEF dosing systems and “ISO 22241-1”             and Carbon steel and Solders containing any of the
+specifications are designed for a solution that is       above. Unexpected reactions may occur if DEF
+approximately 32.5%.                                     solutions come in contact with any non-compatible
+                                                         material or unknown materials.
+Caterpillar offers a refractometer, Cat part number
+360-0774, that can be used to measure DEF                Bulk storage
+concentration. Follow the instructions provided with
+the instrument. Appropriate commercial portable
+refractometers can be used to determine urea             Follow all local regulations covering bulk storage
+concentration. Follow the instructions from the          tanks. Follow proper tank construction guidelines.
+manufacturer.                                            Tank volume typically should be 110% of planned
+                                                         capacity. Appropriately vent indoor tanks. Plan for
+DEF Guidelines                                           control of overflow of the tank. Heat tanks that
+                                                         dispense DEF in cold climates. DEF will start to
+DEF solution is typically colorless and clear. Changes   freeze at −9° C (15.8° F).
+to color or clarity are indicators of quality issues.    Bulk tank breathers should be fitted with filtration to
+Quality of DEF can degrade when stored and               keep airborne debris from entering the tank.
+handled inappropriately or if DEF is not protected       Desiccant breathers should not be used because
+from contamination. Details are provided below.          water will be absorbed, which potentially can alter
+                                                         DEF concentration.
+If quality issues are suspected, testing of DEF should
+focus on urea percentage, alkalinity as NH3 and
+biuret content. DEF that does not pass all these tests
+or that is no longer clear should not be used.
+Materials compatibility
+
+DEF is corrosive. Due to the corrosion caused, DEF
+must be stored in tanks constructed of approved
+materials. Recommended storage materials:
+
+=== ORIGINAL PDF PAGE 99 ===
+M0108394-08                                                                                                          99
+                                                                                                Maintenance Section
+                                                                                             Fluid Recommendations
+
+
+Handling                                                  Table 23
+                                                             Storage Temperature                Expected DEF Life
+Follow all local regulations covering transport and
+handling. DEF transport temperature is                    Below 25° C (77° F)              18 months
+recommended to be −5° C (23° F) to 25° C (77° F).
+All transfer equipment and intermediate containers        25° C (77° F) to 30° C (86° F)   12 months
+should be used exclusively for DEF. Containers
+                                                          30° C (86° F) to 35° C (95° F)   6 months
+should not be reused for any other fluids. Ensure that
+transfer equipment is made from DEF-compatible            Above 35° C (95° F)              test quality before use
+materials. Recommended material for hoses and
+other non-metallic transfer equipment includes:
+                                                          Refer to “ISO 22241” document series for more
+• Nitrile Rubber (NBR)                                    information about DEF quality control.
+
+• Fluoroelastomer (FKM)                                   Note: Dispose of all fluids according to applicable
+                                                          regulations and mandates.
+• Ethylene Propylene Diene Monomer (EPDM)
+                                                          Filling Tank
+The condition of hoses and other nonmetallic items
+that are used with DEF should be monitored for signs      The DEF tank filler cap is colored blue. A special
+of degradation. DEF leaks are easily recognizable by      nozzle size is required to fill a DEF tank. Ensure that
+white urea crystals that accumulate at the site of the    the DEF tank is on level ground before the tank is
+leak. Solid urea can be corrosive to galvanized or        filled.
+unalloyed steel, aluminum, copper, and brass. Leaks
+should be repaired immediately to avoid damage to         Spillage
+surrounding hardware.
+                                                          Care should be taken when dispensing DEF. Spills
+Cleanliness                                               should be cleaned immediately. All surfaces should
+                                                          be wiped clean and rinsed with water.
+Contaminants can degrade the quality and life of
+DEF. Filtering DEF is recommended when dispensed          DEF that has been spilt will crystallize when the
+into the DEF tank. Filters should be compatible with      water within the liquid evaporates. Spilt DEF will
+DEF and should be used exclusively with DEF.              attack paint and metal. If DEF is spilt, wash the area
+Check with the filter supplier to confirm compatibility   with water.
+with DEF before using. Mesh-type filters using
+compatible metals, such as stainless steel, are           Caution should be used when dispensing DEF near
+recommended. Paper (cellulose) media and some             an engine that has recently been running. Spilling
+synthetic filter media are not recommended because        DEF onto hot components may cause the release of
+of degradation during use.                                ammonia vapors. Do not breathe ammonia vapors.
+                                                          Do not clean up any spills with bleach.
+Care should be taken when dispensing DEF. Spills
+should be cleaned immediately. Machine or engine
+surfaces should be wiped clean and rinsed with            Coolant
+water. Caution should be used when dispensing DEF
+                                                          The following two coolants are recommended for use
+near an engine that has recently been running.
+                                                          in Caterpillar diesel engines:
+Spilling DEF onto hot components will cause harmful
+vapors.
+                                                          Preferred – Cat ELC (Extended Life Coolant) or a
+Stability                                                 commercial extended life coolant that meets the
+                                                          Caterpillar EC-1 specification
+DEF fluid is stable when stored and handled properly.
+The quality of DEF rapidly degrades when stored at        Acceptable – A Cat DEAC (Diesel Engine
+high temperatures. The ideal storage temperature for      Antifreeze/Coolant) or a commercial heavy-duty
+DEF is between −9° C (15.8° F) and 25° C (77° F).         antifreeze that meets “ASTM D6210” or “ASTM
+DEF that is stored above 35° C (95° F) for longer         D4985” specifications
+than 1 month must be tested before use. Testing
+should evaluate Urea Percentage, Alkalinity as NH3
+and Biuret content.                                                             NOTICE
+                                                          The Caterpillar industrial engine must be oper-
+The length of storage of DEF is listed in the following   ated with a 1:1 or 50 percent mixture of water and
+table:                                                    glycol. This concentration allows the NOx reduc-
+                                                          tion system to operate correctly at high ambient
+                                                          temperatures.
+
+=== ORIGINAL PDF PAGE 100 ===
+100                                                                                                                   M0108394-08
+Maintenance Section
+Fluid Recommendations
+
+
+                                                                   (Table 24, contd)
+                      NOTICE
+Do not use a commercial coolant/antifreeze that only                                                     12000 Service Hours or Six
+                                                                                 Cat ELC
+meets the ASTM “D3306” or equivalent specification.                                                              Years(2)
+This type of coolant/antifreeze is made for light duty
+                                                                          Commercial coolant that
+automotive applications.                                                                              6000 Service Hours or Six Years
+                                                                         meets the Caterpillar EC-1                  (3)
+Use only the coolant/antifreeze that is recommended.                           Specification
+
+                                                                                                        3000 Service Hours or Three
+                                                                                Cat DEAC
+                                                                                                                   Years
+                      NOTICE
+Do NOT mix brands or types of coolant. Do NOT mix                   Commercial Heavy-Duty Cool-
+brands or types of SCA and/or brands or types of ex-                  ant/Antifreeze that meets 3000 Service Hours or Two Years
+                                                                           “ASTM D6210”
+tenders. Different brands or types may use different
+additive packages to meet the cooling system re-                    Commercial Heavy-Duty Cool-
+quirements. Different brands or types may not be                      ant/Antifreeze that meets 3000 Service Hours or One Year
+compatible.                                                                “ASTM D4985”
+                                                                   (1) Use the interval that occurs first. The cooling system must also
+Failure to follow the recommendations can reduce                       be flushed out now.
+cooling system component life unless appropriate                   (2) Cat ELC Extender must be added at 6000 service hours or one
+corrective action is performed.                                        half of the service life of the Cat ELC. Refer to your machine
+                                                                       Operation and Maintenance Manual for exceptions.
+                                                                   (3) An extender must be added at 3000 service hours or one half
+Caterpillar recommends a 1:1 or 50 percent mixture                     of the service life of the coolant.
+of water and glycol. This mixture of water and glycol
+will provide optimum heavy-duty performance as an                  Note: Refer to Special Publication, SEBU6251,
+antifreeze.                                                        “Caterpillar Commercial Diesel Engine Fluids
+                                                                   Recommendations” for additional information that
+Note: Cat DEAC does not require a treatment with an
+                                                                   relates to coolant for your engine.
+SCA at the initial fill. Commercial heavy-duty
+antifreeze that meets “ASTM D6210” or “ASTM
+D4985” specifications MAY require a treatment with                 S·O·S Coolant Analysis
+an SCA at the initial fill. Read the label or the
+instructions that are provided by the OEM of the                   Table 25
+product.                                                                     Recommended Interval
+                     NOTICE                                               Type of
+Use only Cat products or commercial products that                                  Level 1    Level 2
+have passed Cat EC-1 specification for pre-mixed or
+                                                                          Coolant
+concentrated coolants.                                                        DEAC           Every 250 Hours (1)           Yearly(1)
+
+Use only Cat ELC Extender with Cat ELC.                                        ELC               Optional (1)               Yearly
+                                                                   (1)   The Level 2 Coolant Analysis should be performed sooner if a
+Do NOT use conventional SCA with Cat ELC. Mixing                         problem is identified by a Level 1 Coolant Analysis.
+Cat ELC with conventional coolants and/or conven-
+tional SCA reduces the Cat ELC service life.                       S·O·S Coolant Analysis (Level 1)
+Do NOT mix brands or types of coolant. Do NOT mix
+brands or types of SCA and/or brands or types of ex-               A coolant analysis (Level 1) is a test of the properties
+tenders. Different brands or types may use different               of the coolant.
+additive packages to meet the cooling system re-                   The following properties of the coolant are tested:
+quirements. Different brands or types may not be
+compatible.                                                        • Glycol concentration for freeze protection and boil
+                                                                     protection
+Failure to follow the recommendations can reduce
+cooling system component life unless appropriate
+corrective action is performed.                                    • Ability to protect from erosion and corrosion
+                                                                   • pH
+Table 24
+                      Coolant Service Life                         • Conductivity
+           Coolant Type                Service Life (1)            • Visual analysis
+                                                                   • Odor analysis
+                                                     (continued)
+

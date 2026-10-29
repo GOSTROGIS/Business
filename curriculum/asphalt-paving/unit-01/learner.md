@@ -2,7 +2,7 @@
 
 ## Learner workbook
 
-**Original ACCESS IS4S practice draft • Three supplementary 60-minute sessions**
+**ACCESS IS4S classroom practice • Three 60-minute sessions**
 
 These sessions prepare you to learn about the paving industry. You will explain a basic paving process, read a small project brief, use industry-style numbers and make a clear information sheet for a new learner. The examples and project names in this workbook are invented for practice.
 
@@ -274,4 +274,8 @@ Name one habit from these sessions you could use when reading a real job documen
 
 **One strength I used:** \_\_\_\_\_\_\_\_\_\_ **One next practice goal:** \_\_\_\_\_\_\_\_\_\_
 
-*Curriculum connection: supplied SkilledTradesBC Asphalt Paving/Laydown Technician Program Outline, A1, PDF page 22 / printed page 20. This workbook is original supplementary practice, not an official assessment or approved technical-training allocation. The [instructor guide](instructor.md) records the exact source mapping and teaching references. [Open the supplied A1 outline page](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22).*
+## Continue your learning
+
+Use [Industry evidence and decisions](../line-a/01-industry-evidence.md) to work with dated public industry figures, workplace requirements, a real project funding record and a sourced material-recovery comparison. Follow the [Roadbuilding foundations sequence](../line-a/README.md) for history, technology, teamwork, road documents and emerging trends. Keep your evidence from each activity and record the support you used.
+
+*Occupational alignment: [SkilledTradesBC Asphalt Paving/Laydown Technician Program Outline, A1](../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22), PDF page 22 / printed page 20. The [instructor guide](instructor.md) records the question mapping, teaching sequence and feedback criteria.*

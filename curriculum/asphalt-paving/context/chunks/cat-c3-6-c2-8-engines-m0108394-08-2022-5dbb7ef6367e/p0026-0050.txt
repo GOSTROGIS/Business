@@ -1,0 +1,920 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf
+SOURCE SHA-256: 5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831
+ORIGINAL PDF VIEWER PAGES: 26–50 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 26 ===
+26                                                                                                                   M0108394-08
+Safety Section
+High Pressure Fuel Lines
+
+
+
+
+Illustration 24                                                                                                              g06334696
+
+(1) High-pressure line                    (4) High-pressure line                         (7) High-pressure line
+(2) High-pressure line                    (5) Fuel transfer line that is high pressure   (8) High-pressure fuel manifold (rail)
+(3) High-pressure line                    (6) High-pressure pump
+
+The high-pressure fuel lines are the fuel lines that are               Do not check the high-pressure fuel lines with the
+between the high-pressure fuel pump and the high-                      engine or the starting motor in operation. After the
+pressure fuel manifold and the fuel lines that are                     engine has stopped, you must wait for 10 minutes to
+between the fuel manifold and electronic unit                          allow the fuel pressure to be purged from the high-
+injectors. These fuel lines are different from fuel lines              pressure fuel lines before any service or repair is
+on other fuel systems.                                                 performed on the engine fuel lines. The 10 minute
+                                                                       wait will also allow static charge to dissipate from the
+The fuel lines are different because of the following                  low-pressure fuel system.
+items:
+                                                                       Do not loosen the high-pressure fuel lines to remove
+• The high-pressure fuel lines are constantly                          air from the fuel system. This procedure is not
+  charged with high pressure.                                          required.
+• The internal pressures of the high-pressure fuel                     Visually inspect the high-pressure fuel lines before
+  lines are higher than other types of fuel system.                    the engine is started. This inspection should be each
+                                                                       day.
+• The high-pressure fuel lines are formed to shape
+  and then strengthened by a special process.                          If you inspect the engine in operation, always use the
+                                                                       proper inspection procedure to avoid a fluid
+Do not step on the high-pressure fuel lines. Do not                    penetration hazard. Refer to Operation and
+deflect the high-pressure fuel lines. Do not bend or                   Maintenance Manual, “General hazard Information”.
+strike the high-pressure fuel lines. Deformation or
+damage of the high-pressure fuel lines may cause a                     • Inspect the high-pressure fuel lines for damage,
+point of weakness and potential failure.                                 deformation, a nick, a cut, a crease, or a dent.
+
+=== ORIGINAL PDF PAGE 27 ===
+M0108394-08                                                                                                      27
+                                                                                                    Safety Section
+                                                                                            Before Starting Engine
+
+
+• Do not operate the engine with a fuel leak. If there      All protective guards and all protective covers must
+  is a leak, do not tighten the connection, to stop the     be installed if the engine must be started to perform
+  leak. The connection must only be tightened to the        service procedures. To help prevent an accident that
+  recommended torque. Refer to Disassembly and              is caused by parts in rotation, work around the parts
+  Assembly, “Fuel injection lines - Remove and Fuel         carefully.
+  injection lines - Install”.
+                                                            Do not bypass the automatic shutoff circuits. Do not
+• If the high-pressure fuel lines are torqued correctly     disable the automatic shutoff circuits. The circuits are
+                                                            provided to help prevent personal injury. The circuits
+  and the high-pressure fuel lines are leaking, the         are also provided to help prevent engine damage.
+  high-pressure fuel lines must be replaced.
+                                                            Before starting the engine, ensure that the drive belt
+• Ensure that all clips on the high-pressure fuel lines     is securely in place. The coolant pump is operated by
+  are in place. Do not operate the engine with clips        the drive belt.
+  that are damaged, missing, or loose.
+                                                            See the Service Manual for repairs and for
+• Do not attach any other item to the high-pressure         adjustments.
+  fuel lines.
+                                                                                                            i08219601
+• Loosened high-pressure fuel lines must be
+  replaced. Also removed high-pressure fuel lines           Engine Starting
+  must be replaced. Refer to Disassembly and
+  assembly manual, “Fuel Injection Lines - Install”.        SMCS Code: 1000
+
+                                                i07728672
+
+
+Before Starting Engine                                      Do not use aerosol types of starting aids such as
+                                                            ether. Such use could result in an explosion and
+SMCS Code: 1000                                             personal injury.
+
+                         NOTICE                             If a warning tag is attached to the engine start switch
+For initial start-up of a new or rebuilt engine, and for    or to the controls DO NOT start the engine or move
+start-up of an engine that has been serviced, make          the controls. Consult with the person that attached
+provision to shut the engine off should an overspeed        the warning tag before the engine is started.
+occur. This may be accomplished by shutting off the
+air and/or fuel supply to the engine.                       All protective guards and all protective covers must
+                                                            be installed if the engine must be started to perform
+                                                            service procedures. To help prevent an accident that
+                                                            is caused by parts in rotation, work around the parts
+                                                            carefully.
+
+Engine exhaust contains products of combustion              Start the engine from the operator's compartment or
+which may be harmful to your health. Always                 from the engine start switch.
+start and operate the engine in a well ventilated
+area and, if in an enclosed area, vent the exhaust          Always start the engine according to the procedure
+to the outside.                                             that is described in the Operation and Maintenance
+                                                            Manual, “Engine Starting” topic in the Operation
+Inspect the engine for potential hazards.                   Section. Knowing the correct procedure will help to
+                                                            prevent major damage to the engine components.
+Do not start the engine or move any of the controls if      Knowing the procedure will also help to prevent
+there is a “DO NOT OPERATE” warning tag or similar          personal injury.
+warning tag attached to the start switch or to the
+controls.                                                   To ensure that the jacket water heater (if equipped)
+                                                            and/or the lube oil heater (if equipped) is working
+Before starting the engine, ensure that no one is on,       correctly, check the water temperature gauge. Also,
+underneath, or close to the engine. Ensure that the         check the oil temperature gauge during the heater
+area is free of personnel.                                  operation.
+If equipped, ensure that the lighting system for the
+engine is suitable for the conditions. Ensure that all
+lights work properly, if equipped.
+
+=== ORIGINAL PDF PAGE 28 ===
+28                                                                                                    M0108394-08
+Safety Section
+Engine Stopping
+
+
+                                                             To help prevent sparks from igniting combustible
+                                                             gases that are produced by some batteries, the
+Engine exhaust contains products of combustion               negative “−” cable should be connected last from the
+which may be harmful to your health. Always                  external power source to the primary position for
+start and operate the engine in a well ventilated            grounding.
+area and, if in an enclosed area, vent the exhaust           Check the electrical wires daily for wires that are
+to the outside.
+                                                             loose or frayed. Tighten all loose electrical
+                                                             connections before the engine is started. Repair all
+Note: The engine is equipped with a device for cold          frayed electrical wires before the engine is started.
+                                                             See the Operation and Maintenance Manual for
+starting. If the engine will be operated in very cold
+                                                             specific starting instructions.
+conditions, an extra cold starting aid may be
+required. Normally, the engine will be equipped with
+the correct type of starting aid for the region of           Grounding Practices
+operation.
+These engines are equipped with a glow plug starting
+aid in each individual cylinder that heats the intake air
+to improve starting. Some Caterpillar engines may
+have a cold starting system that is controlled by the
+ECM that allows a controlled flow of ether into the
+engine. The ECM will disconnect the glow plugs
+before the ether is introduced. This system would be
+installed at the factory.
+
+                                                 i02234873
+
+
+Engine Stopping
+SMCS Code: 1000
+Stop the engine according to the procedure in the
+Operation and Maintenance Manual, “Engine
+Stopping (Operation Section)” in order to avoid
+overheating of the engine and accelerated wear of
+the engine components.
+Use the Emergency Stop Button (if equipped) ONLY
+in an emergency situation. Do not use the
+Emergency Stop Button for normal engine stopping.
+After an emergency stop, DO NOT start the engine
+until the problem that caused the emergency stop
+has been corrected.
+Stop the engine if an overspeed condition occurs
+during the initial start-up of a new engine or an            Illustration 25                                g06296580
+engine that has been overhauled.
+                                                             Typical example
+To stop an electronically controlled engine, cut the         (1) Ground to battery
+power to the engine and/or shutting off the air supply       (2) Ground to starting motor
+to the engine.                                               (3) Starting motor to engine block
+
+
+                                                 i08154895
+
+
+Electrical System
+SMCS Code: 1000; 1400
+Never disconnect any charging unit circuit or battery
+circuit cable from the battery when the charging unit
+is operating. A spark can cause the combustible
+gases that are produced by some batteries to ignite.
+
+=== ORIGINAL PDF PAGE 29 ===
+M0108394-08                                                                                                       29
+                                                                                                   Safety Section
+                                                                                                Engine Electronics
+
+
+                                                            To ensure that the engine and the engine electrical
+                                                            systems function correctly, an engine-to-frame
+                                                            ground strap with a direct path to the battery must be
+                                                            used. This path may be provided by way of a direct
+                                                            engine ground to the frame.
+                                                            The connections for the grounds should be tight and
+                                                            free of corrosion. The engine alternator must be
+                                                            grounded to the negative “-” battery terminal. The
+                                                            wire used must be adequate to handle the full
+                                                            charging current of the alternator.
+                                                            The power supply connection for the engine
+                                                            electronics should always be from the isolator to the
+                                                            battery . It is the decision of the OEM which polarity
+                                                            the isolator is connected to.
+
+                                                                                                             i07925886
+
+
+                                                            Engine Electronics
+                                                            SMCS Code: 1000; 1900
+
+
+
+                                                            Tampering with the electronic system installation
+                                                            or the OEM wiring installation can be dangerous
+                                                            and could result in personal injury or death and/
+                                                            or engine damage.
+Illustration 26                                 g06296637
+Typical example
+(4) Ground to the battery
+(5) Ground to the engine block
+(6) Primary position for grounding                          Electrical Shock Hazard. The electronic unit injec-
+                                                            tors use DC voltage. The ECM sends this voltage
+                                                            to the electronic unit injectors. Do not come in
+                      NOTICE                                contact with the harness connector for the elec-
+For C3.6 industrial engines, ensure that a 12 VDC or        tronic unit injectors while the engine is operating.
+24 VDC battery source is used to start the engine.          Failure to follow this instruction could result in
+For C2.8 industrial engines, use a 12 VDC battery           personal injury or death.
+source to start the engine. Never attempt to start an
+engine from an external power source such as elec-          This engine has a comprehensive, programmable
+tric welding equipment, which has a voltage that is         Engine Monitoring System. The Electronic Control
+unsuitable for engine starting and will damage the          Module (ECM) has the ability to monitor the engine
+electrical system.                                          operating conditions. If any of the engine parameters
+                                                            extend outside an allowable range, the ECM will
+Correct grounding for the engine electrical system is       initiate an immediate action.
+necessary for optimum engine performance and
+reliability. Incorrect grounding will result in             The following actions are available for engine
+uncontrolled electrical circuit paths and in unreliable     monitoring control:
+electrical circuit paths.
+                                                            • Warning: A warning light could be illuminated or a
+Uncontrolled electrical circuit paths can result in           sound warning could be activated (horn)
+damage to the crankshaft bearing journal surfaces
+and to aluminum components.                                 • Derate: The engine power could be reduced by 50
+                                                              percent
+Engines that are installed without engine-to-frame
+ground straps can be damaged by electrical                  • Shutdown: The engine could be shut down or only
+discharge.                                                    operate at low idle
+                                                            The following monitored engine operating conditions
+                                                            and components can limit engine speed and/or the
+                                                            engine power:
+
+=== ORIGINAL PDF PAGE 30 ===
+30                                                        M0108394-08
+Safety Section
+Engine Electronics
+
+
+• Engine Coolant Temperature
+• Engine Oil Pressure
+
+• Engine Speed
+• Intake Manifold Air Temperature
+
+• Intake Manifold Pressure
+• Wastegate Regulator
+
+• Supply Voltage to Sensors
+• Fuel Temperature
+• Fuel Pressure in Manifold (Rail)
+
+• NOx Reduction System temperature
+• Engine Aftertreatment System
+The Engine Monitoring package can vary for different
+engine models and different engine applications.
+However, the monitoring system and the engine
+monitoring control will be similar for all engines.
+
+Note: Many of the engine control systems and
+display modules that are available for Caterpillar
+engines will work in unison with the Engine
+Monitoring System. Together, the two controls will
+provide the engine monitoring function for the specific
+engine application. Refer to Troubleshooting for more
+information on the Engine Monitoring System.
+
+=== ORIGINAL PDF PAGE 31 ===
+M0108394-08                                                                                                                    31
+                                                                                            Product Information Section
+                                                                                                   General Information
+
+
+Product Information
+Section
+
+General Information
+                                                  i07853978
+
+
+Model View Illustrations
+SMCS Code: 1000
+The following model views show typical features of
+the engine. Due to individual applications, your
+engine may appear different from the illustrations.
+
+C3.6 Industrial Engine Views
+
+
+
+
+Illustration 27                                                                                                          g06297496
+Typical example
+(1) Selective Catalytic Reduction (SCR)   (6) Air intake from air charge cooler   (11) Starting motor
+(2) Diesel Exhaust Fluid (DEF) injector   (7) Alternator                          (12) Oil drain plug
+(3) Engine harness interface              (8) Oil gauge (Dipstick)                (13) High-pressure fuel pump
+(4) Throttle control valve                (9) Oil filler (lower)                  (14) Diesel Particulate Filter (DPF)
+(5) NOx Reduction System (NRS) valve      (10) Oil filter assembly
+
+=== ORIGINAL PDF PAGE 32 ===
+32                                                                                               M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+
+
+Illustration 28                                                                                      g06297569
+Typical example
+(15) Front lifting eye             (20) Electronic Control Module (ECM),   (24) Coolant intake
+(16) Rear lifting eyes                 location for transportation only    (25) Drive belt
+(17) Actuator for turbocharger     (21) Idler for drive belt               (26) Coolant outlet
+(18) Turbocharger                  (22) Adjuster for drive belt            (27) Top oil filler
+(19) Air intake from air cleaner   (23) Coolant pump pulley
+
+=== ORIGINAL PDF PAGE 33 ===
+M0108394-08                                                                                                        33
+                                                                                       Product Information Section
+                                                                                           Model View Illustrations
+
+
+
+C2.8 Industrial Engine Views
+
+
+
+
+Illustration 29                                                                                              g06481332
+Typical example
+(1) Diesel Particulate Filter (DPF) and Diesel   (4) Throttle control valve   (8) Oil gauge (Dipstick)
+    Oxidation Catalyst (DOC) combined            (5) Alternator               (9) Oil drain plug
+(2) Engine harness interface                     (6) Oil filter assembly      (10) Starting motor
+(3) NOx Reduction System (NRS) valve             (7) Oil filler (lower)       (11) High-pressure fuel pump
+
+=== ORIGINAL PDF PAGE 34 ===
+34                                                                                             M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+
+
+Illustration 30                                                                                    g06481335
+Typical example
+(12) Oil filler (upper)          (17) Air intake from air cleaner        (21) Coolant intake
+(13) Front lifting eye           (18) Electronic Control Module (ECM),   (22) Drive belt
+(14) Rear lifting eyes               location for transportation only    (23) Coolant outlet
+(15) Actuator for turbocharger   (19) Adjuster for drive belt
+(16) Turbocharger                (20) Coolant pump pulley
+
+=== ORIGINAL PDF PAGE 35 ===
+M0108394-08                                                                                                                        35
+                                                                                                      Product Information Section
+                                                                                                          Model View Illustrations
+
+
+
+Loose or Off Engine Components
+
+
+
+
+Illustration 31                                                                                                              g06297651
+Typical example
+(1) Primary fuel filter, combined with electric   (4) Coolant diverter valve                 (10) Inlet temperature sensor
+     fuel priming pump and Water-In-Fuel          (5) Diesel Exhaust Fluid (DEF) pump with   (11) Exhaust assembly
+     (WIF) sensor                                     DEF pump filter                        (12) NOx sensors
+(2) If equipped, secondary fuel filter            (6) DEF tank with DEF header installed     (13) Low-pressure fuel line
+(3) Primary fuel filter, combined with manual     (7) DEF heated lines
+     fuel priming pump and Water-In-Fuel          (8) Link harness
+     (WIF) sensor                                 (9) Electric control module
+
+=== ORIGINAL PDF PAGE 36 ===
+36                                                                                                          M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+                                                  i08067930
+
+
+Model View Illustrations
+SMCS Code: 1000
+The following model views show typical features of
+the engine. Due to individual applications, your
+engine may appear different from the illustrations.
+
+C3.6 Industrial Engine Views For
+Engines Equipped With A Balancer
+
+
+
+
+Illustration 32                                                                                                   g06511376
+Typical example
+(1) Selective Catalytic Reduction (SCR)   (5) Air intake from air charge cooler   (9) Oil drain plug (1 of 2)
+(2) Diesel Exhaust Fluid (DEF) injector   (6) Alternator                          (10) High-pressure fuel pump
+(3) Diesel Particulate Filter (DPF)       (7) Oil filter assembly                 (11) Throttle control valve
+(4) NOx Reduction System (NRS) valve      (8) Starting motor                      (12) Engine harness interface
+
+=== ORIGINAL PDF PAGE 37 ===
+M0108394-08                                                                                                               37
+                                                                                           Product Information Section
+                                                                                               Model View Illustrations
+
+
+
+
+Illustration 33                                                                                                     g06511390
+Typical example
+(13) Rear lifting eyes                  (18) Oil filler                          (24) Fan Pulley
+(14) Actuator for turbocharger          (19) Oil drain plug (2 of 2)             (25) Coolant outlet
+(15) Turbocharger                       (20) Automatic adjuster for drive belt   (26) Air intake from air cleaner
+(16) Electronic Control Module (ECM),   (21) Coolant pump pulley                 (27) Front lifting eye
+    location for transportation only    (22) Coolant intake
+(17) Oil gauge (Dipstick)               (23) Drive belt
+
+=== ORIGINAL PDF PAGE 38 ===
+38                                                                                                                     M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+
+Loose or Off Engine Components
+
+
+
+
+Illustration 34                                                                                                              g06297651
+Typical example
+(1) Primary fuel filter, combined with electric   (4) Coolant diverter valve                 (10) Inlet temperature sensor
+     fuel priming pump and Water-In-Fuel          (5) Diesel Exhaust Fluid (DEF) pump with   (11) Exhaust assembly
+     (WIF) sensor                                     DEF pump filter                        (12) NOx sensors
+(2) If equipped, secondary fuel filter            (6) DEF tank with DEF header installed     (13) Low-pressure fuel line
+(3) Primary fuel filter, combined with manual     (7) DEF heated lines
+     fuel priming pump and Water-In-Fuel          (8) Link harness
+     (WIF) sensor                                 (9) Electric control module
+
+=== ORIGINAL PDF PAGE 39 ===
+M0108394-08                                                                                                      39
+                                                                               Product Information Section
+                                                                                   Model View Illustrations
+
+
+                                                  i09430651
+
+
+Model View Illustrations
+SMCS Code: 1000
+The following model views show typical features of
+the engine. Due to individual applications, your
+engine may appear different from the illustrations.
+
+C3.6 Open Power Unit (OPU)
+
+
+
+
+Illustration 35                                                                                         g06737708
+Typical example
+(1) Selective Catalytic Reduction (SCR)   (8) Radiator drain plug     (15) High-pressure fuel pump
+(2) NOx Reduction System (NRS) valve      (9) Alternator              (16) Throttle control valve
+(3) Electronic Control Module (ECM)       (10) Oil gauge (Dipstick)   (17) Engine harness interface
+(4) Radiator filler cap                   (11) Oil drain tap          (18) Diesel Particulate Filter (DPF)
+(5) Radiator lifting point (1 of 2)       (12) Lower Oil filler       (19) Diesel Exhaust Fluid (DEF) injector
+(6) Radiator                              (13) Oil filter assembly    (20) Engine Rear lifting eyes
+(7) Radiator lifting point (2 of 2)       (14) Starting motor
+
+=== ORIGINAL PDF PAGE 40 ===
+40                                                                                                   M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+
+
+Illustration 36                                                                                          g06737717
+Typical example
+(3) Electronic Control Module (ECM)   (22) Turbocharger                  (25) Engine Front lifting eye
+(5) Radiator lifting point (1 of 2)   (23) Fan guard                     (26) Upper Oil filler
+(21) Actuator for turbocharger        (24) Air intake from air cleaner
+
+=== ORIGINAL PDF PAGE 41 ===
+M0108394-08                                                                                                                                41
+                                                                                                           Product Information Section
+                                                                                                               Model View Illustrations
+
+
+
+Loose or Off Engine Components for C3.6 OPU
+
+
+
+
+Illustration 37                                                                                                                    g06737944
+Typical example
+(1) Primary fuel filter, combined with electric   (3) Primary fuel filter, combined with manual   (6) DEF heated lines
+     fuel priming pump and Water-In-Fuel              fuel priming pump and Water-In-Fuel         (7) NOx sensors
+     (WIF) sensor                                     (WIF) sensor                                (8) DEF tank with DEF header installed
+(2) If equipped, secondary fuel filter            (4) Coolant diverter valve                      (9) line
+                                                  (5) Diesel Exhaust Fluid (DEF) pump with        (10) Inlet temperature sensor
+                                                      DEF pump filter                             (11) Engine air cleaner
+
+=== ORIGINAL PDF PAGE 42 ===
+42                                                                                                      M0108394-08
+Product Information Section
+Model View Illustrations
+
+
+
+C2.8 OPU
+
+
+
+
+Illustration 38                                                                                               g06740506
+Typical example
+(1) Diesel Particulate Filter (DPF) and Diesel   (6) Throttle control valve   (12) Oil drain plug
+    Oxidation Catalyst (DOC) combined            (7) Alternator               (13) Primary fuel filter
+(2) Engine Rear lifting eye                      (8) Oil filter assembly      (14) Engine harness interface
+(3) NOx Reduction System (NRS) valve             (9) Lower Oil filler         (15) High-pressure fuel pump
+(4) Radiator filler cap                          (10) Oil gauge (Dipstick)
+(5) Radiator lifting point (1 of 2)              (11) Starting motor
+
+=== ORIGINAL PDF PAGE 43 ===
+M0108394-08                                                                                                43
+                                                                             Product Information Section
+                                                                                 Model View Illustrations
+
+
+
+
+Illustration 39                                                                                      g06740500
+Typical example
+(16) Actuator for turbocharger   (19) Air intake from air cleaner   (22) Electronic Control Module (ECM)
+(17) Turbocharger                (20) Engine Front lifting eye      (23) Radiator lifting point (2 of 2)
+(18) Fan guard                   (21) Upper Oil filler
+
+=== ORIGINAL PDF PAGE 44 ===
+44                                                                                                                        M0108394-08
+Product Information Section
+Product Description
+
+
+Loose or Off Engine Components for                                      • Diesel Oxidation Catalyst (DOC)
+C2.8 OPU                                                                • Diesel Particulate Filter (DPF)
+
+                                                                        • Selective Catalytic Reduction (SCR)
+
+                                                                        C2.8 Industrial Engine
+                                                                        The Caterpillar C2.8 industrial engine is a single
+                                                                        turbocharged engine. The engine may be
+                                                                        turbocharged or turbocharged with an air charge
+                                                                        cooler.
+                                                                        The engine aftertreatment system is configured as
+                                                                        follows:
+
+                                                                        • Diesel Oxidation Catalyst (DOC)
+                                                                        • Diesel Particulate Filter (DPF)
+
+                                                                        Engine Specifications
+                                                                        Note: The front end of the engine is opposite the
+                                                                        flywheel end of the engine. The left and the right
+                                                                        sides of the engine are determined from the flywheel
+                                                                        end. The number 1 cylinder is the front cylinder.
+Illustration 40                                           g06740514
+Typical example
+(1) Primary fuel filter, combined with electric fuel priming pump and
+     Water-In-Fuel (WIF) sensor
+(2) If equipped, secondary fuel filter
+(3) Primary fuel filter, combined with manual fuel priming pump and
+     Water-In-Fuel (WIF) sensor
+(4) Inlet temperature sensor
+(5) Engine air cleaner
+
+                                                           i07853928
+
+
+Product Description
+((Engine and Aftertreatment))
+SMCS Code: 1000; 4450; 4491
+                                                                        Illustration 41                                           g06297997
+C3.6 Industrial Engine                                                  Typical example
+                                                                        (A) Inlet valves
+The Caterpillar C3.6 industrial engine is a single                      (B) Exhaust valves
+turbocharged, air to air charge cooled engine. There
+are two variants of the C3.6 industrial engines.                        Table 1
+Engines with a power rating of 56 kW (75.1 hp) and
+below or engines with a power rating of 70 kW                                                C3.6 Engine Specifications
+(93.9 hp) and above.                                                    Operating Range (rpm)                     800 to 2400 (1)
+The engine aftertreatment system for engines with a                     Number of Cylinders                          4 In-Line
+power ratings of 56 kW (75.1 hp) and below, is
+configured as follows:                                                  Bore                                    98 mm (3.86 inch)
+
+• Diesel Oxidation Catalyst (DOC)                                       Stroke                                  120 mm (4.72 inch)
+
+                                                                        Power rating (engines with DOC
+• Diesel Particulate Filter (DPF)                                       and DPF)
+                                                                                                                55.4 kW (74.29 hp)
+
+The engine aftertreatment system for engines with a
+power ratings of 70 kW (93.9 hp) and above, is
+configured as follows:                                                                                                           (continued)
+
+=== ORIGINAL PDF PAGE 45 ===
+M0108394-08                                                                                                                 45
+                                                                                                  Product Information Section
+                                                                                                  (Engine and Aftertreatment)
+
+
+(Table 1, contd)                                                     • Torque rise shaping
+Power rating (engines with                   70 to 100 kW
+DOC, DPF, and SCR)                        (93.87 to 134.1 hp)
+                                                                     • Injection timing control
+
+Aspiration                           Turbocharged charge cooled      • System diagnostics
+Compression Ratio                                17:1                • NOx reduction system control
+Displacement                         3.621 L (220.966 cubic inch)    • Aftertreatment system control
+Firing Order                                   1-3 -4-2
+                                                                     The ECM provides an electronic governor that
+Valves per cylinder                                4                 controls the injector output to maintain the desired
+                                                                     engine speed.
+Rotation (flywheel end)                    Counterclockwise
+(1)
+                                                                     For more information on electronic engine features,
+      The operating rpm depends on the engine rating, the applica-
+      tion, and the configuration of the throttle.
+                                                                     refer to the Operation and Maintenance Manual,
+                                                                     “Features and Controls” topic (Operation Section).
+Table 2
+                     C2.8 Engine Specifications                      Engine Diagnostics
+Operating Range (rpm)                       800 to 2400 (1)          The engine has built-in diagnostics to ensure that the
+                                                                     engine systems are functioning correctly. The
+Number of Cylinders                            4 In-Line             operator will be alerted to the condition by a “Stop or
+Bore                                      90 mm (3.54 inch)          Warning” lamp. Under certain conditions, the engine
+                                                                     horsepower and the vehicle speed may be limited.
+Stroke                                    110 mm (4.33 inch)         The electronic service tool may be used to display
+                                                                     the diagnostic codes.
+Power rating                              50 kW to 55.4 kW
+                                        (67.05 hp to 74.29 hp)       There are three types of diagnostic codes: active,
+Aspiration                             Turbocharged and Turbo-
+                                                                     logged, and event.
+                                        charged charge cooled
+                                                                     Most of the diagnostic codes are logged and stored in
+Compression Ratio                                17:1                the ECM. For additional information, refer to the
+                                                                     Operation and Maintenance Manual, “Engine
+Displacement                           2.8 L (170.87 cubic inch)     Diagnostics” topic (Operation Section).
+Firing Order                                   1-3 -4-2
+                                                                     Engine Cooling and Lubrication
+Valves per cylinder                                4
+                                                                     The cooling system and lubrication system consists
+Rotation (flywheel end)                    Counterclockwise          of the following components:
+(1)   The operating rpm depends on the engine rating, the applica-
+      tion, and the configuration of the throttle.                   • Belt driven water pump
+
+                                                                     • Water temperature regulator which regulates the
+Electronic Engine Features                                             engine coolant temperature
+The engine and aftertreatment operating conditions                   • Gear-driven gerotor type oil pump
+are monitored. The Electronic Control Module (ECM)
+controls the response of the engine to these                         • Oil cooler
+conditions and to the demands of the operator. These
+conditions and operator demands determine the                        The engine lubricating oil is supplied by a gerotor
+precise control of fuel injection by the ECM. The                    type oil pump. The engine lubricating oil is cooled
+electronic engine control system provides the                        and the engine lubricating oil is filtered. The bypass
+following features:                                                  valve can provide unrestricted flow of lubrication oil to
+                                                                     the engine if the oil filter element should become
+• Engine monitoring                                                  plugged.
+
+• Engine speed governing
+
+• Control of the injection pressure
+• Cold start strategy
+
+• Automatic air/fuel ratio control
+
+=== ORIGINAL PDF PAGE 46 ===
+46                                                        M0108394-08
+Product Information Section
+(Engine and Aftertreatment)
+
+
+Engine efficiency, efficiency of emission controls, and
+engine performance depend on adherence to proper
+operation and maintenance recommendations.
+Engine performance and efficiency also depend on
+the use of recommended fuels, lubrication oils, and
+coolants. Refer to this Operation and Maintenance
+Manual, “Maintenance Interval Schedule” for more
+information on maintenance items.
+
+Engine Service Life
+Engine efficiency and maximum utilization of engine
+performance depend on the adherence to proper
+operation and maintenance recommendations. In
+addition, use recommended fuels, coolants, and
+lubricants. Use the Operation and Maintenance
+Manual as a guide for required engine maintenance.
+Expected engine life is generally predicted by the
+average power that is demanded. The average
+power that is demanded is based on fuel
+consumption of the engine over time. Reduced hours
+of operation at full throttle and/or operating at
+reduced throttle settings result in a lower average
+power demand. Reduced hours of operation will
+increase the length of operating time before an
+engine overhaul is required. For more information,
+refer to the Operation and Maintenance Manual,
+“Overhaul Considerations” topic (Maintenance
+Section).
+
+Aftermarket Products and
+Caterpillar Engines
+Caterpillar does not warrant the quality or
+performance of non-Caterpillar fluids and filters.
+When auxiliary devices, accessories, or
+consumables (filters, additives, catalysts), which are
+made by other manufacturers are used on Caterpillar
+products, the Caterpillar warranty is not affected
+simply because of such use.
+However, failures that result from the installation
+or use of other manufacturers devices,
+accessories, or consumables are NOT Caterpillar
+defects. Therefore, the defects are NOT covered
+under the Caterpillar warranty.
+
+Aftertreatment System
+The aftertreatment system is approved for use by
+Caterpillar. To be emissions-compliant, only the
+approved Caterpillar aftertreatment system must be
+used on a Caterpillar engine.
+
+=== ORIGINAL PDF PAGE 47 ===
+M0108394-08                                                                                                      47
+                                                                                    Product Information Section
+                                                                                Product Identification Information
+
+
+Product Identification
+Information
+                                               i07816292
+
+
+Plate Locations and Film
+Locations
+SMCS Code: 1000; 4450
+
+
+
+
+                                                           Illustration 43                                 g03047463
+                                                           Typical example of serial number plate
+
+                                                                                                           i08043623
+
+
+                                                           Emissions Certification Film
+                                                           SMCS Code: 1000; 7405
+
+
+
+
+Illustration 42                               g06298126
+Typical example
+(1) Engine serial number plate location
+
+
+Serial Number Plate
+The engine serial number plate (1) is on the right side
+of the cylinder block to the rear of the front engine
+mounting.
+Caterpillar dealers need all these numbers to
+determine the components that were included with
+the engine. This information permits accurate              Illustration 44                                 g06522161
+identification of replacement part numbers.                Typical location of the engine emission label
+
+                                                           The engine emission label is typically installed on the
+                                                           flywheel housing at Position (X). An extra engine
+                                                           emission label may be supplied loose.
+
+=== ORIGINAL PDF PAGE 48 ===
+48                                                       M0108394-08
+Product Information Section
+Reference Information
+
+
+                                             i07925928
+
+
+Reference Information
+SMCS Code: 1000; 4450
+Information for the following items may be needed to
+order parts. Locate the information for your engine.
+Record the information in the appropriate space.
+Make a copy of this list for a record. Keep the
+information for future reference.
+
+Record for Reference
+Engine Model
+Engine Serial number
+Engine Low Idle rpm
+Engine Full Load rpm
+In Line Fuel Filter
+Primary Fuel Filter
+Secondary Fuel Filter Element
+Lubrication Oil Filter Element
+Auxiliary Oil Filter Element (if equipped)
+Total Lubrication System Capacity
+Total Cooling System Capacity
+Air Cleaner Element
+Drive Belt
+
+Clean Emissions Module
+Part Number
+Serial Number
+
+Diesel Exhaust Fluid (DEF) Pump
+Part Number
+Serial Number
+
+=== ORIGINAL PDF PAGE 49 ===
+M0108394-08                                                                                                          49
+                                                                                                  Operation Section
+                                                                                                 Lifting and Storage
+
+
+Operation Section                                             C3.6 Industrial Engine
+
+Lifting and Storage
+                                                  i09512670
+
+
+Product Lifting
+SMCS Code: 7000; 7002
+
+                       NOTICE
+Always inspect lifting eyebolts and all other lifting
+equipment for damage before performing any lifting.
+Never bend the eyebolts and the brackets. Never
+perform product lifting if components are damaged.
+Only load the eyebolts and the brackets under ten-
+sion. Remember that the capacity of an eyebolt is
+less as the angle between the supporting members
+and the object becomes less than 90 degrees.
+When it is necessary to remove a component at an
+angle, only use a link bracket that is properly rated for
+the weight.
+Read all the information within product lifting before
+any lifting is attempted. Ensure that the correct set of
+lifting eyes for the assembly to be lifted have been
+selected.
+Use a hoist to remove heavy components. Use an
+                                                              Illustration 45                                g06298473
+adjustable lifting beam to lift the engine. All
+supporting members (chains and cables) should be              Typical example
+parallel to each other. The chains and cables should          (1) Rear lifting eyes
+be perpendicular to the top of the object that is being       (2) Front lifting eye
+lifted.
+                                                              Use all 3 lifting eyes when lifting engine assembly.
+To obtain the correct balance for lifting an application,
+adjust the chain lengths.
+Lifting eyes are designed and installed for the
+specific engine arrangement. Alterations to the lifting
+eyes and/or the engine, make the lifting eyes and the
+lifting fixtures obsolete. If alterations are made,
+ensure that proper lifting devices are provided.
+There are several different designs of lifting eyes.
+The following sections give examples of lifting eyes
+on the engine and engine with aftertreatment.
+Consult your Caterpillar dealer for information
+regarding fixtures for proper engine lifting.
+
+=== ORIGINAL PDF PAGE 50 ===
+50                                                                                                 M0108394-08
+Operation Section
+Product Lifting
+
+
+Caterpillar recommends that model-specific cradles        Caterpillar recommends that model-specific cradles
+are used to store and transport engines. Supporting       are used to store and transport engines. Supporting
+engines on the sump/oil pan is not recommended            engines on the sump/oil pan is not recommended
+under any circumstances. This action is for both          under any circumstances. This action is for both
+safety and quality reasons.                               safety and quality reasons.
+
+C3.6 Industrial Engine Equipped                           C3.6 Open Power Unit (OPU)
+With A Balancer
+
+
+
+
+Illustration 46                               g06511783
+Typical example
+(1) Rear lifting eyes
+(2) Front lifting eye
+
+Use both lifting eyes when lifting engine assembly.       Illustration 47                                g06742363
+                                                          Typical example
+                                                          (1) Radiator lifting eye (1 of 2)
+                                                          (2) Radiator lifting eye (2 of 2)
+                                                          (3) Front lifting eye
+                                                          (4) Rear lifting eye
+                                                          (5) Rear lifting eye
+
+                                                          Use all 3 lifting eyes when lifting engine assembly.
+                                                          Use both lifting eyes when lifting radiator assembly.
+

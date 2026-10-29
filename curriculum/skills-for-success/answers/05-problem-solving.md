@@ -73,5 +73,3 @@ Before: 9 corrections/30 sets=30%. After: 1/20=5%. Difference 25 percentage poin
 ## PS-18
 
 Look for all six steps and a labelled original practice document. A two-time notice needs confirmation of the authorized current time before travel advice is given; an unquantified supply item needs its quantity/specification before ordering. Alternatives could include holding the uncertain part while completing confirmed work, asking the responsible contact, or issuing a clearly marked correction after confirmation. The evaluation should specify how the corrected information will be checked. A personal reflection needs an example of reasoning, and proposed workplace transfer remains a plan until observed.
-
-**Source:** SkillPlan, revised March 2024, [Problem Solving pp.78–84](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=78). Answer models and case records are original classroom material.

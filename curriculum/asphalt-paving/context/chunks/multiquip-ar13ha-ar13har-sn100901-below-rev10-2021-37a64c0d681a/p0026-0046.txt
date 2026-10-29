@@ -1,0 +1,919 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/multiquip-ar13ha-ar13har-sn100901-below-rev10-2021.pdf
+SOURCE SHA-256: 37a64c0d681a13fff1be9d3e6978ab762dc9b81471992865f5d681037f45adce
+ORIGINAL PDF VIEWER PAGES: 26–46 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 26 ===
+AAR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+Hydraulic Oil System                                                                              HYDRAULIC OIL           HYDRAULIC OIL
+                                                                                                 CAP/FILLER PORT          SUCTION FILTER
+The hydraulic system consists of a two pump stack directly
+coupled to the engine. A hydraulic valve block (manifold)is
+provided for quick and easy testing and troubleshooting.
+Hydraulic oil is filtered by a screen filter located in the tank filler
+neck, a 40 micron suction filter located in the tank, and a 10
+micron return filter, with cold oil bypass valve located in the
+return circuit.
+It is recommended that ISO 46 type hydraulic oil or equivalent
+                                                                          HYDRAULIC
+be used when adding or replacing the hydraulic oil is required.            OIL DRAIN
+DO NOT USE MULTI-VISCOSITY OIL. Cleanliness is a very                        PLUG
+important part of proper hydraulic system operation. Hydraulic
+oil is not only used to transfer power; it also lubricates and cools
+the system components. Keeping the hydraulic system clean
+can help reduce costly repairs.                                                                      HYDRAULIC OIL
+                                                                                                     RETURN FILTER
+The hydraulic oil level sight glass is located on the right rear of
+the front drum, below the engine compartment. This level should                       Figure 26. Hydraulic Filter Locations
+be checked daily. Oil must be below the top and above the bottom
+of the sight glass. DO NOT OVERFILL! Care should be taken to              Changing Hydraulic Oil and Filters
+clean the filler cap before adding oil to the system. If hydraulic oil    1.   Park the roller on a clean flat work area and set the parking
+has to be added, the machine should be inspected for leaks.                    brake.
+The suction filter (Figure 26) is located inside the hydraulic            2.   Remove the hydraulic oil drain plug (Figure 26) and
+tank. This filter is attached to the fitting connected to the hydraulic        drain the hydraulic oil. Dispose of the used oil in an
+pump suction hose.                                                             environmentally friendly manner. Replace the drain plug
+The return filter (Figure 26) is located at the front of the engine            and tighten.
+compartment. Replace both filters according to the Table 5.               3.   Remove the return filter and install a new filter. Dispose of
+                                                                               the used filter in an environmentally friendly manner.
+        CAUTION - HYDRAULIC SYSTEM HAZARD                                 4.   Disconnect the suction hose and remove the fitting from
+                                                                               the tank. Replace the suction filter. Dispose of the used
+  DO NOT open hydraulic lines or loosen hydraulic fittings
+                                                                               filter in an environmentally friendly manner. Replace the
+  while engine is running! Hydraulic fluid under pressure can
+                                                                               fitting and reconnect the suction hose.
+  penetrate the skin, blind, cause burns or create other
+  potentially dangerous hazards follow all safety instructions            Freewheel Engagement Valve
+  as described throughout this manual.                                    This hydraulic system has a freewheel engagemet valve allowing
+                                                                          hydraulic oil to be bypassed. Open (turn allen wrench counter-
+                                                                          clockwise) this valve (Figure 27) to engage the freewheel
+                                                                          capability of the roller. When the valve is fully opened, ports A
+                                                                          and B are allowed to connect, bypassing the oil to and from the
+                                                                          drum drive motors.
+                                                                          Remember the freewheel engagement valve should only be
+                                                                          used in emergencies when the roller cannot be driven due to
+                                                                          engine or hydraulic system problems.
+                                                                          When towing of the roller has been completed, this valve must
+                                                                          be closed (turn allen wrench fully clockwise) completely and
+                                                                          the lock nut set. Failure to close this valve completely will result
+                                                                          in low power, improper speed, and excessive hydraulic oil
+                                                                          temperature.
+
+     PAGE 26 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 27 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+                                                                        The vibration circuit is controlled by an electric control valve
+       CAUTION - Freewheel Engagement Valve                             located on the valve block (manifold). This valve is controlled by
+ The freewheel engagement valve (towing) is only for                    the “ON/OFF” pushbutton switch mounted on top of the travel
+ emergency use. DO NOT move roller over 2 MPH or long                   lever.
+ distances as hydraulic system component failure could result.          High-pressure oil is supplied by the pump to the                PUSH
+                                                                                                                                          TO
+                                                                        valve block (port P) and is directed to the electric            START
+
+                                  ALLEN                                 control valve. When the pushbutton switch is in the
+                                 WRENCH
+                                                                        “OFF” position, this valve is open allowing oil to go
+                                                                                                                                   CLOSED
+                                                                        to the steering valve, without driving the vibration        (ON)
+
+                   OPEN                                                 motor.
+
+                                                                                                                                      PUSH
+                                                                        When the switch is in the “ON” position, the                    TO
+                                                                                                                                      START
+                 CLOSED                                                 electric control valve closes and oil is directed
+                                                                        out of port 1 to the vibration motor. Return oil
+    TOW                                                                 from the motor returns to the valve block via port
+ FREEWHEEL                                                              2 and is directed to the steering valve.               CLOSED
+                                                                                                                                (ON)
+ENGAGEMENT
+   VALVE
+
+
+
+                                                                        Steering is controlled by a steering valve and cylinder (Figures
+                                                                        29 and 30). The steering wheel is direct coupled to the steering
+          Figure 27. Freewheel Engagement Valve
+                                                                        valve controling the oil flow to the cylinder. Oil supplied from the
+Drum Drive                                                              vibration circuit is directed to port 3 which connects to port P of
+The drum drive circuit is a parallel, closed loop system                the steering valve. When steering is not being used, oil passes
+(Figures 38 and 39) consisting of a hydrostatic pump, two               out of port T of the valve block and returns to the hydraulic tank.
+relief valves, a freewheel engagement valve, front and rear             When the steering wheel is operated, the steering valve closes
+drum drive motors.                                                      and oil is directed to ports L or R to extend or retract the steering
+                                                                        cylinder.
+The hydrostatic pump is manually controlled by a cable
+connected to the forward/reverse shift lever located on the right       Rubber Scrapper Mat
+side of the operator seat. When the shift lever is placed in forward,   Rubber scraper mats have been provided for the cleaning of the
+high-pressure oil is supplied by the hydrostatic pump to the valve      front and rear drums. Adjust the scrapers mats as close as
+block (port A). The valve block (manifold) directs this high-           possible to the drums, using the slotted holes (Figure 28)
+pressure oil to the front and rear drum drive motors. Return oil        provided. Replace these rubber mats when they become badly
+from the motors is returned to the valve block (port B) and is          worn.
+returned to the suction side of the hydrostatic pump.
+When shifted into reverse, the high-pressure and suction ports
+on the hydrostatic pump are reversed. Oil flow is then in the
+opposite direction of forward (port B becomes high-pressure
+and port A becomes suction)
+Vibration and Steering
+The vibration and steering system is an open loop circuit
+operated by a gear type pump. Separate relief valves control
+each circuit. This system consist of the gear pump, relief valves,
+electric vibration control valve, vibration drive motor, steering
+valve, and steering cylinder.
+
+
+                                                                                     Figure 28. Scraper Bar Adjustment
+
+     AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 27
+
+=== ORIGINAL PDF PAGE 28 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+Forward/Reverse Hydraulic Pressure Test                                1.    On the manifold block install a 5,000 psi pressure gauge to
+Park the machine on a solid flat surface and stop the engine. Set            quick disconnect test port 1.
+the parking brake and block the front drum securely.                   2.    Start the engine and run at full throttle.
+1.   Check hydraulic oil level by viewing the hydraulic oil sight      3.    To start the vibration, press the pushbutton switch
+     glass. The hydraulic oil level must be below the top and                (vibration control) located on top of the travel lever. Under
+     above the bottom of the sight glass. DO NOT OVERFILL!                   normal operating conditions this pressure will range
+2.    Adjust engine RPM (3,500 +/- 50 RPM)                                   between 900-1,500 psi.
+3.   Let engine run for 5 minutes, this will bring the hydraulic oil
+     operating temperature to a minimum of 135° farenheit.                  NOTICE
+4.   Check and repair all hydraulic leaks.                                  Vibration relief pressure is hard to read accurately using
+                                                                            this test. It may be necessary to disconnect the pressure
+5.   On the manifold block install a 5,000 psi pressure gauge
+                                                                            line to the vibration drive motor. Plug this line and re-test,
+     (Figure 34) to the forward pressure quick disconnect
+                                                                            pressure will be exact relief pressure. DO NOT perform
+     test port 2
+                                                                            this test for a long period of time — damage could occur.
+6.   Run engine at full throttle.
+7.   Move the travel lever to the forward position. MAKE SURE          Steering Pressure Test
+     FRONT AND REAR DRUMS DO NOT SPIN.
+                                                                       1.    On the manifold block, install a 5,000 psi pressure gauge
+8.   Read the pressure gauge. The relief pressure (roller                    into quick disconnect test port 1 (Figure 34).
+     drums blocked) will read 2,900 ± 145 psi. Under normal
+     operating conditions this pressure will read 400-600 psi.         2.    Start the engine and run at full throttle.
+9.   Return the travel lever to the neutral position and stop the      3.    Turn the steering wheel to the left or right (maximum) and
+     engine.                                                                 hold. Read the steering relief pressure. The relief pressure
+                                                                             reading for the steering test port 1 will be 700 psi. Again,
+10. Install the pressure gauge into the reverse quick disconnect             under normal operating conditions, pressure for the
+    port 3 and repeat the above procedures. The relief pressure              steering port will be between 200-400 psi.
+    reading for the reverse test port 3 will be the same (2,900
+    psi). Again normal operation pressure for the reverse port         If maximum pressure cannot be reached, plug the steering
+    will be 400-600 psi.                                               cylinder pressure hoses and re-test. If pressure is correct the
+                                                                       steering cylinder is leaking. DO NOT ACTIVATE THE
+     Normal operating pressures are based on the machine               VIBRATION FUNCTION WHILE PERFORMING THIS TEST !
+     traveling on level, firm surface. The operating pressures
+     will increase significantly when traveling uphill.
+Vibration Circuit Pressure Test
+Place the front drum on soil, gravel, or a heavy rubber mat.
+DO NOT ACTIVATE VIBRATION FEATURE ON CONCRETE
+OR HARD SURFACE!
+
+
+                                                                                                              TEST PORTS
+                                                                                                              1. Vibration and Steering
+                                                                                                              2. Reverse
+                                                                                                              3. Forward
+
+
+
+
+                                                Figure 34. Manifold Test Ports
+     PAGE 28 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 29 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+Forward/Reverse Relief Valves Drive Adjustment                          Steering Relief Valve Pressure Adjustment
+The forward and reverse relief valves (Figure 35) are located           To adjust the relief valve steering pressure perform the following:
+in the hydrostatic pump (not on the manifold block) under plugs         1.   Insert an 8 mm allen wrench into steering relief port 4
+1 and 2 . Plug 2 is located in the same location as plug 1, except           (Figure 36) on the manifold block.
+it is on the bottom side of the pump. Relief valve 1 is reverse and
+2 is forward.                                                           2.   On the manifold, connect at 5,000 psi pressure gauge into
+                                                                             quick disconnect test port 1.
+     NOTICE                                                             3.   Start the engine and run at full throttle.
+     Axle Pumps supplied after 01/01/2003 DO NOT have                   4.   Turn the steering wheel to the left or right (maximum) and
+     adjustable relief cartridges. The pressure is fixed at 2,900 ±          hold. Read the steering relief pressure. The relief pressure
+     145 psi. If the relief pressure is not within normal range, the         reading for the steering test port 1 will should be 700 psi.
+     complete cartridge must be replaced.                               5.   If the steering relief pressure is not 700 psi, using the allen
+                                                                             wrench adjust the pressure at port 4 until the pressure
+1.     Clean the area around the cap.                                        gauge reads 500 psi.
+2.     Remove the cap.
+3.     Carefully remove the valve cartridge.
+4.     Using an allen wrench, remove the top nut (extreme care
+       must be taken not to loosen existing shims, spring, or valve)
+       Add or remove shims as required. Adding shims increases
+       pressure; removing shims lowers pressure. One shim is
+       equal to approximately 50 psi. Shim P/N is 34538.
+5.     Install the top nut and install valve in the pump cavity using
+       extreme care not to bind.
+6.     Install the valve cap.
+7.     Re-test pressure, further adjustment may be needed if
+       pressure is not correct.
+                             REVERSE
+                            RELIEF VALVE                                      Figure 36. Steering and Vibration Relief Valves
+                              (PLUG 1)
+             HYDROSTATIC
+                PUMP                                                    Vibration Relief Valve Pressure Adjustment
+                                                                        1.   Insert an 8 mm allen wrench into steering relief port 5
+                                                                             (Figure 36) on the manifold block.
+                                                                        2.   On the manifold block, insert a 5,000 psi pressure gauge
+                                                                             into quick disconnect test port 1.
+                                                                        3.   Start the engine and run at full throttle.
+                                                                        4.   To start the vibration, press the pushbutton switch
+                                                                             (vibration control) located on top of the travel lever. The
+                                                                             relief pressure should read 900 ~ 1,500 psi.
+                                                                        5.   If the vibration relief pressure is not 900 ~ 1,500 psi using
+                        FORWARD                                              the allen wrench adjust the pressure at port 5 until the
+                       RELIEF VALVE
+                         (PLUG 2)                                            pressure guage reads correctly.
+            Figure 35. Adjusting Forward/Reverse
+                         Relief Valves
+
+
+
+      AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 29
+
+=== ORIGINAL PDF PAGE 30 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+Removing and Replacing Hydrostatic Pump                             Drums and Main Frame
+1.   Set the parking brake.                                         The front drum is designed to apply vibration and compaction
+2.   Disconnect the battery.                                        force to the operating surface for compaction. This vibration and
+                                                                    compaction force is produced when the vibrator shaft is rotated.
+3.   Clean the pump and all connections.
+                                                                    Maximum efficiency is achieved only when the engine is operated
+4.   Mark and disconnect all hoses and lines from the pump.         at full throttle.
+5.   Disconnect the forward / reverse control cable.                A single drive motor is mounted on the left side of the drum and
+6.   Disconnect the pump support bracket.                           is shockmounted. This type of drive motor is designed for
+                                                                    maximum torque and power.
+7.   Remove the engine mounting bolts.
+                                                                    The vibrator is driven by a gear motor coupled to the vibrator
+8.   Elevate the pump and engine assembly using a proper
+                                                                    shaft. The vibrator assembly rotates inside of a sealed housing
+     lifting device.
+                                                                    containing oil to lubricate the bearings. This side of the drum is
+9.   Disconnect and remove the hydrostatic pump assembly.           also shock mounted.
+10. Repair or replace the hydrostatic pump as required.             Front and Rear Drum Removal and Disassembly.
+11. Install the hydrostatic pump in the reverse order of removal,   The removal and disassembly of the front and rear drums shall
+    using Locktite 271 on all mounting bolts and nuts.              be referenced by Figures 37, 38, and 39 on the following pages.
+12. Test operate. Test and adjust the forward and reverse relief    When reassembling the front drum use Locktite 271 on all
+    pressures as required. Adjust the forward / reverse control     mounting hardware.
+    cable.
+Removing and Replacing Vibration/Steering Pump
+1.   Remove the hydrostatic pump as per preceding instructions.
+2.   Remove all hoses and lines.
+3.   Disconnect the vibration / steering pump and remove.
+4.   Repair or replace pump as required.
+5.   Install the pump in the reverse order of removal, using
+     Locktite 271 on all mounting bolts and nuts.
+6.   Test operate. Test and adjust the forward and reverse
+     pressure relief valves as required. Adjust the forward/
+     reverse control cable. Test and adjust the vibration and
+     steering pressure relief valves as required.
+
+
+
+
+     PAGE 30 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 31 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+
+
+
+
+                                                  Q
+STEP 1
+                                                   STEP 4                     P
+
+                                                      O
+                                                             Q
+                                                                             STEP 3
+           STEP 2                                                       P
+1. JACK FRAME UP SLIGHTLY AT                              3. MARK AND DISCONNECT
+   ARTICULATION JOINT.                                       HOSES FROM MOTOR AND
+                                                             MANIFOLD.
+2. REMOVE THE FOUR ALLEN HEAD
+   SCREWS HOLDING THE SIDE                                4. REMOVE FOUR ALLEN HEAD
+   COVER OF THE DRUM SUPPORT                                 SCREWS FROM DRUM SUPPORT
+   PLATE.                                                    PLATES.(SCREWS MAY NEED TO BE
+                                                             HEATED TO REMOVE)
+
+
+
+
+5. REMOVE NUTS SECURING FLANGE
+   ASSEMBLY TO DRUM SUPPORT PLATE
+   AND PULL OFF OF FLANGE ASSEMBLY.
+
+6. REMOVE THE SIX 9/16 BOLTS SECURING
+   EXCITER PLATE TO DRUM WALL
+
+
+
+
+                                                                    R   UM
+                                                             N   TD            STEP 7
+                                                         O
+                                                      FR
+
+
+                                                                    7. PULL EXCITER ASSEMBLY TO
+                                                                       REMOVE FROM DRUM INTERIOR.
+                                         STEP 6
+                                                                    8. REVERSE PROCEDURES TO
+                                                                       REASSEMBLE DRUM. USE
+            STEP 5                                                     LOCKTITE 271 ON ALL BOLTS
+                                                                       AND NUTS.
+
+                             Figure 37. Front-Right Drum Removal
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 31
+
+=== ORIGINAL PDF PAGE 32 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+
+
+
+
+                                STEP 1
+                                                                                  STEP 4
+
+
+                                                                                 M
+                                                                    N
+                  STEP 2                                                 STEP 3
+
+
+
+  1. JACK FRAME UP SLIGHTLY AT                         3. MARK AND DISCONNECT
+     ARTICULATION JOINT.                                  HOSES FROM MOTOR.
+
+  2. REMOVE THE EIGHT ALLEN HEAD                       4. REMOVE FOUR ALLEN HEAD
+     SCREWS HOLDING THE SIDE                              SCREWS FROM DRUM SUPPORT
+     COVER OF THE DRUM SUPPORT                            PLATE. (SCREWS MAY NEED TO BE
+     PLATE.                                               HEATED TO REMOVE)
+
+
+
+  5. PULL DRUM SUPPORT PLATE
+     OFF DRIVE PLATE ASSEMBLY.
+
+  6. REMOVE FOUR ALLEN HEAD
+     SCREWS SECURING MOTOR TO
+     DRUM SUPPORT PLATE AND
+     SET ASIDE.
+
+  7. REMOVE SIX NUTS SECURING
+     DRIVE PLATE TO SHOCK MOUNTS.                                                          STEP 6
+     PULL OFF DRIVE PLATE AND SET
+     ASIDE.
+                    STEP 9                                                        STEP 5
+
+
+
+
+                                                                        STEP 7
+                                                         STEP 8
+
+                                                    STEP 8    8.   UN-THREAD SIX SHOCK MOUNTS
+                                                                   FROM DRUM WALL TO REPLACE.
+                                                M
+                                       D   RU
+                                    NT                        9.   PULL EXCITER ASSEMBLY TO
+                                O
+                           FR                                      REMOVE FROM DRUM INTERIOR.
+
+                                                              10. REVERSE PROCEDURES TO
+                                                                  REASSEMBLE DRUM. USE
+                                                                  LOCKTITE ON ALL NUTS AND
+                                                                  BOLTS.
+
+
+         Figure 38. Front-Left Drum Removal
+
+PAGE 32 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 33 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+
+
+
+
+                                                                                    STEP 6
+
+                                                                                     STEP 4
+
+
+
+    STEP 2
+                                                                   I STEP 5
+                        STEP 1                                              J
+             STEP 3
+                                                                           STEP 4
+
+   1. JACK FRAME UP SLIGHTLY AT                            4. REMOVE ALLEN HEAD SCREWS
+      ARTICULATION JOINT.                                     HOLDING THE SIDE COVER OF THE
+                                                              DRUM SUPPORT PLATE.
+   2. REMOVE THE FOUR ALLEN HEAD
+      SCREWS SECURING THE DRUM                             5. MARK AND DISCONNECT
+      SUPPORT PLATE TO THE FRAME.                             HOSES FROM MOTOR.
+
+   3. REMOVE NUTS SECURING BEARING                         6. REMOVE FOUR ALLEN HEAD
+      FLANGE TO BASE OF DRUM SUPPORT                          SCREWS FROM DRUM SUPPORT
+      PLATE.                                                  PLATES.
+
+   7. REMOVE TWO NUTS SECURING
+      DRUM SUPPORT PLATE TO FLANGE.
+      PULL OFF LEFT DRUM SUPPORT
+      PLATE AND SET ASIDE.
+
+   8. PULL FLANGE OFF DRUM ROD                                                                 STEP 10
+      FOR SERVICE.
+
+   9. PULL RIGHT DRUM SUPPORT PLATE
+      OFF DRIVE PLATE ASSEMBLY.                                                       STEP 9
+
+
+
+                                                                          STEP 11
+
+
+
+                                                       M         10. REMOVE FOUR ALLEN HEAD
+                                                   U                 SCREWS SECURING MOTOR TO
+                                                DR
+                                           AR                        DRUM SUPPORT PLATE AND
+                                      RE                             SET ASIDE.
+
+                                                                 11. REMOVE SIX BOLTS SECURING
+                                                                     DRIVE PLATE TO DRUM WALL.
+                        STEP 8                                       PULL OFF DRIVE PLATE AND SET
+             STEP 7                                                  ASIDE.
+
+                                                                 12. REVERSE PROCEDURES TO
+                                                                     REASSEMBLE DRUM.
+
+
+  Figure 39. Rear Drum Removal/Installation
+
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 33
+
+=== ORIGINAL PDF PAGE 34 ===
+AR13HA-HAR RIDE-ON ROLLER — MAINTENANCE
+Alternator/Regulator
+The AR-13H is equipped with a 20 amp charging system. This
+system uses three charge coils connected in parallel. The
+windings of each coil are wound with heave-duty insulated wire
+and are further protected by insulating material for long life. A
+voltage regulator is provided to control the amount of charge
+voltage being delivered to the 12 volt electrical system. For
+servicing this charging system, contact your Honda dealer.
+Neutral Safety Switch
+The travel lever is provided with a neutral safety switch
+(Figure 40) that prevents the engine from starting when the                              Figure 41. Vibration Solenoid
+lever is in the forward or reverse drive position. Lever must
+be placed in the neutral position in order for the starter to            Battery
+function.
+                                                                         Mishandling of the battery shortens the service life of the battery
+To check this switch, remove the panel located below and to the          ans adds to maintenance cost. When handling the battery do the
+rear of the floor. This switch is mounted to the lower forward/          following:
+reverse lever mechanism. Disconnect the white and green wires.
+Place the lever in neutral and test for continuity. Place the lever       Be careful not to let the battery electrolyte come in
+in forward or reverse; no continuity should be present. Repair or          contact with your body or clothing.
+replace as required.                                                      Always wear eye protection and rubber gloves, since
+                                                                           the battery contains sulfuric acid which burns skin and
+                                                                           eats through clothing.
+
+                                                                                CAUTION - BATTERY ACID BURN HAZARD
+                                                                          If your clothing or skin comes in contact with the battery acid,
+                                                                          immediately wash off with running water and get medical
+                                                                          attention.
+
+
+                                                                          Check the battery regulary and make sure that each
+                    Figure 40. Safety Switch                               electrolyte level is to the bottom of the vent well
+                                                                           (Figure 42). If necessary add only distilled water in a
+Vibrator Solenoid
+                                                                           well-ventilated area.
+The vibrator solenoid (Figure 41) is located in the manifold valve
+block and is controlled by the vibration switch located on top of
+the travel lever. This solenoid controls the vibration control valve
+which supplies hydraulic oil to the vibration drive motor.
+To test the vibration solenoid, turn the ignition switch on. Check
+for proper supply voltage and ground. If proper voltage and
+ground are present, check the solenoid for continuity. If no
+continuity, replace the solenoid coil. If continuity is present, place
+your hand on the solenoid and turn the switch to the ON position;
+movement should be felt. DO NOT START THE ENGINE FOR
+THIS TEST
+
+                                                                                        Figure 42. Battery Fluid Levels
+
+     PAGE 34 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 35 ===
+RIDE-ON ROLLER — PREPARATION FOR LONG-TERM STORAGE
+Roller Storage
+
+For storage of the roller for over 30 days, the following is
+recommended:
+ Drain the fuel tank completely, or add STA-BIL to the
+  fuel.
+ Run the engine until the fuel in the injection system is
+  completely consumed.
+ Completely drain used oil from the engine crankcase
+  and fill with fresh clean oil, then follow the procedures
+  described in the engine manual for engine storage.
+ Drain water tank
+ Clean the entire roller and engine compartment.
+ Remove battery and store it in cool dry place.
+ Cover the roller and place it a clean dry area, that is
+  protected from harsh elements.
+ Remove ignition key, and store in a safe place.
+
+
+
+
+    AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 35
+
+=== ORIGINAL PDF PAGE 36 ===
+AR13HA-HAR RIDE-ON ROLLER — MANIFOLD TEST PORTS
+
+
+
+
+                                   Figure 29. Manifold Test Ports
+PAGE 36 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 37 ===
+AR13HA-HAR RIDE-ON ROLLER — HYDRAULIC SYSTEM DIAGRAM
+
+                                                  EXCITER
+                                                RELIEF VALVE
+                                                2000 PSI
+
+                                                                MANIFOLD
+
+
+                                                       P
+                                                TEST
+                                                G1                        EXCITER   1
+                                                                           VALVE
+                             STEERING                                                                VIBRATION
+                                                            M       W                                EXCITER
+                            RELIEF VALVE                                                             MOTOR
+                             700 PSI
+
+                                                                                    2
+           CHARGE PRESSURE
+
+
+
+
+                                                                                              W
+             RELIEF VALVE                                                                                    L       STEERING
+          150-210 PSI
+                                                                                    3   P                            CYLINDER
+                                 INTERNAL DRIVE PUMP
+                                                            M
+                                      RELIEF VALVES                                 4 T
+                                    2900 ± 145 PSI
+                                                                                                             R
+
+
+
+
+                                                                                              W
+                                                                                            STEERING VALVE
+
+
+
+                                                  TEST
+                                                   G2
+                                            M
+EXCITER                                                                                            SERIES
+           DRIVE                                                                                   DRIVE
+ PUMP      PUMP
+                        W
+
+
+
+
+                                            W
+                                                                  TOW
+                                                                                    A                                    B
+                                                                  VALVE
+                   CHARGE                         TEST                                    FRONT                   REAR
+                    PUMP                             G3                                   DRIVE                  DRIVE
+                                                                                          MOTOR                  MOTOR
+
+
+                            PUMP ASSEMBLY
+                                                            T
+
+
+
+                                            10 MICRON
+
+
+
+          SUCTION               14.5 PSI
+           FILTER           M
+                                                        W
+
+
+
+
+                                    RETURN LINE FILTER
+                                        ASSEMBLY
+
+
+                                                                  FILTER BY-PASS
+                                                                  25 PSI
+
+
+
+
+                                           Figure 30. Hydraulic System Diagram
+
+
+
+
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 37
+
+=== ORIGINAL PDF PAGE 38 ===
+AR13HA-HAR — ELECTRIC WIRING DIAGRAM
+
+
+
+
+PAGE 38 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 39 ===
+NOTES
+
+
+
+
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 39
+
+=== ORIGINAL PDF PAGE 40 ===
+AR13HA-HAR RIDE-ON ROLLER — HYDRAULIC HOSE CONNECTIONS
+
+
+               MANIFOLD FROM OPERATOR’S                              FRONT RIGHT SIDE
+                                  POSITION
+                                                                             H
+
+       C
+G
+                                                                                 F
+
+
+                                                                      G              B
+                              A
+
+
+
+                    E
+
+
+
+                                                                                 D
+                                   B
+           A
+
+         F                                        C
+
+                                                                      FRONT LEFT SIDE
+
+                                           FROM OPERATOR’S
+               E          D                POSITION
+                   HYDRAULIC
+                   DRIVE PUMP
+                                                                      NOTES
+                                                                          HOSES SHADED FOR
+                                                                          VISUAL CLARITY.
+
+
+                           Figure 32. Hydraulic Hose Connections 1
+
+
+PAGE 40 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 41 ===
+AR13HA-HAR RIDE-ON ROLLER — HYDRAULIC HOSE CONNECTIONS
+
+         FRONT RIGHT MOTOR
+
+            Q
+
+
+
+                                                                         STEERING COLUMN
+
+
+
+            O
+                            P         O
+                    Q
+                                                                          K
+
+                                                                                  L
+      MANIFOLD                                              P
+
+        N                                            K L
+        M
+
+
+
+
+                                          I   J
+                                                            REAR LEFT MOTOR
+                                FROM OPERATOR’S
+                                POSITION
+
+
+
+
+                                                                              J
+
+                                                                     I
+
+
+
+
+                             N
+                M
+            FRONT LEFT MOTOR                                             NOTES
+                                                                          HOSES SHADED FOR
+                                                                          VISUAL CLARITY.
+                           Figure 33. Hydraulic Hose Connections 2
+
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 41
+
+=== ORIGINAL PDF PAGE 42 ===
+AR13HA-HAR RIDE-ON ROLLER — TROUBLESHOOTING (ROLLER)
+                                     Table 6. Roller Troubleshooting
+          Symptom                        Possible Problem                             Solution
+                               Low engine RPM?                       Check and adjust engine speed.
+                                                                     Check and adjust hydraulic pressure,
+                               Low hydraulic pressure?
+Low Vibration                                                        contaminant or defective relief valve.
+                                                                     Remove motor from drum to determine
+                               Vibrator shaft is binding
+                                                                     if binding is result of shaft or motor.
+                                                                     Check vibration switch, check coil for
+                               No voltage to 12 volt solenoid?
+                                                                     continuity.
+No Vibration                                                         Check for proper oil pressure or
+                               No oil pressurel?
+                                                                     defective relief valve.
+                               Broken motor coupler?                 Replace coupler.
+                               Low hydraulic pressure?               Check pressure.
+                                                                     Inspect bearings and grease if
+Slow Steering                  Steering column connector?
+                                                                     necessary.
+                               Defective steering cylinder?          Check seals, replace if necessary.
+                                                                     Inspect cylinder for contamination,
+Steers Slow in One Direction   Defective Steering cylinder?
+                                                                     replace if necessary.
+                               Low hydraulic pressure?               Check pressure.
+                               Rubber scrapper adjustment            Check for proper adjustment against
+                               incorrect?                            drum.
+                                                                     Inspect for broken mount, replace if
+Slow Forward/Reverse Speed     Rubber shock mount loose?
+                                                                     necessary.
+                               "Free wheel valve ""open""?"          Close valve.
+                               Speed control cable out of
+                                                                     Inspect cable and adjust if necessary.
+                               adjustment?
+                               Incorrect engine speed?               Adjust engine speed to correct speed.
+                               Broken rubber shock mounts or drive
+                                                                     Inspect for cracks, replace if necessary.
+                               plate?
+Main Hydraulic Pressure Low    Drive motor hardware not secure?      Check motor nut and key coupler
+                               Relief valve                          Check for contamination, replace.
+                               Drive motor                           Replace motor.
+                               Broken motor shaft key or coupling Replace motor shaft key or coupling.
+
+
+
+
+ PAGE 42 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 43 ===
+AR13HA-HAR RIDE-ON ROLLER — TROUBLESHOOTING (ENGINE)
+
+                                               TABLE 7. ENGINE TROUBLESHOOTING
+            SYMPTON                               POSSIBLE PROBLEM                                  SOLUTION
+                                      No Fuel reaching injection pump?           Add fuel. Check entire fuel system.
+                                      Defective fuel pump?                       Replace fuel pump.
+                                      Fuel filter clogged?                       Replace fuel filter and clean tank.
+                                      Faulty fuel supply line?                   Replace or repair fuel line.
+Engine will not star t or star t is                                              Check piston, cylinder and valves. Adjust or
+                                      Compression too low?
+delayed, although engine can                                                     repair per engine repair manual.
+be turned over.
+                                      Fuel pump not working correctly?           Repair or replacefuel pump.
+                                      Oil pressure too low?                      Check engine oil pressure.
+                                                                                 Comply with cold star ting instructions and
+                                      Low star ting temperature limit exceeded
+                                                                                 proper oil viscosity.
+                                      Defective battery?                         Charge or replace battery.
+                                                                                 Refill engine crankcase with correct type of oil
+At low temperatures engine will Engine oil too thick?                            for winter environment.
+not star t.
+                                Defective battery?                               Replace battery.
+                                      Fuel filter blocked?                       Replace fuel filter.
+Engine fires but stops soon as
+                                      Fuel supply blocked?                       Check the entire fuel system.
+star ter is switched off.
+                                      Defective fuel pump?                       Replace fuel pump.
+                                      Fuel tank empty?                           Add fuel.
+                                      Fuel filter blocked?                       Replace fuel filter.
+Engine stops by itself during
+normal operation.                     Defective fuel pump?                       Replace fuel pump.
+                                      Mechanical oil pressure shutdown sensor    Add oil. Replace low oil shutdown sensor if
+                                      stops the engine due to low oil?           necessary.
+
+
+
+
+    AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 43
+
+=== ORIGINAL PDF PAGE 44 ===
+AR13HA-HAR RIDE-ON ROLLER — TROUBLESHOOTING (ENGINE)
+
+                                  TABLE 7. ENGINE TROUBLESHOOTING (CONTINUED)
+          SYMPTON                             POSSIBLE PROBLEM                                       SOLUTION
+                                Fuel tank empty?                                  Replace fuel filter.
+                                Fuel filter clogged?                              Replace fuel filter.
+                                Fuel tank venting is inadequate?                  Ensure that tank is adequately vented.
+Low engine power, output and    Leaks at pipe unions?                             Check threaded pipe unions tape and tighten
+sp e e d .                                                                        unions a required.
+                                Speed control lever does not remain in selected   See engine manual for corrective action.
+                                position?
+                                Engine oil level too full?                        Correct engine oil level?
+                                Air filter blocked?                               Clean or replace air filter.
+Low engine power output and
+low speed, black exhaust        Incorrect valve clearances?                       Adjust valves per engine specification.
+smoke.
+                                Malfunction at injector?                          See engine manual.
+                                                                                  Drain off engine oil down to uppermark on
+Air-cooled diesel engine runs   Too much oil in engine crankcase?
+                                                                                  dipstick.
+very "HOT". Cylinder head
+overheats.                                                                        Clean cooling air system, and cooling fin
+                                Entire cooling air system contaminated blocked?
+                                                                                  areas.
+
+
+
+
+    PAGE 44 — AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21)
+
+=== ORIGINAL PDF PAGE 45 ===
+NOTES
+
+
+
+
+AR13HA-HAR RIDE-ON TANDEM DRUM ROLLER — OPERATION MANUAL — REV. #10 (06/25/21) — PAGE 45
+
+=== ORIGINAL PDF PAGE 46 ===
+OPERATION MANUAL
+
+                                             HERE’S HOW TO GET HELP
+                                               PLEASE HAVE THE MODEL AND SERIAL
+                                                 NUMBER ON-HAND WHEN CALLING
+         UNITED STATES
+         Multiquip Inc.
+         (310) 537- 3700
+         6141 Katella Avenue Suite 200
+         Cypress, CA 90630
+         E-MAIL: mq@multiquip.com
+         WEBSITE: www.multiquip.com
+
+         CANADA                                                                                         UNITED KINGDOM
+         Multiquip                                                                                      Multiquip (UK) Limited Head Office
+         (450) 625-2244                                                                                 0161 339 2223
+         4110 Industriel Boul.                                                                          Unit 2, Northpoint Industrial Estate,
+         Laval, Quebec, Canada H7L 6V3                                                                  Globe Lane,
+         E-MAIL: infocanada@multiquip.com                                                               Dukinfield, Cheshire SK16 4UJ
+                                                                                                        E-MAIL: sales@multiquip.co.uk
+
+
+
+
+© COPYRIGHT 2021, MULTIQUIP INC.
+
+Multiquip Inc, the MQ logo and the Mayco logo are registered trademarks of Multiquip Inc. and may not be used, reproduced, or altered without written permission. All other trademarks
+are the property of their respective owners and used with permission.
+
+This manual MUST accompany the equipment at all times. This manual is considered a permanent part of the equipment and should remain with the unit if resold.
+
+The information and specifications included in this publication were in effect at the time of approval for printing. Illustrations, descriptions, references and technical data contained in
+this manual are for guidance only and may not be considered as binding. Multiquip Inc. reserves the right to discontinue or change specifications, design or the information published
+in this publication at any time without notice and without incurring any obligations.
+

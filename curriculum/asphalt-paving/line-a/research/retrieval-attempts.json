@@ -1,0 +1,426 @@
+[
+  {
+    "id": "workbc-construction",
+    "url": "https://www.workbc.ca/industry-profile/construction",
+    "resolved_url": "https://www.workbc.ca/industry-profile/construction",
+    "status": 200,
+    "bytes": 230556,
+    "filename": "workbc-construction.html",
+    "sha256": "d98535133d5856c9eb49b587fc14bbf28ef2572de82bd8d5c37698a2d7a7dd3d",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "iuoe-provider",
+    "url": "https://iuoe115.ca/asphalt-laydown-operator/",
+    "resolved_url": "https://iuoe115.ca/asphalt-laydown-operator/",
+    "status": 200,
+    "bytes": 319382,
+    "filename": "iuoe-provider.html",
+    "sha256": "136bab2c5ada6a61615434853c897519948e5e61ec3249c9e545be5393cacd2b",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-standard-specs",
+    "url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/standard-specifications",
+    "error": "HTTP Error 404: Not Found",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-ohs",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/296_97_01",
+    "resolved_url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/296_97_01",
+    "status": 200,
+    "bytes": 112101,
+    "filename": "bc-ohs.html",
+    "sha256": "65609aa5ac98a273578b7320451867ef78c1b066dee1e9362d7af2ed6d5e63cd",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/hif16014.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "cis-businesses",
+    "url": "https://ised-isde.canada.ca/app/ixb/cis/businesses-entreprises/23731",
+    "resolved_url": "https://ised-isde.canada.ca/app/ixb/cis/businesses-entreprises/23731",
+    "status": 200,
+    "bytes": 146,
+    "filename": "cis-businesses.html",
+    "sha256": "690a467cac658ccc3f552ede6b44270ba68294ca0b134aa49579bb7a0941fe86",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "bc-highway-project",
+    "url": "https://www2.gov.bc.ca/gov/content/transportation-projects/highway1-kicking-horse-canyon",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "unesco-appian",
+    "url": "https://whc.unesco.org/en/list/1708/",
+    "resolved_url": "https://whc.unesco.org/en/list/1708/",
+    "status": 200,
+    "bytes": 147452,
+    "filename": "unesco-appian.html",
+    "sha256": "1edc2564528bfcc22a5d21921fddbfe6b2be2ad0512049d5f1ab1f87f43fd2cf",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "epa-asphalt",
+    "url": "https://www.epa.gov/sites/default/files/2020-10/documents/c11s01.pdf",
+    "resolved_url": "https://www.epa.gov/sites/default/files/2020-10/documents/c11s01.pdf",
+    "status": 200,
+    "bytes": 482190,
+    "filename": "epa-asphalt.pdf",
+    "sha256": "91fbfd5fffc9c243ce70c1aae551c54fe0d3a569950d58dd3adfd0fb08dd2e57",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-recycled",
+    "url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/technical-circulars",
+    "resolved_url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/technical-circulars",
+    "status": 200,
+    "bytes": 275002,
+    "filename": "bc-recycled.html",
+    "sha256": "a31b2deac7c7e93d33f6728f03ea79067d60844a31a99064c04a2594df3274bd",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "bc-standard-specs",
+    "url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/standard-specifications-for-highway-construction",
+    "resolved_url": "https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-guidelines/standard-specifications-for-highway-construction",
+    "status": 200,
+    "bytes": 299131,
+    "filename": "bc-standard-specs.html",
+    "sha256": "c8453b8e3f8a5b4213c2deea1c5134c1fa9b45c3cd5b8fa834bffa5b1d402b5e",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/pubs/hif16014.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "bc-highway-project",
+    "url": "https://www.kickinghorsecanyon.ca/",
+    "resolved_url": "https://www.kickinghorsecanyon.ca/",
+    "status": 200,
+    "bytes": 38820,
+    "filename": "bc-highway-project.html",
+    "sha256": "838752904b65cdc86219a6ab41ff63ef8cb7324a60d64fb8eb6893ca819b7211",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "parks-alaska",
+    "url": "https://parks.canada.ca/culture/designation/lieu-site/route-alaska-highway",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-porous",
+    "url": "https://www.fhwa.dot.gov/pavement/asphalt/pubs/hif15009.pdf",
+    "resolved_url": "https://www.fhwa.dot.gov/pavement/asphalt/pubs/hif15009.pdf",
+    "status": 200,
+    "bytes": 986531,
+    "filename": "fhwa-porous.pdf",
+    "sha256": "a3c7e3ce8e95cfc63f287c490a5cb4ab9f76e9c381f5654dd096ac00d8f5a502",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-geofoam",
+    "url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi16027.pdf",
+    "resolved_url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/nhi16027.pdf",
+    "status": 200,
+    "bytes": 18993837,
+    "filename": "fhwa-geofoam.pdf",
+    "sha256": "f2b5931d707ad4b08acae137040d4eaaec7475d5e41b906daaaf7e23d4c3e0bf",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "cis-businesses-6",
+    "url": "https://ised-isde.canada.ca/app/ixb/cis/businesses-entreprises/237310",
+    "resolved_url": "https://ised-isde.canada.ca/app/ixb/cis/businesses-entreprises/237310",
+    "status": 200,
+    "bytes": 147,
+    "filename": "cis-businesses-6.html",
+    "sha256": "7708ff672fde2a82d37b08441faf2581aa664fe42885af436f3e4a3954dedf90",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "icbc-license",
+    "url": "https://www.icbc.com/driver-licensing/types-licences/Licence-classes-and-types",
+    "resolved_url": "https://www.icbc.com/driver-licensing/types-licences/Licence-classes-and-types",
+    "status": 200,
+    "bytes": 232893,
+    "filename": "icbc-license.html",
+    "sha256": "e7ad933cad638caed6ad39bca966a018f915c87a4ecae82b549ba533400b6994",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-labour",
+    "url": "https://www.lrb.bc.ca/collective-agreements",
+    "resolved_url": "https://www.lrb.bc.ca/collective-agreements",
+    "status": 200,
+    "bytes": 246881,
+    "filename": "bc-labour.html",
+    "sha256": "96a39e3a08470bded88f7bfda68ad23cb101b85bde8488d46986f05265a6eb6a",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-final",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/hif16014/hif16014.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-sustainable",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/hif15002/hif15002.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "bc-project-overview",
+    "url": "https://www.kickinghorsecanyon.ca/about/project-overview/",
+    "resolved_url": "https://www.kickinghorsecanyon.ca/about/project-overview/",
+    "status": 200,
+    "bytes": 37637,
+    "filename": "bc-project-overview.html",
+    "sha256": "3904227538c8c2638d977d1096ed6079b3a7703a77749e65c9391dc2b3a560d4",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-spec-amendments",
+    "url": "https://www2.gov.bc.ca/assets/gov/driving-and-transportation/transportation-infrastructure/engineering-standards-and-guidelines/highway-specifications/2025-amendments/2025-special-provisions-appendix-amendments.pdf",
+    "resolved_url": "https://www2.gov.bc.ca/assets/gov/driving-and-transportation/transportation-infrastructure/engineering-standards-and-guidelines/highway-specifications/2025-amendments/2025-special-provisions-appendix-amendments.pdf",
+    "status": 200,
+    "bytes": 261975,
+    "filename": "bc-spec-amendments.pdf",
+    "sha256": "152e943e8525ef0330c44d1a493455efda90c8cf756733cb1871ecbe30c15337",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "nps-corduroy",
+    "url": "https://www.nps.gov/articles/000/corduroy-roads.htm",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "alaska-canada",
+    "url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway.html",
+    "resolved_url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway.html",
+    "status": 200,
+    "bytes": 24822,
+    "filename": "alaska-canada.html",
+    "sha256": "1e4ae686acd7660923f56841c22aeafec60e49aa9122dd26291b5b72e26f34bc",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-hub",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/resources.cfm",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-framework",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/pubs/hif16014.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-page",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/lca.cfm",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-history",
+    "url": "https://www.fhwa.dot.gov/infrastructure/history.cfm",
+    "resolved_url": "https://highways.dot.gov/highway-history",
+    "status": 200,
+    "bytes": 56506,
+    "filename": "fhwa-history.html",
+    "sha256": "32eb4b357058220b90efcd12e447fc14a427a6404eb240386939b25078c5bcde",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "bc-forestry-roads",
+    "url": "https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/resource-roads",
+    "resolved_url": "https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/resource-roads",
+    "status": 200,
+    "bytes": 684348,
+    "filename": "bc-forestry-roads.html",
+    "sha256": "5f9ccdbf086f4a7f8ad16217e0fea33666d008f1d0b2bfd64268e5cdcfe97043",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-rosap",
+    "url": "https://rosap.ntl.bts.gov/view/dot/38361/dot_38361_DS1.pdf",
+    "resolved_url": "https://rosap.ntl.bts.gov/view/dot/38361/dot_38361_DS1.pdf",
+    "status": 200,
+    "bytes": 87653,
+    "filename": "fhwa-lca-rosap.pdf",
+    "sha256": "f8801db691131fe7df1d8726e6916a9355ee622c623652898741f7d496475a53",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": "Excluded: unrelated Mayday report; title inspected"
+  },
+  {
+    "id": "alaska-about",
+    "url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway/about.html",
+    "resolved_url": "https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/bridges-docks-dams/alaska-highway/about.html",
+    "status": 200,
+    "bytes": 28318,
+    "filename": "alaska-about.html",
+    "sha256": "fbc8d136e5283b2db918290d0babce89b9f8e22272cdf00e83ba4e23b85f817a",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "bc-project-contractor",
+    "url": "https://www.kickinghorsecanyon.ca/about/procurement-contractor/",
+    "resolved_url": "https://www.kickinghorsecanyon.ca/about/procurement-contractor/",
+    "status": 200,
+    "bytes": 40360,
+    "filename": "bc-project-contractor.html",
+    "sha256": "3964955bba97af9ffafd33a30ff88bcada16de8bcdcd1fbd7678deb64ff5e213",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-sustainability-new",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-new",
+    "url": "https://highways.dot.gov/pavement/sustainability/hif16014.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-life-cycle",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/pubs/hif19027.pdf",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "lca-search",
+    "url": "https://www.google.com/search?q=%22FHWA-HIF-16-014%22+pdf",
+    "resolved_url": "https://www.google.com/search?q=%22FHWA-HIF-16-014%22+pdf",
+    "status": 200,
+    "bytes": 92774,
+    "filename": "lca-search.html",
+    "sha256": "f2a001ba225d641d00e74d6c2b5518cc24b93246599692f6b7fe99c3c93b7460",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-interstate",
+    "url": "https://www.fhwa.dot.gov/interstate/history.cfm",
+    "resolved_url": "https://highways.dot.gov/highway-history/interstate-system/50th-anniversary/history-interstate-highway-system",
+    "status": 200,
+    "bytes": 67407,
+    "filename": "fhwa-interstate.html",
+    "sha256": "8dddc40390797c52307f1131b66d2efae0474d605f9bcec94b9aea76a8af404c",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "fhwa-concrete-recycling",
+    "url": "https://www.fhwa.dot.gov/pavement/recycling/rca.cfm",
+    "resolved_url": "https://www.fhwa.dot.gov/pavement/recycling/rca.cfm",
+    "status": 200,
+    "bytes": 17739,
+    "filename": "fhwa-concrete-recycling.html",
+    "sha256": "9a6a8758d2960089a27f18737ed654aed074f727a767878c4712e0f2d5889229",
+    "retrieved": "2026-10-29",
+    "used": true,
+    "note": ""
+  },
+  {
+    "id": "lca-bing",
+    "url": "https://www.bing.com/search?q=%22FHWA-HIF-16-014%22+pdf",
+    "resolved_url": "https://www.bing.com/search?q=%22FHWA-HIF-16-014%22+pdf",
+    "status": 200,
+    "bytes": 118838,
+    "filename": "lca-bing.html",
+    "sha256": "59540fb65faf453ca155206a3eb7f3a254950add75790bff312a56e954db4316",
+    "retrieved": "2026-10-29",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-sustainability-report",
+    "url": "https://www.fhwa.dot.gov/pavement/sustainability/hif16014.pdf?download=1",
+    "error": "HTTP Error 404: Not Found",
+    "used": false,
+    "note": ""
+  },
+  {
+    "id": "fhwa-lca-rosap-search",
+    "url": "https://rosap.ntl.bts.gov/gsearch?collection=&terms=FHWA-HIF-16-014",
+    "error": "HTTP Error 403: Forbidden",
+    "used": false,
+    "note": ""
+  }
+]

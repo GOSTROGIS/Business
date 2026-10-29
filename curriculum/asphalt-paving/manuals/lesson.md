@@ -1,0 +1,109 @@
+# Read the right manual before using the information
+
+## A document has to fit the machine and the question
+
+A manual is more than a collection of instructions. Its cover, publication number, model, serial range, revision and contents tell you what it can answer. A complete engine manual answers engine questions. A fluids publication answers a narrower family of questions. A machine manual connects those references to a particular machine. The same manufacturer can publish all three. The largest file, highest revision number or newest-looking filename is not automatically the correct choice.
+
+This lesson uses the original manufacturer documents in this folder. Keep each document's title and identifier beside your notes. Open the complete PDF when reading a section: a search result or extracted paragraph can leave out a condition on the previous page. PDF viewer page numbers and printed page labels may differ. For example, the LeeBoy contact-information page is **PDF page 25**, labelled **2-3** on the page. Record both when helping another reader find it.
+
+The work takes place with documents and fictional machine records. You will not operate, service or adjust equipment. A match between a cover and a fictional serial number is a document-selection result. For actual equipment, the responsible instructor or employer must confirm the machine's full identification, configuration, current information and the work you are trained and authorized to do.
+
+## Prepare your reading space
+
+Use a PDF reader and an approved practice folder, or begin with printed covers and contents pages. Enlarge the view, use text-to-speech, a line guide or another agreed access method. A paper attempt can show Reading or Numeracy. For Digital, take your own turn opening a file, finding a passage, saving a note and reopening it. Record any navigation help separately from help that selects the answer.
+
+Work privately or with a willing partner. Use the fictional IDs below; no actual equipment ownership, employee details, account credentials or personal information is needed. Keep individual notes even when a pair develops one useful index. The aim is a clear handover that another person can check.
+
+## Your document set
+
+Open files through the pack's index. Their identifiers remain the same in the manifest and answer guidance.
+
+| Pack ID | What the original file covers | First place to check |
+|---|---|---|
+| [OEM-01](pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=1) | LeeBoy 8680 Commercial Paver, Safety and Operations Manual 1033428-SOP | Cover, PDF page 1; introduction, PDF page 3 |
+| [OEM-02](pdfs/multiquip-mrh800gs-operation-rev10-2020.pdf#page=1) | Multiquip MRH800GS walk-behind vibratory roller, Revision 10 | Cover, PDF page 1; contents, PDF page 4 |
+| [OEM-03](pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf#page=1) | Multiquip AR13HA/AR13HAR ride-on roller, Revision 1 | Cover and serial range, PDF page 1; contents, PDF page 3 |
+| [OEM-04](pdfs/multiquip-ar13ha-ar13har-sn100901-below-rev10-2021.pdf#page=1) | Multiquip AR13HA/AR13HAR ride-on roller, Revision 10 | Cover and serial range, PDF page 1; contents, PDF page 3 |
+| [OEM-05](pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf#page=1) | Caterpillar C3.6/C2.8 industrial engines, M0108394-08 | Cover, PDF page 1; product-identification section, PDF page 47 |
+| [OEM-06](pdfs/cat-machine-fluids-sebu6250-30-2020.pdf#page=1) | Caterpillar Machine Fluids Recommendations, SEBU6250-30 | Cover, PDF page 1; foreword, PDF page 4 |
+| [OEM-07](deere-410g-omt166701-d1/OMT166701_19.htm) | John Deere 410G Backhoe Loader Operator Manual, OMT166701 D1 | Original HTML contents; follow its identification links |
+
+The CAT documents are included for their actual engine and fluids scope. The pack does not say those engines are fitted to the LeeBoy or Multiquip machines. The historical B.C. specification and John Deere reference, where listed in the index, have separate document records. Neither changes the scope of the six OEM PDFs above. The Deere reference is a full HTML manual, with its images and styles retained locally. Its model is roadbuilding support equipment rather than a paving machine.
+
+### MAN-01 · Read the identity before the contents
+
+For OEM-01 through OEM-07, record manufacturer, exact title, document number or revision, date, equipment scope and serial statement. If a cover does not state a serial range, write that it is not stated there. Do not invent a range from another model. For the LeeBoy file, distinguish the revision suggested by its download filename from information actually printed on the cover.
+
+Then answer: Which two documents are complete machine manuals for the same model family but different serial ranges? Which file covers engines rather than the whole machine? Which covers a particular subject across Cat machines? Point to the words supporting each answer. **Skills: Reading, Problem Solving.**
+
+### MAN-02 · Find it, save the evidence and reopen it
+
+On an actual device, open OEM-01. Locate **Contact Information** through the contents or search. Confirm the printed page label and PDF viewer page. Read the paragraph about the machine nameplate and the separate engine-nameplate reference. Create a note named `manual-check-v1-[learning-ID]` with the title, pack ID, page labels and a one-sentence explanation of why machine and engine identification should not be confused. Save, close and reopen the note from its known location.
+
+Show a second way to reach the same page, such as searching its heading after using the page control. Record the method, the result and any help. A filename or screenshot alone does not show that you found the right passage.
+
+Also open OEM-07’s original HTML contents and follow **Record Engine Serial Number**. Record its heading and local filename. Explain why an HTML section is located by its link/title rather than assuming the PDF page number from a different document. Do not enter any real serial number. **Skills: Digital, Reading, Writing.**
+
+## Case A · Three fictional machine records
+
+A classroom resource coordinator has three practice records. The records do not authorize any real assignment.
+
+| Practice record | Stated model | Stated serial number | Request |
+|---|---|---:|---|
+| A | Multiquip AR13HA | 110450 | Identify the matching cover among OEM-03 and OEM-04 |
+| B | Multiquip AR13HAR | 100850 | Identify the matching cover among OEM-03 and OEM-04 |
+| C | Multiquip AR13HA | 105500 | Identify the matching cover among OEM-03 and OEM-04, or explain the gap |
+
+Both PDFs are genuine manufacturer files. OEM-03 is dated 18 June 2021, Revision 1; OEM-04 is dated 25 June 2021, Revision 10. Those facts do not make their serial ranges interchangeable. The coordinator has not supplied configuration, service-bulletin status or a current manufacturer confirmation.
+
+### MAN-03 · Count pages and compare ranges
+
+Use the two contents pages. OEM-03 lists Maintenance on printed pages **23–32**; OEM-04 lists it on **25–34**. How many pages does each listed range include? Show why subtracting the first page from the last page alone misses one page. The complete PDFs contain **42** and **46** viewer pages respectively; find that difference and explain why neither count establishes the amount of training required.
+
+Next write the first and last integer serial values in the uncovered interval between OEM-04's stated upper boundary and OEM-03's stated lower boundary. Count those possible values inclusively. Explain why that count is not a count of machines manufactured. **Skills: Numeracy, Reading.**
+
+### MAN-04 · Write a verification note that preserves uncertainty
+
+Write a 70–110-word note to the classroom coordinator covering records A, B and C. Include the selected manual or unresolved status for each, the exact serial evidence, the meaning of the revision dates, and a next confirmation step. Separate a cover match from authorization to work. Keep the note factual; do not claim that a document is current for an actual machine when that has not been checked. Use a heading and a clear requested action. Add this verification note to `manual-check-v1-[learning-ID]`, keeping the MAN-02 navigation note in the same file; on paper, keep both notes together as version 1. **Skills: Writing, Reading.**
+
+### MAN-05 · Resolve the incomplete match
+
+For record C, compare these proposed responses:
+
+1. Choose Revision 10 because its number and date are higher.
+2. Choose the nearer serial boundary.
+3. Keep the selection unresolved and ask the responsible instructor or manufacturer support to identify the manual from the complete machine record.
+
+State the problem, one consequence of choosing without evidence, two facts already known and two facts still needed. Select a response with a reason. Draft the information request without sending it. Name the evidence that would allow a later decision; do not report that confirmation as already received. **Skills: Problem Solving, Writing.**
+
+### MAN-06 · Give a handover and check what was understood
+
+Explain your decision about record C to a partner in about one minute. The listener restates the model, unresolved range and next action in their own words. Invite a question. Correct a misunderstanding if one occurs, or record what was accurately understood. Swap roles using record A. Keep a short note of the actual check-back rather than writing that communication was successful without evidence. Signing, a communication aid or another agreed method can carry the same information. **Skills: Communication.**
+
+### MAN-07 · Share the checking work without losing individual evidence
+
+Work in pairs with OEM-01 and OEM-02. For the first document, one learner reads the cover and the other verifies the contents/page route. Record the title, scope and one useful navigation anchor. Swap the roles for the second document. Each learner keeps one check they performed and one question or correction they contributed. Agree how the pair's note may be shared. Judge the accuracy and coordination of the work, not speed, confidence or who speaks most. **Skills: Collaboration, Reading.**
+
+## Case B · A changed classroom record
+
+The coordinator corrects **practice record C's serial number from 105500 to 110500**. The model remains AR13HA. This is a fictional correction to the classroom record, not a new manufacturer publication. The reason for the original entry error is not supplied. The two manuals and their stated ranges remain unchanged.
+
+### MAN-08 · Revise the decision and keep the earlier record
+
+Create `manual-check-v2-[learning-ID]`, retaining v1. Identify what changed, what stays the same and which selection is now supported by the cover. State what actual-machine checks still remain. Do not invent a cause for the entry error. Reopen v2 and verify both the corrected serial and the reasoning; changing only the filename would leave the wrong decision in place. If working on paper, date and label both versions. Record Digital only when you performed the file actions. **Skills: Adaptability; Digital when performed.**
+
+### MAN-09 · Make a navigation aid and test it
+
+Develop two possible designs for a one-page manual-finder: for example, an index arranged by equipment family or a decision path that begins with model and serial scope. Choose one and explain why it would help another learner. Include pack ID, document type, model/scope, a useful page route and an unresolved-status option. Use words and visual structure that remain clear without colour. Avoid turning the aid into operating steps or a replacement for the original manual.
+
+Make a small usable version. Ask a willing reader to use it to find the CAT document that addresses engine identification, then to explain whether it can supply the complete operating instructions for a LeeBoy paver. Record the actual choice, explanation and any help. Revise one feature if the evidence suggests a need, or retain it with a reason. Try a second question: find the Multiquip walk-behind roller contents page. State one limit on what these two trials demonstrate. **Skills: Creativity and Innovation, Communication, Problem Solving.**
+
+## Keep the evidence of your work
+
+| Activity / date | Document and page or file version | What I did and checked | Access tools or task-solving help | Next step |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+A useful record shows the decision, the source and the check. It can include an unresolved result when the supplied evidence does not support a choice. Keep your authored note, actual file-action record, calculations, check-back and tested navigation aid. Discuss the next practice with your instructor using the local descriptions Not observed, Not yet demonstrated, Demonstrated with support or Demonstrated independently under the agreed conditions.

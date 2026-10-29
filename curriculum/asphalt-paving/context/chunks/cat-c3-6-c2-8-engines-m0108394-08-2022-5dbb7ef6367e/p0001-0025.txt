@@ -1,0 +1,1174 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf
+SOURCE SHA-256: 5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+M0108394-08 (en-us)
+                                                                                         July 2022
+
+
+
+
+Operation and
+Maintenance
+Manual
+C3.6 and C2.8 Industrial Engines
+J37 1-UP (Engine)
+J29 1-UP (Engine)
+
+
+
+
+                    Scan to find and purchase genuine Cat® parts and related
+                    service information.
+
+=== ORIGINAL PDF PAGE 2 ===
+i07966018
+
+
+                              Important Safety Information
+Most accidents that involve product operation, maintenance and repair are caused by failure to observe
+basic safety rules or precautions. An accident can often be avoided by recognizing potentially hazardous
+situations before an accident occurs. A person must be alert to potential hazards, including human factors
+that can affect safety. This person should also have the necessary training, skills and tools to perform these
+functions properly.
+Improper operation, lubrication, maintenance or repair of this product can be dangerous and could
+result in injury or death.
+Do not operate or perform any lubrication, maintenance or repair on this product, until you verify
+that you are authorized to perform this work, and have read and understood the operation,
+lubrication, maintenance and repair information.
+Safety precautions and warnings are provided in this manual and on the product. If these hazard warnings
+are not heeded, bodily injury or death could occur to you or to other persons.
+The hazards are identified by the “Safety Alert Symbol” and followed by a “Signal Word” such as
+“DANGER”, “WARNING” or “CAUTION”. The Safety Alert “WARNING” label is shown below.
+
+
+
+
+The meaning of this safety alert symbol is as follows:
+Attention! Become Alert! Your Safety is Involved.
+The message that appears under the warning explains the hazard and can be either written or pictorially
+presented.
+A non-exhaustive list of operations that may cause product damage are identified by “NOTICE” labels on
+the product and in this publication.
+Caterpillar cannot anticipate every possible circumstance that might involve a potential hazard.
+The warnings in this publication and on the product are, therefore, not all inclusive. You must not
+use this product in any manner different from that considered by this manual without first
+satisfying yourself that you have considered all safety rules and precautions applicable to the
+operation of the product in the location of use, including site-specific rules and precautions
+applicable to the worksite. If a tool, procedure, work method or operating technique that is not
+specifically recommended by Caterpillar is used, you must satisfy yourself that it is safe for you
+and for others. You should also ensure that you are authorized to perform this work, and that the
+product will not be damaged or become unsafe by the operation, lubrication, maintenance or repair
+procedures that you intend to use.
+The information, specifications, and illustrations in this publication are on the basis of information that was
+available at the time that the publication was written. The specifications, torques, pressures,
+measurements, adjustments, illustrations, and other items can change at any time. These changes can
+affect the service that is given to the product. Obtain the complete and most current information before you
+start any job. Cat dealers have the most current information available.
+
+                                             NOTICE
+When replacement parts are required for this product Caterpillar recommends using original Cater-
+pillar® replacement parts.
+Other parts may not meet certain original equipment specifications.
+When replacement parts are installed, the machine owner/user should ensure that the machine re-
+mains in compliance with all applicable requirements.
+
+In the United States, the maintenance, replacement, or repair of the emission control devices and
+systems may be performed by any repair establishment or individual of the owner's choosing.
+
+=== ORIGINAL PDF PAGE 3 ===
+M0108394-08                                                                                                                                   3
+                                                                                                                        Table of Contents
+
+
+
+Table of Contents                                                        Engine Operation ............................................ 73
+
+                                                                         Aftertreatment Operation................................. 76
+Foreword ........................................................... 4
+                                                                         Cold Weather Operation ................................. 83
+Safety Section
+                                                                         Engine Stopping .............................................. 88
+Safety Messages............................................... 6
+
+Safety Messages............................................. 10
+                                                                         Maintenance Section
+
+                                                                         Maintenance Recommendations .................... 90
+Safety Messages............................................. 13
+                                                                         Refill Capacities............................................... 93
+Additional Messages ....................................... 16
+                                                                         Maintenance Interval Schedule..................... 102
+General Hazard Information............................ 17
+
+Burn Prevention............................................... 21        Warranty Section
+
+Fire Prevention and Explosion Prevention...... 23                        Warranty Information..................................... 150
+
+Crushing Prevention and Cutting Prevention.. 25                          Reference Information Section
+
+Mounting and Dismounting ............................. 25                Engine Ratings .............................................. 151
+
+High Pressure Fuel Lines ................................ 25             Customer Service.......................................... 152
+
+Before Starting Engine .................................... 27           Reference Materials ...................................... 153
+
+Engine Starting................................................ 27       Index Section
+
+Engine Stopping .............................................. 28        Index.............................................................. 156
+
+Electrical System............................................. 28
+
+Engine Electronics........................................... 29
+
+Product Information Section
+
+General Information ........................................ 31
+
+Product Identification Information ................... 47
+
+Operation Section
+
+Lifting and Storage .......................................... 49
+
+Features and Controls..................................... 53
+
+Engine Diagnostics ......................................... 67
+
+Engine Starting................................................ 69
+
+=== ORIGINAL PDF PAGE 4 ===
+4                                                                                                 M0108394-08
+Foreword
+
+
+
+Foreword                                                 Some photographs or illustrations in this manual
+                                                         show details or attachments that may be different
+                                                         from your engine. Guards and covers may have been
+California Proposition 65 Warning                        removed for illustrative purposes. Continuing
+                                                         improvement and advancement of product design
+Diesel engine exhaust and some of its                    may have caused changes to your engine which are
+                                                         not included in this manual Whenever a question
+constituents are known to the State of                   arises regarding your engine, or this manual, please
+California to cause cancer, birth defects,               consult with your Cat dealer for the latest available
+and other reproductive harm.                             information.
+
+       WARNING – This product can                        Safety
+       expose you to chemicals
+       including ethylene glycol, which                  This safety section lists basic safety precautions. In
+is known to the State of California to                   addition, this section identifies hazardous, warning
+cause birth defects or other reproductive                situations. Read and understand the basic
+harm. For more information go to:                        precautions listed in the safety section before
+                                                         operating or performing lubrication, maintenance,
+                                                         and repair on this product.
+www.P65Warnings.ca.gov
+Do not ingest this chemical. Wash hands                  Operation
+after handling to avoid incidental                       Operating techniques outlined in this manual are
+ingestion.                                               basic. They assist with developing the skills and
+                                                         techniques required to operate the engine more
+        WARNING – This product can                       efficiently and economically. Skill and techniques
+        expose you to chemicals                          develop as the operator gains knowledge of the
+        including lead and lead                          engine and its capabilities.
+compounds, which are known to the
+                                                         The operation section is a reference for operators.
+State of California to cause cancer, birth               Photographs and illustrations guide the operator
+defects, or other reproductive harm. For                 through procedures of inspecting, starting, operating,
+more information go to:                                  and stopping the engine. This section also includes a
+                                                         discussion of electronic diagnostic information.
+www.P65Warnings.ca.gov
+                                                         Maintenance
+Wash hands after handling components
+that may contain lead.                                   The maintenance section is a guide to engine care.
+                                                         The illustrated, step-by-step instructions are grouped
+Literature Information                                   by fuel consumption, service hours and/or calendar
+                                                         time maintenance intervals. Items in the maintenance
+                                                         schedule are referenced to detailed instructions that
+This manual contains safety, operation instructions,     follow.
+lubrication, and maintenance information. This
+manual should be stored in or near the engine area in    Use fuel consumption or service hours to determine
+a literature holder or literature storage area. Read,    intervals. Calendar intervals shown (daily, annually,
+study, and keep it with the literature and engine        etc.) may be used instead of service meter intervals if
+information.                                             they provide more convenient schedules and
+                                                         approximate the indicated service meter reading.
+English is the primary language for all Cat
+publications. The English used facilitates translation   Recommended service should be performed at the
+and consistency in electronic media delivery.            appropriate intervals as indicated in the Maintenance
+                                                         Interval Schedule. The actual operating environment
+                                                         of the engine also governs the Maintenance Interval
+                                                         Schedule. Therefore, under severe, dusty, wet, or
+                                                         freezing cold operating conditions, more frequent
+                                                         lubrication, and maintenance than is specified in the
+                                                         Maintenance Interval Schedule may be necessary.
+
+=== ORIGINAL PDF PAGE 5 ===
+M0108394-08                                                    5
+                                                         Foreword
+
+
+
+The maintenance schedule items are organized for a
+preventive maintenance management program. If the
+preventive maintenance program is followed, a
+periodic tune-up is not required. The implementation
+of a preventive maintenance management program
+should minimize operating costs through cost
+avoidances resulting from reductions in unscheduled
+downtime and failures.
+
+Maintenance Intervals
+Perform maintenance on items at multiples of the
+original requirement. Each level and/or individual
+items in each level should be shifted ahead or back
+depending upon your specific maintenance practices,
+operation, and application. We recommend that the
+maintenance schedules be reproduced and
+displayed near the engine as a convenient reminder.
+We also recommend that a maintenance record be
+maintained as part of the engine's permanent record.
+See the section in the Operation and Maintenance
+Manual, “Maintenance Records” for information
+regarding documents that are accepted as proof of
+maintenance or repair. Your authorized Cat dealer
+can assist you in adjusting your maintenance
+schedule to meet the needs of your operating
+environment.
+
+Overhaul
+Major engine overhaul details are not covered in the
+Operation and Maintenance Manual except for the
+interval and the maintenance items in that interval.
+Major repairs are best left to trained personnel or an
+authorized Cat dealer. Your Cat dealer offers various
+options regarding overhaul programs. If you
+experience a major engine failure, there are also
+numerous after failure overhaul options available
+from your Cat dealer. Consult with your dealer for
+information regarding these options.
+
+=== ORIGINAL PDF PAGE 6 ===
+6                                                           M0108394-08
+Safety Section
+Safety Messages
+
+
+Safety Section
+                                                i07853993
+
+
+Safety Messages
+SMCS Code: 1000; 7405
+There may be several specific warning signs on your
+engine. The exact location and a description of the
+warning signs are reviewed in this section. Ensure
+that you are familiar with all warning signs.
+Ensure that all the warning signs are legible. Clean
+the warning signs or replace the warning signs if the
+words cannot be read or if the illustrations are not
+visible. Use a cloth, water, and soap to clean the
+warning signs. Do not use solvents, gasoline, or
+other harsh chemicals. Solvents, gasoline, or harsh
+chemicals could loosen the adhesive that secures the
+warning signs. The warning signs that are loosened
+could drop off the engine.
+Replace any warning sign that is damaged or
+missing. If a warning sign is attached to a part of the
+engine that is replaced, install a new warning sign on
+the replacement part. Your Caterpillar dealer can
+provide new warning signs.
+
+=== ORIGINAL PDF PAGE 7 ===
+M0108394-08                                                                           7
+                                                                         Safety Section
+                                                                       Safety Messages
+
+
+
+C3.6 Industrial Engine
+
+
+
+
+Illustration 1                                                                 g06296038
+Typical example
+(1) Universal Warning label   (2) Hand (High Pressure) Warning label
+
+=== ORIGINAL PDF PAGE 8 ===
+8                                                                    M0108394-08
+Safety Section
+Safety Messages
+
+
+
+C2.8 Industrial Engine
+
+
+
+
+Illustration 2                                                           g06458556
+Typical example
+(1) Universal Warning label
+
+Universal Warning
+
+
+Do not operate or work on this equipment unless
+you have read and understand the instructions
+and warnings in the Operation and Maintenance
+Manuals. Failure to follow the instructions or
+heed the warnings could result in serious injury
+or death.
+
+
+
+
+                                                   Illustration 3        g01154807
+                                                   Typical example
+
+=== ORIGINAL PDF PAGE 9 ===
+M0108394-08                                                                              9
+                                                                            Safety Section
+                                                                          Safety Messages
+
+
+The universal warning labels are located in two
+positions. One label is on the front over the engine,
+the other label is on the right side of the engine.
+
+Hand (High Pressure)
+
+
+Contact with high pressure fuel may cause fluid
+penetration and burn hazards. High pressure fuel
+spray may cause a fire hazard. Failure to follow
+these inspection, maintenance and service in-
+structions may cause personal injury or death.
+
+
+
+
+Illustration 4                                                                    g02382677
+Typical example
+
+The hand high-pressure label is on the high-pressure
+fuel line between pump and manifold, on the right
+side of the engine.
+
+Ether Warning
+
+
+Do not use aerosol types of starting aids such as
+ether. Such use could result in an explosion and
+personal injury.
+
+
+
+                                                        Illustration 5            g01154809
+                                                        Typical example
+
+=== ORIGINAL PDF PAGE 10 ===
+10                                                          M0108394-08
+Safety Section
+Safety Messages
+
+
+The ether warning label is installed on the air cleaner
+close to the intake. The location will depend on the
+application. In some applications, the ether label will
+be supplied loose for fitting by the engine installer.
+
+                                                i08067908
+
+
+Safety Messages
+SMCS Code: 1000; 7405
+There may be several specific warning signs on your
+engine. The exact location and a description of the
+warning signs are reviewed in this section. Ensure
+that you are familiar with all warning signs.
+Ensure that all the warning signs are legible. Clean
+the warning signs or replace the warning signs if the
+words cannot be read or if the illustrations are not
+visible. Use a cloth, water, and soap to clean the
+warning signs. Do not use solvents, gasoline, or
+other harsh chemicals. Solvents, gasoline, or harsh
+chemicals could loosen the adhesive that secures the
+warning signs. The warning signs that are loosened
+could drop off the engine.
+Replace any warning sign that is damaged or
+missing. If a warning sign is attached to a part of the
+engine that is replaced, install a new warning sign on
+the replacement part. Your Caterpillar dealer can
+provide new warning signs.
+
+=== ORIGINAL PDF PAGE 11 ===
+M0108394-08                                                                                  11
+                                                                                 Safety Section
+                                                                               Safety Messages
+
+
+
+C3.6 Industrial Engine With A
+Balancer
+
+
+
+
+Illustration 6                                                                         g06510918
+Typical example
+(1) Universal Warning label        (2) Hand (High Pressure) Warning label
+
+Universal Warning 1
+
+
+Do not operate or work on this equipment unless
+you have read and understand the instructions
+and warnings in the Operation and Maintenance
+Manuals. Failure to follow the instructions or
+heed the warnings could result in serious injury
+or death.
+
+
+
+
+                                                             Illustration 7            g01154807
+                                                             Typical example
+
+=== ORIGINAL PDF PAGE 12 ===
+12                                                                        M0108394-08
+Safety Section
+Safety Messages
+
+
+The universal warning labels are located in two
+positions. One label is on the front over the engine,
+the other label is on the right side of the engine.
+
+Hand (High Pressure) 2
+
+
+Contact with high pressure fuel may cause fluid
+penetration and burn hazards. High pressure fuel
+spray may cause a fire hazard. Failure to follow
+these inspection, maintenance and service in-
+structions may cause personal injury or death.
+
+
+
+
+Illustration 8                                                                g02382677
+Typical example
+
+The hand high-pressure label is on the high-pressure
+fuel line between pump and manifold, on the right
+side of the engine.
+
+Ether Warning
+
+
+Do not use aerosol types of starting aids such as
+ether. Such use could result in an explosion and
+personal injury.
+
+
+
+                                                        Illustration 9        g01154809
+                                                        Typical example
+
+=== ORIGINAL PDF PAGE 13 ===
+M0108394-08                                                              13
+                                                              Safety Section
+                                                            Safety Messages
+
+
+The ether warning label is installed on the air cleaner
+close to the intake. The location will depend on the
+application. In some applications, the ether label will
+be supplied loose for fitting by the engine installer.
+
+                                                i09430650
+
+
+Safety Messages
+SMCS Code: 1000; 7405
+There may be several specific warning signs on your
+engine. The exact location and a description of the
+warning signs are reviewed in this section. Ensure
+that you are familiar with all warning signs.
+Ensure that all the warning signs are legible. Clean
+the warning signs or replace the warning signs if the
+words cannot be read or if the illustrations are not
+visible. Use a cloth, water, and soap to clean the
+warning signs. Do not use solvents, gasoline, or
+other harsh chemicals. Solvents, gasoline, or harsh
+chemicals could loosen the adhesive that secures the
+warning signs. The warning signs that are loosened
+could drop off the engine.
+Replace any warning sign that is damaged or
+missing. If a warning sign is attached to a part of the
+engine that is replaced, install a new warning sign on
+the replacement part. Your Caterpillar dealer can
+provide new warning signs.
+
+=== ORIGINAL PDF PAGE 14 ===
+14                                                                   M0108394-08
+Safety Section
+Safety Messages
+
+
+
+C3.6 Open Power Unit (OPU)
+
+
+
+
+Illustration 10                                                          g06737415
+Typical example
+
+Universal Warning 1
+
+
+Do not operate or work on this equipment unless
+you have read and understand the instructions
+and warnings in the Operation and Maintenance
+Manuals. Failure to follow the instructions or
+heed the warnings could result in serious injury
+or death.
+
+
+
+
+                                                   Illustration 11       g01154807
+                                                   Typical example
+
+=== ORIGINAL PDF PAGE 15 ===
+M0108394-08                                                             15
+                                                             Safety Section
+                                                           Safety Messages
+
+
+The universal warning labels are located in two
+positions. One label is on the front over the engine,
+the other label is on the right side of the engine.
+
+Hot Fluid Under Pressure 2
+
+
+
+
+Illustration 12                                g01371640
+
+
+
+
+Pressurized system! Hot coolant can cause seri-
+ous burns, injury or death. To open the cooling
+system filler cap, stop the engine and wait until
+the cooling system components are cool. Loosen
+the cooling system pressure cap slowly in order
+to relieve the pressure. Read and understand the
+Operation and Maintenance Manual before per-
+forming any cooling system maintenance.
+The hot fluids under pressure label is installed on the
+radiator cover next to the coolant filler cap.
+
+Hand (High Pressure) 3
+
+
+Contact with high pressure fuel may cause fluid
+penetration and burn hazards. High pressure fuel
+spray may cause a fire hazard. Failure to follow
+these inspection, maintenance and service in-
+structions may cause personal injury or death.
+
+=== ORIGINAL PDF PAGE 16 ===
+16                                                                                               M0108394-08
+Safety Section
+Additional Messages
+
+
+
+
+Illustration 13                                                                                        g02382677
+Typical example
+
+The hand high-pressure label is on the high-pressure    The ether warning label is installed on the air cleaner
+fuel line between pump and manifold, on the right       close to the intake. The location will depend on the
+side of the engine.                                     application. In some applications, the ether label will
+                                                        be supplied loose for fitting by the engine installer.
+Ether Warning
+                                                                                                        i07672517
+
+
+                                                        Additional Messages
+Do not use aerosol types of starting aids such as       SMCS Code: 1000; 7405
+ether. Such use could result in an explosion and
+personal injury.                                        There are several specific messages on this engine.
+                                                        The exact location of the messages and the
+                                                        description of the information are reviewed in this
+                                                        section. Become familiar with all messages.
+                                                        Make sure that all the messages are legible. Clean
+                                                        the messages or replace the messages if you cannot
+                                                        read the words. Replace the illustrations if the
+                                                        illustrations are not legible. When you clean the
+                                                        messages, use a cloth, water, and soap. Do not use
+                                                        solvent, gasoline, or other harsh chemicals to clean
+                                                        the messages. Solvents, gasoline, or harsh
+                                                        chemicals could loosen the adhesive that secures the
+                                                        messages. Loose adhesive will allow the messages
+                                                        to fall.
+                                                        Replace any message that is damaged, or missing. If
+                                                        a message is attached to a part that is replaced,
+                                                        install a message on the replacement part. Any
+Illustration 14                             g01154809   Caterpillar dealer can provide new messages.
+Typical example
+
+=== ORIGINAL PDF PAGE 17 ===
+M0108394-08                                                                                                      17
+                                                                                                Safety Section
+                                                                                     General Hazard Information
+
+
+                                                           Excessive idling of the engine in cold ambient
+                                                           temperatures could result in the breather freezing.
+                                                           The breather freezing can cause leaks & component
+                                                           failure, which can be harmful to the engine.
+                                                           Do not allow unauthorized personnel on the engine,
+                                                           or around the engine when the engine is being
+                                                           serviced.
+
+                                                           • Tampering with the engine installation or
+                                                             tampering with the OEM supplied wiring can be
+                                                             dangerous. Personal injury, death and/or engine
+                                                             damage could result.
+                                                           • Vent the engine exhaust to the outside when the
+                                                             engine is operated in an enclosed area.
+Illustration 15                               g03422039
+Purge notice message                                       • If the engine is not running, do not release the
+                                                             secondary brake or the parking brake systems
+This notice should be located next to the battery            unless the vehicle is blocked or unless the vehicle
+disconnect switch.                                           is restrained.
+
+                       NOTICE                              • Wear a hard hat, protective glasses, and other
+Do not turn the battery power disconnect switch off          protective equipment, as required.
+until indicator lamp has turned off. If the switch is
+turned off when the light is illuminated then the DEF      • When working around an engine, the engine must
+system will not purge and DEF could freeze and               not be in operation. You may only be near a
+cause damage to the pump and lines.                          running engine to carry out maintenance
+                                                             procedures that require the engine to be in
+                                                             operation. When work is performed around an
+                                               i08461421     engine that is operating, wear protective devices
+                                                             for ears to help prevent damage to hearing.
+General Hazard Information                                 • Do not wear loose clothing or jewelry that can
+SMCS Code: 1000; 4450; 7405                                  snag on controls or on other parts of the engine.
+                                                           • Ensure that all protective guards and all covers
+                                                             are secured in place on the engine.
+                                                           • Never put maintenance fluids into glass
+                                                             containers. Glass containers can break.
+
+                                                           • Use all cleaning solutions with care.
+                                                           • Report all necessary repairs.
+                                                           Unless other instructions are provided, perform the
+                                                           maintenance under the following conditions:
+
+                                                           • The engine is stopped. Ensure that the engine
+                                                             cannot be started.
+
+Illustration 16                               g00104545    • The protective locks or the controls are in the
+                                                             applied position.
+Attach a “Do Not Operate” warning tag or a similar
+warning tag to the start switch or to the controls         • Engage the secondary brakes or parking brakes.
+before the engine is serviced or before the engine is
+repaired. These warning tags (Special Instruction,         • Block the vehicle or restrain the vehicle before
+SEHS7332) are available from your Caterpillar                maintenance or repairs are performed.
+dealer. Attach the warning tags to the engine and to
+each operator control station. When appropriate,
+disconnect the starting controls.
+
+=== ORIGINAL PDF PAGE 18 ===
+18                                                                                                   M0108394-08
+Safety Section
+General Hazard Information
+
+
+• Disconnect the batteries when maintenance is
+  performed or when the electrical system is
+  serviced. Disconnect the battery ground leads.
+  Tape the leads to help prevent sparks. If equipped,
+  allow the diesel exhaust fluid to be purged before
+  disconnecting the battery.
+
+• If equipped, disconnect the connectors for the unit
+  injectors that are on the valve cover base. This
+  action will help prevent personal injury from the
+  high voltage to the unit injectors. Do not come in
+  contact with the unit injector terminals while the
+  engine is operating.
+
+• Do not attempt any repairs or any adjustments to
+  the engine while the engine is operating.                Illustration 17                               g00702020
+
+• Do not attempt any repairs that are not                  • Wear a hard hat, protective glasses, and other
+  understood. Use the proper tools. Replace any              protective equipment, as required.
+  equipment that is damaged or repair the
+  equipment.                                               • Caterpillar recommends that you do not stand
+                                                             next to an exposed running engine unless it is
+• For initial start-up of a new engine or for starting       necessary when carrying out daily checks or
+  an engine that has been serviced, make                     maintenance procedures. When work is
+  provisions to stop the engine if an overspeed              performed around an engine that is operating,
+  occurs. The stopping of the engine may be                  wear protective devices for ears to help prevent
+  accomplished by shutting off the fuel supply and/          damage to hearing.
+  or the air supply to the engine. Ensure that only
+  the fuel supply line is shut off. Ensure that the fuel   • Do not wear loose clothing or jewelry that can
+  return line is open.                                       snag on controls or on other parts of the engine.
+• Start the engine from the operators station (cab).       • Ensure that all protective guards and all covers
+  Never short across the starting motor terminals or         are secured in place on the engine.
+  the batteries. This action could bypass the engine
+  neutral start system and/or the electrical system        • Never put maintenance fluids into glass
+  could be damaged.                                          containers. Glass containers can break.
+Engine exhaust contains products of combustion             • Use all cleaning solutions with care.
+which may be harmful to your health. Always start the
+engine and operate the engine in a well-ventilated         • Report all necessary repairs.
+area. If the engine is in an enclosed area, vent the
+engine exhaust to the outside.                             Unless other instructions are provided, perform
+                                                           the maintenance under the following conditions:
+Cautiously remove the following parts. To help
+prevent spraying or splashing of pressurized fluids,       • The engine is stopped. Ensure that the engine
+hold a rag over the part that is being removed.              cannot be started.
+• Filler caps                                              • Disconnect the batteries when maintenance is
+                                                             performed or when the electrical system is
+• Grease fittings                                            serviced. Disconnect the battery ground leads.
+                                                             Tape the leads to help prevent sparks.
+• Pressure taps
+                                                           • Do not attempt any repairs that are not
+• Breathers                                                  understood. Use the proper tools. Replace any
+• Drain plugs                                                equipment that is damaged or repair the
+                                                             equipment.
+Use caution when cover plates are removed.
+Gradually loosen, but do not remove the last two           Pressurized Air and Water
+bolts or nuts that are at opposite ends of the cover
+plate or the device. Before removing the last two          Pressurized air and/or water can cause debris and/or
+bolts or nuts, pry the cover loose to relieve any spring   hot water to be blown out. This action could result in
+pressure or other pressure.                                personal injury.
+
+=== ORIGINAL PDF PAGE 19 ===
+M0108394-08                                                                                                        19
+                                                                                                 Safety Section
+                                                                                      General Hazard Information
+
+
+When pressurized air and/or pressurized water is            Dispose of all fluids according to local regulations
+used for cleaning, wear protective clothing, protective     and mandates.
+shoes, and eye protection. Eye protection includes
+goggles or a protective face shield.                        Static Electricity Hazard when
+The maximum air pressure for cleaning purposes              Fueling with Ultra-low Sulfur Diesel
+must be below 205 kPa (30 psi). The maximum
+water pressure for cleaning purposes must be below          Fuel
+275 kPa (40 psi).
+                                                            The removal of sulfur and other compounds in ultra-
+                                                            low sulfur diesel fuel (ULSD fuel) decreases the
+Fluid Penetration                                           conductivity of ULSD and increases the ability of
+                                                            ULSD to store static charge. Refineries may have
+Pressure can be trapped in the hydraulic circuit long       treated the fuel with a static dissipating additive.
+after the engine has been stopped. The pressure can         Many factors can reduce the effectiveness of the
+cause hydraulic fluid or items such as pipe plugs to        additive over time. Static charges can build up in
+escape rapidly if the pressure is not relieved              ULSD fuel while the fuel is flowing through fuel
+correctly.                                                  delivery systems. Static electricity discharge when
+                                                            combustible vapors are present could result in a fire
+Do not remove any hydraulic components or parts             or explosion. Ensure that the entire system used to
+until pressure has been relieved or personal injury         refuel your machine (fuel supply tank, transfer pump,
+may occur. Do not disassemble any hydraulic                 transfer hose, nozzle, and others) is properly
+components or parts until pressure has been relieved        grounded and bonded. Consult with your fuel or fuel
+or personal injury may occur. Refer to the OEM              system supplier to ensure that the delivery system
+information for any procedures that are required to         complies with fueling standards for proper grounding
+relieve the hydraulic pressure.                             and bonding.
+
+
+
+
+Illustration 18                                 g00687600
+
+Always use a board or cardboard when you check for
+a leak. Leaking fluid that is under pressure can
+penetrate body tissue. Fluid penetration can cause
+serious injury and possible death. A pin hole leak can
+cause severe injury. If fluid is injected into your skin,
+you must get treatment immediately. Seek treatment
+from a doctor that is familiar with this type of injury.
+
+Containing Fluid Spillage
+Care must be taken to ensure that fluids are
+contained during performance of inspection,
+maintenance, testing, adjusting, and repair of the
+product. Be prepared to collect the fluid with suitable
+containers before opening any compartment or
+disassembling any component containing fluids.
+Refer to Special Publication, NENG2500, “Cat Dealer
+Service Tool Catalog” for tools and supplies suitable
+to collect and contain fluids on Cat products.
+
+=== ORIGINAL PDF PAGE 20 ===
+20                                                                                                  M0108394-08
+Safety Section
+General Hazard Information
+
+
+                                                           If such yellow deposits are found on the engine,
+                                                           engine component parts, or associated equipment or
+Avoid static electricity risk when fueling. Ultra-         packages, Caterpillar recommends following local
+low sulfur diesel fuel (ULSD fuel) poses a greater         health and safety regulations and guidelines, utilizing
+static ignition hazard than earlier diesel formula-        good hygiene, and adhering to safe work practices
+tions with a higher sulfur contents. Avoid death           when handling the equipment or parts. Caterpillar
+or serious injury from fire or explosion. Consult          also recommends the following:
+with your fuel or fuel system supplier to ensure           • Wear appropriate Personal Protective Equipment
+the delivery system is in compliance with fueling
+standards for proper grounding and bonding                   (PPE)
+practices.                                                 • Wash your hands and face with soap and water
+                                                             prior to eating, drinking, or smoking, and also
+                                                             during rest room breaks, to prevent ingestion of
+Inhalation                                                   any yellow powder
+                                                           • Never use compressed air for cleaning areas
+                                                             suspected of containing hexavalent chromium
+
+                                                           • Avoid brushing, grinding, or cutting materials
+                                                             suspected of containing hexavalent chromium
+
+                                                           • Obey environmental regulations for the disposal of
+                                                             all materials that may contain or have come into
+                                                             contact with hexavalent chromium
+
+                                                           • Stay away from areas that might have hexavalent
+                                                             chromium particles in the air.
+
+                                                           Asbestos Information
+                                                           Cat equipment and replacement parts that are
+Illustration 19                                g00702022
+                                                           shipped from Caterpillar are asbestos free.
+                                                           Caterpillar recommends the use of only genuine Cat
+Exhaust                                                    replacement parts. Use the following guidelines when
+                                                           you handle any replacement parts that contain
+Use caution. Exhaust fumes can be hazardous to             asbestos or when you handle asbestos debris.
+health. If you operate the equipment in an enclosed
+area, adequate ventilation is necessary.                   Use caution. Avoid inhaling dust that might be
+                                                           generated when you handle components that contain
+Hexavalent Chromium                                        asbestos fibers. Inhaling this dust can be hazardous
+                                                           to your health. The components that may contain
+Caterpillar equipment and replacement parts comply         asbestos fibers are brake pads, brake bands, lining
+with applicable regulations and requirements where         material, clutch plates, and some gaskets. The
+originally sold. Caterpillar recommends the use of         asbestos that is used in these components is usually
+only genuine Caterpillar replacement parts.                bound in a resin or sealed in some way. Normal
+                                                           handling is not hazardous unless airborne dust that
+Hexavalent chromium has occasionally been                  contains asbestos is generated.
+detected on exhaust and heat shield systems on
+Caterpillar engines. Although laboratory testing is the    If dust that may contain asbestos is present, there
+only accurate way to know if hexavalent chromium is,       are several guidelines that should be followed:
+in fact, present, the presence of a yellow deposit in
+areas of high heat (for example, exhaust system            • Never use compressed air for cleaning.
+components or exhaust insulation) may be an
+indication of the presence of hexavalent chromium.         • Avoid brushing materials that contain asbestos.
+
+Use caution if you suspect the presence of                 • Avoid grinding materials that contain asbestos.
+hexavalent chromium. Avoid skin contact when
+handling items that you suspect may contain                • Use a wet method to clean up asbestos materials.
+hexavalent chromium, and avoid inhalation of any
+dust in the suspect area. Inhalation of, or skin contact   • A vacuum cleaner that is equipped with a high
+with, hexavalent chromium dust may be hazardous to           efficiency particulate air filter (HEPA) can also be
+your health.                                                 used.
+
+=== ORIGINAL PDF PAGE 21 ===
+M0108394-08                                                                                                   21
+                                                                                               Safety Section
+                                                                                              Burn Prevention
+
+
+• Use exhaust ventilation on permanent machining         Always use leakproof containers when you drain
+  jobs.                                                  fluids. Do not pour waste onto the ground, down a
+                                                         drain, or into any source of water.
+• Wear an approved respirator if there is no other
+  way to control the dust.                               Diesel Exhaust Fluid
+• Comply with applicable rules and regulations for
+  the work place. In the United States, use
+  Occupational Safety and Health Administration
+  (OSHA) requirements. These OSHA requirements           DEF is an aqueous solution of urea which can re-
+  can be found in “29 CFR 1910.1001”.                    lease ammonia vapors. Always wear the appro-
+                                                         priate Personal Protective Equipment (PPE) that
+• Obey environmental regulations for the disposal of     is noted on a material safety data sheet (MSDS)
+  asbestos.                                              for Diesel Exhaust Fluid (DEF).
+
+• Stay away from areas that might have asbestos          • Do not inhale ammonia vapor or mist
+  particles in the air.
+                                                         • Do not eat, drink, or smoke in presence of DEF
+Dispose of Waste Properly                                • Avoid DEF contact with eyes, skin, and
+                                                           clothing
+                                                         • Wash thoroughly after handling DEF
+                                                         Always follow the directions for first aid that are
+                                                         noted on a material safety data sheet (MSDS) for
+                                                         Diesel Exhaust Fluid (DEF).
+                                                         DEF is not expected to produce significant adverse
+                                                         health effects when the recommended instructions
+                                                         for use are followed.
+                                                         • Draining DEF must be carried out in a well-
+                                                           ventilated area.
+                                                         • Do not allow the DEF to be spilled onto hot
+                                                           surfaces.
+Illustration 20                              g00706404
+                                                                                                         i07277507
+Improperly disposing of waste can threaten the
+environment. Potentially harmful fluids should be
+disposed of in accordance with local regulations.
+                                                         Burn Prevention
+                                                         SMCS Code: 1000; 4450; 7405
+                                                         Do not touch any part of an operating engine system.
+                                                         The engine, the exhaust, and the engine
+                                                         aftertreatment system can exceed 650° C (1202° F)
+                                                         under normal operating conditions.
+                                                         Allow the engine system to cool before any
+                                                         maintenance is performed. Relieve all pressure in the
+                                                         air system, hydraulic system, lubrication system, fuel
+                                                         system, and the cooling system before the related
+                                                         items are disconnected.
+
+
+
+                                                         Contact with high pressure fuel may cause fluid
+                                                         penetration and burn hazards. High pressure fuel
+                                                         spray may cause a fire hazard. Failure to follow
+                                                         these inspection, maintenance and service in-
+                                                         structions may cause personal injury or death.
+
+=== ORIGINAL PDF PAGE 22 ===
+22                                                                                                  M0108394-08
+Safety Section
+Burn Prevention
+
+
+After the engine has stopped, wait for 10 minutes to       Cooling system conditioner contains alkali. Alkali can
+allow the fuel pressure to be purged from the high-        cause personal injury. Do not allow alkali to contact
+pressure fuel lines before any service or repair is        the skin, the eyes, or the mouth.
+performed on the engine fuel lines. The 10 minute
+wait will also allow static charge to dissipate from the   Oils
+low-pressure fuel system.
+                                                           Skin may be irritated following repeated or prolonged
+Allow the pressure to be purged in the air system, in      exposure to mineral and synthetic base oils. Refer to
+the hydraulic system, in the lubrication system, or in     your suppliers Material Safety Data Sheets for
+the cooling system before any lines, fittings, or          detailed information. Hot oil and lubricating
+related items are disconnected.                            components can cause personal injury. Do not allow
+                                                           hot oil to contact the skin. Appropriate personal
+Induction System                                           protective equipment should be used.
+
+                                                           Diesel Fuel
+                                                           Diesel engines have high-pressure fuel systems and
+Sulfuric Acid Burn Hazard may cause serious
+                                                           the fuel can reach temperatures of over 100° C
+personal injury or death.
+                                                           (212° F). Ensure that the fuel has cooled before any
+The exhaust gas cooler may contain a small                 service or repairs are performed.
+amount of sulfuric acid. The use of fuel with sul-
+fur levels greater than 15 ppm may increase the            Diesel may be irritating to the eyes, respiratory
+amount of sulfuric acid formed. The sulfuric acid          system, and skin. Prolonged exposure to diesel may
+may spill from the cooler during service of the en-        cause various skin conditions. Appropriate personal
+gine. The sulfuric acid will burn the eyes, skin           protective equipment should be used. Refer to
+and clothing on contact. Always wear the appro-            supplier Material safety Data sheets for detailed
+priate personal protective equipment (PPE) that            information.
+is noted on a material safety data sheet (MSDS)
+for sulfuric acid. Always follow the directions for        Batteries
+first aid that are noted on a material safety data
+sheet (MSDS) for sulfuric acid.                            Electrolyte is an acid. Electrolyte can cause personal
+                                                           injury. Do not allow electrolyte to contact the skin or
+                                                           the eyes. Always wear protective glasses for
+Coolant                                                    servicing batteries. Wash hands after touching the
+                                                           batteries and connectors. Use of gloves is
+When the engine is at operating temperature, the           recommended.
+engine coolant is hot. The coolant is also under
+pressure. The radiator and all lines to the heaters,       Engine and Aftertreatment System
+aftertreatment system or to the engine contain hot
+coolant.                                                   Do not touch any part of an operating engine or
+                                                           engine aftertreatment system. Allow the engine or the
+Any contact with hot coolant or with steam can cause
+                                                           engine aftertreatment system to cool before any
+severe burns. Allow cooling system components to
+                                                           maintenance is performed on the engine or the
+cool before the cooling system is drained.
+                                                           engine aftertreatment system. Relieve all pressure in
+Check the coolant level after the engine has stopped       the appropriate system before any lines, fittings, or
+and the engine has been allowed to cool.                   related items are disconnected.
+
+Ensure that the filler cap is cool before removing the
+filler cap. The filler cap must be cool enough to touch
+with a bare hand. Remove the filler cap slowly to
+relieve pressure.
+
+=== ORIGINAL PDF PAGE 23 ===
+M0108394-08                                                                                                            23
+                                                                                                  Safety Section
+                                                                        Fire Prevention and Explosion Prevention
+
+
+Aftertreatment System and Diesel                           Store fuels and lubricants in properly marked
+Exhaust Fluid                                              containers away from unauthorized persons. Store
+                                                           oily rags and any flammable materials in protective
+Diesel Exhaust Fluid (DEF) temperatures can reach          containers. Do not smoke in areas that are used for
+65° to 70°C (149.° to 126°F) during normal engine          storing flammable materials.
+operation. Stop the engine. Wait for 15 minutes to         Do not expose the engine to any flame.
+allow the DEF system to be purged and the DEF to
+cool before service or repair is performed.                Exhaust shields (if equipped) protect hot exhaust
+                                                           components from oil or fuel spray in a case of a line,
+                                               i07676034   a tube, or a seal failure. Exhaust shields must be
+                                                           installed correctly.
+Fire Prevention and Explosion                              Do not weld on lines or tanks that contain flammable
+Prevention                                                 fluids. Do not flame cut lines or tanks that contain
+                                                           flammable fluid. Clean any such lines or tanks
+SMCS Code: 1000; 4450; 7405                                thoroughly with a nonflammable solvent prior to
+                                                           welding or flame cutting.
+                                                           Wiring must be kept in good condition. Ensure that all
+                                                           electrical wires are properly routed and securely
+                                                           attached. Check all electrical wires daily. Repair any
+                                                           wires that are loose or frayed before you operate the
+                                                           engine. Clean all electrical connections and tighten
+                                                           all electrical connections.
+                                                           Eliminate all wiring that is unattached or
+                                                           unnecessary. Do not use any wires or cables that are
+                                                           smaller than the recommended gauge. Do not
+                                                           bypass any fuses and/or circuit breakers.
+                                                           Arcing or sparking could cause a fire. Secure
+                                                           connections, recommended wiring, and properly
+                                                           maintained battery cables will help to prevent arcing
+                                                           or sparking.
+Illustration 21                                g00704000
+
+All fuels, most lubricants, and some coolant mixtures
+are flammable.
+Flammable fluids that are leaking or spilled onto hot      Contact with high pressure fuel may cause fluid
+surfaces or onto electrical components can cause a         penetration and burn hazards. High pressure fuel
+fire. Fire may cause personal injury and property          spray may cause a fire hazard. Failure to follow
+damage.                                                    these inspection, maintenance and service in-
+                                                           structions may cause personal injury or death.
+A flash fire may result if the covers for the engine
+crankcase are removed within 15 minutes after an           After the engine has stopped, you must wait for 10
+emergency shutdown.
+                                                           minutes to allow the fuel pressure to be purged from
+Determine whether the engine will be operated in an        the high-pressure fuel lines before any service or
+environment that allows combustible gases to be            repair is performed on the engine fuel lines. The 10
+drawn into the air inlet system. These gases could         minute wait will also allow static charge to dissipate
+cause the engine to overspeed. Personal injury,            from the low-pressure fuel system.
+property damage, or engine damage could result.
+                                                           Ensure that the engine is stopped. Inspect all lines
+If the application involves the presence of                and hoses for wear or for deterioration. Ensure that
+combustible gases, consult your Caterpillar dealer for     the hoses are correctly routed. The lines and hoses
+additional information about suitable protection           must have adequate support and secure clamps.
+devices.
+                                                           Oil filters and fuel filters must be correctly installed.
+Remove all flammable combustible materials or              The filter housings must be tightened to the correct
+conductive materials such as fuel, oil, and debris         torque. Refer to the Disassembly and Assembly for
+from the engine. Do not allow any flammable                more information.
+combustible materials or conductive materials to
+accumulate on the engine.
+
+=== ORIGINAL PDF PAGE 24 ===
+24                                                                                                  M0108394-08
+Safety Section
+Fire Prevention and Explosion Prevention
+
+
+
+
+Illustration 22                                g00704059   Illustration 23                                g00704135
+
+Use caution when you are refueling an engine. Do           Gases from a battery can explode. Keep any open
+not smoke while you are refueling an engine. Do not        flames or sparks away from the top of a battery. Do
+refuel an engine near open flames or sparks. Always        not smoke in battery charging areas.
+stop the engine before refueling.
+                                                           Never check the battery charge by placing a metal
+Avoid static electricity risk when fueling. Ultra-low      object across the terminal posts. Use a voltmeter or a
+Sulfur Diesel fuel (ULSD fuel) poses a greater static      hydrometer.
+ignition hazard than earlier diesel formulations with a
+higher sulfur content. Avoid death or serious injury       Improper jumper cable connections can cause an
+from fire or explosion. Consult your fuel or fuel          explosion that can result in injury. Refer to the
+system supplier to ensure that the delivery system is      Operation Section of this manual for specific
+in compliance with fueling standards for proper            instructions.
+grounding and bonding practices.
+                                                           Do not charge a frozen battery. A frozen battery may
+                                                           cause an explosion.
+                                                           The batteries must be kept clean. The covers (if
+                                                           equipped) must be kept on the cells. Use the
+                                                           recommended cables, connections, and battery box
+                                                           covers when the engine is operated.
+
+                                                           Fire Extinguisher
+                                                           Make sure that a fire extinguisher is available. Be
+                                                           familiar with the operation of the fire extinguisher.
+                                                           Inspect the fire extinguisher and service the fire
+                                                           extinguisher regularly. Obey the recommendations
+                                                           on the instruction plate.
+
+                                                           Ether
+                                                           Ether is flammable and poisonous.
+                                                           Do not smoke while you are replacing an ether
+                                                           cylinder.
+
+=== ORIGINAL PDF PAGE 25 ===
+M0108394-08                                                                                                       25
+                                                                                                  Safety Section
+                                                                      Crushing Prevention and Cutting Prevention
+
+
+Do not store ether cylinders in living areas or in the       Chips or other debris may fly off objects when objects
+engine compartment. Do not store ether cylinders in          are struck. Before objects are struck, ensure that no
+direct sunlight or in temperatures above 49 °C               one will be injured by flying debris.
+(120 °F). Keep ether cylinders away from open
+flames or sparks.                                                                                          i05768982
+
+
+Lines, Tubes, and Hoses                                      Mounting and Dismounting
+Do not bend high-pressure lines. Do not strike high-         SMCS Code: 1000; 4450; 7405
+pressure lines. Do not install any lines that are bent
+or damaged.                                                  Do not climb on the engine or the engine
+                                                             aftertreatment system. The engine and
+Leaks can cause fires. Consult your Caterpillar              aftertreatment system have not been designed with
+dealer for repair or for replacement parts.                  mounting or dismounting locations.
+
+Replace the parts if any of the following conditions         Refer to the OEM for the location of foot and hand
+are present:                                                 holds for your specific application.
+
+• High-pressure fuel line or lines are removed.                                                            i07366423
+
+• End fittings are damaged or leaking.                       High Pressure Fuel Lines
+• Outer coverings are chafed or cut.                         SMCS Code: 1274
+
+• Wires are exposed.
+• Outer coverings are ballooning.
+                                                             Contact with high pressure fuel may cause fluid
+• Flexible parts of the hoses are kinked.                    penetration and burn hazards. High pressure fuel
+                                                             spray may cause a fire hazard. Failure to follow
+• Outer covers have embedded armoring.                       these inspection, maintenance and service in-
+                                                             structions may cause personal injury or death.
+• End fittings are displaced.
+Make sure that all clamps, guards, and heat shields
+are installed correctly. During engine operation,
+correct installation will help to prevent vibration,
+rubbing against other parts, and excessive heat.
+
+                                                 i08162291
+
+
+Crushing Prevention and
+Cutting Prevention
+SMCS Code: 1000; 4450; 7405
+Support the component properly when work beneath
+the component is performed.
+Unless other maintenance instructions are provided,
+never attempt adjustments while the engine is
+running.
+Stay clear of all rotating parts and of all moving parts.
+Leave the guards in place until maintenance is
+performed. After the maintenance is performed,
+reinstall the guards.
+Keep objects away from moving fan blades. The fan
+blades will throw objects or cut objects.
+When objects are struck, wear protective glasses to
+avoid injury to the eyes.
+

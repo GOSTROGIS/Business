@@ -1,0 +1,1230 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf
+SOURCE SHA-256: 25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96
+ORIGINAL PDF VIEWER PAGES: 51–75 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 51 ===
+Component Location
+
+   KEYPAD          CONTROL
+                                                                   FUNCTION
+   SYMBOL           NAME
+                                 Turns the RIGHT auger and conveyor on and off. The right LED light
+                                 illuminates GREEN while auger/conveyor is ON; the left RED light illuminates
+                                 when OFF, and BLUE if paver is paused while the right auger/conveyor are
+                                 operating (or the material has shut off the sensor).
+                                 Press the button once to turn ON the RIGHT auger and conveyor (AUTO
+                Conveyor RIGHT   mode).
+                                 Press the button and hold for MANUAL override.
+                                 Press button again to turn off the RIGHT auger and conveyor.
+                                 NOTE: Moving the joysticks into neutral pauses operation in AUTO
+                                 mode.
+                                 Press and hold to close the LEFT Under Auger Material Cut-Off. When
+                                 closed, the center LED light illuminates RED on both operator consoles and
+                LEFT Cut-Off
+                                 the LEFT screed control keypad. If paver is put into reverse, the cut-offs will
+                CLOSED
+                                 automatically close and the center LED light illuminates RED if operating in
+                                 AUTO mode.
+                                 Press and hold to close the RIGHT Under Auger Material Cut-Off. When
+                                 closed, the center LED light illuminates RED on both operator consoles
+                RIGHT Cut-Off
+                                 and the LEFT screed keypad. If paver is put into reverse, the cut-offs will
+                CLOSED
+                                 automatically close and the center LED light illuminates RED if operating in
+                                 AUTO mode.
+
+                                 Press and hold to open the LEFT Under Auger Material Cut-Off. All three
+                LEFT Cut-Off
+                                 LED lights illuminate GREEN on both operator consoles and the LEFT
+                OPEN
+                                 screed keypad while open.
+
+
+                                 Press and hold to open the RIGHT Under Auger Material Cut-Off. All three
+                RIGHT Cut-Off
+                                 LED lights illuminate GREEN on both operator consoles and the LEFT
+                OPEN
+                                 screed keypad while open.
+
+                                 Extends the LEFT screed extension. Press and hold button to extend the left
+                LEFT Extension
+                                 screed extension to desired width. All three LED lights illuminate GREEN on
+                EXTEND
+                                 both consoles and the LEFT screed keypad while engaged.
+                                 Retracts the LEFT screed extension. Press and hold button to retract the left
+                LEFT Extension
+                                 screed extension to desired width. All three LED lights illuminate GREEN on
+                RETRACT
+                                 both consoles and the LEFT screed keypad while engaged.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                 3-15
+
+=== ORIGINAL PDF PAGE 52 ===
+Component Location
+
+Upper Right Keypad
+
+   (Left Operator Platform
+   Control Panel Shown)
+
+
+
+
+                             Figure 3-4. Control Panel - Upper Right Keypad
+   KEYPAD
+                  CONTROL NAME                                     FUNCTION
+   SYMBOL
+                                   This button is used to change paver low and high speed in the working
+                                   mode. The right LED light illuminates GREEN on both consoles at low
+                 Work High/Low     speed. Press the button to shift to high work speed. The left LED light
+                 Speed             illuminates GREEN on both consoles at high speed. The work speed can
+                                   be shifted between the two speeds as needed.
+                                   NOTE: Only pave in work speed.
+                                   This button is used to change paver low and high speed in travel mode. The
+                                   right LED light illuminates GREEN on both consoles at low speed. Press
+                 Travel High/Low   the button to shift to high travel speed. The left LED light illuminates GREEN
+                 Speed             on both consoles at high speed. The work speed can be changed by
+                                   stopping, then shifting, between the two speeds as needed.
+                                   NOTE: Only pave in work speed.
+                                   Pressing this button sounds the horn, and functions on both consoles along
+                 Horn              with the screed keypads. All three LED lights will illuminate GREEN when
+                                   engaged.
+
+
+
+
+3-16                                                                           LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 53 ===
+Component Location
+
+   KEYPAD
+                CONTROL NAME                                      FUNCTION
+   SYMBOL
+                                 Raises the augers.
+                                 • Press and hold button to raise both the left and right auger.
+                Auger Lift       • Releasing the button will hold the augers at that position.
+                                 NOTE: The Under Auger Material Cut-Offs will automatically open
+                                      when raising the augers.
+
+                                 Lowers the augers.
+                Auger Lower      • Press and hold button to lower both the left and right auger.
+                                 • Releasing the button will hold the augers at that position.
+
+                                 Sets the asphalt mat thicker and controls the hydraulic tow cylinders. Press
+                                 and hold button to raise LEFT tow. All three LED lights illuminate GREEN
+                LEFT Tow UP      while engaged on both consoles and the LEFT screed keypad.
+                                 NOTE: Does not function when the grade control is set to AUTO.
+                                 Sets the asphalt mat thicker and controls the hydraulic tow cylinders. Press
+                                 and hold button to raise RIGHT tow. All three LED lights illuminate GREEN
+                RIGHT Tow UP     while engaged on both consoles and the RIGHT screed keypad.
+                                 NOTE: Does not function when the grade control is set to AUTO.
+                                 Sets the asphalt mat thinner and controls the hydraulic tow cylinders.
+                                 Press and hold button to lower LEFT tow. All three LED lights illuminate
+                LEFT Tow DOWN    GREEN while engaged on both consoles and the LEFT screed keypad.
+                                 NOTE: Does not function when the grade control is set to AUTO.
+                                 Sets the asphalt mat thinner and controls the hydraulic tow cylinders.
+                                 Press and hold button to lower RIGHT tow. All three LED lights illuminate
+                RIGHT Tow DOWN   GREEN while engaged on both consoles and the RIGHT screed keypad.
+                                 NOTE: Does not function when the grade control is set to AUTO.
+                                 Pressing this button turns on the augers and conveyors, along with opening
+                Pad Builder      the Under Auger Material Cut-Offs.
+                                 • Press and hold this button to manually overide both conveyors.
+                                 Pauses propel (travel), conveyors and augers functions. Press the button
+                                 once to pause these functions. The three LED lights illuminate BLUE on
+                Pause            both consoles. Pressing the button again resumes these functions.
+                                 NOTE: The engine idle will remain at high but automatically go into
+                                 low idle if paused for a preset period of time (unless the generator is
+                                 enabled.)
+                                 The generator can be activated in AUTO or MANUAL mode from the active
+                                 or inactive console. The default is Auto.
+                Generator        • Press the button once for AUTO operation (the temperature setting con-
+                                   trols operation). The left LED lights illuminate GREEN.
+                                 • Press the button again to turn off (the right LED light illuminates RED).
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                   3-17
+
+=== ORIGINAL PDF PAGE 54 ===
+Component Location
+
+Lower Right Keypad
+
+   (Left Operator Platform
+   Control Panel Shown)
+
+
+
+
+                               Figure 3-5. Control Panel - Lower Right Keypad
+   KEYPAD           CONTROL
+                                                                     FUNCTION
+   SYMBOL            NAME
+                                    Used to select the right, left or both hopper wings, and can be operated on
+                                    both active and inactive consoles. Upon start-up, the operational mode is set
+                                    by default to operating both hopper wings. The LED lights illuminate GREEN.
+                                    • Pressing the button once enables operating only the LEFT hopper wing.
+                 Hopper Wing          The left LED light illuminates GREEN on both consoles.
+                 Select
+                                    • Pressing the button again operates only the RIGHT hopper wing. The right
+                                      LED light illuminates GREEN on both consoles.
+                                    • Pressing the button again returns to the default operational control of both
+                                      hopper wings.
+
+
+
+
+3-18                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 55 ===
+Component Location
+
+   KEYPAD          CONTROL
+                                                                    FUNCTION
+   SYMBOL           NAME
+                                  Both consoles are inactive upon start-up. All four joysticks must be in the
+                                  NEUTRAL position to activate either console. Press this button on the
+                                  desired operator platform console once to activate its control panel console.
+                                  The three LED lights will illuminate GREEN on the active console.
+                                  NOTE: All joysticks on both operator platform control panels must be
+                Active/Inactive   in NEUTRAL to deactivate the console in use and activate the other
+                Console           console.
+                                  NOTE: The opposite console can be activated by selecting multiple
+                                  times.
+                                  NOTE: If an active console becomes inactive while the paver is moving,
+                                  the paver will automatically slow down to a stop and apply park brake.
+                                  Opens the right, left or both hopper wings, depending upon hopper mode
+                Hopper Wing(s)    selected, and can be operated from active and inactive consoles. Press and
+                OPEN              hold the button to open the hopper wing(s). The center LED lights GREEN
+                                  while engaged on both consoles.
+
+                                  Press and hold button to raise the screed. All three LED lights illuminate
+                Screed Raise      GREEN while engaged on both consoles. This function can only be operated
+                                  from the active console.
+
+                                  Closes the right, left or both hopper wings, depending upon hopper mode
+                Hopper Wing(s)    selected, and can be operated from active and inactive consoles. Press and
+                CLOSE             hold the button to close the hopper wing(s). All three LED lights GREEN while
+                                  engaged on both consoles.
+                                  This button controls floating the screed, and can only be operated from
+                                  the active console. Placing the joysticks on the active console into neutral
+                LEFT Screed
+                                  moves into screed hold, and float resumes when joysticks are returned to the
+                Float
+                                  forward position. The center LED light illuminates GREEN when screed float
+                                  is active, and BLUE when in screed hold, on both consoles.
+                RIGHT Screed      Retracts the RIGHT screed extension. Press and hold button to retract
+                Extension         the right screed extension to desired width. All three LED lights illuminate
+                RETRACT           GREEN on both consoles and the RIGHT screed keypad while engaged.
+                RIGHT Screed      Extends the RIGHT screed extension. Press and hold button to extend
+                Extension         the right screed extension to desired width. All three LED lights illuminate
+                EXTEND            GREEN on both consoles and the RIGHT screed keypad while engaged.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                     3-19
+
+=== ORIGINAL PDF PAGE 56 ===
+Component Location
+
+Junction Box Controls
+
+
+
+
+                   1
+
+
+
+
+                                   2                      3                      4
+                                   Figure 3-6. Junction Box Controls
+ ITEM
+        CONTROL NAME                                            FUNCTION
+  NO.
+                           Insert key into the ignition switch and turn clockwise to the RUN position, press the
+                           Start/Stop button on the main control panel, and activate the desired control panel
+   1    Ignition           to start the paver. (Page 4-5)
+                           NOTE: The engine will not start unless both joysticks on both operator
+                           platforms (4 total) are in the NEUTRAL position.
+                           Raises and lowers the engine hood. (Page 5-5)
+                           • Push switch UP and hold to raise the hood.
+   2    Hood Lift Switch   • Press switch DOWN and hold to lower the hood.
+                                        Ensure all hood latches (5) are unlatched before raising the
+                           hood. Ensure all latches are securely latched before operating. (Page 5-6)
+                           Automatically adjusts crown and valley.
+
+        Power Crown        • Push switch UP for positive crown adjustment.
+   3
+        Switch (OPTION)    • Push switch DOWN for negative valley adjustment.
+                           NOTE: The switch does not function if not equipped with this option.
+   4    Nonfunctional      Nonfunctional on this model.
+
+
+
+
+3-20                                                                             LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 57 ===
+Component Location
+
+Screed Controls
+
+                 1
+        2
+
+             3
+
+
+
+                                                                                                       6
+
+
+
+             4
+                                                                                  5
+                                       Figure 3-7. Screed Controls
+ITEM NO.         CONTROL NAME                                        FUNCTION
+    1       Electric Heat Box          Control box for the electric screed heat and heated end gate.
+    2       Horizontal Depth Screw     Controls depth of the asphalt (one on each side).
+    3       Screed Control Panel       Located on each side of the screed. Features numerous paving controls.
+                                       Walkboard provides added convenience for screed operators. Can be
+    4       Foldable Walkboard
+                                       folded up when not in use.
+    5       End Gate Adjusters         Raises, lowers and adjusts angle of end gates.
+                                       Mount for the Sonic Auger Sensor, which senses and automatically
+    6       Sonic Auger Sensor Mount
+                                       gauges the amount of material in the extensions.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                               3-21
+
+=== ORIGINAL PDF PAGE 58 ===
+Component Location
+
+LEFT Screed Control Box - Left Keypad
+                                                                    2
+
+
+                                                             1              3
+
+
+
+
+                                                                    4
+                        Figure 3-8. LEFT Screed Controls (Left Keypad)
+   KEYPAD
+            CONTROL NAME                                         FUNCTION
+   SYMBOL
+                               • Set switch up/down to increase/decrease the auger speed when auger is
+                                 set to MANUAL mode.
+       1    Auger Pile Speed
+                               • Set switch up/down to increase/decrease the pile height when auger is
+                                 set to AUTO mode.
+            Emergency Stop     Immediately stops the paver engine and all electronic functions. Turn
+       2
+            (E-Stop) Button    clockwise to release E-Stop button.
+                               Set switch up/down to increase/decrease the conveyor speed when
+       3    Conveyor Speed
+                               operating in MANUAL mode.
+                               • Push and hold this switch to extend (OUT) or retract (IN) the screed
+       4    Extension IN/OUT
+                                 extension on the corresponding control box side of operation.
+
+
+
+
+3-22                                                                        LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 59 ===
+Component Location
+
+   KEYPAD
+                CONTROL NAME                                     FUNCTION
+   SYMBOL
+                                 Press this button once to turn ON the auger and conveyor.
+                                 • The left LED light illuminates GREEN when the auger and conveyor is on.
+                                 • The default setting is AUTO mode, which is controlled by the Auger
+                Auger/Conveyor
+                                   MANUAL/AUTO button.
+                ON/OFF
+                                 • Press the button again to turn OFF the auger and conveyor.
+                                 • You can also use the auger OR conveyor bypass button to pause opera-
+                                   tion of either function separately.
+                                 This button only functions if the Auger/Conveyor ON/OFF button is turned
+                                 ON. Independent right and left augers can be operated in MANUAL or
+                                 AUTO (automatic) mode. AUTO mode is the default.
+                                 • Press button twice to operate auger in MANUAL mode. The left LED
+                                   light illuminates GREEN. In MANUAL mode, the operator controls auger
+                Auger MANUAL/
+                                   speed using the auger pile speed switch above the keypad.
+                AUTO Select
+                                 • Press the button once to operate in AUTO mode. The right LED light illu-
+                                   minates GREEN. The center blue light illuminates when material reaches
+                                   the set material height. In AUTO mode, the auger dial controls material
+                                   height. The auger sonic sensor must be connected to operate in
+                                   AUTO mode.
+
+
+                                 Press the Auger/Conveyor Reverse button for reversing the direction
+                Auger/Conveyor
+                                 of both functions to help clear material as needed. All three LED lights
+                Reverse
+                                 illuminate while the auger/conveyor reverse is active.
+    REVERSE
+
+
+                                 Press and hold to open the LEFT Under Auger Material Cut-Off. All three
+                LEFT Cut-Off
+                                 LED lights illuminate GREEN on both operator consoles and the LEFT
+                OPEN
+                                 screed keypad while open.
+
+                                 Pauses propel (travel), conveyors and augers functions. Press the button
+                                 once to pause these functions. The three LED lights illuminate blue.
+                                 • Pressing the button again resumes these functions.
+                Pause
+                                 NOTE: The engine idle will remain at high but automatically go into
+                                 low idle if paused for a preset period of time (unless the generator is
+                                 enabled.)
+                                 Press and hold to close the LEFT Under Auger Material Cut-Off. When
+                                 closed, the center LED light illuminates RED on both operator consoles
+                LEFT Cut-Off
+                                 and the LEFT screed control keypad. If paver is put into reverse, the cut-
+                CLOSED
+                                 offs will automatically close and the center LED light illuminates RED when
+                                 operating in AUTO mode.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                3-23
+
+=== ORIGINAL PDF PAGE 60 ===
+Component Location
+
+LEFT Screed Control Box - Right Keypad
+
+
+
+
+                          Figure 3-9. LEFT Screed Controls (Right Keypad)
+   KEYPAD
+            CONTROL NAME                                         FUNCTION
+   SYMBOL
+
+                                 The tunnel extension allows material to flow while paving at wide widths.
+            Tunnel Extension
+                                 Press and hold the button to extend the auger. The left LED light illuminates
+            OUT
+                                 green in MANUAL mode.
+
+                                 The tunnel extension allows material to flow while paving at wide widths.
+            Tunnel Extension
+                                 Press and hold the button to retract the auger. The right LED light
+            IN
+                                 illuminates green in MANUAL mode.
+
+                                 Use this button to select SLOPE or BERM mode.
+                                 • The default is set to OFF.
+            Slope/Berm           • Press the button once to select SLOPE. The LEFT LED light illuminates
+            SELECT                 GREEN on the keypad (and both consoles) in this mode.
+                                 • Push the button twice to select BERM mode. The right LED light illumi-
+                                   nates GREEN in this mode.
+
+                                 Pressing this button sounds the horn whether the console is active or not.
+            Horn
+                                 All three LED lights will illuminate GREEN when engaged.
+
+
+                                 Automatically increase the screed extension vertical height by pressing and
+            Vertical Up
+                                 holding the vertical UP. All three LED lights illuminate while in operation.
+
+
+
+
+3-24                                                                         LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 61 ===
+Component Location
+
+   KEYPAD
+                CONTROL NAME                                    FUNCTION
+   SYMBOL
+
+                                Press and hold this button to make adjustments to the Angle-of-Attack
+                AOA Up          (AOA). Adjust the mat texture using the Angle-of-Attack (AOA) adjuster to
+                                produce a smooth or coarse mat texture.
+
+
+                                Press and hold this button to enable the Slope or Berm UP function,
+                                depending upon which mode is selected on the Slope/Berm Select button.
+                Slope/Berm UP   When activated by pressing the button, all three LED lights illuminate
+                                GREEN on both main consoles and the left or right screed control box
+                                (corresponding to the active console).
+                                Sets the asphalt mat thicker and controls the hydraulic tow cylinder. Press
+                                and hold button to raise LEFT tow. All three LED lights illuminate GREEN on
+                Tow UP          the keypad (and both consoles) while engaged.
+                                NOTE: Only functions with joysticks in neutral when the grade control
+                                is set to AUTO.
+                                Automatically decrease the screed extension vertical height by pressing
+                Vertical Down   and holding the vertical DOWN. All three LED lights illuminate while in
+                                operation.
+
+
+                                Press and hold this button to make adjustments to the Angle-of-Attack
+                AOA Down        (AOA). Adjust the mat texture using the Angle-of-Attack (AOA) adjuster to
+                                produce a smooth or coarse mat texture.
+
+
+                                Press and hold this button to enable the Slope or Berm DOWN function,
+                                depending upon which mode is selected on the Slope/Berm Select button.
+                Slope Berm
+                                When activated by pressing the button, all three LED lights illuminate
+                DOWN
+                                GREEN on both main consoles and the left or right screed control box
+                                (corresponding to the active console).
+
+                                Sets the asphalt mat thicker and controls the hydraulic tow cylinder. Press
+                                and hold button to lower LEFT tow. All three LED lights illuminate GREEN
+                Tow DOWN        on the keypad (and both consoles) while engaged.
+                                NOTE: Only functions with joysticks in neutral when the grade control
+                                is set to AUTO.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                            3-25
+
+=== ORIGINAL PDF PAGE 62 ===
+Component Location
+
+RIGHT Screed Control Box - Left Keypad                                                      2
+
+                                                                                      1           3
+
+
+
+
+                                                                                            4
+                            Figure 3-10. RIGHT Screed Controls (Left Keypad)
+       KEYPAD
+                 CONTROL NAME                                             FUNCTION
+       SYMBOL
+                                      • Set this switch up/down to increase/decrease the conveyor speed when operat-
+         1      Conveyor Speed
+                                        ing in MANUAL mode.
+
+                Emergency Stop        Immediately stops the paver engine and all electronic functions. Turn clockwise to
+         2
+                (E-Stop) Button       release E-Stop button.
+
+                                      • Set switch up/down to increase/decrease the auger speed when auger is set to
+                                        MANUAL mode.
+         3      Auger Pile Speed
+                                      • Set switch up/down to increase/decrease the pile height when auger is set to
+                                        AUTO mode.
+                                      • Push and hold this switch to extend (OUT) or retract (IN) the screed extension on
+         4      Extension IN/OUT
+                                        the corresponding control box side of operation.
+
+
+                                      Pressing this button sounds the horn whether the console is active or not. All three
+                Horn
+                                      LED lights will illuminate GREEN when engaged.
+
+                                      Use this button to select SLOPE or BERM mode.
+                                      • The default is set to OFF.
+
+                Slope/Berm SELECT • Press the button once to select SLOPE. The LEFT LED light illuminates GREEN
+                                    on the keypad (and both consoles) in this mode.
+                                      • Push the button twice to select BERM mode. The right LED light illuminates
+                                        GREEN in this mode.
+
+                                      The tunnel extension allows material to flow while paving at wide widths. Press and
+                Tunnel Extension IN   hold the button to retract the auger. The left LED light illuminates green in MANUAL
+                                      mode.
+
+
+
+
+3-26                                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 63 ===
+Component Location
+
+    KEYPAD
+                 CONTROL NAME                                          FUNCTION
+    SYMBOL
+
+                                   The tunnel extension allows material to flow while paving at wide widths. Press
+                Tunnel Extension
+                                   and hold the button to extend the auger. The right LED light illuminates green in
+                OUT
+                                   MANUAL mode.
+
+                                   Sets the asphalt mat thicker and controls the hydraulic tow cylinder. Press and hold
+                                   button to raise RIGHT tow. All three LED lights illuminate GREEN on the keypad (and
+                Tow UP             both consoles) while engaged.
+                                   NOTE: Only functions with joysticks in neutral when the grade control is set to
+                                   AUTO.
+
+
+                                   Press and hold this button to enable the Slope or Berm UP function, depending
+                                   upon which mode is selected on the Slope/Berm Select button. When activated by
+                Slope/Berm UP
+                                   pressing the button, all three LED lights illuminate GREEN on both main consoles
+                                   and the left or right screed control box (corresponding to the active console).
+
+
+
+
+                                   Press and hold this button to make adjustments to the Angle-of-Attack (AOA). Adjust
+                AOA Up             the mat texture using the Angle-of-Attack (AOA) adjuster to produce a smooth or
+                                   coarse mat texture.
+
+
+
+
+                                   Automatically increase the screed extension vertical height by pressing and holding
+                Vertical UP
+                                   the vertical UP. All three LED lights illuminate while in operation.
+
+
+                                   Sets the asphalt mat thicker and controls the hydraulic tow cylinder. Press and hold
+                                   button to lower RIGHT tow. All three LED lights illuminate GREEN on the keypad
+                Tow DOWN           (and both consoles) while engaged.
+                                   NOTE: Only functions with joysticks in neutral when the grade control is set to
+                                   AUTO.
+
+
+                                   Press and hold this button to enable the Slope or Berm DOWN function, depending
+                                   upon which mode is selected on the Slope/Berm Select button. When activated by
+                Slope Berm DOWN
+                                   pressing the button, all three LED lights illuminate GREEN on both main consoles
+                                   and the left or right screed control box (corresponding to the active console).
+
+
+
+
+                                   Press and hold this button to make adjustments to the Angle-of-Attack (AOA). Adjust
+                AOA Down           the mat texture using the Angle-of-Attack (AOA) adjuster to produce a smooth or
+                                   coarse mat texture.
+
+
+
+
+                                   Automatically decrease the screed extension vertical height by pressing and
+                Vertical Down
+                                   holding the vertical DOWN. All three LED lights illuminate while in operation.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                           3-27
+
+=== ORIGINAL PDF PAGE 64 ===
+Component Location
+
+RIGHT Screed Control Box - Right Keypad
+
+
+
+
+                      Figure 3-11. RIGHT Screed Controls (Right Keypad)
+   KEYPAD
+            CONTROL NAME                                    FUNCTION
+   SYMBOL
+                             This button only functions if the Auger/Conveyor ON/OFF button is turned
+                             ON. Independent right and left augers can be operated in MANUAL or
+                             AUTO (automatic) mode. AUTO mode is the default.
+                             • Press button twice to operate auger in MANUAL mode. The left LED
+                               light illuminates GREEN. In MANUAL mode, the operator controls auger
+            Auger MANUAL/
+                               speed using the auger pile speed switch above the keypad.
+            AUTO Select
+                             • Press the button once to operate in AUTO mode. The right LED light illu-
+                               minates GREEN. The center blue light illuminates when material reaches
+                               the set material height. In AUTO mode, the auger dial controls material
+                               height. The auger sonic sensor must be connected to operate in
+                               AUTO mode.
+                             Press this button once to turn ON the auger and conveyor.
+                             • The left LED light illuminates GREEN when the auger and conveyor is on.
+                             • The default setting is AUTO mode, which is controlled by the Auger
+            Auger/Conveyor
+                               MANUAL/AUTO button.
+            ON/OFF
+                             • Press the button again to turn OFF the auger and conveyor.
+                             • You can also use the auger OR conveyor bypass button to pause opera-
+                               tion of either function separately.
+
+
+3-28                                                                     LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 65 ===
+Component Location
+
+   KEYPAD
+               CONTROL NAME                                     FUNCTION
+   SYMBOL
+
+
+
+                                Press the Auger/Conveyor Reverse button for reversing the direction
+               Auger/Conveyor
+                                of both functions to help clear material as needed. All three LED lights
+               Reverse
+                                illuminate while the auger/conveyor reverse is active.
+   REVERSE
+
+
+
+                                Press and hold to open the LEFT Under Auger Material Cut-Off. All three
+               RIGHT Cut-Off
+                                LED lights illuminate GREEN on both operator consoles and the LEFT
+               OPEN
+                                screed keypad while open.
+
+
+                                Pauses propel (travel), conveyors and augers functions. Press the button
+                                once to pause these functions. The three LED lights illuminate blue.
+                                • Pressing the button again resumes these functions.
+               Pause
+                                NOTE: The engine idle will remain at high but automatically go into
+                                low idle if paused for a preset period of time (unless the generator is
+                                enabled.)
+                                Press and hold to close the LEFT Under Auger Material Cut-Off. When
+                                closed, the center LED light illuminates RED on both operator consoles and
+               RIGHT Cut-Off
+                                the LEFT screed control keypad. If paver is put into reverse, the cut-offs
+               CLOSED
+                                will automatically close and the center LED light illuminates RED in AUTO
+                                mode.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                               3-29
+
+=== ORIGINAL PDF PAGE 66 ===
+Component Location
+
+LB5 Electric Heat Controls
+
+
+
+
+  1                                                                                                       7
+  2                                                                                                       8
+  3                                                                                                       9
+  4                                                                                                       10
+  5                                                                                                       11
+  6                                                                                                       12
+
+
+                                                                                                          13
+
+
+
+
+                                    Figure 3-12. Electric Heat Controls
+ ITEM
+        CONTROL NAME                                               FUNCTION
+  NO.
+        Left End Gate Heat ON    Illuminates when the LEFT end gate heat switch is ON to notify operator that the
+   1
+        Light                    left end gate heating is engaged.
+        Left Screed Extension    Illuminates and stays on as long as the screed extension heating elements are
+   2
+        Heat ON Light            heating the screed plates.
+        Left Main Screed Heat    Illuminates and stays on as long as the main screed heating elements are
+   3
+        Light                    heating the screed plates.
+        Right End Gate Heat ON Illuminates when the RIGHT end gate switch is turned ON to notify operator that
+   4
+        Light                  the right end gate heat is engaged.
+
+
+
+
+3-30                                                                             LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 67 ===
+Component Location
+
+ ITEM
+        CONTROL NAME                                              FUNCTION
+  NO.
+                              Turns the RIGHT End Gate electric heat system on and off.
+        Right End Gate ON/OFF
+   5                          • Push switch UP to turn ON the end gate heat. P
+        Switch
+                              • Push switch DOWN to turn OFF.
+        Right End Gate Heat ON Illuminates when the RIGHT end gate switch is turned ON to notify operator that
+   6
+        Light                  the right end gate heat is engaged.
+                                 Turns the LEFT end gate electric heat system on and off.
+        Left End Gate ON/OFF
+   7                             • Push switch UP to turn ON the end gate heat.
+        Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Turns the LEFT screed extension heat system on and off.
+        Left Screed Extension
+   8                             • Push switch UP to turn ON the left screed extension heat.
+        ON/OFF Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Turns the LEFT main screed heat system on and off.
+        Left Main Screed ON/
+   9                             • Push switch UP to turn ON the left main screed heat.
+        OFF Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Turns the RIGHT main screed heat system on and off.
+        Right Main Screed ON/
+  10                             • Push switch UP to turn ON the right main screed heat.
+        OFF Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Turns the RIGHT screed extension heat system on and off.
+        Right Screed Extension
+   11                            • Push switch UP to turn ON the right screed extension heat.
+        ON/OFF Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Turns the RIGHT screed extension heat system on and off.
+        Left End Gate ON/OFF
+  12                             • Push switch UP to turn ON the right screed extension heat.
+        Switch
+                                 • Push switch DOWN to turn OFF.
+                                 Use this switch to increase/decrease crown and valley.
+        Power Crown Switch
+  13                             • Push and hold switch UP to increase valley.
+        [Option]
+                                 • Push and hold switch DOWN to increase crown.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                               3-31
+
+=== ORIGINAL PDF PAGE 68 ===
+Component Location
+
+LB7 Electric Heat Controls                       ITEM
+                                                      CONTROL NAME                   FUNCTION
+[Option]                                          NO.
+                                                                            Use the digital display to set
+                                                      Heat Box Digital      the screed heat temperature
+                                                  1
+                                                      Controls              and other screed heat
+                                                                            functions.
+                                                                            • Turn dial clockwise to turn
+ 1                                                                            ON the LEFT screed heat
+                                                      LEFT Screed Heat        system.
+                                                  2
+                                                      Dial                  • Turn dial counterclock-
+                                                                              wise to turn OFF the LEFT
+                                                                              screed heat system.
+                                                                            Turns the LEFT End Gate
+                                                                            electric heat system on and
+                                                                            off.
+ 2                                           6    3
+                                                      LEFT End Gate ON/
+                                                                            • Push switch UP to turn ON
+                                                      OFF Switch [Option]
+                                                                              the end gate heat.
+                                                                            • Push switch DOWN to turn
+                                                                              OFF.
+ 3                                           7                              Use this switch to increase/
+                                                                            decrease crown and valley.
+                                                      Power Crown Switch • Push and hold switch UP to
+ 4                                                4
+                                                      [Option]             increase valley.
+                                                                            • Push and hold switch
+                                                                              DOWN to increase crown.
+                                                                            Circuits are protected from
+ 5                                                                          damage by overloads or short
+                                                                            circuits. If the system detects
+                                                                            an abnormal condition, it
+                                                  5   Breaker Switch
+       Figure 3-13. Electric Heat Controls                                  “breaks” the current flow
+                                                                            to prevent overheating,
+                                                                            equipment damage, and
+                                                                            potential fire hazards.
+                                                                            • Turn dial clockwise to turn
+                                                                              ON the RIGHT screed heat
+                                                      RIGHT Screed Heat       system.
+                                                  6
+                                                      Dial                  • Turn dial counterclockwise
+                                                                              to turn OFF the RIGHT
+                                                                              screed heat system.
+                                                                            Turns the RIGHT End Gate
+                                                                            electric heat system on and
+                                                                            off.
+                                                      Right End Gate ON/
+                                                  7                         • Push switch UP to turn ON
+                                                      OFF Switch [Option]
+                                                                              the end gate heat. P
+                                                                            • Push switch DOWN to turn
+                                                                              OFF.
+
+
+
+
+3-32                                                                      LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 69 ===
+LEEBOY MODEL 8520 CONVEYOR PAVER
+
+
+
+
+                                                                  Section 4
+                                                           OPERATION
+                                                                                                                                                       Page
+            Operation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-1
+                    Receiving the Machine.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-3
+                              I n i t i al and Daily Inspection .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-3
+                              Hopper Lock Valves .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-4
+                    Operator Platform Features .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-5
+                              Lockable Vandalism Covers.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-5
+                              Seat Adjustment and Operator Platform Pivot. . . . . . . . . . . . . 4-5
+                    Start-Up Procedure.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-6
+                    Diesel Exhaust Fluid (DEF) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-7
+                    Main Control Panel Keypad Functions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-8
+                                                                                                                                                                         4
+                              Upper Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-9
+                              Upper Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-12
+                              Lower Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-15
+                              Lower Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-16
+                    Screed Control Box.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-18
+                              Left Keypad and Control Buttons.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-18
+                    DPF Regeneration (REGEN).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-23
+                    DM430 Digital Display.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-23
+                              Engine Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-24
+                              DM430 Engine Icons .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                4-25
+                              Pave Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-33
+                              Pave Function Fault Codes.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-37
+                              Operator Settings Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-39
+                              Motor Settings Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-40
+                              DPF and Regeneration.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-41
+                              Parked Regeneration.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                4-44
+                    Plus +1® Controllers .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-45
+                    Driving the 8680 Paver.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-45
+                              Steering and Speed Control .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-46
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                       4-1
+
+=== ORIGINAL PDF PAGE 70 ===
+Operation
+
+        Paver Operation .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-48
+                  Spray Down.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-48
+                  Hopper Wings .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-50
+                  Conveyors.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-51
+                  Augers and Sonic Auger Sensor.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-53
+                  Under Auger Material Cut-Offs .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-54
+                  Heating the Screed, Extensions and End Gates .  .  .  .  .  .  .  .  .  .  .                                                4-55
+                  LB5 and LB7 Screeds .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-56
+                  Horizontal Depth Screws .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                    4-58
+                  Hydraulic Tow Point Cylinders and Grade/Slope.   .   .   .   .   .   .   .   .   .   . 4-59
+                  Slope/Berm.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-60
+                  Basic Paving.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-62
+                  Setting the Crown.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-63
+                  Mat Texture Adjustment .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-64
+        Unloading and Loading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-64
+                  Unloading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-65
+                  Loading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-65
+        Towing .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                           4-65
+        Optional Components .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                  LB7 Screed .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-66
+                  Umbrella Option .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                  Screed Extension Vibration .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                    4-66
+                  Screed Central-Point Lube System. . . . . . . . . . . . . . . . . . 4-66
+                  Single Point Conveyor Lube Kit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                  Steel Poly Tracks .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                              4-66
+                  Steering Knob .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                  Steering Wheel .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                              4-67
+                  20-Foot Paving Kit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                  Berm Extensions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                  High-Lift End Gate .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                  Extendable Push Roller .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                  4-67
+                  Truck Hitch .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                           4-68
+                  Topcon® Sonic and Dual Grade Control .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-68
+                  Track Plows .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-69
+                  Slope Meter .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-70
+                  Balloon Light.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-71
+                  Magnetic Cup Holder .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-71
+
+
+4-2                                                                                                                          LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 71 ===
+Operation
+
+Receiving the Machine                                          I n i t i a l and Daily Inspection
+The LeeBoy 8680 Commercial Paver is the most                   Although the machine has been checked thoroughly by
+dependable and productive commercial asphalt paver             the manufacturer, road hazards or other factors during
+on the market. Featuring the new LB5 screed (or                transport may result in damage. Inspect machine for
+optional LB7 screed), this commercial paver is designed        any damage during transport. Contact your authorized
+and built for producing superior mat quality in a variety of   dealer immediately if any damage has occurred. (Table
+road and other pavement construction projects.                 4-1)
+
+Its heavy-duty, rubber tracks provide a smooth ride,           The following inspection is essential and should be
+better traction, and higher speed while paving. Inde-          performed before the initial start-up and daily prior to
+pendent hopper wings in its 15-ton hopper with wide            operating. Visually inspect the unit to check its general
+conveyors, height-adjustable and reversible augers that        condition and for familiarization. Continue with a check
+can work independently, hydraulic tow point cylinders          of the systems and components shown in Table 4-1
+and Under Auger Material Cut-Offs that automatically           below:
+close are just part of LeeBoy innovation and the 8680                         Table 4-1. Initial Inspection
+paver’s versatility.
+                                                                 INSPECT                    PROCEDURE
+Dual main operator control platforms with ergonomic
+                                                                Engine Oil     Maintain oil level between ADD and
+control keypads swing out from either side of the paver,
+                                                                Level          FULL marks on dipstick.
+and its low-profile hood line gives operators unlimited
+visibility with no line-of-sight disruptions while paving.      DEF Tank
+                                                                               Check DEF tank level. Refill daily.
+The controls are always directly in front of the operator       Level
+as the entire platform can be adjusted to multiple height                      Check for adequate fuel supply. Fill if
+                                                                Fuel Tank
+
+                                                                                                                              4
+positions.                                                                     needed. Always fill tank at end of the day
+                                                                Level
+Electric dual vibrators mounted on the main screed                             to prevent condensation in the tank.
+frame increase paving material compaction. The screed           Hydraulic      Check the hydraulic tank for oil level and
+extensions also include slope and berm capability. The          Oil Level      hoses for leaks.
+screed control box features push-button keypads with                           Check coolant level. Add more if
+every control a screed operator needs for commercial            Radiator
+                                                                               needed.
+road construction jobs.                                                        Ensure all cables are tight and clean.
+              Read this manual carefully before                 Battery        Check for corrosion on the battery
+operating the machine. Only authorized personnel                               terminals.
+who are properly trained should operate the paver.                             Check the air filter element and hose
+                                                                Air Cleaner    connections. Air cleaner has both a
+                                                                               primary and secondary filter.
+                                                                Drain Plugs Make sure plugs are inserted and tight.
+                                                                Engine Belt Check for proper belt tension.
+                                                                Generator
+                                                                               Check for proper belt tension.
+                                                                Belt
+                                                                Grease         Ensure fittings are greased and in good
+                                                                Fittings       working order.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                            4-3
+
+=== ORIGINAL PDF PAGE 72 ===
+Operation
+
+Screed Locks                                               Hopper Lock Valves
+This machine is provided with screed lock mechanisms       The hopper cylinder valves can be used to lock the
+as added safety and stability during transport. A screed   hopper wings when they are open or closed. (Figure
+lock knob is located on each side of the screed on the     4-2) Be sure to unlock the hopper valves before
+paver frame. (Figure 4-1)                                  operation!
+• Pull the knob outward to release the screed lock.        • Turn the valve counterclockwise to unlock the hopper
+• Push the knob in and down to lock the screed in place.     wings.
+
+              Ensure locks are in the unlocked             • Turn the valve clockwise to lock the hopper wings.
+position before raising or lowering the screed.
+                                                                                                   Right
+                                                                                         ®
+                                                                                                   Left
+
+                                                                                                  Hopper Cylinder
+                                                                                                    Lock Valves
+
+                                                 Screed
+                                                  Lock
+                                                  Knob
+
+
+      Figure 4-1. Screed Lock (Left Side Shown)
+                                                                  Figure 4-2. Hopper Cylinder Lock Valve
+                                                                         Ensure the hopper cylinder is un-
+                                                           locked before extending or retracting the hopper
+                                                           wings.
+
+
+
+
+4-4                                                                               LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 73 ===
+Operation
+
+                        Operator Platform Features
+
+
+                                                    Lockable Vandalism Covers
+                                                    The 8680 paver features a heavy-duty vandalism cover
+                                                    for both protecting the control panel keypads and
+                                                    switches along with security when the paver is not in
+                                                    use. (Figure 4-3) The cover has hooking tabs at the
+                                                    top, with lock slots on the bottom. Simply remove the
+                                                    lock and lift up from the bottom to remove. Align the top
+                                                    tabs to close and reinstall lock to reattach.
+                                                    After removing the vandalism lock cover(s), attach it to
+                                                    the paver frame using the locking knobs as shown in
+                                                    Figure 4-3.
+
+
+
+
+    Figure 4-3. Control Panel Vandalism Cover
+
+
+                                                                                                                   4
+                                                    Seat Adjustment and Operator
+                                                    Platform Pivot
+                                                    You can adjust the operator seat position and swing
+                                                    out the entire operator platform for better visibility and
+                                                    comfort. (Figure 4-4)
+                                                    There are multiple positions for the operator seats.
+                                                    Simply pull the seat adjust pin toward the seat to swivel
+                                   Platform
+                                                    the seat.
+                                     Pivot
+                                      Pin           Use the platform pivot pin to swing out the operator
+                                                    platform to the side. Pull the platform pivot pin to move
+                                                    the platform to the desired position.
+                                                    Ensure the platform locks into place in the desired posi-
+                                                    tion. It is recommended that you stand beside the paver
+                 Seat Adjust Pin                    to make these adjustments.
+                                                                   Verify the seat and platform are locked
+                                                    into position BEFORE operating the paver.
+  Figure 4-4. Seat Adjust and Platform Pivot Pins
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                 4-5
+
+=== ORIGINAL PDF PAGE 74 ===
+Operation
+
+Start-Up Procedure                                       When the key is turned on, the DM430 digital display
+                                                         controller on both operator control panels automatically
+              DO NOT leave the operator station          come on, with an LED status light illuminating amber to
+unattended while the paver is in gear or in motion.      indicate the system is in the “Wait to Start” mode. The
+Operator must return joysticks to the neutral position   engine will not start unless both joysticks on both
+and press the Activate Console button to deactivate      operator platforms (4 total) are in the NEUTRAL
+the console before leaving the operator platform.        position. The “Wait to Start” light will illuminate amber
+                                                         if one or more joysticks are not in neutral, and turn to
+               Verify there are no people, obstacles     amber when the joystick(s) has been moved into the
+or other equipment in the machine’s path before          neutral position. The amber light will turn off once the
+starting the engine.                                     paver is ready to start, provided all four joysticks are
+                Using starting additives, such as        in neutral.
+ether, is not recommended as severe engine damage        NOTE: An icon displaying a pair of joysticks will illu-
+can occur.                                                     minate in red on the DM430 digital controller
+The ignition switch is located on the junction box.            when a joystick(s) is out of neutral.
+(Figure 4-5)                                             To start the engine:
+                                                         1.   Insert key into the ignition and turn clockwise to the
+                                                              RUN position.
+
+Ignition                                                 2.   With ignition key in the RUN position and all four
+Switch                                                        joysticks in neutral, press the Start/Stop button on
+                                                              the main control panel. (Figures 4-6 and 4-7 on
+                                                              Page 4-8)
+                                                              •   The center light illuminates amber during the
+                                                                  “Wait to Start” stage.
+                                                              •   The left LED lights illuminate GREEN on both
+                                                                  consoles when the engine is running.
+                                                                         DO NOT hold the starter longer than
+                                                         10 - 15 seconds. If the engine does not start, allow
+                                                         the starter to cool two or three minutes.
+      Figure 4-5. Ignition Switch on Junction Box
+
+
+
+                                                                                                         Activate
+                                       Start / Stop                                                      Console
+
+
+
+
+                 Figure 4-6. Start-Stop and Activate Console Keypad Buttons (Left Panel Shown)
+
+
+4-6                                                                               LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 75 ===
+Operation
+
+3. You must activate the control console for desired            Diesel Exhaust Fluid (DEF)
+   driving side by pressing the Activate Console button
+   on the lower right keypad. (Figures 4-6 and 4-7 on           DEF is a mixture of pure urea and de-ionized water that
+   Page 4-8) The three LED lights illuminate green              is injected into the exhaust stream by the SCR system.
+   when a console is activate.                                  DEF is a vital element in engine operation and perfor-
+                                                                mance. It is extremely important to keep the DEF tank
+4.   Allow the engine to warm before moving paver for
+                                                                filled, and DEF fluid stored properly, to prevent costly
+     more efficient operation. In cold weather, allow the
+                                                                repair. (See Page 5-20 for detailed information.)
+     hydraulic oil to warm to 60°F before moving.
+                                                                The DEF tank is located inside the right engine access
+                                                                panel. Keeping the DEF tank full on a daily basis will
+The engine’s low idle is set at 1300 RPMs, with a               prevent costly repairs and operational down time.
+maximum engine speed of 2200 RPMs. The engine                   DEF Purge: The SCR system will automatically purge
+will remain at the operator-set RPMs after the joysticks        DEF after shutting down the engine. You will hear the
+initially leave the neutral position. If the engine is at low   pumping noise as the system circulates DEF to cool
+idle and the operator engages either of the following           the DEF injector, then the pump reverses to return DEF
+functions, the engine will automatically idle up to the         back to the tank. Always allow this purging process to
+preset RPMs:                                                    finish to prevent damage to the injector and other SCR
+     •   Generator: 1800 RPMs                                   components.
+
+     •   Auger: 1800 RPMs                                                     NEVER disconnect battery until the
+                                                                purge cycle has completed to prevent serious dam-
+     •   Conveyor: 1800 RPMs                                    age to components in the SCR system.
+Once the joysticks return to the neutral position, the          If the DEF tank level runs low (below 15 percent) during
+
+                                                                                                                                   4
+engine will idle slow down to 1300 RPMs after eight (8)         operation, DEF warning messages will appear on the
+seconds, provided the generator, auger or conveyor              DM430 digital display screens (described in detail
+functions are not engaged.                                      beginning on Page 4-42). If the level drops to 5 percent
+NOTE: The engine speed may be manually increased                (empty), urgent warning messages pop up. Engine
+      to a maximum of 2200 RPMs if desired.                     torque will be reduced 50 percent and engine speed will
+                                                                be reduced 40 percent after 45 minutes.
+                                                                If the operator continues to ignore the warning and
+Stopping the Engine                                             the DEF tank is still not refilled, another urgent warning
+                                                                message pops up. At this point, there will be no avail-
+1.   Move joysticks to the NEUTRAL position.
+                                                                able torque--the engine will only idle.
+2.   Press the Idle button on the engine screen on the
+                                                                In either of these conditions, refilling the DEF tank will
+     digital display.
+                                                                restore engine performance.
+3. Press the Start/Stop button. The right LED light illumi-
+     nates RED to indicate engine shutdown.                     If the DEF tank level has fallen to 0 percent, there is no
+                                                                ability for DEF injection into the exhaust system (nor can
+4.   Turn ignition key counterclockwise to the OFF posi-        the system perform the parked regeneration process
+     tion and remove key.                                       described on Pages 4-42 to 4-43. The DEF injector
+NOTE: If for any reason the engine does not shut                may now be damaged and require replacement from
+down when key is turned off, push in the red E-Stop             your authorized dealer.
+button on the upper right side of the control panel.            DEF Thaw Control Mode: Sensors on the DEF tank
+                                                                also detect the ambient air temperature within seconds
+                                                                of starting the engine. If the DEF is frozen, the SCR
+                                                                system automatically starts the Thaw Control Mode and
+                                                                turns on the DEF pump, tank and tube heaters. Engine
+                                                                maximum torque may be limited to protect the DEF
+                                                                injector.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                 4-7
+

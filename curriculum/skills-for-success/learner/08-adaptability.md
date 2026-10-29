@@ -2,8 +2,9 @@
 
 <!-- visual:social-adaptability-six-components--learner-08 -->
 <figure class="teaching-figure diagram" data-visual="social-adaptability-six-components--learner-08">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-six-components.svg" alt="Adaptability overview: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement." loading="eager" decoding="sync"></div>
-<figcaption><span class="figure-label">Visual guide</span> Six connected components of adaptability. Short labels summarize the source component names; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-adaptability-six-components.svg">Open full-size visual</a></figcaption>
+<div class="figure-art" tabindex="0" role="region" aria-label="Adaptability — keep the purpose, adjust the plan — visual"><img src="../assets/diagrams/social-adaptability-six-components.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Purpose stays visible as plans change. Six connected components: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement. Revisit the component that helps the task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Six connected components of adaptability. Short labels summarize the six skill components; numbers match the chapter list. Use the connections in the order the task needs. <a class="visual-original" href="../assets/diagrams/social-adaptability-six-components.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Purpose stays visible as plans change. Six connected components: Take responsibility; Persist and persevere; Regulate emotions when appropriate; Set or adjust goals and expectations; Plan and prioritize; Seek self-improvement. Revisit the component that helps the task.</p></details>
 </figure>
 <!-- /visual:social-adaptability-six-components--learner-08 -->
 
@@ -17,7 +18,7 @@ Training in B.C. may take place close to home or away from people and places tha
 
 Being adaptable does not mean accepting every request, hiding frustration or continuing through an unsafe situation. It does not make an individual responsible for barriers outside their control. A useful plan identifies both your next action and any support or decision another person must provide. Asking for an accessible format, clarification or an appropriate adjustment can be part of responsible action.
 
-The six component names below are from the supplied SkillPlan guide. In this chapter, emotional regulation means choosing a practical way to respond or regain focus when that is useful. It is not a test of whether your feelings are acceptable. The instructor observes the plan and actions you choose, not a diagnosis, a personality trait or a requirement to appear cheerful.
+In this chapter, emotional regulation means choosing a practical way to respond or regain focus when that is useful. It is not a test of whether your feelings are acceptable. The instructor observes the plan and actions you choose, not a diagnosis, a personality trait or a requirement to appear cheerful.
 
 | Component | What you will practise | Main evidence |
 |---|---|---|
@@ -27,6 +28,20 @@ The six component names below are from the supplied SkillPlan guide. In this cha
 | 4. Set or adjust your goals and expectations | Define a meaningful goal and revise it when resources change. | AD-02, AD-10–AD-12 |
 | 5. Plan and prioritize | Identify dependencies, choose an order and make space for checking. | AD-03, AD-10–AD-15 |
 | 6. Seek self-improvement | Use specific feedback, compare attempts and choose further practice. | AD-13–AD-18 |
+
+<!-- teaching:ad-route-learner -->
+## Adaptability route card
+
+**Core route.** Define a purpose and workable plan with AD-01/02/03. Explore a chosen response and reasonable boundary with AD-04/05/06. Use AD-07/08/09 to perform and check a purposeful next step. Revise a commitment with AD-10/11/12, act on feedback with AD-13/14 and apply a strategy in AD-15/16. In CK-AD, retain the first plan, receive the change, make the revised pack and perform your own retrieval/check turn.
+
+**Support route.** Use the paper workflow if that suits the focus and available tools. Read the brief together, use a blank “changed / unchanged / next action / check” organizer, or ask for a tool demonstration before the observed attempt. A learner-directed request for an appropriate support can show Adaptability even when the later tool action is assisted. Do not require a personal account of stress or a rehearsed emotional display. If regulation is not needed or chosen, leave that component unobserved in this task.
+
+**Retry route.** Select the affected step and repeat it after feedback. Use Kit T for a different content requirement when appropriate; record whether it was new. If the first work was accurate, retrieve and verify again or choose another challenge. A retry can confirm a successful process; it need not begin with an invented failure. Track who performs the tool action so a partner's work is not claimed as individual Digital evidence.
+
+**Chapter coverage map:** preparation AD-01/02/03/04/06/07/08/10/11/15; guided/observed action AD-05/09/12/13/14/16; practice planning/evidence review AD-17/18. Where AD-09 uses the supplied case only, mark case analysis and arrange an actual action separately.
+
+**Next-attempt agreement:** purpose ___; changed requirement ___; chosen next action ___; paper/digital tool route ___; support and boundary ___; observer/booking ___; check/result ___.
+<!-- /teaching:ad-route-learner -->
 
 ## Case document 1 · A plan for the learning folder
 
@@ -76,8 +91,9 @@ Draft a response to this classroom request: “We are behind, so skip checking t
 
 <!-- visual:social-adaptability-retry--learner-08 -->
 <figure class="teaching-figure diagram" data-visual="social-adaptability-retry--learner-08">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-retry.svg" alt="Four numbered steps trace the known 9-versus-90 entry error through source comparison, correction, recalculation and a paper-work check." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Persistence means learning from the attempt — visual"><img src="../assets/diagrams/social-adaptability-retry.svg" alt="Four actions compare the source value ninety with an incorrect entry of nine, correct the entry to ninety, recalculate, and compare the new result with the paper work. The strategy, action and new check provide evidence of a useful retry." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Worked-example preview: compare the entry with its source, correct 9 to 90, recalculate and check the paper work. Record the strategy and result. <a class="visual-original" href="../assets/diagrams/social-adaptability-retry.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Four actions compare the source value ninety with an incorrect entry of nine, correct the entry to ninety, recalculate, and compare the new result with the paper work. The strategy, action and new check provide evidence of a useful retry.</p></details>
 </figure>
 <!-- /visual:social-adaptability-retry--learner-08 -->
 
@@ -115,8 +131,9 @@ The learner and instructor need to decide how Thursday's first 35 minutes will b
 
 <!-- visual:social-adaptability-time-plan--learner-08 -->
 <figure class="teaching-figure diagram" data-visual="social-adaptability-time-plan--learner-08">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/social-adaptability-time-plan.svg" alt="Time bars show original Thursday 35 digital, 25 draft, 15 review and 15 buffer minutes; revised Thursday 25 draft, 10 review and 25 digital; Monday 10 digital and a separate 5-minute paper review." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Revise the plan without losing the goal — visual"><img src="../assets/diagrams/social-adaptability-time-plan.svg" alt="Proportional time bars compare an original ninety-minute Thursday plan with a revised sixty-minute session. The original has thirty-five minutes digital work, twenty-five drafting, fifteen reviewing and fifteen buffer. The revision has twenty-five drafting, ten reviewing and twenty-five digital. Monday adds ten minutes digital and five paper reflection in separate periods before noon. Digital practice remains thirty-five minutes." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Worked-example preview: proportional bars show the original 90-minute Thursday, the revised 60-minute session and separate Monday follow-up. This is one feasible plan, subject to confirmation and observed work. <a class="visual-original" href="../assets/diagrams/social-adaptability-time-plan.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Proportional time bars compare an original ninety-minute Thursday plan with a revised sixty-minute session. The original has thirty-five minutes digital work, twenty-five drafting, fifteen reviewing and fifteen buffer. The revision has twenty-five drafting, ten reviewing and twenty-five digital. Monday adds ten minutes digital and five paper reflection in separate periods before noon. Digital practice remains thirty-five minutes.</p></details>
 </figure>
 <!-- /visual:social-adaptability-time-plan--learner-08 -->
 
@@ -192,4 +209,48 @@ Select evidence for each component from your activities. Identify an action you 
 
 For a supported route, use a printed before-and-after plan and work through one changed condition at a time. An instructor can model the first clarification, help record a selected strategy and observe a small retry. For an extension, combine two changed conditions and ask a new partner to check whether your revised commitment is clear. Keep challenge proportionate to learning; surprise, distress and personal disclosure are not required ingredients.
 
-**Source and design note.** Component names come from [SkillPlan's March 2024 guide, p.99](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=99). Feedback, self-directed learning, supported variation and assessment considerations inform this chapter (pp.100–105). The schedules, records and activities are original ACCESS IS4S simulations. The local evidence descriptions are not official proficiency levels, and the task strategies are educational choices rather than clinical treatment advice.
+<!-- teaching:ad-case-learner -->
+## CK-AD · Revise a small pack and carry out the next step
+
+These four original cases give you another opportunity to use a skill after the chapter practice. **All people, rooms, events and organizations in these cards are fictional.** You can use these cases without sharing personal, family, community or cultural knowledge. They are classroom tasks, not instructions for operating equipment or following an actual workplace procedure.
+
+Your instructor will give you the relevant card when your turn begins. Keep a sender's information separate from the receiver's card until after the exchange. If you have already read the information, say so: the activity remains useful practice, but that attempt cannot show how you receive an unfamiliar message. No one needs to conceal prior practice.
+
+Agree your language, communication mode, tools, access supports and response time before beginning. Speech, sign, text, AAC, a learner-directed scribe and agreed interpretation can be appropriate. The person observing needs a reliable way to understand the meaning of your contribution. Receiving a message in writing shows reception through that mode; it does not automatically show auditory listening. You may decline audio/video recording and use live observation. Ask for a pause or another opportunity if the conditions are not usable. There is no requirement to look cheerful, make eye contact or disclose why you need an arrangement.
+
+**Purpose:** respond to a changed requirement, choose a workable approach and carry it out. A plan alone is not evidence that a tool or workflow was used. Choose the paper route or an available digital route with the instructor; both can show Adaptability.
+
+### CK-AD initial brief · Version 1
+
+Prepare one fictional practice pack called **Kit R**. It needs:
+
+| Card label | Number of copies |
+|---|---:|
+| WELCOME | 1 |
+| EXAMPLE | 2 |
+| BLANK RESPONSE | 2 |
+
+Use this text for the cards: **WELCOME — Kit R, classroom practice**; **EXAMPLE — Sample response: I checked the label**; **BLANK RESPONSE — Write, draw or dictate a practice response**. The blank-response card contains that instruction but no completed response. There is no private learner information in the pack.
+
+For paper work, copy these labels/text onto separate slips and put them in a folder or envelope labelled **Kit R — Version 1**. For digital work, create a local document containing one clearly separated section per card and save it with a distinguishable Version 1 name. Use a location and software already agreed with the instructor. Ask for ordinary tool instruction if needed; record who directed the content and who operated the tool.
+
+Before building, make a short plan: goal, order of actions, check and storage or retrieval method. Retain the Version 1 plan or draft so the change can be seen. The next card is a planned classroom change, not a test of how surprised or distressed you appear.
+
+### CK-AD change card · Instructor releases after the first plan
+
+> **Fictional coordinator update · Version 2**
+>
+> Kit R now needs **one additional EXAMPLE card**. The WELCOME and BLANK RESPONSE requirements remain unchanged. Label the revised pack **Version 2** and retain a record of what Version 1 required.
+>
+> The printer is unavailable. A hand-prepared paper pack **or** a saved on-screen pack is acceptable for this classroom task. Do not wait for a printout or claim that printing has occurred. The next group needs a clear account of what is ready and what, if anything, still needs help.
+
+Identify what changed and what stayed the same. Choose a practical next step, carry it out and check the revised contents against the change card. For a paper pack, close or set aside the labelled pack, retrieve it and check you have the intended version. For a digital pack, save, close and reopen the intended version. This is your own tool/workflow turn; a partner doing it for you cannot become evidence that you did it.
+
+You may choose a brief pause, mark the next action, request clarification, use a checklist or ask for appropriate help. You do not have to explain a feeling or demonstrate a calming routine. If no regulation strategy is needed or chosen, the observer must leave that component unobserved in this attempt rather than infer it from your appearance.
+
+Ask for feedback about one actual feature. If a correction is needed, make it and repeat the affected check. If the check is successful, explain the evidence and repeat the retrieval/check step to confirm the process. A successful result does not require inventing an error. State the revised commitment and any genuine unfinished item or support need.
+
+### CK-AD fresh retry brief · Kit T
+
+For a later task, the instructor may give this brief after the Kit R attempt. **Kit T — Version 1** needs **1 WELCOME**, **1 EXAMPLE** and **3 BLANK RESPONSE** cards, using the same texts but replacing Kit R with Kit T. After you plan, the change is to **add 1 REFERENCE card** with the text **REFERENCE — Check the card list before handing over** and mark the pack Version 2. The other counts remain unchanged. Paper or saved on-screen versions remain acceptable; the printer is still unavailable. Perform the same build, retrieve and check steps. Record whether the brief was new to you and which support was used.
+<!-- /teaching:ad-case-learner -->

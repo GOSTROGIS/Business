@@ -1,0 +1,15 @@
+# ACCESS IS4S · Manufacturer manual resource pack
+
+Open **index.html** in a browser. No installation, internet connection, account or external stylesheet is needed for the local collection. The manufacturer PDFs open in your normal PDF reader. The John Deere manual opens from its original local contents page, with its linked sections, figures and styles preserved.
+
+The collection contains **seven complete OEM references**: six original PDFs and one full HTML manual. The six PDFs have **650 pages**. The John Deere collection has one contents page, **307 content HTML sections**, **365 GIF images** and **two stylesheets**. A separate **441-page historical B.C. specification** is included as REF-01. It is not counted as an OEM manual.
+
+Start with **lesson.html** or **manual-reading-lesson.pdf**. The lesson uses real document identities and fictional machine records to practise all nine Skills for Success. Teaching guidance and answers are separate in **instructor.html** and **manual-reading-instructor.pdf**. Keep the key apart from an independent learner attempt.
+
+The **pdfs/** directory contains complete, unedited original PDFs. The **deere-410g-omt166701-d1/** directory contains the complete retrieved official HTML collection. The **extracts/** directory contains only short cover extracts and original navigation notes; those files are not substitute manuals. **manifest.json** records model, serial/configuration scope, edition evidence, source URL, retrieval date, size and checksum. **deere-file-manifest.json** records every HTML collection file. **checksums.sha256** permits a local integrity check of the packaged files.
+
+Read **access-status.html** for the exact 2016 outline requirement and remaining gaps. The six named course manuals—Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine—were not obtained as original course publications. The OEM references are not relabelled as those course manuals. The historical training CDs are not included. The user provided the MS-4 Seventh Edition on 29 October 2026, but workspace transfer is pending; it is not included in this ZIP or claimed as read. Current manufacturer/provider access routes are listed separately.
+
+Manufacturer copyright and notices remain intact. The collection preserves dated source files; it does not establish that a manual is current for a real machine or authorize operation, servicing or adjustment. Match the actual model, serial/configuration and current information through the responsible instructor or manufacturer before practical use.
+
+Original source payload: **60,576,733 bytes** across the seven original PDF files and 675-file Deere collection. Authored lessons, indexes and metadata add to the total extracted size. All source files were checked on **29 October 2026**. External source/purchase links require the internet; the local document-reading lesson does not.

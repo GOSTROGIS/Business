@@ -156,7 +156,3 @@ Retain the first row or version and add a dated/practice-labelled change row wit
 Require two actual pieces for different purposes or audiences, a writer's note for each and a before/after excerpt. Useful evidence might contrast the helper's calculator request with the learner notice, or the factual workbook record with the visitor invitation.
 
 Model explanation: “I changed ‘six more’ to ‘two extra’ after checking the four already available. That prevents the helper arranging the wrong quantity.” Another is “I put the reception instruction beside the room so the visitor sees both before travelling through the building.” A concrete next goal is “I will mark whether a booking is pending or confirmed in both my message and table.” Generic self-praise or self-criticism does not replace text-based reflection.
-
-## Source alignment
-
-The six components follow the supplied SkillPlan guide, [PDF/printed page 54](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=54). Pages 55–58 inform forms, audience, context and an explicit writing process; page 59 informs feedback/assessment choices; page 61 informs message, record and procedure practice. All models here are original and answer the chapter's fictional information. They are not official employer forms or a validated writing proficiency test.

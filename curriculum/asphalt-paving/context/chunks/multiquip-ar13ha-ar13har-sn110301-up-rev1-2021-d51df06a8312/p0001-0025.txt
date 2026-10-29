@@ -1,0 +1,1134 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf
+SOURCE SHA-256: d51df06a83128f87a4ee5e8923ef6ca1ec44f8d1c39de7b3d2b9183c3b665f01
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+OPERATION MANUAL
+
+
+
+
+                     MODELS
+                      AR13HA
+                     AR13HAR
+RIDE-ON TANDEM DRUM ROLLER
+    SERIES DRIVE SYSTEM
+(HONDA GX630RQZB2 GASOLINE ENGINE)
+     Serial No. 110301 and ABOVE
+
+                     Revision #1 (06/18/21)
+
+          To find the latest revision of this publication or
+           associated parts manual, visit our website at:
+                         www.multiquip.com
+
+
+
+THIS MANUAL MUST ACCOMPANY THE EQUIPMENT AT ALL TIMES.
+
+=== ORIGINAL PDF PAGE 2 ===
+PROPOSITION 65 WARNING
+
+
+
+
+PAGE 2 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 3 ===
+TABLE OF CONTENTS
+AR13HA/HAR
+Ride-On Tandem Roller
+Proposition 65 Warning............................................ 2
+Table Of Contents. ................................................... 3
+Safety Information................................................ 4–8
+Specifications..................................................... 9–10
+Dimensions. ........................................................... 11
+General Information. ........................................ 12–13
+Components..................................................... 14–16
+Basic Engine. ......................................................... 17
+Inspection......................................................... 18–20
+Operation. ........................................................ 21–22
+Maintenance. ................................................... 23–32
+Preparation For Long-Term Storage. ..................... 33
+Manifold Test Ports................................................. 34
+Hydraulic System Diagram..................................... 35
+Hydraulic Hose Connections............................ 36–37
+Troubleshooting................................................ 38–39
+Wiring Diagram. ..................................................... 40
+
+    NOTICE
+  Specifications are subject to change without notice.
+
+
+
+
+          AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 3
+
+=== ORIGINAL PDF PAGE 4 ===
+SAFETY INFORMATION
+Do not operate or service the equipment before reading         The following table shows the potential hazards associated
+the entire manual. Safety precautions should be followed       with the operation of this equipment.
+at all times when operating this equipment.
+Failure to read and understand the safety
+messages and operating instructions could                           Symbol                  Safety Hazard
+result in injury to yourself and others.
+SAFETY MESSAGES                                                                       Lethal exhaust gas hazards
+
+The four safety messages shown below will inform you
+about potential hazards that could injure you or others. The
+safety messages specifically address the level of exposure
+to the operator and are preceded by one of four words:                                Explosive fuel hazards
+DANGER, WARNING, CAUTION or NOTICE.
+SAFETY SYMBOLS
+       DANGER                                                                         Burn hazards
+ Indicates a hazardous situation which, if not avoided,
+ WILL result in DEATH or SERIOUS INJURY.
+
+       WARNING                                                                        Respiratory hazards
+ Indicates a hazardous situation which, if not avoided,
+ COULD result in DEATH or SERIOUS INJURY.
+
+       CAUTION                                                                        Rotating parts hazards
+
+ Indicates a hazardous situation which, if not avoided,
+ COULD result in MINOR or MODERATE INJURY.
+
+   NOTICE                                                                             Pressurized fluid hazards
+
+ Addresses practices not related to personal injury.
+
+                                                                                      Electric shock hazards
+
+
+
+
+                                                                                      Runover hazards
+
+
+
+
+        PAGE 4 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 5 ===
+SAFETY INFORMATION
+GENERAL SAFETY                                                    NOTICE
+      CAUTION                                                   This equipment should only be operated by trained and
+                                                                 qualified personnel 18 years of age and older.
+ NEVER operate this equipment without proper protective
+  clothing, shatterproof glasses, respiratory protection,       Whenever necessary, replace nameplate, operation and
+  hearing protection, steel-toed boots and other protective      safety decals when they become difficult read.
+  devices required by the job or city and state regulations.
+                                                                Manufacturer does not assume responsibility for any
+                                                                 accident due to equipment modifications. Unauthorized
+                                                                 equipment modification will void all warranties.
+                                                                NEVER use accessories or attachments that are not
+ NEVER operate this equipment when not                          recommended by Multiquip for this equipment. Damage
+  feeling well due to fatigue, illness or when                   to the equipment and/or injury to user may result.
+  under medication.
+                                                                ALWAYS know the location of the nearest
+ NEVER operate this equipment under the influence of            fire extinguisher.
+  drugs or alcohol.
+                                                                ALWAYS know the location of the nearest
+                                                                 first aid kit.
+                                                                ALWAYS know the location of the nearest phone or keep
+                                                                 a phone on the job site. Also, know the phone numbers
+ ALWAYS check the equipment for loosened threads or             of the nearest ambulance, doctor and fire department.
+  bolts before starting.                                         This information will be invaluable in the case of an
+ DO NOT use the equipment for any purpose other than            emergency.
+  its intended purposes or applications.
+ ALWAYS clear the work area of any debris, tools, etc.
+  that would constitute a hazard while the equipment is
+  in operation.
+
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 5
+
+=== ORIGINAL PDF PAGE 6 ===
+SAFETY INFORMATION
+ROLLER SAFETY                                                  DO NOT use worn-out hoses or couplings. Inspect daily.
+      DANGER                                                   ALWAYS store equipment properly when it is not being
+                                                                used. Equipment should be stored in a clean, dry location
+ NEVER operate the equipment in an explosive                   out of the reach of children and unauthorized personnel.
+  atmosphere or near combustible materials. An
+  explosion or fire could result causing severe               ENGINE SAFETY
+  bodily harm or even death.
+                                                                     DANGER
+      WARNING
+                                                               The engine fuel exhaust gases contain poisonous carbon
+ NEVER disconnect any emergency or safety devices.             monoxide. This gas is colorless and odorless, and can
+  These devices are intended for operator safety.               cause death if inhaled.
+  Disconnection of these devices can cause severe injury,
+  bodily harm or even death. Disconnection of any of these     The engine of this equipment requires an adequate
+  devices will void all warranties.                             free flow of cooling air. NEVER operate this equipment
+                                                                in any enclosed or narrow
+      CAUTION                                                   area where free flow of the
+ NEVER lubricate components or attempt service on a            air is restricted. If the air
+  running machine.                                              flow is restricted it will cause
+                                                                injury to people and property
+ Never leave the roller unattended with the engine             and serious damage to the                        DANGEROUS
+                                                                                                                 GAS FUMES
+
+  running. Turn off engine.                                     equipment or engine.
+ Use chock blocks when parking roller on a grade.                  WARNING
+ Use extreme care when operating near obstructions, on        DO NOT place hands or fingers inside engine
+  slippery surfaces, grades, and slide slopes.                  compartment when engine is running.
+ When reversing, particularly on the edges and banks          NEVER operate the engine with heat shields or
+  of ditches, as well as in front of obstaces, the operator     guards removed.
+  must stay in a standing position at a safe distance from
+  the machine.                                                 Keep fingers, hands hair and clothing away
+                                                                from all moving parts to prevent injury.
+ When operating near any house/building or pipelines,
+  always check the effect of machine vibration. Stop work      DO NOT remove the engine oil drain plug
+  if necessary.                                                 while the engine is hot. Hot oil will gush out of the oil
+                                                                tank and severely scald any persons in the general area
+ DO NOT operate the roller with the covers open.               of the roller.
+ ALWAYS keep the machine away from other personnel                  CAUTION
+  and obstacles. Always keep immediate are free of
+  bystanders.                                                  NEVER touch the hot exhaust manifold,
+                                                                muffler or cylinder. Allow these parts to cool
+   NOTICE                                                       before servicing equipment.
+ ALWAYS keep the machine in proper running condition.         Always turn the engine off before performing maintenance.
+ Fix damage to machine and replace any broken parts
+  immediately.
+
+
+
+
+        PAGE 6 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 7 ===
+SAFETY INFORMATION
+   NOTICE                                                         DO NOT overfill tank, since spilled fuel could ignite if it
+                                                                   comes into contact with hot engine parts or sparks from
+ NEVER run engine without an air filter or with a dirty air       the ignition system.
+  filter. Severe engine damage may occur. Service air filter
+  frequently to prevent engine malfunction.                       Store fuel in appropriate containers, in well-ventilated
+                                                                   areas and away from sparks and flames.
+ NEVER tamper with the factory settings
+  of the engine or engine governor. Damage                        NEVER use fuel as a cleaning agent.
+  to the engine or equipment can result                           DO NOT smoke around or near the
+  if operating in speed ranges above the                           equipment. Fire or explosion could result
+  maximum allowable.                                               from fuel vapors or if fuel is spilled on a
+ NEVER tip the engine to extreme angles during lifting as         hot engine.
+  it may cause oil to gravitate into the cylinder head, making   BATTERY SAFETY (ELECTRIC START ONLY)
+  the engine start difficult.
+                                                                        DANGER
+FUEL SAFETY
+                                                                  DO NOT drop the battery. There is a possibility that the
+       DANGER                                                      battery will explode.
+ DO NOT add fuel to equipment if it is placed inside truck       DO NOT expose the battery to open flames,
+  bed with plastic liner. Possibility exists of explosion or       sparks, cigarettes, etc. The battery contains
+  fire due to static electricity.                                  combustible gases and liquids. If these
+                                                                   gases and liquids come into contact with a
+                                                                   flame or spark, an explosion could occur.
+                  FUEL
+
+                                                                       WARNING
+                                                                  ALWAYS wear safety glasses when
+                                                                   handling the battery to avoid eye irritation.
+                                                                   The battery contains acids that can cause
+                                                                   injury to the eyes and skin.
+       FUEL
+                                                                  Use well-insulated gloves when picking up
+                                                                   the battery.
+                                                                  ALWAYS keep the battery charged. If the battery is not
+                                                                   charged, combustible gas will build up.
+
+ DO NOT start the engine near spilled fuel or combustible        DO NOT charge battery if frozen. Battery can explode.
+  fluids. Diesel fuel is extremely flammable and its vapors        When frozen, warm the battery to at least 61°F (16°C).
+  can cause an explosion if ignited.                              ALWAYS recharge the battery in a well-ventilated
+ ALWAYS refuel in a well-ventilated area, away from               environment to avoid the risk of a dangerous concentration
+  sparks and open flames.                                          of combustible gases.
+
+ ALWAYS use extreme caution when working with                    If the battery liquid (dilute sulfuric acid)
+  ﬂammable liquids.                                                comes into contact with clothing or skin,
+                                                                   rinse skin or clothing immediately with
+ DO NOT fill the fuel tank while the engine is running            plenty of water.
+  or hot.
+
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 7
+
+=== ORIGINAL PDF PAGE 8 ===
+SAFETY INFORMATION
+ If the battery liquid (dilute sulfuric acid) comes into       ENVIRONMENTAL SAFETY
+  contact with eyes, rinse eyes immediately with plenty
+  of water and contact the nearest doctor or hospital to           NOTICE
+  seek medical attention.                                        Dispose of hazardous waste properly.
+       CAUTION                                                    Examples of potentially hazardous waste
+                                                                  are used motor oil, fuel and fuel filters.
+ ALWAYS disconnect the NEGATIVE battery terminal
+  before performing service on the equipment.                    DO NOT use food or plastic containers to dispose of
+                                                                  hazardous waste.
+ ALWAYS keep battery cables in good working condition.
+  Repair or replace all worn cables.                             DO NOT pour waste, oil or fuel directly onto the ground,
+                                                                  down a drain or into any water source.
+TRANSPORTING SAFETY
+       CAUTION
+ NEVER allow any person or animal to stand underneath
+  the equipment while lifting.
+   NOTICE
+ Before lifting, make sure that the equipment parts are not
+  damaged and screws are not loose or missing.
+ Use lifting equipment capable of lifting the weight of
+  the roller.
+ Always make sure crane or lifitng device has been
+  properly secured to the lifting bail (hook) of the
+  equipment.
+ ALWAYS shutdown engine before transporting.
+ NEVER lift the equipment while the engine is running.
+ Tighten fuel tank cap securely and close fuel cock to
+  prevent fuel from spilling.
+ Use adequate lifting cable (wire or rope) of sufficient
+  strength.
+ Use one point suspension hook and lift straight upwards
+  with sufficient bearing capacity to prevent machine from
+  tilting or slipping.
+ DO NOT lift machine to unnecessary heights.
+ ALWAYS make sure that roller is secured correctly when
+  transporting on a trailer. Make sure all supports attaching
+  the roller to the trailer are tight.
+
+
+
+
+        PAGE 8 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 9 ===
+SPECIFICATIONS
+
+                                   Table 1. Specifications (Roller)
+ Shipping Weight                                               2,572 lbs. (1,167 Kg.)
+ Dry Weight                                                    2,428 lbs. (1101 Kg.)
+ Operating Weight                                              3,088 lbs. (1,400 Kg.)
+ Operating Weight w/ Drum Ballast                              3173 lbs. (1,439 Kg.)
+ Overall Length                                                  85 in. (2,159 mm.)
+ Overall Width                                                  38.25 in. (972 mm.)
+ Overall Height-ROPS (up)                                        88 in.(2235 mm.)
+ Maximum Rolling Width                                           35.7 in. (907 cm.)
+ Turning Radius-Inside                                          109 in. (2,768 mm.)
+ Ground Clearance                                                11.5 in. (292 mm.)
+ Curb Clearance                                         7.75L, 19.0R (197 mm., 483 mm.)
+ Wall Clearance                                          1.75L, 1.25R (45 mm., 32 mm.)
+ Wheelbase                                                       45 in. (1,143 mm.)
+ Drum Width                                                      35.7 in. (907 mm.)
+ Drum Diameter                                                   22.6 in. (574 mm.)
+ Drum Thickness                                                 0.38 in. (10.0 mm.)
+ Centrifugal Force 2,400 - 2,700 rpm                          3,100 Lbs. (1,406 Kg.)
+ Vibrations per minute 2,400 - 2,700 rpm                             4,000 VPM
+ Dynamic Linear Force                                       87.5 Lbs./in. (39.6 Kg./cm.)
+ per Drum 2,400 - 2,700 rpm                                          (front only)
+ Oscillating Angle                                                   11 degrees
+ Hydraulic Oil Tank Capacity                               5.7 U.S. Gallons (21.6 Liters)
+ Cooling System                                                           Air
+ Fuel                                                                 Gasoline
+ Fuel Tank Capacity                                         9.5 U.S. Gallons (36 Liters)
+ Water Tank Capacity                                          40 Gallons (181 Liters)
+ Battery                                                      12 Volt Group Type U1
+ Travel Speed -variable-                                      0-4.8 MPH (0-7.7 KPH)
+ Grade Ability w-w/o Vibration                                  15 degrees (27%)
+
+
+
+
+AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 9
+
+=== ORIGINAL PDF PAGE 10 ===
+SPECIFICATIONS
+
+                                          Table 2. Specifications (Engine)
+Model                                                                  Honda GX630RQZB2 Engine
+                                                             Air-Cooled 4 Stroke, Overhead Valve, 2 cylinders
+Type
+                                                                   (90 degree V-Twin), Gasoline Engine.
+Piston Displacement                                                          37.5 cu. in. (614 cc)
+[Bore x Stroke]                                                    [3.03 in. x 2.60 in. (77 mm x 66 mm)]
+Max. Output                                                       20 hp (13.4 KW, 18.3 PS) at 3,600 rpm
+Max. Governed Speed, No Load                                                      3,500 rpm
+Max. Torque                                                                31.8 lbf-ft. at 2,500 rpm
+Cooling System                                                                    Forced Air
+Engine Oil                                                             SAE-10W-30 for general use
+Engine Oil Capacity (with oil filter replacement)                           1.90 qts. (1.80 liters)
+Engine Oil Capacity (without oil filter replacement)                        1.59 qts. (1.50 liters)
+Fuel                                                                         Unleaded gasoline
+Fuel Consumption                                                    0.51 lb/hph (313 g/kWh, 230 g/PSh)
+Spark Plug Type                                                                 NGK: ZGR5A
+DENSO: J16CR-U                                                                22.6 in. (574 mm.)
+Idle Speed                                                                    1,400 +/- 150 rpm
+PTO Shaft Rotation                                                            Counterclockwise
+
+
+
+
+   PAGE 10 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 11 ===
+DIMENSIONS
+
+
+
+
+                                Figure 1. Roller Dimensions
+
+
+                                Table 3. Dimensions (Roller)
+     Wheelbase                      A 45.0 in. (1,143 mm.)
+     Drum Diameter                  B 22.6 in. (574 mm.)
+     Curb Clearance                 C 7.75 in. Left, 19.0 in. Right ( 197 mm., 483 mm.)
+     Drum Width                     D 35.7 in. (907 mm.)
+     Overall Height (with ROPS)     E 88 in. (2,235 mm.)
+     Ground Clearance               F 11.5 in. (292 mm.)
+     Overall Length                 G 85 in. (2,159 mm.)
+     Wall Clearance                 H 1.75 in. Left, 1.25 in. Right ( 45 mm., 32 mm.)
+     Drum Thickness                  I .38 in. (10 mm.)
+     Overall Width                   J 38.25 in. (972 mm.)
+     Seat Height                    K 63 in. (1,600 mm.)
+     Steering Wheel                 L 60 in. (1,524 mm.)
+
+
+
+AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 11
+
+=== ORIGINAL PDF PAGE 12 ===
+GENERAL INFORMATION
+The AR13HA/HAR roller has been designed for asphalt              action generates 3,100 lbs. (1,406 Kg.) of centrifugal force
+application and compaction of granular soils used in             at a frequency of 4,000 vpm (vibrations per minute). If the
+site preparation. Use the machine only for the purpose           vibration appears to be weak or slow, allow the machine to
+intended and by experienced personnel who understand             warm-up thoroughly, and check the hydraulic oil level. Add
+this operation manual and all safety decals. Typical             hydraulic oil if necessary.
+applications for this roller are driveways, patch work and
+                                                                 The vibrator housing and drum are shock mounted to
+road repairs. Standard features included with this roller
+                                                                 isolate the engine compartment and operator from vibration.
+are articulated steering, double drum hydrostatic drive,
+front drum vibration, high curb clearance and on-board           The roller nominally has an operating weight of 3,088 lbs
+water capability.                                                (1,400 Kg.), but can be increased to 3,309 lbs (1,500 Kg.)
+                                                                 by adding a water ballast to the rear drum.
+POWER PLANT
+                                                                 HYDRAULIC OIL FILTER SYSTEM
+The AR13HA/HAR roller is powered by a Honda GX630,
+air-cooled, gasoline engine rated at 20 hp @3,500 rpm.           The hydraulic system oil is filtered by a screen type filter
+The engine features a side-mounted muffler designed to           located in the reservoir filler neck, then doubled filtered
+direct engine exhaust away from the operator. In the event       within the system first by a 40 micron mesh-type suction
+of low oil, this engine has a built in "oil alert system" that   filter located in the tank and the by a Zinga 10-micron,
+will shut down if the engine oil level reaches an unsafe         cartridge style, spin-on return line filter.
+operating level.
+                                                                 ARTICULATED STEERING SYSTEM
+HYDRAULIC SYSTEM
+                                                                 Power for the articulated steering system, which uses a
+The Honda GX630 engine drives an axial hydraulics,               single hydraulic cylinder, is provided by the gear pump.
+variable displacement pump which is manually controlled          This steering system can produce an inside turning radius
+via a cable control system. Pump flow is directed through        of 109 inches (2.77 meters).
+an aluminum block manifold which provides the control for
+the 3 hydraulic motors.                                          SPRINKLER SYSTEM
+The hydraulic drum drive system incorporates a parallel          A 40-gallon (181 liters) water tank with a gravity feed spray
+closed loop configuration operating at a maximum pressure        bar is provided for wetting the roll for asphaltic pavement
+of 2,900 psi. In addition this hydraulic system offers a "free   rolling.
+wheel valve" which allows the roller to be towed in the event    The water system is fully adjustable from the operator’s
+of an emergency.                                                 position by adjusting the two water valves. The front valve
+COMPACTION SYSTEM                                                controls the water supply to the front drum, and the rear
+                                                                 valve controls water to the rear drum.
+The compaction force is delivered by a 36-inch wide steel
+drum with beveled edges to help prevent asphalt marring.         Before starting an asphalt rolling job, be sure all spray bar
+A fully enclosed hydrostatic drive system offers a variable      holes are clear of dirt or foreign matter and are working.
+speed control as well as smooth acceleration and braking.        Always use clean fresh water in the water tank. To prevent
+                                                                 rust and foreign debris from clogging the spray bar holes,
+Connected to the axial hydraulic pump is a gear pump             drain and flush water tank and spray bars every 30 days.
+that provides power for the drum vibratory system and
+the articulating steering system. Oil from this pump flows       LIFTING THE ROLLER
+to the manifold control valve block and then to a hydraulic      When lifting of the roller is required, attach a
+motor which rotates the eccentric weights inside a sealed        suitable hook or shackle to the lifting eye of the
+housing containing oil to lubricate the bearings.                roller. These four lifting points are marked by a
+A pushbutton switch located on top of the gearshift lever,       lifting hook decal. Make sure the lifting device
+when pressed, activates a hydraforce valve that engages          is capable of lifting 4,000 lbs. (1,814 Kg).
+or disengages the vibratory action. The drum's vibratory
+        PAGE 12 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 13 ===
+GENERAL INFORMATION
+        DANGER                                                      TIPPING (ROLLOVERS)
+  DO NOT allow personnel to stand under or near any                         CAUTION
+  suspended machine. Before operating the roller, make
+                                                                    NEVER operate the roller on side slopes (Figure 3). The
+  sure that personnel and obstacles are free from the
+                                                                    possibility exists that the roller could tip over (roll over), thus
+  roller’s path. Serious injury or death may result.
+                                                                    causing bodily harm, even death, and serious damage to
+The forward-reverse control lever operates the hydrostatic          the equipment.
+pump which governs the roller speed and direction of
+travel. The speed in which movement of this lever is made
+is directly related to the amount of pressure that is applied
+to the travel lever in each direction. Travel speed is infinitely
+variable from 0 to 4.8 mph. The neutral position of this lever
+will cause the roller to stop.
+                                                                           SIDE TO SIDE
+                                                                            OPERATION
+        CAUTION                                                         NOT RECOMMENDED
+
+  ONLY use approved certified lifting devices capable of
+  lifting at least 4,000 lbs. (1,814 Kg.).
+
+        CAUTION                                                                                       REA
+                                                                                                     ROL R
+                                                                                                        LER
+
+  When lifting of the roller is required, only use the                                                               ROLL OVER
+  provided lifting eyes to lift the roller. Using other sections
+  of the roller for lifting purposes may cause severe
+  damage to the roller.                                                           Figure 3. Tipping (Rollover)
+
+OPERATING ON SLOPES                                                 In the event the roller does tip over, if at all possible, try to
+                                                                    shut down the engine by turning the ignition key to the OFF
+Special care must be taken when operating the roller on hills       position. Extreme care must be taken to prevent damage
+or slopes. There exist the possibility of serious injury to the     to the engine. When the roller has been tipped over, oil
+operator and severe damage to the roller in the event of a          from the engine crankcase can flow into the combustion
+roll over. ALWAYS operate the roller up and down hills rater        chamber, which can severely damage the engine the next
+than from side to side. For safe operation hillside slopes          time it is started.
+should not exceed 12 degree (27 % grade). See Figure 2.             IMMEDIATELY after a unit has tipped over, upright the unit
+                                                                    as soon as possible to prevent oil from leaking into the
+                                                                    combustion chamber.
+MAXIMUM SLOPE                                                          NOTICE
+                                                                      To prevent damage to the engine after a rollover, the
+                                                                      roller must NOT be started. NEVER start a roller after
+                                                                      a rollover. CONTACT your nearest authorized Multiquip
+                                                                      dealer for instructions or servicing.
+     27%
+
+
+           Figure 2. Recommended Slope
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 13
+
+=== ORIGINAL PDF PAGE 14 ===
+COMPONENTS
+
+
+
+
+                         18
+
+
+
+
+     17                                                19
+
+
+                                                 20
+                                                        21
+                                                             22
+               12 13
+                           14
+                                                                   23
+                                       16
+                                  15                               24
+
+                                                                  25
+                11         9
+10
+                                            4
+     8
+                              5
+          7                       3
+
+
+           6                                       1
+                                            2
+
+
+
+
+                                                Figure 4. Roller Components
+
+
+         PAGE 14 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 15 ===
+COMPONENTS
+Figure 4 shows the location of the components and basic               return this valve to the closed position (clockwise) when
+components for the AR13HA compaction roller. The function             water is not required.
+of each component or control is described below:                  13. Throttle Control — Pull all the way out to achieved
+1. Battery — Provides +12VDC to the electrical system,                maximum engine RPM's. To idle the engine, push the
+    and is located underneath foot plate. Replace only with           RED stop button inwards all the way.
+    recommended type battery, see specification Table 1.          14. Vibration Control Button — Press this button to
+2. Articulating Locking Bar — Always make sure that                   activate the eccentric that will produce a vibration
+    the articulating locking bar is engaged during lifting,           frequency of 4,400 vpm (vibrations per minute).
+    transport and maintenance.                                        Pressing the button again will stop the vibrations.
+3. Foot Step — To lift yourself onto the roller's platform,       15. Shift Lever — Push the lever forward to make the roller
+    place foot into foot step, then grab hold of hand rail.           travel in a forward direction, pull the lever backward to
+4. Ignition Switch — With key inserted, turn clockwise                make the roller travel in a reverse direction. Maximum
+    to start the engine.                                              travel speed is 4.8 MPH ( 7.7 KPH). Center position is
+5. Rear Sprinkler System — A gravity feed spray bar is                neutral, no travel.
+    provided for the wetting the roll for asphalt pavement.       16. Hourmeter — Indicates the number hours the unit
+6. Rear Roller — This roller is a 30 inch wide steel drum             has been in use.
+    with beveled edges (no vibration). The beveled edges          17. Water Tank — Remove filler cap and fill with water.
+    help prevent asphalt marring.                                     Water tank capacity is 40 gallons (181 liters). To
+7. Lifting Point — Attach a crane or suitable lifting device          determine if water level is low, visually inspect water
+    to this point when lifting of the roller is required.             level gauge (tube) at rear of roller. Add water as
+8. Rear Scrapper — This adjustable rear scrapper blade                necessary.
+    helps prevent the buildup of material between the drum        18. Roll-Over Bar — This unit may be equipped with a
+    and frame.                                                        Roll Over Protection System (ROPS option) to protect
+9. Fuel Tank/Fuel Gauge — The fuel capacity of the                    the operator when the roller is used on slopes, open
+    fuel tank is 9.5 gallons (36 liters). Read the gauge on           trenches, sharp turns, slippery surfaces or objects in
+    top of the fuel cap to determine if fuel level is low. Fill       the rollers's path of travel.
+    with unleaded type gasoline. To gain access to the fuel       19. Operator's Seat — A contoured seat that provides
+    tank, tilt the front seat forward. Fuel tank has a spill          visibility of both front rear drum edges during operation.
+    containment feature.                                              NEVER start the roller unless seated in the operator's
+10. Tie-Down Transport Point — Attach a chain or                      seat.
+    suitable tie-down device to this point when transporting      20. Parking Break Lever — Pull the lever upward to set
+    of the is required.                                               the parking break. To release the parking break, press
+                                           TRANSPORT
+                                                                      and hold the button on top of the lever and push lever
+                                         TIE-DOWN POINT               downward.
+                                                                  21. Seat Belt — When using the roller in working
+                                                                      conditions always have the operator wear the seat
+                                                                      belt. NEVER use the roller without a seat belt. If the
+                                                                      seat belt becomes worn or damaged, have it replaced
+11. Front Spray Control Valve — This valve controls the               immediately.
+    flow of water to the front spray bar. Turn the water valve    22. Steering Wheel — Use this wheel to steer the roller.
+    to the open position (counterclockwise) to let water flow,    23. Choke Knob — Used in the starting of a cold engine,
+    return this valve to the closed position (clockwise) when         or in cold weather conditions. The choke enriches the
+    water is not required.                                            fuel mixture.
+12. Rear Spray Control Valve — This valve controls the            24. Hydraulic Motor — This hydraulic motor provides
+    flow of water to the rear spray bar. Turn the water valve         control for the rear of the roller
+    to the open position (counterclockwise) to let water flow,    25. Documentation Box — Store and maintain Operation,
+                                                                      Parts, and Engine manuals in this box at all times.
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 15
+
+=== ORIGINAL PDF PAGE 16 ===
+COMPONENTS
+
+
+
+
+                                                              40
+
+                                                                         42
+
+
+                                                                                                               38
+                                                                               41
+                                                                                                     37
+                                                                                   35 36
+
+
+                                                                                                     30
+
+                                                                    29
+
+
+                                                               34                                         26
+                                                         33
+                                                                              28
+                                                                                           27                  39
+
+
+
+ Figure 5. Additional Roller Components                    32
+                                                                                                31
+
+
+Figure 5 shows the location of additional components
+for the AR13HA compaction roller. The function of each
+component or control is described below:                                  34. Steering Cylinder — Controls direction of roller.
+26. Front Sprinkler System — A gravity feed spray bar is                  35. Engine — This unit incorporates a HONDA GX630, air
+    provided for the wetting the roll for asphalt pavement.                   cooled engine rated at 20 hp at 3,500 rpm.
+27. Hydraulic Manifold — Aluminum block that controls                     36. Hydraulic Fluid Filler Port — Remove this cap to
+    the flow of hydraulic pressure to the various hydraulic                   add hydraulic fluid. Fill with type ISO 46 anti-wear
+    motors and other components required to control the                       hydraulic fluid.
+    roller.
+                                                                          37. Compartment Hood — Houses the engine, hydraulic
+28. Hydraulic Oil Filter — Filters return oil from the front                  manifold, accessory relay, hydraulic oil filter, hoses,
+    and rear hydrostatic motors.                                              and hydraulic pump. To lift the compartment hood,
+29. Accessory Relay — Provides the +12VDC necessary                           release the rubber bungee latches located on each
+    to run the roller's electrical accessories.                               side of the hood.
+
+30. Hydraulic Pump — This unit incorporates an axial                      38. Compartment Hood Lift Point — Place hand here
+    variable displacement hydraulic piston pump.                              then lift upwards to lift compartment hood.
+
+31. Front Ride-on Tandem Drum Roller — This roller is                     39. Hydraulic Motor — This hydraulic motor drives the
+    a 30 -inch wide steel drum with beveled edges. The                        roller during operation.
+    beveled edges help prevent asphalt marring.                           40. Rear Drum Zerk Grease Fitting — Grease this fitting
+32. Hydraulic Motor — This hydraulic motor controls the                       bi-weekly. See maintenance section of this manual.
+    rotation of the vibratory system.                                     41. Articulation Zerk Grease Fitting — Grease this fitting
+33. Latch — Pull this latch upward and back to gain access                    once a year. See maintenance section of this manual.
+    to the engine/pump compartment. There is one latch                    42. Hand Rail — Grab hold of this hand rail when lifting
+    located on each side of the unit.                                         yourself onto the operator's platform.
+
+       PAGE 16 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 17 ===
+BASIC ENGINE
+
+
+
+
+                                               Figure 6. Engine Components
+
+The engine (Figure 6) must be checked for proper                    5. Fuel Filter — Prevents dirt and other debris from
+lubrication and filled with fuel prior to operation. Refer to the      entering the fuel system.
+manufacturer's engine manual for operation and servicing
+information.                                                        6. Air Filter — Prevents dirt and other debris from
+                                                                       entering the fuel system. Unsnap air filter cover to gain
+1. Oil Drain Plug — Remove to drain crankcase oil. Fill                access to filter element.
+   with recommended type oil as listed in Table 4.
+                                                                    7. Oil Filler Cap — Remove to add engine oil.
+2. Oil Filter — Spin-on type, filters oil for contaminants.
+                                                                    8. Oil Dip Stick — Remove to check amount and
+3. Spark Plug — Provides spark to the ignition system.                 condition of oil in crankcase. Refill or replace with
+   Set spark plug gap to 0.6 - 0.7 mm (0.028 - 0.031 inch)             recommended type oil as listed in Table 4.
+   Clean spark plug once a week.
+                                                                    9. Starter — Starts engine when ignition key is rotated
+4. Lifting Hook Eye — Attach a lifting device of adequate              to the "ON" position.
+   lifting capacity at this lifting point whenever lifting of the
+   engine is required.
+
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 17
+
+=== ORIGINAL PDF PAGE 18 ===
+INSPECTION
+BEFORE STARTING                                                      3. Check the oil level shown on the dipstick (Figure 8).
+1. Read safety instructions at beginning of manual.
+2. Clean the roller, removing dirt and dust, particularly
+   the engine cooling air inlet, carburetor and air cleaner.
+3. Check the air filter for dirt and dust. If air filter is dirty,
+   replace air filter with a new one.
+4. Check carburetor for external dirt and dust. Clean with
+   dry compressed air.
+5. Check fastening nuts and bolts for tightness.
+ENGINE OIL CHECK
+1. To check the engine oil level, place the roller on secure
+   level ground with the engine stopped.                                     Figure 8. Engine Oil Dipstick Level
+2. Remove the dipstick from its holder (Figure 7) and                4. If the oil level is low, remove the oil filler cap (Figure 9)
+   wipe it clean.                                                       and fill to the safe operating level (max) as indicated by
+                                                                        the dipstick. Fill with recommended type oil as listed in
+                                                                        Table 4. Maximum oil capacity is 1.90 quarts (1.8 liters).
+
+
+
+
+     Figure 7. Engine Oil Dipstick (Removal)                                    Figure 9. Engine Oil Filler Port
+                       Table 4. Oil Type
+     Season             Temperature         Oil Type
+                                                                        NOTICE
+     Summer            25°C or Higher     SAE 10W-30
+    Spring/Fall          25°C~10°C       SAE 10W-30/20                 The HONDA GX630 engine used on this roller has an
+                                                                       "Oil Alert System". This system will automatically stop
+      Winter            0°C or Lower      SAE 10W-10                   the engine in the event of low oil level. ALWAYS be sure
+                                                                       to check the engine oil level prior to starting the engine.
+
+
+
+
+        PAGE 18 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 19 ===
+INSPECTION
+FUEL CHECK                                                      5. Pay attention to the fuel tank capacity when replenishing
+                                                                   fuel (Figure 12). Refer to the fuel tank capacity listed
+       DANGER                                                      on the specifications table.
+               Motor fuels are highly flammable and can
+               be dangerous if mishandled. DO NOT
+               smoke while refueling. DO NOT attempt
+               to refuel the pump if the engine is hot or
+               running.
+
+1. To check the engine fuel level, place the roller on
+   secure level ground with the engine stopped.
+2. Tilt the operator's seat (Figure 10) forward to gain
+   access to the fuel tank.
+                                                                               Figure 12. Adding Fuel
+                                                                6. After replenishing fuel, make sure fuel cap is securely
+                                                                   tighten to fuel tank. Return operator's seat to normal
+                                                                   operating position.
+                                                                HYDRAULIC OIL CHECK
+                                                                1. To check the hydraulic oil level, place the roller on
+                                                                   secure level ground with the engine stopped.
+                                                                2. Visually inspect the hydraulic oil sight glass (Figure
+                                                                   13) located on the right rear of the front drum. For
+                                                                   normal operation the hydraulic oil level must be below
+            Figure 10. Fuel Tank Access
+                                                                   the top and above the bottom of the sight glass. DO
+3. Read the fuel gauge (Figure 11) located on top of the           NOT OVERFILL!
+   fuel tank to determine if fuel level is low.
+
+
+
+
+                                                                        Figure 13. Hydraulic Oil Sightglass
+                Figure 11. Fuel Gauge
+4. If the fuel level is low, remove the fuel filler cap/gauge
+   and fill with unleaded gasoline. Wipe up any spilled
+   fuel immediately.
+
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 19
+
+=== ORIGINAL PDF PAGE 20 ===
+INSPECTION
+3. If the hydraulic oil level is low, remove the hydraulic     BATTERY CHECK
+   oil cap (Figure 14) and fill with type ISO 46 anti-wear
+   type hydraulic oil to the recommended operating level.      A 12-volt DC battery (Figure 16) is shipped dry, and will
+                                                               require a proper electrolyte level for operation.
+                                                               ALWAYS be sure that the battery cables are properly
+                                                               connected to the battery terminals as shown below.
+                                                               Generally the RED cable will be connected to the positive
+                                                               terminal of the battery, and the BLACK cable will be
+                                                               connected to the negative terminal of the battery.
+
+
+
+
+  Figure 14. Hydraulic Oil Reservoir Filler Port
+                                                                                 Figure 16. Battery
+WATER TANK CHECK
+1. To check the water tank water level, place the roller          NOTICE
+   on secure level ground.
+                                                                If the battery cables are connected incorrectly, electrical
+2. The amount of water inside the water tank can be             damage will occur causing damage to the roller's
+   visually inspected by reading the water tube (Figure         electrical circuits. Pay close attention to the polarity of
+   15) that runs vertically along the water tank at the rear    the battery when connecting the battery.
+   of the roller. This tube indicates the amount of water
+   inside the water tank. Total tank capacity is 40 gallons
+   (181 liters.)
+
+
+
+                      WATER
+                      TANK
+                       CAP
+
+
+
+
+                 WATER
+                  TANK
+
+
+                                      WATER
+                                      LEVEL
+                      REAR            TUBE
+                     ROLLER
+
+
+
+                Figure 15. Water Tank
+
+       PAGE 20 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 21 ===
+OPERATION
+STARTUP                                                        6. PUSH the "RED" button (Figure 19) on the throttle
+                                                                  control and pull the round black knob about halfway
+   NOTICE                                                         out. Make sure that the throttle lock knob has been
+ DO NOT attempt to operate the roller until the Safety,           disengaged.
+ General Information and Inspection sections have been
+ read and understood.                                                      PUSH-IN, THEN PULL
+                                                                            TO SET THROTTLE
+                                                                                 (RPM’s)
+
+
+1. Place your foot into the roller's foot step, grab hold of
+   the hand rail located on the steering console, and lift
+   yourself onto the platform.
+2. Sit down in the operator's seat and adjust the seat
+   for a comfortable position, then fasten the seat belt                  THROTTLE RELEASE
+                                                                          AND IDLE BUTTON
+                                                                                                PUSH ALL THE WAYDOWN
+                                                                                                   TO IDLE ENGINE
+
+   (Figure 17) around your waist. NEVER operate the                                                     THROTTLE LOCK
+   roller without the seat belt being fastened. Serious                                             KNOB, TURN CLOCKWISE
+                                                                                                   TO LOCK THROTTLE CABLE.
+   injury could occur if the seat belt is not used.
+                                                                            Figure 19. Throttle Control
+                                                               7. Insert the ignition key into the ignition (Figure 20), then
+                                                                  turn and hold the key in the clockwise position until the
+                                                                  engine starts, release key.
+                                     FASTEN
+                                    SEAT BELT
+
+
+
+
+           Figure 17. Securing Seat Belt
+3. Before starting engine, make sure the immediate area
+   is free of obstructions and debris that may lay in the
+   roller's path.
+                                                                             Figure 20. Ignition Switch
+4. Make sure that the roller's shift lever (Figure 18) is
+   placed in the neutral position.                             8. If the engine does not start, repeat steps 1 through
+                                                                  7 or consult the troubleshooting guide contained in
+                                                                  this manual.
+                                                               9. Let the engine warm for 3 to 5 minutes before using
+                                                                  roller. Check for fuel and oil leaks, and noises that would
+                                                                  associate with a loose guard and/or covers.
+                                                               10. If necessary, return the choke knob to the full OPEN
+                                                                   position.
+                                                                  NOTICE
+                Figure 18. Shift Lever
+                                                                 The CLOSED position of the choke knob enriches the
+5. In cold weather, start the roller with the choke fully        fuel mixture for starting a COLD engine. The OPEN
+   closed. In warm weather or when the engine is                 position provides the correct fuel mixture for normal
+   warm, the roller can be started with choke halfway or         operation after starting, and for restarting a warm
+   completely open.                                              engine.
+
+       AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 21
+
+=== ORIGINAL PDF PAGE 22 ===
+OPERATION
+PARKING BRAKE                                                  3. Try maneuvering the roller a few times to get familiar
+                                                                  with the handling. Also place the travel lever in the
+1. To release the parking brake, press and hold the               opposite direction to get acquainted with driving in
+   release button (Figure 21) pull up slightly on the             reverse.
+   parking lever, then push the parking brake lever all
+   the way down.                                               4. Make sure that the roller comes to a complete stop
+                                                                  (neutral) before placing the travel lever in either a
+                                                                  forward or reverse position.
+                                                               VIBRATION BUTTON
+                                                               1. To begin the vibratory action, press the vibratory
+                                                                  pushbutton switch located on top of the travel lever
+                                                                  as shown in Figure 23. The pressing of this switch will
+                                                                  generate 3,100 lbs. (1,406 Kg.) of centrifugal force at
+                                                                  a frequency of 4000 vpm (vibrations per minute) to
+                                                                  the front drum.
+
+
+          Figure 21. Brake Release Lever
+
+SHIFT LEVER
+1. To make the roller move in a forward direction, move
+   the shift lever forward as shown in Figure 22.
+
+
+                                                                    Figure 23. Vibration Pushbutton Switch
+                                                               2. To stop the vibratory action, press the vibratory
+                                                                  pushbutton switch again.
+                                                               SPRINKLER CONTROLS
+                                                               If the application requires the wetting of a surface, front
+                                                               and rear drum sprinkler controls have been provided. These
+                                                               controls (Figure 24) are located to the bottom right of the
+                Figure 22. Shift Lever                         operators seat. The front valve controls the water supply to
+2. Remember the speed of the roller is directly proportional   the front drum spray bar and the back valve controls water
+   to the amount of pressure being applied to the lever        flow to the back drum spray bar.
+   in each direction. Travel speed is between 0 and 4.8
+   mph (7.2 kph).                                                                                   FRONT
+
+
+   NOTICE                                                                      BACK
+
+ ALWAYS allow the roller to come to a complete stop
+ before changing the direction of travel. Changing
+ directions before the roller comes to a complete stop
+ will result in excessive force being applied to the
+ transmission and drive system, which will reduce the
+ over service life of the system.                                         Figure 24. Sprinkler Controls
+
+       PAGE 22 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 23 ===
+MAINTENANCE
+MAINTENANCE
+Perform roller maintenance as indicated by Figure 25 and Table 5.
+                                                                           Yearly
+                                                                        6 Months
+                                                                        3 Months
+                                                                       Bi-Weekly
+                                                                           Weekly
+                                                                           Daily
+
+
+
+
+                                                                                               2
+                                                     4
+                                                                                               3
+                                                     5
+                                                                                               5
+
+                                                     6                                         6
+
+                                                                                               7
+                                                     7
+
+                                                                                                   10
+                                           13
+
+                                      12
+
+                                                     1
+
+
+
+
+                                                             8         9
+
+
+
+
+                                                                 14
+
+
+                                           Figure 25. Roller Maintenance Schedule
+                                                Table 5. Roller Maintenance Schedule
+         Daily                    1              2       3                          Interval       Notes
+1       Engine Oil Level          X              X                                                 See Table 4
+2       Water Tank Level          X              X
+3       Fuel Level                X              X
+4       Hydraulic Oil Level       X              X                                                 Use ISO 46 Type Hydraulic Oil
+5       Sprinkler System          X
+6       Scraper                   X              X                                                 Replace when badly worn
+7       Drums (Front/Rear)        X              X
+        Weekly
+8       Air Filter                X              X                                                 Replace paper element once a year.
+9       Battery Liquid Level      X              X
+        Bi Weekly
+        Zerk Grease Fitting (Rear                                                                  Use Type Alvania #2 or equivalent
+10                                               X                    80 hrs. or Bi-Weekly
+        Drum)                                                                                      3 shots max. DO NOT overgrease
+        3 Months
+        Hydraulic Oil Filter
+12                                                       X            500 hrs.                     Replace with same type filter.
+        (Return)
+        6 Months
+                                                                                                   After first 20 hrs, change oil filter every 6
+13      Engine Oil Filter                                X            20 hrs. or 1 month           months or 100 hrs.
+        Yearly
+14      Hydraulic Oil                                    X            1,100 hrs. or once a year Use ISO 46 Type Hydraulic Oil
+
+
+
+
+       AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 23
+
+=== ORIGINAL PDF PAGE 24 ===
+MAINTENANCE
+HYDRAULIC OIL SYSTEM                                                   environmentally friendly manner. Replace the drain
+                                                                       plug and tighten.
+The hydraulic system consists of a two-pump stack directly                                    HYDRAULIC OIL
+                                                                                             CAP/FILLER PORT
+                                                                                                                  HYDRAULIC OIL
+                                                                                                                  SUCTION FILTER
+coupled to the engine. A hydraulic valve block (manifold)
+is provided for quick and easy testing and troubleshooting.
+Hydraulic oil is filtered by a screen filter located in the tank
+filler neck, a 40 micron suction filter located in the tank, and
+a 10 micron return filter, with cold oil bypass valve located
+in the return circuit.                                                      HYDRAULIC
+                                                                             OIL DRAIN
+                                                                               PLUG
+It is recommended that ISO 46 type hydraulic oil or
+equivalent be used when adding or replacing the hydraulic
+oil is required.                                                                                  HYDRAULIC OIL
+                                                                                                  RETURN FILTER
+
+DO NOT USE MULTI-VISCOSITY OIL. Cleanliness is a                          Figure 26. Hydraulic Filter Locations
+very important part of proper hydraulic system operation.
+Hydraulic oil is not only used to transfer power; it also          3. Remove the return filter and install a new filter. Dispose
+lubricates and cools the system components. Keeping                   of the used filter in an environmentally friendly manner.
+the hydraulic system clean can help reduce costly repairs.         4. Disconnect the suction hose and remove the fitting from
+The hydraulic oil level sight glass is located on the right           the tank. Replace the suction filter. Dispose of the used
+rear of the front drum, below the engine compartment. This            filter in an environmentally friendly manner. Replace
+level should be checked daily. Oil must be below the top and          the fitting and reconnect the suction hose.
+above the bottom of the sight glass. DO NOT OVERFILL!              FREEWHEEL ENGAGEMENT VALVE
+Care should be taken to clean the filler cap before adding oil
+to the system. If hydraulic oil has to be added, the machine          NOTICE
+should be inspected for leaks.                                       The freewheel engagement valve (towing) is only for
+The suction filter (Figure 26) is located inside the hydraulic       emergency use. DO NOT move roller over 2 MPH or
+tank. This filter is attached to the fitting connected to the        long distances as hydraulic system component failure
+hydraulic pump suction hose.                                         could result..
+The return filter (Figure 26) is located at the front of the       This hydraulic system has a freewheel engagement valve
+engine compartment. Replace both filters according to the          allowing hydraulic oil to be bypassed. Open (turn allen
+Table 5.                                                           wrench counter-clockwise) this valve (Figure 27) to engage
+       CAUTION                                                     the freewheel capability of the roller. When the valve is fully
+                                                                   opened, ports A and B are allowed to connect, bypassing
+  DO NOT open hydraulic lines or loosen hydraulic fittings         the oil to and from the drum drive motors.
+  while engine is running! Hydraulic fluid under pressure                                             ALLEN
+                                                                                                     WRENCH
+
+  can penetrate the skin, blind, cause burns or create
+  other potentially dangerous hazards follow all safety                                   OPEN
+
+  instructions as described throughout this manual.
+                                                                                         CLOSED
+
+CHANGING HYDRAULIC OIL AND FILTERS                                             TOW
+                                                                            FREEWHEEL
+1. Park the roller on a clean flat work area and set the                   ENGAGEMENT
+                                                                              VALVE
+
+   parking brake.
+2. Remove the hydraulic oil drain plug (Figure 26) and
+   drain the hydraulic oil. Dispose of the used oil in an               Figure 27. Freewheel Engagement Valve
+
+
+        PAGE 24 — AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21)
+
+=== ORIGINAL PDF PAGE 25 ===
+MAINTENANCE
+Remember the freewheel engagement valve should only                When the switch is in the “ON” position, the electric control
+be used in emergencies when the roller cannot be driven            valve closes and oil is directed out of port 1 to the vibration
+due to engine or hydraulic system problems.                        motor. Return oil from the motor returns to the valve block
+                                                                   via port 2 and is directed to the steering valve.
+When towing of the roller has been completed, this
+valve must be closed (turn allen wrench fully clockwise)           Steering is controlled by a steering valve and cylinder.
+completely and the lock nut set. Failure to close this valve       The steering wheel is direct coupled to the steering valve
+completely will result in low power, improper speed, and           controlling the oil flow to the cylinder. Oil supplied from the
+excessive hydraulic oil temperature.                               vibration circuit is directed to port 3 which connects to port
+                                                                   P of the steering valve. When steering is not being used,
+DRUM DRIVE                                                         oil passes out of port T of the valve block and returns to
+The drum drive circuit is a parallel, closed loop system           the hydraulic tank. When the steering wheel is operated,
+consisting of a hydrostatic pump, two relief valves, a             the steering valve closes and oil is directed to ports L or R
+freewheel engagement valve, and front and rear drum                to extend or retract the steering cylinder.
+drive motors.                                                      RUBBER SCRAPPER MAT
+The hydrostatic pump is manually controlled by a cable
+                                                                   Rubber scraper mats have been provided for the cleaning
+connected to the forward/reverse shift lever located on the
+                                                                   of the front and rear drums. Adjust the scrapers mats as
+right side of the operator seat. When the shift lever is placed
+                                                                   close as possible to the drums, using the slotted holes
+in forward, high-pressure oil is supplied by the hydrostatic
+                                                                   (Figure 28) provided. Replace these rubber mats when
+pump to the valve block (port A). The valve block (manifold)
+                                                                   they become badly worn.
+directs this high-pressure oil to the front and rear drum
+drive motors. Return oil from the motors is returned to the
+valve block (port B) and is returned to the suction side of
+the hydrostatic pump.
+When shifted into reverse, the high-pressure and suction
+ports on the hydrostatic pump are reversed. Oil flow is
+then in the opposite direction of forward (port B becomes
+high-pressure and port A becomes suction).
+VIBRATION AND STEERING
+The vibration and steering system is an open loop circuit
+operated by a gear type pump. Separate relief valves control
+each circuit. This system consist of the gear pump, relief
+valves, electric vibration control valve, vibration drive motor,           Figure 28. Scraper Bar Adjustment
+steering valve, and steering cylinder.
+The vibration circuit is controlled by an electric control
+valve located on the valve block (manifold). This valve is
+controlled by the “ON/OFF” pushbutton switch mounted on
+top of the travel lever.
+High-pressure oil is supplied by the pump to the valve block
+(port P) and is directed to the electric control valve. When
+the pushbutton switch is in the “OFF” position, this valve is
+open allowing oil to go to the steering valve, without driving
+the vibration motor.
+
+
+
+        AR13HA/AR13HAR ROLLER (S/N 110301 AND UP) • OPERATION MANUAL — REV. #1 (06/18/21) — PAGE 25
+

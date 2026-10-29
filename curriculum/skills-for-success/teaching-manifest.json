@@ -1,0 +1,391 @@
+{
+  "edition": 3,
+  "date": "2026-10-29",
+  "blocks": [
+    {
+      "id": "reading-entry-bridge-learner",
+      "source": "teaching/foundations/reading-entry-bridge.md",
+      "target": "learner/01-reading.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Begin with the task, then preview the document"
+    },
+    {
+      "id": "reading-learner-checks-learner",
+      "source": "teaching/foundations/reading-learner-checks.md",
+      "target": "learner/01-reading.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "reading-entry-bridge-practitioner",
+      "source": "teaching/foundations/reading-entry-bridge.md",
+      "target": "practitioner/03-reading.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "reading-learner-checks-practitioner",
+      "source": "teaching/foundations/reading-learner-checks.md",
+      "target": "practitioner/03-reading.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "reading-practitioner-notes-practitioner",
+      "source": "teaching/foundations/reading-practitioner-notes.md",
+      "target": "practitioner/03-reading.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "writing-entry-bridge-learner",
+      "source": "teaching/foundations/writing-entry-bridge.md",
+      "target": "learner/02-writing.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Start with the reader and the needed action"
+    },
+    {
+      "id": "writing-learner-checks-learner",
+      "source": "teaching/foundations/writing-learner-checks.md",
+      "target": "learner/02-writing.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "writing-entry-bridge-practitioner",
+      "source": "teaching/foundations/writing-entry-bridge.md",
+      "target": "practitioner/04-writing.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "writing-learner-checks-practitioner",
+      "source": "teaching/foundations/writing-learner-checks.md",
+      "target": "practitioner/04-writing.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "writing-practitioner-notes-practitioner",
+      "source": "teaching/foundations/writing-practitioner-notes.md",
+      "target": "practitioner/04-writing.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "numeracy-entry-bridge-learner",
+      "source": "teaching/foundations/numeracy-entry-bridge.md",
+      "target": "learner/03-numeracy.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Case document A • Supplies for a classroom project"
+    },
+    {
+      "id": "numeracy-learner-checks-learner",
+      "source": "teaching/foundations/numeracy-learner-checks.md",
+      "target": "learner/03-numeracy.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "numeracy-entry-bridge-practitioner",
+      "source": "teaching/foundations/numeracy-entry-bridge.md",
+      "target": "practitioner/05-numeracy.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "numeracy-learner-checks-practitioner",
+      "source": "teaching/foundations/numeracy-learner-checks.md",
+      "target": "practitioner/05-numeracy.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "numeracy-practitioner-notes-practitioner",
+      "source": "teaching/foundations/numeracy-practitioner-notes.md",
+      "target": "practitioner/05-numeracy.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "digital-entry-bridge-learner",
+      "source": "teaching/foundations/digital-entry-bridge.md",
+      "target": "learner/04-digital.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Begin with a purpose and a comfortable setup"
+    },
+    {
+      "id": "digital-learner-checks-learner",
+      "source": "teaching/foundations/digital-learner-checks.md",
+      "target": "learner/04-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "digital-entry-bridge-practitioner",
+      "source": "teaching/foundations/digital-entry-bridge.md",
+      "target": "practitioner/06-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "digital-learner-checks-practitioner",
+      "source": "teaching/foundations/digital-learner-checks.md",
+      "target": "practitioner/06-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "digital-practitioner-notes-practitioner",
+      "source": "teaching/foundations/digital-practitioner-notes.md",
+      "target": "practitioner/06-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "problem-solving-entry-bridge-learner",
+      "source": "teaching/foundations/problem-solving-entry-bridge.md",
+      "target": "learner/05-problem-solving.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Define the issue without defining a person as the problem"
+    },
+    {
+      "id": "problem-solving-learner-checks-learner",
+      "source": "teaching/foundations/problem-solving-learner-checks.md",
+      "target": "learner/05-problem-solving.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "problem-solving-entry-bridge-practitioner",
+      "source": "teaching/foundations/problem-solving-entry-bridge.md",
+      "target": "practitioner/07-problem-solving.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "problem-solving-learner-checks-practitioner",
+      "source": "teaching/foundations/problem-solving-learner-checks.md",
+      "target": "practitioner/07-problem-solving.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "problem-solving-practitioner-notes-practitioner",
+      "source": "teaching/foundations/problem-solving-practitioner-notes.md",
+      "target": "practitioner/07-problem-solving.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cm-route-learner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Communication route card",
+      "include_intro": false,
+      "target": "learner/06-communication.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Listen with a reason"
+    },
+    {
+      "id": "cm-case-learner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CM · Send, receive and check a fresh classroom change",
+      "include_intro": true,
+      "target": "learner/06-communication.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cm-route-practitioner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Communication route card",
+      "include_intro": false,
+      "target": "practitioner/08-communication.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cm-case-practitioner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CM · Send, receive and check a fresh classroom change",
+      "include_intro": true,
+      "target": "practitioner/08-communication.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cm-key-practitioner",
+      "source": "teaching/social/instructor-key.md",
+      "source_section": "CK-CM · Expected content and criterion anchors",
+      "include_intro": false,
+      "target": "practitioner/08-communication.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cl-route-learner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Collaboration route card",
+      "include_intro": false,
+      "target": "learner/07-collaboration.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Case document 1 · The visitor information pack"
+    },
+    {
+      "id": "cl-case-learner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CL · Make a resource handover together",
+      "include_intro": true,
+      "target": "learner/07-collaboration.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cl-route-practitioner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Collaboration route card",
+      "include_intro": false,
+      "target": "practitioner/09-collaboration.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cl-case-practitioner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CL · Make a resource handover together",
+      "include_intro": true,
+      "target": "practitioner/09-collaboration.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cl-key-practitioner",
+      "source": "teaching/social/instructor-key.md",
+      "source_section": "CK-CL · Expected product and individual evidence",
+      "include_intro": false,
+      "target": "practitioner/09-collaboration.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ad-route-learner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Adaptability route card",
+      "include_intro": false,
+      "target": "learner/08-adaptability.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Case document 1 · A plan for the learning folder"
+    },
+    {
+      "id": "ad-case-learner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-AD · Revise a small pack and carry out the next step",
+      "include_intro": true,
+      "target": "learner/08-adaptability.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ad-route-practitioner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Adaptability route card",
+      "include_intro": false,
+      "target": "practitioner/10-adaptability.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ad-case-practitioner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-AD · Revise a small pack and carry out the next step",
+      "include_intro": true,
+      "target": "practitioner/10-adaptability.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ad-key-practitioner",
+      "source": "teaching/social/instructor-key.md",
+      "source_section": "CK-AD · Expected revised pack and enacted workflow",
+      "include_intro": false,
+      "target": "practitioner/10-adaptability.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ci-route-learner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Creativity and Innovation route card",
+      "include_intro": false,
+      "target": "learner/09-creativity-innovation.md",
+      "placement": "before_heading",
+      "heading_offset": 1,
+      "before_heading": "Case document 1 · The practice-card shelf"
+    },
+    {
+      "id": "ci-case-learner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CI · Design a clear choose-and-check display",
+      "include_intro": true,
+      "target": "learner/09-creativity-innovation.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ci-route-practitioner",
+      "source": "teaching/social/route-cards.md",
+      "source_section": "Creativity and Innovation route card",
+      "include_intro": false,
+      "target": "practitioner/11-creativity-innovation.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ci-case-practitioner",
+      "source": "teaching/social/learner-fresh-cases.md",
+      "source_section": "CK-CI · Design a clear choose-and-check display",
+      "include_intro": true,
+      "target": "practitioner/11-creativity-innovation.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ci-key-practitioner",
+      "source": "teaching/social/instructor-key.md",
+      "source_section": "CK-CI · Valid designs, fair trials and limited conclusions",
+      "include_intro": false,
+      "target": "practitioner/11-creativity-innovation.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "cohort-teaching-plans",
+      "source": "teaching/social/teaching-plans.md",
+      "target": "practitioner/14-delivery-and-review.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "digital-practice-setup",
+      "source": "teaching/digital-lab/setup.md",
+      "target": "practitioner/14-delivery-and-review.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "local-delivery-review",
+      "source": "teaching/social/delivery-and-local-review.md",
+      "target": "practitioner/14-delivery-and-review.md",
+      "placement": "append",
+      "heading_offset": 1
+    }
+  ]
+}

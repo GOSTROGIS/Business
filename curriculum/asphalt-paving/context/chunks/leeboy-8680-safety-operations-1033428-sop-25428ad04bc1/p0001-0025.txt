@@ -1,0 +1,1081 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf
+SOURCE SHA-256: 25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+Safety and Operations Manual
+
+
+
+
+LEEBOY MODEL 8680 COMMERCIAL PAVER
+        Manual No. 1033428-SOP
+             This manual applies to
+             Serial Number 365152
+                   and above.
+
+=== ORIGINAL PDF PAGE 2 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 3 ===
+Introduction
+
+                                                                                                SAFETY
+                                                                                         1
+Thank you for purchasing the LeeBoy 8680 Commercial
+Paver. We wish you many years of safe and efficient
+operation of your machine.                                          Contains general and specific safety guidelines
+                                                                             for product and safety label locations.
+READ THIS MANUAL PRIOR TO OPERATING the unit.
+This is an important part of the machine and should be
+                                                                          SPECIFICATIONS
+                                                                                         2
+kept in the dedicated storage container at all times.
+Though you may be familiar with similar equipment,                 Contains warranty, contact information, machine
+you MUST read and understand this manual before                     specification tables, and machine dimensions.
+operating this machine to help prevent injury or damage
+to the unit. If this manual becomes lost or damaged,
+                                                                            componentS
+contact your authorized LeeBoy Dealer immediately
+to order a replacement (see Contact Information in
+Section 2).                                                                              3
+                                                                            Contains overview of major component
+                                                                                           locations and functions.
+This manual is intended as a guide for the safe and
+                                                                             operation
+                                                                                         4
+efficient use for proper operation and maintenance
+of the machine. This manual contains information that
+                                                                        Contains instructions for safe operation and
+was available at the time of printing and are subject to
+                                                                                information for optional equipment.
+change without notice.
+Use this manual along with all related supplemental
+                                                                            maintenance
+books, engine and transmission manuals included
+with your machine. Related Service Bulletins should
+be reviewed to provide information regarding some of
+the recent changes. Contact your authorized LeeBoy
+                                                                                         5
+                                                                        Contains routine maintenance procedures,
+                                                                          mechanical adjustments, component re-
+                                                                           placement and troubleshooting charts.
+dealer for the latest available information.
+
+
+
+
+                             LeeBoy is proud to be ISO 9001 certified. The International Standards Organization
+                              (ISO) establishes guidelines to ensure that products and services are safe, reliable,
+                                and of good quality. ISO certifies companies who demonstrate compliance with all
+                                 aspects of product safety, customer satisfaction, efficiency, environmental
+                                  stewardship and social responsibility. Our teams work hard to deliver quality
+                                 industrial machines that exceed customer expectations and we strive for continuous
+                                improvement in everything we do. The LeeBoy family of companies is committed to
+                              total quality management with a strong focus on meeting customer needs.
+
+
+
+
+                             LeeBoy is also proud to be an accredited ANAB manufacturer, which is a certification
+                              process comprised of quality standards established by the American National
+                              Standards Institute (ANSI) and the American Society for Quality (ASQ). The ANSI-ASQ
+                              National Accreditation Board plays an important role in ensuring the safety and quality
+                             of goods and services, along with protecting the environment.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                           iii
+
+=== ORIGINAL PDF PAGE 4 ===
+﻿
+Legal Notices
+
+
+
+                                                   Disclaimer
+     All information, illustrations and specifications in this manual are based on the latest information available
+     at the time of publishing. The illustrations used in this manual are intended as representative reference
+     views only. Moreover, because of our continuous product improvement policy, we may modify information,
+     illustrations and/or specifications to explain and/or exemplify a product, service or maintenance
+     improvement. We reserve the right to make any change at any time without notice.
+
+
+
+
+                      Title 40, Code of Federal Regulations (CFR) 1068
+     This product meets certified-emission requirements set by the EPA (Environmental Protection Agency),
+     governed by Title 40 CFR 1068, which specifies actions that are prohibited by law and lists civil penalties
+     for noncompliance. As part of those regulations, modification or rendering inoperative any emission-
+     related component can subject you to government penalties (and void your warranty). Tampering with
+     emission controls is in violation of federal law, and can result in monetary penalties for each day an engine
+     or piece of equipment is operated in violation.
+     Please be aware that you are responsible for maintaining the machine and the certified emission engine
+     installation. Failure to comply to comply could result in penalties as listed above and void the warranty on
+     this engine and this machine.
+                    For more information, visit: https://www.epa.gov/laws-regulations/regulations
+
+
+
+
+                                  California Proposition 65 Warning
+     Diesel engine exhaust and some of its constituents are known to the State of California to cause cancer,
+     birth defects, and other reproductive harm.
+     Battery posts, terminals and other related accessories contain lead and lead compounds, chemicals
+     known to the State of California to cause cancer and other reproductive harm. Wash hands after handling.
+
+
+
+
+                                                  2026 LeeBoy
+     LeeBoy reserves all copyright and other rights in this manual and its content. No part of this manual may
+     be reproduced or used in any way without the written permission of LeeBoy, except as necessary to
+     operate LeeBoy equipment.
+
+
+
+
+iv                                                                                    LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 5 ===
+TABLE OF CONTENTS
+
+                                                                                                                                                             Page
+            Safety .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-1
+                       Safety Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-4
+                       Machine Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                  Hot Material Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                  Hydraulic Systems Precautions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-7
+                                  Refueling Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Battery Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-8
+                                  Starting and Stopping Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Parking Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Operating Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Poor Visibility .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-9
+                                  Storage Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-9
+                                  Maintenance Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-9
+                       Safety Decals.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-10
+                                  Safety Decal Locations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-10
+                                  Safety Decal Locations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-11
+                                  Safety Decals Care .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+                                  Decal Application .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+            Information and Specifications.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-1
+                       Two Year Limited Warranty.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-2
+                       Contact Information .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-3
+                       Specification Charts.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-4
+                       Torque Specifications .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-9
+                                  Standard Inch Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-9
+                                  Metric Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-10
+                                  Hydraulic Fittings .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-10
+                                  Determining Proper Torque .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-11
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                            v
+
+=== ORIGINAL PDF PAGE 6 ===
+Table of Contents
+﻿
+
+      Component Location .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-1
+               Components Overview.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-3
+                         Operator Platforms .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-4
+                         High-Speed Rubber Tracks .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-4
+                         Hydraulic System .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-4
+                         Electrical System .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-4
+                         Engine.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-5
+                         Screed .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-5
+                         Augers.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-6
+                         Hopper and Conveyors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-6
+               Machine Overview .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-7
+               Main Control Panel Overview.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-8
+               Control Panel with Steering Wheel Option .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-10
+                         Upper Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-12
+                         Lower Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-14
+                         Upper Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-16
+                         Lower Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-18
+               Junction Box Controls.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-20
+               Screed Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-21
+                         LEFT Screed Control Box - Left Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-22
+                         LEFT Screed Control Box - Right Keypad .  .  .  .  .  .  .  .  .  .  .  .  .  .                                                 3-24
+                         RIGHT Screed Control Box - Left Keypad .  .  .  .  .  .  .  .  .  .  .  .  .  .                                                 3-26
+                         RIGHT Screed Control Box - Right Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .  3-28
+                         LB5 Electric Heat Controls.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-30
+                         LB7 Electric Heat Controls [Option] .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                           3-32
+      Operation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-1
+               Receiving the Machine.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-3
+                         I n i t i al and Daily Inspection .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-3
+                         Hopper Lock Valves .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-4
+               Operator Platform Features .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-5
+                         Lockable Vandalism Covers.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-5
+                         Seat Adjustment and Operator Platform Pivot. . . . . . . . . . . . . 4-5
+               Start-Up Procedure.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-6
+               Diesel Exhaust Fluid (DEF) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-7
+               Main Control Panel Keypad Functions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-8
+                         Upper Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-9
+
+
+
+
+vi                                                                                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 7 ===
+Table of Contents
+                                                                                                                                                ﻿
+
+                           Upper Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-12
+                           Lower Left Keypad.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-15
+                           Lower Right Keypad .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-16
+                 Screed Control Box.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-18
+                           Left Keypad and Control Buttons.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-18
+                 DPF Regeneration (REGEN).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-23
+                 DM430 Digital Display.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-23
+                           Engine Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-24
+                           DM430 Engine Icons .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                   4-25
+                           Pave Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-33
+                           Pave Function Fault Codes.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-37
+                           Operator Settings Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-39
+                           Motor Settings Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-40
+                           DPF and Regeneration.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-41
+                           Parked Regeneration.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                   4-44
+                 Plus +1® Controllers .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-45
+                 Driving the 8680 Paver.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-45
+                           Steering and Speed Control .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-46
+                 Paver Operation .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-48
+                           Spray Down.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-48
+                           Hopper Wings .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-50
+                           Conveyors.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-51
+                           Augers and Sonic Auger Sensor.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-53
+                           Under Auger Material Cut-Offs .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-54
+                           Heating the Screed, Extensions and End Gates .  .  .  .  .  .  .  .  .  .  .                                                4-55
+                           LB5 and LB7 Screeds .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-56
+                           Horizontal Depth Screws .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                    4-58
+                           Hydraulic Tow Point Cylinders and Grade/Slope.   .   .   .   .   .   .   .   .   .   . 4-59
+                           Slope/Berm.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-60
+                           Basic Paving.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-62
+                           Setting the Crown.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-63
+                           Mat Texture Adjustment .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-64
+                 Unloading and Loading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-64
+                           Unloading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-65
+                           Loading.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-65
+                 Towing .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                           4-65
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                       vii
+
+=== ORIGINAL PDF PAGE 8 ===
+Table of Contents
+﻿
+
+                 Optional Components .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                            LB7 Screed .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-66
+                            Umbrella Option .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                            Screed Extension Vibration .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      4-66
+                            Screed Central-Point Lube System. . . . . . . . . . . . . . . . . . 4-66
+                            Single Point Conveyor Lube Kit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                            Steel Poly Tracks .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                4-66
+                            Steering Knob .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-66
+                            Steering Wheel .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                4-67
+                            20-Foot Paving Kit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                            Berm Extensions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                            High-Lift End Gate .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-67
+                            Extendable Push Roller .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                    4-67
+                            Truck Hitch .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                             4-68
+                            Topcon® Sonic and Dual Grade Control .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-68
+                            Track Plows .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-69
+                            Slope Meter .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-70
+                            Balloon Light.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-71
+                            Magnetic Cup Holder .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-71
+       Maintenance .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-1
+                 Maintenance Schedule.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-5
+                 Accessing Components .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-6
+                            Raise and Lower Engine Hood.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-6
+                 Routine Maintenance.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-7
+                            Prepare Paver for Maintenance.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-7
+                            Every 10 Hours or Daily Routine Maintenance .   .   .   .   .   .   .   .   .   .   .   .   . 5-7
+                            Every 50 Hours or Weekly Routine Maintenance .   .   .   .   .   .   .   .   .   .   .  5-8
+                            Every 100 Hours or Monthly Maintenance .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-8
+                            Every 250 Hours or Quarterly Routine Maintenance .   .   .   .   .   .   .   .   .   . 5-8
+                            Every 500 Hours or Semi-Annual Routine Maintenance .  .  .  .  .  .  .  . 5-8
+                            Every 1000 Hours or Annual Routine Maintenance.   .   .   .   .   .   .   .   .   .   . 5-8
+                            Every 1500 Hours .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-8
+                            Every 3000 Hours .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-8
+                 Lubrication.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-9
+                            Lubrication Points Chart .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-9
+                            Torque Hub Lubrication .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-13
+
+
+
+
+viii                                                                                                                                        LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 9 ===
+Table of Contents
+                                                                                                                                                     ﻿
+
+             Maintenance Adjustments .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-14
+                       Conveyor Flight Chains .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-14
+                       Conveyor Drive Chains.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-15
+                       Auger Drive Chain.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-15
+             Engine Maintenance .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-16
+                       Check Engine Lubrication Oil .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-17
+                       Change Engine Oil and Filter.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-17
+                       Change Air Filter.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-18
+                       Engine Drive Belt .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-19
+                       Change Oil Separator Element.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-19
+                       Selective Catalytic Reduction (SCR) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-20
+                       DEF (Diesel Exhaust Fluid).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-20
+                       DEF Storage.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-21
+                       DPF Service.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-21
+             Cooling System .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-22
+                       Replace Radiator Hoses .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-22
+             Fuel System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-23
+                       Fuel Tank .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-23
+                       Change Fuel Filter .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-23
+                       Fuel Water Separator.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                  5-24
+             Hydraulic System .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                5-24
+                       Check Hydraulic Oil .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-24
+                       Change Hydraulic Oil and Filters .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-25
+             Electrical System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-26
+                       Battery Servicing.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-26
+                       Alternator .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-27
+                       Adjust Generator Belt.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-27
+                       Fuse Panel.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-28
+             Electric Heat Control Box.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-28
+                       Heating Elements .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-30
+                       Element Resistance Testing .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-30
+                       Generator Speed Check.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-31
+                       Generator Voltage Testing.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-31
+                       Dielectric Grease.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                               5-32
+             Drive System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-33
+                       High-Speed Rubber Tracks .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-34
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                   ix
+
+=== ORIGINAL PDF PAGE 10 ===
+Table of Contents
+﻿
+
+                  Track Tension Cylinder .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                  5-35
+                  Oscillating Bogies .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-35
+                  Front Idler.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-36
+                  Two-Speed Hydraulic Motors.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                        5-36
+                  Planetary Torque Hub.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-37
+        Replacement Procedures .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-38
+                  Hydraulic Pump/Motor Start-Up .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-39
+                  Rear Conveyor Shaft, Bearings and Sprockets .   .   .   .   .   .   .   .   .   .   .   .  5-40
+                  Conveyor Drive Motors. . . . . . . . . . . . . . . . . . . . . . . . 5-41
+                  Front Hopper Wing Cylinders .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      5-42
+                  Rear Hopper Wing Cylinders.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-42
+                  Auger Motors .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-43
+                  Auger End Mounts.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-44
+                  Auger Inner Bearings .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                 5-44
+                  Main Screed Wear Plate.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-45
+                  Screed Extension Heat Box .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-47
+        Winterizing for Storage.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-49
+        Troubleshooting .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-50
+                  Hydraulic Pressure .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                5-50
+                  Track Tension Pressure Relief.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-50
+                  Spray Down Pump.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-51
+                  Conveyor Chain Tension Slack Adjustment.   .   .   .   .   .   .   .   .   .   .   .   .   .  5-52
+        Troubleshooting Chart .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-53
+        Display Diagnostic Trouble Code (DTC) Chart.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-57
+
+
+
+
+x                                                                                                                           LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 11 ===
+Section 1
+                                                                       SAFETY
+                                                                                                                                                             Page
+            Safety .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-1
+                       Safety Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-4
+                       Machine Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                  Hot Material Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                  Hydraulic Systems Precautions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-7
+                                  Refueling Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Battery Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-8
+                                  Starting and Stopping Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Parking Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Operating Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                  Poor Visibility .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-9
+                                  Storage Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-9
+                                  Maintenance Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-9
+                       Safety Decals.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-10
+                                  Safety Decal Locations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-10
+                                  Safety Decal Locations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-11
+                                  Safety Decals Care .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+                                  Decal Application .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                            1-1
+
+=== ORIGINAL PDF PAGE 12 ===
+Safety
+
+         NOTES
+
+
+
+
+1-2              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 13 ===
+Safety
+
+This manual provides important information to familiarize      LOOK FOR THESE SYMBOLS THROUGHOUT
+you with safe operating and maintenance procedures.           THIS MANUAL. THESE ITEMS ARE EXTREMELY
+Even though you may be familiar with similar equipment,        IMPORTANT FOR THE SAFETY OF YOU AND
+read and understand this manual before operating the          YOUR COWORKERS. READ AND UNDERSTAND
+LeeBoy Model 8680 Commercial Paver and follow its              THOROUGHLY. HEED THE WARNINGS AND
+
+
+                                                                                                                       1
+instructions when operating the machine.                             FOLLOW THE INSTRUCTIONS.
+Safety is everyone’s business and our top concern.
+Knowing the guidelines covered in this section will help
+                                                                            Indicates a hazardous situation which,
+ensure your safety, the safety of those around you, as
+                                                            if not avoided, will result in death or serious injury.
+well as proper paver operation.
+Keep safety labels in good condition. If safety labels
+become missing or damaged, replace them with                                Indicates a hazardous situation which,
+new matching labels. Replacement safety labels are          if not avoided, could result in death or serious injury.
+available from your LeeBoy authorized dealer (see
+contact information in Section 2).
+                                                                            Indicates a hazardous situation which,
+                                                            if not avoided, could result in minor or moderate
+You can find more information about occupational health     injury.
+and safety in the paving industry on the internet. A few
+resources are listed below:
+                     www.osha.gov                                         Indicates a situation which can cause
+                                                            damage to the equipment, personal property and/
+                        cdc.gov                             or the environment, or cause the machine to operate
+              www.asphaltpavement.org                       improperly.
+               www.safety.fhwa.dot.gov/
+                                                            NOTE: Indicates a procedure, practice or condition
+                                                                  that should be followed in order for the
+                                                                  machine or component to function in the
+                                                                  manner intended.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                     1-3
+
+=== ORIGINAL PDF PAGE 14 ===
+Safety
+
+Safety Precautions
+                                                              The safety messages that follow have DANGER level
+                                                                                  hazards.
+
+The safety messages that follow have CAUTION level
+                    hazards.                                               Power Lines Hazard
+                                                              If your machine comes into contact with electric power
+                                                              lines, observe the following:
+                  Pre-Operation Hazard
+                                                              • Stay in the operators seat.
+         Read and understand this Operation Manual
+         before operating or servicing the engine to          • Warn other workers to stay away and do not touch any
+ensure that safe operating practices and maintenance            control or any part of the machine.
+procedures are followed.                                      • If contact can be broken, drive the machine away from
+• Never permit anyone to service or operate the                 the danger zone.
+  machine without proper training.                            • If contact cannot be broken, stay in the operators seat
+• Safety signs and labels are additional reminders for          until told that power is off.
+  safe operating and maintenance techniques.                  • Failure to observe these directions could result in
+• Contact LeeBoy or an authorized LeeBoy dealer for             electrocution or death.
+  additional training.
+• Make sure you are aware of all laws and regulations                      Electrocution Hazard
+  that are in effect for the location in which the paver is
+  operated.                                                   Disconnect the battery before welding anywhere on the
+                                                              machine.
+• Make sure you have all necessary licenses to operate
+  the paver.                                                                Suffocation Hazard
+• Never operate a unit in need of repair.                                Carbon monoxide poisoning is a serious
+• Ensure all covers are installed.                                       condition that occurs as a result of improper
+                                                                         ventilation.
+                                                              • Never operate the internal combustion engine on this
+             Poor Lighting Hazard                               machine in an enclosed area with poor ventilation.
+The work area must be well lit to ensure safe and proper        Ensure proper ventilation to reduce risk of carbon
+operation.                                                      monoxide poisoning or death.
+
+• Ensure that the work area is adequately illuminated.
+• Always install wire cages on portable safety lights.                         Exhaust Hazard
+                                                                          All internal combustion engines create
+                                                                          carbon monoxide gas during operation and
+                     Tool Hazard                                          special precautions are required to avoid
+          Always use tools appropriate for the task                       carbon monoxide poisoning:
+          at hand and use the correct size tool for           • Never block windows, vents or other means of
+          loosening or tightening LeeBoy machine parts.         ventilation.
+                                                              • Always ensure that all connections are tightened to
+                                                                specifications after repair is made to the exhaust
+                                                                system.
+
+
+
+
+1-4                                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 15 ===
+Safety
+
+                                                                     Fire and Explosion Hazard
+                                                            • Diesel fuel is flammable and explosive under certain
+   The safety messages that follow have WARNING               conditions.
+                   level hazards.
+                                                            • Never use a shop rag to catch fuel.
+
+
+                  Crush Hazard
+Keep bystanders away from work area before and
+                                                            • Wipe up all spills immediately.
+                                                            • Never refuel with the engine running.                        1
+                                                            • Store any containers containing fuel in a well-
+during operation.                                             ventilated area, away from any combustibles or
+                                                              sources of ignition.
+
+             Modification Hazard                                                Fire Hazard
+Never modify the LeeBoy machine without the written                     When operating machinery there is a risk for
+consent of LeeBoy. Any modification can affect the safe                 fire. Always have appropriate safety
+operation of the paver and may cause personal injury or                 equipment available.
+death.                                                      • Keep a charged fire extinguisher within reach when
+                                                              working in an environment where a fire may occur.
+                                                            • Have all fire extinguishers checked periodically for
+                Exposure Hazard                               proper operation and/or readiness.
+
+           Operators of the paver must be aware of          • Always read and follow safety-related precautions
+           their work environment and the equipment           found on containers of hazardous substances
+           needed to work safely.                             like parts cleaners, primers, sealants and sealant
+                                                              removers.
+                                                            • Undersized wiring systems can cause electrical fires.
+• Always wear personal protective equipment, including
+  appropriate clothing, gloves, work shoes, and
+  protection for eyes and ears, as required by the task             Entanglement/Sever Hazard
+  at hand.
+                                                                         Verify there are no people, obstacles or
+                                                                         other equipment near the machine before
+               Explosion Hazard                                          starting the engine. Sound the horn as a
+                                                                         warning before starting the engine.
+            While the engine is running or the battery is
+            charging, hydrogen gas is being produced                     If the engine must be serviced while it is
+            and can be easily ignited. Keep the area                     operating, remove all jewelry and tie back
+            around the battery well-ventilated and keep                  long hair before operating or servicing the
+            sparks, open flame, and any other form of                    machine.
+            ignition out of the area.
+                                                            • Keep hands, other body parts, and clothing away from
+• Always disconnect the negative (-) battery cable            moving/rotating parts.
+  before servicing the paver.
+                                                            • Always stop the engine before beginning service.
+• Do not start the engine by shorting the starter circuit     Before maintenance, remove negative battery cable
+  or any other starting method not stated in this manual.     from battery post to ensure vehicle is not operated
+  Only use the starting procedure as described in this        during maintenance.
+  manual to start the engine.
+                                                            • Verify that all guards and covers are properly attached
+• Never charge a frozen battery. Always slowly warm the       before starting the engine. Do not start the engine if
+  battery to room temperature before charging.                any guards or covers are not properly installed on the
+                                                              paver.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                         1-5
+
+=== ORIGINAL PDF PAGE 16 ===
+Safety
+
+• If you must run the engine during maintenance                             Flying Object Hazard
+  procedures, make sure you have a helper to keep
+  bystanders clear of the paver and make observations                      Always wear eye protection when cleaning
+  of moving parts as requested by the operator.                            the machine with compressed air or high-
+                                                                           pressure water.
+• Always turn the start switch to the OFF position after
+  operation is complete and remove the key from the                        Dust, flying debris, compressed air,
+  switch. Keep the key in your possession when the                         pressurized water or steam may cause eye
+  paver is not operating.                                                  injury.
+
+• Attach a “Do Not Operate” tag near the key switch                             Coolant Hazard
+  while performing maintenance on the equipment.
+                                                                           Coolant must be handled properly to ensure
+• Never operate the engine while wearing a headset to                      operator safety.
+  listen to a radio or music because it will be difficult to
+  hear the warning signals.                                    • Wear eye protection and rubber gloves when handling
+                                                                 engine coolant.
+• Always start the engine and operate the controls while
+  seated in the operators seat.                                • If contact with the eyes occurs, flush eyes with clean
+                                                                 water for 15 minutes.
+                                                               • If contact with skin occurs, wash immediately with
+          Alcohol and Drug Hazard                                soap and clean water.
+
+             Never operate the machine while under the
+             influence of alcohol, drugs, or when ill.                            Burn Hazard
+                                                                            Some of the machine’s surfaces become
+                                                                            very hot during operation and shortly after
+                 Piercing Hazard
+                                                                            shutdown.
+           High-pressure hydraulic fluid or fuel can           • Keep hands and other body parts away from hot
+           penetrate your skin and result in serious             machine surfaces.
+           injury. Avoid skin contact with high-pressure
+           hydraulic fluid or diesel fuel spray caused by      • Handle hot components with heat-resistant gloves.
+           a hydraulic or fuel system leak such as a
+broken hydraulic hose, fuel injection or high-pressure,
+common-rail engine line.
+If you are exposed to high-pressure hydraulic fluid or
+fuel spray, obtain prompt medical treatment.
+• Never check for a hydraulic fluid or fuel leak with your
+  hands. Always use a piece of wood or cardboard.
+  Have your authorized LeeBoy dealer or distributor
+  repair the damaged parts.
+
+
+
+
+1-6                                                                                    LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 17 ===
+Safety
+
+                                                             Machine Precautions
+ The safety messages that follow have NOTICE level           Hot Material Precautions
+                    hazards.                                 • Wear protective gear for face, hands, feet, and body
+
+
+                                                                                                                            1
+                                                               when operating the paver.
+• Any part that is found defective as a result of            • Allow machine to cool before repairing or maintaining
+  inspection or any part whose measured value does             working components.
+  not satisfy the standard or limit must be replaced.        • If hot asphalt touches skin, flush area immediately with
+• Always tighten components to the specified torque.           cold water. DO NOT apply ice to the affected area.
+  Loose parts can cause damage to the machine or               DO NOT ATTEMPT TO REMOVE ASPHALT CEMENT
+  cause it to operate improperly.                              with products containing solvents or ammonia.
+                                                               Natural separation will occur in about 48 to 72 hours.
+• Only use replacement parts approved by LeeBoy.
+                                                               Get medical attention as soon as possible.
+  Other replacement parts may affect warranty
+  coverage.                                                  • DO NOT remove radiator cap, drain plugs, service
+                                                               grease fittings, or pressure taps while engine is hot.
+              Follow the guidelines of the EPA or other
+                                                               Add coolant to the radiator and perform other services
+              governmental agencies for the proper
+                                                               only when the engine is stopped and fully cooled.
+              disposal of hazardous materials such as
+              oils, diesel fuel, coolant, etc. Consult the
+              local authorities or reclamation facility.
+                                                             Hydraulic Systems Precautions
+• Dispose of hazardous materials in accordance with
+  all applicable laws and regulations. Never dispose of      • Ensure all components are in good working condition.
+  hazardous materials by dumping them into a sewer, on         Replace any worn, cut, abraded, flattened or crimped
+  the ground, or into groundwater or waterways.                hoses and metal lines.
+• Clean all accumulated dirt and debris away from the        • DO NOT attempt makeshift repairs using tape, clamps
+  body of the paver and its components before you              or cements. The hydraulic system operates under
+  inspect the paver or perform preventive maintenance          extremely high pressure and such repairs could
+  procedures or repairs. Operating a paver with                cause serious injury.
+  accumulated dirt and debris will cause premature           • Wear proper hand and eye protection when checking
+  wear of paver components. Accumulated dirt and               for a high pressure leak. Use a piece of wood or
+  debris also hinders effective paver inspection.              cardboard as a back stop to isolate and identify leaks.
+• Retrieve any tools or parts that may have dropped
+                                                                            Hydraulic oil under pressure can
+  inside of the paver to avoid improper paver operation.
+                                                             cause serious personal injury. Check for oil leaks
+• If any alert indicator illuminates during paver            with a piece of cardboard. DO NOT expose hands to
+  operation, stop the engine immediately. Determine          possible high-pressure oil. Turn off engine before
+  the cause and repair the problem before continuing to      attempting to tighten oil lines and fittings.
+  operate the paver.
+                                                             • Escaping pressurized hydraulic fluid has force
+                                                               sufficient to penetrate the skin, which could cause
+                                                               serious personal injury. Ensure all pressure is
+                                                               relieved before disconnecting line, hoses or valves.
+                                                             • If injury from concentrated high pressure steam
+                                                               or hydraulic fluid occurs, seek medical attention
+                                                               immediately. Injuries resulting from hydraulic fluid
+                                                               penetrating the skin’s surface can result in serious
+                                                               infections or toxic reactions.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                          1-7
+
+=== ORIGINAL PDF PAGE 18 ===
+Safety
+
+Refueling Precautions                                         • DO NOT bypass the paver neutral-start system.
+
+• Do NOT overfill the fuel tank as overflow creates a fire    • Be aware of job site conditions and terrain. Adjust
+  hazard when spilled on hot components.                        your speed if operating in rough or hilly conditions.
+
+• DO NOT smoke when refueling and never refuel when                        DO NOT operate the engine in an
+  the engine is running. Fuel is highly flammable and         enclosed area without proper ventilation. Exhaust
+  should be handled with care. Death or serious injury        gasses are odorless and deadly.
+  can occur due to explosion and/or fire.
+• DO NOT fill tank to capacity. Allow room for expansion
+  to reduce the risk of fuel expanding and spilling from
+                                                              Parking Precautions
+  the tank.                                                   • Park paver on level ground whenever possible, set
+• Tighten fuel cap securely. Should fuel cap be lost,           steering levers in neutral and lock. Apply the parking
+  replace it with an original manufacturer’s approved           brake. Park the paver with wheels securely blocked
+  cap. Pressurization of the tank may result from use of        on grades.
+  non-approved cap.                                           • Remove ignition key when leaving paver parked or
+• Prevent fires by keeping the machine clean of                 unattended.
+  accumulated debris, grease, and spilled fuel.
+• Use ultra-low sulfur diesel fuel (ULSD) only.
+                                                              Operating Precautions
+                                                              • Always comply with local regulations regarding
+Battery Precautions                                             moving equipment on public roads and highways.
+
+• Keep all sparks and flames away from batteries, as          • Know and use the hand signals required for a
+  gas given off by electrolytes is explosive.                   particular job. Know who has the responsibility for
+                                                                signaling.
+• Acid propelled by an explosion can cause blindness
+  if it comes in contact with eyes. Always wear safety        • Make sure that all lights and reflectors comply with
+  glasses when working near batteries.                          state and local regulations. Make sure that they are
+                                                                clean, in good working order, and can be seen clearly
+• If you come in contact with battery electrolyte solution,     by all traffic.
+  wash off immediately. Chemicals can cause burns.
+                                                              • DO NOT stand between the equipment and the truck
+• Always disconnect the battery ground cable before             while the truck is being backed to the paver. Death or
+  working on the electrical system to avoid injury from         serious injury can result from being crushed between
+  spark or short circuit. Electrical shock and burns can        the two machines.
+  occur.
+                                                              • DO NOT ride on attachments.
+• To avoid electrolyte loss, DO NOT tip batteries more
+  than 45 degrees.                                            • Check all gauges and warning instruments for proper
+                                                                operation. If malfunctions are found, shut down the
+                                                                machine and report the problem for resolution. If the
+                                                                failure causes loss of steering control, loss of brake
+Starting and Stopping                                           control, or loss of engine power, stop paver motion as
+Precautions                                                     quickly as possible. Apply parking brake (if equipped).
+                                                                Keep the machine securely parked until the failure is
+• Check all around the paver to make sure there are no          corrected or the machine can be safely towed.
+  people working on the machine or in the path of the
+  machine before starting. DO NOT start until area is         • Drive the machine with care. Make sure speed is
+  clear. Death or serious injury can occur to bystanders        compatible with conditions. Use caution on rough
+  from being crushed under a moving machine.                    ground, slopes, and while turning.
+• Check brakes, steering and other control devices in         • Be alert for hazards and obstructions such as ditches,
+  accordance with instructions before starting. Be sure         trees, cliffs, overhead power lines, and areas where
+  both steering levers (joysticks) are in neutral with the      there is danger of a slide.
+  neutral lock engaged.
+
+
+1-8                                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 19 ===
+Safety
+
+• Be aware of and understand the job site traffic flow       Storage Precautions
+  patterns.
+                                                             • Store paver in an area away from human activity.
+• Obey flagmen, road signs, and signals.
+                                                             • DO NOT permit children to play on or around the
+• Watch for bystanders. Never allow anyone near the            stored machine. Serious injury or death can occur
+
+
+                                                                                                                           1
+  machine during operation. Never allow anyone to              from improper/unauthorized use of the machine.
+  reach into the machine during use.
+                                                             • Make sure the unit is stored on a surface that is firm,
+• Operator must know how to use signaling devices              level, and free of debris.
+  when driving the paver. Operator must also
+  understand which circumstances require use of each         • Store the machine inside a building or cover securely
+  signal. Use tail lights, slow moving vehicle signs, and      with a weatherproof tarpaulin.
+  warning beacon as needed when traveling on public
+  roads. It is recommended that you provide an escort
+  on the road.                                               Maintenance Precautions
+• DO NOT tow the paver, except to remove from road or        • DO NOT attempt repairs unless trained to do so.
+  to load on trailer.                                          Refer to manuals and experienced repair personnel
+• The machine is shipped with two seats, one for the left      for help.
+  side operation and one for the right side operation. It    • Before working on the machine, securely block the
+  is recommended that you operate the paver from the           machine and any components that may fall. Block
+  seats. If for any reason the seats are removed, care         any working components to prevent unexpected
+  must be taken to operate from a position with stable         movement while repairs are being made.
+  footing and use of the grab handles provided.
+                                                             • Always wear safety glasses and other required safety
+• When moving the machine, adjust speed and direction          equipment when servicing or making repairs.
+  of travel for the terrain and ground conditions present.
+  Always consider adjusting travel speed to match            • Disconnect battery before working on the electrical
+  ground conditions.                                           system.
+                                                             • Avoid lubrication or mechanical adjustments while the
+                                                               paver is in motion or while engine is operating.
+Poor Visibility                                              • If lubrication or mechanical adjustment is necessary,
+Increasingly, asphalt maintenance equipment is used            use extreme caution and complete the following
+during less than ideal lighting conditions such as fog         steps:
+and smog or at night. These conditions present safety         1.   Place all four joysticks in NEUTRAL (center
+hazards for workers, bystanders and passing traffic.               position) on both control panels. This engages the
+              When operating under restricted light                brake.
+conditions, equip the machine with special lighting to        2.   Lower screed to the ground.
+prevent serious injury.
+                                                              3. Shut off engine.
+While the machine is equipped with a beacon and a
+                                                             • Never make repairs on pressurized components such
+work light, contact your authorized LeeBoy dealer for
+                                                               as fluid lines, the gas system, or mechanical items until
+additional lighting packages if working under these
+                                                               the pressure has been relieved.
+conditions.
+                                                             • When servicing or replacing hardened pins, use a
+Use reflective tape on the sides of machines when
+                                                               brass drift or other suitable material between the
+working at night. Ensure all workers wear reflective
+                                                               hammer and pin.
+safety vests. Use impact barriers (movable or
+stationary) to protect workers and direct the traffic flow   • Keep brake and steering systems in good operating
+safely away from the work site.                                condition.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                         1-9
+
+=== ORIGINAL PDF PAGE 20 ===
+Safety
+
+Safety Decals
+If your machine is repainted, it is extremely important           NOTE: It is the responsibility of the owner and
+that you replace all the CAUTION, WARNING and                     operator to make sure that all safety labels are
+DANGER safety decals as shown in the following                    readable and located on the paver as designated by
+graphics. For additional help, refer to the parts listing in      LeeBoy.
+Section 7 and contact your authorized LeeBoy dealer to
+order a replacement kit.
+
+
+
+                                        Safety Decal Locations
+
+                  Part # 1010091
+
+
+                                                          Part # 856444
+
+
+
+
+                                                                                            Part # 856441
+
+                                                                Both Sides
+
+
+
+
+                                                                                                  Both Sides
+
+
+
+
+                                                                                 Part # 39166-2
+                                  Part # 1010489
+
+
+                                             Both Sides
+                          Part # 859773
+
+
+
+                                         Both Sides                                  Both Sides
+
+
+
+
+1-10                                                                                  LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 21 ===
+Safety
+
+
+                                    Safety Decal Locations
+
+                                    Part # 1005474
+
+
+                                                                                                      1
+                                     Part # 856639
+
+                                                     Part # 856437
+         Part # 856482
+                                                                          Part # 859764
+
+
+                                                                             Both Sides
+
+
+                                                             Both Sides
+
+
+
+
+                                                                               Part # 856441
+             Both Sides
+
+
+        Part # 859789                                    Both Sides
+
+
+
+                          Part # 856483
+
+                                                                              Both Sides
+
+
+                          Part # 856484              Part # 859801
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                   1-11
+
+=== ORIGINAL PDF PAGE 22 ===
+Safety
+
+Safety Decals Care                                                Decal Application
+1.     Keep safety decals and signs clean and legible at all      Be sure that the installation area is clean and dry. Use
+       times.                                                     hot, soapy water to clean the surface where the decal
+                                                                  will be applied.
+2.     Be familiar with the content and position of each
+       safety decal. Decals include important information.        1.   Thoroughly dry the surface.
+3. Replace decals and signs that are missing or                   2.   Measure and fit decal before removing the paper
+   become impossible to read.                                          backing.
+4.     When replacing parts that display a safety decal,          3. For decals with no top protection paper, remove the
+       ensure that the new part is fitted with a decal as well.      smallest split-backed paper.
+5.     Obtain replacement safety decals or signs from             4.   Align decal over the specified area and carefully
+       your authorized dealer.                                         press exposed portion into place.
+                                                                  5.   Slowly remove the remaining backing and carefully
+                                                                       smooth the remaining portion of the decal into
+                                                                       place.
+                                                                  6. Small air pockets can be pierced with a pin and
+                                                                     smoothed using a piece of the decal backing.
+
+
+
+
+1-12                                                                                      LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 23 ===
+Section 2
+          INFORMATION AND SPECIFICATIONS
+                                                                                                                                                      Page
+                                                                                                                                                                       2
+            Information and Specifications.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-1
+                     Two Year Limited Warranty.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-2
+                     Contact Information .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-3
+                     Specification Charts.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-4
+                     Torque Specifications .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-9
+                               Standard Inch Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-9
+                               Metric Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-10
+                               Hydraulic Fittings .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-10
+                               Determining Proper Torque .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-11
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                                                                     2-1
+
+=== ORIGINAL PDF PAGE 24 ===
+Information and Specifications
+
+
+
+                                                       TWO YEAR LIMITED WARRANTY
+
+Limited Warranty                                                         Exclusions and Limitations
+If a manufacturing defect in factory supplied materials or factory       LeeBoy has no obligation under this warranty for any defects or
+workmanship is found and the authorized LeeBoy dealer (“Dealer”)
+                                                                         failures caused by:
+is notified during the warranty period, LeeBoy will be responsible for
+repairing or replacing any part or component of the unit or part that    • Misuse, misapplication, negligence, accident or failure to maintain
+fails to conform to the warranty during the warranty period.               or use in accordance with the most current operating instructions;
+                                                                         • Unauthorized alterations or modifications;
+                                                                         • Any replacement parts or attachments not manufactured by or
+Terms and Conditions                                                       expressly approved by LeeBoy;
+The warranty applies for a period of two years (for unlimited hours of   • Failure to conduct normal maintenance and operating service,
+usage on the unit during the two years), beginning on the date that        including without limitation, providing lubricants, coolant, fuel, tune-
+the Dealer from which the unit is purchased submits the warranty           ups, inspections or adjustments; or
+registration form to LeeBoy (typically on the date of purchase).
+                                                                         • Unreasonable delay, as determined by LeeBoy, in making the
+• The warranty is transferable.                                            applicable units or parts available upon notification of a service
+                                                                           notice ordered by LeeBoy.
+• LeeBoy has the right to repair any component or part before
+  replacing it with a new one.                                           LeeBoy is not responsible for any of the following:
+• Replacement parts furnished by LeeBoy are covered for the              • Defects or failures with respect to any engine or truck chassis;
+  remainder of the warranty period applicable to the unit or
+  component in which such parts are installed.                           • Defects or failures covered by a warranty provided by a third-party,
+                                                                           including without limitation warranties with respect to engines or
+• All new replacement parts purchased from a Dealer will carry a           truck chassis;
+  six (6) month warranty.
+                                                                         • Costs related to travel time, mileage or overtime;
+                                                                         • Costs related to transporting the unit to and from the place at which
+                                                                           warranty work is performed;
+                                                                         • Airfreight charges related to transporting repair parts to the place at
+                                                                           which warranty work is performed;
+                                                                         • Used units or used parts of any kind;
+                                                                         • Repairs due to normal wear and tear, or brought about by abuse
+                                                                           or lack of maintenance of the equipment, except for premature
+                                                                           failures;
+                                                                         • Attachments not manufactured or installed by LeeBoy; or
+
+                                                                         • Miscellaneous charges.
+
+
+
+                         Exclusion of Other Warranties/Limitation of Liability
+OTHER THAN THE EXPRESS WARRANTY PROVIDED IN SECTION A. ABOVE, LEEBOY GIVES NO EXPRESS, STATUTORY, OR
+IMPLIED WARRANTY OR GUARANTEE AND HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION ANY
+IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SUITABILITY, DURABILITY, CONDITION,
+QUALITY, OR FREEDOM FROM CLAIMS OF ANY PERSON BY WAY OF INTERFERENCE, INFRINGEMENT, OR THE LIKE.
+IN NO EVENT OR UNDER ANY THEORY OF RECOVERY, WHETHER AS A RESULT OF BREACH OF CONTRACT OR WARRANTY,
+ALLEGED NEGLIGENCE, OR LIABILITY WITHOUT FAULT, SHALL LEEBOY BE LIABLE FOR ANY SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF THE SALE, USE, OR LOSS OF USE OF ANY PRODUCT, INCLUDING WITHOUT
+LIMITATION LOST PROFITS OR REVENUES, COST OF CAPITAL, COST OF SUBSTITUTED EQUIPMENT, FACILITIES OR SERVICES,
+DOWNTIME COSTS, LABOR COSTS, OR DIMINUTION OF VALUE.
+
+
+
+
+2-2                                                                                                      LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 25 ===
+Information and Specifications
+
+CONTACT INFORMATION
+For information regarding parts and repairs about             Record dealer information in the space provided.
+your LeeBoy product, contact your authorized LeeBoy           For additional information about LeeBoy, please visit:
+dealer. If your dealer is unable to resolve the problem,      www.leeboy.com.
+contact LeeBoy directly.
+
+
+
+                 Sales Representative:
+                 Dealership Name:
+                 Dealership Address:
+                 Dealership Phone:                                                                                           2
+Record of Ownership
+Please complete the following information for use if you need to contact LeeBoy for service, parts or literature.
+
+
+                 Machine Model Number:
+                 Product Serial Number:
+                 Date of Purchase:
+
+Nameplate
+The nameplate contains the model and serial numbers used to identify the machine and its components for parts or
+service information. Refer to the Engine Operator’s Manual for the location of the engine nameplate.
+
+
+
+
+                                             Figure 2-1. Nameplate Location
+
+LeeBoy 8680 Commercial Paver                                                                                           2-3
+

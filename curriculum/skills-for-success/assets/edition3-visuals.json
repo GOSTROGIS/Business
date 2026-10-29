@@ -1,0 +1,54 @@
+{
+  "edition": 3,
+  "status": "placement handoff; original editable teaching diagrams",
+  "visuals": [
+    {
+      "file": "assets/diagrams/edition3-fractions-regrouping.svg",
+      "chapter": "teaching/foundations/numeracy-entry-bridge.md",
+      "after_heading": "Regroup one whole before subtracting",
+      "caption": "Equivalent parts make addition and regrouping visible.",
+      "alt": "A fraction-strip guide shows three eighths becoming six sixteenths, then adding five sixteenths to make eleven sixteenths. A second worked example regroups four and one eighth as three and eighteen sixteenths, subtracts two and three sixteenths, and checks one and fifteen sixteenths by addition."
+    },
+    {
+      "file": "assets/diagrams/edition3-learner-route.svg",
+      "chapter": "learner/00-start-here.md",
+      "after_heading": "Use a chapter in a practical way",
+      "caption": "Start with a task, choose useful practice, and check the skill with a fresh example.",
+      "alt": "A starting task branches to foundation practice or the core task. Both paths lead to a fresh check, then a next step: practise a part, use the skill again, or transfer it to another task."
+    },
+    {
+      "file": "assets/diagrams/edition3-prediction-trial-cycle.svg",
+      "chapter": "learner/05-problem-solving.md",
+      "after_heading": "Put a chosen change into practice",
+      "caption": "A prediction becomes useful evidence through a small trial, clear observations and a next decision.",
+      "alt": "The cycle moves from predict to try to observe to decide, then returns for another trial. An example separates an observed action, opening two folders, from a possible explanation that a label was hard to find."
+    },
+    {
+      "file": "assets/diagrams/edition3-quantity-check.svg",
+      "chapter": "teaching/foundations/numeracy-entry-bridge.md",
+      "after_heading": "Reconnect the arithmetic to a task",
+      "caption": "Follow a quantity from the target through stock, whole packs, cost and a final check.",
+      "alt": "The worked example needs nineteen labels for eight practice kits and three spares. Six are available, leaving thirteen needed. Three packs of five cost six dollars and sixty cents, bringing final stock to twenty-one, two above the target. A separate blank record provides space for another agreed example."
+    },
+    {
+      "file": "assets/diagrams/edition3-road-cross-section.svg",
+      "chapter": "../asphalt-paving/line-a/05-road-documents.md",
+      "after_heading": "Read three views of the same place",
+      "caption": "A conceptual cross-section connects the road layers and an open-ditch edge.",
+      "alt": "A conceptual road cross-section labels the asphalt course, aggregate base, prepared subgrade, crown, shoulder and open ditch. Arrows show surface-water direction qualitatively. Layer depths are exaggerated; no design dimensions or crossfall values are supplied."
+    },
+    {
+      "file": "assets/diagrams/edition3-material-flow.svg",
+      "chapter": "../asphalt-paving/line-a/03-technology.md",
+      "after_heading": "Follow the material through the system.",
+      "caption": "Follow materials through a plant route and distinguish two recycling routes.",
+      "alt": "Processed aggregate from a pit or quarry and asphalt binder enter a batch or drum plant. The mixture is hauled, placed with a paver and screed, then compacted with rollers. A separate return branch takes reclaimed asphalt pavement to a plant where used. Hot-in-place work is shown separately on existing pavement."
+    }
+  ],
+  "validation": {
+    "fraction_addition": "3/8 + 5/16 = 11/16",
+    "regrouping": "4 1/8 \u2212 2 3/16 = 1 15/16; inverse sum equals 4 1/8",
+    "quantity": "8*2+3=19;19-6=13;ceil(13/5)=3;3*2.20=6.60;6+15=21;21-19=2",
+    "technical": "Conceptual road relationships only; no operational settings, dimensions or acceptance thresholds."
+  }
+}

@@ -10,12 +10,13 @@ The cases in this chapter concern a **fictional training centre in B.C.** All na
 
 <!-- visual:foundation-digital-map--learner-04 -->
 <figure class="teaching-figure diagram" data-visual="foundation-digital-map--learner-04">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-map.svg" alt="Digital has six connected components: use digital devices; use common digital tools to complete tasks; use digital information; use online tools and platforms; apply safe and responsible practices online; and update or upgrade digital skills. Distinct icons show a device, an application, information search, a globe, a lock and a learning book. A connecting loop relates the components without claiming they must occur in one order." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Six parts of Digital — visual"><img src="../assets/diagrams/foundation-digital-map.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Choose the next action to meet a real task purpose. Six connected components: Use digital devices; Use tools to complete tasks; Use digital information; Use online tools and platforms; Protect privacy; act responsibly; Update your digital skills. Actual tool use supplies evidence that a paper plan cannot show." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Purpose guides the device, tool, information and sharing choices. Observe each learner using the tool; a described process alone is different evidence. <a class="visual-original" href="../assets/diagrams/foundation-digital-map.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Choose the next action to meet a real task purpose. Six connected components: Use digital devices; Use tools to complete tasks; Use digital information; Use online tools and platforms; Protect privacy; act responsibly; Update your digital skills. Actual tool use supplies evidence that a paper plan cannot show.</p></details>
 </figure>
 <!-- /visual:foundation-digital-map--learner-04 -->
 
-The following component names appear in the supplied SkillPlan guide on page 71. The activities develop selected beginner and extending applications of every component; completing them does not establish an official proficiency level.
+These six components connect device control, useful information, responsible decisions and continued learning. Begin with actions that matter for your task and add challenge when you can check the result.
 
 | Component | What it means in this chapter | Main evidence |
 |---|---|---|
@@ -27,6 +28,43 @@ The following component names appear in the supplied SkillPlan guide on page 71.
 | 6. Update and upgrade digital skills | Use help, test a new method and retain a learning strategy. | DG-16–DG-18 |
 
 If internet access is unavailable, the printed cases still support reading, source evaluation and planning. Record online tool use as **not observed** until you have an actual turn. Likewise, your partner's completed spreadsheet is not evidence that you used the tool. Partners can coach; each person needs time controlling the device or their chosen accessible interface.
+
+<!-- teaching:digital-entry-bridge-learner -->
+## Control one action and check its effect
+
+Begin in an approved blank practice document. The instructor confirms where work may be saved and how to return to the starting view. Use a mouse, keyboard, touch, voice or another accessible control method. The purpose is to control and check the action, not imitate one device's gesture.
+
+### Start by noticing the controls
+
+Identify the application you are using. Explain how you enter a word, select it and return to the document, then demonstrate two actions. If the controls are familiar, move to saving and retrieval. If a control is unfamiliar, ask for a demonstration, take control again and repeat with different dummy text.
+
+### Enter, select and undo
+
+1. Enter **Practice list** on the first line and **three folders** on the next.
+2. Select **three** using the available interface. Replace it with **four**.
+3. Identify the application's Undo command. Use it and check whether **three** returns.
+4. Change the word to **five**. Explain what changed and what stayed the same.
+
+Ask your instructor to model a different phrase first if helpful. Some applications show undo in a menu; others use a toolbar or accessible shortcut. Ask for a demonstration when the location is unfamiliar. Do not assume the same key combination works everywhere. Inspect the result after each action.
+
+### Save and find an actual file
+
+Choose the approved practice folder with the instructor. Save the document as **controls-practice-v1-[learning-ID]**. Record both name and location; these are different pieces of information. Close the document, then reopen it from that location. Confirm the latest word **five**. For autosaving tools, identify the saved item/location and check its latest content after reopening.
+
+Make a second version named **controls-practice-v2-[learning-ID]**, changing **five folders** to **six folders**. Retain v1. Close v2, locate both files and check which contains each phrase. A changed name with old content is not a completed update.
+
+### Make one access adjustment
+
+Choose text enlargement, zoom, pointer size or another available setting that helps you use the document. Predict what it changes, try it and inspect the result. Check whether the setting affects the view only or changes document content. Agree whether to restore it on a shared device. You do not need to give a diagnosis or personal reason.
+
+### Fresh exit task
+
+In a new blank file, enter **Return note** and **two rulers**. Save it as **controls-exit-[learning-ID]** in the approved location. Replace **two** with **three**, use Undo to restore **two**, then save the intended final text **four rulers**. Close and reopen the file and show the phrase. State the name and location and demonstrate a usable view adjustment.
+
+Ask your observer to record your actions, any navigation help and whether the final saved phrase is present. If a file cannot be found, use the remembered name/location to investigate; do not create repeated copies at random. After watching a demonstration, take your own turn so your actions can be observed.
+
+Continue to making a small table when you can enter, revise and retrieve a simple file with your agreed support. Keep a help card with three reminders you choose: **where I save**, **how I undo**, **how I ask for the next unfamiliar step**. Do not include passwords or private account information.
+<!-- /teaching:digital-entry-bridge-learner -->
 
 ## Begin with a purpose and a comfortable setup
 
@@ -86,8 +124,9 @@ A reviewer checks two more **Road users** sets; no new sets are prepared. Update
 
 <!-- visual:foundation-digital-versions--learner-04 -->
 <figure class="teaching-figure diagram" data-visual="foundation-digital-versions--learner-04">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-versions.svg" alt="A practice folder branches to two example filenames. In card-record-v01, Road users has 10 prepared, 7 checked and 3 remaining; all-topic totals are 24 prepared, 16 checked and 8 remaining. In card-record-v02, two more Road users sets are checked: its row is 10, 9 and 1, and all-topic totals are 24, 18 and 6. No sets were added. Open the file to verify its content, and retain both versions for the exercise review." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="DG-06 • Make a usable second version — visual"><img src="../assets/diagrams/foundation-digital-versions.svg" alt="Two files in a practice folder show the change from v01 to v02. Road-user cards remain ten prepared while checked increases from seven to nine and remaining decreases from three to one. Across all topics, prepared stays twenty-four, checked rises from sixteen to eighteen and remaining falls from eight to six. Both versions stay available for review." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. A clear name helps retrieval; the changed values establish which record you opened. The second-version name shown is an example. <a class="visual-original" href="../assets/diagrams/foundation-digital-versions.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Two files in a practice folder show the change from v01 to v02. Road-user cards remain ten prepared while checked increases from seven to nine and remaining decreases from three to one. Across all topics, prepared stays twenty-four, checked rises from sixteen to eighteen and remaining falls from eight to six. Both versions stay available for review.</p></details>
 </figure>
 <!-- /visual:foundation-digital-versions--learner-04 -->
 
@@ -177,8 +216,9 @@ Duplicate the current card-count file for this simulation. Add the reviewer note
 
 <!-- visual:foundation-digital-privacy--learner-04 -->
 <figure class="teaching-figure diagram" data-visual="foundation-digital-privacy--learner-04">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-digital-privacy.svg" alt="The practice copy contains fictional card counts and a dummy personal phone field with the literal value sample only. Remove that unnecessary column from the review copy. Retain topic labels and counts: Material flow 8, 5, 3; Equipment purposes 6, 4, 2; Road users 10, 9, 1; totals 24, 18, 6. Before online sharing in an approved tool, check the intended recipient, minimum useful access and actual setting. A local copy alone does not demonstrate setting online permissions." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="DG-14 • Make a practice sharing decision — visual"><img src="../assets/diagrams/foundation-digital-privacy.svg" alt="A practice copy and review copy display prepared, checked and remaining counts for material flow, equipment purposes and road users. The dummy personal-phone field is removed from the review copy. The useful totals are twenty-four prepared, eighteen checked and six remaining. Sharing checks name the intended recipient, minimum useful access and tool setting; a local file view does not demonstrate online permissions." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Share the information needed for the review. This diagram uses dummy data; an online permission decision must be demonstrated in an approved tool. <a class="visual-original" href="../assets/diagrams/foundation-digital-privacy.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A practice copy and review copy display prepared, checked and remaining counts for material flow, equipment purposes and road users. The dummy personal-phone field is removed from the review copy. The useful totals are twenty-four prepared, eighteen checked and six remaining. Sharing checks name the intended recipient, minimum useful access and tool setting; a local file view does not demonstrate online permissions.</p></details>
 </figure>
 <!-- /visual:foundation-digital-privacy--learner-04 -->
 
@@ -210,4 +250,75 @@ Your portfolio can contain the two card records, a source record, a navigation i
 
 For supported practice, use a prepared folder, large headings, a partially completed table and one demonstrated step at a time. For extension, use a second application, compare two official help routes or improve the navigation instruction after a different reader tests it. Increase the challenge by changing information, tool or audience, not by removing access supports that make the task usable.
 
-**Teaching-source connection:** SkillPlan, *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [pp.71–77](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=71): six Digital components, starting-point assessment, relationship-centred support, contextual problem-based tasks and formative evidence. The cases, activity sequence and wording here are original ACCESS IS4S adaptations. The source's page 77 password activity contains unrelated numeracy tips; this chapter replaces those tips with relevant credential and sharing practice. The public Canada.ca page is a live-practice destination, not evidence of any particular course's admission or certification requirements.
+<!-- teaching:digital-learner-checks-learner -->
+## Digital · create, revise and retrieve a useful record
+
+Complete the form selected by your instructor on an approved device and application. You control the tool, using an agreed accessible interface. A partner may coach, but record their help. Paper planning can prepare the work; it cannot demonstrate the tool actions. Use only the supplied fictional values and a learning ID. No account creation, external sending, purchase or password disclosure is needed.
+
+The resource coordinator needs a record of classroom items issued and returned. **Outstanding = issued − returned.** An outstanding item is not automatically lost or damaged; the record contains no such finding. The recipient needs resource names, quantities, version and fictional-data label, not personal contact information.
+
+### Form A · Resource-return record
+
+| Resource | Issued | Returned |
+|---|---:|---:|
+| Folders | 18 | 13 |
+| Rulers | 12 | 9 |
+| Calculators | 7 | 4 |
+
+**Later update, to use only after saving the first version:** Two more folders are returned. No additional items are issued, and the other returned counts stay unchanged.
+
+#### CK-DG-A01 · Create and check
+
+Create an approved practice folder named `returns-A-[learning-ID]`. In a spreadsheet or accessible table application, create columns **Resource, Issued, Returned, Outstanding**. Enter the three rows, calculate outstanding amounts and add totals for the three number columns. Use formulas or document a separate calculation method. Add a clear title, an in-document **version 1** label and **Fictional classroom data — not a loss or damage report**. Check every source row. Save as `returns-A-v1`, close and reopen it from the known location. Show your own tool actions.
+
+#### CK-DG-A02 · Change and verify the version
+
+Apply the later update, change the in-document label to **version 2** and save `returns-A-v2` while retaining v1. Record which entry changed. Close the current file, locate both versions, open v2 and confirm its content using a row value and total. Explain why a filename alone cannot prove the contents are current.
+
+#### CK-DG-A03 · Prepare a usable review copy
+
+Duplicate v2 as a practice working copy. Add a column **personal contact** containing the literal words **sample only** in each data row. Never enter real contact details. Create a separate review copy that removes this unnecessary column while retaining the data, version/title and fictional label. Export or print the review copy to a local PDF. Open it and check all rows, totals, headings and labels for clipping or omission. Keep the editable source. If output is already complete, record the verification; do not invent a defect.
+
+#### CK-DG-A04 · Explain and repeat an action
+
+Show the location of the editable version and PDF. Explain what remains editable in the source that the PDF view does not provide in the same way. Demonstrate one second method for locating the file, finding a label or enlarging the view, using application help or an instructor demonstration if needed. Check that it achieves the intended result. Record the help and actual outcome.
+
+### Form B · Learning-room return record
+
+| Resource | Issued | Returned |
+|---|---:|---:|
+| Clipboards | 16 | 10 |
+| Tapes | 9 | 6 |
+| Books | 11 | 8 |
+
+**Later update, to use only after saving the first version:** Three more books are returned. No additional items are issued, and other returned counts stay unchanged.
+
+#### CK-DG-B01 · Create and check
+
+Create an approved practice folder named `returns-B-[learning-ID]`. Make columns **Resource, Issued, Returned, Outstanding**, enter all source rows, calculate outstanding values and totals, and add a descriptive title, an in-document **version 1** label and **Fictional classroom data — not a loss or damage report**. Use formulas or document a separate calculation method. Save as `returns-B-v1`, close and reopen it from the known location. Show your own tool actions.
+
+#### CK-DG-B02 · Change and verify the version
+
+Apply the later update, change the in-document label to **version 2** and save `returns-B-v2`, retaining v1. Record the changed entry. Close the current file, locate both versions, open v2 and verify a row value and total. Explain why the name alone does not establish the current content.
+
+#### CK-DG-B03 · Prepare a usable review copy
+
+Duplicate v2 as a working copy; add **personal contact** with **sample only** in each data row. Create a separate review copy without that unnecessary column. Retain useful data, version/title and fictional label. Export or print it to a local PDF, open it and check complete rows/totals/headings/labels. Keep the editable source. Record an actual correction or successful verification, not a manufactured fault.
+
+#### CK-DG-B04 · Explain and repeat an action
+
+Show both saved locations, explain editable source versus PDF view, and demonstrate a second method for finding the file, finding a label or enlarging the view. Use help if needed and record it. Check the result rather than assuming a shortcut worked.
+
+### My action record
+
+| Action | File/location or result | Help used; who controlled the tool |
+|---|---|---|
+| Created and checked v1 | | |
+| Closed and reopened v1 | | |
+| Updated and verified v2 | | |
+| Removed dummy contact field in review copy | | |
+| Opened and checked PDF | | |
+| Tested second method | | |
+
+These tasks show local application and file actions. They do not by themselves show online navigation, sending or actual online permission-setting. Record those actions separately only when they are performed in an approved environment.
+<!-- /teaching:digital-learner-checks-learner -->

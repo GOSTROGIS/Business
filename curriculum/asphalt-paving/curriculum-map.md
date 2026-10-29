@@ -1,54 +1,65 @@
-# Start with the outline, teach through the nine skills
+# Asphalt paving curriculum and learning route
 
-[Asphalt curriculum](README.md) · [Source library](sources/README.md) · [Skills map](skills-map.md)
+[Asphalt curriculum](README.md) · [Roadbuilding foundations](line-a/README.md) · [Source library](sources/README.md) · [Nine-skills teaching map](skills-map.md)
 
-**Sequence based on the supplied outline · 23 October 2026**
+**ACCESS IS4S classroom edition · 29 October 2026**
 
-## The first trade competencies
+## What is ready to teach and review
 
-The supplied outline names Line A **Road Building Principles and Introduction to Paving**. The following sequence preserves its order. Page references below distinguish the PDF viewer page from the printed number.
+The [Roadbuilding foundations learner book](line-a/roadbuilding-foundations.pdf) and [teaching and answer guide](line-a/teaching-guide.pdf) contain six authored Line A classroom units, 37 activities, worked examples and separate answer guidance. The original [18-activity opening case](unit-01/learner.md) remains available for introductory equipment, document, numeracy and teamwork practice. It uses explicitly fictional classroom data. The new industry-evidence unit adds dated public facts and teaches learners to distinguish those facts from invented practice inputs.
 
-| Code | Outline competency | Source page | Curriculum development direction | Status |
+The [whole-program status map](line-a/competency-status.md) records all 68 occupational competencies. Line A classroom units are authored; the 62 later competencies do not have complete technical units here. F2/F3 receive a foundation bridge in the road-document unit. Independent qualified technical review, local delivery agreement and classroom pilot remain pending. Authored activities and completed classroom work do not establish workplace competence or equipment endorsement.
+
+## The six Line A units
+
+The supplied outline names Line A **Road Building Principles and Introduction to Paving**. The sequence below preserves its six competencies. PDF page means the viewer's one-based page; printed page means the number on the source page.
+
+| Code | Outline competency | Outline PDF / printed page | Delivered classroom work | Status |
 |---|---|---|---|---|
-| A1 | Introduction to the paving industry and paving equipment | PDF 22 / printed 20 | Roads, resources, equipment, users, industry information and the owner/contractor relationship. Three expanded IS4S sessions. | First teaching draft; selected current-source supplements pending. |
-| A2 | Describe history of asphalt pavement | PDF 23 / printed 21 | Read a sourced historical account, distinguish dates from interpretations, construct a timeline and explain changes in materials and methods. | Next unit; lessons not yet written. |
-| A3 | Describe paving technology | PDF 24 / printed 22 | Follow a process diagram, classify plant/equipment vocabulary and explain materials flow. | Mapped; lessons not yet written. |
-| A4 | Describe industry expectations of/for workers | PDF 25 / printed 23 | Interpret role descriptions, practise a clarification exchange and respond to a changed work scenario. | Mapped; current worker/licensing statements need checking. |
-| A5 | Describe basic road and highway profiles | PDF 26 / printed 24 | Read a labelled section and project document, identify ownership/specification context, and explain dimensions with consistent units. | Mapped; use provider-approved drawings and specifications. |
-| A6 | Describe future paving/construction trends | PDF 27 / printed 25 | Compare dated evidence about an innovation, identify limits and explain a justified proposal. | Mapped; historical examples need current research. |
+| A1 | Introduction to the paving industry and paving equipment | 22 / 20 | [Industry evidence and decisions](line-a/01-industry-evidence.md), LA1-01–LA1-06, together with the opening case: industry measures, document authority, funding and bounded environmental comparison. | Authored; technical review and pilot pending. |
+| A2 | Describe history of asphalt pavement | 23 / 21 | [How roads changed](line-a/02-history.md), LA2-01–LA2-06: historical accounts, chronology, road types and source limits. | Authored; technical review and pilot pending. |
+| A3 | Describe paving technology | 24 / 22 | [From materials to paving](line-a/03-technology.md), LA3-01–LA3-07: material flow, plant arrangements, products and distinct recycling routes. | Authored; technical review and pilot pending. |
+| A4 | Describe industry expectations of/for workers | 25 / 23 | [Working in a paving team](line-a/04-workers.md), LA4-01–LA4-06: responsibilities, communication, changed work conditions and current pathway questions. | Authored; technical review and pilot pending. |
+| A5 | Describe basic road and highway profiles | 26 / 24 | [Read road documents and quantities](line-a/05-road-documents.md), LA5-01–LA5-06: plan/profile/section, revisions, units and explicit classroom quantity assumptions. | Authored; technical review and pilot pending. |
+| A6 | Describe future paving/construction trends | 27 / 25 | [Investigate a paving trend](line-a/06-trends.md), LA6-01–LA6-06: dated technical evidence, comparison criteria, costs and questions for local application. | Authored; technical review and pilot pending. |
 
-The outline presents **B1 Safety orientation** next (PDF 28–29 / printed 26–27). Introductory equipment vocabulary is not a substitute for that learning or for a current site/equipment orientation.
+The six answer guides map **33 learning-task criteria**: A1.6, A1.8 and A1.9, plus all 30 learning tasks across A2–A6. The opening case introduces the nine A1 tasks below. These are content and evidence mappings, not completed learner assessments.
 
-## Two different lists of nine
+The outline presents **B1 Safety orientation** next, at PDF 28–29 / printed 26–27. Equipment vocabulary and classroom cases do not replace a current workplace orientation or equipment-specific training.
 
-**A1 contains nine trade learning tasks.** The **Skills for Success framework contains nine foundational skills.** These lists are not interchangeable and do not correspond one-to-one.
+## Follow the nine A1 learning tasks
 
-All A1 learning-task references below come from outline PDF 22 / printed 20. The unit instructor guide links them to the actual learner activities and records introduced versus completed work.
+A1's nine trade learning tasks and the nine Skills for Success are different lists. They are connected through meaningful activities rather than matched one-to-one. A1 learning-task references below come from outline PDF 22 / printed 20.
 
-| A1 task | Trade content, paraphrased | Opening-unit treatment | What is still needed |
+| A1 task | Trade content, paraphrased | Delivered treatment | Application or review still needed |
 |---|---|---|---|
-| A1.1 | Paving and equipment, from pit to finished product | Short reading, equipment/function cards and a simplified materials-flow sequence. | Partner review of vocabulary and examples; later equipment-specific training is separate. |
-| A1.2 | Basic history of how roads were created | Brief introduction to routes, built surfaces and different contexts; source questions. | A2 develops the documented historical sequence. |
-| A1.3 | Roads as infrastructure | Identify the services, movement and connections a road supports. | Local examples chosen with learners or partners where useful. |
-| A1.4 | Provincial paving resources, including gravel and aggregates | Resource vocabulary and its place in the process. | Source-specific resource examples can be added by the instructor. |
-| A1.5 | Users of paving, recreation and trade | Explain several users and purposes, including people who do not drive. | Contextual extension without requiring personal location disclosure. |
-| A1.6 | Relevant industry-size, economics and employer statistics | Practise reading and checking a fictional table, then distinguish practice data from actual statistics. | Dated real B.C. industry data, with geography, measure and source explained. Not complete from invented numbers. |
-| A1.7 | Other road types, including ice roads | Compare broad road contexts using the introductory reading. | Local or seasonal examples require appropriate sources; no travel-safety claims. |
-| A1.8 | Regulations and funding | Read a fictional owner/contractor/funding brief; identify the outline's historical EPS/MMCD labels and questions for verification. | Exact current applicable documents and funding/project context. The fictional brief is not regulatory instruction. |
-| A1.9 | Environmental comparison of asphalt and concrete | Identify a comparison criterion and challenge an unsupported blanket claim. | A sourced comparison with a defined project/use case, life-cycle boundary and current evidence. No universal material ranking. |
+| A1.1 | Paving and equipment, from pit to finished product | Opening reading, equipment/function cards and materials-flow sequence; [A3](line-a/03-technology.md) develops the process. | Qualified review of vocabulary and examples; equipment-specific training remains separate. |
+| A1.2 | Basic history of how roads were created | Opening introduction followed by the sourced historical work in [A2](line-a/02-history.md). | Review local relevance and invite any place-specific contribution through an appropriate local process. |
+| A1.3 | Roads as infrastructure | Opening tasks identify services, movement and connections supported by roads; later cases connect these purposes to decisions. | Choose suitable local examples with learners or partners. |
+| A1.4 | Provincial paving resources, including gravel and aggregates | Opening vocabulary and the materials/process work in [A3](line-a/03-technology.md). | Check any specific resource or product against an approved current source. |
+| A1.5 | Users of paving, recreation and trade | Opening activities include multiple road users and purposes, including people who do not drive. | Extend the context without requiring personal location disclosure. |
+| A1.6 | Relevant industry-size, economics and employer statistics | The opening fictional table teaches calculation. [LA1-01–02](line-a/01-industry-evidence.md) use dated WorkBC construction data and Statistics Canada road-industry business-location counts with measure, geography and period. | Statistical locations are not unique employers; construction and road-industry measures are not asphalt-only totals. Retain those limits and check changes before delivery. |
+| A1.7 | Other road types, including ice roads | Opening reading compares broad contexts; [A2](line-a/02-history.md) develops road-type and historical interpretation. | Local or seasonal examples need suitable evidence; no travel-safety assessment is claimed. |
+| A1.8 | Regulations and funding | The opening fictional brief introduces roles. [LA1-03–04](line-a/01-industry-evidence.md) interpret selected B.C. orientation provisions, highway-specification information and a reported project-funding record. | Confirm actual contract/application requirements and resolve the historical outline's undefined “EPS” label without guessing. |
+| A1.9 | Environmental comparison of asphalt and concrete | [LA1-05–06](line-a/01-industry-evidence.md) use evidenced recovery pathways and a defined fictional decision brief to test an unsupported whole-life claim. | No matched current B.C. project life-cycle ranking is established; that requires equivalent designs, complete assumptions and qualified review. |
 
-## Skills for Success across the opening unit
+## Teach and observe the nine skills
 
-| Session | Main skills practised | Evidence to keep |
+Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, and Creativity and Innovation recur across the units. The [teaching map](skills-map.md), activity skill labels and answer-guide criteria identify observable work rather than assign official proficiency levels.
+
+| Learning context | Skills in use | Evidence to keep |
 |---|---|---|
-| 1 · Understand the industry | Reading; Communication; Collaboration | Source detail identified, explained equipment/function match, partner check-back and observation of how the pair works. |
-| 2 · Read and share the numbers | Numeracy; Digital; Writing | Checked values and method, saved digital table, short accurate summary written for an audience. |
-| 3 · Respond to a changed brief | Problem solving; Adaptability; Creativity and innovation | A reasoned response, an observable revision after changed information and an improved explanatory aid. |
+| Opening session 1 · Understand the industry | Reading, Communication, Collaboration | A source detail, explained equipment/function match, check-back and individual contribution. |
+| Opening session 2 · Read and share the numbers | Numeracy, Digital, Writing | Checked method and units, saved table and an accurate audience-focused summary. |
+| Opening session 3 · Respond to a changed brief | Problem Solving, Adaptability, Creativity and Innovation | A reasoned response, observable revision and tested explanatory aid. |
+| Line A · Investigate, explain and revise | All nine, selected according to each activity | Dated source records, calculations, document registers, individual exchanges, actual digital actions, comparison criteria and revisions after feedback. |
 
-These are focus skills for feedback, not exclusive uses: learners continue reading and communicating throughout. The [SkillPlan teaching map](skills-map.md) ties observations to the guide's named components and exact pages.
+A group product needs an individual contribution record. A correct calculation needs its units and assumptions. A digital claim needs actual tool use. Record the task version, support, observed action, result and next practice.
 
-## Delivery and evidence boundaries
+## Delivery time and technical authority
 
-The three 60-minute sessions provide additional foundational-skills teaching and practice. They do not replace the source's suggested technical allocation. Applying the outline's 3% Line A allocation to the profile's 120 hours gives 3.6 hours for **all A1–A6**, not a separate A1 requirement.
+The six new units propose **555 minutes, or 9 hours 15 minutes**, including supported foundational-skills practice. The opening case separately proposes three 60-minute sessions. An instructor should plan their combination deliberately rather than assume both allocations are mandatory technical-training hours.
 
-A learning record can say “identified the relevant fact with support” or “explained the decision independently.” It should not invent an official Skills for Success level or certify occupational competence. Track what was taught, what was observed, what support was used and what still needs practice or a source supplement.
+The supplied November 2014 profile records **120 technical-training hours**. The outline's 3% share gives **3.6 hours for all A1–A6**, not for A1 alone. The IUOE Local 115 public page's statement of **140 accumulated hours** was retrieved and verified as a published statement on 29 October 2026. Its relationship to the historical profile and the ACCESS delivery agreement remains a pathway question. The [technical handoff](line-a/technical-handoff.md) keeps these records separate and provides review and pilot fields.
+
+The [research register](line-a/research/source-ledger.md) records public evidence and limits. Acquisition, edition checks and applicability review of specifications and manuals are being recorded in the source library's `sources/specifications/` folder. That folder's validation record is the authority for the status of those documents; a download or link alone does not establish technical approval or project applicability.

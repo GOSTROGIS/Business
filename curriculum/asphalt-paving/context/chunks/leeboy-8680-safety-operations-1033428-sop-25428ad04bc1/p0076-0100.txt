@@ -1,0 +1,1206 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf
+SOURCE SHA-256: 25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96
+ORIGINAL PDF VIEWER PAGES: 76–100 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 76 ===
+Operation
+
+Main Control Panel Keypad Functions
+The control panel keypads feature paving symbols that are used for the majority of paver functions. (Figure 4-7)
+LED lights illuminate to indicate the function status. Some buttons may only control the side of the machine in which
+they are located, or may only function on the active console. The following pages provide detailed information for
+each function symbol and status lights.
+
+                                Start/Stop      DM 430 Display
+
+
+
+
+                                                                                            E-Stop
+                                                                                            Button
+
+
+
+
+                                                                                          Activate
+                                                                                          Control
+                                                                                           Panel
+
+                                                                                          Steering Knob Option
+
+
+
+
+                                                DM 430 Display
+                                   Start/Stop                      Pause
+               Steering Wheel
+                   Option
+
+
+
+
+                                                                                          E-Stop
+                                                                                          Button
+                                                                                           Activate
+                                                                                           Control
+                                                                                            Panel
+
+
+
+
+                                             Figure 4-7. Main Control Panel
+
+
+4-8                                                                                  LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 77 ===
+Operation
+
+Upper Left Keypad
+
+The upper left keypad contains push buttons
+for beacon/work lights, grade/slope controls,
+apron up/down, start, spray down, truck hitch
+in/out and vibrator. LED lights illuminate to
+indicate the function status as described
+below:
+
+GRADE/SLOPE (LEFT)
+
+
+                        The left and right tow points can be controlled automatically using the TopCon sonic
+                        automatic grade/slope control system (Page 4-59) or can be controlled manually using
+                        the keypad buttons.
+                        • The default setting is MANUAL. The left LED light illuminates green in manual mode
+                          on both consoles. Use the Tow Up (thicker asphalt mat) and Tow Down (thinner
+                          asphalt mat) buttons to control the hydraulic tow cylinders.
+                        NOTE: Does not function when the grade control is set to AUTO, however, the up
+                              and down buttons function when joysticks are in neutral.
+                        • Pressing the Grade/Slope button changes to AUTO mode. The right LED light
+                          illuminates green on both consoles. The TopCon sonic control system must be
+                                                                                                                4
+                          connected to operate in AUTO mode.
+                        NOTE: When in automatic mode, the Tow Up and Down buttons do not function.
+                              The tow points are paused when the machine is not traveling forward. In this
+                              situation, the center LED light will flash.
+
+
+                        WORK/BEACON LIGHTS
+                        Pressing this button toggles through 4 states:
+                        • OFF (no LED lights illuminate).
+                        • Beacon light ON (left LED light illuminates).
+                        • Work lights ON (center LED light illuminates).
+                        • Both beacon and work lights On (all LED lights illuminate).
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                              4-9
+
+=== ORIGINAL PDF PAGE 78 ===
+Operation
+
+            START/STOP
+            This button is used to start and stop the engine. There are seven states that the engine
+            start/ stop state machine can enter:
+            • Boot: Engine cannot be started while the computer system boots, but power is
+              provided to the engine on output. The yellow and red LEDs are solid in this state.
+              After a slight delay, the engine will leave this state and go to Ready. If the engine RPM
+              indicates the engine is already running, then another stop cycle will be attempted
+              (interlocks short cycling the main key switch).
+            • Ready: The yellow LED will remain on during the engine Preheat stage or if the
+              operator attempts to start the engine while the auger, conveyor, or generator are
+              turned on, or if one or more joysticks is not in neutral.
+            • Crank: The system will stay in the cranking state until the engine RPM indicates it is
+              running, or the button is released. The red and green LED lights illuminate (and yellow
+              light if still preheating). (While cranking, both the engine on and engine start outputs
+              are active.) If the button is released before the engine is running, the system reverts
+              back to Ready.
+            • Running: When the engine is running, only the green LED light illuminates. The
+              engine can be stopped by pressing the Start/Stop button again.
+            • Stop: When in the stop state, the red LED light will flash for a short period of time.
+              (The engine on output will be off in this state.) It can be held in the stop state longer if
+              the operator presses and holds the button. The system will boot when leaving stop.
+            • Shutdown: In the case of excessively low oil pressure or high coolant temperature,
+              a message will be sent to the engine to shut down. The red LED will flash in this state
+              and the engine on output will remain ON. The only way to exit this state is with a power
+              cycle.
+            • Engine Offline: When communication with the engine is lost, the system will enter an
+              offline state. Only the yellow LED will be flashing. If the button is pressed in this state,
+              the system will go to stop.
+            NOTE: All joysticks on BOTH operator main control panels must be in NEUTRAL to
+                 start the engine.
+
+
+            TRUCK HITCH or EXTENDABLE PUSH ROLLER OPTION
+            The truck hitch (or extendable push roller) IN/OUT function can be activated from either
+            main control panel. All three LED lights illuminate green when pressed.
+            • Press and hold either button to move truck hitch (or extendable push roller) in or out
+              as shown by arrows on the symbol.
+
+
+            VIBRATOR
+            This button turns the screed vibrator ON and OFF, and can be operated from active or
+            inactive consoles.
+            • Press the button once to turn on the vibrator. All LED lights illuminate green when the
+              vibrator is engaged.
+            • Press the button again to turn off the vibrator.
+            NOTE: The vibrator only functions when traveling forward and will automatically
+                  turn off if paver is put into reverse.
+
+
+4-10                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 79 ===
+Operation
+
+                        APRON UP / DOWN
+                        Press and hold the UP or DOWN buttons to pivot the front apron to assist in cleaning out
+                        the hopper. All three LED lights illuminate while in operation.
+
+
+                        SLOPE/BERM SELECT
+                        Use the slope/berm select button to choose either function:
+                        • Press button once to select the Slope function.
+                        • Press button twice to select the Berm function.
+                        • This function only works on the activated panel as the selection is side specific.
+                        • The left LED illuminates in slope control mode and the right LED light illuminates in
+                          berm control mode.
+
+
+                        SLOPE/BERM UP or DOWN
+                        After selecting slope or berm, press and hold the UP or DOWN buttons to increase/
+                        decrease slope or berm.
+                        • The left LED illuminates in slope control mode and the right LED light illuminates in
+                          berm control mode.
+
+
+
+                                                                                                                         4
+                        • When the button is pressed, all three LED light illuminate green on both consoles
+                          (and the corresponding screed keypad).
+
+
+                        SPRAY DOWN
+                        The spray down pump can be turned on and off from either main control panel whether
+                        active or inactive.
+                        • Press the button once to turn on the spray down system. All LED lights illuminate
+                          green when the spray down system is on.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                      4-11
+
+=== ORIGINAL PDF PAGE 80 ===
+Operation
+
+Upper Right Keypad
+
+The upper right keypad contains push buttons
+for high/low gear in Work or Travel mode, horn,
+tow up and down functions (on each side of
+paver), auger lift/lower, pad builder, pause, and
+generator on/off. LED lights illuminate to indi-
+cate the function status as described below:
+
+
+
+
+                        WORK HI/LO
+                        This button controls the two speed motor shift in the WORK mode.
+                        • Low speed is the default. The right LED light illuminates green at low speed.
+                        • Press the button to shift to high gear. The left LED light illuminates green at high
+                          speed.
+                        • Pressing the button again shifts back to low gear.
+                        • To reduce downshift harshness, the operator cannot downshift at maximum speed. If a
+                          downshift is attempted at full speed, the right LED light will flash and a message banner
+                          appears on the DM430 digital display directing operator to reduce speed.
+                        NOTE: Pave only in Travel LO (Low) mode.
+                        NOTE: The paver will automatically move into low gear when machine operation is
+                              paused.
+
+
+                        TRAVEL HI/LO
+                        This button controls the two speed torque hub shift in the TRAVEL mode.
+                        NOTE: You must come to a complete stop before shifting from LO to HI or from HI to
+                             LO gears.
+                        • Low speed is the default. The right LED light illuminates green at low speed.
+                        • Stop the machine and press the button to shift to high gear. The left LED light
+                          illuminates green at high speed.
+                        • Stopping and pressing the button again shifts back to low gear.
+                        • To reduce downshift harshness, the operator cannot downshift at maximum speed. If a
+                          downshift is attempted at full speed, the right LED light will flash and a message banner
+                          appears on the DM430 digital display directing operator to reduce speed.
+                        NOTE: DO NOT pave in Travel HI mode.
+                        NOTE: The paver will automatically move into low gear when machine operation is
+                              paused.
+
+
+
+
+4-12                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 81 ===
+Operation
+
+                        HORN
+                        • Pressing this button sounds the horn. All three LED lights will illuminate GREEN when
+                          engaged.
+                        • You hold the button for longer sound.
+                        • The horn functions whether the console is active or not.
+
+
+                        AUGER LIFT/LOWER
+                        These buttons allow you to lift and lower both augers.
+                        To raise the augers:
+                        • Press and hold the auger lift button ( ) to raise both the left and right auger.
+                        • Releasing the button will hold the augers at that position.
+                        To lower the augers:
+                        • Press and hold the auger lower button ( ) to lower both the left and right auger.
+                        • Releasing the button will hold the augers at that position.
+                        NOTE: ALWAYS raise the augers when loading the paver onto transport vehicles.
+
+
+
+
+                                                                                                                      4
+                        TOW POINTS UP or DOWN (both sides)
+                        The left and right tow points can be controlled automatically using the TopCon sonic
+                        automatic grade/slope control system or can be controlled manually using the keypad
+                        buttons.
+                        • The default setting is MANUAL. The left LED light illuminates green in manual mode on
+                          both consoles. Use the Tow Up (thicker asphalt mat) and Tow Down (thinner asphalt
+                          mat) buttons to control the hydraulic tow cylinders.
+                        NOTE: Does not function when the grade control is set to AUTO, however, the up
+                              and down buttons function when joysticks are in neutral.
+                        • Pressing the Grade/Slope button changes to AUTO mode. The right LED light
+                          illuminates green on both consoles. The TopCon sonic control system must be
+                          connected to operate in AUTO mode. (The Tow Up and Down buttons do not function
+                          in AUTO mode).
+                        NOTE: When in automatic mode, the tow points are paused when the machine is
+                              not traveling forward. In this situation, the center LED light will flash.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                   4-13
+
+=== ORIGINAL PDF PAGE 82 ===
+Operation
+
+            PAD BUILDER
+            This function allows you to build a starter pad.
+            • Press the button once to engage the augers and conveyors. Both Under Auger
+              Material Cut-Offs will open.
+            • Press the button again and the augers/conveyors will turn off.
+            • Press and hold button to manually engage both conveyors only.
+
+
+            PAUSE
+            When paused, the propel, augers, and conveyors will slow to a stop. All three LED lights
+            illuminate blue when paused.
+            • Press the button once to pause operation. Press the button again to resume.
+            • If the screed temperature is above the set point, the engine will auto idle after the
+              normal delay time.
+            • If the generator needs to run, the engine RPM will increase as necessary while
+              paused.
+            NOTE: The engine idle will remain at high but automatically go into low idle if
+                  paused for a preset period of time (unless the generator is enabled.)
+                            The Pause button should NEVER be used as though it’s a park
+            brake--it is not. DO NOT leave the operator platform when paused!
+
+
+            GENERATOR
+            The generator can be activated in AUTO or MANUAL mode from the active or inactive
+            console. The default setting is AUTO mode.
+            • Press the button once for AUTO operation (the temperature set point controls
+              operation). The left LED lights illuminate green.
+            NOTE: In auto mode, if the temperature is above the set point, the center LED is
+                  solid blue. If is below the set point, the LED will flash.
+            • Press the button again to turn off (the right LED light illuminates red).
+            • In manual mode the center LED never illuminates.
+            NOTE: Operator selects AUTO or manual operation in the Operator Settings
+                  screen on the DM430 display control unit. (Page 4-39)
+
+
+
+
+4-14                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 83 ===
+Operation
+
+Lower Left Keypad
+
+The lower left keypad contains push buttons for
+left and right auger/conveyor function, Under
+Auger Material Cut-off open and close, and
+extend or retract the left screed extension. LED
+lights illuminate to indicate the function status as
+described below:
+
+
+
+                          AUGERS/CONVEYORS
+                          The augers and conveyors (both sides) can be turned on and off from either control
+                          panel. The default setting for both functions is the AUTO mode of operation.
+                          • Press the button once to turn on the auger and conveyor on the side corresponding
+                            with the arrow (left or right side).
+                          • The left LED illuminates green when that auger/conveyor is on; the right LED
+                            illuminates red when that auger/conveyor is off; and the center LED light illuminates
+                            blue if paver is paused while auger(s)/conveyor(s) are on (or the asphalt material has
+
+
+                                                                                                                        4
+                            shut off the sensor).
+                          • Press the button again to turn off the left or right conveyor.
+                          • Pressing and holding either button is a manual override for the augers and conveyors
+                            as long as you hold the button.
+                          NOTE: Moving the joysticks into neutral pauses auger/conveyor operation if this
+                               function is enabled.
+
+
+                          CUT-OFFS
+                          Both control panels and the screed keypad has buttons for controlling the left and right
+                          side Under Auger Material Cut-Offs.
+                          • Press and hold to open or close the corresponding left or right Under Auger Material
+                            Cut-Offs.
+                          • All three LED lights illuminate GREEN on both operator consoles and the LEFT screed
+                            keypad while open.
+                          • If paver is put into reverse, the cut-offs will automatically close and the center LED
+                            light on both operator consoles (and the corresponding screed control keypad)
+                            illuminates RED.
+                          NOTE: User can turn off this feature if desired.
+
+
+                          SCREED EXTENSION (LEFT)
+                          • Press and hold button to extend or retract the LEFT screed extension to desired
+                            width.
+                          • Release button when desired width is achieved.
+                          • All LED lights illuminate green when the button is pressed on the main control panel
+                            and on the corresponding left or right screed keypad.
+
+LeeBoy 8680 Commercial Paver                                                                                     4-15
+
+=== ORIGINAL PDF PAGE 84 ===
+Operation
+
+Lower Right Keypad
+
+The lower right keypad contains push buttons
+to activate the control panel consoles, operate
+the hopper wings, raise and float the screed,
+and extend or retract the right screed extension.
+LED lights illuminate to indicate the function
+status as described below:
+
+
+
+
+                        HOPPER WING SELECT
+                        Used to select the right, left or both hopper wings. Upon start-up, the operational mode
+                        is set by default to operating both hopper wings (the LED lights illuminate green.
+                        • Pressing the button once enables operating only the LEFT hopper wing. The left LED
+                          light illuminates green.
+                        • Pressing the button again operates only the RIGHT hopper wing. The right LED light
+                          illuminates green.
+                        • Pressing the button again returns to the default operational control of both hopper
+                          wings. All three LED lights illuminate green.
+                        • This button functions whether the console is active or not.
+
+
+                        ACTIVATE CONSOLE
+                        Both main control panels are inactive upon start-up. You must activate the right or left
+                        control panel to operate on the desired side of the paver. All LED lights are illuminated
+                        green on the side that is active.
+                        • All four joysticks must be in the NEUTRAL position before either control panel can be
+                          activated.
+                        NOTE: All joysticks on both operator platform control panels must be in NEUTRAL
+                        to deactivate the console in use and activate the other console.
+                        • Press the button on the desired main control panel once to activate that control
+                          panel.
+                        • Press the button again to deactivate an active control panel.
+                        NOTE: If one control panel is active and the other control panel’s joystick(s) is
+                        moved out of neutral, the active console will automatically deactivate.
+                        NOTE: If an active console becomes inactive while the paver is moving, the paver
+                        will automatically slow down to a stop and apply park brake.
+                        • A control panel cannot be activated if a parked regeneration is active. (Page 4-44)
+
+
+
+
+4-16                                                                            LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 85 ===
+Operation
+
+                       HOPPER WING OPEN
+                       After selecting the left, right or both hopper wings on the hopper wing select button, use
+                       this button to open the selected hopper wing(s).
+                       • Press and hold the button to open the hopper wing(s). The center LED light illuminates
+                         green while engaged.
+                       • This button functions whether the console is active or not.
+
+
+                       HOPPER WING CLOSE
+                       After selecting the left, right or both hopper wings on the hopper wing select button, use
+                       this button to open the selected hopper wing(s).
+                       • Press and hold the button to close the hopper wing(s). The center LED light illuminates
+                         green while engaged.
+                       • This button functions whether the console is active or not.
+
+
+                       SCREED RAISE
+                       This function can only be operated from the active console.
+                       • Press and hold button to raise the screed. All three LED lights illuminate GREEN while
+                         engaged (on both control panels).
+
+
+                       SCREED FLOAT
+                                                                                                                      4
+                       This button controls floating the screed.
+                       • Press the button to activate screed float (the center LED light illuminates green).
+                       • Placing the joysticks into neutral while screed float is active moves into screed hold,
+                         and float resumes when joysticks are returned to the forward position. The center LED
+                         light illuminates blue when in screed hold.
+
+
+                       SCREED EXTENSION (RIGHT)
+                       • Press and hold button to extend or retract the RIGHT screed extension to desired
+                         width.
+                       • Release button when desired width is achieved.
+                       • All LED lights illuminate green when the button is pressed on the main control panel
+                         and on the corresponding left or right screed keypad.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                   4-17
+
+=== ORIGINAL PDF PAGE 86 ===
+Operation
+
+Screed Control Box                                                           (Left Screed Control Box Shown)
+Left Keypad and Control Buttons
+                                                                                     Auger Speed/Pile Height
+                                                                                        Conveyor Speed
+                                            E-Stop
+
+
+
+
+                                                                                         Extension Control
+                                                                                          (Extend/Retract)
+
+
+
+
+A screed control box is located on each side of the screed, featuring keypad button controls for screed
+functions, auger and conveyor speed buttons, extension control buttons (extend/retract) and an emer-
+gency stop (E-Stop) button, described on the following pages.
+
+
+E-Stop: Pull up on the E-Stop knob to disengage; push knob down to engage emergency stopping only.
+
+
+                           AUGER SPEED/PILE HEIGHT
+                           • When operating in AUTO mode, press and hold button in the desired increase/
+                             decrease direction to set the pile height at the end gate.
+                           • When operating in MANUAL mode, press and hold button in the desired increase/
+                             decrease direction to set the auger speed.
+
+
+                           CONVEYOR SPEED
+                           • Press and hold the button in the desired increase/decrease direction to set conveyor
+                             speed. You can also fine tune the conveyor speed in the digital display. (See Motor
+                             Settings on Page 4-40)
+
+
+
+
+4-18                                                                            LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 87 ===
+Operation
+
+                        EXTENSION CONTROL
+                        • Press and hold the button in the OUT direction to extend the screed extension.
+                        • Press and hold the button in the IN direction to retract the screed extension.
+
+
+                        AUGERS/CONVEYORS
+                        The augers and conveyors (both sides) can be turned on and off from either control
+                        panel. The default setting for both functions is the AUTO mode of operation.
+                        • Press the button once to turn on the auger and conveyor on the side corresponding
+                          with the arrow (left or right side).
+                        • The left LED illuminates green when that auger/conveyor is on; the right LED
+                          illuminates red when that auger/conveyor is off; and the center LED light illuminates
+                          blue if paver is paused while auger(s)/conveyor(s) are on (or the asphalt material has
+                          shut off the sensor).
+                        • Press the button again to turn off the left or right conveyor.
+                        NOTE: Moving the joysticks into neutral pauses auger/conveyor operation if this
+                             function is enabled.
+
+
+                        AUGERS MANUAL/AUTO
+                        Independent right and left augers can be operated in MANUAL or AUTO (automatic)
+                        mode. Arrow direction on the symbols indicates left or right auger. The default is set for
+                        AUTO operation.
+                                                                                                                     4
+                        • Turn on the left or right auger by pressing the corresponding Manual/Auger button
+                          once to enable the auger on that side to operate in AUTO mode. The left LED light on
+                          the button illuminates green.
+                        • Press and hold button 1/2 second to operate in AUTO mode. The right LED light on
+                          the button illuminates green.
+                        NOTE: The auger sonic sensor must be connected to operate in AUTO mode.
+                        (Pages 4-53 to 4-54)
+                        • The center blue light illuminates when material reaches the set material height or if
+                          paused.
+
+
+                        AUGER BYPASS
+                        If the Auger/Conveyor is on, but the augers are not needed while paving, the screed
+                        operator can press the corresponding left or right Auger Bypass button(s) to cease
+                        auger operation. All three LED illuminate to when auger operation is paused.
+                        • Press the button again to resume auger operation.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                  4-19
+
+=== ORIGINAL PDF PAGE 88 ===
+Operation
+
+            CONVEYOR BYPASS
+            If the Auger/Conveyor button is on, but the conveyors are not needed while paving, the
+            screed operator can press the corresponding left or right conveyor bypass button to
+            cease operation. All three LED illuminate to when the conveyor operation is paused.
+            • Press the button again to resume conveyor operation.
+
+
+            AUGER/CONVEYOR REVERSE
+            Screed operators can reverse the augers and/or conveyors to help clear material as
+            needed while paving. The default is reversing both functions. All three LED lights illumi-
+            nate green in this mode.
+            • Press the button once to reverse only the auger(s). The left LED light will illuminate
+              green.
+            • Press the button again to return to reversing both functions.
+
+
+            CUT-OFFS
+            Both control panels and the screed keypad has buttons for controlling the left and right
+            side Under Auger Material Cut-Offs.
+            • Press and hold to open or close the corresponding left or right Under Auger Material
+              Cut-Offs.
+            • All three LED lights illuminate GREEN on both operator consoles and the LEFT
+              screed keypad while open.
+            • If paver is put into reverse, the cut-offs will automatically close and the center LED
+              light on both operator consoles (and the corresponding screed control keypad)
+              illuminates RED.
+            NOTE: User can turn off this feature if desired.
+
+
+            PAUSE
+            When paused, the propel, augers, and conveyors will slow to a stop. All three LED lights
+            illuminate blue when paused.
+            • Press the button once to pause operation. Press the button again to resume.
+            • If the generator needs to run, the engine RPM will increase as necessary while
+              paused.
+            NOTE: The engine idle will remain at high but automatically go into low idle if
+                  paused for a preset period of time (unless the generator is enabled.)
+                            The Pause button should NEVER be used as though it’s a park
+            brake--it is not. DO NOT leave the operator platform when paused!
+
+
+
+
+4-20                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 89 ===
+Operation
+
+Right Keypad
+
+                                                                          (Left Screed Control Box Shown)
+
+
+
+
+                        TUNNEL IN/OUT
+                        Extend and retract the tunnel when paving at wider lengths.
+                        If operating in MANUAL mode:
+                                                                                                                        4
+                        • Press and hold the Tunnel Out button once to extend the tunnel. All LED lights
+                          illuminate green.
+                        • Press and hold the Tunnel In button to retract the tunnel. All LED lights illuminate
+                          green.
+                        If operating in AUTO mode:
+                        • Simultaneously press and hold the extension control switch in the extend position
+                          and the Tunnel Out button to extend the tunnel.
+                        • Simultaneously press and hold the extension control switch in the extend position
+                          and the Tunnel In button to retract the tunnel.
+                        • To lock the tunnel in place, press and hold the Tunnel In and Tunnel Out buttons
+                          simultaneously until the LED light flashes green.
+                               •   To unlock, press and hold both buttons again.
+
+
+                        SLOPE/BERM SELECT
+                        Use the slope/berm select button to choose either function. This function only works
+                        on the activated panel as the selection is side specific. The default is set at the neutral
+                        position.
+                        • Press the button once to select the Slope function.
+                        • Press the button twice to select the Berm function.
+                        • The left LED illuminates in slope control mode and the right LED light illuminates in
+                          berm control mode.
+
+
+LeeBoy 8680 Commercial Paver                                                                                     4-21
+
+=== ORIGINAL PDF PAGE 90 ===
+Operation
+
+            HORN
+            • Pressing this button sounds the horn. All three LED lights will illuminate GREEN when
+              engaged.
+            • You hold the button for longer sound.
+            • The horn functions whether the console is active or not.
+
+
+            VERTICAL UP/DOWN
+            Screed operators can use the vertical UP and DOWN buttons on the corresponding left
+            and/or right screed control box button to raise and lower the screed extension vertical
+            height.
+            • Press and hold the corresponding button to raise or lower vertical height. All three
+              LED illuminate while in use.
+
+
+            AOA UP/DOWN
+            The screed operator can use the AOA (Angle-of-Attack) buttons for AOA adjustments
+            while paving.
+            • Press and hold the UP or DOWN button to increase or decrease AOA while paving.
+              All three LED lights illuminate while active.
+
+
+            SLOPE/BERM UP or DOWN
+            After selecting slope or berm, press and hold the UP or DOWN button to increase/
+            decrease slope or berm.
+            • The left LED illuminates in slope control mode and the right LED light illuminates in
+              berm control mode.
+            • When the button is pressed, all three LED light illuminate green on both consoles
+              (and the corresponding screed keypad).
+
+
+            TOW POINTS UP or DOWN (both sides)
+            The left and right tow points can be controlled automatically using the TopCon sonic
+            automatic grade/slope control system or can be controlled manually using the keypad
+            buttons.
+            • The default setting is MANUAL. The left LED light illuminates green in manual mode
+              on both consoles. Use the Tow Up (thicker asphalt mat) and Tow Down (thinner
+              asphalt mat) buttons to control the hydraulic tow cylinders.
+            NOTE: Does not function when the grade control is set to AUTO, however, the up
+                  and down buttons function when joysticks are in neutral.
+            • Pressing the Grade/Slope button changes to AUTO mode. The right LED light
+              illuminates green on both consoles. The TopCon sonic control system must be
+              connected to operate in AUTO mode. (The Tow Up and Down buttons do not function
+              in AUTO mode).
+            NOTE: When in automatic mode, the tow points are paused when the machine is
+                  not traveling forward. In this situation, the center LED light will flash.
+
+
+
+
+4-22                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 91 ===
+Operation
+
+DPF Regeneration (REGEN)
+Before operating the paver, it is important that the
+operator understand the Diesel Particulate Filter
+(DPF) regeneration process described throughout the
+following pages. (See Section 5) DPF regeneration
+is the cleaning process where the exhaust tempera-
+ture is raised to safely burn off any soot and undesired
+combustion gas. When the DPF filter reaches a soot
+saturation level between 25 - 45 percent, the onboard
+engine ECU (Engine Control Unit) will activate a regen-
+eration cycle. The DPF icon on the DM430 digital
+controller indicates the level of soot build-up on a scale
+of Level 0 - 5. Regeneration will occur automatically
+at Level 1 - 2. DPF is further explained on the following
+                                                             DM430 Digital Display
+pages.                                                       The DM430 digital display features a high-resolution,
+During normal operation, the DPF is cleaned automati-        anti-glare color display screen optimized with wide
+cally. Under certain conditions, the operator may have       viewing angles in a variety of lighting conditions. There
+to instruct the control system to perform the cleaning       are three DM430 displays on the 8680, one on each
+process. It is important to perform a parked, manual         main control panel, and the screed heat control panel.
+regeneration BEFORE the engine reaches as high as            Each display is configured for the left and right operator
+Level 4. If the DPF reaches Level 4 - 5, non-warranty        platform controls. When starting the engine, the “boot”
+                                                             screen automatically displays on the DM430 digital
+
+
+                                                                                                                          4
+factory assistance from the engine manufacturer is
+required.                                                    display unit, followed by the Engine screen. .
+
+Once the regeneration cycle has been activated, it is                       Keep the controller screen clean
+important not to shut off the engine as the regeneration     by wiping with a soft, damp cloth. Use a mild dish
+cycle will fail and could possibly damage the engine.        washing detergent if needed. To avoid scratching or
+The system may attempt a second regeneration, but if it      discoloring the display, DO NOT use abrasive pads,
+is unsuccessful, the DPF filter is blocked more than 80      scouring powders or solvents (such as alcohol,
+percent and needs to be cleaned or replaced.                 benzene or paint thinner).
+The engine speed will increase during regeneration           Pressing “soft key” buttons on the control unit navigates
+and there may be a noticeable sound difference. Once         to other screens, scrolls through information, toggles
+regeneration is complete, the engine will return to          between screens and allows users to make selections
+normal idle speed.                                           as described on the following pages. A banner along
+                                                             the bottom of some screens correspond with the four
+              Don’t idle machine any longer than             function selection buttons (), and may change accord-
+necessary as too much idling can cause soot to build         ingly as described on the following pages. Symbols
+up on the DPF, requiring more frequent regeneration.         and pop-up alert messages may also appear on the
+There are several factors that affect how often your DPF     engine (and pave) screens as described throughout
+regenerates and the life expectancy of your DPF filter:      this section. (Table 4-2 beginning on Page 4-25)
+• Grade of engine oil.
+• Grade of diesel fuel.
+• Use of additives.
+• Mileage.
+• Wear of other components.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                       4-23
+
+=== ORIGINAL PDF PAGE 92 ===
+Operation
+
+                                                                                           Navigate
+                                                                                             UP
+
+
+
+
+                                                             Navigate                                           Navigate
+                                                              LEFT                                               RIGHT
+
+
+
+
+                                                                Select
+                                                                                              Navigate
+                                                                                               DOWN
+
+                                                                    Figure 4-9. Screen Navigation Button
+        1    2      3         4           56       7
+            Figure 4-8. DM 430 Button Controls
+        1 - Button #1
+                                                            Engine Screen
+        2 - ESC (Engine / Engine Diagnostics Screens)       The Engine screen is the default screen and displays
+                                                            various gauges. It also displays status information and
+        3 - Button #2                                       icons (fuel level, DPF level, voltage, oil pressure, coolant
+        4 - Screen Navigation                               temperature, hydraulic temperature, etc). (Figure 4-10)
+        5 - Button #3
+        6 - Home (Pave / Pressures Screens)
+        7 - Button #4
+ESC (Engine / Engine Diagnostics) Button: Pressing
+this button toggles between engine and engine diagnos-
+tics. (Page 4-27)
+Screen Navigation Button: Pressing this button navi-
+gates as shown in Figure 4-9:
+• Pressing left or right navigates between all other
+  screens (settings 1, settings 2, engine faults, and
+  system faults).
+• Pressing up or down is used on a particular screen
+  scrolls through screen information (where prompted).
+• The center of the button ( ) is used to select an item
+  (where prompted).
+Home (Pave / Pressures Screens) Button: Pressing
+this button toggles between the pave and pressure                         Figure 4-10. Engine Screen
+gauge screens. (Pages 4-33 and 4-41)
+                 If an engine fault is present, the Check
+                 Engine icon illuminates solid or flash-
+                 ing yellow or red, depending upon the
+                 severity of the problem.
+
+4-24                                                                                 LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 93 ===
+Operation
+
+Several gauges appear on the engine screen as shown         DM430 Engine Icons
+in Figure 4-11:
+                                                            The following table shows icons that may appear on
+   Fuel                               Oil        Coolant    the engine (and other screens) to notify the operator a
+   Level       Voltage   Tachometer Pressure      Temp      problem exists or component status:
+
+                                                                       Table 4-2. DM430 Engine Icons
+                                                                Icon                        Description
+
+                                                                          Park Brake. Illuminates when the park brake
+                                                                          is engaged.
+
+                                                                          Transmission Neutral. The neutral icon
+                                                                          displays when the transmission is in neutral.
+                                                                          NOTE: To perform a Parked REGEN, the
+                                                                                 “P” and “N” lamps must both be
+   DEF Level                         Hydraulic Oil Temp                          illuminated
+
+           Figure 4-11. Engine Screen Gauge
+                                                                          Voltage. Illuminates if voltage level is low.
+Warning symbols may also illuminate or turn red on the
+screen, indicating low fuel level, high exhaust tempera-
+ture, low voltage, check engine, low DEF level, regenera-                 Oil Pressure. Illuminates if oil pressure is too
+tion warnings, etc. Additional icons are shown on the                     low.
+
+
+
+                                                                                                                                 4
+screen, and will change if a fault condition is present.                  Check Engine. If the check engine icon
+(Table 4-2 shows alert icons that may appear with                         illuminates, an engine problem exists that
+descriptions.)                                                            needs immediate attention. The engine may
+                                                                          continue to operate, however, it is unable to
+• The fuel and DEF level gauges show icons to
+                                                                          perform DPF cleaning either automatically or
+  indicate fault conditions (water in fuel, improper DEF                  manually.
+  concentration).
+                                                                                          Take action immediately to
+• If the background turns red on gauges that are                          correct the fault.
+  displayed as a digital readout, a fault exists or the
+                                                                          Engine Stop/Protect. This icon illuminates
+  computer system has lost communication.
+                                                                          when an existing engine fault has been
+• Engine RPM is shown in the center gauge                                 allowed to progress to such a critical level
+  (tachometer). The red needle is the actual RPM while                    that the engine will shut down automatically to
+  the green is the RPM set point. RPMs and engine                         protect itself.
+  hours are also shown on the tachometer. Engine load
+  is displayed as a red bar graph below engine hours.                     Fuel. Illuminates when the fuel level is low.
+
+
+
+                                                                          Coolant Temperature. Illuminates when the
+                                                                          coolant temperature is too high.
+
+
+
+                                                                          Hydraulic Oil Temperature. Illuminates
+                                                                          when the hydraulic oil temperature is too high.
+
+
+
+                                                                          Plus +1 System Fault. If this icon illuminates,
+                                                                          a fault exists in the engine ECU (Plus +1).
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                              4-25
+
+=== ORIGINAL PDF PAGE 94 ===
+Operation
+
+   Icon                       Description                      You can set engine RPMs, idle the engine, or use preset
+                                                               RPM set points in the Engine screen using the display
+       LO   Low Hydrostatic Charge Pressure. If this
+                                                               buttons that correspond with the function banner along
+            icon illuminates, the hydraulic charge pres-
+   CHG      sure is low.                                       the bottom of the engine screen. (Figure 4-12)
+
+
+            Engine Power De-Rate Restored Timer.
+
+
+
+
+            Engine Power De-Rate due to Active Fault.
+
+
+            DEF Level/Quality. Illuminates yellow if the
+            DEF tank level or DEF concentration level is
+            becoming low (below 15 percent). This icon
+            will illuminate red if the DEF tank level or DEF
+            concentration becomes critically low.
+            High Exhaust Temperature. Illuminates to
+            notify operator that the exhaust temperature
+            is high. The icon will turn off when normal
+            operating temperatures are reached after the
+            REGEN cycle.
+
+                           Be sure engine exhaust
+            is away from any potentially combustible                Button    Button Increase /            Button
+            materials when this is illuminated.                       #1        #2 Decrease RPMs             #4
+            DPF Regeneration. Illuminates when the                    Figure 4-12. Engine Screen Navigation
+            system is performing regeneration. Any time
+            this lamp begins flashing, the operator should     • Adjust the Engine RPMs using the up (increase RPMs)
+            increase the loading on the engine so regen-         and down (decrease RPMs) arrows on the center
+            eration is possible.                                 navigation button. The red needle in the tachometer
+                                                                 gauge displays the actual RPMs.
+                           If increased load does not
+            cause an automatic REGEN to occur, the             • You can also use the preset RPM set points by
+            operator should immediately perform a                pressing Button #2, which will cycle through these
+            Parked, Manual REGEN.                                possible selections: Pave Low (1800 RPMs); Pave
+            The user may choose to inhibit the REGEN if          High (2100 RPMs; or Travel (2200 RPMs). The green
+            conditions are too hazardous for high exhaust        arrow in the tachometer gauge displays set points.
+            temperatures. When this lamp is illuminated, a
+            REGEN cannot be performed and soot levels          • Press Button #1 to idle the engine.
+            will continue to rise.                             NOTE: The engine will “auto idle” after a period of
+                              Unless hazardous condi-                inactivity, and return to the previous setting
+            tions exist, the REGEN Inhibit switch and                when functions are activated.
+            this lamp should remain off.                       The machine should be maintained in an operating
+            Engine Emission Fault. Illuminates when a          condition so the DPF can automatically regenerate.
+            fault exists in the emission system. Icon will     When automatic regeneration occurs, the DPF regen-
+            be yellow at the caution level and turn red        eration icon appears on the screen. However, the
+            when the fault has become critical.                operator can choose to activate the parked regenera-
+                                                               tion process, depending upon the DPF level (described
+            Engine Preheat Active. Illuminates before
+                                                               on Pages 4-42 to 4-43).
+            starting while the engine is preheating.
+
+
+
+
+4-26                                                                                   LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 95 ===
+Operation
+
+When you press Button 4 in the engine screen, a           Pressing the ESC (escape) button navigates to the
+pop-up banner appears with regeneration selections        Engine Diagnostics screen, which displays engine
+that correspond with the controller buttons. (Figure      status and important information as shown in Figure
+4-13)                                                     4-14. You can view active and logged engine fault
+                                                          screens (shown on the following page) by pressing the
+NOTE: If the icon background is gray, the function is
+                                                          screen navigation button left and right. A complete
+      unavailable (or unneeded) at the moment.
+                                                          listing of engine fault codes is shown in Trouble-
+                                                          shooting, Section 5.
+
+
+
+
+                                            Button
+                                                                                                                   4
+     Button    Button
+       #1        #2                           #4                 Figure 4-14. Engine Diagnostics Screen
+     Figure 4-13. Engine Screen Pop-Up Banner             • Press Button #1 to view active engine faults.
+• Pressing Button #1 starts the parked regeneration       • Press Button #2 to view logged engine faults.
+  process described on Page 4-44.
+                                                          • Use Buttons #3 and #4 (PREV [previous] and NEXT) to
+• Pressing Button #2 inhibits the regeneration process.     scroll between fault screens.
+• Pressing the ESC (escape) button exits the pop-up to
+  the engine screen.
+NOTE: The DEF concentration, DEF quality and DEF
+      temperature will be shown in red when out of
+      range.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                4-27
+
+=== ORIGINAL PDF PAGE 96 ===
+Operation
+
+The Active Diagnostics screen displays active warn-       Engine Alert Messages
+ings or faults with the appropriate Suspect Parameter
+Number (SPN) and Failure Mode Indicator (FMI). It may     Message banners may pop up on the engine (and pave)
+also display text description and ID/Name of the device   screen due to faults, or to alert the operator of issues.
+that transmitted the message. (Figure 4-15)               Some can be dismissed by pressing the ESC [escape]
+                                                          button and will periodically return to remind the operator
+                                                          of the issue. If the initial alert message is ignored, red
+                                                          alert messages will appear denoting an issue has
+                                                          reached critical level, and the engine output will be
+                                                          limited or will shut down. To prevent costly repairs, it is
+                                                          important to resolve a problem when it first arises.
+                                                          If for some reason the DM430 controller has lost
+                                                          communication with the Plus +1 system or machine drive
+                                                          controller, the following alert message banner appears:
+                                                          (Figure 4-17)
+
+
+
+
+       Figure 4-15. Active Engine Faults Screen
+The Logged Diagnostics screen displays nonactive
+warnings or faults with the appropriate Suspect Param-
+eter Number (SPN) and Failure Mode Indicator (FMI)
+that are stored in the system. (Figure 4-16)
+
+
+
+
+                                                            Figure 4-17. Main Controller Offline Alert Screen
+
+
+
+
+       Figure 4-16. Logged Engine Faults Screen
+
+
+
+
+4-28                                                                              LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 97 ===
+Operation
+
+If the coolant temperature becomes too high, a red alert      The following alert message appears if the engine oil
+message banner will appear on the engine (and pave)           pressure becomes so low that the engine will shut down.
+screens to notify operator the engine will shut down.         (Figure 4-19)
+(Figure 4-18)                                                 If this alert message pops up on the screen:
+If this alert message pops up on the screen:                  1.   Turn off the engine (if it has not already shut down).
+1.   Turn off the engine (if it has not already shut down).   2.   Remove key from the ignition.
+2.   Remove key from the ignition.                            3. Check the engine oil level. Add more oil if needed.
+3. Allow the machine to cool down several minutes,               (Page 5-17)
+   then check the coolant level. Add more coolant if          4.   Start the engine.
+   needed. (Page 5-22)
+                                                              5.   If issues are still present or the engine will not
+4.   Start the engine.                                             restart, contact your authorized dealer for assis-
+5.   If issues are still present or the engine will not            tance if needed.
+     restart, contact your authorized dealer for assis-
+     tance.
+
+
+
+
+                                                                                                                            4
+
+                                                                   Figure 4-19. Low Oil Pressure Alert Message
+
+     Figure 4-18. High Coolant Temperature Alert
+                      Message
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                         4-29
+
+=== ORIGINAL PDF PAGE 98 ===
+Operation
+
+If the DEF is frozen, the following alert banner appears     If the DEF tank temperature exceeds 120° F, the alert
+to notify operator that engine output is limited while the   banner below will appear. (Figure 4-21) Add more DEF
+system attempts to thaw the DEF. You may continue            at your earliest opportunity.
+operation in this state. (Figure 4-20)
+
+
+
+
+                                                              Figure 4-21. High DEF Temperature Alert Message
+       Figure 4-20. Frozen DEF Alert Message
+NOTE: Ambient temperature and humidity adversely
+                                                             If the previous warning is ignored and the DEF tempera-
+     affect DEF quality and consumption, with hot
+                                                             ture is allowed to exceed 140° F, DEF sensor damage
+     and dry climates resulting in greater DEF con-
+                                                             may occur that can adversely impact engine perfor-
+     sumption. Temperatures above 86°F causes
+                                                             mance. The following URGENT message will appear:
+     DEF to break down, which releases ammonia
+                                                             (Figure 4-22)
+     into the onboard DEF tank or storage contain-
+     er. DEF freezes at 12°F.
+
+
+
+
+                                                              Figure 4-22. URGENT High DEF Temperature Alert
+                                                                                Message
+
+
+
+4-30                                                                                LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 99 ===
+Operation
+
+Other urgent alert banner messages may appear if
+active engine faults are ignored (or the emissions
+system has been tampered with), therefore becoming
+so severe that engine output is now limited and requires
+authorized dealer service. (Figures 4-23 to 4-28)
+               Modification or rendering inoperative
+any emission-related component can subject you to
+government penalties (and will void your warranty).
+Tampering with emission controls is in violation of
+federal law, and can result in civil penalties of up to
+$3,750 each day an engine or piece of equipment is
+operated in violation.
+
+
+
+
+                                                           Figure 4-25. URGENT Engine Severely Limited Alert
+
+
+
+
+                                                                                                                        4
+                                                           If an engine fault has been resolved, the following
+                                                           instructional message may appear: (Figure 4-26)
+
+
+
+
+ Figure 4-23. URGENT Engine Output Limited Alert
+
+
+
+
+                                                                    Figure 4-26. Restart Alert Message
+
+
+
+
+       Figure 4-24. Tampering Detected Alert
+
+
+LeeBoy 8680 Commercial Paver                                                                                     4-31
+
+=== ORIGINAL PDF PAGE 100 ===
+Operation
+
+Depending upon the engine fault, the engine output may      To restore engine after this event, press Button #4,
+be temporarily restored. These URGENT messages              which accesses the Engine screen pop-up banner.
+instruct the operator to move to a safe location, shut
+down the machine, and contact your authorized dealer
+                                                            • The engine symbol       will be functional (not gray) in
+for service. (Figures 4-27 and 28)
+                                                              this mode. Pressing Button #4 restores.
+                                                            NOTE: Restores can be used during any Level 1
+                                                                  torque de-rate (50 percent reduction). This
+                                                                  can be DEF level, DEF quality, or SCR system
+                                                                  tampering. Tampering includes any sensor or
+                                                                  controller errors of the SCR system.
+                                                                           When the DEF level is too low, the
+                                                            engine will de-rate. The restore function allows you
+                                                            to restore engine to full power for 10 minutes, then
+                                                            the engine will de-rate again if the DEF tank has not
+                                                            been filled. There are only two restores available per
+                                                            low-DEF level.
+
+
+
+
+Figure 4-27. First Output Temporarily Restored Alert
+                      Message
+If the DEF level is too low, the engine will de-rate. The
+restore function allows you to restore engine to full
+power for 10 minutes, then the engine will de-rate again
+if the DEF tank has not been filled. There are only two
+restores available per low-DEF level.
+
+
+
+
+                                                              Figure 4-28. Final Output Temporarily Restored
+                                                                              Alert Message
+
+
+
+
+4-32                                                                                LeeBoy 8680 Commercial Paver
+

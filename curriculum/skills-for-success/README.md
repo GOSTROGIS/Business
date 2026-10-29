@@ -1,64 +1,49 @@
-# ACCESS IS4S — the complete nine-skills books
+# ACCESS IS4S · Skills for Success
 
-[Download the learner textbook](learner-textbook.pdf) · [Download the practitioner guide](practitioner-guide.pdf)
+[Download the learner textbook](learner-textbook.pdf) · [Download the practitioner guide](practitioner-guide.pdf) · [Preview the visual edition](visual-sampler.pdf)
 
-[Preview eight illustrated pages](visual-sampler.pdf) · [Browse the SVG index](VISUALS.md)
+[Read the learner book](learner-textbook.html) · [Read the practitioner book](practitioner-guide.html) · [Explore the diagrams](VISUALS.md)
 
-[Read the 28 October book review and gap analysis](research/book-gap-analysis-2026-10-28.md) · [Improvement action register](research/book-gap-analysis-2026-10-28-actions.csv)
+**Edition 3 · 29 October 2026**
 
-[Read the learner book](learner-textbook.html) · [Read the practitioner book](practitioner-guide.html)
+Two complete ACCESS Indigenous Skills 4 Success books bring the nine skills into learning, work and community life in British Columbia. Each skill chapter contains a usable process, illustrated explanations, worked examples, complete practice documents and new tasks. The practitioner guide provides teaching routines, full cases, answer guidance and observation tools.
 
-Two substantial companion books expand the complete **148-page Skills for Success Get Started Guide for Practitioners**, revised March 2024, into original ACCESS Indigenous Skills 4 Success teaching prose and practice. The nine Skills for Success are taught in BC learning, work and community contexts, with asphalt paving as the starting trade connection. The colour, type and badge follow the [ACCESS Numeracy Hub](https://github.com/GOSTROGIS/access-trades-numeracy).
+## Start with a useful purpose
 
-## Visual teaching edition
+Use [Start here](learner/00-start-here.md) to choose a goal and agree useful supports. Every skill chapter offers a way into the work, followed by practice and a new opportunity to apply it. Keep evidence of the action you completed and use feedback to decide the next step.
 
-The books now lead with **38 SVG assets**, including a visual map and two case diagrams for every skill. Across the books there are **67 SVG placements** and four people-focused illustrations. Annotated notices, proportional time and cost diagrams, dimensioned layouts, file-version views, equipment sketches, feedback loops, prototype comparisons and lesson diagrams make the reasoning visible. A figure from the supplied guide is also reused with attribution. [Preview the redesign](visual-sampler.pdf).
+| Skill | Learner chapter | Teaching and practice |
+|---|---|---|
+| Reading | [Find, connect and evaluate information](learner/01-reading.md) | [Teach Reading](practitioner/03-reading.md) |
+| Writing | [Write for a reader and a purpose](learner/02-writing.md) | [Teach Writing](practitioner/04-writing.md) |
+| Numeracy | [Find quantities and check the result](learner/03-numeracy.md) | [Teach Numeracy](practitioner/05-numeracy.md) |
+| Digital | [Use tools and keep a useful record](learner/04-digital.md) | [Teach Digital](practitioner/06-digital.md) |
+| Problem solving | [Compare options and test a decision](learner/05-problem-solving.md) | [Teach Problem solving](practitioner/07-problem-solving.md) |
+| Communication | [Receive, explain and check meaning](learner/06-communication.md) | [Teach Communication](practitioner/08-communication.md) |
+| Collaboration | [Contribute to a shared result](learner/07-collaboration.md) | [Teach Collaboration](practitioner/09-collaboration.md) |
+| Adaptability | [Adjust a plan and try again](learner/08-adaptability.md) | [Teach Adaptability](practitioner/10-adaptability.md) |
+| Creativity and innovation | [Develop, test and improve an idea](learner/09-creativity-innovation.md) | [Teach Creativity and innovation](practitioner/11-creativity-innovation.md) |
 
-Worked visual checks provide model responses after practice; use the changed cases for independent evidence. On narrow screens, scroll a diagram within its frame or use its full-size link. PDFs retain vector clarity when enlarged.
+Bring the skills together in the [integrated projects](learner/10-integrated-projects.md) and select work for your [portfolio](learner/11-reference-and-portfolio.md). The chapters retain 174 core activities and add fresh practice across all nine skills. New exercises and their teaching guidance are integrated into the books.
 
-## What is included
+## Tools for practice and teaching
 
-| Book | Contents |
-|---|---|
-| **Learner textbook** | Nine full skill chapters, all 54 components, worked examples, complete fictional documents and datasets, 162 numbered skill activities, two integrated projects with 12 further activities, a glossary and a learning portfolio. |
-| **Practitioner guide** | Framework and transition from Essential Skills; six teaching approaches; nine skill teaching chapters; three complete 90-minute lessons with handouts and answers; assessment and practitioner development; answer guidance for all 174 learner activities; online research, source coverage and the original bibliography index. |
+- [Digital practice desk](teaching/digital-lab/index.html): edit a fictional record, inspect a review copy, save/reopen versions and download evidence. Recipient and access settings are explicitly simulated.
+- [Plan a session and collect evidence](practitioner/14-delivery-and-review.md): prepare materials, schedule individual turns, record supports and organize the next attempt.
+- [Roadbuilding foundations](../asphalt-paving/line-a/README.md): asphalt industry evidence, history, material flow, worker expectations, road documents and developments.
+- [Answer guidance](answers/01-reading.md): use the practitioner book's complete answer sections and the fresh-case keys within its skill chapters.
 
-The practitioner guide reworks the full instructional scope of the supplied guide. It preserves the original bibliography as an attributed index rather than implying that every listed publication was independently read. The [coverage crosswalk](research/source-coverage.md) accounts for all 148 source pages, 54 components, 27 instructional strategy groups, 27 grab-and-go patterns, three appendix lessons and professional-development resources. Content equivalence is demonstrated through this mapping, not by padding the new books to an identical page count.
+Learners can work with the supplied fictional cases or choose an appropriate example. Personal history and cultural knowledge are voluntary contributions. Local people direct any Nation-specific knowledge, language or protocols they choose to bring into the learning.
 
-## Start learning
+## Visuals and reading formats
 
-1. Use [Start here](learner/00-start-here.md) to choose a useful goal and agree supports.
-2. Start with [Reading](learner/01-reading.md), [Writing](learner/02-writing.md) or [Numeracy](learner/03-numeracy.md), or choose the skill connected to your goal.
-3. Follow the explanation and worked example, complete an activity, then review it using the practitioner answer guidance.
-4. Bring the skills together in the [two integrated projects](learner/10-integrated-projects.md), and retain evidence in the [portfolio](learner/11-reference-and-portfolio.md).
+The books use custom SVG illustrations, technical diagrams, annotated documents and four contextual illustrations. The colours and typography follow the ACCESS Numeracy Hub. Diagrams remain sharp when enlarged; reading pages offer a visual viewer and text descriptions. Printed contents identify chapter destinations, and response pages provide space to write.
 
-| Skill | Editable learner chapter | Answer guidance | Practitioner teaching |
-|---|---|---|---|
-| Reading | [Chapter](learner/01-reading.md) | [Answers](answers/01-reading.md) | [Teaching](practitioner/03-reading.md) |
-| Writing | [Chapter](learner/02-writing.md) | [Answers](answers/02-writing.md) | [Teaching](practitioner/04-writing.md) |
-| Numeracy | [Chapter](learner/03-numeracy.md) | [Answers](answers/03-numeracy.md) | [Teaching](practitioner/05-numeracy.md) |
-| Digital | [Chapter](learner/04-digital.md) | [Answers](answers/04-digital.md) | [Teaching](practitioner/06-digital.md) |
-| Problem solving | [Chapter](learner/05-problem-solving.md) | [Answers](answers/05-problem-solving.md) | [Teaching](practitioner/07-problem-solving.md) |
-| Communication | [Chapter](learner/06-communication.md) | [Answers](answers/06-communication.md) | [Teaching](practitioner/08-communication.md) |
-| Collaboration | [Chapter](learner/07-collaboration.md) | [Answers](answers/07-collaboration.md) | [Teaching](practitioner/09-collaboration.md) |
-| Adaptability | [Chapter](learner/08-adaptability.md) | [Answers](answers/08-adaptability.md) | [Teaching](practitioner/10-adaptability.md) |
-| Creativity and innovation | [Chapter](learner/09-creativity-innovation.md) | [Answers](answers/09-creativity-innovation.md) | [Teaching](practitioner/11-creativity-innovation.md) |
+GitHub previews the PDFs and Markdown. Serve the repository locally or host its static files to use the HTML reading pages and Digital practice desk.
 
-For a class sequence, use the [six teaching approaches](practitioner/02-teaching-approaches.md) and [complete integrated lesson plans](practitioner/12-integrated-lesson-plans.md). The existing [SkilledTradesBC asphalt A1 materials](../asphalt-paving/README.md) remain the trade-specific starting unit. These books do not claim to replace the full asphalt trade program.
+## Editing and rebuilding
 
-## Sources and BC Indigenous direction
-
-The original [148-page SkillPlan PDF](../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf), [asphalt program outline](../asphalt-paving/sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf) and [program profile](../asphalt-paving/sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf) are preserved unchanged in the source folder.
-
-[Online research](research/online-research.md) records current federal Skills for Success pages and verified BC education sources, alongside access limits. [Source metadata](research/sources.json), the [complete original-guide inventory](research/sfs-inventory.json) and [bibliography index](research/original-guide-bibliography.md) make the research traceable.
-
-The teaching voice recognizes adults' existing strengths, individual agency, contemporary Indigenous experiences and responsibilities to people and place. Learners can use fictional cases or choose suitable examples from their lives. No one is required to disclose personal history or cultural knowledge. Local Nations and community partners direct Nation-specific content, language, protocols and knowledge. The books do not invent teachings or claim Indigenous community endorsement.
-
-This is an **instructor-review and pilot edition**, not an approved certification instrument. Feedback describes evidence from a task and the support used; it does not assign official proficiency levels. Digital, Writing and interpersonal evidence retain their own task requirements. Current workplace rules and equipment instruction belong in the supervised trade program.
-
-## Rebuild and review
-
-Editable Markdown is the source of truth. The committed HTML pages support reading in a browser when served locally or hosted as static files; GitHub displays their source. The PDFs can be downloaded directly from GitHub.
+Editable chapters contain the full teaching content. Managed practice blocks come from the authoring files listed in [teaching-manifest.json](teaching-manifest.json); [visuals-manifest.json](assets/visuals-manifest.json) controls figure placement. The builder integrates those blocks before producing the books and reading pages.
 
 ```sh
 python -m pip install -r curriculum/skills-for-success/tools/requirements.txt
@@ -66,6 +51,6 @@ python curriculum/skills-for-success/tools/build_books.py
 python curriculum/skills-for-success/tools/verify_books.py --require-generated
 ```
 
-Chromium must be installed. Set `IS4S_CHROMIUM_PATH` to an alternate Chromium executable if needed. Use `--html-only` to build without PDF export. The builder serves repository files briefly on localhost to render them, uses bundled fonts, and converts PDF links to repository URLs. No external service is required. The [book manifest](book-manifest.json) controls the chapter order and the [visual manifest](assets/visuals-manifest.json) controls managed figure blocks; [design provenance and font licences](assets/README.md) accompany the assets.
+Chromium must be installed. Set `IS4S_CHROMIUM_PATH` to another Chromium executable if necessary. `--html-only` builds the reading pages without PDF export. The tools use bundled fonts and a temporary local server; PDF links resolve to repository documents or exact book pages.
 
-See [validation results](VALIDATION.md) for the actual build, content review and artifact checks. Pilot feedback should be recorded against an activity ID, the observed issue, the proposed revision and who reviewed it; do not store identifiable learner work in the public repository.
+[Validation](VALIDATION.md) · [Edition 3 implementation record](IMPLEMENTATION.md) · [Editorial research and provenance](research/online-research.md) · [28 October review](research/book-gap-analysis-2026-10-28.md)

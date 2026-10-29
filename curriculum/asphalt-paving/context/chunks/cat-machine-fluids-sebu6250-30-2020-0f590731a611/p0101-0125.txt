@@ -1,0 +1,1820 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/cat-machine-fluids-sebu6250-30-2020.pdf
+SOURCE SHA-256: 0f590731a6116be33e619690c5e572ff13b41c0ac1398d4e47335a6e96eb2df4
+ORIGINAL PDF VIEWER PAGES: 101–125 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 101 ===
+SEBU6250-30                                                                                                   101
+                                                                                           Maintenance Section
+                                                                                           Distillate Diesel Fuel
+
+
+• Typical fuel characteristics can be obtained from
+                                                                                  NOTICE
+  the fuel supplier.                                      Ultra Low Sulfur Diesel (ULSD) fuel 0.0015 percent
+Fuel parameters outside of the Cat fuel specification     (≤15 ppm (mg/kg)) sulfur is required by regulation for
+limits have explainable consequences.                     use in engines certified to nonroad Tier 4 standards
+                                                          (U.S. EPA Tier 4 certified) and that are equipped with
+• Some fuel parameters that are outside of the            exhaust aftertreatment systems.
+  specification limits can be compensated for (e.g.       European ULSD 0.0010 percent (≤10ppm (mg/kg))
+  fuel can be cooled to address low viscosity; etc.).     sulfur fuel is required by regulation for use in engines
+                                                          certified to European nonroad Stage IIIB and newer
+• Some fuel parameters that are outside of                standards and are equipped with exhaust aftertreat-
+  specification limits may be able to be improved         ment systems.
+  with the use of appropriate amounts of well proven
+  fuel additives. Refer to this Special Publication,      Certain governments/localities and/or applications
+  “Distillate Diesel Fuel” article, “Aftermarket Fuel     MAY require the use of ULSD fuel. Consult federal,
+  Additives” and “Cat Diesel Fuel Conditioner” topics     state, and local authorities for guidance on fuel re-
+  for guidance.                                           quirements for your area.
+
+To help ensure optimum engine performance, a              Typical aftertreatment systems include Diesel Partic-
+complete fuel analysis should be obtained before          ulate Filters (DPF), Diesel Oxidation Catalysts
+engine operation. The fuel analysis should include all    (DOC), Selective Catalytic Reduction (SCR) and/or
+of the properties that are listed in the “Caterpillar     Lean NOx Traps (LNT). Other systems may apply.
+Specification for Distillate Fuel for Nonroad Diesel
+Engines”, Table 51 .                                      Low sulfur diesel (LSD) fuel 0.05 percent (≤500 ppm
+                                                          (mg/kg) sulfur) is strongly recommended for use in
+Note: The diesel fuel has to be bright and clear. The     engines that are pre-Tier 4 models, while diesel fuel
+diesel fuel cannot have any visually apparent             with > 0.05 percent (500 ppm (mg/kg)) sulfur is ac-
+sediment, suspended matter, or undissolved water.         ceptable for use in areas of the world where allowed
+                                                          by law. Pre-Tier 4 engines that are equipped with a
+Diesel Fuels that meet the specifications in table 51     Diesel Oxidation Catalyst (DOC) require the use of
+will help provide maximum engine service life and         LSD fuel or ULSD fuel.
+performance.
+                                                          ULSD fuel or sulfur-free diesel fuel are applicable for
+In North America, diesel fuels that are identified as     use in all engines regardless of the engine Tier or
+meeting the latest version of “ASTM D975” Grades          Stage.
+No. 1-D or No. 2-D (all listed sulfur levels) generally
+meet the table 51 requirements.                           Use appropriate lubricating oils that are compatible
+                                                          with the engine certification and aftertreatment sys-
+In Europe, diesel fuels that are identified as meeting    tem and with the fuel sulfur levels. Refer to the “Die-
+the latest version of “European Standard EN590”           sel Fuel Sulfur Impacts” article of this “Fuels
+generally meet the table 51 requirements.                 Specifications” section and to the “Lubricants Specifi-
+                                                          cations” section of this Special Publication.
+Table 51 is for diesel fuels that are distilled from
+conventional sources (crude oil, shale oil, oil sands,
+etc.). Diesel fuels from other sources could exhibit      Recommendations for Europe Stage V Certified
+detrimental properties that are not defined or            Nonroad Engines:
+controlled by this specification.
+                                                          All the fuel recommendations and requirements for
+                                                          US EPA Tier 4 Certified Nonroad Engines” section
+                                                          above are applicable to the Europe Stage V type-
+                                                          approved Nonroad Engines. Additionally, for the
+                                                          correct operation of the engine in order to maintain
+                                                          the gaseous and particulate pollutant emissions of
+                                                          the engine within the limits of the type-approval,
+                                                          unless specified otherwise in the engine-specific
+                                                          Operation and Maintenance Manual, EU Stage V
+                                                          regulations REQUIRE the diesel fuels (also called
+                                                          non-road gas oil) used in engines operated within the
+                                                          European Union (EU) to have the characteristics
+                                                          below:
+                                                          • The sulfur content should be ≤ 10 mg/kg (20 mg/
+                                                            kg) at point of final distribution
+                                                          • The Cetane number should be ≥ 45
+
+=== ORIGINAL PDF PAGE 102 ===
+102                                                                                                  SEBU6250-30
+Maintenance Section
+Distillate Diesel Fuel
+
+
+• The biodiesel (also called Fatty Acid Methyl Ester        Refer to this Special Publication, “Characteristics of
+  (FAME)) content should be ≤ 7 % volume/volume             Diesel Fuel” article for additional pertinent
+                                                            information concerning fuel lubricity, fuel oxidative
+Refer to your engine Operation and Maintenance              stability, fuel sulfur, and aftertreatment devices. Also
+Manual for the allowed biodiesel blend in your engine       refer to the latest version of “ASTM D975” , the latest
+model. Some Cat engines that are certified per EU           version of “EN 590”, the specific engine Operation
+Stage V can use up to B20 biodiesel blends.                 and Maintenance Manual, and to aftertreatment
+                                                            device documentation for guidance.
+Follow all the local regulations and fluids
+requirements in your area. Refer to your engine-            Note: Caterpillar strongly recommends the filtration
+specific Operation and Maintenance Manual, and              of distillate fuel and/or biodiesel/biodiesel blends
+refer to your aftertreatment device documentation, if       through a fuel filter with a rating of four microns(c)
+available, for additional guidance.                         absolute or less. This filtration should be on the
+                                                            device that dispenses the fuel to the fuel tank for the
+Engine operating conditions play a key role in              engine, and also on the device that dispenses fuel
+determining the effect that fuel sulfur will have on        from the bulk storage tank. Series filtration is
+engine deposits and on engine wear.                         recommended. Caterpillar recommends that the fuel
+Note: The removal of sulfur and other compounds in          dispensed into the machine tank meets “ISO 18/16/
+Ultra Low Sulfur Diesel (ULSD) fuel decreases the           13” cleanliness level.
+conductivity of ULSD and increases the ability of the       Note: The owner and the operator of the engine has
+fuel to store static charge. Refineries may have            the responsibility of using the correct fuel that is
+treated the fuel with a static dissipating additive.        recommended by the manufacturer and allowed by
+However, there are many factors that can reduce the         the U.S. EPA and, as appropriate, other regulatory
+effectiveness of the additive over time. Static charges     agencies.
+can build up in ULSD fuel while the fuel is flowing
+through fuel delivery systems. Static electricity
+discharge when combustible vapors are present                                        NOTICE
+could result in a fire or explosion. Therefore, ensuring    Operating with fuels that do not meet Cat recommen-
+                                                            dations can cause the following effects: starting diffi-
+that the entire system used to refuel your machine
+                                                            culty, reduced fuel filter service life, poor combustion,
+(fuel supply tank, transfer pump, transfer hose,            deposits in the fuel injectors, reduced service life of
+nozzle, and others) is properly grounded and bonded         the fuel system, deposits in the combustion chamber
+is important. Consult with your fuel or fuel system         and reduced service life of the engine.
+supplier to ensure that the delivery system is in
+compliance with fueling standards for proper
+grounding and bonding practices.                                                     NOTICE
+                                                            The footnotes are a key part of the “Caterpillar Speci-
+                        NOTICE                              fication for Distillate Diesel Fuel” Table. Read ALL of
+Do not add new engine oil, waste engine oil or any oil      the footnotes.
+product to the fuel unless the engine is designed and
+certified to burn diesel engine oil (for example Cater-
+pillar ORS designed for large engines). Caterpillar ex-     For additional guidance related to many of the
+perience has shown that adding oil products to Tier 4       fuel characteristics that are listed, refer to “Cat
+                                                            Specification for Distillate Fuel for Off-Highway
+engine fuels (U. S. EPA Tier 4 certified), to EURO          Diesel Engines”, table 51 .
+Stage IIB and IV certified engine fuels, or to the fuels
+of engines equipped with exhaust aftertreatment de-         The values of the fuel viscosity given in table 51 are
+vices, will generally cause the need for more frequent      the values as the fuel is delivered to the fuel injection
+ash service intervals and/or cause loss of                  pumps. For ease of comparison, fuels should also
+performance.                                                meet the minimum and maximum viscosity
+Adding oil products to the fuel may raise the sulfur        requirements at 40° C (104° F) that are stated by the
+level of the fuel and may cause fouling of the fuel sys-    use of either the “ASTM D445” test method or the
+                                                            “ISO 3104” test method. If a fuel with a low viscosity
+tem and loss of performance.                                is used, cooling of the fuel may be required to
+                                                            maintain 1.4 cSt or greater viscosity at the fuel
+ULSD and any other fuel used in Cat engines have to         injection pump. Fuels with a high viscosity might
+be properly formulated and addetized by the fuel            require fuel heaters to lower the viscosity to either 4.5
+supplier and have to meet Special Publication,              cSt or less for rotary fuel injection pumps or 20 cSt
+“Caterpillar Specification for Distillate Diesel Fuel for   viscosity or less for all other fuel injection pumps.
+Off-Highway Diesel Engines”. Fuels that are defined
+as “ASTM D975” Grade No. 1-D S15 or “ASTM
+D975” Grade No. 2-D S15 generally meet Cat
+requirements for ULSD.
+
+=== ORIGINAL PDF PAGE 103 ===
+SEBU6250-30                                                                                                                       103
+                                                                                                           Maintenance Section
+                                                                                                           Distillate Diesel Fuel
+
+
+Table 51
+                                    Cat Specification for Distillate Fuel for Nonroad Diesel Engines
+
+           Specifications                     Requirements                       ASTM Test                    ISO Test
+               Aromatics                   35% volume, maximum                     “D1319”                   “ISO 5186”
+
+                  Ash                     0.01% maximum (weight)                   “D482”                    “ISO 6245”
+                                                      3
+                                            800 kg/m minimum
+   Density at 15° C (59° F)(1)(2)                                              “D4052”, “D287”         “ISO 3675”, “ISO 12185”
+                                            860 kg/m3 maximum
+
+                                          40 minimum (DI engines)
+            Cetane Number                                                          “D613”                    “ISO 5165”
+                                          35 minimum (PC engines)
+
+             Cetane Index                       40, minimum                        “D976”                    “ISO 4264”
+
+              Flash Point                         legal limit                       “D93”                    “ISO 2719”
+
+ Carbon Residue on 10% distilla-
+  tion residue - Ramsbottom, %             0.30% mass, maximum                     “D524”                    “ISO 10370”
+               mass
+           Oxidation Stability               25 g/m3, maximum                      “D2274”                   “ISO 12205”
+
+                                      Minimum of 80% reflectance after
+           Thermal Stability          aging for 180 minutes at 150° C          “D6468”, “D3241”           No equivalent test
+                                                  (302° F)
+
+     Copper Strip Corrosion
+   (Control temperature 50° C                 No. 3 maximum                        “D130”                    “ISO 2160”
+       (122° F) minimum)
+
+                                                10%, Record
+
+                                      90% at 360° C (680° F) maximum
+     Distillation, vol recovered                      (3)                           “D86”                    “ISO 3405”
+
+                                      90% at 350° C (662° F) maximum
+                                                      (3)
+
+
+                                      0.52 mm (0.0205 inch) maximum
+   Lubricity (HFRR Wear Scar)                                                  “D6079”/“D7688”             “ISO 12156–1.3”
+                                             at 60° C (140° F)
+
+                                      6°C (10°F) minimum below ambi-
+              Pour Point                                                            “D97”
+                                              ent temperature
+
+                                       The cloud point must not exceed
+              Cloud Point               the lowest expected ambient                “D2500”                   “ISO 3015”
+                                                temperature.
+
+ Low Temperature Flow Test/Cold
+                                       Must not exceed the lowest ex-
+              Filter                                                           “D4539”/“D6371”            No equivalent test
+                                        pected ambient temperature.
+ Plugging Point Test (LTFT/CFPP)
+
+                                                      (4)
+                                                                         “D5453”, “D2622”, “D129”
+            Sulfur by weight                                                                           “ISO 20846”, “ISO 20884”
+                                                                         (based on the sulfer level)
+
+   KInematic Viscosity at 40° C         1.3 cSt minimum and 2.4 cSt
+      (104° F) for No. 1 diesel                                                    “D445”                    “ISO 3104”
+                                                 maximum
+   KInematic Viscosity at 40° C         1.9 cSt minimum and 4.5 cSt
+      (104° F) for No. 2 diesel                                                    “D445”                    “ISO 3104”
+                                                 maximum
+
+                                                                Contaminants
+
+                 Solids                            10 mg/l                         “D6217”                   “ISO 12662”
+
+               Sediment                   0.05% maximum (weight)                   “D473”                 No Equivalent Test
+
+
+
+                                                                                                                           (continued)
+
+=== ORIGINAL PDF PAGE 104 ===
+104                                                                                                                             SEBU6250-30
+Maintenance Section
+Distillate Diesel Fuel
+
+
+(Table 51, contd)
+                                  Cat Specification for Distillate Fuel for Nonroad Diesel Engines
+
+         Specifications                       Requirements                           ASTM Test                             ISO Test
+          Water/Sediment                      0.05% maximum                            “D2709”                            “ISO 3734”
+               Water                          0.02% maximum                            “D1744”                            “ISO 12937”
+
+            Cleanliness                               (5)                              “D7619”                            “ISO 4406”
+
+            Appearance                        Clear and Bright                         “D4176”                         No equivalent test
+(1) The equivalent API gravity of 875.7 kg/m3 is 30 and for 801.3 kg/m3 is 45 (per “ASTM D287” test method temperature of 15.56° C (60° F)).
+(2) The density range allowed included # 1 and # 2 diesel fuel grades. Fuel density varies depending on sulfur levels, where high sulfur fuels
+    have higher densities. Some unblended (neat) alternative fuels have lower densities than diesel fuel. This density is acceptable if the other
+    properties of the alternative fuel fall within this specification.
+(3) Distillation of 90% at 350° C (662° F) maximum is recommended for Tier 4 engines and preferred for all engines. Distillation of 90% at
+    350° C (662° F) is equivalent to 95% at 360° C (680° F). Distillation of 90% at 360° C (680° F) maximum is 360° C (680° F). Distillation of
+    90% at 360° C (680° F) maximum is acceptable for Pre-Tier 4 engines.
+(4) Follow the federal, state, local, and other governing authorities for guidance concerning the fuel requirements in your area. Follow the engine
+    Operation and Maintenance Manual and the details provided in this Fuel section. ULSD 0.0015% (<15 ppm S) is required by law for Tier 4 en-
+    gines and engines with aftertreatment devices. ULSD and LSD 0.05% (≤500 ppm S) are strongly recommended for pre-Tier 4 engines. Die-
+    sel fuel with >0.05% (>500 ppm) sulfur is acceptable for use where allowed by law. Consult your Cat dealer for guidance when sulfur levels
+    are above 0.1% (1000 ppm). Certain Cat fuel systems and engine components can operate on fuel with a maximum sulfur content of 3%. Re-
+    fer to the specific engine Operation and Maintenance Manual and consult your Cat dealer
+(5) Recommended cleanliness level for fuel as dispensed into machine or engine fuel tank is “ISO 18/16/13” or cleaner per “ISO 4406” or “ASTM
+    D7619”. Refer to the “Recommendations for Cleanliness of Fuels” in this chapter
+
+There are many other diesel fuel specifications that
+are published by governments and by technological
+societies. Usually, those specifications do not review                        Mixing alcohol or gasoline with diesel fuel can
+all the requirements that are addressed in the                                produce an explosive mixture in the engine
+“Caterpillar Specification for Distillate Fuel for Off-                       crankcase or fuel tank.
+Highway Diesel Engines”, Table 51 . To help ensure
+optimum engine performance, a complete fuel                                   Personal injury and damage to the engine may re-
+analysis should be obtained before engine operation.                          sult. Caterpillar recommends against this
+The fuel analysis should include all the properties                           practice.
+that are listed in the “Cat Specification for Distillate
+Fuel for Off-Highway Diesel Engines”, Table 51 .
+
+                        NOTICE
+                                                                              Caterpillar S∙O∙S Services Fuel
+In order to meet expected fuel system component life,                         Analysis
+4 micron (c) absolute or less secondary fuel filtration
+is required for all Cat diesel engines that are                               Caterpillar has developed a maintenance
+equipped with common-rail fuel systems. Also, 4 mi-                           management tool that evaluates fuels. The Cat tool
+cron(c) absolute or less secondary fuel filtration is re-                     for fuel analysis is called S∙O∙S Fuel Analysis and is
+quired for all Cat diesel engines that are equipped                           part of the S∙O∙S Services Program.
+with unit injected fuel systems. For all other Cat die-
+sel engines (mostly older engines with pump, line                             Testing the diesel fuel that goes into your engine is
+and nozzle type fuel systems), the use of 4 micron(c)                         an important tool in your equipment management
+absolute or less secondary fuel filtration is strongly                        toolkit. Diesel fuel testing can help identify production
+recommended. Note that all current Cat diesel en-                             limiting issues such as rapid fuel filter plugging, hard
+gines are factory equipped with Cat Advanced Effi-                            starting, white smoke, deposits, accelerated wear,
+ciency 4 micron(c) absolute fuel filters.                                     and low power. Diesel fuel testing can also provide
+                                                                              extra benefits including helping to identify fuel saving
+                                                                              steps, environmental regulation compliance in
+To obtain additional information on Cat designed and                          countries with higher fuel regulations, minimizing
+produced filtration products, refer to this Special                           Diesel Particulate Filter (DPF) regeneration and
+Publication, “Reference Material” article, “Filters” and                      maximizing the life of the DPF filter and Diesel
+“Miscellaneous” topics, and then contact your Cat
+dealer for assistance with filtration recommendations                         Oxidation Catalyst. Some facilities with standby
+for your Cat machine.                                                         generators may have requirements that fuel is tested
+                                                                              regularly. Operations without requirements will
+                                                                              benefit from knowing that the fuel in the standby
+                                                                              generators is going to provide the expected
+                                                                              performance when needed.
+
+=== ORIGINAL PDF PAGE 105 ===
+SEBU6250-30                                                                                                      105
+                                                                                              Maintenance Section
+                                                                                              Distillate Diesel Fuel
+
+
+S∙O∙S Services Fuel Analyses                               Obtaining S∙O∙S Fuel Samples
+The Cat S∙O∙S Fuel Analysis program provides               Fuel sampling methods depend on the type of fuel
+testing of the fuel for the properties listed below. The   tank to be sampled. Storage tanks may have an
+actual analyses provided may vary depending on             automatic sampling valve at different levels. Storage
+your requirements and reasons for testing. Consult         tanks without an automatic sampling valve require a
+your local Cat Dealer for complete information and         tank sampling device (commonly known as a “Bacon
+assistance about the S∙O∙S Fuel Analysis program.          Bomb” or “Sample Thief”). Refer to “Fuel Sampling
+                                                           Guide”PEDJ0129, for more information and
+• Biodiesel content                                        instructions on proper sampling techniques. Fuel
+                                                           analysis sampling kits can be obtained from your
+• Sulfur content                                           local Cat Dealer. Size of fuel sample needed may be
+                                                           dependent upon the list of tests required.
+• Water contamination
+• Particle cleanliness level                               Heavy Fuel Oil, Residual Fuel,
+                                                           Blended Fuel
+• Microbial growth
+• Identification of elements that can increase                                     NOTICE
+  deposit formation                                        Heavy Fuel Oil (HFO), Residual fuel, or Blended fuel
+                                                           must NOT be used in Caterpillar diesel engines (ex-
+• Identification of fuel conditions that can indicate      cept in 3600 Series HFO engines). Blended fuel is re-
+  contamination or adulteration                            sidual fuel that has been diluted with a lighter fuel
+                                                           (cutter stock) so that they will flow. Blended fuels are
+• Identification of fuel conditions that can indicate      also referred to as heavy fuel oils. Severe component
+  increased abrasive wear, adhesive wear, or wear          wear and component failures will result if HFO type
+  in the combustion chamber                                fuels are used in engines that are configured to use
+                                                           distillate fuel.
+• Identification of fuel characteristics that can
+  indicate low power
+                                                           Fuels For Cold-Weather
+• Indication of fuel to perform in cold weather
+                                                           Applications
+• Identification of fuel conditions that can increase
+  filter plugging                                          In extreme cold ambient conditions, you may choose
+                                                           to use the distillate fuels that are specified in table 52
+• Indication of fuel condition during storage              . However, the fuel that is selected must meet the
+                                                           requirements that are specified in the “Cat
+• Indication of ability of fuel to perform at startup      Specification for Distillate Diesel Fuel for Off-
+                                                           Highway Diesel Engines”, Table 51 . These fuels are
+The results are reported and appropriate                   intended to be used in operating temperatures that
+recommendations are provided.                              are down to −54 °C (−65 °F).
+A properly administered S∙O∙S Services Program can         Note: The fuels that are listed in table 52 may have
+reduce repair costs and lessen the impact of down          higher sulfur levels than the 15 ppm maximum sulfur
+time. S∙O∙S Fuel Analysis is a key component of this       allowed for ULSD. The sulfur levels for these fuels
+program and can ensure that your fuel is stored in a       may exceed 50 ppm maximum sulfur allowed in
+clean environment, meets government requirements,          “EN590:2004”. These fuels may not be acceptable
+and can meet the expected guidelines for
+                                                           for use in areas that restrict maximum fuel sulfur
+performance in your engine. Consult your Cat Dealer
+to determine your fuel testing needs and establish a       levels to 15 ppm maximum or to 50 ppm maximum.
+regular testing interval based on those needs.             The jet fuels described in Table 52 are of lower
+Consult the “Cat Fuel Specification” and the               viscosity than #2 diesel. To meet the viscosity
+“Contamination Control” sections of this Special           requirements given in Table 51 , cooling of the fuel
+Publication for related details on fuel                    may be required to maintain 1.4 cSt or greater
+recommendations including cleanliness.
+                                                           viscosity at the fuel injection pump. Ensure that the
+                                                           lubricity of these fuels is per the requirements given
+                                                           in Table 51 . Consult the supplier for the
+                                                           recommended additives to maintain the proper fuel
+                                                           lubricity.
+
+=== ORIGINAL PDF PAGE 106 ===
+106                                                                                                    SEBU6250-30
+Maintenance Section
+Distillate Diesel Fuel
+
+
+The fuel specifications listed in this table allow and/or     Note: Metallic fuel additives can cause fuel system/
+recommend the use of fuel additives that have not             injector fouling and after treatment device fouling.
+been tested by Cat for use in Cat fuel systems. The           Caterpillar discourages the use of metallic fuel
+use of these specifications allowed and/or                    additives in most applications. Metallic fuel additives
+recommended fuel additives are at the risk of the             should only be used in applications where their use is
+user.
+                                                              specifically recommended by Caterpillar.
+Jet A is the standard fuel used by U.S. commercial
+airlines when operating within the U.S. Jet A-1 is the        Note: Diesel fuel additives/conditioners may not
+standard fuel used by commercial airlines worldwide.          improve markedly poor diesel fuel properties enough
+Per “ASTM D1655, Table 1 (Detailed Requirements               to make them acceptable for use.
+of Aviation Turbine Fuels)”, Jet A and Jet A-1 have
+identical requirements except for freezing point. Jet A       Note: For best results, your fuel supplier should treat
+has a freeze point requirement of −40 °C (−40 °F)             the fuel when additives are needed.
+versus the Jet A-1 has a freeze point requirement of
+−47 °C (−52.6 °F), but the fuel purchaser and the             Diesel Fuel Conditioner
+fuel supplier may agree on other freezing points.
+Table 52                                                      Fuels that are per specifications detailed in this
+                                                              publication should not require the use of additives. In
+   Alternative Distillate Fuels - Cold-Weather Applications
+                                                              case a fuel conditioner is needed to improve certain
+           Specification                   Grade              fuel properties, consult with your fuel supplier or with
+                                                              a reputable provider. Refer to your Cat dealer and to
+       “MIL-DTL-5624U”                      JP-5              Cat special publication PELJ2095 for more details.
+      “MIL-DTL-83133F”                      JP-8
+                                                              When needed, high performance, multipurpose
+      “ASTM D1655-08a”                  Jet A, Jet A-1        diesel fuel conditioners are designed to improve:
+
+                                                              • Fuel economy (through fuel system cleanup)
+These fuels are lighter than the No. 2 grades of fuel.
+The cetane number of the fuels in table 52 must be at         • Lubricity
+least 40. If the viscosity is below 1.4 cSt at 40 °C
+(104 °F), use the fuel only in temperatures below             • Oxidative stability
+0 °C (32 °F). Do not use any fuels with a viscosity of
+less than 1.2 cSt at 40 °C (104 °F).                          • Detergency/dispersancy
+Note: Fuel cooling may be required to maintain the            • Moisture dispersancy
+minimum viscosity of 1.4 cSt at the fuel injection
+pump.                                                         • Corrosion protection
+Note: These fuels may not prove acceptable for all            • Cetane (typically 2-3 cetane numbers)
+applications.
+                                                              Cat Diesel Fuel System Cleaner
+Aftermarket Fuel Additives
+                                                              Note: Cat Diesel Fuel System Cleaner, part number
+There are many different types of fuel additives that         343-6210, is the only fuel system cleaner available to
+are available to use. Caterpillar does not generally          the end user that is tested and approved by
+recommend the use of fuel additives.                          Caterpillar for use in Cat diesel engines.
+In special circumstances, Caterpillar recognizes the
+                                                              Cat Diesel Fuel System Cleaner is a proven high-
+need for fuel additives. Fuel additives need to be            performance detergent product specifically designed
+used with caution. The additive may not be
+compatible with the fuel. Some additives may                  for cleaning deposits that form in the fuel system.
+precipitate. This action causes deposits in the fuel          Deposits in the fuel system reduce system
+system. The deposits may cause seizure. Some                  performance and can increase fuel consumption. Cat
+additives may plug fuel filters. Some additives may           Diesel Fuel System Cleaner addresses the deposits
+be corrosive, and some additives may be harmful to            formed due to the use of degraded diesel fuel, poor
+the elastomers in the fuel system. Some additives             quality diesel fuel, and diesel fuel containing high
+may damage emission control systems. Some                     quantities of high molecular weight compounds. Cat
+additives may raise fuel sulfur levels above the              Diesel Fuel System Cleaner addresses deposits
+maximum allowed by the United States (U.S.)                   formed due to the use of biodiesel, biodiesel blends,
+                                                              and biodiesel that does not meet the appropriate
+Environmental Protection Agency (EPA) and/or, as              quality specifications. Continued use of Cat Diesel
+appropriate, other regulatory agencies. Consult your          Fuel System Cleaner is proven to inhibit the growth of
+fuel supplier for those circumstances when fuel               new deposits.
+additives are required. Your fuel supplier can make
+recommendations for additives to use and for the
+proper level of treatment.
+
+=== ORIGINAL PDF PAGE 107 ===
+SEBU6250-30                                                                                                      107
+                                                                                               Maintenance Section
+                                                                                               Distillate Diesel Fuel
+
+
+Cat Diesel Fuel System Cleaner can be added
+directly to diesel fuel, biodiesel, or biodiesel blends.                            NOTICE
+                                                            Use of Cat Diesel Fuel System Cleaner or Cat Diesel
+Cat Diesel Fuel System Cleaner is a United States           Fuel System Conditioner does not lessen the respon-
+Environmental Protection Agency registered fuel             sibility of the engine owner and/or responsibility of
+additive that can be used with Ultra Low Sulfur Diesel      the fuel supplier to follow all industry standard main-
+Fuel. In addition this cleaner is appropriate for use
+with other ultra low, low, and higher sulfur diesel fuels   tenance practices for fuel storage and for fuel han-
+around the world.                                           dling. Refer to the “General Fuel Information” article
+                                                            in this Special Publication for additional information.
+Cat Diesel Fuel System Cleaner is a proven high-            Additionally, use of Cat Diesel Fuel System Cleaner
+performance cleaner that is designed to perform the         or Cat Diesel Fuel System Conditioner does NOT
+following:                                                  lessen the responsibility of the owner of the engine to
+                                                            use appropriate diesel fuel. Refer to the “Fuel Specifi-
+• Clean performance-robbing fuel system deposits            cations” section in this Special Publication (Mainte-
+                                                            nance Section) for guidance.
+• Restore fuel economy losses resulting from
+  injector deposits
+                                                            Caterpillar strongly recommends that Cat Diesel
+• Restore power losses resulting from injector              Fuel System Cleaner be used with biodiesel and
+  deposits                                                  biodiesel blends. Cat Diesel Fuel System Cleaner is
+                                                            suitable for use with biodiesel/biodiesel blends that
+• Eliminate visible black exhaust smoke resulting           meet Cat biodiesel recommendations and
+                                                            requirements. Note that not all fuel cleaners are
+  from injector deposits                                    suitable for use with biodiesel/biodiesel blends. Read
+                                                            and follow all applicable label usage instructions.
+• Prevent the formation of new fuel-related deposits        Also, refer to this Special Publication, “Distillate
+For engines experiencing problems such as power             Diesel Fuel”, article and also refer to the “Biodiesel”
+                                                            article, which includes Cat biodiesel
+loss, increased fuel consumption, or black smoke            recommendations and requirements.
+due to the presence of fuel-related deposits in fuel
+injectors, a high-strength cleaning cycle is                When used as directed, Cat Diesel Fuel System
+recommended. Add one 0.946L (32 oz.) bottle of Cat          Cleaner has proven to be compatible with non-road
+Diesel Fuel System Cleaner per 250 L (65 gal) of            Tier 4 U.S. EPA certified engines that are equipped
+fuel, which corresponds to a treat rate of 0.4% by          with aftertreatment devices.
+volume. Prior to refueling, pour Cat Diesel Fuel
+System Cleaner directly into the fuel tank, then refill     Note: When used as directed, Cat Diesel Fuel
+with fuel. The refilling process should give                System Cleaner will not raise fuel sulfur levels
+satisfactory mixing of the cleaner. The cleaner will        measurably in the final fuel/additive blend. Follow all
+begin to be effective immediately. Testing has shown        applicable national, regional, and local laws,
+most deposits are cleaned and related issues are            mandates, and regulations concerning the use of
+resolved after 30 hours of operating the engine on          diesel fuel conditioners/additives.
+fuel with the cleaner. For maximum results, continue
+to use at this treat rate for up to 80 hours.
+                                                                                     NOTICE
+To prevent the return of fuel-related deposits, Cat         When used as directed Cat Diesel Fuel System
+Diesel Fuel System Cleaner, add the cleaner to the          Cleaner will not raise fuel sulfur levels measurably in
+fuel as previously described, but at a 0.2% treat rate.     the final fuel/additive blend. But, in the U.S., aftermar-
+In this case, one 0.946L (32 oz.) bottle will treat 500 L   ket fuel additives (retail consumer level versus bulk
+(130 gallons) of fuel. Cat Diesel Fuel System Cleaner       fuel additives used at the fuel supplier/distributor lev-
+can be used on an on-going basis with no adverse            el) with more than 15 ppm sulfur are NOT allowed to
+impact on engine or fuel system durability.                 be used in applications where ULSD usage is man-
+                                                            dated (15 ppm or less fuel sulfur). Note that Cat Die-
+                                                            sel Fuel System Cleaner contains less than 15 ppm
+                                                            of sulfur and is acceptable for use with ULSD fuel.
+
+
+                                                            Renewable and Alternative Fuels
+                                                            Renewable fuels are derived from renewable
+                                                            resources such as planted crops and crop residues
+                                                            (referred to as biomass), waste, algae, cellulosic
+                                                            material, yard and food waste, etc. Renewable fuels
+                                                            reduce the carbon footprint of the fuels compared to
+                                                            fossil fuels on a Life Cycle Analysis basis. Caterpillar,
+                                                            through sustainability initiatives, supports the
+                                                            development and use of renewable fuels.
+
+=== ORIGINAL PDF PAGE 108 ===
+108                                                                                                    SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+Renewable fuels (other than biodiesel) and                  Where the pyrolysis fuel is obtained from used tires,
+alternative fuels (such as but not limited to Gas-to-       our experience has been that the distillation and
+Liquid fuel) are typically >99% hydrocarbons                sulfur requirements are not met. Use of this fuel is
+(composed of carbon and hydrogen). An exception is          likely to lead to impaired function of the fuel and
+biodiesel, which is an oxygenated renewable fuel.           aftertreatment systems. Suitable upgrading would
+Biodiesel is discussed in a separate article in this        likely involve, at a minimum, fractionation and
+Fuel section. Significant research is on going to           desulfurization.
+develop renewable fuels and produce the fuels
+economically.                                               Where the pyrolysis fuel is obtained from waste
+                                                            plastic, our experience has been that the distillation,
+Caterpillar is not in a position to test all varieties of   lubricity, and cetane requirements are not met. Use
+renewable and alternative fuels that are advertised in      of this fuel is likely to lead to impaired function of the
+the market place. If a renewable or alternative fuel        fuel system. Suitable upgrading would likely involve,
+fulfills the performance requirements described in          at a minimum, fractionation and other hydrotreating.
+Cat Fuel Specification, the latest version of “ASTM
+D975”, the latest version of “EN 590”, or the latest        Upgraded pyrolysis fuels that meet Cat Diesel Fuel
+version of the paraffinic fuel specification “CEN TS        specification in Table 51 , “ASTM D975” and/or “EN
+15940” (which defines quality requirements for Gas          590” specifications can be considered for use in Cat
+to Liquids (GTL), Biomass to Liquids (BTL) and              diesel engines. Refer to this special publication for
+hydrotreated vegetable oil (HVO)), then this fuel or a      guidelines and requirements for fuels acceptable in
+blend of this fuel (blended with appropriate diesel         Cat engines. Refer to your Cat dealer for questions.
+fuel) can be used as a direct replacement of
+petroleum diesel in all Cat diesel engines.                                                                    i08155111
+
+Consult with the fuel supplier and with your Cat
+dealer to ensure that the cold-weather performance          Biodiesel
+of the fuel is appropriate to the expected ambient          SMCS Code: 1280
+temperatures at the operation sites and to ensure
+elastomer compatibility. Certain elastomers used in
+older engines (such as engines manufactured up to                                 NOTICE
+the early 1990s) may not be compatible with the new         These recommendations are subject to change with-
+alternative fuels.                                          out notice. Consult your local Cat dealer for the most
+                                                            up to date recommendations.
+Caterpillar is following the development of renewable
+and alternative fuels and the respective fuel               Biodiesel is a renewable fuel that can be made from
+specifications to ensure successful application of          vegetable oils, animal fat, and waste cooking oil.
+these fuels in the engines. Information and guidelines      Soybean oil, rapeseed oil, and palm oil are some of
+will be published as the production of these fuels          the common vegetable oil sources. The raw oils or
+becomes established.                                        animal fats are chemically processed (esterified) to
+                                                            form a fatty acid methyl ester (referred to as FAME).
+Pyrolysis Fuels                                             The esterified product (FAME) is biodiesel fuel that
+                                                            can be used in compression ignition engines. Without
+A particular family of renewable/alternative fuels,         the chemical processing referred to as esterification,
+known as pyrolysis fuels, are typically NOT suitable        the oils or fats are not suitable for use as fuel in
+for use in in modern diesel engines. Pyrolysis fuels        compression ignition engines. The oil or fat must be
+can be obtained from various resources including            esterified and the water and contaminants removed.
+wood, used tires, plastic, etc. Pyrolysis fuels in their
+                                                            Fuel made of 100 percent FAME is referred to as
+raw form do not meet all the requirements in Table 51
+                                                            B100 biodiesel or neat biodiesel.
+, “ASTM D975” and/or “EN 590”specifications. These
+fuels have to be upgraded in order to produce a             Biodiesel can be blended with distillate diesel fuel.
+hydrocarbon product that meets all requirements             The blends can be used as fuel. Blends of biodiesel
+defined in these specifications. Upgrading can              are represented as BXX, where XX represents the
+include fractionation to remove volatiles, hydro-           volume percent of biodiesel blended with diesel fuel.
+desulfurization, hydrotreating etc.
+                                                            Example:
+Where the pyrolysis fuel is obtained from wood, our
+experience has been that the liquid obtained contains       • To blend 100 gallons of B5 biodiesel fuel: mix 5
+high oxygen content (>10%), has high acidity (pH~1)           gallons of B100 biodiesel fuel with 95 gallons of
+and does not meet distillation, lubricity, and cetane         diesel fuel
+requirements. Use of this fuel is likely to lead to
+severe impairment and wear in the fuel system.              • To blend 100 gallons of B20 biodiesel fuel: mix 20
+Suitable upgrading would likely involve, at a                 gallons of B100 biodiesel fuel with 80 gallons of
+minimum, hydro-deoxygenation, fractionation and               diesel fuel
+other hydrotreating.
+
+=== ORIGINAL PDF PAGE 109 ===
+SEBU6250-30                                                                                                      109
+                                                                                               Maintenance Section
+                                                                                                         Biodiesel
+
+
+The quality of biodiesel fuel is critical to its successful   • Metal content is higher than diesel fuel. Biodiesel
+use. Biodiesel fuel that is not per the specification           can contain certain materials naturally or due to
+given in Table 54 may result in performance issues              processing (phosphorus, sodium, calcium,
+and engine downtime.                                            potassium, and magnesium). The maximum levels
+                                                                of these materials are controlled by the
+U.S. distillate diesel fuel specification “ASTM D975”           appropriate specifications.
+includes up to B5 (5 percent) biodiesel. Any diesel
+fuel in the U.S. may contain up to B5 biodiesel fuel          • Contaminants content due to incomplete
+without labeling that indicates biodiesel content in the        esterification or purifying process can be present.
+finished fuel.
+                                                                These contaminants may include glycerides,
+European distillate diesel fuel specification “EN 590”          mono and diesters, sterol glucosides, and others.
+includes up to B5 (5 percent) biodiesel and in some
+regions up to B7 or B8 (7 or 8 percent by volume)             • Higher propensity for microbial growth due to the
+biodiesel. Any diesel fuel in EU may contain up to              biodegradable nature of biodiesel and to the
+these blend levels of biodiesel fuel without labeling           tendency of higher water absorption.
+that indicates biodiesel content in the finished fuel.
+                                                              Meeting specifications as detailed in this Chapter is
+Certain regions or countries around the world may             paramount for biodiesel fuel used in engines, to avoid
+mandate blend levels of B20 or higher. Refer to the           performance issues and engine downtime.
+local regulations and mandates and to local biodiesel
+specifications for fuel quality.                              Refer to guidelines given in this Chapter and to
+                                                              Tables 15 and 17 for the biodiesel fuel requirements,
+Biodiesel fuel that is per Caterpillar and Industry           specifications and risks associated with biodiesel.
+recommended specifications (Refer to Table 54 in
+this Chapter) offers the following advantages:                Note: The user of the engine has the responsibility of
+                                                              using the correct fuel that is recommended by the
+• Renewable fuel, nontoxic, and biodegradable                 manufacturer. The fuel must be allowed by the U.S.
+                                                              EPA and other appropriate regulatory agencies.
+• Reduces tailpipe particulate matter (PM),
+  hydrocarbon (HC), and carbon monoxide (CO)
+  emissions from most modern diesel engines                                            NOTICE
+                                                              In North America, the use of biodiesel from “BQ-
+                                                              9000” accredited producers and “BQ-9000” certified
+• High lubricity, hence reduces friction                      marketers is required. Refer to the “Recommenda-
+• High cetane number                                          tions” section for details.
+
+Biodiesel at B5 blend level has the same attributes as
+diesel fuel. At blend levels over B5, biodiesel has the                               NOTICE
+following attributes that are different than diesel fuel      Failures that result from the use of any fuel are not
+and require management:                                       Caterpillar factory defects. Therefore, the cost of re-
+                                                              pair would NOT be covered by the Caterpillar war-
+• Energy density is lower than diesel fuel. At B100,          ranty for materials and/or the warranty for
+  biodiesel has about 8% lower energy density than            workmanship.
+  diesel fuel. At B20 or lower blend levels, the
+  energy density difference from diesel fuel is not
+  significant.                                                Recommendations for the Use of
+• Oxidation stability and storage stability are lower         Biodiesel in Caterpillar Nonroad
+  than diesel fuel.
+                                                              Engines
+• Cold temperature operability is different than
+  diesel fuel. Cloud point pour point and CFPP are            The biodiesel blend levels acceptable for use in Cat
+  typically higher than diesel fuel.                          engines in various machines, and commercial
+                                                              applications are given in Table 53 . Consult your
+• Materials compatibility is more restricted than             Caterpillar dealer for further information on
+  diesel fuel.                                                compatibility of non-metallic materials such as fuel
+                                                              lines, and other connections to the engine.
+• A higher tendency to dissolve and absorb water
+                                                              Biodiesel fuel must be per the quality
+  than diesel fuel.                                           recommendations given in NEW TABLE. Otherwise,
+                                                              the fuel may result in performance issues and engine
+                                                              downtime.
+
+=== ORIGINAL PDF PAGE 110 ===
+110                                                                                                                       SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+In North America, obtain biodiesel from BQ-9000
+accredited producers and BQ-9000 certified
+marketers. Look for the BQ-9000 biodiesel quality
+accreditation program certification logo that is
+available to distributors that meet the requirements of
+BQ-9000. In other areas of the world, the use of
+biodiesel that is BQ-9000 accredited and certified, or
+that is accredited and certified by a comparable
+biodiesel quality body to meet similar biodiesel
+quality control standards, is required. For more
+information on the BQ-9000 program, go to:
+
+      http://www.BQ-9000.org
+Table 53
+                      Recommendations for Biodiesel Fuel Application in Caterpillar Nonroad Engines (1)
+
+                Engine Models                             Model specific                    Biodiesel acceptable blend levels
+                 ACERT engines;               Engine models with aftertreatment devices
+                 C7 through C32;              and engine models per Stage V Emissions                       Up to B20
+                C-9 through C-18;                           Regulations
+                  C280 Series;
+             CM20, CM25 and CM32;                                                                           Up to B20(2)
+                                                Engine models without aftertreatment
+           3300 Series and 3400 Series;                                                     (For use of higher blend levels up to B100,
+                                                             devices
+           3500 Series and 3600 series                                                             consult with your Cat dealer)
+
+                                               Tier 4, EU Stage IIIB model, EU Stage V
+                                                                                                             Up to B7
+                                                             (Locomotive)
+             Cat engine model C175                                                                          Up to B20(2)
+                                                       All other C175 engines               (For use of higher blend levels up to B100,
+                                                                                                   consult with your Cat dealer)
+
+    Cat engine models: 3003 through 3066                  All engine models                                 Up to B7(3)
+
+                                              C0.5, C0.7, C1.1, C1.5, C1.6, C2.2, C3.3,
+                                              C4.4 engine models Tier 2 / EU Stage II /
+                                                                                                            Up to B7(3)
+                                             China NR2 or earlier Emissions Regulation,
+                                                   without aftertreatment devices.
+                                             C1.3, C1.8, C2.4, C2.6, C3.3B, C3.4 engine
+                                                                                                            Up to B20
+                                               models without aftertreatment devices
+             Cat engine models:
+  C0.5 through C7.1(Mechanical (PLN) Fuel    C0.5, C0.7, C1.1, C1.7, <19kW engine mod-
+                  System)                    els, Stage V Emissions Regulations, without                    Up to B20
+                                                        aftertreatment devices
+                                              C0.5, C0.7, C1.1, C1.5, C1.7, C2.2, C3.3,
+                                             C3.4, C3.6, C4.4, C7.1 engine models Tier 3
+                                              / EU Stage IIIA / China NR3 or later Emis-                   Up to B20(2)
+                                               sions Regulation, without aftertreatment
+                                                                devices
+                                             C1.7, C2.2, C2.8, C3.4B, C3.6, C4.4, C6.6,
+                                             C7.1 engine models Tier 4 / EU Stage IV /
+                                                                                                            Up to B20
+                                             EU Stage V / China NR4 or later Emissions
+                                              Regulation, with aftertreatment devices
+  Cat engine models:C1.7 through C7.1(High
+     Pressure Common Rail (HPCR) Fuel        C2.8, C3.6, C4.4, C6.6, C7.1 engine models
+                  System)                     Tier 3 / EU Stage IIIA / China NR3 or later
+                                                                                                           Up to B20(2)
+                                             Emissions Regulation, without aftertreatment
+                                                               devices
+                                              C3.3B, C3.8 engine models with aftertreat-
+                                                                                                            Up to B7(3)
+                                                           ment devices
+
+
+
+                                                                                                                              (continued)
+
+=== ORIGINAL PDF PAGE 111 ===
+SEBU6250-30                                                                                                                                    111
+                                                                                                                        Maintenance Section
+                                                                                                                                  Biodiesel
+
+
+(Table 53, contd)
+                     Recommendations for Biodiesel Fuel Application in Caterpillar Nonroad Engines (1)
+
+               Engine Models                                   Model specific                          Biodiesel acceptable blend levels
+                                                     C4.4 engines (S/N 44400001-04303)                               Up to B7(3)
+
+                                                  C6.6 engines (S/N CE600001-14623 and S/
+                                                                                                                     Up to B7(3)
+                                                             N 66600001-09015)
+  CAT engine models:C4.4, C6.4 and C6.6 En-
+    gine Serial Prefix 444, C4E, 666, C6E            C4.4 engines (S/N C4E05524-Up and
+                                                                                                                    Up to B20(2)
+                                                               44404304 -Up)
+
+                                                      C6.4 and certain C6.6 engines (S/N
+                                                                                                                    Up to B20(2)
+                                                       CE614624-Up and 66609016-Up)
+(1) EU Regulations require the biodiesel blends used in Stage V engines and Special-Purpose Engines (SPE) operated within the European
+    Union (EU) to contain no more than 8% v/v FAME unless specified otherwise in the engine-specific Operation and Maintenance Manual. B8
+    can be used where B7 is specified.
+(2) Higher blends, up to B100, where mandated can be used in these engines.
+(3) Use of Biodiesel blends above 7% may cause premature wear of the fuel pump and damage to the low-pressure fuel system components as
+    both may contain material incompatible with higher Biodiesel blends.
+
+Table 54
+                           Biodiesel Fuel Quality Recommendations for Caterpillar Nonroad Engines
+
+                        Fuel                                        Specification(1)                                    Details
+                                                        Cat Distillate Diesel Fuel Specification or     A blend of 5 percent by volume of B100
+                        B5(2)
+                                                               "ASTM D975" or "EN 590"                  and 95 percent by volume of diesel fuel.
+
+                                                        "ASTM D7467" or "EN 16709" and "API"            A blend of 20 percent by volume of B100
+                        B20
+                                                                  gravity 30–45                         and 80 percent by volume of diesel fuel.
+
+                                                                                                        A blend of 30 percent by volume of B100
+                        B30                               "EN 16709" and "API" gravity 30–45
+                                                                                                        and 70 percent by volume of diesel fuel.
+
+                                                                                                   Neat biodiesel fuel (100 percent) used for
+                                                      Cat Biodiesel Fuel Specification(3) or "ASTM
+                        B100                                                                       blending with diesel fuel to get the desired
+                                                                D6751" or "EN 14214"
+                                                                                                                  blend level.
+                                                                                                       Diesel fuel used for blending with biodiesel
+                Distillate Diesel Fuel                  Cat Distillate Diesel Fuel Specification (4)
+                                                                                                           fuel to get the desired blend level.
+(1) Some regions or countries may have their own fuel specifications. Follow the local requirements and regulations and use the fuel of highest
+    quality.
+(2) The same specifications also apply to B7 and B8, which are common blend levels in some regions.
+(3) Cat Biodiesel Fuel Specification (B100) is given in 55 in this Biodiesel Section of this Special Publication.
+(4) Cat Distillate Diesel Fuel Specification is given in in Diesel Fuel section of this Special Publication.
+
+
+
+Note: Do not change any engine settings when using                            For applications running biodiesel or biodiesel
+biodiesel fuel. When the use of biodiesel fuel is                             blends, if fuel treatments are needed, consult with
+planned, simply convert to this fuel. Follow the                              your fuel supplier or with a reputable provider. :
+guidelines, recommendations, and quality
+specifications given in this Chapter to avoid any                             Impact of Biodiesel on Engine Oil
+performance issues or downtime.
+                                                                              Biodiesel fuel has higher density and lower volatility
+Two methods can be used for determining the                                   than diesel fuels. As a result, during engine
+volume percent biodiesel in a biodiesel blend:                                operation, biodiesel fuel that dilutes the crankcase oil
+                                                                              may not evaporate as effectively as diesel fuels. For
+• “ASTM D7371” - “Test Method for Determination of                            this reason, fuel dilution of crankcase oils may be
+  Biodiesel (Fatty Acid Methyl Esters) Content in                             higher when biodiesel blends are used.
+  Diesel Fuel Oil Using Mid Infrared Spectroscopy
+  (FTIR-ATR-PLS Method)”                                                      Also, biodiesel contains oxygen molecules. These
+                                                                              oxygen molecules cannot be differentiated from oil
+• “EN 14078” - “Liquid Petroleum Products -                                   oxidation when using current oil analysis techniques.
+  Determination of fatty acid methyl esters (FAME)                            As a result, biodiesel fuel dilution of the crankcase oil
+  in middle distillates -Infrared spectroscopy                                can appear to be higher oxidation of the oil.
+  method”
+
+=== ORIGINAL PDF PAGE 112 ===
+112                                                                                                    SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+When using biodiesel fuel and higher fuel dilution          For Tier 4 applications in the U.S., the diesel fuel
+and/or apparent oil oxidation are detected in the           portion of the final blend must meet the requirements
+crankcase engine oil, consider all the other                of S15 fuels (15 ppm sulfur) designations in the latest
+characteristics of the used oil If these characteristics,   edition of “ASTM D975” specification. For Stage IIIB
+such as wear metals, soot, viscosity or others, are         and later applications in EU, the diesel fuel portion of
+per Caterpillar guidelines and have not reached             the final blend must meet the requirements for sulfur
+condemnation limits, then the oil drain intervals           free (10 ppm sulfur) designation in the latest edition
+should not be impacted.                                     of “EN 590”. The final blend must have maximum of
+                                                            15 ppm sulfur.
+To reduce any potential impact of biodiesel fuel
+dilution on crankcase oil, the use of Cat S·O·S
+Services oil analysis is strongly recommended               Biodiesel Fuel Stability
+when up to B20 (20 percent) and lower biodiesel
+blends are used, and required when using                    Biodiesel fuels key difference from diesel fuel is the
+biodiesel/biodiesel blends that are B20 or above.           ester chemical group (contains two oxygen atoms) in
+When requesting oil analysis, be sure to note the           every biodiesel molecule. Biodiesel may also have
+level of biodiesel being used (B5, B20, and so on).         double bonds (unsaturation) in the carbon chain that
+                                                            can vary based on the feedstock. Due to the ester
+Use of Biodiesel fuel in Engines                            chemical group and the unsaturation, the oxidation
+                                                            stability of biodiesel fuels is typically lower than that
+with Aftertreatment Emissions                               of diesel fuel. The oxidation stability of biodiesel and
+Control Systems                                             biodiesel blends is controlled in specifications as
+                                                            given in Table 54 . Biodiesel fuels that do not conform
+                                                            to these specifications can oxidize quickly during use
+Biodiesel fuels as defined in the current ASTM              due to the high temperature and pressure conditions
+specifications, may contain phosphorous, alkali and
+alkaline metals (sodium, potassium, calcium, and            in the engine or during storage and handling
+magnesium) due to processing techniques or due to           practices. Oxidized biodiesel forms acids, gums, high
+the natural contents of the biodiesel feedstock. When       viscosity and deposits, which can reduce storage
+present in biodiesel, these metals form ash upon            stability, plug filters, form deposits, particularly in the
+combustion in the engine. The ash accumulates in            fuel injector, and reduce the performance of fuel
+the aftertreatment systems such as Diesel Particulate       systems. Use of biodiesel fuels meeting or
+Filters (DPF), DOC or other systems. The ash can            exceeding the oxidation stability limits is critical
+affect the life and performance of aftertreatment           to avoid poor performance and downtime of engines.
+emissions control devices and may cause the need
+for more frequent ash service intervals. For these          To avoid the issues associated with oxidized
+                                                            biodiesel fuel, always purchase fuels that conform to
+reasons, biodiesel fuels that contain ash forming           or exceed the specifications (refer to Tables 53 and
+metals, even at the concentration levels defined in         56 in this Chapter). Also, follow all the guidelines for
+the current specifications, are limited to B20 blend
+levels in the engines with aftertreatment devices.          appropriate storage and handling of this fuel such as
+                                                            avoiding excessive heat and sunlight during storage,
+Local and regional regulations may also restrict the        exposure to oxygen (air), contact with metals such as
+blend levels allowed in engines of certain emissions        copper, lead, tin, zinc, and others. The use of
+levels. EU Stage V regulations REQUIRE the                  antioxidants can improve the oxidation stability of
+biodiesel blends used in engines operated within the        biodiesel fuel. The antioxidants are most effective
+European Union (EU) to be ≤ 8 % volume/volume               when added to new fuels. Consult with your fuel
+unless specified otherwise in the engine-specific           supplier to ensure the quality of the fuel and refer to
+Operation and Maintenance Manual.                           the details given in this chapter for guidance.
+                                                            Cat Diesel Fuel System Cleaner (Part number
+Note: Note that some Cat engines that are certified
+                                                            343-6210), used as needed or on an on-going
+per EU Stage V can use up to B20 biodiesel blends.          basis, is most effective at cleaning and preventing
+Refer to engine or machine OMM and to Table 53 .            the formation of fuel-related deposits.
+
+=== ORIGINAL PDF PAGE 113 ===
+SEBU6250-30                                                                  113
+                                                              Maintenance Section
+                                                                        Biodiesel
+
+
+Refer to the “Cat Diesel Fuel System Cleaner” topics
+in the “Distillate Diesel Fuel” section in this Special
+Publication for additional information. Consult your
+Caterpillar dealer for availability of Cat Diesel Fuel
+System Cleaner. In case a fuel conditioner is needed
+to improve certain fuel properties, consult with your
+fuel supplier or with a reputable provider.
+
+Biodiesel Fuel Storage
+Storage tanks used for storing diesel fuel are
+appropriate for storing biodiesel fuels. Fuel storage
+tanks need to be cleaned thoroughly before
+converting to biodiesel/biodiesel blends. Conversion
+to biodiesel/biodiesel blends can loosen fuel system
+and fuel storage tank deposits. Loosened deposits
+result in filter plugging with the loosened deposits.
+For this reason, the change intervals of bulk tank
+continuous filtration unit, dispensing point filters, and
+onboard engine filters should be shortened for an
+extended period to allow for this cleaning effect.
+Once the systems are cleaned, the typical filter
+service intervals can be resumed.
+Biodiesel fuel is hygroscopic, which implies that
+biodiesel tends to absorb and dissolve water at a
+higher concentration than diesel. All precautions and
+measures must be taken to ensure that storage tanks
+are protected from water ingress. Follow all the
+contamination control measures provided in the
+"Contamination Control" section of this Special
+Publication.
+Biodiesel storage duration is shorter than diesel due
+to the chemical nature of biodiesel. Storage duration
+is dependent on the blend level. Blends up to B20 or
+B30 (where mandated) can be stored up to 8 months.
+Testing of biodiesel at 4 months and monthly
+thereafter is recommended. B100 can be stored for 4
+months. Testing at 2 months and monthly thereafter
+is recommended. Tests should include oxidation
+stability, acid number, viscosity and sediments. Refer
+to Table 56 and related guidelines for details.
+
+Note: If switching from biodiesel to distillate fuel, it is
+recommended to change all fuel filters to avoid filter
+plugging. Failure to do so can create low fuel
+pressure.
+
+Guidelines
+Information provided in Table 55 refers to biodiesel
+and biodiesel blends that fully comply with the
+appropriate specifications as described in the
+“Biodiesel” section of this Special Publication and to
+handling and maintenance procedures that follow
+recommended guidelines.
+
+=== ORIGINAL PDF PAGE 114 ===
+114                                                                                                                                  SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+Table 55
+      Guidelines and Potential Impacts Associated with the Use of Biodiesel and Biodiesel Blends In Cat Engines(1)
+
+                                 Impact                               B8-B20                          B21-B30                       B31-B100
+       1             Reduction of oil change interval                  No risk                 Not noted in Cat engines               Medium
+
+       2               Fuel filters compatibility risk                 No risk                 Not noted in Cat engines            Medium risk
+
+                   Loosening of fuel systems deposits
+       3                                                          More than ULSD                       Medium                           High
+                      upon conversion to biodiesel
+
+                                                                ≤4 microns absolute,             ≤4 microns absolute           ≤4 microns absolute
+       4                Bulk filtration of biodiesel
+                                                                      required                        required                      required
+
+                                                                                                                              Detectable loss of 5-8
+       5               Energy content of biodiesel            Minor loss of 1-2 percent        Minor loss of 1-2 percent
+                                                                                                                                    percent
+
+                                                              Not noted in Cat engines         Not noted in Cat engines      Not noted in Cat engines
+       6                Elastomers compatibility
+                                                               with required material           with required material        with required material
+
+       7                    Hose compatibility                  Low risk of softening            Softening may occur             Softening is likely
+
+                                                                                             Gelling at increasing temper-
+                  Low ambient temperature issues for         Gelling can start higher than                                 Gelling at increasing Tem-
+       8                                                                                      atures compared to diesel
+                     both storage and operation                          0C                                                  perature, -2 to 18 oC
+                                                                                                           fuel
+
+       9           Oxidation stability-Injector deposits      Not noted in Cat engines         Not noted in Cat engines           Increasing risk
+
+                 Oxidation stability-Duration of storage     8 months - start testing at 4   8 months - start testing at 4   4 months - start testing at
+      10                             (2)                             months(3)                       months(3)                    2 months(3)(4)
+
+                 Use in engines with limited operational
+      11                                                           Unacceptable(5)                 Unacceptable(5)                 Unacceptable
+                                 time
+                                                             Increasing. Testing required Increasing. Testing required        High. Testing required -
+      12          Microbial contamination and growth
+                                                                 - treat at trace levels      - treat at trace levels           treat at trace levels
+
+      13                 Need for water removal                       Increasing                      Increasing                        High
+
+                                                              Incompatible with certain       Incompatible with certain      Incompatible with certain
+      14                   Metal incompatibility
+                                                                    materials                       materials                      materials
+                 Glycerides, total, free, mono, di (if not
+      15                                                          Detectable impact               Detectable impact                 High impact
+                               per spec)
+(1) Information provided in this Table refers to biodiesel and biodiesel blends that fully comply with the appropriate specifications as described in
+    this Chapter and per following recommended maintenance procedures.
+(2) Testing of biodiesel or biodiesel blend during storage is strongly recommended. Tests should include oxidation, acid number, viscosity and
+    sediments. Tests should be conducted periodically to ensure biodiesel is per specification. Antioxidants are allowed to improve stability. Con-
+    sult with your fuel supplier for more information.
+(3) Testing is recommended at the indicated duration of storage and on a monthly basis thereafter. Tests should include oxidation, acid number,
+    viscosity and sediments.
+(4) B100 should be stored at temperatures of 3 degrees C to 6 degrees C (5 degrees F to 10 degrees F) above the cloud point.
+(5) If B20 or B30 are used in engines of limited operational time, it is recommended that a stabilizer additive is added at the beginning of the stor-
+    age period. Follow all storage recommendations.
+
+The following are details of the Risks and Guidelines                              2. Confirm with the filter manufacturer that the fuel
+listed in Table 55 . Refer to the paragraph reference                                 filter/filters to be used are compatible with
+numbers:                                                                              biodiesel. Fuel water separators are preferred
+1. When using biodiesel fuel, dilution of oil by the fuel                             when biodiesel is used.
+   may increase as detailed in this Chapter. Use
+                                                                                   Note: Cat fuel filters and Cat fuel water separators
+   S·O·S Services oil analysis to monitor the                                      are compatible with biodiesel fuel.
+   condition of the engine oil. S·O·S Services oil
+   analysis will also help determine the oil change
+   interval that is optimum. Use of S.O.S is strongly
+   recommended for up to B20 biodiesel blends and
+   required for blends >B20.
+
+=== ORIGINAL PDF PAGE 115 ===
+SEBU6250-30                                                                                                        115
+                                                                                                Maintenance Section
+                                                                                                          Biodiesel
+
+
+3. Conversion to biodiesel can loosen fuel tanks and         8. Biodiesel fuels may gel or freeze at high
+   fuel system deposits. During the conversion period           temperatures due to the nature of this fuel. Ensure
+   fuel filter change intervals should be shortened to          that the biodiesel pour point is appropriate for the
+   allow for this cleaning effect. Once the deposits            climate of the application. In general, the risk of
+   are removed, convert back to the regular filter              low temperature gelling of biodiesel increases with
+   service intervals. Filter change interval of 50 hours        the increase of blend levels and may depend on
+   or less should be used during initial conversion to          the biodiesel feedstock (soy, used cooking oil,
+   B20 or higher biodiesel blends.                              animal fats, palm and others). If the pour point of
+                                                                the biodiesel is not appropriate for the climate of
+4. Filter biodiesel and biodiesel blends through a fuel
+                                                                the application, the fuel can gel and plug filters,
+   filter with a rating of 4 microns (c) absolute or less.
+                                                                hoses and transfer lines. At low ambient
+   Filters should be on the device that dispenses the
+                                                                temperatures, biodiesel fuel may need to be
+   fuel from the bulk storage tank to the fuel tank for
+                                                                stored in a heated building or a heated storage
+   the engine. Bulk filtration with fuel water
+                                                                tank. Consult your biodiesel supplier for
+   separators is recommended. Series filtration is
+                                                                assistance in the blending and attaining of the
+   recommended.
+                                                                proper cloud point for the fuel. Refer to "Modifying
+5. Neat biodiesel (B100) typically provides less                the Cloud Point" in the "Diesel Fuel" Section of this
+   energy per gallon compared to diesel fuels. The              Special Publication.
+   energy content of B100 is 5 percent to 8 percent
+   lower than No. 2 diesel fuel. The energy content of       Note: The performance of cold flow improvers may
+                                                             be less effective in biodiesel fuel compared to diesel
+   B20 (and B30 where mandated) is 1 percent to 2
+                                                             fuel. Consult the fuel supplier for appropriate cold
+   percent lower than No. 2 diesel fuel, which is not
+                                                             flow improvers if needed.
+   significant. Do NOT attempt to change the engine
+   rating to compensate for the power loss. Any              9. Biodiesel oxidation stability is in general lower than
+   adjustments to the engine in service may result in           that of diesel fuel, as detailed earlier in this
+   violation of emissions regulations such as the U.S.          Chapter. The use of biodiesel fuels that are not per
+   EPA anti- tampering provisions. Also, if any                 specifications can accelerate fuel oxidation in the
+   tempering with the engine ratings occurs,                    fuel system. Also, engines with an electronic fuel
+   problems may occur when the engine is converted              system operate at higher temperatures and
+   back to 100 percent distillate diesel fuel.                  pressures that can also accelerate fuel oxidation.
+6. Compatibility of the elastomers with biodiesel can           Oxidized fuel can form deposits in fuel injection
+   be different than compatibility with diesel fuel.            systems and in fuel systems in general. Always
+   Prolonged exposure of certain elastomers, hoses,             use biodiesel fuel that meets or exceeds the
+   seals, and gaskets to B100 may cause some                    stability limits defined in biodiesel specifications as
+   degradation and softening of these materials. The            given in this Chapter to avoid fuel oxidation and
+   condition of gaskets, seals, and hoses should be             degradation. The use of appropriate antioxidants
+   monitored regularly. The risk of degradation                 can enhance oxidation stability of biodiesel. Refer
+   increases with the increase of biodiesel blend               to “Biodiesel Fuel Stability” section of this chapter
+   level.                                                       for details and guidelines.
+
+   a. In general, Cat engines built early to mid-90s
+      and beyond use Viton seals and Viton O-rings
+      in the fuel system. Viton is compatible with
+      biodiesel and degradation upon exposure to
+      this fuel is not expected.
+7. Nitrile hoses typically used in some fuel transfer
+   lines are not compatible with biodiesel. Hoses
+   exposed to biodiesel and biodiesel blends may
+   soften and may show some beading of fluid on the
+   outside of the hose. Monitor the condition of the
+   hoses and confirm with the hose manufacturer that
+   the hoses are compatible with the biodiesel blend
+   used. If necessary, replace with hoses of
+   compatible materials. Consult with Cat dealers for
+   appropriate hose materials.
+
+=== ORIGINAL PDF PAGE 116 ===
+116                                                                                                  SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+10. Due to the chemical nature of biodiesel fuel,                Repeat the process until the system is clean.
+  biodiesel can age and degrade during long-term                 Refill with high-quality fuel following the
+  storage. Fuel aging and fuel oxidation upon long-              recommendations provided in this “Fuel”
+  term storage may cause the formation of gels,                  section. For standby generator sets and
+  acids and/or deposits. For these reasons,                      emergency vehicles that use biodiesel, use fuel
+  biodiesel should be used within a limited time from            with oxidation stability 6 hours or more per “EN
+  production. To ensure appropriate storage                      14112” test method.
+  duration, testing of the stored biodiesel is
+                                                            12. Biodiesel is prone to microbial contamination and
+  recommended. Tests should include oxidation,
+                                                              growth due to the chemical nature. Microbial
+  acid number, viscosity, and sediments. Tests
+                                                              contamination and growth can cause corrosion in
+  should be conducted at the durations given in
+                                                              the fuel system and premature plugging of the fuel
+  Table 56 to ensure that biodiesel is per
+                                                              filter. Consult your supplier of fuel and additive for
+  specification. Antioxidants are recommended to
+                                                              assistance in selecting appropriate anti-microbial
+  improve stability of biodiesel and increase the
+                                                              additives. Use anti-microbial additives at the first
+  storage time limits. Consult with your fuel supplier
+                                                              sign of detection. The cleaning process will be
+  or with a reputable provider to select appropriate
+                                                              more effective if the biocide is used before
+  additives.
+                                                              extensive growth of microorganisms.
+   a. B20 and B30 (where mandated) biodiesel
+                                                            13. Biodiesel can absorb and dissolve more water
+      blends can generally be stored up to 8 months.
+                                                              than diesel due to its chemical nature. Care must
+      Testing of B20 and B30 blends is recommended
+                                                              be taken to prevent water from contaminating the
+      at 4 months of storage and on a monthly basis
+                                                              fuel and to remove water from fuel tanks. Water
+      thereafter to ensure that the fuel has not
+                                                              accelerates microbial contamination and growth
+      degraded.
+                                                              and can cause system corrosion.
+   b. B100 biodiesel can generally be stored up to 4
+                                                            14. Biodiesel is not compatible with some metals.
+      months. Testing of B100 is recommended at 2
+                                                              Biodiesel, in particular at blends of B20 and
+      months of storage and every two weeks
+                                                              higher, will oxidize and form sediments upon long-
+      thereafter to ensure that the fuel has not
+                                                              term contact with lead, zinc, tin, copper, and
+      degraded. The use of appropriate additives is
+                                                              copper alloys such as brass and bronze. These
+      required if B100 is stored for more than 4
+                                                              materials are typically avoided in the fuels
+      months. Consult your fuel supplier for more
+                                                              systems. Consult your dealer for more information.
+      information.
+                                                            15. During the esterification and cleaning process of
+   c. B100 should be stored at temperatures of 3° C
+                                                              the biodiesel production, glycerol and unreacted
+      to 6° C (5° F to 10° F) above the cloud point.
+                                                              oils (mono, di and tri glycerides) may remain in the
+      Other storage conditions such as avoiding
+                                                              biodiesel. If these undesirable components are
+      direct sunlight or heat should be followed.
+                                                              above the allowed specification levels, they can
+11. Due to limited oxidation stability and other              cause issues such as filter plugging and injector
+  potential issues, engines with limited operational          deposits. It is critical that the biodiesel fuel is per
+  time and seasonal use should either not use                 the recommended specifications.
+  biodiesel/ biodiesel blends or, while accepting
+  some risk, limit biodiesel to a maximum of B5.            Note: The use of biodiesel at a B2 level improves the
+                                                            lubricity of the final blend by an estimated 66 percent.
+  Examples of applications that should limit the use
+                                                            Increasing the blend level higher than B2 does not
+  of biodiesel are the following: Standby Generator
+                                                            improve the lubricity any further.
+  sets and certain emergency vehicles, school
+  buses, farm machinery, etc. For more information,         Note: Use of biodiesel that is per or preferably
+  refer to the “Seasonal Operation” section.                exceeds the specifications can avoid the issues listed
+                                                            above and reduce the risks listed above.
+   a. For standby generator sets and emergency
+      vehicles that use biodiesel, sample the fuel in
+      the engine tank monthly. Test the fuel for acid
+                                                            Seasonal Operation
+      number and oxidation stability. If the test results   Seasonally operated engines should have the fuel
+      show that the fuel is degraded and not in             systems, including fuel tanks, flushed with
+      specification (provided in Table 56 in this           conventional diesel fuel before prolonged shutdown
+      “Biodiesel” section), drain the tank, and flush       periods. Applications that should seasonally flush the
+      the engine by running with high-quality fuel.         fuel system include school buses (U.S.) and farm
+                                                            machinery.
+
+=== ORIGINAL PDF PAGE 117 ===
+SEBU6250-30                                                                                                      117
+                                                                                              Maintenance Section
+                                                                                                        Biodiesel
+
+
+Perform the following process before shutting down          The final blend of biodiesel as used in the engine
+the engine for prolonged periods:                           must meet the requirements that are stated in Table
+                                                            56 this “Biodiesel” article.
+1. Operate the engine until the fuel level in the tank is
+   low.                                                     B100 intended for blending into diesel fuel that is
+                                                            expected to give satisfactory vehicle performance at
+2. Refill the fuel tank with high-quality conventional      fuel temperatures at or below −12° C (10.4° F) shall
+   distillate diesel fuel.                                  comply with a cold soak filterability limit of 200
+                                                            seconds maximum. Passing “ASTM D6751” 200
+3. Repeat steps 1 and 2 a minimum of two times              seconds Cold Soak Filterability test limit does not
+   before the engine is shut down for prolonged             guarantee cold performance for all biodiesel blends
+   periods.                                                 at all possible fuel temperatures, but biodiesel that
+                                                            fails this Cold Soak Filterability test requirement will
+If distillate fuel is not available to operate the engine   produce biodiesel blends that will likely gel and plug
+as described above, while accepting some risk, limit        fuel filters when fuel temperatures are below −12° C
+biodiesel to a maximum of B5. The use of biodiesel          (10.4° F).
+fuel of high oxidation stability can reduce the risks
+associated with prolonged storage. Follow the
+recommendations provided in this section and the
+guidelines given below to reduce the risk:
+
+• Addition of a high performance diesel fuel
+  oxidation stabilizer is recommended prior to
+  engine shutdown for prolonged periods. The
+  conditioner should be added when the engine is
+  fueled. Preferably, the conditioner is added to the
+  fuel as soon as possible after the fuel production.
+
+• Addition of Cat Diesel Fuel System Cleaner, part
+  number 343-6210, is recommended when the
+  engine is first operated after the prolonged
+  shutdown period and preferably for a total of two
+  tanks of fuel. Follow the recommendations
+  provided in the Cat Diesel Fuel System Cleaner
+  section in the “Fuel” article in this Special
+  Publication.
+• For standby generator sets and emergency
+  vehicles that use biodiesel, sample the fuel in the
+  engine tank monthly. Test the fuel for acid number
+  and oxidation stability. If the test results show that
+  the fuel is degraded and not in specification
+  (provided in Table 56 in this “Biodiesel” section),
+  drain the tank, and flush the engine by running
+  with high-quality fuel. Repeat the process until
+  the system is clean. Refill with high-quality
+  fuel following the recommendations provided
+  in this “Fuel” section. For standby generator
+  sets and emergency vehicles that use
+  biodiesel, use fuel with oxidation stability 6
+  hours or more per “EN 14112” test method.
+Consult your Caterpillar dealer for the availability of
+Cat Diesel Fuel System Cleaner. In case a fuel
+conditioner is needed to improve certain fuel
+properties, consult with your fuel supplier or with a
+reputable provider
+
+Biodiesel Specification
+Biodiesel fuel used for blending must meet the
+requirements in the following table, the requirements
+of ASTM “D5761” and/or “EN14214”.
+
+=== ORIGINAL PDF PAGE 118 ===
+118                                                                                                       SEBU6250-30
+Maintenance Section
+Biodiesel
+
+
+Table 56
+                                   Cat Specification for Neat (B100) Biodiesel Blending Fuel
+
+                             Test Method, United          Test Method,                            Limits, B100 Blend-
+           Property                                                                  Units
+                                   States                 International                                 ing Fuel
+       Density at 15°C           “ASTM D1298”               “ISO 3675”               g/cm3               0.86-0.90
+
+      Viscosity at 40°C           “ASTM D445”               “ISO 3104”            mm2/s (cSt)             1.9-6.0
+
+           Flash Point            “ASTM D93”                “ISO 3679”                °C                93 minimum
+           Pour Point                  -                         -                     -
+                                                                                                  6 °C (10 °F) minimum be-
+           - Summer
+                                  “ASTM D97”                “ISO 3016”                °C          low ambient temperature
+            - Winter
+
+           Cloud Point           “ASTM D2500”                                         °C                  Report
+
+      Sulfur Content(1)          “ASTM D5453”         “ISO 20846” “ISO 20884”    percent weight     0.0015(2) maximum
+
+           Distillation                -                         -                     -                     -
+
+              T90                 “ASTM D86”                “ISO 3924”                °C                    360
+
+       Cetane Number              “ASTM D613”               “ISO 5165”           % evaporation          45 minimum
+
+        Sulfated Ash              “ASTM D874”         “ISO 3987” or "ISO 6245"   percent weight        0.02 maximum
+
+   Water and Sediment            “ASTM D2709”               “ISO 12937”          percent volume       0.050 maximum
+
+             Water               "ASTM D1796"             "EN ISO 12937"            % m/m             0.050 maximum
+
+   Copper Corrosion, 3
+                                  “ASTM D130”               “ISO 2160”                 -                   No. 1
+     hours at 50oC
+                               “EN 14112” or "EN         “EN 14112” or "EN
+      Oxidation Stability                                                            hours              3 minimum
+                                    15751"                    15751"
+  Ramsbottom Carbon
+                                  "ASTM D524"               “ISO 10370”             %-m/m              0.30 maximum
+ Residue on 10% bottoms
+ Carbon Residue, Conrad-
+                                 “ASTM D4530”                    -               percent weight        0.05 maximum
+       son (CCR)
+
+                             "ASTM D 7806" or "ASTM
+        Esterification                                      “EN 14103”           percent volume        97.5 minimum
+                                    D 7371"
+
+      Total Acid Number           “ASTM D664”               “EN 14104”             mg KOH/g            0.5 maximum
+
+      Methanol Content             “EN 14110”               “EN 14110”           percent weight        0.2 maximum
+
+       Monoglycerides            “ASTM D6584”               “EN 14105”           percent weight        0.8 maximum
+
+        Diglycerides             “ASTM D6584”               “EN 14105”           percent weight        0.2 maximum
+
+        Triglycerides            “ASTM D6584”               “EN 14105”           percent weight        0.2 maximum
+
+        Free Glycerin            “ASTM D6584”               “EN 14105”           percent weight        0.02 maximum
+
+        Total Glycerin           “ASTM D6584”               “EN 14105”           percent weight       0.240 maximum
+
+   Phosphorus Content            “ASTM D4951”               “EN 14107”           percent weight       0.001 maximum
+
+ Calcium plus Magnesium            “EN 14538”               “EN 14538”               ppm                5 maximum
+
+  Sodium plus Potassium            “EN 14538”               “EN 14538”               ppm                5 maximum
+
+   Cold Soak Filterability       “ASTM D7501”                    –                  seconds            360 maximum
+
+         Cleanliness             “ASTM D7619”               “ISO 4406”                 –                     (3)
+
+
+
+
+                                                                                                                   (continued)
+
+=== ORIGINAL PDF PAGE 119 ===
+SEBU6250-30                                                                                                                                   119
+                                                                                                                       Maintenance Section
+                                                                                                                                 Biodiesel
+
+
+(Table 56, contd)
+                                      Cat Specification for Neat (B100) Biodiesel Blending Fuel
+
+                               Test Method, United               Test Method,                                          Limits, B100 Blend-
+          Property                                                                                 Units
+                                     States                      International                                               ing Fuel
+
+      Total contamination             "EN 12662"                   "EN 12662"                      mg/kg                     24 maximum
+
+         Appearance                 "ASTM D4176"                         -                            -                    Clear and Bright
+(1) Methods for testing S are based on the sulfur content in diesel fuel used for blending. Consult with the fuel supplier and ensure the correct
+    method has been used
+(2) Sulfur level must be per local regulations. Higher S levels may be used where allowed.
+(3) Recommended cleanliness level for fuel as dispensed into the engine fuel tank is ISO 18/16/13 or cleaner per the test methods listed. Refer
+    to the contamination control Chapter for more details.
+
+Note: Fuels that meet the most current revision level
+of “ASTM D6751” or “EN 14214” may be used for
+blending with an acceptable distillate fuel. The
+conditions, recommendations, and limits that are
+noted in this Biodiesel section apply.
+
+Referenced Documents
+Refer to the “Reference Material - Fuel” section of
+this Special Publication for the reference material for
+the information in this section.
+
+=== ORIGINAL PDF PAGE 120 ===
+120                                                                                                  SEBU6250-30
+Maintenance Section
+Cooling System Specifications
+
+
+Cooling System                                                                        NOTICE
+                                                             In order to avoid potential damage to your Cat ma-
+Specifications                                               chine and/or Cat engine, only purchase Cat fluids
+                                                             and Cat filters through your Cat dealer or Cat author-
+                                                 i07926414
+                                                             ized outlets. For a list of authorized Cat parts outlets
+                                                             in your area, consult your Cat dealer.
+General Coolant Information                                  If you purchase what appear to be Cat fluids and/
+SMCS Code: 1350; 1395                                        or Cat filters through other outlets/sources, you
+                                                             are at a very high risk of purchasing counterfeit
+                                                             (“look-alike”) products.
+                                                             Counterfeit or “look-alike” products may visually ap-
+The cooling system operates under pressure                   pear the same as the original Cat product, but the
+which is controlled by the radiator pressure cap.            product performance and internal quality will typically
+Removing the cap while the system is hot may al-             be very low.
+low the escape of hot coolant and steam, causing
+serious burns.                                               Counterfeit or “look-alike” products have a very high
+                                                             likelihood of causing and/or allowing engine and/or
+Before you remove the radiator cap, allow the                machine compartment damage.
+system to cool. Use a thick cloth and turn the ra-
+diator cap slowly to the first stop to allow pres-
+sure to escape before fully removing the cap.                                     NOTICE
+                                                             Commercial products that make generic claims of
+Avoid contact with coolant.                                  meeting “Cat” requirements without listing the specif-
+                                                             ic Cat recommendations and requirements that are
+                                                             met may not provide acceptable performance. Com-
+                        NOTICE                               mercial products may cause reduced engine and/or
+Every attempt is made to provide accurate, up-to-            machine fluid compartment life. Refer to this Special
+date information. By the use of this document, you           Publication and refer to product specific Operation
+agree that Caterpillar Inc. is not responsible for errors    and Maintenance Manual for Cat fluids recommenda-
+or omissions.                                                tions and requirements.
+
+The information that is provided is the latest
+recommendations for the Cat diesel engines that are                                NOTICE
+covered by this Special Publication. This information        Never add coolant to an overheated engine. Engine
+supersedes all previous recommendations which                damage could result. Allow the engine to cool first.
+have been published for the Cat diesel engines that
+are covered by this Special Publication. Special fluids
+may be required for some engines. Continue to use
+                                                                                     NOTICE
+these special products. Refer to the applicable              If the engine is to be stored in, or shipped to an area
+Operation and Maintenance Manual.                            with below freezing temperatures, the cooling system
+This publication is a supplement to the Operation and        must be either protected to the lowest outside tem-
+Maintenance Manual. This publication does not                perature or drained completely in order to prevent
+replace the engine Operation and Maintenance                 damage caused by freezing coolant.
+Manual.
+
+                      NOTICE                                                        NOTICE
+These recommendations are subject to change with-            Never operate an engine without water temperature
+out notice. Consult your local Cat dealer for the most       regulators in the cooling system. Water temperature
+up to date recommendations.                                  regulators help to maintain the engine coolant at the
+                                                             proper operating temperature. Cooling system prob-
+                                                             lems can develop without water temperature
+                                                             regulators.
+                                                             If you operate the engine without the regulator, some
+                                                             coolant bypasses the radiator. This may cause
+                                                             overheating.
+
+
+                                                             Note: Refer to the specific engine Operation and
+                                                             Maintenance Manual, “Maintenance Interval
+                                                             Schedule” for the correct interval for the replacement
+                                                             of the thermostat.
+
+=== ORIGINAL PDF PAGE 121 ===
+SEBU6250-30                                                                                                              121
+                                                                                                 Maintenance Section
+                                                                                           General Coolant Information
+
+
+Refer to Special Instruction, SEBD0518, “Know Your
+Cooling System” for more detailed information.                                    NOTICE
+                                                           All Cat engines that are equipped with a Cat NOx Re-
+Many engine failures are related to the cooling            duction System require a minimum of 50 percent gly-
+system. The following problems are related to cooling      col to help prevent cavitation damage and boiling of
+system failures:                                           the engine coolant. These engines include Tier 4
+                                                           engines.
+• Overheating
+                                                           Water in the water/glycol coolants is more effective
+• Leakage of the water pump                                than glycol alone in transferring heat.
+
+• Plugged radiators or heat exchangers                     Distilled water or deionized water is
+                                                           recommended to add to glycol or to water based
+                                                           coolants in engine cooling systems.
+• Pitting of the cylinder liners
+                                                           DO NOT use the following types of water in cooling
+These failures can be avoided with proper cooling
+                                                           systems: hard water, softened water that has been
+system maintenance. Cooling system maintenance is
+                                                           conditioned with salt and sea water.
+as important as maintenance of the fuel system and
+the lubrication system. Quality of the coolant is as       If distilled water or deionized water is not available,
+important as the quality of the fuel and the lubricating   use water that meets or exceeds the minimum
+oil.                                                       acceptable water requirements that are listed in
+                                                           Table 57 .
+A coolant that is ready to use in the engine can also      Table 57
+be referred to as “finished coolant”. A finished coolant
+is a coolant that has been diluted with appropriate                Cat Minimum Acceptable Water Requirements
+amount of acceptable quality water.
+                                                                   Property            Maximum Limit            ASTM Test
+Coolant is normally composed of the following
+                                                                                             40 mg/L
+elements:                                                         Chloride (Cl)
+                                                                                       (2.4 grains/US gal)        “D4327”
+
+• water                                                                                     100 mg/L
+                                                                 Sulfate (SO4)                                    “D4327”
+                                                                                       (5.9 grains/US gal)
+• additives
+                                                                                           170 mg/L
+                                                                 Total Hardness                                   “D1126”
+• glycol                                                                               (10 grains/US gal)
+
+                                                                                           340 mg/L            “Federal Meth-
+• Embitterment: in coolants containing ethylene                   Total Solids         (20 grains/US gal)       od 2540B”(1)
+  glycol to make the coolant taste bad.
+                                                                     Acidity             pH of 5.5 to 9.0         “D1293”
+Technical information for each of the coolant
+elements is provided in this Special Publication.          (1)   Total dissolved solids dried at 103° C (217° F) - 105° C
+                                                                 (221° F), “Standard Method for the Examination of Water and
+                                                                 Wastewater”, “American Public Health Association”, “www.
+Water                                                            apha.org”, “www.aphabookstore.org”, (888) 320-APHA.
+
+                                                           For a water analysis, consult one of the following
+                         NOTICE                            sources:
+Never use water alone as a coolant. Water alone is
+corrosive at engine operating temperatures. In addi-       • Cat dealer
+tion, water alone does not provide adequate protec-
+tion against boiling or freezing.                          • Local water utility company
+
+                                                           • Agricultural agent
+Note: In glycol-based coolants, Cat strongly
+recommends a minimum of 30 percent glycol in               • Independent laboratory
+diesel engine cooling systems, with a minimum of 50
+percent glycol recommended. Use only glycol-based
+coolants that meet one or more of the coolant
+specifications that are defined as preferred or
+acceptable in this Special Publication and that also
+comply with any additional requirements that are
+stated in this Special Publication (that is, chemical
+composition, the use of SCA, the use of Extender).
+Refer to the Operation and Maintenance Manual for
+your engine for any exceptions.
+
+=== ORIGINAL PDF PAGE 122 ===
+122                                                                                                          SEBU6250-30
+Maintenance Section
+General Coolant Information
+
+
+Periodic analysis of water that is used to add to the    For optimum performance, Cat recommends a 50
+coolant is recommended. Water quality can be             percent by volume of glycol in the finished coolant
+affected by various factors including malfunctioning     (also referred to as 1:1 mixture).
+purification equipment, earthquakes, and droughts.
+                                                         Note: Use a mixture that will provide protection
+Additives                                                against the lowest ambient temperature.
+                                                         Most conventional heavy-duty coolant/antifreezes
+Additives help to protect the metal surfaces of the
+cooling system and can improve coolant                   use ethylene glycol. Propylene glycol may also be
+performance. A lack of coolant additives, insufficient   used. In a 50 percent by volume of glycol in the
+amounts of additives, or improper additives for the      finished coolant, ethylene and propylene glycol
+application can cause the following conditions to        provide similar protection against freezing and
+occur:                                                   boiling. Refer to tables 58 and 59 .
+                                                         Table 58
+• Corrosion
+                                                                          Ethylene Glycol Concentration
+• Formation of mineral deposits                                                             Freeze          Boil Protection
+                                                                Concentration                                       (1)
+                                                                                          Protection
+• Rust
+                                                                   20 Percent             −8° C (18° F)      102° C (216° F)
+• Scale
+                                                                   50 Percent           −37 °C (−34 °F)      106° C (223° F)
+• Pitting and erosion from cavitation of the cylinder
+                                                                   60 Percent           −52 °C (−62 °F)      111 °C (232 °F)
+  liner
+                                                         (1)   Boiling protection is increased with the use of a pressurized
+• Foaming of the coolant                                       radiator.
+
+Many additives are depleted during engine operation.     Do not use propylene glycol in concentrations that
+These additives must be replaced periodically.           exceed 50 percent glycol because of the reduced
+Additives that can be added:                             heat transfer capability. Use ethylene glycol in
+                                                         conditions that require additional protection against
+• ELC Extender to Cat ELC (Extended Life Coolant)        boiling or freezing. Do not use ethylene glycol in
+                                                         concentrations that exceed 60 percent glycol.
+• ELC Extender to Cat ELI (Extended Life Inhibitor)
+                                                         Table 59
+• Cat SCA (Supplemental Coolant Additive) to Cat                         Propylene Glycol Concentration
+  DEAC (Diesel Engine Antifreeze/Coolant)
+                                                                                           Freeze           Boil Protection
+                                                               Concentration                                        (1)
+• · Cat SCA to Cat SCA in water finished coolant                                         Protection
+
+Additives must be added at the proper concentration.              50 Percent           −32 °C (−26 °F)       106 °C (223 °F)
+Overconcentration of additives can cause the             (1)   Boiling protection is increased with the use of a pressurized
+inhibitors to drop out-of-solution. The deposits can           radiator.
+enable the following problems to occur:
+                                                         Propylene glycol coolant that is used in the cooling
+• Formation of gel compounds                             systems for Cat diesel engines must meet ASTM
+                                                         D6210-06, “Fully-Formulated Glycol-Based Engine
+• Reduction of heat transfer                             Coolant for Heavy-Duty Engines”. When propylene
+                                                         glycol coolant is used in heavy-duty diesel engines, a
+• Leakage of the water pump seal                         regular addition of SCA is required for protection
+                                                         against liner cavitation. Consult your Cat dealer for
+• Plugging of radiators, coolers, and small passages
+                                                         additional information.
+Glycol                                                   Ethylene or propylene glycols used in cooling
+                                                         systems for Cat diesel engines must meet ASTM
+Glycol in the coolant helps to provide protection        E1177-06, “Standard Specification for Engine
+against the following conditions:                        Coolant Grade Glycol”.
+
+• Boiling                                                Testing the Concentration of Glycol
+• Freezing                                               To check the concentration of glycol, use the
+                                                         245-5829 Coolant/Battery Tester/Refractometer or
+• Water pump cavitation (ATAAC equipped engines)         360-0774 refractometer. The tester can be used with
+                                                         ethylene or propylene glycol.
+
+=== ORIGINAL PDF PAGE 123 ===
+SEBU6250-30                                                                                                              123
+                                                                                                     Maintenance Section
+                                                                                               General Coolant Information
+
+
+                                                                     At the time of publication of this document, there
+                                                                     currently exists no ASTM, “specifications” for
+                                                                     coolants using these chemicals. Until specifications
+                                                                     are published and then evaluated by Cat, use of
+                                                                     PDO and glycerin or glycerin/glycol coolants are
+                                                                     not recommended in Cat cooling systems.
+
+                                                                     Embitterment
+                                                                     Ethylene glycol is a toxic chemical with a naturally
+                                                                     sweet taste. In order to avoid accidental excessive
+                                                                     ingestion by humans or animals, coolants may
+                                                                     contain embittering agents that make the coolant
+                                                                     taste bad. All Cat glycol containing coolants (Cat
+                                                                     ELC, Cat DEAC, and Cat NGEC) are embittered.
+                                                                     Embittering agents have no beneficial or detrimental
+                                                                     effect on coolant performance or characteristics.
+
+                                                                     Coolant Terminology
+                                                                     Extended Life Coolant (ELC) – A coolant that relies
+                                                                     largely on organic inhibitors for corrosion and
+                                                                     cavitation protection. Carboxylate is an example of
+                                                                     organic corrosion and cavitation inhibitors. Cat ELC
+                                                                     and Cat ELI in water are extended life coolants that
+                                                                     also include nitrites and molybdates for increased
+                                                                     cavitation protection.
+
+                                                                     • Commercial extended life coolants containing
+Illustration 3                                           g03387377
+                                                                       silicate do not meet the additional requirements
+Approximate curve of the freezing point for a typical                  set in this Special Publication for coolants claiming
+ethylene glycol solution.                                              to meet Cat EC-1 specification.
+Table 60
+                                                                     • Do not use commercial extended life coolants with
+         Freeze Protection for Antifreeze Concentrations(1)            more than 125 ppm silicon (present in the coolant
+                                                                       in the form of silicate)
+            Protection to:                Concentration
+                                            30% glycol               • Extended life coolants that meet “ASTM D6210-
+            −15 °C (5 °F)
+                                            70% water                  06” may be used at the recommended maximum
+                                                                       coolant service life intervals stated in this Special
+                                            40% glycol
+           −24 °C (−12 °F)
+                                            60% water
+                                                                       Publication for coolants that meet the ASTM
+                                                                       specifications.
+                                            50% glycol
+           −37 °C (−34 °F)
+                                            50% water                Conventional coolant – A coolant that relies largely
+                                                                     on inorganic inhibitors for corrosion and cavitation
+                                            60% glycol
+           −52 °C (−62 °F)                                           protection. Silicates and nitrites are examples of
+                                            40% water
+                                                                     inorganic inhibitors. Conventional coolants are also
+(1)   Ethylene glycol-based antifreeze.                              referred to as heavy-duty coolants, heavy-duty fully
+                                                                     formulated coolants, or traditional coolants. In order
+Alternative products that are used to protect from                   to be used in most Cat cooling systems, conventional
+boiling or freezing of the engine coolant include:                   coolants must meet “ASTM D6210-06”. Cat DEAC
+                                                                     and Cat SCA in water (also referred to as SCA/Water
+• “1,3 propandiol” (PDO)                                             coolant) are conventional coolants
+
+• glycerin
+                                                                     Supplemental Coolant Additive (SCA) – SCA is a
+• mixtures of these alternative products with glycol                 general term for a concentrated inorganic inhibitor
+                                                                     package. SCA is used for three different purposes:
+
+                                                                     • to precharge a new conventional coolant that is
+                                                                       not fully Formulated. Cat DEAC is fully formulated
+                                                                       and does not require SCA
+
+=== ORIGINAL PDF PAGE 124 ===
+124                                                                                                               SEBU6250-30
+Maintenance Section
+Coolant Recommendations
+
+
+• to provide corrosion protection in water/SCA
+  cooling systems
+
+• to recharge an in service conventional coolant on
+  a maintenance basis to maintain proper inhibitor
+  levels
+Extender – An inhibitor package that is added to
+extended life coolants, to recharge an in-service
+coolant. Extenders, typically, only should be added at
+one half the service life of the coolant.
+
+
+                                                i07928929
+
+
+Coolant Recommendations
+SMCS Code: 1350; 1352; 1395
+The finished coolants that are recommended or
+acceptable for use in Cat diesel engines are given in
+Table 61 below:
+Table 61
+                            Recommendations for Finished Coolants for use in Cat engines
+       Coolant Type         Recommendations                 Product              Service hours (1)(2)    Required Maintenance(3)
+
+                                                                                                         Add Cat ELC Extender at
+                                                            Cat ELC             12000 hours or 6 years   6000 service hours or one
+                                                                                                            half of service life
+                                Preferred
+                                                                                                         Add Cat ELC Extender at
+                                                   Cat ELI (water based) (4)    12000 hours or 6 years   6000 service hours or one
+                                                                                                            half of service life
+                                                 Cat EC-1 specification and
+                                                     “ASTM D6210” and
+                                                  Organic Additive Technol-
+Cat ELC, Cat ELI, or com-
+                                                 ogy (OAT) based on a com-
+  mercial coolant that
+                                                          bination of a
+     meets Cat EC-1
+                                                 monocarboxylic acid and a
+                                                       dicarboxylic acid.                                Add Extender at 3000 serv-
+                             Min requirements     Free of phosphate, borate     6000 hours or 6 years      ice hours or one half of
+                                                          and silicate.                                          service life
+                                                 Tolyltriazole: minimum typi-
+                                                   cal concentration of 900
+                                                              ppm
+                                                   Nitrite: minimum typical
+                                                  concentration of 500 ppm
+                                                        in new coolants
+Cat DEAC, Cat SCA, con-                                                                                     SCA at maintenance
+                                                            Cat DEAC            3000 hours or 3 years
+ ventional coolants, and                                                                                         intervals
+commercial extended life       Acceptable
+coolants that do not meet                                                                                   SCA at maintenance
+                                                  Cat SCA (water based) (4)     3000 hours or 2 years
+          EC-1                                                                                                   intervals
+
+
+
+                                                                                                                        (continued)
+
+=== ORIGINAL PDF PAGE 125 ===
+SEBU6250-30                                                                                                                                       125
+                                                                                                                        Maintenance Section
+                                                                                                                   Coolant Recommendations
+
+
+(Table 61, contd)
+                                    Recommendations for Finished Coolants for use in Cat engines
+                                                                     “ASTM D6210” and
+                                                                Nitrite (as NO2) concentra-
+                                                                tion: Minimum of 1200 ppm
+                                  Min requirements for fully       (70 grains/US gal) and
+                                                                                                                             SCA at maintenance
+                                   formulated Heavy Duty           maximum of 2400 ppm         3000 hours or 2 years
+                                                                                                                                  intervals
+                                    Commercial coolants              (140 grains/US gal)
+                                                                Silicon concentration: mini-
+                                                                mum of 100 ppm and maxi-
+                                                                      mum of 275 ppm
+
+                                                             ASTM D4985 and Nitrate
+                                                              (as NO2) concentration:
+                                                            Minimum of 1200 ppm (70
+                                 Min requirements for Com- grains/US gal) and maxi-
+                                                                                                                           SCA at initial fill and SCA
+                                 mercial coolants requiring   mum of 2400 ppm (140              3000 hours or 1 year
+                                                                                                                           at maintenance intervals
+                                      SCA precharge.        grains/US gal) Silicon con-
+                                                            centration: minimum of 100
+                                                             ppm and maximum of 275
+                                                                        ppm
+
+                                                                 Commercial supplemental
+                                                                 coolant additive and water
+                                                                            having
+                                                                Nitrite (as NO2) concentra-
+                                                                tion: Minimum of 1200 ppm
+                                 Min requirements for SCA                                                                      Per manufacturer
+                                                                   (70 grains/US gal) and       3000 hours or 1 year
+                                       and water (5)                                                                           recommendations
+                                                                   maximum of 2400 ppm
+                                                                     (140 grains/US gal)
+                                                                Silicon concentration: mini-
+                                                                mum of 100 ppm and maxi-
+                                                                      mum of 275 ppm
+(1) New Coolants at 50 volume percent diluted. Coolants that are prediluted at the coolant manufacturer must be diluted with water that meets
+    Reagent 4 “ASTM D1193” requirements.
+(2) Maintain the in-service coolant at the given limits.
+(3) For appropriate maintenance procedures, refer to the details given in this Chapter. For applications that allow the use of Cat ELI in water, a
+    minimum of 7.5 percent of Cat ELI is recommended. For applications that allow the use of SCA and water, a minimum of 6 percent to a maxi-
+    mum of 8 percent concentration of Cat SCA are recommended.
+(4) Water-based coolants are not allowed for use in machines that has NOx reduction aftertreatment devices, in engines that has AATAC and in
+    Marine engines that have SWAC
+(5) There are currently no industry standards to define the quality of water-based conventional coolants. To control the quality of SCA and water
+    coolants, the commercial SCA additive package should pass ASTM D6210 when this package is used in a glycol based coolant. Do not use
+    a commercial SCA additive package that only meets the ASTM D3306 or equivalent specification when used in a glycol based coolant.
+
+Table 62
+                                                               Special Requirements(1)
+       Cat diesel engines equipped with air-to-air aftercooling (ATAAC)
+                                                                                Minimum of 30% glycol is required. 50% Glycol is recommended.
+      Cat C7-C32 marine engines with engine mounted heat exchangers                Water alone or water with SCA or with ELI is NOT allowed.
+                  and raw water aftercoolers (SWAC(2))
+
+                                                                               Water based ELI is recommended. Water based SCA is acceptable.
+                           Cat 3618 engine model
+                                                                                           Glycol-based coolants are NOT allowed.
+
+                                                                                  Maximum of 20% glycol is allowed in the aftercooler circuit.(5)
+       Cat C18 SCAC(3), Cat C32 SCAC, and Cat 3500C Tier 3 and Cat
+                                                                                (not applicable to the jacket water circuit, which is capable of 50%
+                 3500E Tier 4(4) certified marine engines
+                                                                                                           glycol mixture)
+(1) Water based ELI and SCA are not recommended for use in applications that require freeze protection.
+(2) SWAC: seawater aftercoolers
+(3) SCAC: Separate Circuit Aftercooler
+(4) 43o C SCAC inlet temperature is allowed when using treated water only.
+(5) For freezing protection of −5° C (23° F) temperatures and lower, consult your Cat dealer for guidance.
+

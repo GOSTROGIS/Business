@@ -83,11 +83,11 @@ def render_document(source_name, target_name, title, eyebrow, pdf_name):
 <header class="mast"><div class="wrap"><div class="head">
 <img class="badge" src="{prefix}/assets/is4s-badge.svg" width="142" height="142" alt="ACCESS Indigenous Skills4Success">
 <div><p class="eyebrow">{escape(eyebrow)}</p><h1>{escape(title)}</h1><p class="lede">{escape(description)}</p>
-<div class="meta"><span class="tag">Asphalt Paving/Laydown Technician</span><span class="tag">Teaching draft · 23 October 2026</span></div></div>
+<div class="meta"><span class="tag">Asphalt Paving/Laydown Technician</span><span class="tag">Classroom teaching edition · 29 October 2026</span></div></div>
 </div><nav class="toolbar" aria-label="Document resources">{toolbar}</nav></div></header>
 <main class="wrap" id="content">{contents}<article class="sheet">{body}</article></main>
 <footer><div class="wrap"><p>ACCESS · Indigenous Skills 4 Success · Asphalt curriculum development</p>
-<p>Based on the supplied SkilledTradesBC outline and SkillPlan's March 2024 guide. Proposed learning materials for instructor review and pilot.</p></div></footer>
+<p>Read, practise, check and explain. Classroom materials for qualified instructor review and pilot.</p></div></footer>
 </body></html>'''
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(document, encoding="utf-8")

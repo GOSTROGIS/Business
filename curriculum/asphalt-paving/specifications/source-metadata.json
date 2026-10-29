@@ -1,0 +1,46 @@
+{
+  "source_id": "BC-MOT-DBSS-2006",
+  "file": "../sources/design_build_standard_specs_2006.pdf",
+  "title": "2006 Design Build Standard Specifications for Highway Construction",
+  "edition_or_version": "2006; adopted February 20, 2006",
+  "publisher_as_presented": "British Columbia Ministry of Transportation, Construction and Maintenance Branch",
+  "pdf_pages": 441,
+  "bytes": 4949922,
+  "sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+  "received_date": "2026-10-29",
+  "provenance": "User-supplied PDF; original bytes preserved",
+  "current_website_version_verified": false,
+  "applicability": "Historical design-build specification; current project applicability and amendments are not established.",
+  "pdf_metadata": {
+    "/CreationDate": "D:20051222182523Z",
+    "/Subject": "BC Ministry of Transportation",
+    "/Author": "2006 Design Build Standard Specifications for Highway Construction - Adopted February 20",
+    "/Creator": "PScript5.dll Version 5.2",
+    "/Keywords": "BC Ministry of Transportation, 2006 Design Build Standard Specifications for Highway Construction - Adopted February 20, 2006",
+    "/Producer": "Acrobat Distiller 5.0.5 (Windows)",
+    "/ModDate": "D:20060221083521-08'00'",
+    "/Title": "2006 Design Build Standard Specifications for Highway Construction - Adopted February 20, 2006"
+  },
+  "selection": {
+    "501": [
+      "501.02",
+      "501.15.01",
+      "501.15.03",
+      "Table 501-E",
+      "Table 501-F"
+    ],
+    "502": [
+      "502.03.05",
+      "502.03.07",
+      "502.03.08",
+      "502.04.04",
+      "502.14.01"
+    ],
+    "503": [
+      "503.01"
+    ],
+    "511": [
+      "511.01"
+    ]
+  }
+}

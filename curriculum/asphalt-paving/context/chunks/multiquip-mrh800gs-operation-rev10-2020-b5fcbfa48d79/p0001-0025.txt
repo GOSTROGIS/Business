@@ -1,0 +1,1026 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/multiquip-mrh800gs-operation-rev10-2020.pdf
+SOURCE SHA-256: b5fcbfa48d79fc7a80f574de71819688ee7cc950b035b6bc673237ca71f7f06e
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+OPERATION MANUAL
+
+
+
+
+                                            SERIES
+      MODEL MRH800GS
+                Vibratory Roller
+  (HONDA GX390K1SM32/GX390U1SM32/
+     GX390UT2SM32/GX390UT2SCM1
+         GASOLINE ENGINES)
+
+                    Revision #10 (06/11/20)
+
+          To find the latest revision of this publication or
+           associated parts manual, visit our website at:
+                         www.multiquip.com
+
+
+
+THIS MANUAL MUST ACCOMPANY THE EQUIPMENT AT ALL TIMES.
+
+=== ORIGINAL PDF PAGE 2 ===
+PROPOSITION 65 WARNING
+
+
+
+
+PAGE 2 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 3 ===
+NOTES
+
+
+
+
+MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 3
+
+=== ORIGINAL PDF PAGE 4 ===
+TABLE OF CONTENTS
+MRH800GS Vibratory Roller
+Proposition 65 Warning............................................ 2
+Safety Information................................................ 5–9
+Specifications (Roller). ........................................... 10
+Specifications (Engine). ......................................... 11
+Dimensions. ........................................................... 12
+General Information. .............................................. 13
+Roller Components. ......................................... 14–17
+Engine Components. ............................................. 18
+Inspection......................................................... 19–20
+Operation. ........................................................ 21–23
+Maintenance. ................................................... 24–30
+Electromagnetic Clutch. ......................................... 31
+Troubleshooting (Roller)......................................... 32
+Troubleshooting (Engine). ................................ 33–34
+    NOTICE
+  Specifications and part numbers are subject to change
+  without notice.
+
+
+
+
+               PAGE 4 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 5 ===
+SAFETY INFORMATION
+Do not operate or service the equipment before reading         The following table shows the potential hazards associated
+the entire manual. Safety precautions should be followed       with the operation of this equipment.
+at all times when operating this equipment.
+Failure to read and understand the safety
+messages and operating instructions could                           Symbol                  Safety Hazard
+result in injury to yourself and others.
+SAFETY MESSAGES                                                                       Lethal exhaust gas hazards
+
+The four safety messages shown below will inform you
+about potential hazards that could injure you or others. The
+safety messages specifically address the level of exposure
+to the operator and are preceded by one of four words:                                Explosive fuel hazards
+DANGER, WARNING, CAUTION or NOTICE.
+SAFETY SYMBOLS
+       DANGER                                                                         Burn hazards
+ Indicates a hazardous situation which, if not avoided,
+ WILL result in DEATH or SERIOUS INJURY.
+
+       WARNING                                                                        Respiratory hazards
+ Indicates a hazardous situation which, if not avoided,
+ COULD result in DEATH or SERIOUS INJURY.
+
+       CAUTION                                                                        Rotating parts hazards
+
+ Indicates a hazardous situation which, if not avoided,
+ COULD result in MINOR or MODERATE INJURY.
+
+   NOTICE                                                                             Pressurized fluid hazards
+
+ Addresses practices not related to personal injury.
+
+                                                                                      Electric shock hazards
+
+
+
+
+                                                                                      Runover hazards
+
+
+
+
+            MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 5
+
+=== ORIGINAL PDF PAGE 6 ===
+SAFETY INFORMATION
+GENERAL SAFETY                                                    NOTICE
+      CAUTION                                                   This equipment should only be operated by trained and
+                                                                 qualified personnel 18 years of age and older.
+ NEVER operate this equipment without proper protective
+  clothing, shatterproof glasses, respiratory protection,       Whenever necessary, replace nameplate, operation and
+  hearing protection, steel-toed boots and other protective      safety decals when they become difficult read.
+  devices required by the job or city and state regulations.
+                                                                Manufacturer does not assume responsibility for any
+                                                                 accident due to equipment modifications. Unauthorized
+                                                                 equipment modification will void all warranties.
+                                                                NEVER use accessories or attachments that are not
+ NEVER operate this equipment when not                          recommended by Multiquip for this equipment. Damage
+  feeling well due to fatigue, illness or when                   to the equipment and/or injury to user may result.
+  under medication.
+                                                                ALWAYS know the location of the nearest
+ NEVER operate this equipment under the influence of            fire extinguisher.
+  drugs or alcohol.
+                                                                ALWAYS know the location of the nearest
+                                                                 first aid kit.
+                                                                ALWAYS know the location of the nearest phone or keep
+                                                                 a phone on the job site. Also, know the phone numbers
+ ALWAYS check the equipment for loosened threads or             of the nearest ambulance, doctor and fire department.
+  bolts before starting.                                         This information will be invaluable in the case of an
+ DO NOT use the equipment for any purpose other than            emergency.
+  its intended purposes or applications.
+ ALWAYS clear the work area of any debris, tools, etc.
+  that would constitute a hazard while the equipment is
+  in operation.
+
+
+
+
+            PAGE 6 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 7 ===
+SAFETY INFORMATION
+ROLLER SAFETY                                                  DO NOT use worn-out hoses or couplings. Inspect daily.
+      DANGER                                                   ALWAYS store equipment properly when it is not being
+                                                                used. Equipment should be stored in a clean, dry location
+ NEVER operate the equipment in an explosive                   out of the reach of children and unauthorized personnel.
+  atmosphere or near combustible materials. An
+  explosion or fire could result causing severe               ENGINE SAFETY
+  bodily harm or even death.
+                                                                     DANGER
+      WARNING
+                                                               The engine fuel exhaust gases contain poisonous carbon
+ NEVER disconnect any emergency or safety devices.             monoxide. This gas is colorless and odorless, and can
+  These devices are intended for operator safety.               cause death if inhaled.
+  Disconnection of these devices can cause severe injury,
+  bodily harm or even death. Disconnection of any of these     The engine of this equipment requires an adequate
+  devices will void all warranties.                             free flow of cooling air. NEVER operate this equipment
+                                                                in any enclosed or narrow
+      CAUTION                                                   area where free flow of the
+ NEVER lubricate components or attempt service on a            air is restricted. If the air
+  running machine.                                              flow is restricted it will cause
+                                                                injury to people and property
+ Never leave the roller unattended with the engine             and serious damage to the                        DANGEROUS
+                                                                                                                 GAS FUMES
+
+  running. Turn off engine.                                     equipment or engine.
+ Use chock blocks when parking roller on a grade.                  WARNING
+ Use extreme care when operating near obstructions, on        DO NOT place hands or fingers inside engine
+  slippery surfaces, grades, and slide slopes.                  compartment when engine is running.
+ When reversing, particularly on the edges and banks          NEVER operate the engine with heat shields or
+  of ditches, as well as in front of obstaces, the operator     guards removed.
+  must stay in a standing position at a safe distance from
+  the machine.                                                 Keep fingers, hands hair and clothing away
+                                                                from all moving parts to prevent injury.
+ When operating near any house/building or pipelines,
+  always check the effect of machine vibration. Stop work      DO NOT remove the engine oil drain plug
+  if necessary.                                                 while the engine is hot. Hot oil will gush out of the oil
+                                                                tank and severely scald any persons in the general area
+ DO NOT operate the roller with the covers open.               of the roller.
+ ALWAYS keep the machine away from other personnel                  CAUTION
+  and obstacles. Always keep immediate are free of
+  bystanders.                                                  NEVER touch the hot exhaust manifold,
+                                                                muffler or cylinder. Allow these parts to cool
+   NOTICE                                                       before servicing equipment.
+ ALWAYS keep the machine in proper running condition.         Always turn the engine off before performing maintenance.
+ Fix damage to machine and replace any broken parts
+  immediately.
+
+
+
+
+            MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 7
+
+=== ORIGINAL PDF PAGE 8 ===
+SAFETY INFORMATION
+   NOTICE                                                         DO NOT overfill tank, since spilled fuel could ignite if it
+                                                                   comes into contact with hot engine parts or sparks from
+ NEVER run engine without an air filter or with a dirty air       the ignition system.
+  filter. Severe engine damage may occur. Service air filter
+  frequently to prevent engine malfunction.                       Store fuel in appropriate containers, in well-ventilated
+                                                                   areas and away from sparks and flames.
+ NEVER tamper with the factory settings
+  of the engine or engine governor. Damage                        NEVER use fuel as a cleaning agent.
+  to the engine or equipment can result                           DO NOT smoke around or near the
+  if operating in speed ranges above the                           equipment. Fire or explosion could result
+  maximum allowable.                                               from fuel vapors or if fuel is spilled on a
+ NEVER tip the engine to extreme angles during lifting as         hot engine.
+  it may cause oil to gravitate into the cylinder head, making   BATTERY SAFETY (ELECTRIC START ONLY)
+  the engine start difficult.
+                                                                        DANGER
+FUEL SAFETY
+                                                                  DO NOT drop the battery. There is a possibility that the
+       DANGER                                                      battery will explode.
+ DO NOT add fuel to equipment if it is placed inside truck       DO NOT expose the battery to open flames,
+  bed with plastic liner. Possibility exists of explosion or       sparks, cigarettes, etc. The battery contains
+  fire due to static electricity.                                  combustible gases and liquids. If these
+                                                                   gases and liquids come into contact with a
+                                                                   flame or spark, an explosion could occur.
+                  FUEL
+
+                                                                       WARNING
+                                                                  ALWAYS wear safety glasses when
+                                                                   handling the battery to avoid eye irritation.
+                                                                   The battery contains acids that can cause
+                                                                   injury to the eyes and skin.
+       FUEL
+                                                                  Use well-insulated gloves when picking up
+                                                                   the battery.
+                                                                  ALWAYS keep the battery charged. If the battery is not
+                                                                   charged, combustible gas will build up.
+
+ DO NOT start the engine near spilled fuel or combustible        DO NOT charge battery if frozen. Battery can explode.
+  fluids. Diesel fuel is extremely flammable and its vapors        When frozen, warm the battery to at least 61°F (16°C).
+  can cause an explosion if ignited.                              ALWAYS recharge the battery in a well-ventilated
+ ALWAYS refuel in a well-ventilated area, away from               environment to avoid the risk of a dangerous concentration
+  sparks and open flames.                                          of combustible gases.
+
+ ALWAYS use extreme caution when working with                    If the battery liquid (dilute sulfuric acid)
+  flammable liquids.                                               comes into contact with clothing or skin,
+                                                                   rinse skin or clothing immediately with
+ DO NOT fill the fuel tank while the engine is running            plenty of water.
+  or hot.
+
+
+
+
+              PAGE 8 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 9 ===
+SAFETY INFORMATION
+ If the battery liquid (dilute sulfuric acid) comes into       ENVIRONMENTAL SAFETY
+  contact with eyes, rinse eyes immediately with plenty
+  of water and contact the nearest doctor or hospital to           NOTICE
+  seek medical attention.                                        Dispose of hazardous waste properly.
+       CAUTION                                                    Examples of potentially hazardous waste
+                                                                  are used motor oil, fuel and fuel filters.
+ ALWAYS disconnect the NEGATIVE battery terminal
+  before performing service on the equipment.                    DO NOT use food or plastic containers to dispose of
+                                                                  hazardous waste.
+ ALWAYS keep battery cables in good working condition.
+  Repair or replace all worn cables.                             DO NOT pour waste, oil or fuel directly onto the ground,
+                                                                  down a drain or into any water source.
+TRANSPORTING SAFETY
+       CAUTION
+ NEVER allow any person or animal to stand underneath
+  the equipment while lifting.
+   NOTICE
+ Before lifting, make sure that the equipment parts are not
+  damaged and screws are not loose or missing.
+ Use lifting equipment capable of lifting the weight of
+  the roller.
+ Always make sure crane or lifitng device has been
+  properly secured to the lifting bail (hook) of the
+  equipment.
+ ALWAYS shutdown engine before transporting.
+ NEVER lift the equipment while the engine is running.
+ Tighten fuel tank cap securely and close fuel cock to
+  prevent fuel from spilling.
+ Use adequate lifting cable (wire or rope) of sufficient
+  strength.
+ Use one point suspension hook and lift straight upwards
+  with sufficient bearing capacity to prevent machine from
+  tilting or slipping.
+ DO NOT lift machine to unnecessary heights.
+ ALWAYS make sure that roller is secured correctly when
+  transporting on a trailer. Make sure all supports attaching
+  the roller to the trailer are tight.
+
+
+
+
+            MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 9
+
+=== ORIGINAL PDF PAGE 10 ===
+SPECIFICATIONS (ROLLER)
+
+
+
+
+                        Table 1. Specifications (Vibratory Roller)
+                                                    105 x 27.2 x 46 in
+        Dimensions (LxWxH)
+                                                 (2670 x 692 x 1060 mm)
+        Drum Diameter                                 16 in. (406 mm)
+        Drum Width                                   25.6 in. (650 mm)
+        Curb Clearance                                9.4 in. (238 mm)
+        Side Overhang                                  .83 in.(21 mm)
+        Operating Weight (with water)               1530 lbs. (694 kg.)
+        Vibration Frequency                              3,300 vpm
+        Centrifugal Force                           5,283 lbs (23.5 kn)
+        Drive System                                  Hydraulic Motor
+        Vibration System                                    Frame
+        Vibration Method                                  Belt Drive
+        Vibrator Shaft                                       Twin
+        Gradeablility                                    20 degrees
+        Working Speed                             0 - 3 mph (0 - 4.8 kph)
+        Fuel Tank Capacity                        1.88 gallons (7.1 liters)
+        Lubricating Oil                            6.6 gallons (25 liters)
+        Water Tank Capacity                       10.57 gallons (40 liters)
+
+
+
+
+PAGE 10 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 11 ===
+SPECIFICATIONS (ENGINE)
+
+
+
+
+                                    Table 2. Specifications (Engine)
+Engine Make                                                    HONDA
+Engine Model                GX390K1SM32 GX390U1SM32               GX390UT2SM32           GX390UT2SCM1
+                                              Air-cooled 4 stroke, Single Cylinder, OHV,
+Engine Type
+                                                   Horizontal Shaft Gasoline Engine
+                                                            3.5 in. X 2.5 in.
+Cylinder Bore X Stroke
+                                                          (88 mm x 64 mm.)
+Displacement                                             23.70 cu-in (389 cc))
+Net Power
+(In accordance with SAE                                        11 H.P. (8.2 kW).
+J1349*)
+Fuel Tank Capacity                                             1.61 gallons (6.1 liters)
+Fuel                                                      Unleaded Automobile Gasoline
+Oil Capacity                                                    1.2 quarts (1.1 liters)
+Oil Alert System                                                          Yes
+Air Cleaner                                             Standard                                     Cyclone
+Speed Control Method                                        Centrifugal Fly-weight Type
+Starting Method                                                  Electric/Recoil Start
+Dry Net Weight                                                     69.4 lbs (35 Kg.)
+                                                                15.0 x 17.7 X 17.4 in.
+Dimensions (L x W x H)
+                                                               (380 X 450 X 443 mm.)
+*The power rating of the engine is the net power output tested on a production engine and measured in accordance
+with SAE J1349 at 3,600 rpm (net power) and at 2,500 rpm (max net torque). Mass production engines may vary
+from this value. Actual power output for the engine installed in the machine will vary depending on numerous factors,
+including the operating speed of the engine in application, environmental conditions, maintenance and other variables
+
+
+
+
+        MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 11
+
+=== ORIGINAL PDF PAGE 12 ===
+DIMENSIONS
+
+
+
+
+                      Figure 1. MRH800GS Dimensions
+
+                            Table 3. Dimensions
+                          A                  105 in.         2670 mm.
+                          B                   58 in.         1470 mm.
+    LENGTH                C                   10 in.          255 mm.
+                          D                  22.8 in.         580 mm.
+                          E                  13.8 in.         350 mm.
+                          F                  27.2 in.         692 mm.
+     WIDTH
+                          G                  13.6 in.         346 mm.
+                          H                  78.3 in.        1990 mm.
+                          I                  46.0 in.        1170 mm.
+     HEIGHT               J                  37.4 in.         950 mm.
+                          K                  44.1 in.        1120 mm.
+                          L                   9.4 in.         238 mm.
+
+PAGE 12 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 13 ===
+GENERAL INFORMATION
+The Mikasa Model MRH800GS is a powerful compacting
+tool capable of applying tremendous force in consecutive
+impacts to a soil surface. Applications include soil
+compacting for backfilling for gas pipelines, water pipelines
+and cable installation work.
+The impact force of the MRH800GS levels and uniformly
+compacts voids between soil particles to increase dry
+density.
+Features include:
+ Hydraulic transmission to allow speed change without
+  gear shifting.
+ Deadman device which when pressed or hit will cause
+  the travel lever to return to neutral position bringing the
+  machine to a stop.
+ A horn to warn of machine’s approach.
+ Non-corrosive water tank for the sprinkler system with
+  a capacity of more than 10 gallons.
+ Lifting hook to transport machine.
+ Front bumper and working light.
+ Narrow profile with less than one inch wall clearance.
+  Narrower width allows access to tighter areas. No
+  exposed hydraulic hoses.
+ Oil bath lubricated bearings and external vibration for
+  less servicing and more dependability.
+ Front and rear drum scrapers.
+ Drum sprinkler system controls located near the operator.
+ Easy access to hydraulic components and hydraulic filter.
+
+
+
+
+           MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 13
+
+=== ORIGINAL PDF PAGE 14 ===
+ROLLER COMPONENTS
+
+
+
+
+                                                                                   1
+
+                                                                              2
+
+
+                                                                              4
+
+
+
+
+3                                     8
+                                                        9
+
+
+    5
+
+6                                                                            10
+
+
+
+
+                                                                              11
+
+
+7
+                          Figure 2. MRH800GS Components
+
+
+    PAGE 14 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 15 ===
+ROLLER COMPONENTS
+Figure 2 illustrates the location of the major components
+for the MRH800GS Vibration Roller. The function of each
+component is described below:
+1. Fuel Tank/Cap — Fill with diesel fuel. Fuel tank holds
+   approximately 2 gallons (7.5 liters). DO NOT top off
+   fuel. Wipe up any spilled fuel immediately.
+2. Center Cover — When opened and supported by strut,
+   provides access to oil pump and filter, battery, V-belt,
+   and clutch box.
+3. Vibration Rollers — 25-inch wide steel drums that
+   provide compaction force in the compaction and
+   patching of asphalt type surfaces.
+4. Front Headlights — Activate using switch on control
+   handle. Use to illuminate ground during nighttime or
+   low-light operating conditions.
+5. Hydraulic Oil Gauge — Indicates the hydraulic oil
+   level.
+6. Oil Tank — Fill with proper grade of hydraulic oil.
+7. Vibrator Oil Level Plug — Remove to check vibrator
+   oil level.
+8. Lifting Hook — Used to lift the machine with crane or
+   other lifting device.
+9. Engine — This machine uses the Honda GX390 series
+   gasoline engine. Refer to the engine Owner’s Manual
+   for more information.
+10. Water Tank — Holds 10.57 gallons (40 liters) for the
+    sprinkler system.
+11. Parking Brake — Makes sure machine will not
+    accidentally move when parked or not in use.
+
+
+
+
+           MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 15
+
+=== ORIGINAL PDF PAGE 16 ===
+MRH-800GS — HANDLECOMPONENTS
+                                    ROLLER   BAR/LEVER COMPONENTS
+                                                          (CONT'D.)
+
+
+                                                                                            1
+
+
+
+
+    4
+
+    3
+
+                                                                                           2
+
+
+
+
+                                                                                               6
+   5
+
+
+
+
+                                              Figure 4. MRH-800GS Lever Components
+
+                             Figure 3. Handle Bar/Lever Components
+
+
+
+PAGE 18 — MQ-MIKASA
+        PAGE        MRH-800GS
+             16 — MRH800GS    VIBRATIONROLLER
+                            VIBRATORY   ROLLER •—OPERATION
+                                                  PARTS & OPERATION
+                                                            MANUAL —MANUAL  — REV.
+                                                                      REV. #10 (06/11/20)
+                                                                                    #7 (07/ 09/10)
+
+=== ORIGINAL PDF PAGE 17 ===
+ROLLER COMPONENTS (CONT'D.)
+HANDLE BAR/LEVER COMPONENTS
+Figure 3 illustrates the location of the major lever
+components on the handle bar of the machine. Each
+component is described below:
+1. Travel Lever — Controls the direction of travel of the
+   machine (forward and reverse).
+2. Horn Button — When pressed, gives a warning sound
+   of the machine approaching.
+3. Vibration Lever — Turns vibration on and off.
+4. Throttle Lever — Controls the start up of the machine.
+5. Dead-Man Device — When pressed or hit while
+   traveling in reverse, causes the travel lever to return
+   to neutral position to stop the machine.
+6. Light ON/OFF Switch — Turns headlight on and off.
+
+
+
+
+           MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 17
+
+=== ORIGINAL PDF PAGE 18 ===
+ENGINE COMPONENTS
+                                                                3. Engine ON/OFF Switch — ON position permits engine
+                                          2                        starting. OFF position stops engine operation.
+                    10
+                         11       1
+                                                                4. Recoil Starter — Manual starting method. Pull the
+                                                                   starter grip until resistance is felt, then pull briskly and
+                                                                   smoothly to start the engine.
+     9                                                          5. Fuel Valve Lever — Open to allow fuel to flow. Close
+                                                                   to prevent fuel flow.
+                                                                6. Oil Drain Bolt — Remove this bolt to drain oil from the
+      8                                                3           engine crankcase.
+                                                                7. Oil Filler Cap/Dipstick — Remove this cap to
+          7                                                        determine if engine oil is low. Add oil through this filler
+                                                                   port as recommended in Table 2.
+                6
+                                                                8. Choke Lever — Used in cold weather conditions or
+                              5       4
+                                                                   for the starting of a cold engine. The choke enriches
+                                                                   the fuel mixture.
+                                                                9. Spark Plug — Provides spark to the ignition system.
+              Figure 4. Engine Components                          Set the spark plug gap according to the engine
+INITIAL SERVICING                                                  manufacturer’s instructions. Clean the spark plug once
+                                                                   a week.
+The engine (Figure 4) must be checked for proper
+                                                                10. Muffler — Reduces noise and emissions. NEVER
+lubrication and filled with fuel prior to operation. Refer to
+                                                                    touch the muffler while it is hot!
+the manufacturer’s engine manual for detailed operation
+and service instructions.                                              WARNING
+1. Throttle Lever — Adjusts engine RPM speed.                                  Engine components can generate extreme
+2. Fuel Filler Cap/Fuel Tank — Remove this cap to add                          heat. To prevent burns, DO NOT touch
+   unleaded gasoline to the fuel tank. Refer to Table 2                        these areas while the engine is running or
+   for fuel tank capacity. Make sure the cap is tightened                      immediately after operating. NEVER operate
+   securely. DO NOT overfill                                                   the engine with the muffler removed.
+
+         DANGER                                                 11. Air Cleaner — Prevents dirt and other debris from
+                                                                    entering the fuel system. Remove the wing nut on
+                Add fuel to the tank only when the engine           top of the air cleaner cover to gain access to the filter
+                is stopped and has had an opportunity               elements.
+                to cool down. In the event of a fuel spill,
+                DO NOT attempt to start the engine until all       NOTICE
+                fuel residue has been completely wiped up
+                                                                  Operating the engine without an air cleaner, with a
+                and the area surrounding the engine is dry.
+                                                                  damaged air cleaner, or with an air cleaner in need of
+                                                                  replacement will allow dirt to enter the engine, causing
+                                                                  rapid engine wear.
+
+
+
+
+              PAGE 18 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 19 ===
+INSPECTION
+BEFORE STARTING                                                       CHECKING THE HYDRAULIC SYSTEM
+1. Read safety information at the beginning of manual.                1. Check the oil tank level gauge (Figure 6). Oil level
+                                                                         should be at the middle indication of the gauge or
+2. Remove dirt and dust, particularly in the engine cooling
+                                                                         higher. Fill as required.
+   air inlet, carburetor and air cleaner.
+3. Check the air filter for dirt and dust. If air filter is dirty,
+   replace air filter with a new one.
+4. Check carburetor for external dirt and dust. Clean with
+   dry compressed air.
+                                                                          LEVELS SHOULD BE
+5. Check fastening nuts and bolts for tightness.                           MIDDLE OF GAUGE
+                                                                           OR HIGHER
+6. Understand the geographical features and regulations
+   of the job site.
+ENGINE OIL CHECK
+1. To check the engine oil level, place the machine on
+                                                                        Figure 6. Hydraulic System Oil Level Gauge
+   secure level ground with the engine stopped.
+                                                                      2. Check the surroundings of the oil tank, hydraulic pump
+2. Remove the filler dipstick from the engine oil filler hole
+                                                                         and motor for oil leakage.
+   (Figure 5) and wipe clean.
+                                                                      CHECKING THE V-BELT
+                                                                             DANGER
+                                                                                    ALWAYS keep hands and fingers away
+                                                                                    from pinch points. DO NOT allow anyone
+                                                                                    to reach in on dangerous sections of the
+                                  DIPSTICK                                          machine to avoid any accidents.
+
+                                                                      1. Remove the 2 bolts, one on each side of the center
+                                                                         cover, with a #13 socket wrench. Open the center cover
+                                                                         of the machine and support it with the strut by inserting
+               Figure 5. Engine Oil Level                                its end to the hole in the base (Figure 7).
+3. Insert and remove the dipstick without screwing it into
+   the filler neck. Check the oil level shown on the dipstick.
+                                                                      CENTER
+4. If the oil level is low, fill to the edge of the oil filler hole   COVER
+   with the recommended oil type (Table 4). Maximum oil
+   capacity is 1.16 quarts (1.1 liters).                               STRUT
+
+
+                       Table 4. Oil Type                                V-BELT
+     Season              Temperature        Oil Type
+ Summer                25°C or Higher SAE 10W-30
+ Spring/Fall           25°C~10°C         SAE 10W-30/20                         Figure 7. Checking V-Belt Tension
+ Winter                0°C or Lower      SAE 10W-10
+                                                                      2. Check V-belt for proper tension. Insufficient tension
+                                                                         causes weak vibration.
+
+             MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 19
+
+=== ORIGINAL PDF PAGE 20 ===
+INSPECTION
+CHECKING THE VIBRATOR OIL LEVEL                                   CHECKING LEVERS AND HORN
+1. Check vibrator casing for any oil leakage.                     1. Check travel, vibration and throttle levers to make sure
+                                                                     they are functioning properly (Figure 3).
+2. If any leakage is noticed, remove the level plug on the
+   side of the plate (Figure 8).                                  2. With travel lever placed in reverse, push the deadman
+                                                                     device and verify that the travel lever returns to the
+                                                                     neutral position. The travel lever stays in the neutral
+                                                                     position once the deadman device is released.
+                                                                  3. Press the horn and verify that it functions properly.
+   VIBRATOR OIL
+   LEVEL PLUG                                                     CHECKING SCRAPERS
+                                                                  1. Check scrapers and make sure that they are not
+                                                                     clogged with mud, bent or damaged (Figure 10).
+       Figure 8. Checking Vibrator Oil Level
+3. Check the oil level.
+FUEL CHECK
+       DANGER
+               Motor fuel is highly flammable and can be
+               dangerous if mishandled. DO NOT smoke                                    SCRAPERS
+               while refueling. DO NOT attempt to refuel
+               the pump if the engine is hot or running.                     Figure 10. Checking Scrapers
+                                                                  2. Adjust clearance between drums and scrapers as
+1. Remove the fuel cap located on top of the engine fuel             necessary.
+   tank.
+                                                                  CHECKING BOLTS, NUTS AND SCREWS
+2. Visually inspect to see if the fuel level is low. If fuel is
+   low, replenish with unleaded gasoline using a strainer         1. Check bolts, nuts and screws on various parts of the
+   for filtration. DO NOT top-off fuel. Wipe up any spilled          machine including the engine, for proper tightness.
+   fuel immediately!
+                                                                  POSITIONING THE HANDLE BAR
+CHECKING WATER TANK
+                                                                  1. Release the handle bar release pin (Figure 11) and
+Check the water tank to see if filled. Add water if necessary.       position the handle bar to the lowered position before
+The water tank has a capacity of approximately 10 gallons            starting operation.
+(40 liters). See Figure 9.
+
+
+
+
+                                                                                                         HANDLE BAR
+                                                                                                         RELEASE PIN
+
+
+
+
+           Figure 9. Checking Water Tank                                Figure 11. Positioning the Handle Bar
+
+       CAUTION                                                    2. When machine is not in use, release the handle bar
+                                                                     release pin and position the handle bar to the upright
+  Be careful not to confuse the water tank with the oil tank.        position.
+
+            PAGE 20 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 21 ===
+OPERATION
+This section is intended to assist the operator with the initial      3. Move the throttle lever (Figure 14) away from the SLOW
+startup of the unit. It is extremely important that this section be      position, about 1/3 of the way toward the FAST position.
+read carefully before using the roller in the field. DO NOT use
+your roller until this section is thoroughly understood.
+        WARNING
+                                                                                               THROTTLE
+  Failure to understand the operation of the roller could                                        LEVER
+
+
+  result in severe damage to the roller or personal injury..
+
+        CAUTION                                                                                     RUN   IDLE
+
+                NEVER operate the roller in a confined
+                area or enclosed area structure that does                           Figure 14. Throttle Lever
+                not provide ample free flow of air.
+                                                                      4. Turn the ignition switch on the engine to the START
+                                                                         position (Figure 15). Release the key when engine
+ELECTRIC START                                                           starts and key will return to the ON position.
+
+On the control handle:
+   a. Move the throttle lever to the RUN position.
+   b. Move the travel lever to the NEUTRAL position.
+   c. Move the vibration lever to the OFF position.
+1. Move the fuel shut-off lever (Figure 12) to the ON                              IGNITION SWITCH
+   position.                                                                       (START POSITION)
+
+
+
+
+                              FUEL VALVE
+                                LEVER                                         Figure 15. Ignition Switch (START)
+
+                                                                      RECOIL START
+                                                                      1. Perform steps 1 to 3 in Electric Start section.
+                      OFF              ON
+                                                                      2. Turn the ignition switch on the engine to the ON position
+            Figure 12. Fuel Shut-Off Lever                               (Figure 16).
+2. To start a cold engine, move the choke lever (Figure
+   13) to the CLOSED position.
+                                                                                IGNITION SWITCH
+                                                                                  (ON POSITION)
+
+
+                         CHOKE LEVER
+
+
+
+
+                     CLOSE             OPEN
+
+
+
+                 Figure 13. Choke Lever                                         Figure 16. Ignition Switch (ON)
+
+
+             MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 21
+
+=== ORIGINAL PDF PAGE 22 ===
+OPERATION
+3. Grasp the starter grip and slowly pull it out (Figure 17).           CAUTION
+   The resistance becomes the hardest at a certain
+   position, corresponding to the compression point. Pull         After test travel, shut down engine and check for any
+   the starter grip briskly and smoothly for starting.            problems including oil leakage. If any trouble is found,
+                                                                  correct the problem before attempting to operate the
+                                                                  roller again.
+
+                                                                 VIBRATING
+                                                                 1. Shift the vibration lever away from its off position. The
+                                                                    vibration lever will automatically spring forward and the
+                                                                    roller will start vibrating (Figure 19).
+                    STARTER GRIP
+
+
+                 Figure 17. Starter Grip
+
+TRAVELING
+1. Before starting to travel, make sure to release parking
+   brake located on the left side of the rear roller. If the
+   parking brake lever is tight, moving the roller back and                                     VIBRATION LEVER
+   forth will make it easier (Figure 18).                                                       (OFF POSITION)
+
+
+                                                                      Figure 19. Vibration Lever (Off Position)
+                                         PARKING BRAKE
+                                         (RELEASED                      CAUTION
+                                          POSITION)
+                                                                  Using vibration with clutch slipping causes the clutch to
+                                                                  burn. Also, vibration should not be used over completely
+               Figure 18. Parking Brake
+                                                                  compacted area, paved road surface or with stationary
+2. With the throttle lever in the RUN position, increase          roller.
+   the engine rotation.
+3. Push the travel lever forward slightly. This will cause       WATERING
+   the roller to travel forward at slow speed.                   2. For watering work, turn the water cocks clockwise, at
+4. To increase the travel speed, push the travel lever              the rear of the machine, to start sprinkling (Figure 20).
+   further.
+5. Travel speed can be varied between 0 and 3 km/h (both
+   forward and reverse).
+                                                                   WATER COCK
+6. Push the travel lever backward to go in the reverse             FOR FRONT DRUM
+   direction.
+       CAUTION                                                     WATER COCK
+                                                                   FOR REAR DRUM
+  Do not reduce speed during work. When shifting travel
+  lever from forward to reverse, be sure to stop the lever                      Figure 20. Water Cocks
+  at the neutral position first before moving the lever to the
+  opposite direction. Do not shift the lever from forward
+  to reverse (or from reverse to forward) in one motion.
+
+            PAGE 22 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 23 ===
+OPERATION
+SAFETY FEATURES                                               2. After moving, tighten the bolt again. Tightening torque
+                                                                 is 55 to 70 kgf-cm.
+A horn is provided to warn of approach. The deadman
+device prevents accidental traveling in reverse. It                  CAUTION
+automatically makes the travel lever return to the neutral
+position by stopping the machine when an object comes           NEVER tow roller with any type of vehicle. Doing so
+in contact with the deadman device.                             will damage the hydraulic system.
+
+STOPPING                                                        Never perform unloading procedure on a slope. This
+                                                                may cause the roller to roll down if parking brake or
+1. With the travel lever in the neutral position and the        blocking is deficient.
+   vibration lever in the off position, return the throttle
+   lever to the START position. Allow the machine to cool     LIFTING
+   down for 3 to 5 minutes.
+2. Push the throttle lever forward to stop the engine. In a   1. Use a crane or lift to load and unload the machine. A
+   motor start, return the key switch to the STOP position       skilled crane operator is required to perform the job.
+   as soon as the engine stops.                               2. When lifting the machine, check for any damaged or
+      CAUTION                                                    loose bolts, lifting hooks and shock mounts.
+ Neglecting to return the key switch to the STOP position     3. Check any damaged or loose bolts in the guard frame
+ will cause the battery to discharge making start up             to avoid machine sliding off.
+ impossible the next time.
+                                                              4. Make sure that the machine is shut off before machine
+3. After the engine stops, close the fuel cock.                  is lifted.
+4. Lock the parking brake by pulling the brake lever and      5. Use reliable cable for lifting.
+   rotating it 90° clockwise.                                 6. Always lift the machine vertically and keep the machine
+   NOTICE                                                        away from workers and animals.
+ Parking brake system should always be kept clean to          7. Do not lift the machine higher than the required height.
+ avoid mud deposits.
+                                                              TRANSPORTING
+UNLOADING                                                     1. Always make sure that the machine is shut off while
+1. If you need to move the roller by pushing it manually         being transported.
+   once the engine is stopped, loosen bolt of bypass valve    2. Check that the fuel cap is properly closed and tightened.
+   on oil pump by one rotation counterclockwise. This will
+   cause the hydraulic brake to disengage and allow the       3. When traveling long distances or on rugged terrain,
+   roller to be moved more easily (Figure 21).                   drain the fuel of the machine before transporting.
+                                                              4. Tie down the machine securely on the transportation
+                                                                 so that it will not move or topple over.
+Bypass
+Valve
+Bolt
+
+
+
+
+    Figure 21. Location of Bypass Valve Bolt
+
+
+           MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 23
+
+=== ORIGINAL PDF PAGE 24 ===
+MAINTENANCE
+       CAUTION                                                               Table 6. Engine Check
+ Inspection and other services should always be carried     ITEM                         HOURS OF OPERATION
+ out on hard and level ground with the engine shutdown.     Oil or Fuel Leak             Every 8 hours (every day)
+                                                            Tightness of Fastening
+INSPECTION AND MAINTENANCE SERVICE TABLES                                                Every 8 hours (every day)
+                                                            Threads
+To make sure your vibratory roller is always in good                                     Every 8 hours (every day)
+                                                            Engine Oil Check and
+working condition before using, carry out the maintenance                                (Replenish to specified
+                                                            Replenishment
+inspection procedures.                                                                   maximum level)
+            Table 5. Machine Inspection                                                  After first 25 hours then
+                                                            Engine Oil Replacement
+                                                                                         every 50 to 100 hours
+ITEM                      HOURS OF OPERATION
+                                                            Air Filter Cleaning          Every 100 hours
+Loose or Missing Screws Every 8 hours (every day)
+Damaged Parts                Every 8 hours (every day)      DAILY SERVICE
+Function of Controlling                                     1. Check for leakage of fuel or oil.
+                             Every 8 hours (every day)
+System Part
+                                                            2. Check for loose screws including tightness. See Table
+Hydraulic System Leak     Every 100 hours                      7 below (tightening torque ) for retightening:
+Vibrator Oil Check        Every 100 hours
+Vibrator Oil Replacement  Every 300 hours                        Table 7. Tightening Torque (in. kg/cm) Diameter
+                                                            Material 6mm   8mm    10mm    12mm    14mm    16mm    18mm    20mm
+Hydraulic Oil Check       Every 100 hours
+                                                            4T       70    150    300     500     750     1,100   1,400   2,000
+                          First after 200 hours, then
+Hydraulic Oil Replacement                                   6-8T     100   250    500     800     1,300   2,000   2,700   3,800
+                          every 1,000 hours
+V-belt (clutch) Check     Every 200 hours                   11T      150   400    800     1,200   2,000   2,900   4,200   5,600
+                                                                           300~   650 ~
+                                                            *        100
+   NOTICE                                                                  350    700
+
+
+ These inspection intervals are for operation under
+ normal conditions. Adjust your inspection intervals        3. Remove soil and clean the bottom of roller.
+ based on the number of hours the roller is in use, and
+ your particular working conditions.                        4. Check hydraulic pump, piping and hose for any leakage.
+                                                               A loosened hydraulic hose can be a cause for leakage.
+   NOTICE
+                                                            5. Check hydraulic hose connections with wrench applied
+ Fuel piping and connections should be replaced every          for tightness.
+ 2 years.
+                                                            6. Check engine oil.
+
+
+
+
+           PAGE 24 — MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20)
+
+=== ORIGINAL PDF PAGE 25 ===
+MAINTENANCE
+SPARK PLUG                                                        STANDARD DUAL FILTER ELEMENT
+1. Remove and clean the spark plug (Figure 22).                   The Honda GX390K1SM32, GX390U1SM32 and
+                                                                  GX390UT2SM32 engines are equipped with a replaceable,
+2. Adjust the spark gap to 0.024 ~0.028 inch (0.6~0.7 mm).        high-density paper air cleaner element. See (Figure 24) for
+   This unit has electronic ignition, which requires no           air cleaner components
+   adjustments.
+            GAP                                                   1. Remove the air cleaner cover and foam filter element
+                           0.024-0.028 IN.                           as shown in Figure 24.
+                            (0.6-0.7 MM.)
+                                                                  2. Tap the paper filter element (Figure 24) several times
+                                                                     on a hard surface to remove dirt, or blow compressed
+                                                                     air [not exceeding 30 psi (207 kPa, 2.1 kgf/cm2)]
+                                                                     through the filter element from the air cleaner case
+                                                                     side. NEVER brush off dirt. Brushing will force dirt
+                                                                     into the fibers. Replace the paper filter element if it is
+              Figure 22. Spark Plug Gap                              excessively dirty.
+                                                                  3. Clean foam element in warm, soapy water or
+ENGINE OIL
+                                                                     nonflammable solvent. Rinse and dry thoroughly. Dip
+3. Drain the engine oil when the oil is warm as shown in             the element in clean engine oil and completely squeeze
+   Figure 23.                                                        out the excess oil from the element before installing.
+4. Remove the oil drain bolt and sealing washer and allow
+                                                                         DANGER
+   the oil to drain into a suitable container.
+                                                                    DO NOT use gasoline as a cleaning solvent to avoid
+5. Replace engine oil with recommended type oil as listed
+                                                                    creating the risk of fire or an explosion.
+   in Table 4. Engine oil capacity is 1.16 quarts (1.1 liters).
+   DO NOT overfill.
+6. Install drain bolt with sealing washer and tighten
+   securely.                                                                                     BLOW COMPRESSED
+                                                                                                   AIR FROM THE
+                                                                                                    INSIDE OUT
+
+
+
+
+            OIL FILLER
+            DIPSTICK
+                                                                                 WING NUT
+
+
+                                                                            AIR CLEANER
+                                                                                                       PAPER FILTER
+                                                                               COVER
+                                                                                                         ELEMENT
+
+                                                                             FOAM FILTER
+                                                                              ELEMENT
+
+
+
+
+         DRAIN
+         BOLT             SEALING
+                                                                              GASKET
+                          WASHER
+
+          Figure 23. Engine Oil (Draining)
+
+                                                                      Figure 24. Engine Air Cleaner (Standard)
+
+
+
+            MRH800GS VIBRATORY ROLLER • OPERATION MANUAL — REV. #10 (06/11/20) — PAGE 25
+

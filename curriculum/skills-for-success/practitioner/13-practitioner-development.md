@@ -2,13 +2,11 @@
 
 Professional learning is most useful when it changes something learners can experience. Choose a specific teaching decision, try an improvement, examine the evidence and decide what to keep. Reading another resource can help, but the result should reach the lesson: a clearer model, a more accessible document, a better question, fairer observation or a more useful next attempt.
 
-SkillPlan’s guide closes with professional-development opportunities on pp.136–138 and a bibliography on pp.139–148. The opportunities are informational leads, not endorsements, and describe the landscape at the time of the March 2024 revision. This chapter turns that closing material into an original growth and review process. It distinguishes the supplied guide, resources independently retrieved for this edition and references whose contents have not been independently reviewed. [S1]
-
 ## Start with a teaching question you can investigate
 
 Use one recent activity as a starting point. Ask what learners were meant to do, what you explicitly taught and what the evidence showed. A broad concern such as “learners lack confidence with numbers” is difficult to act on. A narrower question is useful: “When calculating a part of a total, are learners choosing the correct whole, or are they copying the nearest number?” The next lesson can make that choice visible.
 
-Self-assess across the work you actually do. Can you explain the focus skill? Select or create a suitable document? Model a strategy aloud? Offer accessible practice? Distinguish individual evidence from a group product? Give feedback that names an action? Record the limits of an observation? Select one priority rather than scoring yourself on everything. SkillPlan identifies its Practitioner Competency Framework as a resource for self-assessment and growth planning on p.21; its full website was not independently reviewed for this chapter.
+Self-assess across the work you actually do. Can you explain the focus skill? Select or create a suitable document? Model a strategy aloud? Offer accessible practice? Distinguish individual evidence from a group product? Give feedback that names an action? Record the limits of an observation? Select one priority rather than scoring yourself on everything.
 
 Invite a colleague to help examine the question. They may notice an instruction you have stopped hearing because you know the intended answer. A learner may reveal that an unfamiliar abbreviation, small type or unclear file location prevented an otherwise manageable task. Treat that information as evidence about the teaching conditions. It does not automatically establish a skill difficulty.
 
@@ -19,7 +17,7 @@ This is a suggested local cycle, not a required course or certification schedule
 | Stage | Practitioner action | Product to keep | Review question |
 |---|---|---|---|
 | Week 1: define | Select one skill outcome and examine two or three recent, appropriately handled examples of work. Note the task and support conditions. | One question, a baseline observation and a plan for evidence. | What exactly needs to become clearer? |
-| Week 2: prepare | Read the relevant source section, revise one model or scaffold, and rehearse with a colleague. | A revised task and a short explanation of the change. | Does the model show the thinking learners need? |
+| Week 2: prepare | Review the relevant teaching routine, revise one model or scaffold, and rehearse with a colleague. | A revised task and a short explanation of the change. | Does the model show the thinking learners need? |
 | Week 3: try | Teach the revised activity and observe individual attempts. Ask learners which part helped or remained unclear. | Work samples or observation notes, support records and learner feedback. | What changed in the observed action? |
 | Week 4: decide | Compare evidence cautiously, identify remaining barriers and revise the next lesson. | A keep/change/try-next note with reasons. | Is the improvement useful enough to continue testing? |
 
@@ -63,37 +61,40 @@ Discuss the pilot with the delivery team and, where appropriate arrangements exi
 
 ## Choose professional learning for the next task
 
-The supplied guide lists AWES practitioner training, Bow Valley College’s TOWES development and administrator training, Douglas programs, SkillPlan workshops and Workplace Education Manitoba’s practitioner certification on pp.136–138. These are useful leads to investigate. This edition has not independently verified current admission requirements, dates, costs, delivery modes or certification conditions for those programs. An entry in the March 2024 guide is not a current offer. [S1]
+Choose a learning opportunity that answers the growth-plan question. If you need better individual evidence, practise setting a criterion and recording an observation. If documents are difficult to teach, work with a colleague on headings, tables, version checks and reading routes. If the context is unsuitable, involve the appropriate local expertise and examine the design process. A generic course cannot replace that relationship.
 
-One directly relevant resource was independently retrieved: Douglas College’s **Indigenous Skills for Success Journey, Planting the Seeds for Growth**. Its current landing page identifies a practitioner train-the-trainer course and links learning tools for all nine skills. Its Facilitation Guide discusses connecting learning to participants’ own contexts and values, individual journeys and varied delivery formats. The page states that credit toward Douglas’s practitioner program depends on taking the course with a certified instructor; simply reading our textbook does not meet that condition. [S2]
+Before committing time or program funds, identify the intended outcome, facilitator expertise, delivery format, access arrangements, cost and chance to apply the learning. For a credentialed course, confirm its actual admission and assessment requirements with the provider. Select one change to try afterwards and arrange a colleague review. Attendance at professional development is not itself evidence that a new teaching practice works.
 
-BCIT’s **Indigenous Guides** page provides another route for professional learning. It links the BCcampus Pulling Together series for different institutional roles and identifies Indigenous leadership in its development, including FNESC, IAHLA and Métis Nation BC. The linked books themselves were not retrieved during this research, so their specific guidance and licences remain to be checked before use. The page verifies a resource pathway, not those organizations’ endorsement of this guide. [S3]
+### Rehearsal case: choose the next teaching move
 
-Choose a resource to answer the growth-plan question. If you need better individual evidence, prioritize assessment learning. If authentic documents are difficult to teach, investigate document use and complexity. If a lesson’s context is culturally inappropriate, involve the right local expertise and examine the design process; a generic online course cannot replace that relationship. Allow time to apply and review what you learn.
+Use these invented observations in a team meeting. The task is to calculate the proportion of **six red practice cards in a set of 24 cards**. The criterion is selecting the part and whole, calculating a percentage and checking what the result describes. An agreed calculator is available.
 
-## Verify a resource before relying on it
+| Participant code | Observation |
+|---|---|
+| A | Selects 6 and 24, calculates `6 ÷ 24 × 100 = 25%`, and says the answer describes this set of cards. |
+| B | Calculates `24 ÷ 6 × 100 = 400%` and says the number seems too large. |
+| C | The instructor points to 24 and says, “Use this as the whole.” C then calculates 25%. |
+| D | Has no turn because the session ends during another person's explanation. |
 
-SkillPlan’s bibliography is a map of its sources. It includes books, articles, institutional guidance, tools and practitioner websites across all nine skills. Reading the bibliography does not mean reading those sources. Describe a resource as “listed in SkillPlan’s guide” until you have retrieved and examined it yourself. This applies to the SRDC reports, *Controlling Complexity*, the Reader’s Guide, research articles and culturally responsive teaching leads listed in pp.139–148. [S1]
+Each practitioner records a feedback status, an exact observation and one next teaching action before comparing with a colleague. Separate the ability to calculate from the choice of quantities. Do not infer a general Numeracy level from this one task.
 
-Use a source record with the following fields:
+**Answer guidance.** A demonstrates the stated criterion independently under the agreed calculator condition. B has not yet demonstrated the complete criterion, but noticing an implausible answer is useful evidence: model part/whole selection using a 24-cell sketch, shade six cells, then retry with different counts. C demonstrates the calculation with a task-specific prompt; give another task to see whether C can select the whole. D is **Not observed** and needs a turn, not remedial instruction inferred from absence of evidence.
 
-- Title, author or publisher, edition or date, and the exact URL or supplied file.
-- Date checked and what was actually accessible: full text, selected pages, abstract, search result, or blocked page.
-- The specific claim or teaching decision it supports, with page or section.
-- Context and limits: adult population, sector, country, age group or conditions that affect relevance.
-- Copyright or licence terms observed, and the intended use of the material.
-- A next action when a claim, permission or current version remains unresolved.
+Use **five blue cards in a set of 20** for the retry: `5 ÷ 20 × 100 = 25%`. Since the percentage happens to match the first answer, require the selected quantities and explanation; guessing 25% is insufficient. For a further check, use **six blue cards in a set of 20**: `6 ÷ 20 × 100 = 30%`. A partner checks the task, part, whole, calculation and meaning in that order.
 
-A search result is a lead, not evidence of a whole document. A webpage that returns a loading screen or robot challenge has not supplied the promised content. A publicly downloadable PDF is not automatically available for adaptation. The Douglas Facilitation Guide, for example, explicitly uses CC BY-NC-ND 4.0; its activities should not be remixed into this original resource without the required permission. JIBC’s engagement guidance is all rights reserved and is cited through concise paraphrase rather than bundled or reproduced. [S2; S4]
+### Record the decision and follow it through
 
-For cultural knowledge, ask who can authorize the intended use and what can be shared beyond the original setting. Agree attribution, review, distribution and compensation before recording or incorporating a contribution. A source list does not establish those agreements. Keep local review and the status of unresolved resources visible to the team, so later editions can improve the work without inventing authority.
+Use this compact record after rehearsal or an actual observation. Identify which kind of evidence you have; a fictional meeting case must not become a claimed learner result.
 
-## Sources and status
+| Field | Entry to complete |
+|---|---|
+| Teaching question | Which decision or action needs to become clearer? |
+| Current task and criterion | What was the person asked to do, and what would meet the criterion? |
+| Evidence and conditions | What happened? Which tools, prompts and access arrangements were present? |
+| Teaching change | What model, wording, material or observation arrangement will change? |
+| Next opportunity | What will the person try, and when will it be available? |
+| Review | Who will review the evidence and decide whether to keep or revise the change? |
 
-**S1. SkillPlan.** *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [pp.136–148](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=136); growth-planning lead on [p.21](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=21). The supplied pages were read. Bibliographic entries are not claimed as independently reviewed publications. The growth cycle, coaching prompts and pilot tables in this chapter are original instructional proposals.
+Agree the real storage and sharing arrangements with the delivery lead. Use the minimum information necessary for the teaching purpose. Keep actual learner feedback distinct from practitioner interpretations. Where local partners contribute a case or review, record the agreed purpose, scope, attribution and future use. Do not describe a proposal, invitation or rehearsal as completed community review.
 
-**S2. Douglas College.** [Indigenous Skills for Success Journey](https://www.douglascollege.ca/programs-and-courses/workplace-skills/skills-success/skills-success-practitioner-training/indigenous-skills-success-journey-planting-seeds-growth) and [Facilitation Guide](https://www.douglascollege.ca/sites/default/files/docs/training-group/indigenous-skills-for-success-journey-facilitator-guide_.pdf), retrieved 23 October 2026; selected front matter and delivery guidance read, especially printed pp.1, 7–10 / PDF pp.2, 8–11. The entire course, interactive activities and certification arrangements were not reviewed.
-
-**S3. BCIT.** [Indigenous Guides](https://www.bcit.ca/indigenous-initiatives/resources/indigenous-guides/), retrieved 23 October 2026. Linked BCcampus book contents were blocked and remain unverified here. The original FNESC First Peoples Principles of Learning page and IAHLA site were also inaccessible; no FPPL text or alignment is claimed from those blocked pages.
-
-**S4. Justice Institute of British Columbia.** [*Living Indigenization: Engagement Protocols & Guidelines*](https://www.jibc.ca/sites/default/files/2025-01/Engagement_Protocols_and_Guidelines-Online-FINAL.pdf#page=7), ©2025; content credited to Heather Saranczak and Jason La Rochelle; retrieved 23 October 2026. Engagement principles paraphrased from printed pp.12–17 / PDF pp.7–9; rights statement on printed p.3 / PDF p.2. No PDF, artwork or cultural contribution is reproduced.
+At the next review, return to the question you began with. A useful professional-learning record shows the teaching decision, the attempted change, its observed effect and the remaining uncertainty. If the obstacle is a missing device, inaccessible space or insufficient observation time, name the program action needed rather than asking the learner to compensate for it.

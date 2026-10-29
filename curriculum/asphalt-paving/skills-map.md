@@ -1,10 +1,10 @@
 # Skills for Success teaching map • Asphalt A1
 
-This map connects the [three-session learner workbook](unit-01/learner.md) and [instructor guide](unit-01/instructor.md) to **SkillPlan's _Skills for Success Get Started Guide for Practitioners_, revised March 2024**. It maps the tasks that actually appear in the workbook. The activities are original ACCESS IS4S practice proposals; they are not SkillPlan's lesson plans or validated proficiency assessments.
+**Internal curriculum planning and source-alignment record.** This map connects the [three-session learner workbook](unit-01/learner.md) and [instructor guide](unit-01/instructor.md) to observable nine-skill evidence. It records the 18 opening activities and their relationship to the continuing [Line A classroom sequence](line-a/README.md). The source citations below document instructional research; the learner and instructor materials provide the complete teaching sequence.
 
-**Teaching source:** [Supplied SkillPlan guide](sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf). Its printed page numbers match its PDF page numbers. References below use those page numbers.
+**Background source for this internal record:** [SkillPlan practitioner guide, revised March 2024](sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf). Its printed page numbers match its PDF page numbers. References below use those page numbers.
 
-**Occupational boundary:** [Supplied Asphalt Paving/Laydown Technician Program Outline, A1](sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22), PDF p.22 / printed p.20. A1 introduces the industry, equipment, road history and uses, resources, statistics, other road types, regulations/funding and environmental comparison. The workbook's **three 60-minute sessions are supplementary IS4S practice**. The outline's 3% allocation covers the whole of Line A, A1–A6, not A1 alone (PDF p.17 / printed p.15). Applying 3% to the supplied [profile's 120-hour technical-training total](sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf#page=2) gives 3.6 hours for that whole line; it does not establish this unit's technical-training allocation.
+**Occupational boundary:** [Supplied Asphalt Paving/Laydown Technician Program Outline, A1](sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=22), PDF p.22 / printed p.20. A1 introduces the industry, equipment, road history and uses, resources, statistics, other road types, regulations/funding and environmental comparison. The workbook contains **three 60-minute ACCESS IS4S classroom sessions**. The outline's 3% allocation covers the whole of Line A, A1–A6, not A1 alone (PDF p.17 / printed p.15). Applying 3% to the supplied [profile's 120-hour technical-training total](sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf#page=2) gives 3.6 hours for that whole line; it does not establish this unit's technical-training allocation.
 
 ## Attribution and source limits
 
@@ -25,7 +25,7 @@ The guide describes its proficiency levels as **preliminary** ([p.19](sources/SF
 | **Assessment**, pp.37–38 | Use observable tasks, individual records, immediate specific feedback and another attempt where needed. Separate mathematical accuracy, source interpretation, digital performance and interaction quality rather than assigning one global impression. |
 | **Social-emotional skills**, pp.40–42 | Explicitly teach the listening/clarification routine in A1-Q07, thoughtful claim-checking in A1-Q14, response to changed requirements in A1-Q16 and feedback use in A1-Q17. These are teachable actions, not fixed personality traits. |
 
-The guide recommends authentic workplace documents where available (pp.28, 47). Using this unit's simulations supports contextual practice but does not establish that learners have used current employer documents, current regulatory sources or real industry statistics. Those remain separate follow-up work.
+The guide recommends authentic workplace documents where available (pp.28, 47). The opening workbook uses classroom simulations. Continue with [Industry evidence and decisions](line-a/01-industry-evidence.md): LA1-01–LA1-02 use dated public statistics, LA1-03–LA1-04 examine workplace requirements, contract references and funding, and LA1-05–LA1-06 compare sourced material-recovery pathways within an explicit boundary. Record that evidence separately from performance on the fictional opening tasks. The [source register](line-a/research/source-ledger.md) retains the evidence limits.
 
 ## Nine skills mapped to actual tasks
 
@@ -51,9 +51,9 @@ Quoted labels and component numbers are from the indicated guide pages. The evid
 | **2. Read the industry picture — 60 minutes** | **A1-Q09–Q13. Numeracy, Digital, Writing.** | Read the fictional owner/contractor/funding brief and identify the historical source-label gaps. Model the East/West table example. Learners independently calculate and interpret the North/Central/South table, then check it. Each learner enters/checks, saves and reopens a digital record. End with a purposeful project note and revision. |
 | **3. Check a claim and improve the message — 60 minutes** | **A1-Q14–Q18. Problem solving, Adaptability, Creativity and innovation.** | Model the claim → evidence → missing information → justified next step routine. Apply it to C1–C3. Develop two information-sheet options and an initial draft. Release the change card after drafting. Revise, test whether a reader can find the three answers, improve and identify evidence for the three focus skills. |
 
-These 180 supplementary minutes are the actual sequence in the instructor guide. Device beginners may need another supported turn outside that core timing. Leave Digital **not observed** until evidence is collected. The guide's advice to provide appropriate starting points and just-in-time support supports this decision (pp.72–73).
+These 180 minutes are the sequence in the instructor guide. Device beginners may need another supported turn outside that core timing. Leave Digital **not observed** until evidence is collected. The guide's advice to provide appropriate starting points and just-in-time support supports this decision (pp.72–73).
 
-Use the **existing workbook data and answer key**. The East/West worked example and North/Central/South independent table are fictional and separate. Their interpretation does not satisfy the outstanding need for current industry-size, economic or employer data. Do not introduce a second practice dataset into this map or substitute its values into the workbook.
+Use the **existing workbook data and answer key**. The East/West worked example and North/Central/South independent table are fictional and separate. Their interpretation is separate from the dated public industry data and source checks in [LA1-01–LA1-02](line-a/01-industry-evidence.md#la1-01-report-what-the-data-can-support). Do not introduce a second practice dataset into this map or substitute its values into the workbook.
 
 ## Source-based assessment decisions
 
@@ -84,6 +84,6 @@ Record **transfer separately**. A1-Q18 asks for a proposed future use and eviden
 
 ## Curriculum presentation
 
-Retain the established Numeracy Hub direction: ACCESS red headings, gold rules/highlight fills, warm paper, clear labels, numbered worked steps and practical language. Keep task purpose, practice and evidence close together. The SkillPlan guide supplies instructional grounding; it does not require a new platform or a new visual identity.
+Retain the established Numeracy Hub direction: ACCESS red headings, gold rules/highlight fills, warm paper, clear labels, numbered worked steps and practical language. Keep task purpose, practice and evidence close together. The ACCESS teaching materials carry this visual and instructional approach through the [six-unit Line A sequence](line-a/README.md).
 
 Learner choice, respectful interaction and access supports are consistent with pp.24–25, 86, 93 and 110. Invite community knowledge when freely offered; do not ask a learner to represent an entire culture or disclose personal experiences. Appropriate local direction and permission remain necessary for any specific community knowledge introduced later.

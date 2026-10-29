@@ -1,0 +1,40 @@
+ body { background: #ffffff; color: #000000; }
+
+ font.important { color: red; }
+ font.Power { font-weight: bold; }
+ font.Tech { font-weight: }
+
+ p.copyright { font-weight: bold; position: relative; left: 20pt }
+ p.disclaimer { font-weight: bold; position: relative; left: 20pt }
+
+ p.caution { font-weight: bold; font-size: italic; margin-left: 20pt; text-indent:-20pt }
+ p.cautionx { font-weight: bold; font-size: italic; margin-left: 20pt; }
+
+ p.note { font-style: italic; margin-left: 20pt; text-indent:-20pt}
+ p.notex { font-style: italic; margin-left: 20pt; }
+
+ p.important { font-weight: bold; font-size: italic; margin-left: 20pt; text-indent:-20pt}
+ p.importantx { font-weight: bold; font-size: italic; margin-left: 20pt; }
+
+ p.footnote { font-size: 0.8em; }
+ p.legend { font-weight: bold; position:relative; left: 20pt }
+ p.llegend { font-weight: bold; position:relative; left: 20pt }
+ p.plegend { font-weight: bold; }
+ p.trademark { font-size: 0.8em; }
+ p.tssym { font-weight: bold; }
+
+ p.pspechead0 { font-weight: bold; text-align: center; }
+ p.pspechead1 { font-weight: bold; text-align: center; }
+
+ p.indent1 { margin-left: 6pt }
+ p.indent2 { margin-left: 12pt }
+ p.indent3 { margin-left: 18pt }
+
+ p.cautionindent1 { font-weight: bold; font-size: italic; margin-left: 6pt text-indent:-6pt}
+ p.cautionindent2 { font-weight: bold; font-size: italic; margin-left: 12pt text-indent:-12pt}
+ p.cautionindent3 { font-weight: bold; font-size: italic; margin-left: 18pt text-indent:-18pt}
+
+ ul.list { margin-top: 0pt; }
+
+
+

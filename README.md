@@ -1,18 +1,18 @@
 # Business
 
-## Complete ACCESS IS4S nine-skills books
+## ACCESS IS4S nine-skills books
 
 [Open the books](curriculum/skills-for-success/README.md) · [Learner textbook (PDF)](curriculum/skills-for-success/learner-textbook.pdf) · [Practitioner guide (PDF)](curriculum/skills-for-success/practitioner-guide.pdf)
 
-The complete 148-page Skills for Success guide has been reworked into two substantial ACCESS IS4S companion books: all 54 components, 162 skill activities, two integrated projects, complete teaching lessons and answer guidance. The visual edition adds 38 SVG assets, four illustrations and an [eight-page preview](curriculum/skills-for-success/visual-sampler.pdf). Original BC learning and community examples, current online research and a full source crosswalk are included. The design follows the Numeracy Hub. Instructor-review and pilot edition.
+Two standalone ACCESS IS4S books teach all nine Skills for Success through complete learning cases, worked examples, fresh practice, integrated projects and answer guidance. Edition 3 adds direct teaching routes, observation tools, a local Digital practice desk and redesigned SVG illustrations. [Explore the books](curriculum/skills-for-success/README.md).
 
 The [28 October book review and gap analysis](curriculum/skills-for-success/research/book-gap-analysis-2026-10-28.md) identifies 14 prioritized improvements, with evidence and completion checks for teaching, assessment, visual usability, local review and the asphalt pathway.
 
-## Asphalt curriculum — start here
+## Asphalt curriculum
 
-[Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Learner workbook (PDF)](curriculum/asphalt-paving/unit-01/learner-workbook.pdf) · [Instructor guide (PDF)](curriculum/asphalt-paving/unit-01/instructor-guide.pdf)
+[Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Roadbuilding learner book](curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf) · [Teaching and answer guide](curriculum/asphalt-paving/line-a/teaching-guide.pdf)
 
-The first SkilledTradesBC competency, A1, now has three opening sessions with readings, worked examples, 18 learner activities, answer guidance and evidence for all nine Skills for Success. [Original source PDFs](curriculum/asphalt-paving/sources/README.md), editable lessons and reusable classroom materials are included. The design follows the ACCESS Numeracy Hub. Teaching draft for instructor review and pilot.
+Six complete Roadbuilding foundations units develop A1–A6 with 37 activities, current industry evidence, technical diagrams and answer guidance. The curriculum includes the opening A1 workbook, a specifications workshop using the supplied 2006 document, a manufacturer-manual resource pack and an indexed PDF context library. MS-4 Seventh Edition is the primary textbook; its uploaded file is pending transfer. [Scope and technical review status](curriculum/asphalt-paving/line-a/technical-handoff.md).
 
 ## ACCESS Indigenous Skills 4 Success — 2027 program research
 

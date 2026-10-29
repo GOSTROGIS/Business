@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Learning visual | ACCESS IS4S</title>
+<link rel="stylesheet" href="books.css">
+<link rel="stylesheet" href="visual-viewer.css">
+<link rel="icon" href="is4s-badge.svg" type="image/svg+xml">
+<script src="visual-viewer.js" defer></script>
+</head>
+<body class="visual-viewer">
+<a class="skip" href="#visual-stage">Skip to visual</a>
+<header class="viewer-header">
+  <a id="viewer-return" href="../index.html">Return to reading</a>
+  <p class="eyebrow">ACCESS IS4S · Visual viewer</p>
+  <h1 id="viewer-title">Learning visual</h1>
+  <p id="viewer-instructions">Fit the whole visual, or enlarge it to read a detail. Focus the visual and use arrow keys to pan, + or − to zoom, and 0 to fit. On a touch screen, swipe inside the visual to pan. Escape moves focus to the return link.</p>
+</header>
+<main class="viewer-main">
+  <div class="viewer-controls" role="group" aria-label="Visual size">
+    <button type="button" id="viewer-fit">Fit width</button>
+    <button type="button" id="viewer-actual">Original size</button>
+    <button type="button" id="viewer-out" aria-label="Zoom out">−</button>
+    <button type="button" id="viewer-in" aria-label="Zoom in">+</button>
+    <output id="viewer-status" aria-live="polite" aria-atomic="true">Loading visual…</output>
+  </div>
+  <div id="visual-stage" class="viewer-stage" tabindex="0" role="region" aria-labelledby="viewer-title" aria-describedby="viewer-instructions">
+    <img id="viewer-image" alt="" draggable="false" hidden>
+  </div>
+  <p id="viewer-error" role="alert" hidden></p>
+  <section class="viewer-description" aria-labelledby="description-heading">
+    <h2 id="description-heading">Visual description</h2>
+    <p id="viewer-description">Choose a visual from a learning chapter to read its description.</p>
+    <a id="viewer-original" hidden>Open the original image file</a>
+  </section>
+  <noscript><p>This viewer needs JavaScript for zoom controls. Return to the <a href="../VISUALS.html">visual index</a> for original image links and descriptions.</p></noscript>
+</main>
+</body>
+</html>

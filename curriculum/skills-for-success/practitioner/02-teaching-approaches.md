@@ -1,6 +1,6 @@
 # Teaching the nine skills through useful work
 
-This chapter turns the six overarching approaches in SkillPlan's guide into decisions an ACCESS IS4S practitioner can make before, during and after a session. The approaches work together. A relevant task can still be inaccessible; a welcoming conversation can still leave the skill unexplained; a polished group product can still hide one person's learning. Plan the task, the teaching and the evidence together.
+Use six connected teaching approaches to plan what happens before, during and after an ACCESS IS4S session. The approaches work together. A relevant task can still be inaccessible; a welcoming conversation can still leave the skill unexplained; a polished group product can still hide one person's learning. Plan the task, the teaching and the evidence together.
 
 The examples below are original classroom simulations. They can be used in an asphalt preparation cohort, another trades pathway or a broader employment and community learning program. They do not establish an employer's procedures or a Nation's protocols. Local partners and learners help determine which examples matter, and a learner can use the supplied case without sharing a personal experience.
 
@@ -44,7 +44,7 @@ Contextualized teaching connects a skill to a purpose the learner can recognize.
 
 Start with a task sentence: “A new crew member needs to know where to report and whom to contact if the information conflicts.” Identify the documents the person would actually consult. Then identify what the learner must do with them: locate a name, compare two dates, recognize a missing approval, calculate a total or ask a clarification question. These actions determine the teaching. A decorative photograph of a construction site does not by itself make an unrelated worksheet occupationally relevant.
 
-For asphalt preparation, the supplied A1 outline provides a useful content boundary: introduce the industry, equipment purposes, resources, users and project information. The nine foundational skills help learners understand and communicate that content. An equipment-name matching activity does not demonstrate machine operation. A fictional project budget does not establish the real cost of a paving job. State the boundary where it affects what the learner may conclude.
+For introductory asphalt preparation, keep the content boundary clear: introduce the industry, equipment purposes, resources, users and project information. The nine foundational skills help learners understand and communicate that content. An equipment-name matching activity does not demonstrate machine operation. A fictional project budget does not establish the real cost of a paving job. State the boundary where it affects what the learner may conclude.
 
 ### Build a document set from a real task
 
@@ -58,7 +58,7 @@ Use the following sequence when creating or selecting materials:
 6. Prepare a simpler entry version if needed, preserving the meaning of the task and marking alterations.
 7. Create a new but comparable task for a later independent attempt.
 
-To find suitable documents, begin with people and organizations responsible for the work. A subject-matter expert or employer can identify the forms, schedules and instructions actually used in a task. Regulators and government agencies provide current requirements within their authority; industry associations, trade publications and public company resources offer other useful examples. Academic partners and established training networks may help locate material or arrange a practitioner conversation. Check the source and version rather than assuming that a familiar logo makes a document current. Agree permission, removal of private information, attribution and classroom use before adapting material. A professional forum or social post can supply a lead, but trace a claim to the responsible source before teaching it as a requirement. These routes adapt the practical collection guidance on source page 28.
+To find suitable documents, begin with people and organizations responsible for the work. A subject-matter expert or employer can identify the forms, schedules and instructions actually used in a task. Regulators and government agencies provide current requirements within their authority; industry associations, trade publications and public company resources offer other useful examples. Academic partners and established training networks may help locate material or arrange a practitioner conversation. Check the source and version rather than assuming that a familiar logo makes a document current. Agree permission, removal of private information, attribution and classroom use before adapting material. A professional forum or social post can supply a lead, but trace a claim to the responsible source before teaching it as a requirement.
 
 Do not remove a key condition merely to make a task easier. If a schedule says “arrival at 8:45; instruction starts at 9:00,” simplifying it to a single time removes the distinction the learner may need to understand. Instead, highlight the two labels and model how to explain their relationship.
 
@@ -160,8 +160,9 @@ When modelling communication, make the interaction visible. Demonstrate a check-
 
 <!-- visual:teaching-evidence-cycle--practitioner-02 -->
 <figure class="teaching-figure diagram" data-visual="teaching-evidence-cycle--practitioner-02">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-evidence-cycle.svg" alt="A six-stage cycle moves from setting a task and criterion to observing, interpreting, teaching and feedback, trying again, and reviewing change or transfer. The centre reminds practitioners to record task, tools, support and version." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="5. Collect evidence that can guide the next lesson — visual"><img src="../assets/diagrams/teaching-evidence-cycle.svg" alt="Six arrow-linked teaching moves cycle through setting the task and criterion, observing an individual attempt, interpreting evidence against the criterion, teaching with useful feedback, trying a comparable new task, and reviewing change and transfer. A central record names task, tools, support and version so the conditions remain visible." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> An observed attempt informs the next teaching move. Keep the task, tools, support and version with the evidence; review transfer through a later task. <a class="visual-original" href="../assets/diagrams/teaching-evidence-cycle.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Six arrow-linked teaching moves cycle through setting the task and criterion, observing an individual attempt, interpreting evidence against the criterion, teaching with useful feedback, trying a comparable new task, and reviewing change and transfer. A central record names task, tools, support and version so the conditions remain visible.</p></details>
 </figure>
 <!-- /visual:teaching-evidence-cycle--practitioner-02 -->
 
@@ -258,8 +259,9 @@ Avoid fixed labels in feedback. Say, “You tried two layouts and tested them wi
 
 <!-- visual:teaching-six-approaches--practitioner-02 -->
 <figure class="teaching-figure diagram" data-visual="teaching-six-approaches--practitioner-02">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-six-approaches.svg" alt="A connected path links six teaching approaches: learner-centred purpose, contextualized tasks, complexity, direct instruction, assessment and social-emotional interaction. A return arrow indicates that planning is iterative." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Bring the six approaches into one session — visual"><img src="../assets/diagrams/teaching-six-approaches.svg" alt="Six planning approaches surround one purposeful session: learner-centred work, contextualized tasks, complexity, direct instruction, assessment, and social-emotional teaching. The accompanying moves start with a purpose, use a meaningful task, adjust demand, model a strategy, use individual evidence and teach useful interactions. These approaches support one another within a session." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Plan purpose, context, complexity, modelling, evidence and participation together. Revisit these decisions when the learner’s evidence changes. <a class="visual-original" href="../assets/diagrams/teaching-six-approaches.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Six planning approaches surround one purposeful session: learner-centred work, contextualized tasks, complexity, direct instruction, assessment, and social-emotional teaching. The accompanying moves start with a purpose, use a meaningful task, adjust demand, model a strategy, use individual evidence and teach useful interactions. These approaches support one another within a session.</p></details>
 </figure>
 <!-- /visual:teaching-six-approaches--practitioner-02 -->
 
@@ -295,9 +297,3 @@ Ask each learner to identify the current date, room, arrival time and instructio
 Before teaching, complete these fields in ordinary sentences: learner purpose; document and source status; focus component; observable outcome; model; guided attempt; independent attempt; supports; likely misconception; feedback; next task. After teaching, add actual timing, evidence gaps and one change for the next delivery.
 
 For example, an observation that “four learners could find the updated room but could not explain the unchanged time” suggests returning to cross-document connections. It does not justify repeating the same room-number question for the whole group. A finding that only one device was available suggests a scheduling change before interpreting Digital results. Practical revision connects the program's conditions to the evidence it is able to collect.
-
-## Source connection
-
-This chapter reworks the instructional content of SkillPlan's *Skills for Success Get Started Guide for Practitioners* (March 2024), [pp.24–43](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=24): learner-centred teaching 24–25; contextualization 26–31; complexity 32–34; direct instruction 35–36; assessment 37–39; and social-emotional teaching 40–43. The original's broad effectiveness claims are not presented here as findings from an ACCESS pilot. Its cited third-party studies remain references in that supplied guide unless separately reviewed in the research ledger.
-
-Current federal definitions and component guidance were also checked on the [Skills, components and proficiency levels page](https://www.canada.ca/en/services/jobs/training/initiatives/skills-success/learning-steps.html), accessed 23 October 2026. Local observation descriptions in this chapter are deliberately distinct from federal proficiency descriptors. B.C. source findings and their applicability limits are recorded in the companion research notes.

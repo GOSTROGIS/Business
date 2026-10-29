@@ -1,0 +1,345 @@
+SOURCE: curriculum/asphalt-paving/manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf
+SOURCE SHA-256: 25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96
+ORIGINAL PDF VIEWER PAGES: 201–206 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 201 ===
+Maintenance
+
+  SPN    FMI             DTC                      SYMPTOM/CAUSE                        RECOVERY FROM ERROR
+                                          DPF inlet temperature higher than
+               Emergency exhaust gas      1319° F (715° C). Engine stops. Inhibit
+                                                                                    Under 572° F (300° C) and key switch
+  3242     0   temperature sensor 1:      starter relay activation until exhaust
+                                                                                    turn OFF.
+               High                       temperatures reduces down to 572° F
+                                          (300° C).
+                                          Open circuit or +B short circuit
+               Exhaust gas temperature    of sensor/harness. DPF inlet
+  3242     3                                                                        Key switch turn OFF.
+               sensor 1: High             temperature sensor voltage 4.92V or
+                                          more.
+                                          Ground short circuit of sensor/
+               Exhaust gas temperature
+  3242     4                              harness. DPF inlet temperature            Key switch turn OFF.
+               sensor 1: Low
+                                          sensor voltage 0.08V or less.
+                                                                                    Under 572° F (300° C) and key switch
+               Emergency exhaust gas                                                turn OFF.
+                                          DPF outlet temperature 1508° F (820°
+  3246     0   temperature sensor 2:                                                Inhibit starter relay activation until
+                                          C) or more.
+               High                                                                 exhaust temperature reduces down to
+                                                                                    572° F (300° C).
+                                          Open circuit or +B short circuit
+               Exhaust gas temperature    of sensor/harness. DPF outlet
+  3246     3                                                                        Key switch turn OFF.
+               sensor 2: High             temperature sensor voltage 4.92V or
+
+
+                                                                                                                              5
+                                          more.
+                                          Ground short circuit of sensor/
+               Exhaust gas temperature
+  3246     4                              harness. DPF outlet temperature           Key switch turn OFF.
+               sensor 2: Low
+                                          sensor voltage 0.08V or less.
+                                          Open circuit or +B short circuit of
+               Differential pressure
+  3251     3                              sensor/harness. DPF differential          Key switch turn OFF.
+               sensor 1: High
+                                          pressure sensor voltage 4.7V or more.
+                                          Ground short circuit of sensor/
+               Differential pressure
+  3251     4                              harness. DPF differential pressure        Key switch turn OFF.
+               sensor 1: Low
+                                          sensor voltage 0.21V or less.
+                                          DOC is heated due to unburned fuel.
+                                                                                    Key switch turn OFF to minimize
+  3252     0   Emission deterioration.    Output and accelerator limitation 50%.
+                                                                                    emission to DPF.
+                                          EGR stops.
+                                          Voltage to sensor is above 5.625V.
+               Sensor supply voltage 1:
+  3509     3                              EGR stops. Faulty starting. Engine        Key switch turn OFF.
+               High
+                                          may stop. Emission related.
+                                          Voltage to sensor is below 4.375V.
+               Sensor supply voltage 1:
+  3509     4                              EGR stops. Faulty starting. Engine        Key switch turn OFF.
+               Low
+                                          may stop. Emission related.
+               Sensor supply voltage 2:   Voltage to sensor is above 5.625V.
+  3510     3                                                                        Key switch turn OFF.
+               High                       Faulty starting. Emission related.
+               Sensor supply voltage 2:   Voltage to sensor is below 4.375V.
+  3510     4                                                                        Key switch turn OFF.
+               Low                        Faulty starting. Emission related.
+               Sensor supply voltage 3:   Voltage to sensor is above 5.25V.
+  3511     3                                                                        Key switch turn OFF.
+               High                       Faulty starting.
+               Sensor supply voltage 3:   Voltage to sensor is below 4.75V.
+  3511     4                                                                        Key switch turn OFF.
+               Low                        Faulty starting.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                           5-61
+
+=== ORIGINAL PDF PAGE 202 ===
+Maintenance
+
+  SPN     FMI              DTC                         SYMPTOM/CAUSE                        RECOVERY FROM ERROR
+                                                                                        Key switch turn OFF.
+                                                                                        Engine not forcibly stopped by ECU.
+                                               PM accumulation more than trigger
+  3701     0    Excessive PM 5.                                                         STRONGLY recommend operator to
+                                               level. Regeneration Level = 5.
+                                                                                        stop engine promptly.
+                                                                                        Must be reset by Kubota service tool.
+                                               PM accumulation more than trigger
+  3701    15    Excessive PM 3.                                                         Diagnostic counter = 0
+                                               level. Regeneration Level = 3.
+                                               PM accumulation more than trigger
+  3701    16    Excessive PM 4.                                                         Diagnostic counter = 0
+                                               level. Regeneration Level = 4.
+                                                                                        Key switch turn OFF.
+                Emergency exhaust gas
+                                               DOC inlet temperature 1292° F (700°      Inhibit starter relay activation until
+  4765     0    temperature sensor 0:
+                                               C) or more. Engine stops.                exhaust temperature reduces down to
+                High
+                                                                                        527° F (300° C).
+                                               Open circuit or +B short circuit
+                Exhaust gas temperature        of sensor/harness. DOC inlet
+  4765     3                                                                            Key switch turn OFF.
+                sensor 0: High                 temperature sensor voltage 4.92V or
+                                               more.
+                                               Open circuit or +B short circuit
+                Exhaust gas temperature        of sensor/harness. DOC inlet
+  4765     4                                                                            Key switch turn OFF.
+                sensor 0: Low                  temperature sensor voltage 0.08V or
+                                               less.
+                                               Wiring harness open circuit. Injectors
+                Injector drive circuit open
+                                               that have no DTC are operated.
+ 523523    2    in Nos. 1 & 4 cylinder                                                  Key switch turn OFF.
+                                               Engine vibration increases and may
+                simultaneously.
+                                               stop.
+                Nos. 1 & 4 cylinder injector   Wiring harness short to +B. Injectors
+                short to +B at power           that have no DTC are operated.
+ 523523    3                                                                            Key switch turn OFF.
+                supply side, or all cylinder   Engine vibration increases and may
+                injectors short to +B.         stop.
+                Nos. 1 & 4 cylinder injector   Wiring harness short to ground.
+                short to ground at power       Injectors that have no DTC are
+ 523523    4                                                                            Key switch turn OFF.
+                supply side, or all cylinder   operated. Engine vibration increases
+                injectors short to ground.     and may stop.
+                                               Wiring harness open circuit. Injectors
+                Injector drive circuit open
+                                               that have no DTC are operated.
+ 523524    2    in Nos. 2 & 3 cylinder                                                  Key switch turn OFF.
+                                               Engine vibration increases and may
+                simultaneously.
+                                               stop.
+                Nos. 2 & 3 cylinder
+                                               Wiring harness short to +B. Injectors
+                injector short to +B at
+                                               that have no DTC are operated.
+ 523524    3    power supply side, or all                                               Key switch turn OFF.
+                                               Engine vibration increases and may
+                cylinder injectors short
+                                               stop.
+                to +B.
+                Nos. 2 & 3 cylinder
+                                               Wiring harness short to ground.
+                injector short to ground at
+                                               Injectors that have no DTC are
+ 523524    4    power supply side, or all                                               Key switch turn OFF.
+                                               operated. Engine vibration increases
+                cylinder injectors short to
+                                               and may stop.
+                ground.
+                                               Injector charge voltage low. Failure
+                Injector charge voltage
+ 523525    1                                   of charge circuit of ECU. Engine may     Key switch turn OFF.
+                low.
+                                               stop.
+
+
+
+
+5-62                                                                                        LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 203 ===
+Maintenance
+
+  SPN     FMI              DTC                     SYMPTOM/CAUSE                          RECOVERY FROM ERROR
+                                           Failure of monitoring IC of CPU.
+ 523527    2    ECU monitoring error.                                                 Key switch turn OFF.
+                                           Engine stops.
+                Injector charge voltage:   EGR stops. Engine forcibly stops 60
+ 523535    0                                                                          Key switch turn OFF.
+                High                       seconds later.
+                                           DC motor feedback control error.
+                                           During wrong duty feedback, activation
+                                           of restoration will repeat 30 times. If
+ 523536    2    EGR feedback error.                                                Diagnostic counter = zero
+                                           the restoration was not successfully
+                                           completed, it will be judged as a
+                                           feedback error. EGR stops.
+                EGR DC motor               Estimated temperature is 113° F (45°
+ 523537    2                                                                          Diagnostic counter = zero
+                temperature error.         C) or above. EGR stops.
+                                           QR data read error from EEPROM.
+ 523538    2    QR data error.                                                        Key switch turn OFF.
+                                           Nozzle correction is not executed.
+                                           Rail pressure of 230 MPa (33400 psi
+                                           or 2350 kgf/cm2) or more continues
+                                           one second under the condition of
+                                           above 800 min-1 (rpm).
+                                           Under 800 min-1 (rpm) condition, rail      Key switch turn OFF to minimize PM
+                                           pressure of 220 MPa (31900 psi or
+
+
+                                                                                                                              5
+ 523539    2    Pump seizing 1.                                                       emission to DPF and avoid extremely
+                                           2250 kgf/cm2) or more continues one        high pressure in injection system.
+                                           second under the condition of below
+                                           800 min-1 (rpm). [Threshold changes
+                                           depending upon the engine speed.
+                                           700 min-1 (rpm) should be used as a
+                                           reference.
+                                           Rail pressure of 197MPa (28600 psi or
+                                           2010 kgf/cm2) or more continues one
+                                           second under the condition of above
+                                           800 min-1 (rpm).
+                                           Under 800 min-1 (rpm) condition, rail
+ 523540    2    Pump seizing 2.            pressure of 220 MPa (31900 psi or          Key switch turn OFF.
+                                           2250 kgf/cm2) or more continues one
+                                           second under the condition of below
+                                           800 min-1 (rpm). [Threshold changes
+                                           depending upon the engine speed.
+                                           700 min-1 (rpm) should be used as a
+                                           reference.
+                                           +B short circuit of sensor/harness.
+ 523541    3    EGR lift sensor: High      Failure of sensor. Voltage of ECR lift     Key switch turn OFF.
+                                           sensor is 4.5V or above. EGR stops.
+                                           Open circuit or short circuit of sensor/
+                                           harness. Failure of sensor. Voltage of
+ 523541    4    EGR lift sensor: Low                                                  Key switch turn OFF.
+                                           ECR lift sensor is 0.3V or less. EGR
+                                           stops.
+                                           Accelerator position sensor signal         Diagnostic counter = zero.
+                Accelerator position
+ 523543    2                               error (sensor/harness open circuit,
+                sensor error (CAN).                                                   CAN signal recovers.
+                                           ground short circuit, etc.).
+                +B short of air heater     +B short circuit of harness. Faulty
+ 523544    3                                                                          Key switch turn OFF.
+                relay driving circuit.     starting. White smoke increases.
+
+
+
+
+LeeBoy 8680 Commercial Paver                                                                                           5-63
+
+=== ORIGINAL PDF PAGE 204 ===
+Maintenance
+
+  SPN     FMI               DTC                         SYMPTOM/CAUSE                         RECOVERY FROM ERROR
+                Ground short of air heater     Ground short or open circuit of
+ 523544    4                                                                               Key switch turn OFF.
+                relay driving circuit.         harness.
+ 523547    2    CAN2 bus off.                  CAN2 bus off.                               Key switch turn OFF.
+ 523548    2    CAN-KBT frame error.           CAN-KBT frame open circuit error.           Key switch turn OFF.
+                EGR position sensor            EGR position sensor error signal
+ 523572    4                                                                               Key switch turn OFF.
+                failure.                       received via CAN. EGR stops.
+                                               EGR actuator open error signal
+ 523574    3    EGR actuator open circuit.                                                 Key switch turn OFF.
+                                               received via CAN. EGR stops.
+                                               EGR actuator valve stuck error
+ 523575    7    EGR actuator valve stuck.                                                  Key switch turn OFF.
+                                               received via CAN. EGR stops.
+                                               EGR (DC motor) temperature error
+ 523576    2    EGR (DC motor) overheat.       signal received via CAN (exceeds            Key switch turn OFF.
+                                               257° F or 125° C). EGR stops.
+                EGR (DC motor)                 EGR (DC motor) temperature sensor
+ 523577    2    temperature sensor             error signal received via CAN. EGR          Key switch turn OFF.
+                failure.                       stops.
+                No communication with
+ 523578    2                                   Interruption of CAN. EGR stops.             Key switch turn OFF.
+                EGR.
+                                               Deviation of throttle position is not
+                Intake throttle feedback
+ 523580    2                                   corrected in 20 times of duty error         Key switch turn OFF.
+                error.
+                                               recovery action.
+                Intake throttle lift sensor:   Intake throttle lift sensor voltage 4.89V
+ 523582    3                                                                               Key switch turn OFF.
+                High                           or more.
+                Intake throttle lift sensor:   Intake throttle lift sensor voltage 0.1V
+ 523582    4                                                                               Key switch turn OFF.
+                Low                            or less.
+                                               During regeneration mode, engine            Diagnostic counter = zero
+                Low coolant temperature        warm-up condition is not satisfied
+ 523589   17                                                                               Leaving from Parked active
+                in parked regeneration.        because coolant temperature is too
+                                               low (below 149° F or 65° C).                regeneration status.
+                                                                                           Diagnostic counter = zero
+                Parked regeneration            Regeneration incomplete due to low
+ 523590   16                                                                               Leaving from Parked active
+                timed out.                     temperature of DPF.
+                                                                                           regeneration status.
+                                               CAN CCVS frame time-out error.
+                CAN CCVS (parking and
+ 523591    2    vehicle speed) frame           Parking SW = off.                           Key switch turn OFF.
+                error.
+                                               Vehicle speed = 0
+                                               CAN CM1 frame time-out error.
+                CAN CM1 (Regen SW)
+ 523592    2                                   Regeneration inhibit = on.                  Key switch turn OFF.
+                frame error.
+                                               Parked regeneration SW = off.
+                CAN DDC1 (transmission)
+ 523593    2                                   CAN DDC1 frame time-out error.              Key switch turn OFF.
+                frame error.
+                CAN ETC2 (neutral SW)
+ 523594    2                                   CAN ETC2 frame time-out error               Key switch turn OFF.
+                frame error.
+                CAN ETC5 (neutral SW)
+ 523595    2                                   CAN ETC5 frame time-out error.              Key switch turn OFF.
+                frame error.
+                                               No request to “TSC1 buffer” continues
+ 523596    2    CAN TSC1 frame error.          three times after over-ride control         Diagnostic counter = zero
+                                               request (other than 0x00).
+
+
+
+
+5-64                                                                                           LeeBoy 8680 Commercial Paver
+
+=== ORIGINAL PDF PAGE 205 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 206 ===
+500 Lincoln County Parkway Ext.
+         Lincolnton, North Carolina 28092
+Phone: (704) 966-3300 - Fax Sales: (704) 483-5802
+
+
+
+
+  Scan QR Code to download and view this manual.
+              www.LeeBoy.com
+
+
+
+                                                    Printed in the U.S.A.
+

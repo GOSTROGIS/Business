@@ -10,8 +10,9 @@ All people, organizations, schedules, quantities and funding arrangements below 
 
 <!-- visual:foundation-writing-map--learner-02 -->
 <figure class="teaching-figure diagram" data-visual="foundation-writing-map--learner-02">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-map.svg" alt="Writing has six connected components: identify the writing task, purpose and reader; plan the task; use words and phrases to achieve the purpose; choose suitable language and style; choose an appropriate format; and review and revise. Distinct icons show a reader, a plan, a pencil, a speech bubble, a structured document and revision arrows. The connected loop permits returning to earlier decisions." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Six parts of writing with a purpose — visual"><img src="../assets/diagrams/foundation-writing-map.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. Keep the reader and purpose at the centre. Six connected components: Identify purpose and reader; Plan the writing task; Use words to convey meaning; Choose language and style; Choose a useful format; Review and revise. Revisit a plan, wording or format when feedback reveals a better choice." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Writing moves between planning, wording, format and review. The learner controls the wording and the revisions, using any agreed access tools. <a class="visual-original" href="../assets/diagrams/foundation-writing-map.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. Keep the reader and purpose at the centre. Six connected components: Identify purpose and reader; Plan the writing task; Use words to convey meaning; Choose language and style; Choose a useful format; Review and revise. Revisit a plan, wording or format when feedback reveals a better choice.</p></details>
 </figure>
 <!-- /visual:foundation-writing-map--learner-02 -->
 
@@ -27,6 +28,46 @@ The Skills for Success Writing components are:
 Writing is not always a straight line through these components. You may discover a missing fact while drafting. A reader's question may show that your chosen format hides the answer. Going back to the plan is part of writing, not proof that you failed.
 
 You may handwrite, type, use speech-to-text or work with a scribe. To show your Writing skill, you need to control the words, review the resulting text and decide on revisions. A discussion that produces no learner-authored text does not show this chapter's writing outcome. Record supports so the evidence describes what you actually did.
+
+<!-- teaching:writing-entry-bridge-learner -->
+## Make the actor, action and time clear
+
+You can think through a sentence aloud, sign it, type it or use another authoring method. Keep control of its words and review the result. Begin with a clear sentence, then use it in a useful whole message.
+
+### Start with one sentence
+
+Write or dictate a sentence for this task: “Tell a helper that four blank sheets are needed before two o'clock.” Ask a reader to identify the item, quantity and time. If all are clear, move to the writing case. Otherwise, choose one feature below to practise first.
+
+### Name who does what
+
+Read this example: **The helper / checks / the folder code / before recording the loan.** Mark actor, action, object and condition. Compare “They do it first.” In that version, the reader must guess both actor and action.
+
+Guided task: expand “They need them tomorrow” using these facts: the classroom coordinator needs **five blank record sheets** by **09:30 Practice Friday**. Choose a complete sentence. Check which words prevent guessing. A valid sentence is “The classroom coordinator needs five blank record sheets by 09:30 Practice Friday.” Other word orders work.
+
+### Put a boundary between complete ideas
+
+Consider: “The file is saved the location still needs checking.” Say each idea separately: **The file is saved. The location still needs checking.** Each has an actor/topic and an action/state. A full stop makes the boundary visible. Another valid choice is “The file is saved, but its location still needs checking.” Notice what **but** connects: one completed action and one pending check.
+
+Guided repairs:
+
+1. “The helper counted eight sheets the note lists ten.”
+2. “I wrote the heading it still needs a date.”
+3. “Please check the code before the loan is recorded.”
+
+Check: the first two need boundaries or suitable connecting words; the third is already usable and need not be changed. A long sentence is not automatically wrong. Keep wording that carries the meaning clearly.
+
+### Put the reader's action where it can be found
+
+Given “Please confirm. We may need a second box. The count is not complete,” identify what must be confirmed and what remains unknown. The agreed confirmation time is 11:00. Here is a clearer request: **Please confirm the completed count by 11:00 before deciding whether another box is needed.** Compare the two versions. A clearer sentence must not turn an uncertain need into a confirmed order.
+
+### Fresh exit task
+
+Use only these new facts: **The practice instructor needs three large-print labels by 14:00 Practice Monday. Two labels are prepared. The remaining label has not been checked. Ask the materials helper to confirm when it will be ready.** Write two or three sentences for the helper. Keep prepared, checked and ready distinct; do not claim the whole set is ready. Underline the requested action and mark sentence endings.
+
+Ask a reader to say how many labels are needed and what action they would take. Revise if their reading differs, or explain why the text works. A possible complete response is: “The practice instructor needs three large-print labels by 14:00 Practice Monday. Two are prepared; the remaining label has not been checked. Please confirm when it will be ready.” Your wording can differ while preserving these facts. Record any wording supplied by another person.
+
+Continue to WR-05 for several ambiguities, or WR-07 for a factual record. For the fresh handover checks, remove these models and use different supplied information. Ask for further sentence, spelling or paragraph practice when that would help you communicate your meaning.
+<!-- /teaching:writing-entry-bridge-learner -->
 
 ## Start with the reader and the needed action
 
@@ -62,8 +103,9 @@ Plan a four-part request: subject line, request, supporting context and confirma
 
 <!-- visual:foundation-writing-request--learner-02 -->
 <figure class="teaching-figure diagram" data-visual="foundation-writing-request--learner-02">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-request.svg" alt="A request to the resource desk helper has three visible functions: name the reader, supply the item quantity and timing, and ask for confirmation. Four available calculators plus two requested make six for paired activities. The two-calculator loan remains pending. The request is due by 15:00 Practice Wednesday, the calculators are needed at 09:00 Practice Thursday, and borrowed items can be returned by 11:45." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Worked example 1: turn the plan into a useful request — visual"><img src="../assets/diagrams/foundation-writing-request.svg" alt="An annotated request asks the resource helper for two calculators by 09:00 on Practice Thursday. Four available plus two requested would make six for pairs. The loan is pending, borrowed items are to return by 11:45, and the request is due by 15:00 on Practice Wednesday. The callouts identify reader, needed facts and requested confirmation." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> A useful request separates the reader, needed facts and action. “Please confirm” keeps a proposed loan distinct from a completed booking. <a class="visual-original" href="../assets/diagrams/foundation-writing-request.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An annotated request asks the resource helper for two calculators by 09:00 on Practice Thursday. Four available plus two requested would make six for pairs. The loan is pending, borrowed items are to return by 11:45, and the request is due by 15:00 on Practice Wednesday. The callouts identify reader, needed facts and requested confirmation.</p></details>
 </figure>
 <!-- /visual:foundation-writing-request--learner-02 -->
 
@@ -123,8 +165,9 @@ Rewrite the draft note from case B as three or four factual sentences. Include t
 
 <!-- visual:foundation-writing-record--learner-02 -->
 <figure class="teaching-figure diagram" data-visual="foundation-writing-record--learner-02">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-writing-record.svg" alt="Two aligned bars show 24 workbooks on the delivery note and 22 in the independent count, a difference of two copies. A timeline records box receipt at 09:10, the independent recount of 22 at 09:15, and informing the instructor at 09:20. The instructor requests a written record for the coordinator to check the discrepancy. The cause remains unconfirmed." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Worked example 2: order the record for the reader — visual"><img src="../assets/diagrams/foundation-writing-record.svg" alt="A factual record compares a delivery note of twenty-four copies with an independent count of twenty-two, a difference of two with no confirmed cause. The timeline records receipt at 09:10, recount at 09:15 and informing the instructor at 09:20." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Record the quantities and sequence before interpreting the cause. Receipt, recount and notification are different events. <a class="visual-original" href="../assets/diagrams/foundation-writing-record.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A factual record compares a delivery note of twenty-four copies with an independent count of twenty-two, a difference of two with no confirmed cause. The timeline records receipt at 09:10, recount at 09:15 and informing the instructor at 09:20.</p></details>
 </figure>
 <!-- /visual:foundation-writing-record--learner-02 -->
 
@@ -239,6 +282,56 @@ Use this final sequence on your own draft: **purpose → facts → reader → fo
 
 Local feedback can be **Not observed**, **Not yet demonstrated**, **Demonstrated with support** or **Demonstrated independently**. Record transfer to a new situation separately. These are learning descriptions, not official proficiency levels. Preserve your draft and revision so the progress is visible, including the support that helped you make it.
 
-## Source and teaching notes
+<!-- teaching:writing-learner-checks-learner -->
+## Writing · fresh factual handovers
 
-The six component names come from the supplied SkillPlan *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [PDF/printed page 54](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=54). Page 55 discusses document-use integration; pages 56–57 support meaningful, audience-focused writing and revision; page 58 describes an explicitly taught writing process; page 59 addresses assessment; page 61 gives contextual message, form and procedure examples. This chapter's case records, prompts, messages and answer models are original teaching materials, not copied employer documents or validated assessment instruments.
+Use the selected form. Produce text that you control, using handwriting, typing, speech-to-text or a scribe under your direction. The reader needs a useful record and a clear next action. No message will be sent. All roles, quantities and events are fictional. Keep the first draft and review notes; a correct first draft does not need an invented error.
+
+### Form A · Display posters
+
+#### Source brief
+
+At 08:45 on Practice Tuesday, a helper received a flat package at the Riverside learning-room desk. Its delivery note listed **12 introductory display posters**. The first count found **9 posters**. A second helper independently counted **9** at **08:50**. The label says **Poster package 1 of 1**. No order number or supplier contact is supplied.
+
+At **08:55**, the helper informed the instructor. The nine posters and delivery note are together in the labelled **Display materials tray**. The instructor asks for a factual handover to the **resource coordinator**, who will check the order and tell the instructor the next step before **12:00 Practice Tuesday**. The coordinator has not contacted the supplier. No cause, replacement, refund or delivery promise is confirmed.
+
+The posters are for a later classroom display. The instructor will decide whether existing display materials can be used. The helper does not decide that arrangement. A personal phone number written on the outer packaging is not relevant to the handover and must not be copied. The desk's blue pen and a visitor's comment that “deliveries are always wrong” are not evidence about this order.
+
+#### CK-WR-A01 · Plan for the reader
+
+Make a brief plan naming the reader, purpose, necessary facts and requested next action. Identify two details you will leave out and why. Distinguish completed actions from the decision still pending.
+
+#### CK-WR-A02 · Write the handover
+
+Write about 80–130 words, with a useful heading and a separate **Follow-up needed** line. Include the quantities, independent check, sequence, location of the materials and record, unresolved cause and coordinator's next step/deadline. Use your own wording. Do not add a contact address or promise a solution.
+
+#### CK-WR-A03 · Review meaning
+
+Give the draft to a reader. Ask them to identify the discrepancy, what is already done, where the materials are and who must do what next. Check their interpretation against the brief. Revise a misleading or unclear detail, or record why the tested wording already works. Also check one sentence boundary and one pronoun/reference. Keep the reader's actual response and your decision.
+
+<div style="min-height: 16rem; border: 1px solid #9b9189; padding: 0.6rem">My plan and draft — use another sheet or an accessible document if helpful.<br><br><br><br><br><br><br><br></div>
+
+### Form B · Orientation cards
+
+#### Source brief
+
+At **14:05 on Practice Thursday**, a helper received a box at the Harbour learning-room desk. The packing record listed **30 orientation cards**, but the first count found **26**. Another helper independently counted **26** at **14:10**. The label says **Orientation cards, box 1 of 1**. No order number or supplier contact is supplied.
+
+At **14:15**, the instructor was informed. The 26 cards and packing record are together in the labelled **Orientation materials tray**. The **materials coordinator** needs a factual handover so they can check the order and tell the instructor the next step before **16:00 Practice Thursday**. The coordinator has not contacted the supplier. No explanation, replacement, refund or delivery promise is confirmed.
+
+The cards are for a later classroom session. The instructor will decide whether to adapt that session after checking other resources. The helper cannot announce that decision. A personal address written on the box is unnecessary for the handover and must not be copied. The colour of the box and a colleague's remark that “someone must have taken them” do not establish the cause of the discrepancy.
+
+#### CK-WR-B01 · Plan for the reader
+
+Make a brief plan naming the reader, purpose, necessary facts and requested next action. Identify two details you will leave out and why. Distinguish completed actions from the decision still pending.
+
+#### CK-WR-B02 · Write the handover
+
+Write about 80–130 words, with a useful heading and a separate **Follow-up needed** line. Include the quantities, independent check, sequence, location of the materials and record, unresolved cause and coordinator's next step/deadline. Use your own wording. Do not add a contact address or promise a solution.
+
+#### CK-WR-B03 · Review meaning
+
+Give the draft to a reader. Ask them to identify the discrepancy, what is already done, where the materials are and who must do what next. Check their interpretation against the brief. Revise a misleading or unclear detail, or record why the tested wording already works. Also check one sentence boundary and one pronoun/reference. Keep the reader's actual response and your decision.
+
+<div style="min-height: 16rem; border: 1px solid #9b9189; padding: 0.6rem">My plan and draft — use another sheet or an accessible document if helpful.<br><br><br><br><br><br><br><br></div>
+<!-- /teaching:writing-learner-checks-learner -->

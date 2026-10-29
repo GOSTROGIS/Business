@@ -73,5 +73,3 @@ A useful plan has two feasible opportunities, a task and resource for each, an o
 ## AD-18 · Review all six components
 
 A complete review links responsibility, persistence, a selected regulation/focus strategy, goal adjustment, prioritization and self-improvement to actual activities. Accept Not observed where no appropriate evidence was collected. Do not require learners to invent support or evidence gaps: an accurate record of independent performance can lead to a new practice challenge. A useful next goal is “During the next changed brief, I will mark changed and unchanged requirements before revising the plan.” Do not award all components from a general statement such as “I stayed positive.” Proposed use outside class is a transfer plan until there is a documented new context and action.
-
-**Source note:** Component names and instructional considerations follow the supplied [SkillPlan guide, pp.99–105](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=99). The schedules, feedback records and answer models are original ACCESS IS4S classroom examples.

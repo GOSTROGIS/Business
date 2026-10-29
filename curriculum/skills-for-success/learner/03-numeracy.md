@@ -12,12 +12,13 @@ Try a task before checking the answer guidance. Keep a record of your method, in
 
 <!-- visual:foundation-numeracy-map--learner-03 -->
 <figure class="teaching-figure diagram" data-visual="foundation-numeracy-map--learner-03">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-map.svg" alt="Six symbols form a numbered route: task sheet and question mark; quantities and units under a magnifying glass; connected links; calculator; checking balance; and chart inside a speech bubble. They represent identifying the task, finding mathematical information, connecting information, applying methods and tools, interpreting and evaluating, and sharing the result and its meaning. A red return arrow links checking back to the original task." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Six connected parts of numeracy — visual"><img src="../assets/diagrams/foundation-numeracy-map.svg" alt="An original task illustration occupies the left panel; six numbered actions appear on the right. From a useful question to a checked result Six connected components: Identify the task; Find the information; Connect the facts; Calculate or measure; Interpret and evaluate; Share the result. Recheck the question or inputs. A useful result answers the original question." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Six connected numeracy actions. Follow the numbered route, and return to the question or inputs when a result needs checking. The icons condense the six component descriptions in the table. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-map.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>An original task illustration occupies the left panel; six numbered actions appear on the right. From a useful question to a checked result Six connected components: Identify the task; Find the information; Connect the facts; Calculate or measure; Interpret and evaluate; Share the result. Recheck the question or inputs. A useful result answers the original question.</p></details>
 </figure>
 <!-- /visual:foundation-numeracy-map--learner-03 -->
 
-The supplied SkillPlan guide names these six components on page 62. This chapter turns them into a repeatable working routine.
+Use these six connected components as a working routine. Move between them when a new question or a check changes the task.
 
 | Component | What it looks like in your work |
 |---|---|
@@ -31,6 +32,65 @@ The supplied SkillPlan guide names these six components on page 62. This chapter
 You can move back and forth through this routine. A result that seems too large may send you back to the units. An unclear question may require clarification before calculation. That is useful checking, not failure. Separate “I do not yet have this information” from “I have the information but need help choosing a method.” Each calls for a different next step.
 
 Before calculating, make a rough prediction. For example, three packs costing about nine dollars each will cost about twenty-seven dollars. An exact result near that estimate is plausible; a result of two hundred and seventy dollars needs investigation. An estimate does not replace a required exact total, but it gives you an independent check.
+
+<!-- teaching:numeracy-entry-bridge-learner -->
+## Build equal parts, regrouping and unit conversions
+
+Use a calculator if agreed, but first show what the numbers represent. Paper strips, tactile divisions or a drawing can make equal parts visible. Every fraction strip in a comparison must represent the same whole. Drawings support reasoning; they are not calibrated measuring tools.
+
+### Begin with a small check
+
+Show one-half and one-quarter of the same whole and explain which is larger. Then decide whether 2/4 and 1/2 can describe the same amount. If this is unclear, fold or mark a strip into equal parts before introducing written operations. If it is already clear, begin with equivalent denominators. Record the step you want to practise, rather than a general label about your maths ability.
+
+### Connect equivalent fractions
+
+Work through **3/8 + 5/16**. Each eighth can be split into two equal sixteenths, so 3/8 = 6/16. Now the parts have the same size: 6/16 + 5/16 = **11/16**. Keep the denominator 16 because it names the size of each counted part. Adding denominators would change that part size incorrectly.
+
+Guided attempt: **1/4 + 3/8**. Find how many eighths equal a quarter. Record 2/8 + 3/8 = 5/8 and check on equal whole strips. Next try **1½ + 2¾**: 1½ = 1 2/4; sum 3 5/4 = 4¼. Discuss why five quarters include a whole and one quarter.
+
+### Regroup one whole before subtracting
+
+<!-- visual:edition3-fractions-regrouping--learner-03-numeracy -->
+<figure class="teaching-figure diagram" data-visual="edition3-fractions-regrouping--learner-03-numeracy">
+<div class="figure-art" tabindex="0" role="region" aria-label="Regroup one whole before subtracting — visual"><img src="../assets/diagrams/edition3-fractions-regrouping.svg" alt="Three eighths is six sixteenths. Adding five sixteenths gives eleven sixteenths. Four and one eighth is four and two sixteenths, or three and eighteen sixteenths. Subtracting two and three sixteenths leaves one and fifteen sixteenths. Adding the difference to the subtracted quantity returns four and one eighth." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Equivalent parts make addition and regrouping visible. <a class="visual-original" href="../assets/diagrams/edition3-fractions-regrouping.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Three eighths is six sixteenths. Adding five sixteenths gives eleven sixteenths. Four and one eighth is four and two sixteenths, or three and eighteen sixteenths. Subtracting two and three sixteenths leaves one and fifteen sixteenths. Adding the difference to the subtracted quantity returns four and one eighth.</p></details>
+</figure>
+<!-- /visual:edition3-fractions-regrouping--learner-03-numeracy -->
+
+Work through **4⅛ − 2 3/16**. First express the smaller parts alike: 4⅛ = 4 2/16. Two sixteenths cannot supply three sixteenths without regrouping. Exchange one of the four wholes for 16/16: **4 2/16 = 3 18/16**. The value has not changed. Subtract 2 3/16 to get **1 15/16**. Check by adding: 1 15/16 + 2 3/16 = 3 18/16 = 4 2/16 = 4⅛.
+
+Guided attempt: **3¼ − 1⅝**. Convert 3¼ to 3 2/8, then regroup as 2 10/8. Subtract 1 5/8 to get 1 5/8. Explain the exchanged whole before checking with addition. If needed, physically exchange one whole strip for eight eighths.
+
+### Convert a unit without changing the quantity
+
+**1 m = 1,000 mm** means each metre contains a thousand millimetres. For example, 0.45 m × 1,000 = 450 mm. Reverse it: 450 mm ÷ 1,000 = 0.45 m. Notice that the numerical value grows when the unit becomes smaller; the described length stays the same. For a nominal classroom input, this does not establish a real measured object's precision.
+
+Guided attempt: 0.32 m to millimetres. The answer is 320 mm. Check whether 32 mm or 3,200 mm could describe the same length, using the known metre relationship to explain the disagreement.
+
+### Reconnect the arithmetic to a task
+
+<!-- visual:edition3-quantity-check--learner-03-numeracy -->
+<figure class="teaching-figure diagram" data-visual="edition3-quantity-check--learner-03-numeracy">
+<div class="figure-art" tabindex="0" role="region" aria-label="Reconnect the arithmetic to a task — visual"><img src="../assets/diagrams/edition3-quantity-check.svg" alt="The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Follow a quantity from the target through stock, whole packs, cost and a final check. <a class="visual-original" href="../assets/diagrams/edition3-quantity-check.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example.</p></details>
+</figure>
+<!-- /visual:edition3-quantity-check--learner-03-numeracy -->
+
+Eight practice kits need two labels each, plus three spare labels. Six labels are available. Packs contain five labels and cost $2.20 each, with no other charge in this small example. Follow the record: 8 × 2 + 3 = target 19; 19 − 6 = 13 needed; 13 ÷ 5 = 2.6 packs, so 3 whole packs supply 15. Cost 3 × $2.20 = $6.60. Final available 6 + 15 = 21, two beyond the target. Explain why a pack count is different from a piece count and why rounding down would leave a shortage.
+
+### Fresh exit tasks
+
+1. Add **1⅜ + 2¼**. Show equal-sized parts and explain any whole made.
+2. Subtract **4½ − 2¾**. Show the exchanged whole and check by addition.
+3. Convert **0.58 m** to millimetres and reverse-check it.
+4. Five practice kits need three labels each plus two spares. Four labels are available; packs contain six and cost $3 each with no other charge. Find whole packs, cost and final surplus beyond the target.
+
+**Feedback:** 1) 3⅝; 2) 1¾, since 4½ = 3 6/4 and 3 6/4 − 2 3/4 = 1 3/4; 3) 580 mm; 4) target 17, shortage 13, 3 packs supply 18, cost $9, final 22, five beyond target. These exit answers are for review after the attempt. A fresh check uses different inputs with the completed example removed.
+
+Continue to the relevant quantity, fraction or unit task when you have a method you can explain with your agreed tools. A partly completed table can support working memory without supplying which operation to choose. Keep calculations and an actual tool-measurement opportunity separate in the learning record.
+<!-- /teaching:numeracy-entry-bridge-learner -->
 
 ## Case document A • Supplies for a classroom project
 
@@ -76,8 +136,9 @@ A fraction compares a part with a defined whole. Seven existing folders out of a
 
 <!-- visual:foundation-numeracy-whole-packs--learner-03 -->
 <figure class="teaching-figure diagram" data-visual="foundation-numeracy-whole-packs--learner-03">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-whole-packs.svg" alt="A 20-folder target contains seven existing folders and thirteen gaps. Three packs of five supply fifteen new folders. Below, a proportional cost bar shows $58.65 goods plus $8.50 delivery crossing the $65 budget marker and ending at $67.15." loading="eager" decoding="sync"></div>
-<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Worked visual check — version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-whole-packs.svg">Open full-size visual</a></figcaption>
+<div class="figure-art" tabindex="0" role="region" aria-label="NU-04 • Complete and evaluate the order — visual"><img src="../assets/diagrams/foundation-numeracy-whole-packs.svg" alt="A worked whole-pack order needs twenty folders including spares, has seven, and needs thirteen more. Three packs of five bring stock to twenty-two. Folders cost $26.25, pens $19.80 and labels $12.60, making goods $58.65. Because goods are below $60, delivery adds $8.50. The delivered cost is $67.15, or $2.15 over the $65 budget. A scaled budget bar shows the comparison." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, check the worked example: version 1 needs three whole packs of each item. Goods of $58.65 attract $8.50 delivery, making the order $67.15: $2.15 above the $65 budget. All values are fictional. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-whole-packs.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A worked whole-pack order needs twenty folders including spares, has seven, and needs thirteen more. Three packs of five bring stock to twenty-two. Folders cost $26.25, pens $19.80 and labels $12.60, making goods $58.65. Because goods are below $60, delivery adds $8.50. The delivered cost is $67.15, or $2.15 over the $65 budget. A scaled budget bar shows the comparison.</p></details>
 </figure>
 <!-- /visual:foundation-numeracy-whole-packs--learner-03 -->
 
@@ -167,8 +228,9 @@ Using the original margins, work out how many cards fit across and how many fit 
 
 <!-- visual:foundation-numeracy-board-fit--learner-03 -->
 <figure class="teaching-figure diagram" data-visual="foundation-numeracy-board-fit--learner-03">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/foundation-numeracy-board-fit.svg" alt="A 600 by 400 millimetre board has a gold 25-millimetre margin on every edge and a dashed clear area of 550 by 350 millimetres. Four 180 by 110 millimetre cards form two columns and two rows, with 20-millimetre gaps. Dimension arrows and rejected three-column and three-row calculations explain the fit." loading="eager" decoding="sync"></div>
-<figcaption><span class="figure-label">Visual guide</span> After your attempt, use this worked visual check. Worked visual check — 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-board-fit.svg">Open full-size visual</a></figcaption>
+<div class="figure-art" tabindex="0" role="region" aria-label="NU-13 • Test fit, not just total area — visual"><img src="../assets/diagrams/foundation-numeracy-board-fit.svg" alt="Fictional board 600 by 400 millimetres with 25-millimetre margins has a clear rectangle 550 by 350. Four fixed-orientation cards, each180 by110, fit as two across and two down with20-millimetre gaps. Three across needs580, exceeding550. Three down needs370, exceeding350. The four-card group measures380 by240 millimetres." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> After your attempt, check the worked example: 25 mm margins leave 550 × 350 mm. Two columns and two rows fit with 20 mm gaps. Three columns need 580 mm and three rows need 370 mm, so each exceeds the clear space. Use the labels, not the displayed size. <a class="visual-original" href="../assets/diagrams/foundation-numeracy-board-fit.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Fictional board 600 by 400 millimetres with 25-millimetre margins has a clear rectangle 550 by 350. Four fixed-orientation cards, each180 by110, fit as two across and two down with20-millimetre gaps. Three across needs580, exceeding550. Three down needs370, exceeding350. The four-card group measures380 by240 millimetres.</p></details>
 </figure>
 <!-- /visual:foundation-numeracy-board-fit--learner-03 -->
 
@@ -217,6 +279,80 @@ Your local feedback record can distinguish **Not observed**, **Not yet demonstra
 | 5. Interpret and evaluate | NU-04 challenges a subtotal claim; NU-13 tests actual fit; NU-15 limits conclusions; NU-17 compares complete costs. |
 | 6. Share results and implications | NU-06 and NU-10 report revisions; NU-15 explains a chart; NU-18 gives a checkable handover. |
 
-## Source and teaching-design note
+<!-- teaching:numeracy-learner-checks-learner -->
+## Numeracy · fresh quantities, fractions and units
 
-The six component names and numeracy framework come from the supplied SkillPlan *Skills for Success Get Started Guide for Practitioners*, revised March 2024, [PDF/printed page 62](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=62). Use page 62 for component 6; the table on page 63 repeats the operations heading in that position, while its sharing example concerns communication of results. Teaching choices draw on contextualized numeracy and support [pages 64–65](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=64), collaborative explanation and feedback [pages 66–67](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=66), and measurement/data-display examples [page 70](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=70). The guide's page 68 cautions about preliminary proficiency alignment; this chapter assigns no official level. All case documents, questions and worked examples here are original teaching designs. They have not been presented as community-approved material, real industry statistics or certification assessments.
+Use the selected form. Show how you chose the quantities, your working, units and a second check. An agreed calculator, fraction strips or accessible number tool may be used. These are nominal classroom values, not dimensions to measure on the page or live purchasing instructions. Prices include all charges except the delivery rule explicitly stated. No purchase is authorized.
+
+### Form A · Practice information packs
+
+Fourteen learners each need **one folder and three cards**. Add **two spare folders and six spare cards** to those learner quantities. Existing usable stock is **five folders and eleven cards**. The supplier sells whole packs only.
+
+| Item | Pieces per pack | Price per pack |
+|---|---:|---:|
+| Folders | 4 | $6.40 |
+| Cards | 12 | $3.60 |
+
+Goods costing **at least $35.00** have no delivery charge. Below that threshold, delivery is **$4.50**. The budget is **$37.00 including delivery**. No other supplier, discount or pickup option is supplied.
+
+#### CK-NU-A01 · Connect the quantities
+
+For each item, record the learner requirement, spares, total target, existing stock, additional pieces needed, whole packs and pieces available after purchase. Explain your rounding direction. Distinguish planned spares from any additional surplus created by buying whole packs.
+
+#### CK-NU-A02 · Decide from the full cost
+
+Estimate the goods cost, calculate exact line costs and apply the delivery rule. Report the complete cost and its difference from the budget. State whether the order fits and what decision still belongs to the coordinator. Check one result using a different operation, grouping or estimate; identify what your check can detect.
+
+#### CK-NU-A03 · Work with fractional lengths
+
+Two nominal paper strips are **1¾ in** and **2⅞ in** long. Find their combined length. A separate strip is **4¼ in** long and has a marked section **1⅝ in** long; find the remaining length. Show equivalent fractions and any regrouping. Check one answer by reversing the operation. These are calculation inputs, not instructions to cut material.
+
+#### CK-NU-A04 · Keep the quantity and unit together
+
+A nominal display strip is **0.64 m** long. Use **1 m = 1,000 mm** to express it in millimetres. Explain why this conversion does not tell you an actual measured strip's precision. Give a short numerical handover containing the order result, a condition and a method another person could check.
+
+### Form B · Practice orientation packs
+
+Eleven learners each need **one folder and two cards**. Add **three spare folders and six spare cards**. Existing usable stock is **three folders and five cards**. Whole packs only are available.
+
+| Item | Pieces per pack | Price per pack |
+|---|---:|---:|
+| Folders | 4 | $6.80 |
+| Cards | 10 | $5.50 |
+
+Goods costing **at least $40.00** have no delivery charge. Below that threshold, delivery is **$4.20**. The budget is **$42.00 including delivery**. No other supplier, discount or pickup option is supplied.
+
+#### CK-NU-B01 · Connect the quantities
+
+For each item, record the learner requirement, spares, total target, existing stock, additional pieces needed, whole packs and pieces available after purchase. Explain your rounding direction. Distinguish planned spares from any additional surplus created by buying whole packs.
+
+#### CK-NU-B02 · Decide from the full cost
+
+Estimate the goods cost, calculate exact line costs and apply the delivery rule. Report the complete cost and its difference from the budget. State whether the order fits and what decision still belongs to the coordinator. Check one result using a different operation, grouping or estimate; identify what your check can detect.
+
+#### CK-NU-B03 · Work with fractional lengths
+
+Two nominal paper strips are **2½ in** and **1⅞ in** long. Find their combined length. A separate strip is **5¼ in** long and has a marked section **2⅞ in** long; find the remaining length. Show equivalent fractions and any regrouping. Check one answer by reversing the operation. These are calculation inputs, not instructions to cut material.
+
+#### CK-NU-B04 · Keep the quantity and unit together
+
+A nominal display strip is **0.72 m** long. Use **1 m = 1,000 mm** to express it in millimetres. Explain why this conversion does not tell you an actual measured strip's precision. Give a short numerical handover containing the order result, a condition and a method another person could check.
+
+### Working pages for either form
+
+| Item | Learner need | Spares | Target | Stock | More needed | Whole packs | Final pieces |
+|---|---|---|---|---|---|---|---|
+| Folders | | | | | | | |
+| Cards | | | | | | | |
+
+| Cost or check | My working, unit and explanation |
+|---|---|
+| Estimate | |
+| Folder cost | |
+| Card cost | |
+| Goods / delivery / total | |
+| Budget difference and decision | |
+| Independent check | |
+
+<div style="min-height: 14rem; border: 1px solid #9b9189; padding: 0.6rem">Fraction working, unit conversion and numerical handover. Use an additional sheet or accessible record if needed.<br><br><br><br><br><br><br></div>
+<!-- /teaching:numeracy-learner-checks-learner -->

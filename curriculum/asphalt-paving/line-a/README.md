@@ -1,0 +1,19 @@
+# Asphalt paving · Roadbuilding foundations
+
+Read the industry, understand the process, work with a team and check a road-document decision.
+
+- [Read the learner book](roadbuilding-foundations.html) · [Download the learner PDF](roadbuilding-foundations.pdf)
+- [Read the teaching and answer guide](teaching-guide.html) · [Download the teaching PDF](teaching-guide.pdf)
+- [Start and learning route](00-start.md)
+- [1 · Industry evidence and decisions](01-industry-evidence.md)
+- [2 · How roads changed](02-history.md)
+- [3 · From materials to paving](03-technology.md)
+- [4 · Working in a paving team](04-workers.md)
+- [5 · Read road documents and quantities](05-road-documents.md)
+- [6 · Investigate a paving trend](06-trends.md)
+- [Working reference and public sources](07-reference.md)
+- [Asphalt specifications · Read, calculate, check](../specifications/README.md) · Source-table and delivery-record workshop
+
+The classroom teaching edition contains 37 activities, complete cases and separate answer guidance. Qualified technical review and classroom pilot are pending. Current public facts and invented teaching inputs are distinguished in the lessons.
+
+For delivery planning, use the [68-competency status map](competency-status.md), [technical review and pathway record](technical-handoff.md), and [curated research register](research/source-ledger.md). Rebuild with `python tools/build_line_a.py` from the asphalt-paving directory, or use the script's absolute path from elsewhere.

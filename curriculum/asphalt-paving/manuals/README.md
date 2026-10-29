@@ -1,0 +1,30 @@
+# ACCESS IS4S · Asphalt manufacturer manual resource pack
+
+[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **51,004,355 bytes** (51.00 MB), **709 files**, **61,203,850 bytes** when extracted. ZIP SHA-256: `dacefec2312dee664034cab30ae4d5157658f24eedbc358df3c40fece94821bc`.
+
+[Open the offline-friendly manual index](index.html) · [Learner lesson](lesson.html) · [Printable learner PDF](manual-reading-lesson.pdf) · [Teaching and answer PDF](manual-reading-instructor.pdf)
+
+The pack contains **seven complete OEM references**: six original PDFs totaling **650 pages**, and the full official John Deere 410G HTML manual with **307 content sections** plus its contents, images and styles. A separate **441-page historical 2006 B.C. Design Build specification** is included from the user-supplied original. Original source payload is **60,576,733 bytes** before authored pages and metadata.
+
+| ID | Original document | Extent | Scope |
+|---|---|---|---|
+| OEM-01 | [8680 Commercial Paver — Safety and Operations Manual](pdfs/leeboy-8680-safety-operations-1033428-sop.pdf) | 206 pages | Complete machine manual: safety, specifications, components, operation and maintenance. Includes screed material within this paver manual; not a separate universal screed manual. |
+| OEM-02 | [MRH800GS Vibratory Roller — Operation Manual](pdfs/multiquip-mrh800gs-operation-rev10-2020.pdf) | 36 pages | Complete walk-behind roller operation manual. Does not stand in for ride-on roller training. |
+| OEM-03 | [AR13HA / AR13HAR Ride-On Tandem Drum Roller — Operation Manual](pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf) | 42 pages | Complete ride-on roller operation manual for the stated upper serial range. Revision 1 is not made inapplicable by another serial range having Revision 10. |
+| OEM-04 | [AR13HA / AR13HAR Ride-On Tandem Drum Roller — Operation Manual](pdfs/multiquip-ar13ha-ar13har-sn100901-below-rev10-2021.pdf) | 46 pages | Complete ride-on roller operation manual for the stated lower serial range. The two supplied ranges leave 100902–110300 unestablished. |
+| OEM-05 | [C3.6 and C2.8 Industrial Engines — Operation and Maintenance Manual](pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf) | 162 pages | Complete engine manual. This is not a complete paver, milling-machine or roller manual. No engine fitment to the LeeBoy or Multiquip machines is asserted. |
+| OEM-06 | [Caterpillar Machine Fluids Recommendations — Special Publication, Operation and Maintenance Manual](pdfs/cat-machine-fluids-sebu6250-30-2020.pdf) | 158 pages | Complete fluids special publication. Foreword directs the reader to the particular machine O&M manual. It does not replace that machine manual or establish current project fluid selection. |
+| REF-01 | [2006 Design Build Standard Specifications for Highway Construction](pdfs/bc-design-build-standard-specifications-2006.pdf) | 441 pages | Historical contract-specification reference listed by the 2016 outline. Not an OEM manual and not established as applicable to any current contract. |
+| OEM-07 | [410G Backhoe Loader Operator Manual](deere-410g-omt166701-d1/OMT166701_19.htm) | 307 content sections + contents, images and styles | Complete official linked HTML operator manual for roadbuilding support equipment; not a paver, screed, roller or milling-machine manual. |
+
+Extract the ZIP and open `index.html`. All local manuals, images, styles, lessons and answer guidance work offline. The archive uses an internal `README-OFFLINE.md`; this repository README and the ZIP itself are excluded to avoid circular download links. External manufacturer/provider links remain online references.
+
+The **pdfs/** files are full originals. The **extracts/** files contain short cover extracts and original identity/navigation notes; they are not complete manuals. The **deere-410g-omt166701-d1/** directory preserves the full retrieved original HTML collection. **manifest.json** identifies each model, serial/configuration scope, publication, source URL, date, size and hash. **deere-file-manifest.json** covers all 675 Deere files. **checksums.sha256** and **archive-info.json** record integrity evidence.
+
+The standalone lesson uses real manual identities and fictional machine records to practise all nine Skills for Success. It includes individual digital actions, inclusive page-range arithmetic, an unresolved serial-range case, a written handover, check-back, shared verification, a changed record and a tested navigation aid. Instructor answers and criteria are separate.
+
+Section 4 of the uploaded outline lists six **course manuals**—Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine—and other resources. Those exact course publications were not retrieved. The OEM files are not relabelled as them. Read [the precise requirement and access gaps](access-status.md) for the provider route, historical CD titles and MS-4 handbook status. CAT engine/fluids manuals do not replace a complete CAT paving-machine manual; Deere 410G is a backhoe-loader reference for supporting roadbuilding work.
+
+Manufacturer copyright and notices remain intact. This is a dated reference collection, checked 29 October 2026, not a claim that every file is current for any actual machine. Confirm model, serial/configuration, current documentation and authorized training before practical application.
+
+From the repository root, install `python -m pip install -r curriculum/asphalt-paving/tools/requirements.txt`, then run `python curriculum/asphalt-paving/manuals/tools/build_pack.py`. The build uses Markdown, Playwright and pypdf. It detects Chromium on PATH; set `IS4S_CHROMIUM_PATH` to choose another executable, or install the Playwright browser with `python -m playwright install chromium`. Original manufacturer files remain unchanged. Printed lesson links use stable repository URLs; offline navigation remains available through index.html.

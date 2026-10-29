@@ -2,8 +2,9 @@
 
 <!-- visual:community-learning--learner-00 -->
 <figure class="teaching-figure scene" data-visual="community-learning--learner-00">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/illustrations/community-learning.png" alt="Four fictional Indigenous adults compare a drawing, notebook and tablet outside a BC community learning centre, with a mountain landscape and a separated closed training road beyond." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Start with the skills you already use — visual"><img src="../assets/illustrations/community-learning.png" alt="Four fictional Indigenous adults compare a drawing, notebook and tablet outside a BC community learning centre, with a mountain landscape and a separated closed training road beyond." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Teaching scene</span> Skills connect learning, work and community. This original illustration depicts fictional adults in a BC learning setting. <a class="visual-original" href="../assets/illustrations/community-learning.png">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Four fictional Indigenous adults compare a drawing, notebook and tablet outside a BC community learning centre, with a mountain landscape and a separated closed training road beyond.</p></details>
 </figure>
 <!-- /visual:community-learning--learner-00 -->
 
@@ -27,8 +28,9 @@ Learning does not have to look the same for everyone. You can ask for time to th
 
 <!-- visual:teaching-nine-skills-map--learner-00 -->
 <figure class="teaching-figure diagram" data-visual="teaching-nine-skills-map--learner-00">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="../assets/diagrams/teaching-nine-skills-map.svg" alt="All nine Skills for Success connect to the learner’s purpose. Reading, writing, numeracy, digital, problem solving, communication, collaboration, adaptability, and creativity and innovation contribute to learning, work and community tasks." loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="Find your way through the nine skills — visual"><img src="../assets/diagrams/teaching-nine-skills-map.svg" alt="Nine skill labels connect to a central learner purpose: Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, and Creativity and Innovation. The radial relationship shows that one meaningful task can use several skills. Document use and continued learning connect across tasks." loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">Visual guide</span> Start with a useful purpose. One real task can call on several connected skills; this map is not a ranking or a required learning order. <a class="visual-original" href="../assets/diagrams/teaching-nine-skills-map.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>Nine skill labels connect to a central learner purpose: Reading, Writing, Numeracy, Digital, Problem Solving, Communication, Collaboration, Adaptability, and Creativity and Innovation. The radial relationship shows that one meaningful task can use several skills. Document use and continued learning connect across tasks.</p></details>
 </figure>
 <!-- /visual:teaching-nine-skills-map--learner-00 -->
 
@@ -51,6 +53,14 @@ You will often use more than one skill at a time. Planning a learning session ma
 The [integrated projects](10-integrated-projects.md) bring the skills together in two complete practice situations. The [reference and portfolio chapter](11-reference-and-portfolio.md) explains useful terms and helps you keep examples of your learning. Return to an earlier chapter whenever you need a model or a reminder.
 
 ## Use a chapter in a practical way
+
+<!-- visual:edition3-learner-route--learner-00-start-here -->
+<figure class="teaching-figure diagram" data-visual="edition3-learner-route--learner-00-start-here">
+<div class="figure-art" tabindex="0" role="region" aria-label="Use a chapter in a practical way — visual"><img src="../assets/diagrams/edition3-learner-route.svg" alt="A starting task branches to foundation practice or the core task. Foundation practice uses a model, guided examples and useful supports. The core task brings the skill into a meaningful purpose. Both paths lead to a fresh check using a new example of the same skill, then a next step: practise a part, use the skill again, or transfer it to another task." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Start with a task, choose useful practice, and check the skill with a fresh example. <a class="visual-original" href="../assets/diagrams/edition3-learner-route.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>A starting task branches to foundation practice or the core task. Foundation practice uses a model, guided examples and useful supports. The core task brings the skill into a meaningful purpose. Both paths lead to a fresh check using a new example of the same skill, then a next step: practise a part, use the skill again, or transfer it to another task.</p></details>
+</figure>
+<!-- /visual:edition3-learner-route--learner-00-start-here -->
 
 Begin by reading the purpose of the activity. Ask what the person in the situation needs to understand, decide or produce. Look over the supplied notice, table, message or other information before answering. Check whether the dates, units or conditions matter. In a practice case, use the information supplied rather than guessing what a real organization might do.
 
@@ -95,15 +105,15 @@ Use the following template with your instructor or on your own. You do not need 
 
 | My learning plan | My note |
 |---|---|
-| A task I want to do more easily | ______________________________ |
-| Why this matters to me | ______________________________ |
-| Something I already do that may help | ______________________________ |
-| The skill or action I will focus on first | ______________________________ |
-| A support, tool or condition I want to discuss | ______________________________ |
-| An activity or example I will try | ______________________________ |
-| What a useful attempt would show | ______________________________ |
-| When I will review it | ______________________________ |
-| My next step after the review | ______________________________ |
+| A task I want to do more easily |  |
+| Why this matters to me |  |
+| Something I already do that may help |  |
+| The skill or action I will focus on first |  |
+| A support, tool or condition I want to discuss |  |
+| An activity or example I will try |  |
+| What a useful attempt would show |  |
+| When I will review it |  |
+| My next step after the review |  |
 
 A completed example could be: “I want to find the right version of a session notice. I already check dates, but I sometimes miss a correction. I will compare two versions, mark what changed and explain which instruction applies. I want to begin with both versions side by side. After practice, I will try a different notice and check the version label before answering.”
 
@@ -116,9 +126,3 @@ A strategy becomes more useful when you can use it elsewhere. After learning to 
 This is called transfer. It needs its own evidence. Completing a familiar activity does not prove that you can use the strategy in every setting. Record where you tried it next, what was different, what support you used and how it worked. If it did not work yet, identify what needs another explanation or more practice.
 
 Respect your own boundaries in choosing a transfer example. You can use another fictional task instead of sharing a private situation. You also have the right to question unclear or unsuitable information. Asking for clarification, checking a limit or seeking appropriate help can be a strong use of a skill.
-
-## A note about this book and its sources
-
-The teaching approach is informed by SkillPlan’s *Skills for Success Get Started Guide for Practitioners*, revised March 2024, especially [pp.10–11](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=10), [pp.24–25](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=24) and [pp.37–42](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=37). This book contains original explanations and practice; it does not assign official proficiency levels.
-
-Our emphasis on individual agency and varied Indigenous experiences is also informed by verified BC sources: [Douglas College Indigenous Student Services](https://www.douglascollege.ca/student-services/indigenous-student-services) and JIBC’s [*Living Indigenization: Engagement Protocols & Guidelines*](https://www.jibc.ca/sites/default/files/2025-01/Engagement_Protocols_and_Guidelines-Online-FINAL.pdf#page=8), printed pp.14–15 / PDF p.8, retrieved 23 October 2026. These sources describe their own contexts. This book does not speak for every Nation or assume that learners share cultural practices. Local relationships and your choices matter in how learning takes place.

@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "title": "ACCESS IS4S · Asphalt manufacturer manual resource pack",
+  "retrieved": "2026-10-29",
+  "scope": "Public manufacturer references for document literacy and instructor preparation; model-specific application remains a separate check.",
+  "outline_reference": {
+    "file": "asphalt-paving-laydown-technician-program-outline-august-2016.pdf",
+    "pdf_page": 107,
+    "printed_page": "105",
+    "heading": "Section 4 — Reference Materials"
+  },
+  "documents": [
+    {
+      "id": "OEM-01",
+      "brand": "LeeBoy",
+      "title": "8680 Commercial Paver — Safety and Operations Manual",
+      "document_number": "1033428-SOP",
+      "edition": "Cover gives no revision; manufacturer filename says REV A. Copyright 2026; PDF modified 2026-08-18.",
+      "model": "8680 Commercial Paver",
+      "serial_scope": "Serial number 365152 and above",
+      "document_scope": "Complete machine manual: safety, specifications, components, operation and maintenance. Includes screed material within this paver manual; not a separate universal screed manual.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/leeboy-8680-safety-operations-1033428-sop.pdf",
+      "source_url": "https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf",
+      "retrieved": "2026-10-29",
+      "bytes": 22539507,
+      "sha256": "25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96",
+      "pdf_pages": 206,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: model, manual number and serial scope"
+        },
+        {
+          "pdf_page": 3,
+          "purpose": "Introduction: how this manual relates to engine/transmission manuals and service bulletins"
+        },
+        {
+          "pdf_page": 5,
+          "purpose": "Contents: chapter navigation"
+        },
+        {
+          "pdf_page": 25,
+          "purpose": "Printed 2-3: contact and machine identification"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-01-identity-and-navigation.md"
+    },
+    {
+      "id": "OEM-02",
+      "brand": "Multiquip",
+      "title": "MRH800GS Vibratory Roller — Operation Manual",
+      "document_number": "MRH800GS, Revision 10",
+      "edition": "2020-06-11; cover date 06/11/20",
+      "model": "MRH800GS; Honda GX390K1SM32 / GX390U1SM32 / GX390UT2SM32 / GX390UT2SCM1",
+      "serial_scope": "No serial-number range printed on the cover; verify configuration and actual machine before use.",
+      "document_scope": "Complete walk-behind roller operation manual. Does not stand in for ride-on roller training.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/multiquip-mrh800gs-operation-rev10-2020.pdf",
+      "source_url": "https://www.multiquip.com/multiquip/pdfs/MRH800GS_rev_10_ops_manual.pdf",
+      "retrieved": "2026-10-29",
+      "bytes": 2936924,
+      "sha256": "b5fcbfa48d79fc7a80f574de71819688ee7cc950b035b6bc673237ca71f7f06e",
+      "pdf_pages": 36,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: model, engine variants and revision"
+        },
+        {
+          "pdf_page": 4,
+          "purpose": "Contents"
+        },
+        {
+          "pdf_page": 5,
+          "purpose": "Safety-message categories"
+        },
+        {
+          "pdf_page": 24,
+          "purpose": "Maintenance section begins; use the full manual for context"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-02-identity-and-navigation.md"
+    },
+    {
+      "id": "OEM-03",
+      "brand": "Multiquip",
+      "title": "AR13HA / AR13HAR Ride-On Tandem Drum Roller — Operation Manual",
+      "document_number": "AR13HA/AR13HAR, Revision 1",
+      "edition": "2021-06-18; cover date 06/18/21",
+      "model": "AR13HA / AR13HAR; series drive; Honda GX630RQZB2",
+      "serial_scope": "Serial number 110301 and above",
+      "document_scope": "Complete ride-on roller operation manual for the stated upper serial range. Revision 1 is not made inapplicable by another serial range having Revision 10.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/multiquip-ar13ha-ar13har-sn110301-up-rev1-2021.pdf",
+      "source_url": "https://service.multiquip.com/pdfs/AR13HA-R-rev-1-SN-110301-and-above-ops-manual.pdf",
+      "retrieved": "2026-10-29",
+      "bytes": 1863216,
+      "sha256": "d51df06a83128f87a4ee5e8923ef6ca1ec44f8d1c39de7b3d2b9183c3b665f01",
+      "pdf_pages": 42,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: serial scope and engine"
+        },
+        {
+          "pdf_page": 3,
+          "purpose": "Contents"
+        },
+        {
+          "pdf_page": 4,
+          "purpose": "Safety information begins"
+        },
+        {
+          "pdf_page": 23,
+          "purpose": "Maintenance begins; contents lists printed pages 23–32"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-03-identity-and-navigation.md"
+    },
+    {
+      "id": "OEM-04",
+      "brand": "Multiquip",
+      "title": "AR13HA / AR13HAR Ride-On Tandem Drum Roller — Operation Manual",
+      "document_number": "AR13HA/AR13HAR, Revision 10",
+      "edition": "2021-06-25; cover date 06/25/21",
+      "model": "AR13HA / AR13HAR; series drive; Honda GX610K1QZB2 / GX610R1QZB2",
+      "serial_scope": "Serial number 100901 and below",
+      "document_scope": "Complete ride-on roller operation manual for the stated lower serial range. The two supplied ranges leave 100902–110300 unestablished.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/multiquip-ar13ha-ar13har-sn100901-below-rev10-2021.pdf",
+      "source_url": "https://service.multiquip.com/pdfs/AR13HA-R-rev-10-SN-100901-and-below-ops-manual.pdf",
+      "retrieved": "2026-10-29",
+      "bytes": 1341327,
+      "sha256": "37a64c0d681a13fff1be9d3e6978ab762dc9b81471992865f5d681037f45adce",
+      "pdf_pages": 46,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: serial scope and engine"
+        },
+        {
+          "pdf_page": 3,
+          "purpose": "Contents"
+        },
+        {
+          "pdf_page": 4,
+          "purpose": "Safety message section begins"
+        },
+        {
+          "pdf_page": 25,
+          "purpose": "Maintenance begins; contents lists printed pages 25–34"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-04-identity-and-navigation.md"
+    },
+    {
+      "id": "OEM-05",
+      "brand": "Caterpillar",
+      "title": "C3.6 and C2.8 Industrial Engines — Operation and Maintenance Manual",
+      "document_number": "M0108394-08 (en-us)",
+      "edition": "July 2022",
+      "model": "C3.6 and C2.8 Industrial Engines",
+      "serial_scope": "J37 1-UP (Engine); J29 1-UP (Engine)",
+      "document_scope": "Complete engine manual. This is not a complete paver, milling-machine or roller manual. No engine fitment to the LeeBoy or Multiquip machines is asserted.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/cat-c3-6-c2-8-engines-m0108394-08-2022.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20240919-f796a-402a2",
+      "retrieved": "2026-10-29",
+      "bytes": 3332063,
+      "sha256": "5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831",
+      "pdf_pages": 162,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: engine families and scope"
+        },
+        {
+          "pdf_page": 3,
+          "purpose": "Contents"
+        },
+        {
+          "pdf_page": 47,
+          "purpose": "Product Identification Information"
+        },
+        {
+          "pdf_page": 102,
+          "purpose": "Maintenance Interval Schedule begins"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-05-identity-and-navigation.md"
+    },
+    {
+      "id": "OEM-06",
+      "brand": "Caterpillar",
+      "title": "Caterpillar Machine Fluids Recommendations — Special Publication, Operation and Maintenance Manual",
+      "document_number": "SEBU6250-30 (en-us)",
+      "edition": "December 2020",
+      "model": "Cat machine fluids reference",
+      "serial_scope": "Cover reads All Machines 87A 1-UP (Machine); a publication label, not permission to apply it to other manufacturers.",
+      "document_scope": "Complete fluids special publication. Foreword directs the reader to the particular machine O&M manual. It does not replace that machine manual or establish current project fluid selection.",
+      "format": "PDF",
+      "completeness": "Full public PDF as retrieved; no operational pages removed",
+      "local_file": "pdfs/cat-machine-fluids-sebu6250-30-2020.pdf",
+      "source_url": "https://caterpillar.scene7.com/is/content/Caterpillar/CM20210119-674b3-bd997",
+      "retrieved": "2026-10-29",
+      "bytes": 1625409,
+      "sha256": "0f590731a6116be33e619690c5e572ff13b41c0ac1398d4e47335a6e96eb2df4",
+      "pdf_pages": 158,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Cover: special-publication status"
+        },
+        {
+          "pdf_page": 3,
+          "purpose": "Contents"
+        },
+        {
+          "pdf_page": 4,
+          "purpose": "Foreword: relationship to machine-specific manuals"
+        },
+        {
+          "pdf_page": 153,
+          "purpose": "Reference materials"
+        }
+      ],
+      "rights": "Manufacturer copyright and notices retained. Public availability is not an open-content licence.",
+      "navigation_extract": "extracts/oem-06-identity-and-navigation.md"
+    },
+    {
+      "id": "REF-01",
+      "brand": "B.C. Ministry of Transportation",
+      "title": "2006 Design Build Standard Specifications for Highway Construction",
+      "document_number": "2006 Design Build Standard Specifications",
+      "edition": "Adopted February 20, 2006",
+      "model": null,
+      "serial_scope": null,
+      "document_scope": "Historical contract-specification reference listed by the 2016 outline. Not an OEM manual and not established as applicable to any current contract.",
+      "format": "PDF",
+      "completeness": "Full user-supplied original PDF",
+      "local_file": "pdfs/bc-design-build-standard-specifications-2006.pdf",
+      "source_url": null,
+      "source_origin": "User-supplied file; canonical repository copy ../sources/design_build_standard_specs_2006.pdf",
+      "outline_historical_url": "http://www2.gov.bc.ca/assets/gov/driving-and-transportation/transportation-infrastructure/engineering-standards-and-guidelines/highway-specifications/design_build_standard_specs_2006.pdf",
+      "public_acquisition_url_verified": false,
+      "retrieved": "2026-10-29",
+      "bytes": 4949922,
+      "sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+      "pdf_pages": 441,
+      "pdf_encrypted": false,
+      "reading_anchors": [
+        {
+          "pdf_page": 1,
+          "purpose": "Original title and specification family"
+        }
+      ],
+      "rights": "Original government publication and notices retained; uploaded by the user."
+    },
+    {
+      "id": "OEM-07",
+      "brand": "John Deere",
+      "title": "410G Backhoe Loader Operator Manual",
+      "document_number": "OMT166701 D1",
+      "edition": "Publication identifier OMT166701 D1; original contents copyright 2000. Do not infer a current edition from retrieval date.",
+      "model": "410G Backhoe Loader",
+      "serial_scope": "No serial-number range found in the retrieved title or front matter; actual machine/configuration match must be confirmed.",
+      "document_scope": "Complete official linked HTML operator manual for roadbuilding support equipment; not a paver, screed, roller or milling-machine manual.",
+      "format": "HTML collection",
+      "completeness": "Full TOC plus all 307 linked content HTML pages and their dependent images/styles: 675 files, zero failed downloads and zero broken local dependencies.",
+      "local_file": "deere-410g-omt166701-d1/OMT166701_19.htm",
+      "source_url": "http://manuals.deere.com/omview/OMT166701_19/OMT166701_19.htm",
+      "retrieved": "2026-10-29",
+      "bytes": 28552,
+      "sha256": "7a6a5a0648a6dcdad92e5446a737ed3845dea545ea86be86fe884b76a2eb60a5",
+      "sha256_scope": "Entry HTML file; each collection file has its own hash in deere-file-manifest.json",
+      "collection_directory": "deere-410g-omt166701-d1",
+      "collection_file_count": 675,
+      "collection_bytes": 21988365,
+      "file_manifest": "deere-file-manifest.json",
+      "retrieval_note": "Official HTTP manual endpoint returned the complete content. HTTPS endpoint returned 503. Original HTML, images, styles and relative links retained without rewriting.",
+      "reading_anchors": [
+        {
+          "file": "deere-410g-omt166701-d1/OMT166701_19.htm",
+          "purpose": "Original title and table of contents"
+        },
+        {
+          "file": "deere-410g-omt166701-d1/05T_120_J3_19_13JUL00_1.htm",
+          "purpose": "Record Engine Serial Number"
+        },
+        {
+          "file": "deere-410g-omt166701-d1/OUO1079_000024C_19_11SEP00_1.htm",
+          "purpose": "Maintenance and Repair Record Keeping System"
+        }
+      ],
+      "navigation_extract": "extracts/oem-07-identity-and-navigation.md",
+      "rights": "Original Deere copyright and restrictions retained; no open-content licence asserted."
+    }
+  ],
+  "package_status": "Seven complete OEM references: six original PDFs and one complete HTML manual; one original historical specification PDF."
+}

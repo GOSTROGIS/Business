@@ -93,7 +93,3 @@ Accept one of three handovers with its complete conditions:
 - **Order:** version 1 quantities plus the specifically authorized extra label pack, total $62.85, $2.15 within budget and $4.30 below the original delivered total, with the extra labels intended for the next session.
 
 Observe whether the handover states the question, inputs, method, check, result and consequence. Ask the listener to restate a key condition so the author can correct a misunderstanding. For reflection, accept a specific example such as catching the delivery charge, checking both margins, using the correct denominator or distinguishing 83 minutes from decimal hours. Do not score confidence, accent or personality as numeracy. A supported explanation can demonstrate understanding when its support is recorded.
-
-## Source note
-
-This key applies to original classroom cases. The six-component structure comes from the supplied SkillPlan guide, [PDF/printed page 62](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=62). The approach to contextual tasks, different methods and descriptive feedback draws on [pages 64–67](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=64); measurement and graphic displays are discussed on [page 70](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=70). These activities and local feedback descriptions are not a validated official numeracy-level assessment.

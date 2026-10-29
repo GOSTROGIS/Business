@@ -73,5 +73,3 @@ The PDF must show all three rows, current totals 24/18/6, title and fictional-da
 ## DG-18
 
 A useful plan names a new purpose, actions that transfer, a genuinely new step and an access/support choice. Observe one action on dummy data. Example: create and reopen a fictional appointment table, then identify that online calendar permissions would need separate learning. The strength and next step must refer to evidence. A proposed future use is not recorded as completed workplace transfer.
-
-**Source:** SkillPlan, revised March 2024, [Digital pp.71–77](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=71). All answer models and numerical practice records are original classroom material.

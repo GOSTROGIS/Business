@@ -1,6 +1,6 @@
 {
-  "edition": "2 — visual teaching edition",
-  "date": "2026-10-23",
+  "edition": "3",
+  "date": "2026-10-29",
   "skills": [
     "Reading",
     "Writing",
@@ -18,8 +18,8 @@
       "title": "Nine skills for learning, work and community",
       "short_title": "Learner textbook",
       "eyebrow": "Book 1 · Learner textbook",
-      "description": "Build the nine Skills for Success through clear explanations, worked examples, 162 skill activities and two integrated projects.",
-      "edition_note": "Begin with a useful goal and the skills you already bring. This learner textbook expands all 54 skill components into original instruction and practice. Use it with the practitioner companion for feedback, answer guidance and teaching support.",
+      "description": "Learn the nine Skills for Success through illustrated explanations, complete practice cases, individual checks and projects for learning, work and community.",
+      "edition_note": "Start with a useful goal and the skills you already bring. Each chapter provides a clear process, worked examples, practice and a fresh task. Choose the entry route you need, keep your own evidence and use feedback to decide what to try next.",
       "chapters": [
         "learner/00-start-here.md",
         "learner/01-reading.md",
@@ -39,9 +39,9 @@
       "name": "practitioner-guide",
       "title": "Teaching the nine Skills for Success",
       "short_title": "Practitioner guide",
-      "eyebrow": "Book 2 · Practitioner guide and answer companion",
-      "description": "A complete ACCESS IS4S reworking of the supplied guide: framework, six teaching approaches, nine skills, integrated lessons, assessment and practitioner development.",
-      "edition_note": "This practitioner companion reworks the instructional scope of the complete 148-page SkillPlan guide in original prose and activities. It includes teaching decisions, complete lesson materials and answer guidance for every learner activity. Source bibliography entries are preserved as an attributed index; outside works are not presented as independently verified unless the research record says so.",
+      "eyebrow": "Book 2 · Practitioner guide",
+      "description": "Teach the nine Skills for Success with complete cases, visual models, learning routes, lesson plans, observation tools and answer guidance.",
+      "edition_note": "Plan, teach, observe and respond to evidence. This guide brings together teaching routines, complete classroom cases, practice checks, answer guidance and reusable delivery tools. Choose an appropriate starting point and record the task conditions so feedback identifies a useful next step.",
       "chapters": [
         "practitioner/01-purpose-and-framework.md",
         "practitioner/02-teaching-approaches.md",
@@ -56,6 +56,7 @@
         "practitioner/11-creativity-innovation.md",
         "practitioner/12-integrated-lesson-plans.md",
         "practitioner/13-practitioner-development.md",
+        "practitioner/14-delivery-and-review.md",
         "answers/01-reading.md",
         "answers/02-writing.md",
         "answers/03-numeracy.md",
@@ -65,11 +66,9 @@
         "answers/07-collaboration.md",
         "answers/08-adaptability.md",
         "answers/09-creativity-innovation.md",
-        "answers/10-integrated-projects.md",
-        "research/online-research.md",
-        "research/source-coverage.md",
-        "research/original-guide-bibliography.md"
+        "answers/10-integrated-projects.md"
       ]
     }
-  ]
+  ],
+  "edition_label": "Teaching and visual practice edition"
 }

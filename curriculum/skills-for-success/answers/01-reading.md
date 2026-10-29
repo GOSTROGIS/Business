@@ -122,7 +122,3 @@ Both partners need an observed reading turn. A partner who supplies the answer b
 D1 aims to persuade a prospective chooser through an absolute claim and a message discouraging comparison. E aims to help classroom borrowers complete a process through definitions, limits and a status table. D1 lacks supporting methods/data; E supplies information sufficient for the limited borrowing scenario while acknowledging missing future availability.
 
 A useful reflection identifies a specific strategy and limit. Example: “Scanning found A2's 08:55 arrival, but I also had to read the paragraph to add reception time.” A suitable next goal is “I will check the legend and notes before deciding a timetable answer.” Avoid personality judgements or requiring a learner to disclose a difficult personal history. Reflection needs a link to actual documents and actions, not a generic claim to have improved.
-
-## Source alignment
-
-The component structure follows the supplied SkillPlan guide, [PDF/printed page 45](../../asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf#page=45). Pages 46–50 inform document features, explicit strategies and contextual vocabulary; page 51 informs assessment cautions; page 53 informs comparing purpose, structure and evidence. These answer models assess the original chapter cases only. All times, organizations and project records are fictional. They do not establish current transport, technical or regulatory requirements.

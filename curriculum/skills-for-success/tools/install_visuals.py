@@ -21,8 +21,9 @@ def figure_block(row, source):
     label = 'Teaching scene' if kind == 'scene' else 'Source figure' if kind == 'source-diagram' else 'Visual guide'
     return f'''<!-- visual:{row['id']} -->
 <figure class="teaching-figure {kind}" data-visual="{row['id']}">
-<div class="figure-art" tabindex="0" role="region" aria-label="Learning visual"><img src="{escape(image, quote=True)}" alt="{escape(row['alt'], quote=True)}" loading="eager" decoding="sync"></div>
+<div class="figure-art" tabindex="0" role="region" aria-label="{escape(row['after_heading'] + ' — visual', quote=True)}"><img src="{escape(image, quote=True)}" alt="{escape(row['alt'], quote=True)}" loading="eager" decoding="sync"></div>
 <figcaption><span class="figure-label">{label}</span> {escape(row['caption'])} <a class="visual-original" href="{escape(image, quote=True)}">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>{escape(row['alt'])}</p></details>
 </figure>
 <!-- /visual:{row['id']} -->'''
 
