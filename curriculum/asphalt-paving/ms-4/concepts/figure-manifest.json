@@ -1,0 +1,169 @@
+{
+  "figures": [
+    {
+      "id": "load-spread",
+      "file": "assets/load-spread.svg",
+      "title": "Spread the load",
+      "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "1.5",
+          "printed_page": 13,
+          "pdf_page": 47
+        }
+      ],
+      "adaptation": "Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels.",
+      "original_contributors": [],
+      "asset_sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd"
+    },
+    {
+      "id": "pavement-layers",
+      "file": "assets/pavement-layers.svg",
+      "title": "Name the layers",
+      "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "1.6",
+          "printed_page": 14,
+          "pdf_page": 48
+        }
+      ],
+      "adaptation": "Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied.",
+      "original_contributors": [],
+      "asset_sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+    },
+    {
+      "id": "plant-processes",
+      "file": "assets/plant-processes.svg",
+      "title": "Batch or continuous?",
+      "alt": "The batch route shows cold-feed bins, drying and heating, screening and hot bins, weighing a batch, mixing with binder and storage. The continuous route shows proportioning, flow measurement, continuous drying and mixing with metered binder, and storage.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "7.2",
+          "printed_page": 310,
+          "pdf_page": 344
+        },
+        {
+          "figure": "7.4",
+          "printed_page": 312,
+          "pdf_page": 346
+        },
+        {
+          "section": "7.1.1\u20137.1.2",
+          "printed_pages": [
+            309,
+            311,
+            312
+          ],
+          "pdf_pages": [
+            343,
+            345,
+            346
+          ]
+        }
+      ],
+      "adaptation": "Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems.",
+      "original_contributors": [
+        {
+          "figure": "7.2",
+          "credit": "Terex Roadbuilding",
+          "credit_pdf_page": 803
+        },
+        {
+          "figure": "7.4",
+          "credit": "National Highway Institute (NHI)",
+          "credit_pdf_page": 803
+        }
+      ],
+      "asset_sha256": "bf27c203f47c84952ad939944aaa8ec802e9e44746e73b68e46263ac4e48427b"
+    },
+    {
+      "id": "paver-material-route",
+      "file": "assets/paver-material-route.svg",
+      "title": "Follow the mixture through the paver",
+      "alt": "Mixture enters the hopper, travels rearward on slat conveyors, is distributed laterally by augers and passes beneath the screed to form the mat. The diagram names functions without prescribing controls or settings.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "8.11",
+          "printed_page": 377,
+          "pdf_page": 411
+        },
+        {
+          "section": "8.4.1, component descriptions",
+          "printed_page": 378,
+          "pdf_page": 412
+        }
+      ],
+      "adaptation": "Replaced the perspective equipment schematic with a labelled functional material route. Not drawn to scale or tied to an actual model.",
+      "original_contributors": [
+        {
+          "figure": "8.11",
+          "credit": "Volvo Construction Equipment",
+          "credit_pdf_page": 804
+        }
+      ],
+      "asset_sha256": "2f26badc7b05d903f856451ad80f54751118f0672e611dbe657c94e96372e278"
+    },
+    {
+      "id": "screed-factors",
+      "file": "assets/screed-factors.svg",
+      "title": "A free-floating screed responds to a system",
+      "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "8.16",
+          "printed_page": 383,
+          "pdf_page": 417
+        },
+        {
+          "section": "8.4.3, five factors",
+          "printed_page": 384,
+          "pdf_page": 418
+        }
+      ],
+      "adaptation": "Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings.",
+      "original_contributors": [
+        {
+          "figure": "8.16",
+          "credit": "Volvo Construction Equipment",
+          "credit_pdf_page": 804
+        }
+      ],
+      "asset_sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+    },
+    {
+      "id": "pass-and-coverage",
+      "file": "assets/pass-and-coverage.svg",
+      "title": "A pass is not a coverage",
+      "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+      "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+      "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+      "references": [
+        {
+          "figure": "9.1",
+          "printed_page": 416,
+          "pdf_page": 450
+        }
+      ],
+      "adaptation": "Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed.",
+      "original_contributors": [],
+      "asset_sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9"
+    }
+  ],
+  "reference": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+  "source_credit_pages": [
+    803,
+    804,
+    805
+  ]
+}

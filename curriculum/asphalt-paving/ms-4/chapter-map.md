@@ -1,77 +1,52 @@
-# MS-4 chapter alignment plan
+# MS-4 chapter and curriculum map
 
-**Primary textbook: The Asphalt Handbook, MS-4, Seventh Edition, Asphalt Institute.** This is an ACCESS curriculum-development map. The publisher's [official product record](https://my.asphaltinstitute.org/Shop/Product-Catalog/Product-Details?productid=%7B9E5A6840-361B-E811-80F2-000D3A011CEC%7D) was read on 29 October 2026. The uploaded book remains unavailable in the workspace, and no official TOC was verified. **No chapter title, chapter number, section number or book page is asserted below.**
+**Verified source map · 30 October 2026**
 
-The seven topic labels in the first table are the publisher's description of the seventh edition. They are not presented as its chapter headings. Occupational links and teaching applications are proposed ACCESS choices that require checking against the full text. This distinction allows useful planning without claiming to have read the textbook.
+The complete supplied scan is accessible in the [HTML reader](index.html). Chapter titles and starts were checked against the original contents (PDF 9–19) and the chapter-opening pages. Body page numbering follows **PDF viewer page = printed book sequence + 34**. Blank and unnumbered scanned pages are retained. The following links distinguish an authored classroom application from a topic-level connection to a later technical unit.
 
-## Verified publisher topics and proposed teaching connections
+| Chapter | Actual title | Printed book sequence | PDF viewer pages | Outline connection | Current instructional use |
+|---|---|---|---|---|---|
+| 1 | [Introduction to Asphalt](reader/chapter-01-01.html) | 1–20 | 35–54 | A1, A2, A5 | Load path, road history and pavement structure; MS4-01–02 and the Line A profile/technology work. |
+| 2 | [Petroleum Asphalt](reader/chapter-02-01.html) | 21–108 | 55–142 | A3, C4, G2 | Binder vocabulary and product properties; later technical content requires its own complete instruction. |
+| 3 | [Mineral Aggregates and Mixture Additives](reader/chapter-03-01.html) | 109–158 | 143–192 | A3, C1, C2, G1 | Aggregate sources, production and gradation; material terms support Line A and later units. |
+| 4 | [Hot Mix Asphalt (HMA) Design](reader/chapter-04-01.html) | 159–246 | 193–280 | E1, E2, G2, G5 | Mix design and volumetrics; reading reference, not a supplied approved mix design. |
+| 5 | [Soils and Drainage for Asphalt Pavements](reader/chapter-05-01.html) | 247–280 | 281–314 | A5, F1 | Soils, supporting ground and drainage; links to profiles and foundation concepts. |
+| 6 | [Thickness Design](reader/chapter-06-01.html) | 281–306 | 315–340 | A5; background for F1 | Thickness-design context; no design competence is inferred from the introductory layer model. |
+| 7 | [Manufacture of Hot Mix Asphalt](reader/chapter-07-01.html) | 307–356 | 341–390 | A3, C3; related B8, D2, D3 | Batch/continuous comparison is taught in MS4-03–04. Safety, storage and emissions require current specific sources. |
+| 8 | [Hot Mix Asphalt Paving](reader/chapter-08-01.html) | 357–412 | 391–446 | I1, I2, I6, I7, J1, J5, K3; related G3, G4 | Paver/screed concepts in MS4-05–08; machine-specific operation and practical outcomes remain separate. |
+| 9 | [Hot Mix Asphalt Compaction](reader/chapter-09-01.html) | 413–444 | 447–478 | E4, G5, L1, L5 | Pass/coverage vocabulary in MS4-09–10; no field rolling pattern or setting is prescribed. |
+| 10 | [Quality Control and Acceptance of Hot Mix Asphalt](reader/chapter-10-01.html) | 445–518 | 479–552 | E2, E3, G1, G2, G5, G6 | Quality records, sampling/testing and acceptance; compare with the applicable contract and dated BC specification workshop. |
+| 11 | [Pavement Management](reader/chapter-11-01.html) | 519–568 | 553–602 | A6; contextual use for G5, G6 | Pavement management and evaluation; contextual reading, not an additional claimed occupational competency. |
+| 12 | [Asphalt in Pavement Maintenance](reader/chapter-12-01.html) | 569–618 | 603–652 | A6; contextual use for K3 | Maintenance methods and vocabulary; practical repair procedures are not authored by this map. |
+| 13 | [Rehabilitation Methods for Asphalt Pavements](reader/chapter-13-01.html) | 619–676 | 653–710 | A3, A6, H1, H6, I1 | Rehabilitation/recycling routes; retain the distinction between milling and verified reuse. |
+| 14 | [Rehabilitation of Concrete Pavements with HMA](reader/chapter-14-01.html) | 677–702 | 711–736 | A6, I1 as contextual reading | Concrete-pavement rehabilitation with HMA; specialist treatments require their own technical scope. |
+| 15 | [Special Uses of Asphalt and HMA](reader/chapter-15-01.html) | 703–768 | 737–802 | A3, A6, C4 | Special uses, mixtures and applications; content such as roofing does not enlarge the outline automatically. |
 
-| Topic named by the publisher | Candidate SkilledTradesBC codes | Existing activity to build from | Planned MS-4 work once the passage is available |
-|---|---|---|---|
-| Superpave asphalt binder | C4; G2; A3 | [LA3-01: explain ingredients](../line-a/03-technology.md#la3-01-explain-the-ingredients-to-a-new-learner); [LA3-03: clarify a product code](../line-a/03-technology.md#la3-03-write-the-clarification-before-the-order) | Locate the book's terminology and conditions. Build an original reader's glossary and a question that distinguishes a material description from a project requirement. Verify all grade meanings before teaching them. |
-| Superpave mix design | E1–E2; C2; G1–G2 | [LA3-05: calculate a fictional material record](../line-a/03-technology.md#la3-05-calculate-a-fictional-material-record) | Read the relevant design explanation and its quantities. Develop a worked document-reading example with every input, unit, assumption and check supplied. The current fictional calculation does not establish mix-design competence. |
-| Stone matrix asphalt | C4; E1; G1; A6 | [LA6-03: make a product enquiry](../line-a/06-trends.md#la6-03-make-a-product-enquiry) | Verify the textbook's definition, purpose and conditions; compare the information a reader would need before choosing a product. Record questions that require a project specification or specialist response. |
-| Open graded friction courses | C4; E1; F1; A6 | [LA5-03: describe the road form](../line-a/05-road-documents.md#la5-03-describe-the-road-form); [LA6-04: compare options](../line-a/06-trends.md#la6-04-compare-options-against-the-actual-need) | Check the source's terminology and stated functions. Construct a labelled explanation and bounded comparison using verified text, with any current design/application requirements identified separately. |
-| Quality control & acceptance | E2–E4; G1–G6 | [LA5-04: check the quantity and record](../line-a/05-road-documents.md#la5-04-check-the-quantity-and-record); [LA5-06: review and hand over](../line-a/05-road-documents.md#la5-06-review-and-hand-over) | Separate a recorded result, its source, a specified criterion and the acceptance decision. Create a complete fictional record only after the textbook explanation is checked. Acceptance values must come from the applicable source, not an invented universal threshold. |
-| Pavement management | A6; F1–F3; D1 | [LA6-04–LA6-06: compare, revise and explain](../line-a/06-trends.md#la6-04-compare-options-against-the-actual-need) | Read the relevant planning concepts, then develop an evidence brief with stated purpose, alternatives, time boundary and unresolved information. Verify that proposed terminology is actually used in this edition. |
-| Rehabilitation of concrete pavements with HMA | A3; A6; F1–F3; H1; I1 | [LA3-04: trace reuse pathways](../line-a/03-technology.md#la3-04-trace-two-reuse-pathways); [LA6-01: improve claims](../line-a/06-trends.md#la6-01-improve-three-claims) | Verify the treatment described, distinguish it from other recycling or rehabilitation routes, and make an original process explanation. Keep concept reading separate from machine setup and operating procedures. |
+## Verified figure integrations
 
-**Chapter/page status for every row: pending full-text verification.** The complete source list may contain additional topics. This table is not a claim that the seventh edition has seven chapters or that it covers only these subjects.
-
-## Keep the authored Line A route usable
-
-All six Line A units have authored classroom activities. Their current references and cases remain valid as labelled; none has yet received a completed MS-4 chapter/page alignment.
-
-| Occupational code and existing unit | Existing activities | Immediate use and later textbook check |
+| ACCESS redraw | MS-4 source | Where it is taught |
 |---|---|---|
-| A1 · [Industry evidence and decisions](../line-a/01-industry-evidence.md) | LA1-01–LA1-06 | Continue dated industry-data, document-status, funding and bounded environmental comparison work. Check where MS-4 adds asphalt concepts without replacing current public evidence with a textbook date. |
-| A2 · [How roads changed](../line-a/02-history.md) | LA2-01–LA2-06 | Keep the sourced timeline, material/method comparison and careful caption tasks. Add a textbook historical passage only after confirming its wording, scope and page. |
-| A3 · [From materials to paving](../line-a/03-technology.md) | LA3-01–LA3-07 | Retain the ingredient, plant-route, product-code and reuse tasks. This is an early priority for checking MS-4 concepts and terminology. |
-| A4 · [Working in a paving team](../line-a/04-workers.md) | LA4-01–LA4-06 | Continue role, responsibility, handover and learning-plan work. Current workplace duties, licences and authorization still require their relevant sources. |
-| A5 · [Read road documents and quantities](../line-a/05-road-documents.md) | LA5-01–LA5-06 | Retain plan/profile/section reading, labelled quantities and revision checks. Verify any added pavement-design explanation against the book. F2/F3 remain foundation bridges. |
-| A6 · [Investigate a paving trend](../line-a/06-trends.md) | LA6-01–LA6-06 | Keep the enquiry, option comparison, changed-constraint and evidence-brief routine. Use verified textbook sections to deepen the comparison while keeping current claims dated. |
+| Spread the load | Figure 1.5, printed 13 / PDF 47 | MS4-01; load-path explanation. |
+| Name the layers | Figure 1.6, printed 14 / PDF 48 | MS4-02; Line A A5 cross-section vocabulary. |
+| Batch or continuous? | Figures 7.2 and 7.4, printed 310/312 / PDF 344/346; §§7.1.1–7.1.2 | MS4-03–04; LA3-02. Original figure contributors: Terex Roadbuilding and National Highway Institute. |
+| Follow the mixture through the paver | Figure 8.11 and component text, printed 377–378 / PDF 411–412 | MS4-05–06; LA3-07. Original illustration credited to Volvo Construction Equipment. |
+| A free-floating screed responds to a system | Figure 8.16 and five-factor list, printed 383–384 / PDF 417–418 | MS4-07–08; introductory J1 vocabulary. Original illustration credited to Volvo Construction Equipment. |
+| A pass is not a coverage | Figure 9.1, printed 416 / PDF 450 | MS4-09–10; introductory L1/L5 record reading. |
 
-This is **37 existing activities**, not 37 activities already checked against MS-4. The [whole-program map](../line-a/competency-status.md) remains the record of authoring status; technical approval and learner qualification remain separate.
+All six SVGs have alt text, APA notes, documented changes and the original source hash in [figure-manifest.json](concepts/figure-manifest.json). Source figures remain intact in the full reader and native PDF parts. The diagrams omit operational settings; their geometry is conceptual.
 
-## Carry all nine Skills for Success through each teaching block
+## Observable nine-skills integration
 
-The planned routine is: locate the source → model the thinking → try with support → make an individual attempt → check → respond to a changed condition → retain evidence. Focus on the skills a task actually makes observable; do not award all nine from attendance or one group product.
+[Understanding asphalt](concepts/index.html) contains twelve complete activities and a separate [answer guide](concepts/teaching-guide.html). Reading, Writing and Communication are visible in the source/term explanations; Numeracy in MS4-02 and MS4-09; Digital in MS4-04 and actual file work in MS4-08/12; Problem solving in evidence/assumption decisions; Collaboration in MS4-06/08/11; Adaptability in MS4-08/12; and Creativity and innovation in MS4-11/12. Keep individual evidence, support, feedback and revisions.
 
-| Skill | Planned textbook-based opportunity | Observable evidence and existing starting point |
-|---|---|---|
-| Reading | Find a condition, connect text with a labelled figure or table, and explain what the passage supports. | Marked source location and accurate application. Begin with [LA1-01](../line-a/01-industry-evidence.md#la1-01-report-what-the-data-can-support). |
-| Writing | Write a purpose-led note, glossary entry or handover for another learner; revise after a reader checks it. | Learner-controlled text and a reasoned edit. Begin with [LA3-03](../line-a/03-technology.md#la3-03-write-the-clarification-before-the-order). |
-| Numeracy | Use supplied quantities and units from a verified passage or clearly fictional case; estimate, calculate and check meaning. | Working, units, assumptions and an independent check. Begin with [LA5-04](../line-a/05-road-documents.md#la5-04-check-the-quantity-and-record). |
-| Digital | On an actual device, find the correct edition/page, create a retrievable source note, save and reopen it. | Observed tool actions and a usable file. Begin with [LA3-07](../line-a/03-technology.md#la3-07-make-a-retrievable-technology-note). Paper completion does not show these device actions. |
-| Problem solving | Identify a mismatch between a claim and available evidence; choose a justified question or next step. | Problem, known facts, gaps and reasoned response. Begin with [LA1-05](../line-a/01-industry-evidence.md#la1-05-make-the-strongest-supported-comparison). |
-| Communication | Explain a concept, listen to a partner's restatement and confirm or repair the meaning through an agreed accessible mode. | Actual message, check-back and response. Begin with [LA4-04](../line-a/04-workers.md#la4-04-repair-a-rushed-handover). |
-| Collaboration | Share source-checking roles, exchange contributions and agree a useful improvement while retaining individual evidence. | Who checked what, how contributions were used and the agreed result. Begin with [LA5-06](../line-a/05-road-documents.md#la5-06-review-and-hand-over). |
-| Adaptability | Retain the initial work, respond to an explicitly changed requirement and explain the revised priority. | Before/after record with a reasoned change. Begin with [LA6-05](../line-a/06-trends.md#la6-05-adapt-to-a-new-constraint). |
-| Creativity and innovation | Develop two ways to explain a verified idea; make one, test it with a reader and revise or retain it with evidence. | Alternatives, a justified choice, actual trial and response. Begin with [LA6-06](../line-a/06-trends.md#la6-06-build-an-evidence-brief-and-test-its-clarity). |
+The [integrated teaching route](../teaching-route.md) connects these to the complete nine-skills books, the 37 Line A activities, manufacturer-picture lessons and BC specifications workshop. A shared product does not by itself demonstrate all nine skills for every learner.
 
-Use the [complete ACCESS nine-skills books](../../skills-for-success/README.md) for instruction and additional practice. Record **Not observed**, **Not yet demonstrated**, **Demonstrated with support**, or **Demonstrated independently** for the stated task conditions. Record transfer to a new situation separately. These local descriptions do not assign an official trade or Skills for Success level.
+## Whole-program boundary
 
-## Preserve the whole occupational framework
+The [68-competency register](../line-a/competency-status.md) remains the authority for authoring and review status. Six Line A classroom units are authored; 62 later technical units are not complete. The full textbook and targeted conceptual bridges supply reading and foundational practice, not evidence that every later competency has been taught or assessed. Current BC safety requirements, actual project documents, machine manuals, approved practical assessment and qualified instruction remain necessary for their corresponding work.
 
-MS-4 is the primary textbook, while occupational evidence also depends on other documents, equipment and instruction. The following grouping preserves all 68 codes from the [status map](../line-a/competency-status.md). It is a development boundary, not a verified book-chapter crosswalk.
+The entire scan was converted and OCR-processed. Editorial/technical review of every sentence is not claimed. The specific figure passages, definitions, contributor credits and worked examples used in the new lessons were checked visually against the scans. Qualified independent technical approval and a classroom pilot remain pending.
 
-| Codes | Development position and references still required |
-|---|---|
-| A1–A6 | Six classroom units authored; MS-4 alignment pending. Preserve dated industry facts, historical context and current worker-duty sources. |
-| B1–B10 | Technical units not authored. Develop applicable workplace/site/equipment safety instruction using current requirements and qualified direction; identify any supporting MS-4 passages only after reading them. |
-| C1–C4 | Technical units not authored. Prioritize materials, aggregate and plant concepts for full-text review; retain process-specific documents and technical review. |
-| D1–D3 | Technical units not authored. Verify environmental claims and boundaries; use applicable storage/emissions requirements and current evidence alongside textbook concepts. |
-| E1–E4 | Technical units not authored. Connect verified mix-design, sampling and compaction concepts to complete records and applicable criteria. |
-| F1–F3 | Technical units not authored; F2/F3 have a classroom foundation bridge in A5. Actual grade/drainage work requires project documents, measurements and technical assessment. |
-| G1–G6 | Technical units not authored. Plan separate evidence for gradation, oil content, application, segregation, density and smoothness; check each proposed textbook passage and project requirement. |
-| H1–H8 | Technical units not authored. Milling/reclaiming concepts may connect to textbook reading; maintenance, operation, shutdown and transport require applicable equipment documents and practical instruction. |
-| I1–I9 | Technical units not authored. Paving concepts need their verified textbook basis; machine attachments, checks and performance evidence remain specific to the paver and work. |
-| J1–J6 | Technical units not authored. Retain the distinction between screed concepts and the actual screed's setup, maintenance and operation. |
-| K1–K3 | Technical units not authored. Develop raker-role, safety and placement evidence using verified concepts, site conditions and qualified instruction. |
-| L1–L6 | Technical units not authored. Combine verified compaction concepts with the identified roller's documentation and practical assessment conditions. |
+## Reference
 
-## Record alignment before declaring a chapter ready
-
-For each verified chapter, record the exact title; printed and PDF page locations; concepts actually read; candidate occupational codes confirmed or rejected; original ACCESS explanation; supplied task inputs; checked answer guidance; nine-skill evidence opportunities; source limits; and technical-review status. A chapter becomes an authored teaching block only when those materials exist and its status is updated. A mapped title alone does not meet that condition.
-
-Keep the original textbook file unchanged when it becomes accessible. These planning files contain no textbook pages or reproduced diagrams. For access history and verified publisher metadata, use the [MS-4 overview](README.md).
+Asphalt Institute. (2007). *The asphalt handbook* (7th ed., MS-4). [Complete local edition](index.html).

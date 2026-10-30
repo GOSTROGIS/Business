@@ -1,0 +1,43 @@
+At any time during the test, the applied stress can be divided by the
+observed strain to arrive at a creep modulus or stiffness. Because the
+strain changes with time, so does the creep modulus. In creep testing,
+many engineers prefer to compute creep compliance rather than creep
+stiffness. Creep compliance can be portrayed as the inverse of creep stiff-
+ness (although it is not strictly correct, theoretically). In other words, creep
+compliance is the strain at any time during the test per unit of stress. At
+the conclusion of a creep test, the test specimen will partially rebound to
+its original shape. For many materials, however, some permanent deforma-
+tion remains in the test specimen.
+
+The rate of change of creep compliance versus loading time is then
+calculated and plotted as shown in Figure 4.31. The minimum point of the
+curve occurs where the rate of creep compliance changes as a function of
+time is zero. This point is identified as the flow time and is the time when
+shear deformation occurs under constant volume. Higher values of flow
+time (FT) from the axial static creep test are thought to be related to better
+rutting resistance in the HMA mixture.
+
+Dynamic Creep Test
+
+Dynamic creep testing can also be conducted using repeated axial stress
+loading cycles and measuring the resulting axial strain. The concepts of
+repeated load axial (dynamic creep) testing are similar to the repeated shear
+test at constant height. A specified axial stress (usually 69-207 kilopascal) is
+applied to a test specimen for 0.1 seconds and released to a rest period of
+0.9 seconds. Each loading cycle is 1 second (1 Hertz). In the standard test,
+loading cycles are applied for 10,000 cycles (approximately 2.75 hours) or
+until excessive tertiary deformation is reached in the test specimen. As with
+
+Log Rate of Change
+in Compliance
+
+Flow Time
+
+—
+
+Log Time, Seconds
+
+Figure 4.31 Rate of Change in Compliance as a Function of Loading Time
+
+MSs-4 233
+

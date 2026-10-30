@@ -1,0 +1,56 @@
+Introduction
+
+Thickness design for flexible pavements is an effort to economize the
+amount and the type of material used to support the projected traffic,
+on the given subgrade, under the specific climate conditions at the site.
+Whether thickness design is applied to major interstate highways, city
+streets, airports, or county roads, its objective is to strike a balance between
+two competing goals—structural capacity and life-cycle cost.
+
+The state-of-the-art method in flexible pavement design is the Mechanistic-
+Empirical (M-E) method. The M-E method typically models the pavement as a
+multilayered elastic system and uses the principles of mechanics to calculate
+deflections, stresses, and strains at any point in the structure in response to
+an external wheel load. Calculated strains are then compared with observed
+pavement performance to determine the required pavement thickness. In the
+case of flexible pavements, two performance criteria are widely considered
+critical: limiting horizontal tensile strain at the bottom of the hot mix asphalt
+(HMA) layer to avoid fatigue, and limiting vertical compressive strain at the
+top of the subgrade to avoid rutting.
+
+The Asphalt Institute method encompasses two types of design proce-
+dures, both of which have been incorporated into SW-1, Asphalt Pavement
+Thickness Design Software.
+
+° DAMA—Advanced Structural Analysis. DAMA is a_ powerful
+computer-based M-E program that allows engineers to analyze any
+pavement system having up to five layers in which the materials can
+be described in terms of elastic modulus and Poisson’s ratio. Engi-
+neers using DAMA consider monthly temperature variation, including
+freeze/thaw, and its effect on pavement materials to estimate remain-
+ing life to failure. DAMA is embedded into SW-1, Asphalt Pavement
+Thickness Design Software.
+
+° Design Curves. The Asphalt Institute publishes pavement design curves
+in the following manuals for specific transportation design applications:
+
+° 1S-154 General Aviation Airports
+
+° MS-1 Highways, Roads, and Streets
+
+° MS-11 Air-Carrier Airports
+
+¢ MS-23 Heavy Wheel Loads (Ports/Industrial Applications)
+
+The curves presented in these publications were produced by presolving
+a large number of problems over a wide range of input values using DAMA.
+The resulting design curves provide users with a powerful solution based
+on M-E, in a handy manual that can be used in the office or the field.
+
+In order to provide a single computer-based pavement design tool, the
+Asphalt Institute developed SW-1, a Windows-based program that offers a
+comprehensive suite of design solutions for highways, streets, airports, and
+heavy wheel loads, based on the design curves together with an improved
+
+MS-4 283
+

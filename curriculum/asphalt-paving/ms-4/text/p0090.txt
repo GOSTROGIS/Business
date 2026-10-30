@@ -1,0 +1,45 @@
+Aluminum Mold
+
+Rubber O-rings
+
+Asphalt Beam
+Strips
+
+6.35 mm
+
+Figure 2.28 Bending Beam Rheometer Deflection (Mold Assembly)
+
+To relate to field performance, the value of creep stiffness when the
+asphalt binder has been loaded for two hours at the minimum pavement
+design temperature should be determined. However, when using the con-
+cept of time-temperature superposition, SHRP researchers confirmed that
+by raising the test temperature 10°C, an equivalent creep stiffness can be
+obtained after only 60 seconds of loading. The obvious benefit is that a
+test result can be obtained in a much shorter testing time.
+
+The second parameter determined from the results of the bending beam
+test is the m-value. The m-value represents the rate of change in the creep
+stiffness, S(t), versus time. This value is also calculated automatically by
+the bending beam software. To obtain m-value, the stiffness is calculated
+at several loading times (see Figure 2.29). The m-value is the slope of the
+log stiffness versus log time curve at any time, ?.
+
+Computer-generated output for the bending beam test includes all the
+required reporting items. The output format generally includes plots of
+deflection and load versus time, actual load and deflection values at vari-
+ous times, test parameters, and operator information.
+
+Direct Tension Tester
+
+Numerous past studies have shown a strong relationship between the
+stiffness of conventional (unmodified) asphalt binders and the amount of
+stretching they undergo before breaking. Asphalts that undergo considerable
+stretching before failure are called ductile; those that break without much
+stretching are called brittle. It is important that an asphalt binder be capable
+of a minimal elongation. Typically, stiffer asphalts are more brittle and softer
+asphalts are more ductile.
+
+Creep stiffness as measured by the BBR is not adequate to completely
+characterize the capacity of asphalts to stretch before breaking. For example,
+
+56 Petroleum Asphalt

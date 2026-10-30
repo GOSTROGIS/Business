@@ -1,24 +1,364 @@
 # Asphalt PDF context library
 
-**22 PDF paths · 21 unique PDFs · 1,492 original pages · 71 PDF chunks and 71 text extracts.**
+**58 PDF paths · 57 unique PDFs · 2,353 original pages · 107 PDF chunks and 107 text extracts.**
 
-Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **4,034,508 bytes** and **25 pages**. There are **0 single-page size exceptions**.
+Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **11,682,239 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
 [Browse the context index](index.html) · [Complete manifest](manifest.json) · [Chunk index CSV](chunk-index.csv)
 
-## Primary textbook still pending
+## Primary textbook available
 
-The Asphalt Handbook, MS-4, Seventh Edition was supplied by the user on 29 October 2026. Its upload exceeds the workspace transfer limit and the later Google Drive link currently requires sign-in. The full file is not accessible here, not read, converted to HTML, included or chunked. The builder can include this primary textbook after the supplied Drive file becomes accessible or smaller uploaded parts are available. Rerun it after the real PDFs arrive; no page count, contents or source hash is invented.
+The complete **834-page MS-4 seventh-edition scan** is available as [searchable HTML](../ms-4/index.html) and 34 small source PDF parts. Every source page is preserved. The context records below reuse those parts directly; their text files include both part-local and complete-book viewer page numbers. OCR remains unproofread except for separately recorded editorial corrections.
 
 ## How to use the chunks
 
 Start with the source title and original PDF page range. Open the chunk PDF to inspect the actual page, then use its text file to search or provide smaller context. Text headings preserve the original one-based viewer page number. Printed page labels inside the document can differ. Tables, columns, symbols and diagrams may not extract faithfully; the PDF remains the visual reference.
 
-The builder performs **no OCR**. Empty or image-only pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **3**; sparse-text page count: **1**.
+MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **9**; sparse-text page count: **34**.
 
 Internal page-link annotations and original outlines are omitted from chunks so a link cannot point to a missing page. External URI links are retained. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
 
 ## Original documents and chunks
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 1–25
+
+**PDF-ce792e704a84** · original-source · 25 pages · original SHA-256 `ce792e704a843cced4fbe228a5d221e19830e9940de70b0d03a1e5d605363f14`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0001-0025.pdf](../ms-4/pdf/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0001-0025.pdf) | [Text](chunks/p0001-0025-ce792e704a84/p0001-0025.txt) | 4,424,188 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 26–50
+
+**PDF-85a2f37109c5** · original-source · 25 pages · original SHA-256 `85a2f37109c595ad215d9385a681931024938fd54c06b38b047eb34e2d5372f7`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0026-0050.pdf](../ms-4/pdf/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0026-0050.pdf) | [Text](chunks/p0026-0050-85a2f37109c5/p0001-0025.txt) | 3,884,137 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 51–75
+
+**PDF-adbfeae81056** · original-source · 25 pages · original SHA-256 `adbfeae810561b41f5c60504be9bedda046bdbefc8e3e223f590e2ebab886b18`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0051-0075.pdf](../ms-4/pdf/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0051-0075.pdf) | [Text](chunks/p0051-0075-adbfeae81056/p0001-0025.txt) | 5,982,587 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 76–100
+
+**PDF-cb3e0777a05f** · original-source · 25 pages · original SHA-256 `cb3e0777a05f0cfbcd7b61e2628ff558e4b993addd7e1351b03cefd2925680ae`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0076-0100.pdf](../ms-4/pdf/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0076-0100.pdf) | [Text](chunks/p0076-0100-cb3e0777a05f/p0001-0025.txt) | 4,871,098 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 101–125
+
+**PDF-2ab7a84593e6** · original-source · 25 pages · original SHA-256 `2ab7a84593e6fa7fb79c37282fc9ad062b2805a9200a5271e8bc4e5ebbefc2bc`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0101-0125.pdf](../ms-4/pdf/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0101-0125.pdf) | [Text](chunks/p0101-0125-2ab7a84593e6/p0001-0025.txt) | 4,129,254 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 126–150
+
+**PDF-d7f0b0e361b9** · original-source · 25 pages · original SHA-256 `d7f0b0e361b9bfd15bf64aa6cf69dce3351aab9e6c8351c8571054f4b60b250b`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0126-0150.pdf](../ms-4/pdf/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0126-0150.pdf) | [Text](chunks/p0126-0150-d7f0b0e361b9/p0001-0025.txt) | 5,483,617 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 151–175
+
+**PDF-a3be89c049df** · original-source · 25 pages · original SHA-256 `a3be89c049dfa55211d2b39c349e175e0a41ccc2ea993753f0c9cda5b4269909`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0151-0175.pdf](../ms-4/pdf/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0151-0175.pdf) | [Text](chunks/p0151-0175-a3be89c049df/p0001-0025.txt) | 3,137,697 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 176–200
+
+**PDF-d93daf7dd486** · original-source · 25 pages · original SHA-256 `d93daf7dd4865b7972c1d4352d9b8792507cdf4e8be5ffae0ef41e8ab253aab6`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0176-0200.pdf](../ms-4/pdf/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0176-0200.pdf) | [Text](chunks/p0176-0200-d93daf7dd486/p0001-0025.txt) | 3,589,205 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 201–225
+
+**PDF-c3b7358c7d23** · original-source · 25 pages · original SHA-256 `c3b7358c7d230c24bf34d6f22696d27bfd1509287294c61fb9c16acbea71aeaa`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0201-0225.pdf](../ms-4/pdf/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0201-0225.pdf) | [Text](chunks/p0201-0225-c3b7358c7d23/p0001-0025.txt) | 5,205,938 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 226–250
+
+**PDF-926d75c9dc07** · original-source · 25 pages · original SHA-256 `926d75c9dc07aaa74a275dcfe941bf02ed868d5dc70f9ae0caa219653d6e44c6`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0226-0250.pdf](../ms-4/pdf/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0226-0250.pdf) | [Text](chunks/p0226-0250-926d75c9dc07/p0001-0025.txt) | 5,796,929 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 251–275
+
+**PDF-ebc618a940c8** · original-source · 25 pages · original SHA-256 `ebc618a940c88076af5a52f3525b7b22c00282896743fd7ec34d5ab3a9e8e472`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0251-0275.pdf](../ms-4/pdf/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0251-0275.pdf) | [Text](chunks/p0251-0275-ebc618a940c8/p0001-0025.txt) | 7,675,496 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 276–300
+
+**PDF-55563d284955** · original-source · 25 pages · original SHA-256 `55563d284955e57fef42b91384147670fd792799bc155bd3e3a04949fd1ff555`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0276-0300.pdf](../ms-4/pdf/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0276-0300.pdf) | [Text](chunks/p0276-0300-55563d284955/p0001-0025.txt) | 3,990,756 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 301–325
+
+**PDF-9069421c558b** · original-source · 25 pages · original SHA-256 `9069421c558bc889b885e8995282a3ff767549ba43b090e56052492ae9a0b70a`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0301-0325.pdf](../ms-4/pdf/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0301-0325.pdf) | [Text](chunks/p0301-0325-9069421c558b/p0001-0025.txt) | 5,153,224 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 326–350
+
+**PDF-211778558c34** · original-source · 25 pages · original SHA-256 `211778558c3442cd276973f0bc80d148ba7e39ef45f73f05eead635fa612346e`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0326-0350.pdf](../ms-4/pdf/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0326-0350.pdf) | [Text](chunks/p0326-0350-211778558c34/p0001-0025.txt) | 4,921,772 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 351–375
+
+**PDF-e672c1aa148c** · original-source · 25 pages · original SHA-256 `e672c1aa148c393efc5cbec9e776ba2d67fff2cce4ad2fd98b8caa14f2f31620`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0351-0375.pdf](../ms-4/pdf/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0351-0375.pdf) | [Text](chunks/p0351-0375-e672c1aa148c/p0001-0025.txt) | 8,172,245 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 376–400
+
+**PDF-fc5b014cee2f** · original-source · 25 pages · original SHA-256 `fc5b014cee2ff0fce05b41c46b1fb94d12a661ef1f2a6b274b5f124f8fd924f0`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0376-0400.pdf](../ms-4/pdf/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0376-0400.pdf) | [Text](chunks/p0376-0400-fc5b014cee2f/p0001-0025.txt) | 4,315,599 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 401–425
+
+**PDF-7b689d746e5b** · original-source · 25 pages · original SHA-256 `7b689d746e5bde33dd59d7f3e9e0d361076cf084878625c9a5b051b58a3e955c`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0401-0425.pdf](../ms-4/pdf/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0401-0425.pdf) | [Text](chunks/p0401-0425-7b689d746e5b/p0001-0025.txt) | 8,694,594 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 426–450
+
+**PDF-2ca81f7f9c15** · original-source · 25 pages · original SHA-256 `2ca81f7f9c155bc522a9307a17e21260798200d97d1fcef4fcd0a46b0d28c6f7`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0426-0450.pdf](../ms-4/pdf/p0426-0450.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0426-0450.pdf) | [Text](chunks/p0426-0450-2ca81f7f9c15/p0001-0025.txt) | 6,688,828 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 451–475
+
+**PDF-4cf5e2e00b7b** · original-source · 25 pages · original SHA-256 `4cf5e2e00b7b328b3f3b1b76c27acd941abc60cc373c98d3026ad84437e5d7e7`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0451-0475.pdf](../ms-4/pdf/p0451-0475.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0451-0475.pdf) | [Text](chunks/p0451-0475-4cf5e2e00b7b/p0001-0025.txt) | 3,853,989 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 476–500
+
+**PDF-c7c89c01a31d** · original-source · 25 pages · original SHA-256 `c7c89c01a31d84f6685aed3bdbb36a37a938851793939fe5c58b0976df3049e9`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0476-0500.pdf](../ms-4/pdf/p0476-0500.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0476-0500.pdf) | [Text](chunks/p0476-0500-c7c89c01a31d/p0001-0025.txt) | 5,467,057 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 501–525
+
+**PDF-84d931f6cbdb** · original-source · 25 pages · original SHA-256 `84d931f6cbdbd5d68ec841760431f14c975dd61062786938cdf2c0e048177190`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0501-0525.pdf](../ms-4/pdf/p0501-0525.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0501-0525.pdf) | [Text](chunks/p0501-0525-84d931f6cbdb/p0001-0025.txt) | 4,360,243 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 526–550
+
+**PDF-0f0101021f97** · original-source · 25 pages · original SHA-256 `0f0101021f971f92db2a53ce8097e97ce8aae7653aa01b140660190222d9fe46`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0526-0550.pdf](../ms-4/pdf/p0526-0550.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0526-0550.pdf) | [Text](chunks/p0526-0550-0f0101021f97/p0001-0025.txt) | 3,122,740 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 551–575
+
+**PDF-170c386c8bb1** · original-source · 25 pages · original SHA-256 `170c386c8bb1b0b837d4072db86c7336877ce724c969c0c8bc7f384e39d350d8`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0551-0575.pdf](../ms-4/pdf/p0551-0575.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0551-0575.pdf) | [Text](chunks/p0551-0575-170c386c8bb1/p0001-0025.txt) | 3,970,499 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 576–600
+
+**PDF-555e84a36375** · original-source · 25 pages · original SHA-256 `555e84a36375d3a5834359e4a74514ce6683dfe11f7a157cbce2f3cac0fcc147`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0576-0600.pdf](../ms-4/pdf/p0576-0600.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0576-0600.pdf) | [Text](chunks/p0576-0600-555e84a36375/p0001-0025.txt) | 11,682,239 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 601–625
+
+**PDF-1a53b8309b7a** · original-source · 25 pages · original SHA-256 `1a53b8309b7aa6023f02668a66814cd39a63551189c03409227e0f998c457929`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0601-0625.pdf](../ms-4/pdf/p0601-0625.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0601-0625.pdf) | [Text](chunks/p0601-0625-1a53b8309b7a/p0001-0025.txt) | 7,663,475 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 626–650
+
+**PDF-32ea71c5a726** · original-source · 25 pages · original SHA-256 `32ea71c5a72638b53afa807dbfcf63c446d8a65fcf3b89fc71220dfdfca06e1a`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0626-0650.pdf](../ms-4/pdf/p0626-0650.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0626-0650.pdf) | [Text](chunks/p0626-0650-32ea71c5a726/p0001-0025.txt) | 4,910,543 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 651–675
+
+**PDF-20d9c6bc57c1** · original-source · 25 pages · original SHA-256 `20d9c6bc57c1c459b4c5ef547348671bf1295f0fad212a1afb4a0c6c096087e2`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0651-0675.pdf](../ms-4/pdf/p0651-0675.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0651-0675.pdf) | [Text](chunks/p0651-0675-20d9c6bc57c1/p0001-0025.txt) | 5,636,192 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 676–700
+
+**PDF-8125f03f7624** · original-source · 25 pages · original SHA-256 `8125f03f762421c27d0286669c5a4fbefce4fbc44d72ac698ad02af676fdae33`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0676-0700.pdf](../ms-4/pdf/p0676-0700.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0676-0700.pdf) | [Text](chunks/p0676-0700-8125f03f7624/p0001-0025.txt) | 8,079,045 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 701–725
+
+**PDF-0da8b551e504** · original-source · 25 pages · original SHA-256 `0da8b551e504787d04ea5f5df157ea308d40dbc1ea58a47851738fd3a1be58ac`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0701-0725.pdf](../ms-4/pdf/p0701-0725.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0701-0725.pdf) | [Text](chunks/p0701-0725-0da8b551e504/p0001-0025.txt) | 7,923,706 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 726–750
+
+**PDF-748da1f69301** · original-source · 25 pages · original SHA-256 `748da1f6930195b4980cc90ac13672900638fb820e3fb54d053c57b7393397df`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0726-0750.pdf](../ms-4/pdf/p0726-0750.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0726-0750.pdf) | [Text](chunks/p0726-0750-748da1f69301/p0001-0025.txt) | 4,639,710 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 751–775
+
+**PDF-040c11ad0b0f** · original-source · 25 pages · original SHA-256 `040c11ad0b0f302757f97a5ba2431c4655fb2426f3af9f31ec987e95a0fe5c52`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0751-0775.pdf](../ms-4/pdf/p0751-0775.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0751-0775.pdf) | [Text](chunks/p0751-0775-040c11ad0b0f/p0001-0025.txt) | 5,729,177 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 776–800
+
+**PDF-f60282a5f9ad** · original-source · 25 pages · original SHA-256 `f60282a5f9add436fc681f90cfe2d2a43f2a4c2385cea5a16cb91ae64f405fb3`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0776-0800.pdf](../ms-4/pdf/p0776-0800.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0776-0800.pdf) | [Text](chunks/p0776-0800-f60282a5f9ad/p0001-0025.txt) | 4,059,028 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 801–825
+
+**PDF-1daa7f2c3d84** · original-source · 25 pages · original SHA-256 `1daa7f2c3d84897a39c3a5e21844f9b71736ebbc42b69a38d37984c3db5707f9`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0801-0825.pdf](../ms-4/pdf/p0801-0825.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../ms-4/pdf/p0801-0825.pdf) | [Text](chunks/p0801-0825-1daa7f2c3d84/p0001-0025.txt) | 2,439,688 | ocr-unproofread |
+
+### MS-4 Seventh Edition · complete scan part, original book PDF pages 826–834
+
+**PDF-9707a98e5f48** · original-source · 9 pages · original SHA-256 `9707a98e5f48727d6a166ace60a4bc94c508ad3c228350122af536ba3f1a1960`
+
+Original: [curriculum/asphalt-paving/ms-4/pdf/p0826-0834.pdf](../ms-4/pdf/p0826-0834.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–9 | [PDF](../ms-4/pdf/p0826-0834.pdf) | [Text](chunks/p0826-0834-9707a98e5f48/p0001-0009.txt) | 494,602 | ocr-unproofread |
 
 ### Skills for Success Get Started Guide for Practitioners
 
@@ -175,44 +515,64 @@ Original: [curriculum/asphalt-paving/manuals/pdfs/multiquip-mrh800gs-operation-r
 
 ### Line A · roadbuilding foundations
 
-**PDF-aafbd57af6c1** · generated-curriculum · 34 pages · original SHA-256 `aafbd57af6c1948d25f0877ec667b32bbbd8936f81ef0cdcf153e24eb9341c7f`
+**PDF-a0c50f5f039e** · generated-curriculum · 38 pages · original SHA-256 `a0c50f5f039e264207951637d5a6f4209231486cfccd9b51c6955a077f6715a4`
 
 Original: [curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf](../line-a/roadbuilding-foundations.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–25 | [PDF](chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-aafbd57af6c1/p0001-0025.txt) | 1,613,712 | extracted |
-| 26–34 | [PDF](chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.pdf) | [Text](chunks/roadbuilding-foundations-aafbd57af6c1/p0026-0034.txt) | 131,241 | extracted |
+| 1–25 | [PDF](chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.txt) | 1,665,269 | extracted |
+| 26–38 | [PDF](chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.pdf) | [Text](chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.txt) | 865,635 | extracted |
 
 ### Line A · teaching guide
 
-**PDF-cf3d0ad9debb** · generated-curriculum · 17 pages · original SHA-256 `cf3d0ad9debbc5579638b7f11cda8fcd328948de2e4beb9f322dd818a6e5d879`
+**PDF-8ded550dcc0d** · generated-curriculum · 17 pages · original SHA-256 `8ded550dcc0d7963cbfd9aada46a99edfeb38d47b3f44552bebb52118072d16d`
 
 Original: [curriculum/asphalt-paving/line-a/teaching-guide.pdf](../line-a/teaching-guide.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–17 | [PDF](chunks/teaching-guide-cf3d0ad9debb/p0001-0017.pdf) | [Text](chunks/teaching-guide-cf3d0ad9debb/p0001-0017.txt) | 149,357 | extracted |
+| 1–17 | [PDF](chunks/teaching-guide-8ded550dcc0d/p0001-0017.pdf) | [Text](chunks/teaching-guide-8ded550dcc0d/p0001-0017.txt) | 152,246 | extracted |
 
 ### Manuals · manual reading instructor
 
-**PDF-83e58ffbf3f8** · generated-curriculum · 5 pages · original SHA-256 `83e58ffbf3f84222dff6300497703b54f685df111ef325f6220987d07396206c`
+**PDF-60aa07eb76e2** · generated-curriculum · 5 pages · original SHA-256 `60aa07eb76e233c3a3888569607f0a9eecda1eec7442e7f406061a0c1dbc4000`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-instructor.pdf](../manuals/manual-reading-instructor.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–5 | [PDF](chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.pdf) | [Text](chunks/manual-reading-instructor-83e58ffbf3f8/p0001-0005.txt) | 73,525 | extracted |
+| 1–5 | [PDF](chunks/manual-reading-instructor-60aa07eb76e2/p0001-0005.pdf) | [Text](chunks/manual-reading-instructor-60aa07eb76e2/p0001-0005.txt) | 73,525 | extracted |
 
 ### Manuals · manual reading lesson
 
-**PDF-94613c8f1714** · generated-curriculum · 12 pages · original SHA-256 `94613c8f1714c1a5847a6b1b1902c8a43c35dd27d6826661377505d817de5fcd`
+**PDF-2574d4cc5f47** · generated-curriculum · 12 pages · original SHA-256 `2574d4cc5f4756b7ebb4c859e297af6db1f4d5adef2ebb2100b7a7c40a1923ba`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf](../manuals/manual-reading-lesson.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–12 | [PDF](chunks/manual-reading-lesson-94613c8f1714/p0001-0012.pdf) | [Text](chunks/manual-reading-lesson-94613c8f1714/p0001-0012.txt) | 3,107,667 | extracted |
+| 1–12 | [PDF](chunks/manual-reading-lesson-2574d4cc5f47/p0001-0012.pdf) | [Text](chunks/manual-reading-lesson-2574d4cc5f47/p0001-0012.txt) | 3,107,667 | extracted |
+
+### Concepts · learner workbook
+
+**PDF-dff9c5a47169** · generated-curriculum · 17 pages · original SHA-256 `dff9c5a471691d83bcec56fc42c123b37fc81bf880fb9e1e70680d092f342baf`
+
+Original: [curriculum/asphalt-paving/ms-4/concepts/learner-workbook.pdf](../ms-4/concepts/learner-workbook.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–17 | [PDF](chunks/learner-workbook-dff9c5a47169/p0001-0017.pdf) | [Text](chunks/learner-workbook-dff9c5a47169/p0001-0017.txt) | 1,289,157 | extracted |
+
+### Concepts · teaching guide
+
+**PDF-08560dc95bbc** · generated-curriculum · 6 pages · original SHA-256 `08560dc95bbc2b638dfb711354b2ea53da90fb489a1d150e340ac41906b1718d`
+
+Original: [curriculum/asphalt-paving/ms-4/concepts/teaching-guide.pdf](../ms-4/concepts/teaching-guide.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–6 | [PDF](chunks/teaching-guide-08560dc95bbc/p0001-0006.pdf) | [Text](chunks/teaching-guide-08560dc95bbc/p0001-0006.txt) | 74,576 | extracted |
 
 ### Specifications · learner workbook
 

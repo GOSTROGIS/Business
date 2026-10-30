@@ -1,0 +1,54 @@
+to use a two-step process to build their inventory. The first step is to add
+information that is important in making treatment decisions and is easy to
+obtain. For example, functional classifications or surface type information
+might be included in the first step. Over time, additional information that
+is less critical to the decision process, but helpful to have in a single loca-
+tion, can be added to the inventory. For example, construction history
+records might be added as the second step in building the inventory.
+
+Condition Survey
+
+A pavement management system uses the results of pavement condition
+surveys to help identify current and future maintenance and rehabilitation
+needs. All recommendations from the pavement management system are
+based on the results of the pavement condition survey so the importance
+of this component cannot be underestimated. The results of the survey are
+used to report current pavement conditions (usually in terms of a condition
+index), to forecast future conditions, and to determine appropriate mainte-
+nance and rehabilitation strategies.
+
+The next section of this chapter discusses the different types of pave-
+ment condition surveys that are used to support a pavement management
+analysis. These techniques range from windshield surveys in which a sub-
+jective rating is assigned by a rater to represent the current pavement con-
+dition to more objective survey approaches in which distress type, severity,
+and quantity are recorded. Many agencies have begun using automated
+vehicles to collect pavement condition information. These vehicles oper-
+ate at near-traffic speeds, collecting digital images of the pavement surface
+and using lasers to record pavement surface irregularities like roughness,
+faulting, and rutting.
+
+Regardless of which approach is used, it is important that the survey pro-
+cedures are followed consistently from one survey to another survey (and
+from one rater to another rater) and that they represent actual conditions.
+In general, objective condition surveys are more repeatable than subjective
+rating approaches, but they are often more labor intensive. Since it is impor-
+tant that pavement condition surveys are updated at least every three years,
+each agency must carefully evaluate the costs associated with each pavement
+condition survey procedure to ensure that the approach selected matches the
+resources available to support this activity.
+
+Database
+
+The inventory and condition information is stored in a pavement manage-
+ment database so it is available for use in generating reports and evaluating
+different maintenance and rehabilitation strategies. Databases can take a vari-
+ety of forms, but relational databases are most commonly used in pavement
+management today.
+
+Analysis Module
+The heart of the pavement management system is the analysis module,
+where program recommendations for pavement maintenance and repair are
+
+524 Pavement Management
+

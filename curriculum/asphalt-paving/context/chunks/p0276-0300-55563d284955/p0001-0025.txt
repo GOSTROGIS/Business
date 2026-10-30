@@ -1,0 +1,1285 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0276-0300.pdf
+SOURCE SHA-256: 55563d284955e57fef42b91384147670fd792799bc155bd3e3a04949fd1ff555
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 276 ===
+Ory
+
+10 Mix Selection
+
+An HMA pavement surface must serve the demands of multiple
+traffic loadings and environments. The HMA mixture chosen for the
+project must meet the project requirements. The pavement designer
+has more choices now than in the past for the type of mix selected
+and for the materials (aggregates and asphalt binders) to be used on
+the project. This has led to the development of specialized mixes to
+address very specific problems. New design procedures such as the
+Superpave design procedure and others discussed earlier in this chap-
+ter have been implemented. In many cases, higher-quality materials
+are being specified than are needed for the particular project. Because
+of these concerns, the National Asphalt Pavement Association—in a
+coordinated effort with the Federal Highway Administration (FHWA)
+and an Expert Task Group consisting of representatives from the pav-
+ing industry and Departments of Transportation—developed National
+Asphalt Pavement Association Information Series 128, HMA Pavement
+Mix Type Selection Guide. This document provides detailed information
+on mix selection. As described earlier in this chapter, there are three
+primary types of mixes used for the construction of HMA pavements:
+fine and coarse graded dense mixes, stone matrix asphalt (SMA) mixes,
+and Open-Graded Friction Courses (OGFC) mixes.
+
+4.10.1 Pavement Layers and Traffic Levels
+(definitions)
+
+The following provides a short description of each of these layers in a
+pavement structure. Generally, materials of lesser quality are needed for
+each layer as they progress down in the pavement structure.
+
+* Surface layer—contains the highest-quality materials. It pro-
+vides friction, smoothness, noise control, rutting resistance and
+durability.
+
+° Intermediate layer or binder layer—consists of one or more lifts of
+HMA below the surface layer. It provides structural strength to the
+pavement.
+
+° Base layer—consists of one or more lifts of HMA placed at the
+bottom of the pavement structure.
+
+The mix selected for use in an HMA pavement will vary depending
+on the traffic level of the pavement. Table 4.12 provides some defini-
+tions and the typical roadway application represented by that traffic
+level.
+
+242 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 277 ===
+Table 4.12
+Traffic Level Definitions
+
+Equivalent
+18,000 Ib
+Traffic Single Axle
+Designation Loads (ESALs)
+(20 yr design
+life)
+
+Typical Roadway Applications
+
+Low < 300,000 * Roadways with very light traffic volumes such as
+local roads, county roads, and city streets, where
+truck traffic is prohibited or at a minimum.
+
+* Traffic considered local in nature, not regional, intra-
+state, or interstate.
+
+« Special-purpose roadways serving recreational sites
+or areas.
+
+Moderate 300,000 to * Two-lane, multilane, divided, and partially or
+< 10,000,000 completely controlled access roadways.
+* Medium to highly trafficked city streets, state routes,
+U.S. highways and some tural interstates.
+
+High > 10,000,000 * Two-lane, multilane, divided and partially or
+completely controlled access highways.
+* Medium to highly trafficked city streets, state routes,
+U.S. highways and many interstate highways.
+* Truck-weighing stations or truck-climbing lanes on
+two-lane roadways.
+
+4.10.2 Dense Graded Mixes
+
+A dense graded mix is a mixture where the aggregate particles have an
+even distribution from coarse to fine. The goal is that the mix chosen will
+be stable and durable. To achieve these, it is generally necessary to intro-
+duce enough asphalt into the mix to insure durability but not so much as
+to reduce the stability of the mix below that needed for the traffic levels
+on the pavement. To insure that the chosen mix performs properly, it also
+must be built as it is designed and proper quality control procedures must
+be implemented. A special concern is the need for obtaining proper com-
+paction on the roadway.
+
+Dense graded mixes are defined by their nominal maximum aggre-
+gate size (defined earlier in this chapter and in Chapter 3, “Mineral
+Aggregates and Mixture Additives”) and can be further defined as either
+fine-graded or coarse-graded. A fine-graded mix will have a higher pro-
+portion of fine sand-sized particles than a coarse-graded mix. Table
+4.13 presents the criteria for fine/coarse graded HMA mixes. Coarse
+mixes are defined as having a combined aggregate gradation that
+passes below the primary control sieve control point, and fine mixes
+are defined as having a gradation that passes above or through the pri-
+mary control sieve control point.
+
+In general, the fine gradation mixes with the smaller nominal maximum
+aggregate sizes will be used for the surface mixes (top 1% to 2 inches).
+
+MS-4 243
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 278 ===
+. Table 4.13
+Coarse Versus Fine Graded Mixes
+
+Nominal Maximum
+
+Aggregate Size Control Sieve Breakpoint
+9.5mm 2.36 A7T%
+12.5mm 2.36 39%
+
+19mm 4.75 47%
+25 mm 4.75 40%
+37.5 mm 9.5 4T%
+
+These mixes will have higher asphalt contents and lower permeability (due
+to greater aggregate surface area and smaller size voids), which will result
+in improved durability (ess block and shrinkage cracking). For applica-
+tions where the surface will receive little or no vehicle traffic, such as bike
+trails and walking paths, consideration should be given to designing the
+mix with 22 percent air-voids rather than 4 percent air-voids (standard
+requirement) to increase the durability of the mix further and reduce non-
+load associated cracking.
+
+The lower levels (binder and base courses) should use the larger aggre-
+gate sizes. These mixes provide increased resistance to pavement deforma-
+tion. This allows the placement of thicker lifts and requires less asphalt
+cement due to less surface area.
+
+The lift thickness for all mixes (surface, binder and base) is dictated by the
+nominal maximum aggregate size. If the nominal maximum aggregate size
+is too large with relation to the lift thickness it will be very difficult to obtain
+proper compaction of the mat. It is recommended that the lift thickness-be
+three times the nominal maximum aggregate size for fine graded mixes
+and four times the nominal maximum aggregate size for the coarse graded
+mixes. These same criteria will apply for SMA mixes. For OGFC mixes the
+thickness should be two times the nominal maximum aggregate size.
+
+4.10.3 Determining the Appropriate
+Mix Type
+
+The Expert Task Group that was formed to help write Information Series
+128 provided the recommendations shown in Figure 4.40. The traffic level
+definitions of Table 4.12 along with the base, intermediate and surface
+layer definitions described earlier in this section are utilized in this figure.
+The appropriate mix types and sizes of mix (using nominal maximum
+aggregate size) are determined for each combination of traffic level and
+layer type. Also provided in Figure 4.40 is the recommended range of lift
+thickness for a given mix type and size. Additional guidance in utilizing
+this chart can be found in Information Series 128.
+
+244 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 279 ===
+e 80
+—
+3 — 70
+3 =8 6
+>ED
+S25 50
+itI«of
+ov, 40
+© 5% 30 :
+£ ee 30.0 =
+3 €S 20 25.0 25.0
+oor Low Traffic .
+OF 10 Medium Traffic _
+4 DFG DFG DFG DFG SMA SMA SMA OGF OGF DFG DFG DFG
+4.75 95 125 190 95 125 190 C95 C125 95 12.5 19.0
+Le E 120
+D2 G
+wo =o
++ ED
+Sc
+oO oO
+=~ UO w
+oOo o
+-_= OM
+Deon
+® o
+EES
+= EO
+28 = L id Medium Traffi
+nn Low and MediumtTraffic >
+£@x 215 High Traffic >
+—
+DFG 19.0 DFG 25.0 DCG 19.0 DCG 25.0 SMA 19.0
+— 160
+Ee
+E y 140
+~ EC O
+2 = 2 120
+S ea 100
+o 28 80 ‘
+& ES 60 :
+& 57.0
+a 5s 40}— 50.
+i
+& # 20 AT,._Oov0,.. Medium qnlio wo —
+4 0 < ~ igh Traffic >
+DFG DFG DFG DCG DCG DCG ATPB 19.0 ATPB 25.0 —
+19.0 25.0 37.5 19.0 25.0 37.5
+Mix Type
+DFG -— Dense Fine Graded aoe 8 DCG — Dense Coarse Graded
+
+Resources
+
+; OGFC — Open Graded Friction Coarse
+SiGas SMA— Stone Matrix Asphalt Fab: ATPB asphalt Treated Base
+
+Figure 4.40 Recommended Mix Types
+
+1. AASHTO Standard Practice for Superpave Volumetric Design for Hot
+Mix Asphalt (HMA), ASSHTO R 35.
+
+2. AASHTO Standard Specification for Designing Stone Matrix Asphalt
+(SMA), AASHTO MP 08.
+
+3. Bailey Method for Gradation Selection in Hot Mix Asphalt Mixture
+Design. Transportation Research Circular E-C044. Transportation
+Research Board, Washington, DC. October 2002.
+
+4. Brown, E. R., and Mallick, Rajib B. Stone Matrix Asphalt Properties
+Related to Mixture Design. National Center for Asphalt Technology
+Report 94-02. Auburn, AL 1994.
+
+MS-4
+
+245
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 280 ===
+10.
+
+11.
+
+12.
+
+13.
+
+. Designing and Controlling SMA Mixtures—State-of-the-Practice.
+
+National Asphalt Pavement Association QIP-122. Lanham, MD 1999.
+
+. Design, Construction and Maintenance of Open-Grade Asphalt
+
+Friction Courses. National Asphalt Pavement Association, Information
+Series 115.
+
+. FHWA Technical Advisory Open Graded Friction Courses, T5040.31.
+
+Federal Highway Administration. December 1990.
+
+. Harvey, John T., Tsai, Bor-Wen Long, Fenella Hung, and Dave.
+
+CALAPT Program—Asphalt Treated Permeable Base (ATPB).
+California Department of Transportation Report FHWA/CA/OR-99/09.
+
+July 1999.
+
+. Kandhal, Prithvi S., and Mallick, Rajib B. Design of New-Generation
+
+Open-Graded Friction Courses, National Center for Asphalt
+Technology Report 99-03. Auburn, AL 1999.
+
+Monismith, Carl L. “State of The Art: Bituminous Materials Mix
+Design.” Asphalt Mix Design and Construction—FPast, Present and
+Future. American Society of Civil Engineers. Reston, Virginia 2006.
+Recommended Use of Reclaimed Asphalt Pavement in the Superpave
+Mix Design Method: Guidelines. National Cooperative Highway
+Research Program Research Results Digest No. 253. Transportation
+Research Board. Washington, DC.
+
+Roberts, Freddy L, Kandhal, Prithvi S., Brown, E. Ray, Lee, Dah-Yin,
+and Kennedy, Thomas. Hot Mix Asphalt Materials, Mixture Design
+and Construction. 2™ ed. NAPA Education Foundation. Lanham, MD.
+Vavrik, W. R., Pine, W. J., Huber, G.A., Carpenter, S.H., and Bailey, R.
+“The Bailey Method for Gradation Evaluation: The Influence of
+Aggregate Gradation and Packing Characteristics on Voids in
+Mineral Aggregate.” Journal of the Association of Asphalt Paving
+Technologists. Vol. 70. 2001.
+
+Suggested Reading
+
+246
+
+° The Asphalt Handbook. MS-4. The Asphalt Institute. Lexington, KY.
+
+HMA Construction. MS-22. The Asphalt Institute. Lexington, KY.
+
+° Mix Design Methods. MS-2. The Asphalt Institute. Lexington, KY.
+° Superpave. SP-2. The Asphalt Institute. Lexington, KY.
+
+Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 281 ===
+CHAPTER
+
+SOILS AND DRAINAGE FOR
+ASPHALT PAVEMENTS
+
+This chapter is an overview of subgrade classification methods and
+the tests used for evaluating foundation soils for highway, airport,
+and other pavement engineering purposes. Knowledge of these
+classification methods and strength evaluation tests are invaluable
+to the design and construction of asphalt pavements.
+
+Section 5.1 Soil-Subgrade Classification Systems
+5.1.1 Introduction
+5.1.2 Objectives for Classifying Subgrade
+5.1.3 Classification Systems
+
+“ Section 5.2 Methods for Evaluating Subgrade Strength
+and Stiffness
+5.2.1 Introduction
+5.2.2 Laboratory Test Methods
+5.2.3 Field Test Procedures
+5.2.4 Strength Correlations
+
+= Section 5.3 Drainage of Asphalt Pavement Structures
+5.3.1 Introduction
+5.3.2 Surface Drainage
+5.3.3 Design for Large Paved Areas
+5.3.4 Subsurface Drainage
+5.3.5 Geosynthetic Fabrics
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 282 ===
+s
+‘
+:
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 283 ===
+Classification Systems
+
+5.1.4 Introduction
+
+The performance of an HMA pavement is directly related to understanding
+the soils upon which it is built. The strength of both the untreated base course
+and the subgrade soil are directly related to the moisture content; therefore,
+the drainage of the pavement is extremely important.
+
+Likewise, drainage is also an important aspect in asphalt pavement
+design and construction. The latter part of this chapter reviews some key
+issues of pavement-related drainage.
+
+If not thoroughly knowledgeable about soil mechanics and the effect
+of different soils and their drainage, the reader is encouraged to consult a
+qualified geotechnical engineer for further guidance.
+
+5.1.2 Objectives for Classifying Subgrade
+
+The objective behind using any soil classification system for road and
+airport construction is the ability to predict performance of a given soil
+subgrade on the basis of a few simple tests. These test results, along with
+the soil classification procedure and criteria, allow an engineer to identify
+the soil type and characterize it according to other soils with similar char-
+acteristics and properties.
+
+Grouping soils into a classification system is not the final objective, but
+it should be regarded as a tool to understand soil action and behavior as
+they relate to subgrade performance.
+
+5.1.3 Classification Systems
+
+The two classification systems commonly used to describe soils used
+for pavement construction are the American Association of State High-
+way and Transportation Officials (AASHTO) Classification System for Soils
+and the Unified Soil Classification System (USCS). Both systems are
+described in detail in many soil mechanics textbooks. The reader is
+referred to An Introduction to Geotechnical Engineering, by R. D. Holtz
+and W. D. Kovacs.
+
+The principal soil classification system used in the United States by
+highway engineers is the AASHTO system. This system was originally
+developed by the U.S. Bureau of Public Roads in about 1928. The present
+AASHTO system, which dates from 1945, was the result of an extensive
+revision by the Highway Research Board.
+
+MS-4 249
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 284 ===
+Under the AASHTO system, soils having approximately the same general
+load-carrying capacity and service characteristics are grouped together to
+form one of seven basic groups (A-1, A-2, A-3, A-4, A-5, A-6, and A-7). In
+general, the best highway subgrade soils are classified as A-1. Poorer soils
+are rated in numerical order, with the A-7 group being the poorest. The
+exception is the A-3 group. Soils classified A-3 are better subgrades than
+soils in the A-2 group. From this, it can generally be assumed for a given
+set of conditions that the thickness of the pavement section must progres-
+sively increase as the soil classification group increases from A-1 to A-7,
+except as noted.
+
+The USCS is based on the Airfield Classification System developed by
+Professor Arthur Casagrande of Harvard University during World War I.
+In 1952, Casagrande, together with the Bureau of Reclamation and the
+U.S. Army Corps of Engineers, modified the system for a broad range of
+applications, including dams and foundations.
+
+The USCS groups soils based on grain size and plasticity. The system is
+rooted in the concept that coarse-grained soils can be classified accord-
+ing to grain-size distribution, while it is more appropriate to classify fine-
+grained soils based on plasticity characteristics. These characteristics are
+evaluated by plotting the plasticity index (PD versus the liquid limit (LL)
+on a standard plasticity chart. The position of the plotted points yields
+information for predicting soil behavior as an engineering construction
+material. The following properties form the basis of soil identification:
+
+° Percentages of gravel, sand, and fines passing the No. 200 (75 microns)
+
+¢ Shape of the grain-size distribution curve (well-graded or poorly-
+
+graded
+
+® Plasticity and compressibility characteristics
+
+A soil is given a descriptive name and letter symbol to indicate its
+principal characteristics.
+
+250 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 285 ===
+5.2 Methods for Evaluating
+
+Subgrade Strength
+and Stiffness
+
+5.2.1 Introduction
+
+Thickness design of asphalt pavements depends to a large extent on
+the strength and/or stiffness of the finished subgrade. Common empirical
+methods of thickness design depend on a subgrade strength index such
+as the CBR or R-value. Mechanistic-empirical methods use the subgrade
+resilient modulus, a measure of material stiffness, to establish pavement
+thickness. In either method, characterization of the subgrade strength or
+stiffness is a fundamental part of thickness design (for further information,
+see Chapter 6, “Thickness Design”).
+
+The concept of testing soils at their anticipated moisture and density
+should be the governing criterion for thickness design.
+
+Subgrade strength or stiffness of a soil or aggregate base or subbase
+depends on soil type and is closely related to density and moisture con-
+tent. Variable strength or stiffness can be expected, depending on the
+degree of compaction and moisture content after the pavement has been
+completed. If experience has indicated that a certain soil cannot be com-
+pacted economically to high density, it would be unwise to perform design
+tests with the soil at a high-density value.
+
+Design strength or stiffness should be based on values obtained from
+soil samples in their worst anticipated condition. To obtain such values
+generally involves testing a sample that has been soaked in water.
+
+Design methods used by different agencies vary widely, and their
+approach to evaluating the strength or modulus of the unbound materials
+for design purposes also varies. Evaluation methods discussed here are
+probahly the most widely used methods for asphalt pavement design for
+airfields and highways.
+
+Both field and laboratory test methods have been established by vari-
+ous agencies over the years. Each has advantages and disadvantages that
+must be considered. Field-test methods have the advantage of testing the
+unbound layers (base and subgrade) in situ at the confining pressure and
+moisture content that exist at the site. This may also be a disadvantage
+in that the existing conditions may not represent the intended conditions
+after construction. For example, if a pavement is to be built over a satu-
+rated soil, a field test would provide a strength index for the soil in a
+saturated condition; however, drainage improvements to the site will likely
+change the subgrade moisture content after construction.
+
+Laboratory tests may be advantageous because the unbound layers are
+tested under a wide range of confining pressure and moisture conditions,
+
+MS-4 251
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 286 ===
+depending on the test used. On the other hand, it is very difficult to
+replicate in situ conditions in a laboratory environment. Furthermore, the
+act of soil sampling alone has the effect of disturbing the soil no matter
+how carefully it is done. In summary, the method of evaluation should be
+carefully considered.
+
+Table 5.1 presents the commonly used test methods for soil strength
+and/or stiffness.
+
+5.2.2 Laboratory Test Methods
+
+The CBR, with its numerous variations, is probably the most widely used
+strength index for designing asphalt pavement structures. This method was first
+developed by the California Division of Highways in the 1920s. It was modified
+by the U.S. Army Corps of Engineers for use on airfields during World War Il
+and is still widely used in airfield pavement design and for highway and road-
+way design outside the United States. While primarily a laboratory test, field
+CBR test methods have been developed for use in evaluating soils in situ.
+
+The Resistance Value (R-Value) test method for evaluating treated and
+untreated materials for bases, subbases, and subgrades was developed by
+F. N. Hveem and R. M. Carmany of the California Division of Highways.
+
+The Resilient Modulus (M) method was developed by the Asphalt Insti-
+tute based on a test originated at the University of California by H. B. Seed,
+C. K. Chan, and C. E. Lee. This laboratory test is used to determine the stiff-
+ness of a soil specimen for conditions that represent stress in pavements
+subjected to moving wheel loads.
+
+California Bearing Ratio
+
+General
+
+The U.S. Army Corps of Engineers test procedure was generally used
+until 1961 when the American Society for Testing and Materials adopted
+the method as ASTM D 1883, Bearing Ratio of Laboratory-Compacted Soils.
+The ASTM procedure differs in some respects from the Corps’ procedure
+and the AASHTO procedure, AASHTO T 193. The ASTM procedure is the
+easiest to use and is the version described in this section.
+
+Table 5.14
+Common Test Methods for Soil Strength/Stiffness
+
+Test Objective Laboratory Test Methods Field Test Methods
+California Bearing Ratio California Bearing Ratio
+(CBR) method (CBR) method
+Strength Index . .
+Resistance Value Method Dynamic Cone Penetrometer
+(R-Value) (DCP)
+Stiffness Resilient Modulus Falling Weight
+(M,) method Deflectometer (FWD)
+
+252 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 287 ===
+The CBR is a comparative measure of the shearing resistance of soil. The
+test consists of measuring the load required to cause a piston of standard
+size to penetrate a soil specimen at a specified rate. This load is divided
+by the load required to force the piston to the same depth in a standard
+sample of crushed stone. The result, multiplied by 100, is the value of the
+California CBR. Usually depths of 0.1 or 0.2 inch (2.5 or 5 millimeters) are
+used, but depths of 0.3, 0.4, and 0.5 inch (7.5, 10, and 12.5 millimeters)
+may be used if desired. Penetration loads for the crushed stone have been
+standardized. This test method is intended to provide the relative bearing
+value, or CBR, of base, subbase, and subgrade materials. Procedures are
+given for laboratory-compacted swelling, nonswelling, and granular mate-
+rials. These tests are usually performed to obtain information that will be
+used for design purposes.
+
+The CBR value for a soil will depend upon its density, molding moisture
+content, and moisture content after soaking. Because the product of labo-
+ratory compaction should closely represent the results of field compac-
+tion, the first two of these variables must be carefully controlled during the
+preparation of laboratory samples for testing. Unless it can be ascertained
+that the soil being tested will not accumulate moisture and be affected by
+it in the field after construction, the CBR tests should be performed on
+soaked samples.
+
+Certain routine soil tests should be performed before conducting the
+CBR test. These tests are shown in Table 5.2.
+
+Test Procedure
+
+If the sample is to be soaked, a representative sample of the mate-
+rial is taken to determine the moisture at the beginning of compaction,
+and another sample of the remaining material is taken after compaction.
+The material is weighed immediately and dried in an oven at 230+9°F
+(110+5°C) for at least 12 hours, or to constant weight. Each moisture-
+content sample should weigh not less than 100 grams for fine-grained
+soils or less than 500 grams for granular soils. If the sample is not to be
+
+Table 5.2
+Routine Soil Tests
+
+ASTM AASHTO
+Sieve Analysis of Fine and Coarse Aggregate C 136 T27
+Liquid Limit of Soils D 4318 T 89
+Plastic Limit and Plasticity Index of Soils D 4318 T 90
+Particle Size Analysis of Soils (only for classification D 422 T 88
+purposes)
+Moisture-Density Relations of Soils Using 5.5-pound D 698 T 99
+(2.5 kilograms) Rammer
+Moisture-Density Relations of Soils Using 10-pound D 1577 T 180
+
+(4.5 kilograms) Rammer
+
+MS-4 253
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 288 ===
+soaked, a representative sample of material is taken from one of the cut
+faces after penetration to determine the moisture content.
+
+The apparatus for the CBR test is shown in Figure 5.1. The mold, with
+extension collar attached, is clamped to the base plate. The spacer disk is
+inserted over the base plate, and coarse filter paper is placed on top of the
+spacer disk. The soil sample is compacted at maximum density and opti-
+mum moisture content as determined by ASTM D 698 or D 1557.
+
+The extension collar is removed, and the compacted soil trimmed even
+with the top of the mold with a straightedge. The spacer disk is removed
+and the mold inverted. The trimmed edge of the soil is placed on the
+perforated base plate, which has been covered with filter paper. The
+adjustable stem and plate assembly is placed on top of the compacted soil
+specimen in the mold.
+
+C
+
+~«—— Loading Machine
+Frame
+
+Proving Ring
+
+Screw
+Jack
+
+Figure 5.1 CBR Test Assembly
+
+254 Soils and Drainage for Asphalt Pavemenis
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 289 ===
+Surcharge weights within 5 pounds (2.27 kilograms) of the weight of
+the base material and pavement are added. In no case, however, should
+the surcharge be less than 10 pounds (4.54 kilograms). The sample is
+immersed in water and initial measurements taken for swell. After
+96 hours, or a shorter period for soils that readily take up moisture,
+final swell measurements are made to determine swell as a percentage
+of initial specimen height. The sample is removed from the water and
+the surcharge weights and perforated plate are removed. The sample is
+allowed to drain for 15 minutes and then weighed and prepared for the
+penetration test.
+
+The penetration test is conducted with surcharge weights in place, equal
+to those used during the soaking period. The mold assembly is placed in
+a loading frame or hydraulic press. The piston is first seated with an initial
+10-pound (44 Newton) load, and all dials are set at zero. A load is then
+applied at the uniform rate of 0.05 inch (1.27 millimeters) of penetration
+per minute. The total load readings are taken at the following penetrations
+shown in Table 5.3:
+
+Table 5.3
+Measurement Points for CBR Test
+
+0.025 in (0.6 mm) 0.125 in (3.2 mm) 0.250 in (6.4 mm)
+0.050 in (1.3 mm) 0.150 in (3.8 mm) 0.300 in (7.6 mm)
+0.075 in (1.9 mm) 0.175 in (4.4 mm) 0.400 in (10.1 mm)
+0.100 in (2.5 mm) 0.200 in (5.1 mm) 0.500 in (12.7 mm)
+
+Finally the load is released, the mold assembly disassembled, and the
+moisture-content is determined for the top 1 inch (25 millimeters), or for
+the entire depth of the sample.
+
+Presentation of Data
+
+After the test has been completed, the penetration load in pounds per
+square inch (megapascals) is calculated and the load-penetration curve plot-
+ted. In order to obtain true penetration loads from the test data, the zero
+point of the curve is adjusted to correct for surface irregularities and the
+initial concave upward shape of the curve, if present. If the curve is uniform
+as in example No. 1 of Figure 5.2, the CBR value is calculated from the
+recorded loads. For surface irregularities, as in example No. 3 of Figure 5.2,
+extend the straight-line portion of the curve to the base to obtain a corrected
+origin, or zero. If the curve has a reverse bend, or concave upward shape, as
+in example No. 2, draw a line tangent to the steepest point of the curve (A),
+and extend the line to the base to obtain a corrected origin or zero point (B).
+Then read the corrected load values for 0.1 inch (2.5 millimeters) penetration
+(C) and 0.2 inch (5 millimeters) of penetration (D).
+
+The CBR value is defined as a ratio comparing the bearing of a material
+with the bearing of a well-graded crushed stone. The penetration loads for
+crushed stone are presented in Table 5.4.
+
+MS-4 255
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 290 ===
+Penetration, Inches
+
+0 0.1 0.2 0.3 0.4 0.5
+10 T T
+
+|
+
+1400
+9 Example No. 1
+
+No Correction
+8 Required
+
+I
+
+1200
+
+Example No. 3
+
+1000
+
+Example No. 2 800
+
+Corrected 5.08 mm (0.2 in.)
+Penetration +600
+D
+
+Corrected 2.54 mm (0.1 in.) +400
+Penetration
+
+Unit Load On Piston, Megapascals
+oi
+T
+
+Corrected for Concave
+
+c Upward Shape +200
+
+you] ‘bs Jeg SpUNO ‘UOISIG UO peo? Huy
+
+Corrected for Surface Irregularities
+#. i | | i 0
+B
+
+0 2.5 5 7.5 10 12.5
+
+B Penetration, Millimeters
+Figure 5.2 Correction of Load-Penetration Curves — ; eg aman
+
+Table 5.4
+Standard Penetration Loads for CBR Test
+
+Penetration Standard Load Standard* Load
+inch (mm) Ib (N) psi (MPa)
+0.1 (2.5) 3,000 (13,345) 1000 (6.89)
+0.2 (5.0) 4,500 (20,017) 1500 (10.34)
+0.3 (7.5) 5,700 (25,355) 1900 (13.10)
+0.4 (10.0) 6,900 (30,693) 2300 (15.86)
+0.5 (12.5) 7,800 (34,696) 2600 (17.93)
+
+*Plunger cross-section area = 3 in? (1,935.5 mm?)
+
+The CBR is determined from the corrected load values at 0.1- and 0.2-inch
+(2.5 and 5 millimeters) penetrations by dividing the loads at 0.1 and 0.2 inch
+(2.5 and 5 millimeters) by the standard loads of 1000 and 1500 pounds per
+square inch (6.89 and 10.34 megapascals), respectively. Each ratio is multi-
+plied by 100 to obtain the CBR in percentage. The CBR is usually selected at
+0.1 inch (2.5 millimeters) of penetration. If the CBR at 0.2 inch (5 millimeters)
+of penetration is greater, the test should be rerun. If check tests give similar
+results, the CBR at 0.2 inch (5 millimeters) of penetration should be used.
+Figure 5.3 is a suggested form for recording CBR data.
+
+256 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 291 ===
+CALIFORNIA BEARING RATIO TEST DATA SHEET
+Molding Date Penetration Date
+Project
+Sample No. Compacted at
+A. Weight of Compacted Sample, Mold and Base Plate; kg
+B. Tare Weight of Mold, and Base Plate; kg
+C. Weight of Sample; kg
+D. Height of Compacted Sample; mm
+E. Volume of Sample; cm*
+F. Unit Wet Weight; kg/em*
+G. Moisture Content; %
+H. Unit Dry Weight; kg/cm*
+Expansion and Consolidation Data
+N. Surcharge Weight kg  R. % Expansion or Cons.
+0. Dial Reading at Start mm Q
+P. Dial Reading at Finish mm =
+Q. Difference mm R= p x 100
+S. Weight of Sample, Mold and Base Plate after Saturation; kg
+Moisture Samples
+Top 25 mm Bulk of Sample
+Pan No. Pan No.
+Wet Wt. g Dry Wt. g Wet Wt. i Dry Wt. g
+Dry Wt. g Tare Wt. g Dry Wt. g Tare Wt. g
+Percent Moisture Percent Moisture
+T. Sum of Net Wet Weights + =
+U. Sum of Net Dry Weights + =
+Penetration Data
+Load, Load,
+Pen. kN (ib) MPa (psi) Corrected C.B.R.
+0.6mm (.025 in): Corr. Load Std.
+1.3 mm_ (.050 in): Pen. MPa (psi) MPa(psi) C.B.R.
+1.9 mm_(¢075 in.) : 2.8 mm (.100 in.) 6.89 (1000)
+2.5 mm (100 in.) : §. mm (.200 in.) 10.34 (1500)
+3.2mm (0.125 in.) : 7.6 mm (.300 in.) 13.10 (1900)
+3.8mm (.150 in.): 10. mm (.400 in.) 15.86 (2300)
+4.4mm (0.175 in.) ; 12.5 mm (.500 in.) 17.93 (2600)
+5. mm (¢.200 in.) : Cc
+6.4 mm (0.250 in.) : NOTE: C= A-B Fs E
+7.5 mm (.300 in.) : c-u F
+10. mm (.400 in.): G= aT x 100 = Toor e x 100
+12.5 mm (.500 in.):
+
+Figure 5.3 Sample Form for Recording CBR Data
+
+Resistance Value (R-Value)
+
+General
+
+The R-value method of design is based on two separate measurements:
+the R-value (or resistance value) and the expansion pressure test.
+
+The cover thickness or structural section required to prevent plastic
+deformation of soil under imposed wheel loads is determined by the
+R-value. An expansion pressure test is used to determine the thickness or
+
+MS-4 257
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 292 ===
+weight of cover required to maintain soil compaction. The design R-value
+is determined from the moisture content and density at which these two
+thicknesses are equal. With granular nonexpansive soils, the design R-value
+is determined for a density considered to be equivalent to that obtained by
+normal construction compaction. This density value is obtained from the
+exudation pressure data.
+
+The test method for determining the R-value consists of the following
+steps:
+
+1. Preparation of samples
+
+Compaction of test specimens
+Determination of exudation pressure of test specimens
+Determination of expansion pressures of test specimens
+Determination of R-value
+
+Wok wb
+
+Test Procedure
+
+The R-value test (ASTM D 2844) is made on a relatively small sample,
+and it is necessary to remove all large material. If 75 percent or more of the
+material passes the 34-inch (19.0 millimeters) sieve, the material retained
+on that sieve is removed. If less than 75 percent of the material passes the
+34-inch (19.0 millimeters) sieve, then all material retained on the 1-inch (25.0
+millimeters) sieve is removed. The soil is then separated over the No. 4 (4.75
+millimeters) sieve but recombined in the proper proportions with the coarse
+sizes to obtain 1200-gram (2.65 pounds) samples plus an extra 200 grams
+(0.44 pounds) for moisture content determinations.
+
+In each R-value test, four test briquettes at different moisture contents are
+prepared. Each briquette has one-half to two-thirds the amount of water nec-
+essary to saturate the sample or exude moisture between 100 and 800 pounds
+per square inch (689 and 5516 kiloPascals). After mixing, loose material is
+allowed to cure overnight in a covered container. Then more water is added
+and mixed until the estimated saturation moisture is attained. The first bri-
+quette is used as a pilot specimen to obtain specimen heights of 2.5£0.1
+inches (63.52.5 millimeters) and to have exudation pressures both above
+and below 300 pounds per square inch (2068 kiloPascals).
+
+Specimens are compacted by a kneading compactor, which is the same
+as that used for the Hveem method of asphalt mix design. The compaction
+procedure provides a kneading action intended to give soil particles the
+same orientation and contact pressure obtained during field compaction.
+
+The prepared soil sample is placed in the compactor feeding trough with
+the material distributed evenly along the full length. A 4-inch (101.6 milli-
+meters) diameter by 5-inch (127 millimeters) tall mold is fitted into a special
+holder for placing in the compactor. Material is deposited in the mold by a
+special procedure while the kneading compactor is operating and the foot
+pressure is set at 250 pounds per square inch (1724 kiloPascals).
+
+When all material has been placed in the mold and 10 extra blows have
+been added to level and seat the material, the sample is compacted by
+using 100 blows with a foot pressure of 350 pounds per square inch (2413
+kiloPascals).
+
+258 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 293 ===
+Some clays and clean sands require lower compaction pressures. It may be
+necessary, if the surface is uneven, to smooth and level the tamped surface.
+
+The exudation pressure test is used to determine the compressive stress
+necessary to exude water from the compacted specimen. Results from
+tests on several specimens are used to determine the R-value at a standard
+pressure of 300 pounds per square inch (2070 kiloPascals).
+
+In this test, a bronze disk is placed on top of the tamped specimen in
+the mold, and a piece of filter paper is placed on the disk. The assembly is
+then inverted so that the filter paper is on the bottom. Before the assembly
+is positioned in the testing machine, it is placed on the contact plate of the
+moisture exudation indicator (see Figure 5.4).
+
+A ram is used to force the sample down in the mold to the contact plate
+of the exudation indicator. The testing machine then applies a load to the
+ram at the rate of 2000 pounds (8.896 kiloNewtons) per minute until water
+exuding from the sample on the indicator plate lights five of the six outer
+lights of the indicator. Total load on the sample at that moment is con-
+verted to pounds per square inch (kiloPascals) and recorded as exudation
+pressure. Specimens having exudation pressures of less than 100 pounds
+per square inch (689 kiloPascals) or more than 800 pounds per square
+inch (5520 kiloPascals) are usually discarded.
+
+Figure 5.4 Hveem Stabilometer
+
+MS-4 259
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 294 ===
+After the test is completed, the specimen is left in a covered mold for at
+least a half hour before the next part of the test procedure is begun.
+
+The expansion pressure test is used to determine the expansion pres-
+sure a soil develops under water. This test is performed in such a way that
+a large change in sample density does not occur during testing. Pavement
+thicknesses required to withstand expansion pressures can be determined
+and compared with those determined by the R-value test.
+
+The specimen is allowed to stand for at least a half hour after the comple-
+tion of the exudation test. A perforated brass plate with stem is placed on the
+face of the compacted specimen in the mold. The mold is then positioned
+in the calibrated expansion device, and 200 milliliters of water is poured on
+the specimen in the mold. Expansion pressure is allowed to develop in 16
+to 24 hours, after which the deflection of the calibrated spring steel bar is
+read and the expansion pressure determined.
+
+The R-value test provides a rapid means for determining a measure of
+the stability or resistance to plastic deformation of compacted materials by
+the Hveem Stabilometer (see Figure 5.4). It is the same device used for the
+Hveem method of asphalt mix design.
+
+The specimen that was tested for expansion pressure is forced from the
+mold into an adjusted stabilometer. The stabilometer is then positioned in
+the testing machine. The head is lowered until it contacts the specimen but
+applies no load. A lateral pressure of 5 pounds per square inch (35 kilo-
+Pascals) is then applied with the stabilometer pump. Next, the specimen
+is loaded at the rate of 0.05 inch (1.3 millimeters) per minute and lateral
+pressure readings are obtained at 80 and 160 pounds per square inch (550
+and 1100 kiloPascals) vertical pressure.
+
+Vertical loading must be stopped at 2000 pounds (8.896 kiloNewtons)
+and reduced immediately to 1000 pounds (4.448 kiloNewtons). The lateral
+pressure is reduced to 5 pounds per square inch (35 kiloPascals). The turns
+displacement dial indicator is set at zero and the pump handle is turned at
+two revolutions per second until the stabilometer gauge reads 100 pounds
+per square inch (689 kiloPascals). The number of turns is recorded, and
+the stabilometer R-value is then calculated from the following formula:
+
+R= a
+25 |v 4) 44
+D\P,
+where
+D = turns displacement reading
+P. = 160 pounds per square inch (1100 kiloPascals) vertical
+pressure
+P, = horizontal pressure [stabilometer gauge reading 160 pounds
+
+per square inch (1100 kiloPascals) vertical pressure]
+
+Presentation of Data
+Thickness design of asphalt pavements will be discussed in detail in
+Chapter 6, “Thickness Design.” The design R-value, however, cannot be
+
+260 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 295 ===
+determined without using a thickness design chart. The reader is referred
+to MS-1, Thickness Design—Asphalt Pavements for Highways and Streets
+for thickness design charts.
+
+Resilient Modulus (M_)
+
+General Theory
+
+The resilient modulus (M) is used to characterize subgrade soils and
+unbound base/subbase materials. The resilient modulus test provides a
+material stiffness that more closely simulates the behavior of the material
+under a moving wheel. It can be used in the mechanistic analysis of mul-
+tilayered systems for predicting roughness, cracking, rutting, etc. This test
+covers the determination of resilient modulus of untreated fine-grained
+soils for conditions that represent stress in pavements subjected to mov-
+ing wheel loads. The results of the test describe the resilient character of
+a soil specimen when a repeated axial deviator stress of fixed magnitude,
+frequency, and load duration is applied while the specimen, in a triaxial
+chamber, is surrounded by pressure that acts as a static, all-around stress.
+
+Test Procedure
+
+Resilient modulus testing of unbound materials is performed in accor-
+dance with one of two current procedures: (AASHTO T 307), Determining
+the Resilient Modulus of Soils and Aggregate Materials or (AASHTO T 292),
+Resilient Modulus of Subgrade Soils and Untreated Base/Subbase Materials.
+A triaxial cell suitable for use in resilience testing of soils is shown in
+Figure 5.5. The equipment is similar to most standard cells, except that
+it is somewhat larger to facilitate the internally mounted load and defor-
+mation measuring equipment, and has additional outlets for the electrical
+leads from the measuring devices. (Triaxial cells with suitable externally
+mounted load and deformation measuring equipment also may be used.)
+For the type of equipment shown, air is used as the cell fluid.
+
+The deformation measuring equipment consists of Linear Variable
+Differential Transformers (LVDTs) attached to the soil specimen by a pair
+of clamps. Two LVDTs are used for the measurement of axial deformation.
+The clamps and LVDTs are shown in position on a soil specimen in
+Figure 5.5. Preferably, load is measured by placing a load cell between
+the sample cap and the loading piston. In addition to measuring devices,
+suitable signal excitation, conditioning, and recording equipment must
+also be maintained.
+
+The external loading source may be any device capable of providing
+varying repeated loads in fixed cycles of load and release. These devices
+range from simple cam and switch control of static weights or air pistons
+to closed loop electro-hydraulic systems. A load duration of 0.1 second and
+load-release duration of 0.4 to 3 seconds has been found to be satisfactory
+for most applications.
+
+The confining pressure and deviator stress used should approximate the
+expected in-place state of stresses. A confining pressure of 2 pounds per
+square inch (14 kiloNewtons) and deviator stress of 6 pounds per square
+inch (41 kiloNewtons) are reasonable values for most testing.
+
+MS-4 261
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 296 ===
+; Thompson Load Cell Leads
+Loading _. Ball
+
+Piston. ————~> Bushing
+Cell Pressure Inlet
+
+|
+
+f& U
+
+~<-———_ Cover
+Plate
+
+NIN
+
+Load Cell
+
+Tie Rods —>|
+Chamber
+LVDF
+
+Sample
+Base
+
+jesecccseseocene
+
+COOoCOOoTOooocoE
+
+= O-ring Seals
+
+Sample Cap
+
+Porous
+Stone
+Sample
+Membrane
+
+Th it
+[FP
+<—— Tie Rods
+| LVDT clamp
+
+LVDT
+
+t=}\ |«—— Base
+
+: Plate
+
+re Vacuum/ \\ =
+>
+
+Saturation Inlet LVDT Leads
+
+Figure 5.5 Apparatus for Resilient Modulus Testing of Soils
+
+The test is started by applying 200 repetitions of a deviator stress of
+approximately 3 pounds per square inch (21 kiloPascals), followed succes-
+sively by 200 repetitions each at 6 pounds per square inch and 9 pounds
+per square inch (41 kiloPascals and 62 kiloPascals). The foregoing stress
+sequence constitutes sample conditioning, that is, elimination of the effects
+of the interval between compaction and loading, and also the effects of
+initial load versus reloading. The deviator load is decreased to 6 pounds
+per square inch (41 kiloPascals), after which 200 repetitions of load are
+applied and deviator load and vertical recoverable deformation at or near
+the 200th repetition are recorded. At the completion of the load, the cham-
+ber pressure is reduced to zero.
+
+262 Soils and Drainage for Asphalt Pavements
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 297 ===
+Presentation of Data
+
+Test data can be recorded and calculations performed using a table such
+as that illustrated in Figure 5.6. For specific procedures, refer to MS-10,
+Soils Manual from the Asphalt Institute.
+
+5.2.3 Field Test Procedures
+
+Dynamic Cone Penetrometer
+
+Field Test Methods
+
+The Dynamic Cone Penetrometer (DCP) is a field-testing device to
+quickly estimate the in situ strength and deformation characteristics of
+pavement subgrades. The test can be performed on native soils or on com-
+pacted materials. The DCP Index that results from completing the test can
+be readily correlated to a CBR for use in the empirical CBR design method.
+Developed in South Africa in 1975, the DCP has since found its application
+in many parts of the world because of its portability, speed, and ease of
+use in flexible pavement design.
+
+For field evaluation of subgrade stiffness, the Falling Weight Deflectometer
+(FWD) is commonly used by highway agencies and airports throughout the
+United States. The test is conducted by raising and dropping a weighted
+package on the pavement surface and measuring vertical deflections on
+the pavement surface. Using principles of mechanics, the stiffness of the
+HMA layers, aggregate base, and subgrade layers can be back-calculated
+at the testing location. Due to the speed and nondestructive nature of
+the test, numerous tests can be conducted on a pavement feature in a
+relatively short amount of time.
+
+General
+
+The DCP is a testing device used to estimate the in situ strength and
+deformation characteristics of native soils or fills placed as part of a pave-
+ment subgrade; it generally is not useful to evaluate the properties of
+bases and subbases. If the test is performed on existing pavements, the
+asphalt concrete surface layer must be removed, typically by coring an
+appropriate-size hole in the asphalt concrete. It relies on correlations with
+various soil types and the relative compaction or density of soils. Though
+commonly used to estimate the structural capacity of soils, this test is now
+being considered as a quality-control tool for pavement subgrades during
+construction, in lieu of more common in situ density testing.
+
+The test involves driving a cone-shaped probe (see Figure 5.7) into a
+soil using a dynamic load and measuring the advancement of the probe
+for each applied load. The strength of the soil being penetrated has a
+direct impact on the penetration observed. Thus, the strength of the soil is
+related to the depth of penetration achieved with each blow used to drive
+the DCP. As previously discussed, the strength of the soil depends on den-
+sity, moisture content, and soil type or classification.
+
+One of the limitations of the DCP is that it may be incapable of pen-
+etrating through granular base layers. In these cases, it may be best to
+
+MS-4 263
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 298 ===
+Buipesy 5
+. 64 uipesYy
+isd) @ _ (uy) wus yeud (ai) .
+( eat (cuyrur) wraps uonewuojaq Laat (sd) egy peo7 HeUd lawned
+= ° alqesenooay YOVeWUOJEq Po Joyenag 9 pecs
+a|qeisaooey peo?
+(cu/at) eu/By-Aysueg Aig
+uoneines % 95 yjBue7 jenuy
+%-USJUOD JAIEM aseg + deo JH
+(c/Al) etu/6y-Ausueq eM eseg + deo + uewloeds 1H
+(gcul) gua Joyawelg JON
+050y awnjon SSOUYIIY | BUBIqUIA}\|
+sjusww0g (pul) po abereny
+1189 peor 05 eauy jeniuy WOROG awe
+LAAT [eolHeA, AWINJOA UaU]Iad¢ |10S SIPPIN, } ‘0
+squpjsuo> doy
+Pasn HOS eM IM sjuawainspay uaul{rads j10S
+(isd) @q}-aunssaid Jaquieyo SWB-|1I0S JOA +
+(uy) ww-sdwe|g LAT JaUleJUOD JO 1M eul4 AyAeID oyioads
+usemjeg Buloeds jeopa, SWB-|I0S JOAA + ‘ON ajdwes
+poujeyy uoHoedwoy JOUIE]UOD JO JY Jeu; uol}e007
+a}eq 1Yyblayy Uauuirads 10s ajdwes [los
+
+Figure 5.6 Forms for Resilient Modulus Tests on Compacted Fine-Grained Soils
+
+Soils and Drainage for Asphalt Pavements
+
+264
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 299 ===
+Figure 5.7 Hand-Operated DCP
+
+auger through the granular base layer prior to attempting the DCP test on
+subgrade soil.
+
+Test Procedure
+
+The DCP consists of a 0.62-inch (15.8 millimeters) diameter steel rod
+with a cone-shaped tip, a hammer, a coupler assembly, and a handle. The
+test is conducted by dropping a 17.6-pound (8.0 kilograms) weight a fixed
+height of 22.6 inches (575 millimeters) and measuring the penetration of
+
+MS-4 265
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 300 ===
+the cone tip. As presented in ASTM 6951, the 60-degree cone tip has a
+diameter of 0.79 inch (20 millimeters). Generally, the device is made of
+stainless steel to protect it from corrosion, and the cone is made of hard-
+ened steel or a similar material.
+
+The data recorded during the testing process include the number of
+blows and the depth of penetration. The rate of penetration is defined
+as the depth of penetration per blow, called the penetration index or the
+DCP index—expressed as millimeter/blow or inch/blow. The penetration
+rate is determined as the slope of the curve relating the number of blows
+to the penetration depth. The device can be operated manually or can be
+installed on a vehicle and automated. The automated DCP (see Figure 5.8)
+has a fully developed software tool to determine the penetration index. In
+either case, the equipment is economical, simple to use, and amenable to
+many types of evaluations and materials.
+
+Presentation of Data
+
+The data is presented as a plot of the number of blows versus the depth
+of penetration. The penetration rate has been correlated to engineering
+properties of soils or other derived measurements of strength and modu-
+lus. Specifically, studies have correlated CBR to the penetration rate for a
+wide variety of cohesive and granular materials. The penetration rate can be
+correlated to resilient modulus through correlations between CBR and resil-
+ient modulus; however, such secondary correlations should be used with
+caution. Several studies have also correlated penetration rate, or index, to
+the elastic modulus of soils.
+
+Falling Weight Deflectometer
+
+General
+
+The FWD, as shown on Figure 5.9, is an impulse load-deflection device
+that delivers a transient impulse force to the pavement. A weight is lifted
+to a given height on a guide system and then dropped onto a buffering
+plate on the pavement. A transient impulse force, which can be changed by
+varying the magnitude of the falling weight or by varying the drop height,
+is generated in the pavement by the impact of the falling weight. A series of
+sensors located at various distances from the load plate are used to measure
+pavement deflections. Commercial impulse load-deflection devices include
+the Dynatest, KUAB, JILS, and Phoenix.
+
+A major advantage of the impulse loading devices is their ability to more
+accurately model a moving wheel load in both magnitude and duration,
+thus producing a deflection that simulates the pavement deflection caused
+by a moving vehicle. The advantages of the FWD are the following:
+
+¢ The ability to better simulate a moving wheel load
+
+© The ability to measure deflections at varying loads over time
+
+® The ability to record a deflection basin
+
+° The speed, repeatability, and robustness of the equipment
+
+Test Procedure
+The FWD is moved to a test point, and the loading plate and transduc-
+ers are hydraulically lowered to the pavement. A test sequence is then
+
+266 Soils and Drainage for Asphalt Pavements
+

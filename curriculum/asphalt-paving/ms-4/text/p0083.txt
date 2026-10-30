@@ -1,0 +1,52 @@
+Finally, in addition to testing at 135°C for specification purposes, it
+may be desirable to determine the asphalt binder viscosity at additional
+temperatures. For instance, many asphalt technologists use equiviscous
+temperatures for mixing and compaction during mix design. To determine
+these temperatures, a viscosity-temperature relationship for the asphalt
+binder is needed, meaning that the viscosity at an additional—usually
+higher—temperature, such as 163°C, is needed. The rotational viscosity
+test is conducted as before but at the new test temperature.
+
+Dynamic Shear Rheometer (DSR)
+
+The dynamic shear rheometer is used to test asphalt binders and mea-
+sure their rheological properties, including complex shear modulus (G*,
+pronounced “G-star”) and phase angle (8, the Greek letter “delta”), at inter-
+mediate to high test temperatures. These parameters can be used to char-
+acterize both viscous and elastic behavior of asphalt binders. The complex
+shear modulus, G*, is a measure of the total resistance of a material to
+deformation when exposed to a sinusoidal shear stress load. G* consists
+of both elastic (recoverable) and viscous (non-recoverable) components.
+The phase angle, 5, is an indicator of the relative amounts of viscous and
+elastic components. The values of G* and 6 for asphalt binders are highly
+dependent on the test temperature and frequency of loading. At high tem-
+peratures, asphalt binders behave like viscous fluids with little capacity
+for recovering or rebounding. In this case, the asphalt binder could be
+represented by the vertical axis (viscous component only) in Figure 2.20;
+there would be no elastic component of G*, since 8 = 90°. At very low tem-
+peratures, asphalts behave like elastic solids, which rebound from defor-
+mation completely. This condition is represented by the horizontal axis
+(elastic component only) in Figure 2.20. In this case, there is no viscous
+component of G*, since 6 = 0°.
+
+Under normal pavement temperatures and traffic loadings, asphalt bind-
+ers act with the characteristics of both viscous liquids and elastic solids
+and are said to be “viscoelastic” materials. By measuring G* and 5, the DSR
+provides a complete picture of the behavior of asphalt at a range of pave-
+ment service temperatures. The vector arrows in Figure 2.20, G*, and G*,,
+represent the complex modulus values of Binders 1 and 2. When these
+asphalt binders are loaded, part of their deformation is elastic (E) and
+part is viscous (V). Even though both asphalt binders in Figure 2.20 are
+viscoelastic and have the same G*, Binder 2 is more elastic than Binder 1,
+because of its smaller 5. Because Binder 2 has a larger elastic component,
+it will recover much more deformation from an applied load than Binder 1.
+This example clearly shows that G* alone cannot describe asphalt behav-
+ior; the value of 6 is also needed.
+
+The operation of a DSR is fairly basic. A sample of asphalt binder is
+“sandwiched” between two parallel plates, one that is fixed and one that
+oscillates (see Figure 2.21). As the plate oscillates, the centerline of the
+plate at point A (indicated by the dark vertical line) moves to point B.
+From point B, the plate centerline moves back and passes point A to
+
+MS-4 49

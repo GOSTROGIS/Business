@@ -1,0 +1,53 @@
+asphalt flow is calculated based on the mix design. The plant control
+system then regulates the asphalt flow to the required rate.
+
+The asphalt pumping and metering system on a drum-mix plant is a con-
+tinuously operating unit. It pumps liquid asphalt continuously and measures
+the result of that flow with a meter. It can increase or decrease the flow
+dynamically with the plant’s automation.
+
+There are two key equipment elements to this process—the asphalt flow
+control mechanism and the asphalt meter or measuring device.
+
+Several types of flow control mechanisms have been used over the years,
+but all manufacturers now favor a variable-speed motor on the asphalt pump
+for this purpose. If more asphalt is required, the pump is accelerated. If less
+asphalt is needed, the pump is slowed. Most producers have converted their
+plants to this technique because it eliminates the maintenance on the wear
+parts of the previous systems and is generally considered trouble-free.
+
+Figure 7.30 illustrates how this process works. The belt scale reports the
+wet aggregate flow to the control system. The control system will adjust the
+wet scale value for the moisture in the material, based on the aggregate-
+moisture data entered by the operator. Entering the proper moisture quantity
+is important and is typically done by entering the moistures of the individual
+materials into a “moisture screen.” The control system then calculates the
+combined moisture based on the mix recipe and the individual material
+moistures, and removes this combined moisture percentage from the wet
+weight to arrive at a dry weight. The plant control assumes the dryer will dry
+the material adequately and therefore uses this calculated dry weight signal
+for proportioning the liquid-asphalt binder. Based on the required asphalt
+percentage in the mix, which comes from the mix formula, the control sys-
+tem calculates the required asphalt flow. It then sends a signal to the flow-
+control mechanism, which more often than not is a variable-speed motor,
+and then reads the result of its action by reading the asphalt flow meter. If
+
+Target asphalt content Aggregate flow input
+input by operator Y 3 from belt scale
+
+Aggregate moisture
+input by operator
+
+Control
+
+Asphalt
+From asphalt Flow
+
+tanks Control
+Device
+
+To drum
+mixer
+
+346 Manufacture of Hot Mix Asphalt
+

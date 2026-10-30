@@ -1,0 +1,1173 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0076-0100.pdf
+SOURCE SHA-256: cb3e0777a05f0cfbcd7b61e2628ff558e4b993addd7e1351b03cefd2925680ae
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 76 ===
+Advantages and Shortcomings of Each of the Systems
+
+While the Viscosity-Graded Specification represented an improvement
+over the Penetration-Graded Specification, it also had some of the same
+limitations. Viscosity measurements at 275°F (135°C) allowed the user to
+determine the stiffness of the asphalt binder at typical mixing temperatures
+in an HMA mixing facility. Viscosity measurements at 140°F (60°C) allowed
+the user to determine the stiffness of the asphalt binder at typical high
+pavement temperatures. Despite the addition of intermediate temperature
+measurements (such as penetration) to some specifications, the stiffness
+of the asphalt binder at cold temperatures could only be inferred from the
+intermediate temperature data. As in Figure 2.14, Figure 2.15 illustrates
+that the actual performance could be significantly different for asphalt
+binders with the same grade.
+
+As with the Penetration-Graded Specification, short-term aging effects
+were captured through the use of the TFOT or RTFOT, but there was no
+provision to conduct long-term aging of asphalt binders to simulate what
+happens to the asphalt stiffness after being in a pavement for a number
+of years.
+
+Finally, although viscosity is a fundamental property, the viscosity test
+is only useful in measuring the viscous component of an asphalt binder.
+This is not an issue for conventional, refined asphalt binders but becomes
+a greater issue when using asphalt binders produced using polymer
+modification. For these asphalt binders, the elastic component of the
+asphalt binder really is not properly considered when using the viscosity
+test. As such, the viscosity of a modified asphalt binder may not provide
+sufficient information about the asphalt binder’s physical properties to
+properly judge its performance potential.
+
+hard
+
+Consistency
+(pen or vis)
+
+soft
+
+Vv
+
+25 60 135
+Temperature, C
+
+Figure 2.15 Asphalt Binder Properties—Viscosity Grading
+
+42 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 77 ===
+In addition to the principal tests (penetration or viscosity) for defining
+grade, several other tests are required to determine specific properties for
+these products. For general reference, the tests are listed in Table 2.2, along
+with the appropriate AASHTO or ASTM test method and indications of
+which specification requires the test. Always refer to the current AASHTO
+or ASTM specification.
+
+As a final note, since viscosity is a fundamental material property (unlike
+penetration), there is no universal relationship between the two proper-
+ties. The relationship between penetration and viscosity varies for different
+asphalts produced from different crude sources.
+
+') Table 2.2
+Asphalt Cement Specification Tests
+Test Method Specification?
+Test AASHTO ASTM Viscosity Penetration
+
+Viscosity @ 140°F (60°C) T 202 D 2171 x
+
+= Viscosity @ 275°F (135°C) T 201 D 2170 x
+Penetration @ 77°F (25°C) 149 D5 x x
+< Flash Point T 48 D 92 x x
+3 Solubility in TCE T 44 D 2042 x x
+© Ductility @ 77°F (25°C) T5 D113 Xx
+2 Spot Test’ T 102 nla x x
+» Mass Loss? T 179 D 1754 x x
+
+2 T 240 D 2872 x
+
+% Viscosity @ 140°F (60°C) T 202 D 2171 x
+
+me Viscosity @ 275°F (135°C) T 201 D 2170 x
+
+& Penetration @ 77°F (25°C) 149 D5 x
+< Ductility @ 77°F (25°C) T5 D 113 x x
+
+* Optional test in AASHTO specification
+
+? Mass Loss is conducted by either TFO or RTFO (TFO listed first). Residue is obtained after aging.
+
++ Viscosity specifications are AASHTO M 226 and ASTM D 3381. Penetration specifications are AASHTO
+M 20 and ASTM 1D 946. Note that the viscosity specification includes three grading tables for which test
+requirements may differ from what is shown in this table.
+
+MS-4 43
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 78 ===
+2.4 Dominant Practice:
+Performance Graded
+(PG) Asphalt Binder
+
+2.3.1 Introduction
+
+Recognizing the deficiencies in the viscosity and penetration grading
+systems, state highway agencies decided to fund a research program to
+develop a new system for specifying paving asphalt. In 1987, the Strategic
+Highway Research Program (SHRP) began developing new, performance-
+related tests for measuring the physical properties of asphalt binders.
+A major result of this $50 million research effort was the Performance
+Graded Asphalt Binder specification. Because the specification was to
+be used equally with modified as well as unmodified asphalts, the term
+asphalt binder was substituted for asphalt cement.
+
+2.3.2 Asphalt Behavior
+
+Because of its viscoelastic nature, asphalt binder behavior depends on
+both temperature and rate of loading. As shown in Figure 2.16, the amount
+of flow for an asphalt binder could be the same for one hour at 60°C or
+10 hours at 25°C. In other words, the effects of time and temperature are
+related in the measurement of flow properties of an asphalt binder. Thus,
+the flow of an asphalt binder at high temperature loaded in a short period
+may be equivalent to the flow occurring at a lower temperature for a lon-
+ger loading duration. This useful concept is known as time-temperature
+superposition and it applies to linear viscoelastic materials.
+
+High Temperature
+
+In hot conditions, such as summer temperatures, or when subjected to sus-
+tained loads, such as slow-moving trucks, an asphalt binder acts like a viscous
+liquid. Viscosity is the physical material characteristic used to describe the
+resistance of liquids to flow.
+
+Asphalt binders typically display either Newtonian or non-Newtonian
+behavior as shear rate is changed. Newtonian fluids have a linear relationship
+between resisting force (shear stress) and relative velocity (rate of shear
+strain). In other words, if you apply twice the force to a Newtonian fluid, it
+will move twice as fast. Air, water, and hot asphalt (at temperatures greater
+than 60°C) are common Newtonian fluids. For these materials, viscosity (a) is
+constant regardless of shear rate as shown in Figure 2.17.
+
+Asphalt binders, particularly modified asphalts, may exhibit non-Newtonian
+behavior. Some asphalt materials may exhibit pseudoplastic or “shear thin-
+ning” behavior. This type of behavior, demonstrated in paints, is characterized
+
+44 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 79 ===
+Figure 2.16 Time-Temperature Superposition
+
+Shear
+Thickeni
+Shear ickening
++4 Thinning
+$ 2
+& Newtonian “& Shear
+§ D Thinning
+2 on S
+oO ear .
+f Thickening Newtonian
+Rate of Shear Strain Rate of Shear Strain
+
+Figure 2.17 Behavior of Asphalt Binders as Shear Rate Changes
+
+by a decrease in viscosity as shear rate is increased (see Figure 2.17). In other
+words, the faster one stirs the material, the thinner (more fluid) it gets. At
+moderate temperatures, asphalt exhibits “shear thinning” behaviors since its
+viscosity decreases at increasing shear rates.
+
+Another type of non-Newtonian behavior, although less common, is dilat-
+ant or “shear thickening” behavior. This type of behavior, demonstrated in clay
+slurries, is characterized by an increase in viscosity as shear rate is increased
+(see Figure 2.17). In other words, the faster one stirs the material, the thicker
+(less fluid) it gets.
+
+MS-4 45
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 80 ===
+Low Temperature
+
+In cold conditions such as winter temperatures, or when subjected to
+rapidly applied loads such as fast-moving trucks, an asphalt binder behaves
+like an elastic solid. Elastic solids are like rubber bands; when loaded they
+deform, and when unloaded, they return to their original shape.
+
+If stressed beyond the material capacity or strength, elastic solids may
+break. Even though asphalt binders are elastic solids at low temperatures,
+they may become too brittle and crack when loaded. For this reason, low-
+temperature cracking sometimes occurs in asphalt pavements during cold
+weather. In these cases, the load is applied not by vehicles but by internal
+stresses that accumulate in the asphalt pavement as a result of low tem-
+peratures. As the temperature decreases, the asphalt binder cementing the
+aggregates shrinks, leading to a buildup of stresses. If the internal stresses in
+the asphalt binder exceed the binder’s strength, then the interface between
+the aggregates will break, resulting in the formation of a crack.
+
+Intermediate Temperature
+
+At intermediate temperatures, asphalt binders exhibit the characteristics
+of both viscous liquids and elastic solids. When heated, asphalt acts as a
+lubricant, allowing the aggregate to be mixed, coated, and tightly compacted
+to form a smooth, dense surface. After cooling, the asphalt acts as the glue
+to hold the aggregate together in a solid matrix. In this finished state, the
+behavior of the asphalt is viscoelastic, meaning it has both elastic and vis-
+cous characteristics, depending on the temperature and rate of loading.
+
+Aging
+
+Because asphalt binders are composed of organic molecules, they react
+with oxygen from the environment. This reaction is called oxidation and
+it changes the structure and composition of asphalt molecules. Oxidation
+causes the asphalt binder to become more brittle, leading to an effect
+called oxidative hardening. Oxidative hardening happens at a relatively
+slow rate in a pavement, although it occurs faster in warmer climates and
+during warmer seasons. Because of this hardening, old asphalt pavements
+may be more susceptible to cracking than newer pavements. However,
+it should be noted that improperly compacted asphalt pavements might
+exhibit premature oxidative hardening. In this case, inadequate compac-
+tion leaves a higher percentage of interconnected air voids, which allows
+more air to penetrate the asphalt mixture, leading to more oxidative hard-
+ening early in the life of the pavement.
+
+In practice, a considerable amount of oxidative hardening occurs before
+an asphalt mixture is placed. At the hot mixing facility, asphalt binder
+is added to the hot aggregate and the mixture is maintained at elevated
+temperatures for a time. Because the asphalt cement exists in thin films
+covering the aggregate, the oxidation reaction may occur at a relatively
+fast rate.
+
+Other forms of hardening include volatilization and physical hardening.
+Volatilization occurs during hot mixing and construction, when volatile
+
+46 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 81 ===
+components tend to evaporate from the asphalt binder. Physical hardening
+occurs when asphalt binders have been exposed to low temperatures for
+long periods. When the temperature stabilizes at a constant low value,
+the asphalt cement continues to shrink and harden. Physical hardening
+is more pronounced at temperatures less than 32°F (0°C) and must be
+considered when testing asphalt binders at very low temperatures.
+
+2.3.3 PG Asphalt Binder Tests
+
+Rotational Viscometer
+
+A rotational viscosity test is used to determine the flow characteristics of
+an asphalt binder at a high temperature to provide some assurance that it
+can be pumped and handled at the hot-mixing facility. A rotational coaxial
+cylinder viscometer as shown in Figure 2.18 and described in AASHTO
+T 316 is necessary to evaluate the various types of asphalt binders. Unlike
+capillary tube viscometers, rotational viscometers have larger clearances
+between the components, allowing for better applicability to both modi-
+fied and unmodified asphalts.
+
+When a rotational viscometer is used, viscosity is determined by
+measuring the torque required to maintain a constant rotational speed
+of a cylindrical spindle that is submerged in an asphalt binder sample at
+
+Figure 2.18 Rotational Viscosity Equipment
+
+MS-4 47
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 82 ===
+a constant temperature (see Figure 2.19). This torque is directly related
+to the asphalt binder viscosity, which is calculated automatically by the
+viscometer. Because this binder viscosity is used to ensure that the asphalt
+is fluid enough at normal operating temperatures to pump and mix with
+aggregate, it is measured on original or “tank” asphalt. The viscometer can
+also be used to develop temperature-viscosity charts for estimating mixing
+and compaction temperatures for use in mixture design.
+
+In the rotational viscosity test, a sample of asphalt binder is weighed
+into a preheated sample chamber. The amount of asphalt used is typically
+8 to 11 grams and varies with the size of spindle. The sample chamber
+containing the binder sample is placed in the preheated thermo-container
+operating at the proper test temperature (usually 275°F/135°C), the pre-
+heated spindle is lowered into the sample, and the binder is ready to test
+when the temperature stabilizes, usually within 30 minutes.
+
+At the end of this time, the rotational viscosity test is started by activating
+the motor so that the spindle turns at a prescribed rate—20 rpm for speci-
+fication testing. As the spindle rotates, the torque in the torsional spring is
+measured and converted to viscosity. A waiting period of 15 minutes may
+be needed to reach a uniform sample temperature. During this period with
+the spindle rotating, the viscosity reading and the percentage of torque can
+be observed on the digital display. If the percentage of torque is less than
+2 percent or greater than 98 percent, then a different-size spindle will be
+required. As the temperature equalizes, the viscosity reading will stabilize
+and test results are recorded. Three viscosity readings are recorded at
+j-minute intervals and the average of the three readings is reported.
+
+Users are cautioned to check the units reported by the rotational viscom-
+eter because the digital output of some rotational viscometers is in units
+of centipoise (cP). The conversion of centipoises to Pascal-seconds, Paes
+is given by the equation 1000 cP = 1 Paes. Therefore, to obtain viscosity in
+Pascal-seconds, rotational viscosity in centipoises is divided by 1000.
+
+Torque
+
+Sample
+
+Sample
+
+Spindle
+Chamber
+
+Figure 2.19 Rotational Viscosity Operation
+
+48 Petroleum Asphalt
+
+7
+L
+:
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 83 ===
+Finally, in addition to testing at 135°C for specification purposes, it
+may be desirable to determine the asphalt binder viscosity at additional
+temperatures. For instance, many asphalt technologists use equiviscous
+temperatures for mixing and compaction during mix design. To determine
+these temperatures, a viscosity-temperature relationship for the asphalt
+binder is needed, meaning that the viscosity at an additional—usually
+higher—temperature, such as 163°C, is needed. The rotational viscosity
+test is conducted as before but at the new test temperature.
+
+Dynamic Shear Rheometer (DSR)
+
+The dynamic shear rheometer is used to test asphalt binders and mea-
+sure their rheological properties, including complex shear modulus (G*,
+pronounced “G-star”) and phase angle (8, the Greek letter “delta”), at inter-
+mediate to high test temperatures. These parameters can be used to char-
+acterize both viscous and elastic behavior of asphalt binders. The complex
+shear modulus, G*, is a measure of the total resistance of a material to
+deformation when exposed to a sinusoidal shear stress load. G* consists
+of both elastic (recoverable) and viscous (non-recoverable) components.
+The phase angle, 5, is an indicator of the relative amounts of viscous and
+elastic components. The values of G* and 6 for asphalt binders are highly
+dependent on the test temperature and frequency of loading. At high tem-
+peratures, asphalt binders behave like viscous fluids with little capacity
+for recovering or rebounding. In this case, the asphalt binder could be
+represented by the vertical axis (viscous component only) in Figure 2.20;
+there would be no elastic component of G*, since 8 = 90°. At very low tem-
+peratures, asphalts behave like elastic solids, which rebound from defor-
+mation completely. This condition is represented by the horizontal axis
+(elastic component only) in Figure 2.20. In this case, there is no viscous
+component of G*, since 6 = 0°.
+
+Under normal pavement temperatures and traffic loadings, asphalt bind-
+ers act with the characteristics of both viscous liquids and elastic solids
+and are said to be “viscoelastic” materials. By measuring G* and 5, the DSR
+provides a complete picture of the behavior of asphalt at a range of pave-
+ment service temperatures. The vector arrows in Figure 2.20, G*, and G*,,
+represent the complex modulus values of Binders 1 and 2. When these
+asphalt binders are loaded, part of their deformation is elastic (E) and
+part is viscous (V). Even though both asphalt binders in Figure 2.20 are
+viscoelastic and have the same G*, Binder 2 is more elastic than Binder 1,
+because of its smaller 5. Because Binder 2 has a larger elastic component,
+it will recover much more deformation from an applied load than Binder 1.
+This example clearly shows that G* alone cannot describe asphalt behav-
+ior; the value of 6 is also needed.
+
+The operation of a DSR is fairly basic. A sample of asphalt binder is
+“sandwiched” between two parallel plates, one that is fixed and one that
+oscillates (see Figure 2.21). As the plate oscillates, the centerline of the
+plate at point A (indicated by the dark vertical line) moves to point B.
+From point B, the plate centerline moves back and passes point A to
+
+MS-4 49
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 84 ===
+Viscous Behavior
+
+G* Both Viscous and
+Elastic Behavior
+
+v1
+
+G*
+
+v2 2
+EA
+
+of a
+a
+
+E1 E2
+
+Elastic Behavior
+
+Figure : 2. 20 Graphical Representation of Shear Modulus (G*) and Phase Angle (a)
+
+Applied stress Position of
+orstrain © Oscillating Plate B
+|| >
+Binder Oscillating A
+Sample A Time
+Fixed
+Base
+
+Figure 2.21 DSR Operation
+
+point C. From point C the plate centerline moves back to point A. T’ his oscil-
+lation is one cycle and is repeated for a specified number of cycles. The
+number of cycles completed in one second is the loading frequency. Typi-
+cally, DSR tests that are run for specification purposes are performed at a
+frequency of approximately 1.59 hertz (1.59 cycles per second)—equivalent
+to 10 radians per second. Stress and strain are measured during each load-
+ing cycle and used to calculate complex shear modulus and phase angle.
+To conduct testing, the DSR equipment (see Figure 2.22) is first initial-
+ized to operate with the proper parallel plate geometry and gap. The plate
+diameter and gap thickness used depend on the aged state of the asphalt
+being tested. Original (unaged) and short-term aged binders are tested
+with a 25-millimeter-diameter plate and a 1000-micron gap; long-term aged
+
+50 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 85 ===
+Figure 2.22 Dynamic Shear Rheometer: -
+
+binder is tested with an 8-millimeter-diameter plate and a 2000-micron gap.
+Before mounting the specimen, the gap is set at the desired value (1000
+or 2000 microns) plus an extra gap, usually 50 microns, to allow for the
+creation of a slight bulge in the test specimen.
+
+To prepare the test specimen, the asphalt binder is heated until fluid,
+and is poured either directly onto one of the two parallel plates or into
+a silicone mold with the appropriate diameter and thickness for testing.
+After the asphalt binder is loaded, the parallel plates are brought together
+until achieving the appropriate gap setting (either 1000 or 2000) plus the
+extra gap amount (usually 50 microns). With the asphalt binder sample
+sandwiched between the plates, the sample is trimmed so that the asphalt
+binder is flush with the edges of the parallel plates. This trimming is
+needed to control the diameter of the test specimen and enable an accu-
+rate calculation of G*. After trimming, the extra gap is eliminated so that
+the final gap, or specimen thickness, is exactly at the desired value. The
+specimen will bulge slightly as shown in Figure 2.23.
+
+Because asphalt binder properties are temperature dependent, DSRs
+must have a precise means of controlling the sample temperature. This
+control is accomplished using either a circulating-fluid bath or a forced-air
+oven. In either case, the temperature must be controlled so that the sample
+temperature is uniform and varies by no more than 0.1°C across the gap.
+
+Once the asphalt binder specimen is loaded and trimmed, the temper-
+ature of the test specimen needs time to equilibrate. While a minimum
+
+MS-4 51
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 86 ===
+Oscillating
+
+Plate
+_N
+
+Proper Amount
+of Asphalt
+
+Figure 2.23 Asphalt Sample Configuration in DSR
+
+equilibration time of 10 minutes is commonly used, the actual temperature
+equilibration time is equipment dependent and should be checked using a
+calibration specimen with very accurate temperature-sensing capabilities.
+
+Before testing, the operator sets the approximate value of shear strain
+to be achieved during the test. Desired shear strain values vary from about
+1 percent to 12 percent and depend on the aged state of the binder being
+tested. Original (unaged) binders and short-term aged binders are tested
+at strain values of approximately 10 to 12 percent. Long-term aged binders
+are tested at strain values of about 1 percent. In all cases, strain values must
+be small enough that the response of the binder (G*) remains in the linear
+viscoelastic (LVE) range. As long as the test remains within the LVE range of
+the material, G* will be virtually unaffected by changes in strain level.
+
+Once the test begins, everything is computer controlled to provide the
+proper sinusoidal loading while measuring stress and strain responses.
+The sample is first conditioned by loading for ten cycles. During this
+conditioning period, the DSR measures the stress required to achieve the
+set shear strain and then precisely maintains this stress during the test.
+After the ten conditioning cycles, ten additional cycles are applied to obtain
+test data. The software automatically computes and reports G* and 4, using
+the relationship between the applied stress and the resulting strain.
+
+The complex shear modulus, G*, is the ratio of total shear stress (7, .—7.,,,)
+to total shear strain (y_.—Y,,,)- The time lag between the applied stress and
+the resulting strain (or applied strain and resulting stress) is related to the
+phase angle, 8. For a perfectly elastic material, an applied load causes an
+immediate response; thus, the time lag or phase angle is zero. A viscous
+material (such as hot asphalt at mixing temperatures) has a relatively large
+time lag between load and response; in this case, the angle approaches
+90 degrees. Because asphalt binders are viscoelastic at normal pavement
+temperatures, they behave somewhere between the two extremes. These
+responses are illustrated in Figures 2.24 and 2.25.
+
+The formulas used by the rheometer software to calculate t and y are
+shown in Figure 2.26. The formulas are not shown so that the user can actu-
+ally calculate G*—this is accomplished by the DSR operating software—but
+
+§2 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 87 ===
+to illustrate the importance of the specimen geometry. In the determination
+of G*, the radius of the specimen is raised to the fourth power. Thus, errors
+in trimming the test specimen can rapidly impact the calculated G* value.
+
+Bending Beam Rheometer
+Asphalt binders at low temperatures are too stiff to reliably measure
+rheological properties using the parallel-plate geometry of a conventional
+
+Elastic: 8 = 0 deg Viscous: 8 = 90 deg
+T max - T max
+Applied
+Shear + r
+Stress .
+O 0 time
+Y
+- max Vinax
+Resulting <
+Shear +
+Strain .
+O time
+time lag —> 8
+
+Yimin ; Yimin
+
+Figure 2.24 Siress-Strain Output
+
+Viscoelastic: 0 < 8 < 90°
+
+T max
+Applied |
+Shear } ;
+Stress \ time
+Yimin T max — T max
+Gt=
+—> =<—At Ymax _ ‘Ymax
+Y max
+Resulting \ At = time lag 8
+Shear ‘O .
+Strain \ / time
+Ymin
+
+Figure 2.25 Stress-Sirain Output of Viscoelastic Material
+
+MS-4 53
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 88 ===
+Torque (T)
+Rotation Angle (@) T= 20
+Tr
+
+<<. >
+|!
+
+) Height (h)
+
+Or
+Y= h
+
+where T = maximum applied torque,
+r= radius of specimen (either
+
+12.5 or 4 mm),
+\<—| © = rotation angle, and
+. h = speciment height (either 1
+Radius (r) ant
+
+or 2 mm)
+
+Figure 2.26 Dynamic Shear Rheometer Calculations
+
+DSR. Therefore, SHRP researchers developed the bending beam rheometer
+(BBR) to accurately evaluate binder properties at low pavement tempera-
+tures. Used together, the DSR and BBR tests provide stiffness behavior of
+asphalt binders over a wide range of temperatures.
+
+The BBR is used to measure how much a binder deflects or creeps
+under a constant load at a constant temperature. BBR test temperatures
+are related to a pavement’s lowest service temperature, when the asphalt
+binder acts more like an elastic solid than a viscous fluid. Furthermore, the
+test is performed on binders that have been aged to simulate hot mixing
+in a mixing facility and some in-service aging.
+
+The BBR gets its name from the test specimen geometry and loading
+method used during testing. The key elements of the BBR (see Figure
+2.27) are a loading frame, temperature-controlled fluid bath, and the
+computer-control, data-acquisition system. A blunt-nosed shaft applies a
+load to the midpoint of a simply supported asphalt binder beam. A load
+cell is mounted on the loading shaft, which is enclosed in an air bear-
+ing to eliminate friction during loading. Loads are applied by pneumatic
+pressure. A transducer on the loading shaft monitors deflection.
+
+The BBR procedure uses beam theory to calculate the stiffness of an
+asphalt beam sample under a creep load. By applying a constant load
+to the asphalt beam and measuring the center deflection of the beam
+throughout the four-minute test procedure, the creep stiffness (S) and
+creep rate (m-value) can be calculated. Creep stiffness is the resistance
+of the asphalt binder to creep loading, and the m-value is the change in
+asphalt stiffness with time during loading.
+
+The controlled temperature bath contains a fluid that will not freeze at the
+test temperatures used (potentially as low as -36°C). Fluids such as methanol,
+ethanol, ethylene glycol, water, and combinations of these are commonly used.
+As with the DSR, tight temperature control is needed (+ 0.1°C).
+
+54 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 89 ===
+Figure 2.27 Bending Beam Rheometer
+
+Asphalt binder test specimens are prepared using a rectangular alumi-
+num mold (see Figure 2.28). The mold assembly consists of an aluminum
+base, side and end plates, acetate base and side strips, and rubber O-rings.
+Before the mold is assembled, the inside surfaces of the two side plates
+and the base plate are lightly coated with a petroleum-based jelly. The
+three acetate strips are then placed against the greased faces. The end
+pieces are treated with a release agent composed of glycerin and talc. The
+mold is then assembled and held together with two rubber O-rings. The
+asphalt beam specimens are formed by heating the binder until fluid and
+filling the mold in a continuous motion from one end to the other.
+
+After a cooling period of 45 to 60 minutes, excess asphalt is trimmed
+from the upper surface using a hot putty knife. The asphalt specimen
+remains in the mold at room temperature for a short time and is removed
+from the mold only when the conditioning procedure is ready to begin.
+
+So that the asphalt binder test specimen can be removed from the mold,
+the assembly is cooled for 5 to 10 minutes in an ice bath or freezer.
+The mold is then rapidly disassembled and the asphalt binder beam is
+transferred immediately to the BBR bath for conditioning at the test tem-
+perature for 60 minutes.
+
+After the 60-minute thermal conditioning period in the bath, the asphalt
+beam is loaded in the test frame and subjected to a constant creep load
+of 980 milliNewtons, for 240 seconds. Load and beam deflection are
+continuously measured during the test and are used to calculate creep
+stiffness (S) and creep rate (m-value) at specified load times—8, 15, 30,
+60, 120, and 240 seconds—using beam theory. Figure 2.29 shows a sample
+graph and the procedure used to obtain the creep rate at each load time.
+
+Ms-4 55
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 90 ===
+Aluminum Mold
+
+Rubber O-rings
+
+Asphalt Beam
+Strips
+
+6.35 mm
+
+Figure 2.28 Bending Beam Rheometer Deflection (Mold Assembly)
+
+To relate to field performance, the value of creep stiffness when the
+asphalt binder has been loaded for two hours at the minimum pavement
+design temperature should be determined. However, when using the con-
+cept of time-temperature superposition, SHRP researchers confirmed that
+by raising the test temperature 10°C, an equivalent creep stiffness can be
+obtained after only 60 seconds of loading. The obvious benefit is that a
+test result can be obtained in a much shorter testing time.
+
+The second parameter determined from the results of the bending beam
+test is the m-value. The m-value represents the rate of change in the creep
+stiffness, S(t), versus time. This value is also calculated automatically by
+the bending beam software. To obtain m-value, the stiffness is calculated
+at several loading times (see Figure 2.29). The m-value is the slope of the
+log stiffness versus log time curve at any time, ?.
+
+Computer-generated output for the bending beam test includes all the
+required reporting items. The output format generally includes plots of
+deflection and load versus time, actual load and deflection values at vari-
+ous times, test parameters, and operator information.
+
+Direct Tension Tester
+
+Numerous past studies have shown a strong relationship between the
+stiffness of conventional (unmodified) asphalt binders and the amount of
+stretching they undergo before breaking. Asphalts that undergo considerable
+stretching before failure are called ductile; those that break without much
+stretching are called brittle. It is important that an asphalt binder be capable
+of a minimal elongation. Typically, stiffer asphalts are more brittle and softer
+asphalts are more ductile.
+
+Creep stiffness as measured by the BBR is not adequate to completely
+characterize the capacity of asphalts to stretch before breaking. For example,
+
+56 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 91 ===
+Deflection
+
+A
+
+3(t)
+
+simulates stiffness
+
+after 2 hours at
+10° C lower temp
+
+oa
+Time, sec
+
+60
+
+Log Creep
+Stiffness, S(t)
+
+Slope = m-value
+
+8 15 30 60 120 240
+Log Loading Time, t (sec)
+
+Figure 2.29 Bending Beam Rheometer Graph
+
+some binders exhibit high creep stiffness but can also stretch farther before
+breaking. Consequently, SHRP researchers developed a test to evaluate the
+fracture properties of asphalt binders at low temperatures.
+
+The direct tension test measures the amount of binder stress and
+strain at failure at very low temperatures. It is performed at temperatures
+where asphalt binders generally exhibit brittle behavior 0°C to —36°C.
+Furthermore, the test is performed on binders that have been subjected to
+long-term aging to simulate several years of in-service aging.
+
+MS-4 57
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 92 ===
+In the direct tension test, a small asphalt specimen shaped like a dog bone
+is pulled at a slow, constant rate until it fails. The elongation at failure is used
+to calculate the failure strain, which is an indication of whether the binder
+will behave in a brittle or ductile manner at the low test temperature.
+
+The failure strain (e,) is calculated as the change in length divided by
+the original length, expressed as a percentage. In the direct tension test,
+failure is defined as the load when the stress reaches its maximum value,
+not necessarily the load when the specimen breaks. Failure stress (0,) is
+the failure load divided by the original cross section of the specimen.
+
+In preparation for running the direct tension test, asphalt binder test
+specimens are formed in aluminum molds with end inserts, made from a
+phenolic resin and containing a hole inset with a stainless steel ring. As
+in the BBR test, heated asphalt binder is poured into the mold, filling it in
+a continuous motion from one end to the other. Six individual specimens
+are formed to produce an average test result.
+
+After the specimens are poured, they are allowed to cool at ambient
+temperature for 30-60 minutes before trimming (see Figure 2.30). After
+trimming, the specimen is again allowed to cool for 10-15 minutes before
+it is carefully removed from the mold assembly. As in the BBR test, the
+test specimens are then subjected to temperature conditioning in the fluid
+bath at the specified test temperature for 60 minutes before testing.
+
+Although the direct tension concept is simple, the equipment (see Figure
+2.31) used requires complex features to accurately measure the very small
+
+Figure 2.30 Direct Tension Specimens
+
+58 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 93 ===
+Figure 2:31 Direct Tension Tester oo sale Et yl ie eave
+
+strains involved in the test. The direct tension tester (DTT) consists of three
+components: an electromechanical test device to apply load, a transducer
+system to measure and control grip separation, and an environmental con-
+trol system (usually in the form of a controlled temperature liquid bath).
+
+A key feature of the testing machine is the gripping system used to
+attach specimens to the alignment rods that apply the tensile load (see
+Figure 2.32). The grips have a ball-joint connection that ensures no bend-
+ing within the binder test specimen.
+
+The environmental control system includes an environmental chamber
+(or liquid bath) and a mechanical refrigeration unit capable of producing
+and precisely maintaining temperatures as low as -36°C. In the case of an
+environmental chamber, air is used as the cooling medium. If a liquid bath
+is used, a solution of potassium acetate and water is used as the cooling
+medium.
+
+At the end of the conditioning period (G05 minutes), each of the six
+specimens is tested individually. After mounting the specimen on the
+end grips, a tensile load is applied by pulling one end at a strain rate of
+3 percent per minute (1.0 millimeter per minute), while the other end
+remains fixed, until the specimen fails. A test typically requires less than
+a minute from load application until failure. A test result is considered
+legitimate when fracture occurs within the midsection of the specimen
+with the constant cross section. A specimen that breaks near the end insert
+should be reported as an “end break.”
+
+After all six specimens have been tested (see Figure 2.33), the two low-
+est stress-at-failure values are eliminated and the remaining four values are
+
+MS-4 59
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 94 ===
+Top View
+
+da |
+a
+]
+Ball yen eee Inserts
+; ja
+
+aN
+
+Side View
+
+Figure 2.32 Direct Tension Loading
+
+averaged to produce an average failure stress and average failure strain.
+This practice is based on the concept that it is much more common in
+direct tension tests to have an early fracture because of specimen or pro-
+cedural imperfections than an exceptionally “strong” test specimen that
+does not fracture early. Other analysis procedures may dictate different
+methods for evaluating the quality of the test data and its suitability for
+inclusion in the general average.
+
+A single test result consists of the average strain to failure of multiple
+DTT specimens, reported to the nearest 0.01 percent and the average
+stress at failure reported to the nearest 0.01 megaPascals.
+
+Aging Procedures
+
+Two aging procedures were adopted as part of the PG Asphalt Binder
+Specification system to address short-term and long-term aging. Rather
+than develop a new procedure for short-term aging, the SHRP research
+team elected to use the existing Rolling Thin Film Oven Test procedure.
+The details of the RTFOT are discussed in a previous section.
+
+The RTFO-aged binder is used for DSR testing and is transferred into
+small containers for additional long-term aging and future use.
+
+As described previously, the effects of long-term, in-service aging of
+asphalt were not incorporated into specifications for asphalt binders before
+the SHRP research and the PG Asphalt Binder Specification. To address this
+shortcoming, the SHRP research team used an existing research procedure
+and equipment, the Pressure Aging Vessel (PAV), and modified it to simulate
+long-term, in-service aging. The PAV exposes the asphalt binder to high
+pressure and temperature for 20 hours to simulate the effects of long-term
+aging. Because asphalt that has been exposed to long-term aging has also
+been through the mixing and construction process, the PAV procedure uses
+asphalt binder that has been previously aged in the RTFO.
+
+The pressure aging apparatus consists of the pressure aging vessel
+within an oven to maintain temperature (see Figure 2.34). Air pressure is
+
+60 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 95 ===
+Direct Tension Test
+
+8
+7
+_ 6
+ise]
+© |
+= 5
+3 | vay
+£4 d=)
+“ 1
+2 a
+a
+E Ae
+| A L
+4 v/
+0 :
+
+. 0.0 0.5, 1.0 1.5 2.0 2.5 3.0
+One main group; Tensile Strain (%)
+
+two low outliers Oy I
+. . 01-072 #2 cme
+
+Procedure is to discard ain
+these two results 01-072 #5 mmm
+
+01-072 #6
+
+Figure 2.33 Stress-Sirain Curves for Direct Tension
+
+provided by a cylinder of clean, dry compressed air with a pressure regu-
+lator, release valve, and a slow-release bleed valve. The pressure vessel is
+designed to operate under the pressure (2.1 megaPascals) and tempera-
+ture conditions 90°C, 100°C, or 110°C of the test. A sample rack, capable
+of holding ten sample pans, fits conveniently into the vessel.
+
+To prepare for the PAV, RTFO-aged binder is heated until fluid and
+stirred to ensure homogeneity. Fifty grams of the heated asphalt binder
+are then poured into the PAV sample pan (see Figure 2.35), which is then
+loaded in the sample rack.
+
+The unpressurized PAV is preheated to the desired test temperature.
+After preheating, the sample rack with the samples is placed in the hot
+vessel and the lid is quickly secured to avoid excessive heat loss. When
+the vessel temperature is within 2-20°C of the required temperature, the
+pressure is applied and the timing for the aging period begins.
+
+After 20 hours, the pressure is gradually released, requiring 8 to 10 min-
+utes to minimize the potential for sudden depressurization and foaming.
+The sample rack is then removed from the PAV. Sample pans are removed
+from the rack and placed in an oven at 163°C for 15 minutes before being
+scraped into a separate container for each asphalt binder (more than one
+pan may be aged for each asphalt binder) and being subjected to a vacuum
+
+MS-4 61
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 96 ===
+Figure 2.35
+
+62
+
+Pressure Aging Vessel Pans
+
+Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 97 ===
+degassing procedure (conducted in a 170°C vacuum oven for 30 minutes
+at a pressure of 15 kiloPascals absolute) to remove air bubbles from the
+aged asphalt binder sample.
+
+The PAV procedure does not produce a test result; it is merely a long-term
+aging procedure. Asphalt binder that has been PAV-aged is used in dynamic
+shear rheometer, bending beam rheometer, and direct tension tests.
+
+2.3.4 PG Asphalt Binder Specification
+
+Introduction
+
+The central theme of the PG Asphalt Binder Specification is its reliance
+on testing asphalt binders in conditions that simulate critical stages during
+the life of the asphalt binder. Tests performed on the original asphalt binder
+represent the first stage of transport, storage, and handling. The second
+stage represents the asphalt binder during mix production and construc-
+tion and is simulated for the specification by aging the asphalt binder
+using the rolling thin film oven. This procedure exposes thin binder films
+to heat and air and approximates the aging of the asphalt during mixing
+and construction. The third stage occurs as the asphalt binder ages over
+a long period as part of the hot mix asphalt pavement layer. This stage is
+simulated for the specification by aging using the pressure-aging vessel.
+This procedure exposes asphalt binder samples to heat and pressure in
+order to simulate years of in-service aging in a pavement.
+
+The PG Asphalt Binder Specification and the test methods used to
+characterize asphalt binders are described in AASHTO M 320 (see Figure
+2.36). Table 1 of the specification provides requirements for PG asphalt
+binders using the previously described set of tests and aging procedures.
+Original, non-aged asphalt binder tests include the flash point, rotational
+viscosity, and DSR tests. RTFO aging is conducted to determine mass loss
+and provide short-term aged asphalt binder for another high tempera-
+ture DSR test and additional aging. PAV aging is conducted to provide
+long-term aged asphalt binder for intermediate temperature DSR and low
+temperature BBR tests.
+
+While the direct tension test is rarely used in Table 1, it is an integral
+part of Table 2 requirements. In AASHTO M 320, Table 2 requirements
+are identical to Table 1 requirements except for low temperature testing.
+In Table 2, an alternate procedure for determining the critical low crack-
+ing temperature of an asphalt binder is used that combines results from
+the bending beam rheometer and direct tension test procedures. Some
+researchers believe that the alternate approach in Table 2 is more rigorous
+and inclusive of most modified asphalts.
+
+Advantages Compared with Older Specifications
+
+A unique feature of the PG Asphalt Binder Specification is that, for the
+DSR and BBR tests, the specified criteria remain constant, but the tempera-
+ture at which the criteria must be achieved changes for the various grades.
+
+MS-4 63
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 98 ===
+Table 1 Performance Grades
+
+100 (110) i 100 (110)
+
+G*/sin & (Dynamic Shear Rheometer) (Max + Min}/2] +
+‘rol _z| al 2si zel 191 t6l 131 so 71 25] 22] 19] tel 13] 311 201 25] 22] 191 sel 34] 31] 2a! zsl_22/ 9[ a7] 34] 2] 2a! ast 40] Ales 34] St sal
+
+R_S (creep stiffness) & m-value (Bending Beam
+4 ]-30 136] 0-6 | (24 |-30 {26 |-6 reie|-24[30] o6 [i2[rstestao] oe [nz[ralestao! os bi2las[es] ols fs2[ielzs
+
+0.309 and creco stiffness ts Between 300 and G00. che Dect Tension lature siren ‘can be used ww kev of the cree
+
+TT (Direct ir Tester
+
+4 [30-361 ole helial (ea[sol-sele [r2lveleelsol ols [r2laslealsol ole Liz[solea|sol ole Jaalsel.zal ole zhles
+
+Figure 2. 36 Perfomance Graded 4 Asphalt | Binder Specification Table
+
+As an example, consider two construction projects—one at the equa-
+tor and one at the Arctic Circle. Good performance is expected in both
+locations, but the temperature conditions under which specified asphalt
+binder properties must be achieved are vastly different. This approach
+differs from previous specification systems, which relied on measuring a
+property at a fixed temperature but allowed the criteria to change based
+on the climate in which the asphalt binder would be used.
+
+The PG asphalt binder tests measure physical properties that can be
+related directly to field performance by engineering principles. The use of
+complex shear modulus at high test temperatures allows for a better charac-
+terization of both the elastic and viscous components of the asphalt binder.
+This makes the test more appropriate for modified asphalt binders—many
+of which have a substantial elastic component at high temperature—than
+the absolute viscosity test.
+
+Unlike previous specifications, the PG asphalt binder tests are conducted
+at the entire temperature range expected to be encountered by the asphalt
+binder during production and in-service in the asphalt pavement. Previous
+systems only routinely characterized physical properties as low as 77°F
+(25°C), with a few tests conducted at 41°F (4°C). Because asphalt pave-
+ments are frequently exposed to much lower temperatures, the ability
+to measure physical properties at a low temperature using the BBR and
+direct tension tests is a significant advancement.
+
+Finally, the adoption of the pressure aging vessel procedure to simulate
+the long-term aging of asphalt binders is also an advancement in the char-
+acterization of asphalt binder properties. Fatigue and thermal cracking
+are most likely to occur in an asphalt pavement after the asphalt binder
+has been in service for several years. The pressure aging vessel procedure
+simulates this in-service aging, allowing for testing to be conducted at
+intermediate and low temperatures to determine the physical properties of
+the asphalt binder believed to be related to these distresses.
+
+64 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 99 ===
+Assumptions in the Specification
+
+The PG Asphalt Binder Specification incorporates several simplifying
+assumptions that permit the use of properties such as complex shear
+modulus (G*). Asphalt binders that violate these assumptions cannot be
+effectively graded in the PG Asphalt Binder Specification. The asphalt
+binders must be rheologically simple systems.
+
+First, the asphalt binders should be homogeneous. Particulate matter
+that has a particle size greater than 0.25 millimeter may interfere with the
+consistent response of tests, such as the DSR test at a high temperature.
+The size of such particles may cause the G* measurement to be inaccurate
+and display behavior that is not linear viscoelastic. Asphalt binders with
+particulate additives may not meet this assumption.
+
+Although not listed in Table 1 or Table 2, the asphalt binder must have a
+solubility of 99 percent or more according to AASHTO M 320. This require-
+ment helps to ensure that excess inorganic material is not present in the
+asphalt binder.
+
+Second, the asphalt binders should exhibit isotropic behavior. Isotropic
+behavior occurs when specimen loading or particle orientation has no effect
+on the response. Asphalt binders that incorporate fibers could exhibit aniso-
+tropic behavior—meaning the fiber orientation affects the test response.
+
+Third, PG asphalt binders should exhibit linear viscoelastic behavior
+over a wide range of strain. Linear viscoelastic behavior can be determined
+by performing a strain sweep with the DSR. In this procedure, the asphalt
+binder sample is tested at several increasing strain levels with G* deter-
+mined at each strain level. To be a linear viscoelastic material, G* should
+remain relatively constant over a wide range of shear strain.
+
+How the Specification Addresses Pavement
+Performance
+
+Safety
+
+In the PG specification, safety is considered by using an older asphalt
+binder test—the Cleveland Open Cup Flash Point test. This test procedure
+(AASHTO T 48) indicates the temperature at which an asphalt binder will
+instantaneously flash in the presence of an open flame. The flash point is
+well below the fire point, the temperature at which the asphalt binder will
+actually burn.
+
+The minimum temperature required for all PG asphalt binders is 230°C.
+This test is performed on the unaged binder.
+
+Pumping and Handling
+
+To ensure that asphalt binders, especially modified asphalts, can be
+pumped and handled at the hot mixing facility, the PG specification
+contains a maximum viscosity requirement on the non-aged binder as
+determined by AASHTO T 316. This value is 3 Pascal-seconds and it must
+be achieved at 135°C for all grades. The specifying agency may waive this
+requirement if the supplier warrants that the binder can be handled and
+pumped at the necessary temperatures.
+
+MS-4 65
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 100 ===
+While the limiting viscosity of 3 Pascal-seconds is not a problem for most
+PG asphalt binders, it may be exceeded for some highly modified asphalt
+binders. Users requesting an asphalt binder having a temperature spread
+(high-temperature grade to low-temperature grade) of greater than 100
+degrees should expect the increased likelihood that the supplied asphalt
+binder will exceed the rotational viscosity limit of 3 Pascal-seconds (3000
+centipoise) at 135°C. Exceeding the limit in these instances should not
+be considered a material property failure, but simply a result of the high
+modification level needed to achieve the required temperature spread.
+
+The user agency, HMA contractor, and asphalt binder supplier should
+work together to ensure that the required grade is appropriate for the
+project and that the supplied asphalt binder can be properly handled
+by the HMA contractor to produce a mixture having the desired in-place
+properties.
+
+Permanent Deformation
+
+As discussed in the section describing the DSR, the total response of
+an asphalt binder to load consists of elastic (recoverable) and viscous
+(nonrecoverable) components. Pavement rutting, or permanent deformation,
+is the accumulation of nonrecoverable deformation in the asphalt mixture in
+response to repeated load applications at high temperatures. To address the
+response of the asphalt binder to these repeated loads, the PG specification
+defines and places requirements on a rutting factor, G*/sin 6 (read as “G star
+over sine delta”), which represents a measure of the high temperature stiffness
+of the asphalt binder. This factor is determined by dividing the complex
+shear modulus (G*) by the sine of the phase angle (6), as determined using
+the dynamic shear rheometer test procedure (AASHTO T 315). To minimize
+the contribution of the asphalt binder to rutting, the value of G*/sin 6 must
+be a minimum of 1.00 kiloPascal for the original asphalt binder and 2.20
+kiloPascals after aging the asphalt binder using the RTFO procedure at the
+appropriate grade temperature.
+
+A minimum RTFO G*/sin 8 value ensures that the asphalt binder will
+have sufficient stiffness after construction to minimize the contribution of
+the asphalt binder to permanent deformation in the asphalt mixture. High
+values of G* and low values of 8 are considered desirable attributes from
+the standpoint of rutting resistance. Thus, the PG specification promotes the
+use of stiff, elastic binders (non-aged and RTFO-aged) to address permanent
+deformation.
+
+Excessive Aging
+
+As with previous grading systems, a mass loss requirement is speci-
+fied to help prevent the use of an asphalt binder that would age exces-
+sively from volatilization during hot mixing and construction. The mass
+loss requirement is calculated using the RTFO procedure (AASHTO T 240).
+The mass loss for any PG asphalt binder must not exceed 1.00 percent.
+
+Fatigue Cracking
+Like permanent deformation, G* and 6 are also used in the PG speci-
+fication to address the response of the asphalt binder to the cumulative
+
+66 Petroleum Asphalt
+

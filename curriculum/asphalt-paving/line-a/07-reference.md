@@ -85,3 +85,7 @@ Figures LA-1 and LA-2 are original ACCESS IS4S teaching illustrations. Figure LA
 LeeBoy. (2026). *LeeBoy model 8680 commercial paver: Safety and operations manual* (Manual No. 1033428-SOP). https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-REV-A_WEB.pdf
 
 Figure LA-3 uses Figure 3-1, printed p. 3-7 / PDF p. 43. The manufacturer names shown beside the crop are a selected subset of the complete legend. The [image provenance manifest](../manuals/assets/figure-manifest.json) records the original PDF hash, page and crop boundary.
+
+Asphalt Institute. (2007). *The asphalt handbook* (7th ed., MS-4). [Complete local reader](../ms-4/index.html).
+
+Figures LA-4–LA-6 are ACCESS redraws of verified MS-4 figures. LA-4 uses Figures 7.2 and 7.4 (pp. 310, 312 / PDF 344, 346; original contributors Terex Roadbuilding and National Highway Institute). LA-5 uses Figure 8.11 and component descriptions (pp. 377–378 / PDF 411–412; original figure contributor Volvo Construction Equipment). LA-6 uses one unbound-base arrangement from Figure 1.6 (p. 14 / PDF 48). Each caption identifies the simplification. The [figure provenance manifest](../ms-4/concepts/figure-manifest.json) retains the source identity, asset hash and contributor-credit page. The [chapter map](../ms-4/chapter-map.md) connects the verified book contents to the occupational outline.

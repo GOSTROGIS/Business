@@ -1,0 +1,52 @@
+that an asphalt plant produces hot mix asphalt during a given day and
+the binder content starts out at 5.1 percent, increasing to 5.5 percent
+at the end of the day, but the overall average of the binder content is
+exactly 5.3 percent. Assume the laboratory gets two samples from the
+plant, one in the morning, and one at midday, and their test results are
+5.1 percent and 5.3 percent. In this example, the average of the test results is
+(5.1 + 5.3)/2 = 5.2. The tested average was 5.2 percent and the actual
+average was 5.3 percent. This example also shows that if the laboratory
+had taken more samples, and had the samples been spaced more evenly to
+better represent the day’s production, it could have come closer to achiev-
+ing the actual average value.
+
+This concept, that the test results do not exactly represent all of the
+material produced, is important for understanding the statistics. It is the
+reason that a statistical parameter called percent within limits (PWL) is cal-
+culated. If the asphalt content is measured on four samples evenly spaced
+throughout the day and all four of the tested asphalt contents fall within
+the upper and lower limits of the specification, intuitively that means we
+had 100 percent within the limits. Statistically speaking, however, that
+means there were four test values that can describe something about the
+mean asphalt content and the standard deviation of the asphalt content.
+Based on those numbers (mean and standard deviation), the percentage
+that fell within the upper and lower limits can be calculated. That percent-
+age is the PWL, and it is calculated for each set of test results to determine
+what percentage, of all of the mix produced, likely fell within the specifi-
+cations limits. The more test results there are, the more accurately the PWL
+represents the materials produced. If an insufficient number of samples
+are tested, the PWL will be inaccurate. If an agency desires to reduce the
+number of samples taken, the number of samples per lot should not-be
+reduced. Increasing the lot size would be more appropriate.
+
+Statistical acceptance procedures assume reasonably uniform produc-
+tion. The statistical models will not adequately represent materials’ proper-
+ties if a significant change occurs in the production process. This can be
+remedied by varying a lot size or truncating a lot when a known change
+is made to the production process.
+
+Quality Characteristics for Pay Factors
+
+Projects that are poorly controlled will have high variability in test
+results. The more consistent the materials and methods are, the lower the
+variability will be. Specifications establish acceptance parameters that will
+be used in pay-factor calculations. Attributes often used for acceptance
+include asphalt content, aggregate gradation, mixture volumetric proper-
+ties, compaction, and ride quality. Agencies do not use statistical methods
+for all their acceptance criteria. Only parameters that can be tested and
+produced within reasonable statistical variation can be used. Segregation,
+for example, is not a parameter that can be effectively incorporated into
+a statistics-based acceptance program. Test procedures that generate
+repeatable numbers are needed for application of statistical methods.
+
+Ms-4 507

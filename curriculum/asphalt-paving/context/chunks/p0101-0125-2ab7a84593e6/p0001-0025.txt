@@ -1,0 +1,1196 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0101-0125.pdf
+SOURCE SHA-256: 2ab7a84593e6fa7fb79c37282fc9ad062b2805a9200a5271e8bc4e5ebbefc2bc
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 101 ===
+loading at moderate pavement temperatures that might lead to fatigue
+cracking in an asphalt pavement. Because fatigue generally occurs at
+lower to moderate pavement temperatures after the pavement has been in
+service for a time, the specification addresses the response of the asphalt
+binder after aging in both the RTFO and PAV.
+
+The DSR is again used to generate G* and 6. However, instead of divid-
+ing the two parameters, the two are multiplied to produce a factor that
+may be related to the fatigue performance of an asphalt binder. The fatigue
+cracking factor is G*sin 6 (read as “G star sine delta”). It is the product of
+the complex shear modulus, G*, and the sine of the phase angle, 5. The PG
+specification requires that all PG asphalt binders have a maximum value
+of 5000 kiloPascals for G*sin 3 at the appropriate grade temperature. Low
+values of G* and 8 are considered desirable attributes from the standpoint
+of resistance to fatigue cracking. Thus, the PG specification promotes the
+use of compliant, elastic binders, after long-term (PAV) aging to address
+fatigue cracking.
+
+Thermal Cracking
+
+When temperature decreases, asphalt pavements shrink. As the tem-
+perature drops, the asphalt binder contracts to a much greater degree than
+the aggregate in an asphalt pavement, thus causing thermal stresses to
+develop in the pavement. When these stresses exceed the tensile strength
+of the asphalt mixture, a low-temperature crack develops. Because ther-
+mal cracking occurs at low pavement temperatures after the pavement has
+been in service for a time, the specification addresses the response of the
+asphalt binder after aging in both the RTFO and PAV.
+
+In the PG specification, the main way of examining the propensity of
+an asphalt binder to develop thermal stresses at a specified low tempera-
+ture is to use data generated from the BBR. If the stiffness is too high, the
+asphalt binder will behave in a brittle manner, indicating that cracking is
+more likely to occur. To minimize the contribution of the asphalt binder
+to thermal cracking, the creep stiffness (S) after 60 seconds of loading at
+the appropriate grade temperature must not exceed 300 megaPascals. In
+addition to stiffness, the rate at which the asphalt binder stiffness changes
+with time at low temperatures is regulated through the m-value. In the
+PG specification, a higher m-value is an indication that the asphalt binder
+may not increase in stiffness as rapidly when the temperature decreases
+and contraction occurs, leading to smaller tensile stresses in the asphalt
+binder and less chance for low temperature cracking. A minimum m-value
+of 0.300 after 60 seconds of loading at the appropriate grade temperature
+is required by the PG specification.
+
+Past studies have also indicated that if a binder can stretch at least
+1.0 percent of its original length during this thermal contraction period,
+cracks are less likely to occur. As a result, the direct tension test (DTT) is
+included in the PG specification as an alternative requirement to simply
+using creep stiffness and m-value. In the specification, the DTT require-
+ment only applies to asphalt binders that have a creep stiffness greater
+
+MS-4 67
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 102 ===
+than 300 megaPascals and less than 600 megaPascals, with an m-value
+of 0.300 or greater. If the creep stiffness at the specified temperature is
+300 megaPascals or less, then the direct tension test is not required. If the
+DTT is used, the failure strain must be a minimum of 1.0 percent at the
+appropriate grade temperature.
+
+Although stiffness can also be used to estimate failure or strength
+properties, for some asphalt binders, especially modified asphalts, the
+relationship between stiffness and strength properties is not well known.
+This is why some researchers believe that the alternate procedure for
+determining a critical low cracking temperature specified in Table 2 of the
+AASHTO M 320 specification represents a more rigorous approach than
+the use of BBR stiffness and m-value alone (as is commonly used in the
+PG specification). In the alternate procedure, the BBR data is used at all
+loading times, and at two temperatures, to generate a predicted thermal
+stress curve as a function of temperature. The DTT is then used to deter-
+mine the failure stress in an asphalt binder specimen when tensile fracture
+occurs. The failure tensile stress is plotted to determine at what tempera-
+ture the thermal stress curve from the BBR data exceeds the failure stress
+from the DTT (see Figure 2.37). This intersection is called the “critical
+cracking temperature” and is used as an alternate method of determining
+the low temperature grade of an asphalt binder.
+
+20 -
+18 - Thermal Stress Curve (from BBR)
+16 -
+
+14-
+12-
+10 -
+8 -
+6 -
+
+Failure Stress Curve (from DTT)
+
+Thermal Stress, MPa
+
+4 |
+Critical
+27 Cracking
+0 Temperature
+t T
+
+-30 -24 -16 -12 -6 0
+
+Temperature, C
+
+Figure 2.37 Thermal Stress Curves for Critical Cracking Temperature
+
+68 Petroleum Asphalt
+
+i
+L
+E
+&
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 103 ===
+2.4 Emulsified and
+Cutback Asphalts
+
+2.4.1 introduction
+
+To use an asphalt cement for construction purposes, it must be liquefied
+before it can be pumped through pipes, mixed with aggregate, or sprayed
+through nozzles. Usually the liquification of asphalt cements occurs when
+the material is heated to elevated temperatures (e.g., 275°F or 135°C).
+When asphalt cement cools, it becomes a semi-solid cementing material.
+
+There are other ways, however, to liquefy asphalt for construction
+operations. The asphalt binder can be dissolved in selected petroleum sol-
+vents or emulsified with an emulsifying agent and water. Asphalt binders
+produced by these methods are known as cutback and emulsified asphalts,
+respectively.
+
+Once the cutback or emulsified asphalt is used in liquid form during the
+construction process, the solvent (cutback asphalt) or water (emulsified
+asphalt) will evaporate, leaving the asphalt cement residue to perform its
+function. Note that the evaporation of petroleum solvents into the atmo-
+sphere may be restricted or prohibited by environmental regulations. As a
+result, the use of cutback asphalts may not be as prevalent as emulsified
+asphalts.
+
+The process for making emulsified and cutback asphalt materials is
+shown in the petroleum asphalt flowchart (see Figure 2.1). In each case,
+asphalt cement is the base material that is liquefied by either cutting the
+asphalt with a petroleum solvent or producing an emulsion of asphalt
+cement, water, and emulsifying agents.
+
+Emulsified Asphalts
+
+In the emulsification process, asphalt cement is mechanically milled
+into tiny globules and dispersed into water treated with a small quantity
+of emulsifying agent. In an emulsified asphalt, the water is the continu-
+ous phase and the globules of asphalt make up the discontinuous phase.
+The machine used in the emulsification process is a colloid mill, and the
+asphalt globules that are produced are extremely small, mostly in the
+colloidal size range (5-10 microns and smaller).
+
+By proper selection of emulsifying agents and other manufacturing
+controls, emulsified asphalts are produced in several types and grades.
+By choice of emulsifying agent, the emulsified asphalt may be one of the
+following:
+
+e Anionic—Asphalt globules are electronegatively charged.
+
+° Cationic—Asphalt globules are electropositively charged.
+
+° Non-ionic—Asphalt globules are neutral (have no charge).
+
+MS-4 69
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 104 ===
+In practice, the first two types have ordinarily been used in roadway
+construction and maintenance. Non-ionic emulsions, however, have
+become more widely used as emulsion technology has advanced.
+
+Also, by variations in materials and manufacture, emulsified asphalts are
+made in several grades as shown in Table 2.3.
+
+-) Table 2.3
+Emulsified Asphalt Grades
+Anionic Cationic
+Rapid Setting (RS) RS-1 CRS-1
+RS-2 CRS-2
+HFRS-2
+Medium Setting (MS) MS-1
+MS-2 CMS-2
+MS-2h CMS-2h
+HFMS-1
+HFMS-2
+HFMS-2h
+HFMS-2s
+Slow Setting (SS) SS-1 CSS-1
+SS-th CSS-th
+Quick Setting (QS) QS-1h CQS-1th
+
+In Table 2.3, the RS, MS, SS, or QS designation in the emulsified asphalt
+grade is an indication of the emulsion setting rate: rapid setting, medium
+setting, slow setting, or quick setting, respectively. The 4 that follows
+certain grades simply means that a harder base asphalt is used. The HF
+preceding some of the MS grades indicates that the material is a high-float
+emulsified asphalt, as measured by the Float Test (AASHTO T 50 or ASTM
+D 139). High-float emulsions have a quality, imparted by the addition of
+certain chemicals, which permits a thicker asphalt film on the aggregate
+particles with lessened probability of drainage.
+
+Note that the list in Table 2.3 may not be all-inclusive. In addition, it is
+highly unlikely that a producer would carry an inventory of all the grades
+in Table 2.3. Users should check local supplies before specifying a specific
+grade of emulsified asphalt.
+
+Emulsified asphalts that are used in construction operations must remain
+fluid enough for proper application. The asphalt globules are kept apart
+by the emulsifying agent until the emulsion has been placed on the sur-
+face of a soil, existing pavement, or aggregate particles. If the asphalt
+binder in the emulsion is to perform its ultimate function of cementing
+and waterproofing, the asphalt phase must separate from the water phase.
+This occurs through one or both of the following:
+
+* Neutralization of the electro-static charges
+
+° Water evaporation
+
+70 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 105 ===
+When the phase separation of an emulsified asphalt begins, the emulsion
+is said to “break.” Once the emulsion breaks, the asphalt droplets coalesce
+and produce a continuous film of asphalt on the aggregate or pavement. The
+speed of this coalescence of asphalt is related to the setting characteristics of
+the grade. As expected, coalescence occurs more quickly with the rapid-setting
+grades. The manner and rate at which emulsified asphalts break depends
+largely on the quantity and properties of the emulsifying agent used in manu-
+facture of the emulsion, and on the relative proportion of water and asphalt.
+
+Cutback Asphalts
+
+Petroleum solvents used for dissolving asphalt cement are variously
+called distillate, diluent, or cutter stock. If the solvent used in making
+the cutback asphalt is highly volatile, it will quickly escape by evapora-
+tion. Solvents of lower volatility evaporate more slowly. Cutback asphalts
+are divided into the following three types based on the relative speed of
+evaporation:
+
+° Rapid-curing (RC)—asphalt cement combined with a light diluent of
+high volatility, generally with a boiling point similar to gasoline or
+naphtha. Grades include RC-70, RC-250, RC-800, and RC-3000.
+
+° Medium-curing (MC)—asphalt cement combined with a medium diluent
+of intermediate volatility, generally with a boiling point similar to kero-
+sene. Grades include MC-30, MC-70, MC-250, MC-800, and MC-3000.
+
+* Slow-curing (SC)—asphalt cement combined with oils of low volatility.
+Grades include SC-70, SC-250, SC-800, and SC-3000.
+
+Slow-curing cutback asphalts may also be referred to as road oils. This
+term originated in earlier days when asphalt residual oil was used to give
+roads a low-cost, all-weather surface.
+
+The degree of liquidity developed in each cutback asphalt depends
+principally on the proportion of solvent to asphalt cement. To a minor
+degree, the liquidity of the cutback may be affected by the hardness of the
+base asphalt from which the cutback is made. The more viscous grades of
+cutback asphalt are indicated by higher numbers in the grade designation
+and may require a small amount of heating to make them fluid enough for
+construction operations.
+
+Uses of Emulsified and Cutback Asphalts
+
+Emulsified asphalts have advantages over asphalt cements in that they
+can be used with cold as well as heated aggregate, and with aggregate that
+is dry or damp. Their ability to be used with damp aggregate gives emulsi-
+fied asphalts an advantage over cutback asphalts as well.
+
+Emulsified asphalts are used both for road construction and for many
+specialty applications. The rapid-setting grades are designed to react
+quickly with aggregate and revert from the emulsion state to asphalt. They
+are used primarily for spray applications, such as aggregate (chip) seals,
+sand seals, and similar surface treatments. The RS-2 and CRS-2 grades have
+a higher viscosity to minimize the potential for runoff.
+
+The medium-setting grades are designed for mixing with coarse
+aggregate. Because these grades do not break immediately upon contact
+
+MS-4 71
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 106 ===
+with aggregate, mixes using them remain workable for a few minutes.
+They are used extensively in travel plants and mixed-in-place operations.
+The CMS grades have high viscosities to prevent runoff.
+
+The slow-setting grades are designed for maximum mixing stability.
+They are used with dense-graded aggregate with a high fines content.
+The SS emulsions are generally used for dense-graded aggregate-emulsion
+bases, soil-asphalt stabilization, asphalt surface mixes, and slurry seals.
+
+Quick-setting grades are specialty emulsions used for Quick Set Slurry
+Seal systems.
+
+Cutback asphalts can be used with cold aggregates, with a minimum
+of heat. RC and MC types of cutback asphalt have been widely used in a
+variety of roadway, airfield, industrial, and specialty uses. Among the more
+important uses were road-mixing operations, stockpile mixes, and spray
+applications (such as prime, tack, and seal coats). But because the diluents
+in cutback asphalts are high-energy products that are lost by evapora-
+tion and because of environmental regulations, emulsified asphalts have
+largely supplanted. cutbacks for most of these uses. SC cutback asphalts
+are used primarily in road-mixing and dust-laying applications. They are
+also used for stockpile patching mixes, plant-mixing with graded aggre-
+gates, and occasionally for priming. Here too, use is declining. It is sug-
+gested that local environmental regulations be reviewed before using a
+cutback asphalt.
+
+2.4.2 Tests for Emulsified Asphalts
+
+Saybolt Furol Viscosity
+
+The Saybolt Furol viscosity test is used to measure the consistency (rate
+of flow) of emulsified asphalts. As a matter of testing convenience, and
+also to achieve suitable accuracy, the test is performed at one of two
+temperatures, 77°F or 122°F (25°C or 50°C) depending on the viscosity
+characteristics of the specific type and grade of asphalt emulsion.
+
+For testing at 77°F (25°C), a sample is carefully stirred and conditioned
+for 30 minutes at the test temperature. The sample is then poured through
+a 0.85-millimeter sieve or strainer into a standard Saybolt Furol viscometer
+with a stopper placed in the orifice. The test is started by first withdrawing
+the stopper and determining the time required for 60 milliliters of asphalt
+to flow through the orifice (see Figure 2.38). The time interval is called
+Saybolt Furol viscosity and is measured in seconds. The more viscous the
+material, the greater the length of time required for a given volume to
+flow through the orifice. Thus, a higher Saybolt Furol time is indicative of
+a higher sample viscosity.
+
+For testing at 122°F (50°C), the sample is first heated to 122+5°F
+(50+3°C) and then poured through the strainer into the viscometer and
+brought to test temperature before stopper is removed and the flow is
+timed, as already described.
+
+72 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 107 ===
+Figure 2.38 Saybolt Furol Viscosity
+
+The Saybolt Furol viscosity test is suitable for testing emulsified asphalts
+that have a minimum flow time of 20 seconds.
+
+Storage Stability and Settlement
+
+The purpose of the storage stability and settlement tests is to detect
+the tendency of asphalt globules to “settle out” during storage of emulsi-
+fied asphalts. The user is provided with an element of protection against
+separation of asphalt and water in unstable asphalt emulsions that may be
+stored for a period of time.
+
+Either test is conducted by placing a 500-milliliter sample in a graduated
+cylinder, which is then stoppered and allowed to stand undisturbed. For
+the storage stability test, the sample must remain undisturbed at 25+3°C
+(77+5°F) for 24 hours. For the settlement test, the sample must remain
+undisturbed at 253°C for 5 days. At the end of the storage period, small
+samples are then taken from the top and the bottom parts of the cylinder.
+Each sample is placed in an individual beaker and weighed. The samples
+are then heated to 325°F (163°C) for a total of three hours, allowed to cool
+to room temperature, and weighed. The weights obtained provide the basis
+for determining the difference, if any, between asphalt cement content in
+the upper and lower portions of the graduated cylinder, thus providing a
+measure of the settling of the asphalt globules from the emulsion.
+
+MS-4 73
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 108 ===
+Classification
+
+The classification test is a procedure for distinguishing rapid-setting
+cationic emulsified asphalt from other types by their failure to coat a sand-
+cement mixture.
+
+The procedure requires that a washed and dried sample of Ottawa Sand
+(465 grams) be mixed in a beaker with a 35-gram sample of emulsified
+asphalt and thoroughly mixed for two minutes. At the end of the mixing
+period, any excess emulsion is drained off and the mix is placed on absor-
+bent paper for visual examination. An excess of uncoated area (compared
+with the coated area of sand particles) is considered a passing rating for
+rapid-setting cationic emulsions.
+
+Demulsibility
+
+The demulsibility test is used to identify rapid-setting emulsified asphalts
+by indicating the relative rate at which the colloidal asphalt globules will
+break when spread in thin films on soil or aggregate. Calcium chloride
+causes the minute asphalt globules present in these emulsified asphalts to
+coalesce. In the test, a solution of calcium chloride and water is thoroughly
+mixed with emulsified asphalt and then decanted over a sieve to deter-
+mine how much the asphalt globules coalesce.
+
+In rapid-setting (RS) emulsions tests, a very weak solution of calcium
+chloride and water is used. Specifications prescribe the concentration of
+the solution and the minimum amount of asphalt to be retained on the
+sieve. A high degree of “demulsibility” indicates an RS emulsion, which is
+expected to break almost immediately upon contact with the aggregate on
+which it is applied.
+
+When cationic rapid-setting (CRS) emulsions are tested, a solution
+of sodium dioctyl sulfosuccinate in water is used in place of a calcium
+chloride solution. ,
+
+Cement Mixing
+
+The cement-mixing test is used instead of the demulsibility test for slow-
+setting (SS) grades of emulsified asphalt. This test is specified for both the
+anionic and cationic types to ensure that the products are substantially
+immune from a rapid coalescence of asphalt particles in contact with fine-
+graded soils or dusty aggregates.
+
+The cement-mixing test is performed by stirring together 100 milliliters of
+emulsion—which has been diluted with water to 55 percent residue—with
+50 grams of high-early-strength Portland cement (Type IID. After these
+ingredients are stirred for one minute, 150 milliliters of water is added and
+the mixture is stirred for an additional three minutes. The mixture is then
+washed over a 1.40 millimeter (No. 14) sieve and the percent of material
+retained on the sieve is determined. A low amount of retained weight
+(i.e., particles that have “broken”) is desirable for SS grades.
+
+Coating Ability and Water Resistance
+This test has a threefold purpose. It determines the ability of an asphalt
+emulsion to coat aggregate thoroughly, to withstand mixing action while
+
+74 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 109 ===
+remaining as a film on the aggregates, and to resist the washing action of
+water after completion of mixing. The test is primarily intended to identify
+medium-setting asphalt emulsions suitable for mixing with coarse-graded
+calcareous aggregates. Other aggregates may be used in the test if calcium
+carbonate is omitted throughout the method. This test is not adaptable to
+rapid-setting or slow-setting asphalt emulsions.
+
+The test is conducted by coating 461 grams of a standard reference
+aggregate with 4 grams of calcium carbonate dust. The combined aggre-
+gate is then mixed with 35 grams of emulsified asphalt for five minutes.
+About half of the mixture is then placed on absorbent paper for a visual
+inspection of the surface area of aggregate coated by the emulsified
+asphalt. The remainder of the mixture is sprayed with water and rinsed
+until the rinse water runs clear. This material is then placed on absorbent
+paper and inspected for coating retention.
+
+The procedure is then repeated using wet aggregate. Visual inspections
+are made as previously described for the dry aggregate tests.
+
+Particle Charge
+
+The particle charge test is used to identify cationic asphalt emulsions.
+The test is conducted by heating a sample of emulsion to 122°F (50°C) and
+pouring it into a 250-milliliter beaker. A positive electrode (anode) and a
+negative electrode (cathode) are then immersed in the sample and con-
+nected to a controlled direct-current electrical source providing a current of
+at least 8 milliamperes. After 30 minutes, or after the current has dropped to
+2 milliamperes, the two electrodes are examined. An asphalt deposit on
+the cathode that is clearly discernible (compared with the anode) indicates
+that the sample is a cationic-emulsified asphalt.
+
+Note that this test may not produce conclusive results for CSS grades.
+If the test is inconclusive, then a mixing test using silica sand is recom-
+mended (as described in ASTM D 244).
+
+Sieve
+
+The sieve test complements the settlement test and has a somewhat sim-
+ilar purpose. It is used to determine quantitatively the percent of asphalt
+cement present in the form of pieces, strings, or relatively large globules. Such
+particles of asphalt might clog equipment and tend to provide nonuniform
+coatings of asphalt on aggregate particles. This nonuniformity might not be
+detected by the settlement test, which is of value in this regard only when
+there is a sufficient difference in the specific gravity of asphalt and water to
+allow settlement.
+
+The test is conducted by bringing 1000 grams of asphalt emulsion to the
+proper test temperature depending on its Saybolt Furol viscosity. Emulsified
+asphalts having a high viscosity (greater than 100 seconds at 77°F (25°C) or
+any emulsion required to be tested at 50°C) are tested at 50°C. The remainder
+are tested at ambient temperature. The sample is then poured through an 850
+microns (No. 20) sieve. For anionic emulsified asphalts, the sieve and retained
+asphalt are then rinsed with a mild sodium oleate solution. For cationic emul-
+sified asphalts, distilled water is the rinse agent. After rinsing, the sieve and
+
+Ms-4 75
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 110 ===
+asphalt are dried in an oven and the relative amount of asphalt retained on
+the sieve is determined. A low percentage of retained material is desirable in
+this test.
+
+Distillation
+
+The distillation test is used to determine the relative proportion of
+asphalt cement and water in the asphalt emulsion. Some grades of emullsi-
+fied asphalt also contain an oil distillate; the distillation test provides infor-
+mation on the amount of this material in the emulsion. Also, the distillation
+test provides an asphalt cement residue, on which additional tests (pen-
+etration, solubility, and ductility) may be made, as previously described for
+asphalt cement.
+
+As with the sieve test, emulsified asphalts with a high viscosity are heated
+to 50°C before beginning the procedure. In the distillation procedure, a 200
+gram sample of emulsion is placed in an aluminum-alloy still and heated
+(see Figure 2.39). Once the temperature reaches 500°F (260°C), distillation is
+continued for 15 minutes to produce a smooth, homogeneous residue, which
+may then be used for further tests.
+
+Rapid- and medium-setting grades of cationic asphalt emulsion may
+include an oily distillate, the maximum amount of which usually is limited
+by specifications. The distillate collected in the graduated cylinder includes
+both oil and water from the asphalt emulsion. Because these two materials
+separate in the graduated cylinder, the amounts of each can be determined.
+
+Tests on Residue
+After distillation, the asphalt residue may be tested using standard asphalt
+binder tests. As of this printing, standard specifications for emulsified
+
+if
+
+Figure 2.39 Distillation (Emulsion)
+
+76 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 111 ===
+asphalt residue still use tests from the viscosity and penetration grading
+systems rather than from the PG asphalt binder system. These tests may
+include penetration, ductility, and solubility.
+
+Float Test
+
+One additional test is commonly conducted on residue produced from
+high float (HF) emulsions. The float test uses a semispherical float made
+from aluminum or aluminum-alloy that has an 11 millimeter diameter
+opening in the bottom of the float. The residue sample is heated and
+poured into a brass collar designed to be screwed in-place in the float.
+After the sample cools in the collar, it is placed in the float and allowed to
+float in a water bath operating at 140°F (60°C). The time is measured from
+the instant the float is placed in the bath until water breaks through the
+asphalt residue in the float, causing it to sink.
+
+2.4.3 Specifications for Emulsified Asphalts
+
+Emulsified asphalts, which are produced using a variety of asphalt cement
+bases and setting properties, are manufactured for a number of uses. Speci-
+fications for anionic and cationic asphalt emulsions are included in AASHTO
+and ASTM standards. For anionic emulsified asphalts (ASTM D 977), there
+are four standard types available: rapid-setting (RS), medium-setting (MS),
+slow-setting (SS), and quick-setting (QS). The same setting types also are
+available for cationic emulsified asphalts (ASTM D 2397) and are designated
+CRS, CMS, CSS, and CQS.
+
+Five grades of high-float anionic emulsions—designated as HFRS-2,
+HFMS-1, HFMS-2, HFMS-2h, and HFMS-2s—are also part of the ASTM
+LD 977 specification. There are no corresponding high-float cationic
+emulsions in standard specifications. High-float emulsions have a specific
+quality that permits a thicker film coating with a reduced risk of runoff.
+
+Several tests are required to determine specification compliance of
+emulsified asphalts. All grades of emulsified asphalt have requirements on
+Saybolt Furol viscosity, storage stability (except for QS grades), sieve, and
+percentage of residue. The emulsified asphalt residue also has require-
+ments for all grades on penetration, ductility, and solubility.
+
+In addition to the above tests common for all emulsified asphalt grades,
+all cationic emulsified asphalt grades require a positive result on the
+particle charge test.
+
+Additional tests, depending on the emulsified asphalt grade, are included
+in the specifications. For example, the demulsibility test is required only
+for rapid-setting (RS) grades. The coating ability and water resistance tests
+are only required for medium-setting (MS) grades. The cement-mixing test
+is required only for slow-setting (SS) grades.
+
+These tests are listed in Table 2.4. Some of the tests for asphalt cement
+are also required for testing emulsified asphalt residue.
+
+MS-4 77
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 112 ===
+.) Table 2.4
+Specification Tests for Emulsified Asphalt Grades
+
+AASHTO M 140 AASHTO M 208
+ASTM D 977 ASTM D 2397
+Test RS HFRS MS HFMS SS QS CRS CMS CSS CQS
+Viscosity, Saybolt x x x x xX xX x Xx x x
+Storage Stability x x x x x x Xx x
+Sieve x x x x xX Xx x x x x
+Distilled Residue % x x x x x xX x x x x
+Demulsibility x x x
+Coating Ability and x x x
+Water Resistance
+Cement Mixing Xx x
+Oil Distillate % x? x x
+Particle Charge x x x x
+Residue Tests
+Penetration x x x x x x x x x
+Ductility x x x x x x x x x
+Solubility x x x x x x x x x
+Float Test x x
+} HFMS-2s only
+
+2.4.4 Tests for Cutback Asphalts
+
+Kinematic Viscosity
+
+The kinematic viscosity test is used as a basis for classifying cutback
+asphalts into standard grades. The test procedure is similar to the kinematic
+viscosity test used for asphalt binders, except that the test is conducted in
+a thermostatically controlled water bath operating at 140°F (60°C).
+
+Tag Open Cup Flash Point
+
+The purpose and significance of the Tag Open Cup Flash Point test is
+the same as the Cleveland Open Cup Flash Point test described previously.
+The Tag Open Cup test is used for materials having flash points less than
+199°F (93°C). This includes RC and MC grades, but not SC grades, which
+use the Cleveland Open Cup test.
+
+The Tag Open Cup Flash Point procedure is essentially the same as
+the Cleveland Open Cup procedure, except that indirect heating is used
+because of the volatile nature of the diluent used in these products. The
+Tag Open Cup apparatus (see Figure 2.40) is glass, rather than metal, and
+is heated in a water bath rather than by direct flame.
+
+Cutback asphalts commonly are used at temperatures above their flash
+point. Some rapid-curing cutbacks may flash as low as 80°F (27°C). The
+more volatile the solvent the cutback asphalt contains, the more hazard-
+ous its use. All these materials present some danger in use and must be
+handled properly.
+
+78 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 113 ===
+Figure 2.40 Flash Point (Tag Open Cup)
+
+Water
+
+Asphalt materials, except for emulsified asphalts, are usually specified to
+be substantially water free, primarily because water causes foaming when
+the material is heated, creating a potentially hazardous condition.
+
+To determine the amount of water, if any, in cutback asphalt, a mea-
+sured volume of asphalt is poured into a glass or metal still and thor-
+oughly mixed with a xylene or high-boiling-range petroleum naphtha. A
+reflux condenser is attached to the still and discharged into a graduated
+trap. Heat is applied to the still and any water present is collected in the
+tcap. The percentage of water by volume is then calculated.
+
+Distillation
+
+As previously indicated, cutback asphalts are blends of asphalt cement
+and suitable diluents. Properties of these materials are of importance in
+their application and performance.
+
+The asphalt cement and diluent are separated by the distillation test
+(see Figure 2.41) to determine their quantity and for further identification.
+Approximately 200 milliliters of cutback asphalt is poured into a distillation
+flask connected to a water-cooled condenser tube. As the flask is slowly
+heated, the diluent vaporizes in the distillation flask and is again liquefied in
+the condensing tube. The condensate is drained into a graduated cylinder.
+The quantity of condensate driven off at several specified temperatures is
+
+MS-4 79
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 114 ===
+i
+ye
+y
+4
+
+: AN
+
+Figure 2.41 Distillation (Cutback)
+
+determined, and this is an indication of the volatility characteristics of the
+diluent. After reaching 680°F (360°C), the material remaining in the distilla-
+tion flask is considered asphalt cement residue.
+
+The distillates that evaporate at various temperatures are of little
+importance for SC cutback asphalts. For these grades, the distillates that
+evaporate below the specified end point, 680°F (360°C), are largely of
+an oily nature, meaning that their rate of evaporation in service is quite
+slow. Therefore, only the total quantity of distillate driven off up to 680°F
+(360°C) is measured.
+
+Tests on Residue
+
+As with emulsified asphalt grades, the asphalt residue remaining after
+distillation may be tested using standard asphalt binder tests. As of this
+printing, standard specifications for cutback asphalt residue still use tests
+from the viscosity and penetration grading systems rather then the PG
+asphalt binder system. These tests may include viscosity, penetration, duc-
+tility, and solubility.
+
+Residue of 100 Penetration
+
+This test, described in ASTM D 243, is conducted only on SC cutback
+grades, and is perhaps the least significant to the consumer of all tests nor-
+mally used on these materials. Because the in-service rate of curing of an
+SC cutback asphalt is quite slow, it may or may not reach a penetration of
+
+80 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 115 ===
+100 during its service life. The principal value of the test is that it provides
+a residue upon which standard tests for asphalt binders may be made.
+The test is performed by rapidly heating a small sample (100 grams) of
+SC cutback asphalt from 480°F to 500°F (249°C to 260°C) and maintain-
+ing it at this temperature until the operator judges that the material has
+achieved a penetration of 100 deci-millimeter. The weight of asphalt resi-
+due remaining is determined and the residue percentage is calculated.
+
+2.4.5 Specifications for Cutback Asphalts
+
+Cutback asphalts, which are produced using a variety of asphalt cement
+bases and diluents, are manufactured for a number of uses. AASHTO and
+ASTM have specifications for three standard types of cutbacks: rapid-curing
+(RC), medium-curing (MC), and slow-curing (SC). ASTM D 2026, D 2027,
+and D 2028 provide standard specifications for SC, MC, and RC cutbacks,
+respectively. In the specifications, the type (RC, MC, or SC) indicates the
+relative speed of evaporation. The grades (70, 250, 800, and 3000) indicate
+the minimum allowable kinematic viscosity in centistokes at 140°F (60°C).
+One additional grade, MC-30, has been used as a special grade for prime-
+coat applications in some sections of the United States. The maximum
+allowable viscosity for each grade is twice the minimum allowable value.
+
+The most viscous grades (RC-3000, MC-3000, and SC-3000) are only
+moderately less viscous than the lowest viscosity-graded asphalt binders.
+The least viscous grades (RC-70, MC-30, MC-70, and SC-70) may be readily
+poured at room temperature.
+
+Several tests are required to determine specification compliance of cut-
+back asphalts. These tests are shown in Table 2.5 and are substantially the
+same for all cutback types and grades. The only exceptions are SC cutback
+asphalts that use the Cleveland Open Cup (COC) Flash Point test instead
+of the Tag Open Cup (TOC) Flash Point test, which is used by RC and MC
+cutback asphalts. SC cutbacks also have an additional test (the 100 Pen
+Residue test) that is not common to the other grades.
+
+MS-4 874
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 116 ===
+Table 2.5
+Specification Tests for Cutback Asphalt Grades
+
+Method Specifications’
+Test AASHTO ASTM RC MC sc
+Viscosity @ 60°C T 201 D 2170 x x x
+Flash Point, TOC T79 D 3143 x x
+Flash Point, COC T 48 D 92 x
+Distillation T 78 D 402 x x x
+Residue Tests
+Viscosity @ 60°C T 202? D 2171? x x x
+Ductility T5 D 113 x x x
+Solubility T 44 D 2042 Xx x x
+100 Pen Residue D 243 x
+Water % T 55 D95 x x x
+
+' Cutback asphalt specifications are ASTM D 2026, D 2027, and D 2028.
+2 For SC cutback asphaits, substitute T 201 or ASTM D 2170.
+
+82 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 117 ===
+-5 Air-Blown Asphalts
+
+2.5.1 introduction
+
+Special properties may be imparted to asphalt binders by blowing air
+through the topped crude fraction during the latter part of the refining
+process. The regular distillation process is discontinued at some point
+while the topped crude is still liquid. The heavy fraction is then put into
+a converter and air is blown through it while it is maintained at a high
+temperature. This process is continued until the asphalt has attained the
+desired properties. Often, such asphalts are called oxidized asphalts. How-
+ever, this is not strictly a true term because not only oxidation but also
+vaporization, dehydrogenation, condensation, polymerization, and other
+reactions occur during the air-blowing process.
+
+One of the most significant properties of air-blown asphalt is that the
+temperature at which asphalt becomes soft is raised. This temperature is
+called the softening point. Even at this temperature, asphalt still retains its
+waterproofing properties and durability. However, there is some reduction
+in ductility (when compared with asphalt cement for paving purposes).
+
+Blown asphalts are used for a wide variety of industrial and specialty pur-
+poses, including roofing applications, pipe-coating enamels, undersealing
+applications (to fill cavities beneath Portland cement concrete pavements),
+and waterproofing membranes for lining canals and reservoirs. In many
+instances, blown asphalts are applied in pure form. In other cases, very fine
+mineral powders (fillers) are mixed with blown asphalt before application.
+
+2.5.2 Properties, Specifications, and Tests
+
+Properties and Specifications
+
+Although similar in many respects to the asphalt binder grades used
+for paving, the blowing process provides materials that soften at higher
+temperatures than asphalt cements. Because the higher softening point is
+a most important and desirable property of blown asphalts, they are usu-
+ally classified in terms of the ring-and-ball softening point test, rather than
+viscosity or penetration.
+
+While blown asphalts are graded on the basis of the softening point,
+there are still penetration test requirements at three temperatures: 32°F,
+77°F, and 115°F (0°C, 25°C, and 46°C). These requirements provide a
+degree of control over the temperature susceptibility, or the rate of con-
+sistency change with temperature, for these materials. Applications for air-
+blown asphalt and associated specifications include the following:
+
+MS-4 83
+
+‘\
+al
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 118 ===
+° Roofing—ASTM D 312
+
+° Dampproofing and Waterproofing—ASTM D 449
+° Canal, Ditch, and Pond Lining—ASTM D 2521
+
+° Undersealing—ASTM D 3141
+
+Tests
+
+Ring-and-Ball Softening Point
+
+The Ring-and-Ball softening point test is used as the basic measure-
+ment of consistency for grading blown asphalts. Figure 2.42 shows the
+test apparatus.
+
+In the test, described in ASTM Test Method D 36, asphalt samples are
+confined in small brass rings and loaded with a steel ball in the center of
+each ring. After the samples are prepared, the assembly is suspended in
+a beaker of water, glycerine, or ethylene glycol at 1 inch (25 millimeters)
+above a metal plate. The liquid is then heated at a prescribed rate. As the
+asphalt softens, the balls and the asphalt gradually sink toward the plate.
+At the moment the asphalt touches the plate, the temperature of the water
+is determined, and this is designated as the Ring-and-Ball (R&B) softening
+point of the asphalt binder sample.
+
+Penetration
+
+For air-blown asphalts, the penetration test is conducted at three test
+temperatures as part of the specification. The test is the same procedure as
+that used for paving asphalt binders except that the total load and testing
+
+Figure 2.42 Ring-and-Ball Softening Point
+
+84 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 119 ===
+time varies. At the standard test temperature of 77°F (25°C), a total load of
+100 grams is used for five seconds. At the higher test temperature of 115°F
+(46 °C), a 50-gram load is used for five seconds. At the low test tempera-
+ture of 32°F (0°C), a total load of 200 grams is used for 60 seconds.
+
+Loss-on-Heating
+
+The loss-on-heating test is generally similar to the thin film oven test
+as previously described. The only differences are in the dimensions of
+the asphalt sample. Whereas the asphalt sample in the TFO test is about
+5.5 inches (140 millimeters) in diameter and % inch (3 millimeters) deep,
+the sample for the loss-on-heating test is approximately 2.2 inches (55 mil-
+limeters) in diameter and 1.4 inches (35 millimeters ) deep. In both tests,
+the asphalt and container are placed on a rotating shelf in a ventilated
+oven and maintained at 325°F (163°C) for five hours. The shelf rotates at
+approximately five to six revolutions per minute.
+
+As with the TFO test, the loss-on-heating also conditions asphalt for
+other tests. It subjects the asphalt to hardening conditions simulative of
+the application processes. A penetration test usually is made on the air-
+blown asphalt binder sample after the loss-on-heating test for comparison
+with the penetration of the asphalt before the test.
+
+MS-4 85
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 120 ===
+2.6 Asphalt Modification
+
+and Additives
+
+2.6.1 Reasons for Using Additives and
+Modification
+
+The modification of neat asphalt binder to enhance its performance
+characteristics has occurred in the United States for more than 50 years. In
+a recent survey of 20 experts representing 18 states, 70 percent responded
+that there was a definite benefit in using polymer-modified asphalt mixtures
+to extend the pavement’s service life. Nearly 60 percent of those experts also
+responded that the use of polymer-modified asphalt mixtures significantly
+reduced maintenance costs, but there was insufficient performance data to
+quantify that benefit or enhancement.
+
+The survey also indicated that the primary reason why users chose to use
+polymer-modified asphalt was to increase the mixture’s resistance to rutting.
+Secondary reasons were to increase resistance to thermal cracking and to
+increase durability of the mixture.
+
+It is important to note that while some user agencies have indicated a
+willingness to increase service life or reduce the risk of the development
+of early distresses through the use of modified asphalt binders (and their
+higher initial construction costs), not all asphalt pavements need to be con-
+structed using modified asphalt mixtures. Each project should be evalu-
+ated to determine if the environmental conditions, traffic loading, expected
+service life and performance warrant the use of modified asphalt materials.
+
+2.6.2 Types of Modifiers and Additives
+
+Modified asphalt binders are sometimes generically referred to as “polymer-
+modified asphalts” or PMAs. In actuality, though, modified asphalt binders
+may be produced in a number of ways, including polymer and chemical
+modification, although polymer modification is the most prevalent.
+
+Polymers are made up of smaller molecules, or monomers, that are chem-
+ically connected to form long molecular chains. Names of polymers are
+usually based on the names of the monomers used to make the specific
+polymer. Thus, the polymer that comes from the polymerization of ethylene
+monomers is called “polyethylene.”
+
+Most often, when monomers are polymerized, they form long-chain
+polymers. Some types of these polymers, called thermoplastics, soften when
+heated, enabling them to be re-formed. Some examples of thermoplastic
+polymers include nylon, polyethylene, and polyethylene terephthalate
+(which is used in clear plastic bottles).
+
+86 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 121 ===
+By contrast, some monomers, when polymerized, connect to form a
+three-dimensional network. These types of polymers, called thermosets,
+are permanently set in shape. Some examples of thermoset polymers
+include epoxy resins and vulcanized rubber.
+
+Two broad classes of polymers used in asphalt modification are
+polyolefins and styrenic polymers. Polyolefins are so named because they
+are based on the polymerization of molecules containing a simple double
+bond or olefin. Polyolefin polymers include polyethylene, polypropylene,
+and ethylene vinyl acetate. Styrenic polymers are so named because they
+are based on polystyrene that has been co-polymerized with other small
+molecules—most commonly butadiene.
+
+Polymers can also be classified based on physical properties. Depending
+on their behavior when stretched with sufficient force, polymers are
+classified as plastomers (plastics) or elastomers (rubbers or elastics). When
+stretched, plastomers will yield and remain in their stretched position
+when the load is released. Elastomers will yield under load (stretch) but
+will return to their original shape when the load is released. Generally
+speaking, most polyolefins behave as plastomers, while styrene-butadiene
+copolymers behave as elastomers.
+
+Finally, when blended into asphalt, polymers can behave in two differ-
+ent ways. If the polymer forms discrete particles in the asphalt binder, then
+it functions primarily as a thickener, which increases the viscosity of the
+asphalt binder while having no significant effect on low temperature prop-
+erties. If the polymer forms a continuous network in the asphalt binder,
+then it functions as a homogeneous blend, which may impart some of
+the physical characteristics of the polymer to the asphalt binder. In this
+instance the high- and low-temperature properties of the asphalt binde
+may be affected. ;
+
+Elastic Modification (Elastomers)
+
+The most common co-monomer used to produce styrenic polymers
+is butadiene. When styrene and butadiene are polymerized in a random
+arrangement, referred to as a “random copolymer,” the polymer is called
+styrene-butadiene rubber (SBR). This type of polymer may also be referred
+to as a synthetic latex. Figure 2.43 provides a microscopic view of SBR
+modification of asphalt.
+
+When styrene and butadiene are polymerized in discrete, connected
+blocks, referred to as a “block copolymer,” the polymer is called styrene-
+butadiene (SB) or styrene-butadiene-styrene (SBS). Figure 2.44 shows SBS
+in the form of pellets.
+
+Although some elastomers are blended in-line at the hot mix asphalt
+mixing facility, the most common practice is to pre-blend the polymer and
+asphalt binder at the terminal or refinery (see Figure 2.45). Some PMA
+systems require only mixing of the polymer into the asphalt binder in
+a mixing kettle, while others require high shear milling or other special
+mixing operations. These processes take place at specific temperatures
+and are continued until the materials are appropriately mixed.
+
+Ms-4 87
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 122 ===
+Figure 2.44 SBS Pellets
+
+88 Peiroleum Asphalt
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 123 ===
+READY-TO-USE
+VIRGIN AC MODIFIED AC
+(3-4% PMAC)
+
+a —— PMAC CONCENTRATE 7 _—
+_ (i2%6PMAC) |
+
+!
+
+= PMAC
+
+cr
+
+ts =e) I i
+STORAGE SBS VERTICAL | “LET DOWN” TRANSPORT
+TANK HOPPER MIXING MILL OR TRUCK
+TANK HOLDING
+TANK
+
+Figure 2.45 SBS Blending System for Asphalt Terminals
+
+Surveys conducted during the NCHRP 9-10 research (entitled “Superpave
+Protocols for Modified Asphalt Binders”) in 1996 indicated that elastomers,
+and more specifically SBS polymers, were the most commonly used modi-
+fiers by user agencies. In their responses, most users indicated that they
+selected elastomeric modifiers to help mitigate permanent deformation or
+rutting of asphalt pavements. Mitigation of fatigue and low-temperature
+cracking was also seen as a potential benefit.
+
+In the past, specifications in the United States have sought to characterize
+the elastic properties of a styrenic polymer-modified asphalt binder through
+the use of tests that stretch the asphalt binder and measure the stress-strain
+response (as in the Force Ductility test and the Toughness and Tenacity test)
+or the recovery (as in the Elastic Recovery test). The Softening Point test has
+often been used to evaluate high-temperature resistance to deformation.
+As the percentage of styrenic polymer increases in the asphalt binder, it is
+expected that the high-temperature stiffness will increase as will the stress-
+strain and recovery response.
+
+Plastic Modification (Plastomers)
+
+Plastomers are a class of polymers used in asphalt binders that, when
+stretched, will yield and remain in their stretched position when the load is
+released. These polyolefin polymers add to the high-temperature stiffness
+of the asphalt binder but will not have the elastic characteristics of styrenic
+polymers. Polyolefin polymers that are commonly used to modify asphalt
+binders include polyethylene (often the low density polyethylene identi-
+fied as LDPE) and ethylene vinyl acetate (EVA). In this class of polymers,
+EVA has been most commonly used in the United States.
+
+As with elastomeric modifiers, most users indicated in the survey that
+they selected plastomer modifiers to help mitigate permanent deformation
+or rutting of asphalt pavements.
+
+Crumb Rubber Modification
+
+Although it is an elastic material, crumb rubber—produced from ground
+tires—is considered differently. Crumb rubber is incorporated in an asphalt
+
+MS-4 89
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 124 ===
+mixture either as an aggregate modifier (the “dry process”) or as a modifier
+to the asphalt binder. In keeping with the objective of this chapter, only
+modification of the asphalt binder will be considered.
+
+Two principal methods exist for incorporating crumb rubber as a
+modifier to the asphalt binder. The wet process (also referred to as the
+“McDonald process” named for the first patented technology that applied
+the wet process) is conducted by pre-blending and reacting crumb rubber
+of a relatively small size (usually 600 microns or smaller) in the asphalt
+binder at an elevated temperature for a time.
+
+The terminal blend process is a more recent development in the crumb
+rubber modification of asphalt binders. In this process, a smaller volume
+of smaller crumb-rubber particles is continuously blended with the asphalt
+binder, thus eliminating the need for reaction tanks.
+
+In the United States, crumb-rubber modification is used extensively by
+some users and not at all by other users. Generally, crumb-rubber modifica-
+tion is considered to address the same distresses (permanent deformation)
+as elastomeric modification.
+
+Mixed Modification
+
+Mixed-polymer modification, such as the combination of styrenic and poly-
+olefin polymers, is not commonly used. Potential chemical incompatibility
+and the cost of using two polymers in the asphalt modification process may
+make the combination undesirable. However, it is possible that the addition
+of an elastomeric polymer to a plastomeric modifier could enhance low-
+temperature characteristics while maintaining high-temperature stiffness.
+
+Chemical Modification
+
+In this section, chemical modification refers to the addition of polyphos-
+phoric acid (PPA) to an asphalt binder, either alone or in combination
+with other types of polymer modification. In general, polyphosphoric acid
+increases the high-temperature stiffness of an asphalt binder. However,
+the effect depends on the concentration and the source (properties) of the
+crude used to produce the asphalt binder.
+
+Extenders
+
+Asphalt binder extenders include materials such as sulfur and wood lig-
+nin. Of the two, sulfur has been the most extensively used and evaluated in
+asphalt mixtures in the United States—primarily from 1973 to 1985. At that
+time, asphalt binder and sulfur prices created a favorable situation enabling
+users to consider substitution of asphalt binder with sulfur. Although labora-
+tory and field studies indicated a general increase in the high-temperature
+stiffness of asphalt mixtures incorporating sulfur modification, economic
+considerations eventually resulted in its reduced use.
+
+Oxidants and Antioxidants
+
+Oxidants principally include manganese compounds and are used to
+artificially “oxidize” the asphalt binder, thereby increasing its stiffness.
+These types of materials were used experimentally in the United States in
+the 1980s, but have not been commonly used since.
+
+90 Petroleum Asphalt
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 125 ===
+Antioxidants serve the opposite purpose, in that they are intended
+to minimize the oxidative hardening of asphalt binders. Most typically,
+these types of materials include carbamates (lead, zinc), carbon black, and
+hydrated lime. Of this class of materials, hydrated lime is the most com-
+mon modifier. However, most users select hydrated lime for its benefits in
+reducing the moisture susceptibility of asphalt mixtures irrespective of any
+antioxidant benefits it may have.
+
+Hydrocarbons
+
+Hydrocarbon modifiers generally fall into two generic categories: hard-
+ening modifiers and softening (or rejuvenating) modifiers.
+
+In the former category are natural asphalts and refined asphalts. Natu-
+ral asphalts that have been used as modifiers include Gilsonite (a zero-
+penetration resin) and Trinidad Lake Asphalt (TLA). Gilsonite is added
+as a dry additive to either the asphalt binder or mixture. TLA is slightly
+softer than Gilsonite and is similar to some industrial, air-blown asphalts,
+except that it contains a significant amount of inert organic matter. Refined
+asphalts may include solvent de-asphalted bottoms such as ROSE unit
+asphaltenes. In either case, hydrocarbon hardening modifiers are used to
+increase the high-temperature stiffness (resistance to permanent deforma-
+tion) of the asphalt binder.
+
+Softening or recycling modifiers include napthenic or aromatic oils.
+These modifiers may be added to the asphalt binder or to the asphalt
+mixture separately from the asphalt binder. Most often, they are used in
+asphalt mixtures containing reclaimed (or recycled) asphalt pavement
+(RAP) as they serve to lower the viscosity of aged asphalt binders.
+
+Antistripping Additives
+
+Antistripping additives are used to reduce or eliminate the moisture
+susceptibility of an asphalt mixture by promoting adhesion between the
+asphalt binder and aggregate surface. Liquid antistripping additives prin-
+cipally include amines such as polyamines and fatty amidoamines. Most
+often, the practice is to blend the liquid antistripping additive with the
+asphalt binder before mixing with aggregate. The antistripping concen-
+tration is typically 0.5 percent of the total weight of the asphalt binder.
+A slight decrease in viscosity may occur with the addition of the additive
+(which is fluid at room temperature).
+
+As discussed earlier, hydrated lime is the most common dry antistripping
+additive. Typically, hydrated lime is added at a concentration of 1 percent
+by weight of the dry aggregate. It may be added in the following ways: dry
+to the mixer, dry to wet aggregate, or as a slurry to aggregate. Users have
+found benefits and disadvantages with each procedure. In addition to its
+effectiveness as an antistripping additive, some technologists consider that
+it may also provide antioxidant benefits to the asphalt mixture.
+
+Ms-4 91
+

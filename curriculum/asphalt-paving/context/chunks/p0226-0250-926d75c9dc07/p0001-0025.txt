@@ -1,0 +1,1156 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0226-0250.pdf
+SOURCE SHA-256: 926d75c9dc07aaa74a275dcfe941bf02ed868d5dc70f9ae0caa219653d6e44c6
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 226 ===
+Calibration of Compactors
+
+A number of manufacturers produce Superpave Gyratory Compactors.
+See Figure 4.15 for a composite photo of different compaction equipment.
+
+In the fabrication of the SGC specimens, a constant consolidation
+pressure is applied to the sample while the mold gyrates at a nomi-
+nally constant angle (the angle of gyration). To provide specimens of
+consistent density, it is very important that the SCC maintain a constant
+pressure and a known constant angle of gyration during the compac-
+tion process. Each model of SGC uses a different method of setting,
+inducing, and maintaining the angle of gyration. Each model also uses
+a unique calibration system to measure the angle of gyration externally
+in relation to the mold. These calibration systems cannot be used uni-
+versally on all models of SGCs. Inconsistencies in the density of asphalt
+specimens produced by different SGCs can be attributed to variations
+in the angle of gyration. This can be very troublesome when comparing
+mix designs prepared by different compactors or during quality con-
+trol, when the quality control specimens are manufactured using one
+brand of compactor and the acceptance specimens are manufactured
+using another brand of compactor. The American Association of State
+Highway and Transportation Officials (AASHTO) have developed a pro-
+cedure for evaluating the internal angle of a SGC. It is AASHTO PP 48
+“Evaluation of the Superpave Gyratory Compactor (SGC) Internal Angle
+of Gyration.”
+
+Specimen Preparation and Compaction
+
+The following procedure outlines the procedure for the preparation of
+HMA test specimens using the SGC. Detailed steps for the preparation of
+the specimens are included in the SP-2 manual.
+
+Figure 4.15 Composite Photo of Gyratory Compactors
+
+192 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 227 ===
+Preparation of Aggregate
+
+Each aggregate blend being evaluated should have a batch sheet show-
+ing the batch weights of each aggregate component and the asphalt binder.
+Three mix sample sizes are needed to complete a mix design. For the com-
+pacted mix specimens that will be used in the Superpave mix design, the
+specimen size is 150 millimeters (diameter) by 115 millimeters (height)
+and requires approximately 4700 grams of aggregate. Samples of mix to be
+used for the determination of the maximum specific gravity using AASHTO
+T 209 or ASTM D 2401 will remain uncompacted, and their size will vary
+by aggregate size, ranging from 1000 grams to 2500 grams. Moisture testing
+using AASHTO T 283 or ASTM D 4867 requires a mix specimen height of
+95 millimeters and will require approximately 3700 grams of aggregate.
+
+Compaction of Volumetric Specimens
+
+Detailed procedures for the preparation of the volumetric specimens are
+contained in the SP-2 manual. The specimens are compacted to either N,,.,
+or N_,, 48 required by the specifying agency. A minimum of two specimens
+are compacted at the trial blend’s estimated asphalt content, at 0.5 percent
+of the estimated asphalt content, and at 1.0 percent above the estimated
+asphalt content. Four asphalt contents are required for the accomplish-
+ment of a Superpave mix design. Many designers will estimate the trial
+binder content based on experience.
+
+The specimens are mixed and compacted at temperatures using a plot of
+viscosity versus temperature (Figure 4.16). This data is available from the
+asphalt binder supplier. The mixing and compaction temperatures are those
+corresponding to a binder viscosity value of 0.17 + 0.02 Pascal-second and
+0.28 + 0.03 Pascal-second, respectively. These viscosity ranges are not valid
+for modified asphalt binders. The designer should consider the manufacturer's
+recommendations when establishing mixing and compaction temperatures
+for modified binders. Practically, the mixing temperature should not exceed
+
+Viscosity, Pas
+10
+
+5
+1
+5
+-3 [—] Compaction Range |:
+Mixing Range —
+A
+
+100 110 120 130 140 150 160 170 180 190 200
+Temperature, C
+
+Figure 4.16 Temperature-Viscosity Relationship
+
+Ms-4 193
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 228 ===
+325°F (165°C) and the compaction temperature should not be lower than
+240°F (115°C).
+
+Superpave mix design requires that all samples, prior to compaction,
+must be mixed and oven-aged at compaction temperature for a minimum of
+2 hours. This is required to allow absorption of the asphalt binder into the
+ageregates before compaction. Field experience has shown that aggregates
+with more than 2 percent water absorption should be aged for 4 hours to
+allow additional absorption to occur. Specimen aging simulates the absorp-
+tion that occurs during the mixing and placement process for the HMA.
+If the mix is not aged, a lower asphalt content may be selected, which could
+result in some loss in durability during the life of the pavement.
+
+Data Analysis and Presentation
+
+After compaction of the samples, the volumetric properties of each spec-
+imen are determined. The results of the laboratory testing are plotted to
+provide curves of asphalt content versus air-voids, voids mineral aggregate,
+and voids filled with asphalt. Typical curves are shown in Figure 4.17.
+
+4.3.4 Design Asphalt Binder Content
+
+After the data has been plotted, the designer will pick an asphalt binder
+content that will provide 4 percent air-voids at N,,,. Then the designer
+determines the values for voids in the mineral aggregate (VMA) and voids
+filled with asphalt (VFA) from the other curves. These values will then be
+checked against the mixture specifications. The recommended Superpave
+volumetric mixture design requirements are shown in Table 4.5.
+
+4.3.5 Steps That Can Be Taken to Adjust _
+Properties
+
+If the testing indicates that the mix does not meet the mix design require-
+ments, the following suggestions are provided (AASHTO R 35):
+
+° Adjusting the VMA—A change in the aggregate gradation or aggre-
+gate source is usually required to adjust the VMA. There are three
+likely options:
+
+o Change the gradation. Moving the gradation curve toward the maxi-
+mum density line will generally reduce the VMA; moving it away
+from the maximum density line will generally increase the VMA.
+
+o Change the amount of minus No. 200 (0.075 millimeters) mate-
+rial. Increasing the No. 200 material usually lowers the VMA, and
+decreasing it will typically raise the VMA.
+
+o Change the surface texture and/or the shape of the particles of
+the fine aggregate fraction. The increased use of an aggregate with
+a rough texture (higher FAA) will generally increase the VMA, and
+the increased use of a rounded aggregate will reduce the VMA.
+
+194 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 229 ===
+% Air Voids
+
+% WMA
+
+% VFA
+
+MS-4
+
+8.0
+
+6.0
+
+4.0
+
+2.0
+
+Y
+
+0.0
+3.8
+
+4.3 4.8 5.3
+% Asphalt Binder
+
+5.8 6.3
+
+14.5
+
+141
+
+13.3
+
+Minimum
+
+12.9
+
+12.5
+3.8
+
+4.3 4.8 5.3
+% Asphalt Binder
+
+5.8 6.3
+
+100.0
+
+90.0
+
+80.0
+
+Maximum
+
+70.0
+
+Minimum|
+
+60.0
+
+50.0
+3.8
+
+Figure 4.17 Typical Superpave Mix Design Curves
+
+4.3 4.8 5.3
+
+% Asphalt Binder
+
+5.8 6.3
+
+195
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 230 ===
+' Table 4.5
+Superpave Volumetric Mixture Design Requirements
+
+Required Density - dc-in.the.Mi
+(percent of Theoretical Agoregute (percent), Voids
+Design Maximum Specify minimum , Filled | Dust-to-
+ESALs Gravity) with Binder
+(million) Nominal Maximum Asphalt Ratio
+Aggregate Size, mm (percent)
+Ninitiat | Nuesion | Nmmax | 37.5] 25.0] 19.0] 12.5] 9.5
+<0.3 < 91.5 70-80
+0.3 to<3 | < 90.5 65-78
+3to< 10 11.0 | 12.0 | 13.0 | 14.0 | 15.0
+10 to < 30 < 89.0 96.0 | < 98.0 65-75 0.6-1.2
+2 30
+
+Design ESALs are the anticipated project traffic level expected on the design lane over a 20-year period.
+Regardless of the actual design life of the roadway, determine the design ESALs for 20 years and choose
+the appropriate N level.
+
+design
+
+For 9.5 millimeters nominal maximum size mixtures, the specified VFA range shall be 73 to 76 percent
+for design traffic levels 2 3 million ESALs.
+
+For 25.0 millimeters nominal maximum size mixtures, the specified lower limit of the VFA range shall be
+67 percent for design traffic levels < 0.3 million ESALs.
+
+For 37.5 millimeters nominal maximum size mixtures, the specified lower limit of the VFA shall be 64
+percent for all design traffic levels.
+
+If the aggregate gradation passes beneath the boundaries of the aggregate restricted zone, consideration
+should be given to increasing the dust-to-binder ratio criteria from 0.6-1.2 to 0.8-1.6.
+
+e Adjusting the VFA—The lower limit of the VFA range should always
+be met at 4.0 percent air-voids if the VMA meets the requirements. If
+the upper limit is exceeded, then the VMA is substantially above the
+minimum required. The result can be an HMA mixture that will not
+support heavy traffic. If this occurs, the steps discussed above should
+be taken to reduce the VMA.
+
+4.3.6 Moisture Sensitivity
+
+The loss of bond, or stripping, caused by the presence of moisture
+between the asphalt and the aggregate is a problem in some areas and
+can be severe in some cases. Many factors, such as aggregate character-
+istics, asphalt characteristics, environment, traffic, construction practices,
+and drainage, can contribute to stripping.
+
+The moisture susceptibility test used to evaluate HMA for stripping is
+AASHTO T 283 or ASTM D 4867. This test is not a performance-based test,
+but it serves two purposes. First, it identifies whether a combination of
+asphalt binder and aggregate is moisture susceptible. Second, it measures
+the effectiveness of antistripping additives.
+
+196 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 231 ===
+In the test, two subsets of test specimens are produced. Specimens are
+compacted to a height of 95 millimeters and to an air-void content of 6.5 to
+7.5 percent with a target value of 7 percent. Test specimens should be sorted
+so that each subset has the same average air-void content. One subset is
+moisture conditioned by vacuum saturation to a constant degree of saturation
+in the range of 70 to 80 percent. This is followed by an optional freeze cycle.
+The final conditioning step is a hot-water soak. After conditioning, both sub-
+sets are tested for indirect tensile strength. After conditioning, the specimen
+is removed from the water bath and placed on its side between the bearing
+plates of the testing machine. Steel loading strips are placed between the
+specimen and the bearing plates. A load is applied to the specimen at the
+rate of 2 inches (50 millimeters) per minute. The maximum load is recorded.
+This is the indirect tensile strength of the specimen. This test is conducted on
+the conditioned and the unconditioned specimens. The average strength for
+the conditioned and the unconditioned specimens is determined. The ratio
+of these two values is the tensile-strength ratio or TSR. Superpave requires a
+minimum TSR of 80 percent. Lower values are indicative of mixtures that may
+exhibit stripping problems after construction.
+
+Steps to Improve Moisture Resistance
+
+The best way to improve the moisture resistance of an HMA mixture is
+a proper mix design with sufficient asphalt binder to coat the aggregates.
+This must be coupled with proper compaction in the field. The goal is to
+produce as impermeable an HMA mixture as possible to prevent the intru-
+sion of water. However, some asphalt/aggregate combinations will require
+an additive to improve the moisture resistance of the mixture. The two
+most commonly used admixtures are hydrated lime and proprietary liquid
+antistrip agents. It is imperative that the mix design be accomplished using
+the admixture and the asphalt binder that will be used on the project. The
+reaction is chemical, and the results will vary depending on the type and
+amount of additive, source of aggregate and source of asphalt binder. For
+more information on moisture sensitivity, see the Asphalt Institute’s MS-24,
+Moisture Sensitivity manual.
+
+MS-4 197
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 232 ===
+4,4 Marshall Method
+of Mix Design
+
+4.4.1 Introduction and Historical Context
+
+The concepts of the Marshall method of designing paving mixtures
+were formulated by Bruce Marshall, formerly a bituminous engineer with
+the Mississippi State Highway Department. The U.S. Corps of Engineers,
+through extensive research and correlation studies, improved and added
+certain features to Marshall’s test procedure, and ultimately developed mix
+design criteria. The Marshall test procedures have been standardized by
+the American Society for Testing and Materials. Procedures are given by
+ASTM D 1559.
+
+The Marshall method has generally been applicable to dense-graded
+HMA paving mixtures using Performance Graded (PG) asphalt binders
+and containing aggregates with a maximum size of 1 inch (25 milli-
+meters) or less. It has also been adapted to the design of SMA mixtures.
+The Marshall method is used for both laboratory design and the qual-
+ity control of hot mix asphalt pavements. For a detailed description of
+the steps and equipment needed to conduct a Marshall Mix Design, the
+reader is referred to the Asphalt Institute’s MS-2 Mix Design Methods
+manual. The Asphalt Institute Mix Design Program SW-2 performs all of
+the calculations needed to conduct a Marshall Mix Design. (It is recom-
+mended that mix designers refer to either AASHTO or ASTM require-
+ments, or to the design agency’s requirements so that those specific
+procedures can be followed.)
+
+4.4.2 Description of Method
+
+The Marshall method uses standard cylindrical test specimens of
+24 inches (64 millimeters) in height by 4 inches (102 millimeters) in diam-
+eter. These are prepared using a specified procedure for heating, mixing,
+and compacting the asphalt-aggregate mixtures. These specimens are
+compacted using a Marshall compaction hammer (Figure 4.18) and tested
+in a Marshall stability and flow device (see Figure 4.19). The two principal
+features of the Marshall method of mix design are a density-voids analysis
+and a stability-flow test of the compacted test specimens.
+
+The stability of the test specimens is the maximum load resistance in
+pounds (newtons) that the standard test specimen will develop at 140°F
+(60°C) when tested as outlined here. The flow value is the total movement
+or strain, in units of 1/100 inch (0.25 millimeter), occurring in the speci-
+men between no load and maximum load during the stability test.
+
+198 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 233 ===
+&
+
+Figure 4.18 Marshall Compaction Hammer.
+
+The Marshall mix design process consists of three basic steps:
+
+1. Aggregate selection. This step consists of insuring that the aggre-
+gates used in the mixture meet the agency’s or the specifying
+engineer’s requirements for the aggregates to be used in the mixture.
+For a detailed discussion of the aggregate requirements for an HMA
+mixture, the reader is referred to Chapter 3, “Mineral Aggregates and
+
+MS-4 199
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 234 ===
+Mixture Additives.” Once the designer is assured that the aggregates
+meet the physical requirements specified, the next step is to blend
+those aggregates to meet the gradation and size requirements.
+
+2. Asphalt binder selection. The designer identifies the asphalt
+binder to be used in the mixture based on the procedures
+described in Chapter 2, “Petroleum Asphalt.”
+
+200 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 235 ===
+3. Manufacturing of test specimens with a particular blend or
+gradation of aggregates. These test specimens are prepared for
+a range of different asphalt contents so that the test data curves
+show a well-defined “optimum” value. Tests are conducted on
+specimens that differ by 0.5 percent increments of asphalt content,
+with at least two asphalt contents above optimum and at least
+two below optimum. For example, for a mix where the estimated
+asphalt content is 4.5 percent, three samples each would be made
+at 3.5, 4.0, 4.5, 5.0, and 5.5 percent asphalt by weight for a total of
+15 samples.
+
+a. These samples are compacted using the Marshall compaction
+hammer (Figure 4.18). Depending on the requirements of the
+agency, generally either 50 blows or 75 blows are used.
+
+b. The bulk specific gravity of each compacted sample is deter-
+mined for use in the voids analysis.
+
+c. The samples are tested in the Marshall testing machine (Figure
+4.19) for stability and flow. The Marshall stability and flow values
+are determined. The requirements for Marshall stability and flow
+will vary with the agency and the engineer.
+
+4. A minimum of 2 additional uncompacted samples would be used
+for the determination of the maximum specific gravity as discussed
+in Section 4.2. The data from the maximum specific gravity test
+and the bulk specific gravity test are used, along with the specific
+gravities of the aggregates, to determine the volumetric properties
+of the mix. The data is plotted as shown in Figure 4.20.
+
+The information shown in the plotted data is used to determine the
+optimum asphalt content for the mixture. The most common method is
+to determine the asphalt content that corresponds to 4 percent air-voids.
+That asphalt content is then used to determine the values for Marshall
+stability, flow, VMA, and VFA. For the example shown, the asphalt content
+would be 4.7 percent. Each of the remaining criteria are compared against
+the specification requirements. If they fall within the specification require-
+ments, the asphalt content at 4 percent air-voids is the asphalt content
+chosen for production.
+
+4.4.3 Mix Design Criteria
+
+Whether the asphalt paving mix will be satisfactory from the design
+asphalt content selected is determined by applying certain limiting criteria
+to test data for the mix at its design asphalt content. An engineer design-
+ing an HMA mixture for an agency should check that agency’s specific
+requirements. The design criteria in Table 4.6 are recommended by the
+Asphalt Institute. If all the criteria are met, then this is the design asphalt
+content. If any of the design criteria are not met, then some adjustment is
+necessary or the mix may need to be redesigned.
+
+MS-4 201
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 236 ===
+10 1
+5 5 !
+2 d i
+g 6 iw
+3 4 Ss
+> 4 mS
+Lf 0 | |
+3.5 40 45 5.0 5.5
+Asphalt Content, percent
+Chart 3
+10
+- 8 ——
+o _—
+e 8 —
+a 4 a
+z
+> 2
+0
+3.5 4.0 4.5 5.0 5.5
+Asphalt Content, percent
+Chart 5
+280 12.4
+2)
+= 2600 16 0°
+3 Zz:
+& 2400 . 10.7 =
+> a =
+= 220 P o> log 5
+a £
+§ 2000 8.9 HD
+7)
+1800 8.0
+
+3.5 4.0 45 5.0 5.5
+Asphalt Content, percent
+
+The mix design selected for use in a pavement is usually the one that
+most economically meets all the established criteria. However, the mix
+should not be designed to optimize one particular property. For example,
+mixes with abnormally high values of stability are often less desirable
+because pavements with such mixes tend to be less durable and might
+crack prematurely under heavy volumes of traffic. Any variations in design
+criteria should be allowed only under unusual conditions, unless the ser-
+vice behavior of specific aggregate mixture indicates that such a variant
+
+paving mix is satisfactory.
+
+202
+
+VMA, percent
+
+3.5 40 45 5.0 5.5
+Asphalt Content, percent
+
+Unit Weight,
+
+3.5 40 45 5.0 5.5
+Asphalt Content, percent
+
+45 5.0 5.5
+Asphalt Content, percent
+Figure 4.20 Test Properties for Hot Mix Design Data by the Marshall Method
+
+2451
+2435
+2419
+2403
+2387
+2371
+
+12
+11
+
+ano
+
+Hot Mix Asphalt (HMA) Design
+
+kg/m
+
+Flow, 0.25 in.
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 237 ===
+: Table 4.6
+Marshali Design Criteria
+
+Light Traffic Medium Traffic Heavy Traffic
+
+Marshall Method Surface & Base Surface & Base Surface & Base
+
+Mix Criteria 1 Min. Max. Min. Max. Min. Max.
+Compaction, number of blows
+each end of specimen 35 $0 ss
+Stability, Ib. 750 1200 1800
+(N) (3336) - (5338) - (8006) -
+Flow, 0.01 in (0.25 mm) 8 18 8 16 8 14
+Percent Air-Voids 3 5 3 5 3 5
+Percent Voids in Mineral See Figure 3.20
+
+Aggregate (VMA)
+
+Percent Voids Filled With
+
+Asphalt (VFA) 70 80 65 78 65 75
+
+Notes
+. All criteria, not just stability value alone, must be considered in designing an asphalt paving mix. Hot
+mix asphalt bases that do not meet these criteria when tested at 140°F (60°C) are satisfactory if they
+meet the criteria when tested at 100°F (38°C) and are placed 4 inches (100 millimeters) or more below
+the surface. This recommendation applies only to regions having a range of climatic conditions similar
+to those prevailing throughout most of the United States. A different lower test temperature may be
+considered in regions having more extreme climatic conditions.
+. Traffic classifications:
+Light—traffic conditions resulting ina Design ESAL < 10*
+Medium—traffic conditions resulting ina Design ESAL between 10* and 10°
+Heavy—traffic conditions resulting in a Design ESAL > 10°
+. Laboratory compaction efforts should closely approach the maximum density obtained in the pavement
+under traffic.
+4. The flow value refers to the point at which the load begins to decrease.
+5. The portion of asphalt cement lost by absorption into the aggregate particles must be allowed for when
+calculating percent air-voids.
+6. Percent voids in the mineral aggregate should be calculated on the basis of the ASTM bulk specific
+gravity for the aggregate.
+
+=
+
+nN
+
+wo
+
+MS-4 203
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 238 ===
+4.5 Hveem Method of
+
+Mix Design
+
+4.5.1 introduction and Historical Context
+
+The Hveem method of mix design is a laboratory procedure based on
+two properties of the compacted specimen: cohesion and friction. Den-
+sity and voids of the compacted specimen are established before mea-
+suring the stability with the stabilometer. The stabilometer is a triaxial
+testing device in which vertical loads are applied and resulting lateral
+pressures are measured. The concepts of the Hveem method of design-
+ing paving mixtures were advanced and developed under the direction of
+Francis N. Hveem, who was the materials and research engineer for the
+California Division of Highways. The test procedures and their application
+were developed through extensive research and correlation studies on
+asphalt highway pavements.
+
+The method shown is applicable to the design of hot, dense-graded
+asphalt paving mixtures.
+
+4.5.2 Description of Method
+
+Hveem method test procedures have been standardized by the ASTM
+and AASHTO. Test procedures are found in AASHTO T 246 or ASTM D
+1560, and AASHTO T 247 or ASTM D 1561. Testing procedures presented
+here are basically the same as those in the ASTM procedure. For a detailed
+description of the Hveem procedure, the reader is referred to the Asphalt
+Institute’s MS-2, Mix Design Methods manual. It is recommended that agen-
+cies refer to either AASHTO or ASTM, or to the design agency’s require-
+ments, so that those specific procedures can be followed.
+
+The Hveem method uses standard test specimens of 2.5 inches (64 mil-
+limeters) in height by 4 inches (102 millimeters) in diameter; these are pre-
+pared using a specified procedure for heating, mixing, and compacting the
+asphalt-aggregate mixtures. The principal features of the Hveem method of
+mix design are the oil soak and Centrifuge Kerosene Equivalent (CKE) tests
+on the aggregates to estimate the asphalt requirements of the mix, followed
+by a stabilometer test, a cohesiometer test, a swell test, and a density-voids
+analysis on test specimens of the compacted paving mixtures. The stabilom-
+eter test uses a special triaxial-type testing cell for measuring the resistance
+of the compacted mix to lateral displacement under vertical loading, and the
+swell test measures the resistance of the mix to the action of water. The speci-
+mens are maintained at 140°F (60°C) for the stability tests; the swell tests are
+performed at room temperature.
+
+204 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 239 ===
+The Hveem mix design process consists of three basic steps:
+
+1. Aggregate selection. This step consists of insuring that the
+aggregates used in the mixture meet the design requirements. For
+a detailed discussion of the aggregate requirements for an HMA
+mixture, the reader is referred to Chapter 3, “Mineral Aggregates
+and Mixture Additives.” Once the designer is assured that the
+aggregates meet the specified physical requirements, the next step
+is to blend the aggregates to meet the requirements.
+
+2. Asphalt binder selection. The designer identifies the asphalt
+binder to be used in the mixture based on the procedures
+described in Chapter 2, “Petroleum Asphalt.”
+
+3. Test specimen preparation. A series of test specimens is pre-
+pared using a particular blend or gradation of aggregate over a
+range of different asphalt contents so that the test data curves
+show a well-defined optimum value. Tests should be scheduled
+on the basis of 0.5 percent increments of asphalt content, with at
+least two asphalt contents above optimum and at least two below
+optimum. The following procedure outlines the steps associated
+with the determination of the optimum asphalt content using the
+Hveem method:
+
+a. In the Hveem method, the initial asphalt content is determined
+by the oil soak and Centrifuge Kerosene Equivalent tests and
+the calculated surface area. For example, for a mix with an esti-
+mated asphalt content of 5.5 percent, one sample each would
+be made at 4.5, 5.0, 5.5, 6.0, and 6.5 percent asphalt by weight
+for a total of five samples. A minimum of 2 additional samples
+would be used for the determination of the maximum specific
+gravity as discussed in Section 4.2. Compact the samples using
+the California Kneading Compactor (see Figure 4.21).
+
+b. Test each sample for stability and cohesion using the Hveem
+Stabilometer and Cohesiometer (see Figure 4.22). The passing
+values of stability and cohesion are specific to the agency
+using the design procedure.
+
+c. Determine the volumetric properties of the mix. Data is plot-
+ted as shown in Figure 4.23.
+
+4.5.3 Mix Design Criteria
+
+The suitability of the hot mix design by the Hveem method is deter-
+mined on the basis of whether the asphalt content and the aggregate
+grading will satisfy the requirements shown in Table 4.7. An engineer
+designing an HMA mixture for an agency should check that agency’s
+specific requirements.
+
+MS-4 205
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 240 ===
+“Figure 4.21 California Kneading Compactor —
+
+206 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 241 ===
+.22 Hveem Stabilometer Machine
+
+igure 4
+
+F
+
+207
+
+Ms-4
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 242 ===
+155
+
+= —_ ~~
+oO on an
+nN w
+
+Unit Weight, pcf
+
+=
+a
+=
+
+150
+
+4.5
+
+kg/m?
+2,483
+
+2,467
+
+2,459
+
+2,435
+
+2,419
+
+2,403
+
+6.5
+
+% AC by Weight of Aggregate
+
+208
+
+Air Void, Percent
+
+1
+
+45
+% AC by Weight of Aggregate
+
+a
+oO
+
+&
+ol
+
+b
+oO
+
+w
+an
+
+\
+
+Stabilometer Values
+
+[e)
+Oo
+
+5.0
+
+6.0
+
+% AC by Weight of Aggregate
+
+6.5
+
+i
+E
+&
+:
+:
+
+Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 243 ===
+Table 4.7
+Hveem Design Criteria
+
+Traffic Category Heavy Medium Light
+Test Property Min. Max. Min. Max. Min. Max.
+Stabilometer Value 37 - 35 ~ 30 -
+Swell less than 0.030 in (0.762 mm)
+Notes
+
+1. Although not a routine part of this design method, an effort is made to provide a minimum of
+approximately 4 percent air-voids.
+
+2. All criteria, and not stability value alone, must be considered in designing an asphalt paving mix.
+
+3. Hot mix asphalt bases that do not meet these criteria when tested at 140°F (60°C) are satisfactory if
+they meet the criteria when tested at 100°F (38°C) and are placed 4 in (100 millimeters) or more below
+the surface.
+
+This recommendation applies only to regions having a range of climatic conditions similar to those
+prevailing throughout most of the United States. A different lower test temperature may be considered in
+regions having more extreme climatic conditions.
+
+4. Traffic classifications:
+
+Light—traffic conditions resulting ina Design ESAL < 10*
+Medium—traffic conditions resulting ina Design ESAL between 10% and 10°
+Heavy—traffic conditions resulting in a Design ESAL > 105
+
+MS-4 209
+
+a
+8
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 244 ===
+4.6 RAP Mix Design
+
+Hot mix recycling consists of combining reclaimed (or recycled) asphalt
+pavement (RAP) with new or “virgin” aggregates, and new asphalt binder
+and/or a recycling agent in a central plant to produce a new HMA mix.
+The amount of RAP used in an HMA mix is related to the plant type being
+used, the gradation of the RAP aggregates, and the properties of the asphalt
+binder in the RAP. The ratio of RAP to virgin aggregates will vary. It is typi-
+cally 15 to 25 percent for batch plants, and up to 30 to 50 percent for drum
+plants. The manufacture of an HMA mix using RAP is discussed in detail
+in Chapter 7, “Manufacture of Hot Mix Asphalt.” This section will discuss
+the mix design procedures. The procedures outlined below are based on
+AASHTO M 323, Superpave Volumetric Mix Design, and the NCHRP report
+Recommended Use of Reclaimed Asphalt in Superpave Mix Design Method:
+Guidelines.
+
+4.6.1 Materials Evaluation
+
+The first step in the evaluation of the materials for a project that will include
+RAP in the HMA is to obtain a representative sample of the RAP to be used.
+A major concern with the use of RAP is the variability of the material. This is
+because the RAP may come from different layers in the pavement structure
+or from stockpiles of materials from different sources. Good stockpiling prac-
+tices or processing the RAP by crushing and/or screening will reduce the vari-
+ability. RAP can be sampled from the roadway (by coring or bulk samples),
+from a stockpile, or from the haul trucks. Good sampling practices should be
+followed. Sampling methods are discussed in detail in Chapter 10.
+
+Aggregate Gradation
+
+The properties of the aggregate after the asphalt has been extracted
+from the RAP should be determined. The ignition oven (AASHTO T 308
+or ASTM D 6307) can be used to determine the RAP composition (asphalt
+content and gradation) if further testing of the asphalt binder will not be
+accomplished. If the extracted asphalt binder is to be recovered and tested
+for future evaluation, AASHTO T 164 or ASTM D 2172 should be used for
+the extraction process. After extraction of the asphalt binder from the mix,
+the gradation of the aggregate is determined. Any deficiency in the grada-
+tion can be corrected by blending the appropriate fractions of virgin and
+reclaimed aggregate to meet the gradation requirements of the final HMA
+mixture. It is also recommended that the angularity of the fine and coarse
+aggregates be determined. This information may influence the percentage
+of RAP to be used for a particular project.
+
+210 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 245 ===
+To calculate the VMA, it is necessary to determine the combined bulk
+specific gravity of the aggregates (RAP and virgin aggregates). Two
+approaches are used. The first approach consists of splitting the extracted
+aggregate into fine (minus No. 4 [4.75 millimeters]) and coarse fractions
+(plus No. 4 [4.75 millimeters]), and determining the specific gravity of each
+fraction. The advantage is that this provides a direct measure of the specific
+gravity of the aggregate. The disadvantages are that the extraction process
+(chemical or ignition) will damage the aggregate or that the samples will
+contain asphalt or solvent, which will make it difficult to accurately mea-
+sure the specific gravity. The second approach consists of determining the
+maximum specific gravity of the RAP (G__) using AASHTO T 209 or ASTM
+D 2041, determining the asphalt content of the RAP, and then calculating
+the effective specific gravity (G,.) of the aggregate. The advantage of this
+method is that it is more accurate than the determination of the bulk specific
+gravity of the individual fractions. The disadvantage is that using G,, rather
+than G,, of the RAP aggregate will result in an overestimate of the combined
+bulk specific gravity and will artificially raise the VMA of the HMA mix. The
+error will increase with higher percentages of RAP.
+
+Asphalt Properties
+
+The extracted asphalt obtained using AASHTO T 164 or ASTM D 2172 is
+recovered from the extract solution using either AASHTO T 170 or ASTM
+1856, Recovery of Asphalt from Solution by Abson Method, or by ASTM
+D 5404, Recovery of Asphalt from Solution Using the Rotavapor Apparatus.
+The Rotavapor procedure is the preferred method because it results in less
+severe changes in the binder properties.
+
+This recovered binder is used to construct blending charts and to char-
+acterize the high-, intermediate-, and low-temperature properties of the
+binder. Approximately 50 grams of recovered binder is needed to conduct
+these tests. The testing should include dynamic shear rheometer (DSR)
+tests on the recovered asphalt before and after aging in the rolling thin
+film oven (RTFO). Bending beam rheometer (BBR) tests should also be
+conducted on the recovered asphalt after aging in the RTFO.
+
+The DSR test on the recovered binder will be used to determine the
+critical bigh temperature T, (High) where G*/sind = 1.00 kiloPascals. This
+is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(G*sin8)
+oe” AT
+
+Determine T, (High) to the nearest 0.1°C using the following equation:
+Log(1.00) — Log(G,)
++
+
+T, (High) = a T,
+where
+G, = the G*/siné value at a specific temperature T, and
+a = the slope determined from the above equation
+
+MS-4 211
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 246 ===
+The DSR test on the recovered binder after RTFO aging will be used
+to determine the critical high temperature T, (High) where G*/sind = 2.20
+kiloPascal. This is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog | sind
+AT
+
+Determine T_ (High) to the nearest 0.1°C using the following equation:
+
+Log(2.20) — Log(G
+T, (High) | at Z at ?) +T,
+where
+G, = the G*/sind value at a specific temperature T, and
+
+i
+
+a the slope determined from the above equation
+
+The above information is used to determine the critical high tempera-
+ture T, (High) of the recovered binder. This is defined as the lowest of the
+original DSR and RTFO DSR critical temperatures. The high-temperature
+performance grade of the recovered RAP binder is based on this single
+critical high temperature.
+
+The next step is to determine the critical intermediate temperature
+T_ Unt). This is determined from DSR testing on RTFO-aged recovered RAP
+binder, which is used to determine the critical intermediate temperature
+T, (int) as though the RAP binder were pressure-aging vessel (PAV) aged.
+This is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(G*xsind)
+oe AT
+Determine T_ (Int) to the nearest 0.1°C using the following equation:
+Log(5000) — Log(G,)
+
+Qa 1
+
+T,(Int) =
+
+where
+G, = the G*/sind value at a specific temperature T, and
+
+1
+a = the slope determined from the above equation
+
+The last step is to determine the critical low temperature T(S)
+or Tm) based on the results of performing a BBR testing of the
+RTFO-aged recovered RAP binder. It is based on the bending beam
+rheometer (BBR) stiffness, or m-value. T(S) is calculated using the
+following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(S) |
+~ AT |
+
+212 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 247 ===
+Determine T.(S) to the nearest 0.1°C using the following equation:
+Log(300) — Log(S,)
++T.
+
+Qa 1
+
+T{S) =
+
+S, = the S value at a specific temperature T, and
+
+a = the slope determined from the above equation
+
+T.(m) is calculated using the following procedure:
+Determine the slope of the Tm) value temperature curve as follows:
+
+_ Am - value
+“* AT
+Determine T,(m) to the nearest 0.1°C using the following equation:
+0.300 — m, |
+T{m) =\—~e— } +7,
+where
+m, = the m value at a specific temperature T, and
+a = the slope determined from the above equation
+
+The above information is used to determine the two critical low temper-
+atures, T.(S) or T.(m), which are used to represent the critical temperature
+for the recovered binder T (Low). The low-temperature performance grade
+of the recovered binder is based on this single critical temperature.
+
+4.6.2 Mix Design
+
+Determine Combined Aggregate in Recycle Mix
+
+The combined gradation for the HMA mix using RAP must meet the
+specifying agency’s requirements. To accomplish this, the contractor will
+blend the aggregates as discussed in Chapter 3. The gradation to be used
+for this analysis should be the extracted aggregate gradation.
+
+Asphalt Demand of Combined Aggregate
+
+The asphalt demand for the HMA mix using RAP will be determined
+using one of the standard design procedures: Superpave, Marshall, or
+Hveem. The final asphalt content will consist of the asphalt in the RAP
+and the virgin asphalt to be added during the production process. A major
+advantage of the use of RAP is that it reduces the need for new, virgin
+asphalt binder.
+
+Selecting the Grade of New Asphalt
+
+The grade of the new asphalt depends on the percentage of RAP to be
+used. AASHTO M 323 provides the following guidelines for RAP mixtures;
+see Table 4.8
+
+MS-4 213
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 248 ===
+Tabie 4.8
+Binder Selection Guidelines for RAP Mixtures
+
+Recommended Virgin Asphalt Binder Grade RAP Percentage
+No change in binder selection <15
+Select a virgin binder one grade softer than normal (e.g., select a 15-25
+PG 58-28 if a PG 64-22 would normally be used)
+Select a virgin binder using the blending charts > 25
+
+Development of Final Mix Design
+The final mix design is developed following one of the standard design
+
+procedures (Superpave, Marshall, or Hveem) and must meet the requirements
+of those design procedures.
+
+214 Hot Mix Asphalt (HMA) Design
+
+a
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 249 ===
+4.7 Aggregate Packing Analysis
+Using the Bailey Method
+
+A procedure to evaluate the aggregate packing properties in HMA, called
+the Bailey Method, is able to predict volumetric and compactability charac-
+teristics of HMA. The system was first developed by Robert D. Bailey, who
+worked with the Illinois District 5 Materials Bureau. Further refinements
+have been developed by the Heritage Research Group of Indianapolis,
+Indiana.
+
+The procedure is based on the following four main principles:
+
+1. % PCS—Percent passing the Primary Control Sieve
+2. CA Ratio—The Coarse Aggregate Ratio
+
+3. FA, Ratio—The Fine Aggregate Coarse Ratio
+
+4. FA, Ratio—The Fine Aggregate Fine Ratio
+
+Percent PCS
+
+The Bailey Method is based on the concept that the coarse Cargest)
+particle sizes of any mixture creates voids that are occupied by finer aggre-
+gates, asphalt, and air. The Primary Control Sieve (PCS) is the aggregate
+size that determines what is coarse and what is fine for any aggregate or
+aggregate combination. The volume of coarse aggregate (retained on the
+PCS) determines if a mix is a “coarse graded mix,” a “fine graded mix” or
+a stone matrix asphalt (SMA) mix.
+
+A coarse graded mix is defined as mixture that has a volume of coarse
+aggregate great enough to develop stone-on-stone contact. The voids, in
+the coarse aggregate then determine the amount of fine aggregate that can
+be accommodated in the mix.
+
+An SMA mix is a coarse graded mixture that contains a volume of fine
+aggregate that is significantly less than the volume of voids created by the
+coarse aggregate.
+
+A fine graded mix is defined as a mixture that contains a volume of
+fine aggregate that exceeds the volume of voids that exist in the coarse
+aggregate when stone-on-stone contact is achieved. The volume of voids
+in the coarse aggregate is determined utilizing methods described in
+AASHTO T 19.
+
+The Bailey Method has the ability to estimate the change in VMA (voids
+in the mineral aggregate) based solely on the change in gradation between
+two samples. It will not calculate VMA prior to laboratory testing. Once
+a known VMA is determined on a compacted specimen, the amount and
+direction of change in VMA can be estimated by the Bailey Method based
+on gradation changes. However, it is extremely important to remember
+that the rate of change and direction of change is different for each of the
+three mix types.
+
+MS-4 215
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 250 ===
+CA, FA, and FA, Ratios
+
+The CA, FA, and FA, ratios are factors used in the Bailey Method that
+are calculated on specific fractions of the combined aggregate used in
+HMA. The CA ratio describes the distribution of large coarse aggregate
+particles and smaller coarse aggregate particles. This distribution of par-
+ticles retained on the PCS determines the number and sizes of voids cre-
+ated by the coarse fraction of the mix. The FA, ratio provides a comparison
+of coarse sand (material passing the PCS) and fine sand. The coarse sand
+fraction of the mix creates voids within the coarse aggregate structure that
+are filled by fine sand. The FA, ratio is very similar to the FA, ratio but deals
+with the finest fractions in the mixture. VMA movement and compaction
+characteristics due to gradation change are influenced, described, and pre-
+dicted by the CA, FA, and FA, ratios.
+
+The Bailey Method is a very powerful tool to analyze VMA and com-
+pactability of HMA mixtures that cannot be covered in depth in this man-
+ual. Transportation Research Board Circular #E-C044 provides in-depth
+discussion of the method.
+
+216 Hot Mix Asphalt (HMA) Design
+

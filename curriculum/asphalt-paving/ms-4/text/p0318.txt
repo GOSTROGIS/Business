@@ -1,0 +1,59 @@
+version of the DAMA advanced structural analysis routine. See Section 6.3.1
+for additional information about SW-1.
+
+The remainder of this chapter describes the Asphalt Institute design meth-
+ods in more detail, relates the Asphalt Institute methods to other M-E systems,
+and refers readers to more detailed information about these methods.
+
+6.1.1 Design Principles
+
+The following paragraphs describe the design principles that are at the
+core of the Asphalt Institute methods. These principles are coded into
+DAMA and are inherent in the various design curves and SW-1.
+
+DAMA models the pavement as a multilayered elastic system with up to
+five layers, including the subgrade (see Figure 6.1). The material in each layer
+is characterized by two variables—a modulus of elasticity and a Poisson’s
+ratio. All layers in the model are assumed to extend infinitely outward in the
+horizontal plane. The subgrade layer is the lowest layer in the model and
+is assumed to extend infinitely downward (vertically). A condition of full-
+friction is assumed to exist at all layer interfaces.
+
+A proposed pavement structure is subjected to traffic loading expressed
+in terms of the number of repetitions of a wheel load on either a single
+tire or a set of dual tires.
+
+Temperature variability is known to affect the dynamic modulus of
+asphalt-bound materials and the resilient modulus of granular base and
+subgrade soils. DAMA allows for monthly variation of the mean monthly
+air temperature.
+
+The response of the pavement system to the vertical wheel load, in
+terms of stresses, strains, and deflections, is calculated at a point in the
+structure using the principles of mechanics. Two strains are believed to be
+critical for design purposes:
+
+° The horizontal tensile strain on the underside of the lowest asphalt-
+bound layer (either asphalt concrete or emulsified asphalt base). If
+the horizontal tensile strain at the bottom of the lowest HMA layer is
+excessive, fatigue cracking will be initiated.
+
+° The vertical compressive strain at the top of the subgrade layer.
+Excessive vertical strain on top of the subgrade layer will result in
+permanent deformation (rutting) at the pavement surface.
+
+Strain can be calculated, in both critical positions, as a response to
+
+repetitive wheel loads.
+
+A cumulative damage calculation is used to determine the remaining
+life of the pavement structure. Miner’s Rule is used to evaluate the ratio
+of the number of actual load repetitions to the number of allowable load
+repetitions. Miner’s Rule states that the total allowable damage is equal to
+the summation of damage done by individual load applications. When the
+number of actual load repetitions is equal to the number of allowable load
+repetitions, cumulative damage is calculated to be 1, and a state of fail-
+ure exists. At any level of actual load repetitions, cumulative damage can
+
+284 Thickness Design
+

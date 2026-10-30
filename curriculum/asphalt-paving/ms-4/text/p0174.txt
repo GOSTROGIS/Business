@@ -1,0 +1,54 @@
+where
+
+P = the percentage of material passing a given sieve for the
+combined aggregates
+A, B, C = percentages of material passing a given sieve for the
+individual aggregates A, B, C, etc.
+a, b,c = proportions of individual aggregates, A, B, C, etc., used in
+the combination and where the total = 1.00
+
+The combined percentages (P, in equation 1) for each sieve size should
+closely agree with the percentages of the desired composite aggregate
+grading. None of the percentages should fall outside the specified grad-
+ing limits. Obviously, there may be several acceptable combinations. An
+optimum combination is achieved when the blended or composite per-
+centages match as closely as possible to the original desired percentages.
+If the blended gradation falls outside the specifications, the responsible
+proportion in the blend should be modified, with the other proportions
+also modified to total 100 percent. Sometimes, it is necessary to delete
+a proposed aggregate and obtain replacement material if a satisfactory
+blend cannot be developed with the aggregate initially suggested.
+
+Mathematical methods have been developed that will directly determine
+an “optimum” combination of aggregates. To accomplish this calculation,
+various optimization techniques have been used, such as the closest to the
+middle of the specification range. The speed of these methods varies with
+the number of stockpiles being blended. Many designers use computer
+spreadsheet programs to quickly evaluate a number of alternative blends.
+The Asphalt Institute’s SW-2, Mix Design Program computer program can
+also be used to visually evaluate the gradation plot of numerous blends
+very rapidly. Regardless of which method is used, a trial-and-error approach
+guided by reasoning, is usually the easiest and best procedure to determine
+and refine a satisfactory combination of aggregates. A computer-generated
+blend should not be used without further evaluation and checking.
+
+Table 3.7 is an example of a simple computer spreadsheet in which
+composite gradations can be calculated. Equation 1 has been entered into
+the pertinent cells as a “formula” so that a composite gradation is instantly
+calculated when trial proportion values and individual aggregate grada-
+tions are entered into their respective cells. Numerous trial blends can be
+evaluated in a short time.
+
+When only two or three aggregates are blended for a composite, there
+are some simple techniques for evaluating the needed proportions of the
+components. For combining two aggregates, the basic formula of Equation 1
+condenses to the following:
+
+P=Aa+ Bb (Equation 2)
+Sincea + b=1,thena=1- b.
+Substituting this into Equation 2, and solving for b:
+
+b= f-4 (Equation 3)
+
+140 Mineral Aggregates and Mixture Additives
+

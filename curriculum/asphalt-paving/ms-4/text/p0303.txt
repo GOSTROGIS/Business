@@ -1,0 +1,21 @@
+5.2.4 Strength Correlations
+
+Most methods used for the design of highway and airfield pavements
+are based on elastic-layered theory. The preferred method for determining
+the strength of the subgrade soils and unbound subbase/base materials
+is the resilient modulus test. But the equipment and the test procedure is
+complex and time consuming. Therefore, a number of correlation equa-
+tions have been developed to estimate the resilient modulus of unbound
+materials. Table 5.5 summarizes the correlations used.
+
+Table 5.5
+Correlations for the Determination of Resilient Modulus
+
+Test Procedure Equation (MN, in psi)
+California Bearing Ratio (CBR) M, = 2555 * (CBR)°®
+R-value M, = 1155 + 555*R
+Plasticity Index (Pl) and percent of material _ 75
+passing the No. 200 (75 um) sieve (w) CBR = 430798*(W* Ph ¥0.728*(w* Pl)
+Dynamic Cone Penetrometer (DCP) CBR = aoa
+
+Ms-4 269

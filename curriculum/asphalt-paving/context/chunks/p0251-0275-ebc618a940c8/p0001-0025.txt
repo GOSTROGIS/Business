@@ -1,0 +1,1059 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0251-0275.pdf
+SOURCE SHA-256: ebc618a940c88076af5a52f3525b7b22c00282896743fd7ec34d5ab3a9e8e472
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 251 ===
+; Specialized Asphalt
+
+Mixtures
+
+4.8.1 Stone Matrix Asphalt Mix
+
+Stone matrix asphalt (SMA) mixtures have been used in the United States
+since 1991. These mixtures have performed well in Europe for many years,
+and experience in the United States is similar. SMA is a rut-resistant, gap-
+graded HMA. The mix relies on stone-on-stone contact to provide its internal
+strength. The mix uses a high asphalt binder content of 6 to 7 percent or more.
+This high binder content provides improved durability. In most situations, the
+asphalt binder is a polymer-modified asphalt. Mineral filler and either mineral
+or cellulose fibers are added to form a stiff mortar and prevent draindown of
+the asphalt cement. The in-place air-voids are kept low—to less than 6 per-
+cent to insure that the mix is impermeable to water. SMA is routinely used in
+many states as the surface of choice for high-volume roadways and intersec-
+tions. Figure 4.24 shows an SMA mix in Colorado.
+
+Mix Design
+
+The mix design procedure presented is based on AASHTO PP 41 (2004)
+Designing Stone Matrix Asphalt (SMA). The mix design process consists
+of these five steps:
+
+an
+
+Figure 4.24 SMA Mix in Colorado
+
+MS-4 217
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 252 ===
+1.
+
+Select proper materials (aggregate, asphalt binder, mineral filler,
+and fibers).
+
+2. Determine the aggregate gradation that yields stone-on-stone contact.
+3. Ensure that the selected gradation provides the minimum required VMA.
+4. Choose an asphalt binder content that provides the desired air-voids.
+5. Evaluate the mix for moisture susceptibility.
+
+Materials Selection
+
+The materials required for an SMA mix include aggregates, asphalt
+binder, mineral filler, and a stabilizer, which is usually either a cellulose
+or a mineral fiber.
+
+SMA mixtures require the use of a high-quality aggregate. AASHTO speci-
+fications require that 100 percent of the coarse aggregate have at least one
+crushed face and at least 90 percent must have two or more crushed faces.
+The strength of an SMA mixture is achieved through stone-on-stone contact.
+Therefore, most agencies have placed more stringent requirements on aggre-
+gate used in SMA. AASHTO requires a maximum Los Angeles Abrasion loss of
+30 percent. But some states—because of a lack of high-quality aggregates—
+have built successfully performing projects with a less-stringent requirement.
+
+The gradation for different SMA mixtures is shown in Table 4.9. Note that for
+the 19 millimeters, 12.5 millimeters, and 9.5 millimeters mixes, the mixtures
+have a low percentage passing the No. 4 sieve (4.75 millimeters) and a high
+percentage passing the No. 200 sieve. This is required to provide a mix with
+stone-on-stone contact and to provide a high VMA (generally 17 percent). The
+high percentage passing the No. 200 sieve (0.075 millimeter) is required to
+provide a stiff mix that will be rut resistant and to insure that draindown does
+not occur during construction. The high percentage of minus No. 200 material
+usually requires that as much as 5 to 7 percent commercial filler (for example,
+a limestone dust) is added to an SMA mix. Note that the design of an SMA mix
+is based on the volume of the materials (percent passing by volume) rather
+
+Table 4.9
+Typical Gradations for SMA Mixes (Percent Passing by Volume)
+
+Sieve Size Mixture Designation
+19mm 12.5 mm 9.5 mm
+4 in (12.5 mm) 100
+% in (19.0 mm) 90-100 100
+Ys in (12.5 mm) 50-88 90-100 100
+% in (9.5 mm) 25-60 50-80 70-95
+No. 4 (4.75 mm) 20-28 20-35 30-50
+No. 8 (2.36 mm) 16-24 16-24 20-30
+No. 16 (1.18 mm) - - 21 max.
+No. 30 (0.60 mm) - - 18 max.
+No. 50 (0.30 mm) - - 15 max.
+No. 200 (0.75 mm) 8-11 8-14 8-12
+
+218 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 253 ===
+than by weight (as is done for Superpave, Marshall and Hveem mix designs).
+Therefore, it is necessary to convert the weight of materials into volumes. To
+accomplish this, the bulk specific gravity of the coarse aggregate, fine aggre-
+gate, and mineral filler must be known.
+
+The asphalt binder for SMA mixtures has typically been a stiffer binder
+than is usually specified for dense-graded mixtures. They are usually polymer-
+modified mixes. The use of stiffer binders will tend to reduce the draindown of
+the asphalt binder during construction. A modified asphalt may also improve
+the high and low temperature properties of the SMA mix.
+
+A stabilizer is typically used in the SMA mixture to prevent draindown of
+the asphalt binder during construction. Two types of fibers have been used:
+cellulose fibers and mineral fibers. Both types of fibers have been used
+successfully (Figures 4.25 and 4.26). The mineral fiber is usually heavier
+than the cellulose fibers and is therefore added at a higher percentage (by
+weight) so that a sufficient volume of fibers is added.
+
+Selection of Desired Gradation
+
+Once satisfactory materials have been identified, the optimum aggregate
+gradation and binder content must be determined. This is accomplished by
+first selecting an appropriate aggregate blend. This blended gradation should
+provide an aggregate skeleton with stone-on-stone contact and furnish a mix-
+ture that meets or exceeds the minimum voids in mineral aggregate. The con-
+dition of stone-on-stone contact is defined as the point at which the voids
+in the coarse aggregate fraction of the blend of the compacted SMA mixture
+(VCA, ,.) is less than the VCA of the coarse aggregate fraction of the aggregate
+blend alone (VCA,,.) in the dry-rodded test (AASHTO T 19 or ASTM C 29).
+
+Figure 4.25 Cellulose Fiber
+
+MS-4 219
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 254 ===
+The VCA of the coarse aggregate fraction is determined by compacting
+the aggregate with the dry-rodded technique according to AASHTO T 19,
+Unit Weight and Voids in Aggregate. The acronym VCA,,,. is used to indi-
+cate the voids in coarse aggregate of the coarse aggregate fraction in.the
+dry-rodded condition. This value is used in the determination of stone-on-
+stone contact and is calculated as follows:
+
+GY
+_ —~calw s
+VCA crc = Gy, x 100
+where
+VCA,,¢ = voids in coarse aggregate in dry-rodded_ condition,
+percentage
+
+y, = dry unit weight of coarse aggregate fraction in dry-rodded
+condition (kg/m*)
+y, = unit weight of water (998 kg/m’)
+= combined bulk specific gravity of coarse aggregate
+fraction
+
+After the trial gradation samples have been compacted and allowed to
+cool, they are removed from the molds and tested to determine bulk specific
+gravity in accordance with AASHTO T 166. The volumetric properties of
+
+220 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 255 ===
+each compacted sample are then determined. Following are the volumetric
+calculations of interest:
+
+1- Gap
+
+G
+
+mm
+
+V,, % = 100 x
+
+VCA vin
+
+G
+
+ca
+
+Gap
+% = 100 — X Pop
+
+G
+VM, % = 100 ~ | ex P,
+
+G,,
+where
+V, = percentage of air-voids in compacted mixture
+VCA,,, = voids in coarse aggregate fraction within compacted
+mixture
+VMA = voids in mineral aggregate
+G,,, = bulk specific gravity of compacted mixture,
+G__ = theoretical maximum specific gravity (AASHTO T 209 or
+
+ASTM D 2041)
+
+P_ = percentage of aggregate in the total mixture
+= percentage of coarse aggregate in the total mixture
+combined bulk specific gravity of the aggregates and
+combined bulk specific gravity of the coarse aggregate
+fraction
+
+Of the trial blends evaluated, the one that meets or exceeds the minimum
+VMA requirement and has a VCA_,,, less than VCA,,. should be selected as
+the design gradation. When an SMA mix has a VCA_,, less than VCA,_., it
+has achieved stone-on-stone contact. /
+
+Once a trial] blend has been selected as the design gradation, it may be
+necessary to raise or lower the asphalt binder content to obtain the proper
+amount of air-voids. Additional samples are prepared using the design
+gradation, and the binder content is varied.
+
+The final chosen mix should meet the following requirements:
+
+* Air-Voids at N,.,,,,: 4-0 percent
+
+° Voids in Mineral Aggregate: 17 percent minimum
+
+° Voids in Coarse Aggregate for Mix (VCA,, ): percentage should be less
+
+than VCA,,..
+
+° Tensile Strength Ratio (AASHTO T 283): 70 percent minimum
+¢ Draindown at Production Temperature: 0.30 percent maximum
+
+i
+
+Draindown
+
+Due to the gap-graded nature of an SMA mixture, the possibility exists
+that the asphalt binder will drain off the aggregate during the construction
+process. To prevent this, a stabilizer is added to the mix. The draindown test
+is used to determine the correct amount of stabilizer needed for the mix.
+The test measures the potential for asphalt binder to drain from the coarse
+
+MS-4 221
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 256 ===
+ageregate structure while the mix is held at an elevated temperature. The test
+is performed in accordance with ASTM D 6390. To run this test, a sample is
+prepared in the laboratory (during mix design) or obtained from field produc-
+tion. The sample is placed in a wire basket (see Figure 4.27) that is put onto
+a suitable container of known mass (generally a paper plate). The sample,
+basket, and container are then placed into a forced-draft oven for one hour
+at or above the anticipated production temperature. At the end of one hour,
+the mass of asphalt binder draining from the sample that is retained in the
+container is determined and the amount of draindown calculated.
+
+Figure 4.27 Draindown Basket
+
+222 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 257 ===
+4.8.2 Open-Graded Friction Course
+
+Description and Usage
+
+Open-Graded Friction Courses (OGFC) provide an open mix with permeable
+voids that provide drainage on the surface of an HMA pavement under wet
+conditions. The water drains vertically through the OGFC to an impermeable,
+underlying layer and then laterally to the day-lighted edge of the OGFC. In
+addition to minimizing hydroplaning and providing high friction resistance on
+wet pavements, an OGFC layer will also provide the following advantages:
+
+° Reduce splash and spray (see Figure 4.28)
+
+° Reduce the potential for hydroplaning
+
+° Enhance visibility of pavement markings
+
+° Reduce nighttime surface glare in wet weather
+
+° Reduce tire-pavement noise
+While open-graded mixes provide many advantages, they have the following
+limitations:
+
+¢ Snow- and ice-control procedures may need adjustment when they
+
+are used,
+
+° They may ravel and shove when used at intersections, locations with
+
+heavy turning movements, and airfield ramp terminals.
+
+° They may require special patching and rehabilitation techniques to
+
+maintain adequate drainage.
+
+Open-graded mixes have been used throughout the United States since
+1944. In many states they have been used extensively for many years. In
+the early 1970s, many states experienced problems with OGFC layers.
+These problems were raveling, delamination, loss of permeability after
+a few years of service, and stripping of the underlying layers. These
+problems have been addressed by one or more of the following: use of
+polymer-modified asphalt binders, relatively high asphalt binder contents
+
+Figure 4.28 Comparison of Splash Spray Characteristics of an OGFC Surface
+(foreground) to a Conventional Surface (background)
+
+Ms-4 223
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 258 ===
+(by the use of fibers and polymer modified asphalts), and by addressing
+the problems with moisture susceptibility in the underlying layers through
+the use of admixtures (lime or liquid antistrips).
+
+Mix Design Characteristics and Procedures
+The two published mix design procedures for the design of open-graded
+friction courses include the procedure outlined in the FHWA Technical Advi-
+sory T 5040.31 and a procedure based on research by the National Center
+for Asphalt Technology (NCAT). Most OGFC surface layers placed in the
+United States are designed by the specifying agency, using its own internal
+techniques and experience to accomplish the mix design. It is recommended
+that a designer check with the specifying agency about its procedure when
+designing OGFC mixes. The mix design consists of four steps:
+1. Materials selection
+2. Selection of the design gradation
+3. Determination of the optimum asphalt content
+4. Evaluation of moisture susceptibility
+
+Materials Selection
+
+The materials used for OGFC include aggregates, asphalt binders, and
+additives (such as fibers). The aggregates must be high-quality, polish-
+resistant aggregate materials. The NCAT procedure requires the coarse
+aggregate used in an OGFC to have a Los Angeles Abrasion value of less
+than 30 percent. Soft aggregates should be avoided due to the poten-
+tial for excessive breakdown during mix production and compaction in
+the field. The aggregate should consist of 100 percent fractured faces
+to provide high internal friction. If crushed gravel is used, it should
+have at least 95 percent of the particles with two fractured faces and
+100 percent with one fractured face. The fractured faces on gravels should
+be produced by mechanical fracturing of the rock. The percentage of flat
+and elongated particles should not exceed 5 to 20 percent corresponding
+to ratios of 5:1 and 3:1. The fine aggregate used in the mixture should
+have a fine aggregate angularity of at least 45 percent.
+
+The asphalt binder used should be based on the environment and
+traffic levels of the roadway. A stiffer binder than those recommended
+based on the procedures outlined in Chapter 2, “Petroleum Asphalt” is
+recommended for use. It is suggested that a binder two grades stiffer than
+the grade recommended for dense-graded mixes be used and that they
+be made with polymer-modified asphalts. The addition of fiber may be
+desirable to reduce the amount of draindown during construction. Either
+a cellulose fiber is added at about 0.3 percent of total mix or a mineral
+fiber added at about 0.4 percent of total mix. The dosage rate for the fibers
+depends on the results of the draindown test.
+
+Selection of Design Gradation
+
+OGFC must have an aggregate structure that provides stone-on-stone contact
+to minimize rutting. As with the SMA mix, the condition of stone-on-stone con-
+tact is defined as the point at which the voids in the coarse aggregate fraction
+of the blend of the compacted OGFC mixture (VCA, ,.) is less than the VCA of
+
+224 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 259 ===
+the coarse aggregate (aggregate retained on the 4.75 millimeters sieve) fraction
+of the blend alone (VCA,.) in the dry-rodded test (AASHTO T 19 or ASTM
+C 29). The equations for computing VCA,,, and VCA,_. for OGFC mixes are the
+same equations as those presented in the earlier section on SMA mixes.
+
+Table 4.10 shows some typical gradations of OGFC mixes being used in
+the United States.
+
+NCAT Procedure
+
+The National Center for Asphalt Technology (NCAT) developed a pro-
+cedure that is described in NCAT Report 00-01, Design, Construction, and
+Performance of New Generation Open Graded Friction Courses. The selection
+of the design gradation should consist of blending at least three trial blends
+ranging from the coarse to the fine side of the gradation band, with one fall-
+ing in the middle of the band. For each trial gradation, the dry-rodded voids in
+the coarse aggregate fraction (VCA, .) should be determined using AASHTO
+T 19 or ASTM C 29.
+
+For each trial gradation, two specimens should be compacted at between
+6.0 and 6.5 percent asphalt binder using 50 gyrations of a Superpave Gyratory
+Compactor. If a stabilizer is to be used in the final mix, it should be included
+in the trial mixes. If the VCA, ,_ is equal to or less than the VCA,,_, then stone-
+on-stone contact exists. If all the trial blends meet this requirement, choose
+a trial gradation that provides the highest air-voids (V,) content.
+
+To determine the VCA,, , the designer must determine the bulk specific
+gravity of the mix (G, ,). The measurement of the bulk specific gravity (G,,,)
+of a compacted OGFC sample is a problem. This test is conducted by the
+water displacement method (AASHTO T 166 or ASTM D 2726) using satu-
+rated surface dry (SSD) specimens. The SSD method has been proven to
+work for dense-graded HMA mixtures. A problem with OGFC mixes is that
+they have large internal air-voids (15 to 25 percent) that are interconnected.
+During the bulk specific gravity testing with the SSD method, water will
+quickly infiltrate the sample. After the sample is removed from the water
+bath to obtain the SSD condition, the water will also drain from the sample
+
+Table 4.10
+Typical OGFC Gradations
+
+Percent Passing
+
+Sieve Size
+
+NCAT Florida New Mexico Nevada
+¥%4” (19 mm) 100 100 100 100
+4" (12.5 mm) 85-100 85-100 100 100
+3%” (9.5 mm) 35-60 55-70 90-100 90-100
+No. 4 (4.75 mm) 10-25 15-25 25-55 35-55
+No. 8 (2.36 mm) 5-10 5-10 - -
+No. 10 (mm) - - 0-12 -
+No.16 (1.18 mm) - -_ - 5-18
+No. 40 (mm) - - 0-8 -
+No. 200 (0.075 mm) 2-4 2-4 0-4 0-4
+
+MS-4 225
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 260 ===
+quickly. This draining of the water from the sample is a cause of errors in
+the water displacement method.
+
+To overcome this problem, two approaches have been used to determine
+the bulk specific gravity of an OGFC. The first is to use dimensional] analysis.
+In this technique, the weight of the sample is determined and the volume of
+the sample is obtained by carefully measuring the sample (height and diam-
+eter) and using that data to compute the volume. The bulk specific gravity is
+then determined by dividing the weight of the sample by the volume of the
+sample. Another approach is to use the CoreLok® vacuum-sealing device as
+discussed in Section 4.2.3.
+
+Determination of Optimum Asphalt Content
+
+Using the selected design gradation, the designer should prepare OGFC
+mixes at three binder contents. These samples should be subjected to the
+draindown test (ASTM D 6390). A maximum draindown of 0.3 percent by
+weight of mix is recommended for an OGFC mix.
+
+Using the optimum asphalt binder content and gradation, the designer
+should conduct the Cantabro abrasion test on unaged and aged compacted
+samples. The test evaluates an OGFC material’s ability to resist abrasion loss.
+A Los Angeles Abrasion machine is used to conduct the test. Each specimen
+is placed in the machine without the charge of steel balls. The machine is
+run for 300 revolutions at a speed of 30 to 33 rpm at room temperature. The
+percentage of abrasion loss is calculated using the following equation:
+
+P, — P,
+p= [Pare
+
+4
+
+100
+
+where
+P = percentage of abrasion loss and
+= original weight of the sample and
+weight of the sample after abrasion testing
+
+omnes)
+Wot
+
+Resistance to abrasion will generally improve by increasing binder con-
+tent or by using a stiffer PG binder grade of asphalt cement. In addition to
+the testing of the unaged mix, the design mix should be subjected to aging
+and then tested with the Cantabro test. OGFC mixes have a very high air-
+void content, which means that the asphalt binder in OGFC is prone to
+hardening at a faster rate than a dense-graded HMA. This may result in
+a reduction of the cohesive and adhesive strength of the binder, which
+could lead to raveling of the mix. Aging is accomplished by placing five
+compacted specimens in a forced-draft oven at 85°C (185°F) for 120 hours.
+The specimens are cooled to 25°C (77°F) and stored for four hours, after
+which the Cantabro test is conducted. The average abrasion losses on the
+five specimens should be less than 30 percent, with no specimens having
+an abrasion loss of more than 50 percent.
+
+The resultant mix must meet the following requirements:
+
+° Air-voids: 18 percent minimum (a higher percentage of air voids will
+
+result in a more permeable mix and a road surface that will produce
+lower noise levels)
+
+226 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 261 ===
+° Voids in coarse aggregate for mix (VCA,.): VCA,, percent < VCA,...
+° Abrasion loss (Cantabro test) on unaged specimens: 20 percent maximum
+e Abrasion loss (Cantabro test) on aged specimens: 30 percent maximum
+
+° Draindown at production temperature: 0.30 percent maximum
+
+Evaluation of Moisture Susceptibility
+
+The final mix should be evaluated for moisture susceptibility using
+the Modified Lottman method (AASHTO T 283 or ASTM D 4867) with
+five freeze/thaw cycles in lieu of one cycle. The retained tensile strength
+should be at least 80 percent.
+
+FHWA Procedure
+
+Determination of optimum asphalt content
+
+The initial asphalt content is determined using the kerosene equivalent
+procedure (AASHTO T 270) to determine the surface capacity of the aggre-
+gate (K,). The asphalt content is computed as follows:
+
+_ | 2:85
+P, = (2K, + 4.0) as. |
+where
+P, = the design asphalt content
+K, = surface capacity of the aggregate
+GS. = apparent specific aggregate of the aggregate
+
+a
+
+Determination of optimum mixing temperature
+
+A 1000-gram sample of aggregate is mixed with the proposed asphalt
+binder at the asphalt content determined above. It is mixed at a mix tem-
+perature corresponding to 800 centistokes using a temperature viscosity
+curve as discussed in Section 4.3. When the aggregate is completely coated,
+the mix should be transferred to a Pyrex glass plate (see Figure 4.34) and
+spread with a minimum of manipulation. The plate should be placed in
+an oven at the mixing temperature. Observe the bottom of the plate after
+60 minutes. A slight puddle of asphalt cement at the points of contact
+between the aggregate and the glass plate is suitable and desirable after
+the 60-minute period.
+
+Resistance to the effects of water
+
+An immersion-compression test (AASHTO T 165 and T 167) (ASTM D 1075
+and D 1074) is conducted on the designed mixture. The samples are prepared
+at the optimum mix temperature as determined above. Use a molding pressure
+of 2000 pounds per square inch. After a four-day immersion at 120°F (49°C),
+the Index of Retained Strength should not be less than 50 percent. Additives to
+promote adhesion will provide adequate retained strength when necessary.
+
+Florida DOT Procedure
+
+The initial asphalt content is determined based on the experience of the
+engineer or technician accomplishing the design. Factors to be considered
+are the gradation of the aggregate and the absorptive characteristics of the
+ageregate. A finer gradation will require more asphalt, and an absorptive
+aggregate will require additional asphalt binder.
+
+MS-4 227
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 262 ===
+After an initial asphalt content has been estimated, the Florida DOT mixes
+three 1200-gram samples—one at the estimated asphalt binder content, one
+at 0.5 percent above the estimated binder content, and one at 0.5 percent
+below the estimated binder content. These samples are mixed at 320°F
+(160°C). After the sample has been thoroughly mixed, it is placed in a pie
+plate. The pie plate is placed in an oven at 320°F (160°C) for one hour. It is
+taken out and cooled. The bottom of the pie plate is inspected to determine
+whether there is excessive draindown. As with the FHWA procedure, a slight
+puddle of asphalt cement at the points of contact between the aggregate
+and the glass plate is suitable and desirable after the 60-minute period.
+
+4.8.3 Asphalt-Treated Permeable Base
+
+General Description
+
+An asphalt-treated permeable base (ATPB) is built as a base for an HMA
+pavement. The purpose of this layer is to intercept the water that enters
+through the pavement surface before it can reach the unbound layers, result-
+ing in lowering the strength of those layers. The water enters the pavement
+through cracks in the surface and/or a poorly compacted and therefore
+permeable HMA layer. The layer should be designed to provide sufficient
+air-voids to make the layer permeable (approximately 10 percent). The per-
+formance and maintenance of these systems is discussed in more detail in
+Chapter 5 of this handbook.
+
+Mix Design Characteristics and Procedures
+
+The mix design of an ATPB is very similar to that used for an OGFC
+layer. The goal is to provide a free-draining layer with sufficient asphalt
+binder to cement the particles together and to prevent stripping of the
+asphalt binder from the aggregate.
+
+Table 4.11 presents gradations being used by different agencies for an
+ATPB layer.
+
+The asphalt binder can be either the standard grade of binder used by the
+agency (such as a 64-22) or a modified binder. The primary concern in the
+choice of asphalt binder is insuring the coating of the aggregate and minimiz-
+ing the amount of draindown during construction. Coating is evaluated by
+visually observing the mix in the laboratory during mixing. Different binder
+contents should be evaluated. The draindown test discussed in the sections
+on SMA and OFGC can be used to evaluate the draindown characteristics of
+the mix. If the draindown exceeds 0.3 percent by weight of aggregate, steps
+should be taken to reduce the draindown, such as using fibers or a polymer-
+modified asphalt binder.
+
+The air-voids in the mix can be evaluated in the same manner as with
+the OGFC mixes. The mix should be compacted using 50 gyrations with
+a SGC and the bulk specific gravity of the ATPB determined using the
+CoreLok® procedure.
+
+228 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 263 ===
+Table 4.11
+
+Typical Gradations Used for ATPB
+
+Sieve Size Indiana Ontario Caltrans Florida
+Asphalt content by 3.1 to 4.7 4.2to 5.4 2.0 to 3.0 2.0 to 3.0
+weight of aggregate
+1% in (37.5 mm) 100 100 100 100
+1 in (25 mm) 70-98 80-99 100 95-100
+3% in (19 mm) 50-85 68-90 90-100 -
+¥% in (12.5 mm) 28-62 54-76 35-65 25-60
+% in (9.5 mm) 15-50 45-67 20-45 -
+No. 4 10-20 35-45 0-10 0-10
+No. 8 3-20 20-45 0-5 0-5
+No. 16 1-15 12-36 - -
+No. 30 1-10 7-28 - -
+No. 50 0-7 3-18 - -
+No. 100 0-6 1-12 - -
+No. 200 0-4 0-5 0-2 -
+
+Ms-4
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 264 ===
+4.9 Performance
+
+Testing of HMA
+
+4.9.1 Introduction
+
+Performance testing of HMA mixes is conducted to predict the perfor-
+mance of HMA prior to use on a transportation facility and to evaluate new
+materials and design tools to improve the performance of HMA pavements.
+HMA mixture testing can be divided into five general categories:
+
+* Modulus—shear, dynamic and resilient modulus
+
+° Creep—static and dynamic creep
+
+° Flexural beam fatigue
+
+¢ Empirical
+
+* Wheel-tracking tests
+
+4.9.2 Modulus Testing
+
+The modulus of a material is used to calculate the expected deformation
+from a specified load. The modulus of elasticity is determined by applying
+increasing loads at a specified rate and measuring the resulting deformation.
+Loads are converted to stress by dividing by the cross-sectional area of the
+specimen section under load. Deformation is converted to strain by dividing
+the change in length (deformation) by the original (non-deformed) length. In
+shear testing, the shear modulus (G) of a material is determined by dividing
+the shear stress (7) by the shear strain (y). In axial testing, the modulus of elas-
+ticity (E) is determined by dividing the axial stress (o) by the axial strain (e).
+
+Shear Modulus
+
+The specimens used for shear and dynamic modulus testing are gener-
+ally manufactured using the Superpave Gyratory Compactor (SGC). An
+HMA sample is obtained by mixing the materials in the laboratory or from
+a hot mix asphalt mixing facility. Mixtures prepared in the laboratory are
+subjected to short-term oven aging (STOA). For shear modulus testing a
+STOA of four hours at 275°F (135°C) is used. This is longer than the two
+hours used in Superpave for mix design. Stiffening of mixtures and binder
+frequently occurs in any HMA facility; therefore the STOA procedure is not
+used for plant-produced mixtures.
+
+The shear modulus test is used to describe the viscoelastic behavior of
+an asphalt mix. It is described in AASHTO TP 7. A sinusoidal shear strain of
+0.01 percent (peak-to-peak) is applied to the specimen at ten frequencies
+(0.01 to 10 Hz). The shear stress and strain are then used to calculate the
+complex shear modulus (G*) of the asphalt mixture. The loading rate for
+this test is selected based on what the material will experience under
+
+230 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 265 ===
+field conditions. The test can be used to determine the effect of loading
+frequency (traffic speed) and temperature on an HMA mixture. The results
+of this test are used as an input into the Mechanistic Empirical Design Guide
+for HMA pavement thickness design.
+
+Dynamic (Axial) Modulus
+
+The dynamic modulus, sometimes called complex modulus, is determined
+by applying sinusoidal (haversine) vertical loads to the specimen at different
+frequencies and measuring the recoverable vertical strain. The test proce-
+dure for determining the dynamic modulus is provided in AASHTO TP 2 or
+ASTM D 3497. The axial stress and strain are used to calculate the dynamic
+modulus. The dynamic modulus is calculated by dividing the repeated stress
+by the repeated strain. The difference between this test and the shear mcdu-
+lus test is the type of loading (axial versus shear loading) as well as the fact
+that the dynamic modulus test is stress-controlled while the shear modulus
+test is strain-controlled. This test is used to describe the viscoelastic behav-
+ior of asphalt materials under axial loading. The results of this test are used
+to evaluate the rutting resistance of an HMA mixture.
+
+Resilient Modulus (RM) Test
+
+The resilient modulus test is a repeated load indirect tension test. The test
+method is described in ASTM D 4123. See Figure 4.29 for a photo of the
+test set up. The specimen used for the resilient modulus test is a 2/2 inches
+
+Figure 4.29 Resilient Modulus Test Set-up
+
+Ms-4 231
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 266 ===
+(62.5 millimeters) by 4 inches (100 millimeters) specimen. The HMA specimens
+are normally loaded to a stress level between 5 and 20 percent of indirect tensile
+strength. A repeated load with constant frequency is applied to the specimen.
+The strain is measured with LVDT (Linear Variable Differential Transducer)
+and used along with the applied stress to compute the resilient modulus of the
+mixture. The results of this test are used as input into layered elastic thickness
+design procedures and are used to determine the structural coefficient for use
+in the Asphalt Institute and AASHTO thickness design procedures.
+
+4.9.3 Creep Testing
+
+Creep testing is a simple version of a controlled stress test. There are two
+types of creep tests—static creep and dynamic creep. In the static creep test
+a constant axial load is applied to the test specimen throughout the duration
+of the test. In the dynamic creep test, a large number of repeated axial load
+applications are applied to the specimen. It is called “dynamic” because the
+specimen is being continually loaded and unloaded throughout the dura-
+tion of the test.
+
+Static creep
+
+In the static creep test an axial load is rapidly applied (within 0.05
+sec) to the test specimen until a desired axial stress is achieved (usually
+between 69 and 207 kiloPascals). This axial stress is then maintained until
+the total axial strain reaches approximately 2 percent (20,000 microstrain)
+or tertiary flow occurs in the test specimen. The general shape of the axial
+strain curve is shown in Figure 4.30.
+
+Tertiary Flow
+
+Axial Strain
+
+Loading Time, Seconds
+
+xdal Static Creep Test—Strain Response
+
+232 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 267 ===
+At any time during the test, the applied stress can be divided by the
+observed strain to arrive at a creep modulus or stiffness. Because the
+strain changes with time, so does the creep modulus. In creep testing,
+many engineers prefer to compute creep compliance rather than creep
+stiffness. Creep compliance can be portrayed as the inverse of creep stiff-
+ness (although it is not strictly correct, theoretically). In other words, creep
+compliance is the strain at any time during the test per unit of stress. At
+the conclusion of a creep test, the test specimen will partially rebound to
+its original shape. For many materials, however, some permanent deforma-
+tion remains in the test specimen.
+
+The rate of change of creep compliance versus loading time is then
+calculated and plotted as shown in Figure 4.31. The minimum point of the
+curve occurs where the rate of creep compliance changes as a function of
+time is zero. This point is identified as the flow time and is the time when
+shear deformation occurs under constant volume. Higher values of flow
+time (FT) from the axial static creep test are thought to be related to better
+rutting resistance in the HMA mixture.
+
+Dynamic Creep Test
+
+Dynamic creep testing can also be conducted using repeated axial stress
+loading cycles and measuring the resulting axial strain. The concepts of
+repeated load axial (dynamic creep) testing are similar to the repeated shear
+test at constant height. A specified axial stress (usually 69-207 kilopascal) is
+applied to a test specimen for 0.1 seconds and released to a rest period of
+0.9 seconds. Each loading cycle is 1 second (1 Hertz). In the standard test,
+loading cycles are applied for 10,000 cycles (approximately 2.75 hours) or
+until excessive tertiary deformation is reached in the test specimen. As with
+
+Log Rate of Change
+in Compliance
+
+Flow Time
+
+—
+
+Log Time, Seconds
+
+Figure 4.31 Rate of Change in Compliance as a Function of Loading Time
+
+MSs-4 233
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 268 ===
+the repeated shear test, the axial strain is calculated and the permanent axial
+strain determined at the end of each loading cycle (€,).
+
+The rate of change of axial strain versus loading time is calculated and
+plotted as shown in Figure 4.32. The minimum point of the curve occurs
+where the rate of change in axial strain as a function of time is zero. This
+point is identified as the flow number (FN) and is postulated to be the
+number of load repetitions at which shear deformation (under constant
+volume) occurs. Higher values of flow number (FN) from the repeated
+load axial (dynamic creep) test are thought to be related to better rutting
+resistance in the HMA mixture.
+
+4.9.4 Flexural Fatigue Test
+
+The flexural fatigue test is conducted to evaluate the fatigue charac-
+teristics of an HMA mixture. Fatigue cracking of pavement is considered
+to be more a structural problem than simply a material problem. Several
+external factors influence the fatigue cracking in pavements, such as poor
+subgrade drainage, time of placement, and method of compaction and
+placement of the asphalt mix.
+
+The specimens for this test are 2.5 inches (62.5 millimeters) by 2 inches
+(50 millimeters) by 15 inches (375 millimeters) beams. The test is conducted
+in accordance to the procedures in AASHTO T 321. In this method, repeated
+haversine loads (0.1 second load and 0.4 second unload) are applied at
+the third points of the specimen. The beam fatigue test can be conducted
+in controlled stress or controlled strain mode. A photo of the apparatus is
+presented in Figure 4.33.
+
+Flow Number
+
+Rate of Change
+in Permanent Axial Strain
+
+Loading Cycles (Time)
+
+Figure 4.32 Rate of Change in Axial Strain as a Function of Loading Cycles (Time)
+
+234 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 269 ===
+Figure 4.33
+
+MS-4 235
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 270 ===
+In the constant stress method, load cycles are applied until either the
+specimen fails to take more load or it breaks. The number of cycles required
+for a specimen is logged. Similarly, the test is conducted on several sam-
+ples with different magnitudes of load and logged in a log-log plot. In the
+constant stress test, more samples with higher stiffness perform better
+than the samples with lower stiffness. The test results from this test are
+applicable to thick HMA pavements.
+
+In the constant strain beam fatigue test, constant strain is maintained
+in a sample, but the magnitude of the load is allowed to decrease with
+increasing load cycles. In this method, the samples do not break during
+the test. Failure is defined when the applied load is reached at a certain
+percentage of the original applied load. Usually, failure is defined as 50
+percent loss in initial beam stiffness. The test results are applicable to thin
+pavements—less than 2 inches (50 millimeters) thick. A typical plot of fatigue
+data in the constant strain beam fatigue test is presented in Figure 4.34.
+
+4.9.5 Empirical Tests
+
+Empirical tests have been used to relate the performance of an HMA pave-
+ment to a standardized test. The results from the test do not provide funda-
+mental engineering properties that can be used in calculations of stresses
+and strains in an HMA pavement. Rather, they have shown through field per-
+formance to be indicative of performance. The three most commonly used
+empirical tests for HMA pavements are the Marshall test, the Hveem test, and
+the indirect tensile test; these were described earlier in this chapter.
+
+3,500
+
+3,000
+
+2,500 +
+
+2,000
+>
+1,500 © M096
+
+Stiffness, MPa
+
+1,000 Og
+
+500
+
+0 T T T T
+0 10,000 20,000 30,000 40,000 50,000
+
+Cycles, n
+
+Figure 4.34 Typical Plot of Fatigue Data in Constant Strain Beam Fatigue Test
+
+236 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 271 ===
+4.9.6 Wheel-Tracking Tests
+
+Hamburg Wheel-Tracking Device (HWTD)
+
+This machine was developed by the Germans in the 1970s. The test pro-
+cedure is AASHTO T 324. The HWTD measures the combined effects of rut-
+ting and moisture on an HMA mixture. A steel wheel rolls across the surface
+of the HMA core, which is immersed in hot water. The steel wheel moves
+through a crank connected to a flywheel. The steel wheel has a diameter
+of 8 inches (204 millimeters) and is 1.85 inches (47 millimeters) wide with
+a 154-pound load applied. The testing is done with the samples in a hot
+water bath at 50°C. The test is run for 10,000 cycles (20,000 passes) or until
+a deformation of 0.787 inch (20 millimeters) is reached. The machine is
+shown in Figure 4.35.
+
+Figure 4.36 is a sample of the typical data obtained from the HWTD. Three
+points are identified on the curve: the creep slope, the stripping slope, and
+the stripping inflection point. The creep slope occurs before the onset of strip-
+ping and is the inverse of the rate of deformation in the linear range of the
+deformation curve. This portion of the curve is where rutting will occur due
+to consolidation and plastic flow. The stripping slope is related to the severity
+of the damage due to moisture. It is the inverse of the rate of deformation in
+the linear region after the onset of the stripping to the end of the test. The
+stripping inflection point is related to the resistance of the HMA tested to the
+effects of the moisture. This point is determined at the number of passes at
+which the creep slope and the stripping slope intersect.
+
+In its executive summary on performance testing of HMA mixes, NCAT
+suggested rut-depth criteria of less than 0.393 inch (10 millimeters) after
+10,000 cycles (20,000 passes) for conventional dense-graded HMA mixes.
+
+Asphalt Pavement Analyzer (APA)
+
+The Asphalt Pavement Analyzer (APA) is a modification of the Georgia
+Loaded Wheel Tester (GLWT), which was developed in a cooperative study
+of the Georgia Department of Transportation and the Georgia Institute
+of Technology in 1985. It has been used primarily to evaluate the rutting
+resistance of an HMA mixture. Studies have been conducted to evaluate
+the use of the equipment for evaluating fatigue and moisture resistance of
+HMA mixtures. The APA is shown in Figure 4.37.
+
+A loaded wheel is placed on a pressurized hose, which sits on the test
+specimens, and then tracked back and forth to induce rutting. Generally,
+the specimens are tested to 8,000 cycles. Samples can be tested dry or
+while submerged in water.
+
+The test specimens for the APA can be either beam or cylindrical
+specimens. The beam samples are generally compacted using the Asphalt
+Vibratory Compactor (Figure 4.38). The cylindrical specimens are made
+with the Superpave Gyratory Compactor. The beams are compacted to
+7 percent air-voids, and the cylindrical specimens are compacted to both 4
+and 7 percent air-voids. Cores from an in-service roadway can also be tested.
+
+MS-4 237
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 272 ===
+Figure 4.35 Hamburg Wheel-Tracking Device”
+
+Permanent Deformation, mm
+
+238
+
+Hamburg Wheel-Tracking Results
+
+(Wet, 50C)
+
+1
+ol
+
+os
+oO
+
+aA
+a
+t
+
+Good Performer
+sevrteaenene Poor Performer
+
+N
+S
+oO
+
+5000 10,000 15,000
+
+Wheel Passes
+
+Hot Mix Asphalt (HMA) Design
+
+Figure 4.36 Typical Results from a Hamburg Wheel-Tracking Device
+
+20,000
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 273 ===
+37 Asphalt Pavement Analyzer
+
+igure 4.
+
+F
+
+239
+
+*
+
+MS-4
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 274 ===
+The samples are tested at or near the maximum pavement temperatures
+(generally defined as the high temperature grade for the asphalt binder to
+be used in region where the HMA pavement is being built).
+
+The wheel load is 100 pounds (445 Newtons) and the hose pressure is 100
+pounds per square inch (690 kiloPascals). Figure 4.39 shows the typical APA
+rut-test results. It indicates that specimens deform rapidly at the beginning
+of the test. The amount of permanent deformation per cycle decreases and
+becomes quite steady after a certain number of load cycles.
+
+240 Hot Mix Asphalt (HMA) Design
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 275 ===
+10
+8
+6
+E
+=
+£
+3
+@ 4
+=
+oc
+0
+
+Asphalt Pavement Analyzer (APA)
+
+oom o Left
+-~~--Center
+“-~-Right
+Average |
+0 1000 2000 3000 4000 5000 6000 7000 8000
+
+Cycles (1 cycle = 2 passes)
+
+Figure 4.39 Typical APA Test Results
+
+Ms-4
+
+241
+

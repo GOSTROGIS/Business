@@ -1,0 +1,55 @@
+To calculate the VMA, it is necessary to determine the combined bulk
+specific gravity of the aggregates (RAP and virgin aggregates). Two
+approaches are used. The first approach consists of splitting the extracted
+aggregate into fine (minus No. 4 [4.75 millimeters]) and coarse fractions
+(plus No. 4 [4.75 millimeters]), and determining the specific gravity of each
+fraction. The advantage is that this provides a direct measure of the specific
+gravity of the aggregate. The disadvantages are that the extraction process
+(chemical or ignition) will damage the aggregate or that the samples will
+contain asphalt or solvent, which will make it difficult to accurately mea-
+sure the specific gravity. The second approach consists of determining the
+maximum specific gravity of the RAP (G__) using AASHTO T 209 or ASTM
+D 2041, determining the asphalt content of the RAP, and then calculating
+the effective specific gravity (G,.) of the aggregate. The advantage of this
+method is that it is more accurate than the determination of the bulk specific
+gravity of the individual fractions. The disadvantage is that using G,, rather
+than G,, of the RAP aggregate will result in an overestimate of the combined
+bulk specific gravity and will artificially raise the VMA of the HMA mix. The
+error will increase with higher percentages of RAP.
+
+Asphalt Properties
+
+The extracted asphalt obtained using AASHTO T 164 or ASTM D 2172 is
+recovered from the extract solution using either AASHTO T 170 or ASTM
+1856, Recovery of Asphalt from Solution by Abson Method, or by ASTM
+D 5404, Recovery of Asphalt from Solution Using the Rotavapor Apparatus.
+The Rotavapor procedure is the preferred method because it results in less
+severe changes in the binder properties.
+
+This recovered binder is used to construct blending charts and to char-
+acterize the high-, intermediate-, and low-temperature properties of the
+binder. Approximately 50 grams of recovered binder is needed to conduct
+these tests. The testing should include dynamic shear rheometer (DSR)
+tests on the recovered asphalt before and after aging in the rolling thin
+film oven (RTFO). Bending beam rheometer (BBR) tests should also be
+conducted on the recovered asphalt after aging in the RTFO.
+
+The DSR test on the recovered binder will be used to determine the
+critical bigh temperature T, (High) where G*/sind = 1.00 kiloPascals. This
+is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(G*sin8)
+oe” AT
+
+Determine T, (High) to the nearest 0.1°C using the following equation:
+Log(1.00) — Log(G,)
++
+
+T, (High) = a T,
+where
+G, = the G*/siné value at a specific temperature T, and
+a = the slope determined from the above equation
+
+MS-4 211

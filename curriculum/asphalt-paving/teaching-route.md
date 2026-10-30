@@ -1,6 +1,6 @@
 # Teach the trade words through useful work
 
-**ACCESS IS4S · Integrated classroom route · 29 October 2026**
+**ACCESS IS4S · Integrated classroom route · 30 October 2026**
 
 Use the SkilledTradesBC outline to choose the occupational outcome. Teach the words, picture and worked example together, then collect a learner's own explanation or product. Use the nine-skills books when a learner needs explicit instruction before returning to the trade task.
 
@@ -14,9 +14,9 @@ The six authored Line A units provide the main classroom route. The opening case
 |---|---|---|---|
 | **A1 · Introduction to the paving industry and paving equipment** | Opening A1-Q01–Q10; Line A LA1-01–LA1-06. Connect infrastructure, equipment functions, industry evidence and responsibilities. | [Opening workbook](unit-01/index.html): EPS diagram and exact clause. [Manual lesson](manuals/lesson.html): LeeBoy machine picture and MAN-01 identity check. | Labelled process; equipment/function explanation; dated industry statement; definition separated from contractual applicability. |
 | **A2 · Describe history of asphalt pavement** | [How roads changed](line-a/02-history.html), LA2-01–LA2-06. Build chronology from stated evidence and explain road types. | Use the historical accounts and evidence cards in the unit; mark the difference between an account and an inference. | Timeline with source dates; supported comparison; corrected statement after checking. |
-| **A3 · Describe paving technology** | [From materials to paving](line-a/03-technology.html), LA3-01–LA3-07. Teach asphalt cement/binder, aggregates, pits/quarries, batch/drum production and reuse routes. | Read the material-flow SVG, then the labelled LeeBoy picture. Use the [manual visual exercises](manuals/lesson.html) to find the hopper, augers and screed in their actual model context. | Ingredient explanation; two production types distinguished; labelled route; clarification request; reopened digital note. |
+| **A3 · Describe paving technology** | [From materials to paving](line-a/03-technology.html), LA3-01–LA3-07. Teach asphalt cement/binder, aggregates, pits/quarries, batch/drum production and reuse routes. | Read the material-flow SVG, MS-4 batch/continuous comparison and paver-route redraw, then the labelled LeeBoy picture. MS4-03–MS4-06 supply further guided practice. Use the [manual visual exercises](manuals/lesson.html) to find the hopper, augers and screed in their actual model context. | Ingredient explanation; two production types distinguished; labelled route; clarification request; reopened digital note. |
 | **A4 · Describe industry expectations of/for workers** | [Working in a paving team](line-a/04-workers.html), LA4-01–LA4-06. Name responsibilities and practise a checked handover. | MAN-04–MAN-08: write a document-verification note, check back, share roles and revise a fictional machine record. | Each person's authored note, listener check, contribution and visible revision. |
-| **A5 · Describe basic road and highway profiles** | [Read road documents and quantities](line-a/05-road-documents.html), LA5-01–LA5-06. Distinguish plan/profile/cross-section, crown and superelevation; keep units and versions visible. | [Specifications workshop](specifications/learner-workbook.html), SP-01–SP-18: read the original table crop and Road Checker's Summary clause, then use the explicitly fictional tickets and dimensions. | A located source cell; checked quantity calculation; saved spreadsheet; corrected record; handover preserving the reason for change. |
+| **A5 · Describe basic road and highway profiles** | [Read road documents and quantities](line-a/05-road-documents.html), LA5-01–LA5-06. Distinguish plan/profile/cross-section, crown and superelevation; keep units and versions visible. | [Specifications workshop](specifications/learner-workbook.html), MS4-01–MS4-02 develop load/layer vocabulary; SP-01–SP-18: read the original table crop and Road Checker's Summary clause, then use the explicitly fictional tickets and dimensions. | A located source cell; checked quantity calculation; saved spreadsheet; corrected record; handover preserving the reason for change. |
 | **A6 · Describe future paving/construction trends** | [Investigate a paving trend](line-a/06-trends.html), LA6-01–LA6-06. Compare a proposal using stated criteria and dated evidence. | Return to MAN-09 or SP-18 to design and test a useful information aid. Evaluate its effect on another reader before revising it. | Bounded recommendation; two ideas; trial observation; explained improvement. |
 
 The specification work also prepares selected F2 drawing and F3 measurement learning tasks. The equipment pictures introduce vocabulary later needed in I2 (paver), J1 (screed) and L1 (compaction equipment). These are narrow preparation links. They do not turn those later competencies into complete technical units or practical assessments. J2 concerns screed safety; it is not the component-identification competency.
@@ -56,6 +56,19 @@ Invite learners to select a public or fictional road-use context: access to serv
 
 At the end of a lesson, keep the activity ID, version, learner contribution, support used, criterion observed and next practice. Use the existing feedback descriptions: **Not observed**, **Not yet demonstrated**, **Demonstrated with support**, or **Demonstrated independently**. Classroom evidence and workplace authorization remain separate records.
 
-## Textbook integration checkpoint
+## Teach the verified MS-4 concepts
 
-MS-4 Seventh Edition remains the selected asphalt textbook. Its full text is not accessible in this workspace yet. Existing lessons and diagrams are attributed to the documents actually read. When the handbook is accessible, verify its edition, contents and page numbering; use those verified chapters to check this route, and identify any redrawn figures with the exact source figure/page and an APA adaptation note. No current diagram is represented as redrawn from unread MS-4 pages.
+The complete [MS-4 Seventh Edition reader](ms-4/index.html) contains all 834 source pages, 15 chapters and 62 short HTML reading sections. Searchable OCR sits beside each preserved scan; use the scan for exact figures, symbols and technical values. The [chapter map](ms-4/chapter-map.md) records actual titles and source-page ranges.
+
+Use the complete [Understanding asphalt learner book](ms-4/concepts/index.html) and [teaching/answer guide](ms-4/concepts/teaching-guide.html) at these points:
+
+| Concept and source | Complete practice | Route into the curriculum |
+|---|---|---|
+| Load spread and pavement layers · Chapter 1 | MS4-01–MS4-02: explain a load path; check a fictional layered model in mm and m | A1 equipment/material context; A5 task 5 cross-section vocabulary |
+| Batch and continuous production · Chapter 7 | MS4-03–MS4-04: classify records; save and reopen a checked process explanation | A3 task 1; LA3-02 and LA3-07 |
+| Paver material route · Chapter 8 | MS4-05–MS4-06: distinguish hopper, conveyors, augers and screed; check back with a partner | A3 process vocabulary; introductory I2 component language |
+| Five screed factors · Chapter 8 | MS4-07–MS4-08: distinguish observations from causes; revise an evidence record | Introductory J1 vocabulary and later screed study |
+| Pass and coverage · Chapter 9 | MS4-09–MS4-10: read point/full-width counts and identify missing evidence | Introductory L1/L5 terminology; no operating pattern prescribed |
+| Explain, test and revise an information aid | MS4-11–MS4-12: compare two designs, test with a reader, respond to a changed brief | Communication, Collaboration, Adaptability, Creativity and Innovation; actual Digital actions when performed |
+
+The six redraws cite the exact source figures/pages, state the changes and retain original contributor credits. These concept lessons support the occupational route; the [68-competency register](line-a/competency-status.md) continues to identify later technical units that still need authoring and practical assessment.

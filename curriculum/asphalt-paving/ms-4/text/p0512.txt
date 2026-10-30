@@ -1,0 +1,63 @@
+Control Charts
+
+One way that quality-control data is presented is on control charts
+(Figure 10.10). Control charts are graphed plots of quality-control data
+over time. The specification limits may also be plotted. Control charts are
+useful because they provide a quick visual reference of how close to the
+specification limits the test data are. They can also be invaluable in spot-
+ting trends in the data.
+
+Data Analysis
+
+Some data collected for quality-control is straightforward, and corrective
+action is relatively automatic after receiving the information. An example
+of this would be measurements of temperature at the batch plant. If the
+target temperature for mixture leaving the plant is 320°F (160°C), and the
+quality-control check determines that the temperature is 300°F (149°C),
+the plant operator can begin adjustments immediately to increase the mix-
+ing temperature to the target.
+
+Other data collected for quality-control requires careful analysis and con-
+sideration before corrective action is taken. An example of this would be
+measurements of laboratory air voids in the mix. If the target air voids are
+4 percent (assume the specifications limit is +1 percent) and if the quality-
+control test indicates the mixture is at 2.9 percent, there are several things
+the plant operator and the quality-control managers would need to consider
+
+§ 5.8 f----------- =~ == 2-5-2777 -------- eo UCL
+S @
+
+rm @ ® ®
+
+5 @ )
+
+2 5.5 @ Target
+{e)
+
+rs) @ @ @ @ e
+
+8
+
+g 5.2 }--------------------- @ ______________-.-- LCL
+
+o
+© a a ee ee es es ee ee ee ee ee ee ee
+2 §.8 brett ttt tt rrr rrr rc rrr errr tree UCL
+2 e ®
+ae
+65 @ © @
+28 5.5 -@ @ @ ® @ Target
+c
+a
+g @ ®@
+§
+B 8.2 pr---- 3 nor rrr rrr LCL
+&
+a. {of | ft ft | | ft | |
+<
+
+Figure 10.10 Control Chart Example
+
+478 Quality Control and Accepiance of Hot Mix Asphalt
+
+*

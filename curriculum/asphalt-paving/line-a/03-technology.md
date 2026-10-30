@@ -53,6 +53,13 @@ Write a three-sentence explanation that distinguishes aggregate, asphalt binder 
 
 A **batch plant** prepares identifiable batches: aggregate is proportioned and combined with binder in a mixer. A **drum-mix plant** uses a continuous process in which material flows through the plant. Drum designs differ; do not treat every drum layout as identical. The beginner distinction is batch quantities versus a continuing material stream, not “one uses a drum and the other has no drum.” A batch plant can have a drying drum before its mixer.
 
+<figure class="learning-figure" id="figure-la-4">
+<p class="figure-number">Figure LA-4</p>
+<p class="figure-title"><em>Batch or continuous?</em></p>
+<a href="../ms-4/concepts/assets/plant-processes.svg"><img src="../ms-4/concepts/assets/plant-processes.svg" alt="The batch route shows cold-feed bins, drying and heating, screening and hot bins, weighing a batch, mixing with binder and storage. The continuous route shows proportioning, flow measurement, continuous drying and mixing with metered binder, and storage."></a>
+<figcaption><strong>Note.</strong> Adapted from <em>The asphalt handbook</em> (7th ed., MS-4; <a href="../ms-4/reader/chapter-07-01.html#page-0344">Figure 7.2, p. 310 / PDF 344</a>; <a href="../ms-4/reader/chapter-07-01.html#page-0346">Figure 7.4, p. 312 / PDF 346</a>), by Asphalt Institute, 2007. Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems. Original Figure 7.2 is credited to Terex Roadbuilding in the handbook's contributor list. Original Figure 7.4 is credited to National Highway Institute (NHI) in the handbook's contributor list. Copyright 2007 by Asphalt Institute; original contributor credits retained.</figcaption>
+</figure>
+
 **Fictional classroom production records.** Plant B's teaching log lists batch 01, batch 02 and batch 03, each with a separate record of ingredients and release. Plant D's teaching log records a continuous feed period and time-stamped checks. These are deliberately simplified descriptions. Neither log provides an approved mix design, production rate or operating instruction.
 
 **Worked example.** “Plant B has a drying drum, so it must be a drum-mix plant” is an invalid inference. Ask where and how the mixture is produced. B's separate batch records support a batch process in this case. The physical presence of one part does not classify the whole system.
@@ -78,6 +85,19 @@ First identify which archive wording is undefined and must be clarified; do not 
 **Hot-in-place recycling** treats an existing asphalt surface on the road using a coordinated equipment train. Its broad purpose is to reuse existing material in place through a specialist process. It is different from hauling recovered material to a plant. A milling machine's removal of material is also not proof that the removed material has been successfully recycled. Track the actual route and evidence for reuse.
 
 An **asphalt train** is a coordinated sequence of equipment and roles. In ordinary placement, haul, paver/screed and compaction functions connect. A specialist hot-in-place train has its own process and equipment. The word *train* does not mean every paving job uses the same machinery, controls or sequence.
+
+## Follow the mixture inside the paver
+
+The **hopper** receives mixture. **Slat conveyors** move it toward the rear. **Augers** distribute it across the width ahead of the **screed**, which places and shapes the mat. The screed also performs the placement stage's initial compaction; rollers have a later compaction role. Read each noun together with its action. The material route explains a general function; an identified machine manual supplies the actual layout and controls.
+
+<figure class="learning-figure" id="figure-la-5">
+<p class="figure-number">Figure LA-5</p>
+<p class="figure-title"><em>Follow the mixture through the paver</em></p>
+<a href="../ms-4/concepts/assets/paver-material-route.svg"><img src="../ms-4/concepts/assets/paver-material-route.svg" alt="Mixture enters the hopper, travels rearward on slat conveyors, is distributed laterally by augers and passes beneath the screed to form the mat. The diagram names functions without prescribing controls or settings."></a>
+<figcaption><strong>Note.</strong> Adapted from <em>The asphalt handbook</em> (7th ed., MS-4; <a href="../ms-4/reader/chapter-08-02.html#page-0411">Figure 8.11, p. 377 / PDF 411</a>; <a href="../ms-4/reader/chapter-08-02.html#page-0412">8.4.1, component descriptions, p. 378 / PDF 412</a>), by Asphalt Institute, 2007. Replaced the perspective equipment schematic with a labelled functional material route. Not drawn to scale or tied to an actual model. Original Figure 8.11 is credited to Volvo Construction Equipment in the handbook's contributor list. Copyright 2007 by Asphalt Institute; original contributor credits retained.</figcaption>
+</figure>
+
+**Worked explanation.** “The conveyor moves mixture rearward; the auger distributes it across the width.” The direction and job differ. Find the hopper and screed in the manufacturer photograph next, then explain why a general route diagram cannot establish another machine's numbered callouts.
 
 ## Read one machine picture carefully
 
@@ -115,4 +135,4 @@ A team initially labels a photo “RAP going to a plant.” The caption is corre
 
 ### LA3-07 · Make a retrievable technology note
 
-Create a one-page document with the two plant distinctions, ingredient roles, two recycling routes and the unresolved product request. Save, close and reopen it; check that another learner can find its title and version. Offer a paper route for composing, while keeping actual Digital evidence separate. Finish by explaining one function without providing an operating setting. Add a small Figure LA-3 note: choose two of callouts 7, 10, 11 or 12, record the manufacturer’s names, explain each in plain language, and retain the model, manual number and page. State one thing the photograph cannot establish.
+Create a one-page document with the two plant distinctions, ingredient roles, two recycling routes and the unresolved product request. Save, close and reopen it; check that another learner can find its title and version. Offer a paper route for composing, while keeping actual Digital evidence separate. Finish by explaining one function without providing an operating setting. Add a small Figure LA-3 note: choose two of callouts 7, 10, 11 or 12, record the manufacturer’s names, explain each in plain language, and retain the model, manual number and page. State one thing the photograph cannot establish. Add the four-stage material route from Figure LA-5, using the words hopper, slat conveyors, augers and screed. Explain how the conveyor and auger functions differ. Use Figure LA-4 to check that your plant comparison describes the mixing process.

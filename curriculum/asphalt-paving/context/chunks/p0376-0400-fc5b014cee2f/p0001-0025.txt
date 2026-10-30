@@ -1,0 +1,1256 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0376-0400.pdf
+SOURCE SHA-256: fc5b014cee2ff0fce05b41c46b1fb94d12a661ef1f2a6b274b5f124f8fd924f0
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 376 ===
+RAP EXHAUST
+
+Sir,
+
+AGGREGATE
+
+BURNER
+
+ast
+
+HOT Mix
+
+LIQUID
+ASPHALT
+
+Figure 7.26 Double-Barrel Unitized Dryer/Mixer Flow
+
+The driving force behind this design innovation in the 1980s was a desire
+to create a drum-mix facility that was more environmentally friendly by
+introducing the new liquid-asphalt binder outside of the main gas stream
+used to dry and heat the aggregate materials. This reduced the discharge
+of very small (1-5 micron) hydrocarbon particles in the stack gases, which
+sometimes created visible emissions or odors from the drum-mix facilities.
+These new drum-mixers eliminate this problem.
+
+Figures 7.23 through 7.26 show the different styles of drum-mixers
+commonly found in the field at this time. It should be noted that many
+batch-plant operators are now converting their plants from batch plants
+to drum-mixers by replacing the tower with a mixing drum or continuous
+pugmill mixer or by bypassing the tower and using a small mixing drum
+mounted beside the tower, resulting in a hybrid system known as a com-
+bination plant. This allows operators to use the same dryer and baghouse
+to dry the material. As noted previously in this chapter, the cold-feed
+bins were probably already converted to belt feeders with variable-speed
+drives. By installing a continuous mixing device, a drum-mix liquid asphalt
+pumping and metering system, and drum-mix controls, the batch-plant
+operator now has all the advantages of drum-mix operation. Of primary
+interest to producers is the ability to run at the production rate possible
+with the dryer and not be limited by the capabilities of the screening unit,
+being able to run higher percentages of RAP, and reducing maintenance
+costs, thereby becoming more competitive in the marketplace. Having
+consistently sized aggregates available makes this conversion possible.
+
+7.4.2 Aggregate Gradation Control in a
+Drum-Mixer
+
+Controlling aggregate gradation with a drum-mixer is a much simpler
+process than with a batch plant. The individual cold-feed bins are calibrated
+for their speed/output function, and the final mix gradation is controlled
+
+342 Manufaciure of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 377 ===
+by proportioning these individual bins to the target mix formula. This,
+of course, depends on the availability of consistently sized individual
+aggregates from the aggregate supplier. If the individual aggregates are
+not consistent in gradation, then a consistent hot mix cannot be produced
+with a drum-mixer. Drum-mixers and the drum-mixing process depend on
+the availability of consistent aggregates to make high-quality mix.
+
+The output from the cold-feed bins is really controlled in two ways. The
+primary adjustment is the variable-speed motor driving the belt feeder. In
+addition to this, the bins are fitted with adjustable gates. This procedure
+allows the producer to control the maximum and minimum flows from
+the bin. Some mixes require a large quantity of one material—in this case,
+the gate is opened wide. Some mixes require a small quantity of another
+material, and in this case the bin gate might be lowered. Variable-speed
+motors can be inconsistent in their flow at very low rates. They can also
+reach their maximum speed at the 95 percent, 96 percent, or 97 percent
+range. The most linear range is typically between 10 percent and 90 per-
+cent speed. Some are linear between 5 percent and 95 percent speed. It
+is best practice, therefore, to use the adjustable gate to ensure that the
+motor-drive combination is functioning in the 5-95 percent or 10-90 per-
+cent range at all times. Between these speed ranges, if output is charted to
+speed, the line usually has a consistent and predictable slope.
+
+Figure 7.27 shows a typical calibration chart for a feed bin at different
+gate settings. Note that for very large quantities of material, the gate will
+
+Feed bin = 2
+Material = 3/4"
+
+150
+135
+120
+105
+90
+75
+
+TPH Output
+
+' 2-Inch Gate:Opening:
+
+55
+
+50
+
+eae ee ee
+
+0
+0 10 20 30 40 50 60 70 80 90 100%
+
+% Speed
+
+Figure 7.27 Manual Calibration Chart for Cold-Feed Bin
+
+MS-4 343
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 378 ===
+have to be opened, and for very low quantities of material, the gate will
+have to be closed. The different lines represent the different gate openings.
+
+When drum-mixers first arrived on the hot mix production scene,
+microprocessor controls for plant operation did not exist. Feeders, or cold
+feeds, therefore, were typically calibrated with charts similar to that shown
+in Figure 7.27. The operator, using these types of charts, had to calculate
+the required speed for each feeder, mix recipe, and desired production
+rate. Since the 1980s, computerized control (see Figure 7.28) has become
+the standard for both batch and drum production.
+
+The operator is also given a mix recipe screen, where the desired recipe
+is entered. A copy of such a screen is shown in Figure 7.29. In running mix,
+the operator selects the Mix Design Formula (MDF) and the production
+rate. The processor calculates the required feeder speeds for each feeder
+based on both the MDF and the desired rate. When the plant is started,
+the feeders start individually in sequence, which minimizes wasted mix
+on startup and shutdown. The processor adjusts the feeders to the proper
+speed setting for the production rate and mix design.
+
+Feeders are calibrated in dry weights because the same amount of aggre-
+gate flows from the feeder at a given speed, regardless of the surface mois-
+ture. For proper ratio blending, then, it is important to subtract the surface
+moisture when the calibration process is executed. Figure 7.28 illustrates
+the means of entering the moisture content during the calibration process.
+
+BIN TPH %SPEED MAXTPH GATE"
+
+#1 0.0 00 6142.7 = 6.0
+#2 0.0 00 6155.0 5.5
+#3 0.0 8645.1 225.0 5.5
+Os | #4 0.0 0.0 1800 6.5
+TRUCK TARE 10000 tas | #5 0.0 0.0 4190.0 = «6.5
+Rucker S| 0.0 0.0 8.0
+“CALCULATED ea
+(MAXIMUM TPH
+PRINT
+
+“BIR TP AUTO CALIB. DRUM SHAHEE
+(eco Lc
+
+Figure 7.28 Computerized Cold-Feed Calibration Screen
+
+344 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 379 ===
+With a drum-mix plant, the aggregate belt scale is used for blending the
+asphalt and other ingredients to the combined-aggregate flow. The belt
+scale is the device that measures the combined-aggregate flow. The pres-
+ence of a belt scale makes it very easy to calibrate the feeders. The flow
+of the material from each bin can be easily determined in tons per hour
+at different flow rates by simply allowing the aggregate material from the
+cold-feed bin to flow over the belt scale and into a truck. Timed runs can
+also be used, and the flow rate calculated, but using the belt scale is very
+simple. Virtually all plants use this technique for calibrating the feeders.
+The aggregate flow and gradation is controlled volumetrically by using
+predetermined flow output for different speed ranges and then back-
+calculating the required speed for each feeder after determining the flow
+required from each feeder. Executing the feeder calibration process prop-
+erly is critical for success with a drum-mixer. Feeder calibration should
+also be checked and re-verified on a regular basis.
+
+7.4.3 Asphalt Content Control in a
+Drum-Mixer
+As indicated above, the belt scale is used to indicate total aggregate flow
+
+from the cold feed bins. This is the first step in asphalt content control with
+a drum-mixer. Once the total aggregate flow is determined, the required
+
+MS-4 345
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 380 ===
+asphalt flow is calculated based on the mix design. The plant control
+system then regulates the asphalt flow to the required rate.
+
+The asphalt pumping and metering system on a drum-mix plant is a con-
+tinuously operating unit. It pumps liquid asphalt continuously and measures
+the result of that flow with a meter. It can increase or decrease the flow
+dynamically with the plant’s automation.
+
+There are two key equipment elements to this process—the asphalt flow
+control mechanism and the asphalt meter or measuring device.
+
+Several types of flow control mechanisms have been used over the years,
+but all manufacturers now favor a variable-speed motor on the asphalt pump
+for this purpose. If more asphalt is required, the pump is accelerated. If less
+asphalt is needed, the pump is slowed. Most producers have converted their
+plants to this technique because it eliminates the maintenance on the wear
+parts of the previous systems and is generally considered trouble-free.
+
+Figure 7.30 illustrates how this process works. The belt scale reports the
+wet aggregate flow to the control system. The control system will adjust the
+wet scale value for the moisture in the material, based on the aggregate-
+moisture data entered by the operator. Entering the proper moisture quantity
+is important and is typically done by entering the moistures of the individual
+materials into a “moisture screen.” The control system then calculates the
+combined moisture based on the mix recipe and the individual material
+moistures, and removes this combined moisture percentage from the wet
+weight to arrive at a dry weight. The plant control assumes the dryer will dry
+the material adequately and therefore uses this calculated dry weight signal
+for proportioning the liquid-asphalt binder. Based on the required asphalt
+percentage in the mix, which comes from the mix formula, the control sys-
+tem calculates the required asphalt flow. It then sends a signal to the flow-
+control mechanism, which more often than not is a variable-speed motor,
+and then reads the result of its action by reading the asphalt flow meter. If
+
+Target asphalt content Aggregate flow input
+input by operator Y 3 from belt scale
+
+Aggregate moisture
+input by operator
+
+Control
+
+Asphalt
+From asphalt Flow
+
+tanks Control
+Device
+
+To drum
+mixer
+
+346 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 381 ===
+the asphalt flow matches the requirement, no change is made. If the asphalt
+flow is either too high or too low, the contro] system will correct the asphalt
+flow by adjusting the asphalt flow-control mechanism until it reaches the
+right target.
+
+If the aggregate flow is increased, a new target asphalt flow rate is calculated
+and the control system will adjust the asphalt flow. If the aggregate flow
+decreases, the opposite happens. This entire process is continuous.
+
+Changeable delay times are built into the flow-control circuits. When the
+plant is set up, tests are done to determine the length of the delay time
+between the belt scale reading and the aggregate material reaching the
+asphalt injection point for that plant. Therefore, changes in the aggregate
+scale do not cause an instantaneous change in the asphalt flow. The plant
+control system has delay times set up not only for the asphalt flow but also
+for each cold-feed bin and for every other ingredient. These flow delays are
+very important for a continuous process. When changes to production are
+made, mix integrity must be maintained, so the delay times are carefully
+calibrated to ensure that production-rate changes and mix changes can
+be executed without shutting down the process. An alarm notifies the
+operator when a mix change is complete and material can be directed to
+another storage silo.
+
+Ingredients other than asphalt binder, including other liquid additives
+and bulk additives, are controlled in the same fashion as the liquid asphalt
+binder. They all take their key from the aggregate belt scale signal. When
+mixes containing RAP are being produced, the control system also reads
+the belt scale on the RAP conveyor and adjusts the virgin-asphalt binder
+to compensate for the asphalt that is included in the RAP.
+
+The belt scale reading is very critical in producing quality HMA in the
+drum-mixer process. Additional attention needs to be paid to the area
+of the main belt where the belt scale is located. Before startup, the area
+should be inspected and cleaned to make sure the framework is free of
+dust and dirt buildup that may affect the readings. Wind screens mounted
+around the belt scale will prevent wind loading that can artificially add or
+subtract weight from the readings. A belt tensioner or deadman (weighted
+idler roller) to take up slack as the belt stretches helps to keep constant
+tension on the belt as it passes across the belt scale and helps improves
+the accuracy of the readings.
+
+7.4.4 Mixing/Coating with a Drum/
+Continuous Plant
+
+Located in the rear of the drum-mixer or in the outside mixer are mixing
+flights, or tips, for mixing the aggregate materials with the liquid asphalt
+binder.
+
+Figure 7.31 shows mixing flights in a one-piece drum-mixer plant.
+Figure 7.32 shows the outside mixing tips in a double-barrel unitized
+
+MS-4 347
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 382 ===
+AL
+
+Figure 7.31 Mixing Flights/Drum-Mixer Plant
+
+dryer-mixer plant. Mixing flights in plants with separate mixing devices
+are configured similarly and meet the same objective—that of mixing the
+liquid asphalt with the aggregate materials to produce a homogenous mix.
+Retention time in the mixing area of a drum-mixer is typically 1-3 minutes.
+The test described in Section 7.3.3, “Mixing/Coating with a Batch Plant,”
+for measuring uncoated particles, can be used on material produced in a
+drum-mix plant.
+
+If mixing flights are not cleaned periodically, very hard pieces of asphalt
+and fines, which build up on the tips and flights, can break loose and find
+their way into the mix. Mixing effectiveness can also be affected. If mix-
+ing flights are allowed to build up with material between the flights to the
+point where flights are barely visible, segregation can occur in the mixing
+process. Also larger aggregate particles can make it through the mixing
+area without being adequately tumbled and coated.
+
+7.4.5 Recycled Mix Production with a
+Drum-Mixer
+
+With a drum-mixer plant, Reclaimed Asphalt Pavement (RAP) is intro-
+duced directly into the drum-mixer dryer after the virgin aggregates are
+introduced. To the casual observer, RAP is being introduced into the drum
+similar to the virgin aggregates, and the process does not seem any different.
+What is actually occurring inside the drum-mixer is that the virgin aggregate
+materials are being super-heated, and these super-heated aggregates are
+
+348 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 383 ===
+then being used to dry and heat the RAP to produce the new recycled hot
+mix at the required final temperature. The burner control system is used to
+regulate the temperature of the final combined product, just as it is used to
+control the final temperature of mix produced from only new aggregates.
+The steam released from the RAP is evacuated from the drum-mixer with
+the steam from the virgin aggregates.
+
+One or more cold-feed bins are dedicated for the RAP products, but a
+separate belt scale is used to measure the quantity of RAP introduced into
+the system. The control system uses this scale figure to control the ratio of
+RAP and virgin-ageregate materials, along with the quantity of new binder
+based on the quantity of usable binder in the RAP.
+
+More information on producing recycled mixes in a drum-mixer plant is
+available from the National Asphalt Pavement Association in Information
+Series 123, “Processing and Handling Reclaimed Asphalt Pavements.”
+
+Figure 7.32 Mixing Tips/Double-Barrel Unitized Dryer/Mixer Plant
+
+MS-4 349
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 384 ===
+Mix Deficiencies and
+Problem Solving
+
+Successful mix production requires a diligent approach to both the
+calibration process and daily operational best practices. For successful
+placement, a mix must have accurate and consistent aggregate gradation,
+asphalt content, and temperature. The success of the in-place product
+starts with the mix-production process.
+
+The entire production, transport, and placement process should run
+smoothly and consistently. Starts and stops increase the likelihood of mix
+inconsistencies at the plant, whether a drum-mix or batch plant is used.
+Starts and stops in placement also affect the quality of the placed product.
+Every activity—from scheduling the production rate of the plant, to schedul-
+ing the lay-down and compaction rate of the placement crew, to selecting
+the number of trucks for the project, to the cycling of those trucks—should
+be as organized as possible. Success will directly correlate to not only the
+proficiency in mix production and the proficiency of the placement crew
+but also to the smooth coordination of each stage of the process.
+
+Even with the best intentions, things can turn out wrong. Sometimes
+equipment fails. Often the failures are operational. When test results and
+mix results are not as anticipated, it is useful to have a troubleshooting or
+problem-solving guide to help find the cause of the problem so it can be
+corrected.
+
+The following two sections provide problem-solving guides, one for
+drum-mix plant production and one for batch-plant production. They are
+organized by the types of tests typically performed on the mix—gradation
+analysis, asphalt content analysis, voids calculation, etc. The two sections
+do not cover every possible cause of every possible mix deficiency, but
+they do cover most common problems found in the field.
+
+7.5.1 Drum-Mix Production Problem-
+Solving Guide
+
+The following guide will prove useful in solving problems with mixes
+produced by a drum-mix plant. Common mix deficiencies and common
+causes are discussed.
+
+Gradation Shift/Aggregates
+Check for the following:
+° Cold-feed bin flow restriction/change
+° Cold-feed bin calibration shift
+° Gradation change in feed aggregates
+e Improper loader management technique on stockpiled material
+
+350 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 385 ===
+Gradation Shift/ Coarser on -200 Mesh (75 Micron)
+Sieve
+
+Check for the following:
+
+° Drastic change in production rate (low to high takes time for baghouse
+fines to catch up to cold-feed change)
+
+° Overdrafting dryer (less fines in mix from damper being more open
+relative to previous or typical production rate, together with baghouse
+fines being wasted or partial return)
+
+° Baghouse dust return or mineral filler additive malfunction (causing
+reduced baghouse dust return or mineral filler additive)
+
+° Gradation change in feed aggregates (see above)
+
+Gradation Shift/ Finer on -200 Mesh (75 Micron) Sieve
+
+Check for the following:
+
+° Drastic change in production rate (high to low takes time for baghouse
+fines to catch up to cold-feed change)
+
+° Underdrafting dryer (more fines in mix from damper being less open
+relative to previous or typical production rate, together with baghouse
+fines being wasted or partial return)
+
+° Baghouse dust return or mineral-filler additive malfunction (causing
+increased baghouse dust return or mineral additive)
+
+° Gradation change in feed aggregates (see above)
+
+Low Air Voids
+Check for the following:
+e Dust-return or dust-additive malfunction (see above)
+° Production-rate change (high to low with immediate sampling)
+° Lack of draft in dryer—retained fines in dryer/primary baghouse
+* Gradation change in feed aggregates (see above)
+° AC content high (see below)
+° Specific gravity change in aggregates
+
+High Voids
+Check for the following:
+e Dust-return or dust-additive malfunction (see above)
+* Production-rate change Cow to high with immediate sampling)
+* Overdrafting dryer—more fines to baghouse versus in dryer/primary
+(and baghouse fines are being wasted or used partially)
+° Gradation change feed aggregates (see above)
+* AC content low (see below)
+° Specific gravity change in aggregates
+
+AG Content High
+Check for the following:
+° Calibration of belt scale (reading high)
+¢ Binding belt scale (reading high)
+° Wind effect on belt scale (reading high)
+* Calibration of AC meter (reading low)
+
+MS-4 354
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 386 ===
+°
+
+Improper moisture setting (too low)
+
+Wrong AC weight/gallon entry with gallon meter (too low)
+Inadequate drying of aggregate (drying efficiency low)
+Mixing flights inadequate (mix not homogenous)
+
+AC Content Low
+
+Check for the following:
+
+Calibration of belt scale (reading low)
+
+Binding belt scale (reading low)
+
+Wind effect on belt scale (reading low)
+
+Calibration of AC meter (reading low)
+
+Improper moisture setting (too high)
+
+Wrong AC weight/gallon entry with gallon meter (too high)
+Mixing flights inadequate (mix not homogenous)
+
+AG Content Varies
+
+Check for the following:
+
+Malfunction in flow-control mechanism (difficulty in regulating/
+mechanical issue typically)
+
+Improper moisture settings (not changing entry with moisture
+changes)
+
+Inadequate drying of aggregate (drying efficiency varies and ignition
+oven AC test method removes water in addition to AC)
+
+Inaccurate AC weight/gallon entry with gallon meter (not changing
+entry with AC changes)
+
+Mixing flights inadequate (not tall enough, caked, need different
+design)
+
+Inadequate Coating
+Check for the following:
+
+°
+
+°
+
+°
+
+°
+
+Asphalt content low (not enough asphalt binder)
+
+AC injection point too close to discharge (inadequate mixing time)
+Mixing flights inadequate (not tall enough, caked, need different
+design)
+
+Temperature of liquid-asphalt binder too low
+
+Insufficient moisture in aggregate
+
+Temperature Fluctuations
+Check for the following:
+
+352
+
+Worn dryer flights (incapable of drying aggregates sufficiently at all
+production rates)
+
+Moisture fluctuations in feed aggregates (burner/dryer cannot rapidly
+adjust to rapidly adjusting moisture variations)
+
+Excessive storage time (mix cooling off from extended storage)
+
+Mix thermocouple malfunctioning/not reading correctly
+
+Mix thermocouple covered with material and/or not properly
+positioned in material stream
+
+Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 387 ===
+7.5.2 Batch-Plant Production
+Problem-Solving Guide
+
+The following guide is useful for solving batch-plant mix-deficiency
+
+issues. Common mix deficiencies and causes are discussed.
+
+Gradation Shift/Aggregates
+
+Check for the following:
+
+° Hole in screen
+
+e Hole in screen exit chute
+
+¢ Hole in walls between hot bins
+
+° Cold-feed ratio/blend change (affecting hot-bin gradations)
+
+° Cold-feed bin flow restriction (affecting hot-bin gradations)
+
+* Cold-feed bin calibration shift (affecting hot-bin gradations)
+
+° Gradation change in feed aggregates (affecting hot-bin gradations)
+
+° Improper loader management technique on stockpiled material
+(affecting hot-bin gradations)
+
+Gradation Shift/Coarser on -200 Mesh (75 Micron)
+
+Sieve
+
+Check for the following:
+
+° Hot-bin stratification from vibration/idling
+
+° Drastic change in production rate (ow to high takes time for baghouse
+fines to catch up to cold-feed change)
+
+° Overdrafting dryer (less fines in mix from damper being more open
+relative to previous or typical production rate, together with baghouse
+fines being wasted or partial return)
+
+* Baghouse dust-return or mineral-filler additive malfunction (causing
+reduced baghouse dust-return or mineral-filler additive)
+
+° Gradation change in feed aggregate(s) (see above)
+
+° Cold-feed ratio/blend changed, affecting hot-bin gradations (see above)
+
+Gradation Shift/Finer on -200 Mesh (75 Micron) Sieve
+
+Check for the following:
+
+* Dust slough (slide) in fines bin
+
+* Hot-bin stratification from vibration/idling
+
+° Drastic change in production rate (high to low takes time for baghouse
+fines to catch up to cold-feed change)
+
+* Underdrafting dryer Gnore fines in mix from damper being less open
+relative to previous or typical production rate, together with baghouse
+fines being wasted or partial return)
+
+¢ Baghouse dust-return or mineral-filler additive malfunction (causing
+increased baghouse dust-return or mineral-filler additive)
+
+* Gradation change in feed aggregate(s) (see above)
+
+° Cold-feed ratio/blend changed, affecting hot-bin gradations (see above)
+
+MS-4 353
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 388 ===
+Low Voids
+Check for the following:
+
+Dust slough (slide) in fines bin
+
+Hot-bin stratification from vibration/idling
+
+Dust-return or dust-additive malfunction (see above)
+
+Production-rate change (high to low with immediate sampling)
+
+Lack of draft in dryer—retained fines in dryer/primary versus to baghouse
+(and baghouse fines are being wasted or used partially)
+
+Gradation change in feed aggregates (see above)
+
+Cold-feed ratio/blend changed, affecting hot-bin gradations (see above)
+AC content high (see below)
+
+Specific gravity change in aggregates
+
+High Voids
+Check for the following:
+
+e
+
+°
+
+°
+
+°
+
+Hot-bin stratification from vibration/idling
+
+Dust-return or dust-additive malfunction
+
+Production-rate change (low to high with immediate sampling)
+Overdrafting dryer—more fines to baghouse versus in dryer/primary
+(and baghouse fines are being wasted or used partially)
+
+Gradation change in feed aggregates (see above)
+
+Cold-feed ratio/blend changed, affecting hot-bin gradations (see above)
+AC content low (see below)
+
+Specific gravity change in aggregates
+
+AC Content High
+
+Check for the following:
+
+Malfunction in weigh bucket
+
+Malfunctioning AC injection/coating and sample in rich side of batch
+Missing pugmill tips, inadequate mixing and sample in rich side of
+batch
+
+Weigh bucket out of calibration
+
+Automation error/consistently miss target (free fall compensation?)
+
+AC Content Low
+Check for the following:
+
+@
+
+e
+
+e
+
+Malfunction in weigh bucket
+
+Malfunctioning AC injection/coating and sample in lean side of batch
+Missing pugmill tips, inadequate mixing and sample in lean side of
+batch
+
+Weigh bucket out of calibration
+
+Automation error/consistently miss target (free fall compensation?)
+
+AC Content Varies
+Check for the following:
+
+°
+
+354
+
+Malfunction in weigh bucket
+Malfunctioning AC injection/coating and sampling detects variation in
+homogeneity
+
+Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 389 ===
+° Missing pugmill tips; inadequate mixing
+¢ Automation error/inconsistency
+
+Inadequate Coating
+
+Check for the following:
+
+° Too short wet-mix cycle time
+
+° Missing pugmill tips
+
+° Tip-to-liner clearance (too great)
+
+* Inadequate drying of aggregate
+
+° Dust slough/dry batch
+
+° Temperature of liquid-asphalt binder too low
+
+Temperature Fluctuations
+
+Check for the following:
+
+° Worn dryer flights (incapable of drying aggregates sufficiently at all
+production rates)
+
+* Moisture fluctuations in feed aggregates (burner/dryer cannot rapidly
+adjust to rapidly adjusting moisture variations)
+
+° Excessive storage time (mix cooling off from extended storage)
+
+° Mix thermocouple malfunctioning/not reading correctly
+
+¢ Mix thermocouple covered with material and/or not properly positioned
+in material stream
+
+Resources
+
+1.
+
+2.
+
+MS-5, Introduction to Asphalt. The Asphalt Institute,
+
+Lexington, KY.
+
+MS-22, HMA Construction. The Asphalt Institute,
+
+Lexington, KY.
+
+. Hot Mix Asphalt Paving Handbook 2000. National Asphalt Pavement
+Association, Lanham, MD.
+
+. Processing and Handling Reclaimed Asphalt P Pavements (RAP)”
+Information Series 123. National Asphalt Pavement Association,
+Lanham, MD.
+
+. Roberts, Freddy L., Kandhal, Prithvi S., Brown, E. Ray, Lee,
+
+Dah-Yin, Kennedy, Thomas. Hot Mix Asphalt Materials, Mixture
+
+Design and Construction. NAPA Education Foundation,
+
+Lanham, MD.
+
+Ms-4 355
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 390 ===
+x
+
+i
+i
+i
+j
+i
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 391 ===
+CHAPTER
+
+Hot Mix AsPHALT PAVING
+
+This chapter describes paving fundamentals, beginning with surface
+preparation and including delivery of the hot mix asphalt (HMA)
+
+to the paving site and the operation of the paving machine. It also
+covers a variety of related paving operations topics.
+
+Section 8.1 Pre-paving Conference
+
+Section 8.2 Preparing the Surface for Paving
+8.2.1 Surface Preparation and Protection
+8.2.2 Preparation of Existing Pavement for Overlay
+8.2.3 Horizontal and Vertical Grade Control
+8.2.4 Prime Coats and Tack Coats
+
+Section 8.3 Delivery of HMA
+8.3.1 Types of Haul Trucks
+8.3.2 Delivery of HMA to the Paver
+8.3.3 Control of Material Surge in Front of Paver
+8.3.4 Load Tickets
+8.3.5 Visual Inspection of the HMA
+
+Section 8.4 Paving Equipment
+
+8.4.1 Asphalt Paving Machine-Basics
+
+8.4.2 Types of Tractors
+
+8.4.3 Screeds
+
+8.4.4 Automatic Screed Controls (Types and
+Operational Differences)
+
+8.4.5 Leveling Effect of the Paver and the Free-Floating
+Screed
+
+8.4.6 Fumes Control
+
+8.4.7 Observation of the HMA Pavement Behind the
+
+Screed
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 392 ===
+Section 8.5 Joint Construction
+8.5.1 Transverse or Construction Joints
+8.5.2 Paving Start-up
+8.5.3 Longitudinal Joints
+8.5.4 Notched-Wedge Joints
+
+Section 3.6 Related Paving Operations
+8.6.1 Hand-Spreading Operations
+8.6.2 Supplemental Operations and Appurtenances
+
+Section 8.7 Foreman’s/Inspector’s Check Sheet
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 393 ===
+8.1. Pre-paving Conference
+
+The key to a successful paving project is good communication between
+the paving crew, plant personnel, and the agency or owner. This communi-
+cation generally begins with the pre-paving conference. At this conference,
+the contractor’s personnel should explain their project plans and establish
+a meaningful schedule to meet the agency’s or owner’s expectations.
+
+The details of the project should be covered so that all the affected par-
+ties understand the “who, what, why, when, and how.” The pre-paving con-
+ference can be as simple as the contractor’s representative meeting with
+the owner on the project site to explain his plan to pave the project—or as
+complicated as an organized meeting with all interested parties (including
+the owner, the designer, the inspectors, personnel from the testing firms,
+the contractor’s plant and paving personnel, utility representatives, etc.).
+No matter what form this pre-paving meeting takes, it is very critical and
+will save time, money, and confusion provided it is held well before HMA
+placement begins.
+
+The discussion of the project details allows everyone involved with the
+project to identify concerns they may have with the proposed schedule
+and the possible impacts on pavement users (in terms of lane closures),
+traffic patterns, on businesses adjacent to the project, and local or regional
+events such as major sporting events.
+
+The most important item to be discussed at the pre-paving conference
+is safety—of the construction personnel as well as of the traveling public.
+Clear responsibility for the maintenance of traffic-control devices, such as
+pavement marking and flagging, should be delineated. Attention to proj-
+ect safety is a moral, legal, and financial responsibility of the contracting
+owner or agency, the contractor, all subcontractors, and suppliers.
+
+Testing and sampling methods and frequencies should be reviewed at
+the pre-paving conference to ensure that everyone involved in the project
+understands the following:
+
+¢ The purpose of the testing
+
+° The frequency of the testing
+
+° Who will conduct the tests
+
+¢ How and to whom the test results will be reported
+
+MS-4 359
+
+be
+®
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 394 ===
+ORERCERNERNETRNETNN
+
+Preparing the Surface
+for Paving
+
+6.2.1 Surface Preparation and Protection
+
+A properly prepared foundation, which includes adequate surface and
+subsurface drainage and proper compaction during construction, will help
+to ensure a long life for a pavement structure. Proper drainage is extremely
+important. The necessity for lowering the water table below the depth of
+frost penetration or the bottom of the improved subgrade by lateral drain-
+age or subsurface drainage is generally accepted by paving technologists
+as an essential element of good construction.
+
+Proper compaction of each layer of embankment, subgrade, improved
+subgrade, and base course is equally important. Compaction greatly
+increases the supporting power of the subgrade. When the subgrade is
+not sufficiently compacted, additional consolidation may occur under traf-
+fic, resulting in settlement and possible failure.
+
+The following roadway surfaces are generally considered unpaved sur-
+faces:
+
+* Subgrade
+
+° Improved subgrade
+
+* Untreated base
+
+° Nonsurfaced granular roadway
+
+Subgrade
+Compaction tests are made in the laboratory on materials to be used
+in construction to determine the maximum practical density that can
+be obtained. Laboratory densities are determined using AASHTO T 180.
+Recommended subgrade compaction criterion are as follows:
+° Cohesive soils—minimum 95 percent density in top 12 inches (300
+millimeters) and minimum 90 percent for all fill areas below the top
+12 inches (300 millimeters)
+
+° Cohesionless soils—minimum 100 percent density in top 12 inches
+(300 millimeters) and minimum 95 percent for all fill areas below top
+12 inches (300 millimeters)
+
+A specifying engineer should verify these requirements with the appro-
+priate local, state, or in some cases, federal agency where the project is
+located.
+
+The selected moisture content for compacting cohesive soils should
+provide the highest remolded strength consistent with expansion consid-
+erations. Specifications usually require the moisture content to be within
++2 percent of the optimum moisture content. Generally, fine-graded
+nonexpansive soils should be compacted to 1 or 2 percent below the
+optimum moisture content for best results. Fine-graded expansive soils
+
+360 Hoi Mix Asphali Paving
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 395 ===
+should be compacted at 1 to 3 percent above the optimum moisture content
+to reduce the potential for swelling. The compaction criteria should apply
+to both cut and fill sections. In some instances, this requires scarifying,
+adding moisture, replacement, and recompaction to produce uniformity in
+the subgrade and to avoid differential settlement.
+
+Although compaction increases the stability of most soils, some soils
+decrease in stability when scarified, worked, and rolled. Some soils also
+shrink excessively during dry periods and expand excessively when
+allowed to absorb moisture. They may also lose strength when reworked—
+for example, silts that can become “quick” when remolded. When these
+conditions exist, special treatment is required under the supervision of a
+qualified geotechnical engineer.
+
+Surface irregularities in an HMA pavement structure can result from
+traffic densification of the underlying courses, usually in the wheel paths.
+Such irregularities indicate that one or more courses were not adequately
+compacted during construction or that soft, unstable areas exist in the
+structure. To detect these deficiencies, proof rolling of the subgrade is
+sometimes performed during construction. Proof rolling is the application
+of heavy, pneumatic-tire rollers or large loaded dump trucks over the sub-
+grade, usually following initial compaction by conventional means. Proof
+rolling accomplishes two purposes: it locates unstable areas and achieves
+additional compaction.
+
+Prepared Subgrade
+
+A prepared subgrade is one that has been worked and compacted. This
+may be the foundation soil or a layer of stabilized soil, select soil, or oth-
+erwise improved subgrade material. The riding quality of the pavement
+surface depends largely on proper construction and preparation of the
+foundation material. The roadway should be shaped and rolled so that the
+paving equipment has no difficulty in placing material at a uniform thick-
+ness and smooth grade. Weather conditions should be suitable, and the
+roadway surface should be firm, dust-free, dry, or just slightly damp when
+paving operations are started.
+
+Untreated Base
+
+Untreated granular bases should be properly shaped and compacted
+immediately before paving. This procedure will restore any proposed line or
+grade that may have been damaged during construction. When asphalt pave-
+ment courses are to be placed on an untreated aggregate base, loose granular
+particles and dust should be lightly swept from the surface. Care should be
+taken, however, not to dislodge or otherwise disturb the bond of the aggre-
+gate in the surface of the base. When the loose particles have been properly
+removed, only the tops of the aggregate in the surface will be exposed. After
+the surface has been cleaned, it is ready to be primed with asphalt. For a
+discussion about prime coats, see Section 8.2.4, “Prime Coats.”
+
+MS-4 361
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 396 ===
+Nonsurfaced Granular Roadway
+
+If an HMA pavement is placed on an existing granular roadway, the sur-
+face should be shaped similar to untreated granular bases. The granular
+roadway differs primarily in that it has been used as a roadway by traf-
+fic and has typically been in use for a considerable time. It is advisable,
+when the granular roadway is rough and uneven, to bring the surface to
+the proper line and grade by scarifying the top few inches, blending in
+more aggregate material as necessary, compacting, and then priming with
+asphalt. If the granular roadway has had a previous asphalt treatment
+and is rough and uneven, but structurally sound, it is advisable to place a
+leveling course of HMA ahead of the first layer of the surface course. Oth-
+erwise, the surface may have to be recycled by scarifying the surface and
+mixing it with a portion of the existing base. The engineer should inspect
+the surface well in advance of placing the surface courses and determine
+what grade corrections need to be made. As with untreated granular bases,
+the surface should be cleaned and swept before initiating paving opera-
+tions, including any leveling courses that may be needed.
+
+8.2.2 Preparation of Existing Pavement
+for Overlay
+
+The amount of preparation needed for an existing HMA pavement
+before overlay will depend on the condition and the type of distress in the
+existing pavement. Portions of the pavement that have “failed” (fatigue/
+alligator cracking) should be removed and replaced with full-depth HMA.
+Potholes need to be properly repaired, cracks need to be sealed or filled,
+and rutting areas must be removed by cold milling. If these distresses
+cover more than 40 percent of the pavement area, the use of cold in situ
+recycling or full-depth reclamation should be considered. The procedures
+for proper pre-overlay repairs are described in Chapter 12, “Maintenance
+of Asphalt Pavements,” and the procedures for cold milling, recycling, and
+full-depth reclamation are described in Chapter 13, “Rehabilitation Meth-
+ods for Asphalt Pavements.” The repair procedures for Portland cement
+concrete (PCC) pavements are described in Chapter 14, “Rehabilitation of
+Concrete Pavements with HMA.”
+
+8.2.3 Horizontal and Vertical Grade Control
+
+Construction of a high quality smooth HMA pavement requires that the
+subgrade and base course be built to the correct horizontal and vertical
+grades. Before placement of the first lift of the HMA pavement on the base
+course, elevations should be checked to ensure that the correct grades have
+been achieved. Grades for aggregate bases should generally be within 0.05-
+0.10 foot (15-30 millimeters) of the plan elevations. Additionally, the surface
+
+362 Hot Mix Asphalt Paving
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 397 ===
+should not have any deviations greater than 4-4 inch (6-12.5 millimeters)
+measured from the bottom of a 16-foot (4.9 meters) straightedge anywhere
+along its length.
+
+8.2.4 Prime Coats and Tack Coats
+
+Prime Coats
+
+A prime coat is an application of a penetrating liquid asphalt (cutback,
+specially designed emulsion, or other suitable material) applied with a dis-
+tributor (see Figure 8.1) to a compacted aggregate base course. The func-
+tion of a prime coat is to provide a protective layer to prevent the surface
+of the aggregate base course from raveling under construction traffic. It
+also provides a waterproof layer, preventing it from absorbing or losing
+excess moisture before paving. A prime coat helps bond the top layer of
+the granular base to the first layer of HMA pavement. Although this bond-
+ing helps prevent slippage between the two layers, it is very weak and
+should not be considered when overall strength of the pavement is ana-
+lyzed. The prime coat is applied to an absorbent surface, such as a granular
+base or prepared subgrade, with an asphalt distributor truck. A cutback
+asphalt (such as MC-30, MC-70, or a specially designed emulsified asphalt)
+is typically applied at a rate of 0.20-0.50 gallons per square yard (0.9-2.3
+liter per square meter) on the prepared surface. See Chapter 12, “Asphalt
+
+Figure 8.1 Distributor Applying a Prime Coat
+
+MS-4 363
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 398 ===
+in Pavement Maintenance,” for a discussion of the proper operation of the
+distributor. The asphalt grade and application rate will depend on the sur-
+face condition and permeability of the base layer being treated. The asphalt
+penetrates the surface and should be entirely absorbed by the base layer. If
+the asphalt is not absorbed within 24 hours after application, a light coat-
+ing of clean dry sand should be spread over the surface to blot the excess
+and the application rate adjusted to prevent applying excessive asphalt. The
+prime coat should be fully set and cured before placing the HMA. A prime
+coat should not be applied when the surface is wet, the air temperature is
+below 50°F (10°C), or the air temperature over the preceding 24 hours has
+been 40°F (4.5°C) or less.
+
+In many areas, the use of cutback asphalt is not permitted because of
+the release of volatiles into the atmosphere. Local air quality requirements
+should be checked to determine if cutbacks can be used. As a substitute,
+asphalt suppliers have developed special penetrating emulsion materials
+for use as prime coats, which are spray applied in the same manner as
+cutback asphalts.
+
+Tack Coats
+
+Tack coats are a very light application of liquid asphalt applied with a
+distributor to an existing nonporous surface. The purpose of a tack coat
+is to promote bonding between the underlying surface and the new HMA
+layer. Normally, an asphalt emulsion or hot asphalt cement is used for a
+tack coat, but some agencies allow the use of other asphalt products. The
+tack coat should be placed on a clean, dry pavement, free of any materials
+that might prevent bonding. The application rate will vary depending on
+the type and condition of the surface being overlaid. The goal is to place a
+thin, uniform coating of asphalt covering 90-100 percent of the pavement
+surface. The application rate for a tack coat is normally 0.05-0.15 gallons
+per square yard (0.25-0.70 liter per square meter) of diluted slow-setting
+cationic or anionic emulsion (SS-1, SS-1h, CSS-1, or CSS-ih). A diluted
+emulsion is an emulsion that has been diluted using one part water to one
+part asphalt emulsion. If a given emulsion contains 65 percent residual
+asphalt in its original state, then after a 50-50 dilution, the product applied
+to the roadway would contain a 32.5 percent residual asphalt. Spread rate
+and uniformity are hard to control when using an asphalt distributor set
+at a very low application rate. By diluting the tack coat, the emulsion can
+be applied at a much higher spread rate while providing a uniformly thin
+coating of residual asphalt. A low application rate is usually used between
+new or un-trafficked pavement layers. An intermediate rate is required
+when resurfacing an existing, relatively smooth, asphalt pavement. The
+highest rate is used on old oxidized, cracked, pocked, or milled HMA or
+PCC pavement surfaces.
+
+Distributor operations should be monitored very closely to prevent the
+accidental application of too much asphalt, which commonly occurs in
+those areas where the distributor starts and stops. If this happens, the
+distributor should be prevented from applying tack until the problem with
+
+364 Hot Mix Asphalt Paving
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 399 ===
+the distributor or its operations are corrected. The excess material should
+be squeeged over a larger area to thin out the excess to a more acceptable
+application rate.
+
+The asphalt emulsion should break and cure before placement of asphalt
+concrete. Shortly after placement of the tack coat, the emulsion will break.
+The color will change from brown to black, and the water will begin to
+evaporate. Once the water has evaporated, the mechanical properties of
+the residual asphalt will return and result in a strong adhesive bond. The
+rate of this breaking-and-setting process will depend on the environmen-
+tal conditions. Generally, the emulsions used for tack coats will break and
+be fully cured shortly after placement. During this process, equipment
+(rollers, delivery trucks, etc.) should be kept off the surface. Tack coats
+leaving surplus asphalt on the surface can form a slip plane. Excessive
+asphalt may also work its way up into the overlying course, which may
+eventually flush asphalt to the surface. A light tack coat does no harm and
+it bonds the surfaces, a necessity for good construction. Work should be
+planned so that no more than the necessary tack coat for the paving shift
+is placed on the surface. All traffic not essential to the work should be kept
+off the tack coat.
+
+Vertical faces of existing pavements such as curbs and gutters should also
+be sprayed or painted with a uniform coating of approved tack material.
+This work should be done such that exposed curb or gutter surfaces are
+not stained. The use of low-penetration tack material such as an SS-1h or
+CSS-1h will also reduce the amount of tracking. Tracking is the unwanted
+coating or staining of adjacent pavement surfaces, both on and off the
+project, by trucks or equipment tires.
+
+Asphalt Distributor
+The asphalt distributor and the operation of the distributor are covered
+in detail in Chapter 12, “Maintenance of Asphalt Pavements.”
+
+MSs-4 365
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 400 ===
+A continuous flow of HMA material from the plant to the paver ensures
+a consistently high-quality HMA pavement. The tonnage to be produced,
+the size and types of trucks, the time to make one trip from plant to
+paver, how much HMA to be placed and compacted—all are details that
+must be considered. These parameters dictate the necessary number of
+trucks. The time between each delivery must be maintained at a consis-
+tent level, and the trucks must not be allowed to bunch up at the paver
+or at the plant. Trucks may be delayed in traffic (construction traffic con-
+trol can be a major cause of backups that delay the material delivery
+trucks). If a break in the delivery of material occurs, the paver should be
+stopped using appropriate techniques such as the rapid stop/start method
+(the paver is stopped and started without an extended acceleration/
+de-acceleration period). Paving should not resume until a sufficient num-
+ber of trucks are on the job site to ensure nearly continuous paving. Start-
+ing and stopping the paver for each truck as it arrives on the project will
+reduce the smoothness and quality of the finished pavement.
+
+8.3.1 Types of Haul Trucks
+
+Three types of haul vehicles are used to transport HMA from the plant
+to the paver: end-dump, bottom- or belly-dump, and live-bottom. Proper
+trucking procedures are necessary for maintaining a continuous flow of
+material to the paver hopper.
+
+End-Dump Trucks
+
+The end-dump truck (see Figure 8.2) delivers mix directly to the paver
+hopper and may have three to six axles. It can have a capacity of 12 to
+20 tons (11 to 18 tonnes). More axles mean more capacity. The advan-
+tage of the end-dump truck is its short wheelbase, which makes it easy
+to maneuver. The end-dump truck can also be a semitrailer truck (see
+Figure 8.3), which is essentially a large dump truck, with a capacity of 20
+to 25 tons (18 to 23 tonnes). The disadvantage with this type of truck is
+that improved operator skill is needed and its large dump bed can be the
+source of problems with overhead obstructions (wires, bridges, and trees).
+Because of this truck’s size, special care must be exercised when loading
+the truck because of the increased potential for aggregate segregation.
+
+Bottom- or Belly-Dump Trucks
+
+Bottom-dump trailers (see Figure 8.4) used in conjunction with a wind-
+row pickup machine require proper cleaning and maintenance. The bot-
+tom dump doors must be cleaned and sprayed with a proper release agent
+
+366 Hot Mix Asphalt Paving
+

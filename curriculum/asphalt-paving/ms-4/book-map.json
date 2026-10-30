@@ -1,0 +1,182 @@
+{
+  "title": "The Asphalt Handbook",
+  "designation": "MS-4",
+  "edition": "Seventh edition",
+  "author": "Asphalt Institute",
+  "year": 2007,
+  "isbn": "978-1-934154-27-4",
+  "pdf_pages": 834,
+  "source_bytes": 180202618,
+  "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+  "edition_evidence_pdf_pages": [
+    1,
+    3,
+    4,
+    834
+  ],
+  "contents_evidence_pdf_pages": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "page_numbering": "Chapter text uses printed page = PDF viewer page minus 34. Front matter and end matter retain source labels; blank scanned pages are preserved.",
+  "sections": [
+    {
+      "id": "front-matter",
+      "title": "Front matter, contents and lists of illustrations and tables",
+      "pdf_start": 1,
+      "pdf_end": 34,
+      "chapter": null
+    },
+    {
+      "id": "chapter-01",
+      "chapter": 1,
+      "title": "Introduction to Asphalt",
+      "printed_start": 1,
+      "printed_end": 20,
+      "pdf_start": 35,
+      "pdf_end": 54
+    },
+    {
+      "id": "chapter-02",
+      "chapter": 2,
+      "title": "Petroleum Asphalt",
+      "printed_start": 21,
+      "printed_end": 108,
+      "pdf_start": 55,
+      "pdf_end": 142
+    },
+    {
+      "id": "chapter-03",
+      "chapter": 3,
+      "title": "Mineral Aggregates and Mixture Additives",
+      "printed_start": 109,
+      "printed_end": 158,
+      "pdf_start": 143,
+      "pdf_end": 192
+    },
+    {
+      "id": "chapter-04",
+      "chapter": 4,
+      "title": "Hot Mix Asphalt (HMA) Design",
+      "printed_start": 159,
+      "printed_end": 246,
+      "pdf_start": 193,
+      "pdf_end": 280
+    },
+    {
+      "id": "chapter-05",
+      "chapter": 5,
+      "title": "Soils and Drainage for Asphalt Pavements",
+      "printed_start": 247,
+      "printed_end": 280,
+      "pdf_start": 281,
+      "pdf_end": 314
+    },
+    {
+      "id": "chapter-06",
+      "chapter": 6,
+      "title": "Thickness Design",
+      "printed_start": 281,
+      "printed_end": 306,
+      "pdf_start": 315,
+      "pdf_end": 340
+    },
+    {
+      "id": "chapter-07",
+      "chapter": 7,
+      "title": "Manufacture of Hot Mix Asphalt",
+      "printed_start": 307,
+      "printed_end": 356,
+      "pdf_start": 341,
+      "pdf_end": 390
+    },
+    {
+      "id": "chapter-08",
+      "chapter": 8,
+      "title": "Hot Mix Asphalt Paving",
+      "printed_start": 357,
+      "printed_end": 412,
+      "pdf_start": 391,
+      "pdf_end": 446
+    },
+    {
+      "id": "chapter-09",
+      "chapter": 9,
+      "title": "Hot Mix Asphalt Compaction",
+      "printed_start": 413,
+      "printed_end": 444,
+      "pdf_start": 447,
+      "pdf_end": 478
+    },
+    {
+      "id": "chapter-10",
+      "chapter": 10,
+      "title": "Quality Control and Acceptance of Hot Mix Asphalt",
+      "printed_start": 445,
+      "printed_end": 518,
+      "pdf_start": 479,
+      "pdf_end": 552
+    },
+    {
+      "id": "chapter-11",
+      "chapter": 11,
+      "title": "Pavement Management",
+      "printed_start": 519,
+      "printed_end": 568,
+      "pdf_start": 553,
+      "pdf_end": 602
+    },
+    {
+      "id": "chapter-12",
+      "chapter": 12,
+      "title": "Asphalt in Pavement Maintenance",
+      "printed_start": 569,
+      "printed_end": 618,
+      "pdf_start": 603,
+      "pdf_end": 652
+    },
+    {
+      "id": "chapter-13",
+      "chapter": 13,
+      "title": "Rehabilitation Methods for Asphalt Pavements",
+      "printed_start": 619,
+      "printed_end": 676,
+      "pdf_start": 653,
+      "pdf_end": 710
+    },
+    {
+      "id": "chapter-14",
+      "chapter": 14,
+      "title": "Rehabilitation of Concrete Pavements with HMA",
+      "printed_start": 677,
+      "printed_end": 702,
+      "pdf_start": 711,
+      "pdf_end": 736
+    },
+    {
+      "id": "chapter-15",
+      "chapter": 15,
+      "title": "Special Uses of Asphalt and HMA",
+      "printed_start": 703,
+      "printed_end": 768,
+      "pdf_start": 737,
+      "pdf_end": 802
+    },
+    {
+      "id": "back-matter",
+      "title": "Photo/illustration credits, index and end matter",
+      "pdf_start": 803,
+      "pdf_end": 834,
+      "chapter": null
+    }
+  ]
+}

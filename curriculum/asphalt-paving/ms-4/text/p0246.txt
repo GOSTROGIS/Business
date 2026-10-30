@@ -1,0 +1,61 @@
+The DSR test on the recovered binder after RTFO aging will be used
+to determine the critical high temperature T, (High) where G*/sind = 2.20
+kiloPascal. This is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog | sind
+AT
+
+Determine T_ (High) to the nearest 0.1°C using the following equation:
+
+Log(2.20) — Log(G
+T, (High) | at Z at ?) +T,
+where
+G, = the G*/sind value at a specific temperature T, and
+
+i
+
+a the slope determined from the above equation
+
+The above information is used to determine the critical high tempera-
+ture T, (High) of the recovered binder. This is defined as the lowest of the
+original DSR and RTFO DSR critical temperatures. The high-temperature
+performance grade of the recovered RAP binder is based on this single
+critical high temperature.
+
+The next step is to determine the critical intermediate temperature
+T_ Unt). This is determined from DSR testing on RTFO-aged recovered RAP
+binder, which is used to determine the critical intermediate temperature
+T, (int) as though the RAP binder were pressure-aging vessel (PAV) aged.
+This is calculated using the following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(G*xsind)
+oe AT
+Determine T_ (Int) to the nearest 0.1°C using the following equation:
+Log(5000) — Log(G,)
+
+Qa 1
+
+T,(Int) =
+
+where
+G, = the G*/sind value at a specific temperature T, and
+
+1
+a = the slope determined from the above equation
+
+The last step is to determine the critical low temperature T(S)
+or Tm) based on the results of performing a BBR testing of the
+RTFO-aged recovered RAP binder. It is based on the bending beam
+rheometer (BBR) stiffness, or m-value. T(S) is calculated using the
+following procedure:
+
+Determine the slope of the stiffness-temperature curve as follows:
+
+_ Alog(S) |
+~ AT |
+
+212 Hot Mix Asphalt (HMA) Design

@@ -1,0 +1,44 @@
+| Table 3.10
+" Adjusting Percentages by Volume to Percentages by Weight
+
+Aggregaie Specific Gravity Proportion
+A 1.00 0.52
+B 2.00 0.45
+c 3.00 0.03
+Specific (1) (2)
+Aggregate Percent Volume Gravity Weight, W Percent Weight
+A 52.0 1.00 52.00 34.4
+B 45.0 2.00 90.00 59.6
+Cc 3.0 3.00 9.00 6.0
+Total 100.0 - 151.00 100.0
+
+(1) Weight = Volume X Specific Gravity
+
+__ _ Individual Weight, W _ Ww
+(2) Percent Weight = Total Weight x 100 451 * 100
+
+Surface Area
+
+When asphalt paving mixes are designed using the Hveem method of
+mix design, a starting point for asphalt content is found by using the
+surface area method. The surface area theory may be expressed as the
+
+following:
+Percent asphalt = 100 (A)(t)(Y,)
+
+where
+A = surface area of the aggregate in ft?/ Ib (m?/ kg)
+t = thickness of the asphalt film coating, ft (m)
+Y, = unit weight of asphalt, lb/ft? (kg/m?)
+
+The Hveem method for the laboratory design of asphalt paving mix-
+tures (described in Chapter 4) uses the surface-area calculation and the
+absorption test to select an asphalt content as a starting point in the test
+series. The surface area of the aggregate is determined by multiplying the
+percentages of material passing a given set of sieves by a set of surface-
+area factors and adding the products. Table 3.11 shows how the surface
+area is determined for a given aggregate when its gradation is known. It
+is important to note that all the sieve sizes shown must be used in this
+method.
+
+MS-4 145

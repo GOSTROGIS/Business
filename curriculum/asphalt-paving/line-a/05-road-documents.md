@@ -39,6 +39,17 @@ A **plan** looks down on a project and shows its horizontal arrangement. A **pro
 
 A **crown** is a raised transverse form that can direct water toward the sides. **Superelevation** describes a cross-slope arrangement used on curves; its design depends on the project. **Runoff** is water moving from the surface. An open ditch and shoulder arrangement differs from a contained curb-and-gutter edge. A sidewalk serves a different function from the vehicle surface. A grader is equipment used in earthwork or grading, not a layer in the finished section. Drainage and preparation must be coordinated before paving; a drawing needs more than a surface outline to establish a buildable design.
 
+## Distinguish the supporting layers
+
+A **base** and **subbase** are supporting layers where the design includes them. The **prepared subgrade** is the prepared ground beneath the pavement structure. Figure LA-6 separates one unbound-base arrangement so you can name the layers. Other structures exist, including full-depth asphalt; a subbase is not automatically present on every road. This teaching illustration supplies no dimensions for P-01.
+
+<figure class="learning-figure" id="figure-la-6">
+<p class="figure-number">Figure LA-6</p>
+<p class="figure-title"><em>Name the layers</em></p>
+<a href="../ms-4/concepts/assets/pavement-layers.svg"><img src="../ms-4/concepts/assets/pavement-layers.svg" alt="Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure."></a>
+<figcaption><strong>Note.</strong> Adapted from <em>The asphalt handbook</em> (7th ed., MS-4; <a href="../ms-4/reader/chapter-01-01.html#page-0048">Figure 1.6, p. 14 / PDF 48</a>), by Asphalt Institute, 2007. Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied.  Copyright 2007 by Asphalt Institute; original contributor credits retained.</figcaption>
+</figure>
+
 **P-01 revision B · Complete fictional drawing data.** The rectangle extends from chainage 0 m to 50 m. Its constant width is 6 m. The new uniform layer is 40 mm thick for this calculation exercise. No widening, taper, overlap, waste allowance or material loss is included. The exercise asks for geometric volume only. Use the written dimensions; a screen image is not a measuring scale.
 
 | Profile point | Chainage along centreline | Illustrative elevation |
@@ -55,7 +66,7 @@ For route length, width, centreline rise and layer thickness, identify the relev
 
 ### LA5-03 · Describe the road form
 
-Using the visual and paragraph, explain crown, shoulder, open ditch, curb/gutter, sidewalk, runoff and superelevation. Put “grader” in the correct category. Choose one drainage question and one preparation question that the conceptual drawing leaves unanswered. **Skills:** Reading, Communication, Problem Solving.
+Using the visual and paragraph, explain crown, shoulder, open ditch, curb/gutter, sidewalk, runoff and superelevation. Put “grader” in the correct category. Use Figure LA-6 to distinguish granular base, subbase where specified and prepared subgrade; explain why one illustrated arrangement does not establish the layers on every project. Choose one drainage question and one preparation question that the conceptual drawing leaves unanswered. **Skills:** Reading, Communication, Problem Solving.
 
 ## Point, name and explain
 

@@ -1,0 +1,46 @@
+Table 10.3
+Sample Random Number Sample Locations
+
+(from chart)
+Begin Lot 12+00 (0+365)
+4 .05874 6520 (1905) 383 (117) 15+83 (0+482)
+2 .07086 6520 (1905) 462 (141) 16+62 (0+506)
+3 .18591 6520 (1905) 1212 (369) 24412 (0+735)
+4 28612 6520 (1905) 1866 (569) 30+66 (0+934)
+5 -69055 6520 (1905) 4502 (1373) 57+02 (1+738)
+6 84524 6520 (1905) 5511 (1679) 67+11 (2+044)
+7 -84733 6520 (1905) 5525 (1684) 67+25 (2+049)
+End Lot 77+20 (2+353)
+
+The use of sublots, however, will spread the samples more evenly across
+the length of the lot, while still maintaining random sample locations. Many
+agencies use sublots, or some other form of stratified random sampling in
+establishing random locations. The same example is presented in Table 10.4,
+except that the locations are stratified throughout the length of the lot in
+equal increments. The stratified random sampling method is recommended
+unless project specifications stipulate another.
+
+An example of a spreadsheet solution for selecting random locations for
+cores is shown in Figure 10.1A and 10.1B.
+
+The above examples present sampling based on length (or station) incre-
+ments. They are useful if samples are to be taken from the roadway. These
+same methods and spreadsheet solutions could be applied if samples were
+to be obtained based on accumulated tonnage. Sampling increments based
+on tons of HMA produced would be used for samples to be taken at the
+plant.
+
+10.2.3 Aggregate Sampling Methods
+
+The various methods used to obtain aggregate samples are discussed
+briefly in the following paragraphs. Sampling procedures in AASHTO T 2
+or ASTM D 75 should be carefully followed when sampling aggregates.
+
+Stockpile Sampling
+
+Stockpile sampling techniques are used for obtaining test samples for the
+various aggregates that are incorporated into the mix (Figure 10.2). Stock-
+piles of the individual aggregates may be sampled during the crushing and
+screening operation in order to facilitate more consistent and better known
+
+454 Quality Control and Acceptance of Hot Mix Asphalt

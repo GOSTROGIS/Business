@@ -1,0 +1,1378 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0326-0350.pdf
+SOURCE SHA-256: 211778558c3442cd276973f0bc80d148ba7e39ef45f73f05eead635fa612346e
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 326 ===
+Thickness design in this method utilizes design curves that were developed
+from numerous runs of the DAMA analysis tool; however, for ease of use,
+significant simplification has reduced the number of input values required
+in this method.
+
+All pavement designs for GA airports are assumed to be accomplished for a
+MAAT = 60°F (15.5°C), so no climate input is required. Analysis is for a single-
+wheel load and the required input is maximum aircraft weight. The number of
+departures and other load-related information is standardized for this design pro-
+cedure. For material properties, only three combinations of pavement materials
+are considered in this design, further simplifying the design procedure:
+
+¢ Full-depth asphalt concrete
+
+° 2-inch (50 millimeters) HMA-over-emulsified-asphalt base
+
+e HMA over a 6-inches (150 millimeters) layer of unbound granular base
+
+Design thicknesses contained in the GA design charts are based on
+main-gear wheel loads equal to 47.5 percent of the gross weight. Above
+a gross weight of 30,000 pounds (13,500 kilograms), equivalent single-
+wheel loads were determined for dual-tire gears. A minimum total thick-
+ness of 4 inches (100 millimeters) of asphalt structure is recommended
+for these pavements, regardless of subgrade strength.
+
+Altogether, the design curves developed for GA airports offer an easy-
+to-use design system based on mechanistic-empirical design principles
+tailored for use at general-aviation airports.
+
+Air-carrier Airports
+
+Air-carrier airport pavements accommodate aircraft of 60,000 pounds
+(27,000 kilograms) gross weight or more (Figure 6.4). The comprehensive
+design manual MS-11, details the air-carrier airport design method, and it
+is incorporated into SW-1.
+
+The air-carrier design method uses pavement design curves developed from
+numerous runs of a computer-based M-E analytical model. To account for the
+differences between aircraft gear and wheel geometry, design aircraft passes
+are converted to strain repetitions of an equivalent standard aircraft.
+
+The design curves allow variation in MAAT from 40°F (4.4°C) to 75°F (24°C).
+
+The air-carrier design method considers only full-depth asphalt
+pavements, and no consideration is given to pavement sections utilizing
+granular base materials. This conforms to Federal Aviation Administration
+(FAA) design requirements for stabilized base materials for design aircraft
+over 100,000 pounds (45,000 kilograms) gross weight.
+
+The basic steps of the air-carrier pavement design procedure are as
+follows:
+
+1. Climate—establishing the appropriate MAAT for the project
+
+2. Traffic—identifying design aircraft and number of departures during
+the design period
+
+3. Subgrade—describing subgrade strength in terms of resilient
+modulus
+
+4. Solution—working through the curve (or software) to establish the
+design thickness for a full-depth asphalt section.
+
+292 Thickness Design
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 327 ===
+Figure 6.4 Commercial Passenger Aircraft
+
+The Asphalt Institute design method using MS-11 or SW-1 is an
+authorized alternative to using the FAA pavement design method, subject
+to approval by FAA regional officials.
+
+6.1.5 Heavy Wheel Loads
+
+Design of HMA pavements for port and industrial facilities with heavy
+wheel loads is based on the methods detailed in Asphalt Institute Manual
+
+Heavy wheel-load vehicles include log-hauling trucks, dump-body haulers,
+forklift trucks, straddle carriers, rubber-tire hoists, and many special vehicles hav-
+ing four or more tires (Figure 6.5). Heavy-ioad vehicles can reach gross vehicle
+weights in excess of 400,000 pounds (180,000 kilograms). Unlike the standard-
+ization found in the highway trucking industry, there is little standardization
+among heavy-vehicle manufacturers for port and industrial applications. Con-
+sequently, wheel geometry can vary greatly from one vehicle to another.
+
+The heavy wheel-load design curves published in MS-23 were devel-
+oped by presolving numerous problems using DAMA. Due to the expected
+low number of design vehicle passes, HMA pavements in port and indus-
+trial applications are not expected to fail from fatigue cracking. The design
+curves are based only on subgrade rutting.
+
+MS-4 293
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 328 ===
+Figure 6.5 Straddie Carrier at Port Facility oo
+
+A further simplifying assumption is that only full-depth asphalt materials
+are considered for heavy wheel applications.
+
+Climate variability is greatly simplified for heavy wheel-load pavements
+in that only two climate options are available:
+
+° MAAT less than or equal to 55°F (13°C)
+
+° MAAT greater than 55°F (13°C)
+
+Essentially, the choice is between a cold climate, where the subgrade is
+subjected to freeze hardening and thaw weakening, and a warm climate
+with no freeze/thaw concerns.
+
+An important aspect of understanding the design vehicle loads and
+wheel geometry is to ascertain whether the problem can be considered a
+single-wheel, dual-wheel, or multiple-wheel design problem. For single-
+wheel loads, subgrade rutting is analyzed only at the point directly below
+the wheel. On the other hand, dual- and multiple-wheel loads can super-
+impose at depth, complicating the process of determining the location
+and magnitude of the maximum subgrade compressive strain. If a distance
+greater than eight times the radius of a loaded contact area separates the
+two wheels, the problem may be considered a single-wheel problem.
+
+Single-wheel load design problems are relatively straightforward,
+requiring only the magnitude of the wheel load, the tire-ground contact
+pressures, the contact area, and the number of load repetitions. Dual-
+and multiple-wheel problems are more complicated, requiring additional
+
+294 Thickness Design
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 329 ===
+wheel geometry data information. Dual- and multiple-wheel problems can
+then be reduced to an equivalent single-wheel load for the specified load
+geomeiry.
+
+The design process for dual- and multiple-wheel vehicles is described
+in detail in MS-23. In addition, SW-1, greatly simplifies the heavy wheel
+load design process for the user.
+
+6.1.6 Planned Stage Construction
+
+Planned stage construction is the construction of roads and streets by
+applying successive layers of asphalt concrete according to design and a
+predetermined time schedule. Two possible circumstances where stage
+construction is advantageous are the following:
+
+e When adequate funds are not immediately available for a full design,
+
+but anticipated at some later date
+
+° When long-term traffic projections (20-25 years) are not considered
+
+reliable. In this situation, traffic estimates for the second-stage
+construction can be made while the facility is in use after first-stage
+construction.
+
+The procedure is based on the assumption that the second stage will be
+constructed before the first stage shows serious signs of distress. Gener-
+ally, it is held that the first stage should be designed such that 60 percent
+of the pavement’s remaining life is used during the first stage, leaving
+40 percent to be used up during the second stage.
+
+Planned stage construction should not be confused with major maintenance
+or rehabilitation of existing pavements. Readers are referred to MS-1 for fur-
+ther details about this method and example problems.
+
+6.1.7 Overlay Design
+
+Design of HMA overlays is based on either the effective thickness or the
+deflection method, as detailed in Asphalt Institute Manual MS-17, Asphalt
+Overlays for Highway and Street Pavements.
+
+Effective Thickness Method
+
+The effective thickness procedure for structural evaluation and overlay
+design is based on the concept that pavements deteriorate over time as a
+result of load repetitions imposed by traffic. Furthermore, as a pavement
+uses part of its total life, it behaves as if it were an increasingly thinner
+pavement. Consequently, the “effective” thickness of an aging pavement is
+always less than its actual thickness.
+
+The effective thickness of an existing pavement layer can be estimated
+from its pavement condition and knowledge of its composition and actual
+thickness. Conversion factors ranging from 0.0 to 1.0 are assigned to the layer
+based on its composition and condition. The actual thickness of the pavement
+
+MS-4 295
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 330 ===
+layer multiplied by the conversion factor yields the effective thickness.
+Conversion factors are found in Table 8-1 of MS-17.
+
+For example, if the conversion factor for rubblized concrete has been
+established as 0.5, then a 10-inch rubblized concrete layer would have an
+effective thickness of 5 inches of HMA for calculating overlay thickness.
+
+In order to calculate the overlay thickness, the designer must first calcu-
+late the design thickness for a new full-depth asphalt pavement using appli-
+cable input values for climate, traffic, and subgrade strength. Subtracting the
+effective thickness of the existing pavement from the design thickness for
+the new pavement yields the required thickness of overlay. A simple equa-
+tion to describe the overlay thickness calculation is as follows:
+
+T, = T, ~T,
+Where
+
+ll
+
+thickness of overlay
+
+thickness of a new pavement for expected traffic, climate,
+subgrade inputs
+
+T, = effective thickness of existing pavement
+
+Maximum Deflection Method
+
+The Asphalt Institute deflection procedure for calculating overlay thickness is
+based on the representative rebound deflection as measured by the Benkelman
+Beam or correlated from other vibratory or impulse-based nondestructive
+testing devices. A full description of the method is beyond the scope of this
+handbook, and the reader is referred to MS-17 for a detailed description of
+the procedure. These two methods of overlay design have been incorporated
+in the SW-1 software.
+
+296 Thickness Design
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 331 ===
+Relationship to Other
+Design Methods
+
+The Asphalt Institute recognizes that other flexible-pavement design
+methods are available to engineers. These other design procedures fall
+into two basic categories: empirical and mechanistic-empirical. A separate
+discussion on Perpetual Pavement design is included in this section.
+
+6.2.1 Empirical Methods
+
+Empirical methods are based entirely on the experience of evaluating
+well-performing and poorly-performing pavements along with specifically
+constructed test sites such as the AASHO test road. The commonly used
+CBR method is an empirical method developed in the 1920s by members
+of the California Department of Highways from experience with its pave-
+ments. It was validated with field testing and improved for use on airfields
+during World War I and is still in wide use today.
+
+The 1993 AASHTO Guide is an empirical method derived from the
+AASHO Road Test of the 1950s. While the method is widely used and
+highly respected, the AASHO Road Test pavements were constructed of
+relatively uniform mixes, built on a single subgrade soil, and exposed to a
+single environment—Illinois. These and other facts anchor the validity of
+the data to the specific mixes, soil types, and climatic conditions experi-
+enced in Illinois in the 1950s and open the door to criticism of its validity
+in other conditions.
+
+Empirical methods are limited by the depth and breadth of the data
+set. For example, it is well established that HMA stiffness varies with
+pavement temperature, yet the CBR method makes no allowance for
+HMA stiffness variation due to monthly or seasonal climate variation.
+Likewise, the AASHTO method has similar difficulty in transferring the
+experience of one climate to that of another. For these reasons, empirical
+methods, while convenient, may not make the best predictions for pave-
+ment thickness in other locations or for other conditions.
+
+6.2.2 Mechanistic-Empirical Methods
+
+The Asphalt Institute methods are based on mechanistic-empirical prin-
+ciples and are derived from work done in the 1970s and 1980s by the
+Asphalt Institute staff, member company engineers, and a team of consul-
+tants consisting of Mr. Fred N. Finn, Dr. Carl L. Monismith, and Dr. Matthew
+W. Witczak. These experts established fatigue and rutting criteria that are
+still in use today in the AI methods and others. Dr. Witczak developed the
+
+MS-4 297
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 332 ===
+computer-based M-E analytical model, DAMA, which was used to create
+the Asphalt Institute design curves published in MS-1 and other manuals.
+These efforts established the Asphalt Institute as a pioneer in M-E pave-
+ment design methods at a time when the concept was relatively new.
+
+In the past few decades M-E design methods have become widely
+accepted. It can be said that M-E-based flexible-pavement design is on the
+path to becoming the standard rather than the exception. Several state high-
+way departments have developed their own mechanistic-empirical design
+systems including WINFLEX, MnROAD, and EverPAVE, the official design
+methods of the Idaho, Minnesota, and Washington State Departments of
+Transportation, respectively. Air-carrier airport-pavement designers are able
+to tap the power of M-E methods in LEDFAA, a computer program devel-
+oped by the FAA. PCASE is the M-E design method applicable to military
+airfields operated and maintained by the U.S. Department of Defense.
+
+At the time of this writing, a new national M-E Pavement Design Guide
+(MEPDG) has been developed under sponsorship of the National Cooper-
+ative Highway Research Program and is in the process of being introduced
+to the state highway departments by the Federal Highway Administration.
+It is widely expected that the MEPDG will be adopted by AASHTO as its
+pavement design guide at some time in the future.
+
+As discussed in the next section, the Perpetual Pavement design con-
+cept, based entirely on M-E principles, is a pavement design strategy that
+is gaining support across the country.
+
+The Asphalt Institute M-E design method is now part of an increas-
+ingly populated field of powerful pavement design tools available to civil
+engineers worldwide. The reader is referred to Tables 6.1 and 6.2 for a
+comparison of some of the features of a select group of M-E methods for
+highway and airport applications.
+
+6.2.3 The Perpetual Pavement Method
+
+The basic concept of a Perpetual Pavement is that through careful mix
+type and material selection together with high-quality construction, a
+pavement structure can be built that is resistant to permanent deformation
+and fatigue cracking. Surface-initiated distress, such as top-down cracking
+and weathering/raveling, may still occur, but through a regular process
+of milling and overlaying, the pavement structure never deteriorates. Like
+the roof on the typical residential structure, the surface layer will need to
+be replaced periodically, but the underlying pavement structure remains
+solid and strong.
+
+The Perpetual Pavement design concept consists of the following layers:
+
+1. An unyielding subgrade forms the pavement foundation.
+
+2. The base layer consists of a flexible and fatigue-resistant HMA
+mix—possibly a “rich” mix with a slightly higher binder content.
+
+3. Intermediate layers consist of stiff, rut-resistant mixes such as
+Superpave or stone matrix asphalt (SMA).
+
+298 Thickness Design
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 333 ===
+tal
+
+suojenbe uoydo 1oke} Burjoe9
+: : yoesa jo wo}}0q .
+JaUJO yOR}es Buryjees-jeo6 pue ‘eippiu ‘doy jewueuL VINVG syewey
+oO} wasn smole SSOUMOIU} JBAL} au} 10) Bue Buryoe9 0} SUIELIOd ,
+XATANIM ¢ B SEY FAVdUW Kyloeds ues Jesf umop-do|,
+"28}O JEYIO
+SS@UYOIY | ssauyolyL VINH
+SSOUyoI| ABLOAQ ay] Builureway = ay] Bulurewiayy = SSOUYOIUL WIHT] Burureway yndjno
+/ sjona7] aBeweq Ae|J8A0 / e417 Bulureway
+uonenby Bunny
+uonenby jy euonenbg jv uolyenb3 sioul||| snoue, oadaW juoenb3 |v uonenba jy apei6qng
+on
+een euonenba jv uonenby ly snove,, uonenb3 |v juonenbs jy uonenba |v lis ef =
+AeWOAC + Siake7] AeeAC + S1BAE7 sJahe7 slaAe sjahe7] Ud sjapoy siake7} ja 2°
+ino4 0} dn smojjy ino4 oj dn smojjy 9Al4 0} dn smojy 9eAl4 0}. dn smojity 0}. dn 0} smoyy JUBLUSABY XIS = BAL 0} dn Smo} WO
+(suoseas yp) (suosees yp) (suoseas s) (suoseas s) japoyy ayeuyjo
+ainjejedwial wy = aunjeyadway uy = aunjesadwiay iny «= aunyesaduuay wy payeiBayul fale WW k cule na ayeuo
+jeuosees ueayy jeuoseas ues) jeuosees ueay) jeuoseas uray psoueyug Vv UES IMO W
+a a a a a a a SeUOEN 3g
+W W W 7) W W W epeiiqng &
+eujoed
+Wws3 Wws3 votes | eilvedgs peoy —enoadg peo) Wws3 peor jeu oes
+Jake7-N azosa JaheT-N Jake7-N lepow
+VaISSM UOJABYD VaISSM Va ISAM /Waine uolAeUD UdIABYD onstueYyool\
+AAVd4eAF XATANIM AAVdUN PEOYIad 9ddaw L-SI VWVd pouyew
+wesboid
+vonepodsued, juaewpedag uoneyodsuely aouelly youeasay
+jo juswpedeg uoneyodsues Oo jusWpeda, USWSAP, Aemubi aynyysuy yeyds Aoueb
+aieig yey iL JO} Heaeq } ‘ d aad sNyASu] yeyasy Vv
+uoyBuiysem, oyepj B}OSOUUIIN yeudsy aaeiedoo5
+Jeuohen
+
+spoyze~ ubisog juoweaeg AemyBSipy [eouidury-osiueYysayy poyoajeas yo uostiedui05
+
+9 SIqel,
+
+299
+
+MS-4
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 334 ===
+SSOUMIUL WAH
+
+uoyenb3 3ovsn
+uonenby
+dwojy pue wojeyneyH
+(suaAe} sal 0} dn)
+auNONJ}s JUSWIAAB|
+ainjeseduway
+diy Ajyjuopy ueayy
+xd
+
+4
+
+W
+
+sessed yeiouy ubisaq
+
+1sd 000'00Z }€ paxy .3
+
+SSOUNOIYL
+BINJONS JUSWISAe
+/ a7] Bujuyewey
+
+uojenb3 vv
+
+uonenbg
+dwojy pue wojeyney
+
+ainjoniys JUBLUaAeY
+
+VIN
+vd
+
+J
+
+Ww
+
+soinpedeg
+Yyeiouiiy JO JequNN
+
+VINV 0} SuleHed ;
+
+SS8U9IU1 VWH
+
+juoHenby eynyysuy yeydsy
+,uovenbS aynyysu) yeudsy
+
+yweydsy yjdeq jIN4
+
+eunyesodwiay
+diy jenuuy ueayy
+ad
+
+4
+
+W
+
+seinuedeq
+yelouy JO JequNN
+
+ey] Bururewey
+
+uoyenb3 eynyysu yeydsy
+
+uoenb3 aynyysul yeudsy
+(ssake7 Bl 0} dn)
+aiNjonsyS JUSWEAeY
+aunjesodwa.
+diy Ayo UBe/\|
+P|
+
+4
+
+W
+PEO] |POUM
+
+SyIBWOY
+yndjno
+
+suniny
+apesbqns
+anbye4
+VWH
+
+HAD
+aanyles
+
+S13:
+
+See)
+
+SEU
+
+sjeuayey|
+
+s}ndu}
+
+eapesBqns
+
+OWeLL
+
+vane dvi JaAe7-N UOIABYD JaAb7-N UOIASYD [Spo 9slueYysa/|
+(play)
+saming ubisag yodul - OU}a|
+ASVod vvida7 1D UbISaq HOALIY LL-SIA VAVvGa poujel
+suvaulbuy uoneujsiulWpYy
+
+jo sdio9 Auuy sn
+
+uoljelay je1apeg
+
+aynysuy yeydsy
+
+Aouaby
+
+Spoyj}o UBisag jusWaneg JAOdsy jeoIduy-oNSIUeYoal] pazoaj|ag yo uosLIedw05
+
+é'9 SGe i
+
+Thickness Design
+
+300
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 335 ===
+4, The wearing course is a high-quality Superpave, open-graded
+friction course, or SMA intended to be milled and replaced at
+regular intervals.
+
+The thrust of Perpetual Pavement design is to combine a rut-resistant,
+impermeable, and wear-resistant top structural layer with a rut-resistant and
+durable intermediate layer and a fatigue-resistant and durable base layer.
+Though a Perpetual Pavement is focused at high-volume traffic roadways,
+the justification may be made for medium- and low-volume roads as well.
+
+Essential to the Perpetual Pavement concept is the assumption that the
+subgrade soils form a strong foundation. Improvements to drainage, soil
+stabilization, or over excavation and replacement may be required to cre-
+ate the proper foundation for a successful Perpetual Pavement.
+
+The HMA layers in a Perpetual Pavement may include a “rich” bottom layer
+with a slightly higher-than-typical binder content to create additional fatigue
+resistance. The intermediate layers are intended to be stiff rut-resistant mixes,
+such as the Superpave mixes that are currently used in the United States. The
+mixes used for the wearing course can vary depending on the specific needs
+of the area. Superpave mixes provide additional rut-resistance and a smooth
+riding surface. SMA mixes might be selected for exceptional durability on
+high-volume or heavily loaded streets and highways. An open-graded friction
+course (OGFC) may be chosen to reduce splash and spray and/or reduce
+pavement noise while providing a smooth-wearing surface. In a Perpetual
+Pavement, the wearing course is intended to be milled and overlaid at regular
+intervals to remove surface distresses and maintain smoothness.
+
+At the core of the Perpetual Pavement design method is the concept of
+an “endurance limit.” This concept holds that there is a level of strain below
+which fatigue damage does not occur for any number of load repetitions. For
+the condition of fatigue at the bottom of the lowest HMA layer, an endurance
+limit of 70 microstrain has been established. Long-term research studies will
+validate this limit. In the life of a Perpetual Pavement, horizontal tensile strain
+at the bottom of the lowest asphalt-bound layer does not contribute to fatigue
+failure if it does not exceed the 70 microstrain threshold.
+
+Similarly, a threshold of 200 microstrain is currently understood to be
+the limit for vertical compressive strain in subgrade materials. It is held
+that a strain level below 200 microstrain does not contribute to subgrade
+rutting in Perpetual Pavement design.
+
+Perpetual Pavement design is conducted using M-E design principles for
+layered elastic materials using the PerRoad Perpetual Pavement Software.
+The cumulative-damage factor concept is applied to both fatigue and rut-
+ting conditions, but rather than allow pavement damage to reach 1, dam-
+age in a Perpetual Pavement design is never allowed to exceed 0.1.
+
+The reader is referred to Table 6.1 for a comparison of PerRoad to the
+Asphalt Institute’s and other methods and to Table 6.3 for information on
+how to acquire the software and other information regarding Perpetual
+Pavement design.
+
+Ms-4 301
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 336 ===
+6.3. Design Manuals
+and Software
+
+As discussed throughout this chapter, the Asphalt Institute has developed
+design manuals and software that have gained wide acceptance among pave-
+ment designers in the United States and throughout the world. Table 6.3 lists
+pavement-design manuals available from the Asphalt Institute. These publica-
+tions and software may be obtained by contacting the Asphalt Institute at the
+following address:
+
+Asphalt Institute
+2696 Research Park Drive
+Lexington, Kentucky 40511-8480
+
+www.asphaltinstitute.org
+
+Table 6.3
+Asphalt Institute Design Manuals and Software
+
+Application Manual Manual Title
+General Aviation Airports 1S-154 Thickness Design—Asphalt Pavements for
+General Aviation
+Highways, Roads, IS-181 Asphalt Pavement Thickness Design—A
+and Streets Simplified and Abridged Version of MS-1
+Parking Lots, Service IS-91 Full Depth Asphalt Pavements for Parking Lots,
+Stations, and Driveways Service Stations, and Driveways
+Highways, Roads, and MS-1 Thickness Design—Asphalt Pavements for
+Streets Highways & Streets
+Air-Carrier Airports MS-11 Thickness Design—Asphalt Pavements for Air
+Carrier Airports
+Overlay Design MS-17 Asphalt Overlays for Highway and Street
+Rehabilitation
+Ports and Industrial Yards MS-23 Thickness Design—Asphalt Pavements for Heavy
+Wheel Loads
+All SW-1 Asphalt Pavement Thickness Design for
+Highways, Airports, Heavy Wheel Loads, and
+Other Applications
+
+The Asphalt Institute recognizes that it is not alone in publishing thick-
+ness design procedures for asphalt pavements. In Table 6.4, we list a
+selected group of excellent design methods for highways, airports, mili-
+tary pavements, and Perpetual Pavement design. While we have attempted
+to list those methods that may have the widest possible application, we
+also recognize that space limitations make it impossible to list all flexible-
+pavement design methods available.
+
+302 Thickness Design
+
+7 &
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 337 ===
+AoBeM'}OPSM MMM
+
+woo'easeod MMM
+
+Bpdew/6i0°qiy7 MMM
+
+SN a}e}S JOP WWMM
+LY XSYULAA,
+
+/AwoAeq/npe oyepin: , sqam’mMMm
+
+AoB ery oy yos}odure MMM
+
+Buo'ojysee MMM
+
+woo'aoueljeyeydse mmm
+
+02bS-60Z (o9¢)
+
+0922-122 (Zor)
+
+ZETE-VEE (Z0Z)
+
+967S-99E (199)
+
+Ovys-ree (802)
+
+LvlS-S8r (609)
+
+008S-z9 (202)
+
+2£200-WdV-228
+
+G9E2—-v0S86 VM ‘JeyemuuN
+S9ELPp XO_g “Od
+Aroyeioge7 sjevarew 393
+
+698E-PPL89 AN ‘BYU
+POY 19]U9D JSanA GOSTL
+
+Jayued sua}shg uoeyodsuest
+
+L000Z Oq ‘vo}Bulysen,
+MN 3S Yls 00S
+
+vPOZ-60LSS NIN ‘poomeideyy
+ANuUaAYy SIRAIBD OOF
+
+SPO SW ‘SIeLa}e| JO Bd1O
+
+6ZLL-LOLES CI ‘esiog
+6212 X08 ‘Od
+juowpedeq
+uoyjeyodsues, oyep}
+
+SOvs0 TN
+
+‘podiy pul Ayo onueny
+49]U89
+
+jeoiuyoa) SayBnH ‘f Wel
+
+L000Z Og ‘uo}Buiysen,
+6h 91INS
+
+‘MN 382415 [OdED 'N pry
+OLHSVV
+
+LLOvy-90L02 GW ‘weyue)
+pieaginog sequoy OOLS
+SOuelly JUsWAAR, yeudsy
+
+uo}Bulyseny
+jo AysueAiuN pue LOG
+aje}S uo}Buiysenr,
+
+sigeulbuy
+jo sdiog Ausy Sn
+
+weiBolg yoreesay Aem
+-yBiH eayesedooy jeuojeN
+
+LOG eBJosauLIW)
+
+oyep| Jo AyisuanluQ pue
+juewpedeq
+uojeyodsuesy oyep}
+
+uoHeNSIUIWpYy
+uOneIAy je1epe4
+
+sjetolyOQ uoNeyodsuei,
+pue AemybiH a}e}S
+Jo uojepossy ueoewy
+
+souel||\y JUsWAaAe, yeudsy
+
+aus qeM
+
+auoud
+
+ssoippy Buren
+
+AAWdleAg shemubiy
+asvod ALeuIIA
+Sadan shemyBiH
+
+SAVduN shemuyBiH
+
+XSTANIM shemuyBbiH
+
+Vvvidat spodiiy
+
+€661 OLHSVV shemubiy
+
+sjusweAed
+
+Peowled jenjediog
+Poul
+
+uBiseq uonesjddy
+
+Aousby
+
+spoyjo UBiseg JusWIAAeY p2}99j;9¢g 10} UOTZEULAOZUT JOe}UOD
+
+v9 SIGeL
+
+303
+
+MS-4
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 338 ===
+6.3.1 SW-1 Asphalt Pavement Thickness
+Design Software
+
+SW-1 is the Asphalt Institute’s Windows-based asphalt pavement
+thickness design software that provides users a single computer-based
+design solution for highways, airports, heavy wheel applications, and other
+applications such as parking lots. It includes the Asphalt Institute pave-
+ment design curves for highways, airports, heavy wheel loads, and other
+applications, which have been digitized for use in SW-1. Also included
+is the DAMA analysis tool for advanced structural analysis. Tying it all
+together is a graphical user interface to ease handling of user inputs,
+pavement design reports, and management of data files.
+
+One of the benefits of SW-1 is a versatile and powerful user interface,
+as shown in Figure 6.6. From this interface, users collect input data,
+report output, and manage data files for asphalt pavement design for
+all types of applications. SW-1 uses a tabular format to clarify the type
+of input required and to aide the user in stepping through a pavement
+design.
+
+A design wizard is automatically invoked on the initial setup of a new
+problem. The wizard steps the user through the process of inputting all the
+required data—climate, traffic, subgrade, materials. The final step through
+the wizard leads to a design solution and the report page.
+
+Asphalt Concrete . Mix Properties
+Asphalt Concrete . Mix Properties
+Asphalt Emulsion Temperature
+Aggregate Base Direct Entry
+
+Figure 6.6 Screenshot of SW1, Thickness Design Software
+
+304 Thickness Design
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 339 ===
+Pavement design solutions are viewed on a professional report page in
+either summary or detailed versions. The Asphalt Institute logo is promi-
+nently displayed on the design report to indicate that the design was
+accomplished using the Asphalt Institute method.
+
+SW-1 includes an extensive help file that is embedded in the software.
+In addition, the companion SW-1 User’s Guide addresses common tech-
+nical and operational questions. Both the help file and the User’s Guide
+include numerous example problems that illustrate how the Asphalt Insti-
+tute method can be applied to a specific problem.
+
+In summary, SW-1 is a comprehensive design tool that provides users
+with the power of all the Asphalt Institute design methods (design curves
+and DAMA) in one convenient and easy-to-use software package. For more
+information on SW-1, the user is referred to the Asphalt Institute Web site
+at www.asphaltinstitute.org.
+
+Resources
+
+1. Ahivin, R.G. “Origin of Developments for Structural Design of
+Pavements,” Technical Report GL-91-26. Geotechnical Laboratory,
+Waterways Experiment Station, U.S. Army Corps of Engineers.
+Vicksburg, MS, 1991.
+
+2. American Association of State Highway and Transportation Officials.
+AASHTO Guide for Design of Pavement Structures, Vols. 1 and 2.
+Washington, DC, 1993.
+
+3. Asphalt Institute. MS-1, Thickness Design—Asphalt Pavements for
+Highways and Streets, 9% ed. Lexington, KY, 1981.
+
+4. Asphalt Institute. RR-82-2, Research and Development of The Asphalt
+Institute’s Thickness Design Manual 9" ed. Lexington, KY, 1982.
+
+5. Asphalt Institute. IS-181, Asphalt Pavement Thickness Design—A
+Simplified and Abridged Version of the 1981 Edition of The Asphalt
+Institute’s Thickness Design Manual, 2 ed. Lexington, KY, 1983.
+
+6. Asphalt Institute. MS-23, Thickness Design—Asphalt Pavements for
+Heavy Wheel Loads, 1* ed. Lexington, KY, 1986.
+
+7. Asphalt Institute. MS-11, Thickness Design—Asphalt Pavements for Air
+Carrier Airports, 3" ed. Lexington, KY, 1987.
+
+8. Asphalt Institute. IS-154, Thickness Design—Asphalt Pavements for
+General Aviation Airports, 3" ed. Lexington, KY, 1989.
+
+9. Asphalt Institute. IS-91, Full-Depth Asphalt Pavements for Parking
+Lots, Service Stations, and Driveways, 5" ed. Lexington, KY, 1993.
+
+10. Asphalt Institute. MS-10, Soils Manual for the Design of Asphalt
+Pavement Structures, 5 ed. Lexington, KY, 1997.
+
+11. Asphalt Institute. MS-17, Asphalt Overlays for Highway and Street
+Rehabilitation, rev. ed. Lexington, KY, 2000.
+
+12. Asphalt Institute. SW-1—Asphalt Pavement Thickness Design Software
+Jor Highways, Airports, Heavy Wheel Loads and Other Applications.
+Lexington, KY, 2005.
+
+13. Asphalt Pavement Alliance. Perpetual Pavement—A Synthesis,
+
+APA 101. Lanham, MD, 2002.
+
+MS-4 305
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 340 ===
+a
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+306
+
+Department of the Army. Pavement Design for Airfields,
+
+Unified Facility Criteria (UFC) 3-260-02. U.S. Army Corps of
+Engineers, Washington, DC, 2002.
+
+Federal Aviation Administration. Airport Pavement Design and
+Evaluation, Advisory Circular 150/5320-6D. Washington, DC, 2004.
+Federal Aviation Administration. LEDFAA 1.3 Computer Program for
+Airport Pavement Design. William J. Hughes Technical Center,
+Atlantic City, NJ, 2004.
+
+Garg N., E. Guo, and R. McQueen. “Operational Life of Airport
+Pavements,” Federal Aviation Administration, Report No. AR-04/46.
+Washington, DC, 2004.
+
+Idaho Transportation Department. WINFLEX 2000. Materials
+Laboratory, Boise, ID, 2000.
+
+Minnesota Department of Transportation. Pavement Designer’s Guide
+for MnPAVE. Office of Materials and Road Research, Maplewood,
+MN, 2002.
+
+Monismith, C.L. “Evolution of Long-Lasting Asphalt Pavement Design
+Methodology: A Perspective,” Distinguished Lecture, International
+Society for Asphalt Pavements. Presented at International Symposium
+on Design and Construction of Long-Lasting Asphalt Pavements,
+Auburn University, 2004.
+
+National Cooperative Highway Research Program. “Guide for
+Mechanistic Design of New and Rehabilitated Pavement Struc-
+tures,” Final Report 1-37A. Transportation Research Board, National
+Research Council, 2004.
+
+Newcomb, D.E. A Guide to PerRoad 2.4, Asphalt Pavement
+Alliance, Lanham, MD, 2004.
+
+Timm, D.H. PerRoad Perpetual Pavement Software, National Center
+for Asphalt Technology, Auburn University, 2006.
+
+Washington State Department of Transportation EverPAVE 5.0 for
+Windows, Materials Laboratory, Tumwater, WA, 1999.
+
+Proceedings of the 1-9" International Conferences on Asphalt
+Pavements. (“Ann Arbor Conferences”). International Society for
+Asphalt Pavements (ISAP). Ann Arbor, MI, 1962-2002.
+
+Koole, R.C. and Visser, W. Design and Evaluation of Airport
+Pavements, AAPT, Vol. 48, 1979.
+
+Monismith, C.L. and Finn, F.N. Overlay Designs—a Synthesis of
+Methods, AAPF, Vol. 53, 1984.
+
+Witczak, M.W. A comparison of layered Theory Design approaches
+to Observed Asphalt Airfield Pavement Performance, AAPT, Vol. 44,
+1975.
+
+Claessen, A.I.M., Valkering, C.P. and Ditmarsch, R. Pavement
+Evaluation with the Falling Weight Deflectometer, AAPT,
+
+Vol. 45, 1976.
+
+Thickness Design
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 341 ===
+CHAPTER
+
+IVIANUFACTURE OF
+Fiot Mix ASPHALT
+
+This chapter provides information on the manufacturing of hot
+
+mix asphalt using batch and drum-mix plant facilities. The common
+features and differences of the two mixing plant types are discussed.
+Controlling the aggregate gradation and asphalt content is detailed.
+Mixing and coating with both type plants is covered. Incorporating
+RAP into hot mix with both plant types is discussed. Finally, a
+trouble-shooting guide is provided.
+
+- Section 7.1 Types of Plant Facilities/Production
+Processes
+7.1.1 Batch Facilities
+7.1.2 Drum-Mix Facilities
+
+“© Section 7.2 Equipment Common to Both Types of
+Facilities
+7.2.1 Liquid Asphalt Storage
+7.2.2 Aggregate Stockpiling
+7.2.3 Virgin Aggregate and RAP Cold-Feed Bins
+7.2.4 Aggregate and RAP Transfer Conveyors
+7.2.5 Aggregate Dryer
+7.2.6 Dust Collection Equipment
+7.2.7 Dust-Return Equipment
+7.2.8 Mineral Filler Additive Storage and Feed Silos
+7.2.9 Lime Additive Bulk Storage and Feed Silos
+7.2.10 Fiber Additive Equipment
+7.2.11 Finished Product Storage Silos and Load-Out
+
+Equipment
+
+Section 7.3 The Batch Plant Production Process
+7.3.1 Aggregate Gradation Control with a Batch Plant
+7.3.2 Asphalt Content Control with a Batch Plant
+7.3.3 Mixing/Coating with a Batch Plant
+7.3.4 Recycled Mix Production with a Batch Plant
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 342 ===
+Section 7.4
+
+Section 7.5
+
+The Drum-Mix Production Process
+
+7.4.1 The Development of the Drum-Mix Process
+7.4.2 Aggregate Gradation Control in a Drum-Mixer
+7.4.3 Asphalt Content Control in a Drum-Mixer
+
+7.4.4 Mixing/Coating with a Drum/Continuous Plant
+7.4.5 Recycled Mix Production with a Drum-Mixer
+
+Mix Deficiencies and Problem Solving
+7.5.1 Drum-Mix Production Problem-Solving Guide
+7.5.2. Batch-Plant Production Problem-Solving Guide
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 343 ===
+7.1. Types of Plant Facilities/
+Production Processes
+
+Two types of plant facilities/production processes for producing hot
+mix asphalt CHMA) paving mixtures are popular today:
+
+° Batch facilities
+
+° Drum-mix facilities
+
+In each type of facility, aggregates are proportioned according to the
+requirements of the job-mix formula, dried and heated, and then mixed
+with the required asphalt binder to create the proper ratio of aggregates
+and liquid asphalt binder. With both types of facilities, supplemental fine
+aggregate or liquid additives can be added and reclaimed asphalt pave-
+ment (RAP) can be used to make recycled mixes. However, additive proce-
+dures are slightly different in each process.
+
+7.1.1 Batch Facilities
+
+The first hot mix asphalt plants were batch facilities. These were popu-
+lar from the early 1900s until the advent of drum-mixers in the 1970s.
+Many batch facilities still exist, producing mix daily, although over 80
+percent of HMA tonnage in North America is now produced with drum-
+mix plants. Figure 7.1 shows the key equipment components in a batch
+facility, and Figure 7.2 shows a cutaway view of the flow process through
+the batch tower.
+
+In the batch-plant process, individual aggregates are proportioned from
+the cold feed bins onto a single collector belt and sent to the dryer to be
+dried and heated. The dried and heated materials flow into a bucket eleva-
+tor to be carried to the top of the batch tower and deposited onto sizing
+screens. Multiple screen decks separate the aggregate into different sizes
+and direct the fractionated aggregate into hot bins. The screens in the
+tower determine the size of the aggregates in the hot bins and how the
+blended aggregate mixture from the dryer is fractionated.
+
+Aggregates are then dried, heated, sized, and stored in the hot holding
+bins, for proportioning according to the mixture specified.
+
+The mixture is made by weighing the fractionated aggregates stored in
+the hot bins with an accumulative aggregate weigh hopper, positioned
+below the hot bins. Each predetermined fraction of material is individu-
+ally weighed into the aggregate weigh hopper until the entire batch is
+weighed.
+
+In a separate action, asphalt is weighed in a weighing device, typically
+called an asphalt weigh bucket or asphalt scale.
+
+After the aggregate and the binder are weighed, the aggregates are
+dropped into the pugmill mixer to be blended together in what is called a
+
+MS-4 309
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 344 ===
+Batch Tower
+
+Baghouse Dust
+Collector Dust Silo
+
+Hot Mix
+Storage
+Silos
+
+Asphalt Tanks : Control House
+
+a
+RAP Feed Bin
+
+Virgin Aggregate
+‘old Feed Bins
+
+te Ven
+tp
+
+Figure 7.2 Flow of Material through a Batch Plant
+
+310
+
+Manufacture of Hot Mix Asphalt
+
+a
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 345 ===
+dry-mix cycle. This 2- to 5-second cycle blends the aggregates thoroughly
+before the asphalt binder is added.
+
+When the dry-mix cycle is completed, the asphalt is dropped into the
+mixer and the wet-mix cycle starts. The wet-mix cycle lasts 25 to 45 sec-
+onds, with the usual length being 30 to 35 seconds. The cycle time is
+determined by the time required to produce a homogenous, well-coated
+mix. Uniform coating of large-rock mixes typically takes longer than fine
+mixtures. The time is usually determined subjectively by visual inspection.
+Some regulatory agencies set minimum times for the mixing process.
+
+7.1.2 Drum-Mix Facilities
+
+Figures 7.3 and 7.4 show the key components and flow process in a
+drum-mix facility.
+
+The continuous flow of a drum-mix plant requires the availability of
+stockpiled aggregate material that will meet the specifications when
+proportioned without rescreening. The individual aggregate materials are
+proportioned directly from the cold-feed bins to the final job-mix formula.
+The materials are then sent to the drum to be dried and heated. In route
+to the drum, the blended aggregate passes over a belt scale, which is a
+continuous-weighing device. The plant’s control system uses the reading
+from the belt scale to calculate the liquid asphalt binder and other additives
+
+Dust Silo
+
+Baghouse Dust
+Coltector
+Hot Mix
+
+Storage
+Silos
+
+Asphalt Tanks.
+
+Drum Dryer/Mixer - (Drum-Mixer) f
+
+RAP Feed Bin
+
+Virgin Aggregate
+Cold Feed Bins
+
+Figure 7.3 Components of a Modern Drum-Mix Plant
+
+MS-4 314
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 346 ===
+HMA Made Continuously
+and Sent to Storage Silos
+
+Asphalt Content
+Controlled at
+Pumping/Metering Unit
+
+Asphalt Tanks
+
+Asphalt Mixing Area
+
+Scalping Screen to Remove
+Oversize Aggregate
+
+~——_——— Belt Scale Measures
+Aggregate Flow
+
+Graduation
+Controlled
+at Cold Feed
+
+required for the mixture. Drum-mix plants can be designed as one-piece
+drum-mixers or with separate dryer and continuous-mixer units. Both are
+referred to as drum-mixers. Different styles of drum-mixers are illustrated
+and discussed later in the chapter.
+
+312 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 347 ===
+Equipment Common to
+Both Types of Facilities
+
+Regardless of the proportioning and mixing style, both types of facilities
+have common equipment components that operate similarly and have
+essentially the same functions:
+
+° Liquid binder storage tanks
+
+° Aggregate and RAP stockpiling
+
+¢ Virgin aggregate and RAP feed bins
+
+e Aggregate and RAP transfer conveyors
+Aggregate dryers
+* Dust collection equipment (from aggregate dryer)
+
+Collected dust return equipment
+Mineral filler additive storage and positive feed controls
+
+¢ If required by specifications—lime additive bulk storage and positive
+
+feed controls
+
+¢ Equipment for the addition of fibers
+
+¢ Finished product storage silos and load-out equipment
+
+Plant automation is similar in both—and typically computer controlled—
+although blending automation is different because of the differences
+between the batch and the drum-mix processes. Most automated plant-
+control systems, whether batch oriented or drum-mixer, provide for
+multiple stored-mix formulas and automatically handle all the blending,
+metering, and mixing. All computer-controlled plants can provide cumu-
+lative material totals for a daily production report, which aids inventory
+control.
+
+In both plant types, truck load-out and ticketing systems are also com-
+puterized and provide not only weight figures but also detailed project
+information on the load ticket.
+
+These common equipment groups are discussed below, along with key
+optimum operating practices for controlling the process and producing
+consistent high-quality mix with these common components. Specific
+operational differences between the batch process and the drum-mix
+process are addressed later in the section.
+
+°
+
+7.2.1 Liquid Asphalt Storage
+
+Liquid asphalt binder is generally stored inside insulated and heated
+tanks (see Figure 7.5) adjacent to the other plant equipment. Multiple
+storage tanks are common at stationary facilities and are not uncommon
+with portable plants. This allows the producer to keep different grades of
+asphalt binder properly separated.
+
+MS-4 313
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 348 ===
+Figure 7.5 Vertical Asphalt Storage Tanks
+
+Tanks must be kept heated to maintain the asphalt binder at the proper
+mixing temperature. Tanks are usually heated with hot oil using a heat
+transfer oil system that keeps the other plant equipment at operating
+temperature.
+
+Tanks that store modified binders are often equipped with agitators
+or stirrers to keep the modified binder constantly circulating. Circula-
+tion pumps can be used for the same purpose, even without agitators or
+stirrers. Some asphalt binders can have specific agitation requirements.
+
+314 Manufacture of Hot Mix Asphalt
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 349 ===
+HMA producers are encouraged to consult with the liquid asphalt supplier
+for proper storage requirements.
+
+Pipes that transfer the liquid asphalt to the mixing area of the plant are
+insulated and surrounded with an outer pipe or “jacket” containing hot oil
+from the plant’s heating system to keep the binder at the proper tempera-
+ture throughout the entire process.
+
+Special processing equipment is available to blend mixture additives
+into the hot asphalt lines or plant mixing area. Antistrip additives, fibers,
+RAP, or other mixture modifiers are often added after the aggregate has
+entered the drum. Special processing equipment is also used for mixing
+crumb-rubber additives and latex into the liquid asphalt for special mixes.
+This equipment varies by application requirement and is usually computer
+controlled.
+
+Plant personnel should monitor storage temperatures regularly to make
+sure the binder is kept at the proper temperature. Thermometers in the
+tanks and lines are connected to digital displays and graph recorders in the
+control room for this purpose. Binder temperature affects not only pump-
+ing and metering efficiency but also coating characteristics, so ensuring
+that binder temperature is maintained throughout the process is critical for
+proper mixing operations. Heater temperatures should be set at required
+storage temperatures, or not more than 20°-30°F (11°-13°C) above those
+temperatures. Excessively high temperatures cause the asphalt to build up
+and harden around the heating elements. These excessively high tempera-
+tures can also prematurely age the binder. The recording devices provide
+visual proof that specification temperature limits have not been exceeded.
+The objective of storing asphalt binders at an HMA plant is to maintain
+an adequate supply of material to keep the plant running between binder
+deliveries. The amount of storage needed at an HMA plant is a function of
+anticipated production rate, type of binder(s), and the anticipated delivery
+schedule.
+
+7.22 Aggregate Stockpiling
+
+Aggregates are delivered to plant sites by truck, rail, barge, or belt con-
+veyor directly from the aggregate source. Aggregates are usually stockpiled
+onsite and then fed into cold feed bins with a front-end loader. A plant
+can also be fed directly from the stockpile by feeders under the stockpiles
+or by trucks dumping directly into the cold feed bins. The most common
+approach is to feed the bins from a stockpile with a front-end loader.
+
+Operational concerns for HMA production at the plant site focus on the
+following key areas.
+
+Cross Contamination
+Materials should be kept separated from one another by space or by
+dividers before being loaded into the cold feed bins for mixing.
+
+MS-4 315
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 350 ===
+Subgrade Contamination
+
+If materials are moved with a front-end loader, the operator must ensure
+that the bucket does not pick up subgrade materials along with the desired
+aggregate. Producers usually treat the ground to stabilize it or place a base
+aggregate-type material below the stockpile to minimize this problem. The
+latest trend at permanent plant sites is to actually pave the stockpile area
+with HMA to prevent subgrade contamination and to expedite moisture
+drainage in the stockpiles.
+
+Wheel and Track Contamination
+
+Driving on the aggregate stockpiles with haul trucks or stockpiling
+equipment can also cause contamination from materials that stick to the
+vehicle wheels or tracks, and should be discouraged. The importance of
+this guideline is relative to local conditions.
+
+Breakdown/Gradation Change
+
+Materials can change in gradation if haul trucks or stockpiling equipment
+are allowed to drive on and to work the aggregate stockpile. Degradation
+of aggregate materials is a function of material handling and aggregate
+characteristics. The gradation of the material can change every time it is
+handled. A thorough understanding of the aggregate materials and aggre-
+gate handling procedures must be accounted for in the design and con-
+struction process.
+
+Segregation/Gradation Change
+
+Materials that are not of uniform size are prone to segregation during
+handling operations. When aggregates are dropped from a significant
+height, such as from a stacking conveyor, or if aggregates are allowed to
+flow down the face of a stockpile, segregation can occur. Both practices
+should be discouraged. Conveyors that rise up and.down minimize this
+problem. Elevated stockpiles do not always have to be constructed using
+haul trucks and ramps. Available space for stockpiling, however, often dic-
+tates compromises in best practices. Materials that are segregated slightly
+can often be reblended satisfactorily if the loading equipment mixes coarse
+sides and fine sides from the stockpile face before charging the cold-feed
+bins. Segregation is probably the single biggest concern in stockpile man-
+agement at a hot mix plant. If segregation concerns exist, material samples
+can be taken directly from the discharge of the cold bins to verify whether
+the gradations of the individual materials have been compromised.
+
+Minimizing Stockpile Moisture
+
+Providing a solid draining surface under the stockpile area not only
+helps keep the subgrade material from contaminating the cold feed bins
+but also helps keep aggregates dry. Moisture drastically affects the produc-
+tion of the plant and fuel consumption. If moisture contents in the stock-
+piles change, the mix temperature will also fluctuate unless the operating
+characteristics (burner and draft settings) are constantly adjusted. This is
+very difficult with high-production HMA plants. For these reasons, hot mix
+
+316 Manufacture of Hot Mix Asphalt
+

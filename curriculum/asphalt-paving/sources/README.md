@@ -1,6 +1,6 @@
 # Asphalt curriculum source library
 
-The first three original PDFs were received from the user on **23 October 2026**. The 2006 design-build specifications were added on **29 October 2026**. These four PDFs form the source library for the asphalt curriculum. Original filenames and bytes are preserved; [manifest.json](manifest.json) records SHA-256 hashes, sizes and page counts.
+The first three original PDFs were received from the user on **23 October 2026**. The 2006 design-build specifications were added on **29 October 2026**. These four whole PDFs are preserved here; the complete MS-4 seventh edition was added as 34 native PDF parts in the linked collection on **30 October 2026**. Original filenames and bytes are preserved; [manifest.json](manifest.json) records SHA-256 hashes, sizes and page counts.
 
 | Source ID | Original document | Role in curriculum |
 |---|---|---|
@@ -49,3 +49,11 @@ The opening ACCESS unit uses expanded Skills for Success preparation time. Its p
 The [specifications module](../specifications/README.md) provides 18 complete activities, a worked answer guide, original SVG diagrams, practice CSV files and HTML/PDF editions. The [source map](../specifications/source-map.md) identifies exact clauses, PDF pages and printed section pages. The [selected excerpts](../specifications/source-excerpts.md) preserve a bounded technical reading without reproducing all 441 pages as extracted text.
 
 The 2006 edition is a historical design-build specification. It is not presented as the governing document for a current project. Classroom grading, delivery and area data are invented and clearly separated from transcribed historical limits. A ten-load calculation block is not assumed to be an acceptance Lot; no payment, pavement acceptance or equipment-operation decision is authorized by the exercise.
+
+## Primary textbook: complete MS-4 seventh edition
+
+Asphalt Institute. (2007). *The asphalt handbook* (7th ed., MS-4). ISBN 978-1-934154-27-4.
+
+[Complete HTML reader](../ms-4/index.html) · [34 native PDF parts and checksums](../ms-4/source-parts.json) · [834-page inventory](../ms-4/manifest.json) · [Verified chapter map](../ms-4/chapter-map.md).
+
+The supplied original is 180,202,618 bytes, SHA-256 `cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b`. It exceeds GitHub's single-file limit; the complete original page content is retained without resampling in the small parts. All 834 pages, including front matter, contributor credits and end matter, are available beside the unproofread OCR. The source-parts manifest is the authoritative inventory for this collection; the four-file manifest in this folder continues to describe its four whole originals.

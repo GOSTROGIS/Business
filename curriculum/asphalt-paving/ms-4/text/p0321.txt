@@ -1,0 +1,55 @@
+Perpetual Pavement design also requires careful attention to material
+selection. Hard angular aggregates must be carefully selected, processed,
+and blended together to form a strong “stone-skeleton” to support intended
+traffic loads. Properly selected Performance Graded asphalt binders will
+improve rut-resistance at high temperatures and diminish the effect of
+transverse low temperature cracking. The combined result of these mix
+type and material selection strategies is a pavement structure that requires
+only periodic surface renewal in response to distresses confined to the
+wearing course.
+
+It should be noted that the Perpetual Pavement design concept is separate
+and distinct from the Asphalt Institute thickness design method. More detail
+on this method is provided in Section 6.2.3.
+
+6.1.2 Input Variables
+
+Data-input requirements for the Asphalt Institute design method depends
+on the procedure selected by the user. The design curves were produced
+and intended for everyday use and require minimal information as input
+into the procedure. DAMA, on the other hand, is intended for advanced
+structural analysis of pavement structures with the requirement of more-
+detailed user inputs.
+
+With either procedure, there are four types of inputs required to
+use either AI method: climate, traffic, subgrade strength, and material
+properties. The following is a brief description of these input variables.
+
+Climate
+
+Air temperature is the climate-related user input in the AI method. Air
+temperature affects the design of the pavement structure in two impor-
+tant ways. First, the stiffness of HMA and other asphalt-stabilized layers is
+directly dependent on the pavement temperature, which can be calculated
+from air temperature. For example, high pavement temperatures result in
+a reduction of the stiffness of HMA layers. As layers with lower stiffness
+do not distribute loads as effectively as stiff layers, pavements at higher
+temperature are more susceptible to plastic deformation caused by con-
+centration of Joad than pavements that are at low temperature.
+
+For granular base and subgrade soils, temperature determines whether
+freezing and thawing conditions will occur. Frozen materials become stiff,
+while thawing weakens unbound materials, particularly subgrade soils.
+
+In DAMA, mean monthly air temperature is used to directly character-
+ize the climatic variation for a specific pavement structure using location-
+specific temperature data. For design-curve analyses such as MS-1, the
+user is asked to select a mean annual air temperature appropriate for a
+geographical location.
+
+Traffic
+The AI method is based on an analysis of individual wheel loads and the
+response of the pavement system to the wheel loads.
+
+MS-4 287
+

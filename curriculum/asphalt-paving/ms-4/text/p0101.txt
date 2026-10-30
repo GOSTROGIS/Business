@@ -1,0 +1,54 @@
+loading at moderate pavement temperatures that might lead to fatigue
+cracking in an asphalt pavement. Because fatigue generally occurs at
+lower to moderate pavement temperatures after the pavement has been in
+service for a time, the specification addresses the response of the asphalt
+binder after aging in both the RTFO and PAV.
+
+The DSR is again used to generate G* and 6. However, instead of divid-
+ing the two parameters, the two are multiplied to produce a factor that
+may be related to the fatigue performance of an asphalt binder. The fatigue
+cracking factor is G*sin 6 (read as “G star sine delta”). It is the product of
+the complex shear modulus, G*, and the sine of the phase angle, 5. The PG
+specification requires that all PG asphalt binders have a maximum value
+of 5000 kiloPascals for G*sin 3 at the appropriate grade temperature. Low
+values of G* and 8 are considered desirable attributes from the standpoint
+of resistance to fatigue cracking. Thus, the PG specification promotes the
+use of compliant, elastic binders, after long-term (PAV) aging to address
+fatigue cracking.
+
+Thermal Cracking
+
+When temperature decreases, asphalt pavements shrink. As the tem-
+perature drops, the asphalt binder contracts to a much greater degree than
+the aggregate in an asphalt pavement, thus causing thermal stresses to
+develop in the pavement. When these stresses exceed the tensile strength
+of the asphalt mixture, a low-temperature crack develops. Because ther-
+mal cracking occurs at low pavement temperatures after the pavement has
+been in service for a time, the specification addresses the response of the
+asphalt binder after aging in both the RTFO and PAV.
+
+In the PG specification, the main way of examining the propensity of
+an asphalt binder to develop thermal stresses at a specified low tempera-
+ture is to use data generated from the BBR. If the stiffness is too high, the
+asphalt binder will behave in a brittle manner, indicating that cracking is
+more likely to occur. To minimize the contribution of the asphalt binder
+to thermal cracking, the creep stiffness (S) after 60 seconds of loading at
+the appropriate grade temperature must not exceed 300 megaPascals. In
+addition to stiffness, the rate at which the asphalt binder stiffness changes
+with time at low temperatures is regulated through the m-value. In the
+PG specification, a higher m-value is an indication that the asphalt binder
+may not increase in stiffness as rapidly when the temperature decreases
+and contraction occurs, leading to smaller tensile stresses in the asphalt
+binder and less chance for low temperature cracking. A minimum m-value
+of 0.300 after 60 seconds of loading at the appropriate grade temperature
+is required by the PG specification.
+
+Past studies have also indicated that if a binder can stretch at least
+1.0 percent of its original length during this thermal contraction period,
+cracks are less likely to occur. As a result, the direct tension test (DTT) is
+included in the PG specification as an alternative requirement to simply
+using creep stiffness and m-value. In the specification, the DTT require-
+ment only applies to asphalt binders that have a creep stiffness greater
+
+MS-4 67
+

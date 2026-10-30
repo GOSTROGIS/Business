@@ -1,0 +1,55 @@
+These three characterization methods provide the user with a great deal
+of control over the analysis.
+
+For granular layers, the DAMA user is offered two methods of characterizing
+resilient modulus. The user can enter the resilient modulus directly for each
+month of the year. Alternatively, the user can prescribe a stress-dependent
+relationship that better models frost effects or moisture variations.
+
+The subgrade layer allows for direct entry of the resilient modulus for
+each month of the year. This monthly variation allows the user to pre-
+scribe up to 12 data points per year, adequate for description of a freeze-
+thaw cycle.
+
+The material property handling within the DAMA model provides the
+user with great influence to shape the model to best reflect actual condi-
+tions in the field.
+
+For the pavement design curves published in MS-1, Thickness Design—
+Asphalt Pavements for Highways and Streets, MS-11, and MS-23, certain
+simplifying assumptions have been made regarding the material properties
+in the pavement structure. MS-11 and MS-23 design curves for air-carrier
+airports and heavy wheel loads are limited to full-depth asphalt pavements,
+where asphalt-bound layers are used for all layers above the subgrade. For
+MS-1, several commonly used pavement sections were modeled: full-depth
+asphalt, HMA-over-granular base, and HMA-over-emulsified base. For pave-
+ment sections that depart from these standard sections, the MS-1 design
+curves are not applicable.
+
+6.1.3 Highways, Roadways, and Streets
+
+The Asphalt Institute method of thickness design for pavements sup-
+porting highway vehicles is covered in detail in MS-1, and is one of the
+methods included in SW-1.
+
+Engineers accomplish thickness design by graphical solution of the appro-
+priate pavement design curve. Selection of the appropriate design curve is
+based on climate and anticipated material type (full-depth asphalt, asphalt-
+over-granular base, etc). These curves represent hundreds of presolved design
+problems over a wide range of input values, using the DAMA analysis tool.
+The result is an efficient design tool that is applicable to everything from
+interstate highways to residential streets and all roadway classifications in
+between. If the pavement supports highway-type vehicles, from automobiles
+to long-haul tractor semi-trailer vehicles (Figure. 6.2), then the MS-1 design
+curves apply. This method has also been incorporated into SW-1.
+
+In order to simplify climate inputs for the MS-1 method, users are asked
+to select among three mean annual air temperature (MAAT) levels: 45°F,
+60°F, and 75°F (7°C, 15.5°C, and 24°C). These MAAT levels bracket those
+found throughout much of North America and are representative of the
+climates in New York, South Carolina, and Arizona, respectively. Engineers
+should evaluate project-specific weather conditions to ascertain which of
+the three MAAT levels is appropriate for a particular project. It is possible to
+
+MS-4 289
+

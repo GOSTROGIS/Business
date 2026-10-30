@@ -1,0 +1,55 @@
+use simple formulas. The AASHTO Quality Assurance Guide Specification
+presents the following equation to calculate the pay factor:
+
+Pay factor (%) = 55 + 0.5 X PWL
+
+This pay factor would then be multiplied times the contractor’s payment for
+that particular bid item. Assume that the project specifications establishes that
+payment for HMA is by the ton completed and in place. For all of the tonnage
+represented by that lot, the price per ton would be paid at the bid price times
+the pay factor. This may cause the payment to increase or decrease depend-
+ing on the contractor’s accomplishment of the quality characteristics that were
+defined. Some agencies pay bonuses if the pay factor exceeds 100 percent.
+Other agencies restrict the total payment to 100 percent of the bid price.
+When such restrictions are in place, specifications can be written to allow
+positive pay factors to offset negative pay factors from previous paving lots.
+
+In the pay factor equation above, the number “55” could be changed
+by the specifying agency. A closer look at the equation reveals that, if
+55 were used, the highest pay factor that could be achieved would be
+105 percent. This means a contractor could receive a 5 percent bonus if every
+lot achieved 100 percent within limits (PWL). Of course, if a PWL less than
+90 percent were achieved on any given lot, the pay factor would be less than
+100 percent, which would reduce the contractor’s payment for that lot.
+
+One can see that the agency can control the possible bonus by changing
+this pay factor variable. If the variable were set at 60, for example, the pos-
+sible bonus would be 10 percent. A variable of 50 would mean that nothing
+greater than 100 percent pay could be achieved, but payment reductions
+would be assessed for any PWL less than 100 percent. Slight changes to this
+pay factor variable have severe financial impacts on the incentive or disin-
+centive being offered to prospective bidders. The agency goal is to select a
+pay factor variable that will motivate contractors to achieve higher quality
+standards represented by high PWLs. In the end, this will cause the agency
+to pay a little more for a roadway that will last a lot longer.
+
+Many specifications consider the fact that when mixtures are out of speci-
+fication tolerances, they usually incur penalties based on more than one of
+the test requirements. Multiple non-compliances in one lot might unrea-
+sonably compound the penalties, or equal monetary consideration might
+be given to test parameters that do not hold equal value in performance.
+The percent passing the No. 8 (2.36 millimeters) sieve, for example, is not
+as important to pavement performance as air voids are. Some agencies are
+now applying weighting factors that consider all the statistical acceptance
+parameters for a given pay item, or identifiable group of pay items, when
+applying pay factors. Table 10.10 is an example of additional weighting
+factors that could be applied to pay factors for the production of hot mix
+asphalt. The pay factor distribution percentages shown in Table 10.10 could
+be used to calculate an overall pay factor by using the following equation:
+
+Pay Factor = 55 + 0.5(.35(PWL,,) + 0.10(PWL,,) + 0.20(PWL,,.)
++ 0.35(PWL
+
+vows)
+
+Ms-4 511

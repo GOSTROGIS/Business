@@ -1,0 +1,39 @@
+Figure 6.2 Typical Tractor-Trailer Used on Highways | -
+
+interpolate between the results from two design curves to complete a design
+for MAAT levels that do not match one of the three standard levels.
+
+Traffic analysis in this method involves estimating the number of ESALs
+to be supported over the design life of the pavement. Every highway-
+type vehicle, from small automobiles on two axles to large multiple-axle
+tractor-trailer combination trucks weighing more than 100,000 pounds
+(45,000 kilograms), can be measured in terms of ESALs. The process of
+equating anticipated vehicle traffic to ESALs is covered in detail in MS-1.
+SW-1 goes even further by automating ESAL calculations. Both methods
+allow the user to factor in traffic growth over the pavement design life.
+
+Subgrade strength is characterized as resilient modulus, M.. Field-test
+results such as CBR and R-value can be correlated to M, using standard
+correlations. It is strongly recommended that subgrade conditions over
+the length of a project are carefully evaluated and that an adequate num-
+ber of tests are used to establish a representative subgrade M_. Additional
+guidance on soil testing can be found in Chapter 5 of this manual and in
+MS-10.
+
+The MS-1 design curves were developed for the following six common
+highway and street design strategies:
+
+° Full-depth asphalt concrete
+
+° HMA-over-emulsified-asphalt base—Type I
+
+¢ HMA-over-emulsified-asphalt base—Type II
+
+° HMA-over-emulsified-asphalt base—Type I
+
+° HMA-over-6-inches (150 millimeters) untreated aggregate base
+
+e HMA-over-12-inches (300 millimeters) untreated aggregate base
+
+290 Thickness Design
+

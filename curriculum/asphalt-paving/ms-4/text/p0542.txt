@@ -1,0 +1,57 @@
+The PWL is calculated using the sample mean, the sample variation, and
+the number of samples tested. The bottom line is that if contractors and pro-
+ducers can get the average values close to the target and produce and place
+mixtures with good consistency (ow variation), then the result will be a high
+percentage of material within the specification limits (high PWL).
+
+Some agencies use percent defects (PD) instead of PWL, but the statistical
+concepts are essentially the same. The PD is generally 100-PWL.
+
+Specification Limits on Quality Characteristics
+
+Specifications establish upper and lower limits for each of the quality
+characteristics that will be measured. These are defined as the upper spec-
+ification limit (USL) and the lower specification limit (LSL). For example, if
+the asphalt content specifications set limits at 5.1 percent to 5.9 percent,
+then 5.1 percent is the lower specification limit and 5.9 percent is the
+upper specification limit.
+
+The state of Florida studied testing and material variability on their HMA
+projects and established upper and lower specification limits for a variety
+of test parameters. Table 10.8 presents a simplified example of specifica-
+tion limits applied to different quality characteristics based on the general
+findings of the Florida study.
+
+The examples of limits presented in Table 10.8 were derived from pub-
+lished limits from the Florida Department of Transportation based on
+variability of their statistically controlled production after it had been
+implemented for several years. Each agency or owner should establish
+their own limits based on their own expected variability of materials.
+Projects with low production, reduced QA/QC efforts, or with contractors
+and agencies inexperienced in PWL projects may necessitate wider limits.
+
+Calculation of Percent Within Limits
+
+Statistical acceptance methods use four numbers in evaluating the
+variations of each set of test results are acceptable. Those statistical num-
+bers are number of test values (7), mean (x), standard deviation (s), and
+the percentage within the specification limits (PWL). Most of the tested
+properties of HMA will form a normal distribution curve when graphed on
+
+Table 10.8
+Example Specification Limits on Quality Characteristics
+
+Seay eristic Target Value rower Specification Upper Specification
+AC Content (%) JMF JMF —0.4 JMF +0.4
+
+Passing #8 (%) JMF JMF 3.1 JMF+3.1
+
+Passing #200 (%) JMF JMF-1.0 JMF+1.0
+
+Air Voids (%) 4.0 2.6 5.4
+
+Compaction, % G 94.5 93.2 95.8
+
+mm
+
+508 Quality Control and Acceptance of Hot Mix Asphalt

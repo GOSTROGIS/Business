@@ -1,0 +1,53 @@
+In evaluating acceptance test data, it is important to realize that the results
+of testing contain recognized statistical variation. In order to understand
+what the data means, the engineer cannot ignore the statistical nature of
+the results. The variations occur because of recognized limitations in the
+precision and the consistency of test equipment and procedures. Statistical
+acceptance methods are described in Section 10.8.4, “Statistical Acceptance,”
+but even for traditional acceptance criteria, an understanding of the statisti-
+cal nature of test results cannot be overlooked. It is necessary to have an
+understanding of the normal variation in specific test parameters to make
+reasonable decisions about acceptance and/or rejection of materials.
+
+10.8.1 Historical Acceptance
+
+Acceptance criteria are usually based on a number of specific properties
+of the mixture and the finished pavement. Historically, the following set of
+items was used to evaluate HMA construction projects:
+
+° Materials—aggregate gradation, asphalt binder viscosity properties,
+
+and asphalt content
+
+° Thickness tolerances—cores, yield checks, and string lines
+
+° Pavement density—cores and nuclear gauge readings
+
+° Pavement smoothness—straightedge
+
+For many years, the responsibility for testing and controlling materials
+was held by the specifying agency. Contractors often submitted proposed
+aggregate and asphalt materials to the agency. The agency then performed
+a mix design and dictated the mixture proportions. At the start of produc-
+tion, the agency conducted asphalt content tests and aggregate gradations
+to make sure the job-mix formula was being duplicated within allowable
+tolerances. As long as the job-mix formula was adhered to, the assumption
+was made that the mixture volumetric criteria were also being met. This was
+often a mistaken assumption.
+
+This type of combined process control and acceptance also required the
+agency to be responsible for adjusting the aggregate proportions and/or
+the asphalt content of the mixture. By changing the mixture proportions
+at the plant, the agency actions potentially had a direct effect on the con-
+tractor’s ability to achieve density in the finished pavement. In some cases,
+penalties were assessed to the contractor for low densities even though the
+contractor was not in a position to make changes to the mixture to remedy
+the situation.
+
+10.8.2 Modern Acceptance (with
+Volumetrics)
+
+There have been recent trends toward quality-assurance specifications.
+Current trends also are emphasizing mixture volumetric properties over the
+
+500 Quality Control and Acceptance of Hot Mix Asphalt

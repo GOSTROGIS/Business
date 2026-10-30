@@ -1,0 +1,54 @@
+4.9 Performance
+
+Testing of HMA
+
+4.9.1 Introduction
+
+Performance testing of HMA mixes is conducted to predict the perfor-
+mance of HMA prior to use on a transportation facility and to evaluate new
+materials and design tools to improve the performance of HMA pavements.
+HMA mixture testing can be divided into five general categories:
+
+* Modulus—shear, dynamic and resilient modulus
+
+° Creep—static and dynamic creep
+
+° Flexural beam fatigue
+
+¢ Empirical
+
+* Wheel-tracking tests
+
+4.9.2 Modulus Testing
+
+The modulus of a material is used to calculate the expected deformation
+from a specified load. The modulus of elasticity is determined by applying
+increasing loads at a specified rate and measuring the resulting deformation.
+Loads are converted to stress by dividing by the cross-sectional area of the
+specimen section under load. Deformation is converted to strain by dividing
+the change in length (deformation) by the original (non-deformed) length. In
+shear testing, the shear modulus (G) of a material is determined by dividing
+the shear stress (7) by the shear strain (y). In axial testing, the modulus of elas-
+ticity (E) is determined by dividing the axial stress (o) by the axial strain (e).
+
+Shear Modulus
+
+The specimens used for shear and dynamic modulus testing are gener-
+ally manufactured using the Superpave Gyratory Compactor (SGC). An
+HMA sample is obtained by mixing the materials in the laboratory or from
+a hot mix asphalt mixing facility. Mixtures prepared in the laboratory are
+subjected to short-term oven aging (STOA). For shear modulus testing a
+STOA of four hours at 275°F (135°C) is used. This is longer than the two
+hours used in Superpave for mix design. Stiffening of mixtures and binder
+frequently occurs in any HMA facility; therefore the STOA procedure is not
+used for plant-produced mixtures.
+
+The shear modulus test is used to describe the viscoelastic behavior of
+an asphalt mix. It is described in AASHTO TP 7. A sinusoidal shear strain of
+0.01 percent (peak-to-peak) is applied to the specimen at ten frequencies
+(0.01 to 10 Hz). The shear stress and strain are then used to calculate the
+complex shear modulus (G*) of the asphalt mixture. The loading rate for
+this test is selected based on what the material will experience under
+
+230 Hot Mix Asphalt (HMA) Design
+

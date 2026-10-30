@@ -1,0 +1,52 @@
+the asphalt flow matches the requirement, no change is made. If the asphalt
+flow is either too high or too low, the contro] system will correct the asphalt
+flow by adjusting the asphalt flow-control mechanism until it reaches the
+right target.
+
+If the aggregate flow is increased, a new target asphalt flow rate is calculated
+and the control system will adjust the asphalt flow. If the aggregate flow
+decreases, the opposite happens. This entire process is continuous.
+
+Changeable delay times are built into the flow-control circuits. When the
+plant is set up, tests are done to determine the length of the delay time
+between the belt scale reading and the aggregate material reaching the
+asphalt injection point for that plant. Therefore, changes in the aggregate
+scale do not cause an instantaneous change in the asphalt flow. The plant
+control system has delay times set up not only for the asphalt flow but also
+for each cold-feed bin and for every other ingredient. These flow delays are
+very important for a continuous process. When changes to production are
+made, mix integrity must be maintained, so the delay times are carefully
+calibrated to ensure that production-rate changes and mix changes can
+be executed without shutting down the process. An alarm notifies the
+operator when a mix change is complete and material can be directed to
+another storage silo.
+
+Ingredients other than asphalt binder, including other liquid additives
+and bulk additives, are controlled in the same fashion as the liquid asphalt
+binder. They all take their key from the aggregate belt scale signal. When
+mixes containing RAP are being produced, the control system also reads
+the belt scale on the RAP conveyor and adjusts the virgin-asphalt binder
+to compensate for the asphalt that is included in the RAP.
+
+The belt scale reading is very critical in producing quality HMA in the
+drum-mixer process. Additional attention needs to be paid to the area
+of the main belt where the belt scale is located. Before startup, the area
+should be inspected and cleaned to make sure the framework is free of
+dust and dirt buildup that may affect the readings. Wind screens mounted
+around the belt scale will prevent wind loading that can artificially add or
+subtract weight from the readings. A belt tensioner or deadman (weighted
+idler roller) to take up slack as the belt stretches helps to keep constant
+tension on the belt as it passes across the belt scale and helps improves
+the accuracy of the readings.
+
+7.4.4 Mixing/Coating with a Drum/
+Continuous Plant
+
+Located in the rear of the drum-mixer or in the outside mixer are mixing
+flights, or tips, for mixing the aggregate materials with the liquid asphalt
+binder.
+
+Figure 7.31 shows mixing flights in a one-piece drum-mixer plant.
+Figure 7.32 shows the outside mixing tips in a double-barrel unitized
+
+MS-4 347

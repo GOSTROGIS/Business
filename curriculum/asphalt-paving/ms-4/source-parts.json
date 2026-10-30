@@ -1,0 +1,281 @@
+{
+  "original_filename": "the-asphalt-handbook -MS-4-7th-ed.pdf",
+  "original_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+  "original_bytes": 180202618,
+  "original_pdf_pages": 834,
+  "processing": "Pages copied without image resampling or OCR changes. Full original scan retained outside git; these parts collectively preserve all source pages.",
+  "parts": [
+    {
+      "file": "pdf/p0001-0025.pdf",
+      "pdf_start": 1,
+      "pdf_end": 25,
+      "pages": 25,
+      "bytes": 4424188,
+      "sha256": "ce792e704a843cced4fbe228a5d221e19830e9940de70b0d03a1e5d605363f14"
+    },
+    {
+      "file": "pdf/p0026-0050.pdf",
+      "pdf_start": 26,
+      "pdf_end": 50,
+      "pages": 25,
+      "bytes": 3884137,
+      "sha256": "85a2f37109c595ad215d9385a681931024938fd54c06b38b047eb34e2d5372f7"
+    },
+    {
+      "file": "pdf/p0051-0075.pdf",
+      "pdf_start": 51,
+      "pdf_end": 75,
+      "pages": 25,
+      "bytes": 5982587,
+      "sha256": "adbfeae810561b41f5c60504be9bedda046bdbefc8e3e223f590e2ebab886b18"
+    },
+    {
+      "file": "pdf/p0076-0100.pdf",
+      "pdf_start": 76,
+      "pdf_end": 100,
+      "pages": 25,
+      "bytes": 4871098,
+      "sha256": "cb3e0777a05f0cfbcd7b61e2628ff558e4b993addd7e1351b03cefd2925680ae"
+    },
+    {
+      "file": "pdf/p0101-0125.pdf",
+      "pdf_start": 101,
+      "pdf_end": 125,
+      "pages": 25,
+      "bytes": 4129254,
+      "sha256": "2ab7a84593e6fa7fb79c37282fc9ad062b2805a9200a5271e8bc4e5ebbefc2bc"
+    },
+    {
+      "file": "pdf/p0126-0150.pdf",
+      "pdf_start": 126,
+      "pdf_end": 150,
+      "pages": 25,
+      "bytes": 5483617,
+      "sha256": "d7f0b0e361b9bfd15bf64aa6cf69dce3351aab9e6c8351c8571054f4b60b250b"
+    },
+    {
+      "file": "pdf/p0151-0175.pdf",
+      "pdf_start": 151,
+      "pdf_end": 175,
+      "pages": 25,
+      "bytes": 3137697,
+      "sha256": "a3be89c049dfa55211d2b39c349e175e0a41ccc2ea993753f0c9cda5b4269909"
+    },
+    {
+      "file": "pdf/p0176-0200.pdf",
+      "pdf_start": 176,
+      "pdf_end": 200,
+      "pages": 25,
+      "bytes": 3589205,
+      "sha256": "d93daf7dd4865b7972c1d4352d9b8792507cdf4e8be5ffae0ef41e8ab253aab6"
+    },
+    {
+      "file": "pdf/p0201-0225.pdf",
+      "pdf_start": 201,
+      "pdf_end": 225,
+      "pages": 25,
+      "bytes": 5205938,
+      "sha256": "c3b7358c7d230c24bf34d6f22696d27bfd1509287294c61fb9c16acbea71aeaa"
+    },
+    {
+      "file": "pdf/p0226-0250.pdf",
+      "pdf_start": 226,
+      "pdf_end": 250,
+      "pages": 25,
+      "bytes": 5796929,
+      "sha256": "926d75c9dc07aaa74a275dcfe941bf02ed868d5dc70f9ae0caa219653d6e44c6"
+    },
+    {
+      "file": "pdf/p0251-0275.pdf",
+      "pdf_start": 251,
+      "pdf_end": 275,
+      "pages": 25,
+      "bytes": 7675496,
+      "sha256": "ebc618a940c88076af5a52f3525b7b22c00282896743fd7ec34d5ab3a9e8e472"
+    },
+    {
+      "file": "pdf/p0276-0300.pdf",
+      "pdf_start": 276,
+      "pdf_end": 300,
+      "pages": 25,
+      "bytes": 3990756,
+      "sha256": "55563d284955e57fef42b91384147670fd792799bc155bd3e3a04949fd1ff555"
+    },
+    {
+      "file": "pdf/p0301-0325.pdf",
+      "pdf_start": 301,
+      "pdf_end": 325,
+      "pages": 25,
+      "bytes": 5153224,
+      "sha256": "9069421c558bc889b885e8995282a3ff767549ba43b090e56052492ae9a0b70a"
+    },
+    {
+      "file": "pdf/p0326-0350.pdf",
+      "pdf_start": 326,
+      "pdf_end": 350,
+      "pages": 25,
+      "bytes": 4921772,
+      "sha256": "211778558c3442cd276973f0bc80d148ba7e39ef45f73f05eead635fa612346e"
+    },
+    {
+      "file": "pdf/p0351-0375.pdf",
+      "pdf_start": 351,
+      "pdf_end": 375,
+      "pages": 25,
+      "bytes": 8172245,
+      "sha256": "e672c1aa148c393efc5cbec9e776ba2d67fff2cce4ad2fd98b8caa14f2f31620"
+    },
+    {
+      "file": "pdf/p0376-0400.pdf",
+      "pdf_start": 376,
+      "pdf_end": 400,
+      "pages": 25,
+      "bytes": 4315599,
+      "sha256": "fc5b014cee2ff0fce05b41c46b1fb94d12a661ef1f2a6b274b5f124f8fd924f0"
+    },
+    {
+      "file": "pdf/p0401-0425.pdf",
+      "pdf_start": 401,
+      "pdf_end": 425,
+      "pages": 25,
+      "bytes": 8694594,
+      "sha256": "7b689d746e5bde33dd59d7f3e9e0d361076cf084878625c9a5b051b58a3e955c"
+    },
+    {
+      "file": "pdf/p0426-0450.pdf",
+      "pdf_start": 426,
+      "pdf_end": 450,
+      "pages": 25,
+      "bytes": 6688828,
+      "sha256": "2ca81f7f9c155bc522a9307a17e21260798200d97d1fcef4fcd0a46b0d28c6f7"
+    },
+    {
+      "file": "pdf/p0451-0475.pdf",
+      "pdf_start": 451,
+      "pdf_end": 475,
+      "pages": 25,
+      "bytes": 3853989,
+      "sha256": "4cf5e2e00b7b328b3f3b1b76c27acd941abc60cc373c98d3026ad84437e5d7e7"
+    },
+    {
+      "file": "pdf/p0476-0500.pdf",
+      "pdf_start": 476,
+      "pdf_end": 500,
+      "pages": 25,
+      "bytes": 5467057,
+      "sha256": "c7c89c01a31d84f6685aed3bdbb36a37a938851793939fe5c58b0976df3049e9"
+    },
+    {
+      "file": "pdf/p0501-0525.pdf",
+      "pdf_start": 501,
+      "pdf_end": 525,
+      "pages": 25,
+      "bytes": 4360243,
+      "sha256": "84d931f6cbdbd5d68ec841760431f14c975dd61062786938cdf2c0e048177190"
+    },
+    {
+      "file": "pdf/p0526-0550.pdf",
+      "pdf_start": 526,
+      "pdf_end": 550,
+      "pages": 25,
+      "bytes": 3122740,
+      "sha256": "0f0101021f971f92db2a53ce8097e97ce8aae7653aa01b140660190222d9fe46"
+    },
+    {
+      "file": "pdf/p0551-0575.pdf",
+      "pdf_start": 551,
+      "pdf_end": 575,
+      "pages": 25,
+      "bytes": 3970499,
+      "sha256": "170c386c8bb1b0b837d4072db86c7336877ce724c969c0c8bc7f384e39d350d8"
+    },
+    {
+      "file": "pdf/p0576-0600.pdf",
+      "pdf_start": 576,
+      "pdf_end": 600,
+      "pages": 25,
+      "bytes": 11682239,
+      "sha256": "555e84a36375d3a5834359e4a74514ce6683dfe11f7a157cbce2f3cac0fcc147"
+    },
+    {
+      "file": "pdf/p0601-0625.pdf",
+      "pdf_start": 601,
+      "pdf_end": 625,
+      "pages": 25,
+      "bytes": 7663475,
+      "sha256": "1a53b8309b7aa6023f02668a66814cd39a63551189c03409227e0f998c457929"
+    },
+    {
+      "file": "pdf/p0626-0650.pdf",
+      "pdf_start": 626,
+      "pdf_end": 650,
+      "pages": 25,
+      "bytes": 4910543,
+      "sha256": "32ea71c5a72638b53afa807dbfcf63c446d8a65fcf3b89fc71220dfdfca06e1a"
+    },
+    {
+      "file": "pdf/p0651-0675.pdf",
+      "pdf_start": 651,
+      "pdf_end": 675,
+      "pages": 25,
+      "bytes": 5636192,
+      "sha256": "20d9c6bc57c1c459b4c5ef547348671bf1295f0fad212a1afb4a0c6c096087e2"
+    },
+    {
+      "file": "pdf/p0676-0700.pdf",
+      "pdf_start": 676,
+      "pdf_end": 700,
+      "pages": 25,
+      "bytes": 8079045,
+      "sha256": "8125f03f762421c27d0286669c5a4fbefce4fbc44d72ac698ad02af676fdae33"
+    },
+    {
+      "file": "pdf/p0701-0725.pdf",
+      "pdf_start": 701,
+      "pdf_end": 725,
+      "pages": 25,
+      "bytes": 7923706,
+      "sha256": "0da8b551e504787d04ea5f5df157ea308d40dbc1ea58a47851738fd3a1be58ac"
+    },
+    {
+      "file": "pdf/p0726-0750.pdf",
+      "pdf_start": 726,
+      "pdf_end": 750,
+      "pages": 25,
+      "bytes": 4639710,
+      "sha256": "748da1f6930195b4980cc90ac13672900638fb820e3fb54d053c57b7393397df"
+    },
+    {
+      "file": "pdf/p0751-0775.pdf",
+      "pdf_start": 751,
+      "pdf_end": 775,
+      "pages": 25,
+      "bytes": 5729177,
+      "sha256": "040c11ad0b0f302757f97a5ba2431c4655fb2426f3af9f31ec987e95a0fe5c52"
+    },
+    {
+      "file": "pdf/p0776-0800.pdf",
+      "pdf_start": 776,
+      "pdf_end": 800,
+      "pages": 25,
+      "bytes": 4059028,
+      "sha256": "f60282a5f9add436fc681f90cfe2d2a43f2a4c2385cea5a16cb91ae64f405fb3"
+    },
+    {
+      "file": "pdf/p0801-0825.pdf",
+      "pdf_start": 801,
+      "pdf_end": 825,
+      "pages": 25,
+      "bytes": 2439688,
+      "sha256": "1daa7f2c3d84897a39c3a5e21844f9b71736ebbc42b69a38d37984c3db5707f9"
+    },
+    {
+      "file": "pdf/p0826-0834.pdf",
+      "pdf_start": 826,
+      "pdf_end": 834,
+      "pages": 9,
+      "bytes": 494602,
+      "sha256": "9707a98e5f48727d6a166ace60a4bc94c508ad3c228350122af536ba3f1a1960"
+    }
+  ]
+}

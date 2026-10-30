@@ -1,0 +1,49 @@
+Oscillating
+
+Plate
+_N
+
+Proper Amount
+of Asphalt
+
+Figure 2.23 Asphalt Sample Configuration in DSR
+
+equilibration time of 10 minutes is commonly used, the actual temperature
+equilibration time is equipment dependent and should be checked using a
+calibration specimen with very accurate temperature-sensing capabilities.
+
+Before testing, the operator sets the approximate value of shear strain
+to be achieved during the test. Desired shear strain values vary from about
+1 percent to 12 percent and depend on the aged state of the binder being
+tested. Original (unaged) binders and short-term aged binders are tested
+at strain values of approximately 10 to 12 percent. Long-term aged binders
+are tested at strain values of about 1 percent. In all cases, strain values must
+be small enough that the response of the binder (G*) remains in the linear
+viscoelastic (LVE) range. As long as the test remains within the LVE range of
+the material, G* will be virtually unaffected by changes in strain level.
+
+Once the test begins, everything is computer controlled to provide the
+proper sinusoidal loading while measuring stress and strain responses.
+The sample is first conditioned by loading for ten cycles. During this
+conditioning period, the DSR measures the stress required to achieve the
+set shear strain and then precisely maintains this stress during the test.
+After the ten conditioning cycles, ten additional cycles are applied to obtain
+test data. The software automatically computes and reports G* and 4, using
+the relationship between the applied stress and the resulting strain.
+
+The complex shear modulus, G*, is the ratio of total shear stress (7, .—7.,,,)
+to total shear strain (y_.—Y,,,)- The time lag between the applied stress and
+the resulting strain (or applied strain and resulting stress) is related to the
+phase angle, 8. For a perfectly elastic material, an applied load causes an
+immediate response; thus, the time lag or phase angle is zero. A viscous
+material (such as hot asphalt at mixing temperatures) has a relatively large
+time lag between load and response; in this case, the angle approaches
+90 degrees. Because asphalt binders are viscoelastic at normal pavement
+temperatures, they behave somewhere between the two extremes. These
+responses are illustrated in Figures 2.24 and 2.25.
+
+The formulas used by the rheometer software to calculate t and y are
+shown in Figure 2.26. The formulas are not shown so that the user can actu-
+ally calculate G*—this is accomplished by the DSR operating software—but
+
+§2 Petroleum Asphalt

@@ -21,9 +21,9 @@ The six units distinguish dated public evidence from invented classroom inputs. 
 
 ## Current opening-case artifacts · 29 October 2026
 
-The original 18-activity case remains available with its separate answer key and printable materials. Its current exports contain **13 learner pages, 12 instructor pages, 12 response-sheet pages, one change-card page and three process-card pages**. This is distinct from the 34-page and 17-page Line A books.
+The original 18-activity case remains available with its separate answer key and printable materials. Its current exports contain **13 learner pages, 12 instructor pages, 12 response-sheet pages, one change-card page and three process-card pages**. This is distinct from the current 38-page and 17-page Line A books.
 
-The current opening-case verifier passed **747 offline checks**. The opening dataset, distances, project brief and roles remain labelled classroom inventions. Their arithmetic is useful practice; those values have not become current industry statistics. Current public evidence is identified separately in the Line A lessons and research record.
+The current opening-case verifier passed **769 offline checks** after the updated textbook links. The opening dataset, distances, project brief and roles remain labelled classroom inventions. Their arithmetic is useful practice; those values have not become current industry statistics. Current public evidence is identified separately in the Line A lessons and research record.
 
 Rebuild and check the opening case from this directory:
 
@@ -63,7 +63,7 @@ The specifications workshop contains 18 activities with full keys, five SVGs, tw
 
 The manual ZIP contains 715 files, including six complete OEM PDFs (650 pages), the complete John Deere 410G HTML collection and the 441-page historical specification. Its nine MAN activities and four new VIS activities have separate answer guidance. The 12-page learner lesson and five-page instructor guide use four faithful manufacturer crops with APA figure notes and exact page/model scope. [Visual validation](manuals/VISUAL-VALIDATION.md) records the checks. Archive CRC, package hashes, original PDF page counts, original-file hashes, offline links and printed layouts passed checks. Repository files were independently compared byte for byte with the final archive members. Exact required course-publication gaps are stated in the resource index.
 
-The context library indexes all 22 available asphalt PDF paths as 21 unique PDFs and 1,492 pages. It provides 71 PDF chunks and 71 text extracts. Each chunk has at most 25 pages; the largest is 4,034,508 bytes. Original PDFs are preserved, duplicate paths are recorded and text extraction limitations are explicit. The library's manifest is the detailed inventory. All 71 chunks passed hash, range, size and text-page checks; 60 representative original-versus-chunk page renders matched exactly, with annotations disabled for that comparison.
+Before the MS-4 integration, the context library indexed 22 asphalt PDF paths as 21 unique PDFs and 1,492 pages. That earlier snapshot provided 71 PDF chunks and 71 text extracts. Each chunk has at most 25 pages; the largest is 4,034,508 bytes. Original PDFs are preserved, duplicate paths are recorded and text extraction limitations are explicit. The library's manifest is the detailed inventory. All 71 chunks passed hash, range, size and text-page checks; 60 representative original-versus-chunk page renders matched exactly, with annotations disabled for that comparison.
 
 ## Visual and terminology integration
 
@@ -73,6 +73,10 @@ Seven new source-image crops form six cited figures across the manual and specif
 
 The opening, integrated route and review pages passed 12 browser checks at 320, 390 and 1280 CSS pixels. All 18 Line A pages passed the same three widths (54 checks), and the manual pages passed nine viewport checks. No document overflow or failed images was reported. Representative printed source figures, the EPS diagram and the dedicated Q10 response page were visually inspected. Line A now uses the Numeracy Hub cream, ink, red and gold palette.
 
-## Primary textbook access
+## Complete primary textbook · 30 October 2026
 
-MS-4 Seventh Edition is the selected primary textbook. The uploaded file exceeds the workspace transfer tool's 32 MiB limit. The user subsequently supplied a Google Drive sharing URL; the checked view requires authorization, and downloading redirects to Google sign-in. The PDFCoffee link's normal download flow also did not yield the file. MS-4 has not been read, converted to HTML, added to the ZIP or split into context chunks. Its integration plan distinguishes publisher-verified metadata and topic labels from chapter alignment and figure reconstruction that require the actual book. The current context manifest inventories the available PDFs only.
+The Google Drive permission change enabled acquisition of the full MS-4 seventh edition. All 834 scanned pages are now available in 62 HTML sections, with page images, searchable OCR and 34 native source PDF parts. Six cited SVG redraws and twelve complete concept activities include separate answer guidance; three redraws are integrated into Line A. [Textbook validation](ms-4/VALIDATION.md) records the current conversion and lesson checks. The whole-book transcription is unproofread OCR; preserved source pages remain available for exact technical checking. The source is in the repository's separate textbook collection, outside the OEM ZIP.
+
+The updated context snapshot contains **58 PDF paths, 57 unique PDFs, 2,353 pages, 107 PDF chunks and 107 text extracts**. Its largest PDF part is **11,682,239 bytes**, and all parts have at most 25 pages. The 34 MS-4 source parts are reused directly, avoiding a second copy of the handbook. Their text records include both the part-local and complete-book viewer page. `tools/verify_context.py` passed inventory, hash, page-range, byte-limit, OCR mapping, annotation and CSV checks; **66 representative page renders** matched their originals. The separate MS-4 verifier compared **every one of its 834 native PDF pages** with the original scan.
+
+The refreshed OEM archive still contains **715 files** and seven complete OEM references. Its current size and SHA-256 are recorded in [archive-info.json](manuals/archive-info.json); the complete textbook remains in its own collection to keep this ZIP below the repository file-size limit.

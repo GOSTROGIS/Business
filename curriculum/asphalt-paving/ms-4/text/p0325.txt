@@ -1,0 +1,30 @@
+The pavement design procedure for highways and streets allows
+engineers to consider a range of six material types and three MAAT levels.
+Designers only need to select the appropriate curve from the 18 design curves
+that are available based on climate and material type. For the selected curve,
+the designer enters the curve with input values for design ESALs and subgrade
+M.. The intersection of these input values on the design curve produces the
+solution to the problem. SW-1 steps the designer through the process in a user-
+friendly interface and prompts the designer for the necessary information.
+
+The SW-1 also allows a conventional design with aggregate base thick-
+nesses varying between 4 and 18 inches.
+
+6.1.4 Airports
+
+Air-carrier airport pavements support heavy commercial jets with gross
+loads well in excess of 60,000 pounds (27,000 kilograms). A vast second-
+ary network of thousands of smaller airports allows the nation’s fleet of
+general aviation (GA) aircraft to serve local communities. GA aircraft have
+gross weights up to 60,000 pounds (27,000 kilograms) (Figure 6.3).
+
+General Aviation Airports
+
+The Asphalt Institute method of thickness design for GA airports is cov-
+ered in detail in IS-154, Thickness Design—Asphalt Pavements for General
+Aviation, and is one of the methods included in SW-1.
+
+Figure 6.3 Typical General Aviation Type Aircraft
+
+MS-4 291
+

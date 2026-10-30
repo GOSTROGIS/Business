@@ -1,0 +1,53 @@
+Lot sizes are normally established by project specifications. It is important
+to have lot sizes defined in advance of construction. The size and method
+of measurement of a lot will be used to determine locations and quantities
+of quality-control and quality assurance tests. The lot will also be used to
+define what portion of the work is represented by a given set of test results.
+The limits of the lot are critical if corrective action or removal is required.
+
+10.2.2 Random Sampling
+
+Use of random sampling techniques is an important part of obtaining un-
+biased representative samples. Random sampling methods can be simple to
+use if good forms and/or other tools are used. With widespread availabil-
+ity of personal computers, simple spreadsheet documents can be used to
+easily generate sample locations and make implementation less daunting.
+
+Random sampling can be applied to any of the sampling interval methods
+(time, quantity, and length). Random sampling is achieved by taking the
+number of samples to be taken that day and distributing the times, quantities,
+or locations selected for each sample in a random way. For example, assume
+that the production of 5,000 tons (4,536 tonnes) of material is planned and
+a sample frequency for every 1,000 tons (907 tonnes) has been selected.
+Nonrandom techniques may lead planners to take the first sample at
+about 1,000 tons (907 tonnes) and the second sample at about 2,000 tons
+(1,814 tonnes) and so on until all five of the samples for that day are
+collected. Using random sampling, a random number (numbers between
+0 and 1 obtained from a chart) would be assigned to each of the five
+samples. Each of the random numbers is multiplied by the total ton-
+nage (5,000 or 4,536) to determine at what point in production to take
+the sample. For example, if the random number for one of the samples
+is 0.43218, then that sample would be taken when the day’s accumula-
+tive tonnage reaches 2,160 tons or 1,959 tons (5,000 X 0.43218 = 2,160)
+(4,536 = 0.43218 X 1,960).
+
+An accurate estimate of the day’s production is needed to determine
+random sample locations. In some cases, lots with different sizes may have
+a different number of tests. For example, if the project estimate for produc-
+tion is 6,520 feet (1,978 meters), and the quality-control plan establishes
+the sample frequency for coring at every 1,000 feet (305 meters), then that
+lot will contain seven core locations.
+
+Table 10.3 shows how to calculate the stations for random locations
+for cores. Another set of random numbers would need to be used to
+determine how far right of the centerline the location would be. So, as
+an example, the final location of a given core location could be “Station
+15 + 83 (0 + 482 meters), and 7 feet (2.1 meters) right of centerline.”
+
+Careful review of Table 10.3 reveals that the sample locations are not
+very evenly spaced throughout the length of the lot. Samples 6 and 7,
+for example, are only 14 feet (4.3 meters) away from each other. This
+type of occurrence is a natural consequence of using random numbers.
+
+MS-4 453
+

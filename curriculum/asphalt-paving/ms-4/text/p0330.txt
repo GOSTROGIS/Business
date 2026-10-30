@@ -1,0 +1,37 @@
+layer multiplied by the conversion factor yields the effective thickness.
+Conversion factors are found in Table 8-1 of MS-17.
+
+For example, if the conversion factor for rubblized concrete has been
+established as 0.5, then a 10-inch rubblized concrete layer would have an
+effective thickness of 5 inches of HMA for calculating overlay thickness.
+
+In order to calculate the overlay thickness, the designer must first calcu-
+late the design thickness for a new full-depth asphalt pavement using appli-
+cable input values for climate, traffic, and subgrade strength. Subtracting the
+effective thickness of the existing pavement from the design thickness for
+the new pavement yields the required thickness of overlay. A simple equa-
+tion to describe the overlay thickness calculation is as follows:
+
+T, = T, ~T,
+Where
+
+ll
+
+thickness of overlay
+
+thickness of a new pavement for expected traffic, climate,
+subgrade inputs
+
+T, = effective thickness of existing pavement
+
+Maximum Deflection Method
+
+The Asphalt Institute deflection procedure for calculating overlay thickness is
+based on the representative rebound deflection as measured by the Benkelman
+Beam or correlated from other vibratory or impulse-based nondestructive
+testing devices. A full description of the method is beyond the scope of this
+handbook, and the reader is referred to MS-17 for a detailed description of
+the procedure. These two methods of overlay design have been incorporated
+in the SW-1 software.
+
+296 Thickness Design

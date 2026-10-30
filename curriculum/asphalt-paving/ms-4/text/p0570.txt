@@ -1,0 +1,52 @@
+11.2.4 Use of Pavement Condition
+information
+
+The results of a functional pavement evaluation provide the information
+needed for the pavement management system to identify and prioritize
+maintenance and rehabilitation needs. Typically, pavement distress and
+roughness information are used to calculate pavement condition indexes
+that can be used to compare the condition of one pavement section with
+another and to identify the level of repair that might be needed to address
+the deficiencies identified. Over time, pavement condition information
+helps establish rates of pavement deterioration that can be used to fore-
+cast future pavement conditions under different funding scenarios.
+
+Pavement Condition Indexes
+
+To facilitate the use of pavement distress information in a pavement man-
+agement system, pavement condition indexes are calculated based on the
+type, severity, and quantity of distress present. Pavement condition indexes
+typically range in value from 0 to 10 or 0 to 100, with the highest values
+corresponding to pavements in excellent condition. Points are subtracted
+from a perfect score based on the distresses observed in the field to cal-
+culate the index. The complexity of the pavement condition index calcula-
+tion varies depending on the type of survey being conducted.
+
+Pavement condition indexes can be calculated for each type of distress
+present or a composite index can be used that aggregates all of the dis-
+tress into one index representing the overall condition of a pavement
+section. Some agencies use a combination of these two types of indexes;
+the individual indexes are used to identify appropriate maintenance and
+rehabilitation treatments and the composite index is used to report the
+overall network conditions.
+
+In local agencies, a composite index is most commonly used. For exam-
+ple, the pavement rating system for low-volume asphalt pavements that
+is included in several Asphalt Institute publications requires the rater to
+assign a value between 0 and 5 for all functional distress present (such as
+longitudinal and transverse cracking) and 0 to 10 for distress representing
+structural forms of deterioration (such as alligator cracking and rutting) or
+other important deterioration mechanisms (such as deficient drainage or
+poor ride quality). The defects associated with each distress are summed
+and subtracted from 100 to determine the condition rating for a pavement
+section.
+
+A more detailed approach to calculating a composite index was
+developed by the U.S. Army Corps of Engineers for use in its Micro PAVER
+pavement management system. This approach, which is documented in
+ASTM D 6433, “Standard Practice for Roads and Parking Lots Pavement
+Condition Index Surveys,” uses a similar approach, but separate deduction
+values have been developed for each distress type, severity, and quantity
+calculation.
+
+536 Pavement Management

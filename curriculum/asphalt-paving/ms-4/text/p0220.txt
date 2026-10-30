@@ -1,0 +1,54 @@
+3. Superpave HMA Mix
+Design System
+
+4.3.1 Introduction
+
+In 1987, a five-year FHWA study to improve the procedures for the
+performance of HMA pavements was conducted. The result was the
+Superpave (SUPerior PERforming Asphalt PAVEments) system. This sys-
+tem was developed to give pavement engineers and contractors the tools
+they needed to improve the performance of HMA pavements subjected
+to extremes of traffic loading and temperature. The Superpave system as
+implemented consisted of two interrelated elements: an asphalt binder
+specification (discussed in Chapter 2, “Petroleum Asphalts”) and a mix
+design and analysis system. Since the implementation of Superpave in the
+mid-1990s, research has continued on the development of performance
+models. The status of that research is summarized in Section 4.8 in this
+chapter. The following summarizes the Superpave mix design system:
+
+The Superpave mix design procedure consists of:
+
+1. Selecting asphalt and aggregate materials that meet the design
+criteria
+2. Developing several aggregate trial blends that will meet the
+Superpave gradation requirements
+
+3. Blending the asphalt binder with the aggregate trial blends and
+short-term oven aging of the mix
+
+4. Compacting the specimens
+
+5. Analyzing the volumetric properties of the mixture (using the
+procedures described in Section 4.2)
+
+6. Selecting the best aggregate blend as the design aggregate struc-
+
+ture based on the desired performance criteria for the mixture
+
+A detailed discussion is provided in the Asphalt Institute’s SP-2, Superpave
+Mix Design. The detailed procedures for conducting the calculations associ-
+ated with Superpave mix design are included in SP-2 and the Mix Design
+Program, SW-2. This program is written in strict conformance with the SP-2
+manual. It is an Excel-based program that allows users to modify the pro-
+gram components to their needs.
+
+4.3.2 Materials Selection
+
+Asphalt Binder
+
+The asphalt binder to be used in the mix is chosen based on environ-
+mental and traffic loadings using the procedures described in Chapter 2,
+“Petroleum Asphalts.”
+
+186 Hot Mix Asphalt (HMA) Design
+

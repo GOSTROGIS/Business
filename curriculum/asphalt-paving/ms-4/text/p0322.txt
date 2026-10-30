@@ -1,0 +1,57 @@
+Traffic input in DAMA is a single or dual wheel load. The basic user inputs
+are the magnitude of the load, the contact pressure of the tire, and the
+number of monthly load repetitions. For dual tires, wheel-to-wheel spacing
+is also required. Its ability to analyze single or dual wheels allows DAMA to
+be applicable to virtually any pavement section being considered.
+
+The design curves published in MS-1 are specific to highway vehicles.
+Rather than analyzing individual wheel loads, the curves have been devel-
+oped based on the Equivalent Single-Axle Load (ESAL) concept. An ESAL
+is a single axle carrying an 18,000-pound load distributed to the pavement.
+Trucks, cars, and other highway vehicles with multiple axles and a broad
+range of loaded weights can be equated to a corresponding number of
+ESALs. By predicting the total number of ESALs expected over the design
+life of the pavement, an engineer can enter the design curves to calculate
+the required pavement thickness.
+
+For air-carrier airport design MS-11, Thickness Design—Asphalt Pavements
+Sor Air Carrier Airports, traffic is expressed as the number of departures of
+a specific aircraft type. The design curves used for port and industrial appli-
+cations in MS-23, Thickness Design—Asphalt Pavements for Heavy Wheel
+Loads, are based on a single-wheel analysis but allow the user to convert a
+multiple-wheel vehicle into an equivalent single-wheel load. Industrial pave-
+ments must be designed with knowledge of the specific vehicle loads and
+wheel geometry.
+
+Subgrade Strength
+
+Subgrade soils form the foundation of pavement structures. Some knowledge
+of a soil’s suitability to resist deformation under loading is required to
+complete a pavement design.
+
+The basis for subgrade-strength measurement in the Asphalt Institute
+method is the resilient modulus, M,. This applies for both DAMA analysis
+and for solutions using the design curves.
+
+In order to facilitate the use of other widely used field and laboratory
+tests, correlations have been established between resilient modulus and
+the California Bearing Ratio (CBR) and the resistance (R) value. Proce-
+dures for performing CBR and R-value tests are detailed in MS-10, Soils
+Manual for the Design of Asphalt Pavement Structures.
+
+Material Properties
+
+As stated earlier, DAMA allows up to five layers in the pavement section,
+each represented by an elastic modulus and a Poisson’s ratio. Because
+Poisson’s ratio is not expected to vary for a layer, the emphasis should be
+on properly characterizing a layer’s elastic modulus.
+
+When working in the DAMA advanced structural-analysis mode, the
+user can characterize the elastic modulus of a layer by a number of means.
+For asphalt-bound layers, the dynamic modulus can be entered directly
+for each month in the year or the user can use a modulus-temperature
+relationship to calculate the dynamic modulus based on the monthly aver-
+age temperature. For specialized situations, mix volumetric properties
+can be prescribed to further refine the modulus-temperature relationship.
+
+288 Thickness Design

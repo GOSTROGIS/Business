@@ -1,0 +1,46 @@
+Pavement Surface Treatment
+Condition >70
+Asphait
+Surfaced oa NB Thin Overlay
+Roads
+Pavement Condition Curb
+Between 50 and 70 Full?
+mY pel Mill and Replace
+i. Pavement pomaition Structural Overlay
+<
+
+Figure 11.27 Sample Decision Tree
+
+would be developed for other pavement types included in the pavement
+management database. In reality, decision trees are more complex than
+the example included in this document, taking into account factors such as
+traffic, pavement structure, types of distress, geometrics, and other factors
+in determining appropriate treatment.
+
+Decision Matrices
+
+Another format used for defining treatment rules is a decision matrix.
+Decision matrices are similar to decision trees in the way they distinguish
+between treatment options, except that the decisions are presented in
+a tabular format rather than in a tree structure. The information from
+Figure 11.27 is illustrated in a matrix format Table 11.1.
+
+’* Table 11.1
+Sample Decision Matrix
+
+Treatment Type Pavement Condition Available Curb Height
+Surface Treatment >70 Any
+Thin Overlay 50-70 > 3in
+Mill and Replace 50-70 <3in
+Structural Overlay < 50 Any
+Other Tools
+
+Depending on the type of pavement management system used, other
+tools may be used to determine when various treatments are feasible. Some
+pavement management systems require the rules to be defined in terms of
+“if-then” statements that can be easily interpreted by the computer during
+the analysis. Regardless of the format used, the treatment rules should
+reflect current agency policies and practices as much as possible so the
+treatment recommendations make sense.
+
+MS-4 561

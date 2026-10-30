@@ -1,0 +1,64 @@
+Thickness design in this method utilizes design curves that were developed
+from numerous runs of the DAMA analysis tool; however, for ease of use,
+significant simplification has reduced the number of input values required
+in this method.
+
+All pavement designs for GA airports are assumed to be accomplished for a
+MAAT = 60°F (15.5°C), so no climate input is required. Analysis is for a single-
+wheel load and the required input is maximum aircraft weight. The number of
+departures and other load-related information is standardized for this design pro-
+cedure. For material properties, only three combinations of pavement materials
+are considered in this design, further simplifying the design procedure:
+
+¢ Full-depth asphalt concrete
+
+° 2-inch (50 millimeters) HMA-over-emulsified-asphalt base
+
+e HMA over a 6-inches (150 millimeters) layer of unbound granular base
+
+Design thicknesses contained in the GA design charts are based on
+main-gear wheel loads equal to 47.5 percent of the gross weight. Above
+a gross weight of 30,000 pounds (13,500 kilograms), equivalent single-
+wheel loads were determined for dual-tire gears. A minimum total thick-
+ness of 4 inches (100 millimeters) of asphalt structure is recommended
+for these pavements, regardless of subgrade strength.
+
+Altogether, the design curves developed for GA airports offer an easy-
+to-use design system based on mechanistic-empirical design principles
+tailored for use at general-aviation airports.
+
+Air-carrier Airports
+
+Air-carrier airport pavements accommodate aircraft of 60,000 pounds
+(27,000 kilograms) gross weight or more (Figure 6.4). The comprehensive
+design manual MS-11, details the air-carrier airport design method, and it
+is incorporated into SW-1.
+
+The air-carrier design method uses pavement design curves developed from
+numerous runs of a computer-based M-E analytical model. To account for the
+differences between aircraft gear and wheel geometry, design aircraft passes
+are converted to strain repetitions of an equivalent standard aircraft.
+
+The design curves allow variation in MAAT from 40°F (4.4°C) to 75°F (24°C).
+
+The air-carrier design method considers only full-depth asphalt
+pavements, and no consideration is given to pavement sections utilizing
+granular base materials. This conforms to Federal Aviation Administration
+(FAA) design requirements for stabilized base materials for design aircraft
+over 100,000 pounds (45,000 kilograms) gross weight.
+
+The basic steps of the air-carrier pavement design procedure are as
+follows:
+
+1. Climate—establishing the appropriate MAAT for the project
+
+2. Traffic—identifying design aircraft and number of departures during
+the design period
+
+3. Subgrade—describing subgrade strength in terms of resilient
+modulus
+
+4. Solution—working through the curve (or software) to establish the
+design thickness for a full-depth asphalt section.
+
+292 Thickness Design

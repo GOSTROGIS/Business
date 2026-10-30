@@ -1,0 +1,59 @@
+The following is an example using data calculated in the previous examples:
+
+= _ (1.05 = _ _
+p,,= 6.96 - [3:09 | 93.04 = 6.96 - 0.98 = 5.98
+
+Percent VMA in Compacted Paving Mixture
+
+The voids in the mineral aggregate (VMA) are defined as the intergranular
+void space between the aggregate particles in a compacted paving mixture
+that includes the air-voids and the effective asphalt content, expressed as
+a percent of the total mix volume. The VMA is calculated on the basis of
+the bulk specific gravity of the aggregate and is expressed as a percentage
+of the bulk volume of the compacted paving mixture. Therefore, the VMA
+can be calculated by subtracting the volume of the aggregate determined
+by its bulk specific gravity from the bulk volume of the compacted paving
+mixture. The method of calculation is illustrated here.
+
+If mix composition is determined as percent by weight of total mixture,
+
+then
+G_hP
+VMA = 100 — ae
+sb
+where
+VMA = voids in mineral aggregate (percent of bulk volume)
+G,, = bulk specific gravity of aggregate
+G,,, = bulk specific gravity of compacted mixture (AASHTO
+T 166 or ASTM D 2726)
+P, = aggregate, percent by total weight of mixture
+The calculation using data from Table 4.1 is as follows:
+VMA = 100 — 2:344%93:04 _ 499 — 89.97 = 17.73
+2.651
+Or if mix composition is determined as percent by weight of aggregate, then
+G
+— 40990 — | am x —100_
+VMA = 100 G., x 100+P, 100
+where
+
+P, = asphalt, percent by weight of aggregate
+
+The calculation using data from Table 4.1 is as follows:
+
+5) | 100
+2.651) \ 100+7.48
+
+Calculation of Air-Voids in Compacted Mixture
+The air-voids (P,) in a compacted paving mixture consist of the small air
+spaces between the coated aggregate particles. The percentage of air-voids
+in a compacted mixture can be determined using the following equation:
+Gam =
+G m
+
+mi
+
+VMA = 100 -| | (100) = 100-82.27 = 17.73
+
+P.=100
+
+184 Hot Mix Asphalt (HMA) Design

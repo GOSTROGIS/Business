@@ -1,0 +1,111 @@
+# Understanding asphalt · Teaching and answer guide
+
+**ACCESS IS4S · 30 October 2026**
+
+## Teach the concept, observe the skill
+
+The learner book is a complete classroom sequence with six illustrated concepts, worked teaching, twelve activities and a revised explanation task. Use a selected section where it fits the learner's current trade work, or deliver the sequence across several supported sessions. Agree time and access arrangements locally; these activities are not a prescribed allocation of technical-training hours.
+
+Read the diagram title, locate its terms, model one evidence-based explanation, allow an individual attempt, then use a partner check. Have the source image available when a technical term or interpretation needs checking. The full 834-page book is available in the [MS-4 reader](../index.html). The source is the seventh edition, published in 2007; current contracts and machine-specific documentation determine actual applications.
+
+The new SVGs simplify identified source figures. They deliberately omit dimensions, control settings and operational directions where these are not part of the introductory concept. The picture-reading work supports understanding before technical instruction; it does not authorize design, adjustment or operation.
+
+## Occupational alignment
+
+The supplied 2016 SkilledTradesBC program outline retains page-specific dates. These are content links, not completion claims for later technical units.
+
+| Learning section | Outline connection | Evidence in this sequence |
+|---|---|---|
+| Load path and pavement layers | A1 industry/paving context; A5 basic road and highway profiles, including task 5 road cross-sections | Names, relationships, distinction between one example and a universal structure; checked fictional model arithmetic. |
+| Plant processes | A3 paving technology, including task 1 plants and types of asphalt | Correct batch/continuous distinction and asphalt cement/binder terminology. |
+| Paver material route | A1 pit-to-finished-product introduction; later I2 paving-machine equipment and attachments | General functions and a request for the actual machine manual. |
+| Screed factors | Later J1 screed equipment and components | Names interacting factors without prescribing an adjustment. J2 is the separate screed-safety competency. |
+| Pass and coverage | Introduction toward L1 compaction equipment and later L5 operation | Accurate interpretation of terms and a bounded record; no rolling procedure or practical competence claim. |
+| Explanation, revision and records | Nine Skills for Success across the selected trade concepts | Individual authored records, calculations, device use, interaction, alternatives, trial and revision. |
+
+Use the complete [68-competency register](../../line-a/competency-status.md) for whole-program status. The later technical units still require their own complete instruction, applicable equipment information and practical assessment.
+
+## Prepare
+
+Provide the learner book, large diagrams or enlarged source pages, paper, calculators and a practice device folder. Give a learner-controlled communication option and offer an instructor partnership. Use fictional learner IDs for saved practice records. Explain the difference between the scanned book, its unproofread OCR and the visually checked teaching passages. Confirm exact numbers and technical wording from the scan, especially in tables.
+
+## Answer guidance
+
+### MS4-01 · Load path
+
+Expected sequence: wheel load reaches the pavement surface; the pavement structure spreads and transfers the load to the supporting subgrade. The subgrade matters because it supports the structure and carries the transferred load. The diagram does not give required layer thickness, an allowable pressure or a numerical wheel load. Accept a correctly ordered explanation through an accessible mode. If the learner attributes all support to the surface alone, return to the lower part of the picture and trace the arrows.
+
+### MS4-02 · Model layers
+
+**50 + 120 + 180 = 350 mm = 0.350 m.** A useful estimate is about 0.35 m; another check is **(120 + 180) + 50 = 300 + 50 = 350 mm**. The sketch labels surface, base and subbase above prepared subgrade. No subgrade thickness was supplied. These are invented model dimensions and do not establish design adequacy, material suitability or an actual project's required structure. Do not award full numeracy evidence for a copied total without units and a check.
+
+### MS4-03 · Production types
+
+Record A describes a batch process; Record B describes a continuous process. A dryer can be part of either type. Drying/heating and combining aggregate with binder are common functions; separately weighing a batch versus measuring a continuing feed distinguishes these descriptions. Do not accept “has a drum” as the whole explanation. A drum/continuous facility can use a separate dryer and continuous mixer, as the cited source explains.
+
+### MS4-04 · Saved process note
+
+Observe the learner create or control the document, label both routes, save to an identifiable location, close and reopen the saved file. Check the content after reopening. Record the actual tool actions and support. A paper note or another person's file does not demonstrate this learner's Digital outcome.
+
+### MS4-05 · Component functions
+
+| Term | Expected meaning |
+|---|---|
+| Hopper | Receives the asphalt mixture. |
+| Slat conveyor | Carries mixture toward the rear of the paver. |
+| Augers | Distribute mixture across the width ahead of the screed. |
+| Screed | Places and shapes the mat. |
+
+The false statement confuses rearward conveying with lateral distribution. Accept accurate arrows and plain language. The learner should not infer the location of a particular machine's switch from this functional diagram.
+
+### MS4-06 · Check-back and next source
+
+Look for one accurate explanation, listener restatement, clarification and confirmation from each partner. The visitor needs the identified model's applicable operator manual and responsible instructor before selecting a control. The general drawing cannot establish the control layout, machine configuration, authorization or task conditions. Record individual contributions; speed, accent, eye contact and confidence are not the criteria.
+
+### MS4-07 · Changed factors
+
+The recorded factors are paving speed/forward motion and head of material. Missing facts can include measured mat thickness, the time/location of the observation, temperature record, the earlier and later material-head record, or a reliable description of the reported result. Because more than one factor changed and the record is incomplete, it cannot isolate one cause. Do not turn this task into a machine-adjustment recommendation.
+
+### MS4-08 · Observation form
+
+A sound form separates the reported speed change and material-head change from missing measurements. For example: **Observation:** speed changed; **source:** supplied classroom note; **time/version:** not supplied, request it; **information needed:** verified before/after record. “The mat failed because the speed was wrong” is an unsupported diagnosis and should be revised. Keep the first and revised versions and the actual partner feedback. Record Digital only if the learner performed the file actions.
+
+### MS4-09 · Passes and coverage
+
+Point P has **two passes**. The record establishes **one complete coverage**, because every part of the width has at least one crossing and some areas do not have a second. Two crossings of P do not establish equal treatment across the full width. These invented facts interpret vocabulary; they do not specify an operating pattern.
+
+### MS4-10 · Incomplete log
+
+An acceptable handover is: “The log records three crossings past the observer. It does not establish how much of the mat width was covered.” Request the track/coverage record for the full width, including any untreated areas. Do not silently equate an observer crossing count with the source's point-based pass definition or a complete coverage count. The learner's partner should recover both the observation and the missing information.
+
+### MS4-11 · Develop and test an explanation
+
+Keep two meaningfully different formats, a choice tied to the new learner's question, an actual trial and an improvement supported by what happened. Both need accurate technical terms and the figure's source credit. A copied attractive layout without alternatives or a reader trial does not demonstrate the intended creative process. Each learner records their contribution. Do not require cultural or personal disclosure to make an example relevant.
+
+### MS4-12 · Revise for the new reader
+
+Check the revised explanation has at most 80 words, excluding the source note, and works in black and white without colour carrying the only meaning. It answers what the term means and what the picture does not establish. Keep the original, changed brief, revised version and test result. A revision should follow the changed requirement or observed reader need; a learner need not invent an error if the first version already had a useful feature. Confirm saved content after reopening when Digital is claimed.
+
+## Record the nine skills separately
+
+| Skill | Main activity evidence |
+|---|---|
+| Reading | MS4-01, 03, 05, 07 and 09: locates and interprets the actual labels or stated record. |
+| Writing | MS4-01, 03, 05, 08 and 10: learner-controlled wording that preserves meaning and uncertainty. |
+| Numeracy | MS4-02 and 09: calculation/interpretation with units or the correct counting basis and a check. |
+| Digital | MS4-04; MS4-08/12 when performed: individual save, locate, close and reopen actions. |
+| Problem solving | MS4-02, 03, 06, 07 and 09: distinguishes evidence, assumptions and a justified next step. |
+| Communication | MS4-01, 06 and 10: understandable message, listener check and clarification. |
+| Collaboration | MS4-06, 08 and 11: individual contribution, attention to another person's information and shared checking. |
+| Adaptability | MS4-08 and 12: response to feedback or a changed requirement, visible in the revised work. |
+| Creativity and innovation | MS4-11 and 12: alternatives, purposeful selection, trial and improvement. |
+
+Use **Not observed**, **Not yet demonstrated**, **Demonstrated with support**, or **Demonstrated independently** for the stated criterion. Keep the activity/version, support, observed action, result and next practice. These local descriptions are not official trade grades or federal proficiency levels.
+
+## Technical and local review
+
+Before a technical-delivery claim, obtain qualified review of the simplified figures, term explanations, task boundaries and relationship to the provider's training plan. Record the reviewer, date, findings and revisions; none is pre-filled as approved. Invite locally directed examples and accessible teaching choices without inventing Nation-specific knowledge or endorsement. Keep practical assessment separate from this conceptual classroom evidence.
+
+## Source record
+
+Asphalt Institute. (2007). *The asphalt handbook* (7th ed., MS-4). [Complete HTML reader](../index.html). Visually checked teaching sources: printed pp. 13–14 (PDF 47–48), 309–312 (PDF 343–346), 377–378 (PDF 411–412), 383–384 (PDF 417–418), and 416 (PDF 450). Contributor credits: printed pp. 769–770 (PDF 803–804). The [figure manifest](figure-manifest.json) records each adaptation and its exact source.

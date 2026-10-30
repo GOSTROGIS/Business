@@ -1,0 +1,59 @@
+Asphalt binder has a density, or specific gravity, very similar to water.
+Like water, the specific gravity of an asphalt binder changes with tem-
+perature. Additionally, different grades of asphalt binders have different
+specific gravity values. Softer grades usually have a lower specific gravity
+than stiffer (more viscous) grades.
+
+There is no specification requirement for the density or specific gravity
+of an asphalt binder because, like temperature-viscosity relations, it varies
+with different asphalt binders. However, there often is need to know the
+exact density, or specific gravity, of an asphalt binder. This value is used,
+for example, in computing the volume of asphalt at certain temperatures
+for purposes of purchase payments, or in designing asphalt-aggregate
+mixtures.
+
+For paving-grade asphalt binders and viscous cutback asphalts, the test
+is usually performed with a pycnometer bottle as previously described. For
+more fluid asphalt binders and asphalt emulsions, a hydrometer is used.
+
+To indicate definite conditions applicable to a given specific gravity
+value, the temperature of the asphalt and water should be shown. Thus a
+specific gravity at 60/60°F (15.6/15.6°C) indicates that the determination
+was made with both materials at a temperature of 60°F (15.6°C). The spe-
+cific gravity of asphalt at 60/60°F (15.6/15.6°C) can be calculated knowing
+the specific gravity at 77/77°F (25/25°C). This procedure is explained in
+the following paragraphs.
+
+Temperature-Volume Relationship and Calculations
+
+All liquids and most solids undergo changes in volume with changes in
+temperature. They expand when heated and contract when cooled. The
+change in unit volume per change in unit temperature is called coefficient
+of expansion, a factor that varies with variations in the density (specific
+gravity) of the asphalt product.
+
+Temperature-volume correction tables for asphalt materials are published
+in ASTM D 4311. The multipliers given in the tables are used to convert a
+known volume at a given temperature to volume at 60°F (15.6°C), which
+is customarily used as the standard basis for volume determinations of
+asphalt. The equation is as follows:
+
+V=V,xM, (Equation 1)
+Where
+V = volume at 15.6°C or 60° F
+V,. = volume at given temperature
+M, = multiplier from appropriate table
+
+Example (U.S. Customary Units)
+
+The specific gravity of an asphalt product is determined to be 0.985 at
+60°F. The volume of this material is measured to be 9000 gallons at 180°F.
+Using the data in ASTM D 4311, the correction factor, M,, for a tempera-
+ture of 180°F is 0.9587. Thus, the volume of the material at 60°F is 9000 X
+
+(0.9587) = 8,628 gallons.
+
+i
+
+MS-4 103
+

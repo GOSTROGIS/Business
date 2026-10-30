@@ -1,0 +1,55 @@
+For combining three aggregates, the formula increases to the following:
+
+P=Aa+Bb+Cc (Equation 5)
+1.0=a+b5+c (Equation 6)
+
+The mathematical and graphical trial-and-error procedures are more com-
+plicated than with two aggregates, as expected. Assume that mineral filler,
+C, is to be blended with aggregates A and B from the previous example to
+obtain a gradation meeting specification requirements. The specification and
+gradations are given in Table 3.9a and the procedure consists of these steps:
+
+1. An inspection of the gradations indicates a reasonably clean
+separation between the plus No. 8 (2.36 millimeters) sizes and the
+minus No. 8 (2.36 millimeters) sizes. Aggregate A will furnish most
+of the plus No. 8 (2.36 millimeters) sizes.
+
+Table 3.9
+Trial-and-Error Solution for Combining Three Aggregates
+(a) Grading specification and gradations
+
+Percent Passing
+
+Sieve * in ain ¥a in No. 4 No. 8 No. 30 No.50 No.100 No. 200
+19.0mm 125mm 9.5mm 4.75mm 2.36 mm 0.60 mm 0.30 mm 0.150 mm 0.075 mm
+
+Spec. 100 80-100 70-90 50-70 36-50 18-29 1323 8416 4-10
+Aggr.A 100 90 59 16 3.2 11
+
+Aggr.B 100 100 100 96 82 51 36 21 9.2
+Aggr.C 100 100 100 100 100 100 98 93 82
+
+(b) First trial solution for combining three aggregates
+
+P-B _ 425-82 _
+A-~B ~ 32-82 ~ 9-50
+
+No. 200: P = Aa + Bb + Cc
+7 = 0(0.50) + 9.2b+ 82c b+c=1-050=0.50 b=0.50-c
+
+No. 8: a =
+
+7 = 9.2(0.50 —c) + 82c
+7-46
+C= ga -G9 = 0.03 b=0.50-0.03 = 0.47
+82 - 9.2
+Percent Passing
+Sieve % in ’in % in No.4 No. 8 No.30 No.50 No.100 No. 200
+19.0mm 12.5mm 9.5mm 4.75mm 2.36mm 0.60mm 0.30 mm 0.150 mm 0.075 mm
+0.50xA 50 45.0 29.5 8.0 1.6 0.6
+0.47xB 47 47.0 47.0 45.1 38.5 24.0 16.9 9.9 4.3
+0.03xC 3 3.0 3.0 3.0 3.0 3.0 3.0 2.8 2.5
+Total 100 95.0 79.5 56.1 43.1 27.6 19.9 12.7 6.8
+Spec. 100 80-100 70-90 50-70 35-50 18-29 13-23 8-16 4-10
+
+Ms-4 143

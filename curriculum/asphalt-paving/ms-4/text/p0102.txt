@@ -1,0 +1,55 @@
+than 300 megaPascals and less than 600 megaPascals, with an m-value
+of 0.300 or greater. If the creep stiffness at the specified temperature is
+300 megaPascals or less, then the direct tension test is not required. If the
+DTT is used, the failure strain must be a minimum of 1.0 percent at the
+appropriate grade temperature.
+
+Although stiffness can also be used to estimate failure or strength
+properties, for some asphalt binders, especially modified asphalts, the
+relationship between stiffness and strength properties is not well known.
+This is why some researchers believe that the alternate procedure for
+determining a critical low cracking temperature specified in Table 2 of the
+AASHTO M 320 specification represents a more rigorous approach than
+the use of BBR stiffness and m-value alone (as is commonly used in the
+PG specification). In the alternate procedure, the BBR data is used at all
+loading times, and at two temperatures, to generate a predicted thermal
+stress curve as a function of temperature. The DTT is then used to deter-
+mine the failure stress in an asphalt binder specimen when tensile fracture
+occurs. The failure tensile stress is plotted to determine at what tempera-
+ture the thermal stress curve from the BBR data exceeds the failure stress
+from the DTT (see Figure 2.37). This intersection is called the “critical
+cracking temperature” and is used as an alternate method of determining
+the low temperature grade of an asphalt binder.
+
+20 -
+18 - Thermal Stress Curve (from BBR)
+16 -
+
+14-
+12-
+10 -
+8 -
+6 -
+
+Failure Stress Curve (from DTT)
+
+Thermal Stress, MPa
+
+4 |
+Critical
+27 Cracking
+0 Temperature
+t T
+
+-30 -24 -16 -12 -6 0
+
+Temperature, C
+
+Figure 2.37 Thermal Stress Curves for Critical Cracking Temperature
+
+68 Petroleum Asphalt
+
+i
+L
+E
+&

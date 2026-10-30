@@ -1,0 +1,44 @@
+Lot 2
+
+Using Spreadsheet Random Number Generator
+This Spreadsheet Develops Stratified Random Locations
+
+Begin Station 114.00 Date of Coring 12/13/2006
+End Station 132.50 Date asphalt placed 12/12/2006
+Asphalt Placed 1850 Feet
+Number of 4 (Adjust number of cores to achieve required sample
+Cores* frequency)
+Width of Mat 10 Feet (Placement width)
+
+Selection of Station—Reference from Beginning Station
+
+Core Num- Distance* Cumulative Random Distance Cumulative Station
+er Length (ft) Distance Number Ahead Ahead
+Begin 114.00
+1 463 463 0.61961 287 287 116.87
+2 463 925 0.58878 272 735 121.35
+3 463 1388 0.38870 180 1105 125.05
+4 463 1850 0.74027 342 1730 131.30
+End 132.50
+Note: — This distance is the length paved divided by the number of cores.
+
+— Adjust the number of cores to satisfy project sample frequency requirements.
+
+Selection of Offset—Distance from Left Edge
+
+Core Distance Random Distance
+Number Width (ft)** Numbers Left Edge
+1 8 0.90142 8
+2 8 0.73757 7
+3 8 0.32955 4
+4 8 0.90328 8
+Note: — This distance is 2 feet less than the width of the paving pass.
+
+— The last foot on the right and left edges are not sampled as part of the mat.
+
+— Separate sampling to represent edge or joint densities could be done to
+represent that portion of the pavement.
+
+Figure 10.1A Random Core Locations Worksheet (English)
+
+456 Quality Control and Acceptance of Hot Mix Asphalt

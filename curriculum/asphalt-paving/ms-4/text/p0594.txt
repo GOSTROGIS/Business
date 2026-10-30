@@ -1,0 +1,54 @@
+11.4.2 Selecting the Appropriate
+Treatment
+
+One of the primary uses of a pavement management system is the
+identification of appropriate maintenance and rehabilitation treatments to
+address the types and the extent of pavement deterioration. A pavement
+management system can recommend either the appropriate level of repair
+or a treatment. Each approach is described in this section.
+
+Determining the Appropriate Level of Repair
+
+In some agencies the pavement management system is used to determine
+the level of repair needed rather than the specific treatment that might be
+recommended. For instance, a pavement section might be recommended
+as a candidate for preventive maintenance, minor rehabilitation, major
+rehabilitation, or reconstruction, depending on the results of the pavement
+condition survey and the agency’s treatment policies. Average cost
+information is associated with each level of repair so the estimated cost
+of each project can be determined. Average rates of deterioration for each
+treatment are used to predict future conditions. While this approach is
+fairly easy to set up and use in the pavement management system, the
+use of average cost and performance data may not provide the level of
+accuracy desired by some agencies. Agencies that prefer to conduct more
+detailed project-level pavement evaluations before selecting the appropriate
+treatment might prefer to use this approach in their network-level pavement
+management analysis.
+
+Selecting Appropriate Treatments
+
+An alternate approach is to define specific treatments in the pavement
+management system so the analysis can determine the optimal treatment
+and timing for each project. This approach requires more detail in setting up
+the pavement management system because treatment rules, performance
+models, and impact rules must be established for each potential treatment.
+Treatment rules define the feasibility of a treatment, performance models
+approximate the rate of deterioration after a treatment has been applied,
+and impact rules define the changes that take place after a treatment has
+been applied (for example, any change in surface type or a change in
+pavement condition).
+
+Two approaches used to select appropriate maintenance and
+rehabilitation trees—decision trees and decision matrices—are discussed
+here in more detail.
+
+Decision Trees
+
+Some pavement management systems use decision trees to determine
+feasible treatment options. As the name implies, options are differentiated
+by different branches to the tree. For example, a very simple decision tree
+is presented in Figure 11.27. In this example, the appropriate treatment
+for an asphalt-surfaced road is determined by the pavement condition
+and the amount of the curb height that is full. Similar decision trees
+
+560 Pavement Management

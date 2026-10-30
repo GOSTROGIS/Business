@@ -1,0 +1,51 @@
+When sampling hot bins, it is important to take a full cross section of the
+flow from the gate because most hot-bin walls are sloped and materials
+can segregate slightly. Also, the flow of material across the screen lends
+itself to segregation. This does not cause any problems with the final mix
+because the materials are being mixed in the pugmill, but it is important
+to obtain an accurate gradation of each hot bin. Therefore, it is important
+to sample each bin across the full width.
+
+After the sampling is done and the gradations from each hot bin are
+established, the ratio of each hot bin can be calculated to arrive at the
+job-mix formula.
+
+Since material from each hot bin is weighed, the percentages of the hot
+bins need to be converted into weight values. Most batch computers make
+this job easy by allowing you to enter the formula in weights that total
+1000 pounds (453 kilograms). For example, if hot bin No. 2 is 33.5 percent
+of the total mix, then the weight target in the batch formula will be 335
+pounds (152 kilograms). The operator then selects the batch size—with
+the batch computer doing the calculations for the operator—to establish
+the weights for the entire batch. This procedure also allows the operator
+to change the batch sizes without changing the formula. It is common for
+batch plants to change batch size. This usually is close to the size typically
+run. Most computers make this adjustment. For example, if a plant is a 4-
+ton (3.6 metric tonnes) plant, but the desired load is 14 tons (12.7 metric
+tonnes), the batch computer will produce four drops at 3.5 tons (3.2 met-
+ric tonnes) to arrive at the target quantity.
+
+The gradations in the final mix will only be accurate if the operator
+or the computer batches the proper quantity of material from each hot
+bin. The accuracy of the scale is critically important. Frequent calibration
+checks are advisable. ;
+
+Each activity is required for gradation accuracy in the final mix produced
+with a batch plant. More aggregates in the job-mix formula and tighter mix
+tolerances require stringent management of the various factors that can
+affect final gradations.
+
+7.3.2 Asphalt Content Control with a
+Batch Plant
+
+Asphalt content control in a batch is simpler than gradation control.
+Asphalt is simply weighed to the target weight in each batch in a separate
+container called the asphalt weigh bucket. A fill valve opens, the computer
+watches the weight accumulate in the asphalt scale, and the computer stops
+the scale just before the target weight is reached, allowing some material to
+still drain from the valve and pipe until the target weight is reached. This
+early shutoff function is referred to as a free-fall compensation value, and
+is automatically adjusted by the computer so the exact target is reached
+with each batch. This same free-fall compensation feature is also used on
+
+336 Manufacture of Hot Mix Asphalt

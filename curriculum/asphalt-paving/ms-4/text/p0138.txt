@@ -1,0 +1,69 @@
+Specific Gravity Calculations
+
+The basic formula for specific gravity of a material is the mass in air of a
+unit volume of the material at a specific temperature divided by the mass
+in air of an equal volume of water at the same temperature. This is written
+
+as follows: yw W
+G = W, (Equation 2a) or G. = Vik, (Equation 2b)
+where
+G, = specific gravity of the substance
+W, = mass of a unit volume of the substance
+W_ = mass of a unit volume of water
+
+<,
+
+~ = volume of the substance
+y, = density of water
+
+The volume of asphalt, which changes with temperature, can be deter-
+mined using the equation. However, the density of water also changes
+with temperature.
+
+If the specific gravity of asphalt is found at 25/25°C (77/77°F), its
+specific gravity at 15.6/15.6°C (60/60°F) can be calculated by expressing
+Equation 2b for both temperatures, combining, appropriately substituting
+Equation 1 and simplifying to become:
+
+G
+
+xy Ghee xXy
+
+25/25 w25 THT wi7 .
+
+= 47 or G =— "~~ (Equation 3)
+15.6 115.6 Mo Ywise 60/60 MX Yyeo
+
+G
+
+where
+Yours Yur = density of water at 25°C (77°F) = 0.9970 g/ml
+
+YorssYnoo) = density of water at 15.6°C (60°F) = 0.9988 g/ml
+M,, (M,,) = multiplier at 25°C (77°F) from ASTM D 4311
+
+As an example, assume the specific gravity of an asphalt cement at
+77/77°F is 1.003. From ASTM D 4311, the correction factor, M,, for 77°F is
+0.9941. The specific gravity at 60/60°F is then
+
+Grr * Yar 1.003 x 0.9970
+
+Goose = —M,,Xy,,, 0.9947 x 0.9988 ~ 1-007
+
+Tank Measurements
+
+Many asphalt containers for transporting and storage are cylindrical
+tanks that are in a horizontal position. Determination of the volume of
+material in the tank consists of measuring its depth. Table 2.7 gives quanti-
+ties in terms of percent of the total capacity based on the depth in percent
+of the diameter.
+
+Volumes of asphalt are usually expressed in gallons (liters), and the
+formula for determining the capacity of a cylindrical tank is shown in
+Equation 4a for metric units (liters, meters) and Equation 4b for U.S.
+Customary Units (gallons, feet):
+
+V = 785 x D?x L (Equation 4a) or V = 5.88 x D?x L_ (Equation 4b)
+
+104 Petroleum Asphalt
+

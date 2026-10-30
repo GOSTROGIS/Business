@@ -1,0 +1,1426 @@
+SOURCE: curriculum/asphalt-paving/ms-4/pdf/p0001-0025.pdf
+SOURCE SHA-256: ce792e704a843cced4fbe228a5d221e19830e9940de70b0d03a1e5d605363f14
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: yes (upstream OCR pipeline)
+EXTRACTION STATUS: ocr-unproofread
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE BOOK PDF PAGE 1 ===
+The Asphalt Handbook
+
+Asphalt Institute
+
+MS-4
+7th Edition
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE BOOK PDF PAGE 2 ===
+f
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE BOOK PDF PAGE 3 ===
+The
+ASPHALT
+HANDBOOK
+
+|
+
+ASPHALT INSTITUTE 7th Edition
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE BOOK PDF PAGE 4 ===
+ASPHALT HANDBOOK
+
+7th Edition
+
+ASPHALT INSTITUTE
+
+MANUAL SERIES NO. 4 (MS-4)
+
+The Asphalt Institute can accept no responsibility for the inappropriate use of this
+manual. Engineering judgment and experience must be used to properly utilize the
+principles and guidelines contained in this manual, taking into account available
+equipment, local materials and conditions.
+
+All reasonable care has been taken in the preparation of this manual; however, the
+Asphalt Institute can accept no responsibility for the consequence of any inaccura-
+cies it may contain.
+
+Printed in USA
+Seventh Edition 2007
+ISBN 978-1-934154-27-4
+Library of Congress Control Number: 2007926839
+Copyright © 2007
+All Rights Reserved
+Asphalt Institute
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE BOOK PDF PAGE 5 ===
+MS-4 is the Asphalt Institute’s comprehensive manual on the use of
+asphalt. For 70 years, it has served the asphalt industry as the primary
+reference manual for contractors, engineers, consultants, specifiers, and
+user agencies.
+
+With this printing, the Asphalt Institute is pleased to offer the seventh
+edition of this essential asphalt publication. This new, expanded edition of
+over 800 pages of text and illustrations showcases the advances in asphalt
+technology that have evolved since the 1989 edition of MS-4.
+
+Readers of this edition will learn how to use the latest technologies to
+address a variety of modern pavement challenges, including durability,
+heavy loads, high traffic volumes, noise, smoothness, and safety to meet
+the demands of today’s driving public.
+
+This seventh edition of MS-4 continues to offer chapters on types of
+asphalts, mix designs, mixing facilities, paving, compaction, surface treat-
+ments, recycling technologies, maintenance methods, rehabilitation, and
+structural design. But now, this all-in-one desk reference for asphalt high-
+lights the latest technology.
+
+New topics covered include the folowing:
+
+° Superpave asphalt binder
+
+° Superpave mix design
+
+* Stone matrix asphalt
+
+* Open-graded friction courses
+
+* Quality control and acceptance
+
+° Pavement management
+
+° Rehabilitation of concrete pavements with HMA
+
+New enhanced chapters include these topics:
+
+¢ Petroleum asphalt
+
+° Asphalt modification and additives
+° PG grades
+° Safety guidelines
+° Mineral aggregates
+° RAP
+° Mixture additives
+° Thickness design
+° Mechanistic-empirical methods
+° Perpetual pavements
+¢ Comparison of design methodologies
+
+And you will notice a new look for this new edition of MS-4. The sev-
+enth edition features an updated design and two-color layout, new graph-
+ics and photos, state-of-the-practice illustrations and charts, and a new
+topical/keyword index. Each chapter also includes a detailed reference list
+for more information when needed.
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE BOOK PDF PAGE 6 ===
+[NO OCR WORDS DETECTED; inspect the source scan.]
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE BOOK PDF PAGE 7 ===
+When the Asphalt Institute (AI decided to give this flagship publication
+its first major overhaul in almost 20 years, we knew from the start that this
+would be a team-based project. The expertise required to accurately address
+such a broad range of topics simply necessitated this approach. We also
+knew that the sheer scale of the task invited the participation of others.
+
+Our initial steps were to review the 1989 version of The Asphalt Handbook
+and to ask ourselves what the new handbook needed to include. Dr. Bob
+Boyer, P.E., former Asphalt Institute senior field engineer and now a consul-
+tant in Florida, led us through a yearlong process to develop a comprehen-
+sive and detailed outline for the manual, complete with references for each
+chapter. We are indebted to Boyer for his dedication to this fundamentally
+important stage of our project.
+
+As we sought to build our writing team, we explored various alterna-
+tives with individual authors, partnerships, and companies, all of which
+added value to our process. We are indebted to them for their insights,
+advice, and remarkable excitement for what we were undertaking.
+
+Selecting AMEC Earth & Environmental Inc., with Douglas Hanson as
+our content editor, proved to be the right choice for this project. AMEC’s
+group of highly qualified experts with unique experience and knowledge
+combined with the Asphalt Institute’s team to precisely deliver a new man-
+ual. We especially express our thanks to the following chapter authors for
+their expertise and dedication to this project:
+
+* Douglas Hanson—Chapter 1, “Introduction to Asphalt”
+
+° R. Michael Anderson—Chapter 2, “Petroleum Asphalt”
+
+¢ Ken Wylie—Chapter 3, “Mineral Aggregates and Mixture Additives”
+
+° Douglas Hanson—Chapter 4, “Hot Mix Asphalt (HMA) Design”
+
+° Dr. Larry Hansen—Chapter 5, “Soils and Drainage for Asphalt
+
+Pavements”
+
+¢ John Duval and Bob Humer—Chapter 6, “Thickness Design”
+
+° T. J. Young—Chapter 7, “Manufacture of Hot Mix Asphalt”
+
+¢ Thomas Skinner—Chapter 8, “Hot Mix Asphalt Paving”
+
+° James Warren—Chapter 9, “Hot Mix Asphalt Compaction”
+
+¢ Joseph A. Phillips—Chapter 10, “Quality Control and Acceptance of
+
+Hot Mix Asphalt”
+
+* Kathryn Zimmerman—Chapter 11, “Pavement Management”
+
+* Robert Campbell—Chapter 12, “Asphalt in Pavement Maintenance”
+
+° Douglas Hanson—Chapter 13, “Rehabilitation Methods for Asphalt
+
+Pavements”
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE BOOK PDF PAGE 8 ===
+¢ Douglas Hanson—Chapter 14, “Rehabilitation of Concrete Pavements
+
+with HMA”
+
+¢ Douglas Hanson and Robert Campbell—Chapter 15, “Special Uses of
+
+Asphalt and HMA”
+
+Serving as the Asphalt Institute’s project manager for the duration of this
+effort was Dr. Mark Buncher, PE., our director of engineering. He developed
+the proposal requests, coordinated endlessly with Mr. Hanson on a myriad
+of technical details, and directed the execution of the peer review process.
+Buncher and Hanson approved the final products representing each chapter.
+
+Providing the technical reviews for each chapter were the Asphalt Insti-
+tute regional engineers: Mark Blow, P.E.; Sandy Brown, P.E.; John Duval,
+PE.; Gary Fitts, PE.; Bob Humer, P.E.; Mike Huner, P.E.; Wayne Jones, P.E.;
+and Carlos Rosenberger, P.E. These chapter reviews were critical to ensur-
+ing consistent and high-quality content throughout the manual.
+
+Other key contributors on the Asphalt Institute staff included Dwight
+Walker, P.E., who managed editorial production and graphics and main-
+tained the continuity of style and editorial consistency in all phases of the
+development process; Mike Sonnenberg, who managed the volume of elec-
+tronic files and located countless images; Becky Boston, who kept track
+of the production schedule and coordinated printing for the new manual;
+Jacqueline Bartek, who researched photos and permissions; and Karen
+Embs, who helped proofread the manual. Brian Clark, Asphalt Institute’s
+director of marketing and membership, oversaw the interface between Al’s
+editorial team and our publishing partner, settingPace of Cincinnati, Ohio.
+Clark also developed the marketing strategy for the new manual and saw
+its implementation through.
+
+The settingPace team proved invaluable as they adjusted to frequent
+schedule and process changes, turning our writing efforts and collection
+of images into professional, appealing pages. They were as much an essen-
+tial part of this team as any other single component.
+
+We are also indebted to the efforts of the Asphalt Institute Technical
+Advisory Committee and Marketing Committee for their contributions and
+advice along the way.
+
+It takes a team and this team delivered! Thank you all for your efforts to
+publish the seventh edition of The Asphalt Handbook.
+
+Peter T. Grass, P.E.
+President
+Asphalt Institute Inc.
+
+vi Acknowledgements
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE BOOK PDF PAGE 9 ===
+Foreword 2.0.0... 0 ee ee eee iii
+
+Acknowledgments .........0. 0.000000. eee ee eee v
+Table of Contents ....... 0.0.00... eee eee vii
+List of Illustrations .... 0.0.0.0... 0000. eee eee xix
+List of Tables 2.2.2... ee eee xxix
+CHAPTER 1 INTRODUCTION TO ASPHALT .....:0005 1
+11 HISTORICAL REVIEW .... 2.0.20... 00.02 eee eee 3
+1.1.1 Background............. 0.000000 000000.. 3
+1.1.2 Historical Milestones ............. 0.2.2.0... 5
+1.2 ASPHALT CEMENT .........00.02. 00020 00 eee ees 7
+1.3 TYPES OF ASPHALT PAVEMENT CONSTRUCTION...... 10
+1.3.1 Plant Mix... 2... 2. ee ee 10
+1.3.2 Surface Treatments..................-000-, 12
+1.4 DESIGN OF ASPHALT PAVEMENTS ...............-. 13
+1.4.1 Basic Concepts. .........0..0. 0000 eee eee 13
+1.4.2 Surface Course.... 22... 00. ee eee 14
+1.4.3 Base and Subbase Layers ................0.. 15
+1.4.4 Determining Required Pavement Thickness. ..... 15
+1.4.5 Stage Construction........ 0.00. ..000000 0] 16
+1.5 OVERVIEW OF THE HANDBOOK .................. 18
+CHAPTER 2 PETROLEUM ASPHALT... 4.202000 au anan 21
+21 REFINING AND PROPERTIES OF ASPHALT BINDERS ... 23
+2.1.1 Introduction... 2.0.0... .00. 0.000002 ee eee 23
+2.1.2 Refining Crude Petroleum................... 23
+2.1.3. Characteristics of Asphalt Binders............. 26
+2.2 HISTORICAL PERSPECTIVE: ASPHALT CEMENT ....... 28
+2.2.1 Introduction. .......... 0.0000... .00 0.0008 28
+2.2.2 Tests for Asphalt Cements................... 28
+2.2.3. Specifications for Asphalt Cements............ 39
+
+2.3 DOMINANT PRACTICE: PERFORMANCE GRADED
+(PG) ASPHALT BINDER... ......0....0 0.000 eee eee 44
+2.3.1 Introduction. ..... 0... 000.0. ce ee eee eee 44
+2.3.2 Asphalt Behavior ..............0...0200000- 44
+2.3.3 PG Asphalt Binder Tests.................... 47
+2.3.4 PG Asphalt Binder Specification. ............. 63
+2.4 EMULSIFIED AND CUTBACK ASPHALTS ............. 69
+2.4.1 Introduction..... 2.0... 0.0.02 ce eee eee 69
+2.4.2 Tests for Emulsified Asphalts ........2..0..... 72
+2.4.3. Specifications for Emulsified Asphalts.......... 77
+2.4.4 Tests for Cutback Asphalts .................. 78
+
+2.4.5 Specifications for Cutback Asphalts............ 81
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE BOOK PDF PAGE 10 ===
+2.5
+
+2.6
+
+2.7
+
+2.8
+
+AIR-BLOWN ASPHALTS......0...0.00 006 eee eee eee 83
+
+2.5.1 Introduction. ... 2.0.0.6 0 26 ee eee 83
+2.5.2 Properties, Specifications, and Tests ........... 83
+ASPHALT MODIFICATION AND ADDITIVES .......... 86
+2.6.1 Reasons for Using Additives and Modification... . 86
+2.6.2 Types of Modifiers and Additives ............. 86
+2.6.3. Additional Tests for Modified Asphalt Binders... . 92
+SUPPLEMENTARY ASPHALT TOPICS ...........--.-. 99
+2.7.1 Control of Asphalt Temperatures.............. 99
+2.7.2 Asphalt Sampling.........------ 2.2 eee eee 101
+2.7.3. Temperature-Volume Relationship............. 102
+2.7.4 Frequently Asked Asphalt Questions........... 106
+SAFETY PROCEDURES FOR HOT ASPHALT BINDER.... 107
+
+CHAPTER 3 MINERAL AGGREGATES AND
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+41
+
+4.2
+
+4.3
+
+MIXTURE ADDITIVES ......000e200e2222 109
+
+AGGREGATES FOR HOT MIX ASPHALT (HMA)........ 111
+3.1.1 Introduction. ......... 0.6.02. 2 eee eee eee 111
+3.1.2 Origin of Rocks ...... 2... e eee eee eee 111
+3.1.3 Sources of Aggregates ........--- 0022+ - eee 113
+3.1.4 Aggregate Production.............. 0.00005 117
+3.1.5 Aggregate Properties .........-.. 5000s eee 119
+COMPOSITE AGGREGATE ANALYSIS. .........--..-- 134
+3.2.1 Introduction... ... 0.0.00 6 cee ee 134
+3.2.2 Gradation......... 0... ee eee 134
+RECLAIMED ASPHALT PAVEMENT. ........---.-00-- 147
+3.3.1 Introduction......... 0.0.02 eee 147
+3.3.2 Reclaiming Existing Pavements............... 147
+AGGREGATE ADDITIVES ..........0. 00002 eee eee 152
+3.4.1 Introduction........ 00.0.0 ee ee 152
+3.4.2 Mineral Filler... 0.0.0.0... 0000 e eee eee eee 152
+3.4.3 <Antistrip Additives... 2.2.0.0... 000222 ee eee 154
+3.4.4 Other Additives ...... 0.0.0.0. 0 0. eee eee eee 155
+CHAPTER 4 HOT MIX ASPHALT (HMA) DESIGN....... 159
+DENSE-GRADED ASPHALT PAVEMENT MIX DESIGN ... 161
+4.1.1 Introduction. ... 0.0.05. 00 e ee 161
+4.1.2 Desired Properties Considered for Mix Design ... 163
+4.1.3 Hot Mix Asphalt Mixture Behavior ............ 167
+4.1.4 Objectives and Applications of HMA Testing... .. 170
+VOLUMETRIC CALCULATIONS ............ 0250005. 172
+4.2.1 Introduction... 2... 0.022 eee 172
+4.2.2 Definitions... 0.0.0.6 ee eee 172
+4.2.3 Analyzing a Compacted Pavement Mixture ...... 173
+SUPERPAVE HMA MIX DESIGN SYSTEM ............-.- 186
+4.3.1 Introduction. .......0.0 0.0. eee 186
+4.3.2 Materials Selection. ..... 0.0... 000000 186
+
+viii
+
+Table of Contents
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE BOOK PDF PAGE 11 ===
+4.3.3 Design Aggregate Structure ................. 188
+4.3.4 Design Asphalt Binder Content............... 194
+4.3.5 Steps that Can Be Taken to Adjust Properties .... 194
+4.3.6 Moisture Sensitivity ...................00-. 196
+4.4 MARSHALL METHOD OF MIX DESIGN .............. 198
+4.4.1 Introduction and Historical Context ........... 198
+4.4.2 Description of Method ..................... 198
+4.4.3 Mix Design Criteria...............0.0000.., 201
+4.5 HVEEM METHOD OF MIX DESIGN... .............0. 204
+4.5.1 Introduction and Historical Context ........... 204
+4.5.2 Description of Method..................-.. 204
+4.5.3 Mix Design Criteria... 0.0... 0... eee ee 205
+4.6 RAP MIX DESIGN... 20.2... 000000 bee ee eee 210
+4.6.1. Materials Evaluation....................-.. 210
+4.6.2 Mix Design............. 0000 ee eee ees 213
+4.7 AGGREGATE PACKING ANALYSIS USING THE
+BAILEY METHOD .........0 2.0.0.0 2 eee ee eee 215
+4.8 SPECIALIZED ASPHALT MIXTURES................. 217
+4.8.1 Stone Matrix Asphalt Mix................0.. 217
+4.8.2 Open-Graded Friction Course................ 223
+4.8.3 Asphalt-Treated Permeable Base.............. 228
+4.9 PERFORMANCE TESTING OF HMA................0. 230
+4.9.1 Introduction.............. 0.000020 eee eee 230
+4.9.2 Modulus Testing .. 2... 00... eee eee 230
+4.9.3 Creep Testing... 2.2.2... ee eee 232
+4.9.4 Flexural Fatigue Test... ................000. 234
+4.9.5 Empirical Tests........0.0.00 0000000000 236
+4.9.6 Wheel-Tracking Tests ...................05, 237
+4.10 MIX SELECTION ............. 0.02.00. 242
+4.10.1 Pavement Layers and Traffic Levels ........... 242
+4.10.2 Dense Graded Mixes ...............000000. 243
+4.10.3. Determining the Appropriate Mix Type......... 244
+CHAPTER 5 SOILS AND DRAINAGE FOR
+ASPHALT PAVEMENTS .....000en0nuu00 247
+5.1 SOIL-SUBGRADE CLASSIFICATION SYSTEMS ......... 249
+5.1.1 Introduction............ 5.000.000. 0220000. 249
+5.1.2 Objectives for Classifying Subgrade............ 249
+5.1.3 Classification Systems...................08. 249
+5.2 METHODS FOR EVALUATING SUBGRADE
+STRENGTH AND STIFFNESS .. 0.0.0... ee eee 251
+5.2.1 Introduction. ... 2.0... 00 eee 251
+5.2.2 Laboratory Test Methods.................... 252
+5.2.3 Field Test Procedures ............02...0.0040. 263
+5.2.4 Strength Correlations ...................00. 269
+
+MS-4 ix
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE BOOK PDF PAGE 12 ===
+5.3. DRAINAGE OF ASPHALT PAVEMENT STRUCTURES..... 270
+
+5.3.1 Introduction... ...... 0.000000 ee eee 270
+
+5.3.2 Surface Drainage .... 0.2... eee eee 271
+
+5.3.3 Design for Large Paved Areas................ 273
+
+5.3.4 Subsurface Drainage............. 0000220050. 274
+
+5.3.5 Geosynthetic Fabrics ...... 2.0.00. 00 00a ee 278
+
+CHAPTER 6 THICKNESS DESIGN....... pene enewnns 2OF
+
+6.1 INTRODUCTION... 0.0... 0000 cc ee eee 283
+
+6.1.1 Design Principles........0.0.0.0.0 0000 eee ees 284
+
+6.1.2 Input Variables... 0.00522 eee 287
+
+6.1.3 Highways, Roadways, and Streets............. 289
+
+6.1.4 Airports... eee 291
+
+6.1.5 Heavy Wheel Loads .............. 000000045. 293
+
+6.1.6 Planned Stage Construction ................. 295
+
+6.1.7. Overlay Design...... 0.0.0.0... 0.0 cee eee 295
+
+6.2 RELATIONSHIP TO OTHER DESIGN METHODS ....... 297
+
+6.2.1 Empirical Methods............. 000.0000 00- 297
+
+6.2.2 Mechanistic-Empirical Methods............... 297
+
+6.2.3. The Perpetual Pavement Method.............. 298
+
+6.3. DESIGN MANUALS AND SOFTWARE...............-- 302
+6.3.1 SW-1 Asphalt Pavement Thickness
+
+Design Software... 0... cee ees 304
+
+CHAPTER 7 MANUFACTURE OF HOT MIX ASPHALT... 307
+
+7.1
+
+7.2
+
+7.3
+
+TYPES OF PLANT FACILITIES/PRODUCTION
+
+PROCESSES... 2.0.0.0. ee eee 309
+7.1.1 Batch Facilities... 0... 0. ee eee 309
+7.1.2 Drum-Mix Facilities ... 2.0.0.0... ee eee 311
+EQUIPMENT COMMON TO BOTH TYPES OF
+FACILITIES . 0.0... ee eee 313
+7.2.1 Liquid Asphalt Storage ...............00005- 313
+7.2.2 Aggregate Stockpiling...................05. 315
+7.2.3 Virgin Aggregate and RAP Cold-Feed Bins....... 317
+7.2.4 Aggregate and RAP Transfer Conveyors......... 318
+7.2.5 Aggregate Dryer... 0.2.0.6... ee ee eee 319
+7.2.6 Dust Collection Equipment................-- 322
+7.2.7 Dust-Return Equipment .................--- 325
+7.2.8 Mineral Filler Additive Storage and Feed
+
+SilOS. ee eee 327
+7.2.9 Lime Additive Bulk Storage and Feed Silos ...... 328
+7.2.10 Fiber Additive Equipment................... 329
+7.2.11 Finished Product Storage Silos and Load-Out
+
+Equipment... 0.0... eee ee ees 329
+THE BATCH PLANT PRODUCTION PROCESS ......... 332
+7.3.1 Aggregate Gradation Control with a Batch Plant .. 332
+7.3.2 Asphalt Content Control with a Batch Plant...... 336
+
+Table of Conienis
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE BOOK PDF PAGE 13 ===
+7.3.3 Mixing/Coating with a Batch Plant............ 337
+7.3.4 Recycled Mix Production with a Batch Plant..... 338
+7.4 THE DRUM-MIX PRODUCTION PROCESS............ 340
+7.4.1 The Development of the Drum-Mix Process ..... 340
+7.4.2 Aggregate Gradation Control ina Drum-Mixer ... 342
+7.4.3. Asphalt Content Control in a Drum-Mixer....... 345
+7.4.4 Mixing/Coating with a Drum/Continuous Plant... 347
+7.4.5 Recycled Mix Production with a Drum-Mixer .... 348
+7.5 MIX DEFICIENCIES AND PROBLEM SOLVING......... 350
+7.5.1. Drum-Mix Production Problem-Solving Guide.... 350
+7.5.2 Batch-Plant Production Problem-Solving
+Guide... 2 eee 353
+CHAPTER & HOT MIX ASPHALT PAVING .....0000000 357
+8.1 PRE-PAVING CONFERENCE. .............-.0 000005 359
+8.2 PREPARING THE SURFACE FOR PAVING............. 360
+8.2.1 Surface Preparation and Protection............ 360
+8.2.2 Preparation of Existing Pavement for Overlay.... 362
+8.2.3. Horizontal and Vertical Grade Control.......... 362
+8.2.4 Prime Coats and Tack Coats ................. 363
+8.3 DELIVERY OF HMA ...... 0.0.0.0. 2 eee 366
+8.3.1 Types of Haul Trucks................00000. 366
+8.3.2 Delivery of HMA to the Paver................ 370
+8.3.3 Control of Material Surge in Front of Paver...... 370
+8.3.4 Load Tickets... 0... 2 cee eee 374
+8.3.5 Visual Inspection of the HMA................ 375
+8.4 PAVING EQUIPMENT .......... 00000. cee eee 376
+8.4.1 Asphalt Paving Machine—Basics.............. 377
+8.4.2 Types of Tractors... 0.0.0.0... eee 379
+8.4.3 Screeds ...... ee 381
+8.4.4 Automatic Screed Controls (Types and
+Operational Differences)... .............00.. 388
+8.4.5 Leveling Effect of the Paver and the Free-Floating
+Screed 2... eee 392
+8.4.6 Fumes Control........0.0.0. 0000000 eee eee 396
+8.4.7 Observation of the HMA Pavement Behind
+the Screed 26... en 396
+8.5 JOINT CONSTRUCTION ............. 000000 eee 398
+8.5.1 Transverse or Construction Joints ............. 398
+8.5.2 Paving Start-up... .. 0.0.2... 00.000... 000000. 399
+8.5.3 Longitudinal Joints................. 0.0005. 401
+8.5.4 Notched-Wedge Joints .................00.. 403
+8.6 RELATED PAVING OPERATIONS ................0-. 404
+8.6.1 Hand-Spreading Operations ................. 404
+8.6.2 Supplemental Operations and Appurtenances.... 404
+8.7 |FOREMAN’S/INSPECTOR’S CHECK SHEET............ 411
+
+MS-4 xi
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE BOOK PDF PAGE 14 ===
+CHAPTER 9 HOT MIX ASPHALT COMPACTION ....... 443
+9.1 INTRODUCTION... 2.00 ees 415
+9.2 COMPACTION BASICS. ......... 0005560 e eee eee 416
+
+9.2.1 Terms and Definitions ...........0......0000- 416
+
+9.2.2 Need for Compaction...............2200055 417
+
+9.2.3. Mechanics of Compaction................05- 418
+
+9.2.4 Factors Affecting Compaction...............- 419
+
+9.2.5 Cool Weather Paving ..... 0.0.0.0... 00002 424
+
+9.3 COMPACTION EQUIPMENT ......... 02004 eee eee 426
+9.3.1 Static Steel-Wheel Rollers .............2.0.0-- 426
+
+9.3.2 Pneumatic-Tire Rollers... 2.2.2... 0.00.00 000- 427
+
+9.3.3 Vibratory Rollers .. 0.0.0.0... eee ee eee 429
+
+9.3.4 Guidelines for Choosing a Roller ............. 431
+
+9.3.5 New Technology.... 0... 5-000. 22 eee 433
+
+9.3.6 General Operational Notes ..............06: 433
+
+9.4 ROLLING PROCEDURES ............. 00022 e ee eee 434
+9.4.1 Test Strip... 0... eee 434
+
+9.4.2 Determining Roller Requirements............. 434
+
+9.4.3 Lift Thickness... 1.0... 002. ce eee 435
+
+9.4.4 General Rolling Hints.................2-05. 435
+
+9.4.5 Sequence of Roller Operations ............... 436
+
+9.4.6 Rolling Joints and Edges................---. 440
+
+9.5 TROUBLESHOOTING ......... 0.00002 eee eee 443
+9.5.1 Pickup... 0.0... eee 443
+
+9.5.2 Low Density... 2... 0. eee 443
+
+9.5.3 Erratic Density. 0... 6 eee 444
+
+9.5.4 Roller Marks... 0... 0. oe eee 444
+
+CHAPTER 10 QUALITY CONTROL AND ACCEPTANCE OF
+
+HOT MIX ASPHALT ... uaa nea e enn eee 445
+
+10.1 GENERAL... 2.2... 2. eee 447
+10.1.1 Quality-Assurance Programs........-....... 447
+
+10.1.2 Job-Mix Formula........ 0.00.00. ee eee 449
+
+10.2 SAMPLING METHODS. ..........0.. 0506 eee ee eee 451
+10.2.1 Representative Sampling.............-...-- 451
+
+10.2.2 Random Sampling...............00.200005 453
+
+10.2.3 Aggregate Sampling Methods ............... 454
+
+10.2.4 HMA Mixture Sampling..............-..... 458
+
+10.2.5 Asphalt Binder Sampling ...............4.. 463
+
+410.3 TESTING METHODS ........... 0.0. 464
+10.3.1 Aggregate Gradation............0 000202000, 464
+
+10.3.2 Fractured Faces and Aggregate Angularity...... 465
+
+10.3.3. Asphalt Content .........0... 0.000. e eee 466
+
+10.3.4 Maximum Theoretical Specific Gravity......... 467
+
+10.3.5 Bulk Specific Gravity (Laboratory Density) ..... 407
+
+10.3.6 Air Voids .. 0.0... 0.00 ee ee 468
+
+10.3.7. Temperature... 2... 0.00.22 eee ee 468
+
+xii
+
+Table of Contents
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE BOOK PDF PAGE 15 ===
+10.4 SAMPLING AND TESTING PLAN FOR QUALITY
+CONTROL .......0.00 00. eee 470
+10.4.1 Selection of Sampling Methods and Sample
+Frequency .. 0.2... eee 470
+10.4.2 Selection of Testing Methods................ 471
+10.4.3 Written Quality-Control Plan................ 472.
+10.4.4 Test Strip... 2... eee eee 474
+10.5 PLANT PRODUCTION QUALITY-CONTROL
+DATA ANALYSIS . 2.0.0.0. .00 2000 ee ee 476
+10.5.1 Job-Mix Formula Verification. ............... 476
+10.5.2 Mixture Control .. 0.0.0.0. 0. eee 477
+10.5.3 Plant Adjustments. .............002000000- 481
+10.6 PLACEMENT QUALITY-CONTROL DATA ANALYSIS ..... 483
+10.6.1 Temperature... 0.0... eee 483
+10.6.2 Compaction Control Methods ............... 486
+10.6.3. Mixture Compactability.................02. 489
+10.6.4 Thickness and Spread Rates .............0.. 490
+10.6.5 Pavement Smoothness ..............0.0005 492
+10.7 ACCEPTANCE POINT AND TEST RESULTS............ 493
+10.7.1. Asphalt Content and Gradation.............. 493
+10.7.2 Aggregate Angularity (Fractured Faces)........ 493
+10.7.3. Volumetric Properties (Voids, VMA, VFA)....... 494
+10.7.4 Compaction ....... 00... 494
+10.7.5 Thickness... 2.0.0.0... 000 ee eee 496
+10.7.6 Ride Quality... 0.00000 o eee eee 496
+40.8 ACCEPTANCE CRITERIA ............ 0000000 eee 499
+10.8.1 Historical Acceptance ...........-.0.0 00000: 500
+10.8.2 Modern Acceptance (with Volumetrics)........ 500
+10.8.3. General Compaction Requirements........... 501
+10.8.4 Statistical Acceptance—Percent Within Limits
+(PWL) Process ...... 000.0 ee 506
+10.9 PERFORMANCE-BASED SPECIFICATIONS ..........-..- 513
+10.9.1 Specification Definitions. ...........6...... 513
+10.9.2 Performance-Related Specifications........... 514
+10.9.3. Performance-Based Specifications............ 514
+10.10 PERFORMANCE SPECIFICATIONS—WARRANTIES...... 516
+10.10.1 Performance Characteristics ................ 516
+10.10.2 Monitoring Performance Parameters.......... 517
+10.10.3. Dispute Resolution. ...............0-0000- 517
+CHAPTER 11 PAVEMENT MANAGEMENT........c2022s 519
+11.1 PAVEMENT MANAGEMENT CONCEPTS ............-. 521
+11.1.1 Introduction... 0.2... 0. ee eee 521
+11.1.2 The Pavement Management Concept.......... 521
+11.1.3. Pavement Management Components.......... 523
+11.1.4 Pavement Management Analysis Levels........ 526
+11.1.5 Role of Pavement Management in Pavement
+Preservation... 1... 2. ees 527
+
+MS-4
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE BOOK PDF PAGE 16 ===
+11.2 PAVEMENT EVALUATION .............. 0020022 529
+11.2.1 Introduction...........0. 0.0.00. eee eee eee 529
+11.2.2 Functional Characteristics and Evaluation ...... 529
+11.2.3 Structural Characteristics and Evaluation....... 534
+11.2.4 Use of Pavement Condition Information ....... 536
+11.3 PAVEMENT DISTRESS SURVEYS ...............000- 539
+11.3.1 Distress Survey Approaches ................ 539
+11.3.2 Typical Asphalt Pavement Distress Types....... 541
+11.4 PAVEMENT PRESERVATION PROGRAM .............-. 558
+11.4.1 Establishing a Pavement Preservation Program... 558
+11.4.2 Selecting the Appropriate Treatment.......... 560
+11.4.3 Types of Maintenance and Rehabilitation
+Treatments... 0.0.0.0... eee 563
+11.4.4 Prioritizing Project Needs .................. 563
+11.4.5 Maintaining the Pavement Preservation
+Program... 2... eee 565
+CHAPTER 12 ASPHALT IN PAVEMENT MAINTENANCE 569
+12.1 INTRODUCTION............ 00... 0 022. eee eee 571
+12.2 PATCHING ........ 0... eee 573
+12.2.1 Materials ©... eee 573
+12.2.2 Full-Depth (Deep) Patching ................ 573
+12.2.3 Surface Patch (Skin Patch) ................. 576
+12.2.4 Spray-Injection Patching................... 580
+12.3 CRACK SEALING/FILLING.................00 0008. 582
+12.3.1 Materials... 00... eee ee eee 583
+12.3.2 Crack-Sealing Procedures ................., 583
+12.3.3 Crack-Filling Procedures..................4. 585
+12.4 ASPHALT SURFACE TREATMENTS................4.. 586
+12.4.1 Pavement Surface Preparation............... 587
+12.4.2 Spray-Applied Sealers.........0....00....0. 588
+12.4.3 Chip Seals .... 0.0.00. 000 00000000022 589
+12.4.4 Slurry Seals... 0... eee ee 605
+12.4.5 Microsurfacing ...........0.0 0.00002 eee ee 610
+12.4.6 Cape Seal... ..... 2. eee ees 613
+12.4.7 Sand Seal...... 0.0.0... 614
+12.5 THIN OVERLAYS (MAINTENANCE BLANKET) ......... 615
+12.6 GUIDANCE ON MAINTENANCE PROCEDURES ........ 616
+CHAPTER 13 REHABILITATION METHODS FOR ASPHALT
+PAVEMENTS ....220020cen ewe eee new sane 619
+13.1 HMA OVERLAY OVER ASPHALT PAVEMENTS ......... 621
+13.1.1 Considerations in Overlay Selection .......... 621
+13.2 PREPARING PAVEMENTS FOR OVERLAYS ............ 626
+13.2.1 Local Weak Areas (Patching)................ 626
+13.2.2 Leveling Courses............0..0.0 00.000, 626
+13.2.3. Crack Filling/Sealing..........0........20-0. 626
+
+xiv
+
+Table of Contents
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE BOOK PDF PAGE 17 ===
+13.3
+
+13.4
+
+13.5
+
+13.6
+
+13.7
+
+14.1
+
+14.2
+
+14.3
+
+14.4
+
+13.2.4 Widening............. 0.0.0.0 eee eee 628
+13.2.5 Drainage .......... 0.2.0.0... eee ee eee 629
+13.2.6 Interlayer Techniques ..................0.. 629
+MILL AND INLAY... 0.200000 00 ce ee 637
+13.3.1 Specifications .......... 0.00.00 00 00 eee 640
+13.3.2 Inspection ............ 0000. eee eee 641
+HOT IN-PLACE RECYCLING. ......0.0.0.0..... 00200005 642
+13.4.1 Pavement Assessment ..............0.005. 642
+13.4.2 Material Evaluation...........0.......0205. 643
+13.4.3 HIPR Construction Processes ............... 644
+13.4.4 Inspection ....... 0.0... cee eee ee eee 649
+COLD-MIX RECYCLING......0.0.0.0.0 0.000000 eee eee 652
+13.5.1 Introduction.......0..0.0.0 00000000 eee eee 652
+13.5.2 Central Plant (CP) Cold Recycling. ........... 652
+13.5.3 Stationary Facilities... ...............0005. 653
+13.5.4 Placement of the Mix ................0000. 654
+COLD IN-PLACE RECYCLING. ......0.0.0 0000000 ee eee 655
+13.6.1 General... 0... ee 655
+13.6.2 Mix Design. ........ 0.0.0. 656
+13.6.3. Equipment and Methods................... 658
+13.6.4 Placement of CIPR Materials................ 661
+13.6.5 Compaction of CIPR Layers................. 661
+13.6.6 Curing and Aeration ................0004. 663
+13.6.7 Wearing Course ............ 0000 eee eee 664
+13.6.8 Inspection ......... 0.0.0.0. eee eee 664
+FULL-DEPTH RECLAMATION. ..............2020005 666
+13.7.1 Stabilization with Chemical Additives ......... 666
+13.7.2 Stabilization with Asphalt Materials........... 667
+13.7.3. Construction of a FDR Pavement............. 669
+13.7.4 Shaping and Compaction Procedures ......... 672
+13.7.5 Inspection ...........0 20000 eee eee 674
+CHAPTER 14 REHABILITATION OF CONCRETE
+
+PAVEMENTS WITH HMA . 2.0222 s en nnne 677
+INTRODUCTION... 0.0.0.0. .000 000 ee ee 679
+14.1.1 Reflection Cracking..................00004. 679
+SAW-AND-SEAL. 0 0. eee 682
+14.2.1 Design Considerations .................00. 683
+14.2.2 Construction... 2.0.0. ce ee 683
+FRACTURED SLAB TECHNIQUES. .................0. 687
+14.3.1 Crack/Break and Seat........... 00.00.0005 687
+14.3.2 Construction... 2.0.00. es 689
+RUBBLIZATION ....0..0.0.0.0 0.0002 eee 693
+14.4.1 Project Selection and Overview.............. 693
+14.4.2 Design Considerations ..................-. 693
+14.4.3 Construction........0..0.. 0.0000 694
+14.4.4 Specification Criteria and Inspection.......... 700
+XV
+
+MSs-4
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE BOOK PDF PAGE 18 ===
+CHAPTER 15 SPECIAL USES OF ASPHALT AND HMA.. 703
+
+15.1 COLD MIX ASPHALT........0. 0.0... 0000.2 eee eee 705
+15.1.1 Introduction. ... 2.0.0.0... 2 eee eee 705
+15.1.2 Description... 0.0.0... 0 000 ee eee 705
+15.1.3. Suitability for Pavement Construction ......... 706
+15.1.4 Mix Composition ..... 0.0.0.0. 0 0. eee eee 706
+15.1.5 Asphalt.... 0.0... 0.000. 706
+15.1.6 Types of Mixes... 0... 0.000000 0c eee eee 708
+15.1.7 Proportioning Materials ...............0--, 710
+15.1.8 Construction Methods.................500, 712
+15.1.9 Methods of Preparing Mixes................ 715
+15.2 HYDRAULIC STRUCTURES ..... 2... .. 0000s 724
+15.2.1 Application/Uses for Hydraulic Structures...... 724
+15.2.2 Hydraulic Mix Design Requirements.......... 727
+15.2.3. Construction Considerations................ 730
+15.3 HMA UTILIZATION IN RAILWAY TRACK BEDS ........ 734
+15.3.1 Introduction. .... 0.20.00... 00. ee eee 734
+15.3.2 Desirable Benefits and Applications of HMA
+Underlayment... 0.0... 0.2 eee 735
+15.3.3 Prevailing Design Practices................- 736
+15.3.4 Typical Installation Practices............---. 737
+15.4 ATHLETIC AND RECREATION FACILITIES............ 740
+15.4.1 Types of Facilities... 20... 0.0... 0.000.000 ee 740
+15.4.2 Basic Considerations................0..005 741
+15.4.3 Pavement Thickness...................0-5 742
+15.5 ASPHALT ROOFS ......0..0. 0.00.0. ees 744
+15.5.1 History... 2... ee 744
+15.5.2 Types of Asphalt Roofing ................-. 744
+15.6 PAVEMENT NOISE MITIGATION ...............-4-- 746
+15.6.1 Introduction. ...... 0000. ee 746
+15.6.2 Nature of Noise ...... 0.0.00. eee ee 746
+15.6.3 Noise Characteristics of HMA Pavements....... 747
+15.7. MISCELLANEOUS ASPHALT USES ...............055 750
+15.7.1 Bridge-Deck Paving ..............-000000- 750
+15.7.2. Construction Methods.................0065 750
+15.7.3. Industrial Floors..... 0... 0... ees 751
+15.7.4 Roof Deck Parking... ............2.00005- 751
+15.8 LEACHING PADS............0. 0002.0. eee eee 753
+15.8.1 Uses of Leaching Pads ...............0005. 753
+15.8.2 Design of Leach Pads................-204. 753
+15.8.3 Materials... 0... 2. ee 753
+15.8.4 Construction of Leaching Pads .............. 753
+15.9 ENVIRONMENTAL APPLICATIONS OF ASPHALT....... 755
+15.9.1 General... 0. eee 755
+15.9.2 Examples of Environmental Uses of Asphalt... .. 755
+xvi Table of Contents
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE BOOK PDF PAGE 19 ===
+15.10 USES OF HMA FOR RACE AND TEST TRACKS......... 757
+15.10.11 Introduction..................0.......... 757
+15.10.2 Materials Requirements.................... 758
+15.10.3. Construction Practices ............0..0...0.. 759
+
+15.11 POROUS PAVEMENTS..........0.0.... 0000000 e eee 761
+15.11.1 Introduction........0.0.0.0 0.0000 0000. e eee 761
+15.11.2 General Design Principles.................. 761
+15.11.3 Construction........0..0.0.0.0 0000... 00000004 763
+15.11.4 Maintenance.................0 00.000 000e 763
+
+15.12 COLORED ASPHALT ................... 000000002 764
+
+15.13 WARM MIX ASPHALT PAVEMENTS ................. 765
+15.13.1 Potential Benefits....................00.. 765
+15.13.2 Various WMA Technologies................. 765
+
+MS-4 xvii
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE BOOK PDF PAGE 20 ===
+as
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE BOOK PDF PAGE 21 ===
+Chapter 1
+Figure 1.1
+
+Figure 1.2
+Figure 1.3
+Figure 1.4
+Figure 1.5
+
+Figure 1.6
+
+Figure 1.7
+
+Chapter 2
+Figure 2.1
+Figure 2.2
+Figure 2.3
+Figure 2.4
+Figure 2.5
+Figure 2.6
+Figure 2.7
+Figure 2.8
+Figure 2.9
+Figure 2.10
+Figure 2.11
+Figure 2.12
+Figure 2.13
+Figure 2.14
+Figure 2.15
+Figure 2.16
+Figure 2.17
+Figure 2.18
+Figure 2.19
+Figure 2.20
+
+Figure 2.21
+Figure 2.22
+Figure 2.23
+Figure 2.24
+Figure 2.25
+Figure 2.26
+
+Pavement Placement in 1907 on Pennsylvania
+
+Avenue, Washington, D.C...
+Petroleum Asphalt Flow Chart...............
+Hot Mix Asphalt Manufacturing Facility
+Placement of Hot Mix Asphalt...............
+
+Spread of Wheel Load through Pavement
+
+StrUCtULe 0... ee eccccececccsceececeeseeeeseceanenees
+
+Asphalt Pavement Cross-Sections Showing Some
+Common and Typical Asphalt Pavement
+
+SULUCTULES .. eee cecccccceseccceesccecsuvaeeceseneeres
+
+Pavement Deflection Results in Tensile and
+Compressive Stresses in Pavement Structure ..............
+
+Petroleum Asphalt Flow Chart...............
+
+Asphalt Institute Vacuum Viscometer Tube
+
+Absolute Viscosity Bath with Tubes.......
+Cross-arm Viscometer Tube ...........0000.
+Kinematic Viscosity Bath with Tubes.....
+PeMetrOMe ter oo... eee ceeseeeeeeeeeeeeeetens
+Penetration Test 0.0... eceeceeeeeeeeenees
+Cleveland Open Cup Test... eee
+Thin Film Oven ..........
+Rolling Thin Film Oven... ccs
+Rolling Thin Film Oven Bottles .............
+Trimming Direct Specimen
+Ductility Test... ee ececeeeeceeeesseeeeeeenses
+Asphalt Binder Properties—Penetration
+
+Grading .......
+
+Asphalt Binder Properties—Viscosity Grading ...........
+
+Time-Temperature Superposition ..........
+
+Behavior of Asphalt Binders as Shear Rate Changes..
+
+Rotational Viscosity Equipment .............
+Rotational Viscosity Operation...............
+
+Graphical Representation of Shear Modulus (G*)
+
+and Phase Angle (6)
+DSR Operation .o..cccccccccceeseeseseenenees
+Dynamic Shear Rheometer..............00006
+Asphalt Sample Configuration in DSR...
+Stress-Strain Output... ees
+
+Stress-Strain Output of Viscoelastic Material...............
+
+Dynamic Shear Rheometer Calculations
+
+10
+11
+
+13
+
+14
+
+16
+
+25
+29
+29
+31
+31
+33
+33
+34
+36
+37
+37
+38
+39
+41
+42.
+45
+45
+47
+48
+
+50
+50
+51
+52
+53
+53
+54
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE BOOK PDF PAGE 22 ===
+Figure 2.27
+Figure 2.28
+
+Figure 2.29
+Figure 2.30
+Figure 2.31
+Figure 2.32
+Figure 2.33
+Figure 2.34
+Figure 2.35
+Figure 2.36
+
+Figure 2.37
+
+Figure 2.38
+Figure 2.39
+Figure 2.40
+Figure 2.41
+Figure 2.42
+Figure 2.43
+Figure 2.44
+Figure 2.45
+Figure 2.46
+Figure 2.47
+Figure 2.48
+Figure 2.49
+Figure 2.50
+Figure 2.51
+Figure 2.52
+Figure 2.53
+
+Chapter 3
+Figure 3.1
+Figure 3.2
+Figure 3.3
+Figure 3.4
+Figure 3.5
+Figure 3.6
+Figure 3.7
+Figure 3.8
+
+Figure 3.9
+
+Figure 3.10
+Figure 3.11
+Figure 3.12
+
+XX
+
+Bending Beam Rheometer ..........::: cesses teereeeesiees 55
+Bending Beam Rheometer
+
+Deflection (Mold Assembly)..........:::cccecccecseeseeseteeenees 56
+Bending Beam Rheometer Graph............-:: cee 57
+
+Direct Tension Specimens ............cceeccceeeeeeeereeeeeettseeeees 58
+Direct Tension Tester............eccccesececeseeeeeeseeeeereeesenees 59
+Direct Tension Loading .........cceccecseeceeeseeteeseeeeeneeneeees 60
+Stress-Strain Curves for Direct Tension ...........::0 61
+Pressure Aging Vessel (PAV) 62
+Pressure Aging Vessel Pans..........:cccceseseeeesseeeeneerenaees 62
+Perfomance Graded Asphalt Binder
+
+Specification Table.........ccccceccceseeseeeereernetsenereereeseenees 64
+Thermal Stress Curves for Critical
+
+Cracking Temperature ....0..0....cccccceteceseeteeeeecnerneeenees 68
+Saybolt Furol Viscosity ...........:i eee . 73
+Distillation (Emulsion) .............0::ccceceeees . 76
+Flash Point (Tag Open Cup) ..........ccceeeeeeeeenettteneeees 79
+Distillation (Cutback) occ eeeeseeeeeestereeererteneaeees 80
+Ring-and-Ball Softening Point.........0.. eee 84
+SBR Latex Modification of Hot Asphalt Cement.......... 88
+SBS Pellets . 88
+SBS Blending System for Asphalt Terminals ............... 89
+Preparing Separation Test Samples...........0::cceeeees 93
+Elastic Recovery Test Specimen ...........::cccccceeeeeteeeseees 94
+Elastic Recovery Test Operation ......... eee eeeeeeeeereceees 95
+Force Ductility Test Operation 95
+Force Ductility Output .0...0.... cece cseeseenteeteceeeeteenreees 96
+Toughness and Tenacity Equipment and Operation... 97
+Toughness and Tenacity Output .......... eects 97
+Creep Recovery Output... eeecceeeeeeeeseeseeereeteneeesenees 98
+Sources of Natural Aggregates in U.S. 0.0... cee 114
+Rock Quarry Excavation .......ccccccceeeeee erences 115
+Aggregate Segregation ........c ce eeeeeeeceeseee etree eterna eennees 120
+Sieving Of AGBregate ....... eee eee t ee etre ree eteeteeeeee 122
+Example of Aggregate Sieve Analysis... 123
+Round Versus Fractured Particles 123
+Los Angeles Abrasion Machine ..........:::ceseseeeeeeeees 127
+Relationship Between the Different Specific
+
+Gravities of an Aggregate Particle .......0...:ceeeeeeeeee 129
+Gradation Types 134
+FHWA Chatit.........ccccccceeeeeeteee 138
+Example Gradation Curves 139
+Milling Machine... .ccccececcceseeneeneceeeneeneeneeteeeeneteees 148
+
+List of Illustrations
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE BOOK PDF PAGE 23 ===
+Chapter 4
+Figure 4.1
+Figure 4.2
+Figure 4.3
+Figure 4.4
+Figure 4.5
+Figure 4.6
+Figure 4.7
+Figure 4.8
+Figure 4.9
+Figure 4.10
+Figure 4.11
+Figure 4.12
+Figure 4.13
+Figure 4.14
+Figure 4.15
+Figure 4.16
+Figure 4.17
+Figure 4.18
+Figure 4.19
+Figure 4.20
+
+Figure 4.21
+Figure 4.22
+Figure 4.23
+
+Figure 4.24
+Figure 4.25
+Figure 4.26
+Figure 4.27
+Figure 4.28
+
+Figure 4.29
+Figure 4.30
+Figure 4.31
+Figure 4.32
+
+Figure 4.33
+Figure 4.34
+
+Figure 4.35
+Figure 4.36
+
+Figure 4.37
+
+MSs-4
+
+Components of HMA Mixture............. seseeteateveeeesneeenees 161
+Voids in a Compacted HMA Mixture ....... cece 168
+Hot Mix Asphalt Component Diagram ..........000. 173
+Apparent Specific Gravity of Aggregate oe 175
+Bulk Specific Gravity of Aggregate... eee 175
+Equipment for Maximum Specific Gravity.........0...00. 177
+Effective Specific Gravity of Aggregate 179
+Determination of Dry Mass of Specimen .................6. 180
+Determination of SSD Mass of Specimen................6 181
+CoreLok Device oc eeeeccccseseeeeseeeeeseeseneeeesseeeseeeessnes 182
+HMA Sample in Sealed Bag .........eeeceeeeeeeeneeeeeeteneeeeees 183
+Superpave Gyratory COMPAactOL......... ccc eeeeesseeceseeeeeeees 189
+Superpave Gyratory Compactor Mold Configuration... 190
+Mixture Compaction Characteristics from the SGC..... 191
+Composite Photo of Gyratory Compactors ................ 192
+Temperature-Viscosity Relationship..............cceeseeeeeee 193
+Typical Superpave Mix Design Curves 195
+Marshall Compaction Hammet ................... .. 199
+Marshall Stability and Flow Machine.............0ceeee 200
+Test Properties for Hot Mix Design Data
+
+by the Marshall Method ............cccccceecsceceeeeeeeteeeeeeeeneeeee 202
+California Kneading Compactot..........ceccceceeseeeeeeeeteee 206
+Hveem Stabilometer Machine ...........0..eeeeeceeeeeeeeeees 207
+Test Property Curves for Hot Mix Design
+
+Data Using the Hveem Method... ee eeeeeteeee 208
+SMA Mix in Colorado occ ieeecceeeeseeeeeeerenteeesseeeneaees 217
+Cellulose Fiber... ee ceseeceeseeeeeneeesneeecseeeeeseeeeneaees 219
+Mineral Fiber 2.0.0.0... cece ceeecceessenseeseessneeessaeesneaes 220
+Draindown Basket............ccecscessseesseeeseeectsneeeeeentereenes 222
+Comparison of Splash Spray Characteristics of
+
+an OGFC Surface (foreground) to a Conventional
+
+Surface (background)... cesses scence eeseeeenteeeennees 223
+Resilient Modulus Test Set-up... eeeesereeeeeeeneees 231
+Axial Static Creep Test—Strain Response... 232
+Rate of Change in Compliance as a Function
+
+Of Loading Time occ eee esececeeeeneeeeeeseetnateeeesenaaees 233
+Rate of Change in Axial Strain as a Function
+
+of Loading Cycles (Time) ....... 0 eccceeecseeeeeeeeneeeeeneeeens 234
+Beam Fatigue Test ApparatuS............000 eee 235
+Typical Plot of Fatigue Data in Constant
+
+Strain Beam Fatigue Test......... ieee cess ececeeeeeeees
+
+Hamburg Wheel-Tracking Device..........
+Typical Results from a Hamburg
+
+Wheel-Tracking Device ........cceccceceeeeceeeeeeseeneeeeeeeeees 238
+Asphalt Pavement AnalyZer.........cccececeeesseeeeteeeetseeeees 239
+xxi
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE BOOK PDF PAGE 24 ===
+Figure 4.38
+Figure 4.39
+Figure 4.40
+
+Chapter 5
+Figure 5.1
+Figure 5.2
+Figure 5.3
+Figure 5.4
+Figure 5.5
+Figure 5.6
+
+Figure 5.7
+Figure 5.8
+Figure 5.9
+Figure 5.10
+
+Figure 5.11
+
+Chapter 6
+Figure 6.1
+Figure 6.2
+Figure 6.3
+Figure 6.4
+Figure 6.5
+Figure 6.6
+
+Chapter 7
+Figure 7.1
+Figure 7.2
+Figure 7.3
+Figure 7.4
+Figure 7.5
+Figure 7.6
+Figure 7.7
+Figure 7.8
+Figure 7.9
+
+Figure 7.10
+Figure 7.11
+
+Figure 7.12
+Figure 7.13
+Figure 7.14
+Figure 7.15
+Figure 7.16
+
+Figure 7.17
+
+xxii
+
+Asphalt Vibratory Compactor 240
+Typical APA Test Results ..........:: seers . 241
+Recommended Mix Type .......:ccccccccceeecereeseeersrsseeeeneees 245
+CBR Test ASSEMDLY .0........ccc cecseceesteceeetenecseeeesennneesenaes 254
+Correction of Load-Penetration Curves ........ cee 256
+Sample Form for Recording CBR Data ..............:e 257
+Hveem Stabilometer ..........cccceecceseeeecesseeeesnseeeenseeeenaees 259
+Apparatus for Resilient Modulus Testing of Soils........ 262
+Forms for Resilient Modulus Tests on
+
+Compacted Fine-Grained Soils........ cesses eeeteees 264
+Hand-Operated DCP wo...ccecccccceseeseeeeeseneeeeneeeetneenteneens 265
+Automated DCP Mounted on a Trailer ...........:eeceee 267
+Falling Weight Deflectometer.........cccccceesereneteeeees 268
+Ice Lenses Forming Beneath the Pavement
+
+Structure Cause Frost Heave ........ccccccccscssccneeeeesereseeees 277
+Two Typical Subdrain Installations 279
+Layered Elastic Model............:cccecceceeseeereete reste esensetenes 285
+Typical Tractor-Trailer Used on Highways .............0+ 290
+Typical General Aviation Type Aircraft... eee 291
+Commercial Passenger Aircraft .........ccccccccsseeeerseeeeteees 293
+Straddle Carrier at Port Facility............::cceseeeee eee 294
+Screenshot of SW1, Thickness Design Software.......... 304
+Components of a Modern Batch Plant .............se ee 310
+Flow of Material through a Batch Plant... 310
+Components of a Modern Drum-Mix Plant............... 311
+Flow Process through a Drum-Mix Plant .............006 312
+Vertical Asphalt Storage Tanks..........::ccccertreeeees 314
+Cold-feed Bins with Belt Feeders ...........cccceeeteeeees 317
+Bin for Reclaimed Asphalt Pavement..... . 318
+Aggregate Conveyors on a Drum Plant........... 0. 319
+Flights Lift and Drop Material Through the Hot
+
+Gases of the Dryet .........cceeccccceeeseeeeeeteeeennerteneeeenies 320
+Knockout Box on Drum-Mixer Plant...........:: cee 323
+Cyclone and Baghouse on Drum-Mix Plant
+
+with Dust Return and Mineral Filler Silos .............0 323
+Scrubber on Drum -Mix Plant ...........::cccecssseeeetenteeeees 324
+The Internal Components of a Baghouse............:.+6+ 324
+Fines-Return System on Drum-Mix Plant ........0...06+ 325
+Fines-Return System with Storage Silo ........ es 327
+
+Continuous Weigh Pod for Baghouse Dust or
+Filler on Drum Plant 0.0... eeccccccceeeseseeeceeensteeesenentenaees
+Self-Erecting Silo with Weigh Scale in Silo
+
+List of Illustrations
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE BOOK PDF PAGE 25 ===
+Figure 7.18
+Figure 7.19
+
+Figure 7.20
+Figure 7.21
+Figure 7.22
+
+Figure 7.23
+Figure 7.24
+Figure 7.25
+Figure 7.26
+Figure 7.27
+Figure 7.28
+Figure 7.29
+Figure 7.30
+Figure 7.31
+Figure 7.32
+
+Chapter 8
+Figure 8.1
+Figure 8.2
+Figure 8.3
+Figure 8.4
+Figure 8.5
+Figure 8.6
+Figure 8.7
+Figure 8.8
+Figure 8.9
+Figure 8.10
+Figure 8.11
+Figure 8.12
+
+Figure 8.13
+Figure 8.14
+Figure 8.15
+
+Figure 8.16
+Figure 8.17
+Figure 8.18
+Figure 8.19
+Figure 8.20
+
+Figure 8.21
+
+Figure 8.22
+Figure 8.23
+
+MS-4
+
+Stationary Silos over Truck Scale........0.. eects 331
+Modern Batch Plant Fitted with Recycle System,
+Baghouse, Filler Silo, and Mix Storage Silos ............... 332
+Material Flow Across a Typical Screen Deck............... 334
+Hot-Bin Sampling Device .........cecceseceeesceeeeseeeeeneeeeeaees 335
+Twin-Shaft Pugmill Mixer Showing the Key
+Components to the Mixer ........ cc eeeececeeeeeesteeeeeeetteeees 337
+Parallel-Flow Drum-Mixer FlOW........ccceeseeesereeeeees 341
+Counterflow Drum-Mixer FIOW..........ccceceeseeeeeseeeeeees 341
+Separate Dryer and Mixer FIOW.......... cc eeeeeeeeee tenes 341
+Double-Barrel Unitized Dryer/Mixer Flow ..............6. 342
+Manual Calibration Chart for Cold-Feed Bin............... 343
+Computerized Cold-Feed Calibration Screen............... 344
+Computerized Mix Formula Screen ve 345
+Drum-Mix Asphalt Flow Control...........cceeeeees we 346
+Mixing Flights/Drum-Mixer Plant... eeeeeeeeeeeeees 348
+Mixing Tips/Double-Barrel Unitized
+Dryer/Mixer Plant... ccc ecsccesssecesseeeenseeeeeeeeeeseeeeaee 349
+Distributor Applying a Prime Coat .........ecceeeeees 363
+Standard Dump Truck... eee eeeeeeeeeeeees .. 367
+Semitrailer Dump Truck... .. 367
+Bottom Dump Trailer ........... .. 368
+Horizontal Discharge Truck... cceceeeeeeeeeereeneeeeees 369
+Proper Method for Breaking the Load oe 371
+Proper Loading of Paver .........cccceeeseeeceeseeeeeneeeeenees 372
+Material Transfer Device 0.0.0.0... cee eescecesseeeeeneeeetneteraes 373
+Windrow Paving...........0+ . 374
+Asphalt Paving Machine 376
+Schematic of Asphalt Paver... ces eesseeesseeeseeeereenees 377
+Rubber-Tire Laydown Machine with a
+Hopper Insert .......... cc ecccceeceeeecseeeeseeeeeeseeseseeeereneneees 378
+Track-Mounted Laydown Machine...... 379
+Contact Sensor for Material Control 381
+Ultrasonic Noncontact Sensor for Material
+Contr] occ eeeceeeseeccssneecenaeessseeeeneeseneeersneeserseteesaaes 382
+Free-Floating Screed... cccceeesseeeneeeeeeeeesseeeesseeeeaees 383
+Screed with Variable-Width Extensions ........0..ccee 386
+Screed with Fixed-Width Extensions ......0....: cece 387
+Improperly Aligned Screed Extension..............ccccee 389
+Dual Stringline Reference Set Up for
+Airfield Paving ........0cccec ec eeccceesetsscceseeseeseneessaeeeaeeenes 391
+Thirty-Foot Mobile Reference ...........cseceeeeeeeeeeeeeeeeeee 392
+Sonic Sensor Mobile Reference System .............:::006 393
+Distance Required for Screed Change to
+Fully OCCUr oi. ecccececceeenceesneeeeecneeessneeseseeesseeeenseeeenaes 394
+xxiii
+

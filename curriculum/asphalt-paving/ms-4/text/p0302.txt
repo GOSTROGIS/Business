@@ -1,0 +1,24 @@
+should be monitored to allow corrections in the asphalt layer modulus due
+to temperature. As temperature increases, the asphalt modulus decreases,
+and as temperature decreases, the asphalt modulus increases. This correc-
+tion is needed to ensure that the back-calculation process more accurately
+estimates the stiffness of base and subgrade layers. It is also necessary to
+determine layer thicknesses. Pavement deflection is sensitive to layer thick-
+ness, especially the thickness of the surface layer. If not available from the
+plans, the information can be obtained from cores or borehole logs.
+
+Analysis of Data
+
+The measured surface deflections are used as input to a back calculation
+procedure to estimate the stiffness of the pavement layers and underlying
+subgrade soil. The pavement is viewed as a multilayered elastic system, and
+deflections are measured at radial offset from the center of the load plate
+to define the deflection basin. The typical approach to back calculation
+for HMA pavements involves an iterative process in which an elastic layer
+program is used to determine theoretical deflections. In the first iteration,
+assumed layer moduli (i.e., “seed” moduli) are used to determine a theo-
+retical deflection basin, which is then compared with the measured deflec-
+tion basin. The moduli are then adjusted and the deflections recalculated
+until the calculated deflections match the measured deflections.
+
+268 Soils and Drainage for Asphalt Pavements

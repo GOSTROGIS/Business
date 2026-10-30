@@ -11,3 +11,9 @@ curriculum/asphalt-paving/manuals/** -text
 curriculum/asphalt-paving/manuals/deere-410g-omt166701-d1/** -text -whitespace
 # Layout-preserving text extracts retain source spacing and exact checksum bytes.
 curriculum/asphalt-paving/context/chunks/**/*.txt -text -whitespace
+
+*.webp binary
+# Preserve source OCR and its checksummed metadata exactly.
+curriculum/asphalt-paving/ms-4/text/** -text -whitespace
+curriculum/asphalt-paving/ms-4/data/** -text
+curriculum/asphalt-paving/ms-4/edits/*.txt -text -whitespace

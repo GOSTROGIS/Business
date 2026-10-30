@@ -1,6 +1,6 @@
 # ACCESS IS4S · Asphalt manufacturer manual resource pack
 
-[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **57,006,441 bytes** (57.01 MB), **715 files**, **67,451,927 bytes** when extracted. ZIP SHA-256: `4804c29e2e6c9b82de2d58ecba86cca95977f314afdc5298a24d8b0474be8e0a`.
+[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **57,006,678 bytes** (57.01 MB), **715 files**, **67,452,512 bytes** when extracted. ZIP SHA-256: `97e82f08410b3ba13af2908db81f27cd4fa37331b72bd6ee2c0293a22269ada7`.
 
 [Open the offline-friendly manual index](index.html) · [Learner lesson](lesson.html) · [Printable learner PDF](manual-reading-lesson.pdf) · [Teaching and answer PDF](manual-reading-instructor.pdf)
 
@@ -25,7 +25,7 @@ The standalone lesson uses real manual identities and fictional machine records 
 
 The four PNG crops and [figure manifest](assets/figure-manifest.json) retain source hashes, original/printed page locations, crop coordinates and processing details. Regenerate them with `python curriculum/asphalt-paving/manuals/tools/extract_figures.py` (requires PyMuPDF), then rebuild this pack. Whole manufacturer PDFs are unchanged. These images introduce A1 and the vocabulary needed for I2, J1 and L1; they do not establish complete technical-unit coverage.
 
-Section 4 of the uploaded outline lists six **course manuals**—Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine—and other resources. Those exact course publications were not retrieved. The OEM files are not relabelled as them. Read [the precise requirement and access gaps](access-status.md) for the provider route, historical CD titles and MS-4 handbook status. CAT engine/fluids manuals do not replace a complete CAT paving-machine manual; Deere 410G is a backhoe-loader reference for supporting roadbuilding work.
+Section 4 of the uploaded outline lists six **course manuals**—Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine—and other resources. Those exact course publications were not retrieved. The OEM files are not relabelled as them. Read [the precise requirement and access gaps](access-status.md) for the provider route, historical CD titles and MS-4 handbook status. The complete [MS-4 textbook collection](../ms-4/README.md) is available separately as searchable HTML and 34 small PDFs; it is outside this OEM ZIP. CAT engine/fluids manuals do not replace a complete CAT paving-machine manual; Deere 410G is a backhoe-loader reference for supporting roadbuilding work.
 
 Manufacturer copyright and notices remain intact. This is a dated reference collection, checked 29 October 2026, not a claim that every file is current for any actual machine. Confirm model, serial/configuration, current documentation and authorized training before practical application.
 

@@ -2,7 +2,7 @@
 
 Read the work, understand the equipment and use the nine Skills for Success to make and explain a sound decision.
 
-**Classroom teaching edition · 29 October 2026**
+**Classroom teaching edition · 30 October 2026**
 
 [Integrated teaching route](teaching-route.html) · [Curriculum review and gaps](review-and-integration.html)
 
@@ -12,9 +12,11 @@ The teaching route connects the occupational sequence to the nine-skills books, 
 
 The ACCESS asphalt curriculum uses **The Asphalt Handbook, MS-4, Seventh Edition** as its primary textbook. Section 4 of the trade outline lists this edition among the required resources. The trade outline defines the occupational sequence; the nine Skills for Success guide how learners read, calculate, explain, practise and demonstrate their learning.
 
-[Textbook integration plan](ms-4/README.md) · [Chapter and competency map](ms-4/chapter-map.md) · [Indexed PDF context library](context/README.md)
+[Complete HTML textbook](ms-4/index.html) · [Collection and editing record](ms-4/README.md) · [Chapter and competency map](ms-4/chapter-map.md) · [Indexed PDF context library](context/README.md)
 
-The handbook's full text and HTML conversion are **pending access**. The original upload exceeds the workspace's 32 MiB transfer limit; the subsequently supplied Google Drive link currently requires sign-in. Existing lessons and figures are attributed to the documents actually read. MS-4 chapter alignment and redrawn handbook figures will be verified after the full file becomes accessible. The historical 2006 specifications support contract-document practice; OEM manuals supply model-specific equipment context.
+The complete supplied scan is preserved as **834 source pages**, **62 HTML reading sections** and **34 small source PDFs**. Searchable, unproofread OCR sits beside every original page image, preserving figures, tables, publication notices and index. Use the source scan to check exact technical values.
+
+The [Understanding asphalt learner book](ms-4/concepts/index.html) adds six cited SVG redraws, twelve complete activities and [separate answer guidance](ms-4/concepts/teaching-guide.html). Download the [learner PDF](ms-4/concepts/learner-workbook.pdf) and [teaching PDF](ms-4/concepts/teaching-guide.pdf). Plant processes, paver components and pavement layers are also integrated directly into Line A. The historical 2006 specifications support contract-document practice; OEM manuals supply model-specific equipment context.
 
 ## Roadbuilding foundations
 

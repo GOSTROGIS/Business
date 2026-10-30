@@ -1,0 +1,52 @@
+In the constant stress method, load cycles are applied until either the
+specimen fails to take more load or it breaks. The number of cycles required
+for a specimen is logged. Similarly, the test is conducted on several sam-
+ples with different magnitudes of load and logged in a log-log plot. In the
+constant stress test, more samples with higher stiffness perform better
+than the samples with lower stiffness. The test results from this test are
+applicable to thick HMA pavements.
+
+In the constant strain beam fatigue test, constant strain is maintained
+in a sample, but the magnitude of the load is allowed to decrease with
+increasing load cycles. In this method, the samples do not break during
+the test. Failure is defined when the applied load is reached at a certain
+percentage of the original applied load. Usually, failure is defined as 50
+percent loss in initial beam stiffness. The test results are applicable to thin
+pavements—less than 2 inches (50 millimeters) thick. A typical plot of fatigue
+data in the constant strain beam fatigue test is presented in Figure 4.34.
+
+4.9.5 Empirical Tests
+
+Empirical tests have been used to relate the performance of an HMA pave-
+ment to a standardized test. The results from the test do not provide funda-
+mental engineering properties that can be used in calculations of stresses
+and strains in an HMA pavement. Rather, they have shown through field per-
+formance to be indicative of performance. The three most commonly used
+empirical tests for HMA pavements are the Marshall test, the Hveem test, and
+the indirect tensile test; these were described earlier in this chapter.
+
+3,500
+
+3,000
+
+2,500 +
+
+2,000
+>
+1,500 © M096
+
+Stiffness, MPa
+
+1,000 Og
+
+500
+
+0 T T T T
+0 10,000 20,000 30,000 40,000 50,000
+
+Cycles, n
+
+Figure 4.34 Typical Plot of Fatigue Data in Constant Strain Beam Fatigue Test
+
+236 Hot Mix Asphalt (HMA) Design
+
