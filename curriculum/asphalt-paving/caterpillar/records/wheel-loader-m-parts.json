@@ -1,0 +1,37 @@
+{
+  "id": "CAT-16",
+  "slug": "wheel-loader-m-parts",
+  "title": "M Series Small Wheel Loader — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2022,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "926M, 930M, 938M; prefixes LTE, W5L, F5K, HEY, J5K, KTG, J3R, P5K.",
+  "download_filename": "cat-wheel-loader-m-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20160715-33261-35313",
+  "accessed": "2026-10-30",
+  "original_bytes": 561100,
+  "original_sha256": "0d3c6bd7e290b6ff9c8a950480fc4c0b4366fb311e48778354f0070b10d78535",
+  "original_pages": 5,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "M SERIES SMALL WHEEL LOADER \nPARTS REFERENCE GUIDE\nSERIAL NUMBER PREFIX: LTE, W5L, F5K, HEY, J5K, KTG, J3R, P5K\n",
+    "last_page": "AEXQ2071-04\n(N Am, Europe, ANZP)\nApril 2022\n \n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Corporate Corporate Yellow”, \nthe “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity used herein, are trademarks of Caterpillar and may \nnot be used without permission.\nDescription\nPart Number\nQuantity\nStandard\n115-2422\n2\nHeavy Duty\n4\n \nDescription\nPart Number\nQuick Disconnect Coupling – Male Twist to Connect\n439-1589\nQuick Disconnect Coupling – Female Twist to Connect\n439-1588\nBATTERIES M Series\nENGINE PARTS M Series\nQUICK DISCONNECTS M Series\nSales Model\nSerial Number Prefix\nDescription\nPart Number\nQuantity\nAll\nAll\nEngine Belt\n350-8742\n1\nAll\nAll\nAlternator (115 amp)\n344-5081\n1\nAll\nAll\nAlternator (150 amp)\n272-1889\n1\nAll\nAll\nFuel Injector\n370-7282\n6\nAll\nAll\nFuel Injection Pump\n368-9041\n1\nAll\nAll\nWater Pump \n397-5684\n1\nAll\nAll\nStarter Motor\n354-5671\n1\n926M\nLTE\nTurbocharger\n465-2871\n1\n930M\nHEY, KTG\n938M\nJ3R\n926M\nW5L\n556-7933\n930M\nF5K, J5K\n938M\nP5K\nAll\nAll\nThermostat (with gasket)\n497-3990\n1\nAll\nAll\nThermostat Plug Seal\n367-8509\n1\n"
+  },
+  "parts": [
+    {
+      "file": "sources/wheel-loader-m-parts/p0001-0005.pdf",
+      "text": "text/wheel-loader-m-parts/p0001-0005.txt",
+      "start": 1,
+      "end": 5,
+      "pages": 5,
+      "bytes": 561100,
+      "sha256": "0d3c6bd7e290b6ff9c8a950480fc4c0b4366fb311e48778354f0070b10d78535",
+      "text_sha256": "71b238d44c25b820b7c3e9e72072e4f7e7fa171276f83645f1663d82501dbde2",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

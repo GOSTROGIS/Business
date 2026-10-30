@@ -1,0 +1,780 @@
+=== SOURCE PDF PAGE 113 ===
+COMPACTION
+
+
+[ TROUBLESHOOTING INTELLIGENT COMPACTION RESULTS ]
+
+As described previously, several jobsite conditions      will not compact.
+and operational factors can affect the results of        Solution: The upper layer of soil will need to be
+intelligent compaction systems. With experience,     removed and the lower layer of soil will need to
+operators will begin to recognize certain patterns     be remedied. This might involve drying it out and
+and understand the probable cause of a deviation      re-compacting, adding lime or some other soil
+from expected values. Following are some common    stabilizing agent, or even excavating the poor soil
+problems and related causes and solutions.          and replacing it.
+Understanding this information will help you solve
+jobsite problems in a shorter period of time.          Cause: The drum frequency is higher than it should
+                                            be (this is unlikely).
+Problem: Compaction Measurement Values Are    Solution: Drum frequency should be near 30 Hz
+Lower Than Expected                             (1800 VPM) for the most consistent results. Have
+                                                 a mechanic determine why vibration speed is not
+Cause: Granular soil is too dry to compact. Added      performing properly and correct it. Alternatively, an
+compaction results in soil structure are breaking        energy-based, compactor-integrated compaction
+down and de-compacting the soil.Solution: Add      measurement technology such as MDP can be
+moisture to the soil before compacting further.           utilized in static mode (vibration off) to see if there is
+Granular soils can take a lot of water without          any effect on uniformity of compaction results.
+becoming too wet, as the water tends to drain away.
+Add a bit more than ideally required to allow for        Cause: There is a buried object or objects that are
+dryout and drainage.                                 not as stiff as the surrounding soil, a pit where trees
+                                                        or other biomass are buried, buried refuse, or a
+Cause: Soil composition is clay rather than gravel or     clay ball. It will show up on the map as a relatively
+granular material. Or, the clay can be buried below       localized area.
+surface level and still affect the measurements.        Solution: Excavate and replace materials with good
+Solution: Remove clay soil if practical, or accept         soil if the situation is serious enough to warrant it.
+lower values. Alternatively, utilize an energy-based,
+compactor-integrated compaction measurement       Cause: Travel speed is too fast.
+technology such as MDP, which is not as affected by   Solution: Slow down to obtain most efficient
+cohesive soils.                                           productivity and higher compaction values. Utilize
+                                                    automatic speed control if the compactor is equipped
+Cause: Drum is de-coupling on the hardest areas       with this option.
+of ground. When the drum de-couples, RMVs are
+high and compaction measurement values (CMV)      Cause: Travel direction affects the integrated
+tend to read lower than the ground conditions would    compaction measurement values.
+suggest.                                           Solution: This is normal; the values will measure
+Solution: Reduce amplitude to low setting. If still        differently in forward than in reverse. There is no
+de-coupling, compaction is complete. Further           solution other than to drive only in one direction
+compaction while de-coupling can cause de-            or accept the compaction values from only one
+compaction.                                              direction during analysis.
+
+Cause: Clay soil is too wet.
+Solution: Use a disk, harrow, or rotary mixer to
+dig up the soil so it can dry before attempting to
+compact it. Alternatively, utilize an energy-based
+compactor-integrated compaction measurement
+technology such as MDP which is not as affected by
+cohesive soils, but note that the moisture levels may
+still be unsuitable to achieve proper compaction.
+
+Cause: Material being compacted was placed over
+a non-compacted or non-stabilized soil base. As a
+result it is flexing too much during compaction and
+
+
+
+
+
+                                                   Unit 5: INTELLIGENT COMPACTION  |     109
+
+=== SOURCE PDF PAGE 114 ===
+COMPACTION
+
+
+
+
+       Problem: Compaction Measurement Values Are
+        Higher Than Expected
+
+        Cause: Base or sub-base is stiffer soil type than
+        expected.
+        Solution: None, test using a dynamic cone
+        penetrometer and check sub-soil shear strength. If
+         stronger, accept results as normal.
+
+        Cause: Hidden object is buried below the surface.
+         This might be a rock, concrete slab, old pavement, or
+         building foundation.
+        Solution: Excavate object to achieve uniform
+        compaction.
+
+        Cause: Travel speed is occasionally too slow. (This
+           is unlikely unless the operator is trying to compact
+        using a given number of passes).
+        Solution: Keep speed consistent. Utilize automatic
+       speed control if the compactor is equipped with this
+         option.
+
+        Cause: Ground is frozen.
+        Solution: None.
+
+       Problem: Compaction Measurement Values
+       Are Erratic
+
+        Cause: Actual soil conditions are varying either at      Cause: Drum is de-coupling while compacting. De-
+        the surface or below surface level. This is more        coupling can cause wide variation in the compactor-
+      common than people assume. Hidden objects,          integrated compaction measurement values, as the
+        changes in fill materials and varying water content      average values tend to drop when the drum begins
+        can all affect compactor-integrated compaction         de-coupling on harder ground.
+       measurement values.                                Solution: Change to low amplitude. If de-coupling
+        Solution: If serious variations exist and need to be       in low amplitude, the soil has reached the maximum
+          rectified, start with the easiest solutions first. Check    stiffness the compactor can provide. Alternatively,
+           soil moisture content and adjust. Excavate hidden      an energy-based integrated roller compaction
+         objects if necessary and replace soil if critical.         measurement technology such as MDP can be
+                                                                            utilized in static mode (vibration off) to see if there is
+        Cause: Compactor-integrated compaction            any effect on uniformity of compaction results.
+       measurement values measured in forward are
+         higher/lower than those obtained in reverse.
+        Solution: This is normal, and varies with soil type
+       and compaction level. Typically the differences
+       become smaller as the soil becomes more fully
+        compacted.
+
+
+
+
+
+110         | Unit 5: INTELLIGENT COMPACTION
+
+=== SOURCE PDF PAGE 115 ===
+COMPACTION
+
+
+[ THE FUTURE OF INTELLIGENT COMPACTION ]
+
+As has been explained, measuring soil stiffness        the data off the jobsite and into other off-board
+is extremely complex due to all of the variables          applications (PC, hand-held tablets, and others)
+involved. However, the more IC is used, the               will be an area of specific development. Current
+deeper your understanding of the capabilities and       technologies already provide more data than can
+shortcomings of the technology. As your experience   be easily sorted in a way that is useful to today’s
+with it grows, new technologies, like Machine           jobsite managers and inspectors. The capability of
+Drive Power, will emerge offering further benefits       off-board data filtering, sorting and ability to create a
+and addressing application issues that the last           jobsite report that meets the needs of the end-user
+wave of progress has provided. As time passes,          will be of huge importance and an area where many
+hardware solutions for existing technologies become    specifications will soon be written.
+less expensive, making them more accessible to
+repurpose for soil compaction applications.                    It is an exciting era in the science of compaction
+                                              and time will tell what advances and technologies
+The compactor of the future will likely have multiple      will come next, but one thing is certain: With the
+measurement technologies available, as each          cost savings, quality and efficiencies provided
+technology has different useful capabilities. New       by intelligent compaction, the technologies
+measurement technologies will emerge—perhaps       will increasingly be required and included in
+ground penetrating radar, ultrasound or magnetic        specifications for jobsites worldwide.
+imaging. Three-dimensional images documenting
+the entire road structure could be built. Moisture
+sensing technologies could alert an operator to
+call for a water truck or a ripper. Every compactor
+operator would have access to information from
+all machines on the jobsite (machine-to-machine
+communications). This provides real-time jobsite
+progress with advantages most easily seen with
+a multiple number of compactors or measuring
+devices. Jobsite superintendents can monitor
+and use the data to make the most cost-effective
+decisions on a daily basis.
+
+Looking to the future, data will become more and
+more important. Data from yet-to-be-developed
+sensors, and the ability to quickly and easily take
+
+
+
+
+
+                                                   Unit 5: INTELLIGENT COMPACTION  |     111
+
+=== SOURCE PDF PAGE 116 ===
+APPENDIX
+
+
+   APPENDIX
+
+
+         [ SOIL CLASSIFICATION SYSTEMS ]
+
+
+
+
+
+       AASHTO Soil Classification System
+
+
+
+
+
+112         | APPENDIX
+
+=== SOURCE PDF PAGE 117 ===
+APPENDIX
+
+
+
+                      Tableau synoptique de classification
+                       des matériaux selon leur nature
+
+
+                                        Passant à 80 µm
+
+
+                                                                              12     25    40              Ip
+                                    100%
+
+                                                                     A1                 A2     A3     A4
+
+                                   35%
+         Sols
+   Dmax ≤ 50 mm                                          B5                            B6                                                                                                           Passant à 2 mm
+
+                                   12%                                            100%
+                                                        D1      B1                     B2                                                                                70%
+
+                                                        D2      B3                     B4
+                                                                                           VBS
+                                0%
+                                                0     0,1      0,2     1,5      2,5      6      8
+
+
+                                        Passant à 80 µm
+                                      dans la fraction
+                                             0/50 mm
+
+
+
+
+                                                                                  C1 OU C2          Sols
+    Dmax > 50 mm                                                                       C1 : matériaux roulés et matériaux
+                                   12%                  anguleux peu charpentés
+                                                                                    (0/50 > 60 à 80 %)
+                                                                       C2 : matériaux anguleux très
+                                                        D3            charpentés (0/50 ≤ 60 à 80 %)
+                                                                                           VBS
+                                0%
+                                                 0     0,1
+
+
+                                                                       Roches              Craies                     R1
+                                                                             carbonatées
+                                                   Roches                              Calcaires                   R2
+                                                       sédimentaires    Roches argileuses    Marnes, argilites, pélites...     R3
+      Matériaux                                                    Roches siliceuses     Grès, poudingues, brèches...   R4
+       rocheux                                                                       Roches salines       Sel gemme, gypse           R5
+                                                   Roches         Granites, basaltes, andésites, gneiss, schistes
+                                                                                                                        R6                                                magmatiques et   métamorphiques et ardoisiers...
+                                                 métamorphiques
+
+
+
+      Matériaux                                                      Sols organiques et sous-produits industriels                          F      particuliers
+
+
+French Soil Classification System
+
+
+
+
+                                                         APPENDIX  |     113
+
+=== SOURCE PDF PAGE 118 ===
+APPENDIX
+
+
+
+
+
+                                 Korngrößenanteil   Korngrößenanteil     Gruppe                                                                       Kurzzeichen             Hauptgruppe                                                                   Gruppe (detailliert)                                   Gruppensymbol                           ≤ 0,06 mm         > 2,0 mm        (allgemein)
+
+
+                                                                                          Enggestufte Kiese                                           GE
+                                                                               Kies        Weitgestufte Kies-Sand-Gemische                       GW
+                Grobkörniger                                                                   Intermittierend gestufte Kies-Sand-Gemische                              GI                              ≤ 5              < 40
+                Boden                                                                Enggestufte Sande                                             SE
+                                                                  Sand        Weitgestufte Sand-Kies-Gemische                        SW
+
+                                                                                                  Intermittierend gestufte Sand-Kies-Gemische                                SI
+                                                                                        5 bis 15 Gew.-% ≤ 0,06 mm                                  GU
+                                                                               Kies-Schluff
+                                                                                        15 bis 40 Gew.-% ≤ 0,06 mm                                    GU*
+                                                    < 40
+                                                                                        5 bis 15 Gew.-% ≤ 0,06 mm                                     GT                                                                            Kies-Ton
+              Gemischtkörniger                                                         15 bis 40 Gew.-% ≤ 0,06 mm                                       GT*
+                                      5 bis 40
+                 Boden                                                              5 bis 15 Gew.-% ≤ 0,06 mm                                    SU
+                                                                          Sand-Schluff
+                                                                                        15 bis 40 Gew.-% ≤ 0,06 mm                                     SU*
+                                            ≤ 40
+                                                                                        5 bis 15 Gew.-% ≤ 0,06 mm                                       ST
+                                                                     Sand-Ton
+                                                                                        15 bis 40 Gew.-% ≤ 0,06 mm                                        ST*
+
+                                                                                                Leicht plastische Schluffe WL≤35                                  UL                                                                                  Schluff
+                Feinkörniger                                                                   Mittelplastische Schluffe WL=35 bis 50                      UM                                   < 40           –                Boden                                                                                                Leicht plastische Tone WL≤35                                         TL
+                                                                        Ton         Mittelplastische Tone WL=35 bis 50                          TM
+                                                                                    Ausgeprägt plastische Tone WL=50                                  TA
+                                                                               Organogene Schluffe WL=35 bis 50                             OU
+                                   < 40
+               Organogener                                              Nicht brenn-    Organogene Tone WL>50                                       OT
+                Boden                      –         und schwelbar   Grob bis gemischtkörnige Böden mit humosen Beimengungen           OH
+                             ≤ 40
+                                                                                Grob bis gemischtkörnige Böden mit kalkigen, kieseligen Bildungen        OK
+
+                                                                                          Nicht bis mäßig zersetzte Torfe                              HN
+                Organischer
+                                                                                              Zersetzte Torfe                                              HZ                Boden          –           –         undBrenn-schwelbar
+                                                                      Mudden (Faulschlamm)                                                  F
+                  Auffüllung1         –           –          –          Auffüllung aus Fremdstoffen                                 A
+
+
+            1 - Eine Auffüllung ist eine unter menschlicher Einwirkung entstandene Schüttung aus natürlichen Böden oder Fremdstoffen.
+
+
+        German Soil Classification System
+
+
+
+
+
+114         | APPENDIX
+
+=== SOURCE PDF PAGE 119 ===
+APPENDIX
+
+
+
+
+
+United Soil Classification System
+
+
+
+
+
+                                                         APPENDIX  |     115
+
+=== SOURCE PDF PAGE 120 ===
+APPENDIX
+
+
+
+                        SOIL GROUPS                                 SUB-GROUPS
+                                                                                         and in-laboratory identification
+
+                 GRAVEL and SAND may be qualified sandy GRAVEL         GROUP      SUB-GROUP            FINES              LIQUID
+                        and gravely SAND where appropriate             SYMBOL      SYMBOL       % < 0.06 mm             LIMIT
+                                                         GW    GW
+                                                               Slightly silty or clayey GRAVEL      G                                            0 to 5
+                                                                         GP      GPu CPg
+                                                mm)                                                                                     coarsesize           Silty GRAVEL                        G-M    GWM GPM                                                                                                                                    5 to 15                                                                                    G-F
+                2      Clayey GRAVEL                            of                                                                                     G-C    GWC GPC                                                                                           gravel
+                                          50%ofthan      Very silty GRAVEL                 GM      GML, etc.                                                                                             GRAVELS  is                                     GF                                          15 to 35
+                                                    Very clayey GRAVEL                   GC      GCL                                                        than        (coarser                                                                                                  GCI                                                     material mm                  Morematerial                                              GCH
+                               0.06                                                              GCV                            SOILS the                                                                                     GCE             of
+                               than                                           SW    SW                    35%                                   Slightly silty or clayey SAND        S                                            0 to 5                                  COARSE     finer                                                       SP      SPu SPg                           than is
+                                                                    Silty SAND                                                                          S-M    SWM SPM                           less                                  coarsesizemm)                                                                                        S-F                                                                                                                                    15 to 35
+                            ofsand2      Clayey SAND                             S-C     SWC SPC
+                                          50%ofisthan      Very silty SAND                   SM      SML, etc.                                                                   SANDS
+                                                                              SF                                                                                                                                    15 to 35                                                        than
+                                                                            SC       SCL                                                    Very clayey SAND
+                                                                                                     SCI                                                        Morematerial(finer
+                                                                                  SCH
+                                                                                    SCV
+                                                                                       SCE
+                                                         Gravelly SILT                   MG      MLG, etc.
+                                                                          FG
+                                                         Gravelly CLAY                       CG      CLG                                     < 35
+                                                                                                  CIG                                                                                                                                                       35                                                                                                                                                                                to                                                                                                                                                            70                                                                     sandy                                                                          CLAYSfines                                                                               CHG                                                                                                                                                       50                                                                                                                                                                                to                                                                                                                                                            70                            or                                               65%                                                                                  CVG                                                                                                                                                       70                                                                                                                                                                                to 90                                                     material mm               and                               to                                                                                     CEG                                                                                                                                      > 90                    the 0.06                                 Gravelly SILTS35%      Sandy SILT                     MS      MLS, etc.                            SOILS of                                                         FS                               than
+                                               Sandy CLAY                          CS        CLS, etc.                       FINE 35%                                      finer                           SILT (M SOIL)                M       ML, etc.
+                           than is                            fines                                            F                                                                        CLAYS          CLAY                               C        CL                                      < 35                           more                                           and100%                                                                  CI                                            35 to 70
+                              to                                               CH                                           50 to 70
+                                                                                    CV                                           70 to 90                                                                        SILTS65%
+                                                                                         CE                                      > 90
+
+                                                        Description letter ‘O’ suffixed to say                     Organic matter in significant amount
+             ORGANIC SOILS                     group or sub-group symbol                                    e.g. MHO – organic silt of high LL
+
+
+              PEAT                                    Pt – consists predominantly of plant remains (fibrous or amorphous)
+
+              Primary Letter         Secondary Letter                                                                          Classification v1.00 Sept 2010
+            G = Gravel        W = Well graded
+             S = Sand              P = Poorly graded
+         M = Silt          M = With non-plastic fines
+             C = Clay               C = With plastic fines
+            O = Organic Soil           L = Of low plasticity (LL < 50)
+                 Pt = Peat             H = Of high plasticity (LL > 50)
+
+
+         United Kingdom Soil Classification System
+
+
+
+
+
+116         | GLOSSARY OF TERMS
+
+=== SOURCE PDF PAGE 121 ===
+APPENDIX
+
+
+[ COMPACTION REQUIREMENTS ]
+
+Compactor integrated devices performing continuous compaction control soil application
+
+
+                         BASIC/MINIMUM REQUIREMENTS
+
+      One of the                                                                      Top block or     lower 3 blocks        At least 2 blocks          3 top blocks                                 2 lower blocks        At least one block                                                                         4 lower blocks       (one value)
+
+
+
+
+                                                 Time stamp          Close-loop mode
+
+Qualitative observation                                                                   Data post-treatment                                          Mapping on board       Actual N passes       facilities, & additional
+  (ex: double-jump...)                                                                                   information
+
+     Dimensional       Number of passes     Automatic positioning                            Result by histogram       Data exchange   bearing capacity                                                      Actual frequency
+    (ex: modulus...)      (actual vs. target value)    on board 2D or 3D                           and statistics       between machines
+
+     Dimensional          Relative evolution      Manual positioning                            Result by distance or       Remote data                     (% related to target                            Actual amplitude AO
+    (ex: stiffness...)         values D or ND)      2D + layer (optional)                                 surface             exchange
+
+   Non-dimensional      End of compaction                                                              Identification of        Data exchange                                                   Distance 1D          Actual speed V         machine and
+        value                (D or ND)                                               CCC device       from office (USB stick)
+1  Behaviour of     2    Status of       3    Positioning,     4    Operational     5  Control report,    6  Communication,     the material           compaction               traceability             information
+ (dynamic response)        (Comparison)           during process       (record and display)      documentation              others
+
+
+
+   From the pamplet CECE – Guidelines to evaluate soil and asphalt compactors equipped with continuous compaction control (CCC)
+
+
+
+
+
+                                            GLOSSARY OF TERMS  |     117
+
+=== SOURCE PDF PAGE 122 ===
+GLOSSARY OF TERMS
+
+
+
+                                                                                 - A -
+
+       Aggregate             The granular, load-bearing mineral component of a road structure, usually sand,
+                                       gravel, shells, slag, crushed stone or fines.
+
+       Amplitude             The measure of one-half of the total peak-to-peak vertical movement of a
+                                       vibrating drum per complete cycle.
+
+        Atterberg Limits      A set of standards that describe seven stages of soil characteristics moving
+      Method                from a solid to a liquid. The most important stages are the Plastic Limit and the
+                                    Liquid Limit.
+
+                                                                                 - B -
+
+       Base                    Also referred to as the “base course”; a layer of specified or selected material
+                                     of planned thickness constructed on the sub-base for the purpose of serving
+                             one or more functions including distributing the load, providing drainage and
+                                  minimizing frost action.
+
+                                                                                 - C -
+
+        Calibration            The process of adjusting the parameters of the system to maximize its
+                                        capabilities for use in the site material.
+
+         Capillarity             The ability of a material to absorb water upward or laterally.
+
+        Centrifugal Force       The force that causes a rotating, unbalanced weight to accelerate away from its
+                                        axis.
+
+        Clay               A fine-grained mineral material (soil) that uses electro-chemical surface charges
+                                     to bond well with water.
+
+        Coarse-grained Soil    A classification for soil comprised of particles (grains) that lack cohesion. Sand
+                              and gravel are considered coarse-grained soils. Coarse-grained soils are defined
+                                 as well-graded or poorly-graded, which reflect the ability of the soils to be
+                               compacted.
+
+       Cohesion              The ability of a material to maintain its strength when unconfined; i.e. cling
+                                   together and maintain its form through changes in moisture content or
+                                 submersion.
+
+       Compaction           The process of reducing voids in a material through the use of mechanical
+                                    manipulation; increasing the density.
+
+        Compactability         The degree to which a soil material is able to overcome material-specific
+                                 deformation resistance.
+
+       Compaction Meter     An indication of soil stiffness calculated by measuring the G-forces at the
+       Value (CMV)               vibratory frequency of the drum and at the first harmonic (2x the vibratory
+                                 frequency of the drum).
+
+       Compaction Meter     A method of indicating soil stiffness invented by the Swiss firm Geodynamik
+       Value Method          and utilized by Caterpillar.
+
+        Compressibility        The rate at which a material reduces in volume when a force is applied to it.
+
+
+
+
+
+118         | GLOSSARY OF TERMS
+
+=== SOURCE PDF PAGE 123 ===
+- D -
+
+De-compaction       A loss of compaction due to re-application of unnecessary compactive force.
+
+De-coupling             Also referred to as “double-jumping”; is a phenomenon where the drum
+                       rebounds from a vibratory impact and bounces high enough to allow the next
+                             vibration to occur while the drum is still in the air.
+
+Density               The measure of mass per unit of volume; a traditional indicator of load-bearing
+                            strength.
+
+Double-jumping        See De-coupling.
+
+                                                                     - E -
+
+Elasticity              The tendency of a material to return to its original (or near original) shape after a
+                        compressive load is removed.
+
+Embankment          Any fill whose top is higher than the adjoining surface.
+
+Energy Method         The principle behind Machine Drive Power (MDP), a Caterpillar proprietary
+                     method of determining compaction by measuring the energy required to drive
+                         over the soil (rolling resistance).
+
+                                                                     - F -
+
+Fines                      Generally, materials of very small particle size falling below a certain threshold
+                           established by sieve testing. Fines will pass through the smallest sieve.
+                          Organizations around the world have independent definitions of the precise
+                           sieve size, but they are approximately the same.
+
+
+
+Fine-grained Soils        Soils composed predominantly of fines.
+
+Force/Displacement    A method of indicating soil stiffness by using drum characteristics and drum
+Method                   acceleration measurements to calculate drum displacement.
+
+Frequency           A measure of the number of complete cycles (e.g. vibrations) over a given
+                          length of time.
+
+                                                                     - G -
+
+Global               An overarching term used to describe satellite based mapping technologies,
+Navigation Satellite      including GPS and GLONASS.
+System (GNSS)
+
+Global Positioning     A US controlled worldwide radio-navigation system composed of a
+System (GPS)             constellation of 24 satellites and their ground stations.
+
+GLONASS           A Russian satellite constellation similar to GPS.
+
+Grade                 The inclination of a surface.
+
+Gradation             The size range of individual soil particles.
+
+Gradient of Compaction The degree of compaction throughout the depth of influence. Soil will tend to
+                      be less compact at the surface, be more compact through a large central zone,
+                       and become less compact again toward the extreme depth of influence.
+
+Grain              A mineral particle.
+
+Grain-size Distribution  The measure of the range and distribution of different particle sizes in a soil.
+
+Gravel              A coarse-grained mineral material; defined by the USCS as those particles less
+                         than 75 mm (3 in) in diameter not passing through a #4 sieve.
+
+
+
+
+                                            GLOSSARY OF TERMS  |     119
+
+=== SOURCE PDF PAGE 124 ===
+- I -
+
+       Impact             A force of increased magnitude created by causing static pressure to become
+                                dynamic, e.g. dropping a weight. Low-frequency or irregular frequency blows
+                                 (blows of 50-600 blows per minute) are considered impact forces.
+
+         Intelligent Compaction  Generally speaking, intelligent compaction can be defined as a compactor
+                                    integrated technology applied to the compaction process that improves
+                                  worksite efficiencies by eliminating human guesswork.
+
+                                                                                 - L -
+
+          Lift                A single layer of placed soil material. It can vary in thickness.
+
+
+
+        Linear Load            The measure used by the industry to compare the compaction potential of static
+                             smooth drum compactors.
+
+
+
+        Liquid Limit          A highly significant Atterberg Limit; the point at which a soil contains so much
+                                 water that it is considered a liquid.
+
+
+
+       Load-bearing Strength  The ability of a material to support a load.
+
+                                                                                 - M -
+
+        Machine-integrated      Conducting compaction measurement with technologies incorporated into the
+       Compaction            machine performing the compaction.
+       Measurement
+
+       Manipulation         A kneading process that rearranges particles into a more dense mass.
+
+       Moisture Content       The amount of liquid (water) per volume of a mass.
+
+                                                                                 - N -
+
+        Natural Frequency      The frequency at which a mass vibrates due to its own characteristics.
+
+                                                                                 - P -
+
+         Particle Distribution    See Grain-size Distribution.
+
+       Pass                  The number of times a compactor will pass over an area of ground. Sometimes,
+                                 a “pass” will be defined as a round trip forward and back, passing over a
+                                        particular area twice; and other times a pass will mean a single instance that a
+                               compactor travels over an area. Caterpillar defines a pass as a single trip over
+                               an area in either a forward or reverse direction.
+
+        Permeability         A material’s ability to allow the passage of a gas or liquid.
+
+         Plasticity              The property of a fine-grain soil that allows it to deform beyond the point of
+                                  recovery without cracking or appreciable volume change.
+
+         Plasticity Index         The difference between the Liquid Limit and the Plastic Limit of a soil. This
+                             measure is used to determine the extent of soil stabilization required for fine-
+                                   grained soils.
+
+         Plastic Limit         A highly significant Atterberg Limit; the point at which a soil retains enough
+                                 moisture to become plastic.
+
+
+
+
+
+120         | GLOSSARY OF TERMS
+
+=== SOURCE PDF PAGE 125 ===
+Poorly-graded           Also referred to as uniformly-graded; the quality of coarse-grained soils to
+                           contain particles of relatively uniform size, making it difficult to compact.
+
+Proctor Test          A laboratory test that determines the maximum dry density of a soil material as
+(Standard or Modified)   well as the optimum water content to achieve maximum density.
+
+Production Mode      A compactor system setting that optimizes system useability for high-
+                          production applications where accuracy is not the main goal.
+
+Proofing Mode        A compactor system setting that optimizes system useability for high-accuracy
+                            applications where machine productivity is not the main goal.
+
+                                                                     - Q -
+
+Quality Assurance (QA)  The testing methods and data that the project owner uses to document the
+                             quality of the compaction achieved on a project.
+
+Quality Control (QC)    The procedure a contractor implements to ensure that the compaction work
+                                 will be completed to specification.
+
+                                                                     - R -
+
+Remediation           The process of altering the soil by chemical or mechanical means to improve its
+                          engineering properties.
+
+Resonance            The convergence of the vibratory frequencies of two vibrating masses.
+
+Resonance Meter      An indication of the degree to which the drum is de-coupling.
+Value (RMV)
+
+Resonant Frequency     For vibratory compactors, the point at which vibrating soil material contributes
+                            to the vibration of the compactor enough to cause the compactive effort to
+                       exceed the centrifugal force generated; i.e. the output is greater than the effort.
+
+Rolling Resistance      The amount of energy required to roll a round shape through a material.
+
+                                                                     - S -
+
+Sand               A non-cohesive mineral particle of a defined size and shape.
+
+Settlement            The process of decreasing surface elevation due to consolidation of fill material.
+
+Shear Resistance       The ability of a soil’s particles to resist sliding across each other when a
+                        compactive force is applied.
+
+Silt                A non-cohesive, fine-grained mineral material (soil).
+
+Soil                     Unconsolidated material composed of mineral particles that may or may not
+                           contain organic substances.
+
+Soil Stabilization       The process of maximizing the suitability of soil for a given construction
+                         purpose.
+
+Static Pressure       A weight applied to the compaction effort.
+
+Station             A non-standard area defined by engineers and marked by stakes at the jobsite
+                              for the purpose of controlling preparation by manageable sections.
+
+Stiffness (Soil)         The ability of a material (soil) to resist deflection under load; a primary indicator
+                            of load-bearing strength.
+
+Sub-base            A layer between the sub-grade and base.
+
+Sub-grade             The soil prepared to support a traffic structure. Essentially, it performs as the
+                          foundation of the structure, and is sometimes referred to as “basement soil” or
+                         “foundation soil.”
+
+
+
+
+                                            GLOSSARY OF TERMS  |     121
+
+=== SOURCE PDF PAGE 126 ===
+- T -
+
+        Texture             A quality that defines the surface friction of a soil particle.
+
+         Total Applied Force    A calculation of the maximum amount of vibratory energy that a compactor can
+                                   apply to the ground.
+
+                                                                                  - U -
+
+        Uniformity            The maintenance of consistency in materials and applications.
+
+        Uniformity Coefficient  A parameter to describe the particle size distribution (grading curve) of a soil.
+
+        Uniformly-graded       Also referred to as poorly-graded; the quality of coarse-grained soils to contain
+                                       particles of relatively uniform size, making them difficult to compact.
+
+                                                                                  - V -
+
+        Vibration            A high-frequency series of blows (1400-4000 blows per minute) that produce
+                                 a rapid succession of pressure waves. Vibrations produced by a compactor can
+                                  break the bonds between particles of a material that is being compacted.
+
+       Void                  The space in a volume of material not occupied by solid mineral material.
+
+                                                                                 - W -
+
+        Well-graded           The quality of coarse-grained soils to contain particles of many sizes, making
+                            them easier to compact.
+
+
+
+
+
+122         | GLOSSARY OF TERMS
+
+=== SOURCE PDF PAGE 127 ===
+GLOSSARY OF TERMS  |     123
+
+=== SOURCE PDF PAGE 128 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 129 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 130 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 131 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 132 ===
+[No extractable text on this page; inspect the original PDF image.]
+

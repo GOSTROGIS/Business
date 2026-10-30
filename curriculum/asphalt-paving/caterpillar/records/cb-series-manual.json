@@ -1,0 +1,87 @@
+{
+  "id": "CAT-11",
+  "slug": "cb-series-manual",
+  "title": "CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual",
+  "publisher": "Caterpillar",
+  "type": "Operation and maintenance manual",
+  "publication": "KEBU7520-08 (April 2019)",
+  "publication_year": 2019,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "214 1-UP (CB214E), 224 1-UP (CB224E), 225 1-UP (CB225E). Public third-party-hosted copy; verify against the actual machine and Cat publication record.",
+  "download_filename": "cat-cb-series-manual.pdf",
+  "source_url": "https://cdn.prod.website-files.com/64a47b7c2779bc1d8c7e54fa/655fd570910e515fd311d690_OM%20-%20CB214E%2C%20CB-224E%2C%20CB225E%20compactor%20CAT.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 3791526,
+  "original_sha256": "c2e094697520b8b0975cc8d3e58af31ebae532f910f92c6d1c6e4c65b60d1bcc",
+  "original_pages": 102,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "Scan to find and purchase genuine Cat® parts and related\nservice information.\nOperation and\nMaintenance\nManual\nCB-214E , CB-224E, CB-225E Paving\nCompactors\n214 1-UP (CB214E)\n224 1-UP (CB224E)\n225 1-UP (CB225E)\nKEBU7520-08 (en-us)\nApril 2019\n",
+    "last_page": "KEBU7520\n©2019 Caterpillar\nAll Rights Reserved\nCAT, CATERPILLAR, LET’S DO THE WORK, their respective\nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat\n“Modern Hex” trade dress as well as corporate and product identity\nused herein, are trademarks of Caterpillar and may not be used\nwithout permission.\n102\nApril 2019\n"
+  },
+  "parts": [
+    {
+      "file": "sources/cb-series-manual/p0001-0025.pdf",
+      "text": "text/cb-series-manual/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 1328966,
+      "sha256": "552758ff8f4f0f6e83c46e76ba8f8e57f722bb1e3db0bd5097242d59a9ad3bf8",
+      "text_sha256": "d71b7885e6b89506e349f3857b79b13251ce49de7f69f47c9900e3bf6e3dd167",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cb-series-manual/p0026-0050.pdf",
+      "text": "text/cb-series-manual/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 604187,
+      "sha256": "46323ca6293859212290772b67e43d560939017b582f49df1f7c7f4df41fecb5",
+      "text_sha256": "8a33a0398598011e35fa6d89fbe922356b16abee7eba7bec325016eaca81afd4",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cb-series-manual/p0051-0075.pdf",
+      "text": "text/cb-series-manual/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 673312,
+      "sha256": "cd1af74f9aacc9ee19b1dea202f28c8dad366a78300214e751edd9069286b9fc",
+      "text_sha256": "45026290f55f4ac59f32f8db4e285b49674eabf787fc2098180e2113f52a7ba3",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cb-series-manual/p0076-0100.pdf",
+      "text": "text/cb-series-manual/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 1258286,
+      "sha256": "ab51eb0958cd6e1446d2ded15d11364fa773a115a1100d74561c01ca6899105a",
+      "text_sha256": "2f19173e91e786c3f7429875b7bdf67a1d0f6e29ca63c11423afda4ce103a015",
+      "empty_text_source_pages": [
+        100
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cb-series-manual/p0101-0102.pdf",
+      "text": "text/cb-series-manual/p0101-0102.txt",
+      "start": 101,
+      "end": 102,
+      "pages": 2,
+      "bytes": 65698,
+      "sha256": "5ec92422c25a4f98fe1243aa4fb3c709bd3857be96abcc260feee3640baf35e1",
+      "text_sha256": "10778653ce4d64729bb95c6954981ea07acfdd7ca16ad94961c1a015afb6573e",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

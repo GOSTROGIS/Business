@@ -1,0 +1,37 @@
+{
+  "id": "CAT-06",
+  "slug": "milling-by-numbers",
+  "title": "Milling By The Numbers",
+  "publisher": "Caterpillar",
+  "type": "Quick reference",
+  "publication": null,
+  "publication_year": null,
+  "year_basis": "No publication year verified; do not infer from hosting path",
+  "model_scope": "One-page sequence card, not a complete cold-planer operation manual.",
+  "download_filename": "cat-milling-by-numbers.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20160919-42450-16948",
+  "accessed": "2026-10-30",
+  "original_bytes": 23832,
+  "original_sha256": "387f231354e1f24ba0878c05698cdde64ebb1c9e4472f7e77888f7f9356ddee3",
+  "original_pages": 1,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "MILLING BY THE NUMBERS\n1.\t\nGRADE CONTROL SYSTEM—INSTALLATION AND SETUP\n\t\nA. Position machine to calibrate grade/slope sensors.\n\t\nB. Calibrate sensors to zero.\n2.\t\nPOSITION MACHINE AT START OF CUT\n\t\nA. Set side plates (and inboard skis) into FLOAT.\n\t\nB. Turn rotor ON – select desired rotor speed.\n\t\n\t\nC. Lower the machine to AUTO STOP.\n\t\n\t\nD. Place grade controls into AUTO.\n3.\t\nPRE-CUTTING SETUP—SET ALL MACHINE CONTROLS FOR MILLING\n\t\nA. Select HIGH engine idle.\n\t\n\t\nB.  Select FRONT steering mode.\n\t\nC.  Water system ON—open valves as needed.\n\t\nD.  Turn conveyors ON—adjust to desired speed.\n\t\nE.  Turn vent system ON.\n\t\nF.  Set moldboard to desired setting.\n\t\nG. Set front anti-slab to desired setting.\n4.\t\nLOWER MACHINE INTO CUT\n\t\nA. Lower slowly left and right side to desired cutting depth.\n5.\t\nMACHINE CONTROL FOR MILLING—MAKE MACHINE  \nADJUSTMENTS AS NEEDED:\n\t\nA. Propel speed—set cruise control.\n\t\nB. Water spray rate—set to AUTO.\n\t\n\t\nC. Conveyor speed..\n\t\nD. Moldboard—Float or pressure down..\n\t\n\t\nE. Front anti-slab position—Hold or float.\n\t\nF. Adjustments to grade system.\n.\nPM600\n",
+    "last_page": "MILLING BY THE NUMBERS\n1.\t\nGRADE CONTROL SYSTEM—INSTALLATION AND SETUP\n\t\nA. Position machine to calibrate grade/slope sensors.\n\t\nB. Calibrate sensors to zero.\n2.\t\nPOSITION MACHINE AT START OF CUT\n\t\nA. Set side plates (and inboard skis) into FLOAT.\n\t\nB. Turn rotor ON – select desired rotor speed.\n\t\n\t\nC. Lower the machine to AUTO STOP.\n\t\n\t\nD. Place grade controls into AUTO.\n3.\t\nPRE-CUTTING SETUP—SET ALL MACHINE CONTROLS FOR MILLING\n\t\nA. Select HIGH engine idle.\n\t\n\t\nB.  Select FRONT steering mode.\n\t\nC.  Water system ON—open valves as needed.\n\t\nD.  Turn conveyors ON—adjust to desired speed.\n\t\nE.  Turn vent system ON.\n\t\nF.  Set moldboard to desired setting.\n\t\nG. Set front anti-slab to desired setting.\n4.\t\nLOWER MACHINE INTO CUT\n\t\nA. Lower slowly left and right side to desired cutting depth.\n5.\t\nMACHINE CONTROL FOR MILLING—MAKE MACHINE  \nADJUSTMENTS AS NEEDED:\n\t\nA. Propel speed—set cruise control.\n\t\nB. Water spray rate—set to AUTO.\n\t\n\t\nC. Conveyor speed..\n\t\nD. Moldboard—Float or pressure down..\n\t\n\t\nE. Front anti-slab position—Hold or float.\n\t\nF. Adjustments to grade system.\n.\nPM600\n"
+  },
+  "parts": [
+    {
+      "file": "sources/milling-by-numbers/p0001-0001.pdf",
+      "text": "text/milling-by-numbers/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 23832,
+      "sha256": "387f231354e1f24ba0878c05698cdde64ebb1c9e4472f7e77888f7f9356ddee3",
+      "text_sha256": "6f5e0cd260b9419ffb553488afdbc0fb990fe67bd5b706d1ee97cb91b855af99",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

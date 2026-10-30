@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-30",
+  "source_pages": {
+    "documents": 22,
+    "parts": 88,
+    "all_source_page_render_matches": 1883,
+    "comparison_dpi": 36,
+    "nonidentical_pages_rechecked_dpi": 100,
+    "maximum_allowed_channel_delta": 3,
+    "rounding_pages": [
+      [
+        "CAT-01",
+        269,
+        0
+      ],
+      [
+        "CAT-02",
+        35,
+        0
+      ],
+      [
+        "CAT-03",
+        40,
+        0
+      ]
+    ],
+    "status": "passed"
+  },
+  "classroom": {
+    "status": "passed",
+    "local_links": 417,
+    "browser_cases": 24,
+    "atlas_figures": 20,
+    "component_rows": 89,
+    "official_pictograms": 10,
+    "cat_zip_volumes": 4,
+    "cat_source_pages": 1883,
+    "whmis_source_pages": 218,
+    "books": {
+      "caterpillar/parts-atlas.pdf": 23,
+      "caterpillar/teaching-guide.pdf": 7,
+      "caterpillar/practice.pdf": 6,
+      "whmis/teaching-guide.pdf": 4,
+      "whmis/practice.pdf": 4,
+      "whmis/whmis-reference.pdf": 10
+    }
+  },
+  "context": {
+    "status": "passed",
+    "documents": 158,
+    "chunks": 215,
+    "reused_ms4_source_parts": 34,
+    "reused_cat_source_parts": 88,
+    "representative_render_comparisons": 105,
+    "retained_URI_links": 1172,
+    "checks": "Source aliases, complete inventory, hashes, size/page limits, local/global text page maps, OCR cache fingerprints, source reuse, PDF page counts, link annotations, CSV and rendering."
+  },
+  "atlas_crop_sha256_comparisons": {
+    "count": 20,
+    "status": "passed"
+  },
+  "existing_asphalt_material_checks": {
+    "count": 799,
+    "status": "passed"
+  }
+}

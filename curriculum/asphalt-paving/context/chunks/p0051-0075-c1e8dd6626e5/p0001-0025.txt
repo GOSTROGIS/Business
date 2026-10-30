@@ -1,0 +1,567 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0051-0075.pdf
+SOURCE SHA-256: c1e8dd6626e51971068c60e7f33e88b92f1c8e8de0dc18fb5f922006aa1e35dd
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+The CS200 is an elevation control sensor and can be
+used with a profile ski. The sensor should be set up
+and nulled/surveyed with the wand arm at a 45° angle
+trailing the sensor with the connector facing forward.
+The contact sensor is unaffected by temperature
+variations and measures the changes in the elevation
+of a control reference which could be a ski, curb,
+existing mat or existing grade by measuring the
+change in angle of the wand arm.
+
+
+
+
+                         51
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+The CS200 rotary contact sensor can also be used
+with a string line wand to reference an object. When
+mounted correctly the wand arm will be facing to the
+rear and will be at a 45º angle with the wand centered
+on the string. The wand pressure can be adjusted and
+configured to reference above or below a string-line.
+Once the contact sensor has been nulled/benched, any
+change in the elevation or wand angle will be sent to
+the display. The display evaluates the information and
+sends a signal to the ECM to raise or lower the tow
+point cylinder.
+
+
+
+
+                         52
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+The AS200 angle sensor is a sensor that functions as
+a precision carpenter’s level. The angle sensor reads
+the slope of the screed and sends an electronic signal
+to the display. The angle sensor contains an electronic
+device that will constantly measure the slope of the
+screed. The AS200 angle sensor is mounted on the
+transverse beam of the screed.
+
+The sensor is calibrated by editing the slope value in
+the measured values area. This enables the operator
+to maintain a desired positive or negative slope from
+±10° (±17.6%) but is limited by machine capabilities.
+
+
+
+
+                          53
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+Because the tractor display is a full touch screen
+display, the operator MUST push the Display unlock
+button (1) for the touch function to work. The LED
+light must be lit for this operation. At that time the
+touch functions will be allowed. The operator can
+then access the Grade and Slope system interface
+by touching the Grade and Slope Icon (2) from any
+screen that shows the icon.
+
+NOTE: After three minutes the display will
+automatically lock again.
+
+
+
+
+                          54
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+The screed display is a combination soft key button
+and/or touch screen. The operator will need to press
+and release the Grade and Slope soft key button from
+any screen that shows the icon to enter the grade and
+slope system interface.
+
+
+
+
+                         55
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+There are two different types of displays on the
+F-series paver that serve as the operator interface for
+the Cat Grade and Slope system. The operator on
+the tractor has a total touch screen display that has
+no external buttons. This display does not have any
+internal or external light bars for grade indication.
+The screed operator display has a combination touch
+and soft key button control interface with internal
+and external light bars for grade indication. These
+displays will perform the same functions but the
+operator interface will be slightly different on each.
+
+NOTE:
+
+   • Tractor displays only allow dual screen mode
+     (shown).
+   • Screed displays can be set to dual screen
+     mode or single screen mode (shown).
+
+
+
+
+                           56
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+Once in the Grade and Slope operating interface
+on the tractor, the operator will see in the lower
+left corner, a padlock icon (1). This icon is used to:
+unlock only the icons on the sides (2) of the display,
+go to the previous screen, or “okay” a new setting
+or change made. The unlock function (1) will only
+work for three seconds or one icon button touch. The
+system operates in this way so no “unwanted” change
+happens unless the operator requests it. Area (3) is
+allowed without having to touch the Lock icon (1)
+but when a value is changed you will have to “okay”
+the change and that requires the use of the Lock
+icon (1).
+
+NOTE: The Tractor display is a full touch screen
+so remember, the screen must be unlocked first
+before the touch function works as explained in
+slide three and after three minutes the display will
+automatically lock again.
+
+
+
+
+                         57
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+The screed displays are a combination touch screen
+and/or soft key function. In area 1, the operator
+can only use the soft key buttons to utilize those
+functional icons. In area 2, the operator can use the
+touch screen function or a combination of soft key
+button and touch screen. Remember for touch screen
+operation, the screen must be activated with the
+display unlock button on the key pad (3).
+
+NOTE: The menu structure is the same with
+either display, but the operator interface is
+different between the two. This presentation will
+use the Screed Display to explain the operation of
+the system.
+
+
+
+
+                         58
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+The middle section of the screen is called the
+Guidance Screen. The Guidance screens display a
+mix of text and graphics that provide information
+such as the slope and elevation or different menus.
+There are many different sections to this screen that
+will be explained within this presentation.
+
+NOTE: Dual screen mode shown.
+
+
+
+
+                          59
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+The soft keys adjacent to the arrow icons can be used
+in different ways. When an operator wants to use
+these arrow keys to move the tow point cylinders,
+they must first actuate the machine logic to allow for
+movement.
+
+To accomplish this, the operator will need to place
+the machine in the active mode or meet the “Paving
+Parameters” which are:
+
+  1. Engine Running
+  2. Place the Propulsion Mode Switch in the Pave
+     Mode.
+  3. Place the screed into float.
+  4. Parking Brake “On”.
+  5. Squeeze propulsion trigger and stroke
+     propulsion handle forward.
+
+
+
+
+                          60
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+Once the “Paving Parameters” are met, the operator
+can press the arrow soft key buttons and manually
+raise or lower the tow point cylinders to the required
+position.
+
+In the Automatic mode, the operator can change the
+“target” value for elevation or slope.
+
+When in the Configuration Mode the operator has the
+ability to select a desired menu item and change the
+values.
+
+NOTE: While paving, the Paving Parameters
+must also incorporate the “Target speed above
+zero” to allow for automatic operation.
+
+
+
+
+                          61
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+Item 1 is the Bench soft key. This function is only
+present in the manual mode, the icon will disappear
+when placed in the Automatic mode. Press and hold
+the soft key for three seconds to bench the position or
+height of the grade sensor to the reference. When in
+the slope mode, this will bench the position or angle
+of the screed.
+
+Item 2 is the Automatic / Manual mode soft key.
+This function will place the system in the Automatic
+control mode (control of tow point cylinders) or in
+the Manual mode (no control of tow point cylinders)
+when pressed and released.
+
+Item 3 is the Home or Machine Health soft key.
+When pressed and released the system will be taken
+out of the Grade and Slope system screens. If the
+operator is in the automatic mode, the system will
+continue to control the tow points at the benched
+position.
+
+
+
+
+                          62
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+Item 1 is the Sensor Select icon. This is a touch
+screen item that allows the choosing of an available
+sensor that is attached to the machine. Icons will
+appear with the available plugged in sensors.
+
+Item 2 is the Menu/Operator setting icon. This icon is
+also a touch function. This menu allows the operator
+to configure or customize the grade control system, to
+use system diagnostics and/or to calibrate the system.
+
+The last item, 3, is the text slider bar. The text
+slider bar allows the operator to view configurable
+information about different machine and screed
+system settings while in the Grade and Slope system
+screen. If the operator touches the text slider bar with
+one finger and slides it to one side or the other they
+would be able to view several pieces of information.
+
+
+
+
+                          63
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+The Measured Value area (1) shows the actual sensor
+data in real time. When the sensors are configured
+and/or calibrated and the screed rises or falls the
+actual sensor data that it sees will be displayed in this
+area.
+
+In the Target Value area (2), the values displayed are
+the targeted elevation or the targeted slope of the
+screed.
+
+The configured or calibrated numbers for these areas
+can be adjusted by following the instructions on the
+next slide or page.
+
+
+
+
+                           64
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+The operator can edit the value in the measure values
+data area by touching the screen. A key pad will
+appear on the screen. The operator touches the value
+they wish to display in this area. Once complete,
+the “OK” soft key must then be pressed to accept
+the number chosen. It is common practice to use the
+value that is measured while paving whether in the
+grade mode or the slope mode. If editing the number
+in the slope mode, the correct angle direction must be
+chosen also.
+
+NOTE: If this action is done in the manual mode,
+the system must be re-benched. If it is done in the
+automatic mode, the number will automatically be
+pushed to the target value data area.
+
+
+
+
+                         65
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+The “Target” is the position you want the screed to
+be at or drive to. If the target data area on the display
+is touched a key pad will appear. The operator can
+choose a new target. In the Automatic Mode if a
+new target value has been added and the “OK” soft
+key is pressed the system will automatically drive
+the tow point to the new target position if the paving
+parameters have been met, so care must be taken
+when doing this operation.
+
+In the manual mode the number will change but
+the system won’t drive to the new target unless the
+operator goes into the automatic mode and has met
+the paving parameters.
+
+
+
+
+                           66
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+There are two different types of indicators on this
+Grade control system. There is the internal vertical
+graph light bars which are located on the touch screen
+and external bars that are located on the outboard
+side of the display. The operator can configure these
+light bars to work in the automatic mode only, in the
+automatic/manual mode, or turned off. The external
+light bars have two different color LED’s, amber
+or green and the internal is either red or green. The
+flashing pattern of these indicators change depending
+on the state of the grade control correction. For a
+detailed explanation on the indicators refer to the
+owners manual for this system. The brightness of
+these indicators will follow the screen brightness
+setting when adjusted.
+
+
+
+
+                         67
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+On the bottom lower banner of the Guidance screen
+there is a block that shows the status of the grade
+control system. This lower banner will be present no
+matter what view the operator is looking at whether
+it is the grade control screen or one of the machine
+health screens. In the picture shown, the Paver is in
+the Automatic mode on both sides of the machine
+and the machine is moving (Paving Parameters met).
+When the system has both sides set to the manual
+mode, two manual mode (hand) icons will be shown.
+If the paver operator has the propulsion lever in
+neutral with the grade control in the Automatic
+mode, the “Pause” icons will blink alternately with
+the “Auto” icons. When one side of the paver is in
+Automatic mode and one is in the manual mode, the
+side activated in automatic will have the “Auto” icon
+and the other side will show the Manual mode icon.
+
+
+
+
+                         68
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+Preparing to Pave (Grade)
+
+
+
+
+Preparing to Pave (Grade)
+
+First, set up the paver using Paving by the Numbers.
+Then choose the proper sensor type by touching
+the Sensor Select Icon. Once the proper sensor is
+selected press “Okay” soft key. The sensor is now
+chosen.
+
+NOTE: Only the sensors that are plugged into the
+machine will be available for use.
+
+
+
+
+                         69
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+Preparing to Pave (Grade)
+
+
+
+
+Preparing to Pave (Grade) (Continued)
+
+The position of the sensor along the tow arm
+determines how fast the screed will react to a change.
+By positioning the sensor, we can build profile or
+rideability. We need to evaluate job specifications
+and grade related conditions to determine the desired
+position that will produce the required results.
+
+Automation sensors will always move the tow point
+up or down to maintain the sensors bench point
+or null point. In effect, the location of the sensor
+becomes our only control point. The tow point
+becomes only a point from which we raise or lower
+the tow arm to reestablish the bench point or null
+point at the sensor. The effective length of tow arm
+becomes the distance between the control point
+(sensor) and the pivot point (trailing edge of the
+screed).
+
+
+
+
+                          70
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+Preparing to Pave (Grade)
+
+
+
+
+Because the screed must travel five tow arm lengths
+to fully react to a correction, shortening the effective
+tow arm length shortens the distance the paver
+must travel to complete a correction. Positioning
+the sensor to the rear or inline with the auger shaft
+produces a quick change (or reaction) of the screed.
+This placement will have a 4 to 1 ratio. Meaning that
+for every 2.5 cm (1 in) of sensor movement up or
+down, the tow point will move up or down 10 cm
+(4 in). This position is used to match existing
+surfaces or a curb line.
+
+Rule: Sensor(s) positioned inline with the augers
+builds PROFILE.
+
+
+
+
+                           71
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+Preparing to Pave (Grade)
+
+
+
+
+Positioning the sensor forward or near the tow point
+causes gradual changes in tow point movement.
+Again, because the screed must travel five tow arm
+lengths to fully react to a correction, increasing
+the effective tow arm length increases the distance
+the paver must travel to complete a correction.
+Positioning the sensor near the tow point decreases
+reaction time of the screed. This placement will have
+a 1 to 1 ratio. Meaning that for every 2.5 cm (1 in) of
+sensor movement up or down, the tow point will also
+move up or down 2.5 cm (1 in). This position is used
+to build ridability or smoothness.
+
+Rule: Sensor(s) positioned near the tow point or
+1/4 of the tow arm length back from the tow point
+builds RIDABILITY.
+
+
+
+
+                          72
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+Set the height of the grade sensor to
+40.6 cm +/- 5 cm (16 +/- 2 in) or the angle of the
+wand arm to a 45º angle on the contact sensor above
+the reference.
+
+
+
+
+Now adjust the number in the Measured Value Data
+area to display the actual paving depth that will be
+paved. To do this, touch the “unlocked” display
+Measured Value Data area on the Guidance screen. A
+key pad will appear on the screen. Touch the actual
+paving depth numbers on the screen and press the
+“OK” soft key to enter the value.
+
+
+
+
+                         73
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+The sensor position height can now be benched. Press
+and hold the bench soft key until you hear an audible
+beep or until the bench icon appears on the guidance
+screen. This will tell the control system to hold the
+screeds current elevation position. Do this on both
+sides. This will also move the Measured data number
+that was entered to the Target value data position.
+
+
+
+
+                         74
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+Press and release the Manual / Automatic soft key to
+place the system into the automatic mode. Repeat on
+the other side.
+
+Once paving begins, the control system will adjust
+the tow point cylinders to maintain the selected
+reference point. If any adjustment needs to be
+made the operator can press the Arrow soft key the
+direction needed to maintain specification.
+
+
+
+
+                         75
+

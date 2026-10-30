@@ -15,3 +15,5 @@ Read **access-status.html** for the exact 2016 outline requirement and remaining
 Manufacturer copyright and notices remain intact. The collection preserves dated source files; it does not establish that a manual is current for a real machine or authorize operation, servicing or adjustment. Match the actual model, serial/configuration and current information through the responsible instructor or manufacturer before practical use.
 
 Original source payload: **60,576,733 bytes** across the seven original PDF files and 675-file Deere collection. Authored lessons, indexes and metadata add to the total extracted size. All source files were checked on **29 October 2026**. External source/purchase links require the internet; the local document-reading lesson does not.
+
+Additional collections: [CAT library, illustrated parts atlas and smaller ZIP volumes](https://github.com/GOSTROGIS/Business/tree/main/curriculum/asphalt-paving/caterpillar) and [WHMIS symbols and classroom ZIP](https://github.com/GOSTROGIS/Business/tree/main/curriculum/asphalt-paving/whmis). These links require internet access; the separate downloads contain their own local files.

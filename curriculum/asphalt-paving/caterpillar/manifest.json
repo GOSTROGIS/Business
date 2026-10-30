@@ -1,0 +1,1700 @@
+{
+  "schema_version": 1,
+  "accessed": "2026-10-30",
+  "policy": {
+    "max_pages": 25,
+    "max_bytes": 10485760,
+    "processing": "Native PDF pages copied without image resampling. All pages retained, including covers, contents, notices and blank pages. Internal/non-URI link annotations omitted from split parts; external URI links and source whole-file URL retained. Native page resources and image streams preserved using pypdf."
+  },
+  "counts": {
+    "documents": 22,
+    "source_pages": 1883,
+    "pdf_parts": 88,
+    "largest_part_bytes": 9223322
+  },
+  "documents": [
+    {
+      "id": "CAT-01",
+      "slug": "guide-asphalt-paving",
+      "title": "Guide to Asphalt Paving",
+      "publisher": "Caterpillar",
+      "type": "Application guide",
+      "publication": "QEBQ1888",
+      "publication_year": 2016,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Asphalt paving process, tractor, screed, material delivery and handwork; model examples vary.",
+      "download_filename": "cat-guide-asphalt-paving.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200908-73626-e8408",
+      "accessed": "2026-10-30",
+      "original_bytes": 30351532,
+      "original_sha256": "708e981b0910239b7c455df16f6912afc1041070636b5e26b0bd66a4cbb9f88c",
+      "original_pages": 300,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "GUIDE TO ASPHALT PAVING\nGUIDE TO ASPHALT PAVING\nCAT® PAVING PRODUCTS\n",
+        "last_page": ""
+      },
+      "parts": [
+        {
+          "file": "sources/guide-asphalt-paving/p0001-0025.pdf",
+          "text": "text/guide-asphalt-paving/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 4813612,
+          "sha256": "b1acc9026b93236ee7b03a572bcdd48b61d4617514488cf1e4aedead057b6f27",
+          "text_sha256": "e62d37aaf501b554d150e96d811b67289511b564ab8ff1609f950d2591cb18ad",
+          "empty_text_source_pages": [
+            2,
+            3,
+            4,
+            8,
+            12
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0026-0050.pdf",
+          "text": "text/guide-asphalt-paving/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 2339318,
+          "sha256": "e9813fc4fe10db79a8be38202134bcfcb1b41aadb7d7d3f84d4ec4e5383acce0",
+          "text_sha256": "a3614c7e1752da513708e1b28abd0bdff4858a5529dd90b8307d78db8221b0d8",
+          "empty_text_source_pages": [
+            34
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0051-0075.pdf",
+          "text": "text/guide-asphalt-paving/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 2147925,
+          "sha256": "9ab9b43831f4d8e5a08a9945899664bb18dd18f21a2ec741ac6b2a3c42b7b560",
+          "text_sha256": "7bdb050c92f23b56fdec8024c660aaac2a1a5e8ff24ab622b8aac409ff6daa9e",
+          "empty_text_source_pages": [
+            60
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0076-0100.pdf",
+          "text": "text/guide-asphalt-paving/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 3564083,
+          "sha256": "7a2100c9530ca25c0f86ab01f081d7b57e85357b3172747671f3c68a11003789",
+          "text_sha256": "01680704f9daa406e45e65f310bc06d03965b45d5544cb68fc16ab2dcc1f004e",
+          "empty_text_source_pages": [
+            96
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0101-0125.pdf",
+          "text": "text/guide-asphalt-paving/p0101-0125.txt",
+          "start": 101,
+          "end": 125,
+          "pages": 25,
+          "bytes": 4371925,
+          "sha256": "c15e80ceb5603be8b8efc4cc76fae1572d6c4ea209daf34e4bf9c7be2c8134be",
+          "text_sha256": "bf1b22ef1789e281e49309a0f10231d5b6967114e2e5fa2ac9087541a5d0fa88",
+          "empty_text_source_pages": [
+            118
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0126-0150.pdf",
+          "text": "text/guide-asphalt-paving/p0126-0150.txt",
+          "start": 126,
+          "end": 150,
+          "pages": 25,
+          "bytes": 4212823,
+          "sha256": "aae494777d227785559da9a00ae581d4d520c05a189d1910be4ed84a2775fe4b",
+          "text_sha256": "37bb687f0a54620ae9c5c28ad8dc000d10b1782a6145194c54013b31bda5469d",
+          "empty_text_source_pages": [
+            146
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0151-0175.pdf",
+          "text": "text/guide-asphalt-paving/p0151-0175.txt",
+          "start": 151,
+          "end": 175,
+          "pages": 25,
+          "bytes": 1944626,
+          "sha256": "74943ba3c355a8ff947c683dcd06a33cf30e5979005cd423e78682ba4a87a2ce",
+          "text_sha256": "8d3a6a66ca03dec9408c40967e36f0788ce107819c108d5b39b65ab957964b3e",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0176-0200.pdf",
+          "text": "text/guide-asphalt-paving/p0176-0200.txt",
+          "start": 176,
+          "end": 200,
+          "pages": 25,
+          "bytes": 3587303,
+          "sha256": "446656fdb31657f345b4aa9ecd5b6d20f69e049b9612c49545ea334a170cd7e5",
+          "text_sha256": "fa69e8cba0cdbb029f2a4b83e9bee9b72e6cf5612b7c98a31ba162fb5f15fc02",
+          "empty_text_source_pages": [
+            184
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0201-0225.pdf",
+          "text": "text/guide-asphalt-paving/p0201-0225.txt",
+          "start": 201,
+          "end": 225,
+          "pages": 25,
+          "bytes": 2357964,
+          "sha256": "7f4754963795bf52c55e85cc07cb2c374e79b22963bc71f833d8fa836672fafd",
+          "text_sha256": "9a30d5f39616afe4e669650e933385d301b939af3e7455d7150007e3ed6b201c",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0226-0250.pdf",
+          "text": "text/guide-asphalt-paving/p0226-0250.txt",
+          "start": 226,
+          "end": 250,
+          "pages": 25,
+          "bytes": 2411724,
+          "sha256": "1817cd716df9e854e4e9f2bf65655b5142a83c42ef518a6dbd262b0cf84166f0",
+          "text_sha256": "459312107d5ee6b226db64d32f6fac67f170d19898f645e1fbd3b80a1a3b4ea5",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0251-0275.pdf",
+          "text": "text/guide-asphalt-paving/p0251-0275.txt",
+          "start": 251,
+          "end": 275,
+          "pages": 25,
+          "bytes": 3696516,
+          "sha256": "9f4ca4196049a780ba54a2e88eab6e10e3df9ae51c1742e50bbcd4fe8f0c77eb",
+          "text_sha256": "e75a6d9f292553afdb1e6742d9c58f28ea8ae4b435eb6c4f79b55ec99206897d",
+          "empty_text_source_pages": [
+            258
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-paving/p0276-0300.pdf",
+          "text": "text/guide-asphalt-paving/p0276-0300.txt",
+          "start": 276,
+          "end": 300,
+          "pages": 25,
+          "bytes": 1724626,
+          "sha256": "6fbb6854235d98aeb8f85278d0393bdbbc58a49ced196caca42a913c91661b8f",
+          "text_sha256": "d3c49a33dfc7f37e55e08e2d30ead48f6df6152eda1175b6d35d4749132828b8",
+          "empty_text_source_pages": [
+            298,
+            299,
+            300
+          ],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-02",
+      "slug": "guide-asphalt-compaction",
+      "title": "Guide to Asphalt Compaction",
+      "publisher": "Caterpillar",
+      "type": "Application guide",
+      "publication": "QEBQ1583",
+      "publication_year": 2012,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Asphalt compaction concepts and equipment; project and machine application require the applicable documents.",
+      "download_filename": "cat-guide-asphalt-compaction.pdf",
+      "source_url": "https://www.empire-cat.com/sites/default/files/products/documents/CM20200908-edfb5-3a910.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 19162603,
+      "original_sha256": "9ff49db56a56be846cb09550cee315e5d9c68f3d08978136c5f0c94f174df163",
+      "original_pages": 152,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "GUIDE TO ASPHALT COMPACTION\nGUIDE TO ASPHALT COMPACTION\nCAT® PAVING PRODUCTS\n",
+        "last_page": ""
+      },
+      "parts": [
+        {
+          "file": "sources/guide-asphalt-compaction/p0001-0025.pdf",
+          "text": "text/guide-asphalt-compaction/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 2756258,
+          "sha256": "dd8e5a102329a96c3d3d9d42736ca3a794d3e4627d897fe200d9540ab9fd03b2",
+          "text_sha256": "abc345c6490e831ebd5273a95f7d3e06da6be5f8120dee1611614a7f5949b5d3",
+          "empty_text_source_pages": [
+            2,
+            3,
+            4,
+            8,
+            10,
+            16
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0026-0050.pdf",
+          "text": "text/guide-asphalt-compaction/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 2901469,
+          "sha256": "28df22b1f988cca48ec642d68daab38b6efd5ef1f955de80d4190c07d2fd075a",
+          "text_sha256": "e2a0b16fc9b2a91ecd7bdc6357cd37250db3d445b12a80607a6164f7dc98afc6",
+          "empty_text_source_pages": [
+            32
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0051-0075.pdf",
+          "text": "text/guide-asphalt-compaction/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 1931193,
+          "sha256": "fb22c15e25d3ed00afd82e558561689870622a0b41f36da8981ee64b46c47260",
+          "text_sha256": "64abef154b708fd408151657c33f5d1cc20a5e327461b04fb8d6bc91f619c23b",
+          "empty_text_source_pages": [
+            54
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0076-0100.pdf",
+          "text": "text/guide-asphalt-compaction/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 1860519,
+          "sha256": "4b33569791fc7a3d0f98343c301751149d76a2ffa163f68f135c1ae59a33d679",
+          "text_sha256": "4702cd782835eab2079bafea621d12003572791a7991f8350dadf3cfe57a6ca3",
+          "empty_text_source_pages": [
+            82,
+            100
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0101-0125.pdf",
+          "text": "text/guide-asphalt-compaction/p0101-0125.txt",
+          "start": 101,
+          "end": 125,
+          "pages": 25,
+          "bytes": 2794002,
+          "sha256": "1bfb5cd271920dcf2f9830910debd94108a7c7a830c9e9b1a98d60297ba238d6",
+          "text_sha256": "f7b7f26b255c2f70ce861eb36f0592d0da67b3a38be3a580ae32b24f5047d3b2",
+          "empty_text_source_pages": [
+            120
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0126-0150.pdf",
+          "text": "text/guide-asphalt-compaction/p0126-0150.txt",
+          "start": 126,
+          "end": 150,
+          "pages": 25,
+          "bytes": 1196694,
+          "sha256": "05fcef221117fbb34849e4031df01ea7e936d489f00022221373e629d9c29155",
+          "text_sha256": "15978ee670bce255dc1caf85c02bf473805320eab74dc8c63e5d0ac1f1ab575e",
+          "empty_text_source_pages": [
+            147,
+            148,
+            149,
+            150
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-asphalt-compaction/p0151-0152.pdf",
+          "text": "text/guide-asphalt-compaction/p0151-0152.txt",
+          "start": 151,
+          "end": 152,
+          "pages": 2,
+          "bytes": 376009,
+          "sha256": "5356fb1f9abe3e7f70f335fe927916e71b43425da66f9b237f2fd8c6f0858568",
+          "text_sha256": "c324b03c932ddb36794f59fdf802b386bcee0b438659d96559f685ca0eb56f1b",
+          "empty_text_source_pages": [
+            151,
+            152
+          ],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-03",
+      "slug": "guide-soil-compaction",
+      "title": "Guide to Soil Compaction",
+      "publisher": "Caterpillar",
+      "type": "Application guide",
+      "publication": "QEBQ1705",
+      "publication_year": 2013,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Soil properties, compaction equipment and supporting earthwork concepts.",
+      "download_filename": "cat-guide-soil-compaction.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200908-0bad0-9a837",
+      "accessed": "2026-10-30",
+      "original_bytes": 29247534,
+      "original_sha256": "9e0b97dfec265b4eb1a2937ea4f3e3c2400263de368069ba2784847ea68ca191",
+      "original_pages": 132,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "Guide to Soil Compaction\nGuide to Soil Compaction\nCAT® PAVING PRODUCTS\n",
+        "last_page": ""
+      },
+      "parts": [
+        {
+          "file": "sources/guide-soil-compaction/p0001-0025.pdf",
+          "text": "text/guide-soil-compaction/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 5775457,
+          "sha256": "6b17c12a32abde75f02e4fb2e1502d82bdd8a8aef146a0b65cd4f6e461bd0f51",
+          "text_sha256": "718833c13f77a93a68ad9e4406198833d16fe521b16508bab30589213844d879",
+          "empty_text_source_pages": [
+            2,
+            3,
+            4,
+            10,
+            12
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-soil-compaction/p0026-0037.pdf",
+          "text": "text/guide-soil-compaction/p0026-0037.txt",
+          "start": 26,
+          "end": 37,
+          "pages": 12,
+          "bytes": 4097320,
+          "sha256": "762bd2a55685eb456ff63d5816de3e1f2ad308b189301f0ab0f9626a1f44562d",
+          "text_sha256": "a569f6ae6f8060a9e6e68ef810aa08299f4c44eefde449c642134a372b5e737f",
+          "empty_text_source_pages": [
+            34
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-soil-compaction/p0038-0062.pdf",
+          "text": "text/guide-soil-compaction/p0038-0062.txt",
+          "start": 38,
+          "end": 62,
+          "pages": 25,
+          "bytes": 9223322,
+          "sha256": "9c50d4505a2f20ff5837e53dc22758509fa11200d68a344e166590afc094ba67",
+          "text_sha256": "0db4a780064f58d9fb78affeb4af7852a865cf0baaada2163aa08266d3e23243",
+          "empty_text_source_pages": [
+            42,
+            62
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-soil-compaction/p0063-0087.pdf",
+          "text": "text/guide-soil-compaction/p0063-0087.txt",
+          "start": 63,
+          "end": 87,
+          "pages": 25,
+          "bytes": 2599712,
+          "sha256": "bfa65d19bdf8f910b550778306b9d08117e3d6839333497df73007512d2d3d29",
+          "text_sha256": "242d07a941045e73223277ed7cd0aeaae7b0033108f861bef211d46f6433e0fa",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-soil-compaction/p0088-0112.pdf",
+          "text": "text/guide-soil-compaction/p0088-0112.txt",
+          "start": 88,
+          "end": 112,
+          "pages": 25,
+          "bytes": 9195756,
+          "sha256": "202ec2bc3b68e6d99c26db69ddf55fce37ea596e7430102e61f4ab0923492af8",
+          "text_sha256": "81736388ce82965c0d0319cbf7c67e93b64efb592f00d0f03affdccc268456f9",
+          "empty_text_source_pages": [
+            94
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/guide-soil-compaction/p0113-0132.pdf",
+          "text": "text/guide-soil-compaction/p0113-0132.txt",
+          "start": 113,
+          "end": 132,
+          "pages": 20,
+          "bytes": 884292,
+          "sha256": "64536938405824ae26306c1e94b1a2d0b7dddeed0ac7592183abfdf2ccbbf31d",
+          "text_sha256": "79c1a503254623a4ea0dcd1e98501b12ce33ce372ca8a9ed52b7551ab44928ae",
+          "empty_text_source_pages": [
+            128,
+            129,
+            130,
+            131,
+            132
+          ],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-04",
+      "slug": "f-series-paver-handbook",
+      "title": "Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers",
+      "publisher": "Caterpillar",
+      "type": "Application handbook",
+      "publication": "QEBQ1990-01 (3/2018)",
+      "publication_year": 2018,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Cat F Series large asphalt pavers; a practical handbook, separate from the machine OMM.",
+      "download_filename": "cat-f-series-paver-handbook.pdf",
+      "source_url": "https://www.westernstatescat.com/wp-content/uploads/2024/01/Asphalt-Paver-Handbook-For-Cat%C2%AE-F-Series-Large-Asphalt-Pavers-1.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 6416139,
+      "original_sha256": "c8d4702bd10b49d0c81ce6d37c31ae33f3d15e615c7619e2386c606dd3bc280c",
+      "original_pages": 104,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "Asphalt Paver \nHandbook\nFor Cat® F Series \nLarge Asphalt Pavers \n",
+        "last_page": "CAT, CATERPILLAR, their respective logos, “Cat-\nerpillar Yellow” and the POWER EDGE trade dress, \nas well as corporate and product identity used herein, \nare trademarks of Caterpillar and may not be used \nwithout permission.\n© 2018 Caterpillar All Rights Reserved\nQEBQ1990-01 (3/2018)\n"
+      },
+      "parts": [
+        {
+          "file": "sources/f-series-paver-handbook/p0001-0025.pdf",
+          "text": "text/f-series-paver-handbook/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 1738491,
+          "sha256": "67a2e43be987eb0bb0827cb16b4be752363e5af15503fa0e3beca119470e84e3",
+          "text_sha256": "6eaee237e8916aac4636b262014fbb8641035db797952c0fa257373f59f680fb",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/f-series-paver-handbook/p0026-0050.pdf",
+          "text": "text/f-series-paver-handbook/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 1878182,
+          "sha256": "6d361a7cf09c03ee40339fa191c226175d403d0703477a5f10924c29eaaea90e",
+          "text_sha256": "6d5d7c213d4aba2cb23f4b86c457615c9f139413ed9c3db68ca70d4dcd1af93b",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/f-series-paver-handbook/p0051-0075.pdf",
+          "text": "text/f-series-paver-handbook/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 1641416,
+          "sha256": "c1e8dd6626e51971068c60e7f33e88b92f1c8e8de0dc18fb5f922006aa1e35dd",
+          "text_sha256": "19799a70711a24223ed2b23dfcb0dad10a5b42a5af4eba406221aea72dd2ca3f",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/f-series-paver-handbook/p0076-0100.pdf",
+          "text": "text/f-series-paver-handbook/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 1661056,
+          "sha256": "f9c69b70b383dcafffdaf52f0d6727b85f11128e3329a3f3377b4103750f828b",
+          "text_sha256": "e1e8a8a377d84c87efae8c1e5f2f69a3a88cd42ea19ae8c718edfee6c4a8ce71",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/f-series-paver-handbook/p0101-0104.pdf",
+          "text": "text/f-series-paver-handbook/p0101-0104.txt",
+          "start": 101,
+          "end": 104,
+          "pages": 4,
+          "bytes": 157288,
+          "sha256": "d325ea96b86fe82ae96e9fe375e4865051b66a4257f47fd306241ad3021e75fa",
+          "text_sha256": "9d01075481e4a0b426413ed29ad06c27ebe814c3300c4b833116079d02c98509",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-05",
+      "slug": "paving-by-numbers",
+      "title": "Paving By The Numbers",
+      "publisher": "Caterpillar",
+      "type": "Application handbook",
+      "publication": "QEDQ1265-03 (1/2013)",
+      "publication_year": 2013,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Illustrated paving setup reference; the source equipment/configuration controls its application.",
+      "download_filename": "cat-paving-by-numbers.pdf",
+      "source_url": "https://www.westernstatescat.com/wp-content/uploads/2024/01/Paving-By-The-Numbers-2.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 2698730,
+      "original_sha256": "60eaf92e33ff990085ad8d293ab5f24ff7b9b17323f591f00e9c2c64807ee41e",
+      "original_pages": 40,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "R\nPaving By The Numbers\n",
+        "last_page": "R\nQEDQ1265-03 (1/2013) \n© 2013 Caterpillar  \nAll Rights Reserved.\nMaterials and specifications are subject to change without notice. \nFeatured machines in photography may include additional equipment for special applications. CAT, \nCATERPILLAR, their repective logos, “Caterpillar Yellow” and the POWER EDGE trade dress, as well as corporate \nand product identity used herein, are trademarks of Caterpillar and may not be used without permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/paving-by-numbers/p0001-0025.pdf",
+          "text": "text/paving-by-numbers/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 2090378,
+          "sha256": "ad2bbdab907e6ff601297b3d2a755408daec16a8bb0e55c74e9312b4595eee0d",
+          "text_sha256": "c98cbbe745e72c977f906ada07a3ec335d7f0506acb71cfdaf38ab3db783ec34",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/paving-by-numbers/p0026-0040.pdf",
+          "text": "text/paving-by-numbers/p0026-0040.txt",
+          "start": 26,
+          "end": 40,
+          "pages": 15,
+          "bytes": 1151859,
+          "sha256": "ebe56e94f150071339cf1640de79438a22a328cbbdb1fcf31818cee03a551566",
+          "text_sha256": "d0b13d88200f67d2d17fafb698d76b18d2e2beb3bb45f7fd9c11c3fc2027a869",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-06",
+      "slug": "milling-by-numbers",
+      "title": "Milling By The Numbers",
+      "publisher": "Caterpillar",
+      "type": "Quick reference",
+      "publication": null,
+      "publication_year": null,
+      "year_basis": "No publication year verified; do not infer from hosting path",
+      "model_scope": "One-page sequence card, not a complete cold-planer operation manual.",
+      "download_filename": "cat-milling-by-numbers.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20160919-42450-16948",
+      "accessed": "2026-10-30",
+      "original_bytes": 23832,
+      "original_sha256": "387f231354e1f24ba0878c05698cdde64ebb1c9e4472f7e77888f7f9356ddee3",
+      "original_pages": 1,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "MILLING BY THE NUMBERS\n1.\t\nGRADE CONTROL SYSTEM—INSTALLATION AND SETUP\n\t\nA. Position machine to calibrate grade/slope sensors.\n\t\nB. Calibrate sensors to zero.\n2.\t\nPOSITION MACHINE AT START OF CUT\n\t\nA. Set side plates (and inboard skis) into FLOAT.\n\t\nB. Turn rotor ON – select desired rotor speed.\n\t\n\t\nC. Lower the machine to AUTO STOP.\n\t\n\t\nD. Place grade controls into AUTO.\n3.\t\nPRE-CUTTING SETUP—SET ALL MACHINE CONTROLS FOR MILLING\n\t\nA. Select HIGH engine idle.\n\t\n\t\nB.  Select FRONT steering mode.\n\t\nC.  Water system ON—open valves as needed.\n\t\nD.  Turn conveyors ON—adjust to desired speed.\n\t\nE.  Turn vent system ON.\n\t\nF.  Set moldboard to desired setting.\n\t\nG. Set front anti-slab to desired setting.\n4.\t\nLOWER MACHINE INTO CUT\n\t\nA. Lower slowly left and right side to desired cutting depth.\n5.\t\nMACHINE CONTROL FOR MILLING—MAKE MACHINE  \nADJUSTMENTS AS NEEDED:\n\t\nA. Propel speed—set cruise control.\n\t\nB. Water spray rate—set to AUTO.\n\t\n\t\nC. Conveyor speed..\n\t\nD. Moldboard—Float or pressure down..\n\t\n\t\nE. Front anti-slab position—Hold or float.\n\t\nF. Adjustments to grade system.\n.\nPM600\n",
+        "last_page": "MILLING BY THE NUMBERS\n1.\t\nGRADE CONTROL SYSTEM—INSTALLATION AND SETUP\n\t\nA. Position machine to calibrate grade/slope sensors.\n\t\nB. Calibrate sensors to zero.\n2.\t\nPOSITION MACHINE AT START OF CUT\n\t\nA. Set side plates (and inboard skis) into FLOAT.\n\t\nB. Turn rotor ON – select desired rotor speed.\n\t\n\t\nC. Lower the machine to AUTO STOP.\n\t\n\t\nD. Place grade controls into AUTO.\n3.\t\nPRE-CUTTING SETUP—SET ALL MACHINE CONTROLS FOR MILLING\n\t\nA. Select HIGH engine idle.\n\t\n\t\nB.  Select FRONT steering mode.\n\t\nC.  Water system ON—open valves as needed.\n\t\nD.  Turn conveyors ON—adjust to desired speed.\n\t\nE.  Turn vent system ON.\n\t\nF.  Set moldboard to desired setting.\n\t\nG. Set front anti-slab to desired setting.\n4.\t\nLOWER MACHINE INTO CUT\n\t\nA. Lower slowly left and right side to desired cutting depth.\n5.\t\nMACHINE CONTROL FOR MILLING—MAKE MACHINE  \nADJUSTMENTS AS NEEDED:\n\t\nA. Propel speed—set cruise control.\n\t\nB. Water spray rate—set to AUTO.\n\t\n\t\nC. Conveyor speed..\n\t\nD. Moldboard—Float or pressure down..\n\t\n\t\nE. Front anti-slab position—Hold or float.\n\t\nF. Adjustments to grade system.\n.\nPM600\n"
+      },
+      "parts": [
+        {
+          "file": "sources/milling-by-numbers/p0001-0001.pdf",
+          "text": "text/milling-by-numbers/p0001-0001.txt",
+          "start": 1,
+          "end": 1,
+          "pages": 1,
+          "bytes": 23832,
+          "sha256": "387f231354e1f24ba0878c05698cdde64ebb1c9e4472f7e77888f7f9356ddee3",
+          "text_sha256": "6f5e0cd260b9419ffb553488afdbc0fb990fe67bd5b706d1ee97cb91b855af99",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-07",
+      "slug": "paver-screed-parts-official",
+      "title": "Pavers and Screeds Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": "QEXQ3132-02 (08/2024)",
+      "publication_year": 2024,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "download_filename": "cat-paver-screed-parts-official.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20211122-94720-72368",
+      "accessed": "2026-10-30",
+      "original_bytes": 9356381,
+      "original_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "original_pages": 88,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "PAVERS AND SCREEDS\nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+        "last_page": "QEXQ3132-02 (08/2024)\nReplaces QEXQ2832-01\n© 2024 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity used \nherein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+      },
+      "parts": [
+        {
+          "file": "sources/paver-screed-parts-official/p0001-0025.pdf",
+          "text": "text/paver-screed-parts-official/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 2739408,
+          "sha256": "3fa24bc1a21be0e39e64d4dc7c2d5dc3642097229bd9495e24ca2192d6c36d53",
+          "text_sha256": "aa476a9bac6e320b0cc458a6025c9eb4d8190bc37b02ae681188afa0f396f18b",
+          "empty_text_source_pages": [
+            2
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/paver-screed-parts-official/p0026-0050.pdf",
+          "text": "text/paver-screed-parts-official/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 2286812,
+          "sha256": "79f5493fac786163af9624a414f2654aa4926b953cf00cf4cd6ca24f600fffaf",
+          "text_sha256": "214b68d7ce92cfacfbe7b976bfd93133f855cc2493e3bb9941760c1088015169",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/paver-screed-parts-official/p0051-0075.pdf",
+          "text": "text/paver-screed-parts-official/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 1082760,
+          "sha256": "19dff9319a613b633f281e18bf6f5e8aac5e2b8db2138faa34db52e5fdfc733f",
+          "text_sha256": "28d563cd6f8ec6a8d8706bc1c2eaecd862592c4103e873c293215bc22b9e5b59",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/paver-screed-parts-official/p0076-0088.pdf",
+          "text": "text/paver-screed-parts-official/p0076-0088.txt",
+          "start": 76,
+          "end": 88,
+          "pages": 13,
+          "bytes": 658454,
+          "sha256": "5ff1d6a550b51e96e47dde01d3a78b0b0f619c6948e163264239551f4ce7e87c",
+          "text_sha256": "4e1b23932283f787f122f623b3189cd52071381bb4580a535ccabdfdc4808a43",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-08",
+      "slug": "cold-planer-parts-official",
+      "title": "Cold Planer Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": "QEXQ3131-01 (05/2026)",
+      "publication_year": 2026,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "download_filename": "cat-cold-planer-parts-official.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20221214-90d57-db16c",
+      "accessed": "2026-10-30",
+      "original_bytes": 8505801,
+      "original_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "original_pages": 52,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "COLD PLANER \nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+        "last_page": "QEXQ3131-01 (05/2026)\nReplaces QEXQ2832\n© 2026 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity \nused herein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+      },
+      "parts": [
+        {
+          "file": "sources/cold-planer-parts-official/p0001-0025.pdf",
+          "text": "text/cold-planer-parts-official/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 3268052,
+          "sha256": "4849cc5bc3bfd29629f3479d494b99add5e909bf8184840afbfd2a915731255c",
+          "text_sha256": "310013cd838c0e79eba9700e88019836e6d17e7272357b668eaca3abe327b3ea",
+          "empty_text_source_pages": [
+            2
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cold-planer-parts-official/p0026-0050.pdf",
+          "text": "text/cold-planer-parts-official/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 2004114,
+          "sha256": "f857ef683b86a99514399a69e1c0df4e9c4c5f8edb1a03c24e3ffd9549eb237e",
+          "text_sha256": "2fd839acbd1ae5ee603720b0683f97d605721215d26606ade017c0912780b090",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cold-planer-parts-official/p0051-0052.pdf",
+          "text": "text/cold-planer-parts-official/p0051-0052.txt",
+          "start": 51,
+          "end": 52,
+          "pages": 2,
+          "bytes": 117675,
+          "sha256": "f511957713f583acb3cef30b9218c42bde5909620bdb2aa840d6f4d585fe71c0",
+          "text_sha256": "71023446a8262df14c63b314e7c591dab4ad2e59505df6f7f777902a05b74922",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-09",
+      "slug": "road-reclaimer-parts",
+      "title": "Reclaimer / Stabilizer Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": "QEXQ3133-01 (11/2024)",
+      "publication_year": 2024,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "RM400, RM500, RM500B, RM600 and RM800; use each part/model table.",
+      "download_filename": "cat-road-reclaimer-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20231113-23541-e7af2",
+      "accessed": "2026-10-30",
+      "original_bytes": 7614386,
+      "original_sha256": "697c30f88a939ac6e8a76b75f6f4a9618933f4527b225bfcfe09f3c47d40cee4",
+      "original_pages": 48,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "RECLAIMER / STABILIZER \nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+        "last_page": "QEXQ3133-01 (11/2024)\nReplaces QEXQ3133\n© 2024 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity \nused herein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+      },
+      "parts": [
+        {
+          "file": "sources/road-reclaimer-parts/p0001-0025.pdf",
+          "text": "text/road-reclaimer-parts/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 2834634,
+          "sha256": "c35cf463daac33bd2c4f6c014ea58dc79567d933fc7ebc66a494506f9dd859f0",
+          "text_sha256": "51dfbbeef3c1215baaa1584a7c5045a0c9f52e9c5fde983ff8d82e10de348831",
+          "empty_text_source_pages": [
+            2
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/road-reclaimer-parts/p0026-0048.pdf",
+          "text": "text/road-reclaimer-parts/p0026-0048.txt",
+          "start": 26,
+          "end": 48,
+          "pages": 23,
+          "bytes": 2191425,
+          "sha256": "a66ec0d104e5217e05d33ae222c4daa76f5d8d022116e8ff3eeac37bdeb5afd4",
+          "text_sha256": "11914601f62078d5c041ec4cf67754c31ce90a794d3a737ab28ef669b51e9c49",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-10",
+      "slug": "utility-compactors",
+      "title": "CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual",
+      "publisher": "Caterpillar",
+      "type": "Operation and maintenance manual",
+      "publication": "M0130633-02 (August 2022)",
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP.",
+      "download_filename": "cat-utility-compactors.pdf",
+      "source_url": "https://www.ashbrook.ltd/wp-content/uploads/2023/02/User-Manual-for-Cat-Rollers-Utility-Compactors-CB2.5GC-CB2.7GC-CC2.7GC.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 1741383,
+      "original_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+      "original_pages": 148,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "Scan to find and purchase genuine Cat® parts and related\nservice information.\nLanguage: Original Instructions\nOperation and\nMaintenance\nManual\nCB2.5 GC, CB2.7 GC, CC2.7 GC Utility\nCompactors\nXGC 1-UP (CB2.5 GC)\n640 1-UP (CB2.5 GC)\nBT7 1-UP (CB2.7 GC)\n641 1-UP (CB2.7 GC)\n2C7 1-UP (CC2.7 GC)\n642 1-UP (CC2.7 GC)\nM0130633-02 (en-us)\nAugust 2022\n",
+        "last_page": "M0130633\n©2022 Caterpillar\nAll Rights Reserved\nCAT, CATERPILLAR, LET’S DO THE WORK, their respective\nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat\n“Modern Hex” trade dress as well as corporate and product identity\nused herein, are trademarks of Caterpillar and may not be used\nwithout permission.\n148\nAugust 2022\n"
+      },
+      "parts": [
+        {
+          "file": "sources/utility-compactors/p0001-0025.pdf",
+          "text": "text/utility-compactors/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 1100651,
+          "sha256": "f2f43c1b72ed6eb1673638a57e9d95876f27f8c6472d91e8e0a74275a7604d08",
+          "text_sha256": "14604d1a9efe5cd4ced99ca182d49a022d4428054d920a0f0b14648dedd0ee39",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/utility-compactors/p0026-0050.pdf",
+          "text": "text/utility-compactors/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 346257,
+          "sha256": "24fe9967cd75631166d2c5e53ca1703978209a571219fd93dad77e36abe108c6",
+          "text_sha256": "37576f0ce5b58e2c4feb6a8bfd3c5fcb67fc649a598be4ec44861f7d0f3bc588",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/utility-compactors/p0051-0075.pdf",
+          "text": "text/utility-compactors/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 704850,
+          "sha256": "4bef4a6d184c6e202b9ebeab1895349982232e48e34925ecf10b8e4cf68d0934",
+          "text_sha256": "da1f7c5ee8bd0701e25b03ca61854b47445b00683b3193a3d6eb70b5fd6e46ac",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/utility-compactors/p0076-0100.pdf",
+          "text": "text/utility-compactors/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 809620,
+          "sha256": "9bf4c47d37d8160f5a8fc6d088800f9162909ff689d0b76dbc631e54712b77b4",
+          "text_sha256": "c4ea279c7c42e510c7e21b508d20633fda63dd4c28d0135513500cefb90049fa",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/utility-compactors/p0101-0125.pdf",
+          "text": "text/utility-compactors/p0101-0125.txt",
+          "start": 101,
+          "end": 125,
+          "pages": 25,
+          "bytes": 394472,
+          "sha256": "74f03e2d8cc76902f1ea5732ee91f895cd612aadec8d4117eedfe18f94374319",
+          "text_sha256": "0f0b354d0998d4b3730f7fb9c2fbed8c37bb81045816116a2da023a9438aa5ba",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/utility-compactors/p0126-0148.pdf",
+          "text": "text/utility-compactors/p0126-0148.txt",
+          "start": 126,
+          "end": 148,
+          "pages": 23,
+          "bytes": 1395499,
+          "sha256": "bbafabdefc7166c0955e4474bb5c264ade7925867ea8eadedd079ebb69884520",
+          "text_sha256": "3fcad82b71c2620bfca7f3fd4df3b3132b6baf6381bc454fc87d5fc4db25d9ee",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-11",
+      "slug": "cb-series-manual",
+      "title": "CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual",
+      "publisher": "Caterpillar",
+      "type": "Operation and maintenance manual",
+      "publication": "KEBU7520-08 (April 2019)",
+      "publication_year": 2019,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "214 1-UP (CB214E), 224 1-UP (CB224E), 225 1-UP (CB225E). Public third-party-hosted copy; verify against the actual machine and Cat publication record.",
+      "download_filename": "cat-cb-series-manual.pdf",
+      "source_url": "https://cdn.prod.website-files.com/64a47b7c2779bc1d8c7e54fa/655fd570910e515fd311d690_OM%20-%20CB214E%2C%20CB-224E%2C%20CB225E%20compactor%20CAT.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 3791526,
+      "original_sha256": "c2e094697520b8b0975cc8d3e58af31ebae532f910f92c6d1c6e4c65b60d1bcc",
+      "original_pages": 102,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "Scan to find and purchase genuine Cat® parts and related\nservice information.\nOperation and\nMaintenance\nManual\nCB-214E , CB-224E, CB-225E Paving\nCompactors\n214 1-UP (CB214E)\n224 1-UP (CB224E)\n225 1-UP (CB225E)\nKEBU7520-08 (en-us)\nApril 2019\n",
+        "last_page": "KEBU7520\n©2019 Caterpillar\nAll Rights Reserved\nCAT, CATERPILLAR, LET’S DO THE WORK, their respective\nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat\n“Modern Hex” trade dress as well as corporate and product identity\nused herein, are trademarks of Caterpillar and may not be used\nwithout permission.\n102\nApril 2019\n"
+      },
+      "parts": [
+        {
+          "file": "sources/cb-series-manual/p0001-0025.pdf",
+          "text": "text/cb-series-manual/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 1328966,
+          "sha256": "552758ff8f4f0f6e83c46e76ba8f8e57f722bb1e3db0bd5097242d59a9ad3bf8",
+          "text_sha256": "d71b7885e6b89506e349f3857b79b13251ce49de7f69f47c9900e3bf6e3dd167",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cb-series-manual/p0026-0050.pdf",
+          "text": "text/cb-series-manual/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 604187,
+          "sha256": "46323ca6293859212290772b67e43d560939017b582f49df1f7c7f4df41fecb5",
+          "text_sha256": "8a33a0398598011e35fa6d89fbe922356b16abee7eba7bec325016eaca81afd4",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cb-series-manual/p0051-0075.pdf",
+          "text": "text/cb-series-manual/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 673312,
+          "sha256": "cd1af74f9aacc9ee19b1dea202f28c8dad366a78300214e751edd9069286b9fc",
+          "text_sha256": "45026290f55f4ac59f32f8db4e285b49674eabf787fc2098180e2113f52a7ba3",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cb-series-manual/p0076-0100.pdf",
+          "text": "text/cb-series-manual/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 1258286,
+          "sha256": "ab51eb0958cd6e1446d2ded15d11364fa773a115a1100d74561c01ca6899105a",
+          "text_sha256": "2f19173e91e786c3f7429875b7bdf67a1d0f6e29ca63c11423afda4ce103a015",
+          "empty_text_source_pages": [
+            100
+          ],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/cb-series-manual/p0101-0102.pdf",
+          "text": "text/cb-series-manual/p0101-0102.txt",
+          "start": 101,
+          "end": 102,
+          "pages": 2,
+          "bytes": 65698,
+          "sha256": "5ec92422c25a4f98fe1243aa4fb3c709bd3857be96abcc260feee3640baf35e1",
+          "text_sha256": "10778653ce4d64729bb95c6954981ea07acfdd7ca16ad94961c1a015afb6573e",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-12",
+      "slug": "motor-grader-parts",
+      "title": "K/K2 Series Motor Graders — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2023,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+      "download_filename": "cat-motor-grader-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20230505-124d3-45a4e",
+      "accessed": "2026-10-30",
+      "original_bytes": 777090,
+      "original_sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+      "original_pages": 14,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "K/K2 SERIES MOTOR GRADERS  \nCOVERING 12K, 120K, 120K2, 140K, 140K2, 160K \nPARTS REFERENCE GUIDE\n",
+        "last_page": "To buy Cat parts online, visit Parts.cat.com.\nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity & Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly and can reach 20% before you detect a problem — \nthat’s one day of lost production every week! These losses can  \nalso increase your fuel consumption and operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \n* Visit https://www.cat.com/filtersandfluids for more details\nPEDJ1168-01\n© 2023 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well \nas corporate and product identity used herein, are trademarks of Caterpillar and may not be used \nwithout permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/motor-grader-parts/p0001-0014.pdf",
+          "text": "text/motor-grader-parts/p0001-0014.txt",
+          "start": 1,
+          "end": 14,
+          "pages": 14,
+          "bytes": 777090,
+          "sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+          "text_sha256": "ce5605afb0dac7ad3c35d21c6f23b88206c6e24b390ff90ba1f72cb8746e8c35",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-13",
+      "slug": "backhoe-f-parts",
+      "title": "F Series Backhoe Loader — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2015,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+      "download_filename": "cat-backhoe-f-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20150528-59996-41033",
+      "accessed": "2026-10-30",
+      "original_bytes": 1298436,
+      "original_sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+      "original_pages": 5,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "F SERIES BACKHOE LOADER \nPARTS REFERENCE GUIDE\n",
+        "last_page": "AEXQ1444-01  \nAugust 2015\n© 2015 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, BUILT FOR IT, their respective logos, “Caterpillar Yellow,” the “Power Edge” \ntrade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nQUICK DISCONNECTS\nGet the most out of your Cat F Series Backhoe Loader with a wide range of hydraulic work tool attachments that can be \neasily interchanged with Quick Disconnects. Contact your Cat dealer for a complete list of all available attachments.\n  Edge Group - Bolt On\n9R-5321\n     Edge - Cutting   \n9W-8215\n     Bolt - Plow  \n3F-5108\n     Nut - Full\n4K-0367\n     Washer - Hard\n8T-4122\n  Tooth Group - Bolt On\n9R-5866\n     Tooth - Uni (Double strap)\n135-8203\n     Tooth - Uni (Single strap)\n132-4720\n     Bolt - Plow\n4F-3657\n     Nut - Full\n4K-0367\nThe following tips are DRS230 size\n     Pin - GET\n201-1238\n     Retainer Assembly\n201-1239\n     Tip - Penetration\n208-5235\n     Tip - Chisel\n208-5232\n     Tip - Soil\n208-5234\n     Tip - Long\n208-5236\n     Tip - Twin Sharp\n208-5237\n     Tip - Sharp\n208-5239\n     Tip - Wide\n208-5240\n  Adapter - Weld on\n  (For use with Rock Buckets)\n201-1234\n  Adapter - 25mm\n  (Soil excavation edges)\n253-0234\n  Adapter - Weld on\n201-1235\n    Ground engaging tools labeled as a group include mounting hardware.\nCOMMON GROUND ENGAGING TOOLS\nE and F Series\nTwin Sharp\nWide\nLong\nPin and Retainer\nSharp\nChisel\nFunction\nPush to connect\nMale\nCap\nFemale\nCap\nLoader\n195-6526\n152-5718\n195-6525\n152-5717\nHoe\n106-0406\n–\n106-0401\n–\n"
+      },
+      "parts": [
+        {
+          "file": "sources/backhoe-f-parts/p0001-0005.pdf",
+          "text": "text/backhoe-f-parts/p0001-0005.txt",
+          "start": 1,
+          "end": 5,
+          "pages": 5,
+          "bytes": 1298436,
+          "sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+          "text_sha256": "db0822d98f872e0a182a30cd907b7ca16299838452be5aa931a73daaa66b3f9c",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-14",
+      "slug": "articulated-truck-parts",
+      "title": "Articulated Trucks — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+      "download_filename": "cat-articulated-truck-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220802-197ca-96af8",
+      "accessed": "2026-10-30",
+      "original_bytes": 1210376,
+      "original_sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+      "original_pages": 11,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745 \nARTICULATED TRUCKS\nSERIAL NUMBER PREFIXES:  3T9, 3T3, 3F3, 3T4, 3F4, 3T5, 3F5, 3T8, 3F8, 3T7, 3F7, 3T6, 3F6 \nPARTS REFERENCE GUIDE\n",
+        "last_page": "To buy Cat parts online, visit Parts.cat.com.\nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity and Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly and can reach 20% before you detect a problem — \nthat’s one day of lost production every week! These losses can  \nalso increase your fuel consumption and operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \nAEXQ3497\n(Global)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/articulated-truck-parts/p0001-0011.pdf",
+          "text": "text/articulated-truck-parts/p0001-0011.txt",
+          "start": 1,
+          "end": 11,
+          "pages": 11,
+          "bytes": 1210376,
+          "sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+          "text_sha256": "aa31023a1c046bce7b1f1b187d28f700c7e1dab6084bb0b81a3549ffb08b4774",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-15",
+      "slug": "skid-steer-d3-parts",
+      "title": "D3 Series Skid Steer, Compact Track and Multi Terrain Loaders — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2021,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "D3 Series models listed in the publication; track and linkage configurations differ.",
+      "download_filename": "cat-skid-steer-d3-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20211022-fbb27-6c0ba",
+      "accessed": "2026-10-30",
+      "original_bytes": 1438211,
+      "original_sha256": "977d6fd1987d21f90c78afb841ab35ad20e86f55728eec770b0048d186bb36a6",
+      "original_pages": 11,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "D3 SERIES SKID STEER LOADER, COMPACT TRACK \nLOADER AND MULTI TERRAIN LOADER  \nPARTS REFERENCE GUIDE\n",
+        "last_page": "PEDJ0859   \n(Am North, EU, APD, ANZP)  \nOctober 2021\n© 2021 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Yellow,” the “Power Edge” and Cat \n“Modern Hex” trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nMTL Linkage Pin\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber Prefix\nA\nB\nC\nG\nK\nL\nM\nN\n257D3\nKEZ, S7E\n452-0480 \nPin Assembly \n(Quantity 2)\n345-6511 \nPin Assembly \n(Quantity 2)\n142-9091 \nPin Assembly \n(Quantity 2)\n388-7776 \nPin Assembly \n(Quantity 2)\n258-3451 Pin \n(Quantity 2)\n388-7770 \nPin Assembly \n(Quantity 2)\n388-7780 \nPin Assembly \n(Quantity 2)\n422-3184 \nLink Assembly \n(Quantity 2)\nMTL Bearings\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n191-9633 \nBushing \n(Quantity 4)\n6K-4148 \nBushing \n(Quantity 4)\n–\n–\n–\n142-8805 \nBushing \n(Quantity 4)\n6K-4148 \nBushing \n(Quantity 4)\n–\n–\nMTL Grease Fittings\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n–\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n–\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n5B-0651 \nStraight \nFitting \n(Quantity 2)\n–\n–\nMTL Retention \nHardware\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n119-4594 \nWasher \n(Quantity \n10)\n191-9738 \nWasher \n(Quantity 2)\n550-6670 \nFlat Head \nScrew \n(Quantity 2)\n481-3999 \nWasher \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n435-8888 \nSpacer \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n363-2855 \nShim (Left \nSide only) \n(Quantity 5)\n523-0657 \nBolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n523-0657 Bolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n1H-8134 \nRetaining \nRing \n(Quantity 4)\n4M-5285 \nRetaining \nRing\n (Quantity 4)\n481-3999 \nWasher \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n2K-5964 \nRetaining \nRing \n(Quantity 2)\n388-7774 \nSpacer \n(Quantity 2)\n142-9142 \nSpacer \n(Quantity 2) \n8T-5439 \nWasher \n(Quantity 2) \n7X-7729 \nWasher \n(Quantity 2) \n523-0657 \nBolt \n(Quantity 2)\nMULTI TERRAIN LOADER (MTL) LINKAGE PIN DATA  \n"
+      },
+      "parts": [
+        {
+          "file": "sources/skid-steer-d3-parts/p0001-0011.pdf",
+          "text": "text/skid-steer-d3-parts/p0001-0011.txt",
+          "start": 1,
+          "end": 11,
+          "pages": 11,
+          "bytes": 1438211,
+          "sha256": "977d6fd1987d21f90c78afb841ab35ad20e86f55728eec770b0048d186bb36a6",
+          "text_sha256": "f6059535bccefc8945f9c2fef12ce57084b5ee39db696bfe231dab2772e81446",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-16",
+      "slug": "wheel-loader-m-parts",
+      "title": "M Series Small Wheel Loader — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "926M, 930M, 938M; prefixes LTE, W5L, F5K, HEY, J5K, KTG, J3R, P5K.",
+      "download_filename": "cat-wheel-loader-m-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20160715-33261-35313",
+      "accessed": "2026-10-30",
+      "original_bytes": 561100,
+      "original_sha256": "0d3c6bd7e290b6ff9c8a950480fc4c0b4366fb311e48778354f0070b10d78535",
+      "original_pages": 5,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "M SERIES SMALL WHEEL LOADER \nPARTS REFERENCE GUIDE\nSERIAL NUMBER PREFIX: LTE, W5L, F5K, HEY, J5K, KTG, J3R, P5K\n",
+        "last_page": "AEXQ2071-04\n(N Am, Europe, ANZP)\nApril 2022\n \n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Corporate Corporate Yellow”, \nthe “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity used herein, are trademarks of Caterpillar and may \nnot be used without permission.\nDescription\nPart Number\nQuantity\nStandard\n115-2422\n2\nHeavy Duty\n4\n \nDescription\nPart Number\nQuick Disconnect Coupling – Male Twist to Connect\n439-1589\nQuick Disconnect Coupling – Female Twist to Connect\n439-1588\nBATTERIES M Series\nENGINE PARTS M Series\nQUICK DISCONNECTS M Series\nSales Model\nSerial Number Prefix\nDescription\nPart Number\nQuantity\nAll\nAll\nEngine Belt\n350-8742\n1\nAll\nAll\nAlternator (115 amp)\n344-5081\n1\nAll\nAll\nAlternator (150 amp)\n272-1889\n1\nAll\nAll\nFuel Injector\n370-7282\n6\nAll\nAll\nFuel Injection Pump\n368-9041\n1\nAll\nAll\nWater Pump \n397-5684\n1\nAll\nAll\nStarter Motor\n354-5671\n1\n926M\nLTE\nTurbocharger\n465-2871\n1\n930M\nHEY, KTG\n938M\nJ3R\n926M\nW5L\n556-7933\n930M\nF5K, J5K\n938M\nP5K\nAll\nAll\nThermostat (with gasket)\n497-3990\n1\nAll\nAll\nThermostat Plug Seal\n367-8509\n1\n"
+      },
+      "parts": [
+        {
+          "file": "sources/wheel-loader-m-parts/p0001-0005.pdf",
+          "text": "text/wheel-loader-m-parts/p0001-0005.txt",
+          "start": 1,
+          "end": 5,
+          "pages": 5,
+          "bytes": 561100,
+          "sha256": "0d3c6bd7e290b6ff9c8a950480fc4c0b4366fb311e48778354f0070b10d78535",
+          "text_sha256": "71b238d44c25b820b7c3e9e72072e4f7e7fa171276f83645f1663d82501dbde2",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-17",
+      "slug": "wheel-loader-950m-parts",
+      "title": "950M/962M Medium Wheel Loader — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+      "download_filename": "cat-wheel-loader-950m-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220214-e3852-481b5",
+      "accessed": "2026-10-30",
+      "original_bytes": 759093,
+      "original_sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+      "original_pages": 11,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "950M/962M \nMEDIUM WHEEL LOADER  \nPARTS REFERENCE GUIDE\nSERIAL NUMBER PREFIX: EMB, KSA, FTR, NHL, J1S, XCJ\n                                                 EJB, RKH, F2T, K88, J2S, JYD\n",
+        "last_page": "To buy Cat parts online, visit Parts.cat.com \nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity and Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly! These losses can also increase your fuel consumption \nand operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \n* Visit https://www.cat.com/filtersandfluids for more details\nPEBJ0919  \n(Aus, EAME, N Am)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/wheel-loader-950m-parts/p0001-0011.pdf",
+          "text": "text/wheel-loader-950m-parts/p0001-0011.txt",
+          "start": 1,
+          "end": 11,
+          "pages": 11,
+          "bytes": 759093,
+          "sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+          "text_sha256": "86597d3dfdb773dca1fccc5349218250b101551204397caaf2418e5b134a1d7d",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-18",
+      "slug": "mini-excavator-parts",
+      "title": "Mini Excavator — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2019,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Cat 300–310 family; exact model and serial-prefix tables apply.",
+      "download_filename": "cat-mini-excavator-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200212-e29fb-cd493",
+      "accessed": "2026-10-30",
+      "original_bytes": 1995381,
+      "original_sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+      "original_pages": 11,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "MINI EXCAVATOR \nPARTS REFERENCE GUIDE\n",
+        "last_page": "PEBJ0150-03\nDecember 2019\n© 2019 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET'S DO THE WORK, their respective logos, \"Caterpillar Yellow,\" the \"Power Edge\" and Cat \n\"Modern Hex\" trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nMachine Model\nSales Model\nSerial # Prefix\nPrimary Auxiliary\nSecondary Auxiliary\n300.9D\nLJM, LJ2\n374-0430 (male)\n374-0428 (female)\n–\n300.9D VPS\nTGP, DW2\n301.5\nMNH\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.6\nMY6\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.7 CR\nJH7\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.8\nH8X\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n302 CR\nRHM\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n302.2D\n302.4D\n302.7D CR\nLJG, LJ5\nLJN, LJ6\nLJL, LJ7\n397-2571 (male)\n397-2572 (female)\n152-8181 (male)\n204-5098 (female)\n303E CR\nHHM, SGE\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n303.5E CR\n303.5E2 CR\n304E2 CR\n304E2 CR XTC\nJX2, RKY\nBG8, JWY\nCJ2, ME4\nFXT\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n305E2 CR,\n305.5E2 CR\nDJX, H5M\nEJX, CR5\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n305.5E2 FB\n306E2 FB\nWE2\nE2W\n153-2995 (male)\n153-2994 (female)\n – \n306\n6G6\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n307.5\nGW7\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n308 CR\nGX8\nISJ machines are not shipped \nwith Quick Disconnects\nISJ machines are not shipped \nwith Quick Disconnects\n308 SR\nGK8\nISJ machines are not shipped \nwith Quick Disconnects\nISJ machines are not shipped \nwith Quick Disconnects\n308 CR\nGG8, GW8\n 153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n308.5\nGZ8\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n309 CR\nGG9, GW9\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n310\nGWT\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\nHYDRAULIC QUICK DISCONNECTS\n"
+      },
+      "parts": [
+        {
+          "file": "sources/mini-excavator-parts/p0001-0011.pdf",
+          "text": "text/mini-excavator-parts/p0001-0011.txt",
+          "start": 1,
+          "end": 11,
+          "pages": 11,
+          "bytes": 1995381,
+          "sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+          "text_sha256": "0140725def94064409efe0ee35a031f3072d75aa79f83da658f028c969f48d69",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-19",
+      "slug": "dozer-parts",
+      "title": "D1/D2/D3 Small Dozer — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2020,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "D1, D2 and D3; listed configuration and serial-prefix tables apply.",
+      "download_filename": "cat-dozer-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20201201-0ef6e-6ca9c",
+      "accessed": "2026-10-30",
+      "original_bytes": 1314040,
+      "original_sha256": "9849b1c0630e78d0e56ca76f99609626594ce38080f091832f5e0135fefde0ae",
+      "original_pages": 9,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "D1/D2/D3\nSMALL DOZER \nPARTS REFERENCE GUIDE\n",
+        "last_page": "PEBJ0175   \nNovember 2020\n(Global)\n© 2020 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Corporate  Yellow,” the “Power Edge” and \nCat “Modern Hex” trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nLINKAGE PIN AND BEARING PART NUMBERS  D1/D2/D3\nParallelogram Ripper Linkage\nSales \nModel\nSerial Number Prefix\nAA\nBB\nCC\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n7p-2358 - \nPin (QTY 2)\n8J-7008 - \nPin (QTY 2) \n397-0242 - \nPin (QTY 2) \n7K-6365 - \nBearing Sleeve \n(QTY 2)\nAngling Blade System\nSales \nModel\nSerial Number Prefix\nA\nB\nC\nD\nE\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n461-4319 - \nPin (QTY 2)  \n183-1176 - \nBearing (QTY 2) \n179-5757 - Trunnion \n179-5755 - Bearing Cap\n(QTY 2)\n461-4320 - \nPin (QTY 2)\n263-3181 - \nBushing (QTY 2)\n397-0234 - \nPin (QTY 2) \n263-3181 - \nBushing (QTY 2) \n8J-0928 - Pin \n9J-9812 - Bearing\n2H-5549 - Retainer Ring\n471-6399 - Spacer\nAngling Blade System\nSales \nModel\nSerial Number Prefix\nF\nG\nH\nI\nJ\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n6Y-1421 - Pin\n4D-0298 - Bearing\n1L-4775 - Retainer Ring\n471-6399 - Spacer\n4D-4431 - \nBearing\n2H-5549 - \nRetainer Ring\n4D-4431 - \nBearing\n2H-5549 - \nRetainer Ring\n461-4320 -\nPin (QTY 2)\n4D-0298 - \nBearing (QTY 2)\n1L-4775 - \nRetainer Ring (QTY 2) \n6Y-1421 - \nPin (QTY 2)\n9J-9812 - \nBearing (QTY 2)\n2H-5549 - \nRetainer Ring (QTY 2)\n471-6400 - \nSpacer (QTY 2)\nParallelogram Ripper Linkage\nSales \nModel\nSerial Number Prefix\nDD\nEE\nFF\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n397-0241 - \nPin (QTY 2) \n7K-6365 - \nBearing Sleeve\n(QTY 2)\n397-0241 - \nPin (QTY 2) \n397-0242 - \nPin (QTY 2) \nAA\nDD\nEE\nFF\nBB\nCC\nA\nI\nD\nC\nB\nE\nF\nJ\nH\nG\nA\nB\nD\nC\nI\nJ\nF\nE\nH\nG\n"
+      },
+      "parts": [
+        {
+          "file": "sources/dozer-parts/p0001-0009.pdf",
+          "text": "text/dozer-parts/p0001-0009.txt",
+          "start": 1,
+          "end": 9,
+          "pages": 9,
+          "bytes": 1314040,
+          "sha256": "9849b1c0630e78d0e56ca76f99609626594ce38080f091832f5e0135fefde0ae",
+          "text_sha256": "5db9ed241232870a3b3238d868cfcd87963266215e48ab094b72b67476788e5e",
+          "empty_text_source_pages": [
+            6
+          ],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-20",
+      "slug": "hammer-parts",
+      "title": "Cat B Model Hammers — Parts Reference Guide",
+      "publisher": "Caterpillar",
+      "type": "Parts reference guide",
+      "publication": null,
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "B1, B2, B4, B6, B8, B9.",
+      "download_filename": "cat-hammer-parts.pdf",
+      "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220930-56d95-7a8c7",
+      "accessed": "2026-10-30",
+      "original_bytes": 396473,
+      "original_sha256": "9dfb5a685382502ef67953db92d00721a1cc0a47cdfb869eb60fefdafcef5ee4",
+      "original_pages": 7,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "CAT\n® B MODEL HAMMERS \nPARTS REFERENCE GUIDE\nMODELS: B1, B2, B4, B6, B8, B9\n",
+        "last_page": "To buy Cat parts online, visit Parts.cat.com.\n \n \nPEDJ1057-00\n(Global)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/hammer-parts/p0001-0007.pdf",
+          "text": "text/hammer-parts/p0001-0007.txt",
+          "start": 1,
+          "end": 7,
+          "pages": 7,
+          "bytes": 396473,
+          "sha256": "9dfb5a685382502ef67953db92d00721a1cc0a47cdfb869eb60fefdafcef5ee4",
+          "text_sha256": "de1e8370a5c63a83a850be0600f77a10c2da402f8d225013a4f682efa8c85cd9",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": true
+        }
+      ]
+    },
+    {
+      "id": "CAT-21",
+      "slug": "attachment-operations",
+      "title": "Guide to Attachment Operations",
+      "publisher": "Ziegler CAT",
+      "type": "Dealer operating overview",
+      "publication": null,
+      "publication_year": null,
+      "year_basis": "No publication year verified; do not infer from hosting path",
+      "model_scope": "Cat skid steer, multi terrain and compact track loader attachment-control overview, including brooms, cold planers, blades and hammers; not the individual attachment OMM.",
+      "download_filename": "cat-attachment-operations.pdf",
+      "source_url": "https://www.zieglercat.com/assets/files/023524-ZIEGCA-Ziegler-CAT-Machine-User-Guide_AttachmentOperation.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 10404063,
+      "original_sha256": "750c1d11a0ca492ab9d29cb9a6964b0e82931108d4febda07b28c14de2324ce7",
+      "original_pages": 44,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "USE YOUR EQUIPMENT SAFELY AND EFFICIENTLY\nGUIDE TO\nATTACHMENT OPERATIONS\n",
+        "last_page": "Ada \n2099 State Highway 9\n56510 ZIP / 218.784.2961\nBemidji \n5426 Highway 71 N\n56601 ZIP / 218.751.1033\nBrainerd \n3311 Liberty Lane\n56401 ZIP / 218.829.9800\nBuhl \n10081 E Highway 169\n55713 ZIP / 218.258.3232\nColumbus \n13822 W Freeway Drive\n55038 ZIP / 651.982.5600\nCrookston \n720 3rd Avenue SW\n56716 ZIP / 218.281.4245\nDayton* \n18171 Territorial Road \n55369 ZIP / 763.428.0730\nDuluth \n210 Garﬁeld Avenue\n55802 ZIP / 218.722.6628\nFergus Falls \n3502 State Highway 210 W\n56537 ZIP / 218.736.2680\nJackson \n191 Industrial Parkway\n56143 ZIP / 507.847.7600\nMadison \n2488 Highway 75 N\n56256 ZIP / 320.598.3150\nMankato \n2145 Howard Drive W\n56003 ZIP / 507.388.1444\nMarshall \n1200 N Highway 59\n56258 ZIP / 507.532.4403\nMinneapolis \n901 W 94th Street\n55420 ZIP / 952.888.4121\nRochester \n6340 Highway 63 S\n55904 ZIP / 507.285.1775\nShakopee \n8000 County Road 101 E\n55379 ZIP / 952.887.4570\nSt. Cloud \n2225 255th Street\n56301 ZIP / 320.253.2234\nWillmar \n4600 Highway 71 S\n56021 ZIP / 320.235.8123\n50009 ZIP\nAltoona\n1500 Ziegler Drive NW\n / 515.957.3828\n50022 ZIP\nAtlantic\n951 Park Drive\n / 712.243.1039\n50501 ZIP\nFort Dodge\n3366 5th Avenue S\n / 515.576.3161\nMason City\n11490 265th Street\n50401 ZIP / 641.423.7240\nGrundy Center\n17075 Market Avenue\n50642 ZIP / 877.857.0144\n \n \n50659 ZIP\nNew Hampton\n1819 McCloud Avenue\n / 641.394.4226 \n52162 \nPostville\n308 North Lawler\nZIP / 563.864.7461\n \n51201 \nSheldon\n102 Crossroads Drive \nZIP / 712.324.5604\n51111 ZIP\nSioux City\n5300 Harbor Drive\n / 712.252.4401\nMINNESOTA\nIOWA\n*Cat Rental Store Only\n©2023 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, their respective logos, “Caterpillar \nYellow” and the “Power Edge” trade dress, as well as corporate and product indentity used \nherein, are trademarks of Caterpillar and may not be used without permission.\nFIND US \nNEAR YOU\n"
+      },
+      "parts": [
+        {
+          "file": "sources/attachment-operations/p0001-0025.pdf",
+          "text": "text/attachment-operations/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 6327236,
+          "sha256": "5d7edf45cd00156b6dca3b3099ec5c9c55d536a4244485f406cab1d358173b7b",
+          "text_sha256": "ed5af1195b6b4aee49b34a3115269a09ce4dd91c1a3d62f547642def6433c3e8",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/attachment-operations/p0026-0044.pdf",
+          "text": "text/attachment-operations/p0026-0044.txt",
+          "start": 26,
+          "end": 44,
+          "pages": 19,
+          "bytes": 4069827,
+          "sha256": "891d1ea411b8a3cedd6e5c974eecd0457a136d97ae35e9b96711e820d4b916f1",
+          "text_sha256": "6d51c97f143cbee8a15bfcd5da8d145648b45fac3a45aa2058b57b9bcb3f6478",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    },
+    {
+      "id": "CAT-22",
+      "slug": "performance-handbook",
+      "title": "Caterpillar Performance Handbook, Edition 50",
+      "publisher": "Caterpillar",
+      "type": "Performance handbook",
+      "publication": "SEBD0351-50 (June 2022)",
+      "publication_year": 2022,
+      "year_basis": "Publication/copyright statement in document",
+      "model_scope": "Full 588-page public edition. Publisher update on PDF 4 explains removal of main technical specifications from edition 49; use model-specific publications for those specifications.",
+      "download_filename": "cat-performance-handbook.pdf",
+      "source_url": "https://wheelercat.com/wp-content/uploads/2025/03/Cat-Performance-Handbook-Edition-50-June-2022.pdf",
+      "accessed": "2026-10-30",
+      "original_bytes": 7349120,
+      "original_sha256": "7424a45a21073efa4666408c9921d0b49734a71d3d8128b225992cbd2e979c1b",
+      "original_pages": 588,
+      "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+      "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+      "identity_text": {
+        "first_page": "Caterpillar\nPerformance\nHandbook\n",
+        "last_page": "SEBD0351-50\n© 2022 Caterpillar  •  All Rights Reserved\nCAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, \n“Caterpillar Corporate Yellow,” the “Power Edge” and Cat “Modern Hex” \ntrade dress as well as corporate and product identity used herein, \nare trademarks of Caterpillar and may not be used without permission.\n"
+      },
+      "parts": [
+        {
+          "file": "sources/performance-handbook/p0001-0025.pdf",
+          "text": "text/performance-handbook/p0001-0025.txt",
+          "start": 1,
+          "end": 25,
+          "pages": 25,
+          "bytes": 4068771,
+          "sha256": "3e443b93f3fc1e696c1dc8bbf5858c6fd0884eb3fd8e487b7da9c6ab66faeedb",
+          "text_sha256": "018758f0558e00f78966e8ecd60b7bb45e03cbe0c309c83f8db62e51c9143e81",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0026-0050.pdf",
+          "text": "text/performance-handbook/p0026-0050.txt",
+          "start": 26,
+          "end": 50,
+          "pages": 25,
+          "bytes": 690912,
+          "sha256": "d480821ffa455e5dda8c8e5a4446ddce3c158fb4291acdf35b78d22e58bf5f63",
+          "text_sha256": "66d5aaaf2bd4cd58fcdfb726a4105df769d71b03bc7461df7244b5473e34bbae",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0051-0075.pdf",
+          "text": "text/performance-handbook/p0051-0075.txt",
+          "start": 51,
+          "end": 75,
+          "pages": 25,
+          "bytes": 558134,
+          "sha256": "8473724a9cecbe58e752aa19deffb4249fd7fb9d1b4965ade0143c36843af5b6",
+          "text_sha256": "31fe1c86742e49efe87a0fa72b41228d5d28f048b873b0d4fd8fe7e4a46cce97",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0076-0100.pdf",
+          "text": "text/performance-handbook/p0076-0100.txt",
+          "start": 76,
+          "end": 100,
+          "pages": 25,
+          "bytes": 685712,
+          "sha256": "76d2fcf77fbdfe50690fa2013070b9b9f6a4056bec02064ba1638ad1401020d6",
+          "text_sha256": "3cf1d24bf8dbf434a43dd434586e53c38ea89002c92beac8f17ea53a0a27f62c",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0101-0125.pdf",
+          "text": "text/performance-handbook/p0101-0125.txt",
+          "start": 101,
+          "end": 125,
+          "pages": 25,
+          "bytes": 376460,
+          "sha256": "196f1ebe1077dcfe6c4315363562e17f0e29e12b45ce74116c5c4de781a8ed8c",
+          "text_sha256": "93cd7c77b98d9bccb29c0cc06145ce96ed95f179251683a6eef9c64438f4a2a5",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0126-0150.pdf",
+          "text": "text/performance-handbook/p0126-0150.txt",
+          "start": 126,
+          "end": 150,
+          "pages": 25,
+          "bytes": 336022,
+          "sha256": "c8529e7df38e5f852224693cbcb60b7b6ff2f380595df7e2c9df6f90e4b3743b",
+          "text_sha256": "49033429c1cc7f878c959e847e31e65aa24690644d3f2635f1c1c2068474f715",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0151-0175.pdf",
+          "text": "text/performance-handbook/p0151-0175.txt",
+          "start": 151,
+          "end": 175,
+          "pages": 25,
+          "bytes": 902404,
+          "sha256": "22229143cddf5a5232dfb841a72d3d46b4c261971d32a8beb3fda9f034064faa",
+          "text_sha256": "b32fc23c9e90a6ea056e4fadca925d284ddfa9cb00351c05b7242323c8813330",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0176-0200.pdf",
+          "text": "text/performance-handbook/p0176-0200.txt",
+          "start": 176,
+          "end": 200,
+          "pages": 25,
+          "bytes": 586377,
+          "sha256": "dba9b5b9590dc62ed0ca6b96138720e41d85f856f8bb5d24a003954ce0739873",
+          "text_sha256": "99d4f983b0bfb8280daddd4efc428a5d56122673d4cc53a1923f8c7f0063b3c8",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0201-0225.pdf",
+          "text": "text/performance-handbook/p0201-0225.txt",
+          "start": 201,
+          "end": 225,
+          "pages": 25,
+          "bytes": 590195,
+          "sha256": "8ba4317780b1825b4984de619cdfc04e94c0cb571eda7e0c8e5d117797ab00f0",
+          "text_sha256": "699a222fedac667898dcbc64c06768f56f64c47ee6e54d895313239f541e7343",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0226-0250.pdf",
+          "text": "text/performance-handbook/p0226-0250.txt",
+          "start": 226,
+          "end": 250,
+          "pages": 25,
+          "bytes": 925760,
+          "sha256": "e8108a1581ff9f7dc5c5aafdba17b2145f01ab559afa8f4f0f8b8f634ddaa691",
+          "text_sha256": "a044200f79c735af5abc126f470f6cf97e7054803aff5800439f7e511e2f3566",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0251-0275.pdf",
+          "text": "text/performance-handbook/p0251-0275.txt",
+          "start": 251,
+          "end": 275,
+          "pages": 25,
+          "bytes": 519184,
+          "sha256": "0fc2cd005449c4c7f337000f095a3b17d30dcb933b4945dff5e2b7bfd9d020d6",
+          "text_sha256": "307b9a82735d629f9b55e4004d3572115b34f864b548e7e175820b6dec0422b3",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0276-0300.pdf",
+          "text": "text/performance-handbook/p0276-0300.txt",
+          "start": 276,
+          "end": 300,
+          "pages": 25,
+          "bytes": 506553,
+          "sha256": "c266ad08094e2b34c381b990b7a28d45be12dbca22969290390b8917af365d37",
+          "text_sha256": "83d1a51cba0002720403830343ea012c561a295e701af36085009273b913c8a1",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0301-0325.pdf",
+          "text": "text/performance-handbook/p0301-0325.txt",
+          "start": 301,
+          "end": 325,
+          "pages": 25,
+          "bytes": 775016,
+          "sha256": "bbc1711b552948f4736340f79df06478bf879e95db952fcffa5bb0811de01baa",
+          "text_sha256": "3bcfad2a317331150d255de5ecb78bc339088d075183f0bebd37224c01a4dd95",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0326-0350.pdf",
+          "text": "text/performance-handbook/p0326-0350.txt",
+          "start": 326,
+          "end": 350,
+          "pages": 25,
+          "bytes": 516406,
+          "sha256": "d3c0e9e47b8a71e764762eb23dee1230af9ab258932da244dc1183bf3b088668",
+          "text_sha256": "8b781339fb2001023d685cba64e50f8682fedeb243aa576aa950b961f89fdaab",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0351-0375.pdf",
+          "text": "text/performance-handbook/p0351-0375.txt",
+          "start": 351,
+          "end": 375,
+          "pages": 25,
+          "bytes": 188990,
+          "sha256": "3d4d642d412cf525ba0aa92ad4e88147d18c98e367c329e01e68cf04da688292",
+          "text_sha256": "1ea745113ca17c23ed2315cc16c865eb4f376adc96c2e4712d989787ff5ab985",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0376-0400.pdf",
+          "text": "text/performance-handbook/p0376-0400.txt",
+          "start": 376,
+          "end": 400,
+          "pages": 25,
+          "bytes": 141618,
+          "sha256": "6afea5731a6deb773ecfcd17417d5c2667bbef57705b211297213deb4cdb472b",
+          "text_sha256": "3e1587cb7bfdef4dc149deab90d21961ac4b430946224b5df6126f017f5d7e8d",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0401-0425.pdf",
+          "text": "text/performance-handbook/p0401-0425.txt",
+          "start": 401,
+          "end": 425,
+          "pages": 25,
+          "bytes": 135593,
+          "sha256": "c967daab3eda7572ae9dc0e3051ab5f3595941d39a1177c2cf439897d202f142",
+          "text_sha256": "42b62bef6cd2779b582b2816d2025bf6370ca8d87cc0d1c23d4fd342c4b07d12",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0426-0450.pdf",
+          "text": "text/performance-handbook/p0426-0450.txt",
+          "start": 426,
+          "end": 450,
+          "pages": 25,
+          "bytes": 368324,
+          "sha256": "694aeeca5f870f7afc2ee48f3141535fc11d57c92e4b42031ac7566d541ef2f2",
+          "text_sha256": "89933d60a0e2cd5bd741f59d7da28b2bd9bce32c5c530bee1d28eb2d9bab5c59",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0451-0475.pdf",
+          "text": "text/performance-handbook/p0451-0475.txt",
+          "start": 451,
+          "end": 475,
+          "pages": 25,
+          "bytes": 212495,
+          "sha256": "327772678974d291252614b146284d24df0992be887d2942afe3a66dc6f7233b",
+          "text_sha256": "0e64559b32aef8812f549ab496be22a88be376d2027dd1b5c84bdab44ba54f51",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0476-0500.pdf",
+          "text": "text/performance-handbook/p0476-0500.txt",
+          "start": 476,
+          "end": 500,
+          "pages": 25,
+          "bytes": 417474,
+          "sha256": "d54c81ec5d49fdf5577ba6ac151267df9c68c44007a6ee78d558ef2ec99ea3c2",
+          "text_sha256": "e15352590364ac64131c8d87076794813b590499e9aa0cea227ce6af825e9fc2",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0501-0525.pdf",
+          "text": "text/performance-handbook/p0501-0525.txt",
+          "start": 501,
+          "end": 525,
+          "pages": 25,
+          "bytes": 391614,
+          "sha256": "8f86167a77c1c36974de30b12d40712ca086d9ddce57eeb869e4becc96719d53",
+          "text_sha256": "2445a4757fb513bbe3c276f27e3bbff6276ce6c28227453cfbde02d4127c9562",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0526-0550.pdf",
+          "text": "text/performance-handbook/p0526-0550.txt",
+          "start": 526,
+          "end": 550,
+          "pages": 25,
+          "bytes": 282260,
+          "sha256": "4884068796d41b92e495a4a3280fa0bcef3d45417702f92339a9c177d70d5119",
+          "text_sha256": "76994cee7a1571e110954b603bab7cf02acaef13c48ffab7b7b2c31973fb64f7",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0551-0575.pdf",
+          "text": "text/performance-handbook/p0551-0575.txt",
+          "start": 551,
+          "end": 575,
+          "pages": 25,
+          "bytes": 476470,
+          "sha256": "1d26e63c34f55afde8377947e3971f461576c131ad6b465b4f85c1f654abd4b3",
+          "text_sha256": "62effa04b17d05571d691d3cff6ee137472d94487139dabf77bbb3ca025b5dfd",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        },
+        {
+          "file": "sources/performance-handbook/p0576-0588.pdf",
+          "text": "text/performance-handbook/p0576-0588.txt",
+          "start": 576,
+          "end": 588,
+          "pages": 13,
+          "bytes": 202819,
+          "sha256": "74615954d809e82a4671f0e8328878c037ab48b6d4b5372b93854b6f0e7a351e",
+          "text_sha256": "5a9dd5ff351d492c3eb709875d3d64825d930580fc6ee92daba3e61bf4e9150b",
+          "empty_text_source_pages": [],
+          "original_bytes_preserved": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0301-0325.pdf
+SOURCE SHA-256: bbc1711b552948f4736340f79df06478bf879e95db952fcffa5bb0811de01baa
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 301 ===
+Wheel Loaders                                      Machine Selection
+                                                     ● Bucket Fill Factors
+                                                     ● Example Problem
+
+
+
+
+Blasted Rock                                                                                               When selecting special application buckets, such as
+  Well blasted.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80-95%           multi-purpose and side dump the additional bucket weight
+  Average.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 75-90        must be deducted from recommended capacity.
+  Poor. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 60-75     Specific circumstances may involve other conditions
+Other                                                                                                    which would also affect loader capacity. Because of the
+  Rock dirt mixtures .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 100-120%                    greatly varied applications and conditions, your Cat dealer
+  Moist loam.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 100-110            should be contacted for guidance.
+  Soil, boulders, roots .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 80-100
+  Cemented materials .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 85-95                          Example problem:
+NOTE: Fill factors on wheel loaders are affected by                                                     JOB CONDITIONS
+       bucket penetration, breakout force, rack back                                                     Application               Truck loading
+       angle, bucket profile and ground engaging tools                                                   Production Required       450 metric ton (496 Tons)
+       such as bucket teeth or bolt-on replace­able cut­                                                                           per hour
+       ting edges.                                                                                        Material                 9 mm (3/8") gravel in 6 m
+                                                                                                                                   (20 ft) high stockpile
+Example:                                                                                                  Density                  1660 kg/m3 (2800 lb/yd3)
+    12 mm (1/2 in) material and 3 m3 (4 yd3) bucket.                                                     Trucks are 6-9 m (8-12 yd3) capacity and are owned by
+                                                                                                                           3
+
+    0.90 × 3 m3 = 2.75 Loose m3 delivered per cycle.                                                     three contractors. Loading is constant. Hard level surface
+    0.90 × 4  yd3 = 3.6 Loose yd3 delivered per cycle.                                                   for loader maneuvering.
+NOTE: Check the static tipping load on the specific                                                     1. PRODUCTION REQUIRED: Given
+        machine to determine if bucket load is in fact a
+        safe operating load.                                                                             2.	CYCLE TIME: Assume loader size between 910K
+Bucket Selection                                                                                             and 962H for initial choice of basic cycle.
+                                 Tons Required/Hour                                                         (Refer to Cycle Time Factors in this section)
+          Tons Required/Cycle =                                                                             Independent trucks                            .04 min
+                                     Cycles/Hour
+                                                                                                            Basic Cycle                                   .50 min
+                              Kg (Pounds)
+                             Required/Cycle = Tons Required/Cycle                                           Material                                     –.02 min
+                                              × 907 kg (2000 lb)                                            Independent trucks                           +.04 min
+                                                                                                            Constant operation                           –.02 min
+              Volume Required/Cycle  kg (Pounds) Cycle
+                                                                                                               Total Cycle                                .50 min
+                                      Material Weight      =
+                                       kg/m3 (lb/yd3)                                                      NOTE: Load and carry times not required in total cycle.
+   Always select a machine with a greater capacity than                                                    Cycles/hr                   50 min actual
+the calculated required operating capacity. For most                                                       at 83%     = 120 cycles/hr × work time
+applications, payload above recommended and exces­                                                         efficiency                  60 min per hr
+sive counterweight can hinder machine performance                                                          		                                  = 100 cycles/hr
+and reduce dynamic stability and machine life.
+   For optimum performance in fast cycling situations                                                    3.	 VOLUME REQUIRED PER CYCLE
+such as truck loading, operating loads should not exceed                                                     (Density in tons)
+the recommended capacity. To provide extra stability,                                                    	Density in this example was given. When not given,
+calcium chloride (CaCl2) ballast may be desired when                                                         refer to Tables Section to obtain an estimated density
+operating at recommended operating load, see SAE                                                             for the material being handled.
+Loader rating pages in this section.                                                                                    1660 kg/m3
+                                                                                                             Metric:                 = 1.66 ton/m3
+                                                                                                                       1000 kg/ton
+
+                                                                                                                       2800 lb/yd3
+                                                                                                            English:               = 1.4 tons/yd3
+                                                                                                                       2000 lb/ton
+
+
+
+
+20-6
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 302 ===
+Machine Selection                 Wheel Loaders
+                                                              ● Example Problem
+                                                             ● Alternative Method
+
+
+                                                                                                                             20
+
+
+   Production Rate Required                                         One half of full turn static tipping load for the
+               450 tons/hr                                       950H with a 2.9 m3 (3.75 yd3) General Purpose Bucket
+      Metric:               = 271 m3/hr                          is 5410 kg (11,925 lb). SAE criteria is s­ atisfied.
+               1.66 tons/m3
+                                                                                        ● ● ●
+
+                496 tons/hr
+      English:               = 354 yd3/hr                     An Alternative Method of Machine Selection
+                1.4 tons/yd3
+   Volume Required per Cycle                                     Another method of selecting the right Wheel Loader
+                                                              and bucket to meet production requirements is by use
+                 271 m3/hr
+      Metric:                = 2.71 m3/cycle                  of the nomographs on the following pages. The method
+               100 cycles/hr                                  is quicker and easier than the preceding example because
+                                                              it does not require as many calculations, yet the accuracy
+                  354 yd3/hr                                  is about the same within the normal limits of input data.
+      English:                 = 3.54 yd3/cycle
+                 100 cycles/hr                                   Be careful when entering and reading data from the
+                                                              nomographs because some scales increase from bottom
+4.	 DETERMINE BUCKET SIZE                                     to top, while others are the reverse. Do not be overly con­
+                                                              cerned with the precision as affected by pen­cil line width
+   BUCKET FILL FACTOR                                         or reading to the hundredth of a m3 (yd3). Remember that
+     The volume of material required per cycle has been       bucket fill factor, material density and cycle time are at
+   determined. Because of varying material fill factors,      best close estimates.
+   buckets do not always carry their rated load, a larger
+   capacity bucket may be needed to carry the volume          Example problem:
+   required. For fill factors, refer to Bucket Fill Factor       A Wheel Loader must produce 230 m3 (300 yd3) per
+   Chart in this section.                                     hour in a truck loading application. Estimated cycle
+                                                              time is .6 minutes, working 45 minutes per hour. Bucket
+   Rated Bucket Capacity Required (Heaped)                    fill factor is 95% and material density is 1780 kg/m3
+    2.71 m3/cycle                                             (3000 lb/yd3).
+                    = 2.85 m3
+   0.95 fill factor                                              Determine bucket size and machine model.
+                                                              Solution:
+    3.54 yd3/cycle                                               At full efficiency, the Wheel Loader will cycle 100 times
+                    = 3.73 yd3
+   0.95 fill factor                                           per hour. Since only an average of 45 minutes are avail­
+   A 2.9 m3 (3.75 yd3) bucket would provide the required      able, only 75 cycles will be completed.
+   capacity.                                                     Starting on Scale A at 75 cycles per hour draw a straight
+                                                              line intersecting 230 m3/hr (300 yd3/hr) on Scale B and
+5.	 MACHINE SELECTION                                         extending it on to Scale C giving 3 m3/cycle (4 yd3/cycle)
+       The bucket size required and material density          required payload. Follow solution steps 1-10.
+    lead to the choice of a 950H with a 2.9 m3 (3.75 yd3)
+    General Purpose Bucket (see bucket selection guide
+    pages which follow.)
+       Finally, SAE payload criteria must be satisfied as
+    follows:
+       The required operating capacity must not exceed
+    one-half of the full turn static tipping load of the
+    loader as equipped with a specific bucket.
+       The required operating capacity of the machine
+    is determined by the volume the machine will carry
+    per load times the density.
+		 2.9 m3 × 1660 kg/m3 = 4814 kg
+ 		 (3.75 yd3 × 2800 lb/yd3 = 10,500 lb)
+
+
+
+                                                                                                                    20-7
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 303 ===
+Wheel Loaders                Production and Machine Selection Nomograph
+                               ● To find required bucket payload and bucket size
+
+
+
+
+ 1.	 Enter required hourly production on Scale B 230 m3/hr      4.	Enter estimated bucket fill factor on Scale D (0.95).
+     (300 yd3/hr).
+                                                                5.	Connect C through Scale D to E for required bucket
+ 2.	 Enter cycles per hour on Scale A (60 ÷ .6 = 100 ×              size 3 m3 (4 yd3).
+     .75 = 75 cycles/hr).
+                                                                6.	 Transfer cycles per hour Scale A and required pay­
+ 3.	 Connect A through B to C. This shows a required                load Scale C to the following page.
+     pay­load of 3 m3 (4 yd3) per cycle.
+
+
+   A                        B                            C                           D                        E
+ Cycles                   Hourly                     Required                    Bucket Fill               Required
+per hour                Production                Payload Volume                   Factor                   Bucket
+                         Volume                                                                                  m3    yd3
+                                                   m3/cycle yd3/cycle
+
+                       m3/hr    yd3/hr
+
+
+
+
+ 20-8
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 304 ===
+Production and Machine Selection Nomograph                              Wheel Loaders
+                             ● To find payload weight and tons per hour
+
+
+
+                                                                                                                              20
+7.	 Enter material density on Scale F 1780 kg/m               3
+                                                                  		 Operating capacity for the 950H with 3.1 m           3
+
+    (3000 lb/yd3).                                                   (4 yd3) bucket is dependent on material density and
+                                                                     bucket capacity (see bucket selection pages that
+8.	 Connect C through Scale F to Scale G to give pay­                follow).
+    load weight per cycle 5300 kg (11,500 lb).
+                                                                  10.	 For hourly tonnage, draw a straight line from
+9.	 Compare Scale G quantity 5300 kg (11,500 lb) with                  Scale G through Scale A to Scale I 400 metric tons
+    recommended machine working range listed on the                    (450 U.S. tons).
+    following bucket selection pages.
+
+        C                    F                  G                       A                                   I
+     Required              Material          Bucket                 Cycles/hr                           Tons per
+     Payload               Density           Payload                                                      Hour
+     Volume                                 Weight per                                              Metric   U.S.
+                                              cycle                                                 Tons     Short Tons
+
+                                          kg/cycle lb/cycle
+  m3/cycle   yd3/cycle
+
+
+
+
+                         kg/m3   lb/yd3
+
+
+
+
+                                                                                                                    20-9
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 305 ===
+Wheel Loaders                 Machine/Attachment Selection
+
+
+
+
+MACHINE/ATTACHMENT SELECTION                                   ● What kinds of work are      ... in site preparation?
+   The Integrated Toolcarrier’s versatility and the wide         performed: (e.g., dozing, ... below ground level?
+range of attachments makes the “single machine fleet”            loading, stacking, digging, ... at ground level?
+concept highly attractive to an increasing number of users.      sweeping, handling special ... above ground level?
+   A Job Analysis helps identify applications, work              materials, etc.)            ... in landscaping?
+require­ments, material handling parameters and the                                          ... in maintenance
+cur­rent working method. Thoroughly research each                                                equipment yard?
+ele­ment in the following chart, the gathered infor­ma­                                          etc.
+tion will help select the proper Integrated Tool­carrier       ● What work is done manually that could be done with
+System.                                                          an Integrated Toolcarrier?
+                                                               ● What are the work
+               JOB ANALYSIS METHOD                               conditions?:                ... underfoot?
+                                                                                             ... grades?
+                         WORK
+                                                                                             ... tight quarters?
+                      PROCESSES?                                                             ... time restraints?
+                                                                                             ... climate?
+                                                                                                 etc.
+  MATERIALS            CURRENT            UTILIZATION &
+  HANDLED?            EQUIPMENT?           SEQUENCE?           Materials Handled:
+                                                                 Examining the materials handled will assist in deter­
+                                             PRINCIPAL         mining necessary attachments. Sizes and weights of
+                                               WORK            mate­rial(s) handled will indicate the appropriate Inte­
+                                                               grated Toolcarrier model by defining lift and reach
+                                                               require­ments. Concentrate on the material flow at the
+                                                               job site — the point of origin as well as the final desti­
+● APPROPRIATE INTEGRATED TOOLCARRIER                           na­tion for the various ­materials will undoubtedly have
+  MODEL SIZE                                                   material handling requirements.
+                                                               ● What kinds of materials are handled (e.g. snow, earth,
+● NECESSARY ATTACHMENTS                                          bricks, chemicals, pipe, logs, etc.)
+                                                               ● What form are the materials handled in: bulk?
+Work Processes:
+                                                                                                             palletized?
+  The first step in the job analysis is to identify all work   ● How much does each weigh?
+processes from start to finish. Key questions outlined         ● What are the dimensions of each?
+below will begin to indicate the required attachments          ● What are the... movement
+and potential Integrated Toolcarrier applications.               parameters:                  ... dozed what distance?
+                                                                                              ... load and carried what
+                                                                                                  distance?
+                                                                                              ... lifted how high?
+                                                                                              ... placed below ground
+                                                                                                  level?
+                                                                                              ... placed what distance
+                                                                                                  from machine?
+
+
+
+
+20-10
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 306 ===
+Machine/Attachment Selection                    Wheel Loaders
+
+
+
+                                                                                                                             20
+Current Equipment:                                             Principal Work:
+  If determining material weight is not possible, much           Utilization and sequence will indicate the principal
+information can be determined from looking at the              work the Integrated Toolcarrier will do, further assist­
+current equipment fleet. This will suggest required per­       ing in attachment and model sizing and selection. The
+for­mance capabilities such as lifting capacity.               basic machine/tool package should be able to handle
+● Machines currently doing the work (e.g. wheel load­          the toughest, most frequently performed jobs for the
+  ers, lift trucks, sweepers, light capacity cranes, snow      primary application. Secondary tools can have a little
+  plows, etc.)?                                                more “give and take” in their performance capabilities
+● What special (maximum) capabilities does each machine        than the primary tool.
+  have (production, lift height, load capacity, width/height   ● What work can be accomplished by an Integrated
+  dimensions, reach, turning radius, travel speed, etc.)?        Toolcarrier?
+● To what extent are each machine’s maximum capa­              ● What work will take up the majority of Integrated
+  bilities used?                                                 Tool­carrier time?
+● What are owning/operating costs of each?                     ● What work will use the maximum static tipping capa­
+                                                                 bilities of the Integrated Toolcarrier?
+Utilization & Sequence:                                        ● What high cost (owning and operating) and/or low
+   Utilization implies how often the current machines            utilization machines can be replaced by an Inte­grated
+are used and what will be the utilization factors for the        Toolcarrier?
+Integrated Toolcarrier with each individual attach­ment.
+Sequence implies what order these tasks are accom­plished      Additional Tips for Tool Sizing and Selection
+in and if two or more machines operate at the same time.         Tool selection will principally concern hydraulic power
+This portion of the job analysis should assist in com­         requirements and static tipping load considerations.
+par­ing economies of various systems. Other important          The standard tools offered by Caterpillar can be used on
+con­sid­erations may be the number of operators needed,        any Integrated Toolcarrier machine with little difficulty.
+storage space, reduced maintenance requirements, etc.          However, tools such as the hydraulic broom, claws, blades
+● How often (what percent) is each machine used?               and asphalt cutter will require additional consideration
+● How often and when does it sit idle?                         before proposing a system to the customer.
+● How often and when do two or more machines work
+   at the same time?                                                                 Fork Rating
+● Can the operation be changed to permit single machine           ISO 14397-1 states that articulated wheel loaders
+   operation?                                                  require the following method for calculating rated load
+                                                               on forks. 50% of the fully articulated tipping load when
+                                                               the lift arms and fork are level, and the load is applied
+                                                               at a point on the longitudinal center line of the machine
+                                                               at half the distance from the most rearward point of
+                                                               the load opening to the tip of the fork, this will be the
+                                                               rated load for that machine in its present configuration.
+                                                               As the machine configuration changes, so does the
+                                                               rated load. EN474-3 states a load center dependent on
+                                                               the value of the load itself. Please refer to that standard
+                                                               for the load center location table. Always refer to the
+                                                               manufacturer of the fork to deter­mine the load rating
+                                                               for the fork tine.
+
+
+
+
+                                                                                                                   20-11
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 307 ===
+Wheel Loaders               Machine/Attachment Selection
+
+
+
+
+                    Bucket Rating                            Pallet Fork
+   Bucket capacity, SAE J742 FEB85 (nominally heaped)           The pallet fork will fulfill many material handling
+                                                             needs. A modified Class 3 fork carriage provides visi-
+   ISO 14397-1 states that articulated wheel loaders         bility to the tines for precision pallet work. This car-
+require the following method for calculating rated load,     riage with non-standard spacing accepts many Class 3
+also known as the maximum payload, with buckets.             lift truck attachments.
+50% of the fully articulated tipping load when the lift         Pallet fork rated operating loads are based on the
+arms are level and bucket fully racked back, and the         following:
+load is applied at a point on the longitudinal center line      SAE J1197 FEB91: 50% of the full turn static tip­
+of the machine and acting through the bucket vol­ume         ping load or the hydraulic/structural limitations.
+centroid, this will be the rated load for that machine in       CEN 474-3 (European standard): 60% of the full
+its present configuration. As the machine configuration      static tipping load on rough terrain or the hydraulic/
+changes, so does the rated load. Please consult your         struc­tural limitations. 80% of the full turn static tipping
+Cat dealer to ensure proper machine configuration selec­     load on firm, level ground or the structural/hydraulic
+tion in conformance to Caterpillar payload policy.           limitation. Other local, regional or international guide­
+   The maximum material density would be ­deter­mined        lines may also apply.
+by dividing the payload by the bucket capacity. If the          If operation is on rough ground these criteria may
+actual material density exceeds the ­recommended mate­       need modification. In this instance, the size and rating
+rial density, the process should be repeated to select the   of existing equipment should be considered.
+prop­erly sized bucket.                                         Sizing for pallet work generally consists of answering
+   A similar procedure would be used with the forks and      the following questions.
+material handling arm to determine maximum rec­om­           1.	 What are the average loaded pallet dimensions?
+mended lifting capacity and/or required IT model size.       2.	 Lift Capacity — what capacity is required to lift and
+                                                                 move the average pallet load? The maximum pallet
+                                                                 load?
+                                                             3.	 Lift Height — can the machine reach the top level
+                                                                 of the standard pallet stack? What are the maxi­­mum
+                                                                 reach, lift and height requirements?
+                                                             4.	 Maneuverability — can the machine work around
+                                                                 the current aisle configuration? In the stacking aisles?
+                                                                 Main aisles? Intersecting aisles? Are 90° turns required
+                                                                 in any aisle for material placement?
+                                                             5.	 Length — what tine length is required to fit the com­
+                                                                 monly used pallets? (1219 mm [4'0"] tines are standard
+                                                                 length for most palletized material.)
+                                                             6.	 Any machine height restrictions?
+                                                             7.	 Any special fork configurations required?
+                                                                Lift capacity, lift height, aisle configuration and tine
+                                                             length are the most important considerations in recom­
+                                                             mending a pallet handling machine.
+
+
+
+
+20-12
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 308 ===
+Machine/Attachment Selection                                           Wheel Loaders
+
+
+
+                                                                                                                                                                20
+
+Example problem:                                                                         Current Equipment
+                                                                                                                                                  Utilization
+  The following example applies the job analysis method     Cat 225  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 90%
+to a work situation.                                        Champ CB607 lift truck,
+                                                             3175 kg (7000 lb) capacity  .  .  .  .  .  .  .  .  .  .  .  . 15%
+Sewer & Water Contractor                                    Deere 444 with 1.1 m3 (1.5 yd3)
+  Sets water lines (152 mm-610 mm [6 in-24 in] iron          G.P. bucket .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 60%
+pipe), sanitary sewer lines (152 mm-457 mm [6 in-18 in]     Rosco D-50 sweeper .  .  .  .  .  .  .  .  .  .  .  .  . one half hour/day
+PVC) and storm sewer lines (610 mm-1067 mm [24 in-          Rammax 1361 kg (3000 lb) self-propelled
+42 in] concrete pipe) primarily in urban areas ... often-    trench compactor .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25%
+times across or down existing streets.
+                                                            Machine Sizing
+Materials                                                    1372 mm (54 in) Forks
+Loam/Clay:       1600 kg/m3 (2700 lb/yd3) loose density
+Bedding                                                                          Operating Load at Full Turn*
+ (Gravel):     1900 kg/m3 (3200 lb/yd3) loose density       Model                                       kg                  lb
+Water Pipe:    610 mm (24 in) push-on joint ductile         926M Standard                              2819                6214
+                                                            930M Standard                              3195                7043
+               iron, 6.1 m (20 ft) sections, 1309 kg
+                                                            938M Standard                              3846                8478
+               (2885 lb) 215 kg/m (144.3 lb/ft) × 6.1 m
+               (20 ft).                                     Water pipes:
+Storm Sewer:   1067 mm (42 in), Wall B, concrete pipe,      1309 kg (2885 lb)
+               1.5 m (5 ft) sections, 1556 kg (3430 lb)       926M Standard ... 1 pipe — no problem
+               1021 kg/m (686 lb/ft × 5 ft).                  930M ... 1 pipe — no problem
+Manhole Boxes: 1361 kg (3000 lb)                              938M ... 1 pipe — no problem
+WHAT INTEGRATED TOOLCARRIER MODEL                           Storm sewer pipes:
+SHOULD BE RECOMMENDED?                                      1556 kg (3430 lb)
+                                                              926M Standard ... 1 pipe — no problem
+WHICH ATTACHMENTS?                                            930M ... 1 pipe — no problem
+                           Integrated Toolcarrier             938M ... 1 pipe — no problem
+Work Processes            Attachment Possibilities
+Bundled PVC and                Forks/Material
+ individual concrete/iron      Handling Arm
+ pipe-loaded/unloaded
+ (yardsite) and strung
+ along trench
+Unload, handle, set        Material Handling Arm
+ manhole boxes
+Excess excavated material          Bucket
+ truck loaded
+Bedding material handled/          Bucket
+ placed
+Trench backfilled               Bucket/Blade
+Trench compaction             Compactor Wheel
+Rough and finish grading        Bucket/Blade
+Street cleanup                 Bucket/Broom
+Pavement removal             Rebar Snips/Asphalt
+                                   Cutter
+
+
+
+
+                                                                                                                                                   20-13
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 309 ===
+Wheel Loaders                Machine/Attachment Selection
+
+
+
+
+Performance Series Buckets                                    Loads Easy
+                                                                 Proven design characteristics improve material flow
+                                                              into the bucket and improve material retention during
+                                                              transport. In some situations, the number of passes required
+                                                              to fill a truck is reduced. Performance Series Buckets
+                                                              are designed for optimum performance on the machine.
+                                                              Profile changes (over current buckets) improve load­
+                                                              abil­ity and make Performance Series Buckets machine-
+                                                              specific.
+                                                              Fuel Efficient
+                                                                Performance Series Buckets have a longer floor — easily
+                                                              digging through the pile. Less time in the pile equals less
+                                                              fuel consumed.
+                                                              Higher Fill Factors
+                                                                When comparing buckets of the same rated capacity,
+                                                              Performance Series Buckets have higher fill factors —
+   Performance Series Buckets utilize a system-based          up to 115%.
+approach to balance bucket shape against the machine’s
+linkage, weight, lift and tilt capacities. The result is a    Move More Material with the Same Rated Capacity
+bucket optimized for performance and productivity,               More material can be moved with a Performance Series
+and intended for use in production applications. Perfor­      Bucket compared to a same-size rated capacity current
+mance Series Buckets for Wheel Loaders are designed           bucket. Likewise, a smaller Performance Series Bucket
+for use in truck loading, stockpiling and load-and-carry      can be utilized to move the same amount of material as a
+applications. Per­formance is improved over current buckets   larger rated capacity current bucket.
+in these production applications with materials such as
+sand, gravel and aggregates.                                  Carries More
+                                                              Productive
+                                                                 Bucket shape and strike plane angle are designed for
+                                                              material retention and consistent load sizes. More mate­
+                                                              rial loads into the bucket and is carried all the way to the
+                                                              truck, hopper or stockpile.
+                                                                 A spill guard diverts overflow away from hinge pins,
+                                                              lift arms, hydraulic cylinders and tilt sensors help­ing to
+                                                              protect these areas of the machine.
+
+
+
+
+20-14
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 310 ===
+Production Estimating Table                                  Wheel Loaders
+                                                                           ● m3 or yd3/60 min. hour
+
+
+
+                                                                                                                                                                     20
+
+Bucket Size
+(m3 or yd3)         1.0     1.5    2.0      2.5    3.0    3.5     4.0      4.5      5.0     5.5    6.0   6.5    7.0    7.5     8.0      8.5     9.0    9.5    10.0
+Cycle Cycles
+Time Per Hr                                                     Unshaded area indicates average production.
+0.35     171
+0.40     150        150     225    330     375     450    525
+0.45     133        135     200    268     332     400    466     530    600        665     730    800   865
+0.50     120        120     180    240     300     360    420     480    540        600     660    720   780    840    900     960   1003 1080 1140 1200
+0.55     109        109     164    218     272     328    382     436    490        545     600    655   705    765    820     870   925        980    1008 1090
+0.60     100        100     150    200     250     300    350     400    450        500     550    600   650    700    750     800   850        900    950   1000
+0.65     92         92      138    184     230     276    322     368    416        460     505    555   600    645    690     735   780        830    875    920
+0.70     86                                                       342    386        430     474    515   560    600    645     690   730        775    815    860
+0.75     80                                                                                                     560    600     640   680        720    760    800
+
+
+
+  Bucket Size
+  (m3 or yd3)             11.0    12.0     13.0    14.0    15.0     16.0         17.0     18.0    19.0   20.0   21.0    22.0     23.0         24.0    25.0   26.0
+ Cycle    Cycles
+ Time     Per Hr
+ 0.35      171                                                    Unshaded area indicates average production.
+ 0.40      150
+ 0.45      133
+ 0.50      120            1320    1440
+ 0.55      109            1200    1310    1420     1520   1635     1740      1850         1960    2070   2180   2285    2395     2505         2615    2725   2830
+ 0.60      100            1100    1200    1300     1400   1500     1600      1700         1800    1900   2000   2100    2200     2300         2400    2500   2600
+ 0.65          92         1010    1105     1195    1285   1380     1470      1560         1655    1745   1840   1930    2020     2115         2205    2300   2390
+ 0.70          86         945     1030    1120     1200   1290     1375      1460         1545    1630   1720   1805    1890     1975         2060    2150   2235
+ 0.75          80         880     960     1040     1120   1200     1280      1360         1440    1520   1600   1680    1760     1840         1920    2000   2080
+ 0.80          75                          975     1050    1125    1200      1275         1350    1425   1500   1575    1650     1725         1800    1875   1950
+
+
+                                         Job Efficiency                      Efficiency
+                                         Worktime/Hr                           Factor                           Bucket Load Factor
+                                           60 Min Hr                              100%                          Bucket Size  1.00
+                                              55                                   91%                                           0.95
+                                              50                                   83%                                           0.90
+                                              45                                   75%                                           0.85
+                                              40                                   69%                                           0.80
+                                              —                                     —                                            0.75
+
+
+
+
+                                                                                                                                                             20-15
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 311 ===
+Wheel Loaders                    Production Estimating Table
+                                 ● 60 min hour   ● Shot Rock
+                                 ● Metric Tons
+
+
+
+
+Metric Tons ● 1600 kg Lm3 (1.6 t) density
+ Bucket Size m3    1.0    1.5     2.0    2.5    3.0    3.5    4.0    4.5    5.0    5.5    6.0    6.5    7.0    7.5    8.0    8.5    9.0    9.5
+ Cycle    Cycles
+                                                        Unshaded area indicates average production.
+ Time     Per Hr
+  0.40     150     240    360     480    600    720
+  0.45     133     213    319     426    532    638    745    851    958    1064 1170
+  0.50     120     192    288     384    480    576    672    768    864    960    1056 1152 1248 1344 1440 1536 1632 1730 1825
+  0.55     109     174    262     349    436    523    610    698    785    872    959    1046 1134 1221 1308 1395 1482 1570 1655
+  0.60     100     160    240     320    400    480    560    640    720    800    880    960    1040 1120 1200 1280 1360 1440 1520
+ 0.65       92     147    221     294    368    442    515    589    662    736    810    883    957    1030 1104 1178 1251 1325 1400
+ 0.70       86                                         482    550    619    688    757    826    894    963    1032 1101 1170 1238 1310
+ 0.75       80                                                                            768    832    896    960    1024 1088 1150 1215
+ Bucket Payload
+                   1.6    2.4     3.2    4.0    4.8    5.6    6.4    7.2    8.0    8.8    9.6    10.4   11.2   12.0   12.8   13.6   14.4   15.2
+  Metric (Tons)
+
+
+
+
+ Bucket Size m 3   10.0   11.0    12.0   13.0   14.0   15.0   16.0   17.0   18.0   19.0   20.0
+ Cycle    Cycles
+ Time     Per Hr
+  0.40     150                   Unshaded area indicates average production.
+  0.45     133
+  0.50     120
+  0.55     109     1744 1918 2092 2267 2441 2616 2790 2964 3139 3313 3488
+  0.60     100     1600 1760 1920 2080 2240 2400 2560 2720 2880 3040 3200
+  0.65      92     1472 1619 1766 1913 2060 2208 2355 2502 2649 2796 2944
+  0.70      86     1376 1513 1651 1788 1926 2064 2201 2339 2476 2614 2752
+  0.75      80     1280 1408 1536 1664 1792 1920 2048 2176 2304 2432 2560
+  0.80      75     1200 1320 1440 1560 1680 1800 1920 2040 2160 2280 2400
+ Bucket Payload
+                   16.0   17.6    19.2   20.8   22.4   24.0   25.6   27.2   28.8   30.4   32.0
+  Metric (Tons)
+
+
+
+
+20-16
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 312 ===
+Production Estimating Table                             Wheel Loaders
+                                                             ● Shot Rock   ● 60 min hour
+                                                                                            ● U.S. Tons
+
+
+                                                                                                                                                   20
+
+U.S. Tons ● 2700 lb/LCY (1.35 T) density
+Bucket Size yd3   1.0   1.5   2.0    2.5   3.0   3.5      4.0     4.5   5.0   5.5    6.0     6.5   7.0    7.5    8.0     8.5   9.0   9.5    10.0
+Cycle   Cycles
+                                                        Unshaded area indicates average production.
+Time    Per Hr
+ 0.40    150      203   330   420    510   615   705      810
+ 0.45    133      180   293   360    454   545   625      720    810    905   985    1080 1170
+ 0.50    120      162   254   324    408   492   565      650    730    815   890    970    1060 1140 1200 1300 1380 1470 1540 1620
+ 0.55    109      147   240   294    370   448   515      590    665    740   805    885    960    1030 1090 1180 1250 1330 1400 1740
+ 0.60    100      135   220   270    340   410   470      540    610    680   740    810    880    950 1000 1080 1150 1220 1280 1350
+ 0.65     92      124   200   250    314   380   435      500    560    625   680    750    810    875    920    985    1060 1120 1180 1250
+ 0.70     86                                                     525    585   635    695    755    815    860    930     990   1050 1100 1160
+ 0.75     80                                                                                       760    800    865     920   975   1030 1080
+Bucket Payload
+               1.35     2.2   2.7    3.4   4.1   4.7      5.4     6.1   6.8   7.4    8.1     8.8   9.5    10.0   10.8   11.5   12.2 12.8    13.5
+    (Tons)
+
+
+
+
+Bucket Size yd3 11.0    12.0 13.0 14.0 15.0 16.0          17.0   18.0   19.0 20.0    21.0   22.0 23.0 24.0 25.0         26.0
+Cycle   Cycles
+Time    Per Hr
+                                           Unshaded area indicates average production.
+ 0.40    150
+ 0.45    133
+ 0.50    120      1782 1945
+ 0.55    109      1620 1765 1905 2060 2200 2350 2495 2645 2790 2940 3080 3235 3375 3530 3670 3825
+ 0.60    100      1485 1620 1750 1890 2020 2160 2290 2430 2560 2700 2830 2970 3100 3240 3370 3510
+ 0.65     92      1365 1490 1610 1735 1855 1985 2105 2235 2355 2480 2600 2730 2850 2980 3100 3225
+ 0.70     86      1275 1390 1505 1625 1735 1855 1965 2085 2200 2320 2430 2550 2665 2785 2895 3015
+ 0.75     80      1190 1295 1400 1510 1615 1725 1830 1940 2045 2160 2260 2375 2480 2590 2695 2805
+ 0.80     75                  1310 1415 1515 1620 1715 1820 1920 2025 2120 2225 2325 2430 2525 2630
+Bucket Payload
+               14.9 16.4      17.5   18.9 20.2   21.6    22.9 24.3 25.6       27.0   28.3 29.7     31.0   32.4 33.7     35.1
+    (Tons)
+
+
+
+
+                                                                                                                                           20-17
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 313 ===
+Wheel Loaders                 Fusion Coupler System
+
+
+
+
+FUSION COUPLER SYSTEM                                           Visibility
+   Caterpillar is breaking new ground with the Fusion              A new, open coupler frame design opens sight lines
+Coupler System. Caterpillar engineers designed this new         from the operator’s seat, making it easier than ever before
+system to exceed the performance of any other Cat or            to engage and disengage attachments with certainty.
+competitive coupler solution in the marketplace. This              Offset tines and other design changes to Fusion Pallet
+coupler system is a factory- or field-installed option for      Forks, working in conjunction with the Fusion Coupler,
+Cat Loaders from 924K through 972. Fusion offers ben­           increase visibility substantially at ground level and truck
+efits in four main categories:                                  bed height when compared to tradi­tional coupler and
+                                                                fork combinations.
+Performance
+                                                                Flexibility/Compatibility
+   This new interface provides coupler flexi­bility with
+performance virtually identical to pin-on.                         With the Fusion Coupler system, Caterpillar customers
+   Imagine lifting a hundred-pound box with your arms           get one common interface. This unique, ­single interface
+fully extended. Now, imagine lifting that same load close       eliminates the need for many different c­ ouplers across the
+to your body. That’s the genius of Fusion: designed to          entire range of Cat Small and Medium Wheel Loaders.
+integrate the attachment and the machine by pulling the         This expanded machine compatibility not only allows one
+coupler and tool closer to the wheel loader. As a result, the   machine to pick up a range of attachments, but also for
+center of gravity is moved inward, towards the machine.         one attachment to be used by a host of different machines.
+This translates to increased lifting ability when compared      Realize the flexibility and opportunity afforded your
+to machines equipped with competing coupler systems.            rental operation, or the improvements to machine and
+                                                                attachment management on your customers’ job sites.
+Durability                                                         Fusion is supported by a full line of attachments. Just
+   The advanced wedging mechanism of the Fusion                 about any attachment available for pin-on is also avail­
+Coupler creates a tight, rattle-free fit. This new lock up      able, or can be converted, to work with Fusion. For com­
+system eliminates play and wear — resulting in a long           plete information on Fusion attachments available for
+service life.                                                   Cat Loaders 924 through 972, consult Fusion Product
+   Wedges pull the attachment tight to the machine in           Bulletin GEJQ0222.
+two directions — in and down. Constant hydraulic pres­
+sure on the coupler wedges compensate for wear, assur­
+ing a tight fit throughout the life of the coupler. Tight fit
+gives better tool control and increased productivity. Plus,
+coupler durability is substantially increased over tradi­
+tional couplers.
+
+
+
+
+20-18
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 314 ===
+WHEEL TRACTOR-SCRAPERS
+                                                                                                                                                                                                      21
+
+
+
+
+CONTENTS
+WHEEL TRACTOR-SCRAPERS
+Specifications:                                                                                             Use of Rimpull-Speed-Gradeability Curves .  .  .  .  . 21-9
+  Single Engine Open Bowl .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-2                         Fixed Times for Scrapers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-11
+  Optional Push-Pull .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-2               Use of Retarder Curves .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-11
+  Twin Engine Open Bowl  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-3                       Curves/Charts:
+  Optional Push-Pull .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-3                 621K Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-13
+  Coal Bowl .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-4     623K Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-15
+K Series Features and Benefits .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-5                            627K Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-17
+Material Application Guide .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-7                          631K Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-19
+Push-Load TTT Match  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-7                       637K Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-21
+Cushion Hitch .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-8      657G Rimpull, Retarding .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-23
+Wheel Tractor-Scraper Anatomy .  .  .  .  .  .  .  .  .  .  .  .  .  . 21-8
+
+
+
+
+                                                                                                                                                                                           21-1
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 315 ===
+Wheel Tractor-Scrapers               Specifications
+                                     ● Single Engine Open Bowl
+                                     ● Optional Push-Pull
+
+
+
+
+Single Engine Open Bowl
+  The Open Bowl Wheel Tractor-Scraper is available as a self-loading, 631K push pull or push-loaded hauling system
+with a broad material appetite. The broad material appe­tite allows the Open Bowl Wheel Tractor-Scraper to be used in
+general construction, heavy construction, mining, and waste applications.
+Open Bowl Advantages:                                        Single Engine Advantages
+● Quick load/unload                                          (Compared to Tandem Engine):
+● Spread evenly on-the-go                                    ● Lower fuel usage
+● Broad material appetite                                    ● Lower gross vehicle weight
+● Aids in compaction                                         ● Loads quickly with the aid of a Track-Type Tractor and
+● Varying material conditions                                  hauls to fill carrying minimum machine weight
+● High production
+
+
+
+
+21-2
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 316 ===
+Specifications            Wheel Tractor-Scrapers
+                                           ● Twin Engine Open Bowl
+                                                   ● Optional Push-Pull
+
+
+
+
+Twin Engine Open Bowl
+  The Open Bowl Wheel Tractor-Scraper is available as a self-loading, push-loaded, or push-pulled hauling system
+with a broad material appetite. The broad material appetite allows the Open Bowl Wheel Tractor-Scraper to be used in   21
+general construction, heavy construction, mining, and waste applications.
+
+Open Bowl Advantages:                                        Twin Engine Advantages
+● Quick load/unload                                          (Compared to Single Engine):
+● Spread evenly on-the-go                                    ● More power for loading, traveling up grades, or over
+● Broad material appetite                                      fill area
+● Aids in compaction                                         ● Faster cycle times
+● High Production                                            ● High rolling resistance applications
+● Varying material conditions                                ● Variable site conditions
+● High production                                            ● Poor underfoot conditions
+                                                             ● Steep grades
+                                                             ● Can be self-loaded, push loaded with the aid of a
+                                                               Track-Type Tractor, or push-pulled
+
+
+
+
+                                                                                                               21-3
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 317 ===
+Wheel Tractor-Scrapers                 Specifications
+                                       ● Coal Bowl
+
+
+
+
+Coal Bowl
+  Coal Bowl Wheel Tractor-Scrapers are typically used for building and maintaining coal stockpiles and hauling coal to
+the supply system at coal power plants. The self-loading capability, large capacity, coal pile compaction, and high
+speed of Coal Bowl Wheel Tractor-Scrapers make them the tool of choice for moving coal both short and long dis-
+tances. Coal Bowl Wheel Tractor-Scrapers are available in the 637K and 657 tandem engine models.
+
+Coal Bowl Advantages:
+● Load hoppers
+● Manage coal stockpiles
+● Compaction reduces risk of spontaneous combustion
+  in coal stockpile
+● Exclusively designed large capacity coal bowls
+
+Notes:
+● The 637K Coal Scraper is 736 mm (29.0") longer, the
+  bowl sides are 476 mm (18.7") taller, and the apron is
+  499 mm (19.6") taller than its earthmoving counterpart.
+● The 657 Coal Scraper is 1072 mm (42.2") longer, the
+  bowl sides are 1010 mm (39.8") taller, the apron is
+  677 mm (26.7") taller, and the ejector is 944 mm (37.2")
+  taller than its earthmoving counterpart.
+
+
+
+
+21-4
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 318 ===
+K Series Features and Benefits                 Wheel Tractor-Scrapers
+
+
+
+
+K SERIES FEATURES AND BENEFITS
+                                                                                                                            21
+
+
+
+
+● Tractor Serviceability Improvement — The filter bank        ● Advanced Cushion Hitch — With similar technology as
+  located at the rear of the engine compartment has under­      the Cat Advanced Ride Management seat suspension,
+  gone improvements for serviceability by raising the           this software allows the cushion hitch to prevent end
+  filter bank up for easier access.                             stroke by having the ability to predict end stroke events
+                                                                and manage the rate of dampening. The desired result
+● Engine Over Speed Protection — In the event of an
+                                                                is improved hitch repair, reduced maintenance and
+  engine over speed situation, the compression brake            improved operator ride in rough conditions.
+  will automatically engage with no operator input. The
+  machine determines the over speed condition based           ● High Pressure Steering — The K Series steering s
+                                                                                                               ­ ystem
+  on rate of acceleration and applies compression brake         design requires significantly less steering effort. The
+  automatically.                                                reduced steering effort allows for decreased oper­ator
+                                                                fatigue and a more efficient operator resulting in possi­
+● Fuel Economy Mode — Fuel Economy Mode is a two
+                                                                ble higher rates of production late in the work shift.
+  part feature when selected, the first part of the feature
+  lowers the transmission shift points allowing shifting      ● Sequence Assist (Optional Attachment) — This option
+  to take place at lower rpms to aid in fuel savings. The       uses cylinder position sensors to automate bowl, apron
+  second part of the Fuel Economy Mode allows the               and further implement controls throughout the four core
+  machine when operated at engine rpms less than full           work cycles: Dig, Haul, Unload and Return. When uti­
+  throttle to automatically vary the power distribution         lized this can reduce up to 14 individual operator com­
+  between the tractor and the scraper, allowing the             mands per cycle. Sequence Assist simplifies control over
+  machine to utilize the more efficient tractor power           the implements, reduces joystick usage, automatically
+  train vs. the full time torque converter drive scraper        controls cushion hitch, transmission hold and ejector.
+  power train.
+                                                              ● Load Assist (Optional Attachment) — Is designed
+                                                                to help shorten the learning curve of inexperienced
+                                                                operators to ensure consistency and faster loading of
+                                                                material while reducing effort of the operator. Based on
+                                                                the speed of the machine, Load Assist automatically
+                                                                adjusts the cutting edge height to manage wheel slip
+                                                                and to ensure consistent and efficient loading in bulk
+                                                                earthmoving applications.
+
+
+
+
+                                                                                                                   21-5
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 319 ===
+Wheel Tractor-Scrapers                   K Series Features and Benefits
+
+
+
+
+● Cat Grade Control (Optional Attachment) — Intel­li­
+  gently ensures the machine does not cut below grade in
+  the cut area or over fill in the fill area – avoiding rework
+  and moving unnecessary material.
+● Payload Estimator (Optional Attachment) — The
+  Pay­load Estimator will calculate the payload of the
+  machine in tonnes or tons by measuring the bowl lift
+  cylinder pressures at the beginning of the loaded haul
+  segment. This feature works best when using Sequence
+  Assist. Using Payload Estimator during testing has
+  achieved better than 95% accuracy when compared
+                                                                 ● Cab Improved — The interior of the K Series cabs
+  to actual scale weights. The Payload Estimator feature
+  comes automatically when a machine is ordered with               has improved the operator comfort and visibility by
+  Sequence Assist.                                                 redesigning the dash area and key pad placement.
+                                                                 ● Machine Speed Limit — This feature is designed to
+                                                                   take the place of top gear selection. If the machine
+                                                                   top speed needs to be limited the operator can select
+                                                                   the top speed through the display or the top speed
+                                                                   can be set in ET. This will allow the machine to find
+                                                                   the correct gear that works best for the engine and
+                                                                   transmission. Allowing the engine and transmission
+                                                                   to select the correct gear to pull the load in most cases
+                                                                   resulting in a lower engine load factor and lower fuel
+                                                                   burn verses using top gear selection that required the
+● Draft Arm Overflow Guards — The open bowls now                   machine to run at engine speeds at or close high idle.
+  come standard with bowl side overflow guards to                ● Ground Speed Control — Ground Speed Control
+  help prevent material from flowing over the bowl
+                                                                   sets the desired top speed by the operator if job site
+  sides and falling onto the draft arms where material
+                                                                   conditions or segment speed limits require a speed less
+  becomes embedded between the bowl side and draft
+                                                                   than full run out. Machine Speed Limit is intended
+  arm resulting in decreased work cycle times.
+                                                                   for use when top speed needs to be limited for longer
+● Auto Stall — In cold weather conditions the machine              durations and Ground Speed Control is intended
+  will use the Auto Stall feature to help warm up the              for use when the top speed needs to be reduced for
+  transmission oil faster resulting in the machine shift­          shorter segments or intermediate periods of time.
+  ing out of torque converter drive (2nd gear) faster than         The operator can set the desired top speed and the
+  on previous models.                                              machine will find the correct gear that works best for
+                                                                   the engine and transmission. Allowing the engine and
+● Differential Lock Engagement Protection (Standard)
+                                                                   transmission to select the correct gear to pull the load
+  — This standard feature allows the machine to pre­               in most cases will result in a lower engine load factor
+  vent the operator from engaging the differential lock            and lower fuel burn verses top gear selection.
+  when damage could occur.
+
+
+
+
+21-6
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 320 ===
+Material Application Guide                     Wheel Tractor-Scrapers
+                                                 Push-Load TTT Match
+
+
+
+                                        Self-Load Push-Load
+                                        Single and Single and
+ Material                                Tandem     Tandem                                                                             21
+ Application Guide           Elevator     Engine     Engine     Push Pull   Coal Bowl Remarks
+ Decomposed Granite/Soil                                                               Excellent loading
+ Decomposed Granite                                                                    Excellent loading by push- loading
+ (Ripped)                                                                              or push-pull to reduce cutting of tires
+ Moist Top Soil                                                                        Good to Excellent Loading
+ Top Soil                                                                              Excellent for WTS
+ Clay/Sand Mixture                                                                     Excellent for WTS
+ Sand                                                                                  Good to Excellent loading, but some
+                                                                                        cases may need to be push loaded
+                                                                                        by a TTT or Push-Pull
+ Antigo                                                                                 Excellent WTS material: lower portion
+                                                                                         may require ripping depending on
+                                                                                         material density
+ Coal                                                                                    Excellent for WTS: ripping may be
+                                                                                          required in dense material
+ Limestone                                                                                In natural state, not suitable for WTS
+ Granite                                                                                   Not suitable for WTS
+ Sandstone                                                                                 For WTS to be productive in sandstone,
+                                                                                            material needs to be ripped. In some
+                                                                                            cases where density is high, WTS
+                                                                                            would not be a good fit
+ Shot Rock                                                                                  Below 610 mm (24") good for WTS
+                                                                                             when push-loaded by a TTT to reduce
+                                                                                             cutting of tires
+ Loess Overtill (Banked)                                                                     Excellent for WTS: ripping may be
+                                                                                              required in dense material
+ Loess Overtill (Ripped)                                                                      Excellent WTS material provided rock
+                                                                                               size does not exceed 610 mm (24")
+ Aridisols                                                                                     Excellent WTS material, ripping will
+                                                                                                decrease load times
+ Glacial Outwash/River                                                                          Excellent WTS material provided rock
+ Rock                                                                                           size does not exceed 610 mm (24")
+FOR MORE INFORMATION ON WHEEL TRACTOR-SCRAPER MATERIAL APPLICATIONS REFERENCE PUBLICATION AEXQ0442.
+
+
+ Push-Load TTT Match           D8          D9         D10         D11
+ 621
+
+ 627
+
+ 631
+
+ 637
+
+ 657
+
+
+
+
+                                                                                                                              21-7
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 321 ===
+Wheel Tractor-Scrapers                        Cushion Hitch
+                                              Wheel Tractor-Scraper Anatomy
+
+
+
+CUSHION HITCH
+● Cushion Hitch dampens shocks to provide a smoother ride
+
+● Nitrogen over oil accumulators absorb and dampen road shock
+
+
+
+
+                                                                         1. Load Cylinder
+                                                                         2. Hitch Castings
+                                                                         3. Scraper Gooseneck
+                                                                         4. Nitrogen Accumulators
+                                                                         5. Orifice
+                                                                         6. Oil from Tractor Hydraulic System
+                                                                         7. Leveling Valve
+                                                                         8. Free-Floating Pistons
+
+
+
+WHEEL TRACTOR-SCRAPER ANATOMY
+
+                                  Steering Cylinders         Banana Link
+               Cushion Hitch
+                                Gooseneck                            Bowl Lift Cylinders              Fuel Tank
+
+                                                                   Overflow Guard
+       Push/Pull Bail
+                                                                     Ejector
+                                                                                                                       Push/Pull Hook
+
+
+
+
+                 Cushion Push Plate          Apron     Router Bit                                  Bowl
+                                                                                                          Push Block
+                                                          Cutting Edge                Draft Arms
+
+
+
+
+21-8
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 322 ===
+Rimpull-Speed-Gradeability Curves                     Wheel Tractor-Scrapers
+                                                      ● Example
+
+
+
+
+USE OF RIMPULL-SPEED-                                        Rimpull-Speed-Gradeability
+GRADEABILITY CURVES                                            To determine gradeability performance: Read from
+                                                                                                                          21
+                                                             gross weight down to the % of total resistance. (Total
+The following explanation applies to Rimpull-Speed-          resistance equals actual % grade plus 1% for each
+Gradeability curves for Wheel Tractor-Scrapers, Construc-    10 kg/metric ton (20 lb./U.S. ton) of rolling resistance.)
+tion & Mining Trucks/Tractors and Artic­ulated Trucks.       From this weight-resistance point, read horizontally to
+   Maximum speed attainable, gear range and available        the curve with the highest obtainable speed range, then
+rimpull can be determined from curves on the following       down to the maximum speed. Usable rimpull depends
+pages when machine weight and total effective grade          upon traction and weight on drive wheels.
+(or total resistance) are known.
+Rimpull is the force (in kg, lb or kN) available between     Example problem:
+   the tire and the ground to propel the machine (limited       A 631K with an estimated payload of 37 013 kg
+   by traction).                                             (81,600 lb) is operating on a total effective grade of
+Weight is defined as Gross Machine Weight (kg or lb)         10%. Find the available rimpull and maximum attain­
+   = Machine + Payload.                                      able speed.
+Total Effective Grade (or Total Resistance) is grade            Empty weight payload = Gross Weight
+   resistance plus rolling resistance expressed as percent        47 628 kg + 37 013 kg = 84 641 kg
+   grade.                                                         (105,002 lb + 81,600 lb = 186,602 lb)
+   Grade is measured or estimated.                           Solution: Using graph on the next page, read from
+   Rolling resistance is estimated (see Tables section for   84 641 kg (186,602 lb) (point A) on top of gross weight
+     typical values.)                                        scale down the line to the intersection of the 10% total
+                                                             resistance line (point B).
+   10 kg/metric ton (20 lb/U.S. ton) = 1% adverse grade.
+                                                                Go across horizontally from B to the Rimpull Scale
+Example                                                      on the left (point D). This gives the required rimpull:
+                                                             7756 kg (17,100 lb).
+  With a 6% grade and a rolling resistance of 40 kg/
+                                                                Where the line cuts the speed curve (point C), read
+  metric ton (80 lb/U.S. ton), find total resistance.
+                                                             down vertically (point E) to obtain the maximum speed
+  Rolling resistance = 40 kg/t ÷ 10 = 4% Effective Grade     attainable for the 10% effective grade: 12.9 km/h (8 mph).
+    (English: 80 lb ÷ 20 = 4%)                                  ANSWER: The machine will climb the 10% effective
+  Total resistance = 4% rolling + 6% grade = 10%             grade at a maximum speed of 12.9 km/h (8 mph) in
+                                                             4th gear. Available rimpull is 7756 kg (17,100 lb).
+Altitude Derating
+                                                                                      ● ● ●
+  Rimpull force and speed must be derated for alti-
+tude similar to flywheel horsepower. The percentage
+loss in rimpull force approximately corresponds to the
+percentage loss in flywheel horsepower. See Tables
+Section for altitude derations.
+
+
+
+
+                                                                                                                  21-9
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 323 ===
+Wheel Tractor-Scrapers          Rimpull-Speed-Gradeability Curves
+                                ● Example
+
+
+
+
+                                     GROSS WEIGHT
+                                                                        lb x 1000
+                  lb x   kg x
+                  1000   1000                                           kg x 1000
+
+
+
+
+                                                                              TOTAL RESISTANCE
+                                                                              (Grade plus Rolling)
+        RIMPULL
+
+
+
+
+                                                                       km/h
+
+                                                                       mph
+
+                                           SPEED
+         KEY                                    KEY
+         1 — 1st Gear Torque Converter Drive    A — Loaded 84 641 kg (186,602 lb)
+         2 — 2nd Gear Torque Converter Drive    B — Intersection with 10% total resistance line
+         3 — 3rd Gear Direct Drive              C — Intersection with rimpull curve (4th gear)
+         4 — 4th Gear Direct Drive              D — Required rimpull 7756 kg (17,100 lb)
+         5 — 5th Gear Direct Drive              E — Speed 12.9 km/h (8 mph)
+         6 — 6th Gear Direct Drive
+         7 — 7th Gear Direct Drive
+         8 — 8th Gear Direct Drive
+
+
+
+21-10
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 324 ===
+Typical Fixed Times           Wheel Tractor-Scrapers
+                                                                    Retarder Curves
+
+
+
+        TYPICAL FIXED TIMES FOR SCRAPERS                               NOTE: Empty Weights shown on the Wheel Tractor-
+          (Times may vary depending on job conditions)                        Scraper charts includes ROPS Canopy. When
+                                                                              calculating TMPH loadings any additional            21
+                                                       Maneuver and
+                                                        Spread or             weight must be considered in establishing mean
+                                         Load Time     Maneuver and           tire loads.
+  Model                  Loaded By         (Min.)      Dump (Min.)
+  613G                   Self                   0.9        0.7         USE OF RETARDER CURVES
+  623K                   Self                   0.9        0.7
+                                                                       The following explanation applies to retarder curves for
+  621K                   One D8                 0.5        0.7
+                                                                       Wheel Tractor-Scrapers and Articulated Trucks.
+  627K                   One D8                 0.5        0.6
+                                                                          The speed that can be maintained (without use of
+  621K                   One D9                 0.4        0.7
+                                                                       service brake) when the machine is descending a grade
+  627K                   One D9                 0.4        0.6
+                                                                       with retarder fully on can be determined from the
+  627K/PP                Self                   0.9*       0.6         retarder curves in this section if gross machine weight
+  631K                   One D9                 0.6        0.7         and total effective grade are known.
+  637K                   One D9                 0.6        0.6
+                                                                       Total Effective Grade (or Total Resistance) is grade
+  631K                   One D10                0.5        0.7         assistance minus rolling resistance.
+  637K                   One D10                0.5        0.6
+                                                                          10 kg/metric ton (20 lb/U.S. ton) = 1% adverse grade.
+  637K/PP                Self                   1.0*       0.6
+  657                    One D11                0.6        0.6         Example
+  657                    Push Pull              1.1*       0.6
+                         Self                                          15% favorable grade with 5% rolling resistance. Find
+  637K                   Coal                   0.8        0.7         Total Effective Grade.
+  657                    Coal                   0.8        0.6           Total Effective Grade = 15% Grade Assistance —
+*Load time per pair, including transfer time.                              5%
+                                                                         Rolling Resistance = 10% Total Effective Grade
+                                                                           Assistance.
+
+                                                                       Example problem:
+                                                                         A 651 with an estimated payload of 47 175 kg
+                                                                       (104,000 lb) descends a 10% total effective grade.
+                                                                       Find constant speed and gear range with maximum
+                                                                       retarder effort. Find travel time if the slope is 610 m
+                                                                       (2000 ft) long.
+                                                                         Empty Weight + Payload = Gross Weight
+                                                                            = 60 950 kg + 47 175 kg = 108 125 kg
+                                                                            (134,370 lb + 104,000 lb = 238,370 lb)
+
+
+
+
+                                                                                                                         21-11
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 325 ===
+Wheel Tractor-Scrapers                Retarder Curves
+                                      ● Example
+
+
+
+
+Solution: Using the retarder curve below, read from          ANSWER: The 651 will descend the slope at
+108 125 kg (238,370 lb) (point A) on top of gross weight   21.7 km/h (13.5 mph) in 5th gear. Travel time is
+scale down the line to the intersection of the 10%         1.68 minutes.
+effective grade line (point B).                                  610 m
+                                                              __________   = 1.68 min
+   Go across horizontally from point B to the inter-           363 m/min
+section of the retarder curve (point C). Point C inter-                                     *(mph  88 = F.P.M.)
+sects at the 5 (5th gear) range.                                   2000 ft
+                                                             _______________     = 1.68 min
+   Where point C intersects the retarder curve, read         13.5 mph  88*
+down vertically to point D on the bottom scale to
+obtain the constant speed: 21.7 km/h (13.5 mph).           NOTE: T he basic Distance-Speed-Time formula is
+                                                                  60 D ÷ S = T (or “60 D Street”), where 60 is
+                                                                  minutes, D is distance, S is speed and T is time.
+                                                                  In the above problem, 60  610 m ÷ 21.7 km/h
+                                                                   1000 = T.
+                                                                            60  610
+                                                                          ____________
+                                 GROSS WEIGHT                              21.7  1000
+                                                                                          = T = (1.68)
+
+                                                                         lb x 1000
+
+                                                                         kg x 1000
+
+
+
+
+                                                                                 (Grade minus Rolling Resistance)
+                                                                                        EFFECTIVE GRADE
+
+
+
+
+                                                                          km/h
+
+                                                                          mph
+
+                                        SPEED
+            KEY                                            KEY
+            3 — 3rd Gear Direct Drive                      A — Loaded 108 125 kg (238,370 lb)
+            4 — 4th Gear Direct Drive                      B — Intersection with 10% effective grade line
+            5 — 5th Gear Direct Drive                      C — Intersection with retarder curve (5th gear)
+            6 — 6th Gear Direct Drive                      D — Constant speed 21.7 km/h (13.5 mph)
+            7 — 7th Gear Direct Drive
+            8 — 8th Gear Direct Drive
+21-12
+

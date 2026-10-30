@@ -1,0 +1,1462 @@
+=== SOURCE PDF PAGE 226 ===
+APPLICATIONS
+
+
+
+         [ ECHELON PAVING ]
+
+      When two or more pavers are placing bituminous       is a proven method to improve joint density. To
+         material at the same time in the same direction       perform echelon paving, it may be necessary to
+       on a roadway, that is commonly called echelon, or     arrange for two asphalt plants to supply the material
+        staggered, paving. Echelon paving creates a hot      needed.
+         longitudinal joint for the compaction process and
+
+
+
+        Note: If more than one plant is supplying material for the project, designate which paver is supplied by
+       which plant.
+
+
+
+       Depending on the type of roadway, it may be
+        necessary to close the roadway and direct traffic
+         to alternate routes or set up traffic control to divert
+           traffic to opposite lanes. Echelon paving also
+         requires some additional planning.
+
+          • Calculate working speeds that balance the         • Whenever possible, create similar paving
+            production rates of the pavers.                      widths for all pavers.
+          • Adjust working speeds to the capability of the      • When paving non-similar widths, paver with
+              least productive paver.                                  largest width should lead.
+          • Select pavers with similar screeds that develop     • Select compactors with drum widths that will
+             uniformly high pre-compaction.                       create uniform rolling patterns behind each
+                                                               paver regardless of paving widths.          • When using non-similar screeds, adjust to the
+              results produced by the lowest performing
+            screed.
+
+
+
+
+
+226            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 227 ===
+APPLICATIONS
+
+
+
+
+Assume that the base layer is being paved on a      The right paver will pave the right emergency lane
+roadway that is 11.6 m (38') wide. The paving depth    at a width of 3.2 m (10.5') at a slope of 4 percent
+is 75 mm (3"). Two asphalt plants will be supplying    from left to right.
+the project with 400 tonnes (440 tons) per hour.
+The plan calls for three pavers to be used for the     The left paver will be slightly ahead of the other
+project.                                     two pavers. Limit the longitudinal gap between
+                                                  pavers to no more than one paver length in order
+The left side paver will pave 4.7 m (15.5') wide. That   to maintain nearly equal temperatures between
+paving width includes an inside paved shoulder with   the layers, so density produced by the compactors
+2 percent slope from right to left and the left driving   across the width of paving is equal.
+lane with 2 percent slope from left to right.
+
+The center paver will pave the right driving lane at a
+width of 3.7 m (12') and a 2 percent slope from left
+to right.
+
+
+
+
+FIRST LAYER
+
+To calculate the paving speeds of the three
+pavers, first add the three paving widths.
+
+              Paver 1: 4.7 m (15.5')
+              Paver 2: 3.7 m (12')
+              Paver 3: 3.2 m (10.5')
+
+           Total width: 11.6 m (38')
+
+
+Now divide the total width by the width of each
+pass. The result will be the percentage of hourly
+production for each paver.
+
+                     4.7 m (15.5')
+         Paver 1:            = 40%
+                      11.6 m (38')
+
+                      3.7 m (12')
+         Paver 2:            = 32%
+                      11.6 m (38')
+
+                     3.2 m (10.5')
+         Paver 3:            = 28%
+                      11.6 m (38')
+
+
+Finally, divide the hourly production rate by the
+percentage of each paver. This will provide the
+hourly production rate in tons for each paver.
+
+          400 T
+  Paver 1:      = 160 tonnes (176 tons)/hour
+         40%
+          400 T
+  Paver 2:      = 128 tonnes (140 tons)/hour
+         32%
+          400 T
+  Paver 3:      = 112 tonnes (124 tons)/hour            1           2         3
+         28%
+
+
+                                                         4.7 m (15.5')     3.7 m (12')  3.2 m (10.5')
+
+                                                       paving speed: 3.7 m (12')/min.
+                                                         paving depth: 75 mm (3")
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      227
+
+=== SOURCE PDF PAGE 228 ===
+APPLICATIONS
+
+
+
+
+       The Paving Production Calculator can be used to     Assume that material transfer vehicles will be used
+        confirm that each paver will be operating at the       and the efficiency rate will be 95%.
+      same speed based on the hourly tonnage allotted.
+
+
+     PAVER ONE
+
+
+                 Trucking           General Inputs                                                    Imperial Units               Metric Units
+                                                   Paving Thickness:                                             [   2.95    ]  in          [   75.0     ] mm
+              Paver Speed
+                                                   Paving Width:                                                 [  15.42    ]  feet        [    4.7     ] meter
+             Compaction                                                    Material Density Uncompacted:                              [   140     ]  lbs/ft3      [  2243    ] kg/m3
+
+             Windrow
+                                  Paver Speed @ Given Production Rate
+                    Yield
+                                                    Production Rate of Hot Plant:                                 [   176     ]  tons/hr     [   160     ]  tonnes/hr
+                 Slope                      Calculated Paving Speed - 100% Efficiency:                 [    11.1     ]  ft/min      [   3.39     ] m/min
+                                                     Calculated Paving Speed - 95% Efficiency:                   [   11.7     ]  ft/min      [   3.56     ] m/min               Thickness
+                                                     Calculated Paving Speed - 90% Efficiency:                   [   12.2     ]  ft/min      [   3.73     ] m/min
+            Job Summary
+                                                     Calculated Paving Speed - 85% Efficiency:                   [   12.8     ]  ft/min      [   3.90     ] m/min
+                  Legal                       Calculated Paving Speed - 80% Efficiency:                   [   13.3     ]  ft/min      [   4.07     ] m/min
+                                                     Calculated Paving Speed - 75% Efficiency:                   [   13.9     ]  ft/min      [   4.24     ] m/min
+
+
+                     Exit                   Effective Paving Speed:                               [    11.1     ]  ft/min      [   3.39     ] m/min
+
+
+
+       The actual paving speed for Paver One is 3.6 m (12’)
+        per minute using 95 percent efficiency rate.
+
+
+     PAVER TWO
+
+
+                 Trucking           General Inputs                                                    Imperial Units               Metric Units
+                                                   Paving Thickness:                                             [   2.95    ]  in          [   75.0     ] mm
+              Paver Speed
+                                                   Paving Width:                                                 [   12.14    ]  feet        [    3.7     ] meter
+             Compaction                                                    Material Density Uncompacted:                              [   140     ]  lbs/ft3      [  2243    ] kg/m3
+
+             Windrow
+                                  Paver Speed @ Given Production Rate
+                    Yield
+                                                    Production Rate of Hot Plant:                                 [   141     ]  tons/hr     [   128     ]  tonnes/hr
+                 Slope                      Calculated Paving Speed - 100% Efficiency:                 [   11.2     ]  ft/min      [   3.42     ] m/min
+                                                     Calculated Paving Speed - 95% Efficiency:                   [   11.8     ]  ft/min      [   3.59     ] m/min               Thickness
+                                                     Calculated Paving Speed - 90% Efficiency:                   [   12.3     ]  ft/min      [   3.76     ] m/min
+            Job Summary
+                                                     Calculated Paving Speed - 85% Efficiency:                   [   12.9     ]  ft/min      [   3.93     ] m/min
+                  Legal                       Calculated Paving Speed - 80% Efficiency:                   [   13.4     ]  ft/min      [   4.10     ] m/min
+                                                     Calculated Paving Speed - 75% Efficiency:                   [   14.0     ]  ft/min      [   4.28     ] m/min
+
+
+                     Exit                   Effective Paving Speed:                               [   11.2     ]  ft/min      [   3.42     ] m/min
+
+
+
+
+        Paver Two operates at 3.7 meters (12') per minute    One and the paving width is also less than the Paver
+          also. Note that the hourly tonnage is less than Paver   One.
+
+
+228            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 229 ===
+APPLICATIONS
+
+
+
+PAVER THREE
+
+
+        Trucking           General Inputs                                                    Imperial Units               Metric Units
+                                       Paving Thickness:                                             [   2.95    ]  in          [   75.0     ] mm
+      Paver Speed
+                                       Paving Width:                                                 [   10.50    ]  feet        [    3.2     ] meter
+     Compaction                                         Material Density Uncompacted:                              [   140     ]  lbs/ft3      [  2243    ] kg/m3
+
+      Windrow
+                          Paver Speed @ Given Production Rate
+          Yield
+                                         Production Rate of Hot Plant:                                 [   123     ]  tons/hr     [   128     ]  tonnes/hr
+        Slope                      Calculated Paving Speed - 100% Efficiency:                 [   11.3     ]  ft/min      [   3.45     ] m/min
+                                         Calculated Paving Speed - 95% Efficiency:                   [   11.9     ]  ft/min      [   3.62     ] m/min       Thickness
+                                         Calculated Paving Speed - 90% Efficiency:                   [   12.4     ]  ft/min      [   3.80     ] m/min
+    Job Summary
+                                         Calculated Paving Speed - 85% Efficiency:                   [   13.0     ]  ft/min      [   3.97     ] m/min
+         Legal                       Calculated Paving Speed - 80% Efficiency:                   [   13.6     ]  ft/min      [   4.14     ] m/min
+                                         Calculated Paving Speed - 75% Efficiency:                   [   14.1     ]  ft/min      [   4.31     ] m/min
+
+
+           Exit                   Effective Paving Speed:                               [   11.3     ]  ft/min      [   3.45     ] m/min
+
+
+
+
+
+The paving speed calculation for Paver Three
+confirms that all three pavers are in balance, each
+with its own production rate based on the width of
+its pass.
+
+The truck guides on the project are responsible for
+directing the haul units to the appropriate pavers
+and transfer vehicles. In some cases, one transfer
+vehicle may be supplying two pavers. Using one
+transfer vehicle to supply two pavers takes some
+coordination, but if the pavers have large hopper
+inserts and paving speeds under 6 m (20') per
+minute, it can be done without stopping the pavers.
+
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      229
+
+=== SOURCE PDF PAGE 230 ===
+APPLICATIONS
+
+
+
+
+       The next layer will require new calculations.         The right pass is now reduced to 3 m (10'). These
+                                                              are the final widths of the driving lanes and
+      New calculations are needed for two reasons.         shoulders.
+           First, the depth of paving for this layer has been
+        reduced to 50 mm (2"). Second, the widths of two     Offset longitudinal joints in an alternating fashion
+         of the passes have also changed. The far left pass      for each layer. The offset is normally between 15
+           is now slightly wider; it’s 4.9 meters (16') wide.     cm to 30 cm (6" to 12"). Normally, the smaller offset
+        Changing the pass width is done to avoid aligning     should be selected if there is a slope change at
+        the longitudinal joints directly above each other. The   the longitudinal joint. The smaller offset creates a
+         longitudinal joints should always be staggered, or      smaller thickness change due to the slope changes.
+         offset to help prevent moisture penetration through
+        the joints.                               Do the same calculations to determine the paving
+                                                    speed for the new layer thickness and pass widths.
+       The center pass is still 3.7 meters (12') wide, but is   Assume the same hourly production rate from the
+      now offset 15 cm (6") to the right compared to the     plants supplying the material.
+         layer below.
+
+
+
+                                 SECOND LAYER
+
+                                                                     Paver 1: 4.9 m (16')
+                                                                     Paver 2: 3.7 m (12')
+                                                                     Paver 3: 3.0 m (10')
+
+                                                                          Total width: 11.6 m (38’)
+
+
+                                      Now divide the total width by the width of each
+                                                           pass. The result will be the percentage of hourly
+                                                       production for each paver.
+
+                                                                                       4.9 m (16')
+                                                                Paver 1:            = 40%
+                                                                                         11.6 m (38')
+
+                                                                                       3.7 m (12')
+                                                                Paver 2:            = 32%
+                                                                                         11.6 m (38')
+
+                                                                                       3.0 m (10')
+                                                                Paver 3:            = 26%
+                                                                                         11.6 m (38')
+
+
+                                                                     Finally, divide the hourly production rate by the
+                                                      percentage of each paver. This will provide the
+                                                         hourly production rate in tons for each paver.
+
+                                                              400 T
+                                                         Paver 1:       = 168 tonnes (185 tons)/hour
+                                                    42%
+                                                              400 T
+                                                         Paver 2:       = 128 tonnes (140 tons)/hour
+                                                    32%
+                                                              400 T
+                                                         Paver 3:       = 104 tonnes (115 tons)/hour
+                                                    26%
+               1           2         3
+
+
+
+               4.9 m (16')      3.7 m (12')   3.0 m (10')
+
+                paving speed: 5 m (16.5')/min
+                  paving depth: 50 mm (2")
+
+
+230            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 231 ===
+APPLICATIONS
+
+
+
+
+The Paving Production Calculator can now be used
+to calculate the paving speed that will balance the
+three pavers on the project. Again, assume that
+material transfer vehicles will be utilized and the
+efficiency rate will be 95 percent.
+
+
+
+
+
+PAVER ONE
+
+
+        Trucking           General Inputs                                                    Imperial Units               Metric Units
+                                       Paving Thickness:                                             [   2.00     ]  in          [   50.8     ] mm
+      Paver Speed
+                                       Paving Width:                                                 [   16.00    ]  feet        [  4.877    ] meter
+     Compaction                                         Material Density Uncompacted:                              [   140     ]  lbs/ft3      [  2243    ] kg/m3
+
+      Windrow
+                          Paver Speed @ Given Production Rate
+          Yield
+                                         Production Rate of Hot Plant:                                 [   185     ]  tons/hr     [   168     ]  tonnes/hr
+        Slope                      Calculated Paving Speed - 100% Efficiency:                 [   16.5     ]  ft/min      [   5.03     ] m/min
+                                         Calculated Paving Speed - 95% Efficiency:                   [   17.3     ]  ft/min      [   5.28     ] m/min       Thickness
+                                         Calculated Paving Speed - 90% Efficiency:                   [   18.2     ]  ft/min      [   5.53     ] m/min
+    Job Summary
+                                         Calculated Paving Speed - 85% Efficiency:                   [   19.0     ]  ft/min      [   5.78     ] m/min
+         Legal                       Calculated Paving Speed - 80% Efficiency:                   [   19.8     ]  ft/min      [   6.04     ] m/min
+                                         Calculated Paving Speed - 75% Efficiency:                   [   20.6     ]  ft/min      [   6.29    ] m/min
+
+
+           Exit                   Effective Paving Speed:                               [   16.5     ]  ft/min      [   5.03     ] m/min
+
+
+
+Each paver will be paving just over 5 m (16.5') per
+minute. There is another consideration involved with
+echelon paving. In some cases, the paving speeds
+may be affected by the density of the layer behind
+each paver.
+
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      231
+
+=== SOURCE PDF PAGE 232 ===
+APPLICATIONS
+
+
+
+
+     THIRD LAYER
+
+
+          In the example shown here, there are three pavers
+        equipped with vibratory and tamping screeds. A
+          quality control specification on this project requires
+         that this layer have 92 percent density behind the
+        screed. Working at 5 m (16.5') per minute, the two
+        pavers completing the center and right passes are
+        meeting this specification. Working at 5 m (16.5')
+        per minute, the paver working on the left side of the
+       roadway is only developing 89 percent density on
+        the bituminous layer.
+
+       The crew has adjusted the tamping frequency
+       upward to its maximum capacity, but the screed
+           is still not developing the required density. In this
+          situation, there are two possible solutions. First, if
+        another paver is available, replace the paver that is
+        not producing the specified results. Perhaps, the
+       tamper foot is badly worn and the screed needs
+          repair or rebuilding. Second, slow the speed of the
+        paver until the density reaches the required level.
+
+       The speed of the least productive paver has to be
+        the speed of all the pavers. When paving in echelon,
+        the pavers must stay close together.
+
+
+
+
+
+                                                        1           2         3
+
+
+
+                                                                   4.7 m (15.5’)     3.7 m (12')  3.2 m (10.5’)
+                                                  89%        93%      92%
+                                                                 density        density     density
+
+                                                              paving speed: 5 m (16.5’)/min.
+                                                                paving depth: 50 mm (2")
+
+
+
+       User Tip: When doing echelon paving, one or more pavers will be matching a longitudinal joint. Two factors
+       need to be controlled. One is the height of the end gate ski. Be careful not to apply too much downward
+        pressure on the ski. The ski may leave a mark in the hot, uncompacted bituminous material. Second, be sure
+        the compactor operators have clear instructions regarding when to compact the longitudinal joint. If a trailing
+        paver is using the area close to the joint edge as reference for the grade sensor, the compactors cannot roll
+        the edge before the trailing paver completes the height match.
+
+
+
+
+
+232            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 233 ===
+APPLICATIONS
+
+
+
+[ TRUCK EXCHANGE PROCEDURES ]
+
+Truck exchange procedures can affect the quality of
+the bituminous layer being placed by the crew. The
+drivers of the haul units should be considered part
+of the paving team. Drivers need training and clear
+instructions regarding their roles on the project.
+
+
+
+
+
+Truck drivers must be alert for instructions while discharging material.
+
+
+
+Truck Driver Responsibilities
+
+  • Coat the truck bed with approved release agent.    • Watch for and follow material discharge
+                                                               instructions.  • Follow loading procedures.
+                                                   • Clean out where directed.  • Cover the load.
+  • Drive the approved route.
+  • Stage where directed.
+  • Stop short of the paver or transfer device.
+  • Maintain light brake pressure.
+
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      233
+
+=== SOURCE PDF PAGE 234 ===
+APPLICATIONS
+
+
+
+
+        Preventing the buildup of material in the truck bed
+           is one of the drivers’ responsibilities. Most asphalt
+         plants have a platform located near the loading area
+       where truck drivers can apply release agent. As the
+          film of release agent deteriorates, material begins to
+          stick to the bed. Eventually, these agglomerations
+        break off and contaminate the load.
+
+
+
+
+
+                                                                   Truck beds require periodic application of approved release
+                                                                      agent.
+
+
+
+
+                     1                              2                    3
+
+
+
+
+
+        The driver follows instructions at the plant for loading.
+
+
+
+
+        Truck drivers are responsible for obeying all loading    Each driver should receive directions for driving
+         instructions at the asphalt plant. There may be lights   an approved route to the worksite. The project
+         or signs that instruct the drivers to reposition trucks   manager or superintendent determines the route
+          for different discharges from the storage silos.       based on traffic and load weights. It is the drivers’
+       Once the truck beds are full, drivers receive the load   responsibility to stay on that route and not stop,
+          tickets from the scale operator.                      unless there is an emergency. Trucks should arrive
+                                                                     at the project at intervals that are consistent with
+          In most areas, the load must be covered—not just     loading at the plant and traffic conditions.
+         to preserve heat, but also to prevent any aggregates
+        from spilling onto the roadway.
+
+
+
+
+
+234            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 235 ===
+APPLICATIONS
+
+
+
+
+Depending on the type of project, haul units may     from the crew. The drivers and the crewmembers
+have to park temporarily at a staging area. At this      should have an agreed upon series of signals that
+point, each truck driver must be alert for directions     direct the drivers’ actions.
+
+
+
+
+
+Watching the paver operator or the truck guide, the
+driver backs the haul unit to the front of the paver.
+At the signal from the operator or truck guide, the
+driver stops the truck just short of the push rollers.
+Never back into the push rollers. If the truck hits the
+paver, the screed will be pushed back and down
+and will leave a dent in the fresh layer.
+
+
+
+
+
+                                                  The truck always stops short of the push rollers.
+
+
+
+As the paver moves forward to contact the rear
+tires of the truck, the driver should apply light brake
+pressure to prevent the truck from rolling away from
+the paver. An optional hydraulic truck hitch provides
+a positive connection between the truck and the
+paver.
+
+
+
+
+
+                                          A truck hitch provides a positive connection between the
+                                                            haul unit and the paver.
+
+
+
+As a general rule, trucks should line up in the center
+of the hopper to make it it easier for the paver
+operator to steer a straight line. However, there are
+times when trucks should line up off-center. For
+example, when paving through a superelevation
+(see adjacent image), the crew must compensate
+for a larger than normal slope to one side of the
+paver. The trucks should always move over close
+to the edge of the hopper that is aligned with the
+high side of the sloped surface. Gravity will move
+material from the trucks toward the low side of the
+hopper. The low side conveyor stays full while the
+high side conveyor runs empty. The paver operator
+                                                      Improper truck alignment leads to hopper spills.must stop the paver to avoid running out of material
+in the auger chamber. When the trucks pull away,
+there will be a spill in front of the paver on the low
+side. In that situation, aligning the trucks to the high
+side will eliminate or minimize the spill.
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      235
+
+=== SOURCE PDF PAGE 236 ===
+APPLICATIONS
+
+
+
+
+       The truck driver raises the bed to break the load
+       and start supplying the paver hopper. The material
+        should flow into the hopper as a surge, not as a
+        slow trickle of material. A slow transfer of material
+        tends to cause segregation, especially if the
+         material has aggregates that are 19 mm (0.75") or
+          larger.
+
+      When the bed is empty, the paver operator or truck
+        guide signals the truck driver to pull away from the
+          front of the paver.
+
+
+
+
+                                                               Break the load and watch for signals to raise the bed.
+
+
+
+
+        Often, material remains on the discharge lip of the
+         truck bed, and sometimes a little material is left in
+        the truck bed. Clean up this material at an approved
+         location on the project. Truck cleaning should not
+        occur in front of the paver. The material that gets
+      dumped on the grade when cleaning in front of the
+        paver has to be removed. Never pave over spills
+       on the grade or piles left from cleaning up trucks.
+        That cleaning process takes time and interrupts
+         production. It is always advisable to send trucks to
+        an approved location for clean-out.
+
+
+
+
+                                                                   Truck clean-out should not occur in front of the paver.
+
+
+
+
+      When operating the paver during a truck exchange,
+        the first option is to continue paving at normal
+       speed while the empty truck is pulling away. The
+         operator, perhaps with help from the truck guide,
+        has to monitor the level of material in the hopper.
+       As the level in the hopper decreases, the paver
+         operator can begin to slowly raise the hopper wings
+         to combine material from the sides of the hopper
+        with material in the center of the hopper. The crew
+       needs to make sure that material does not spill
+        from the front of the hopper over the flashing while
+         folding the hopper wings.
+
+
+
+
+
+                                                          The paver continues to pave at normal speed as the empty
+                                                                         truck pulls away.
+
+
+236            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 237 ===
+APPLICATIONS
+
+
+
+
+User Note: When direct dumping from trucks into the paver, a front folding apron can help minimize spills
+and eliminate costly cleanup efforts.
+
+
+
+
+
+When the level of material has gone down in the
+hopper, but the conveyors are still full, stop the
+paver and wait for the next truck to get in position.
+If paving continues between trucks, there is a risk
+of running low on material in the hopper and in the
+auger chamber in front of the screed. Remember,
+maintaining the correct head of material in the
+auger chamber is a fundamental of paving. Violating
+that fundamental is a big mistake. The screed will
+begin to move downward as the head of material
+decreases. When the auger chamber is refilled, the
+screed will begin to climb. This procedure creates
+bumps in the mat due to inconsistent material flow.
+
+
+                                                      Stop paving with the left and right conveyors still full of
+                                                                 material.
+
+
+
+
+The roughness caused by running low on material
+will be accentuated if the hopper wings are folded
+when there is little material in the hopper. Cold mix
+that has accumulated at the sides of the hopper will
+be transferred onto the conveyors without being
+combined with hot material. The cold material will
+not compact the same as hot material. Not only
+will the potential result be an area of low density
+and high air voids, the surface will also be rougher
+due to the compaction variation caused by the
+temperature differential.
+
+
+
+
+                                                            Folding the hopper wings when the hopper is low on
+                                                              material can create cold spots in the bituminous layer.
+
+
+
+
+User Tip: Never cycle the hopper wings late in the truck exchange process when the hopper is almost
+empty.
+
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      237
+
+=== SOURCE PDF PAGE 238 ===
+APPLICATIONS
+
+
+
+
+        There may be times when the hopper wings
+        should not be cycled during truck exchanges, either
+       because of a written specification prohibiting the
+         cycling of hopper wings or due to quality issues. For
+        example, when placing bituminous material with
+         large aggregates (19 mm / 0.75" or larger), there is
+        a tendency for these large aggregates to segregate
+       and roll to the outer edges of the hopper. When the
+        hopper wings are folded, this segregated material
+        tends to pass through the feeder system as a mass
+       and show in the bituminous layer as a patch of large
+        aggregates. The patch segregation shows up as a
+         pattern during truck exchanges and is often referred
+         to as end-of-load segregation. (Unit 8 will discuss
+        segregation causes and cures.)
+
+
+
+
+
+                                                                                                          It is highly recommended to not cycle the hopper wings
+                                                          on certain projects.
+
+
+
+
+
+          In situations where the hopper wings are not to be
+         folded, be alert for an accumulation of material at
+        the sides and near the front of the hopper. A large
+       amount of material can prevent the truck’s tailgate
+        from opening. The lack of fresh material can cause
+        the conveyors to run empty, decreasing the head of
+         material in the auger chamber. This extra material at
+        the front of the hopper can also cause a spill directly
+          in line with the paver’s undercarriage or in line with
+        the grade sensor if the grade sensor is located
+        close to the side of the paver. Periodically remove
+          this excess material from the front of the hopper to
+         avoid spills and to facilitate the discharge of material
+        from trucks.
+
+
+
+
+
+                                                               Accumulations of material at the sides of the hopper can
+                                                                              interfere with the truck’s tailgate.
+
+
+
+
+
+238            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 239 ===
+APPLICATIONS
+
+
+
+
+In many situations, the paver operator must stop the
+paver to wait for a new load of material. Depending
+on the type of mix, the weight of the screed and
+the length of the paver stop, the screed settlement
+mark may be so deep that the initial phase
+compactor is unable to roll out the mark. A deep
+settlement mark would be a sign that the operator
+should engage the screed counterbalance system
+and/or the screed lower lock.
+
+Caterpillar does not recommend reducing the
+normal paving speed during truck exchanges as
+a means of avoiding paver stops. Remember,
+when the operator lowers the paving speed, the
+screed tends to rise. The grade control system, if
+used in the automatic mode, will sense the screed
+movement and cause the screed to move back
+down. A series of bumps or ripples may result from
+changing the paving speed to avoid running out of
+mix during a truck exchange.
+                                                        Stopping the paver during truck exchanges can cause a
+                                                       screed settlement mark.
+
+
+
+
+
+The paving speed should be calculated based on
+hourly production from the plant, paving width and
+paving depth. Calculate a speed that compensates
+for the paver stops during truck exchanges.
+
+
+
+
+PAVER SPEED CALCULATOR
+
+
+        Trucking           General Inputs                                                    Imperial Units               Metric Units
+                                       Paving Thickness:                                             [   2.95    ]  in          [   75.0     ] mm
+      Paver Speed
+                                       Paving Width:                                                 [   15.00    ]  feet        [  4.572    ] meter
+     Compaction                                         Material Density Uncompacted:                              [   140     ]  lbs/ft3      [  2243    ] kg/m3
+
+      Windrow
+                          Paver Speed @ Given Production Rate
+          Yield
+                                         Production Rate of Hot Plant:                                 [   220     ]  tons/hr     [   200     ]  tonnes/hr
+        Slope                      Calculated Paving Speed - 100% Efficiency:                 [   14.2     ]  ft/min      [   4.33     ] m/min
+                                         Calculated Paving Speed - 95% Efficiency:                   [   14.9     ]  ft/min      [   4.55     ] m/min       Thickness
+                                         Calculated Paving Speed - 90% Efficiency:                   [   15.6     ]  ft/min      [   4.76     ] m/min
+    Job Summary
+                                         Calculated Paving Speed - 85% Efficiency:                   [   16.3     ]  ft/min      [   4.98     ] m/min
+         Legal                       Calculated Paving Speed - 80% Efficiency:                   [    17.0     ]  ft/min      [   5.20     ] m/min
+                                         Calculated Paving Speed - 75% Efficiency:                   [   17.8     ]  ft/min      [   5.41     ] m/min
+
+
+           Exit                   Effective Paving Speed:                               [   14.2     ]  ft/min      [   4.33     ] m/min
+
+
+
+The calculated paving speed is based on the efficiency factor that considers how material is transferred from the truck to
+the paver.
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      239
+
+=== SOURCE PDF PAGE 240 ===
+APPLICATIONS
+
+
+
+
+      When the material is transferred directly from the     non-stop paving. In this example, continuous paving
+         haul unit to the paver, the efficiency rate must          at 4.3 m / minute (14' / minute) would consume 200
+        account for the length of the paver stops during the   tonnes (220 tons) in one hour.
+         truck exchanges. On any project that has mostly
+         long, uninterrupted paving passes, target at least 75   Continuous paving without a material transfer
+        percent efficiency.                                  device is usually not possible due to the limited
+                                                            storage capacity of the paver hopper. Still, some
+      Assume that the production rate is 200 tonnes (220    calculations can be made to determine if continuous
+         tons) per hour. The paving width is 4.6 meters (15').    paving at normal paving speed is possible without
+       The paving thickness is 75 mm (3"). In that example,   a transfer device. Assume, for the sake of the
+        the actual paving speed will be about 5.5 m / minute   calculation that there are 7 tonnes (7.7 tons)
+          (18' / minute) with a 75% efficiency factor. As the      available in the hopper and conveyors that could be
+        paving efficiency increases, the actual paving speed   consumed before running the conveyors empty.
+        decreases until 100 percent efficiency is reached, or
+
+
+
+
+
+      YIELD CALCULATOR
+
+
+
+                 Trucking
+
+              Paver Speed         General Inputs                                                    Imperial Units               Metric Units
+                                          Paving Thickness:                                         [   3.00     ]  in          [   76.2     ] mm
+             Compaction
+                                          Paving Width:                                              [   15.00    ]  feet        [  4.572    ] meter
+             Windrow                                              Material Density Uncompacted:                      [   140     ]  lbs/ft3      [  2243    ] kg/m3
+                    Yield                  Truck Capacity or Total Tonnage:                      [    7.7      ]  ton         [    7.0      ] tonnes
+                                    Length of Mat at 100% Yield:                       [  29.33    ]  feet        [    9       ] meter
+                 Slope
+                                            Actual Length of Mat produced:                      [  29.53    ]  feet        [    9       ] meter
+               Thickness
+
+            Job Summary       % Yield for given truck load or tonnage:                                      [   101     ]
+                                                                                                                                                [      80     ]
+                  Legal
+
+
+                                        Thickness:                         [   3.00     ]  in          [   76.2     ] mm
+                                    Length of Mat produced:     [  29.53    ]  feet        [    9       ] meters
+                     Exit                 Width:                               [   15.00    ]  feet        [  4.572    ] meters
+
+
+        The yield calculation shows the paving distance for a given amount of tonnes.
+
+
+
+
+
+       The yield calculator portion of the Paving Production   minute). Therefore, approximately two minutes are
+         Calculator shows that 7 tonnes (7.7 tons) assumed     available before the hopper and conveyors run out
+         to be available in the hopper would allow the paver     of material. If the empty truck can leave and another
+         to place 9 m (29') of material at the width and          truck be positioned in less than two minutes,
+        depth of this example. The calculated paving speed    theoretically the paver could continue paving at
+          at 100 percent efficiency is 4.3 m / minute (14' /       normal speed without stopping.
+
+
+
+240            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 241 ===
+APPLICATIONS
+
+
+
+
+In most instances, the paver cannot pave
+continuously between trucks without running low
+on material. In order to pave without stopping or
+slowing between trucks, the paving speed will
+have to be reduced. This means reducing hourly
+production.
+
+
+
+
+
+[ MATERIAL TRANSFER VEHICLES ]
+
+Using a self-propelled material transfer vehicle        dependent on the volume of material in the hopper
+to supply the paver makes it possible to pave at        to determine how long to pave between trucks.
+normal paving speed without stopping. Various       Each material transfer vehicle has a specified
+types of material transfer vehicles have different       storage capacity, and a hopper insert is frequently
+storage capacities. Some material transfer vehicles    placed in the paver. Smaller transfer vehicles have
+include remixing technology. In other cases,          around 11 tonnes (12 tons) storage capacity. Hopper
+remixing occurs in the hopper insert included with     inserts vary in capacity from around 12 tonnes (13
+the transfer vehicle.                                    tons) to 16 tonnes (18 tons). Based on a fully loaded
+                                                     small transfer vehicle and a full hopper insert,
+Some public works departments have written        up to 27 tonnes (30 tons) could be available for
+method specifications that describe the type          continuous paving between trucks.
+of material transfer vehicle that must be used
+on designated projects. When considering the
+use of any material transfer device, consult local
+specifications and regulations.
+
+Material transfer devices come in different
+shapes and sizes, but have one common feature.
+They totally separate the haul unit from the
+paver. Therefore, the paver operator is no longer
+
+
+
+
+
+A material transfer vehicle does not contact the paver as it transfers material from the haul unit.
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      241
+
+=== SOURCE PDF PAGE 242 ===
+APPLICATIONS
+
+
+
+      YIELD CALCULATOR
+
+
+
+                 Trucking
+
+              Paver Speed         General Inputs                                                    Imperial Units               Metric Units
+                                          Paving Thickness:                                         [   3.00     ]  in          [   76.2     ] mm
+             Compaction
+                                          Paving Width:                                              [   15.00    ]  feet        [  4.572    ] meter
+             Windrow                                              Material Density Uncompacted:                      [   140     ]  lbs/ft3      [  2243    ] kg/m3
+                    Yield                  Truck Capacity or Total Tonnage:                      [   30.0     ]  ton         [   27.2     ] tonnes
+                                    Length of Mat at 100% Yield:                       [  114.29   ]  feet        [   35      ] meter
+                 Slope
+                                            Actual Length of Mat produced:                      [   115     ]  feet        [  35.05    ] meter
+               Thickness
+
+            Job Summary       % Yield for given truck load or tonnage:                                      [   101     ]
+                                                                                                                                                [      80     ]
+                  Legal
+
+
+                                        Thickness:                         [   3.00     ]  in          [   76.2     ] mm
+                                    Length of Mat produced:     [   115     ]  feet        [  35.05    ] meters
+                     Exit                 Width:                               [   15.00    ]  feet        [  4.572    ] meters
+
+
+          Yield calculation showing distance of paving with added storage capacity.
+
+
+
+       The added storage capacity in the material transfer    Since the paving distance for 27 tonnes (30 tons) is
+         vehicle and the hopper insert increase the distance   35 m (114'), the time available for paving between
+         that can be paved before the paver runs empty.        trucks is about eight minutes. Compare that time to
+      Assume the calculated paving speed is 4.3 m /        the roughly two minutes available when discharging
+        minute (14' / minute) at 100 percent efficiency.          directly from the truck into the paver.
+
+
+
+
+
+          Larger material transfer vehicles have more storage capacity.
+
+
+242            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 243 ===
+APPLICATIONS
+
+
+
+
+Larger material transfer vehicles carry and store       with the large hopper insert has approximately
+more material. A material transfer vehicle with       40 tonnes (44 tons) of material available between
+23-tonne (25-ton) storage capacity in combination      trucks.
+
+
+
+YIELD CALCULATOR
+
+
+
+        Trucking
+
+      Paver Speed         General Inputs                                                    Imperial Units               Metric Units
+                                 Paving Thickness:                                         [   3.00     ]  in          [   76.2     ] mm
+     Compaction
+                                 Paving Width:                                              [   15.00    ]  feet        [  4.572    ] meter
+      Windrow                                   Material Density Uncompacted:                      [   140     ]  lbs/ft3      [  2243    ] kg/m3
+          Yield                  Truck Capacity or Total Tonnage:                      [   44.0     ]  ton         [   39.9     ] tonnes
+                            Length of Mat at 100% Yield:                       [  167.62   ]  feet        [    51      ] meter
+        Slope
+                                  Actual Length of Mat produced:                      [  167.00   ]  feet        [  50.90    ] meter
+       Thickness
+
+    Job Summary       % Yield for given truck load or tonnage:                                      [   100     ]
+                                                                                                                                  [      80     ]
+         Legal
+
+
+                               Thickness:                         [   3.00     ]  in          [   76.2     ] mm
+                            Length of Mat produced:     [  167.00   ]  feet        [  50.90    ] meters
+           Exit                 Width:                               [   15.00    ]  feet        [  4.572    ] meters
+
+
+Yield calculation showing distance of paving with even more storage capacity.
+
+
+
+
+
+The added storage capacity provided by the larger     This much paving time between trucks opens up
+material transfer vehicle and the hopper insert       more possibilities. For example, supplying two
+increases the distance that can be paved before the   pavers working in echelon (staggered paving)
+paver runs empty. Again, assume the calculated       with one material transfer vehicle is possible.
+paving speed is 4.3 m / minute (14' / minute) at 100    This application requires some coordination but
+percent efficiency. Since the paving distance for 40    experienced crews utilize this approach on a regular
+tonnes (44 tons) is 51 m (167'), the time available      basis.
+for paving between trucks is almost 12 minutes.
+                                            The other possibility is reducing the number ofCompare that time to the roughly two minutes
+                                                      trucks required.available when discharging directly from the truck
+into the paver or eight minutes available when
+paving with a smaller material transfer vehicle.
+
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      243
+
+=== SOURCE PDF PAGE 244 ===
+APPLICATIONS
+
+
+
+
+      TRUCKING CALCULATOR
+
+
+                 Trucking           General Inputs                                                    Imperial Units                Metric Units
+                                                     Production Rate of Hot Plant:                                 [   220    ]  tons/hr       [  200    ]  tonnes/hr
+              Paver Speed
+                                                      Multiple Silo Plants: Initial Storage                           [    0     ]  tons         [   0      ]  tonnes
+             Compaction                                                   Paving Hours:                                                 [    0.0    ]  hrs          [   0.0     ]  hrs
+             Windrow                    Truck Capacity (size):                                          [   24.3   ]  net tons     [  22.0    ]  net tonnes
+
+                    Yield                                  Truck Cycle Times (minutes)
+                 Slope                    Load Time and Ticket:                                         [    6     ]
+                                                         Tarp:                                                           [    4     ]               Thickness
+                                                 Haul to Job:                                                   [   40    ]
+            Job Summary
+                                              Time on Site:                                                  [   12    ]
+                  Legal                Dump / Clean:                                                 [   10    ]
+                                                   Return Haul:                                                   [   40    ]
+
+
+                     Exit                 Truck Cycle Factor (total time in hours)                 [    1.9    ]
+                               Number of Trucks Needed:                          [   17.2   ]
+
+
+         Trucks needed to haul 200 tonnes (220 tons) per hour with 1.9-hour cycle time.
+
+
+
+
+        Consider these project conditions for ordering        an average of 12 minutes waiting time to unload.
+         trucks. The hourly production is 200 tonnes (220     Assume 10 minutes to discharge into the paver
+         tons) per hour. The average load for a haul unit is 22   hopper and clean the truck bed before leaving
+        tonnes (24 tons). Six minutes have been assigned     the worksite. The total cycle time is 1.9 hours.
+         to load from the storage silo and four minutes to      To deliver the hourly production rate under these
+        cover the load. It is a 40-minute haul to the project     conditions, 18 trucks must be ordered.
+       and 40-minute return trip. On the project, assume
+
+
+
+
+
+244            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 245 ===
+APPLICATIONS
+
+
+
+
+TRUCKING CALCULATOR
+
+
+        Trucking           General Inputs                                                    Imperial Units                Metric Units
+                                         Production Rate of Hot Plant:                                 [   220    ]  tons/hr       [  200    ]  tonnes/hr
+      Paver Speed
+                                          Multiple Silo Plants: Initial Storage                           [    0     ]  tons         [   0      ]  tonnes
+     Compaction                                        Paving Hours:                                                 [    0.0    ]  hrs          [   0.0     ]  hrs
+      Windrow                    Truck Capacity (size):                                          [   24.3   ]  net tons     [  22.0    ]  net tonnes
+
+          Yield                          Truck Cycle Times (minutes)
+        Slope                    Load Time and Ticket:                                         [    6     ]
+                                            Tarp:                                                           [    4     ]       Thickness
+                                      Haul to Job:                                                   [   40    ]
+    Job Summary
+                                    Time on Site:                                                  [    6     ]
+         Legal                Dump / Clean:                                                 [    5     ]
+                                       Return Haul:                                                   [   40    ]
+
+
+           Exit                 Truck Cycle Factor (total time in hours)                 [    1.7    ]
+                        Number of Trucks Needed:                          [   15.4   ]
+
+
+Trucks needed to haul 200 tonnes (220 tons) per hour with 1.7-hour cycle time.
+
+
+If a material transfer vehicle is added to the project,    the waiting time and discharge time are significantly
+the cycle time will change. The hourly production      reduced. Assume an average of six minutes waiting
+is still 200 tonnes (220 tons) per hour. The average    time to unload. Assume five minutes to discharge
+load for a haul unit stays at 22 tonnes (24 tons).         into the material transfer vehicle and clean the
+Six minutes can still be assigned to load from the      truck bed before leaving the worksite. The total
+storage silo and four minutes to cover the load. It      cycle time shrinks to 1.7 hours. Only 16 trucks are
+is a 40-minute haul to the project and 40-minute      needed to deliver the hourly production under these
+return trip. On the project, because the trucks can     conditions.
+discharge faster into the material transfer vehicle,
+
+
+
+
+
+Studies by public works departments and
+universities show that material blending occurs
+during the material transfer process. Blending is
+beneficial in helping to remix material that has
+segregated in the haul unit. All of the normal best
+practices must be observed to avoid mat defects,
+but material transfer vehicles with remixing
+capability produce bituminous layers that have
+improved visual appearance. Remixing also helps
+produce a layer with uniform temperature from
+edge to edge. It is common to measure layer
+surface temperature within a 10° C (15° F) range.
+Most notable, the temperature variations associated
+with truck exchanges virtually disappear when
+transfer devices are used on a project.
+                                                             Material blending by the material transfer vehicle improves
+                                                                control of segregation, uniformity and layer temperature.
+
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      245
+
+=== SOURCE PDF PAGE 246 ===
+APPLICATIONS
+
+
+
+
+       The crew must be aware of a few things when
+        using material transfer devices and hopper inserts.
+
+       The same care should be taken to discharge from
+        the haul unit into the hopper of the material transfer
+         vehicle that would be taken when discharging into
+        the hopper of the paver. If any spills occur, quickly
+        clean them up. Be especially vigilant about spills
+         that are directly in line with the paver undercarriage
+         or the path of the grade sensors. Remember, paving
+        over spills is never a good practice.
+
+
+
+
+
+                                                        Crews need to avoid spills that can occur in front of
+                                                                         material transfer vehicles.
+
+
+
+
+
+        Run the first few loads directly through the transfer vehicle when the transfer vehicle is cold.
+
+
+
+246            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 247 ===
+APPLICATIONS
+
+
+
+
+At the start of a paving shift, do not fill the material
+transfer vehicle to its storage capacity, especially
+when the ambient temperature is under 15° C
+(60° F). Hot bituminous material sticks to cold
+metal. There is a possibility that material will begin
+to clog discharge areas and decrease the amount
+of material that is being transferred. To prevent
+material sticking to cold metal, run the first two
+or three truckloads straight through the transfer
+vehicle to heat metal surfaces.
+
+When the bituminous material includes large
+aggregates, there can be some segregation in
+the storage compartment of the material transfer
+vehicle and/or in the hopper insert. Caterpillar         Never use all the material in the hopper insert or transfer
+recommends that the material level in the transfer      vehicle while paving.
+device storage compartment or in the hopper insert
+be maintained at least one-third full, especially if
+the material has aggregates 19 mm (0.75") or larger.
+If the remaining material in storage is used, it may
+primarily consist of large aggregates.
+
+
+
+
+
+Just as segregation can occur in the layer when the    material transfer vehicle needs to be emptied to
+hopper wings are cycled over a hopper that is out of   lighten the vehicle load when crossing a bridge, do
+material, patches of segregated aggregate will also    not use the last of the material for paving. Instead,
+appear in the layer when a hopper insert or transfer    discharge that material into a haul unit and salvage
+vehicle runs low on material. For example, if the        that last-of-load material later.
+
+
+
+
+
+Patch segregation caused by running low in the hopper insert.
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      247
+
+=== SOURCE PDF PAGE 248 ===
+APPLICATIONS
+
+
+
+         [ WINDROW ELEVATORS ]
+
+       Windrow elevators were the first material transfer
+         devices. They are still widely used in some areas
+       and are favored because they provide the most
+        economical means of creating continuous paving at
+        a consistent speed.
+
+
+
+
+
+         High-production windrow elevator transferring material into a paver with hopper insert.
+
+
+
+
+       Windrow elevators attach directly to the front of     An adjustable moldboard is located behind the
+        the paver.Bituminous material is discharged from     combining augers and the discharge conveyor.
+         haul units as a windrow onto the grade in front of      Set the height of the moldboard 6 mm to 12 mm
+        the paver. Some windrow elevators have combining    (0.25" to 0.50") above the grade to avoid leaving
+        augers that push material toward the center of the     bituminous material on the grade.
+         transfer conveyor. Slats on the transfer conveyor
+         pick up material from the windrow and deposit the    The same guidelines apply for maintaining the
+         material on the conveyor. Material drops off the end   hopper or hopper insert at least one-third full while
+         of the conveyor into the hopper. To increase the       paving. This is especially important if paving with a
+        storage capacity of the paver hopper, many crews    mix that has aggregates 19 mm (0.75") or larger.
+           install rubber belt flashing across the front of the
+        hopper or they install a hopper insert.
+
+
+
+
+
+248            | Unit 7: PAVING APPLICATIONS
+
+=== SOURCE PDF PAGE 249 ===
+APPLICATIONS
+
+
+
+
+The most common type of haul unit used for
+windrow paving is referred to as a “belly dump” or
+a “bottom dump.” This type of truck can be a single
+or tandem unit. The discharge is from the bottom of
+the truck body.
+
+Where belly dumps are not readily available, dump
+trucks with modified discharge openings and live-
+bottom trucks have been successfully used.
+
+The skill of the operator who is controlling the
+material discharge to form the windrow is critical to
+the paving process. This operator, referred to as the
+“dump man,” must balance the size of the windrow
+with the demand for material passing through the
+paver. Sometimes a gap in the windrow is needed
+to avoid overfilling the hopper or insert. At other
+times, an overlap in the windrow from one truck
+to another is needed to supply additional material.
+                                                           Various types of haul units can be used to create windrows.
+High-production windrow elevators with wide
+pick-up openings make it easier to transfer large or
+off-center windrows.
+
+
+
+
+
+To avoid heat loss in the bituminous material,          hot bituminous material is transferred, some heat
+crews manage the length of the windrow according     is lost. To verify heat loss, use a probe to check
+to ambient conditions. For example, when the           interior temperature of the windrow as soon as
+ambient temperature is less than 25° C (80° F),             it leaves the haul unit. Then, check the interior
+the crew may limit the length of the windrow to       temperature of the windrow again just before the
+what one truck can haul. On hot days, when there    windrow elevator picks it up. If the heat loss is more
+is little risk of heat loss, windrow length may be       than 5° C (10° F), shorten the length of the windrow
+what two trucks can haul. Remember, every time      to reduce the time that it sits on grade exposed to
+                                                   the elements.
+
+
+
+
+
+When ambient temperature conditions permit, there may be a long windrow in front of the paver.
+
+
+
+                                                                           Unit 7: PAVING APPLICATIONS  |      249
+
+=== SOURCE PDF PAGE 250 ===
+APPLICATIONS
+
+
+
+         [ ROLLER-COMPACTED CONCRETE ]
+
+        Roller-compacted concrete is a cement
+         hydraulically-bound material used for pavements
+       and other applications. The material is placed with
+         asphalt paving equipment, but gains strength
+        through compaction by rollers in addition to
+        chemical curing that is associated with Portland
+       cement concrete. Due to the rapid gain in strength,
+        roller-compacted concrete may be opened to
+           traffic much sooner than what is possible using
+         conventional concrete pavement.
+
+        Roller-compacted concrete is a zero-slump material
+         that is easily transported. It is most common to
+       use end dump trucks, although mixer trucks may
+         also deliver material to the worksite. Since it is
+                                                                 Roller-compacted concrete can be transferred to the paver
+       compacted by a roller, the surface is relatively                                                             by an end dump truck or by a cement mixer truck.
+       smooth and dense. It is suitable for heavy-duty,
+          industrial applications and for road pavements
+       where loads are heavy but speeds are low. For
+        high-speed roadways, the surface of the roller-
+       compacted layer is overlaid with one or more
+        bituminous layers.
+
+      Some major applications of roller-compacted
+        concrete include:
+
+          • Commercial parking areas
+          • Industrial storage and parking
+          • Waste transfer areas
+          • Container storage areas
+          • Truck and freight terminals
+          • Applications where speed of construction is
+             essential
+          • Low-volume urban and rural roads or shoulders
+                                                                     Thick layers of roller-compacted concrete are normally laid
+          • Aircraft parking areas (with thick bituminous      down with combination screeds.
+              overlay)
+
+
+
+
+
+        Pavers perform initial compaction through vibratory   maximum depth of 15 cm (6"). If the design depth
+        screeds or through screeds that combine vibration      is more than 15 cm (6"), multiple layers must be
+       and tamping energy. Vibratory screeds usually        paved.
+        develop 80 percent to 85 percent density, while
+        combination screeds develop 90 percent or more     Pavers equipped with vibratory and tamping
+         of the design density. Either way, compaction by      screeds can develop adequate density while paving
+          rollers is required to reach the typical minimum         layers up to 30 cm (12") thick.
+         density standard of up to 98 percent.
+
+        Pavers equipped with vibratory screeds normally
+        place layers of roller-compacted concrete to a
+
+
+
+
+250            | Unit 7: PAVING APPLICATIONS
+

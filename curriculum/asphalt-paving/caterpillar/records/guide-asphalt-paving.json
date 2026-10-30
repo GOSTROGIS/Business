@@ -1,0 +1,193 @@
+{
+  "id": "CAT-01",
+  "slug": "guide-asphalt-paving",
+  "title": "Guide to Asphalt Paving",
+  "publisher": "Caterpillar",
+  "type": "Application guide",
+  "publication": "QEBQ1888",
+  "publication_year": 2016,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Asphalt paving process, tractor, screed, material delivery and handwork; model examples vary.",
+  "download_filename": "cat-guide-asphalt-paving.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200908-73626-e8408",
+  "accessed": "2026-10-30",
+  "original_bytes": 30351532,
+  "original_sha256": "708e981b0910239b7c455df16f6912afc1041070636b5e26b0bd66a4cbb9f88c",
+  "original_pages": 300,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "GUIDE TO ASPHALT PAVING\nGUIDE TO ASPHALT PAVING\nCAT® PAVING PRODUCTS\n",
+    "last_page": ""
+  },
+  "parts": [
+    {
+      "file": "sources/guide-asphalt-paving/p0001-0025.pdf",
+      "text": "text/guide-asphalt-paving/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 4813612,
+      "sha256": "b1acc9026b93236ee7b03a572bcdd48b61d4617514488cf1e4aedead057b6f27",
+      "text_sha256": "e62d37aaf501b554d150e96d811b67289511b564ab8ff1609f950d2591cb18ad",
+      "empty_text_source_pages": [
+        2,
+        3,
+        4,
+        8,
+        12
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0026-0050.pdf",
+      "text": "text/guide-asphalt-paving/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 2339318,
+      "sha256": "e9813fc4fe10db79a8be38202134bcfcb1b41aadb7d7d3f84d4ec4e5383acce0",
+      "text_sha256": "a3614c7e1752da513708e1b28abd0bdff4858a5529dd90b8307d78db8221b0d8",
+      "empty_text_source_pages": [
+        34
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0051-0075.pdf",
+      "text": "text/guide-asphalt-paving/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 2147925,
+      "sha256": "9ab9b43831f4d8e5a08a9945899664bb18dd18f21a2ec741ac6b2a3c42b7b560",
+      "text_sha256": "7bdb050c92f23b56fdec8024c660aaac2a1a5e8ff24ab622b8aac409ff6daa9e",
+      "empty_text_source_pages": [
+        60
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0076-0100.pdf",
+      "text": "text/guide-asphalt-paving/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 3564083,
+      "sha256": "7a2100c9530ca25c0f86ab01f081d7b57e85357b3172747671f3c68a11003789",
+      "text_sha256": "01680704f9daa406e45e65f310bc06d03965b45d5544cb68fc16ab2dcc1f004e",
+      "empty_text_source_pages": [
+        96
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0101-0125.pdf",
+      "text": "text/guide-asphalt-paving/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 4371925,
+      "sha256": "c15e80ceb5603be8b8efc4cc76fae1572d6c4ea209daf34e4bf9c7be2c8134be",
+      "text_sha256": "bf1b22ef1789e281e49309a0f10231d5b6967114e2e5fa2ac9087541a5d0fa88",
+      "empty_text_source_pages": [
+        118
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0126-0150.pdf",
+      "text": "text/guide-asphalt-paving/p0126-0150.txt",
+      "start": 126,
+      "end": 150,
+      "pages": 25,
+      "bytes": 4212823,
+      "sha256": "aae494777d227785559da9a00ae581d4d520c05a189d1910be4ed84a2775fe4b",
+      "text_sha256": "37bb687f0a54620ae9c5c28ad8dc000d10b1782a6145194c54013b31bda5469d",
+      "empty_text_source_pages": [
+        146
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0151-0175.pdf",
+      "text": "text/guide-asphalt-paving/p0151-0175.txt",
+      "start": 151,
+      "end": 175,
+      "pages": 25,
+      "bytes": 1944626,
+      "sha256": "74943ba3c355a8ff947c683dcd06a33cf30e5979005cd423e78682ba4a87a2ce",
+      "text_sha256": "8d3a6a66ca03dec9408c40967e36f0788ce107819c108d5b39b65ab957964b3e",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0176-0200.pdf",
+      "text": "text/guide-asphalt-paving/p0176-0200.txt",
+      "start": 176,
+      "end": 200,
+      "pages": 25,
+      "bytes": 3587303,
+      "sha256": "446656fdb31657f345b4aa9ecd5b6d20f69e049b9612c49545ea334a170cd7e5",
+      "text_sha256": "fa69e8cba0cdbb029f2a4b83e9bee9b72e6cf5612b7c98a31ba162fb5f15fc02",
+      "empty_text_source_pages": [
+        184
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0201-0225.pdf",
+      "text": "text/guide-asphalt-paving/p0201-0225.txt",
+      "start": 201,
+      "end": 225,
+      "pages": 25,
+      "bytes": 2357964,
+      "sha256": "7f4754963795bf52c55e85cc07cb2c374e79b22963bc71f833d8fa836672fafd",
+      "text_sha256": "9a30d5f39616afe4e669650e933385d301b939af3e7455d7150007e3ed6b201c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0226-0250.pdf",
+      "text": "text/guide-asphalt-paving/p0226-0250.txt",
+      "start": 226,
+      "end": 250,
+      "pages": 25,
+      "bytes": 2411724,
+      "sha256": "1817cd716df9e854e4e9f2bf65655b5142a83c42ef518a6dbd262b0cf84166f0",
+      "text_sha256": "459312107d5ee6b226db64d32f6fac67f170d19898f645e1fbd3b80a1a3b4ea5",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0251-0275.pdf",
+      "text": "text/guide-asphalt-paving/p0251-0275.txt",
+      "start": 251,
+      "end": 275,
+      "pages": 25,
+      "bytes": 3696516,
+      "sha256": "9f4ca4196049a780ba54a2e88eab6e10e3df9ae51c1742e50bbcd4fe8f0c77eb",
+      "text_sha256": "e75a6d9f292553afdb1e6742d9c58f28ea8ae4b435eb6c4f79b55ec99206897d",
+      "empty_text_source_pages": [
+        258
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-paving/p0276-0300.pdf",
+      "text": "text/guide-asphalt-paving/p0276-0300.txt",
+      "start": 276,
+      "end": 300,
+      "pages": 25,
+      "bytes": 1724626,
+      "sha256": "6fbb6854235d98aeb8f85278d0393bdbbc58a49ced196caca42a913c91661b8f",
+      "text_sha256": "d3c49a33dfc7f37e55e08e2d30ead48f6df6152eda1175b6d35d4749132828b8",
+      "empty_text_source_pages": [
+        298,
+        299,
+        300
+      ],
+      "original_bytes_preserved": false
+    }
+  ]
+}

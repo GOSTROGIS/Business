@@ -1,0 +1,1472 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0051-0075.pdf
+SOURCE SHA-256: cd1af74f9aacc9ee19b1dea202f28c8dad366a78300214e751edd9069286b9fc
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+KEBU7520-08                                                                               51
+                                                                            Operation Section
+                                                       Engine Starting with Jump Start Cables
+
+
+14. Immediately after you start the stalled engine,
+  disconnect the jump start cable from the machine
+  that is being used as a power source. Disconnect
+  the negative battery cable first, and then
+  disconnect the positive battery cable.
+15. Disconnect the other end of the jump start cable
+  from the stalled machine.
+16. When the engine is running and the charging
+  system is in operation, conclude the failure
+  analysis on the starting charging system of the
+  stalled machine, as required.
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+52                                                         KEBU7520-08
+Maintenance Section
+Maintenance Access
+
+
+Maintenance Section
+
+Maintenance Access
+                                               i01978137
+
+
+Access Doors and Covers
+SMCS Code: 7251; 7263; 7273-572; 7273-573; 7273
+
+
+
+
+Illustration 61                               g01032688
+
+Use the handle in order to unlatch the engine hood.
+This will allow access to the engine and major
+compartments.
+
+
+
+
+Illustration 62                               g01032691
+
+The fuses are located behind the cover plate.
+Remove the four screws that are holding the cover
+plate in place in order to gain access to the fuses.
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+KEBU7520-08                                                                                                      53
+                                                                                             Maintenance Section
+                                                                                          Tire Inflation Information
+
+
+Tire Inflation Information                                                                                  i02610518
+
+
+
+                                                i02016043
+                                                            Tire Inflation Pressure
+                                                            Adjustment
+Tire Inflation with Air                                     SMCS Code: 4203
+SMCS Code: 4203
+                                                            S/N: 2251–Up
+S/N: 2251–Up
+                                                            Always obtain the proper tire inflation pressures and
+                                                            maintenance recommendations for the tires on your
+                                                            machine from your tire supplier. The tire pressure in a
+                                                            warm shop area 18° to 21°C (65° to 70°F) will
+Use a self-attaching inflation chuck and stand be-          significantly change when you move the machine into
+hind the tread when inflating a tire.                       freezing temperatures. If you inflate the tire to the
+                                                            correct pressure in a warm shop, the tire will be
+Proper inflation equipment, and training in using           underinflated in freezing temperatures. Low pressure
+the equipment, are necessary to avoid overinfla-            shortens the life of a tire.
+tion. A tire blowout or rim failure can result from
+improper or misused equipment.                              Reference: When you operate the machine in
+                                                            freezing temperatures, refer to Special Publication,
+Before inflating tire, install on the machine or put        SEBU5898, “Cold Weather Recommendations for All
+tire in restraining device.
+                                                            Caterpillar Machines” in order to adjust tire inflation
+                                                            pressures.
+                        NOTICE
+Set the tire inflation equipment regulator at no more
+than 140 kPa (20 psi) over the recommended tire
+pressure.
+
+Table 7
+      Tire Size    Minimum Pressure   Maximum Pressure
+      9.5/65-15    260 kPa (38 psi)    325 kPa (47 psi)
+
+      8.5/90-15    170 kPa (25 psi)    350 kPa (50 psi)
+
+
+Note: The contact area for the tire varies 15 mm
+(0.6 inch) over the tire pressure range that is
+recommended.
+
+                                                i02021158
+
+
+Tire Shipping Pressure
+SMCS Code: 4203; 7500
+
+S/N: 2251–Up
+The shipping pressures for the machine may vary
+from the desired operating pressures for the
+machine. Adjust the tire pressures before operating
+the machine.
+Table 8
+      Tire Size    Minimum Pressure   Maximum Pressure
+      9.5/65-15    260 kPa (38 psi)    325 kPa (47 psi)
+
+      8.5/90-15    170 kPa (25 psi)    350 kPa (50 psi)
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+54                                                                                                                              KEBU7520-08
+Maintenance Section
+Lubricant Viscosities and Refill Capacities
+
+
+Lubricant Viscosities and
+Refill Capacities
+                                                            i02167235
+
+
+Lubricant Viscosities
+SMCS Code: 1000; 7000; 7581
+
+Table 9
+                                              Lubricant Viscosities for Ambient Temperatures
+
+      Compartment or                                                                                        °C                   °F
+                            Oil Type and Classification              Oil Viscosities
+         System                                                                                    Min           Max      Min           Max
+                                                                        SAE 0W20                   −40           10       −40            50
+                                                                        SAE 0W30                   −40           30       −40            86
+                            Caterpillar Multigrade DEO                  SAE 5W30                   −30           30       −22            86
+  Engine Crankcase                   API CG-4
+                                     API CF-4                           SAE 5W40                   −30           40       −22           104
+                                                                        SAE 10W30                  −20           40       −4            104
+                                                                        SAE 15W40                  −15           50        5            122
+                                                                        SAE 0W20                   −40           40       −40           104
+                                                                        SAE OW30                   −40           40       −40           104
+                                                                        SAE 5W30                   −30           40       −22           104
+                                Caterpillar HYDO
+                                 Caterpillar DEO                        SAE 5W40                   −30           40       −22           104
+                                Caterpillar TDTO
+                                Caterpillar MTO                         SAE 10W                    −20           40       −4            104
+  Hydraulic Systems
+                                    API CG-4                             SAE 30                    10            50       50            122
+                                    API CF-4
+                                     API CF                             SAE 10W30                  −20           40       −4            104
+                                Caterpillar TO-4
+                                                                        SAE 15W40                  −15           50        5            122
+                                                                     Caterpillar MTO               −25           50        5            104
+
+                                                                  BIO HYDO-HEES(1)                 −25           43       −13            110
+
+      Eccentric Weight
+                                Synthetic ISO 220              4C-6767 Synthetic Oil(2)            −20           50       −4            122
+         Housing
+(1) For BIO HYDO HEES oil, tank temperatures should not exceed 100°C (212°F). Do not use BIO HYDO HEES oil in hydraulic systems with
+    clutches or brakes.
+(2) 4C-6767 Synthetic Oil is a premium synthetic gear and bearing lubricant with no viscosity improvers. This lubricant has an ISO Viscosity
+    Grade of 220, and a minimum viscosity index of 150.
+
+
+                                                            i02164915          (Table 10, contd)
+                                                                                           Fuel Tank               48     12.7          10.6
+Capacities (Refill)                                                                       Engine Oil               5.7     1.5           1.3
+SMCS Code: 1000; 6320; 7000; 7560
+                                                                                       Hydraulic Tank Oil          26      6.9           5.7
+Table 10
+                                                                                       Vibrator Housings              2    0.5          0.44
+                         REFILL CAPACITIES
+                            Approximate                                                Water Spray Tank           160     42.3          35.2
+                                                                                         (Standard)
+ Compartment or System           Liters    US Gallon      Imperial
+                                                           Gallon
+
+                                                                                                                                      (continued)
+
+                                                          (continued)
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+KEBU7520-08                                                              55
+                                                         Maintenance Section
+                                                           S·O·S Information
+
+
+(Table 10, contd)
+    Water Spray Tank (If
+                              240   63.4      52.8
+        Equipped)
+
+Additive Spray Tank for the
+                              80    21.1      17.6
+         CB-225E
+          Coolant             6.7   1.8       1.5
+
+
+                                             i07445339
+
+
+S·O·S Information
+SMCS Code: 1348; 3080; 4070; 4250; 4300; 5050;
+7542
+S·O·S Services is a highly recommended process for
+Cat customers to use in order to minimize owning
+and operating cost. Customers provide oil samples,
+coolant samples, and other machine information. The
+dealer uses the data in order to provide the customer
+with recommendations for management of the
+equipment. In addition, S·O·S Services can help
+determine the cause of an existing product problem.
+Refer to Special Publication, SEBU6250, “Caterpillar
+Machine Fluid Recommendations” for detailed
+information concerning S·O·S Services.
+The effectiveness of S·O·S Services is dependent on
+timely submission of the sample to the laboratory at
+recommended intervals.
+Refer to the Operation and Maintenance Manual,
+“Maintenance Interval Schedule” for a specific
+sampling location and a service hour maintenance
+interval.
+Consult your Cat dealer for complete information and
+assistance in establishing an S·O·S program for your
+equipment.
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+56                                                                                                  KEBU7520-08
+Maintenance Section
+Maintenance Support
+
+
+Maintenance Support                                        The high-pressure fuel lines are the fuel lines that are
+                                                           between the high-pressure fuel pump and the high-
+                                                           pressure fuel manifold and the fuel lines that are
+                                               i06066971   between the fuel manifold and cylinder head. These
+                                                           fuel lines are different from fuel lines on other fuel
+System Pressure Release                                    systems because of the following differences:
+
+SMCS Code: 1250-553-PX; 1300-553-PX; 1350-                 • The high-pressure fuel lines are constantly
+553-PX; 3000-553-PX; 4250-553-PX; 4300-553-PX;               charged with high pressure.
+5050-553-PX; 5612-553-PX; 7540-553-PX
+                                                           • The internal pressures of the high-pressure fuel
+                                                             lines are higher than other types of fuel system.
+                                                           Before any service or repair is performed on the
+Personal injury or death can result from sudden            engine fuel lines, perform the following tasks:
+machine movement.
+                                                           1. Turn off the engine.
+Sudden movement of the machine can cause in-
+jury to persons on or near the machine.                    2. Wait for 10 minutes.
+To prevent injury or death, make sure that the             Note: Fuel pressure can be monitored by Caterpillar
+area around the machine is clear of personnel              Electronic Technician (ET).
+and obstructions before operating the machine.
+                                                           Do not loosen the high-pressure fuel lines in order to
+                                                           purge trapped air from the fuel system.
+Coolant System
+                                                           Hydraulic System
+
+Pressurized system: Hot coolant can cause seri-
+ous burn. To open cap, stop engine, wait until ra-         Personal injury can result from hydraulic oil pres-
+diator is cool. Then loosen cap slowly to relieve          sure and hot oil.
+the pressure.
+                                                           Hydraulic oil pressure can remain in the hydraulic
+To relieve the pressure from the coolant system, turn      system after the engine has been stopped. Seri-
+off the machine. Allow the cooling system pressure         ous injury can be caused if this pressure is not
+cap to cool. Remove the cooling system pressure            released before any service is done on the hy-
+cap slowly in order to relieve pressure.                   draulic system.
+                                                           Make sure all of the attachments have been low-
+Engine Oil System                                          ered, oil is cool before removing any components
+                                                           or lines. Remove the oil filler cap only when the
+To relieve the pressure from the engine oil system,        engine is stopped, and the filler cap is cool
+turn off the engine.                                       enough to touch with your bare hand.
+
+Fuel System                                                1. Shut off the engine.
+To relieve the pressure from the fuel system, turn off     2. Apply the parking brake.
+the engine.
+                                                           3. Slowly loosen the filler cap in order to release the
+High Pressure Fuel Lines                                      pressure in the hydraulic tank.
+                                                           4. Tighten the filler cap.
+
+
+Contact with high pressure fuel may cause fluid
+penetration and burn hazards. High pressure fuel
+spray may cause a fire hazard. Failure to follow
+these inspection, maintenance and service in-
+structions may cause personal injury or death.
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+KEBU7520-08                                                                                                     57
+                                                                                             Maintenance Section
+                                                           Welding on Machines and Engines with Electronic Controls
+
+
+5. The pressure in the hydraulic system has been
+   released. Lines and components can be removed.
+
+                                               i07746333
+
+
+Welding on Machines and
+Engines with Electronic
+Controls
+SMCS Code: 1000; 7000
+Do not weld on any protective structure. If it is
+necessary to repair a protective structure, contact
+your Cat dealer.
+Proper welding procedures are necessary to avoid
+damage to the electronic controls and to the
+bearings. When possible, remove the component
+that must be welded from the machine or the engine
+and then weld the component. If you must weld near
+an electronic control on the machine or the engine,
+temporarily remove the electronic control to prevent
+heat related damage. The following steps should be
+followed to weld on a machine or an engine with
+electronic controls.
+1. Turn off the engine. Place the engine start switch
+   in the OFF position.
+2. If equipped, turn the battery disconnect switch to
+   the OFF position. If there is no battery disconnect
+   switch, remove the negative battery cable at the
+   battery.
+
+                      NOTICE
+Do NOT use electrical components (ECM or sensors)
+or electronic component grounding points for ground-
+ing the welder.
+
+3. Clamp the ground cable from the welder to the
+   component that will be welded. Place the clamp as
+   close as possible to the weld. Make sure that the
+   electrical path from the ground cable to the
+   component does not go through any bearing. Use
+   this procedure to reduce the possibility of damage
+   to the following components:
+
+   • Bearings of the drive train
+
+   • Hydraulic components
+
+   • Electrical components
+
+   • Other components of the machine
+
+4. Protect any wiring harnesses and components
+   from the debris and the spatter which is created
+   from welding.
+5. Use standard welding procedures to weld the
+   materials together.
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+58                                                                                                                                          KEBU7520-08
+Maintenance Section
+Maintenance Interval Schedule
+
+
+                                                                   i07746401      “ Wheel Nuts - Tighten” . . . . . . . . . . . . . . . . . . . . . . 94
+
+Maintenance Interval Schedule                                                     Every 6000 Service Hours or 3
+SMCS Code: 1000; 7000                                                             Years
+Ensure that all safety information, warnings and                                  “ Cooling System Coolant Extender (ELC) -
+instructions are read and understood before any                                   Add” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+operation or any maintenance procedures are
+performed.
+                                                                                  Every 12 000 Service Hours or 6
+The user is responsible for the performance of                                    Years
+maintenance, including all adjustments, the use of
+proper lubricants, fluids, filters, and the replacement                           “ Cooling System Coolant (ELC) - Change” . . . . . . 63
+of components due to normal wear and aging. Failure
+to adhere to proper maintenance intervals and
+procedures may result in diminished performance of                                Every 10 Service Hours or Daily
+the product and/or accelerated wear of components.
+                                                                                  “ Backup Alarm - Test” . . . . . . . . . . . . . . . . . . . . . . . 60
+Use mileage, fuel consumption, service hours, or
+calendar time, WHICH EVER OCCURS FIRST, in                                        “ Cooling System Coolant Level - Check”. . . . . . . . 65
+order to determine the maintenance intervals.
+Products that operate in severe operating conditions                              “ Drum Scrapers - Inspect/Adjust/Replace” . . . . . . 69
+may require more frequent maintenance.
+                                                                                  “ Engine Air Filter Service Indicator - Inspect” . . . . 74
+Note: Before each consecutive interval is performed,
+all maintenance from the previous interval must be                                “ Engine Oil Level - Check” . . . . . . . . . . . . . . . . . . . 75
+performed.
+                                                                                  “ Hydraulic System Oil Level - Check ” . . . . . . . . . . 84
+When Required                                                                     “ Indicators and Gauges - Test” . . . . . . . . . . . . . . . . 86
+
+“ Battery - Recycle” . . . . . . . . . . . . . . . . . . . . . . . . . 61         “ Neutral Start Switch - Test” . . . . . . . . . . . . . . . . . . 86
+
+“ Battery or Battery Cable - Inspect/Replace”. . . . . 61                         “ Seat Belt - Inspect” . . . . . . . . . . . . . . . . . . . . . . . . 89
+
+“ Circuit Breakers - Reset” . . . . . . . . . . . . . . . . . . . . 63            “ Tire Scraper - Inspect/Adjust/Replace” . . . . . . . . 91
+
+“ Engine Air Filter Primary Element - Clean/                                      “ Water Spray System Filter - Clean” . . . . . . . . . . . 93
+Replace” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+                                                                                  Every 50 Service Hours or Weekly
+“ Engine Air Filter Secondary Element -
+Replace” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73   “ Tire Inflation - Check” . . . . . . . . . . . . . . . . . . . . . . 91
+“ Fuel System - Prime” . . . . . . . . . . . . . . . . . . . . . . . 78
+                                                                                  Every 100 Service Hours or 2
+“ Fuel Tank Cap and Strainer - Clean” . . . . . . . . . . 80
+                                                                                  Weeks
+“ Fuses - Replace” . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+                                                                                  “ Fuel System Water Separator - Drain” . . . . . . . . . 79
+“ Hydraulic Oil Cooler - Clean” . . . . . . . . . . . . . . . . 82
+                                                                                  “ Fuel Tank Water and Sediment - Drain” . . . . . . . . 80
+“ Oil Filter - Inspect” . . . . . . . . . . . . . . . . . . . . . . . . . 87
+                                                                                  “ Throttle Control - Lubricate” . . . . . . . . . . . . . . . . . 91
+“ Radiator Core - Clean” . . . . . . . . . . . . . . . . . . . . . 88             “ Water Tank Strainer - Clean and Inspect” . . . . . . 94
+“ Water Spray Nozzles - Clean”. . . . . . . . . . . . . . . . 92
+                                                                                  Every 250 Service Hours
+“ Water Spray System - Drain” . . . . . . . . . . . . . . . . 92
+                                                                                  “Cooling System Coolant Sample (Level 1) -
+                                                                                  Obtain” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+
+                                                                                  Every 250 Service Hours or 3
+                                                                                  Months
+                                                                                  “ Belts - Inspect/Adjust/Replace”. . . . . . . . . . . . . . . 61
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+KEBU7520-08                                                                                                                                                     59
+                                                                                                                            Maintenance Section
+                                                                                                                    Maintenance Interval Schedule
+
+
+“ Engine Oil Sample - Obtain” . . . . . . . . . . . . . . . . . 76                 “ Rollover Protective Structure (ROPS) -
+                                                                                   Inspect” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+“ Fuel System Primary Filter (Water Separator)
+Element - Replace” . . . . . . . . . . . . . . . . . . . . . . . . . 78
+                                                                                   Every 1000 Service Hours or 2
+“ Steering Cylinder Ends - Lubricate” . . . . . . . . . . . 90                     Years
+Initial 500 Hours (for New Systems,                                                “ Drum Bearings - Inspect” . . . . . . . . . . . . . . . . . . . 69
+Refilled Systems, and Converted                                                    Every 2000 Service Hours
+Systems)
+                                                                                   “ Engine Crankcase Breather - Clean/Replace”. . . 74
+“Cooling System Coolant Sample (Level 2) -
+Obtain” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+                                                                                   Every Year
+Every 500 Service Hours or 3                                                       “Cooling System Coolant Sample (Level 2) -
+Months                                                                             Obtain” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+“ Engine Oil and Filter - Change”. . . . . . . . . . . . . . . 77                  Every 3000 Service Hours
+Every 500 Service Hours or 6                                                       “ Eccentric Weight Housing Oil - Change” . . . . . . . 70
+Months
+                                                                                   Every 3000 Service Hours or 2
+“ Articulating and Oscillating Bearings -                                          Years
+Lubricate” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+“ Braking System - Test” . . . . . . . . . . . . . . . . . . . . . 62              “ Cooling System Water Temperature Regulator -
+                                                                                   Replace” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+“ Hydraulic System Oil Filter - Replace” . . . . . . . . . 83
+                                                                                   Every 3 Years
+“ Hydraulic System Oil Sample - Obtain” . . . . . . . . 85
+                                                                                   “ Seat Belt - Replace”. . . . . . . . . . . . . . . . . . . . . . . . 90
+“Isolation Mounts - Inspect” . . . . . . . . . . . . . . . . . . . 86
+
+Every 1000 Service Hours or 1 Year
+“ Battery - Clean/Check” . . . . . . . . . . . . . . . . . . . . . 60
+“ Cooling System Pressure Cap - Clean/
+Replace” . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+“ Engine Cylinder Head Bolts - Check” . . . . . . . . . . 75
+“ Engine Mounts - Inspect” . . . . . . . . . . . . . . . . . . . 75
+“ Engine Valve Lash - Check” . . . . . . . . . . . . . . . . . 78
+“ Hydraulic System Oil - Change” . . . . . . . . . . . . . . 82
+“ Hydraulic Tank Breather - Replace” . . . . . . . . . . . 85
+“ Hydraulic Tank Strainer - Clean” . . . . . . . . . . . . . . 85
+“ Propel Control Tension - Adjust” . . . . . . . . . . . . . . 87
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+60                                                                                                     KEBU7520-08
+Maintenance Section
+Articulating and Oscillating Bearings - Lubricate
+
+
+                                                  i01977833                                                     i01977834
+
+
+Articulating and Oscillating                                  Backup Alarm - Test
+Bearings - Lubricate                                          SMCS Code: 7406-081
+SMCS Code: 7051-086-BD; 7057-086-BD; 7113-
+086-BD
+
+
+
+
+Illustration 63                                  g01032832
+(1) Articulating Bearings
+(2) Oscillating Bearing
+
+The hitch is located in the center pivot area.                Illustration 64                                 g01032985
+
+1. Clean all fittings before servicing.
+                                                              The back up alarm is located at the rear of the
+2. Clean all caps before servicing.                           machine.
+
+3. Lubricate the fittings for the articulation bearing.       1. Engage the parking brake.
+
+Note: Use a small amount of grease. Excess grease             2. Start the engine.
+can cause seal damage.                                        3. Move the propel control lever to the REVERSE
+                                                                 position. The backup alarm should sound
+4. Install all caps after servicing.
+                                                                 immediately. The backup alarm will continue to
+                                                                 sound until the propel control lever is moved to the
+                                                                 NEUTRAL position or to the FORWARD position.
+                                                              4. If the back up alarm does not sound, make the
+                                                                 necessary repairs.
+
+                                                                                                                i01930685
+
+
+                                                              Battery - Clean/Check
+                                                              SMCS Code: 1401-070; 1401-535; 1402-070; 1402-
+                                                              535
+
+                                                              1. Clean the top of the batteries with a clean cloth.
+                                                              2. Clean the battery terminals. Coat the battery
+                                                                 terminals with petroleum jelly, if necessary.
+                                                              3. Check the battery cables. Tighten any loose
+                                                                 connections.
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+KEBU7520-08                                                                                                          61
+                                                                                              Maintenance Section
+                                                                                                 Battery - Recycle
+
+
+                                               i07746330   If new belts are installed, recheck the belt adjustment
+                                                           after 30 minutes of operation. If two belts or more are
+Battery - Recycle                                          required for an application, replace the belts in belt
+                                                           sets. If only one belt of a matched set is replaced, the
+SMCS Code: 1401-561                                        new belt will carry more load. This is due to the fact
+                                                           that the older belts are stretched. The additional load
+Always recycle a battery. Never discard a battery.         on the new belt could cause the new belt to break.
+Always return used batteries to one of the following
+locations:                                                 Alternator Belt and Water Pump
+                                                           Belt
+• A battery supplier
+• An authorized battery collection facility                1. Open the engine compartment.
+
+• Recycling facility
+
+                                               i02012676
+
+
+Battery or Battery Cable -
+Inspect/Replace
+SMCS Code: 1401-510; 1401-040; 1402-040; 1402-
+510
+
+1. Turn the engine start switch to the OFF position.
+   Turn all switches to the OFF position.
+2. Open the battery compartment.
+3. Disconnect the negative battery cable at the            Illustration 65                                     g01033074
+   battery.
+                                                           2. To check the belt tension, apply 110 N (25 lb) of
+4. Disconnect the positive battery cable from the             force midway between the pulleys. Correctly
+   battery.                                                   adjusted belts will deflect 13 to 19 mm
+5. Remove the cable from the starter motor.                   (1/2 to 3/4 inch).
+
+6. Perform the necessary repairs. Replace the cables       3. In order to adjust alternator belt (3), loosen
+   or the battery, as needed.                                 mounting bolts (1) and (2).
+
+7. Reverse the above steps in order to reconnect the       4. To achieve the correct adjustment, move the
+   battery.                                                   alternator inward or move the alternator outward,
+                                                              as required.
+8. Install the battery compartment covers.
+                                                           5. Tighten mounting bolts (1) and (2).
+                                               i02370377
+                                                           Note: The alternator shaft nut must be tightened to a
+                                                           torque of 50 ± 5 N·m (37 ± 4 lb ft).
+Belts - Inspect/Adjust/Replace
+SMCS Code: 1357-510; 1357-025; 1357-040                    6. If new belts are installed, check the belt adjustment
+                                                              again after 30 minutes of engine operation at the
+Your engine is equipped with a belt that operates the         rated speed.
+fan, the alternator, and the water pump. Your engine
+is also equipped with a belt that operates the             7. Close the engine compartment.
+vibratory pump. For maximum engine performance
+and maximum utilization of your engine, inspect the        Vibratory Pump Belt
+belts for wear and for cracking. Check the tension of
+the belts. Adjust the tension of the belts in order to
+minimize belt slippage. Belt slippage will decrease        1. Open the engine compartment.
+the belt life. Belt slippage will also cause poor
+performance.
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+62                                                                                                   KEBU7520-08
+Maintenance Section
+Braking System - Test
+
+
+
+
+Illustration 66                                   g01045327   Illustration 67                               g01039944
+
+                                                              Position the machine on the incline of the slope, but
+2. In order to check the belt tension, apply 40 N (9 lb)      near the base of the slope in order to check the
+   of force to the belt. The force must be applied            parking brake. The test position should be 26 percent
+   midway between the pulleys. The belts will deflect         or a 15 degree slope.
+   5 to 6 mm (.2 to .24 inch) if the belts are adjusted
+                                                              1. Start the engine. Refer to the Operation and
+   correctly.
+                                                                 Maintenance Manual, “Engine Starting” for
+3. In order to adjust vibratory pump belts, loosen               information on starting the engine.
+   three mounting bolts (5).
+                                                              2. Move the machine into the test position.
+4. In order to tighten the belts, turn adjusting bolt (4)
+                                                              3. Place the throttle control into the LOW IDLE
+   clockwise. In order to loosen the belts, turn
+                                                                 position.
+   adjusting bolt (4) counterclockwise.
+                                                              4. Engage the parking brake.
+5. Tighten three mounting bolts (5).
+                                                                  The machine should not move under the following
+6. Close the engine compartment.
+                                                                  conditions.
+                                                  i02165934
+                                                                  • The engine is at low idle.
+Braking System - Test                                             • The parking brake is applied.
+SMCS Code: 4250-081; 4267-081
+                                                                  • The machine is positioned on the specified
+Note: If the machine configuration changes, the                     slope.
+parking brakes need to be tested.
+Check the area around the machine. Make sure that
+the machine is clear of personnel and clear of                Personal injury can result if the machine moves
+obstacles.                                                    while testing.
+Put the steering frame lock in the UNLOCKED
+position.                                                     If the machine begins to move, release the park-
+                                                              ing brake and use the propel lever in order to
+Fasten the seat belt before checking the parking              move the machine to a level surface.
+brake.
+                                                              5. Park the machine on a level surface.
+The following tests are used to determine if the
+parking brake is functional on a specified grade or a         6. Stop the engine.
+specified slope. These tests are not intended to
+measure the maximum brake holding effort. Read all                                   NOTICE
+of the steps before you perform the following                 If the machine moved during the brake test, consult
+procedure.                                                    your Caterpillar dealer.
+                                                              The dealer must inspect the brake system and make
+                                                              any necessary repairs before the machine is returned
+                                                              to operation.
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+KEBU7520-08                                                                                                    63
+                                                                                            Maintenance Section
+                                                                                         Circuit Breakers - Reset
+
+
+                                               i02844450
+                                                                                 NOTICE
+                                                           Care must be taken to ensure that fluids are con-
+Circuit Breakers - Reset                                   tained during performance of inspection, mainte-
+                                                           nance, testing, adjusting and repair of the product.
+SMCS Code: 1420-529                                        Be prepared to collect the fluid with suitable contain-
+The circuit breaker is located in the engine               ers before opening any compartment or disassem-
+compartment above the battery.                             bling any component containing fluids.
+                                                           Refer to Special Publication, NENG2500, “Caterpillar
+                                                           Dealer Service Tool Catalog” for tools and supplies
+                                                           suitable to collect and contain fluids on Caterpillar
+                                                           products.
+                                                           Dispose of all fluids according to local regulations
+                                                           and mandates.
+
+
+                                                                                 NOTICE
+                                                           Do not change the coolant until you read and under-
+                                                           stand the material in the Cooling System Specifica-
+                                                           tions section.
+
+
+Illustration 68                                g01418362                           NOTICE
+                                                           Mixing Extended Life Coolant (ELC) with other prod-
+          Circuit Breaker/Reset – Push in the              ucts reduces the effectiveness of the coolant and
+                                                           shortens coolant life. Use only Caterpillar products or
+          button in order to reset the circuit             commercial products that have passed the Caterpillar
+          breaker. If the electrical system is             EC-1 specifications for premixed or concentrate cool-
+functioning properly, the button will remain               ants. Use only Caterpillar Extender with Caterpillar
+depressed. If the button does not remain                   ELC. Failure to follow these recommendations could
+depressed, check the appropriate electrical                result in the damage to cooling systems components.
+circuit. Repair the electrical circuit, if necessary.
+                                                           If ELC cooling system contamination occurs, refer to
+                                               i01977846
+                                                           Operation and Maintenance, “Extended Life Coolant
+                                                           (ELC)” under the topic ELC Cooling System
+                                                           Contamination.
+Cooling System Coolant (ELC)
+- Change                                                   Drain the coolant whenever the coolant is dirty. Drain
+                                                           the coolant when foam is observed.
+SMCS Code: 1395-044-NL
+                                                           1. Stop the engine. Allow the cooling system to cool
+                                                              completely.
+                                                           2. Open the engine compartment. Refer to the
+Personal injury can result from hot coolant,                  Operation and Maintenance Manual, “Access
+steam and alkali.                                             Doors and Covers”.
+At operating temperature, engine coolant is hot
+and under pressure. The radiator and all lines to
+heaters or the engine contain hot coolant or
+steam. Any contact can cause severe burns.
+Remove cooling system pressure cap slowly to
+relieve pressure only when engine is stopped and
+cooling system pressure cap is cool enough to
+touch with your bare hand.
+Do not attempt to tighten hose connections when
+the coolant is hot, the hose can come off causing
+burns.
+Cooling System Coolant Additive contains alkali.
+Avoid contact with skin and eyes.
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+64                                                                                                  KEBU7520-08
+Maintenance Section
+Cooling System Coolant Extender (ELC) - Add
+
+
+                                                            16. Start the engine and run the engine. Leave the
+                                                              cap off until the thermostat opens and the coolant
+                                                              level stabilizes.
+                                                            17. Maintain the coolant level to 1 cm of the bottom of
+                                                              the fill pipe.
+                                                            18. Inspect the gasket on the cooling system
+                                                              pressure cap. Replace the cooling system
+                                                              pressure cap if the gasket is damaged.
+                                                            19. Install the cooling system pressure cap.
+                                                            20. Close the engine compartment.
+
+                                                                                                           i01977855
+Illustration 69                                 g01033218
+                                                            Cooling System Coolant
+3. Slowly loosen the cooling system pressure cap in
+   order to relieve system pressure. Remove the
+                                                            Extender (ELC) - Add
+   cooling system pressure cap.                             SMCS Code: 1352-544-NL
+4. Remove the lower hose that is connected to the
+   radiator. Allow the coolant to drain into a suitable
+   container.                                               At operating temperature, the engine coolant is
+5. Replace the lower drain hose. Fill the cooling           hot and under pressure.
+   system with clean water and with a 6 to 10%              Steam can cause personal injury.
+   concentration of cooling system cleaner.
+                                                            Check the coolant level only after the engine has
+6. Install the cooling system pressure cap.                 been stopped and the fill cap is cool enough to
+7. Close the engine compartment.                            touch with your bare hand.
+
+8. Start the engine. Run the engine for 90 minutes.         Remove the fill cap slowly to relieve pressure.
+
+9. Stop the engine. Allow the cooling system to             Cooling system conditioner contains alkali. Avoid
+   completely cool.                                         contact with the skin and eyes to prevent person-
+                                                            al injury.
+10. Open the engine compartment.
+11. Remove the cooling system pressure cap.                                       NOTICE
+12. Remove the lower drain hose from the radiator.          Care must be taken to ensure that fluids are con-
+                                                            tained during performance of inspection, mainte-
+  Drain the cleaning solution.                              nance, testing, adjusting and repair of the product.
+13. Flush the cooling system with water until the           Be prepared to collect the fluid with suitable contain-
+                                                            ers before opening any compartment or disassem-
+  draining water is transparent.                            bling any component containing fluids.
+14. Replace the lower drain hose.
+                                                            Refer to Special Publication, NENG2500, “Caterpillar
+15. Add the recommended amount of extender to the           Dealer Service Tool Catalog” for tools and supplies
+  coolant system. Refer to Operation and                    suitable to collect and contain fluids on Caterpillar
+                                                            products.
+  Maintenance Manual, “Capacities (Refill)” for the
+  proper amount.                                            Dispose of all fluids according to local regulations
+                                                            and mandates.
+Note: If you are using Caterpillar Long Life Coolant
+that contains some additive, do not add any                 When a Caterpillar Extended Life Coolant (ELC) is
+supplemental coolant additive at this time. Also, do        used, an Extender must be added to the cooling
+not change the coolant conditioner element if you are       system. For additional information about the addition
+using Caterpillar Long Life Coolant that contains           of Extender, see the Special Publication, SEBU6250,
+some additive.                                              “Caterpillar Machine Fluids Recommendations” or
+                                                            consult your Caterpillar dealer.
+                                                            Use a 8T-5296 Coolant Test Kit to check the
+                                                            concentration of the coolant.
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+KEBU7520-08                                                                                                        65
+                                                                                              Maintenance Section
+                                                                              Cooling System Coolant Level - Check
+
+
+                                                                                                             i01977858
+                       NOTICE
+Mixing ELC with other products that do not meet Cat-
+erpillar EC-1 specifications reduces the effectiveness      Cooling System Coolant Level
+of the coolant and shortens coolant service life.           - Check
+Use only Caterpillar products or commercial products        SMCS Code: 1350-535-FLV
+that have passed the Caterpillar EC-1 specification
+for pre-mixed or concentrate coolants. Use only Cat-
+erpillar Extender with Caterpillar ELC.
+Failure to follow these recommendations can result in       At operating temperature, the engine coolant is
+shortened cooling system component life.                    hot and under pressure.
+                                                            Steam can cause personal injury.
+1. Stop the engine. Allow the cooling system to
+   completely cool.                                         Check the coolant level only after the engine has
+                                                            been stopped and the fill cap is cool enough to
+2. Open the engine compartment.                             touch with your bare hand.
+                                                            Remove the fill cap slowly to relieve pressure.
+                                                            Cooling system conditioner contains alkali. Avoid
+                                                            contact with the skin and eyes to prevent person-
+                                                            al injury.
+
+                                                            1. Open the engine compartment. Refer to the
+                                                               Operation and Maintenance Manual, “Access
+                                                               Doors and Covers”.
+
+
+
+
+Illustration 70                                 g01033218
+
+
+3. Slowly loosen the cooling system pressure cap in
+   order to relieve system pressure. Remove the
+   cooling system pressure cap.
+4. If necessary, drain enough coolant from the
+   radiator in order to allow the addition of the
+   Extender.
+5. Add the recommended amount of extender to the
+                                                            Illustration 71                                 g01033218
+   coolant system. Refer to the Special Publication,
+   SEBU6250, “Extended Life Coolant (ELC)” for the
+                                                            2. Loosen the radiator filler cap slowly in order to
+   proper amount.
+                                                               relieve pressure. After pressure is relieved,
+6. Maintain the coolant level to 1 cm of the bottom of         remove the radiator cap.
+   the fill pipe.
+                                                            3. Maintain the coolant level to 1 cm of the bottom of
+7. Inspect the gasket on the cooling system pressure           the fill pipe.
+   cap. Replace the cooling system pressure cap if
+                                                            4. Inspect the radiator filler cap and the radiator cap
+   the gasket is damaged.
+                                                               seal for damage. Clean the cap with a clean cloth
+8. Install the cooling system pressure cap.                    or replace the cap.
+9. Close the engine compartment.                            5. Install the cap.
+For additional information on the addition of extender,     6. Close the engine compartment.
+see Special Publication, SEBU6250, “Coolant
+Recommendations” or consult your Caterpillar dealer.
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+66                                                                                                 KEBU7520-08
+Maintenance Section
+Cooling System Coolant Sample (Level 1) - Obtain
+
+
+                                               i02425978   Obtain the sample of the coolant as close as possible
+                                                           to the recommended sampling interval. The
+Cooling System Coolant                                     recommended sampling interval for Level 1 Coolant
+                                                           Analysis is every 250 service hours. In order to
+Sample (Level 1) - Obtain                                  receive the full effect of S·O·S analysis, you must
+                                                           establish a consistent trend of data. In order to
+SMCS Code: 1350-008; 1395-008; 1395-554; 7542;             establish a pertinent history of data, perform
+7542-008                                                   consistent samplings that are evenly spaced.
+                                                           Supplies for collecting samples can be obtained from
+Note: It is not necessary to obtain a Coolant              your Caterpillar dealer.
+Sample (Level 1) if the cooling system is filled
+with Cat ELC (Extended Life Coolant). Cooling              Use the following guidelines for proper sampling of
+systems that are filled with Cat ELC should have a         the coolant:
+Coolant Sample (Level 2) that is obtained at the
+recommended interval that is stated in the                 • Complete the information on the label for the
+Maintenance Interval Schedule.                               sampling bottle before you begin to take the
+                                                             samples.
+Note: Obtain a Coolant Sample (Level 1) if the
+cooling system is filled with any other coolant            • Keep the unused sampling bottles stored in plastic
+instead of Cat ELC. This includes the following              bags.
+types of coolants.
+                                                           • Keep the lids on empty sampling bottles until you
+• Commercial long life coolants that meet the                are ready to collect the sample.
+  Caterpillar Engine Coolant Specification -1
+  (Caterpillar EC-1)                                       • Place the sample in the mailing tube immediately
+                                                             after obtaining the sample in order to avoid
+• Cat Diesel Engine Antifreeze/Coolant (DEAC)                contamination.
+
+• Commercial heavy-duty antifreeze/coolant                 • Never collect samples from expansion bottles.
+  solution
+                                                           •    Never collect samples from the drain for a
+                                                               system.
+                       NOTICE
+Always use a designated pump for oil sampling, and
+use a separate designated pump for coolant sam-
+pling. Using the same pump for both types of sam-
+ples may contaminate the samples that are being
+drawn. This contaminate may cause a false analysis
+and an incorrect interpretation that could lead to con-
+cerns by both dealers and customers.
+
+
+Note: Level 1 results may indicate a need for
+Level 2 Analysis.
+
+                      NOTICE
+Care must be taken to ensure that fluids are con-
+tained during performance of inspection, mainte-
+nance, testing, adjusting and repair of the product.
+Be prepared to collect the fluid with suitable contain-    Illustration 72                                   g00544510
+ers before opening any compartment or disassem-
+bling any component containing fluids.
+Refer to Special Publication, NENG2500, “Caterpillar
+Dealer Service Tool Catalog” for tools and supplies        Pressurized System: Hot coolant can cause seri-
+suitable to collect and contain fluids on Caterpillar      ous burns. To open the cooling system filler cap,
+products.                                                  stop the engine and wait until the cooling system
+                                                           components are cool. Loosen the cooling system
+Dispose of all fluids according to local regulations       pressure cap slowly in order to relieve the
+and mandates.                                              pressure.
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+KEBU7520-08                                                                                                     67
+                                                                                         Maintenance Section
+                                                               Cooling System Coolant Sample (Level 2) - Obtain
+
+
+1. The machine needs to be operated in order to                                                           i01977864
+   circulate the coolant. Collect the sample after a
+   normal workday. Collect the samples from one to         Cooling System Pressure Cap
+   two hours after the engine has been shut off.           - Clean/Replace
+2. Start the engine momentarily in order to circulate      SMCS Code: 1382-510; 1382-070
+   the coolant again.
+3. Shut off the engine.
+4. Carefully remove the radiator cap.                      Personal injury can result from hot coolant,
+5. Use a vacuum pump and draw the sample. Do not           steam and alkali.
+   allow dirt or other contaminants to enter the           At operating temperature, engine coolant is hot
+   sampling bottle. Fill the sampling bottle three-        and under pressure. The radiator and all lines to
+   fourths from the top. Do not fill the bottle            heaters or the engine contain hot coolant or
+   completely.                                             steam. Any contact can cause severe burns.
+
+6. Place the sampling bottle with the completed label      Remove cooling system pressure cap slowly to
+   into the mailing tube.                                  relieve pressure only when engine is stopped and
+                                                           cooling system pressure cap is cool enough to
+7. Install the radiator cap.                               touch with your bare hand.
+                                                           Do not attempt to tighten hose connections when
+                                               i07349178   the coolant is hot, the hose can come off causing
+                                                           burns.
+Cooling System Coolant
+                                                           Cooling System Coolant Additive contains alkali.
+Sample (Level 2) - Obtain                                  Avoid contact with skin and eyes.
+SMCS Code: 1350-008; 1395-554; 1395-008; 7542-
+008; 7542                                                  1. Open the engine compartment. Refer to the
+                                                              Operation and Maintenance Manual, “Access
+Reference: Refer to Operation and Maintenance
+                                                              Doors and Covers”.
+Manual, “Cooling System Coolant Sample (Level 1) -
+Obtain” for the guidelines for proper sampling of the
+coolant.
+Obtain the sample of the coolant as close as possible
+to the recommended sampling interval. Supplies for
+collecting samples can be obtained from your Cat
+dealer.
+Submit the sample for Level 2 analysis.
+
+Reference: For additional information about coolant
+analysis, refer to Special Publication, SEBU6250,
+“Caterpillar Machine Fluids Recommendations” or
+consult your Cat dealer.
+
+
+                                                           Illustration 73                                g01033218
+
+
+                                                           2. Remove the cooling system pressure cap slowly in
+                                                              order to relieve pressure.
+                                                           3. Inspect the cooling system pressure cap for
+                                                              foreign material, for deposits, and for damage.
+                                                              Clean the cooling system pressure cap with a
+                                                              clean cloth. If the cooling system pressure cap is
+                                                              damaged, replace the cooling system pressure
+                                                              cap.
+                                                           4. Install the cooling system pressure cap.
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+68                                                                                              KEBU7520-08
+Maintenance Section
+Cooling System Water Temperature Regulator - Replace
+
+
+5. Close the engine compartment.
+
+                                              i01977885
+
+
+Cooling System Water
+Temperature Regulator -
+Replace
+SMCS Code: 1355-510; 1393-010
+
+
+
+At operating temperature, the engine coolant is
+hot and under pressure.
+                                                          Illustration 74                              g01033218
+Steam can cause personal injury.
+Check the coolant level only after the engine has         2. Remove the cooling system pressure cap in order
+been stopped and the fill cap is cool enough to              to relieve the pressure in the cooling system.
+touch with your bare hand.
+Remove the fill cap slowly to relieve pressure.
+Cooling system conditioner contains alkali. Avoid
+contact with the skin and eyes to prevent person-
+al injury.
+
+Replace the water temperature regulator on a regular
+basis in order to reduce the chance of unscheduled
+downtime and of problems with the cooling system.
+The water temperature regulator should be replaced
+after the cooling system has been cleaned. Replace
+the water temperature regulator while the cooling
+system is completely drained. Replace the water
+temperature regulator while the cooling system
+coolant is drained to a level below the water             Illustration 75                              g01033277
+temperature regulator housing.
+                                                          3. Remove the housing for the water temperature
+                       NOTICE                                regulator.
+Failure to replace the engine's water temperature
+regulator on a regularly scheduled basis could cause      4. Remove the gasket and remove the water
+severe engine damage.                                        temperature regulator.
+
+Note: If you are only replacing the water temperature                            NOTICE
+                                                          Former water temperature regulators may be used, if
+regulator, drain the cooling system coolant to a level    they meet test specifications and are not damaged or
+that is below the water temperature regulator             have excessive buildup or deposits.
+housing.
+
+1. Open the engine compartment. Refer to the
+                                                                                 NOTICE
+   Operation and Maintenance Manual, “Access              Since Caterpillar engines incorporate a shunt design
+   Doors and Covers”.                                     cooling system, it is mandatory to always operate the
+                                                          engine with a water temperature regulator.
+                                                          Depending on load, failure to operate with a water
+                                                          temperature regulator could result in either an over-
+                                                          heating or an overcooling condition.
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+KEBU7520-08                                                                                                 69
+                                                                                          Maintenance Section
+                                                                                       Drum Bearings - Inspect
+
+
+                                                                                                      i01977897
+                          NOTICE
+If the water temperature regulator is installed incor-
+rectly, it will cause the engine to overheat.              Drum Scrapers - Inspect/
+                                                           Adjust/Replace
+5. Install a new water temperature regulator and           SMCS Code: 6607-040; 6607-510; 6607-025
+   install a new gasket.
+6. Install the housing for the water temperature           Inspect Scrapers
+   regulator.
+7. Add the cooling system coolant. Maintain the level
+   of the coolant to 1 cm from the bottom of the fill
+   pipe.
+8. Inspect cooling system pressure cap and the
+   gasket for damage. Replace the pressure cap if
+   the pressure cap or the gasket are damaged.
+9. Install the cooling system pressure cap.
+10. Close the engine compartment.
+
+                                               i03505504
+
+
+Drum Bearings - Inspect                                    Illustration 76                            g00640988
+SMCS Code: 6605-040-BD; 7551-040-BD
+The drum bearings should be inspected periodically
+as part of a preventive maintenance schedule.
+Consult your Caterpillar dealer for information
+concerning the inspection of the drum bearings.
+For additional information, refer to Disassembly and
+Assembly, KENR3674, “Drum and Drum Support -
+Remove”.
+
+
+
+
+                                                           Illustration 77                            g00641016
+
+
+                                                           1. Remove dirt and debris from scrapers.
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+70                                                                                                  KEBU7520-08
+Maintenance Section
+Eccentric Weight Housing Oil - Change
+
+
+2. The drum scraper should be adjusted vertical to         4. Adjust the scraper slightly above the tires.
+   the ground. The drum scraper should be adjusted
+   in order to touch the width of the drum. The inner                                                        i03829386
+   drum scrapers are not adjustable in the same way
+   as the outer drum scrapers. The inner drum              Eccentric Weight Housing Oil -
+   scrapers can be adjusted with the adjustable
+   spring mounts. The adjustable spring mounts are
+                                                           Change
+   located inside the front and rear frames. The           SMCS Code: 6606-044-OC
+   tension on the spring mounts should be adjusted
+   in order to prevent bouncing of the tire or the drum
+   scraper when the vibration system is active. The
+   tire scrapers should be adjusted slightly above the
+   surface of the tire. The scraper should not touch
+   the tire.
+
+Replace Scrapers
+
+
+
+
+                                                           Illustration 80                                   g01969953
+
+
+                                                           1. Orient the drum so that water drain hole (1) is at
+                                                              the bottom. This will properly orient the oil drain
+                                                              hole.
+
+
+
+
+Illustration 78                                g00641022
+
+
+
+
+                                                           Illustration 81                                   g02079214
+
+
+                                                           2. Block drums (10).
+                                                           3. Secure support (5) with an appropriate strap or
+Illustration 79                                g00641029      chain. Install the appropriate strap or chain
+                                                              through lifting eye (2) and the tie down location (3).
+1. Loosen the bolts and remove the damaged
+   scraper.                                                4. Remove four hoses (6) that are on hydraulic motor
+                                                              (9).
+2. Install the new scraper and tighten the bolts.
+                                                           5. Remove four bolts (4) in order to remove support
+3. Adjust the scraper in order to touch the drum.             (5).
+
+                                                           Note: Block the frame of the machine before
+                                                           removing support (5).
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+KEBU7520-08                                                                                                           71
+                                                                                              Maintenance Section
+                                                                 Engine Air Filter Primary Element - Clean/Replace
+
+
+6. Remove five bolts (8) that secure plate (7) to the                                                           i01953476
+   isolation mounts.
+7. Remove plate (7) and remove hydraulic motor (9).
+                                                            Engine Air Filter Primary
+                                                            Element - Clean/Replace
+                                                            SMCS Code: 1054-510-PY; 1054-070-PY
+
+                                                                                  NOTICE
+                                                            Service the air cleaner only with the engine stopped.
+                                                            Engine damage could result.
+
+                                                            Service the air cleaner filter element when the
+                                                            yellow piston on the engine air filter service
+                                                            indicator enters the red zone or the indicator
+                                                            reads 63.5 cm (25 inch) of water. Refer to
+                                                            Operation and Maintenance Manual, “Engine Air
+                                                            Filter Service Indicator - Inspect”.
+
+
+
+Illustration 82                                 g02079153
+
+
+8. Remove five bolts on plate (11).
+Note: Use Caterpillar 4C-9506 Retaining
+Compound when you reassemble bolts (11).
+
+
+
+
+                                                            Illustration 84                                     g00102316
+
+
+                                                            1. Remove cover (1) for the air filter housing.
+                                                            2. Remove primary filter element (2) from the air filter
+                                                               housing.
+                                                            3. Clean the inside of the air filter housing.
+                                                            4. If the machine is equipped with a vacuator valve,
+Illustration 83                                 g02079154      clean the vacuator valve on the cover for the air
+                                                               filter housing.
+9. Remove drain plug (12) and allow the gear
+   lubricant to drain.                                      5. Install a clean primary air filter element. Install the
+                                                               cover for the air filter housing.
+10. Drain the oil in a suitable container.
+                                                            Note: Refer to “Cleaning Primary Air Filter
+11. Clean drain plug (12). Install drain plug (12).         Elements”.
+12. Remove plug (13).
+                                                            6. Reset the engine air filter service indicator.
+13. Add gear lubricant through plug (13).
+                                                            7. Close the access door.
+Note: Refer to Operation and Maintenance Manual,            If the yellow piston in the indicator moves into the red
+“Capacities (Refill)” for the appropriate amount of         zone after starting the engine or the exhaust smoke
+gear lubricant.                                             is still black after installation of a clean primary filter
+                                                            element, install a new primary filter element. If the
+14. Clean plug (13). Install plug (13).                     piston remains in the red zone replace the secondary
+15. Reverse the process in order to reassemble the          element.
+  drum.
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+72                                                                                                    KEBU7520-08
+Maintenance Section
+Engine Air Filter Primary Element - Clean/Replace
+
+
+Cleaning Primary Air Filter
+Elements
+                       NOTICE
+Caterpillar recommends certified air filter cleaning
+services available at participating Caterpillar dealers.
+The Caterpillar cleaning process uses proven proce-
+dures to assure consistent quality and sufficient filter
+life.
+Observe the following guidelines if you attempt to
+clean the filter element:
+Do not tap or strike the filter element in order to re-
+move dust.
+                                                            Illustration 85                                  g00281692
+Do not wash the filter element.
+Use low pressure compressed air in order to remove          Note: When the primary air filter elements are
+the dust from the filter element. Air pressure must not     cleaned, always begin with the clean side (inside) in
+exceed 207 kPa (30 psi). Direct the air flow up the         order to force dirt particles toward the dirty side
+pleats and down the pleats from the inside of the filter    (outside).
+element. Take extreme care in order to avoid damage
+to the pleats.                                              Aim the hose so that the air flows inside the element
+                                                            along the length of the filter in order to help prevent
+Do not use air filters with damaged pleats, gaskets,        damage to the paper pleats. Do not aim the stream of
+or seals. Dirt entering the engine will cause damage        air directly at the primary air filter element. Dirt could
+to engine components.                                       be forced further into the pleats.
+
+The primary air filter element can be used up to six
+times if the element is properly cleaned and if the
+element is properly inspected. When the primary air
+filter element is cleaned, check for rips or tears in the
+filter material. The primary air filter element should be
+replaced at least one time per year. This replacement
+should be performed regardless of the number of
+cleanings.
+
+                         NOTICE
+Do not clean the air filter elements by bumping or tap-
+ping. This could damage the seals. Do not use ele-
+ments with damaged pleats, gaskets, or seals.
+Damaged elements will allow dirt to pass through.
+Engine damage could result.
+
+Visually inspect the primary air filter elements before
+cleaning. Inspect the air filter elements for damage to
+the seal, the gaskets, and the outer cover. Discard
+any damaged air filter elements.
+There are two common methods that are used to
+clean primary air filter elements:
+
+• Pressurized air
+• Vacuum cleaning
+
+Pressurized Air
+Pressurized air can be used to clean primary air filter
+elements that have not been cleaned more than two
+times. Pressurized air will not remove deposits of
+carbon and oil. Use filtered, dry air with a maximum
+pressure of 207 kPa (30 psi).
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+KEBU7520-08                                                                                                          73
+                                                                                                 Maintenance Section
+                                                                        Engine Air Filter Secondary Element - Replace
+
+
+Vacuum Cleaning
+Vacuum cleaning is another method for cleaning
+primary air filter elements which require daily
+cleaning because of a dry, dusty environment.
+Cleaning with pressurized air is recommended prior
+to vacuum cleaning. Vacuum cleaning will not
+remove deposits of carbon and oil.
+
+Inspecting the Primary Air Filter
+Elements
+
+
+                                                              Illustration 87                                g00281694
+
+                                                              Do not use paint, a waterproof cover, or plastic as a
+                                                              protective covering for storage. An airflow restriction
+                                                              may result. To protect against dirt and damage, wrap
+                                                              the primary air filter elements in Volatile Corrosion
+                                                              Inhibited (VCI) paper.
+                                                              Place the primary air filter element into a box for
+                                                              storage. For identification, mark the outside of the
+                                                              box and mark the primary air filter element. Include
+                                                              the following information:
+                                                              • Date of cleaning
+Illustration 86                                   g00281693
+
+                                                              • Number of cleanings
+Inspect the clean, dry primary air filter element. Use a
+60 watt blue light in a dark room or in a similar facility.   Store the box in a dry location.
+Place the blue light in the primary air filter element.
+Rotate the primary air filter element. Inspect the
+                                                                                                              i01822684
+primary air filter element for tears and/or holes.
+Inspect the primary air filter element for light that may
+show through the filter material. If it is necessary in       Engine Air Filter Secondary
+order to confirm the result, compare the primary air
+filter element to a new primary air filter element that
+                                                              Element - Replace
+has the same part number.                                     SMCS Code: 1054-510-SE
+Do not use a primary air filter element that has any
+tears and/or holes in the filter material. Do not use a                             NOTICE
+primary air filter element with damaged pleats,               Always replace the secondary filter element. Never
+gaskets or seals. Discard damaged primary air filter          attempt to reuse the secondary filter element by
+elements.                                                     cleaning the element.
+
+Storing Primary Air Filter Elements                           When the primary filter element is replaced, the sec-
+                                                              ondary filter element should be replaced.
+If a primary air filter element that passes inspection        The secondary filter element should also be replaced
+will not be used, the primary air filter element can be       if the exhaust smoke is still black.
+stored for future use.
+
+                                                              1. Open the access door on the front left side of the
+                                                                 machine.
+                                                              2. See Operation and Maintenance Manual, “Engine
+                                                                 Air Filter Primary Element - Clean/Replace”.
+                                                                 Remove the air cleaner cover from the air cleaner
+                                                                 housing. Remove the primary filter element from
+                                                                 the air cleaner housing.
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+74                                                                                                     KEBU7520-08
+Maintenance Section
+Engine Air Filter Service Indicator - Inspect
+
+
+
+
+Illustration 88                                 g00101451
+
+
+3. Remove the secondary filter element.
+4. Cover the air inlet opening. Clean the inside of the
+   air cleaner housing.
+5. Remove the cover from the air inlet opening.             Illustration 89                                   g01033857
+
+6. Install the new secondary filter element.
+                                                            4. If the yellow piston in the engine air filter service
+7. Install the primary filter element.                         indicator enters the red zone, service the air
+                                                               cleaner.
+8. Install the air cleaner cover and close the latches
+   securely.                                                5. Stop the engine.
+9. Close the access door.                                   Note: See the Operation and Maintenance Manual,
+                                                            “Engine Air Filter Primary Element - Clean/Replace”.
+                                                i01977910   See the Operation and Maintenance Manual, “Engine
+                                                            Air Filter Secondary Element - Replace”.
+Engine Air Filter Service
+                                                            6. Close the engine compartment.
+Indicator - Inspect
+SMCS Code: 7452-040                                                                                            i02166542
+
+
+1. Open the engine compartment. Refer to the                Engine Crankcase Breather -
+   Operation and Maintenance Manual, “Access
+   Doors and Covers”.
+                                                            Clean/Replace
+                                                            SMCS Code: 1317-510; 1317-070
+2. Start the engine.
+3. Run the engine at high idle.                                                     NOTICE
+                                                            Keep all parts clean from contaminants.
+                                                            Contaminants may cause rapid wear and shortened
+                                                            component life.
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+KEBU7520-08                                                                                                      75
+                                                                                           Maintenance Section
+                                                                             Engine Cylinder Head Bolts - Check
+
+
+                                                           5. Install breather cover (1) and four bolts (2). Tighten
+                      NOTICE
+Care must be taken to ensure that fluids are con-             the bolts.
+tained during performance of inspection, mainte-
+nance, testing, adjusting and repair of the product.                                                        i01977919
+Be prepared to collect the fluid with suitable contain-
+ers before opening any compartment or disassem-
+bling any component containing fluids.
+                                                           Engine Cylinder Head Bolts -
+                                                           Check
+Refer to Special Publication, NENG2500, “Caterpillar
+Dealer Service Tool Catalog” for tools and supplies        SMCS Code: 1100-535-BC
+suitable to collect and contain fluids on Caterpillar
+products.                                                  This maintenance is recommended by Caterpillar as
+                                                           part of a lubrication and preventive maintenance
+Dispose of all fluids according to local regulations       schedule in order to help provide maximum engine
+and mandates.                                              life.
+
+                                                                                   NOTICE
+                                                           Only qualified service personnel should perform this
+                                                           maintenance. Refer to the Service Manual or your
+                                                           Caterpillar dealer for the complete valve lash adjust-
+                                                           ment procedure.
+                                                           Operation of Caterpillarengines with improper valve
+                                                           adjustments can reduce engine efficiency. This re-
+                                                           duced efficiency could result in excessive fuel usage
+                                                           and/or shortened engine component life.
+
+
+                                                                                                            i01977938
+
+
+                                                           Engine Mounts - Inspect
+                                                           SMCS Code: 1152-040
+Illustration 90                                g00827682
+                                                           Open the engine compartment.
+Typical example
+(1) Breather cover                                         There are three engine mounts. There is one engine
+(2) Bolts for breather cover                               mount at the front of the engine. There are two
+(3) Spring                                                 engine mounts at the rear of the engine.
+(4) Diaphragm and plate
+(5) Cavity
+(6) Vent hole                                              Engine vibration can be caused by improper
+                                                           mounting of the engine. Engine vibration can be
+                                                           caused by loose engine mounts or deteriorated
+1. Loosen bolts (2) and remove breather cover (1)          engine mounts.
+   from the valve mechanism cover.
+                                                           Inspect the engine mounts for deterioration.
+2. Remove spring (3). Remove the diaphragm and
+   plate (4).                                              Replace any engine mount that is deteriorated.
+3. Clean vent hole (6). Clean cavity (5) for the           Inspect the engine mounts for correct bolt torque.
+   breather assembly in the valve mechanism cover.
+                                                           Tighten the mounts if the mounts are loose.
+                      NOTICE
+Make sure that the components of the breather as-          Close the engine compartment.
+sembly are installed correctly. Engine damage may
+occur if the breather assembly is not working                                                               i01977939
+properly.
+                                                           Engine Oil Level - Check
+4. Install a new diaphragm and plate (4) for the           SMCS Code: 1348-535-FLV
+   breather assembly. Install a new spring (3). Install
+   breather assembly into cavity (5) of the valve                                 NOTICE
+   mechanism cover.                                        Do not under fill or overfill engine crankcase with oil.
+                                                           Either condition can cause engine damage.
+

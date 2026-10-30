@@ -1,0 +1,1418 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0088-0112.pdf
+SOURCE SHA-256: 202ec2bc3b68e6d99c26db69ddf55fce37ea596e7430102e61f4ab0923492af8
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 88 ===
+APPLICATION
+
+
+
+                        60
+
+                                                                                           Frequency
+                        50                                                                             20 Hz (1200 vpm)
+                                                                                                       30 Hz (1800 vpm)
+                                                                                                       40 Hz (2400 vpm)
+      CMV Measurement
+
+
+
+
+                        40
+
+
+
+                        30
+
+
+
+                        20
+
+
+
+                        10
+
+
+
+                         0
+                                 1               2                    3            4
+
+                                                             Pass
+
+       2. Frequency – Cat Compaction Control with                         the results for MDP. It is difficult to quantify
+          CMV uses a ratio of the drum vibratory                          precisely how much, because variations in soil
+          frequency and a measurement of the ground                       type, water content and other factors cloud the
+          frequency response back into the drum                           issue during testing.
+          at two times drum frequency to calculate
+          the compaction value (CMV). Changing                            When multiple passes are required to achieve
+          the vibratory frequency setting of the soil                     final compaction levels (indicated by soil
+          compactor will subsequently change the                          stiffness), the most efficient method is to
+          resulting measurement, even if the soil                         use a slow ground speed and let the vibrator
+          stiffness remains the same. This is because                     work the soil underneath the drum. The
+          on a soil of a given stiffness, the CMV                         slower speed allows the vibrating drum to
+          measurement will tend to read higher if                         have closer impact spacing and more blows
+          measured at low frequency, and read lower if                    per distance traveled—and it will take fewer
+          measured at high frequency. The reasons for                     passes—resulting in less overall time to meet
+          this are complex, and related to the ratio of the               compaction requirements.
+          soil’s natural frequency to the frequency of the
+          vibrating drum.                                                 There are also fuel efficiencies: two low-speed
+                                                                          passes will consume less fuel than six high-
+                   The chart illustrates how changing the                 speed passes. General rule of thumb: go slowly
+                   frequency can affect the CMV measurement.              to compact quickly and maximize efficiency, but
+                   If all other machine and soil parameters are the       not so slow that de-coupling or de-compaction
+                   same (e.g. ground speed, amplitude, soil type,         occurs. With machine-integrated compaction
+                   etc.), there is a significant difference between       measurement technology, it is recommended
+                   the measured CMVs for each frequency                   to maintain a suitable consistent speed of about
+                   setting. The frequency you use will affect the         1-2.5 km/h (0.62-1.5 mph) on rock and clay,
+                   CMV measurement. This is true regardless of            and 2-5 km/h (1.2-3.1 mph) on sand and gravel.
+                   the stiffness of the soil.                             Automatic Speed Control on Cat B-Series
+                                                                          compactors can be utilized to help with this
+       3. Ground Speed – Machine-integrated                               factor.
+          compaction measurement results are affected
+          by ground speed to some extent. Generally,
+          slower speeds allow the vibrating drum to have
+          more contact with soil, building soil stiffness
+          sooner and at a deeper level, resulting in
+          fewer passes and less overall time to meet
+          compaction requirements. Data suggests
+          that faster ground speed generally lowers
+          the results for CMV, but can also increase
+
+
+
+84   | Unit 4: APPLICATION AND CONTROL OF QUALITY
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 89 ===
+APPLICATION
+
+
+
+
+m03 rh2 ,dn22 naJ – .lli 2
+    rh1 ,dn32 naJ – .lli 2   4. Direction of Travel – The direction of travel,
+                                                                                    DIRECTION OF TRAVEL
+                                forward or reverse, has an effect on the
+                                value of the machine-integrated compaction
+                                measurement data recorded for a given soil
+                                stiffness. The amount of variation between
+                                forward and reverse measurements typically            travel
+                                ranges from 5 percent to 20 percent with
+                                higher variation on extremely soft soils.
+
+                               Machine-integrated compaction measurement
+                               results differ depending on travel direction
+                               because the rotation of the eccentric weight
+                               inside the drum either adds to or subtracts
+                               from the net torque applied to the drum as it
+                               is propelling over the soil (also due to balance
+
+
+
+
+                                                                                                                                                       2 ill. – Jan 22nd, 2hr 30m
+                                                                                                                                                       2 ill. – Jan 23nd, 1hr
+                               of weight, wheels in front/behind the drum,
+                               and other factors). This torque influences the
+                               direction of the effective vibration into the
+                               ground and will cause the drum to sense either
+                               more toward the region already compacted or
+                               toward the softer area yet to be compacted.
+
+                             5. Vibratory State – An active vibration system         travel
+                                can also affect machine-integrated compaction
+                                measurement values. The impact may or may
+                                not be significant depending on the material.
+                                For test data, technologies that allow you to
+                                measure with the vibratory system off produce
+                                more reliable results because there are fewer
+                                variables influencing the measurement. Energy-
+                                based technologies like MDP allow you to do
+                                this.
+
+                             6. De-coupling or Double Jump – When the
+                                stiffness of the soil increases, its natural
+                                                                                    When the direction of the eccentric moment matches
+                                or resonant frequency will come closer to           the direction of machine travel (top illustration), the net
+                                matching the drum vibratory frequency. When         torque applied to the drum causes the accelerometer to
+                                this happens, the drum begins to completely         sense the soil from a certain angle. When the direction
+                                                                                    of the eccentric moment does not match the direction
+                                bounce off the surface of the soil at half of the
+                                                                                    of machine travel (bottom illustration), the torque forces
+                                drum vibratory frequency, and the measured          change, changing the angle of measurement. This will
+                                RMV (Resonance Meter Value) will increase.          result in consistently different CMV readings for forward
+                                RMV is simply a measure of how much the             and reverse operation.
+                                drum is de-coupling. The more the machine
+                                is de-coupling, the less reliable the CMV
+                                measurement is.
+
+
+
+
+                                                                         Unit 4: APPLICATION AND CONTROL OF QUALITY |                             85
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 90 ===
+APPLICATION
+
+
+
+
+     [ MACHINE-INTEGRATED COMPACTION MEASUREMENT PROCEDURES ]
+     Soil compactors fitted with integrated compaction           Because the machine is operating in high amplitude,
+     measurement technology have the capability to               de-coupling may occur in spots. Due to all the
+     measure factors that can give operators a real-time,        variables—ground speed, direction, de-coupling and
+     in-cab indication of soil stiffness. Many variables         soil moisture variation—the integrated compaction
+     factor into the efficacy of this method and directly        measurement values seen during this mode of
+     influence the consistency of the measurement. For           operation normally have more variation than what
+     that reason, the measurements are often verified            is possible to achieve. This may be considered the
+     utilizing one of the methods listed previously or           rough-cut approach to compaction measurement
+     other portable testing equipment. As the systems            and the lack of accurate or less-variable data in
+     become more advanced, their use is better                   these areas is not so important at this time.
+     understood, and the results more accepted.
+                                                                 Proofing Mode – Once production mode
+     Machine-integrated compaction measurement                   compaction has been completed, the compaction
+     typically has two modes of operation: production            measurement system can be used as a proof
+     mode and proofing mode.                                     roller to verify the quality of the work in proofing
+                                                                 mode. Typically, this process is more precise than
+     Production Mode – Production mode is utilized               production mode. Many variables are controlled and
+     during the initial process of compaction. The intent        kept consistent, including speed and direction of
+     of this mode of operation is to get as much soil            travel. This helps to ensure that these variables are
+     compacted to an acceptable level as quickly and             not influencing the measurement.
+     efficiently as possible. During production mode,
+     machine-integrated compaction measurement                   The proofing mode is used when the contracting
+     technology provides the operator with a real-time           authority is requesting “in-field” data showing
+     indication of soil stiffness, as well as identifies areas   an accurate indication of ground stiffness for
+     of poor compaction where action may be necessary            a particular phase or area of construction. This
+     to bring the density up to specification.                   procedure may be done at periodic intervals of
+                                                                 construction when it is convenient to run the
+     In production mode, the machine amplitude is                compactor over a completed phase of the project in
+     typically at high setting and the ground is only            a controlled manner.
+     compacted until a nominal target value is reached.
+     The operator monitors the display to see what               To achieve accurate results, the operator needs
+     areas have been adequately compacted. The                   to keep all variables as constant as possible. This
+     primary concern is getting the job done efficiently,        can be considered to be the precision phase of soil
+     compacting as much fill as possible while not               compaction.
+     over-compacting areas that are sufficiently stiff.
+
+
+
+
+86   | Unit 4: APPLICATION AND CONTROL OF QUALITY
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 91 ===
+APPLICATION
+
+
+
+
+RECOMMENDED PROCESS FOR PROOFING
+
+   1. Stake out the jobsite section to be tested and           automatic data storage without the GNSS
+      plan a rolling pattern that allows the operator          (GPS) option. Use spreadsheet software
+      to propel in the forward direction throughout            such as Excel to sort the data by direction
+      the compaction testing operation.                        traveled, using only the forward data for
+                                                               analysis. Physically mark out any locations
+   2. Determine a target ground speed between                  deemed important enough to review or
+      2.5-4 km/h (1.5-2.5 mph) that you will be                test with a correlation to a known field
+      able to maintain. Slower is better and use               compaction measurement method.
+      of automatic speed control will optimize
+      uniformity of speed which allows for better           7. For improved quality, measure the moisture
+      data and compaction.                                     content of the soil in a grid pattern over
+                                                               the entire area that was measured and
+   3. Set the amplitude to low. This will lessen the           compacted. Grid size can be adjusted
+      chance of drum de-coupling and will result in            to jobsite scale and requirements of the
+      a measurement that does not penetrate as                 contracting agency. This will provide
+      deeply into the soil. This makes correlation             additional information for analysis of the
+      with other test methods easier.                          compaction values, and the grid pattern will
+                                                               allow development of a soil moisture content
+   4. Start vibration (or static rolling with MDP) and         iso-bar map. Soil samples for moisture
+      propel to begin compaction measurement                   measurements should be taken as soon as
+      at constant ground speed, amplitude, and                 possible after the compactor has finished an
+      frequency while driving forward.                         area.
+
+   5. Drum passes should be just touching or                8. Review the manually recorded data and
+      barely overlapped. Overlap at the ends or                select those areas that you wish to correlate
+      turnaround areas. Note: overlapped areas can             to another form of compaction measurement
+      be considered as multiple passes and can                 device. Select areas that read high values,
+      cause discrepancies in the data.                         low values and intermediate values. Select
+                                                               several areas of each.
+   6. Manual collection of data can be
+      cumbersome and needs to be matched up                 9. Conduct correlation tests for previously
+      with position on the jobsite as accurately               marked locations. Don’t approximate, as soil
+      as possible within the staked out sections.              conditions can vary widely in just a short
+      Most machine-integrated compaction                       distance.
+      measurement systems do not allow for
+
+
+
+
+NOTE: In order to fully leverage the capabilities of the machine-integrated technology, GNSS (GPS) mapping
+capabilities would be necessary to record all data with corresponding positioning detail on the jobsite. Refer
+to a later section of this guide for further details about “Intelligent Compaction.”
+
+
+
+
+                                             Unit 4: APPLICATION AND CONTROL OF QUALITY |                        87
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 92 ===
+APPLICATION
+
+
+
+
+     Summary of Machine-Integrated Compaction               Machine-integrated compaction measurement
+     Measurement – On any compaction project,               technology measures the responsiveness of the
+     quality and cost are major concerns. Achieving         soil to provide a snapshot of the load-bearing
+     applicable compaction targets efficiently and          capabilities. When properly set up and operated,
+     effectively is of the utmost importance. There are     a vibratory soil compactor with integrated
+     many specifications and historically based field       compaction measurement provides information
+     compaction measurement methods. With machine-          that the operator could not otherwise obtain. This
+     integrated compaction measurement methods,             information allows the trained operator to deduce
+     operators now have better tools that will ensure the   the state of the soil. The data is an indication of
+     best possible compaction quality at the lowest cost.   the soil’s stiffness, but not a guarantee. There are
+                                                            simply too many variables. However, a trained
+     Machine-integrated compaction measurement is a         operator will understand what the measurements
+     wonderful technology when properly applied, but        indicate and the course of action dictated by those
+     there are limitations to what it can do. Machine-      measurements. The processes utilized are often
+     integrated compaction measurement cannot tell          more important than the technology itself.
+     you what soil type you are operating on, nor can
+     it describe a soil’s moisture content or physical
+     characteristics.
+
+
+
+
+88   | Unit 4: APPLICATION AND CONTROL OF QUALITY
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 93 ===
+APPLICATION
+
+
+
+
+Unit 4: APPLICATION AND CONTROL OF QUALITY |   89
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 94 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 95 ===
+COMPACTION
+
+
+
+
+Unit 5
+INTELLIGENT COMPACTION
+Intelligent compaction is the latest advancement in the application of
+vibratory soil compactors. The ability to accurately measure compaction,
+correlate measurements with GNSS coordinates, display them on a
+site map in the operator’s compartment, and record and store data for
+documentation, was heretofore unimaginable. Only time will tell what
+technological innovations will come next. Caterpillar will be at the forefront
+of that discussion and the resulting discoveries.
+
+
+
+
+                               Unit 5: INTELLIGENT COMPACTION |                  91
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 96 ===
+COMPACTION
+
+
+
+
+     [ WHAT IS INTELLIGENT COMPACTION? ]
+     Presently and in the recent past, intelligent          They now have a separate definition or requirement
+     compaction is a term applied to compaction             for what an intelligent compactor is:
+     measurement systems incorporated with a
+     vibratory soil compactor. Definitions of intelligent     Intelligent Compaction (IC) Roller
+     compaction vary between different governmental             Rollers shall be vibratory rollers with an
+     agencies and equipment manufacturers. Generally            accelerometer-based measurement system
+     speaking, intelligent compaction can be defined            and capable of recording the compaction
+     as a compactor-integrated technology applied to            parameter measurements.
+     the compaction process that improves worksite
+     efficiencies by eliminating human guesswork.           At the same time, the U.S. Federal Highway
+     The technologies provide operators with real-time      Administration (FHWA) describes intelligent
+     compaction information that helps them determine       compaction as the following:
+     when compaction is progressing and/or complete.
+                                                                Intelligent Compaction (IC) refers to
+     With this definition in mind, it is safe to say that       the compaction of road materials, such as
+     the previously described machine-integrated                soils, aggregate bases, or asphalt pavement
+     compaction measurement technology is indeed                materials, using modern vibratory rollers
+     a form of intelligent compaction. The integrated           equipped with an integrated measurement
+     systems on soil compactors provide details about           system, an onboard computer reporting
+     the compaction effort on a jobsite in real-time,           system, Global Positioning System
+     enabling operators and jobsite superintendents             (GPS) based mapping, and optional
+     to access information that they did not previously         feedback control. IC rollers facilitate real-time
+     have.                                                      compaction monitoring and timely adjustments
+                                                                to the compaction process by integrating
+     More sophisticated systems can also map out the            measurement, documentation, and control
+     data to provide a visual perspective of the work           systems. IC rollers also maintain a continuous
+     completed, as well as store data for later analysis.       record of color-coded plots, allowing the user
+                                                                to view plots of the precise location of the
+     One example of an early specification for a State          roller, the number of roller passes, and material
+     Department of Transportation (USA) is:                     stiffness measurements.
+
+       Intelligent Compaction (IC)                          The European Union has also created a means to
+         This process involves measuring and                define the use of intelligent compaction. In their
+         recording the time, location and                   pamphlet “Guidelines to evaluate soil and asphalt
+         compaction parameters of the granular              compactors equipped with continuous compaction
+         treatment during the compaction process            control (CCC),” the Committee for European
+         with a vibratory roller that is equipped with an   Construction Equipment (CECE) has created a
+         accelerometer-based measuring system and           matrix to classify equipment with continuous
+         global positioning system.                         compaction control technologies. (See Appendix.)
+
+
+
+
+92   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 97 ===
+COMPACTION
+
+
+
+
+It is important to note that more recent definitions
+of intelligent compaction are clearly defining not
+only the capabilities of integrated compaction
+measurement and real-time display to the operator,
+but also the capability of recording positioning data
+and storing it for documentation, further analysis
+and records retention. As such, the definition of
+intelligent compaction is continually evolving.
+
+Caterpillar believes an intelligent compactor should
+measure compaction, correlate measurements
+with GNSS coordinates, display a map of the
+measurements, record the data and document the
+results. These capabilities provide many benefits
+in terms of time and cost for the operators,
+contractors, and project owners. Therefore, the
+current definition used by Caterpillar for intelligent
+compaction is as follows:
+
+Intelligent Compaction (IC)
+A system that measures soil compaction,                  counts, direction of machine travel and many other
+displays the measurements to the operator,               machine settings.
+records and maps the compaction results
+using a GNSS mapping system, and controls                Regardless of the machine-integrated compaction
+or guides the machine compaction effort in               measurement technology employed, the system
+response to the measurement system.                      provides real-time measurement of the soil that
+                                                         is being compacted at any given time. Adding
+This definition can be used for both vibratory and       mapping functionality, the ability to record and plot
+non-vibratory compactors and does not require an         measurements to their precise location on a map
+accelerometer-based measurement system. As               makes the information much more useful.
+described previously, MDP is a new technology and
+has many advantages over accelerometer-based             Positioning Data, how does it work? Mapping
+compaction measurement technology depending on           systems utilize the Global Navigation Satellite
+application.                                             System (GNSS) to provide mapping data for
+                                                         each measurement recorded. This includes GPS
+Ongoing, this guide will only refer to intelligent       (operated by the U.S. Department of Defense) and
+compaction in cases where the compactor                  GLONASS (operated by the Russian government),
+is equipped with integrated compaction                   as well as other systems due to come online in the
+measurement capabilities (either CMV or MDP),            future, including Galileo in the EU and Compass in
+mapping capabilities and the ability to record and       China.
+store data for documentation and later analysis off-
+board the machine.
+
+Positioning of the Compactor on the Jobsite
+
+Machine-integrated compaction measurement
+technology can be augmented with Global Navigation
+Satellite Systems (GNSS) technology, which
+enables accurate jobsite positioning through the
+use of different constellations of satellites in the
+sky. GNSS technology is widely available and offers
+different levels of accuracy, some requiring off-board
+infrastructure providing positioning correction data.
+
+With this level of data and detail, the compaction
+measurement technology can now be matched
+up with physical location on a jobsite and can be
+configured to map these values, including pass
+
+
+
+                                                                Unit 5: INTELLIGENT COMPACTION |                 93
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 98 ===
+COMPACTION
+
+
+
+
+     Location is plotted by triangulation with the                                                                                                  SATELLITE SYSTEM ACCURACY
+     known position of satellites from these systems.
+     The satellite systems are not accurate enough to
+     be practical without some degree of correction.
+                                                                                                                                                    Autonomous: 10 m (30 ft)
+                                                                                                                                                    no correction
+     The mapping systems on soil compactors use
+     augmentation to correct the satellite signals and
+     provide a useful degree of accuracy. There are two                                                                                                                                          SBAS: 1-2 m (3-5 ft)
+     predominant forms of augmentation available: SBAS
+     and RTK.
+
+     Most systems utilize SBAS, or Satellite Based
+     Augmentation System, to correct satellite
+     positioning signals. SBAS triangulates to multiple
+     ground-based sites that provide known “anchor
+     points” from which to provide a correction
+     measurement. SBAS systems are typically
+     accurate up to 1 m (3 ft) and require no off-board
+     infrastructure.
+
+     Alternatively, many manufacturers can augment the                                                                                                                                                                                        RTK: 1 cm (0.4 in) horizontal,
+     signal with RTK, or Real Time Kinematic, correction.                                                                                                                                                                                     2 cm (0.8 in) vertical
+                                                                                                                                                                                                                                              (with local base or with VRS)
+     This technology requires the use of local radio base
+     stations to provide correction data.
+
+     In fact, recent technology also allows for RTK
+     accuracies via cell or modem technologies or even
+     Virtual Reference Stations (VRS)—but this requires
+     a more IT savvy organization and support. The base
+     stations are expensive, and the technology requires
+     line-of-site from the receiver on the compactor to
+     the base station or mobile units. However, RTK
+     provides more accuracy than SBAS, down to a
+     few centimeters (inches). It also allows the system
+     to record elevation data, which would enable the
+     compactor to map grade elevations as well.
+
+     This provides a substantial benefit, as the
+     compactor is often the last machine to operate on
+     an earthworks jobsite and can save significant cost/
+     time in final elevation surveying activities.
+
+
+
+     AUTONOMOUS
+
+
+                                                                              1   GNSS satellites
+                                                                                                     15th, 2hr
+                                                                                              A ill. – Feb
+                                                                                         Sat Angle
+
+
+
+
+                                                                        15m
+                                                                   h,
+                                                                15t
+                                                        – Feb
+                                                 ill.
+                                            es
+                                         Wav
+
+
+                                                                                                                                                                                                                                        2hr
+                                                                                                                                                                                                                                15th,
+                                                                                                                                                                                                                        – Feb
+                                                                                                                                                                                                               A ill.
+                                                                                                                                                                                                       Angle
+                                                                                                                                                                                                 Sat
+
+
+
+
+      rh2 ,ht51 beF – .lli A elgnA taS
+
+                                                                                                                                                                                                                                                                                                                               15th, 2hr
+                                                                                                                                                                                                                                                                                                      Sat Angle A ill. – Feb
+
+
+
+
+                                                                                                                                            , 15m
+                                                                                                                                        15th
+                                                                                                                                – Feb
+                                                                                                                         ill.
+                                                                                                                    es
+                                                                                                                 Wav
+
+
+
+
+                                                                                                                                                              Waves                                                                                                Wav
+                                                                                                                                                                      ill. – Feb
+                                                                                                                                                                                   15th,                                                                              es
+                                                                                                                                                                                           15m                                                                             ill.
+                                                                                                                                                                                                                                                                                  – Feb
+                                                                                                                                                                                                                                                                                          15th
+                                                                                                                                                                                                                                                                                              , 15m
+
+
+
+
+                                                                              2   machine
+
+
+
+
+94   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 99 ===
+COMPACTION
+
+
+
+                                   SBAS (SATELLITE - BASED AUGMENTATION SYSTEM)
+
+                                        geostational                                                                                                                                                                                                                                                                                                                                                                                                                                                                           1                                                GNSS satellites
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                         2hr
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    Feb 15th,
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     2hr
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             15th,
+                                    4
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       – Feb
+                                                                                                                                                                                                                                                                                                                                                                                                                                             A ill. –
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    A ill.
+                                                                                                                                                                                                                                                                                                                                                                                                                                        Sat Angle
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Angle
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Sat
+                                        satellite
+                                                                                                                                                                                                                                                                                    aug
+                                                                                                                                                                                                                                                                             m
+                                                                                                                                                                                                                                                                         , 15
+                                                                                                                                                                                                                                                                      th
+                                                                                                                                                                                                                                                                    15
+                                                                                                                                                                                                                                                                b
+
+
+
+
+                                                                                                                                                                                                                                                                                       men
+                                                                                                                                                                                                                                                            – Fe
+                                                                                                                                                                                                                                                   s ill.
+                                                                                                                                                                                                                                                 ve
+                                                                                                                                                                                                                                               Wa
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2hr
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                 ted
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           , 15m                                                                                                                                                            15th,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    – Feb
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       15th                                                                                                                                                A ill.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                               – Feb                                                                                                                                         Sat
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Angle
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ill.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   es
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                Wav
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          15m
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  15th,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Feb
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ill. –
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                           sign
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Waves
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      al
+                                                                                   rh2 ,ht51 beF – .lli A elgnA taS
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Waves
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ill. – Feb
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               15th,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       15m
+
+
+
+
+                                                                                                                                                                                                            Radio Tower ill. – Feb 17th, 1hr
+
+
+
+
+                                            3 reference stations                                                                                                                                                                                                                                                                                   Radio Tower ill. – Feb 17th, 1hr
+                                                                                                                                                                                                                                                                                                                                                                                      2    machine
+
+
+                                                                                                                                                                                                                                                                                          Radio Tower ill. – Feb 17th, 1hr
+
+
+
+
+                                   RTK (REAL TIME KINEMATIC)
+                                                                                                                                                 2hr
+                                                                                                                                         15th,
+                                                                                                                                   – Feb
+                                                                                                                                A ill.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                          , 2hr
+                                                                                                                        Angle
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                   15th
+                                                                                                                                                                                                                                                                                                                                                                                                           – Feb
+                                                                                                                      Sat
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                       ill.
+                                                                                                                                                                                                                                                                                                                                                                                                      eA
+                                                                                                                                                                                                                                                                                                                                                                                               Angl
+                                                                                                                                                                                                                                                                                                                                                                                             Sat
+                                                                                                                                                                                                                                                                                                                                         , 2hr
+                                                                                                                                                                                                                                                                                                                                     15th
+                                                                                                                                                                                                                                                                                                                             – Feb
+                                                                                                                                                                                                                                                                                                                           ill.
+                                                                                                                                                                                                                                                                                                                       A
+                                                                                                                                                                                                                                                                                                                      le
+                                                                                                                                                                                                                                                                                                                Ang
+                                                                                                                                                                                                                                                                                                              Sat
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        1          GNSS satellites
+                                                                                                                                                                                      15m
+                                                                             15m                                                                                              15th,
+                                                                                                                                                                        Feb
+                                                                        h,                                                                                     ill. –
+                                                                     15t                                                                               Waves
+                                                             – Feb                                                                                                                                                                                                                                                                                                                                                                15m
+                                                      ill.                                                                                                                                                                                                                                                                                                                                             Waves ill. – Feb 15th,
+                                                 es
+                                              Wav
+
+
+
+
+rh2 ,ht51 beF – .lli A elgnA taS
+
+
+                                                                                                                                                                                                                                                                                                   Waves ill. – Feb 15th, 15m
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           3 machine
+                                                                                                                                                                                                                                                                                 correction data
+
+
+                                                                                                                      2                                                                     base station
+
+
+                                                                                                                                                                                 RTK ill. – Feb 15th, 2hr
+
+
+
+
+                                   Benefits of Positioning Data                                                                                                                                                                                                                                                                                   select locations. The process is time consuming
+                                                                                                                                                                                                                                                                                                                                                  and expensive. The results from the tests are used
+                                   By itself, machine-integrated compaction                                                                                                                                                                                                                                                                       to represent a much larger area than what is actually
+                                   measurement can reveal many things about the                                                                                                                                                                                                                                                                   tested, often at a ratio of 1:1 million—not exactly
+                                   state of compaction in real-time; but this information                                                                                                                                                                                                                                                         statistically reassuring. IC can measure the entire
+                                   is very specific, reflecting a momentary snapshot in                                                                                                                                                                                                                                                           site in the time that it takes to roll over it.
+                                   time. Positioning data allows the system to provide
+                                   not just a single measurement as it is taken, but                                                                                                                                                                                                                                                              Additionally, some systems are capable of importing
+                                   ALL measurements in the context of where they                                                                                                                                                                                                                                                                  engineering or architectural 3D designs into the
+                                   were taken. This changes the view from momentary                                                                                                                                                                                                                                                               on-board display. This can be advantageous on a
+                                   to encompassing, and opens the door for in-depth                                                                                                                                                                                                                                                               jobsite where stakeless grade control is already in
+                                   analysis. Suddenly, the operator—as well as site                                                                                                                                                                                                                                                               use or where grade stakes and other landmarks are
+                                   management—can access a picture of compaction                                                                                                                                                                                                                                                                  not available.
+                                   quality for the whole site, rather than just a
+                                   snapshot in time.
+
+                                   This capability is a big differentiator for IC systems
+                                   when compared with the other testing methods.
+                                   Traditionally, ground personnel conduct quality
+                                   testing using portable testing procedures in a few
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      Unit 5: INTELLIGENT COMPACTION |                                                                                                                                                                                                                                                    95
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 100 ===
+COMPACTION
+
+
+
+
+     Using the Collected Data                                VISIONLINK INTERFACE
+
+     It is easy to see the advantages that the additional
+     data offers the operator, enabling a more
+     efficient and cost effective way to achieve quality
+     compaction on a jobsite. Many inspectors and road
+     administrations require some real-time and basic
+     in-field reporting, which is text data documenting
+     basic compaction progress via an in-cab printing
+     application. But many authorities are focusing now
+     on more detailed off-board reports. This requires
+     the transmission of all recorded compaction data
+     from the jobsite machine to a PC in an office. Data
+     can be moved manually via jump drive or wirelessly
+     via communications hardware and software.
+
+     Once all the data has been received on the office
+     computer, users have the challenge of filtering
+     and sorting the data to construct reporting
+     documentation required by inspection and road
+     authorities. There are many such software programs
+     available today to assist in this task, including
+     AccuGrade Office, SiteVision Office, VisionLink,
+     Veda and many more. These software solutions
+     range in file format types, capabilities and prices.
+
+
+
+
+     [ BENEFITS OF INTELLIGENT COMPACTION ]
+     Quality Control & Quality Assurance                     More Efficient Jobsites – Output of results
+     Documentation – Intelligent compaction                  delivers a map of the entire compacted area, which
+     allows for documentation of work completed. It          can reveal areas that need more compaction or
+     also allows in-process control with the ability to      areas that are already completed. This minimizes
+     monitor progress daily or near real-time, as well as    passes and fuel consumption, and can quickly
+     electronic storage and analysis of results that can     reduce the number of manual compaction tests
+     be correlated with long-term or historical records of   needed on the jobsite, keeping production at a
+     the jobsite data.                                       constant level while reducing testing costs with
+                                                             fewer samples to tag and store.
+     Increased Operator Productivity – Output
+     is visually displayed for the operator, helping to
+     determine if the soil has reached target stiffness.
+     This empowers the operator with real-time data that
+     can be acted upon. For example, the system can
+     alert the operator to soft spots, indicate potential
+     moisture content issues, and, with RTK accuracy,
+     the compactor can also check final jobsite grades
+     and elevations.
+
+
+
+
+96   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 101 ===
+COMPACTION
+
+
+
+
+Confidence in Results – Accurate positioning            MEASURING RESULTS
+identifies exact locations of compaction problems
+early in the construction process, allowing for more
+cost effective corrections and reduced risk of later
+rework. The data provides a reliable reference of
+the overall quality of the job in a visual, easy-to-
+understand format. This allows trained operators
+to deduce when a job is complete, giving them the
+confidence to move on to the next area rather than
+waiting for the results of conventional testing.
+
+
+
+
+[ CURRENT SPECIFICATIONS FOR INTELLIGENT COMPACTION ]
+Intelligent compaction for soil applications has          4. The IC rollers shall include an integrated on-
+generally increased in use as governmental                   board documentation system that is capable
+agencies have studied and accepted the benefits              of displaying real-time, color-coded maps of
+of the technology and produced specifications                IC measurement values including the stiffness
+for its use. Specifications help to ensure that the          response values, location of the roller, number
+technology is applied in a manner that produces an           of roller passes, roller speeds, together with
+acceptable result for the specifying agency.                 the vibration frequency and amplitude of roller
+                                                             drums.
+The U.S. Federal Highway Administration (FHWA)
+has developed a set of generic specifications for the     5. The display unit shall be capable of
+utilization of intelligent compaction on soils. These        transferring the data by means of a USB port.
+specifications are intended for state departments
+of transportation to use as-is or modify to meet          6. An on-board printer capable of printing
+their requirements. Here is an example of the                the identity of the roller, the date of
+specifications as issued:                                    measurements, construction area being
+                                                             mapped, percentage of the construction area
+The IC rollers shall meet the following specific             mapped, target IC-MV, and areas not meeting
+requirements:                                                the IC-MV target values. (Printer option to be
+                                                             selected by the each state DOT.)
+  1. IC rollers shall be self-propelled single-drum
+     vibratory rollers equipped with accelerometers     Governmental authorities from other countries have
+     mounted in or about the drum to measure            developed their own specifications built around the
+     the interactions between the rollers and           road building process in their respective countries.
+     compacted materials in order to evaluate the       While they may vary from the FHWA specifications,
+     applied compaction effort. IC rollers may be       the goal is similar in that they want to provide a
+     smooth or pad footed drums.                        standard for use of the equipment.
+
+  2. The output from the roller is designated as the
+     Intelligent Compaction Measurement Value
+     (IC-MV), which represents the stiffness of the
+     materials based on the vibration of the roller
+     drums and the resulting response from the
+     underlying materials.
+
+  3. GPS radio and receiver units shall be mounted
+     on each IC roller to monitor the drum locations
+     and track the number of passes of the rollers.
+
+
+
+
+                                                              Unit 5: INTELLIGENT COMPACTION |                 97
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 102 ===
+COMPACTION
+
+
+
+
+      Spec.                Equipment                Field Size              Location                         Documentation
+                                                                            Specs
+
+     Mn/DOT (USA)
+                           Smooth drum or           100 m x 10 m (mini-     One calibration/ control strip   Compaction, stiffness,
+                           padfoot vibratory        mum at base). Max       per type or source of grading    moisture, QC activities,
+                           roller (25,000 lbs.)     1.2 m thick.            material                         and corrective actions
+                                                                                                             (weekly report)
+
+     ISSMGE
+     (International        Roller chosen by         100 m by the width      Homogenous, even surface.        Rolling pattern, sequence
+     Society of Soil       experience               of the site             Track overlap ≤ 10% drum         of compaction and
+     Mechanics and                                                          width.                           measuring passes;
+     Geotechnical                                                                                            amplitude, speed, dynamic
+     Engineering)                                                                                            measuring values,
+                                                                                                             frequency, jump operation,
+     www.issmge.org/                                                                                         and corresponding
+                                                                                                             locations
+
+     Earthworks
+     (Austria)             Vibrating roller         100 m long by the       No inhomogeneities close to      Compaction run plan,
+                           compactors with          width of the site       surface (materials or water      sequence of compaction
+                           rubber wheels and                                content). Track overlap ≤ 10%    and measurement runs,
+                           smooth drums                                     drum width.                      velocity, amplitude,
+                           suggested                                                                         frequency, speed, dynamic
+                                                                                                             measuring values,
+                                                                                                             jump operation, and
+                                                                                                             corresponding locations
+
+
+
+
+     Research Society
+     for Roadand Traffic   Self-propelled rollers   Each calibration area   Level and free of puddles.       Dynamic measuring
+     (Germany)             with rubber tire drive   must cover at least     Similar soil type, water         value; frequency;
+                           are preferred; towed     3 partial fields ~ 20   content, layer thickness, and    speed; jump operation;
+                           vibratory rollers with   m. long                 bearing capacity of support      amplitude; distance; time
+                           towing vehicle are                               layers. Track overlap ≤ 10%      of measurement; roller
+                           suitable.                                        machine width.                   type; soil type; water
+                                                                                                             content; layer thickness;
+                                                                                                             date, time, file name,
+                                                                                                             or registration number;
+                                                                                                             weather conditions;
+                                                                                                             position of test tracks and
+                                                                                                             rolling direction; absolute
+                                                                                                             height or application
+                                                                                                             position; local conditions
+                                                                                                             and embankments in
+                                                                                                             marginal areas; machine
+                                                                                                             parameters; and perceived
+                                                                                                             deviations
+
+     Vägverket
+     (Sweden)              Vibratory or             Thickness of largest    Layer shall be homogenous        —
+                           oscillating single-      layer 0.2–0.6 m.        and non-frozen. Protective
+                           drum roller. Min.                                layers < 0.5 m may be
+                           linear load 15–30 kN.                            compacted with sub-base.
+
+
+
+
+98   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 103 ===
+COMPACTION
+
+
+
+
+Compaction Specs                                                  Speed                                    Frequency
+
+
+
+90% of the roller compaction measurements and average of          Same during calibration and production
+LWD modulus measurements (based on 3 tests) must be at            compaction
+90% of the target values established in the calibration strip.
+
+
+
+Correlation coefficient ≥ 0.7. Minimum value ≥ 95% of             Constant                                 Constant
+Ev1, and mean should be ≥ 105% (or ≥ 100% during jump             2–6 km/h (± 0.2 km/h)                    (± 2 Hz)
+mode). Dynamic measuring values should be lower than
+the specified minimum for ≤ 10% of the track. Measured
+minimum should be ≥ 80% of the specified minimum.
+Standard deviation (of the mean) must be ≤ 20% in one
+pass.
+
+
+
+Correlation coefficient ≥ 0.7. Minimum value ≥ 95% of Ev1,        Constant                                 Constant
+and median should be ≥ 105% (or ≥ 100% during jump                2–6 km/h (± 0.2 km/h)                    (± 2 Hz)
+mode). Dynamic measuring values should be lower than
+the specified minimum for ≤ 10% of the track. Measured
+minimum should be ≥ 80% of the set minimum. Measured
+maximum in a run cannot exceed the set maximum (150%
+of the determined minimum).Standard deviation (of the
+median) must be ≤ 20% in one pass.
+
+
+
+
+The correlation coefficient resulting from a regression           Constant
+analysis must be ≥ 0.7. Individual area units (the width of the
+roller drum) must have a dynamic measuring value within
+10% of adjacent area to be suitable for calibration.
+
+
+
+
+Bearing capacity or degree of compaction requirements
+may be met. Mean of compaction values for two inspection                                                   Constant
+points ≥ 89% for sub-base under roadbase and for protective                                                2.5–4.0 km/h
+layers over 0.5 m thick; mean should be ≥ 90% for
+roadbases. Required mean for two bearing capacity ratios
+varies depending on layer type.
+
+
+
+
+                                                                                     Unit 5: INTELLIGENT COMPACTION |     99
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 104 ===
+COMPACTION
+
+
+
+
+      [ INTELLIGENT COMPACTION OPERATION PROCEDURES ]
+      Similar to the use of only the machine-integrated       by pass count, percent of a target compaction
+      compaction measurement technology discussed             measurement value, or even by percent of change
+      previously, intelligent compaction-enabled vibratory    of the compaction target value on a pass-by-pass
+      soil compactors have similar processes to follow,       basis (for both areas of sufficient as well as areas of
+      with slight differences due to the additional           poor compaction). As necessary, the operator can
+      capabilities the more advanced systems provide.         also digitally mark points and areas where action
+      There are two modes of operation: production            may be necessary to bring the compaction up to
+      mode and proofing mode.                                 specification. All stored data can be taken off-board
+                                                              to review, filter and analyze as necessary.
+      Production Mode – Again, the intent of this mode
+      of operation is to compact as much soil to an           In this mode of operation, the mapping system
+      acceptable level as quickly and efficiently as          provides the operator with a visualization of jobsite
+      possible in both forward and reverse directions until   compaction progress and a moderate level of quality
+      a nominal target value is reached. The compaction       assurance. However, because of all the variables—
+      is conducted in normal working parameters—travel        ground speed, direction, de-coupling, soil moisture
+      speed of 1 to 2,5 km/h (0.6-1.6 mph) on rock fill       variation—the compaction data taken during this
+      and clay; 2-5 km/h (1.2-3.1 mph) on non-cohesive        mode of operation is still of lower quality than what
+      sands and silt soils—and the machine amplitude is       is possible to achieve. However, it still gives the
+      typically at high setting.                              operator data to maximize efficiency and uniformity
+                                                              and eliminate the reliance on guesswork during the
+      In the case of an intelligent compaction equipped       compaction process.
+      compactor, the operator can now receive input
+      other than a simple dimensionless number giving         When the values reach a range near the target
+      an indication of soil stiffness or load bearing         value, the operator can move on to a new area while
+      strength. With the additional color display and data    quality personnel conduct testing to ensure the
+      collecting and storage capabilities, the operator       work meets specification or the area can be made
+      has a snapshot of compaction in the exact location      ready for a proofing mode pass.
+      of the compactor and can monitor the jobsite
+
+
+
+
+100   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 105 ===
+COMPACTION
+
+
+
+
+Proofing Mode – Once production compaction has          de-coupling or other issues with an MDP equipped
+been completed, the compaction measurement              machine). This helps to ensure that these variables
+system can be used as a proof compactor to              are not influencing the measurement and data being
+verify the quality of the work in this more precise     collected and stored for reporting purposes.
+mode of operation. This approach is intended for
+use when the contracting authority is requesting        It should also be noted that when it comes to proof
+documentation or a map showing an accurate              rolling, what you are measuring—the degree of
+indication of ground stiffness for a particular phase   compaction of the soil—is changing as you measure
+of construction.                                        it. As the heavy compactor moves, its static weight
+                                                        is introducing pressure and other forces into the soil
+It is of utmost importance to ensure that variables     below. For this reason, operators need to take care
+are controlled and kept consistent, thus working        to diminish the amount of force introduced as they
+parameters are now constant travel speed of 3 km/h      are measuring. The ability of energy-based systems
+(2 mph) with machine amplitude in low setting (or       to measure with a static drum (without vibration)
+off if necessary in the case of over compaction or      makes them ideal for this application.
+
+
+
+
+                                                               Unit 5: INTELLIGENT COMPACTION |                  101
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 106 ===
+COMPACTION
+
+
+
+      RECOMMENDED PROCESS FOR PROOFING
+
+       1. Plan a rolling pattern that allows the operator      6. When the entire area has been covered, select
+          to drive in the forward direction throughout the        “proofing off” on the display.
+          mapping operation.
+                                                               7. For improved quality, measure the moisture
+       2. Determine a target ground speed between                 content of the soil in a grid pattern over the
+          2.5 to 4 km/h (1.5 to 2.5 mph) that you will            entire area that was measured and compacted.
+          be able to maintain. Slower is better, and              Grid size can be adjusted to jobsite scale and
+          use of automatic speed control will allow               requirements of the contracting agency. This
+          uniformity of speed, which enables better data          will provide additional information for analysis
+          measurement and compaction.                             of the compaction values, and the grid pattern
+                                                                  will allow development of a soil moisture
+       3. Set the amplitude to low. This will lessen the          content iso-bar map. Soil samples for moisture
+          chance of drum de-coupling and will result in           measurements should be taken as soon as
+          a measurement that does not penetrate as                possible after the compactor has finished an
+          deeply into the soil. This makes correlation with       area.
+          other test methods more likely.
+                                                               8. Review the compaction map and data to
+       4. Select the “proofing on” from the display menu          select those areas that you wish to correlate
+          and start vibration (or static rolling with MDP)        to another form of compaction measurement
+          and propel to begin compaction measurement              device. Select areas that read high values, low
+          at constant ground speed, amplitude, and                values and intermediate values. Select several
+          frequency while driving forward.                        areas of each.
+
+       5. Use the GNSS positioning capabilities to guide       9. Conduct correlation tests using a hand held
+          the machine so that only one pass is made               GNSS rover to locate the selected test areas as
+          over the area of interest. Drum passes should           accurately as possible. Don’t approximate, as
+          be just touching or barely overlapped. Overlap          soil conditions can vary widely in just a short
+          at the ends or turnaround areas. NOTE:                  distance. (See discussion of correlating test
+          overlapped areas can be considered as multiple          equipment in the next section.)
+          passes and can cause discrepancies in the
+          recorded data.
+
+
+
+
+      [ ECHELON PATTERN WITH TWO COMPACTORS ]
+      Several methods can be used to calibrate a target       an acceptable level, and is moving away from trying
+      value for compaction measurement (CMV or MDP)           to obtain a specific compaction value or density for
+      and the required number of passes. Some of              all areas of the worksite.
+      these methods will be dictated by the contracting
+      agency, and may differ from what is printed in this
+      guide. The industry is moving toward a practice of
+      emphasizing that the area be uniformly compacted to
+
+
+
+
+102   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 107 ===
+COMPACTION
+
+
+
+
+Site Calibration Using a Test Strip and an Independent Testing Device
+
+This method is intended to eliminate as many                value), go on to step #6. If not, either a new
+variables in the measurement process as possible,           test strip site needs to be selected (step #1) or
+and to use the same soils and methods as are going          remedial work needs to be done to the sub-
+to be used during the actual construction of the            base to obtain a more uniform map. Remedial
+road or building site. It is very time and resource         work may involve excavating hidden objects
+consuming, but is the best way to understand the            such as rocks and clay balls or stabilizing
+process and build a baseline understanding of the           the soil with lime or some other agent. If a
+technologies involved.                                      stabilizing agent is used on the test strip, it
+                                                            must also be used throughout the jobsite for
+ 1. Locate a test area that can be left intact for the      the test strip to have validity.
+    duration of the project and has similar soils,
+    grades and subsoil structure as the majority of      6. Measure the compaction of the sub-base
+    the project.                                            with a portable plate load test or light falling
+                                                            weight deflectometer using a uniform pattern
+ 2. Excavate/fill the test area to grade and level to       of test points across the full area of the test
+    create the sub-base for the test strip.                 strip. Avoid using nuclear density or sand cone
+                                                            density devices, as they measure a different
+ 3. Bring in the vibratory soil compactor and               soil characteristic (density) than the vibratory
+    create a base line compaction map using the             compactor (stiffness). These test points need
+    intelligent compaction system in proofing mode          to be located using a precision GNSS device
+    and low amplitude, constant frequency (or with          capable of decimeter accuracy in order to be
+    vibration off in the case of MDP), constant             correlated correctly to the GNSS compaction
+    forward direction at 3 km/h (2 mph).                    map obtained from the intelligent compactor.
+                                                            As an alternative to testing in a grid pattern,
+ 4. If the compaction map shows high variability            use the compactor GNSS map and pick several
+    (90 percent of the values should be within              scattered locations that represent the high,
+    20 percent variation of the average value), try         medium and low compaction values. Obtain
+    compacting the base in high amplitude to bring          at least three tests for each range of values (9
+    the compaction level of the soft areas up to be         test points minimum). Using more test points
+    more equal to the higher value areas. Repeat            provides a more statistically accurate result.
+    step #3.
+                                                         7. Measure the moisture content at each of the
+ 5. If the sub-base is now uniformly compacted              test points. If the moisture content shows
+    (meeting the test: 90 percent of the values             wide variation, the correlations will not produce
+    within 20 percent variation of the average              uniform results.
+
+
+
+
+As a cautionary note, remember that the portable test device used to calibrate the
+compactor-integrated compaction measurement value has its own variability of measurement.
+That means that it could be used to measure the same soil with the same properties several
+times and not provide the exact same results. For example, nuclear density measurements
+can vary by 15 percent on the same sample. Current practice is to take a reading, rotate the
+device 90 degrees and take another reading. The average of the two readings is recorded as
+the measured value.
+
+
+
+
+                                                              Unit 5: INTELLIGENT COMPACTION |                  103
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 108 ===
+COMPACTION
+
+
+
+
+       8. Correlate compaction test values to those            12. Repeat steps #2 through #9 for this lift of
+          obtained from the GNSS map on the compactor              material. This base lift will have its own
+          and graph the results with compaction                    calibration curve that will be used throughout
+          measurement values on the y-axis and portable            the jobsite for this lift of material.
+          field test results on the x-axis. This is called a
+          scatter plot.                                        13. Repeat steps #10 through #12 for all layers of
+                                                                   fill that are brought in, each layer having its own
+       9. Use curve-fit methodology to determine the               calibration curve.
+          best calibration curve between the integrated
+          compaction measurement values and the field          14. If the ground conditions change due to
+          test method. This is the tool that will only be          the weather, rerun a proof run on the test
+          used for that soil type on the jobsite and tests         strip to re-establish what constitutes an
+          of the sub-base compaction.                              acceptance level for the integrated compaction
+                                                                   measurement value.
+       10. Bring the first lift of fill material and place
+           uniformly at the specified depth.
+
+       11. Compact the material until it is uniformly
+           compacted and the integrated compaction
+           measurement values do not change much
+           when traveling in the forward direction.
+
+
+
+
+104   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 109 ===
+COMPACTION
+
+
+
+
+Calibration of Integrated Compaction Measurement Results and Pass Count Using a Soil Compactor
+(No Independent Field Test Device)
+
+This process, or a similar one, is used in some           5. If the compaction map shows high variability
+Scandinavian countries. It is more pragmatic and             (90 percent of the values should be within
+demands less time and resources while providing a            20 percent variation of the average value),
+means of having good compaction control without              compact the base in high amplitude until the
+using some other compaction measurement as a                 compaction measurement values are more
+standard. The objective is to use the compactor to           consistent across the test strip. Repeat step
+establish a nominal maximum level of compaction for          #3.
+the worksite materials, and determine the number of
+passes to reach that level. The purpose is to create      6. Upon obtaining uniform compaction, check
+a uniform level of compaction across the entire              the moisture content at several locations and
+jobsite. The following process uses a test strip to set      record the results.
+compaction baselines. A test strip is optional, as a
+portion of the worksite or the entire worksite can be     7. Bring the first lift of fill material. Select the
+compacted as if it were a test strip.                        proof map feature and compact the fill layer
+                                                             using a high amplitude setting and slow
+  1. Locate a test area that can be left intact for the      uniform ground speed of 3 km/h (2 mph).
+     duration of the project that has similar soils,         Complete an up and back pass in each track
+     grades and subsoil structure as the majority of         before moving over to run on uncompacted
+     the project.                                            material. Moisture content should be uniform
+                                                             and at an optimum level for the soil or rock fill
+  2. Excavate/fill the test area to grade and level to       being used.
+     create the sub-base for the test strip.
+                                                          8. Repeat the compaction cycle over the entire
+  3. Bring in the vibratory soil compactor and create        area again, noting the level of compaction
+     a base line compaction map (proof map) using            measurement value that is most predominant
+     the intelligent compaction system in proofing           for each compaction pass.
+     mode and low amplitude, constant frequency
+     (or with vibration off in the case of MDP),
+     constant forward direction at 3 km/h (2 mph).
+
+  4. Check moisture content of the soil at multiple
+     locations on the test strip. If it is too high or
+     too low, correct before doing any additional
+     compaction.
+
+
+
+
+                                                               Unit 5: INTELLIGENT COMPACTION |                  105
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 110 ===
+COMPACTION
+
+
+
+
+       9. Keep repeating step #8 until the compaction          14. Compact the worksite as normally done, using
+          level between passes does not change                     the compaction map as a guide to achieve
+          substantially, or the compactor starts to                uniform compaction over the entire area.
+          de-couple.
+                                                               15. With time and experience in a region, skilled
+       10. The average value that the compaction                   operators may be able to set the target
+           measurement begins to level off is the target           compaction measurement values and pass
+           value and the number of passes it took to reach         counts without utilizing a test strip.
+           this level of compaction is your target pass
+           count.                                              16. If a more precise measure of the final
+                                                                   compaction level is desired, use the compactor
+       11. Record these results, and set the display target        in the proofing mode (low amplitude, constant
+           value and pass count accordingly for this lift.         speed of 3 km/h [2 mph], constant frequency
+                                                                   and forward direction only).
+       12. Repeat steps #7 through #11 with a new proof
+           map for each new lift. When complete, you
+           will have a target compaction measurement
+           value and pass count for each layer.
+
+       13. If several of the layers possess nearly identical
+           values, use a single target compaction
+           measurement value for all corresponding layers
+           of fill.
+
+
+
+
+106   | Unit 5: INTELLIGENT COMPACTION
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 111 ===
+COMPACTION
+
+
+
+
+Use of Intelligent Compaction Values Without Calibration on the Jobsite
+
+This process is the most pragmatic and demands            1. Size the vibratory soil compactor with intelligent
+little or no additional time. It must be noted that          compaction capabilities as best you can
+this process is best suited for what is described            considering compaction targets, soil types,
+previously as a production mode of compaction                moisture levels, lift thickness, etc. Details
+and requires some experience with the system, an             provided earlier describe some factors to take
+understanding of how the technology works and the            into consideration when sizing and choosing
+process of soil compaction in general.                       the configuration of the compactor.
+
+The objective of this process is to use the intelligent   2. Begin compaction on the jobsite with the
+compaction technology to compare the relative                intelligent compaction display set up to
+change in compaction progress on a pass-by-pass              map compaction measurement values and
+basis in order to know when the physics behind the           comparing the percent change from one pass
+compactive effort is adequate for the conditions at          to the next.
+hand. As stated earlier, using intelligent compaction
+and integrated compaction measurement technology          3. The mapping feature can be set up and
+is not a guarantee of compaction or density; and,            customized to assign a certain color for a
+often times, the process employed is more important          certain range of percent change, one pass to
+than the tools and technology used on a jobsite.             the next. As an example, set the display to map
+A compactor of given characteristics can become              the color red for areas showing 50-100 percent
+ineffectual after a certain number of passes on a            change pass-to-pass, yellow for areas showing
+certain material, rendering the compaction goal              10-49 percent change pass to pass, and finally
+unachievable and making all subsequent passes                green for 0-9 percent change pass to pass.
+wasteful. It would be beneficial to know when this           These ranges can be changed according to
+condition takes place in order to stop wasting time          experience or jobsite conditions as necessary.
+and consuming fuel unnecessarily.
+
+
+
+
+                                                               Unit 5: INTELLIGENT COMPACTION |                   107
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 112 ===
+COMPACTION
+
+
+
+
+       4. Continue rolling and compacting with the focus        7. If the tests show a passing level of compaction,
+          on turning the map green.                                continue with the process on the jobsite as
+                                                                   described.
+       5. If there are areas that cannot be brought to
+          green (little to no change from one pass to the       8. If the tests show that compaction targets are
+          next), this is an indication that there may be           not met, one of two things is happening. 1)
+          some issue with the suitability of the soil in that      The machine size and operating weight are not
+          area, or perhaps some sub-base concerns that             correct for the soil type and lift thickness and/or
+          need to be addressed.                                    2) the moisture content of the soil is incorrect
+                                                                   (either too dry or too wet). Either way, the
+       6. When the map is sufficiently green and no                compactor on the jobsite will not be capable
+          further change in compaction measurement                 of further compaction progress until some
+          values are noted from one pass to the next,              conditions are changed.
+          utilize a portable plate load test or light falling
+          weight deflectometer as described in the
+          examples. Be sure to use a uniform pattern
+          of test points across the full area being
+          compacted/tested or as desired to prove that
+          the compaction will pass or fail the compaction
+          target specified for the project.
+
+
+
+
+108   | Unit 5: INTELLIGENT COMPACTION
+

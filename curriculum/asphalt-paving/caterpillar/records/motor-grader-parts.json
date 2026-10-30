@@ -1,0 +1,37 @@
+{
+  "id": "CAT-12",
+  "slug": "motor-grader-parts",
+  "title": "K/K2 Series Motor Graders — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2023,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+  "download_filename": "cat-motor-grader-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20230505-124d3-45a4e",
+  "accessed": "2026-10-30",
+  "original_bytes": 777090,
+  "original_sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+  "original_pages": 14,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "K/K2 SERIES MOTOR GRADERS  \nCOVERING 12K, 120K, 120K2, 140K, 140K2, 160K \nPARTS REFERENCE GUIDE\n",
+    "last_page": "To buy Cat parts online, visit Parts.cat.com.\nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity & Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly and can reach 20% before you detect a problem — \nthat’s one day of lost production every week! These losses can  \nalso increase your fuel consumption and operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \n* Visit https://www.cat.com/filtersandfluids for more details\nPEDJ1168-01\n© 2023 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well \nas corporate and product identity used herein, are trademarks of Caterpillar and may not be used \nwithout permission.\n"
+  },
+  "parts": [
+    {
+      "file": "sources/motor-grader-parts/p0001-0014.pdf",
+      "text": "text/motor-grader-parts/p0001-0014.txt",
+      "start": 1,
+      "end": 14,
+      "pages": 14,
+      "bytes": 777090,
+      "sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+      "text_sha256": "ce5605afb0dac7ad3c35d21c6f23b88206c6e24b390ff90ba1f72cb8746e8c35",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

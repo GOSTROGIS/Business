@@ -1,6 +1,8 @@
 # ACCESS IS4S · Asphalt manufacturer manual resource pack
 
-[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **57,006,678 bytes** (57.01 MB), **715 files**, **67,452,512 bytes** when extracted. ZIP SHA-256: `97e82f08410b3ba13af2908db81f27cd4fa37331b72bd6ee2c0293a22269ada7`.
+[Expanded CAT library and parts atlas](../caterpillar/README.md) · [WHMIS symbols and classroom pack](../whmis/README.md) — separate collections and ZIP downloads.
+
+[Download the complete ZIP](asphalt-manuals-resource-pack.zip) — **57,007,655 bytes** (57.01 MB), **715 files**, **67,455,270 bytes** when extracted. ZIP SHA-256: `fb4e22f7a13a3ca6dbcc9959aa6efd7b288bad76e1a7ff93a96ba6b0373566d4`.
 
 [Open the offline-friendly manual index](index.html) · [Learner lesson](lesson.html) · [Printable learner PDF](manual-reading-lesson.pdf) · [Teaching and answer PDF](manual-reading-instructor.pdf)
 

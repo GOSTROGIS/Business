@@ -1,0 +1,1518 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0526-0550.pdf
+SOURCE SHA-256: 4884068796d41b92e495a4a3280fa0bcef3d45417702f92339a9c177d70d5119
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 526 ===
+Tables
+
+
+
+
+    ROUND REINFORCED CONCRETE PIPE                                COEFFICIENT OF TRACTION FACTORS
+     APPROXIMATE WEIGHT PER FOOT                                                                                   TRACTION FACTORS
+       INSIDE DIAMETER                     WEIGHT PER FT.                  MATERIAL                              Rubber Tires  Tracks
+      mm           ft/in                  kg           lb       Concrete . . . . . . . . . . . . . . . . . . .      0.90        0.45
+       305          12"                    42           93      Clay loam, dry . . . . . . . . . . . . . .          0.55        0.90
+       380          15"                    58          127      Clay loam, wet . . . . . . . . . . . . . .          0.45        0.70
+       460          18"                    76          168      Rutted clay loam  . . . . . . . . . . . .           0.40        0.70
+       530         1'9"                    97          214      Dry sand . . . . . . . . . . . . . . . . . . .      0.20        0.30
+       610         2'0"                   120          265      Wet sand . . . . . . . . . . . . . . . . . . .      0.40        0.50
+       685         2'3"                   146          322      Quarry pit . . . . . . . . . . . . . . . . . .      0.65        0.55
+       760         2'6"                   174          384         Gravel road (loose not hard)                     0.36        0.50
+       840         2'9"                   205          452      Packed snow  . . . . . . . . . . . . . . .          0.20        0.27
+       915         3'0"                   238          524      Ice  . . . . . . . . . . . . . . . . . . . . . .    0.12        0.12
+      1070         3'6"                   311          686         Semi-skeleton shoes
+      1220         4'0"                   393          867      Firm earth . . . . . . . . . . . . . . . . . .      0.55        0.90
+      1370         4'6"                   485         1069      Loose earth . . . . . . . . . . . . . . . . .       0.45        0.60
+      1525         5'0"                   588         1295      Coal, stockpiled . . . . . . . . . . . . .          0.45        0.60
+      1675         5'6"                   699         1542   NOTE: The elevated sprocket design Track-Type Tractors (D11, D10T2, D9T,
+                                                                    D9R, D8T, and D8R), with their suspended undercarriage, provide up to
+      1830         6'0"                   821         1811          15% more efficient tractive effort than rigid tracked Track-TypeTractors.
+      1980         6'6"                   952         2100
+      2135         7'0"                  1093         2409
+      2285         7'6"                  1242         2740
+      2440         8'0"                  1402         3090
+      2590         8'6"                  1578         3480
+                                                                                                                                                27
+      2740         9'0"                  1753         3865
+NOTE: Table courtesy of American Concrete Pipe Assn.
+
+
+
+
+                                                                                                                                      27-3
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 527 ===
+Tables
+
+
+
+
+                   SPEED CONVERSION                                                                    BEARING POWERS
+  km/h Equivalents in m/min              MPH Equivalents in FPM                                                                  BEARING POWER
+ km/h m/min km/h m/min                 mph    fpm    mph      fpm                                                                  lb/   Metric  U.S.
+    1    16.7    21    350.0             1      88    21     1848                     MATERIAL                            Bar      in2    t/m2 tons/ft2
+    2    33.3    22    366.7             2     176    22     1936             Rock (semi- shattered) . . . .               4.8      70      50    5.0
+    3    50.0    23    383.3             3     264    23     2024             Rock (solid) . . . . . . . . . . . . .      24.1     350    240    24.0
+    4    66.7    24    400.0             4     352    24     2112             Clay, dry . . . . . . . . . . . . . . .      3.8      55      40    4.0
+    5    83.3    25    416.7             5     440    25     2200             Clay, medium dry . . . . . . . .             1.9      27      20    2.0
+    6   100.0    26    433.3             6     528    26     2288             Clay, soft . . . . . . . . . . . . . . .     1.0      14      10    1.0
+    7   116.7    27    450.0             7     616    27     2376             Gravel, cemented . . . . . . . .             7.6     110      80    8.0
+    8   133.3    28    466.7             8     704    28     2464             Sand, compact dry . . . . . . .              3.8      55      40    4.0
+    9   150.0    29    483.3             9     792    29     2552             Sand, clean dry  . . . . . . . . .           1.9      27      20    2.0
+   10   166.7    30    500.0            10     880    30     2640
+                                                                              Quicksand & alluvial soil . .                0.5       7       5    0.5
+   11   183.3    31    516.7            11     968    31     2728
+   12   200.0    32    533.3            12   1056     32     2816
+   13   216.7    33    550.0            13   1144     33     2904
+   14   233.3    34    566.7            14   1232     34     2992
+   15   250.0    35    583.3            15   1320     35     3080                       AGRICULTURAL COMMODITIES
+   16   266.7    36    600.0            16   1408     36     3168                          CONVERSION FACTORS
+   17   283.3    37    616.7            17   1496     37     3256
+   18   300.0    38    633.3            18   1584     38     3344                                                          lb       kg      Metric Ton
+   19   316.7    39    650.0            19   1672     39     3432               1 Bushel of Corn*                          56      25.40     0.02540
+   20   333.3    40    666.7            20   1760     40     3520               1 Bushel of Soybean*                       60      27.22     0.02721
+NOTE: Since 1 km/h equals              NOTE: Since 1 mph equals 88 fpm        1 Bushel of Oats*                          32      14.51     0.01451
+       16.7 m/min (1000 ÷ 60), to              (5280 ÷ 60), to interpolate      1 Bushel of Wheat*                         60      27.22     0.02721
+       inter­polate add 1.67 m/min             add 8.8 fpm for every
+       for each 0.1 km/h.                      0.1 mph.                         1 Bale of Cotton                          478     216.81     0.21681
+                            1 mph = 26.9 m/min.
+                                                                                1 metric ton of Corn                               39.37 Bushels*
+                                                                                1 metric ton of Soybean                            36.75 Bushels*
+                                                                                1 metric ton of Oats                               68.92 Bushels*
+                                                                                1 metric ton of Wheat                              36.75 Bushels*
+                                                                                1 metric ton of Cotton                               4.61 Bales
+                                                                             *Bushel is a volume measurement, 1 Bushel = 35.24 liters = 9.31 U.S. Gal­
+                                                                               lons. In the agricultural mercantile exchange, the Bushel is widely used for
+                                                                               grains as weight. For the above weights, the market assumes a standard
+                                                                               density for each type of grain.
+
+
+
+
+27-4
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 528 ===
+Tables
+
+
+
+
+                                    CURVE SUPERELEVATION
+                       IN PERCENT GRADE, TO PROVIDE NO LATERAL TIRE FORCE
+   Negotiating curves can generate high lateral tire forces.            Superelevated turns present a danger when slippery.
+These forces contribute to high tire wear and ply sepa-              For this reason, curves superelevated over 10% should
+ration. Superelevating the curve helps eliminate these               be used with caution. Unless the proper speed is main-
+forces. The amount of superelevation depends on the                  tained, matching the elevation of the curve, a vehicle may
+curve’s radius and the speed at which it is negotiated.              slide off of the lower edge of the roadway. Superelevated
+   The following table is a guide for providing the super-           curves should be maintained in good tractive conditions.
+elevation necessary to eliminate lateral forces.
+
+
+
+
+                    Speed         Speed         Speed           Speed        Speed         Speed        Speed        Speed
+ TURN RADIUS       16 km/h       24 km/h       32 km/h         40 km/h      48 km/h       56 km/h      64 km/h      72 km/h
+  m      ft        10 mph        15 mph        20 mph          25 mph       30 mph        35 mph       40 mph       45 mph
+  15.2      50       13%           30%            —              —             —             —            —            —
+  30.5     100        7%           15%           27%             —             —             —            —            —
+  45.7     150        4%           10%           18%            28%            —             —            —            —
+  61.0     200        3%            8%           13%            21%           30%            —            —            —
+  91.5     300        2%            5%            9%            14%           20%           27%           —            —
+                                                                                                                                   27
+ 152.4     500        1%            3%            5%             8%           12%           16%          21%          27%
+ 213.4     700        1%            2%            4%             6%            9%           12%          15%          19%
+ 304.9    1000        1%            2%            3%             4%            6%            8%          11%          14%
+
+
+
+
+            MAXIMUM SPEED ON CURVES FOR VARIOUS SUPERELEVATION GRADES
+                    WITH A 0.20 LATERAL COEFFICIENT OF TRACTION
+   Another approach to superelevated curves is to deter-
+mine the safe speed for negotiating a turn at a certain                                                 5%            10%
+                                                                         TURN             Flat         Super-        Super-
+lateral tire force. In general, a 20% lateral coefficient of            RADIUS           Curve       elevation     elevation
+traction is conservative for all but ice and slippery condi-            m     ft      km/h mph      km/h mph      km/h mph
+tions, making table values safe to use for most applica-                7.6   25       14       9    16      10    17      11
+tions. The following table shows maximum speed with                    15.2   50       20      12    22      14    24      15
+various superelevations to maintain a 0.20 lateral coef-               30.5  100       28      17    31      19    34      21
+ficient of traction.                                                   45.7  150       34      21    38      24    42      26
+   A transition section may be necessary at higher speeds              61.0  200       39      24    44      27    48      30
+when entering or departing from a superelevated turn.                  91.5  300       48      30    54      34    59      37
+                                                                      152.5  500       62      39    70      43    76      47
+                                                                      213.5  700       74      46    —       —     —       —
+
+
+
+
+                                                                                                                            27-5
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 529 ===
+Tables
+
+
+
+
+                                                                                         LOOSE                          BANK                 LOAD
+        WEIGHT* OF MATERIALS                                                    kg/m3             lb/yd3     kg/m3               lb/yd3    FACTORS
+  Basalt  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      1960              3300       2970                5000        0.67
+  Bauxite, Kaolin . . . . . . . . . . . . . . . . . . . . . . . . . .            1420              2400       1900                3200        0.75
+  Caliche  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       1250              2100      2260                 3800        0.55
+  Carnotite, uranium ore  . . . . . . . . . . . . . . . . . . .                  1630              2750      2200                 3700        0.74
+  Cinders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         560               950        860                1450        0.66
+  Clay — Natural bed . . . . . . . . . . . . . . . . . . . . . .                 1660              2800       2020                3400        0.82
+  Clay — Dry . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           1480              2500      1840                 3100        0.81
+  Clay — Wet . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           1660              2800      2080                 3500        0.80
+  Clay & gravel — Dry  . . . . . . . . . . . . . . . . . . . . .                 1420              2400       1660                2800        0.85
+  Clay & gravel — Wet  . . . . . . . . . . . . . . . . . . . . .                1540               2600      1840                 3100        0.85
+  Coal — Anthracite, Raw . . . . . . . . . . . . . . . . . . .                   1190              2000       1600                2700        0.74
+  Coal — Anthracite, Washed . . . . . . . . . . . . . . . .                      1100              1850                                       0.74
+  Coal — Ash, Bituminous Coal . . . . . . . . . . . . . .                      530-650           900-1100   590-890            1000-1500      0.93
+  Coal — Bituminous, Raw  . . . . . . . . . . . . . . . . .                       950              1600      1280                2150         0.74
+  Coal — Bituminous, Washed . . . . . . . . . . . . . . .                         830              1400                                       0.74
+  Decomposed rock —
+   75% Rock, 25% Earth . . . . . . . . . . . . . . . . . . . .                   1960          3300           2790               4700       0.70
+   50% Rock, 50% Earth . . . . . . . . . . . . . . . . . . . .                   1720          2900           2280               3850       0.75
+   25% Rock, 75% Earth . . . . . . . . . . . . . . . . . . . .                   1570          2650           1960               3300       0.80
+  Earth — Dry packed . . . . . . . . . . . . . . . . . . . . . .                 1510          2550           1900               3200       0.80
+  Earth — Wet excavated . . . . . . . . . . . . . . . . . . .                    1600          2700           2020               3400       0.79
+  Earth — Loam  . . . . . . . . . . . . . . . . . . . . . . . . . .              1250          2100           1540               2600       0.81
+  Granite — Broken  . . . . . . . . . . . . . . . . . . . . . . .                1660          2800           2730               4600       0.61
+  Gravel — Pitrun . . . . . . . . . . . . . . . . . . . . . . . . .              1930          3250           2170               3650       0.89
+  Gravel — Dry . . . . . . . . . . . . . . . . . . . . . . . . . . .             1510          2550           1690               2850       0.89
+  Gravel — Dry 6-50 mm (1/4"-2") . . . . . . . . . . . .                         1690          2850           1900               3200       0.89
+  Gravel — Wet 6-50 mm (1/4"-2") . . . . . . . . . . . .                         2020          3400           2260               3800       0.89
+  Gypsum — Broken . . . . . . . . . . . . . . . . . . . . . . .                  1810          3050           3170               5350       0.57
+  Gypsum — Crushed  . . . . . . . . . . . . . . . . . . . . .                    1600          2700           2790               4700       0.57
+  Hematite, iron ore, high grade . . . . . . . . . . . . .                     1810-2450     4000-5400      2130-2900          4700-6400    0.85
+  Limestone — Broken . . . . . . . . . . . . . . . . . . . . .                   1540          2600           2610               4400       0.59
+  Limestone — Crushed . . . . . . . . . . . . . . . . . . . .                    1540          2600            —                   —         —
+  Magnetite, iron ore  . . . . . . . . . . . . . . . . . . . . . .               2790          4700           3260               5500       0.85
+  Pyrite, iron ore . . . . . . . . . . . . . . . . . . . . . . . . . .           2580          4350           3030               5100       0.85
+  Sand — Dry, loose . . . . . . . . . . . . . . . . . . . . . . .                1420          2400           1600               2700       0.89
+  Sand — Damp  . . . . . . . . . . . . . . . . . . . . . . . . . .               1690          2850           1900               3200       0.89
+  Sand — Wet  . . . . . . . . . . . . . . . . . . . . . . . . . . . .            1840          3100           2080               3500       0.89
+  Sand & clay — Loose  . . . . . . . . . . . . . . . . . . . .                   1600          2700           2020               3400       0.79
+  Sand & clay — Compacted . . . . . . . . . . . . . . . .                        2400          4050
+  Sand & gravel — Dry . . . . . . . . . . . . . . . . . . . . .                  1720          2900           1930               3250       0.89
+  Sand & gravel — Wet . . . . . . . . . . . . . . . . . . . . .                  2020          3400           2230               3750       0.91
+  Sandstone  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           1510          2550           2520               4250       0.60
+  Shale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      1250          2100           1660               2800       0.75
+  Slag — Broken . . . . . . . . . . . . . . . . . . . . . . . . . .              1750          2950           2940               4950       0.60
+  Snow — Dry . . . . . . . . . . . . . . . . . . . . . . . . . . . .              130           220
+  Snow — Wet . . . . . . . . . . . . . . . . . . . . . . . . . . . .              520           860
+  Stone — Crushed . . . . . . . . . . . . . . . . . . . . . . . .                1600          2700           2670               4500       0.60
+  Taconite  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      1630-1900     3600-4200      2360-2700          5200-6100    0.58
+  Top Soil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        950          1600           1370               2300       0.70
+  Taprock — Broken . . . . . . . . . . . . . . . . . . . . . . .                 1750          2950           2610               4400       0.67
+  Wood Chips**  . . . . . . . . . . . . . . . . . . . . . . . . . .               —             —              —                  —          —
+**Varies with moisture content, grain size, degree of compaction, etc. Tests must be made to determine exact material characteristics.
+**Weights of commercially important wood species can be found in the last pages of the Logging & Forest Products section. To obtain wood weights use the
+   following ­equations: lb/yd3 = (lb/ft3)  .4  27
+                          kg/m3 = (kg/m3)  .4
+
+
+
+
+27-6
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 530 ===
+Tables
+
+
+
+
+ GRADE COMPARISON CHART               GRADE IN DEGREES
+DEGREES — PERCENT — SLOPE              AND PERCENTS
+                                      DEGREES   PERCENT
+                                          1         1.8
+                            PERCENT
+                                          2         3.5
+                                          3         5.2
+                                          4         7.0
+                                          5         8.8
+                                          6        10.5
+                                          7        12.3
+                                          8        14.0
+                                          9        15.8
+                                         10        17.6
+                                         11        19.4
+                                         12        21.3
+                                         13        23.1
+                                         14        24.9
+                                         15        26.8
+                                         16        28.7
+                                         17        30.6
+                                         18        32.5
+                                         19        34.4
+                                                            27
+                                         20        36.4
+                                         21        38.4
+                                         22        40.4
+                                         23        42.4
+                                         24        44.5
+                                         25        46.6
+                                         26        48.8
+                                         27        51.0
+                                         28        53.2
+                                         29        55.4
+           DEGREES      SLOPE            30        57.7
+                                         31        60.0
+                                         32        62.5
+                                         33        64.9
+                                         34        67.4
+                                         35        70.0
+                                         36        72.7
+                                         37        75.4
+                                         38        78.1
+                                         39        81.0
+                                         40        83.9
+                                         41        86.9
+                                         42        90.0
+                                         43        93.3
+                                         44        96.6
+                                         45       100.0
+
+
+
+
+                                                     27-7
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 531 ===
+Tables
+
+
+
+
+                                                         CONVERSION FACTORS
+            Multiply                                   To Obtain                              Multiply                                    To Obtain
+           Metric Unit                 By            English Unit                           English Unit                 By             Metric Unit
+ kilometer (km)                     0.6214        mile                            mile, statute (m)                    1.609        kilometer
+ meter (m)                          1.0936        yard                            yard (yd)                           0.9144        meter
+ meter (m)                            3.28        foot                            foot (ft)                           0.3048        meter
+ centimeter (cm)                    0.0328        foot                            inch (in)                             25.4        millimeter
+ millimeter (mm)                   0.03937        inch                            sq mile (mile2)                      2.590        sq kilometer
+ sq kilometer (km2)                 0.3861        square mile                     acre                                0.4047        hectare
+ hectare (ha)                        2.471        acre                            sq foot (ft2)                       0.0929        sq meter
+ sq meter (m2)                      10.764        square foot                     sq inch (in2)                     0.000645        sq meter
+ sq meter (m2)                        1550        square inch                     cu yard (yd3)                       0.7645        cu meter
+ sq centimeter (cm2)                0.1550        square inch                     cu inch (in3)                       16.387        cu centimeter
+ cu centimeter (cm3)                 0.061        cubic inch                      cu foot (ft3)                       0.0283        cu meter
+ cu meter (m3)                       1.308        cubic yard                      cu inch (in3)                       0.0164        liter
+ liter (L)                           61.02        cubic inch                      cubic yard (yd3)                    764.55        liter
+ liter (L)                         0.001308       cubic yard                      mph                                   1.61        km/h
+ km/h                                0.621        mph                             Ton — mph                            1.459        tkm/h
+ liter (L)                          0.2642        U.S. gallon                     U.S. gallon (US Gal)                 3.785        liter
+ liter (L)                            0.22        Imperial gallon                 U.S. gallon                          0.833        Imperial gallon
+ metric ton (t)                      0.984        long ton                        long ton (lg ton)                    1.016        metric ton
+ metric ton (t)                      1.102        short ton                       short ton (sh ton)                   0.907        metric ton
+ kilogram (kg)                       2.205        pound, avdp.                    pound (lb)                          0.4536        kilogram
+ gram (g or gr)                      .0353        ounce, avdp.                    ounce (oz)                           28.35        gram
+ kilonewton (kN)                       225        pound (force)                   pound (lb) (force)                 0.00445        kilonewton
+ newton (N)                          0.225        pound (force)                   pound (lb) (force)                    4.45        newton
+ cu centimeter (cm3)                0.0338        fluid ounce                     fluid oz (fl oz)                     29.57        cu centimeter
+ kilograms/cu meter                  1.686        pounds/cu yd                    lb/cu ft (lb/ft3)                   16.018        kg/cu meter
+ kilograms/cu meter                  0.062        pounds/cu ft                    lb/cu yd (lb/yd3)                   0.5933        kg/cu meter
+ kilograms/sq cm (kg/cm2)           14.225        pounds/sq in                    pounds/sq. in.                      0.0703        kilogram/sq cm
+ kilocalorie (kcal)                  3.968        Btu                             psi                                 0.0689        bar
+ kilogram-meter (kg•m)               7.233        foot-pound                      psi                                   6.89        kilopascal
+ meter-kilogram (m•kg)               7.233        pound-foot                      Btu                                 0.2520        kilogram-calorie
+ metric horsepower (CV)             0.9863        hp                              foot-pound (ft-lb)                  0.1383        kilogram-meter
+ kilowatt (kW)                       1.341        hp                              horsepower (hp)                      1.014        metric horsepower
+ kilopascal (kPa)                    0.145        psi                             horsepower (hp)                     0.7457        kilowatt
+ bar                                  14.5        psi                             pounds/cu yd                      0.0005928       tons/m3
+ tons/m3                              1692        pounds/cu yd                    pounds (No. 2 diesel fuel)          0.1413        U.S. gallon
+ decaliter                           0.283        bushel                          bushel                               3.524        decaliter
+NOTE: Some of the above factors have been rounded for convenience. For exact conversion factors please consult International System of Units (SI) table.
+
+
+
+Temperature conversion
+
+Degree C
+
+
+
+
+Degree F
+
+                                                 °C = (°F – 32) ÷ 1.8                                       °F = (C  1.8) + 32
+
+
+
+27-8
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 532 ===
+Tables
+
+
+
+
+ METRIC UNIT EQUIVALENTS                                ENGLISH UNIT EQUIVALENTS
+     1 km               =            1000 m              1 mile            =       1760 yd
+     1m                 =            100 cm              1 yd              =          3 ft
+     1 cm               =            10 mm               1 ft              =         12 in
+     1 km2              =             100 ha             1 sq mile         =      640 acres
+     1 ha               =          10,000 m2             1 acre            =    43,560 sq ft
+     1 m2               =         10,000 cm2             1 sq ft           =      144 sq in
+     1 cm2              =           100 mm2              1 cu ft           =     7.48 gal liq
+     1 m3               =          1000 liters           1 gal             =      231 cu in
+     1 liter            =           1000 cm3                               =    4 quarts liq
+     1 metric ton       =            1000 kg             1 quart           =       32 fl oz
+     1 quintal          =             100 kg             1 fl oz           =      1.80 cu in
+     1N                 =       0.10197 kg•m/s2          1 sh ton          =       2000 lb
+     1 kg               =             1000 g             1 lg ton          =       2240 lb
+     1g                 =           1000 mg              1 lb              =    16 oz, avdp
+     1 bar              =          14.504 psi            1 Btu             =       778 ft lb
+     1 cal              =           427 kg•m                               =   0.000393 hph
+                        =         0.0016 cv•h                              =   0.000293 kwh
+                        =        0.00116 kw•h            1 mechanical hp   =    550 ft-lb/sec
+     torque unit                                         1 atmosph.        =     14.7 lb/in2
+     1 CV               =          75 kg•m/s
+     1 kg/cm2           =        0.97 atmosph.
+                                                                                                         27
+
+
+
+ POWER UNIT EQUIVALENTS
+kW                  =                 Kilowatt
+hp                  =        Mechanical Horsepower
+CV                  =         Cheval Vapeur (Steam
+                                   Horsepower)
+                              French Designation For
+                                Metric Horsepower
+PS                  =       Pferdestärke (Horsepower)
+                             German Designation For
+                                Metric Horsepower
+1 hp                =           1.014 CV = 1.014 PS
+                    =                0.7457 kW
+1 PS                =             1 CV = 0.986 hp
+                    =                0.7355 kW
+1 kW                =                 1.341 hp
+                    =                 1.36 CV
+                    =                  1.36 PS
+
+
+
+
+                                                                                                  27-9
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 533 ===
+Tables
+
+
+
+
+                                                  MACHINE/ENGINE CROSS REFERENCE
+                                                         NOTE: This list stopped being updated since PHB49.
+
+    Machine                                               Machine                                Engine       Machine                        Engine
+    Model                             Engine Model        Model                                  Model        Model                          Model
+    Track-Type Tractors                                   Excavators                                          Pipelayers
+    D3K XL/LGP                         C4.4 ACERT™        311F L                                  C3.4B       PL61                       C6.6 ACERT
+    D4K XL/LGP                           C4.4 ACERT       312D2/312D2 L                          3054C        PL72                       C9.3 ACERT
+    D5K XL/LGP                           C4.4 ACERT       312D2 GC                               3054C        PL83                       C15 ACERT
+    D5R                                  C6.6 ACERT       312E                              C4.4 ACERT        PL87                       C15 ACERT
+    D5R2 XL/LGP                          C7.1 ACERT       313D2                                  3054C
+    D5T XL                               C7.1 ACERT       313D2/313D2 L                     C4.4 ACERT        Wheel Tractor-Scrapers
+    D6K2 XL/LGP2                         C7.1 ACERT       313D2 GC                          C4.4 ACERT        621K, 623K, 627K Tractor   C13 ACERT
+    D6K2 XL/LGP                          C4.4 ACERT       313F L                            C4.4 ACERT        627K Scraper                C9 ACERT
+    D6N XL/LGP                           C6.6 ACERT       313F L GC                         C4.4 ACERT        631K                       C18 ACERT
+    D6R2                                   C9 ACERT       314E/314E L                       C4.4 ACERT        637K Tractor               C18 ACERT
+    D6T                                    C9 ACERT       315F L                            C4.4 ACERT        637K Scraper                C9 ACERT
+    D6T1                                 C9.3 ACERT       316E L                            C4.4 ACERT        657G Tractor               C18 ACERT
+    D7E                                  C9.3 ACERT       316F L                            C4.4 ACERT        657G Scraper               C15 ACERT
+    D7R                                    C9 ACERT       318D2 L                                3054C
+    D8R/D8R LGP                             3406C TA      318D2 L                           C4.4 ACERT        Forest Machines
+    D8T/D8T LGP                          C15 ACERT        318F L                            C4.4 ACERT        320D Series 2 FM2          C7.1 ACERT
+    D9R                                     3408C TA      M313D                             C4.4 ACERT        320D Series 2 FM LL2       C7.1 ACERT
+    D9T                                  C18 ACERT        M315D                             C4.4 ACERT        5381                       C7.1 ACERT
+    D10T2                                C27 ACERT        M315D2                            C4.4 ACERT        538 LL1                    C7.1 ACERT
+    D11/D11 CD                           C32 ACERT        M316D                             C6.6 ACERT        324D FM2                    C7 ACERT
+                                                          M317D2                            C4.4 ACERT        324D FM LL2                 C7 ACERT
+    Motor Graders                                         M318D                             C6.6 ACERT        325D FM2                    C7 ACERT
+    120K                                  C7 ACERT        M318F                             C7.1 ACERT        325D FM LL2                 C7 ACERT
+    120K2                                 C7 ACERT        M320D2                                   C7.1       558 LL1                    C7.1 ACERT
+    120M                                 C6.6 ACERT       M320F                             C7.1 ACERT        5683                       C9.3 ACERT
+    120M AWD                             C6.6 ACERT       M322D                             C6.6 ACERT        568 LL3                    C9.3 ACERT
+    120M2                                C7.1 ACERT       320D                              C7.1 ACERT
+    120M2 AWD                            C7.1 ACERT       320D2 GC                          C4.4 ACERT        Track Harvesters
+    12K                                   C7 ACERT        323D2                             C7.1 ACERT        501HD2                     C6.6 ACERT
+    12M                                   C7 ACERT        320E                              C6.6 ACERT        521B2                       C9 ACERT
+    12M2                                 C9.3 ACERT       320E RR                           C6.6 ACERT        522B2                       C9 ACERT
+    12M2 AWD                             C9.3 ACERT       320F                              C4.4 ACERT        541 Series 22               C9 ACERT
+    12M3                                 C9.3 ACERT       323F                              C7.1 ACERT        552 Series 22               C9 ACERT
+    12M3 AWD                             C9.3 ACERT       323F N                            C4.4 ACERT
+    140K                                  C7 ACERT        325F                              C4.4 ACERT        Wheel Harvester
+    140K2                                 C7 ACERT        326D2                             C7.1 ACERT        550                         C7 ACERT
+    140M                                  C7 ACERT        326F                              C7.1 ACERT
+    140M AWD                              C9 ACERT        330D2                             C7.1 ACERT        Wheel Skidders
+    140M2                                C9.3 ACERT       330F                              C7.1 ACERT        525D                       C7.1 ACERT
+    140M2 AWD                            C9.3 ACERT       335F                              C7.1 ACERT        535D                       C7.1 ACERT
+    140M3                                C9.3 ACERT       336F/336F XE                      C9.3 ACERT        545D                       C7.1 ACERT
+    140M3 AWD                            C9.3 ACERT       336D2/340D2                        C9 ACERT         555D                       C7.1 ACERT
+    160K                                  C7 ACERT        336D2 XE                           C9 ACERT
+    160M                                  C9 ACERT        349D2/349D2 L                     C13 ACERT         Track Skidders
+    160M AWD                              C9 ACERT        349F L/352F                       C13 ACERT         517                           3304 TA
+    160M2                                C9.3 ACERT       349F L XE/352F XE                 C13 ACERT         527                           3304 TA
+    160M2 AWD                            C9.3 ACERT       374F L                            C15 ACERT
+    160M3                                C9.3 ACERT       390F L                            C18 ACERT
+    160M3 AWD                            C9.3 ACERT       5110B                           3412B HEUI™
+    14M3                                 C13 ACERT        5130B                          3508B (EUI) TA
+    16M3                                 C13 ACERT        5230B                          3516B (EUI) TA
+    18M3                                 C13 ACERT
+    24M                                  C18 ACERT
+
+
+1
+    Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+2
+    Emits equivalent to Tier 3/Stage IIIA/Japan 2006 (Tier 3).
+3
+    Emits equivalent to Tier 4 Interim/Stage IIIB/Japan 2011 (Tier 4 Interim).
+
+
+
+
+27-10
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 534 ===
+Tables
+
+
+
+
+                                    MACHINE/ENGINE CROSS REFERENCE (Continued)
+    Machine                                             Machine                                    Engine       Machine                         Engine
+    Model                           Engine Model        Model                                      Model        Model                           Model
+    Forwarders                                          Articulated Trucks                                      Wheel Loaders/Integrated Toolcarriers
+    564                                C6.6 ACERT       725                                   C11 ATAAC         950 GC                       C7.1 ACERT
+    574                                C6.6 ACERT       730                                   C11 ATAAC         950H                           C7 ACERT
+    584                                 C7 ACERT        730 Ejector                           C11 ATAAC         950K                         C7.1 ACERT
+    584HD                               C7 ACERT        735                                   C15 ATAAC         950L                         C7.1 ACERT
+                                                        740                                   C15 ATAAC         950M                         C7.1 ACERT
+    Track Feller Bunchers                               740 Ejector                           C15 ATAAC         962H                           C7 ACERT
+    521B2                                C9 ACERT                                                               962K                         C7.1 ACERT
+    522B2                                C9 ACERT       Wheel Dozers                                            962L                         C7.1 ACERT
+    541 Series 22                        C9 ACERT       814F3                              3176C ATAAC          962M                         C7.1 ACERT
+    552 Series 22                        C9 ACERT       814F II2                              C9 ACERT          966H                          C11 ACERT
+                                                        824H2                                C15 ACERT          966K                         C9.3 ACERT
+    Knuckleboom Loaders                                 824K1                                C15 ACERT          966L                         C9.3 ACERT
+    5192                                      C6.6      834K                                 C18 ACERT          966M                         C9.3 ACERT
+    5292                                      C6.6      844K                                 C27 ACERT          966M XE                      C9.3 ACERT
+    559C                               C6.6 ACERT       854K                                 C32 ACERT          972H                          C13 ACERT
+    5692                                      C6.6                                                              972K                         C9.3 ACERT
+    579C                               C6.6 ACERT       Soil Compactors                                         972L                         C9.3 ACERT
+                                                        815F II2                               C9 ACERT         972M                         C9.3 ACERT
+    Wheel Feller Bunchers                               815K1                                 C7.1 ACERT        972M XE                      C9.3 ACERT
+    553                                C6.6 ACERT       825H2                                 C15 ACERT         980H                          C15 ACERT
+    563                                 C7 ACERT        825K1                                 C15 ACERT         980K                          C13 ACERT
+    573                                 C7 ACERT                                                                980L                          C13 ACERT
+                                                        Landfill Compactors                                     980M                          C13 ACERT   27
+    Mining & Off-Highway Trucks                         816F                                     3176 TA        982M                          C13 ACERT
+    770G1                        C15 ACERT              816F II                                C9 ACERT         986H                          C15 ACERT
+    770G                         C15 ACERT              826G Series II                          3406E TA        988K                          C18 ACERT
+    772G 1
+                                 C18 ACERT              826H                                  C15 ACERT         990K                          C27 ACERT
+    772G                         C18 ACERT              836G                                     3456 TA        992K                          C32 ACERT
+    773G1                        C27 ACERT              836H                                  C18 ACERT         993K                          C32 ACERT
+    773G                         C27 ACERT                                                                      994K                      3516E HD MUI
+    775G1                        C27 ACERT
+    775G                         C27 ACERT                                                                      Track Loaders
+    777D                      3508B (EUI) TA                                                                    953D                        C6.6 ACERT
+    777G1                        C32 ACERT                                                                      953K                        C7.1 ACERT
+    777G                         C32 ACERT                                                                      963D                        C6.6 ACERT
+    785C                      3512B (EUI) TA                                                                    963K                        C7.1 ACERT
+    785D                     3512C HD (EUI)                                                                     973C                         C9 ATAAC
+                                     ATAAC
+    789C                      3516B (EUI) TA
+    793D                      3516B (EUI) TA
+    793F                       C175-16 (EUI)
+                                     ATAAC
+    797F                       C175-20 (EUI)
+                                     ATAAC
+
+
+
+
+1
+ Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+2
+ Emits equivalent to Tier 3/Stage IIIA/Japan 2006 (Tier 3).
+3
+ Emits equivalent to Tier 2/Stage II/Japan 2001 (Tier 2).
+NOTE: All machines are not available in all regions. Contact your local Cat dealer for product availability.
+
+
+
+
+                                                                                                                                                  27-11
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 535 ===
+Tables
+
+
+
+
+                                      MACHINE/ENGINE CROSS REFERENCE (Continued)
+    Machine                                  Engine     Machine                           Engine    Machine                           Engine
+    Model                                    Model      Model                             Model     Model                             Model
+    Wheel Material Handlers                             Paving Products (continued)                 Paving Products (continued)
+    M318D MH                            C6.6 ACERT       Single Drum Vibratory Soil Compactors       Double Drum and Combi
+    M322D MH                            C6.6 ACERT       CS34                               C3.4B    CB14B                         KDW1003
+    M325D MH                             C7 ACERT        CP34                               C3.4B    CB22B                         KDW1003
+    M325D LMH                            C7 ACERT        CS423E                            3054C     CB24B XT                            C1.5
+    MH30372                             C7.2 ACERT       CS44                         C4.4 ACERT     CC24B                               C1.5
+    MH30371                             C7.1 ACERT       CP44                         C4.4 ACERT     CB32B                               C1.5
+    MH3049                               C9 ACERT        CS44B                              C3.4B    CB34B                               C2.2
+    MH3059                               C9 ACERT        CP44B                              C3.3B    CC34B                               C2.2
+                                                         CS533E                            3054C     CB36B                               C2.2
+    Track Material Handlers                              CS533E XT                         3054C     CB44B                              C3.4B
+    385C MH                              C18 ACERT       CP533E                            3054C                                  C4.4 ACERT
+                                                         CS54B                       C4.4B ACERT     CD44B                               C3.4
+    Paving Products                                      CP54B                       C4.4B ACERT                                  C4.4 ACERT
+     Cold Planers                                        CS56B                       C4.4B ACERT     CB46B                              C3.4B
+     PM102                                C7 ACERT                                    C6.6 ACERT     CB54B                        C4.4 ACERT
+     PM620                               C18 ACERT       CP56B                       C4.4B ACERT     CD54B                               C3.4
+     PM622                               C18 ACERT                                    C6.6 ACERT     CB64B                        C4.4 ACERT
+                                                         CS64B                              C4.4B    CB66B                        C4.4 ACERT
+     Reclaimer/Soil Stabilizers                          CS66B                              C4.4B    CB68B                        C4.4 ACERT
+     RM300                               C11 ACERT       CS68B                       C4.4B ACERT
+     RM500B                              C15 ACERT                                    C6.6 ACERT     Pneumatic Tire Compactors
+                                                         CP68B                       C4.4B ACERT     CW14                               C3.4B
+     Asphalt Pavers                                                                   C6.6 ACERT     CW16                               C3.4B
+     AP255E                                    C2.2      CS74B                       C4.4B ACERT                                  C4.4 ACERT
+     AP300F                                   C3.3B                                   C6.6 ACERT     PS150C                            3054C
+     AP355F                                   C3.3B      CP74B                       C4.4B ACERT     CW34                         C4.4 ACERT
+     AP500F                             C4.4 ACERT                                    C6.6 ACERT
+     AP555F                             C4.4 ACERT       CS76B                       C4.4B ACERT
+     AP600F                             C4.4 ACERT       CS78B                       C4.4B ACERT
+                                        C7.1 ACERT                                    C6.6 ACERT
+     AP655F                             C4.4 ACERT       CS79B                        C6.6 ACERT
+                                        C7.1 ACERT
+     AP1000F                            C7.1 ACERT
+     AP1055F                            C7.1 ACERT
+
+
+
+
+1
+    Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+2
+    Emits equivalent to Tier 3/Stage IIIA/Japan 2006 (Tier 3).
+
+
+
+
+27-12
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 536 ===
+Tables
+
+
+
+
+                                           ENGINE/MACHINE CROSS REFERENCE
+      Engine                                                                          Fuel
+    Model and                                                                      Injection             Bore  Stroke              Displacement
+    (Cylinders)                     Machine                       Aspiration        System            mm                in           L         in3
+     3013C (3)       CB-214E, CB-224E, CB-225E                        NA               DI           75  72        2.95  3.54      1.50      91.3
+       C1.3          303E                                             NA               DI           78  88         3.1  3.5        1.3       77
+       C1.7          303.5E2 CR                                       NA               DI          87  92.4        3.4  3.6        1.7      104
+       C1.8          303.5E, 901C2 (Japan)                            NA               DI         87  102.4        3.4  4.0        1.8      111.4
+       C2.2          CB-334E, CB-335E, 216B3                          NA               DI          84  100        3.31  3.94      2.22      135
+                     226B3, 226D                                       T
+       C2.4          304E2 CR, 304.5E2 XTC, 305E2 CR,                 NA               DI         87  102.4        3.4  4.0       2.4       146
+                     305.5E2 CR, 902C2 (Japan), 903C2
+                     307E2, 306E2                                      T
+       C2.6          307E, 307E2 (China)                               T               DI          87  110         3.4  4.3       2.6      159.6
+      C3.3B          308E2 CR, 308E2 VAB, 906K/M,                      T               DI          94  120         3.7  4.7       3.3      203.3
+                     907K/M, 908K/M, 236D, 242D, 246D,
+                     257D, 259D, 262D, 277D, 279D,
+                     287D, 289D
+       C3.8          272D2, 272D2 XHP, 297D2,                          T               DI          100  120        3.9  4.7       3.8       230
+                     297D2 XHP, 299D2, 299D2 XHP
+ Yanmar 3TNV70 300.9D                                                 NA               IDI          70  74         2.8  2.9      0.854      52.1
+ Yanmar 3TNV76 301.4C, 301.7D, 301.7D CR, 302.2D,                     NA               IDI          76  82         3.0  3.2       1.12      68.1
+                                                                                                                                                          27
+               302.4D, 302.7D
+       3046          D3G XL, D3G LGP, D4G XL,                         NA               DI          94  120         3.7  4.7       5.0       305
+       (I-6)         CS-533E, D4G LGP, D5G XL, D5G                     T               DI
+                     LGP, CP-533E, 315C/315C L*, 939C
+      3054C          416E, 416F, 420F, 430F, 450F, 422F,           NA/T***             DI          105  127        4.13  5.0      4.4       268
+       (I-4)         428F, 432F, 434F, 444F
+      3054C          312D2/312D2 L, 313D2                              T               DI          105  127        4.13  5.0      4.4       268
+                     318D2 L                                          TA
+      3054E          CB-434D, CS-323C, CS-423E,                       NA               DI          105  127        4.13  5.0      4.4       268
+       (I-4)         CP-323C, PS-150C
+                     AP-800C, BG-230, BG-650, 908,               T (optional)
+                     PS-360B, PF-300B, PS-300B,
+                     CS-433E, CP-433E, CB-534C
+                     M313C, M315C, AP-650B, 315C L**,                 TA
+                     BG-225C
+       3056          CS-563E, CS-573E, CS-583E,                     ATAAC              DI          100  127        3.94  5.0      6.0       365
+       (I-6)         CS-663E, AP-655C, CS-683E,
+                     CP-563E, CP-573E, CP-583E, CP-663E,
+                     M316C, M318C, M322C
+       3066          320C, 320C L, 320C LN, 320C S,                    T               DI          102  130        4.0  5.1       6.4       391
+       (I-6)         321C LCR
+***Japan sourced.
+***France sourced.
+***Turbo optional on some models.
+DI — Direct Injection                                    TA    — Turbocharged and Aftercooled
+IDI — Indirect Injection                                 NA    — Naturally Aspirated
+T — Turbocharged                                         ATAAC — Air/Air Aftercooled
+NOTE: Materials and specifications subject to change without notice. Component commonality of Cat engines for all applications does not imply complete
+       interchangeability. Contact your Cat dealer for specific information.
+
+
+
+
+                                                                                                                                               27-13
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 537 ===
+Tables
+
+
+
+
+                                 ENGINE/MACHINE CROSS REFERENCE (Continued)
+      Engine                                                                           Fuel
+    Model and                                                                       Injection            Bore  Stroke               Displacement
+    (Cylinders)                      Machine                       Aspiration        System           mm                 in          L         in3
+        3116         CB-634D, BG-240C, AP-900B                          T               DI         105  127        4.13  5.0      6.6       402
+        (I-6)        BG-260C, BG-245C, AP-1050B,                       TA               DI
+                     AP-1055B, 120H STD, 135H STD,
+                     BG-2455C, AP-1000B
+        3126         D5*, D6N*, 561N, 953C, 963C                        T               DI         110  127        4.33  5.0       7.2      442
+        (I-6)        525B, 535B                                        TA
+                     325C LN                                         ATAAC
+        3304         527, 517                                          TA               DI         121  152        4.75  6.0       7.0      425
+        (I-4)
+      C3.4B          311F L, 313F L GC                                  T               DI          99  110       3.90  4.33      3.4       207
+    C4.4 ACERT       D3K, D4K, D5K, D6K2, 416F, 420F,                   T               DI         105  127        4.13  5.0      4.4       268
+                     430F, 450F, 428F, 432F, 434F, 444F,
+                     910K/M, 914K/M, 918M
+                     318D2 L, 320D2 GC                                 TA
+                     312E, 313D2/313D2 L, 313D2 GC,                 ATAAC
+                     313F L, 314E/314E L, 315F L, 316E L,
+                     316F L, 318F L, 320F, 323F N, 325F
+        C6.6         R1300G II                                      ATAAC               DI         105  127        4.13  5.0      6.6       402
+    C6.6 ACERT       D6N, 953D, 963D, 120M, PL61,                      TA               DI         105  127        4.13  5.0      6.6       402
+                     M318D MH, M322D MH, 120M,
+                     120M AWD, 501HD, 320E, 320E RR
+    C7 ACERT         950H, 962H, IT62H, M325D MH,                    ATAAC              DI         110  127        4.33  5.0       7.2      442
+       (I-6)         M325D LMH, 120K, 120K2, 12K,
+                     12M, 140K, 140K2, 140M, 160K,
+                     324D FM2, 324D FM LL2, 325D FM2,
+                     325D FM LL2
+    C7.1 ACERT       320D Series 2 FM2,                              ATAAC              DI         105  135         4.1  5.3      7.01      427.8
+                     320D Series 2 FM LL2, 5381, 538 LL1,
+                     558 LL1, 924K, 926M1, 930K, 930M1,
+                     938K, 938M1, 950 GC, 950K, 950L,
+                     950M, 962K, 962L, 962M, MH30371­,
+                     120M2, 120M2 AWD, D5R2, D5T,
+                     953K, 963K, 320D2, 323D2, 326D2,
+                     330D2, 326F, 330F, 335F
+    C7.2 ACERT       MH30372                                         ATAAC              DI         110  127        4.33  5.0       7.2      442
+    C9 ACERT         336D2, 336D2 XE, 340D2, 814F II,                ATAAC              DI         112  149         4.4  5.9      8.8       537
+       (I-6)         815F II, D6T, MH3049, MH3059, 521B,
+                     522B, 541 Series 2, 552 Series 2
+    C9 ACERT         627G Sc., 637G Sc., 973C,                         TA               DI         112  149         4.4  5.9      8.8       537
+       (I-6)         140M AWD, 160M, 160M AWD,
+                     D6R2, D7R
+1
+ Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+2
+ Emits equivalent to Tier 3/Stage IIIA/Japan 2006 (Tier 3).
+*Not sold in U.S., Canada or Europe.
+DI — Direct Injection                                   TA     — Turbocharged and Aftercooled
+T — Turbocharged                                        ATAAC — Air/Air Aftercooled
+NOTE: Materials and specifications subject to change without notice. Component commonality of Cat engines for all applications does not imply complete
+       interchangeability. Contact your Cat dealer for specific information.
+
+
+
+
+27-14
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 538 ===
+Tables
+
+
+
+
+                                  ENGINE/MACHINE CROSS REFERENCE (Continued)
+      Engine                                                                            Fuel
+    Model and                                                                        Injection           Bore  Stroke               Displacement
+    (Cylinders)                      Machine                       Aspiration         System           mm                in           L        in3
+       3176          572R2, 345B L Series II, D7R, 814F,             ATAAC               DI        125  140        4.92  5.5      10.2       629
+       (I-6)         815F, 816F
+    C9.3 ACERT       D6T1, D7E, 5682, 568 LL2, 966K, 966L,           ATAAC               DI        115  149       4.53  5.87       9.3      567.5
+                     966M, 966M XE, 972K, 972L, 972M,
+                     972M XE, 336F, 336F XE, 12M2,
+                     12M2 AWD, 12M3, 12M3 AWD,
+                     140M2, 140M2 AWD, 140M3,
+                     140M3 AWD, 160M2, 160M2 AWD,
+                     160M3, 160M3 AWD, PL72
+       3306          R1300G, 12H STD, 140H STD,                          T               DI        121  152        4.75  6.0      10.5       638
+       (I-6)         160H STD
+                     D7G                                                TA               DI
+                     545                                            ATAAC               DI
+       3196          365B L Series II                                ATAAC               DI        130  150         5.1  5.9      12.0       732
+       (I-6)
+       3406          RM-250C, RM-350B, D8R, D
+                                             8R LGP                    TA               DI        137  165         5.4  6.5      14.6       893
+       (I-6)         826G Series II, 825G Series II,                 ATAAC               DI
+                     824G Series II, AD30
+        C11          725, 730, 730 Ejector                           ATAAC               DI        130  140         5.1  5.5      11.2       680
+        (I-6)                                                                                                                                             27
+    C11 ACERT        R1600H, AD22, 966H                                 TA               DI        130  140       5.12  5.51      11.1       680
+       (I-6)                                                         ATAAC
+    C13 ACERT        R1700, 14M3, 16M3, 18M3, 349D2,                    TA               DI        130  157       5.12  6.18      12.5       763
+       (I-6)         349F, 352F, 349F XE, 352F XE,
+                     621K, 623K, 627K Tr, 972H,
+                     980K, 980L, 980M, 982M
+    C15 ACERT        D8T, D8T LGP, PL83, PL87,                          TA               DI        137  172        5.4  6.75      15.2       928
+       (I-6)         657G Sc., 770G1, 770G, 986H, 374F
+                     R2900G, R3000H, AD30, 735, 740,                 ATAAC               DI       137  171.5       5.4  6.75      15.2       928
+                     740 Ejector, 824K, 825K, 826H, 980H
+       3456          834G, 836G, 988G, 385B, 385B L,                 ATAAC               DI        140  171        5.5  6.75      15.8       966
+       (I-6)         5090B
+       3408          D9R, 589, PM-565B                                  TA               DI        137  152         5.4  6.0      18.0      1099
+       (V-8)                                                         ATAAC
+    C18 ACERT        AD45B, AD55, D9T, 631G, 637G Tr.,                 TA               DI        145  183         5.7  7.2      18.1      1106
+                      657G Tr., 988H, 988K, 772G1, 772G,
+                      834H, 834K, 836H, 385C MH, 24M,
+                      390F
+1
+ Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+2
+ Emits equivalent to Tier 4 Interim/Stage IIIB/Japan 2011 (Tier 4 Interim).
+DI — Direct Injection                                   TA      — Turbocharged and Aftercooled
+T — Turbocharged                                        ATAAC — Air/Air Aftercooled
+NOTE: Materials and specifications subject to change without notice. Component commonality of Cat engines for all applications does not imply complete
+       interchangeability. Contact your Cat dealer for specific information.
+
+
+
+
+                                                                                                                                               27-15
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 539 ===
+Tables
+
+
+
+
+                                  ENGINE/MACHINE CROSS REFERENCE (Continued)
+      Engine                                                                              Fuel
+    Model and                                                                          Injection         Bore  Stroke               Displacement
+    (Cylinders)                       Machine                       Aspiration          System         mm                in           L        in3
+    C27 ACERT        AD60, D10T2, 773G , 773G, 775G ,
+                                           1              1
+                                                                        TA                DI       137  152         5.4  6.0      27.0      1648
+      (V-12)         775G, 990H, 990K, 844H, 844K,
+                     6015B, 6030, 6030 FS
+        3412         D10R, 5110B                                        TA                DI       137  152         5.4  6.0      27.0      1649
+       (V-12)        844, 773E                                        ATAAC               DI
+       3508          D11R, 5130B, 992G, 854G, 777D                      TA                DI       170  190         6.7  7.5      34.5      2105
+       (V-8)
+        3512         785C, 6060, 6060 FS                                TA                DI       170  190         6.7  7.5      51.8      3158
+       (V-12)
+     3512 HD         785D                                             ATAAC               DI       170  215         6.7  8.5      58.6      3574
+      (V-12)
+        3516         789C, 994D, 5230B                                  TA                DI       170  190         6.7  7.5      51.8      3158
+       (V-16)
+     3516 HD         789D, 994K                                       ATAAC               DI       170  215         6.7  8.5      78.1      4765
+      (V-16)         793D, 994F, 994H                                    TA               DI       170  215         6.7  8.5      78.1      4765
+    C32 ACERT        777G1, 777G, 854K, 992K, 993K,                    TA                DI       145  162         5.7  6.4      32.1      1959
+                     D11, D11 CD, 6020B, 6040, 6040 FS
+      C175-16        793F, 794 AC, 795F                               ATAAC               DI       175  220         6.9  8.7      84.7      5167
+       (V-16)
+      C175-16        797F                                             ATAAC               DI       175  220         6.9  8.7      105.8     6458
+       (V-20)
+1
+  Meets Tier 4 Final/Stage V/Japan 2014 (Tier 4 Final) emission standards.
+DI — Direct Injection                                    ATAAC — Air/Air Aftercooled
+TA — Turbocharged and Aftercooled
+NOTE: Materials and specifications subject to change without notice. Component commonality of Cat engines for all applications does not imply complete
+       interchangeability. Contact your Cat dealer for specific information.
+
+
+
+
+27-16
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 540 ===
+TECHNOLOGY PRODUCTS
+
+
+CONTENTS                                                                                                      INTRODUCTION
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 28-1       Caterpillar has long been a leader in bringing innova­
+Applications .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 28-3    tion to Cat products. Today, one of our biggest differ­en­
+Construction Technology:                                                                                      tiators isn’t just in our equipment — it’s in the technologies
+  Cat® Technologies  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 28-12                   we are integrating into our products that are improving
+Mining Technology:                                                                                            machine performance and productivity, and transform­
+  Cat MineStar™  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 28-18                 ing the way customers work to manage their operations
+                                                                                                              and business more efficiently and cost effectively.
+
+
+
+
+                                                                                                                                                                               28
+
+
+
+
+                                                                                                                                                                      28-1
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 541 ===
+Technology Products                  Introduction
+
+
+
+
+  Construction Technology products deliver dramatic              Cat MineStar provides the most comprehensive suite
+improvements on the job site to help customers manage         of mining technology products in the industry. It con­
+their business more efficiently and cost effectively. Fully   sists of a number of configurable capability sets that
+integrated into Cat machines and core systems, these          allow you to scale the system to your mine site needs.
+technologies use advanced electronics to accurately           Cat MineStar helps manage every­thing from material
+measure and control productivity, monitor and man­            tracking to sophisticated real-time fleet management,
+age machine health and maintenance, and provide more          machine health systems, autonomous equipment sys­
+insight into your equipment fleet and operation.              tems and more. The capability sets — Fleet, Edge,
+                                                              Terrain, Detect, Health and Com­mand — can be used
+  Energy & Transportation Technology products sim­            in combination or individually to allow your opera­
+plify equipment management to help customers moni­            tions the flex­ibility and scalability it needs to be more
+tor and manage assets, operate at peak performance,           productive, efficient and safe.
+and lower operating costs.
+                                                                MineStar Edge is a new platform that augments our
+   Cat Technologies combine the latest in technologies        current MineStar offerings and ensures we will be able
+and dealer services to help customers improve in four         to advance them for years to come. Edge delivers more
+key areas: Equipment Management, Productivity,                connected, integrated, scalable and intuitive products
+Safety, and Sustainability to take optimum control of         that extend further up and down the value chain. Edge
+the job site. Whether running one machine, managing           current offerings include Equipment Tracking and
+a fleet, or overseeing several job sites, Cat dealers can     Production Recording.
+help cus­t omers with the right combination of tech­
+nologies and services to meet the specific needs of their     ● Cat MineStar
+business and realize significant gains in productivity,         ○ Fleet
+efficiency and profitability.
+                                                                ○ Terrain
+● Cat Construction Technologies                                   ◾ Terrain for Drilling
+  ○ Cat Grade                                                     ◾ Terrain for Grading & Loading
+
+  ○ Cat Payload                                                 ○ Detect
+                                                                  ◾ Vision
+  ○ Cat Compact
+                                                                  ◾ Object Detection
+  ○ Cat Detect                                                    ◾ Driver Safety System (DSS)
+  ○ Cat Link                                                    ○ Health
+  ○ Cat Command                                                   ◾ Product Link Elite
+                                                                  ◾ Product Link Elite Data Streaming
+● Cat Technologies
+                                                                  ◾ VIMS Forwarder
+  ○ Equipment Management                                          ◾ VIMS Converter
+
+  ○ Productivity                                                  ◾ VIMS Telemetry
+                                                                  ◾ VIMS Transmitter
+  ○ Safety                                                        ◾ Equipment Insights
+  ○ Sustainability                                                ◾ Office
+                                                                  ◾ Technician Toolbox
+   Mining Technology & Autonomy products continue                 ◾ PitLink
+to have a positive impact on mining operations around
+the world. Caterpillar offers a complete suite of tech­         ○ Command
+nology products purpose built for the harsh mining                ◾ Command for dozing
+environment. Our products combine the latest GNSS                 ◾ Command for underground
+positioning technology with sophisticated electronic              ◾ Command for hauling
+controls and software to help miners increase produc­             ◾ Command for drilling
+tivity, monitor fleet health and lower operating costs.         ○ Edge
+                                                                  ◾ Equipment Tracking
+                                                                  ◾ Production Recording
+
+
+
+
+28-2
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 542 ===
+Applications                  Technology Products
+
+
+
+
+      PRODUCT                   CONSTRUCTION TECHNOLOGY APPLICATIONS                                         EQUIPMENT
+Cat Link Technology   Cat Link enables you to remotely monitor and manage your equip-               All types of equipment.
+                      ment so you can reduce costs, increase job site efficiency, and effec-
+                      tively manage your business.
+Product Link™         Product Link wirelessly connects you to your equipment giving you             Standard on many types of Cat
+                      valu­able insight into how your machine or fleet is performing. The sys­      equipment. Retrofits available on
+                      tem communicates location hours, fuel usage, productivity, idle time,         Cat or mixed fleet equipment.
+                      and diagnostics codes. Available with cellular and satellite ­connectivity.
+VisionLink ®          VisionLink is a telematics software application that enables you to           Standard on many types of Cat
+                      remotely monitor your equipment so that you can make timely, fact-            equipment. Retrofits available on
+                      based decisions to maximize efficiency, improve productivity, and             Cat or mixed fleet equipment.
+                      lower the cost of owning and operating your fleet.
+Basic Health or       Provides operators, maintenance, and fleet managers with vital                Basic Health or Advanced Health
+Advanced Health       machine health and production information.                                    is available on select Trucks,
+(Formerly VIMS™)                                                                                    Track-Type Tractors, Wheel
+                                                                                                    Loaders, Wheel Dozers, Motor
+                                                                                                    Graders, and K Series 4-Drum
+                                                                                                    Soil Compactors.
+Cat Grade             Cat Grade combines digital design data, in-cab guidance, and on               Select models of earthmoving,
+Technology            some machines — automatic control — to help operators work more               excavation, and paving
+                      productively and accurately with less rework.                                 equipment.
+Cat AccuGrade™        Cross Slope systems are used for indicate-only guidance or to control         Motor Graders
+                      one side of the blade to achieve accurate surface cross slope without
+                      any off-board infrastructure. This foundational system for motor
+                      graders can be combined with sonic, laser, GNSS or UTS technolo-
+                      gies to make fine grading more efficient and productive. Machine
+                      mounted sensors are used to calculate necessary blade slope posi-
+                      tioning. The system makes automatic adjustments to the left or right
+                      lift cylinder. The in-cab display delivers all of the cross slope informa-                                        28
+                      tion the operator needs to quickly and easily spread or cut material
+                      at the correct cross slope. The operator can select which side of the
+                      blade to control automatically and swap direction on the return pass
+                      without readjusting the settings. Elevation is controlled manually by
+                      matching grade or automatically by adding an elevation control device
+                      (sonic or laser). The cross slope systems are ideal for maintaining accu-
+                      rate cross slope over long distances without the need for infrastructure.
+                      Global Navigation Satellite Systems (GNSS) use satellite technology           Asphalt Compactors, Hydraulic
+                      to deliver precise 3D blade elevation and blade tip positioning infor-        Excavators, Motor Graders, Soil
+                      mation to the operator in the cab. Using machine-mounted compo-               Compactors, Track-Type Tractors,
+                      nents, an off-board GNSS base station and accuracy up to Real Time            Wheel Tractor-Scrapers, Landfill
+                      Kinematic (RTK) positioning, GNSS provides the information neces-             Compactors
+                      sary for the system to accurately determine blade positioning with
+                      centimeter level accuracy. GNSS systems compute the positioning
+                      information on the machine compared to the position of the imple-
+                      ment or machine relative to the design plane and delivers the infor-
+                      mation to the operator via an in-cab display. GNSS systems put all
+                      the information the operator needs to complete a job in the cab,
+                      resulting in a greater level of control. Provides precise location and
+                      elevation information for complex 3D contour applications, such as
+                      golf courses and highway super elevated curves.
+                      Laser systems provide precise 2D elevation control for grading with           Compact Track Loaders, Motor
+                      tight tolerances using a laser transmitter and receiver(s). A laser           Graders, Multi Terrain Loaders,
+                      transmitter is set up on the work site to create a constant grade refer-      Skid Steer Loaders, Track-Type
+                      ence over the work area. A digital laser receiver is mounted on the           Tractors
+                      blade of the machine and senses the laser signal as the machine
+                      moves across the work site. Laser systems are ideal for the fine grad-
+                      ing on job sites with flat, single or dual slope surfaces, such as indus-
+                      trial, commercial or residential building sites.
+
+
+
+
+                                                                                                                                28-3
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 543 ===
+Technology Products            Applications
+
+
+
+
+       PRODUCT             CONSTRUCTION TECHNOLOGY APPLICATIONS                                        EQUIPMENT
+Cat AccuGrade    Indicate-only grade control systems for excavators provide in-cab           Hydraulic Excavators
+                 guidance to indicate how much to cut or fill to achieve accurate
+                 grades and slopes. These systems can be combined with laser, GNSS
+                 or UTS technologies to make excavating more efficient and produc-
+                 tive. Indicate-only systems provide the operator with precise real-
+                 time bucket positioning compared to an elevation reference to
+                 indicate how far the cutting edge is above or below desired grade.
+                 Using a combination of front linkage (stick, boom and bucket) sen-
+                 sors, the system calculates bucket tip position relative to a grade/
+                 survey stake or benchmark. When combined with a laser and receiver,
+                 the machine can travel after obtaining a reference benchmark from a
+                 laser transmitter to calculate the desired grade for elevation changes
+                 over large work sites, significantly increasing productivity. Indicate-
+                 only systems combined with laser are ideal for excavations, trenches,
+                 and general utility applications.
+                 Sonic systems provide 2D “elevation” control using an ultrasonic            Motor Graders
+                 sensor to maintain accurate blade height. The system traces a previ-
+                 ous pass, string line, or curb and gutter and uses the elevation as a
+                 reference. The grade control system calculates blade adjustments
+                 based on the reference and desired elevation and automatically
+                 moves the blade to achieve grade. The operator simply steers the
+                 machine to maintain the sonic tracer over the external reference.
+                 Sonic systems are ideal for controlling elevation in fine grading appli-
+                 cations where curb and gutter or stringlines are used as references
+                 such as road construction and road maintenance.
+                 Sonic, Contact and Slope Sensors are combined to provide an eleva-          Asphalt Pavers, Cold Planers
+                 tion control system for paving and milling operations designed to
+                 control grade elevation and slope. The goal of grade and slope con-
+                 trols is to remove irregularities from the surface for maximum smooth­
+                 ness and control mat thickness for asphalt pavers and cutting depth
+                 for cold planers. The sonic system uses multiple transducers to
+                 provide an average of the reference surface while the contact sensor
+                 references the actual target to maintain the implement at the same
+                 relative vertical distance to an external reference such as a string line
+                 or a curb and gutter or even existing pavement. Slope Sensors com-
+                 plement these systems and are designed to control cross slope of the
+                 screed or cold planer. These sensors can work individually or together
+                 and make automatic elevation adjustments to maintain the appropri-
+                 ate targeted values. The operator simply steers the machine to main-
+                 tain the sensor over the external reference and monitors the remain­­ing
+                 job site variables to ensure a consistent product. Referencing beams
+                 are also available both as contact as well as non-contacting styles
+                 which help to provide better averaging of the existing surface to help
+                 customers achieve their smoothness targets.
+                 Universal Total Station (UTS) systems use high-accuracy, dynamic            Asphalt Pavers, Hydraulic
+                 tracking technology on the job site to track a target mounted on the        Excavators, Motor Graders,
+                 implement of the machine to determine the most precise 3D position-         Track-Type Tractors, Cold Planers
+                 ing. The system uses active target technology to reliably lock onto
+                 and track the intended target, eliminating false lock-ons to other
+                 active machine targets, survey crews or reflective surfaces. The UTS
+                 instrument continuously measures the target’s position and trans-
+                 mits real-time positioning data to the operator via the in-cab display,
+                 which shows the exact position of the implement in relation to the
+                 design. The system combines the position of the target with the
+                 known position of the implement, blade or tips, machine measure-
+                 ments and sensor outputs to calculate precise positioning of the
+                 blade tips. The system uses the positioning data to calculate desired
+                 elevation and cross slope. Cut and fill values are computed by com-
+                 paring the positioning of the blade with the design file.
+
+
+
+
+28-4
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 544 ===
+Applications                Technology Products
+
+
+
+
+     PRODUCT                  CONSTRUCTION TECHNOLOGY APPLICATIONS                                       EQUIPMENT
+Cat Grade with      Cross Slope systems are used for indicate-only guidance or to control       Motor Graders
+Cross Slope         one side of the blade to achieve accurate surface cross slope without
+                    any off-board infrastructure. This foundational system for motor
+                    graders can be combined with sonic, laser, GNSS or UTS technolo-
+                    gies to make fine grading more efficient and productive. Machine
+                    mounted sensors are used to calculate necessary blade slope posi-
+                    tioning to achieve desired cross slope of the surface. The system
+                    makes automatic adjustments to the left or right lift cylinder, typically
+                    performed by the operator. Cat Grade Control Cross Slope systems
+                    are factory integrated and utilize the existing, standard machine
+                    display reducing the need for an additional grade control display for
+                    cross slope guidance. The in-cab display delivers all of the cross
+                    slope information the operator needs to quickly and easily spread or
+                    cut material at the correct cross slope. The operator can select which
+                    side of the blade to control automatically and swap direction on the
+                    return pass without readjusting the settings. Elevation is controlled
+                    manually by matching grade or automatically by adding an elevation
+                    control device (sonic or laser). The cross slope systems are ideal for
+                    maintaining accurate cross slope over long distances without the
+                    need for infrastructure.
+Cat Grade with 3D   3D systems use Global Navigation Satellite System (GNSS) satellite          Track-Type Tractors, Wheel
+                    technology to deliver precise blade positioning and location informa-       Tractor-Scrapers
+                    tion to the operator in the cab. Using machine-mounted components,
+                    position sensing hydraulic cylinders, an off-board GNSS base station,
+                    and Real Time Kinematic (RTK) positioning accuracy, these systems
+                    provide the information necessary to determine precise blade posi-
+                    tioning with centimeter level accuracy. The system computes the
+                    positioning information on the machine compared to the position of
+                    the cutting edge relative to the design plane and delivers the informa-
+                    tion to the operator via the standard in-cab display. All the informa-                                          28
+                    tion the operator needs to complete a job is delivered to the cab
+                    display, resulting in a greater level of control. Cat Grade Control 3D
+                    systems also provide overcut protection and linkage to additional
+                    Caterpillar exclusive features like AutoCarry™, Automatic Ripper
+                    Control and Load Assist. These systems are ideal for high production
+                    dozing and cutting complex 3D contours, such as highway projects.
+Cat GRADE with      The 2D indicate-only system for excavators provides the operator            Hydraulic Excavators
+Depth and Slope     with precise real-time bucket positioning relative to the desired
+                    grade. Using a combination of position sensing hydraulic cylinders
+                    and sensors on the stick and boom pins, the system calculates bucket
+                    tip position relative to a grade/survey stake or benchmark. When
+                    used with the included laser receiver, the machine can reference a
+                    benchmark and travel while maintaining the elevation reference,
+                    even on uneven terrain. The laser receiver references the laser from
+                    a transmitter on the job site and calculates the desired grade for
+                    elevation changes, significantly increasing productivity. The factory-
+                    integrated system uses the existing machine display, reducing the
+                    need for an additional display. Sensors are deeply integrated and
+                    protected from damage in rugged applications. Cat Grade Control
+                    Depth and Slope is ideal for maintaining accurate grades and slopes
+                    in excavations and trenching applications.
+
+
+
+
+                                                                                                                             28-5
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 545 ===
+Technology Products                 Applications
+
+
+
+
+       PRODUCT                   CONSTRUCTION TECHNOLOGY APPLICATIONS                                       EQUIPMENT
+Cat Grade with Slope   Slope Assist systems provide blade slope/angle control to the cutting      Select Track-Type Tractors
+Assist                 edge to achieve accurate slopes with a quality surface finish in less
+                       time with less effort — without the need for off-board infrastructure.
+                       This integrated machine system uses a blade mounted sensor to
+                       calculate necessary blade slope position to achieve desired surface
+                       slope and main-fall. The system makes automated adjustments to the
+                       lift and tilt cylinders, typically performed by the operator. The in-cab
+                       display uses the existing machine display to deliver the information
+                       the operator needs to quickly and easily spread or cut material at the
+                       correct angle. Two modes are available: basic and advanced. Basic
+                       mode maintains the slope of the last given blade command. Advanced
+                       mode drives to and maintains a preset target slope. Elevation is con-
+                       trolled manually by matching grade or automatically by adding an
+                       elevation control device. This foundational system for dozers can be
+                       combined with laser, GNSS or UTS technologies to make grading
+                       even more efficient and productive.
+Cat Grade and Slope    The Grade and Slope system for asphalt pavers and cold planers             Asphalt Paver, Cold Planers
+                       utilize a combination of sonic, contact and slope sensors to provide
+                       an elevation control system for paving and milling operations
+                       designed to control grade elevation and slope. The goal of grade and
+                       slope controls is to remove irregularities from the surface for maxi-
+                       mum smoothness and control mat thickness for asphalt pavers and
+                       cutting depth for cold planers. The sonic system uses multiple trans-
+                       ducers to provide an average of the reference surface while the
+                       contact sensor references the actual target to maintain the imple-
+                       ment at the same relative vertical distance to an external reference
+                       such as a string line or a curb and gutter or even existing pavement.
+                       Slope Sensors complement these systems and are designed to con-
+                       trol cross slope of the screed or cold planer. These sensors can work
+                       individually or together and make automatic elevation adjustments
+                       to maintain the appropriate targeted values. The operator simply
+                       steers the machine to maintain the sensor over the external reference
+                       and monitors the remaining job site variables to ensure a consistent
+                       product. Referencing beams are also available both as contact as well
+                       as non-contacting styles which help to provide better averaging of
+                       the existing surface to help customers achieve their smoothness
+                       targets. Cat Grade and Slope for asphalt pavers includes vandal pro-
+                       tection of the display boxes. Both asphalt pavers and cold planers
+                       come factory calibrated, utilize robust harnesses with strain relief
+                       components for excellent reliability and durability — a crucial ele-
+                       ment for paving applications.
+Cat Compact            Cat Compact combines advanced compaction measurement, in-cab               Available on select Cat
+Technology             guidance and reporting capabilities to help consistently meet com-         compactors.
+                       paction targets faster, more uniformly, and in fewer passes — ­reduc­ing
+                       rework and material costs in both soil and asphalt applications.
+
+
+
+
+28-6
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 546 ===
+Applications                 Technology Products
+
+
+
+
+     PRODUCT                   CONSTRUCTION TECHNOLOGY APPLICATIONS                                       EQUIPMENT
+Cat Compact          Compaction measurement is the foundation system for vibratory soil         B Series Vibratory Soil
+                     compactors. Compaction measurement is a real time indication of            Compactors, K Series 4-Drum
+                     soil stiffness, provided by one of two available technologies: accel-      Soil Compactors, A and B Series
+                     erometer based Compaction Meter Value (CMV) or Caterpillar exclu-          Asphalt Compactors, CW34
+                     sive energy based Machine Drive Power (MDP). The compaction                Pneumatic Tire Roller
+                     measurement system outputs to the standard multipurpose display,
+                     providing the operator with real time data that helps them determine
+                     the state of compaction.
+                     The scalable compaction measurement system can be upgraded to
+                     include mapping. Mapping from the factory is an integrated SBAS
+                     accuracy GNSS which uses a satellite technology to deliver drum
+                     positioning information to the operator in the cab. The factory inte-
+                     grated design protects expensive and fragile components of the
+                     system from damage, theft or vandalism in a way that aftermarket
+                     systems cannot. The SBAS system from the factory does not require
+                     base stations or other off board hardware, but can be easily upgraded
+                     in the field with an AccuGrade RTK radio for greater accuracy.
+                     Mapping capability allows the operator to record and map compac-
+                     tion measurement values and pass counts, as well as other compac-
+                     tion application data for future analysis.
+                     Cat Compaction Control for asphalt compactors and the CW34 pneu-
+                     matic tire roller provides mat temperature mapping and pass-count
+                     information to the operator, ensuring that compaction occurs at the
+                     optimum mat temperature and that uniform coverage is completed.
+Payload Technology   Cat Payload enables accurate weight measurement of material being          Available on select Cat wheel
+                     loaded or hauled. Payload information is shared with loader opera-         loaders, trucks, excavators and
+                     tors in real-time to improve productivity, reduce overloading and          scrapers.
+                     record both weights and number of loads per shift.
+Cat Payload          Cat Payload provides on-the-go payload weighing through an in-cab          Wheel Loaders                      28
+                     LCD display so operators can deliver exact loads with confidence and
+                     work more efficiently. Operators can fill trucks to capacity without
+                     overloading, increasing productivity and eliminating costly fines. The
+                     system records detailed data to track productivity, including time/
+                     date, weights, cycles, and more. An optional in-cab printer enables
+                     operators to print individual load tickets as well as truck and material
+                     summary reports. Daily summary reports in the VisionLink web por-
+                     tal and detailed payload reports in VIMSpc software are available for
+                     productivity reporting and analysis.
+Cat Payload          Production Measurement brings on-the-go payload weighing to cab            Wheel Loaders,
+with Production      to help operators deliver exact loads with confidence and work more        Articulated Trucks,
+Measurement          productively and accurately; without rework. The system is inte-           Excavators
+                     grated at the factory into the standard cab display. Operators can
+                     track load weights in real time and know precisely how much material
+                     is in the bucket or truck. Instant payload feedback gives operators the
+                     confidence to know when loads are filled to target capacity, which
+                     reduces under and overloading, and maximizes the potential of the
+                     entire fleet. Payload information is stored in the display, enabling
+                     operators to track productivity such as weights, and totals per shift
+                     while in the cab. Productivity data can be accessed wirelessly through
+                     the VisionLink web portal giving the site supervisor a daily view of
+                     production totals and efficiency metrics.
+
+
+
+
+                                                                                                                            28-7
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 547 ===
+Technology Products                Applications
+
+
+
+
+       PRODUCT                 CONSTRUCTION TECHNOLOGY APPLICATIONS                                        EQUIPMENT
+Cat Payload          Payload Estimator uses bowl lift cylinder pressure on the loaded haul       Wheel Tractor-Scrapers
+with Estimator       segment to calculate payload. This integrated system provides on-
+                     the-go payload weighing through the standard machine display so
+                     operators can deliver exact loads with confidence and work more
+                     efficiently. Deep integration ensures reliable operation and accurate
+                     data (within ±5%). It is optimized to work with Sequence Assist or can
+                     be used in manual mode. Productivity data can be accessed wire-
+                     lessly through VisionLink, giving the site supervisor a daily view of
+                     production totals.
+Cat Payload with     Truck Production Management System (TPMS) enhances truck and                Off-Highway Trucks
+Truck Production     loader effectiveness for improved fleet productivity and reduced
+Management System    operating cost. TPMS offers external lights or an optional digital
+(TPMS)               display to signal the loading tool operator when the proper load is
+                     reached. The on-board system provides a payload accuracy of ±5%
+                     and stores payload weight, cycle segment times, cycle segment dis-
+                     tance and fuel, operator ID and actual clock time and date of each cycle.
+Cat Detect           Cat Detect combines safety and monitoring systems to enhance                Available on many models of
+Technology           oper­a­tor awareness. By expanding your view of the working environ-        Cat equipment.
+                     ment around your equipment, you can improve the safety and produc­
+                     tivity of your entire operation and keep your people and assets safe.
+Cat Detect with      Rear vision cameras greatly enhance visibility behind the machine to        Standard on many types of Cat
+Rear Vision Camera   help the operator work more productively. On many machines, the             equipment. Retrofits available
+                     camera view is displayed through the standard display.                      on most models.
+Cat Detect with      Work Area Vision System (WAVS) is used on larger equipment in applica­      Optional on larger trucks and
+Work Area Vision     tions where there are multiple machines, such as in a quarry. WAVS          wheel loaders.
+System (WAVS)        uses up to three cameras to provide full coverage in areas of limited
+                     visibility. Views can be set up by camera location (front, rear, side) or
+                     programmed to switch automatically based on direction of travel.
+Cat Detect with      Tire Monitoring uses sensors located on the rims to display tire pres-      All Cat and mixed fleet machines
+Tire Monitoring      sures and temperatures on the in-cab monitor to help keep fleets            with tubeless tire rim sizes R29.5
+                     running safely and productively. Operators can view real-time infor-        and smaller.
+                     mation via the Messenger display and work with confidence. Alerts
+                     enable operators to take immediate action before a tire failure occurs
+                     to reduce downtime. The system optimizes fuel consumption by
+                     operating at optimum tire pressures and reduces tire damage and
+                     frequent replacements due to high tire temperatures and under-
+                     inflation. Caterpillar designed and tested aftermarket kits work with
+                     multiple machine models and mixed fleets. Remote monitoring via
+                     VisionLink helps equipment managers schedule maintenance and
+                     make informed decisions.
+Cat Detect with      Machine Security System (MSS) prevents unauthorized personnel               Standard on many types of Cat
+Machine Security     from starting the machine by using a uniquely coded key that is pro-        equipment.
+System (MSS)         grammed to a computer chip in the MSS module on-board the
+                     machine. The system can be set to prevent unauthorized use outside
+                     of normal working hours, and protect from vandalism or theft.
+
+
+
+
+28-8
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 548 ===
+Applications                 Technology Products
+
+
+
+
+        PRODUCT        ENERGY & TRANSPORTATION TECHNOLOGY APPLICATIONS                                     EQUIPMENT
+                                                 Energy & Transportation
+Product Link Web    Product Link Web provides features optimized for power systems               Oil and Gas, Marine, Electric
+                    equipment, including detailed engine parameters. An innovative tool          Power Generation, and Industrial
+                    for equipment management, the Product Link Web user-friendly                 installations
+                    interface enables communication between the customer and their
+                    equipment assets, and provides comprehensive information about
+                    the performance and condition of the equipment. It also enables the
+                    user to customize alerts so that critical operations can be prevented
+                    and or receive immediate attention.
+Cat AssetIQ™ Kits   AssetIQ Kits are field-installed solutions for collecting engine data        Oil and Gas, Marine, Electric
+                    and information on Cat or other manufacturers’ mechanical or basic           Power Generation, and Industrial
+                    electronic equipment. Kits are available for Fuel Flow Monitoring            installations
+                    Systems and Sensor Kits for basic engines and genset applications.
+
+
+
+
+        PRODUCT            MINING TECHNOLOGY & AUTONOMY APPLICATIONS                                       EQUIPMENT
+                                                       Cat MineStar
+Fleet               Fleet is a comprehensive mine management system featuring an                 Entire mining fleet
+                    advanced truck assignment engine, health and operational event
+                    alarming, “what-if” analysis, productivity tracking, machine tracking,
+                    material management and a comprehensive reporting package.
+                    Integrating with other Cat MineStar capability sets, Fleet improves
+                    productivity by 10-15%, eliminates misdirected loads, improves infor-
+                    mation availability and provides greater flexibility to adjust for
+                    changing mine and market conditions.
+Terrain             Terrain for drilling increases hole placement and depth accuracy while       Blasthole Drills, Articulated
+                                                                                                                                    28
+                    removing the cost of drill pattern survey and staking. Position and status   Drills, Draglines, Scrapers,
+                    information of other drills working on the same pattern is provided to       Loaders, Dozers, Shovels,
+                    operators in real time on the in-cab display.                                Motor Graders, Hydraulic
+                    Terrain for grading ensures accurate execution of the design plan and        Excavators, Track-Type Tractors,
+                    enables safe operating practices. It can be used on a variety of machines    Surface Miners, Terrain Levelers
+                    in numerous applications from production dozing to reclamation, all
+                    helping you mine more safely and productively.
+                    Terrain for loading provides grade indication for bench management
+                    and automatic material information on each pass helping operators
+                    to move the right amount of material with every bucket load. Safety,
+                    productivity and efficiency are positively impacted and the mine
+                    design plan accurately executed.
+
+
+
+
+                                                                                                                             28-9
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 549 ===
+Technology Products            Applications
+
+
+
+
+        PRODUCT          MINING TECHNOLOGY & AUTONOMY APPLICATIONS                                    EQUIPMENT
+                                                    Cat MineStar
+Detect            Vision is a camera system available on mobile surface equipment. It        Surface: Select models of
+                  provides multiple camera views that improve the operator’s aware-          Electric Rope Shovels, Hydraulic
+                  ness of the vicinity around working equipment.                             Shovels, Off-Highway Trucks,
+                                                                                             Medium Wheel Loaders, Large
+                                                                                             Wheel Loaders, Large Motor
+                                                                                             Graders, Medium Wheel Dozers,
+                                                                                             Large Wheel Dozers
+                  Object Detection uses cameras and radars to improve the operator’s         Select models of Off-Highway
+                  view of key areas around the machine, allowing operators to make           Trucks, Medium Wheel Loaders,
+                  informed decisions. The system works with several machine types            Large Wheel Loaders, Large
+                  increasing machine perimeter awareness during critical periods includ-     Motor Graders, Medium Wheel
+                  ing startup, initial movement and reverse travel. The system consists      Dozers, Large Wheel Dozers
+                  of an interactive touch screen display, radars and cameras on the
+                  front, rear and sides of the machine. Radar and camera configuration
+                  will vary by machine type.
+                  The Driver Safety System (DSS) is a non-intrusive, in-cab fatigue detec­   Surface and underground
+                  tion technology that instantly alerts operators the moment fatigue or      mining machines as well as
+                  distraction is identified.                                                 On-Highway Trucks
+                  Fatigue detection technology works by monitoring eye-closure dura-
+                  tion and head pose. If the DSS detects a fatigue or distraction event
+                  the operator is immediately alerted through configurable in-vehicle
+                  seat vibration and/or audio alarm.
+
+                  The fatigue or distraction event is sent to a 24-hour monitoring center
+                  to classify and confirm the event. Caterpillar experts will analyze the
+                  data and provide customized reporting with site-level recommenda-
+                  tions. By cross-referencing fatigue and distraction events against
+                  available equipment data, Caterpillar can provide suggestions to
+                  improve operational efficiency.
+Health            Health delivers critical event-based equipment condition and operat-       Cat mining equipment and
+                  ing data for your entire fleet. It includes comprehensive, proactive       select models of other brands
+                  health and asset monitoring capabilities, with a wide range of diag-       of mining machines
+                  nostic, reporting tools, analytics and recommendations.
+
+
+
+
+28-10
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 550 ===
+Applications                 Technology Products
+
+
+
+
+     PRODUCT             MINING TECHNOLOGY & AUTONOMY APPLICATIONS                                      EQUIPMENT
+                                                    Cat MineStar
+Command           Command for hauling enables total autonomous operation of large             Select models of Large Mining
+                  mining trucks. Advanced perception and sensing technologies enable          Trucks
+                  self-driving trucks within the autonomous operating zone to work
+                  safely and productively alongside manually operated equipment,
+                  such as loading tools, cleanup and maintenance machines, and mine
+                  site personnel. Utilizing a virtual mine map and dynamic routes man-
+                  aged from a central command center, autonomous trucks respond to
+                  calls to the shovel, move into loading position, haul loads to the desig­
+                  nated dump points, and even report to the maintenance bay, all with-
+                  out an operator on-board.
+                  Operator Machine Assist (OMA) automates the entire drill cycle for a        Caterpillar Diesel MD6250 and
+                  single-row, including tramming between holes, while the operator            MD6310
+                  remains in the cab of the machine. OMA delivers higher consistent
+                  productivity than a typical staffed operation. Semi-Autonomous              Caterpillar Electric MD6640
+                  Drilling System (S-ADS) autonomously drills an entire row without           (Bucyrus 49R/HR) and Komatsu
+                  an operator in the cab monitoring from a remote operations center           Electric P&H 120A and P&H
+                  or from a tablet interface. Flexible and simple, the system makes           320XPC
+                  drilling autonomy easy to implement and more accessible for all
+                  kinds of operations. Command for drilling takes a building block
+                  approach to autonomy allowing customers to enter at their own pace.
+                  Command for underground is designed to enhance safety and boost             Available as an attachment for
+                  operator efficiency and effectiveness. The system allows the opera-         select models of Hard Rock
+                  tor to work from a safe and ergonomic work station far from the Load        Underground Mining Loaders
+                  Haul Dump (LHD) machine — either on the surface or underground
+                  without sacrificing machine productivity. The system can also have a
+                  significant impact through increased machine availability, decreased
+                  operating costs and extended machine life.
+                                                                                                                                 28
+                  Command for dozing enables remote operation from a safe location            D8T, D10T, D11, D11 CD Track-
+                  away from the machine. Removing operators from the cab of a machine         Type Tractors
+                  working in hazardous conditions promotes safety and reduces operator
+                  exposure to dust, noise and vibration. Command for dozing can uti-
+                  lize either an over-the-shoulder operator console or a seated operator
+                  station for longer term operations. Either system utilizes line of sight
+                  communications for near machine operation. Or with the addition of
+                  an on board vision system, the operator station can be located any-
+                  where on-site or from an off-site command center. Terrain’s avoid-
+                  ance zone functionality (optional) can be utilized to further enhance
+                  safety.
+                  Semi-Autonomous Operation allows an operator to control up to four
+                  machines from a Remote Operator Station while semi-automating a
+                  push-to-edge or pivot-push (late 2018) application.
+Edge Equipment    Equipment Tracking is a fleet management system that replaces               Entire Mining Fleet
+Tracking          pencil and paper with automatic tracking of all mobile assets. It pro-
+                  vides highly accurate data that tells supervisors what the fleet is
+                  doing, who is operating which machine and how they are spending
+                  their time.
+Edge Production   Production Recording pairs with Equipment Tracking to deliver an            Loading and Hauling Mining
+Recording         accurate and automated near-real-time solution that measures and            Fleet
+                  reports on every aspect of the load-haul-dump cycle. It gives sites
+                  visibility to their entire mining operation and provides accurate, reli-
+                  able and actionable data with no operator input required.
+
+
+
+
+                                                                                                                         28-11
+

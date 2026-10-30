@@ -1,0 +1,49 @@
+{
+  "id": "CAT-21",
+  "slug": "attachment-operations",
+  "title": "Guide to Attachment Operations",
+  "publisher": "Ziegler CAT",
+  "type": "Dealer operating overview",
+  "publication": null,
+  "publication_year": null,
+  "year_basis": "No publication year verified; do not infer from hosting path",
+  "model_scope": "Cat skid steer, multi terrain and compact track loader attachment-control overview, including brooms, cold planers, blades and hammers; not the individual attachment OMM.",
+  "download_filename": "cat-attachment-operations.pdf",
+  "source_url": "https://www.zieglercat.com/assets/files/023524-ZIEGCA-Ziegler-CAT-Machine-User-Guide_AttachmentOperation.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 10404063,
+  "original_sha256": "750c1d11a0ca492ab9d29cb9a6964b0e82931108d4febda07b28c14de2324ce7",
+  "original_pages": 44,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "USE YOUR EQUIPMENT SAFELY AND EFFICIENTLY\nGUIDE TO\nATTACHMENT OPERATIONS\n",
+    "last_page": "Ada \n2099 State Highway 9\n56510 ZIP / 218.784.2961\nBemidji \n5426 Highway 71 N\n56601 ZIP / 218.751.1033\nBrainerd \n3311 Liberty Lane\n56401 ZIP / 218.829.9800\nBuhl \n10081 E Highway 169\n55713 ZIP / 218.258.3232\nColumbus \n13822 W Freeway Drive\n55038 ZIP / 651.982.5600\nCrookston \n720 3rd Avenue SW\n56716 ZIP / 218.281.4245\nDayton* \n18171 Territorial Road \n55369 ZIP / 763.428.0730\nDuluth \n210 Garﬁeld Avenue\n55802 ZIP / 218.722.6628\nFergus Falls \n3502 State Highway 210 W\n56537 ZIP / 218.736.2680\nJackson \n191 Industrial Parkway\n56143 ZIP / 507.847.7600\nMadison \n2488 Highway 75 N\n56256 ZIP / 320.598.3150\nMankato \n2145 Howard Drive W\n56003 ZIP / 507.388.1444\nMarshall \n1200 N Highway 59\n56258 ZIP / 507.532.4403\nMinneapolis \n901 W 94th Street\n55420 ZIP / 952.888.4121\nRochester \n6340 Highway 63 S\n55904 ZIP / 507.285.1775\nShakopee \n8000 County Road 101 E\n55379 ZIP / 952.887.4570\nSt. Cloud \n2225 255th Street\n56301 ZIP / 320.253.2234\nWillmar \n4600 Highway 71 S\n56021 ZIP / 320.235.8123\n50009 ZIP\nAltoona\n1500 Ziegler Drive NW\n / 515.957.3828\n50022 ZIP\nAtlantic\n951 Park Drive\n / 712.243.1039\n50501 ZIP\nFort Dodge\n3366 5th Avenue S\n / 515.576.3161\nMason City\n11490 265th Street\n50401 ZIP / 641.423.7240\nGrundy Center\n17075 Market Avenue\n50642 ZIP / 877.857.0144\n \n \n50659 ZIP\nNew Hampton\n1819 McCloud Avenue\n / 641.394.4226 \n52162 \nPostville\n308 North Lawler\nZIP / 563.864.7461\n \n51201 \nSheldon\n102 Crossroads Drive \nZIP / 712.324.5604\n51111 ZIP\nSioux City\n5300 Harbor Drive\n / 712.252.4401\nMINNESOTA\nIOWA\n*Cat Rental Store Only\n©2023 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, their respective logos, “Caterpillar \nYellow” and the “Power Edge” trade dress, as well as corporate and product indentity used \nherein, are trademarks of Caterpillar and may not be used without permission.\nFIND US \nNEAR YOU\n"
+  },
+  "parts": [
+    {
+      "file": "sources/attachment-operations/p0001-0025.pdf",
+      "text": "text/attachment-operations/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 6327236,
+      "sha256": "5d7edf45cd00156b6dca3b3099ec5c9c55d536a4244485f406cab1d358173b7b",
+      "text_sha256": "ed5af1195b6b4aee49b34a3115269a09ce4dd91c1a3d62f547642def6433c3e8",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/attachment-operations/p0026-0044.pdf",
+      "text": "text/attachment-operations/p0026-0044.txt",
+      "start": 26,
+      "end": 44,
+      "pages": 19,
+      "bytes": 4069827,
+      "sha256": "891d1ea411b8a3cedd6e5c974eecd0457a136d97ae35e9b96711e820d4b916f1",
+      "text_sha256": "6d51c97f143cbee8a15bfcd5da8d145648b45fac3a45aa2058b57b9bcb3f6478",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

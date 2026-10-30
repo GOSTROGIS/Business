@@ -1,0 +1,37 @@
+{
+  "id": "CAT-13",
+  "slug": "backhoe-f-parts",
+  "title": "F Series Backhoe Loader — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2015,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+  "download_filename": "cat-backhoe-f-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20150528-59996-41033",
+  "accessed": "2026-10-30",
+  "original_bytes": 1298436,
+  "original_sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+  "original_pages": 5,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "F SERIES BACKHOE LOADER \nPARTS REFERENCE GUIDE\n",
+    "last_page": "AEXQ1444-01  \nAugust 2015\n© 2015 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, BUILT FOR IT, their respective logos, “Caterpillar Yellow,” the “Power Edge” \ntrade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nQUICK DISCONNECTS\nGet the most out of your Cat F Series Backhoe Loader with a wide range of hydraulic work tool attachments that can be \neasily interchanged with Quick Disconnects. Contact your Cat dealer for a complete list of all available attachments.\n  Edge Group - Bolt On\n9R-5321\n     Edge - Cutting   \n9W-8215\n     Bolt - Plow  \n3F-5108\n     Nut - Full\n4K-0367\n     Washer - Hard\n8T-4122\n  Tooth Group - Bolt On\n9R-5866\n     Tooth - Uni (Double strap)\n135-8203\n     Tooth - Uni (Single strap)\n132-4720\n     Bolt - Plow\n4F-3657\n     Nut - Full\n4K-0367\nThe following tips are DRS230 size\n     Pin - GET\n201-1238\n     Retainer Assembly\n201-1239\n     Tip - Penetration\n208-5235\n     Tip - Chisel\n208-5232\n     Tip - Soil\n208-5234\n     Tip - Long\n208-5236\n     Tip - Twin Sharp\n208-5237\n     Tip - Sharp\n208-5239\n     Tip - Wide\n208-5240\n  Adapter - Weld on\n  (For use with Rock Buckets)\n201-1234\n  Adapter - 25mm\n  (Soil excavation edges)\n253-0234\n  Adapter - Weld on\n201-1235\n    Ground engaging tools labeled as a group include mounting hardware.\nCOMMON GROUND ENGAGING TOOLS\nE and F Series\nTwin Sharp\nWide\nLong\nPin and Retainer\nSharp\nChisel\nFunction\nPush to connect\nMale\nCap\nFemale\nCap\nLoader\n195-6526\n152-5718\n195-6525\n152-5717\nHoe\n106-0406\n–\n106-0401\n–\n"
+  },
+  "parts": [
+    {
+      "file": "sources/backhoe-f-parts/p0001-0005.pdf",
+      "text": "text/backhoe-f-parts/p0001-0005.txt",
+      "start": 1,
+      "end": 5,
+      "pages": 5,
+      "bytes": 1298436,
+      "sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+      "text_sha256": "db0822d98f872e0a182a30cd907b7ca16299838452be5aa931a73daaa66b3f9c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

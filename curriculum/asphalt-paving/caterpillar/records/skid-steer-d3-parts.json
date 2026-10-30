@@ -1,0 +1,37 @@
+{
+  "id": "CAT-15",
+  "slug": "skid-steer-d3-parts",
+  "title": "D3 Series Skid Steer, Compact Track and Multi Terrain Loaders — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2021,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "D3 Series models listed in the publication; track and linkage configurations differ.",
+  "download_filename": "cat-skid-steer-d3-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20211022-fbb27-6c0ba",
+  "accessed": "2026-10-30",
+  "original_bytes": 1438211,
+  "original_sha256": "977d6fd1987d21f90c78afb841ab35ad20e86f55728eec770b0048d186bb36a6",
+  "original_pages": 11,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "D3 SERIES SKID STEER LOADER, COMPACT TRACK \nLOADER AND MULTI TERRAIN LOADER  \nPARTS REFERENCE GUIDE\n",
+    "last_page": "PEDJ0859   \n(Am North, EU, APD, ANZP)  \nOctober 2021\n© 2021 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Yellow,” the “Power Edge” and Cat \n“Modern Hex” trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nMTL Linkage Pin\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber Prefix\nA\nB\nC\nG\nK\nL\nM\nN\n257D3\nKEZ, S7E\n452-0480 \nPin Assembly \n(Quantity 2)\n345-6511 \nPin Assembly \n(Quantity 2)\n142-9091 \nPin Assembly \n(Quantity 2)\n388-7776 \nPin Assembly \n(Quantity 2)\n258-3451 Pin \n(Quantity 2)\n388-7770 \nPin Assembly \n(Quantity 2)\n388-7780 \nPin Assembly \n(Quantity 2)\n422-3184 \nLink Assembly \n(Quantity 2)\nMTL Bearings\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n191-9633 \nBushing \n(Quantity 4)\n6K-4148 \nBushing \n(Quantity 4)\n–\n–\n–\n142-8805 \nBushing \n(Quantity 4)\n6K-4148 \nBushing \n(Quantity 4)\n–\n–\nMTL Grease Fittings\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n–\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n–\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n3B-8489 \nGrease \nFitting \n(Quantity 2)\n5B-0651 \nStraight \nFitting \n(Quantity 2)\n–\n–\nMTL Retention \nHardware\nVertical Lift Linkage\nSales \nModel\nSerial \nNumber \nPrefix\nA\nB\nC\nG\nK\nL\nM\nN\nY\n257D3\nKEZ, S7E\n119-4594 \nWasher \n(Quantity \n10)\n191-9738 \nWasher \n(Quantity 2)\n550-6670 \nFlat Head \nScrew \n(Quantity 2)\n481-3999 \nWasher \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n435-8888 \nSpacer \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n363-2855 \nShim (Left \nSide only) \n(Quantity 5)\n523-0657 \nBolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n523-0657 Bolt \n(Quantity 2)\n8T-4222 \nWasher \n(Quantity 2)\n1H-8134 \nRetaining \nRing \n(Quantity 4)\n4M-5285 \nRetaining \nRing\n (Quantity 4)\n481-3999 \nWasher \n(Quantity 2)\n523-0657 \nBolt \n(Quantity 2)\n2K-5964 \nRetaining \nRing \n(Quantity 2)\n388-7774 \nSpacer \n(Quantity 2)\n142-9142 \nSpacer \n(Quantity 2) \n8T-5439 \nWasher \n(Quantity 2) \n7X-7729 \nWasher \n(Quantity 2) \n523-0657 \nBolt \n(Quantity 2)\nMULTI TERRAIN LOADER (MTL) LINKAGE PIN DATA  \n"
+  },
+  "parts": [
+    {
+      "file": "sources/skid-steer-d3-parts/p0001-0011.pdf",
+      "text": "text/skid-steer-d3-parts/p0001-0011.txt",
+      "start": 1,
+      "end": 11,
+      "pages": 11,
+      "bytes": 1438211,
+      "sha256": "977d6fd1987d21f90c78afb841ab35ad20e86f55728eec770b0048d186bb36a6",
+      "text_sha256": "f6059535bccefc8945f9c2fef12ce57084b5ee39db696bfe231dab2772e81446",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

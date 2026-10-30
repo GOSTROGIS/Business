@@ -1,0 +1,133 @@
+{
+  "id": "CAT-02",
+  "slug": "guide-asphalt-compaction",
+  "title": "Guide to Asphalt Compaction",
+  "publisher": "Caterpillar",
+  "type": "Application guide",
+  "publication": "QEBQ1583",
+  "publication_year": 2012,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Asphalt compaction concepts and equipment; project and machine application require the applicable documents.",
+  "download_filename": "cat-guide-asphalt-compaction.pdf",
+  "source_url": "https://www.empire-cat.com/sites/default/files/products/documents/CM20200908-edfb5-3a910.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 19162603,
+  "original_sha256": "9ff49db56a56be846cb09550cee315e5d9c68f3d08978136c5f0c94f174df163",
+  "original_pages": 152,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "GUIDE TO ASPHALT COMPACTION\nGUIDE TO ASPHALT COMPACTION\nCAT® PAVING PRODUCTS\n",
+    "last_page": ""
+  },
+  "parts": [
+    {
+      "file": "sources/guide-asphalt-compaction/p0001-0025.pdf",
+      "text": "text/guide-asphalt-compaction/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 2756258,
+      "sha256": "dd8e5a102329a96c3d3d9d42736ca3a794d3e4627d897fe200d9540ab9fd03b2",
+      "text_sha256": "abc345c6490e831ebd5273a95f7d3e06da6be5f8120dee1611614a7f5949b5d3",
+      "empty_text_source_pages": [
+        2,
+        3,
+        4,
+        8,
+        10,
+        16
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0026-0050.pdf",
+      "text": "text/guide-asphalt-compaction/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 2901469,
+      "sha256": "28df22b1f988cca48ec642d68daab38b6efd5ef1f955de80d4190c07d2fd075a",
+      "text_sha256": "e2a0b16fc9b2a91ecd7bdc6357cd37250db3d445b12a80607a6164f7dc98afc6",
+      "empty_text_source_pages": [
+        32
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0051-0075.pdf",
+      "text": "text/guide-asphalt-compaction/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 1931193,
+      "sha256": "fb22c15e25d3ed00afd82e558561689870622a0b41f36da8981ee64b46c47260",
+      "text_sha256": "64abef154b708fd408151657c33f5d1cc20a5e327461b04fb8d6bc91f619c23b",
+      "empty_text_source_pages": [
+        54
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0076-0100.pdf",
+      "text": "text/guide-asphalt-compaction/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 1860519,
+      "sha256": "4b33569791fc7a3d0f98343c301751149d76a2ffa163f68f135c1ae59a33d679",
+      "text_sha256": "4702cd782835eab2079bafea621d12003572791a7991f8350dadf3cfe57a6ca3",
+      "empty_text_source_pages": [
+        82,
+        100
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0101-0125.pdf",
+      "text": "text/guide-asphalt-compaction/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 2794002,
+      "sha256": "1bfb5cd271920dcf2f9830910debd94108a7c7a830c9e9b1a98d60297ba238d6",
+      "text_sha256": "f7b7f26b255c2f70ce861eb36f0592d0da67b3a38be3a580ae32b24f5047d3b2",
+      "empty_text_source_pages": [
+        120
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0126-0150.pdf",
+      "text": "text/guide-asphalt-compaction/p0126-0150.txt",
+      "start": 126,
+      "end": 150,
+      "pages": 25,
+      "bytes": 1196694,
+      "sha256": "05fcef221117fbb34849e4031df01ea7e936d489f00022221373e629d9c29155",
+      "text_sha256": "15978ee670bce255dc1caf85c02bf473805320eab74dc8c63e5d0ac1f1ab575e",
+      "empty_text_source_pages": [
+        147,
+        148,
+        149,
+        150
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-asphalt-compaction/p0151-0152.pdf",
+      "text": "text/guide-asphalt-compaction/p0151-0152.txt",
+      "start": 151,
+      "end": 152,
+      "pages": 2,
+      "bytes": 376009,
+      "sha256": "5356fb1f9abe3e7f70f335fe927916e71b43425da66f9b237f2fd8c6f0858568",
+      "text_sha256": "c324b03c932ddb36794f59fdf802b386bcee0b438659d96559f685ca0eb56f1b",
+      "empty_text_source_pages": [
+        151,
+        152
+      ],
+      "original_bytes_preserved": false
+    }
+  ]
+}

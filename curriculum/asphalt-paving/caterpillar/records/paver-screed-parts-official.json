@@ -1,0 +1,75 @@
+{
+  "id": "CAT-07",
+  "slug": "paver-screed-parts-official",
+  "title": "Pavers and Screeds Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": "QEXQ3132-02 (08/2024)",
+  "publication_year": 2024,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+  "download_filename": "cat-paver-screed-parts-official.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20211122-94720-72368",
+  "accessed": "2026-10-30",
+  "original_bytes": 9356381,
+  "original_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+  "original_pages": 88,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "PAVERS AND SCREEDS\nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+    "last_page": "QEXQ3132-02 (08/2024)\nReplaces QEXQ2832-01\n© 2024 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity used \nherein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+  },
+  "parts": [
+    {
+      "file": "sources/paver-screed-parts-official/p0001-0025.pdf",
+      "text": "text/paver-screed-parts-official/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 2739408,
+      "sha256": "3fa24bc1a21be0e39e64d4dc7c2d5dc3642097229bd9495e24ca2192d6c36d53",
+      "text_sha256": "aa476a9bac6e320b0cc458a6025c9eb4d8190bc37b02ae681188afa0f396f18b",
+      "empty_text_source_pages": [
+        2
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/paver-screed-parts-official/p0026-0050.pdf",
+      "text": "text/paver-screed-parts-official/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 2286812,
+      "sha256": "79f5493fac786163af9624a414f2654aa4926b953cf00cf4cd6ca24f600fffaf",
+      "text_sha256": "214b68d7ce92cfacfbe7b976bfd93133f855cc2493e3bb9941760c1088015169",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/paver-screed-parts-official/p0051-0075.pdf",
+      "text": "text/paver-screed-parts-official/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 1082760,
+      "sha256": "19dff9319a613b633f281e18bf6f5e8aac5e2b8db2138faa34db52e5fdfc733f",
+      "text_sha256": "28d563cd6f8ec6a8d8706bc1c2eaecd862592c4103e873c293215bc22b9e5b59",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/paver-screed-parts-official/p0076-0088.pdf",
+      "text": "text/paver-screed-parts-official/p0076-0088.txt",
+      "start": 76,
+      "end": 88,
+      "pages": 13,
+      "bytes": 658454,
+      "sha256": "5ff1d6a550b51e96e47dde01d3a78b0b0f619c6948e163264239551f4ce7e87c",
+      "text_sha256": "4e1b23932283f787f122f623b3189cd52071381bb4580a535ccabdfdc4808a43",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

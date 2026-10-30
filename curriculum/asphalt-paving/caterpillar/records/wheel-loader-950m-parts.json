@@ -1,0 +1,37 @@
+{
+  "id": "CAT-17",
+  "slug": "wheel-loader-950m-parts",
+  "title": "950M/962M Medium Wheel Loader — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2022,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+  "download_filename": "cat-wheel-loader-950m-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220214-e3852-481b5",
+  "accessed": "2026-10-30",
+  "original_bytes": 759093,
+  "original_sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+  "original_pages": 11,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "950M/962M \nMEDIUM WHEEL LOADER  \nPARTS REFERENCE GUIDE\nSERIAL NUMBER PREFIX: EMB, KSA, FTR, NHL, J1S, XCJ\n                                                 EJB, RKH, F2T, K88, J2S, JYD\n",
+    "last_page": "To buy Cat parts online, visit Parts.cat.com \nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity and Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly! These losses can also increase your fuel consumption \nand operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \n* Visit https://www.cat.com/filtersandfluids for more details\nPEBJ0919  \n(Aus, EAME, N Am)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+  },
+  "parts": [
+    {
+      "file": "sources/wheel-loader-950m-parts/p0001-0011.pdf",
+      "text": "text/wheel-loader-950m-parts/p0001-0011.txt",
+      "start": 1,
+      "end": 11,
+      "pages": 11,
+      "bytes": 759093,
+      "sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+      "text_sha256": "86597d3dfdb773dca1fccc5349218250b101551204397caaf2418e5b134a1d7d",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

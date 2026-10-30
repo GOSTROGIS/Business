@@ -1,0 +1,63 @@
+{
+  "id": "CAT-08",
+  "slug": "cold-planer-parts-official",
+  "title": "Cold Planer Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": "QEXQ3131-01 (05/2026)",
+  "publication_year": 2026,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+  "download_filename": "cat-cold-planer-parts-official.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20221214-90d57-db16c",
+  "accessed": "2026-10-30",
+  "original_bytes": 8505801,
+  "original_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+  "original_pages": 52,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "COLD PLANER \nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+    "last_page": "QEXQ3131-01 (05/2026)\nReplaces QEXQ2832\n© 2026 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity \nused herein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+  },
+  "parts": [
+    {
+      "file": "sources/cold-planer-parts-official/p0001-0025.pdf",
+      "text": "text/cold-planer-parts-official/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 3268052,
+      "sha256": "4849cc5bc3bfd29629f3479d494b99add5e909bf8184840afbfd2a915731255c",
+      "text_sha256": "310013cd838c0e79eba9700e88019836e6d17e7272357b668eaca3abe327b3ea",
+      "empty_text_source_pages": [
+        2
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cold-planer-parts-official/p0026-0050.pdf",
+      "text": "text/cold-planer-parts-official/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 2004114,
+      "sha256": "f857ef683b86a99514399a69e1c0df4e9c4c5f8edb1a03c24e3ffd9549eb237e",
+      "text_sha256": "2fd839acbd1ae5ee603720b0683f97d605721215d26606ade017c0912780b090",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/cold-planer-parts-official/p0051-0052.pdf",
+      "text": "text/cold-planer-parts-official/p0051-0052.txt",
+      "start": 51,
+      "end": 52,
+      "pages": 2,
+      "bytes": 117675,
+      "sha256": "f511957713f583acb3cef30b9218c42bde5909620bdb2aa840d6f4d585fe71c0",
+      "text_sha256": "71023446a8262df14c63b314e7c591dab4ad2e59505df6f7f777902a05b74922",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

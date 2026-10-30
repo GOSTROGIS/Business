@@ -1,0 +1,51 @@
+{
+  "id": "CAT-09",
+  "slug": "road-reclaimer-parts",
+  "title": "Reclaimer / Stabilizer Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": "QEXQ3133-01 (11/2024)",
+  "publication_year": 2024,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "RM400, RM500, RM500B, RM600 and RM800; use each part/model table.",
+  "download_filename": "cat-road-reclaimer-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20231113-23541-e7af2",
+  "accessed": "2026-10-30",
+  "original_bytes": 7614386,
+  "original_sha256": "697c30f88a939ac6e8a76b75f6f4a9618933f4527b225bfcfe09f3c47d40cee4",
+  "original_pages": 48,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "RECLAIMER / STABILIZER \nPARTS REFERENCE GUIDE\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n",
+    "last_page": "QEXQ3133-01 (11/2024)\nReplaces QEXQ3133\n© 2024 Caterpillar.  All Rights Reserved.  CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar \nCorporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress as well as corporate and product identity \nused herein, are trademarks of Caterpillar and may not be used without permission.\nVisionLink is a trademark of Caterpillar Inc. , registered in the United States and in other countries.\nSHOP ONLINE AT WWW.PARTS.CAT.COM OR CONTACT YOUR LOCAL CAT DEALER\n"
+  },
+  "parts": [
+    {
+      "file": "sources/road-reclaimer-parts/p0001-0025.pdf",
+      "text": "text/road-reclaimer-parts/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 2834634,
+      "sha256": "c35cf463daac33bd2c4f6c014ea58dc79567d933fc7ebc66a494506f9dd859f0",
+      "text_sha256": "51dfbbeef3c1215baaa1584a7c5045a0c9f52e9c5fde983ff8d82e10de348831",
+      "empty_text_source_pages": [
+        2
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/road-reclaimer-parts/p0026-0048.pdf",
+      "text": "text/road-reclaimer-parts/p0026-0048.txt",
+      "start": 26,
+      "end": 48,
+      "pages": 23,
+      "bytes": 2191425,
+      "sha256": "a66ec0d104e5217e05d33ae222c4daa76f5d8d022116e8ff3eeac37bdeb5afd4",
+      "text_sha256": "11914601f62078d5c041ec4cf67754c31ce90a794d3a737ab28ef669b51e9c49",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

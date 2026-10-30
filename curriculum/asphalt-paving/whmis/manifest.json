@@ -1,0 +1,341 @@
+{
+  "accessed": "2026-10-30",
+  "documents": [
+    {
+      "id": "WHMIS-PICTOGRAMS",
+      "title": "WHMIS — Pictograms",
+      "publisher": "Canadian Centre for Occupational Health and Safety",
+      "year": 2026,
+      "revision_date": "2026-05-28",
+      "role": "Current CCOHS fact sheet reflecting the December 2022 Hazardous Products Regulations amendments.",
+      "file": "sources/ccohs-pictograms.pdf",
+      "source_url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/CCOHS_pictograms.pdf",
+      "bytes": 249716,
+      "sha256": "8bf7192da57a59749f15dc365015dcd9bdd18a595162edbf223756fb4b4a5546",
+      "pages": 7
+    },
+    {
+      "id": "WHMIS-GENERAL",
+      "title": "WHMIS — General",
+      "publisher": "Canadian Centre for Occupational Health and Safety",
+      "year": 2026,
+      "revision_date": "2026-05-28",
+      "role": "Current CCOHS fact sheet reflecting the December 2022 Hazardous Products Regulations amendments.",
+      "file": "sources/ccohs-general.pdf",
+      "source_url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/CCOHS_general.pdf",
+      "bytes": 224834,
+      "sha256": "74af791a2e52388a1157953617aaabe3b23d207dfeed419190cecdd3f002025a",
+      "pages": 9
+    },
+    {
+      "id": "WHMIS-LABELS",
+      "title": "WHMIS — Labels",
+      "publisher": "Canadian Centre for Occupational Health and Safety",
+      "year": 2026,
+      "revision_date": "2026-05-28",
+      "role": "Current CCOHS fact sheet reflecting the December 2022 Hazardous Products Regulations amendments.",
+      "file": "sources/ccohs-labels.pdf",
+      "source_url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/CCOHS_labels.pdf",
+      "bytes": 270694,
+      "sha256": "07dc68a882d81a39720fdcf3a84b2961f2d84e704c1f4f224263cdec063cc925",
+      "pages": 11
+    },
+    {
+      "id": "WHMIS-SDS",
+      "title": "WHMIS — Safety Data Sheet (SDS)",
+      "publisher": "Canadian Centre for Occupational Health and Safety",
+      "year": 2026,
+      "revision_date": "2026-05-28",
+      "role": "Current CCOHS fact sheet reflecting the December 2022 Hazardous Products Regulations amendments.",
+      "file": "sources/ccohs-sds.pdf",
+      "source_url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/CCOHS_sds.pdf",
+      "bytes": 256585,
+      "sha256": "aa94dfe4de7f47dcdd83c84e8969259221c0ed2bebf537f914bb41df7a6a530e",
+      "pages": 13
+    },
+    {
+      "id": "WHMIS-TRAINING",
+      "title": "WHMIS — Education and Training",
+      "publisher": "Canadian Centre for Occupational Health and Safety",
+      "year": 2026,
+      "revision_date": "2026-05-28",
+      "role": "Current CCOHS fact sheet reflecting the December 2022 Hazardous Products Regulations amendments.",
+      "file": "sources/ccohs-training.pdf",
+      "source_url": "https://www.ccohs.ca/oshanswers/chemicals/whmis_ghs/CCOHS_education_training.pdf",
+      "bytes": 165926,
+      "sha256": "442558ea36da44ba9dac5b71aff3867d435229a7aac739cd8894af0fb39f412c",
+      "pages": 6
+    },
+    {
+      "id": "BC-R04-19",
+      "title": "WHMIS 2015: At Work",
+      "publisher": "WorkSafeBC",
+      "year": 2019,
+      "revision": "R04/19",
+      "role": "Historical B.C. explanatory book. Predates the December 2022 amendments; use the current CCOHS sheets and current B.C. requirements for changes.",
+      "file": "sources/worksafebc-whmis-at-work.pdf",
+      "source_url": "https://www.worksafebc.com/resources/health-safety/whmis/whmis-work-2015?lang=en&direct",
+      "bytes": 2407245,
+      "sha256": "c4cbc293f59b6b5bbf30e24df467d5ff7df87d2054f936263c8b5421a0b743bc",
+      "pages": 104
+    },
+    {
+      "id": "BC-R03-19",
+      "title": "WHMIS 2015: The Basics",
+      "publisher": "WorkSafeBC",
+      "year": 2019,
+      "revision": "R03/19",
+      "role": "Historical B.C. explanatory book. Predates the December 2022 amendments; use the current CCOHS sheets and current B.C. requirements for changes.",
+      "file": "sources/worksafebc-whmis-basics.pdf",
+      "source_url": "https://www.worksafebc.com/resources/health-safety/whmis/whmis-basics-2015?lang=en&direct",
+      "bytes": 1243736,
+      "sha256": "8fcbecccc004741421f580e98850e6e78901c7e178038d0aa9ba603eda59c6e0",
+      "pages": 68
+    }
+  ],
+  "pictogram_kit": {
+    "source_url": "https://www.ccohs.ca/images/whmis2015/for_download/all_whmis2015_pictograms.zip",
+    "file": "sources/ccohs-official-pictograms.zip",
+    "sha256": "c90054f2e1a8b7b45b96201d1d637acc3130377beac4d8795f590932a985d948",
+    "bytes": 1445127,
+    "members_retained": "Original ZIP unchanged; ten EPS and ten PNG files extracted without the ZIP metadata folders."
+  },
+  "pictograms": [
+    {
+      "id": "flame_circle",
+      "name": "Flame over circle",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "flame_circle.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/flame_circle.png",
+          "sha256": "5431a8c6aff66119dcacf90f253523e7a71a4430aa28475bd52eb6ef3ee92546"
+        },
+        "eps": {
+          "path": "assets/pictograms/flame_circle.eps",
+          "sha256": "3cdbe9dc1c2fdc55e19e3869a4742fe0078c8d39d33c3fccf9b33bb6314547bb"
+        },
+        "svg": {
+          "path": "assets/pictograms/flame_circle.svg",
+          "sha256": "2aee97396b8e92bf64fc5ff0f0d748c5052394b61fb948316837ac4143ad310c"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "flame",
+      "name": "Flame",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "flame.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/flame.png",
+          "sha256": "1a227810e24420c6a24d90dc37abd77170cb0cc1b06ccff7e11386ddc744f17c"
+        },
+        "eps": {
+          "path": "assets/pictograms/flame.eps",
+          "sha256": "ceb842bb000935f7c7aeeb35402dffba332c79f82f7ff9139cd29ac87ef992dd"
+        },
+        "svg": {
+          "path": "assets/pictograms/flame.svg",
+          "sha256": "6915cdc1d8de4b9f01f8d0919f3107c82b036d8b632bd08cbea132193947df5c"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "exploding_bomb",
+      "name": "Exploding bomb",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "exploding_bomb.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/exploding_bomb.png",
+          "sha256": "821b9aa570d9337058ef0c72f846389d4a614b528f469515f49b11aa95cf988e"
+        },
+        "eps": {
+          "path": "assets/pictograms/exploding_bomb.eps",
+          "sha256": "0e68adf171ec2f15e25a22ac5c28c5c4fb73a8760d7c4feca20b3e42caf4b413"
+        },
+        "svg": {
+          "path": "assets/pictograms/exploding_bomb.svg",
+          "sha256": "0b524906b31715e44e45e25eabbcf3c0a98b4b641fc871e12d4cd62dd94597b4"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "gas_cylinder",
+      "name": "Gas cylinder",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "gas_cylinder.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/gas_cylinder.png",
+          "sha256": "a854d88dda48c5e0cffac2eb11cd4b867a3a5cfb039a7a71181660b5185cfb91"
+        },
+        "eps": {
+          "path": "assets/pictograms/gas_cylinder.eps",
+          "sha256": "d8d0ee1bacab3cb2609f4ecb0e33bf2c6b9fb0eb6db0c092a6df01b6393a54ee"
+        },
+        "svg": {
+          "path": "assets/pictograms/gas_cylinder.svg",
+          "sha256": "d30d4b1d7c63311ed957a5c1eab0cffcc4492f77774fff0d934259503d7ac5af"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "skull_crossbones",
+      "name": "Skull and crossbones",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "skull_crossbones.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/skull_crossbones.png",
+          "sha256": "5fb5861112da20edd7a9b52656ce8078316cb768d6b223d9f37466e695a2d016"
+        },
+        "eps": {
+          "path": "assets/pictograms/skull_crossbones.eps",
+          "sha256": "f5cfe97b401b70097af1dd48f297d3d5254feb475c47c6ac495e45b97d9c29a9"
+        },
+        "svg": {
+          "path": "assets/pictograms/skull_crossbones.svg",
+          "sha256": "5bb1545872196e4b37111fe6c549c9cc8eba3117620a9be0b88036ffe71ec2ff"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "corrosion",
+      "name": "Corrosion",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "corrosion.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/corrosion.png",
+          "sha256": "feb027a2231f7e94273b156b86d0ff7c904559d12d39713d06a8481d1d80632d"
+        },
+        "eps": {
+          "path": "assets/pictograms/corrosion.eps",
+          "sha256": "e116c68f9547c5f25605bc0eb2ea5540108fb3fd59eb83a494a71eba1253f47c"
+        },
+        "svg": {
+          "path": "assets/pictograms/corrosion.svg",
+          "sha256": "1a959dc4bdb15bc4122f80381593fd750e93d3ed0272fdcbda9e458882c11d16"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "exclamation_mark",
+      "name": "Exclamation mark",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "exclamation_mark.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/exclamation_mark.png",
+          "sha256": "c96ce2a9e72f93a2c8a7c3bfd5c7edf7574750f0f2cd7ded4586b60a62d62504"
+        },
+        "eps": {
+          "path": "assets/pictograms/exclamation_mark.eps",
+          "sha256": "cd1ee79d0054e975e8f4a0c9356940e5cf2584a42fb9492ca0e3980db0635e9c"
+        },
+        "svg": {
+          "path": "assets/pictograms/exclamation_mark.svg",
+          "sha256": "51d8112ffd9ef6a4f77bddbe762c799b42b81c90798228f4c9bd945c7a390eeb"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "health_hazard",
+      "name": "Health hazard",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "health_hazard.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/health_hazard.png",
+          "sha256": "a8692e3906c0309580779d136e7477c7926973d4a377bcfb8e5f313b4a60ffb3"
+        },
+        "eps": {
+          "path": "assets/pictograms/health_hazard.eps",
+          "sha256": "329020440d683dd8aa7f67cbeb42d36f6f4a817b3a002f381febc05dfc11b103"
+        },
+        "svg": {
+          "path": "assets/pictograms/health_hazard.svg",
+          "sha256": "bc6151419fd0a6356c1e9edcc357f249dea1f7fe71ef3f08cf3e8bf17ba9fe98"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "biohazardous",
+      "name": "Biohazardous infectious materials",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "biohazardous.eps",
+      "part_of_whmis_pictogram_set": true,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/biohazardous.png",
+          "sha256": "fad9d907aba34c34e66dfe4fea035bb0d03c146c1b1c6245b7602b9df3056a9c"
+        },
+        "eps": {
+          "path": "assets/pictograms/biohazardous.eps",
+          "sha256": "3a1372c55a63b6e21ea407ec3768d07f39f5942277c3fad7d538ff9c94e4db55"
+        },
+        "svg": {
+          "path": "assets/pictograms/biohazardous.svg",
+          "sha256": "3d024eee94b7d93ba9aaa5fa545615a585e205969d5769aa1c708ee36bd8d119"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "source_url": "https://www.ccohs.ca/WHMISpictograms.html",
+      "source_member": "environment.eps",
+      "part_of_whmis_pictogram_set": false,
+      "files": {
+        "png": {
+          "path": "assets/pictograms/environment.png",
+          "sha256": "32873788a465c8c3da42c13d4f908feebc66b2f0abb37f2fb4685f2cd57d13df"
+        },
+        "eps": {
+          "path": "assets/pictograms/environment.eps",
+          "sha256": "0ab45c6c6775cbfc017e71920e8cd6161c4ad86845236a8fb9703591ffb41adc"
+        },
+        "svg": {
+          "path": "assets/pictograms/environment.svg",
+          "sha256": "e4269d52aafd9ae7d1834287fe5d2868d8668e0323670a71bea84c6dbcc8eca3"
+        }
+      },
+      "processing": "PNG and EPS preserved byte for byte from official ZIP. SVG is a vector conversion through Ghostscript and pdftocairo; only accessible title/description added. No recolouring or redrawing."
+    }
+  ],
+  "machine_warning_figures": [
+    {
+      "document": "CAT-10",
+      "source_pdf_page": 9,
+      "file": "assets/cat-roller-safety-p09.png",
+      "sha256": "18d79b8c84921d60bbf1d8dc7a6d705c8ae2c38db97ccafeeef49a4a098f1f4a",
+      "processing": "Complete source page rendered at 160 dpi; no warning text cropped or altered."
+    },
+    {
+      "document": "CAT-10",
+      "source_pdf_page": 10,
+      "file": "assets/cat-roller-safety-p10.png",
+      "sha256": "2b6e42090d1260d4636c0033bc64be82ba28e5ad27d7f55687fb72112720b5fb",
+      "processing": "Complete source page rendered at 160 dpi; no warning text cropped or altered."
+    }
+  ]
+}

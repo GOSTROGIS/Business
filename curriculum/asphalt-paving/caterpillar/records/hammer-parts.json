@@ -1,0 +1,37 @@
+{
+  "id": "CAT-20",
+  "slug": "hammer-parts",
+  "title": "Cat B Model Hammers — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2022,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "B1, B2, B4, B6, B8, B9.",
+  "download_filename": "cat-hammer-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220930-56d95-7a8c7",
+  "accessed": "2026-10-30",
+  "original_bytes": 396473,
+  "original_sha256": "9dfb5a685382502ef67953db92d00721a1cc0a47cdfb869eb60fefdafcef5ee4",
+  "original_pages": 7,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "CAT\n® B MODEL HAMMERS \nPARTS REFERENCE GUIDE\nMODELS: B1, B2, B4, B6, B8, B9\n",
+    "last_page": "To buy Cat parts online, visit Parts.cat.com.\n \n \nPEDJ1057-00\n(Global)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+  },
+  "parts": [
+    {
+      "file": "sources/hammer-parts/p0001-0007.pdf",
+      "text": "text/hammer-parts/p0001-0007.txt",
+      "start": 1,
+      "end": 7,
+      "pages": 7,
+      "bytes": 396473,
+      "sha256": "9dfb5a685382502ef67953db92d00721a1cc0a47cdfb869eb60fefdafcef5ee4",
+      "text_sha256": "de1e8370a5c63a83a850be0600f77a10c2da402f8d225013a4f682efa8c85cd9",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

@@ -125,3 +125,11 @@ Before marking an integration complete, verify the source-to-term and source-to-
 The access gap is closed. The remaining work is instructional depth and delivery evidence: author the later 62 competency units against their exact learning tasks; check technical values and machine procedures with qualified instructors; build practical assessment records; and proofread OCR passages as they enter lessons. Preserve the scan beside each transcription so tables, notation and diagrams remain inspectable. The current six conceptual redraws deliberately avoid unsupported numeric design or operating settings.
 
 The next useful visual work is selected labelled diagrams for aggregate grading, moisture/drainage, quality records and rehabilitation routes, chosen alongside the corresponding complete lessons and keys. Add each drawing only after checking its source page and teaching purpose. Track actual learner misunderstandings and access needs during a local pilot before revising examples or timings.
+
+## CAT parts and WHMIS additions · 30 October 2026
+
+The new [CAT collection](caterpillar/README.md) closes the shortage of publicly available Cat application and parts-reference material: 22 publications, 1,883 pages and 88 native PDF parts. The 20-figure atlas names 89 components and retains original callouts, readable source images, model scope and APA-style source credits. Ten complete practice tasks and an answer guide teach identification and source checking across all nine skills.
+
+The [WHMIS collection](whmis/README.md) supplies ten official pictograms in SVG/PNG/EPS, five current CCOHS sheets, two clearly dated WorkSafeBC books, complete CAT machine-warning pages and six tasks with answers. Chemical pictograms and equipment warnings are taught in their separate contexts. No official safety symbol was redesigned for branding.
+
+Remaining gaps: complete serial-specific parts catalogues for the actual fleet; exact-machine OMMs beyond the two acquired roller families; the six named course manuals and historical CDs; full later technical units, qualified review and practical assessment. Current machine identities have not been supplied. The [coverage record](caterpillar/coverage.md) gives the precise next evidence, and the competency register now links the new preparation without claiming those full competencies are complete.

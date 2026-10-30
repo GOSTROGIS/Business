@@ -1,6 +1,6 @@
 # Whole-program competency status
 
-68 competencies across Lines A–L. Authoring status is separate from technical approval and learner qualification. Line A classroom units are authored;62later competencies do not have complete technical units here. F2/F3 receive a foundation bridge only. All qualified reviews and workplace assessments remain unclaimed.
+68 competencies across Lines A–L. Authoring status is separate from technical approval and learner qualification. Line A classroom units are authored; 62 later competencies do not have complete technical units here. F2/F3 receive a foundation bridge only. All qualified reviews and workplace assessments remain unclaimed.
 
 | Code | Competency | Outline PDF / printed page | Authoring status | Destination |
 |---|---|---|---|---|
@@ -10,7 +10,7 @@
 | A4 | Describe industry expectations of/for workers | 25 / 23 | Classroom unit authored | [Classroom work](04-workers.md) |
 | A5 | Describe basic road and highway profiles | 26 / 24 | Classroom unit authored | [Classroom work](05-road-documents.md) |
 | A6 | Describe future paving/construction trends | 27 / 25 | Classroom unit authored | [Classroom work](06-trends.md) |
-| B1 | Safety orientation | 28 / 26 | Not authored as a technical unit | Development pending |
+| B1 | Safety orientation | 28 / 26 | WHMIS/symbol classroom preparation; full technical unit pending | [WHMIS reference and tasks](../whmis/README.md) |
 | B2 | Describe working safely around haul trucks | 30 / 28 | Not authored as a technical unit | Development pending |
 | B3 | Describe safety working around and operating power brooms | 31 / 29 | Not authored as a technical unit | Development pending |
 | B4 | Describe safety working around and operating air hammers | 32 / 30 | Not authored as a technical unit | Development pending |
@@ -49,7 +49,7 @@
 | H7 | Follow shut down procedures | 69 / 67 | Not authored as a technical unit | Development pending |
 | H8 | Transport milling and reclaiming equipment | 70 / 68 | Not authored as a technical unit | Development pending |
 | I1 | Describe asphalt placement process | 71 / 69 | Not authored as a technical unit | Development pending |
-| I2 | Describe paving machine equipment and attachments | 72 / 70 | Not authored as a technical unit | Development pending |
+| I2 | Describe paving machine equipment and attachments | 72 / 70 | Component-identification preparation; full technical unit pending | [CAT parts atlas and tasks](../caterpillar/README.md) |
 | I3 | Apply paver work safety procedures | 73 / 71 | Not authored as a technical unit | Development pending |
 | I4 | Asphalt paver operator roles and responsibilities | 75 / 73 | Not authored as a technical unit | Development pending |
 | I5 | Perform paving machine maintenance | 76 / 74 | Not authored as a technical unit | Development pending |
@@ -57,7 +57,7 @@
 | I7 | Operate asphalt paver | 80 / 78 | Not authored as a technical unit | Development pending |
 | I8 | Follow shut down procedures | 82 / 80 | Not authored as a technical unit | Development pending |
 | I9 | Transport paver | 83 / 81 | Not authored as a technical unit | Development pending |
-| J1 | Describe paving screed and attachments | 84 / 82 | Not authored as a technical unit | Development pending |
+| J1 | Describe paving screed and attachments | 84 / 82 | Screed-identification preparation; full technical unit pending | [CAT screed figures and tasks](../caterpillar/parts-atlas.html#screed-plates) |
 | J2 | Apply screed work safety procedures | 85 / 83 | Not authored as a technical unit | Development pending |
 | J3 | Describe asphalt screed operator roles and responsibilities | 87 / 85 | Not authored as a technical unit | Development pending |
 | J4 | Perform screed maintenance | 88 / 86 | Not authored as a technical unit | Development pending |
@@ -66,7 +66,7 @@
 | K1 | Describe raker roles and responsibilities | 91 / 89 | Not authored as a technical unit | Development pending |
 | K2 | Apply raking safety procedures | 92 / 90 | Not authored as a technical unit | Development pending |
 | K3 | Place asphalt hot mix | 94 / 92 | Not authored as a technical unit | Development pending |
-| L1 | Describe compaction equipment | 95 / 93 | Not authored as a technical unit | Development pending |
+| L1 | Describe compaction equipment | 95 / 93 | Roller-identification preparation; full technical unit pending | [CAT roller controls and tasks](../caterpillar/parts-atlas.html#roller-controls) |
 | L2 | Apply compaction work safety procedures | 96 / 94 | Not authored as a technical unit | Development pending |
 | L3 | Describe asphalt Compaction Roller operator roles and responsibilities | 98 / 96 | Not authored as a technical unit | Development pending |
 | L4 | Perform Compaction Roller maintenance | 99 / 97 | Not authored as a technical unit | Development pending |

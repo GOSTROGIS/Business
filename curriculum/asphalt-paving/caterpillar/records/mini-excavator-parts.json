@@ -1,0 +1,37 @@
+{
+  "id": "CAT-18",
+  "slug": "mini-excavator-parts",
+  "title": "Mini Excavator — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2019,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Cat 300–310 family; exact model and serial-prefix tables apply.",
+  "download_filename": "cat-mini-excavator-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200212-e29fb-cd493",
+  "accessed": "2026-10-30",
+  "original_bytes": 1995381,
+  "original_sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+  "original_pages": 11,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "MINI EXCAVATOR \nPARTS REFERENCE GUIDE\n",
+    "last_page": "PEBJ0150-03\nDecember 2019\n© 2019 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET'S DO THE WORK, their respective logos, \"Caterpillar Yellow,\" the \"Power Edge\" and Cat \n\"Modern Hex\" trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nMachine Model\nSales Model\nSerial # Prefix\nPrimary Auxiliary\nSecondary Auxiliary\n300.9D\nLJM, LJ2\n374-0430 (male)\n374-0428 (female)\n–\n300.9D VPS\nTGP, DW2\n301.5\nMNH\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.6\nMY6\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.7 CR\nJH7\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n301.8\nH8X\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n302 CR\nRHM\n153-2996 (male)\n153-2997 (female)\n152-8181 (male)\n204-5098 (female) \n302.2D\n302.4D\n302.7D CR\nLJG, LJ5\nLJN, LJ6\nLJL, LJ7\n397-2571 (male)\n397-2572 (female)\n152-8181 (male)\n204-5098 (female)\n303E CR\nHHM, SGE\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n303.5E CR\n303.5E2 CR\n304E2 CR\n304E2 CR XTC\nJX2, RKY\nBG8, JWY\nCJ2, ME4\nFXT\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n305E2 CR,\n305.5E2 CR\nDJX, H5M\nEJX, CR5\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n305.5E2 FB\n306E2 FB\nWE2\nE2W\n153-2995 (male)\n153-2994 (female)\n – \n306\n6G6\n153-2995 (male)\n153-2994 (female)\n153-2996 (male)\n153-2997 (female)\n307.5\nGW7\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n308 CR\nGX8\nISJ machines are not shipped \nwith Quick Disconnects\nISJ machines are not shipped \nwith Quick Disconnects\n308 SR\nGK8\nISJ machines are not shipped \nwith Quick Disconnects\nISJ machines are not shipped \nwith Quick Disconnects\n308 CR\nGG8, GW8\n 153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n308.5\nGZ8\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n309 CR\nGG9, GW9\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\n310\nGWT\n153-2996 (male)\n153-2997 (female)\n153-2995 (male)\n153-2994 (female)\nHYDRAULIC QUICK DISCONNECTS\n"
+  },
+  "parts": [
+    {
+      "file": "sources/mini-excavator-parts/p0001-0011.pdf",
+      "text": "text/mini-excavator-parts/p0001-0011.txt",
+      "start": 1,
+      "end": 11,
+      "pages": 11,
+      "bytes": 1995381,
+      "sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+      "text_sha256": "0140725def94064409efe0ee35a031f3072d75aa79f83da658f028c969f48d69",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

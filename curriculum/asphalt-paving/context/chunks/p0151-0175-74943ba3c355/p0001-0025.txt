@@ -1,0 +1,1415 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0151-0175.pdf
+SOURCE SHA-256: 74943ba3c355a8ff947c683dcd06a33cf30e5979005cd423e78682ba4a87a2ce
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 151 ===
+GRADE & SLOPE
+
+
+
+
+User Tip: When using grade sensors with detachable temperature bails, never use a sensor without the
+temperature bail. Be sure the temperature bail is in good condition and attaches firmly to the grade sensor.
+It is a good idea to have some spare temperature bails in the storage box for the grade sensors.
+
+
+
+
+Material spilling over the hopper sides is a common
+way that the target area for the grade sensor is
+contaminated. The grade sensor is an extremely
+sensitive measuring device and will detect even
+small aggregate particles. Find a way to prevent
+spills. Do not continue to operate with grade
+control unless a suitable grade target is consistently
+available.
+
+Other things that may interfere with the sensor
+target area include laborers who are working
+around the paver, debris that may be knocked from
+overhanging trees, and spills from haul units as they
+pull away from the paver.
+
+The height of the grade sensors above the grade
+reference should be checked while setting up the
+                                                          Spills over the hopper sides may end up in the target area
+grade control system. The farther the grade sensor
+                                                          of the grade sensor.
+is from the reference, the larger the target area
+becomes.
+
+
+
+
+Cat grade sensors are functional from 20-100 cm
+(8-39") above the target grade reference. If the
+distance from the target is outside that range, the
+grade control system will not function. Caterpillar
+recommends positioning grade sensors, so they are
+40-46 cm (16-18") above the target.
+
+Note: The functional range of other types of
+grade sensors may be different. Always follow
+manufacturers’ guidelines. However, the 40-46 cm
+(16-18") height recommendation is usually applicable
+to other types of grade sensors.
+
+
+
+
+                                                          The recommended height above the grade reference is 40
+                                                          to 46 cm (16-18").
+
+
+
+
+User Tip: When a sonic averaging ski is installed, multiple grade sensors will be on the ski. Try to set all
+sensors within the recommended height range. The sensors do not have to be exactly the same height.
+However, try to install the ski, so it is parallel to the grade and the sensors do not have significant height
+differential.
+
+
+
+
+                                                 | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                         151
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 152 ===
+GRADE & SLOPE
+
+
+
+
+       Caterpillar also recommends that the grade sensors      screed is under grade control and the other side is
+       be positioned as close to the edge of the paving        under slope control. The sensor can be positioned
+       width as possible. The location of the sensor           just outside the paving width or just inside the
+       becomes the control point for all thickness changes.    paving width, depending on the paving application
+       It is especially important to position the grade        and the suitability of the grade reference.
+       sensor close to the paving width, if one side of the
+
+
+
+
+       [ MECHANICAL GRADE SENSORS ]
+       Mechanical grade sensors, also referred to as
+       contact-type sensors, touch the grade reference.
+       Mechanical grade sensors are not subject to
+       variations related to air temperature changes.
+       Mechanical sensors are often installed on pavers
+       that vent the engine cooling system on the side of
+       the paver or when there are very windy conditions.
+
+       A mechanical sensor uses a rotary sensor. An arm
+       extends from the rotary sensor. The arm can have
+       a matching shoe that rides on the grade that is the
+       reference or the arm can have a wand that contacts
+       a stringline. The arm should run at about a 45
+       degree angle, always trailing behind the sensor. As
+       the matching shoe or wand traces deviations in the
+       grade reference, the rotary sensor detects changes      Cat contact-type grade sensor equipped with joint-
+       in the angle of the trailing arm. The changes in the    matching shoe.
+       angle of the sensor arm are converted to distances
+       and these measurements are sent to the control
+       panel or control module.
+
+
+
+
+       The pressure on the wand is adjustable. Set the
+       arm pressure so the wand stays in contact with
+       the string, but does not deflect the string. The Cat
+       rotary contact sensor can be set up to trace the top
+       of the string or can be set up to ride underneath the
+       string.
+
+
+
+
+                                                               The mechanical sensor can be equipped with a wand that
+                                                               traces a stringline over an averaging ski.
+
+
+
+
+152    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 153 ===
+GRADE & SLOPE
+
+
+
+
+[ SLOPE SENSOR ]
+The slope sensor is installed on a transverse beam
+that spans the width of the screed directly above
+the front of the main screed.
+
+The slope sensor functions like a precision
+carpenter’s level. It is a sealed sensor that remains
+on the paver and does not need to be removed and
+stored at the end of the shift. The angle sensor
+reads the slope of the screed and sends that
+reading to the control panel or control module. The
+slope sensor allows the crew to maintain slope from
+right to left or from left to right. Slope is measured
+in percent. Up to 10 percent positive or negative
+slope is possible when using automatic slope
+control.
+
+The slope sensor is connected to the left and right
+control panels or display units. Only one side of the
+                                                         The Cat slope sensor is an electronic slope sensor.
+screed can be under slope control at one time.
+
+Calibrate electronic slope sensors by using a
+mechanical or electronic level to measure the slope
+of the grade that the screed is resting on. Then, edit
+the slope value displayed on the control panel or
+display unit.
+
+
+
+
+Note: Some systems still use hydraulic angle sensors with a pendulum suspended in oil. Calibrate hydraulic
+sensors according to the manufacturer’s guidelines.
+
+
+
+
+                                                | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                  153
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 154 ===
+GRADE & SLOPE
+
+
+
+
+       [ DISPLAY UNITS AND CONTROL PANELS ]
+       Cat Pavers can be equipped with different types of     operation and many of the visuals in this unit cover
+       grade and slope control systems. Some systems          the Cat Grade system on Cat F-Series Pavers.
+       use control panels that combine displays and control
+       modules into one device. The Cat Grade Control
+       system has separate displays and a separate control
+       module. Most of the information about system
+
+
+
+
+       Cat Grade Control on F-Series Paver.
+
+
+
+
+                                                              Note: Some Cat Pavers have grade and slope
+                                                              control that is installed at the factory. Those pavers
+                                                              use the screed control module for the grade and
+                                                              slope system. Other Cat Pavers have grade and
+                                                              slope systems that are installed by Cat dealers or by
+                                                              equipment users. Those pavers have a dedicated
+                                                              control module for grade and slope control.
+                                                              Always read and follow the guidelines contained
+                                                              in each grade and slope system’s Operation and
+                                                              Maintenance Manual.
+
+
+
+
+154    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 155 ===
+GRADE & SLOPE
+
+
+
+
+Home Menu screen on the Cat SE-Series screed control box display.
+
+
+When the key switch is in the ON position, the             An operator can select the grade and slope screen
+displays at the operator’s stations and on both sides      by depressing the button adjacent to the grade /
+of the screed will illuminate and show the Home            slope icon at the upper left of the display housing.
+Menu screen.
+
+
+
+
+The screed operator(s) can elect to work with single
+screen display or with dual screen display.
+
+
+                           grade control menu
+
+
+
+
+Grade Control display showing single screen mode for       In the Operator Settings menu, an operator can set single
+right side of the screed.                                  screen or dual screen display.
+
+
+To select the display mode touch the grade control
+menu and select operator settings. Select main
+screen and touch the 2D guidance screen mode.
+                                                         2 ill. – Jan 22nd, 2hr 30m
+                                                         2 ill. – Jan 23nd, 1hr
+
+
+
+
+                                                  | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                        155
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 156 ===
+GRADE & SLOPE
+
+
+
+
+       After the change to the display screen mode is
+       accepted, select the grade control icon (lower right)
+       to return to the normal operating screen.
+
+
+
+
+                                                               Dual screen mode showing elevation (grade) control right
+                                                               side and slope control left side
+
+
+
+       This illustration shows the Cat Grade Control display
+       set in single screen mode on the right side of the
+       screed. Functional areas are grouped for ease of
+       understanding.
+
+
+
+
+                                                                       5
+                                                                                      2
+                                                                           6
+                                                                                      3                  1
+
+                                                                                      4
+
+                                                                                      7
+
+
+
+
+         1. Grade indicators are on the far right side of         5. The Grade Control menu is located in the
+            the display. The green bars illuminate when              upper right portion of the screen. Select
+            the grade or slope system is within the dead             this touch-screen button to change units of
+            band. This condition is usually referred to as           measure, control system beepers, and other
+            being “on grade.” The up and down arrows                 preferences for the grade control system.
+            flash when the measured grade or slope value
+            is outside of the dead band.                          6. The Sensor Selection icon is in the right center
+                                                                     of the screen. Select this touch-screen icon to
+         2 Adjustment and selection buttons are also on              see what sensors are available and to select a
+           the right side of the display. Depressing the             different sensor.
+           buttons adjacent to the up-and-down arrows
+           enable the system to make grade or slope               7. Finally, depress the button adjacent to the
+           changes while paving in the Auto mode.                    Home icon to return to the Home screen
+
+         3. Set the benchmark (null) by depressing button
+            adjacent to the bench key.
+
+         4. Switch between the Auto mode and the
+            Manual mode by depressing the button
+            adjacent to the Auto symbol.
+
+
+
+
+156    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 157 ===
+GRADE & SLOPE
+
+
+
+
+Once the sub-menu for Sensor Selection displays,
+select the icon for the sensor to be used. The
+sensor will highlight. Depress the button adjacent to
+the OK symbol to accept the change.
+
+
+
+
+                                                          Touching the Sensor Selection icon opens the sub-menu
+                                                          of available sensors.
+
+
+
+
+                                                     8
+
+
+
+                                      9
+
+
+                                                10
+
+
+
+
+   8.   The measured reference number (smaller                   Select operator settings and text slider bar to
+        green) and the target reference number                   “customize” information that is available to
+        (larger black) are in the center of the screen.          view.
+        The measured number is the value sent to
+        the display by the selected sensor. While            10. The bottom section of the display indicates
+        the paver is moving, the number will usually             the state of the system. When the “hand”
+        be changing slightly as the measured grade               symbol shows in this area, the control
+        or measured slope changes. The target                    system is in the Manual mode. When
+        reference number is a value selected by the              the word “AUTO” shows in this area, the
+        operator and usually refers to the desired               system is in the Automatic mode. When the
+        thickness or desired slope. The reference                Pause symbol (two vertical lines) shows in
+        number stays the same unless the operator                this area, the system is momentarily paused
+        uses the up or down arrows to change                     from the Auto mode. The pause symbol will
+        thickness or slope. Edit the target number by            appear when the operator moves the propel
+        tapping the touch screen value. Use the sub-             lever to the Neutral position, for example.
+        menu to change the target value and move
+        the system to a new position or target value.
+
+   9.   The operator can choose to include a text
+        bar at the bottom of the screen. A number
+        of values are available for viewing. For
+        example, the operator may wish to monitor
+        certain feeder system functions, while using
+        the grade control screen. Or, the operator
+        may wish to view the slope of the screed,
+        while operating in grade control. To use the
+        text bar, select the grade control menu.
+
+
+
+                                                | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                      157
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 158 ===
+GRADE & SLOPE
+
+
+
+
+       Selecting Type of Sensor
+
+
+
+
+       Dual screen display with single sensor grade control left and slope control right.
+
+
+
+       To select the type of sensor or averaging ski set-up,
+       tap the sensor selection icon on the touch-screen
+       display. The sub-menu for sensor selection will
+       show each sensor or ski configuration that is
+       available.
+
+
+
+
+                  sonic over a string line                                            contact sensor
+
+
+
+                  sonic over a hard surface                                           cross slope sensor
+
+
+
+                  sonic in center of averaging beam                                   3D slope sensor
+
+
+
+                  sonic in front and rear of averaging beam                           3D elevation sensor
+
+
+
+                  all 3 sensors on averaging beam
+
+
+
+
+       Select the icon for the sensor or configuration
+       to be used. Depress the button adjacent to the
+       OK symbol and then return to the desired display
+       screen. The selected sensor icon(s) will appear on
+       the Grade Control display.
+
+
+
+
+158    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 159 ===
+GRADE & SLOPE
+
+
+
+
+When a sonic sensor over a string line is selected,                     sonic tracer centered over string line
+the icon on the display guides the paver operator to
+keep the sensor centered over the stringline. The
+Cat grade sensor uses the center three transducers
+                                                                        sonic tracer offset to the left of the
+to measure the distance to the stringline. The Cat                      string line
+grade sensor uses the outer two transducers as
+centering guides. If the sensor is centered over
+the string, there will be a green circle around the                     sonic tracer offset to the right of the
+string on the icon. If the sensor is offset to the left                 string line
+of center, there will be a red arrow pointing to the
+right. If the sensor is offset to the right, there will be
+a red arrow pointing to the left.
+
+
+User Tip: If the grade sensor is set up to measure a string over the body of a mechanical averaging ski as its
+grade reference, position the string 10 cm (4") above the body of the ski. If the grade sensor moves away from
+the target string, the grade control system will lock to grade and the tow-point will not move. The lock-to-grade
+feature activates anytime there is a sudden change in the grade reference in excess of 5 cm (2").
+
+
+
+
+Note: When using a sonic grade sensor over a stringline and an icon for stringline guidance is not displayed,
+then the grade sensor is not tracking the stringline. For proper guidance, the sensor connector must be on
+the left side when viewing from the back of the paver.
+
+
+
+
+Benchmarking or Nulling the System
+
+Once the paver and screed have been setup to
+pave using “Paving by the Numbers” and the Grade
+Control sensor/sensors have been installed, the
+system can be bench-marked or nulled.
+
+Establishing a benchmark (nulling the system)
+creates a reference for the grade sensor or for the
+slope sensor. In the case of a grade sensor, the
+benchmark is the distance from the sensor to the
+grade reference. In the case of a slope sensor, the
+benchmark is the percentage of slope from right to
+left or from left to right.
+
+To benchmark the system, depress and hold the                The green on-grade bar illuminates when the system is
+                                                             benchmarked.
+left or right Bench button (middle button) for longer
+then two seconds. If the audio function is activated,
+the operator will hear three beeps, and the middle
+on-grade bar will illuminate as a green color.
+
+When benchmarking the system under grade
+control, the value in the Measured value area is
+converted to the number shown in the Target value
+area. Benchmarking the system under slope control
+will convert the measured value to the target value.
+
+
+
+
+                                                   | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                     159
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 160 ===
+GRADE & SLOPE
+
+
+
+
+       Selecting Automatic Mode
+
+       After benchmarking the system, depress and
+       release the button adjacent to the AUTO symbol,
+       the Mode Select button (second from bottom). The
+       word “AUTO” will appear in the system status area.
+       While the paver is placing material, AUTO will show
+       continuously in the system status area.
+
+       When the paver is stopped, the grade and slope
+       control system is temporarily in the Standby mode
+       and the Pause symbol will alternate with the word
+       Auto in the system status area. When the propel
+       lever is moved out of the Neutral position, the
+       system returns to the Auto mode and the word Auto
+       will appear constantly in the system status area.         The word “AUTO” appears when the automatic mode is
+                                                                 selected.
+
+       When paving in automatic mode, the control
+       module will send signals to the tow-point valve.
+       When a change in elevation or slope is required,
+       the left or right tow-point valve will send hydraulic
+       oil to the head end or rod end of the appropriate
+       tow-point cylinder. The tow-point will move up or
+       down to change the elevation or the slope to within
+       the tolerance for grade and slope. The grade control
+       system has a default tolerance (dead band) of 3 mm
+       (0.125"). The slope control system has a default
+       tolerance of 0.05%. Grade and slope tolerances can
+       be adjusted, if desired.
+
+
+
+                                                                 The Pause symbol will alternate with the word Auto when
+                                                                 the propel lever is in the Neutral position.
+
+
+
+
+       Editing the Measured Value
+
+       The value in the measured area is a reference for
+       the operator. It is a good practice to edit that value,
+       so it corresponds with the desired thickness of
+       the bituminous layer or with the specified slope of
+       the bituminous layer. To edit this value, select the
+       measured value on the touch-screen display.
+
+       When the measured value is selected, a keypad will
+       display. The desired value is entered on the keypad,
+       either for grade sensor distance (elevation control)
+       or for slope percentage.
+
+
+                                                                 A keypad displays when the measured value is selected.
+
+
+
+
+160    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 161 ===
+GRADE & SLOPE
+
+
+
+
+The value entered will display at the top of the
+keypad. The value will be expressed in the selected
+unit of measure for the grade control system. To
+accept the change, depress the button adjacent to
+the OK symbol.
+
+After returning to the grade control display,
+bench the system by depressing the left or right
+benchmark button (center button) for more than two
+seconds. Three beeps will be heard, and the target
+value will convert to the measured value that was
+just entered.
+                                                      Keypad showing 2.5 inches entered as the measured
+                                                      value.
+
+
+
+
+                                                      Bench the system and the target value will match the
+                                                      measured value.
+
+
+
+
+                                              | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                  161
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 162 ===
+GRADE & SLOPE
+
+
+
+
+       [ HOW SENSOR POSITION AFFECTS SCREED REACTION ]
+       The position of a single grade sensor in relation       cylinders. How far the tow-points move up and
+       to the tow-point connection or to the auger shaft       down determines the amount that the main screed
+       affects how quickly the screed reacts to changes        angle of attack changes and, consequently how
+       or corrections made by automatic grade control.         far and how fast the screed changes its elevation.
+       Remember, when automatic grade and slope                Operators must understand these relationships
+       control is being used, the system automatically         in order to set up the paver properly for different
+       makes grade or slope changes by sending hydraulic       paving applications.
+       oil through the tow-point valves to the tow-point
+
+
+
+
+                                   grade sensor
+                                    positioning
+
+
+
+
+       Never position a single sensor in front                 A single grade sensor may be positioned anywhere
+                                                               between the tow-point connection and the center of the
+       of the tow-point connection.                            auger shaft when paving with a vibratory screed.
+
+
+
+
+       Note: When paving with a tamping screed, a sensor may be positioned as far back as even with the
+       tamper bar.
+
+
+
+       Assume a single grade sensor is installed in front      module will signal the tow-point cylinder to move
+       of the tow-point and the sensor detects a change        down. In other words, all grade corrections are the
+       in the grade elevation. If the change is a depression   opposite of what is required when the grade sensor
+       in the grade, the control module will signal the tow-   is ahead of the tow-point connection.
+       point cylinder to move up. Conversely, if the grade
+       sensor detects a high spot in the grade, the control
+
+
+
+
+162    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 163 ===
+GRADE & SLOPE
+
+
+
+
+       User Tip: The Cat Grade Control System recognizes when a non-contact averaging ski is installed on the
+       side of the paver. There are three sensors on the ski and, when three-sensor or two-sensor operation is
+       shown in the Sensor Selection area, the system averages the measurements from the sensors. Don’t worry
+       that one of the sensors is in front of the tow-point connection. The system recognizes and accounts for that
+       condition. However, if one-sensor operation of the non-contact averaging ski is selected, make sure that
+       the middle sensor is behind the tow-point connection. The beam may have to be moved toward the rear to
+       place the middle grade sensor in an acceptable position.
+
+
+
+       Next, assume that a single sensor is behind the
+       auger shaft or behind the tamper bar, and the
+       sensor detects a change in grade elevation. By the
+       time the system responds, it will probably be too
+       late. The change in elevation will occur after the
+       screed has passed the point where the deviation is
+       located, and extreme roughness will be evident in
+       the mat.
+
+       Always verify that the sensor is located correctly
+       and that it will create the desired screed response.
+
+
+
+
+            1:1
+
+
+
+
+6 mm (0.25")
+
+
+6 mm (0.25")
+
+                                                                                            pivot point
+
+       Sensor position for slow screed reaction.
+
+
+
+
+       To create a screed that reacts slowly to grade           layer will tend to fill in low spots in the grade and
+       changes, position the grade sensor just behind the       trim off high spots on the grade with the sensor
+       tow-point connection. This sensor position creates       close to the tow-point. Select this sensor position
+       a 1:1 ratio between the amount of grade deviation        when it is important to improve the ride quality of
+       and the distance the tow-point moves. For example,       the grade.
+       if the sensor in this forward position detects a grade
+       deviation that is 6 mm (0.25"), the grade control
+       system will cause the tow-point to move 6 mm
+       (0.25").
+
+       The main screed angle of attack changes slightly
+       and the screed will climb or fall slowly. The change
+       in elevation will occur gradually over a distance of
+       approximately five tow-arm lengths. The bituminous
+
+
+
+                                                       | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                    163
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 164 ===
+GRADE & SLOPE
+
+
+
+
+                                     4:1
+
+
+
+
+  24 mm (1")
+
+
+                                                     6 mm (0.25")
+
+                                                                                            pivot point
+
+       Sensor position for fast screed reaction.
+
+
+
+
+       To create a screed that reacts quickly to grade            change in elevation where the change occurs. The
+       changes, position the grade sensor in line with the        bituminous layer will tend to follow low spots or
+       center of the auger shaft or even with the tamper          high spots in the grade with the sensor close to
+       bar. This sensor position creates a 4:1 ratio between      the auger shaft. The thickness of the layer will be
+       the amount of grade deviation and the distance             very uniform, but smoothness may be sacrificed.
+       the tow-point moves. For example, if the sensor in         Select this sensor position when it is important to
+       this position detects a grade deviation that is 6 mm       have precise yield control or exact height match to a
+       (0.25"), the grade control system will cause the tow-      longitudinal joint or gutter.
+       point to move 24 mm (1").
+                                                                  Position the grade sensor ahead of the auger shaft
+       The main screed angle of attack changes                    or the tamper bar to begin to slow screed reaction.
+       significantly and the screed will climb or fall quickly.   This will create a layer with an acceptable yield and
+       The change in elevation will occur almost instantly,       profile while improving the smoothness at the same
+       and the bituminous layer will exactly match the            time.
+
+
+
+
+164    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 165 ===
+GRADE & SLOPE
+
+
+
+
+              The slope sensor is mounted on a transverse beam
+              that spans the width of the main screed just ahead
+              of the nose of the screed. In this position, the slope
+              sensor also creates a 4:1 ratio between the distance
+              that the tow-point moves in order to create the
+              elevation change needed to maintain the specified
+              slope. It is important for operators to understand
+              how automatic slope control operates. First, the
+              relationship between slope correction and elevation
+              changes must be understood.
+
+
+
+                                                                       The position of the slope sensor also creates a fast screed
+                                                                       reaction.
+
+
+
+
+                                                                                                                   3 cm (1.25")
+                       1%
+
+                                                         3 m (10')
+
+
+
+
+              Assume that a structure needs to have a 1 percent        3 percent from left to right in some areas. The plan
+              slope from left to right. Starting at the left edge      specifies 2 percent slope. The paving crew needs
+              of the structure, the elevation of the layer must        to correct the slope to 2 percent in all areas, while
+              decrease by 1 cm per meter, or 0.125" per foot.          paving the base layer. The width of the layer is
+              If the width of the structure is 3 m (10'), then the     3.66 m (12'). The uncompacted depth of the layer
+              elevation change will be 3 cm (1.25").                   is supposed to be 7.5 cm (3"). In those areas where
+                                                                       the slope of the granular base is 3 percent, what
+              In practical terms, consider the following example.      will be the thickness of the layer at the right edge of
+              The slope of a compacted granular base is up to          paving?
+
+
+
+
+                                                                                                                      2%
+7.5 cm (3")
+                                                                                                                                     11.5 cm
+                      3%                                                                                                              (4.5")
+
+
+                                                                3.66 m (12')
+
+
+
+
+              In this example, the layer thickness has to increase     extends from left to right. At the right edge, the
+              by 4 cm (1.5") in order to create the specified slope.   layer thickness should be 11.5 cm (4.5") in order to
+              The crew will need to maintain the layer thickness       correct the slope to 2 percent. How much will the
+              at the left edge of paving. That is the only place       right tow-point move in order to create the correct
+              where the operator can check layer thickness.            slope in this situation?
+              The depth of the layer will increase as the layer
+
+
+
+
+                                                              | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                            165
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 166 ===
+GRADE & SLOPE
+
+
+
+
+                                                  reaction
+                               slower                                  faster
+
+
+
+
+          16 cm (6.0")
+
+
+
+
+       Because the slope sensor is located close to the        Automatic slope control can create significant
+       front of the screed, the tow-point movement is a 4:1    variations in layer thickness and, consequently,
+       ratio with the elevation change. Therefore, to create   variations in yield. Automatic slope control can also
+       the 1 percent slope correction in a timely manner       create roughness in the bituminous layer.
+       for this example, the tow-point will move up 16 cm
+       (6").
+
+
+
+
+       User Tip: When using automatic slope control to correct the transverse profile, it is a good idea to discuss
+       the possible outcomes with the project owner and the on-site inspection personnel. Be sure to inform
+       them that yields may be variable. If the inspection team is accustomed to checking yields truck by truck
+       or over short distances, they may be surprised with the yield results, unless they have been prepared for
+       the variations. It may be a good idea to use a slope board or slope meter to show the inspector where the
+       corrections will occur.
+
+
+
+
+       User Tip: When using automatic slope control to correct the transverse profile, the demand for material
+       passing under the screed will vary as the thickness of the layer varies. The paver and screed operators will
+       have to be ready to adjust the feeder system frequently. They should pay particular attention to the area in
+       front of the extender where the head of material will disappear the fastest. Auger speed will vary according
+       to the demand for material, and stripe segregation may occur.
+
+
+
+
+166    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 167 ===
+GRADE & SLOPE
+
+
+
+
+[ RESTORING TOW-POINT HEIGHT ]
+As discussed in previous sections of this guidebook,
+the height of the tow-points affects the line of pull
+and the main screed angle of attack. The tow-point
+height is set at the start of paving based on the
+planned thickness of the bituminous layer.
+
+An operator can manually change tow-point height
+while paving in order to increase or decrease
+layer thickness. Or, an operator can use the grade
+and slope control system in the automatic mode
+to change tow-point height and layer thickness
+automatically.
+
+The previous section described, how sensor
+position affects tow-point movement and screed
+reaction. Grade sensors positioned close to the
+nose of the screed can create large tow-point
+movements. Slope sensors, due to their fixed
+position close to the nose of the screed, can also
+create large tow-point movements.
+
+
+
+
+Depending on the amount of grade deviation that is      happens, the operator should employ a technique to
+being corrected or the amount of slope correction,      “gain back” the tow-point cylinder to restore normal
+the tow-point cylinder may reach the end of its         operation.
+stroke, while the grade and slope control system is
+still signaling for additional movement. When that
+
+
+
+
+     +
+
+     0
+      -
+
+
+
+
+                                               | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                   167
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 168 ===
+GRADE & SLOPE
+
+
+
+
+                      If additional thickness is required when the tow-        the tow-point height indicator. When the height
+                      point is fully raised and a single sensor Grade          indicator begins to move down, stop turning the
+                      Control system is being utilized, Leave the system       manual depth screw. Allow the tow-point cylinder
+                      in the AUTO mode. On vibratory screeds, unlock           to stabilize. Make additional adjustments if needed.
+                      the manual depth screw. Turn the screw slowly in         Once the desired tow-point position has been
+                      the direction that increases layer thickness. Watch      achieved, lock the depth control screw.
+
+
+
+
+                      Note: On tamper bar screeds, use the thickness screws to change the angle of attack on the main screed
+                      and start the tow-point height correction. Turn the screw toward positive marks to lower the tow-point. Turn
+                      the screw toward zero or negative marks to raise the tow-point.
+
+
+
+
+                      If the tow-point is too low, turn the manual depth       At times when paving with automatic grade control,
+                      screw or thickness screw in the direction that           the tow-point cylinder may run out of adjustment.
+                      decreases layer thickness. Stop turning when the         Use the aforementioned technique to alter the tow-
+                      tow-point connection begins moving up. Allow             point height or to adjust the line of pull while paving.
+                      the tow-point cylinder to stabilize. If additional
+                      adjustment is needed, continue to slowly turn the
+                      manual depth screw. Stop when the desired tow-
+                      point position has been achieved.
+
+
+
+2 ill. – Jan
+2 ill. – Jan
+
+
+
+
+                           +
+                           0
+                            -
+
+
+
+
+                      User Tip: It is virtually impossible to “gain back” cylinder stroke when using an averaging ski or if a single
+                      sensor is installed close to the tow-point connection. Remember, any changes in screed elevation occur
+                      over a long distance when using an averaging ski or when the sensor is close to the tow-point connection.
+                      Normally, the tow-point moves very small distances when a ski is used and manual tow-point adjustment
+                      isn't required.
+
+
+
+
+               168    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 169 ===
+GRADE & SLOPE
+
+
+
+
+[ CALIBRATING TOW-POINT CYLINDER VALVES ]
+No matter what type of grade and slope control           is stored in the left control box. Data for the right
+system is being used, the tow-point cylinder valves      tow-point cylinder valve is stored in the right control
+must be calibrated on each side of the paver.            box. Clearly mark the right and left control boxes, so
+Calibrating the tow-point cylinder valves assures        they are always installed on the correct side of the
+that the tow-points move up and down smoothly            screed.
+and in the correct timeframe in response to signals
+from the grade and slope control module.
+
+Each tow-point cylinder valve is calibrated
+independently. The calibration data for each
+tow-point cylinder valve is stored in the control
+module of the Cat Grade Control System. On other
+systems, data for the left tow-point cylinder valve
+
+
+
+
+Most modern pavers, have proportional tow-point          If the tow-point cylinder moves too far or too fast,
+cylinder valves. When calibrating a proportional         the screed will create roughness in the bituminous
+tow-point cylinder valve, set the amount of current      layer. If the tow-point cylinder takes too long to
+that is necessary to move the valve spool enough to      respond, the screed will not place the correct thick-
+send a small amount of hydraulic oil to the head end     ness.
+or rod end of the tow-point cylinder. It should move
+a small distance and stop in a short period of time.
+
+
+Note: Instructions for calibration of tow-point cylinder valves when using the Cat Grade System are in the
+Operation and Maintenance Manual. Always follow the instructions for the paver model and the type of
+grade and slope control being utilized.
+
+
+
+
+To perform tow-point valve calibration, start with
+the display in the Grade Control mode. Select the
+menu icon on the touch-screen display. Then, select
+the Installation bar. There are separate bars for left
+and right valve calibration. Select the side to be
+calibrated.
+
+
+
+
+                                                         Display showing the start of calibration for the left tow-
+                                                         point valve.
+
+
+
+
+                                                | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                         169
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 170 ===
+GRADE & SLOPE
+
+
+
+
+       The Cat Grade System uses an “Auto Valve
+       Calibration” process. Be sure to select either the
+       right or left valve and calibrate one side of the paver
+       at a time. Enter the Installation menu and follow the
+       prompts that are shown on the display.
+
+
+
+
+                                                                 Display with instruction to center the tow-point.
+
+
+
+
+       The prompts on the screen provide instructions for
+       completing tasks such as centering the tow-points
+       and setting the upper and lower limits of tow-point
+       travel. Once all of the manual requirements for tow-
+       point valve calibration are completed, the system
+       will perform an automatic self-calibration. When the
+       calibration has been successfully completed, a mes-
+       sage on the display indicates it’s time to depress
+       the button adjacent to the OK icon.
+
+       When calibrating the tow-point cylinder valves for
+       any type of grade and slope condition, follow these
+       guidelines to assure accurate calibration.
+                                                                 Display with instruction to set the lower limit of tow-point
+        • Hydraulic oil at normal operating temperature          travel.
+        • Paver parked on a flat and level surface
+        • Tow-points centered
+        • Screed in float mode
+        • Slack removed from the tow-point connections
+        • Screed nulled
+        • Transmission in Pave mode
+        • Parking brake set
+        • Propel lever fully forward
+        • Speed control dial turned up halfway
+
+
+
+
+170    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 171 ===
+GRADE & SLOPE
+
+
+
+
+Calibration of tow-point cylinder valves is not part of   long period of time or before starting a project with
+a scheduled maintenance program. Initial calibration      a reward or risk associated with ride quality.
+of the tow-point valves is required when installing
+Grade Control systems. Once the system has been
+calibrated and performance has been verified, recali-
+bration is unnecessary unless:
+
+  1. The grade control system is moved to another
+     paver, or
+
+  2. The tow-point cylinder or tow-point valve have
+     been replaced.
+
+There may be times when it is suitable to recalibrate
+the grade control system. Examples are when the
+paver comes out of storage after sitting idle for a
+
+
+
+
+[ AVERAGING SKIS ]
+Averaging skis are commonly used on projects              Two types of averaging skis are commonly used:
+where an improvement in the longitudinal profile          mechanical, contact-type skis or electronic, non-
+(smoothness) of the structure is needed. An               contact skis. Each type has its own specific
+averaging ski is designed to provide either a physical    advantages.
+reference that ignores high spots or low spots in
+the grade that is being paved or to electronically
+average three or four measurements taken by grade
+sensors over a given distance.
+
+
+
+
+Electronic non-contact skis
+
+Electronic, non-contact skis have three or four
+equally spaced grade sensors along the length of
+the beam that carries the sensors. Typical beam
+length is 9 meters (30'). There are also skis with
+12-meter (40') beams or longer. Non-contact skis
+can be set up to read a reference outside of the
+paving width or inside of the paving width.
+
+
+
+
+                                                          Two mounting arms, either single or scissor-type, attached
+                                                          to the tow arm carry the non-contact ski.
+
+
+
+
+                                                | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                          171
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 172 ===
+GRADE & SLOPE
+
+
+
+
+       It is important for the crew to have the correct
+       mounting arms in order to install a non-contact ski.
+       Two single arms are adequate to carry a ski that
+       will be installed inside the paving width, or outside
+       the paving width if the paving width is relatively
+       narrow—say 3.6 meters (12'). The crew will need
+       longer scissor-type mounting arms in order to install
+       the ski to reference the grade outside the paving
+       width for wider paving—say 4.9 meters (16').
+
+
+
+
+                                                                Cat non-contact averaging ski installed to reference grade
+                                                                outside the paving width.
+
+
+
+
+       Install the non-contact ski so the center of the beam
+       (balance point) is located somewhere between the
+       center of the tow arm and the tow-point connection.
+       The closer the balance point is to the tow-point
+       connection, the slower the screed reaction will be.
+
+       The Cat non-contact ski has three vertically
+       adjustable poles that carry the grade sensors.
+       Measure the height of each sensor above the
+       grade reference. They do not have to be exactly
+       the same height, but they all should be within the
+       recommended range of 40 to 46 cm (16" to 18").
+       When benchmarking (nulling) the grade control
+       system on that side of the paver, each sensor
+       will be measuring the grade based on its own
+       benchmark.
+
+       Follow these installation guidelines for all types of
+       electronic, non-contact skis.
+                                                                Cat non-contact ski setup to reference grade inside the
+       All three grade sensors on the Cat non-contact ski       paving width.
+       should be parallel to the direction of paving with the
+       cable connection on the sensor toward the rear of
+       the paver.
+
+
+
+
+172    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 173 ===
+GRADE & SLOPE
+
+
+
+
+User Tip: On some types of non-contact skis, the cable connections that attach to the sensors are
+numbered. The cable connection labeled as number one should be attached to the sensor closest to the
+front of the beam. The other cable connections attach to the sensors in numerical order, front to back. If the
+crew attaches the connections to the sensors in reverse order, the grade control system may act erratically.
+Caterpillar recommends clearly labeling each cable end, so the crew always installs the cable connections in
+the correct sequence.
+
+
+
+
+When a non-contact averaging ski extends over
+the screed, the last grade sensor will use the
+surface of the new bituminous layer as the grade
+reference. This reference will probably provide the
+most uniform grade measurement of all the sensor
+signals sent to the control module. Therefore, the
+averaging factor is improved and the ride quality of
+the layer will be enhanced. Caterpillar recommends,
+whenever possible, that the non-contact ski be
+setup to have the last grade sensor over the new
+bituminous layer.
+
+
+
+
+                                                        The last sensor on the Cat non-contact ski is set to
+                                                        reference the surface of the layer directly behind the
+                                                        screed.
+
+
+
+
+User Tip: Some sonic grade sensors have foil transducers that emit sound pulses. Foil transducers can be
+affected by extreme heat and asphalt fumes. When setting up a sonic sensor with a foil transducer over
+the hot bituminous layer, be sure to inspect that sensor at the end of the shift. Look for wrinkles or the
+accumulation of an oily film on the transducer. Be prepared to replace the damaged transducer.
+
+
+User Tip: When using any type of averaging ski, Caterpillar recommends taking off from the starting
+reference in the manual mode. Establish layer thickness manually, then benchmark the ski and enter the
+Auto mode for grade control. Remember, making depth changes when using an averaging ski takes a long
+time. It’s easier to make depth changes manually and let the ski do the work of improving smoothness.
+
+
+
+
+                                               | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                     173
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 174 ===
+GRADE & SLOPE
+
+
+
+
+       Cat non-contact averaging ski with end sections folded and set up to use only the center sensor for a
+       single sensor application.
+
+
+
+                                                                          over these obstacles easily.
+       As pointed out earlier in this unit, the number of
+                                                                       • Grade reference is acceptable. Electronic
+       sensors that are active on the Cat non-contact ski
+                                                                         averaging skis do not have as much averaging
+       can be selected by using the Sensor Select function               capability as mechanical skis. However, if the
+       on the display.                                                   grade reference (milled surface, for example)
+                                                                         does not have extreme roughness, an
+       When utilizing the Sensor Select function to choose               electronic averaging ski is adequate and will be
+       one active sensor on the non-contact averaging ski,               preferred because of its convenience compared
+       the center sensor measures the grade reference                    to a mechanical ski.
+       and sends a signal to the control module. It is not             • Smoothness specification is moderate. There
+       necessary to remove the ski. It may be necessary                  are many smoothness measurement systems.
+       to position the mounting arms in a location that                  Profile Index, which was the most common
+       allows the center sensor to provide the best screed               system for many years, is being replaced in
+       response. The remaining sensors may need to be                    many areas by the International Roughness
+       disconnected in order to eliminate feedback by the                Index. Other areas use a system referred to as
+                                                                         Ride Number. Each Public Works Department
+       active sensor.
+                                                                         chooses the system it prefers and then sets
+                                                                         standards for the contractor to meet. If those
+       Non-contact averaging skis are preferred for some                 standards are somewhat easy to satisfy, then
+       applications rather than mechanical, contact-type                 an electronic averaging ski will be preferred
+       averaging skis. Some of the reasons may include:                  because of its set-up convenience.
+
+        • Time constraints. Since the non-contact ski
+          is attached to the side of the paver and is
+          independent of the grade, it remains on the
+          paver when the crew relocates to a new
+          position on the project. Saving time is especially
+          critical during night shifts when there is a need
+          to reopen a roadway to traffic at a certain time.
+        • Obstacles in the grade. On some projects,
+          obstacles may be encountered like drain inlets
+          or utility boxes. Contact-type skis are affected
+          by these obstacles. Non-contact skis can pass
+
+
+
+174    | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 175 ===
+GRADE & SLOPE
+
+
+
+
+Mechanical, contact-type skis
+
+Mechanical averaging skis have been in use since         a 25 mm (1") bump in the grade, that deviation will
+at least the 1950s. Their development was based          be 12.5 mm (0.5") at the center of the averaging
+on the need to improve ride quality even more            device.
+than what can be accomplished by the floating
+screed. Remember, the floating screed tends to           Modern mechanical skis provide a reduction of
+minimize grade deviations based on the distance          grade deviations that is approximately 88%. In other
+from the tow-point connection to the front of the        words, if there is a 25 mm (1") bump in the grade,
+main screed. A mechanical averaging ski doubles          that deviation will be 3 mm (0.125") at the center of
+or triples that length. A mechanical ski also tends to   the averaging device.
+isolate the tractor portion of the paver from grade
+deviations.                                              Like the electronic, non-contact skis, typical
+                                                         mechanical skis are 9 m (30') long. Longer 12 m
+Numerous references are used with mechanical             (40') versions are also available.
+skis. Some of the first were traveling stringlines
+and solid beams. Those types of averaging devises        Two basic types of mechanical skis are used: skis
+provided a grade reference for a sensor that was a       that ride outside the paving width and skis that ride
+50 percent improvement. In other words, if there is      inside the paving width.
+
+
+
+
+The Cat 9-meter (30') multi-articulated outboard
+leveler reads a grade reference outside the paving
+width. This mechanical averaging ski is also
+available in the 12 m (40') length. The 9-meter
+(30') outboard leveler consists of three 2.5 m (8')
+aluminum sections that are bolted together after
+transportation to the worksite. Each section carries
+two shorter beams (about 1 meter / 3 feet long)
+through articulated connections. Each short beam
+carries two short contact runners (about 30 cm / 12"
+long), also through articulated connections.
+
+The 9 meter (30') ski will bridge, or fill in, a
+depression up to 9 m (30') long. The 12 meter (40')
+version extends that bridging capability
+
+The outboard leveler is extremely good at reducing
+roughness in the grade being referenced. When            Cat 9-meter (30') multi-articulated outboard leveler
+a contact runner goes over a bump, that bump is          averaging adjacent layer, while matching the longitudinal
+reduced by 50 percent at the articulation connection     joint.
+between the contact runner and the short beam.
+The deviation undergoes another 50 percent
+reduction at the articulation connection between the
+short beam and the main beam section. Another 50
+percent reduction of the remainder of the deviation
+occurs at the center of the leveler. The three
+reductions in roughness represent an 88 percent
+improvement at the center of the leveler where the
+grade sensor should be located.
+
+
+
+
+                                                | Unit 6: AUTOMATIC GRADE AND SLOPE CONTROL |                        175
+

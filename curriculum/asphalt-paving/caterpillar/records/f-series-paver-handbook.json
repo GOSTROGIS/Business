@@ -1,0 +1,85 @@
+{
+  "id": "CAT-04",
+  "slug": "f-series-paver-handbook",
+  "title": "Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers",
+  "publisher": "Caterpillar",
+  "type": "Application handbook",
+  "publication": "QEBQ1990-01 (3/2018)",
+  "publication_year": 2018,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Cat F Series large asphalt pavers; a practical handbook, separate from the machine OMM.",
+  "download_filename": "cat-f-series-paver-handbook.pdf",
+  "source_url": "https://www.westernstatescat.com/wp-content/uploads/2024/01/Asphalt-Paver-Handbook-For-Cat%C2%AE-F-Series-Large-Asphalt-Pavers-1.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 6416139,
+  "original_sha256": "c8d4702bd10b49d0c81ce6d37c31ae33f3d15e615c7619e2386c606dd3bc280c",
+  "original_pages": 104,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "Asphalt Paver \nHandbook\nFor Cat® F Series \nLarge Asphalt Pavers \n",
+    "last_page": "CAT, CATERPILLAR, their respective logos, “Cat-\nerpillar Yellow” and the POWER EDGE trade dress, \nas well as corporate and product identity used herein, \nare trademarks of Caterpillar and may not be used \nwithout permission.\n© 2018 Caterpillar All Rights Reserved\nQEBQ1990-01 (3/2018)\n"
+  },
+  "parts": [
+    {
+      "file": "sources/f-series-paver-handbook/p0001-0025.pdf",
+      "text": "text/f-series-paver-handbook/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 1738491,
+      "sha256": "67a2e43be987eb0bb0827cb16b4be752363e5af15503fa0e3beca119470e84e3",
+      "text_sha256": "6eaee237e8916aac4636b262014fbb8641035db797952c0fa257373f59f680fb",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/f-series-paver-handbook/p0026-0050.pdf",
+      "text": "text/f-series-paver-handbook/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 1878182,
+      "sha256": "6d361a7cf09c03ee40339fa191c226175d403d0703477a5f10924c29eaaea90e",
+      "text_sha256": "6d5d7c213d4aba2cb23f4b86c457615c9f139413ed9c3db68ca70d4dcd1af93b",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/f-series-paver-handbook/p0051-0075.pdf",
+      "text": "text/f-series-paver-handbook/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 1641416,
+      "sha256": "c1e8dd6626e51971068c60e7f33e88b92f1c8e8de0dc18fb5f922006aa1e35dd",
+      "text_sha256": "19799a70711a24223ed2b23dfcb0dad10a5b42a5af4eba406221aea72dd2ca3f",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/f-series-paver-handbook/p0076-0100.pdf",
+      "text": "text/f-series-paver-handbook/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 1661056,
+      "sha256": "f9c69b70b383dcafffdaf52f0d6727b85f11128e3329a3f3377b4103750f828b",
+      "text_sha256": "e1e8a8a377d84c87efae8c1e5f2f69a3a88cd42ea19ae8c718edfee6c4a8ce71",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/f-series-paver-handbook/p0101-0104.pdf",
+      "text": "text/f-series-paver-handbook/p0101-0104.txt",
+      "start": 101,
+      "end": 104,
+      "pages": 4,
+      "bytes": 157288,
+      "sha256": "d325ea96b86fe82ae96e9fe375e4865051b66a4257f47fd306241ad3021e75fa",
+      "text_sha256": "9d01075481e4a0b426413ed29ad06c27ebe814c3300c4b833116079d02c98509",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

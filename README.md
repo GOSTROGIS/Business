@@ -21,3 +21,5 @@ Six complete Roadbuilding foundations units develop A1–A6 with 37 activities, 
 [Open the editable research pack](research/2027-is4s/README.md) for the 11 tentative cohorts, nine-skills activity maps, Numeracy Hub review, worked numeracy starters and a pilot lesson.
 
 This is an initial curriculum-development draft. Cohort information comes from the supplied planning reference; external program and regulatory claims still need primary-source verification and partner confirmation.
+
+The expanded [CAT library and parts atlas](curriculum/asphalt-paving/caterpillar/README.md) adds 22 publications (1,883 source pages), 20 credited equipment illustrations, 89 named components and ten identification tasks. [WHMIS and hazard symbols](curriculum/asphalt-paving/whmis/README.md) adds official SVG/PNG/EPS artwork, current source sheets, machine warnings and six classroom tasks. Both collections have smaller ZIP downloads.

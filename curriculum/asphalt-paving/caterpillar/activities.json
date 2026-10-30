@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CAT-ID-01",
+    "title": "Follow the material",
+    "skills": "Reading · Communication",
+    "task": "Open Figures 1–3 and 5. Name the paver’s two main sections. Identify the feeder chain, auger shaft and screed plate. Explain to a partner how the feeder and augers have different roles. Have the listener point to each named part.",
+    "answer": "Tractor and screed. The feeder chain carries material through the feeder path; the augers distribute it across the width. Use the original leader lines, not the nearest-looking feature. The screed plate is the lower working surface that shapes the mat."
+  },
+  {
+    "id": "CAT-ID-02",
+    "title": "Read every conveyor callout",
+    "skills": "Reading · Writing",
+    "task": "In Figure 12, list names for callouts 1–7. Then write a two-sentence identification note for callout 5: assembly, component, source publication and PDF page.",
+    "answer": "1 guide rollers; 2 trough rollers; 3 return idlers; 4 tail pulley; 5 tail pulley bearings; 6 bunk rollers; 7 head pulley. Example: “The component is the tail pulley bearings in the cold-planer conveyor diagram. CAT-08, Cold Planer Parts Reference Guide, PDF page 25, callout 5.”"
+  },
+  {
+    "id": "CAT-ID-03",
+    "title": "Count callouts without inventing quantities",
+    "skills": "Numeracy · Problem solving",
+    "task": "Figure 12 has 7 callout numbers. Figure 13 has 6. How many distinct callout numbers are listed across the two legends? If two identical classroom posters show Figure 12, how many numbered labels appear across those two posters? Explain why neither calculation tells you how many replacement parts to order.",
+    "answer": "7 + 6 = 13 legend entries across the diagrams. 2 × 7 = 14 printed labels on two posters. A callout may identify a type of part, several instances or an assembly. Required quantity and part number come from the applicable parts table and machine identity."
+  },
+  {
+    "id": "CAT-ID-04",
+    "title": "Check a roller-control match",
+    "skills": "Reading · Problem solving",
+    "task": "Figure 14 identifies controls on the CB2.5 GC, CB2.7 GC and CC2.7 GC manual’s stated serial ranges. Locate 6, 12, 14 and 16. A fictional worksheet calls number 12 “engine start.” Correct it using the diagram.",
+    "answer": "6 emergency stop knob; 12 parking brake; 14 water spray system; 16 vibratory mode / emulsion switch. Engine start switch is 15, not 12. Retain optional equipment and model conditions. This is a diagram check, not an instruction to operate the controls."
+  },
+  {
+    "id": "CAT-ID-05",
+    "title": "Follow the loader letters",
+    "skills": "Reading · Communication",
+    "task": "Use Figure 17. Find A, K, Y, S1 and S2. Describe the two connection points named for each pin. Ask a partner to repeat the difference between S1 and S2.",
+    "answer": "A loader arm to front frame; K lift cylinder to loader arm; Y lift cylinder to front frame; S1 steering cylinder to rear frame; S2 steering cylinder to front frame. A complete check-back preserves front/rear and the cylinder name."
+  },
+  {
+    "id": "CAT-ID-06",
+    "title": "Save a source you can find again",
+    "skills": "Digital · Writing",
+    "task": "Search the CAT library for “tail pulley”. Open the hit from CAT-08 PDF page 25. Save a note containing publication, revision, original PDF page, part filename and local viewer page. Close the note, reopen it and use it to return to the same diagram.",
+    "answer": "CAT-08, QEXQ3131-01 (05/2026), original PDF page 25, sources/cold-planer-parts-official/p0001-0025.pdf, viewer page 25. Accept the actual generated path from the link if the collection is reorganized. Observe save/reopen/retrieval; a written promise to save is not evidence of the Digital action."
+  },
+  {
+    "id": "CAT-ID-07",
+    "title": "Respond to a changed machine record",
+    "skills": "Adaptability · Problem solving",
+    "task": "Fictional record A says: “950M, prefix EMB, automatic standard lift.” Record B corrects it to: “950M, prefix KSA, standard lift; complete serial number not supplied.” Open CAT-17 PDF page 6. Mark which table row changes, what information you must still obtain, and why the model name alone is insufficient.",
+    "answer": "Move from EMB to KSA and the stated lift configuration. Obtain the complete serial/product identification number and verify the current applicable parts catalogue and arrangement. Prefix and lift type affect the table lookup. Keep the original and corrected record; do not issue a part order from this exercise."
+  },
+  {
+    "id": "CAT-ID-08",
+    "title": "Make a component check-back",
+    "skills": "Communication · Collaboration",
+    "task": "In pairs, choose a cutting-chamber part in Figure 10. One person gives its callout, exact name, location and source. The other finds it and restates the identification. Swap roles using a different part. Each person records one correction or confirmation.",
+    "answer": "Accept callouts 1–4 with exact source names and correct diagram location. Observe both contributions and an actual check-back. If the listener identifies the wrong ski or edge, return to the leader line and repair the message together."
+  },
+  {
+    "id": "CAT-ID-09",
+    "title": "Design a useful learning card",
+    "skills": "Creativity and innovation · Digital",
+    "task": "Create two layouts for a learning card containing one credited diagram, a part name, plain-language function and model scope. Ask another reader to find the named part without help. Record what happened, choose a layout, revise it and save the final file.",
+    "answer": "Keep both ideas, the reader’s task result and the explained revision. A useful card has a readable callout, source/page credit, accurate scope and no obscured labels. Do not redraw a WHMIS symbol or replace a manufacturer warning with invented artwork."
+  },
+  {
+    "id": "CAT-ID-10",
+    "title": "Complete a machine identification record",
+    "skills": "Reading · Writing · Collaboration",
+    "task": "Use a supplied training machine record or one of the manuals in the library. Record model, serial applicability, attachment, publication number/revision, assembly, page and callout. Mark unknown fields “to confirm”. A second person checks the source match and signs or initials the classroom record.",
+    "answer": "A complete record distinguishes what is stated in the manual from what is known about the actual machine. Unknown identity fields remain explicit. The reviewer verifies the same source and records the result. No learner needs to share personal information or enter an operating area to complete this classroom task."
+  }
+]

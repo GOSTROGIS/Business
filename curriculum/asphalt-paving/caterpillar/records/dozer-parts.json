@@ -1,0 +1,39 @@
+{
+  "id": "CAT-19",
+  "slug": "dozer-parts",
+  "title": "D1/D2/D3 Small Dozer — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2020,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "D1, D2 and D3; listed configuration and serial-prefix tables apply.",
+  "download_filename": "cat-dozer-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20201201-0ef6e-6ca9c",
+  "accessed": "2026-10-30",
+  "original_bytes": 1314040,
+  "original_sha256": "9849b1c0630e78d0e56ca76f99609626594ce38080f091832f5e0135fefde0ae",
+  "original_pages": 9,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "D1/D2/D3\nSMALL DOZER \nPARTS REFERENCE GUIDE\n",
+    "last_page": "PEBJ0175   \nNovember 2020\n(Global)\n© 2020 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective logos, “Caterpillar Corporate  Yellow,” the “Power Edge” and \nCat “Modern Hex” trade dress, as well as corporate and product identity used herein, are trademarks of Caterpillar and may not be used without permission.\nLINKAGE PIN AND BEARING PART NUMBERS  D1/D2/D3\nParallelogram Ripper Linkage\nSales \nModel\nSerial Number Prefix\nAA\nBB\nCC\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n7p-2358 - \nPin (QTY 2)\n8J-7008 - \nPin (QTY 2) \n397-0242 - \nPin (QTY 2) \n7K-6365 - \nBearing Sleeve \n(QTY 2)\nAngling Blade System\nSales \nModel\nSerial Number Prefix\nA\nB\nC\nD\nE\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n461-4319 - \nPin (QTY 2)  \n183-1176 - \nBearing (QTY 2) \n179-5757 - Trunnion \n179-5755 - Bearing Cap\n(QTY 2)\n461-4320 - \nPin (QTY 2)\n263-3181 - \nBushing (QTY 2)\n397-0234 - \nPin (QTY 2) \n263-3181 - \nBushing (QTY 2) \n8J-0928 - Pin \n9J-9812 - Bearing\n2H-5549 - Retainer Ring\n471-6399 - Spacer\nAngling Blade System\nSales \nModel\nSerial Number Prefix\nF\nG\nH\nI\nJ\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n6Y-1421 - Pin\n4D-0298 - Bearing\n1L-4775 - Retainer Ring\n471-6399 - Spacer\n4D-4431 - \nBearing\n2H-5549 - \nRetainer Ring\n4D-4431 - \nBearing\n2H-5549 - \nRetainer Ring\n461-4320 -\nPin (QTY 2)\n4D-0298 - \nBearing (QTY 2)\n1L-4775 - \nRetainer Ring (QTY 2) \n6Y-1421 - \nPin (QTY 2)\n9J-9812 - \nBearing (QTY 2)\n2H-5549 - \nRetainer Ring (QTY 2)\n471-6400 - \nSpacer (QTY 2)\nParallelogram Ripper Linkage\nSales \nModel\nSerial Number Prefix\nDD\nEE\nFF\nD1/D2/D3\nXKF, XKL, XT3, \nXKM, XKR, XKW, \nXKY, XT5\n397-0241 - \nPin (QTY 2) \n7K-6365 - \nBearing Sleeve\n(QTY 2)\n397-0241 - \nPin (QTY 2) \n397-0242 - \nPin (QTY 2) \nAA\nDD\nEE\nFF\nBB\nCC\nA\nI\nD\nC\nB\nE\nF\nJ\nH\nG\nA\nB\nD\nC\nI\nJ\nF\nE\nH\nG\n"
+  },
+  "parts": [
+    {
+      "file": "sources/dozer-parts/p0001-0009.pdf",
+      "text": "text/dozer-parts/p0001-0009.txt",
+      "start": 1,
+      "end": 9,
+      "pages": 9,
+      "bytes": 1314040,
+      "sha256": "9849b1c0630e78d0e56ca76f99609626594ce38080f091832f5e0135fefde0ae",
+      "text_sha256": "5db9ed241232870a3b3238d868cfcd87963266215e48ab094b72b67476788e5e",
+      "empty_text_source_pages": [
+        6
+      ],
+      "original_bytes_preserved": true
+    }
+  ]
+}

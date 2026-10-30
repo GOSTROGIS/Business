@@ -1,0 +1,907 @@
+{
+  "figures": [
+    {
+      "id": "paver-sections",
+      "document": "CAT-01",
+      "source_page": 63,
+      "source_sha256": "708e981b0910239b7c455df16f6912afc1041070636b5e26b0bd66a4cbb9f88c",
+      "title": "Two main sections of the paver",
+      "scope": "Conceptual paver example in the 2016 application guide; this picture does not identify a specific machine serial number.",
+      "file": "assets/figures/paver-sections.png",
+      "crop_points": [
+        59.527600097656254,
+        269.4048046875,
+        517.8901208496094,
+        463.03950805664067
+      ],
+      "image_pixels": [
+        1274,
+        539
+      ],
+      "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "screed",
+          "name": "Screed",
+          "explanation": "Places and shapes the mat behind the tractor."
+        },
+        {
+          "locator": "tractor",
+          "name": "Tractor",
+          "explanation": "Provides propulsion, power and material-handling functions."
+        }
+      ]
+    },
+    {
+      "id": "feeder-system",
+      "document": "CAT-07",
+      "source_page": 11,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Inside the paver: the feeder system",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/feeder-system.png",
+      "crop_points": [
+        30.6,
+        55.440000000000005,
+        587.52,
+        483.12
+      ],
+      "image_pixels": [
+        1547,
+        1188
+      ],
+      "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "label",
+          "name": "Feeder bed plate",
+          "explanation": "Wear surface beneath material moving through the feeder system."
+        },
+        {
+          "locator": "label",
+          "name": "Feeder chain guard",
+          "explanation": "Protective wear plate associated with the feeder-chain path."
+        },
+        {
+          "locator": "label",
+          "name": "Foot shaft",
+          "explanation": "Shaft at the foot end of the feeder assembly."
+        },
+        {
+          "locator": "label",
+          "name": "Feeder chain",
+          "explanation": "Linked assembly that carries material through the feeder path."
+        },
+        {
+          "locator": "label",
+          "name": "Head shaft",
+          "explanation": "Shaft at the head end of the feeder assembly."
+        }
+      ]
+    },
+    {
+      "id": "auger-assembly",
+      "document": "CAT-07",
+      "source_page": 15,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Auger parts: identify the assembly",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/auger-assembly.png",
+      "crop_points": [
+        24.48,
+        55.440000000000005,
+        593.64,
+        459.35999999999996
+      ],
+      "image_pixels": [
+        1581,
+        1122
+      ],
+      "sha256": "e5a5a66b432c79e6e9ed48898a3f1bc8c32f641182ca4d7850e087f73f49033d",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "label",
+          "name": "Auger segments",
+          "explanation": "Spiral sections that move mixture across the width."
+        },
+        {
+          "locator": "label",
+          "name": "Deflector",
+          "explanation": "Guides material near the auger assembly."
+        },
+        {
+          "locator": "label",
+          "name": "Auger bearings",
+          "explanation": "Support the rotating auger shaft."
+        },
+        {
+          "locator": "label",
+          "name": "Auger shaft",
+          "explanation": "Shaft on which the auger segments are mounted."
+        }
+      ]
+    },
+    {
+      "id": "paver-undercarriage",
+      "document": "CAT-07",
+      "source_page": 19,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Paver contact with the ground",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/paver-undercarriage.png",
+      "crop_points": [
+        30.6,
+        63.36,
+        587.52,
+        712.8000000000001
+      ],
+      "image_pixels": [
+        1547,
+        1804
+      ],
+      "sha256": "8bcb77e4b8f0c94930f9394cc198f2e082db7421faa895e6cfa2c842553d6e41",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "photo",
+          "name": "Smooth belt",
+          "explanation": "Ground-contact belt used on the illustrated track arrangement."
+        },
+        {
+          "locator": "photo",
+          "name": "Track pads",
+          "explanation": "Wear/contact pads on the illustrated track arrangement."
+        },
+        {
+          "locator": "photo",
+          "name": "Track plow",
+          "explanation": "Scraper ahead of the track contact area."
+        }
+      ]
+    },
+    {
+      "id": "screed-plates",
+      "document": "CAT-07",
+      "source_page": 22,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Screed plates and heating components",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/screed-plates.png",
+      "crop_points": [
+        24.48,
+        55.440000000000005,
+        593.64,
+        340.56
+      ],
+      "image_pixels": [
+        1581,
+        792
+      ],
+      "sha256": "f6ccc5295de8c821c82496ea37da5a2dfd82672661332d3f0ffd0644d615e89a",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "label",
+          "name": "Deflectors",
+          "explanation": "Guide material at the screed assembly."
+        },
+        {
+          "locator": "label",
+          "name": "Screed plates",
+          "explanation": "Lower wear surfaces that contact the placed mixture."
+        },
+        {
+          "locator": "label",
+          "name": "Nose bars",
+          "explanation": "Wear components at the leading part of the screed plate arrangement."
+        },
+        {
+          "locator": "label",
+          "name": "Heating elements",
+          "explanation": "Heat the applicable electrically heated screed components."
+        }
+      ]
+    },
+    {
+      "id": "tamper-screed",
+      "document": "CAT-07",
+      "source_page": 28,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Look inside a tamper-bar screed",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/tamper-screed.png",
+      "crop_points": [
+        24.48,
+        71.28,
+        593.64,
+        467.28
+      ],
+      "image_pixels": [
+        1581,
+        1100
+      ],
+      "sha256": "0b1ba4150a91195bae823e7dc4a126f1470fbf278ecf96ba9562e0c7e1419757",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "label",
+          "name": "Deflector",
+          "explanation": "Material-guiding component."
+        },
+        {
+          "locator": "label",
+          "name": "Tamper blade",
+          "explanation": "Working element in the tamping assembly."
+        },
+        {
+          "locator": "label",
+          "name": "Tamper bar",
+          "explanation": "Bar assembly that provides tamping action."
+        },
+        {
+          "locator": "label",
+          "name": "Wear plate",
+          "explanation": "Replaceable wear surface in the illustrated assembly."
+        },
+        {
+          "locator": "label",
+          "name": "Screed plate",
+          "explanation": "Surface that shapes the mat."
+        },
+        {
+          "locator": "label",
+          "name": "Heating element",
+          "explanation": "Heater for the applicable component."
+        },
+        {
+          "locator": "label",
+          "name": "Tamper motor",
+          "explanation": "Drive component for the tamping system."
+        }
+      ]
+    },
+    {
+      "id": "grade-sensors",
+      "document": "CAT-07",
+      "source_page": 34,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Identify grade and slope sensors",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/grade-sensors.png",
+      "crop_points": [
+        24.48,
+        63.36,
+        593.64,
+        728.64
+      ],
+      "image_pixels": [
+        1581,
+        1848
+      ],
+      "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "photo",
+          "name": "Sonic grade sensor",
+          "explanation": "Non-contact grade-reference sensor."
+        },
+        {
+          "locator": "photo",
+          "name": "Mechanical grade sensor",
+          "explanation": "Contacting sensor with a wand/riding shoe."
+        },
+        {
+          "locator": "photo",
+          "name": "Extendable sonic grade sensor",
+          "explanation": "Sonic sensor with an extendable mounting arrangement."
+        },
+        {
+          "locator": "photo",
+          "name": "Extendable mechanical grade sensor",
+          "explanation": "Mechanical sensor with an extendable mounting arrangement."
+        },
+        {
+          "locator": "photo",
+          "name": "Slope sensor",
+          "explanation": "Sensor associated with the transverse beam for slope information."
+        }
+      ]
+    },
+    {
+      "id": "feed-sensors",
+      "document": "CAT-07",
+      "source_page": 43,
+      "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+      "title": "Feed sensing and hopper information",
+      "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "file": "assets/figures/feed-sensors.png",
+      "crop_points": [
+        24.48,
+        55.440000000000005,
+        593.64,
+        736.5600000000001
+      ],
+      "image_pixels": [
+        1581,
+        1892
+      ],
+      "sha256": "0222e8232bcd17d9b341ecda650e64b0cd27cb2a84b0192c92c85084d947dec8",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "photo",
+          "name": "Sonic material feed sensors",
+          "explanation": "Sense material around conveyor discharge or auger ends in the applicable arrangement."
+        },
+        {
+          "locator": "photo",
+          "name": "Paddle material feed sensors",
+          "explanation": "Contacting material sensors in the auger chamber."
+        },
+        {
+          "locator": "photo",
+          "name": "Hopper material level and temperature sensor",
+          "explanation": "Reports hopper material information on applicable configurations."
+        }
+      ]
+    },
+    {
+      "id": "milling-rotor",
+      "document": "CAT-08",
+      "source_page": 8,
+      "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "title": "Cutting system: rotor details",
+      "scope": "Cat System K rotor example. Other rotor systems and retaining arrangements differ; no change-out procedure is taught here.",
+      "file": "assets/figures/milling-rotor.png",
+      "crop_points": [
+        42.84,
+        411.84000000000003,
+        550.8000000000001,
+        728.64
+      ],
+      "image_pixels": [
+        1411,
+        880
+      ],
+      "sha256": "373cc3df44101aaf6120980db9d4701668f04a4343911a06e4932177c5a248ee",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "label",
+          "name": "Kicker paddles",
+          "explanation": "Move cut material through the rotor system."
+        },
+        {
+          "locator": "label",
+          "name": "Fastener-free toolholder",
+          "explanation": "Holds the applicable cutting tool in the illustrated System K design."
+        },
+        {
+          "locator": "detail",
+          "name": "Tooth / cutting bit",
+          "explanation": "Cutting tool that contacts the material being removed."
+        }
+      ]
+    },
+    {
+      "id": "cutting-chamber",
+      "document": "CAT-08",
+      "source_page": 18,
+      "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "title": "Four wear components around the cutting chamber",
+      "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "file": "assets/figures/cutting-chamber.png",
+      "crop_points": [
+        24.48,
+        55.440000000000005,
+        593.64,
+        467.28
+      ],
+      "image_pixels": [
+        1581,
+        1144
+      ],
+      "sha256": "4bf13585b06b997ab0222569da13b97906c529b5a7edb05f907088aaf248f495",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Anti-slab wear skis",
+          "explanation": "Wear surfaces associated with the anti-slab arrangement."
+        },
+        {
+          "locator": "2",
+          "name": "Moldboard cutting edges",
+          "explanation": "Wear edges at the rear of the cutting chamber."
+        },
+        {
+          "locator": "3",
+          "name": "Sidegate wear skis",
+          "explanation": "Wear surfaces at the chamber sides."
+        },
+        {
+          "locator": "4",
+          "name": "Inboard grade control wear ski",
+          "explanation": "Wear ski used with the inboard grade-control arrangement."
+        }
+      ]
+    },
+    {
+      "id": "rotor-drive",
+      "document": "CAT-08",
+      "source_page": 22,
+      "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "title": "Rotor drive components",
+      "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "file": "assets/figures/rotor-drive.png",
+      "crop_points": [
+        24.48,
+        63.36,
+        593.64,
+        467.28
+      ],
+      "image_pixels": [
+        1581,
+        1122
+      ],
+      "sha256": "5d9c84bba0c0ba1f4894d17e0b3b8cc5c5f18ba2477a17532298bc747d893947",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Rotor drive belt",
+          "explanation": "Transfers drive through the rotor-drive arrangement."
+        },
+        {
+          "locator": "2",
+          "name": "Tensioner idler",
+          "explanation": "Idler on the belt tensioner arm."
+        },
+        {
+          "locator": "3",
+          "name": "Sheave",
+          "explanation": "Grooved wheel that interfaces with the rotor drive belt."
+        }
+      ]
+    },
+    {
+      "id": "milling-conveyor",
+      "document": "CAT-08",
+      "source_page": 25,
+      "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "title": "Every numbered component in this conveyor diagram",
+      "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "file": "assets/figures/milling-conveyor.png",
+      "crop_points": [
+        24.48,
+        63.36,
+        593.64,
+        435.6
+      ],
+      "image_pixels": [
+        1581,
+        1034
+      ],
+      "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Guide rollers",
+          "explanation": "Guide the conveyor belt."
+        },
+        {
+          "locator": "2",
+          "name": "Trough rollers",
+          "explanation": "Support the belt in a trough shape."
+        },
+        {
+          "locator": "3",
+          "name": "Return idlers",
+          "explanation": "Support the returning portion of the belt."
+        },
+        {
+          "locator": "4",
+          "name": "Tail pulley",
+          "explanation": "Pulley at the tail end of the conveyor."
+        },
+        {
+          "locator": "5",
+          "name": "Tail pulley bearings",
+          "explanation": "Support the tail pulley on both sides."
+        },
+        {
+          "locator": "6",
+          "name": "Bunk rollers",
+          "explanation": "Support the belt in the material-loading area."
+        },
+        {
+          "locator": "7",
+          "name": "Head pulley",
+          "explanation": "Pulley associated with the conveyor drive end."
+        }
+      ]
+    },
+    {
+      "id": "milling-undercarriage",
+      "document": "CAT-08",
+      "source_page": 32,
+      "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+      "title": "Every numbered component in this track diagram",
+      "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "file": "assets/figures/milling-undercarriage.png",
+      "crop_points": [
+        24.48,
+        63.36,
+        593.64,
+        435.6
+      ],
+      "image_pixels": [
+        1581,
+        1034
+      ],
+      "sha256": "e716b951031fca60e4ff8712e3853ab78340bd70bcbcbb2e8f632781d8c9d7ce",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Track pads",
+          "explanation": "Ground-contact pads on this undercarriage."
+        },
+        {
+          "locator": "2",
+          "name": "Sprockets",
+          "explanation": "Transfer driving loads into the tracks."
+        },
+        {
+          "locator": "3",
+          "name": "Rollers",
+          "explanation": "Support/guide the track arrangement."
+        },
+        {
+          "locator": "4",
+          "name": "Idlers",
+          "explanation": "Guide the track at the idler end."
+        },
+        {
+          "locator": "5",
+          "name": "Track shoes",
+          "explanation": "Interface with the track pads in this arrangement."
+        },
+        {
+          "locator": "6",
+          "name": "Track chain",
+          "explanation": "Linked track assembly that travels around the undercarriage."
+        }
+      ]
+    },
+    {
+      "id": "roller-controls",
+      "document": "CAT-10",
+      "source_page": 41,
+      "source_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+      "title": "Locate all 19 original roller-control callouts",
+      "scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Illustration 39 has 1–5; Illustration 40 has 6–19. Optional items retain “if equipped.”",
+      "file": "assets/figures/roller-controls.png",
+      "crop_points": [
+        27.54,
+        55.440000000000005,
+        584.4599999999999,
+        570.24
+      ],
+      "image_pixels": [
+        1548,
+        1430
+      ],
+      "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Steering wheel",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "2",
+          "name": "Right propel control",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "3",
+          "name": "Traction Control Switch (if equipped)",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "4",
+          "name": "12V power receptacle",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "5",
+          "name": "Left propel control (if equipped)",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "6",
+          "name": "Emergency stop knob",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "7",
+          "name": "Work lights",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "8",
+          "name": "Front/Position lights",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "9",
+          "name": "Turn signal",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "10",
+          "name": "Hazard lights",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "11",
+          "name": "Gauges and indicators",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "12",
+          "name": "Parking brake",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "13",
+          "name": "Horn",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "14",
+          "name": "Water spray system",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "15",
+          "name": "Engine start switch",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "16",
+          "name": "Vibratory mode / Emulsion switch",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "17",
+          "name": "Engine speed",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "18",
+          "name": "Beacon",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        },
+        {
+          "locator": "19",
+          "name": "Digital display",
+          "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+        }
+      ]
+    },
+    {
+      "id": "steering-frame-lock",
+      "document": "CAT-10",
+      "source_page": 38,
+      "source_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+      "title": "Articulation and the steering frame lock",
+      "scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Read the complete source page for locking/unlocking instructions; this task is identification only.",
+      "file": "assets/figures/steering-frame-lock.png",
+      "crop_points": [
+        12.24,
+        277.2,
+        306.0,
+        459.35999999999996
+      ],
+      "image_pixels": [
+        816,
+        506
+      ],
+      "sha256": "ca8fff26426b405e843d77a89862fea609639bffc4dc312c86a36dfc0d03bef8",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "1",
+          "name": "Pin",
+          "explanation": "Retaining pin identified in the source illustration."
+        },
+        {
+          "locator": "2",
+          "name": "Eye hole",
+          "explanation": "Alignment opening identified in the source illustration."
+        },
+        {
+          "locator": "assembly",
+          "name": "Steering frame lock",
+          "explanation": "Mechanical assembly used to restrict articulation under the manual’s specified conditions."
+        }
+      ]
+    },
+    {
+      "id": "grader-articulation",
+      "document": "CAT-12",
+      "source_page": 11,
+      "source_sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+      "title": "Motor grader: articulation pins and bearings",
+      "scope": "12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+      "file": "assets/figures/grader-articulation.png",
+      "crop_points": [
+        0.0,
+        0.0,
+        1224.0,
+        792.0
+      ],
+      "image_pixels": [
+        3400,
+        2200
+      ],
+      "sha256": "45ea9b9594eb02d1ea37284c8fe390a712970a69d7e409fdb58e6158ff05073c",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": []
+    },
+    {
+      "id": "loader-linkage",
+      "document": "CAT-17",
+      "source_page": 6,
+      "source_sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+      "title": "Wheel loader: all 11 lettered pin locations",
+      "scope": "950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+      "file": "assets/figures/loader-linkage.png",
+      "crop_points": [
+        0.0,
+        0.0,
+        893.52,
+        285.12
+      ],
+      "image_pixels": [
+        2482,
+        792
+      ],
+      "sha256": "4542cb63367368a6eca746eb1c993c5e807bc800f3124e911fa8443dfce7635d",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": [
+        {
+          "locator": "A",
+          "name": "Loader arm to front frame",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "B",
+          "name": "Loader arm to coupler/bucket",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "C",
+          "name": "Tilt link to coupler/bucket",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "D",
+          "name": "Tilt lever to tilt link",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "E",
+          "name": "Tilt cylinder to tilt lever",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "F",
+          "name": "Tilt lever pivot",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "G",
+          "name": "Tilt cylinder to front frame",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "K",
+          "name": "Lift cylinder to loader arm",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "Y",
+          "name": "Lift cylinder to front frame",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "S1",
+          "name": "Steering cylinder to rear frame",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        },
+        {
+          "locator": "S2",
+          "name": "Steering cylinder to front frame",
+          "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+        }
+      ]
+    },
+    {
+      "id": "excavator-linkage",
+      "document": "CAT-18",
+      "source_page": 5,
+      "source_sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+      "title": "Mini excavator: undercarriage parts and model table",
+      "scope": "Cat 300–310 family; exact model and serial-prefix tables apply.",
+      "file": "assets/figures/excavator-linkage.png",
+      "crop_points": [
+        0.0,
+        0.0,
+        1224.0,
+        792.0
+      ],
+      "image_pixels": [
+        3400,
+        2200
+      ],
+      "sha256": "b697a7928d3863cc18cc4fab913a90cb466bec951d627689cd63bfc2e3deb9a1",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": []
+    },
+    {
+      "id": "backhoe-components",
+      "document": "CAT-13",
+      "source_page": 4,
+      "source_sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+      "title": "Backhoe loader: glass, lighting, wear and engine parts",
+      "scope": "F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+      "file": "assets/figures/backhoe-components.png",
+      "crop_points": [
+        0.0,
+        0.0,
+        1224.0,
+        792.0
+      ],
+      "image_pixels": [
+        3400,
+        2200
+      ],
+      "sha256": "cf1401ea0dd4b0edc1b1db00bf9f562682a8d04b6484a9c2f53da9a6260f1053",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": []
+    },
+    {
+      "id": "truck-body-liners",
+      "document": "CAT-14",
+      "source_page": 9,
+      "source_sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+      "title": "Articulated truck: dump-body liner locations",
+      "scope": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+      "file": "assets/figures/truck-body-liners.png",
+      "crop_points": [
+        0.0,
+        0.0,
+        1224.0,
+        792.0
+      ],
+      "image_pixels": [
+        3400,
+        2200
+      ],
+      "sha256": "6669f35e291aa8aa476b55d125ccffd7678ebe909f555266504a5f4166f254f7",
+      "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+      "components": []
+    }
+  ],
+  "component_rows": 89,
+  "scope": "Every callout is transcribed for the selected numbered conveyor, undercarriage and roller-control diagrams. Other figures have selected names. The full searchable publications supply additional component tables. This is not an exhaustive serial-specific parts catalogue."
+}

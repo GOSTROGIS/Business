@@ -1,0 +1,1520 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0501-0525.pdf
+SOURCE SHA-256: 8f86167a77c1c36974de30b12d40712ca086d9ddce57eeb869e4becc96719d53
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 501 ===
+Mining and                Estimating Production Off-the-Job
+Earthmoving                ● Rolling Resistance (Mining/Quarry Applications)
+
+
+
+
+ESTIMATING PRODUCTION OFF-THE-JOB
+                                                                    While determining which number to use for Rolling
+   It is often necessary to estimate production of earth­
+                                                                 Resistance, it is important to consider the inherent
+moving machines which will be selected for a job. As a
+                                                                 application nuances and uncertainty. For example, if
+guide, the remainder of the section is devoted to discus­
+                                                                 evaluating uphill propulsion performance, using a higher
+sions of various factors that may affect pro­duc­tion. Some
+                                                                 rolling resistance value would produce a conservative
+of the figures have been rounded for easier calculation.
+                                                                 result. Conversely, for downhill retarding performance, a
+                                                                 lower value would produce a conservative result as the
+Rolling Resistance (Mining/Quarry                                Total Effective Resistance is calculated by subtracting
+Applications)                                                    Rolling Resistance for a downhill application, which is
+   Rolling Resistance (RR) is a measure of the force that        counterintuitive as Rolling Resistance helps downhill.
+must be overcome to roll or pull a wheel over the ground.
+The resistance has two major components: the tire and               It is important to consider the impact of under or
+the terrain. The terrain resistance only is applicable when      overestimating Rolling Resistance and how it can
+there is tire sinkage or road flexing, such that energy is       disproportionately affect performance estimates of trucks
+being lost to the road through the deformation work              with different drive systems. In the case of Electric Drive
+done. The resistance due to sinkage will vary significantly      machines, any change in Rolling Resistance will more
+based on the properties and condition of a given material.       than likely produce a relational change in performance
+Regardless of the degree of surface interaction, the losses      (speed on grade) as their performance curves consist of
+relating to the tire are based primarily on the heat             constant power. Conversely, traditional Mechanical Drive
+generation due to the hysteresis for the rubber under            machines will have a larger range of sensitivity, ranging
+cyclic deformation. The tire losses are sensitive to inflation   from none to significant. For instance, when retarding
+pressure, tire temperature, tread pattern, compound,             downhill, generally the maximum power for a mechanical
+vertical load, tractive force, and velocity.                     drive truck is at high idle speed in each gear, such that a
+   In practice, mining trucks’ haul roads are in good            decrease in Rolling Resistance may have no impact on
+condition and are not subject to terrain induced resistance      speed on one extreme if there is additional capacity
+such as sinkage or flexing. Mines often do have areas of         remaining in that gear, or the speed will decrease by an
+rough ground conditions, but the interaction is limited to       entire gear on the other extreme if capacity in that gear
+the load and dump areas or short seasonal changes.               was exceeded. A similar effect can be seen in uphill
+Performance studies have used speed traps to demonstrate         propulsion where a truck narrowly may or may not
+that mining truck haul ramps present 1.25%-1.5%                  make a shift point based on nominal numbers, which
+effective grade of resistance across a broad range of            will have a sizable impact on speed.
+applications. Rolling resistance reference tables previously        The effect of the Rolling Resistance parameter is no
+have been provided, but these have changed little in 50          different than Machine Weight and Geometric Grade,
+years of publication despite the advances in tire                with the key difference being both of those are directly
+technology, truck size and mining practices. Due to the          measurable at a high level of precision. It is due to this
+applicability and variability of the terramechanics, these       quantification complexity of Rolling Resistance that care
+legacy tables are no longer included.                            should be taken when applying figures such that margin is
+                                                                 included to ensure confidence in the predicted result.
+                                                                    Contact your local Caterpillar representative for
+                                                                 support assessing Rolling Resistance in your application.
+
+
+
+
+25-6
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 502 ===
+Estimating Production Off-the-Job    Mining and
+                       ● Rolling Resistance (Earthmoving and NON-Mining/               Earthmoving
+                                                                Quarry Applications)
+
+
+Rolling Resistance (Earthmoving and NON-
+Mining/Quarry Applications)
+   Rolling Resistance (RR) is a measure of the force
+that must be overcome to roll or pull a wheel over the
+ground. It is affected by ground conditions and load —
+the deeper a wheel sinks into the ground, the higher the
+rolling resistance. Internal friction and tire flexing also
+contribute to rolling resistance. Experience has shown
+that minimum resistance is 1%-1.5% (see Typical Rolling
+Resistance Factors in Tables section) of the gross machine
+weight (on tires). A 2% base resistance is quite often
+used as a conservative estimate. Larger tires and good
+underfoot conditions, typical of hard rock mining
+applications, would lead to estimates on the lower side
+of the minimum rolling resistance range.                                                              25
+   Resistance due to tire penetration is approximately
+1.5% of the gross machine weight for each inch of tire
+penetration (0.6% for each cm of tire penetration).
+Thus rolling resistance can be calculated using these
+relationships in the following manner:
+   RR = 2 % of GMW + 0.6% of GMW per cm tire
+               penetration
+   RR = 2 % of GMW + 1.5% of GMW per inch tire
+               penetration
+   It’s not necessary for the tires to actually penetrate the
+road surface for rolling resistance to increase above the
+minimum. If the road surface flexes under load, the
+effect is nearly the same — the tire is always running
+“uphill.” Only on very hard, smooth surfaces with a well
+compacted base will the rolling resistance approach the
+minimum.
+   When actual penetration takes place, some variation
+in rolling resistance can be noted with various inflation
+pressures and tread patterns.
+NOTE:	When figuring “pull” requirements for track-
+          type tractors, rolling resistance applies only to
+          the trailed unit’s weight on wheels. Since track-
+          type tractors utilize steel wheels moving on
+          steel “roads,” a tractor’s rolling resistance is
+          relatively constant and is accounted for in the
+          Drawbar Pull rating.
+
+
+
+
+                                                                                               25-7
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 503 ===
+Mining and               Estimating Production Off-the-Job
+Earthmoving               ● Grade Resistance
+                          ● Total Resistance
+                          ● Traction
+
+
+   Grade Resistance is a measure of the force that must            Total resistance can also be represented as consisting
+be overcome to move a machine over unfavora­ble grades          completely of grade resistance expressed in percent
+(uphill). Grade assistance is a measure of the force that       grade. In other words, the rolling resistance component
+assists machine movement on favorable grades (downhill).        is viewed as a corresponding quantity of additional
+   Grades are generally measured in percent slope, which        adverse grade resistance. Using this approach, total
+is the ratio between vertical rise or fall and the horizontal   resistance can then be considered in terms of percent
+distance in which the rise or fall occurs. For example, a       grade.
+1% grade is equivalent to a 1 m (ft) rise or fall for every        This can be done by converting the contribution of
+100 m (ft) of horizontal distance; a rise of 4.6 m (15 ft)      rolling resistance into a corresponding percentage of
+in 53.3 m (175 ft) equals an 8.6% grade.                        grade resistance. Since 1% of adverse grade offers a
+              4.6 m (rise)                                      resistance of 10 kg (20 lb) for each metric or (U.S.) ton
+                                    = 8.6% grade                of machine weight, then each 10 kg (20 lb) of resistance
+    53.3 m (horizontal distance)                                per ton of machine weight can be represented as an
+             15 ft (rise)                                       additional 1% of adverse grade. Rolling resistance in
+                                  = 8.6% grade                  percent grade and grade resistance in percent grade can
+    175 ft (horizontal distance)
+                                                                then be summed to give Total Resistance in percent or
+   Uphill grades are normally referred to as adverse            Effective Grade. The following formulas are useful in
+grades and downhill grades as favorable grades. Grade           arriving at Effective Grade.
+resistance is usually expressed as a positive (+) per­cent­
+                                                                Rolling Resistance (%) = 2% + 0.6% per cm tire
+age and grade assistance is expressed as a negative (–)
+                                                                                               penetration
+percentage.                                                                                = 2% + 1.5% per inch tire
+   It has been found that for each 1% increment of                                             penetration
+adverse grade an additional 10 kg (20 lb) of resistance          Grade Resistance (%) = % grade
+must be overcome for each metric (U.S.) ton of machine             Effective Grade (%) = RR (%) + GR (%)
+weight. This relationship is the basis for determining
+the Grade Resistance Factor which is expressed in kg/              Effective grade is a useful concept when working with
+metric ton (lb/U.S. ton):                                       Rimpull-Speed-Gradeability curves, Retarder curves,
+                                                                Brake Performance curves, and Travel Time curves.
+Grade Resistance Factor = 10 kg/m ton  % grade                    Traction — is the driving force developed by a wheel
+                           = 20 lb/U.S. ton  % grade           or track as it acts upon a surface. It is expressed as usable
+   Grade resistance (assistance) is then obtained by mul­       Drawbar Pull or Rimpull. The following factors affect
+tiplying the Grade Resistance Factor by the machine             traction: weight on the driv­ing wheel or tracks, gripping
+weight (GMW) in metric (U.S.) tons.                             action of the wheel or track, and ground conditions.
+Grade Resistance = GR Factor  GMW in metric                   The coefficient of traction (for any roadway) is the ratio
+                          (U.S.) tons                           of the maximum pull developed by the machine to the
+                                                                total weight on the d­ rivers.
+   Grade resistance may also be calculated using per­
+centage of gross weight. This method is based on the                                                   Pull
+relationship that grade resistance is approximately equal                Coeff. of traction =
+                                                                                                weight on drivers
+to 1% of the gross machine weight for 1% of grade.
+                                                                  Therefore, to find the usable pull for a given machine:
+   Grade Resistance = 1% of GMW  % grade
+                                                                  Usable pull = Coeff. of traction  weight on drivers
+   Grade resistance (assistance) affects both wheel and
+track-type machines.                                            Example: Track-Type Tractor
+   Total Resistance is the combined effect of rolling           What usable drawbar pull (DBP) can a 26 800 kg
+resistance (wheel vehicles) and grade resistance. It can        (59,100 lb) Track-type Tractor exert while working on
+be computed by summing the values of rolling resistance         firm earth? on loose earth? (See table section for
+and grade resistance to give a resistance in kilogram           coefficient of traction.)
+(pounds) force.
+        Total Resistance = Rolling Resistance +
+                     Grade Resistance
+
+
+
+
+25-8
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 504 ===
+Estimating Production Off-the-Job                    Mining and
+                                                                     ● Altitude                    Earthmoving
+
+
+
+   Answer:                                                   The horsepower deration due to altitude must be
+Firm earth — Usable DBP =                                  considered in any job estimating. The amount of power
+                      0.90  26 800 kg = 24 120 kg         deration will be reflected in the machine’s gradeability
+                      (0.90  59,100 lb = 53,190 lb)       and in the load, travel, and dump and load times (unless
+Loose earth — Usable DBP =                                 loading is independent of the machine itself). Altitude
+                      0.60  26 800 kg = 16 080 kg         may also reduce retarding performance. Consult a Cat
+                      (0.60  59,100 lb = 35,460 lb)       representative to determine if deration is applicable.
+   If a load required 21 800 kg (48,000 lb) pull to move   Fuel grade (heat content) can have a similar effect of
+it, this tractor could move the load on firm earth.        derating engine performance.
+However, if the earth were loose, the tracks would spin.     The example job problem that follows indicates one
+                                                           method of accounting for altitude deration: by increas­
+NOTE:	Tractors may attain higher coefficients of          ing the appropriate components of the total cycle time
+          traction due to their suspended undercarriage.   by a percentage equal to the percent of horsepower
+Example: Wheel Tractor-Scraper                             deration due to altitude. (i.e., if the travel time of a
+                                                           hauling unit is determined to be 1.00 min­ute at full HP,
+What usable rimpull can a 621F size machine exert          the time for the same machine derated to 90% of full HP                    25
+while working on firm earth? on loose earth? The total     will be 1.10 min.) This is an approx­imate method that
+loaded weight distribution of this unit is:                yields reasonably accurate estimates up to 3000 m
+Drive unit                Scraper unit                     (10,000 feet) elevation.
+wheels: 23 600 kg         wheels: 21 800 kg                  Travel time for hauling units derated more than 10%
+         (52,000 lb)              (48,000 lb)              should be calculated as follows using Rimpull-Speed-
+                                                           Gradeability charts.
+Remember, use weight on drivers only.
+                                                             1) Determine total resistance (grade plus rolling) in
+Answer:
+                                                           percent.
+  Firm earth — 0.55  23 600 kg = 12 980 kg                               GROSS MACHINE WEIGHT (GMW)
+                   (0.55  52,000 lb = 28,600 lb)                                     EMPTY   LOADED
+  Loose earth — 0.45  23 600 kg = 10 620 kg
+                   (0.45  52,000 lb = 23,400 lb)
+  On firm earth this unit can exert up to 12 980 kg
+
+
+
+
+                                                                                                                   TOTAL RESISTANCE
+(28,600 lb) rimpull without excessive slipping. How­
+ever, on loose earth the drivers would slip if more than
+                                                           RIMPULL
+
+
+
+
+10 620 kg (23,400 lb) rimpull were developed.
+                        ● ● ●
+
+
+   Altitude — Specification sheets show how much pull
+a machine can produce for a given gear and speed
+when the engine is operating at rated horsepower.
+When a standard machine is operated in high altitudes,
+                                                                                     SPEED
+the engine may require derating to main­tain normal
+engine life. This engine deration will produce less
+                                                              2) Beginning at point A on the chart follow the total
+drawbar pull or rimpull.
+                                                           resistance line diagonally to its intersection, B, with the
+   Manufacturers through engineering can provide the
+                                                           vertical line corresponding to the appropriate gross
+altitude deration in percent of flywheel horsepower for
+                                                           machine weight. (Rated loaded and empty GMW lines
+current machines. It should be noted that some
+                                                           are shown dotted.)
+turbocharged engines can operate up to 4570 m
+                                                              3) Using a straight-edge, establish a horizontal line
+(15,000 ft) before they require derating. Most machines
+                                                           to the left from point B to point C on the rim-pull scale.
+are engineered to operate up to 1500-2290 m (5000-
+                                                              4) Divide the value of point C as read on the rim-
+7500 ft) before they require deration.
+                                                           pull scale by the percent of total horsepower available
+                                                           after altitude deration from manufacturer. This yields
+                                                           rimpull value D higher than point C.
+
+
+
+                                                                                                                25-9
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 505 ===
+Mining and              Estimating Production Off-the-Job
+Earthmoving              ● Job Efficiency
+                         ● Example Problem (English)
+
+
+
+
+  5) Establish a horizontal line right from point D.            Job Efficiency is one of the most complex elements
+The farthest right intersection of this line with a curved   of estimating production since it is influenced by fac­
+speed range line is point E.                                 tors such as operator skill, minor repairs and adjustments,
+  6) A vertical line down from point E determines            personnel delays, and delays caused by job layout. An
+point F on the speed scale.                                  approximation of efficiency, if no job data is available,
+  7) Multiply speed in kmh by 16.7 (mph by 88) to            is given below.
+obtain speed in m/min (ft/min). Travel time in minutes                                                Efficiency
+for a given distance in feet is determined by the formula:   Operation         Working Hour             Factor
+                        Distance in m (ft)                      Day              50 min/hr               0.83
+     Time (min) =                                               Night            45 min/hr               0.75
+                    Speed in m/min (ft/min)
+  The Travel Time Graphs in sections on Wheel                These factors do not account for delays due to weather
+Tractor-Scrapers and Construction & Mining Trucks            or machine downtime for maintenance and repairs.
+can be used as an alternative method of calculating          You must account for such factors based on experience
+haul and/or return times.                                    and local conditions.
+                                          ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●
+
+The following example provides a method to manually          1. Estimate Payload:
+estimate production and cost. Today, computer pro­           Est. load (LCY)  L.F.  Bank Density = payload
+grams, such as Caterpillar’s Fleet Production and Cost       31 LCY  0.80  3000 lb/BCY = 74,400 lb payload
+Analysis (FPC), provide a much faster and more accurate      2. Establish Machine Weight:
+means to obtain those application results.                   Empty Wt.      — 102,460 lb or 51.27 tons
+                                                             Wt. of Load — 74,400 lb or 37.2 tons
+Example problem (English)
+                                                             Total (GMW) — 176,860 lb or 88.4 tons
+A contractor is planning to put the following spread on      3. Calculate Usable Pull (traction limitation):
+a dam job. What is the estimated production?                 Loaded: (weight on driving wheels = 54%) (GMW)
+Equipment:                                                     Traction Factor  Wt. on driving wheels =
+  11 — 631G Wheel Tractor-Scrapers                                0.50  176,860 lb  54% = 47,628 lb
+   2 — D9T Tractors with C-dozers                            Empty: (weight on driving wheels = 69%) (GMW)
+   2 — 12H Motor Graders                                       Traction Factor  Wt. on driving wheels =
+   1 — 825G Tamping Foot Compactor                                0.50  102,460 lb  69% = 35,394 lb
+                                                             4. Derate for Altitude:
+Material:                                                      Check power available at 7500 ft from altitude
+ Description — Sandy clay; damp, natural bed                 deration percentage from manufacturer.
+ Bank Density — 3000 lb/BCY                                    631G — 100%                   12H — 83%
+ Load Factor — 0.80                                            D9T — 100%                    825G —100%
+ Shrinkage Factor — 0.85
+ Traction Factor — 0.50
+ Altitude — 7500 ft
+                                                                                               0% Grade
+Job Layout — Haul and Return:                                              e
+                                                                       rad
+                                                                  4% G
+        0% Grade                     0% Grade                                      '     Sec. D — Fill 400'
+                                                                            10 0 0
+                                                                     — Haul              RR = 200 lb/ton
+                                                                   C
+   Sec. A — Cut 400'            Sec. B — Haul 1500'          Sec. 0 lb/ton               Eff. Grade = 10%
+                                                                    8
+   RR = 200 lb/ton              RR = 80 lb/ton               RR = rade = 8%
+   Eff. Grade = 10%             Eff. Grade = 4%               Eff. G
+
+Total Effective Grade = RR (%) ± GR (%)
+Sec. A: Total Effective Grade = 10% + 0% = 10%
+Sec. B: Total Effective Grade = 4% + 0% = 4%
+Sec. C: Total Effective Grade = 4% + 4% = 8%
+Sec. D: Total Effective Grade = 10% + 0% = 10%
+
+
+
+25-10
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 506 ===
+Estimating Production Off-the-Job                  Mining and
+                                                      ● Example Problem (English)                   Earthmoving
+
+
+
+  Then adjust if necessary:                                   6. Compare Total Resistance to Tractive Effort on return:
+Load Time — controlled by D9T, at 100% power, no              Grade Assistance —
+  change.                                                     GA = 20 lb/ton  tons  negative grade in percent
+Travel, Maneuver and Spread time — 631G, no change.             Sec. C: = 2 0 lb/ton  51.2 tons  4% grade =
+5. Compare Total Resistance to Tractive Effort on haul:                   4096 lb
+Grade Resistance —                                            Rolling Resistance —
+GR = lb/ton  tons  adverse grade in percent                 RR = RR Factor  Empty Wt (tons)
+  Sec. C: = 20 lb/ton  88.4 tons  4% grade =                  Sec. D: = 200 lb/ton  51.2 tons = 10,240 lb
+           7072 lb                                               Sec. C: = 80 lb/ton  51.2 tons = 1,4091 lb
+Rolling Resistance —                                             Sec. B: = 80 lb/ton  51.2 tons = 1,4091 lb
+RR = RR Factor (lb/ton)  GMW (tons)                             Sec. A: = 200 lb/ton  51.2 tons = 10,240 lb
+  Sec. A: = 200 lb/ton  88.4 tons = 17,686 lb                Total Resistance —
+  Sec. B: = 80 lb/ton  88.4 tons = 1,7072 lb                 TR = RR – GA
+  Sec. C: = 80 lb/ton  88.4 tons = 1,7072 lb                    Sec. D: = 10,240 lb –      0  = 10,240 lb
+  Sec. D: = 200 lb/ton  88.4 tons = 17,686 lb                   Sec. C: = 4096 lb – 4096 lb = 0                          25
+Total Resistance —                                               Sec. B: = 4096 lb –        0  = 1,4096 lb
+TR = RR + GR                                                     Sec. A: = 10,240 lb –      0  = 10,240 lb
+   Sec. A: = 17,686 lb +      0   = 17,686 lb                    Check usable pounds pull against maximum pounds
+   Sec. B: = ,7072 lb +       0   = 1,7072 lb                 pull required to move the 631G.
+   Sec. C: = ,7072 lb + 6496 lb = 14,144 lb                      Pounds pull usable … 35,349 lb empty
+   Sec. D: = 17,686 lb +      0   = 17,686 lb                    Pounds pull required … 10,240 lb
+   Check usable pounds pull against maximum pounds               Estimate travel time for return from 631G empty
+pull required to move the 631G.                               travel time curve.
+   Pull usable … 47,628 lb loaded                                Travel time (from curves):
+   Pull required … 17,686 lb maximum total ­resistance             Sec. A: 0.40 min
+   Estimate travel time for haul from 631G (loaded)                Sec. B: 0.55
+travel time curve; read travel time from distance and              Sec. C: 0.80
+effective grade.                                                   Sec. D: 0.40
+   Travel time (from curves):                                              2.15 min
+     Sec. A: 0.60 min                                         7. Estimate Cycle Time:
+     Sec. B: 1.00                                             Total Travel Time (Haul plus Return) = 5.55 min
+     Sec. C: 1.20                                             Adjusted for altitude: 100%  5.55 min = 5.55 min
+     Sec. D: 0.60                                             Load Time                                0.7 min
+            3.40 min                                          Maneuver and Spread Time                 0.7 min
+NOTE: This is an estimate only; it does not account for      Total Cycle Time                            6.95 min
+     all the acceleration and deceleration time, there­fore
+     it is not as accurate as the infor­mation obtained
+     from a computer program.
+
+
+
+
+                                                                                                                 25-11
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 507 ===
+Mining and             Estimating Production Off-the-Job
+Earthmoving             ● Example Problem (English)
+                        ● Example Problem (Metric)
+
+
+
+
+8. Check pusher-scraper combinations:                     10. Estimate Compaction:
+  Pusher cycle time consists of load, boost, return and   Compaction     = S.F.  hourly fleet production
+maneuver time. Where actual job data is not available,      requirement = 0.85  1947 BCY/hr
+the following may be used.                                               = 1655 CCY/hr
+       Boost time = 0.10 minute                           Compaction capability (given the following):
+      Return time = 40% of load time                        Compacting width, 7.4 ft                 (W)
+  Maneuver time = 0.15 minute                               Average compacting speed, 6 mph          (S)
+Pusher cycle time = 140% of load time + 0.25 minute        Compacted lift thickness, 7 in           (L)
+Pusher cycle time = 140% of 0.7 min + 0.25 minute           No. of passes required, 3                (P)
+                  = 0.98 + 0.25 = 1.23 minute             825G production =
+  Scraper cycle time divided by pusher cycle time indi­             W  S  L  16.3
+cates the number of scrapers which can be handled by      CCY/hr =                        (conversion constant)
+each pusher.                                                                  P
+                   6.95 min                                          7.4  6  7  16.3
+                              = 5.65                      CCY/hr =
+                   1.23 min                                                   3
+  Each push tractor is capable of handling five plus      CCY/hr = 1688 CCY/hr
+scrapers. Therefore the two pushers can adequately          Given the compaction requirement of 1655 CCY/hr,
+serve the eleven scrapers.                                the 825G is an adequate compactor match-up for the
+9. Estimate Production:                                   rest of the fleet. However, any change to job layout
+Cycles/hour      = 60 min ÷ Total cycle time              that would increase fleet production would upset this
+                 = 60 min/hr ÷ 6.95 min/cycle             balance.
+                 = 8.6 cycles/hr
+                                                                                  ● ● ●
+Estimated load = Heaped capacity  L.F.
+                 = 31 LCY  0.80
+                 = 24.8 BCY                               Example problem (Metric)
+Hourly unit      = Est. load  cycles/hr
+                                                          A contractor is planning to put the following spread on
+  production = 24.8 BCY  8.6 cycles/hr
+                                                          a dam job. What is the estimated production?
+                 = 213 BCY/hr
+Adjusted         = Efficiency factor  hourly             Equipment:
+  production          production                            11 — 631G Wheel Tractor-Scrapers
+                 = 0.83 (50 min hour)  213 BCY              2 — D9T Tractors with C-dozers
+                 = 177 BCY/hr                                2 — 12H Motor Graders
+Hourly fleet     = Unit production  No. of units            1 — 825G Tamping Foot Compactor
+  production = 177 BCY/hr  11                            Material:
+                 = 1947 BCY/hr                              Description — Sandy clay; damp, natural bed
+                                                            Bank Density — 1770 kg/BCM
+                                                            Load Factor — 0.80
+                                                            Shrinkage Factor — 0.85
+                                                            Traction Factor — 0.50
+                                                            Altitude — 2300 meters
+
+
+
+
+25-12
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 508 ===
+Estimating Production Off-the-Job                   Mining and
+                                                   ● Example Problem (Metric)                     Earthmoving
+
+
+
+Job Layout — Haul and Return:                                         e
+                                                                                            0% Grade
+                                                                   rad
+                                                              4% G
+        0% Grade                   0% Grade                                           Sec. D — Fill 150 m
+                                                                        30 0 m
+                                                                   Haul               RR = 100 kg/t
+                                                                C—
+  Sec. A — Cut 150 m          Sec. B — Haul 450 m         Sec. 0 kg/t                 Eff. Grade = 10%
+                                                                 4
+  RR = 100 kg/t               RR = 40 kg/t                RR = rade = 8%
+  Eff. Grade = 10%            Eff. Grade = 4%              Eff. G
+
+
+
+
+Total Effective Grade = RR (%) ± GR (%)                   Rolling Resistance —
+Sec. A: Total Effective Grade = 10% + 0% = 10%            RR = RR Factor (kg/mton)  GMW (metric tons)
+Sec. B: Total Effective Grade = 4% + 0% = 4%                 Sec. A: = 1 00 kg/metric ton  80.48 metric tons
+Sec. C: Total Effective Grade = 4% + 4% = 8%                           = 8048 kg
+Sec. D: Total Effective Grade = 10% + 0% = 10%               Sec. B: =   40 kg/metric ton  80.48 metric tons
+                                                                      = 3219 kg
+1. Estimate Payload:                                         Sec. C: =   40 kg/metric ton  80.48 metric tons
+Est. load (LCM)  L.F.  Bank Density = payload                                                                          25
+                                                                       = 3219 kg
+24 LCM  0.80  1770 kg/BCM = 34 000 kg payload              Sec. D: = 100 kg/metric ton  80.48 metric tons
+2. Machine Weight:                                                     = 8048 kg
+Empty Wt.     — 46 475 kg or 46.48 metric tons            Total Resistance —
+Wt. of Load — 34 000 kg or 34 metric tons                 TR = RR + GR
+Total (GMW) — 80 475 kg or 80.48 metric tons                 Sec. A: = 8048 kg +        0   = 8048 kg
+3. Calculate Usable Pull (traction limitation):              Sec. B: = 3219 kg +        0   = 3219 kg
+Loaded: (weight on driving wheels = 54%) (GMW)               Sec. C: = 3219 kg + 3219 kg = 6438 kg
+  Traction Factor  Wt. on driving wheels =                  Sec. D: = 8048 kg +        0   = 8048 kg
+     0.50  80 475 kg  54% = 21 728 kg                      Check usable kilogram force against maximum
+Empty: (weight on driving wheels = 69%) (GMW)             kilogram force required to move the 631G.
+  Traction Factor  Wt. on driving wheels =                  Force usable … 21 728 kg loaded
+     0.50  46 475 kg  69% = 16 034 kg                      Force required … 8048 kg maximum total ­resistance
+4. Derate for Altitude:                                      Estimate travel time for haul from 631G (loaded)
+  Check power available at 2300 m from altitude           travel time curve; read travel time from distance and
+deration percentage from manufacturer.                    effective grade.
+  631G — 100%          12H — 83%                             Travel time (from curves):
+  D9T — 100%           825G — 100%                             Sec. A: 0.60 min
+                                                               Sec. B: 1.00
+  Then adjust if necessary:
+                                                               Sec. C: 1.20
+Load Time — controlled by D9T, at 100% power, no
+                                                               Sec. D: 0.60
+  change.
+Travel, Maneuver and Spread time — 631G, no change.                     3.40 min
+5. Compare Total Resistance to Tractive Effort on haul:   NOTE:	This is an estimate only; it does not account for all
+Grade Resistance —                                                the acceleration and deceleration time, there­fore
+GR = 1 0 kg/metric ton  tons  adverse grade                   it is not as accurate as the information obtained
+         in percent                                               from a computer program.
+  Sec. C: = 10 kg/metric ton  80.48 metric tons  4%    6. Compare Total Resistance to Tractive Effort on return:
+             grade = 3219 kg                              Grade Assistance —
+                                                          GA = 10 k  g/mton  metric tons  negative grade
+                                                                   in percent
+                                                            Sec. C: = 1 0 kg/metric ton  46.48 metric tons
+                                                                        4% grade = 1859 kg
+
+
+
+
+                                                                                                               25-13
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 509 ===
+Mining and             Estimating Production Off-the-Job
+Earthmoving             ● Example Problem (Metric)
+
+
+
+
+Rolling Resistance —                                        Each push tractor is capable of handling five plus
+RR = RR Factor  Empty Wt.                                scrapers. Therefore the two pushers can adequately
+  Sec. D: = 100 kg/metric ton  46.48 metric tons         serve the eleven scrapers.
+               = 4648 kg                                  9. Estimate Production:
+  Sec. C: = 40 kg/metric ton  46.48 metric tons          Cycles/hour      = 60 min ÷ Total cycle time
+               = 1859 kg                                                   = 60 min/hr ÷ 6.95 min/cycle
+  Sec. B: = 40 kg/metric ton  46.48 metric tons
+                                                                           = 8.6 cycles/hr
+               = 1859 kg
+  Sec. A: = 100 kg/metric ton  46.48 metric tons         Estimated load = Heaped capacity  L.F.
+               = 4648 kg                                                   = 24 LCM  0.80
+                                                                           = 19.2 BCM
+Total Resistance —                                        Hourly unit      = Est. load  cycles/hr
+TR = RR – GA                                                production = 19.2 BCM  8.6 cycles/hr
+   Sec. D: = 4648 kg –      0   = 4648 kg                                  = 165 BCM
+   Sec. C: = 1859 kg – 1859 kg = 0                        Adjusted         = Efficiency factor  hourly
+   Sec. B: = 1859 kg –      0   = 1859 kg                   production          production
+   Sec. A: = 4648 kg –      0   = 4648 kg                                  = 0.83 (50 min hour)  165 BCM
+   Check usable kilogram force against maximum force                       = 137 BCM/hour
+required to move the 631G.                                Hourly fleet     = Unit production  No. of units
+   Kilogram force usable … 16 034 kg empty                  production = 137 BCM/hr  11 units
+   Kilogram force required … 4645 kg                                       = 1507 BCM/hr
+   Estimate travel time for return from 631G empty        10. Estimate Compaction:
+travel time curve.                                        Compaction       = S.F.  hourly fleet production
+   Travel time (from curves):                               requirement = 0.85  1507 BCM/hr
+     Sec. A: 0.40 min                                                      = 1280 CCM/hr
+     Sec. B: 0.55                                         Compaction capability (given the following):
+     Sec. C: 0.80                                           Compacting width, 2.26 m                  (W)
+     Sec. D: 0.40                                           Average compacting speed, 9.6 km/h        (S)
+             2.15 min                                       Compacted lift thickness, 18 cm           (L)
+7. Estimate Cycle Time:                                     No. of passes required, 3                 (P)
+Total Travel Time (Haul plus Return) = 5.55 min           825G production =
+Adjusted for altitude: 100%  5.55 min = 5.55 min                       W  S  L  10
+Load Time                                 0.7 min         CCY/hr =                           (conversion factor)
+                                                                                P
+Maneuver and Spread Time                  0.7 min
+                                                                     2.26  9.6  18  10
+Total Cycle Time                          6.95 min        CCY/hr =
+                                                                               3
+8. Check pusher-scraper combinations:
+  Pusher cycle time consists of load, boost, return and   CCY/hr = 1302
+maneuver time. Where actual job data is not available,      Given the compaction requirement of 1280 CCM/h,
+the following may be used.                                the 825G is an adequate compactor match-up for the
+       Boost time = 0.10 minute                           rest of the fleet. However, any change to job layout
+     Return time = 40% of load time                       that would increase fleet production would upset this
+  Maneuver time = 0.15 minute                             balance.
+Pusher cycle time = 140% of load time + 0.25 minute                               ● ● ●
+Pusher cycle time = 140% of 0.7 min + 0.25 minute
+                  = 0.98 + 0.25 = 1.23 minute
+  Scraper cycle time divided by pusher cycle time
+indicates the number of scrapers which can be handled
+by each pusher.
+                   6.95 min
+                              = 5.65
+                   1.23 min
+
+25-14
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 510 ===
+Estimating Production Off-the-Job                   Mining and
+                                                                        Systems                    Earthmoving
+                                                     ● Economic Haul Distances
+
+
+
+
+SYSTEMS                                                        Haul System Selection: In selecting a hauling system
+                                                            for a project, there may seem to be more than one
+  Caterpillar offers a variety of machines for differ­ent
+                                                            “right” choice. Many systems may meet the distance,
+applications and jobs. Many of these separate machines
+                                                            ground conditions, grade, material type, and produc­
+function together in mining and earthmoving systems.
+                                                            tion rate requirements. After considering all of the
+● Bulldozing with track-type tractors                       different factors, one hauling system usually provides
+● Load-and-Carry with wheel loaders                         better performance. This makes it critical for the dealer
+● Scrapers self-loading, elevator, auger, or push-pull      and customer to work together to get accurate infor­
+  configurations, or push-loaded by track-type t­ ractors   ma­tion for their operation or project. Caterpillar is com­
+● Articulated trucks loaded by excavators, track load-      mitted to providing the correct earthmoving system to
+  ers or wheel loaders                                      match the customer’s specific needs.
+● Off-highway trucks loaded by shovels, excavators or
+                                                                                     ● ● ●
+  wheel loaders
+
+
+                        GENERAL LOADED HAUL DISTANCES FOR MOBILE SYSTEMS                                                  25
+
+
+
+                 Track-Type Tractor
+
+                     Wheel Loader
+
+            Wheel Tractor-Scraper
+
+                  Articulated Truck
+
+                  Rear Dump Truck
+                                      10 m        100 m     1000 m       10 000 m
+                                      33 ft       328 ft    3,280 ft     32,800 ft
+
+
+                                              LOADED HAUL DISTANCE
+
+
+
+
+                                                                                                                25-15
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 511 ===
+Mining and                      ● RI Pass Match Guide
+Earthmoving
+
+
+
+                            Large Wheel Loader                  Hydraulic Mining Shovel                 Electric Rope Shovel
+    MODEL
+                     986   988 990 992 993        994   6015   6020 6030 6040 6060        6090   7295   7395 7495HD 7495 7495HF
+               770    4     3                             3
+Off-Highway
+
+
+
+
+               772    5     4                            3-4
+   Trucks
+
+
+
+
+               773    6     5     3                      4-5    3
+               775          6     4    3                 4-5   3-4
+               777                6   4-5   3-4          6-7   4-5    3-4
+               785                     7     6    3-4          6-7    4-5    4                    3
+               789                           7    4-5                 5-6    5      3             4      3     3
+Large Mining
+
+
+
+
+               793                                5-6                        6      4                    4     3
+   Trucks
+
+
+
+
+               794                                7-8                               5     3-4            4     4     3     3
+               796                                                                 5-6    3-4                  4     3     3
+               797                                                                  6      4                         4     4
+               798                                                                  6      4                         4     4
+
+
+
+
+25-16
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 512 ===
+Production Estimating                      Mining and
+                                                              ● Loading Match                      Earthmoving
+                                             Fuel Consumption and Productivity
+
+
+PRODUCTION ESTIMATING                                       FUEL CONSUMPTION AND PRODUCTIVITY
+  Loading Match — Loading tools have a production              Fuel efficiency is the term used to relate fuel con­
+range that varies with material, bucket config­uration,     sumption and machine productivity. It is expressed in
+target size, operator skill and load area conditions. The   units of material moved per volume of fuel consumed.
+loader/truck matches given in the following table are       Common units are cubic meters or tonnes per liter of
+with the typical number of passes and production range.     fuel (cubic yards or tons/gal). Determin­ing fuel effi­
+  Your Cat® dealer can provide advice and estimates         ciency requires measuring both fuel consumption and
+based on your specific conditions.                          production.
+                                                               Measuring fuel consumption involves tapping into
+                                                            the vehicle’s fuel supply system — without contami­­
+                                                            nating the fuel. The amount of fuel consumed d     ­ uring
+                                                            operation is then measured on a weight or ­volumetric basis
+                                                            and correlated with the amount of work the machine
+                                                            has done. Most Cat machines can record fuel consumed
+                                                            with rela­tive accuracy, given the engine is performing       25
+                                                            close to specifications.
+
+
+
+Cat Earthmoving and Mining Systems                          Cat Aggregate Systems
+Production/50 Min. Hr.                                      Production/50 Min. Hr.
+  Please refer to the individual machine section for pro­     Please refer to the individual machine section for pro­
+duc­tion targets.                                           duc­tion targets.
+
+
+
+
+                                                                                                                25-17
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 513 ===
+Mining and              Formulas and Rules of Thumb
+Earthmoving
+
+
+
+FORMULAS AND RULES OF THUMB                           Total Resistance
+Production, hourly                                      = Rolling Resistance (kg or lb) + Grade Resistance
+                        = Load (BCM)/cycle                                                        (kg or lb)
+                            cycles/hr
+                                                      Total Effective Grade (%) = RR (%) + GR (%)
+                        = Load (BCY)/cycle 
+                            cycles/hr                 Usable pull (traction limitation)
+                                                        = Coeff. of traction  weight on drivers
+                                100%
+Load Factor (L.F.)      =                               = Coeff. of traction  (Total weight  % on drivers)
+                            100% + % swell            Pull required = Rolling Resistance + Grade Resistance
+Load (bank measure) = Loose cubic meters
+                                                      Pull required = Total Resistance
+                        (LCM)  L.F.
+                                                      Total Cycle Time = Fixed time + Variable time
+                        = Loose cubic yards (LCY)
+                                                      Fixed time: See respective machine production ­section.
+                             L.F.
+                                                      Variable time = Total haul time + Total return time
+                            Compacted cubic meters
+                                 (or yards)                            Distance (m)
+Shrinkage Factor (S.F.) =                             Travel Time =
+                               Bank cubic meters                       Speed (m/min)
+                                  (or yards)                           Distance (ft)
+Density                                                            =
+                        = Weight/Unit Volume                            Speed (fpm)
+                            Weight of load                                         60 min/hr
+Load (bank measure) =                                 Cycles per hour =
+                            Bank density                                  Total cycle time (min/cycle)
+Rolling Resistance Factor
+                                                      Adjusted production = Hourly production 
+  = 20 kg/t + (6 kg/t/cm  cm)
+                                                                               Efficiency factor
+  = 40 lb/ton + (30 lb/ton/inch  inches)
+Rolling Resistance                                                              Hourly production required
+  = RR Factor (kg/t)  GMW (tons)                     No. of units required =
+                                                                                  Unit hourly production
+  = RR Factor (lb/ton)  GMW (tons)
+                                                      No. of scrapers a   Scraper cycle time
+Rolling Resistance (general estimation)                pusher will load =
+  = 2% of GMW + 0.6% of GMW per cm tire                                   Pusher cycle time
+       penetration                                    Pusher cycle time (min) = 1.40 Load time (min) + 0.25 min
+  = 2% of GMW + 1.5% of GMW per inch tire
+       ­penetration                                                            GMW (kg)  Total Effective
+                                                                                Grade  Speed (km/h)
+               vertical change in elevation (rise)    Grade Horsepower =
+  % Grade =                                                                              273.75
+                   corresponding horizontal
+                         distance (run)                                        GMW (lb)  Total Effective
+                                                                                 Grade  Speed (mph)
+Grade Resistance Factor = 10 kg/m ton  % grade                           =
+                         = 20 lb/ton  % grade                                            375
+Grade Resistance = GR Factor (kg/t)  GMW (tons)
+                  = GR Factor (lb/ton)  GMW (tons)
+Grade Resistance = 1% of GMW  % grade
+
+
+
+
+25-18
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 514 ===
+STOCKPILE COAL HANDLING
+
+CONTENTS
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-2
+Machine Selection  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-2
+How to Equip .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-3
+Production Factors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-3
+Estimating Hourly Production .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-4
+  Track-Type Tractors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-5
+  Wheel Dozers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-6
+  Wheel Loaders  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-8
+  Wheel Tractor-Scrapers  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-9
+Example Problem .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26-10
+
+                                                                                                                             26
+
+
+
+
+                                                                                                                      26-1
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 515 ===
+Stockpile Coal Handling                   Introduction
+                                          Machine Selection
+
+
+
+INTRODUCTION                                                   Wheel Dozers
+   Efficient methods have been developed for handling             These machines, with their long wheel base, low
+and storing coal with mobile equipment. Generally, a           center of gravity, and articulated design, offer good
+power plant or other industrial facility which uses coal,      stability and maneuverability. They have the ability to
+meets its daily requirements with incoming coal ship­          travel at a higher speed than the track-type tractor,
+ments and will maintain an emer­­gency stockpile or            moving easily from one area of operation to another,
+dead­p ile. The deadpile is designed to meet the burn          and provide greater compactive effort with fewer passes.
+require­ments during any interrup­tion of coal ship­ments.     They are capable of performing some utility functions.
+Interrup­tions may include incle­ment weather, carrier         However, their coefficient of traction is less than that
+strikes, schedul­ing problems, etc.                            of track-type tractors. The most efficient dozing distance
+   The deadpile will contain approximately a 90 day            for the wheel dozers is usually less than 152 m (500 ft).
+supply of coal and is constructed by thoroughly com­              Coal scoop attachments are available for wheel dozers
+pacting lifts, or layers, of coal approximately 15 cm (6 in)   and can provide improved production due to the higher
+thick. Thorough compaction of the entire stock­pile,           volume of the scoop.
+including the sides, eliminates air spaces, reduc­ing the      Wheel Loaders
+possibility of spontaneous combustion.
+                                                                  As dozing and hauling distances increase, wheel
+   Reclaiming the deadpiled coal is critical when incoming
+                                                               loaders are able to effectively move coal in load-and-
+shipments are not able to satisfy the burn requirements.
+                                                               carry operations. Since coal is a relatively light material,
+Four basic types of mobile equipment are available for
+                                                               the loaders should be equipped with larger buckets
+stockpiling and reclaiming coal — track-type tractors,
+                                                               sized for coal density. Versatility and mobility allow
+wheel dozers, wheel loaders, and wheel tractor-scrapers.
+                                                               them to perform a variety of tasks, both on and off the
+Each type has its own specific advantages. The equip­
+                                                               stockpile. They can load trucks or railcars, dig out
+ment selected must be able to meet the maximum hourly
+                                                               bottom ash and boiler slag from the ash storage areas,
+burn rate.
+                                                               and move railcars within the vicin­ity of the power plant.
+                                                               Generally wheel loaders are more efficient than track
+MACHINE SELECTION                                              or wheel dozers at distances of 122 m (400 ft) or more.
+Track-Type Tractors                                            Coal Bowl Wheel Tractor-Scrapers
+   Track-type tractors continue to be the most widely            Coal Bowl Wheel Tractor-Scrapers are typically used
+used machines for coal handling operations. Equipped           for building and maintaining coal stockpiles and haul­ing
+with a U-shaped coal dozer, they are suita­ble for meeting     coal to the supply system at coal power plants. The self-
+high production requirements over dozing distances of          loading capability, large capacity, coal pile com­paction,
+less than 152 m (500 ft). Their tractive capabilities and      and haul speed of Coal Bowl Wheel Tractor-Scrapers
+gradeability permit them to operate on the sides of the        make them the tool of choice for moving coal both short
+stockpile and surge pile which often prove inaccessible        and long distances. Coal Bowl Wheel Tractor-Scrapers
+to other types of equipment. They can also remove snow         are available in the 637K and 657G twin engine models.
+and frost penetrated coal from the stockpile surface so        Please reference Wheel Tractor - Scrapers section of
+that rubber-tired equipment can work efficiently.              this handbook for more information on Coal Bowl
+                                                               Wheel Tractor - Scrapers.
+
+
+
+
+26-2
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 516 ===
+How to Equip                   Stockpile Coal Handling
+                                                                       Production Factors
+
+
+
+HOW TO EQUIP                                                                 Tires
+                                                                               Many utility companies have established a tire pref­
+Counterweighting
+                                                                             erence for wheel machines. Normally a radial tire allows
+  While larger blades or buckets allow for greater                           for the maximum tire print in the stockpile surface pro­
+production, counterweighting is often necessary to                           viding the best traction.
+improve the machine’s balance and handling capability.
+For track-type tractors, a rear counterweight is recom­                      Other
+mended. Wheel machines use various methods to add                              The 834K’s performance may be improved in the
+weight. For example, wheel dozers use front counter­                         varying underfoot conditions of a coal stockpile with
+weights, and wheel machines often use tire ballast.                          the use of a NoSPIN differential. This differ­e ntial
+Below is a weight comparison of the Cat ® standard                           provides added tractive capability on all coal piles,
+U-Blade to the Coal U-Blade, along with the recom­                           particularly loose coal. Use of a NoSPIN differential
+mended counterweight for D11, D10T2, D9T, D8T,                               should carefully be evaluated. The NoSPIN differential
+and 834K.                                                                    will also increase tire wear and decrease axle compo­
+                                                                             nent life in applications with good traction.
+      COAL STOCKPILE BLADE WEIGHT COMPARISON/
+                   COUNTERWEIGHTING
+                                                                             PRODUCTION FACTORS
+                         Coal U-Blade/
+             U-Blade         Scoop      Counterweight                        1. The effect of grade — dozer production will increase
+ Model     kg        lb   kg        lb    kg        lb                       3% for each 1% of favorable grade and decrease 2% for                                              26
+  D11    12 880 28,396 11 475 25,298     4989     11,000                     each 1% of adverse grade up to grades of 10%. The
+ D10T2     7918 17,456    7100 15,653    2928      ,6456                     graph below exemplifies this point.
+  D9T      5634 12,421    4650 10,252    3142      ,6926
+  D8T      2825    ,6228  3200    ,7050  2749      ,6060                             Effect of Grade on Production
+ 834K      2994    ,6600  3630    ,8000 75% CaCI2 in all                                        % Grade
+*834K with Scoop          8700 19,180       tires —
+
+
+
+
+                                                                                                                                                Production Correction Factors
+                                                      5360      11,816
+                                                                                       Favorable                   Unfavorable
+Weights include blade or scoop only. The change in machine weight is
+determined by adding or subtracting the difference between the two
+blades. Counterweight or ballast may also need to be considered.
+
+Track Shoe Width
+   Track shoes are an important consideration since
+shoe width determines tractive capability and com­
+paction. Depending on the coal being stockpiled, the
+utility company will often have a strong preference
+concerning track shoe width. Basically, utilities stock­
+piling low rank or sub-bituminous rank lignite coal
+usually prefer the standard shoe width for max­imum
+compactive effort to reduce the possibility of spontaneous
+combustion.                                                                  As a rule of thumb, track-type tractors can negotiate grades of about 60%
+   Utilities burning medium or high rank bituminous                          in loose coal. Wheel dozers can negotiate grades up to 25% on fairly well
+                                                                             compacted coal.
+coals are not as concerned with spontaneous combus­
+tion and sometimes prefer a wider shoe that allows
+increased tractive capability on loose or less densely
+compacted coal stockpiles.
+
+
+
+
+                                                                                                                                               26-3
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 517 ===
+Stockpile Coal Handling                           Production Factors
+                                                  Estimating Hourly Production
+
+
+
+2. Slot dozing, which consists of dozing repeatedly in                5. The degree of compaction required — for medium
+the same tracks, will increase production. The deeper the             and high rank bituminous coal, track-type tractors will
+slot, the greater the increase in production. Obviously               normally provide ample compaction to prevent fires.
+this will disrupt the surface of the pile; however it does            For low rank coals, such as sub-bituminous and lignite,
+provide maximum production.                                           rubber tired machines, pneumatic compactors or sealing
+                                                                      may be required to prevent fires. The following table
+       Slot                     Slot                   Increase in    illustrates the compaction that is possible if the coal is
+    Condition                  Depth                   Production
+                                                                      spread in thin lifts and the machine makes a sufficient
+ Slight                     60 cm ~ 2 ft                   10%
+                                                                      number of passes over the entire lift surface.
+ Consistent             60 cm-1.5 m ~ 2-5 ft              25%
+ Very Consistent       Over 1.5 m ~ Over 5 ft            30% +               Machine            kg/m3      lb/ft3      lb/yd3
+                                                                        Track-Type Tractors    960-1160    60-72     1620-1950
+                                                                        Wheel Dozers          1040-1200    65-75     1750-2030
+3. Relative traction — machines will provide greater                    Wheel Loaders         1040-1250    65-78     1750-2110
+tractive effort as the compaction beneath them increases.               Wheel Tractor-        1100-1280    68-80     1840-2160
+                                                                          Scrapers
+                                                     Coefficient of
+        Condition                  Machine             Traction
+ Well Compacted Coal              Track-type          *0.75-0.80
+                                    Wheel             *0.40-0.50      ESTIMATING HOURLY PRODUCTION
+ Loose Coal                       Track-type          *0.60-0.00         The following graphs may be used for estimating the
+                                    Wheel             *0.30-0.40      hourly production of machines handling mixed bitu­
+*Suspended undercarriage will often achieve a higher coefficient
+  of traction.
+                                                                      minous coal. The graphs are based on 100% machine
+                                                                      efficiency under normal job conditions and average
+                                                                      operator; they do not take into account adverse grades,
+                                                                      downtime, wait time, poor traction, etc. These produc­
+4. Rolling Resistance of rubber tired equipment will                  tion estimates should be evaluated in light of individual
+decrease as the compaction of the coal beneath the                    job conditions and efficiency. Moreover, a job efficiency
+machines increases. Here are total rolling resistances                correction factor should be applied to the production
+on various surfaces.                                                  estimate shown when using these graphs.
+                                              kg/Metric lb/U.S.          To estimate travel times for a specific machine refer
+                                                 Ton      Ton         to the performance graphs or charts in the appropriate
+                                                                      model section of this book.
+● Main travel area from loading                   29       65
+  area to stockpile traveled and                                      NOTE:	Capacities and production curves on the next
+  maintained.                                                                  pages are based on bituminous coal with a
+                                                                               density of 890 kg/m3 or 1500 lb/yd3 or 55 lb/ft3.
+● Travel over the compacted                       36           80
+                                                                               For sub-bituminous coal with a density of
+  deadpile.
+                                                                               800 kg/m3 or 1350 lb/yd3 or 50 lb/ft3 multiply
+● Travel over thin lifts of                       54          120              tonnage figure by 0.90. For lignite with an
+  uncompacted coal on the                                                      average density of 710 kg/m3 or 1200 lb/yd3 or
+  deadpile.                                                                    45 lb/ft3 multiply tonnage figure by 0.80.
+● Travel on loose piles under                   90-136      200-300
+  stacking conveyor or on a
+  windrow.
+NOTE:	Rolling Resistance (RR) is a measure of the
+      force that must be overcome to roll or pull a
+      wheel over the ground. It is affected by ground
+      conditions and load — the deeper a wheel
+      sinks into the ground, the higher the rolling
+      resistance. Internal friction and tire flexing also
+      contribute to rolling resistance.
+
+
+26-4
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 518 ===
+Estimated Hourly Production                          Stockpile Coal Handling
+                                              ● Track-Type Tractors
+
+
+
+
+                                  Track-Type Tractors Estimated Production
+                                          with U-Blade (Coal Dozer)
+
+                                        Factors:
+                                        ● Mixed Bituminous Coal
+                                        ● Storage and Reclamation
+                                        ● 0% Grade
+                                        ● 0.80 Coefficient of Traction
+
+
+                        Metric    English           (Tons per 60-Minute Hour)
+                        Tons     Short Tons
+       PRODUCTION IN TONS/HR
+
+
+
+
+                                                                                                                                                 26
+
+
+
+
+                                                                                                         NOTE:	This chart is based on numer­
+                                                                                                               ous field studies made under
+                                                                                                               varying job ­con­ditions. Refer
+                                                                                                               to correction factors following
+                                                                                                               these charts.
+
+
+
+
+                                                                                                  Feet
+
+
+                                                                                                  Meters
+
+                                               DOZING DISTANCE (ONE WAY)
+
+
+                                          U-Blade                      Blade Capacities
+      Tractor                     Model        m       ft    Metric tons   U.S. tons       m3        yd3
+      D11                        BD11U-24      7.32    24'     66.70         73.50        74.90     98.0
+      D10T2                      BD10U-20     6.10     20'     40.85         45.00     45.90        60.0
+      D9T                        BD9U-19      5.79     19'     32.60         35.90        37.00     48.0
+      D8T                        BD8U-18      5.49     18'     19.00         21.00        21.40     28.0
+      D7R2                       BD7U-16      4.88     16'     14.28         15.75     16.05        21.0
+      D6R                         BD6U        4.27     14'     08.84         09.75     09.90        13.0
+
+
+
+
+Refer to Track-Type Tractor/Bulldozer section for additional special attachment specifications.
+
+
+
+
+                                                                                                                                       26-5
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 519 ===
+Stockpile Coal Handling                                              Estimated Hourly Production
+                                                                       ● Wheel Dozers
+
+
+
+
+                                                                      Wheel Dozers Estimated Production                                    NOTE:	This chart is based on numer­
+                                                                                                                                                 ous field studies made under
+                                                                         with U-Blade (Coal Dozer)                                               varying job ­con­ditions. Refer
+                                                                                                                                                 to correction factors following
+                                                                                                                                                 these charts.
+                                                                       Factors:
+                                                                       ● Mixed Bituminous Coal
+                                                                       ● Storage and Reclamation
+                                                                       ● 0% Grade
+                                                                       ● 0.80 Coefficient of Traction
+
+
+                        Metric    English
+                        Tons     Short Tons                                               (Tons per 60-Minute Hour)
+                                  4000
+                        3600                   854K
+                                  3500
+                        3200
+                                               844K
+PRODUCTION IN TONS/HR
+
+
+
+
+                                  3000
+                        2800
+
+                        2400      2500
+                                               834K
+                        2000      2000
+
+                        1600                   824K
+                                  1500
+                        1200                   814F II
+                                  1000
+                         800
+                                    500
+                         400
+
+                            0          0
+                                           0                 200                    400               600                800               1000                1200     Feet
+
+
+
+
+                                           0                50               100             150          200              250            300            350            Meters
+
+                                                                                    DOZING DISTANCE (ONE WAY)
+
+                                                                           U-Blade                             Blade Capacities
+                                                  Tractor          Model            m        ft    Metric tons      U.S. tons       m3    yd3
+                                                  854K            153-2113         7.20    23'8"      39.8            43.65        44.7   58.2
+                                                  844K            153-2111         5.84    19'2"      27.3            30.20        30.7   40.2
+                                                  834K           376-3845          6.17    20'3"      19.8             21.80       22.2   29.0
+                                                  824K           BD824U-15         4.79    15'7"      14.2            15.70        16.2   21.1
+                                                  814F II        BD814U-14         4.32    14'2"      09.4             10.30       11.0   14.0
+                                                NOTE: Blade capacities in tons figured using weight of coal at 890 kg/m3 (1500 lb/yd3).
+
+
+
+
+                                           Refer to Track-Type Tractor/Bulldozer section for additional special attachment specifications.
+
+
+ 26-6
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 520 ===
+Estimated Hourly Production                      Stockpile Coal Handling
+                                                                               ● Wheel Dozers
+
+
+
+
+                                                                   Wheel Dozers Estimated Production
+                                                                           with Coal Scoop
+
+                                                                    Factors:
+                                                                    ● Mixed Bituminous Coal
+                                                                    ● Storage and Reclamation
+                                                                    ● 0% Grade
+                                                                    ● 0.80 Coefficient of Traction
+
+
+                        Metric     English
+                        Tons      Short Tons                                (Tons per 60-Minute Hour)
+PRODUCTION IN TONS/HR
+
+
+
+
+                                                                                                                                                                26
+
+
+
+
+                                                                                                                                                Feet
+
+
+
+                                                                                                                                                Meters
+
+                                                                          DOZING DISTANCE (ONE WAY)
+
+
+                                                                                Scoop Capacities
+                                               Coal Scoop                        (Lift and Carry)                      Doze Capacities
+                        Tractor       Model           m       ft      Metric tons   U.S. tons   m3     yd3   Metric tons   U.S. tons     m3      yd3
+                        834K         220-3648        4.9    15'11"       19.7         21.8      22.9   30       37.8          41.2      44.2    57.8
+                        814F II       B14-15         3.7    12'3"        08.2         09.0      11.5   15       16.3          18.0       19.1    25
+
+
+
+
+                                      Refer to Track-Type Tractor/Bulldozer section for additional special attachment specifications.
+
+
+
+
+                                                                                                                                                         26-7
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 521 ===
+Stockpile Coal Handling                                                 Estimated Hourly Production
+                                                                        ● Wheel Loaders
+
+
+
+
+                                                                     Wheel Loaders Estimated Production
+                                                                              with Coal Bucket
+
+                                                                        Factors:
+                                                                        ● Mixed Bituminous Coal
+                                                                        ● Storage and Reclamation
+                                                                        ● 0% Grade
+                                                                        ● 0.80 Coefficient of Traction
+
+
+                   Metric English
+                   Tons Short Tons                                                  (Tons per 60-Minute Hour)
+                                 1200
+
+                          1000               325-6630
+
+                                 1000
+
+                                             294-9020
+  PRODUCTION IN TONS/HR
+
+
+
+
+                           800
+
+                                  800
+
+                                              433-4740
+                           600
+                                  600
+                                             436-8340
+
+                                                B80-11
+                           400
+                                  400
+                                                 B66-7                                                                                                             992K
+                                                                                                                                                                   992K
+                                                                                                                                                                   988K
+                           200                                                                                                                                     986H
+                                  200
+                                                                                                                                                                   980G
+                                                                                                                                                                   966G
+
+
+                            0      0
+                                        0               200             400           600             800            1000          1200            1400         1600 Feet
+
+                                        0             50          100         150           200        250           300        350         400           450        Meters
+
+                                                                                  HAUL DISTANCE (ONE WAY)
+
+
+                                                              Coal Bucket                                Bucket Capacities
+                                              Loader            Model               Metric tons             U.S. tons            m3             yd3
+                                              992K             294-9020                17.0                   18.8              19.1           25.0
+                                              992K             325-6630                20.4                   22.5              22.9           30.0
+                                              988K             433-4740                11.6                   12.8              13.0           17.0
+                                              986H             436-8340                  9.2                  10.1              10.3           13.5
+                                              980G              B80-11                   7.3                   8.1               8.2           10.8
+                                              966G              B66-7                    4.9                   5.4               5.5              7.3
+                                            NOTE: Bucket capacities include bottom cutting edge. Figured using weight of coal at 890 kg/m3 (1500 lb/yd3).
+
+
+
+
+26-8
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 522 ===
+Estimated Hourly Production                         Stockpile Coal Handling
+                                                                    ● Wheel Tractor-Scrapers
+
+
+
+
+                                                       Wheel Tractor-Scrapers Estimated Production
+
+                                                                 Factors:
+                                                                 ● Mixed Bituminous Coal
+                                                                 ● Storage and Reclamation
+                                                                 ● 0% Grade
+                                                                 ● 0.50 Coefficient of Traction
+
+
+
+                                             Metric English
+                                             Tons Short Tons
+                                                                              (Tons per 60-Minute Hour)
+                     PRODUCTION IN TONS/HR
+
+
+
+
+                                                                      657K
+
+
+                                                                      637K
+
+                                                                                                                                                        26
+
+
+
+
+                                                                                                                                        Feet
+
+
+                                                                                                                                        Meters
+
+                                                                             HAUL DISTANCE (ONE WAY)
+
+                                                                                         Bowl Capacities
+                                                                                                     Struck              Heaped
+                   Coal Scraper                         Metric tons          U.S. tons          m3            yd3   m3            yd3
+                    657K                                       49.9             55              45            59    56            73
+                    637K                                       34.5             38              31            41    38            50
+                  Average fixed time to load, maneuver and dump:
+                    657K — 1.12 min.
+                    637K — 1.10 min.
+
+NOTE:
+● The 657K Coal Scraper is 1072 mm (42.2") longer,                                          ● The rimpull, travel times, and retarder performance
+  the bowl sides are 1010 mm (39.8") taller, the apron is                                     for the coal scrapers are the same as for the standard
+  677 mm (26.7") taller, and the ejector is 944 mm                                            machines. See Wheel Tractor-Scrapers section for
+  (37.2") taller than its earthmoving counterpart.                                            charts and graphs.
+● The 637K Coal Scraper is 736 mm (29.0") longer, the
+  bowl sides are 476 mm (18.7") taller, and the apron is
+  499 mm (19.6") taller than its earthmov­ing counterpart.
+
+
+
+                                                                                                                                                 26-9
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 523 ===
+Stockpile Coal Handling                 Example Problem
+
+
+
+
+Example Problem                                               The correction factor for the 50 minute hour is 50/60
+  A coal-fired utility company has a coal requirement       = 0.83.
+of approximately 315 metric tons (350 tons) per hour.         Now calculate the adjusted D9T hourly production
+Specify the coal handling machine that will satisfy this    using the correction factors:
+demand.                                                       Metric 612  0.8  0.9  0.83 = 366 tons/hour
+Conditions:                                                   English 675  0.8  0.9  0.83 = 403 tons/hour
+  Lignite Coal 710 kg/m3 (1200 lb/yd3)                        The D9T falls in the required production range. For
+  90 m (300 ft) push distance                               short periods of peak power capacity, production could
+  5% adverse grade                                          be increased by slot dozing.
+  50 minute hour operation efficiency                         Production for the D10T2, 824K and 834K can be
+Solution:                                                   calculated using the same method.
+  Calculate the D9T’s production equipped with the
+  BD9U-19 Coal U-Blade by using the D9T produc­               D10T2
+  tion curve. Start at 90 m (300 ft) and read up to the       Metric 850  0.8  0.9  0.83 = 508 tons/hour
+  D9T production line, then over to the left to deter­        English 935  0.8  0.9  0.83 = 559 tons/hour
+  mine its maximum hourly produc­tion of 612 metric           824K
+  tons (675 tons).                                            Metric 400  0.8  0.9  0.83 = 239 tons/hour
+  Since the graphs are based on a 890 kg/m3 (1500 lb/yd3)     English 440  0.8  0.9  0.83 = 263 tons/hour
+coal density, this production figure has to be adjusted       834K
+to reflect lignite coal:                                      Metric 689  0.8  0.9  0.83 = 412 tons/hour
+  Coal density correction factor = 710/890 (1200/1500)        English 760  0.8  0.9  0.83 = 454 tons/hour
+= 0.8.                                                        Therefore, the D9T or 834K could most economically
+  Obtain the production correction factor for the 5%        satisfy the production requirements.
+adverse grade from the chart: 0.9.
+
+
+
+
+26-10
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 524 ===
+Tables
+
+
+
+
+                                                                                                                                 TABLES
+
+
+CONTENTS                                                                                                  SWELL — VOIDS — LOAD FACTORS
+Swell — Voids — Load Factors .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-1                            SWELL (%)   VOIDS (%)   LOAD FACTOR
+                                                                                                             5          4.8         0.952
+Bucket Fill Factors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-2
+                                                                                                            10          9.1         0.909
+Angle of Repose of Various Materials . . . . . . . . . .27-2                                                15         13.0         0.870
+Typical Rolling Resistance Factors  .  .  .  .  .  .  .  .  .  .  .  . 27-2                                 20         16.7         0.833
+Round Reinforced Concrete Pipe                                                                              25         20.0         0.800
+  Approximate Weight per Foot .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-3                                 30         23.1         0.769
+Coefficient of Traction Factors .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-3                            35         25.9         0.741
+Speed Conversion .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-4          40         28.6         0.714
+Bearing Powers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-4      45         31.0         0.690
+Agricultural Commodities Conversion Factors .  .  . 27-4                                                    50         33.3         0.667
+                                                                                                            55         35.5         0.645
+Curve Superelevation in Percent Grade,
+                                                                                                            60         37.5         0.625
+  to Provide No Lateral Tire Force .  .  .  .  .  .  .  .  .  .  .  . 27-5                                  65         39.4         0.606
+Maximum Speed on Curves for Various                                                                         70         41.2         0.588
+  Superelevation Grades with a 0.20 Lateral                                                                 75         42.9         0.571
+  Coefficient of Traction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-5                   80         44.4         0.556         27
+Weight of Materials .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-6             85         45.9         0.541
+Grade Comparison Chart                                                                                      90         47.4         0.526
+  Degrees — Percent — Slope .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-7                             95         48.7         0.513
+Grade in Degrees and Percents  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-7                            100         50.0         0.500
+Conversion Factors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-8
+Metric Unit Equivalents .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-9
+English Unit Equivalents .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-9
+Power Unit Equivalents .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27-9
+Machine/Engine Cross Reference .  .  .  .  .  .  .  .  .  .  .  .  . 27-10
+Engine/Machine Cross Reference .  .  .  .  .  .  .  .  .  .  .  .  . 27-13
+
+
+
+
+   Throughout this document, references to Tier 4 Interim/Stage IIIB/Japan 2011 (Tier 4 Interim) include U.S. EPA
+   Tier 4 Interim, EU Stage IIIB, and Japan 2011 (Tier 4 Interim) equivalent emission standards. References to
+   Tier 4 Final/Stage IV/Japan 2014 (Tier 4 Final) include U.S. EPA Tier 4 Final, EU Stage V, and Japan 2014
+   (Tier 4 Final) emission standards. References to Tier 4 Final/Stage V include U.S. EPA Tier 4 Final and EU Stage V
+   emission standards.
+   Throughout this document, references to Tier 1/Stage I include U.S. EPA Tier 1 and EU Stage I equivalent emission
+   standards. References to Tier 2/Stage II/Japan 2001 (Tier 2) equivalent include U.S. EPA Tier 2, EU Stage II, and
+   Japan 2001 (Tier 2) equivalent emission standards. References to Tier 3/Stage IIIA/Japan 2006 (Tier 3) equivalent
+   include U.S. EPA Tier 3, EU Stage IIIA, and Japan 2006 (Tier 3) equivalent emission standards.
+
+
+
+                                                                                                                                           27-1
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 525 ===
+Tables
+
+
+
+
+                     BUCKET FILL FACTORS                                          TYPICAL ROLLING RESISTANCE FACTORS
+  Loose Material                                                Fill Factor      NOTE: For Earthmoving and NON-Mining/Quarry Applications
+   Mixed Moist Aggregates                                        95-100%         Various tire sizes and inflation pressures will greatly reduce
+   Uniform Aggregates up to 3 mm (1/8")                          95-100%         or increase the rolling resistance. The values in this table are
+     3 mm-9 mm (1/8"-3/8")                                       90-950%         approxi­mate, particularly for the track and track + tire machines.
+                                                                                 These values can be used for estimating purposes when spe­
+     12 mm-20 mm (1/2"-3/4")                                     85-900%
+                                                                                 cific performance information on particular equipment and
+     24 mm (1") and over                                         85-900%         given soil conditions is not available. See Mining and Earth­
+                                                                                 mov­ing Section for more detail.
+  Blasted Rock
+                                                                                                                            ROLLING RESISTANCE,
+    Well Blasted                                                 80-95%0                                                          PERCENT*
+    Average Blasted                                              75-900%
+                                                                                                                              Tires    Track Track
+    Poorly Blasted                                               60-750%
+                                                                                          UNDERFOOTING                     Bias Radial   ** +Tires
+  Other                                                                          A very hard, smooth roadway,
+                                                                                 con­crete, cold asphalt or dirt sur­
+   Rock Dirt Mixtures                                           100-120%         face, no penetration or flexing .  1.5%* 1.2%                0%    1.0%
+   Moist Loam                                                   100-110%         A hard, smooth, stabilized surfaced
+   Soil, Boulders, Roots                                         80-100%         roadway without penetration under
+   Cemented Materials                                            85-950%         load, watered, maintained  . . . .               2.0% 1.7%   0%    1.2%
+NOTE: Loader bucket fill factors are affected by bucket penetration, breakout
+                                                                                 A firm, smooth, rolling r­ oadway
+       force, rack back angle, bucket profile and ground engaging tools such     with dirt or light surfacing, f­lex­ing
+       as bucket teeth or bolt-on replaceable cutting edges.                     slightly under load or undulat-
+                                                                                 ing, main­tained fairly regularly,
+NOTE: For bucket fill factors for hydraulic excavators, see bucket payloads                                                      3.0% 2.5%   0%    1.8%
+       in the hydraulic excavator section.
+                                                                                 watered . . . . . . . . . . . . . . . . . . . . 
+NOTE: Above values are not valid for Hydraulic Mining Shovels.                  A dirt roadway, rutted or flexing
+                                                                                 under load, little maintenance,
+                                                                                 no water, 25 mm (1") tire pen-
+                                                                                 etration or flexing  . . . . . . . . . . .       4.0% 4.0%   0%    2.4%
+                                                                                 A dirt roadway, rutted or flexing
+                     ANGLE OF REPOSE                                             under load, little maintenance,
+                   OF VARIOUS MATERIALS                                          no water, 50 mm (2") tire pen-
+                                                                                 etration or flexing  . . . . . . . . . . .       5.0% 5.0%   0%    3.0%
+                                                        ANGLE BETWEEN            Rutted dirt roadway, soft under
+                                                    HORIZONTAL AND SLOPE         travel, no maintenance, no sta-
+                                                         OF HEAPED PILE          bilization, 100 mm (4") tire pen-
+                 MATERIAL                               Ratio      Degrees       etration or flexing  . . . . . . . . . . .       8.0% 8.0%   0%    4.8%
+                                                                                 Loose sand or gravel . . . . . . . . .  10.0% 10.0%          2%    7.0%
+Coal, industrial . . . . . . . . . . . . . . . .     1.4:1—1.3:1    35-38
+                                                                                 Rutted dirt roadway, soft under
+Common earth, Dry . . . . . . . . . . . .            2.8:1—1.0:1    20-45
+                                                                                 travel, no maintenance, no sta-
+Common earth, Moist . . . . . . . . . .              2.1:1—1.0:1    25-45        bilization, 200 mm (8") tire pen-
+Common earth, Wet . . . . . . . . . . . .            2.1:1—1.7:1    25-30        etration and flexing . . . . . . . . . .  14.0% 14.0%        5%   10.0%
+Gravel, Round to angular . . . . . . .               1.7:1—0.9:1    30-50        Very soft, muddy, rutted road-
+Gravel, Sand & clay . . . . . . . . . . . .          2.8:1—1.4:1    20-35        way, 300 mm (12") tire penetra-
+Sand, Dry . . . . . . . . . . . . . . . . . . . .    2.8:1—1.7:1    20-30        tion, no flexing . . . . . . . . . . . . . .  20.0% 20.0%    8%   15.0%
+Sand, Moist  . . . . . . . . . . . . . . . . . .     1.8:1—1.0:1    30-45        **Percent of combined machine weight.
+                                                                                 **Assumes drag load has been subtracted to give Drawbar Pull for good
+Sand, Wet . . . . . . . . . . . . . . . . . . . .    2.8:1—1.0:1    20-45           to moderate conditions. Some resistance added for very soft conditions.
+
+
+
+
+27-2
+

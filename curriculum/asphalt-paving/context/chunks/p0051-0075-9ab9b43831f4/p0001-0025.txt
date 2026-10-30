@@ -1,0 +1,1333 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0051-0075.pdf
+SOURCE SHA-256: 9ab9b43831f4d8e5a08a9945899664bb18dd18f21a2ec741ac6b2a3c42b7b560
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+PLANNING
+
+
+
+
+                                                                           8 trucks x 24 tonnes ÷ 1.5 hours =
+Example Three, Variable Capacity – Assume that
+two different types of haul units are available for                                 128 tonnes/hour
+the project described in Example Two. The paving
+company owns haul units that carry 24 tonnes                       Next, subtract the weight carried by the larger
+(26.5 tons). There will be eight of those haul units               trucks from the total hourly production.
+assigned to the project. Other haul units will be
+hired, but they transport an average of 20 tonnes                           225 tonnes minus 128 tonnes =
+(22 tons). How many of the smaller haul units are                            97 tonnes per hour remaining
+needed?
+
+First, calculate how many tonnes the eight larger
+trucks can transport when they all complete a round
+trip and then divide by the cycle time.
+
+
+TRUCKING CALCULATOR (LARGE UNITS)
+
+
+       Trucking            General Inputs                                                 Imperial Units               Metric Units
+                                Production Rate of Hot Plant:                         [   141    ] tons/hr    [   128       ] tonnes/hr
+     Paver Speed
+                                Multiple Silo Plants: Initial Storage                 [    1     ] tons       [    0        ] tonnes
+      Compaction                Paving Hours:                                         [   0.0    ] hrs        [   0.0       ] hrs
+       Windrow                  Truck Capacity (size):                                [   26.5   ] net tons   [   24.0      ] net tonnes
+
+         Yield
+                           Truck Cycle Times (minutes)
+         Slope                  Load Time and Ticket:                                 [    6     ]
+                                Tarp:                                                 [    4     ]
+       Thickness
+                                Haul to Job:                                          [   35     ]
+     Job Summary
+                                Time on Site:                                         [    2     ]
+         Legal                  Dump / Clean:                                         [    8     ]
+                                Return Haul:                                          [   35     ]
+
+
+
+         Exit                   Truck Cycle Factor (total time in hours)              [   1.5    ]
+                                Number of Trucks Needed:                              [   8.0    ]
+
+
+TRUCKING CALCULATOR (SMALL UNITS)
+
+
+       Trucking            General Inputs                                                 Imperial Units               Metric Units
+                                Production Rate of Hot Plant:                         [   107    ] tons/hr    [   97        ] tonnes/hr
+     Paver Speed
+                                Multiple Silo Plants: Initial Storage                 [    0     ] tons       [    0        ] tonnes
+      Compaction                Paving Hours:                                         [   0.0    ] hrs        [   0.0       ] hrs
+       Windrow                  Truck Capacity (size):                                [   22.0   ] net tons   [   20.0      ] net tonnes
+
+         Yield
+                           Truck Cycle Times (minutes)
+         Slope                  Load Time and Ticket:                                 [    6     ]
+                                Tarp:                                                 [    4     ]
+       Thickness
+                                Haul to Job:                                          [   35     ]
+     Job Summary
+                                Time on Site:                                         [    2     ]
+         Legal                  Dump / Clean:                                         [    8     ]
+                                Return Haul:                                          [   35     ]
+
+
+
+         Exit                   Truck Cycle Factor (total time in hours)              [   1.5    ]
+                                Number of Trucks Needed:                              [   7.3    ]
+
+
+                                                                                    Unit 2: PRE-PROJECT PLANNING |                         51
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+PLANNING
+
+
+
+
+     Example Four, variable traffic – In the previous                  of the shift and for two hours at the end of the
+     examples, the cycle time—1.5 hours—has been                       shift. During peak traffic hours, the cycle time will
+     constant. Now, assume that the haul units (all                    increase to 2.2 hours.
+     carrying 24 tonnes / 26.5 tons) will be traveling
+     through peak traffic for two hours at the start
+
+
+
+
+     TRUCKING CALCULATOR
+
+
+            Trucking           General Inputs                                                    Imperial Units            Metric Units
+                                    Production Rate of Hot Plant:                            [   220    ] tons/hr    [   200    ] tonnes/hr
+          Paver Speed
+                                    Multiple Silo Plants: Initial Storage                    [   276    ] tons       [   250    ] tonnes
+           Compaction               Paving Hours:                                            [   10.0   ] hrs        [   10.0   ] hrs
+            Windrow                 Truck Capacity (size):                                   [   26.5   ] net tons   [   24.0   ] net tonnes
+
+              Yield
+                               Truck Cycle Times (minutes)
+              Slope                 Load Time and Ticket:                                    [    6     ]
+                                    Tarp:                                                    [    4     ]
+            Thickness
+                                    Haul to Job:                                             [   55     ]
+          Job Summary
+                                    Time on Site:                                            [    2     ]
+              Legal                 Dump / Clean:                                            [    8     ]
+                                    Return Haul:                                             [   55     ]
+
+
+
+              Exit                  Truck Cycle Factor (total time in hours)                 [   2.2    ]
+                                    Number of Trucks Needed:                                 [   20.6   ]
+
+
+
+
+     [ CALCULATING PAVING SPEED ]
+     Calculating the correct paving speed is necessary to              Calculate the paving speed, communicate
+     ensure efficient paving—one of the basic principles               the paving speed, and stay with the paving
+     of quality paving. Unless the project has many short              speed unless something changes to affect the
+     pulls and lots of areas where the crew will be doing              hourly production rate. Normally, the paving
+     handwork, the paving speed should be established                  superintendent or the crew supervisor calculates
+     to develop at least 75 percent efficiency. That is                the paving speed and tells the paver operator what
+     to say, the paver is laying down mix at least 45                  speed to maintain.
+     minutes out of every hour and stopped for truck
+     exchanges or waiting for mix no more than 15                      Paving speed can be calculated if the following
+     minutes out of every hour. On a highway project                   information is known:
+     with long pulls and using a transfer vehicle, the
+     paver can approach 100 percent efficiency with                         • Planned hourly output of the asphalt
+                                                                              manufacturing facility, including storage bins
+     careful planning.
+                                                                            • Paving width
+     Continuous paving at a constant speed is the                           • Paving thickness (loose or compacted)
+     goal when smoothness is desired. Uniform layer                         • Weight of the material (loose or compacted).
+     temperatures are also more likely when the paver                         The weight of the material can be obtained
+     makes only a few short stops during the shift.                           from the operator of the asphalt manufacturing
+                                                                              facility or from the quality control staff.
+
+
+
+52   | Unit 2: PRE-PROJECT PLANNING
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+PLANNING
+
+
+
+
+To calculate the paving speed manually:
+
+Metric Units
+
+                              tons / hour x          1000 kg       (16.67) ÷ width (m)
+                                                     60 min
+                                       ÷ depth (m) ÷ kg / m3 = m / min
+
+The paving speed that results from this formula is              For example, an 85% efficiency factor may be
+at 100% efficiency. The paving speed may have                   used. The calculated paving speed would then be
+to be multiplied by an efficiency factor to account             multiplied by 0.85.
+for truck exchanges and stops waiting for mix.
+
+
+
+
+Imperial Units
+
+                              tons / hour x           2000 lb       (33.33) ÷ width (ft)
+                                                      60 min
+                                         ÷ depth (ft) ÷ lb / ft3 = ft / min
+
+
+
+The second page of the Paving Production                        Again, the Paving Production Calculator is available
+Calculator provides a faster way of calculating                 through Cat dealers or as an App from the
+paving speed than doing a manual computation.                   appropriate App stores.
+
+
+
+
+Example One – On this project, the hourly                       The paving width is 5.5 m (18'). The weight of the
+production rate is 200 tonnes (220 tons) per hour.              uncompacted material is 2162 kg/ m3 (135 lb/ft3).
+The uncompacted paving depth is 75 mm (3").
+
+
+PAVER SPEED CALCULATOR
+
+
+
+       Trucking            General Inputs		                                                Imperial Units			 Metric Units
+                                Paving Thickness:                                   [   2.95     ] in         [    75     ] mm
+      Paver Speed
+                                Paving Width:                                       [   18.00    ] feet       [   5.486   ] meter
+      Compaction
+                                Material Density Uncompacted:                       [      135   ] lbs/ft 3
+                                                                                                              [   2162    ] kg/m3
+       Windrow
+                           Paver Speed @ Given Production Rate
+         Yield
+                                Production Rate of Hot Plant:                       [      220   ] tons/hr    [   200     ] tonnes/hr
+         Slope                  Calculated Paving Speed - 100% Efficiency:          [   12.3     ] ft/min     [   3.75    ] m/min
+
+       Thickness                Calculated Paving Speed - 95% Efficiency:           [   12.9     ] ft/min     [   3.94    ] m/min
+                                Calculated Paving Speed - 90% Efficiency:           [   13.5     ] ft/min     [   4.12    ] m/min
+     Job Summary
+                                Calculated Paving Speed - 85% Efficiency:           [   14.1     ] ft/min     [   4.31    ] m/min
+         Legal                  Calculated Paving Speed - 80% Efficiency:           [   14.8     ] ft/min     [   4.50    ] m/min
+                                Calculated Paving Speed - 75% Efficiency:           [   15.4     ] ft/min     [   4.69    ] m/min
+
+
+
+          Exit                  Effective Paving Speed:                             [   12.3     ] ft/min     [   3.75    ] m/min
+
+
+
+
+                                                                                  Unit 2: PRE-PROJECT PLANNING |                        53
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+PLANNING
+
+
+
+
+     The Paver Speed Calculator provides paving speeds       85% efficiency factor: 4.31 m/min (14.1'/min) – If
+     based on six efficiency factors.                        material is transferred directly from haul units to the
+                                                             hopper of the paver, the efficiency factor selected
+     100% efficiency: 3.75 m/min (12.3'/min) –               will continue to decrease. The approximated
+     Theoretically, using a material transfer vehicle, the   maximum that can be achieved without a transfer
+     paver can pave continuously without stopping or         device is 85%.
+     changing the paving speed. It is usually unrealistic
+     to expect the paver to work at one continuous           80% efficiency factor: 4.5 m/min (14.8'/min) –
+     speed for an entire shift. Events happen to cause       Lower efficiency factor equals higher actual speed.
+     slight delays in trucking, for example. So, normally,   The effective paving speed remains the same.
+     a lower efficiency is selected.
+                                                             75% efficiency factor: 4.7 m/min (15.4'/min) – In
+     95% efficiency: 3.94 m/min (12.9'/min) – If a 95%       general, on projects that have mostly long pulls
+     efficiency factor is selected, the actual working       with the paver, the minimum efficiency factor that
+     speed will be slightly higher than the actual speed     is consistent with quality results is 75%. If less
+     at 100% efficiency. The higher working speed is         than 75% efficient, there are too many long paver
+     used to make up for a few short stops during that       stops. The paving speed will have to be slowed to
+     hour. The effective speed is still 3.75 m/min (12.3'/   reduce the amount of time the paver is stopped. Or,
+     min).                                                   perhaps, a way can be found to shorten the truck
+                                                             exchange time.
+     90% efficiency factor: 4.12 m/min (13.5'/min) –
+     Planning for lower efficiency factors, the actual
+     working speed continues to increase little by little
+     while the effective paving speed stays the same.
+     Realistically, a 90% to 95% efficiency factor would
+     probably be selected when using a material transfer
+     device.
+
+
+
+
+54   | Unit 2: PRE-PROJECT PLANNING
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+PLANNING
+
+
+
+
+Example Two – Assume that all factors remain the               width is now 3.7 m (12'). Enter the factors into the
+same as in Example One, except that the paving                 Paving Production Calculator.
+
+
+
+
+PAVER SPEED CALCULATOR
+
+
+
+        Trucking           General Inputs		                                            Imperial Units			Metric Units
+                               Paving Thickness:                                  [   2.95    ] in         [   74.9    ] mm
+      Paver Speed
+                               Paving Width:                                      [   12.00   ] feet       [   3.658   ] meter
+      Compaction
+                               Material Density Uncompacted:                      [   135     ] lbs/ft 3
+                                                                                                           [   2162    ] kg/m3
+       Windrow
+                           Paver Speed @ Given Production Rate
+         Yield
+                               Production Rate of Hot Plant:                      [   220     ] tons/hr    [   200     ] tonnes/hr
+         Slope                 Calculated Paving Speed - 100% Efficiency:         [   18.4    ] ft/min     [   5.61    ] m/min
+
+       Thickness               Calculated Paving Speed - 95% Efficiency:          [   19.3    ] ft/min     [   5.89    ] m/min
+                               Calculated Paving Speed - 90% Efficiency:          [   20.2    ] ft/min     [   6.17    ] m/min
+     Job Summary
+                               Calculated Paving Speed - 85% Efficiency:          [   21.2    ] ft/min     [   6.45    ] m/min
+         Legal                 Calculated Paving Speed - 80% Efficiency:          [   22.1    ] ft/min     [   6.73    ] m/min
+                               Calculated Paving Speed - 75% Efficiency:          [   23.0    ] ft/min     [   7.01    ] m/min
+
+
+
+          Exit                 Effective Paving Speed:                            [   18.4    ] ft/min     [   5.61    ] m/min
+
+
+
+
+Because the paving width is narrower in Example                Assuming that this is a binder (intermediate) course
+Two, the paving speed increases to consume the                 and that the wearing (surface) course will be
+tonnes delivered to the worksite each hour. The                thinner, calculate a speed for the wearing course
+effective paving speed, or 100% efficiency factor, is          shown in Example Three.
+5.6 m/min (18.4'/min). At 75% efficiency, the actual
+paving speed increases to 7 m/min (23'/min).
+
+
+
+
+                                                                                Unit 2: PRE-PROJECT PLANNING |                       55
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+PLANNING
+
+
+
+
+     Example Three – Hourly production remains at                  3.66 m (12') paving width, enter 50 mm (2") paving
+     200 tonnes (220 tons) per hour. The weight of                 thickness and calculate the paving speed.
+     the uncompacted material is the same. Using the
+
+
+
+     PAVER SPEED CALCULATOR
+
+
+
+            Trucking           General Inputs		                                            Imperial Units			Metric Units
+                                   Paving Thickness:                                   [   1.97    ] in        [    50     ] mm
+          Paver Speed
+                                   Paving Width:                                       [   12.00   ] feet      [   3.658   ] meter
+          Compaction
+                                   Material Density Uncompacted:                       [   135     ] lbs/ft3   [   2162    ] kg/m3
+            Windrow
+                               Paver Speed @ Given Production Rate
+              Yield
+                                   Production Rate of Hot Plant:                       [   220     ] tons/hr   [   200     ] tonnes/hr
+             Slope                 Calculated Paving Speed - 100% Efficiency:          [   27.6    ] ft/min    [   8.42    ] m/min
+
+           Thickness               Calculated Paving Speed - 95% Efficiency:           [   29.0    ] ft/min    [   8.84    ] m/min
+                                   Calculated Paving Speed - 90% Efficiency:           [   30.4    ] ft/min    [   9.26    ] m/min
+         Job Summary
+                                   Calculated Paving Speed - 85% Efficiency:           [   31.7    ] ft/min    [   9.68    ] m/min
+             Legal                 Calculated Paving Speed - 80% Efficiency:           [   33.1    ] ft/min    [   10.10   ] m/min
+                                   Calculated Paving Speed - 75% Efficiency:           [   34.5    ] ft/min    [   10.53   ] m/min
+
+
+
+              Exit                 Effective Paving Speed:                             [   27.6    ] ft/min    [   8.42    ] m/min
+
+
+
+
+     In Example Three, the paving thickness is less, so                  The Paving Production Calculator verifies that
+     the paving speed increases to maintain the same                     a vibratory compactor with 170 cm (67") wide
+     production rate. As the paving speed begins to                      drums operating in the first compaction phase
+     increase, three factors need to be considered.                      behind the paver and set in high frequency,
+                                                                         3 800 vibrations per minute, and making three
+       1. Can the compaction process keep up with                        repeat passes can match the paving speed.
+          the paving speed? Notice that the Production
+          Calculator includes a tab for calculating                      The actual roller working speed is set at
+          compactor working speed. Use that tab to                       89 m/min (292'/min). The pattern has a total
+          verify that the correct compaction equipment                   of nine passes so the effective roller speed
+          will be available.                                             is 9 m/min (29'/min), a pace that exactly
+                                                                         matches the paver’s progress. Note that the
+         To calculate compactor speed these factors                      efficiency factor is 85%. The efficiency factor
+         must be known:                                                  compensates for water refill stops and non-
+         • Drum width                                                    vibratory, pattern-reverse times.
+
+         • Vibratory system frequency
+                                                                         Pre-project planning should always include
+         • Repeat passes to reach target density                         verification of the production match between
+                                                                         the paver and the first phase compactor(s).
+
+
+
+
+56   | Unit 2: PRE-PROJECT PLANNING
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+PLANNING
+
+
+
+
+COMPACTION CALCULATOR
+
+
+
+      Trucking                  Roller Model:          [ Click to Select Another Model ]            [             CB54               ]
+
+    Paver Speed           General Inputs		                                                              Imperial Units			Metric Units
+                                Paving Width:                                                   [   12.00      ] feet            [   3.658        ] meter
+     Compaction
+                                Actual Drum Width:                                              [       67     ] in              [   170.18       ] cm
+      Windrow                   Amount of Overlap:                                              [       5.9    ] in              [       15.0     ] cm
+        Yield                   Speed of Vibrator:                                              [    3800      ] VPM             [   3800         ] VPM
+                                Impacts (recommended):                                          [       13     ] per ft          [       43       ] per m
+        Slope
+                                Number of Passes to Cover Mat Width Once: 			                                                    [        3       ]
+      Thickness                                                                                 			
+                                Number of Repeated Passes (from test strips):                                                    [        3       ]
+    Job Summary                 Total Number of Passes:                                         			                              [        9       ]
+                                Roller Efficiency Rate (recommended 75 to 85%):			                                               [       85       ] %
+        Legal
+                          		                                                  Imperial Units		
+                                                                                             Metric Units
+                                                                                                                                         Effective Paver Speed
+
+                                Actual Roller Speed:                    [     292       ] fpm           [     89        ] mpm            [      27.6     ] ft/min
+         Exit                   Effective Roller Speed*:                [      28       ] fpm           [     9         ] mpm            [      8.42     ] m/min
+
+                          * Effective Roller Speed should be at least 100% but no more than 115% of the Effective Paver Speed.           [ % = 104 ]
+
+
+
+
+ 2. Will a vibrating and tamping screed be able                        3. If automatic grade and slope control are used,
+    to perform properly at the calculated speed?                          can the system react quickly enough to match
+    Screeds with tamper bars are usually limited                          the paving speed? High-speed paving—in
+    to slower working speeds, when compared to                            excess of 18 m/min (60'/min)—is a difficult
+    screeds that employ only vibration. The tamper                        proposition. Mistakes happen quickly. And
+    bar must deliver a certain amount of energy                           certainly, a tamping screed cannot function
+    into the bituminous layer in order to create                          properly at that high speed.
+    the relatively high screed-laid density that is
+    required for some applications.                                         However, there are times when laying down
+                                                                            a relatively thin layer (less than 5 cm (2") the
+   To deliver high energy and avoid creating                                supply will be 225 tonnes (250 tons) per hour
+   ripples in the layer, the tamper bar needs to                            or more. Then paving speed will approach
+   hit the surface between 1.5-4 times per linear                           the limitations of automatic grade and slope
+   centimeter. Depending on the frequency of the                            control. For high-speed paving—any application
+   tamping system, the width of the tamping foot,                           in excess of 18 m/min (60'/min)—Caterpillar
+   and stiffness of the material, working speed                             recommends paving that layer manually,
+   may have to be adjusted to obtain the desired                            without use of grade and slope control
+   density and impact overlap.                                              systems.
+
+
+
+
+                                                                                             Unit 2: PRE-PROJECT PLANNING |                                      57
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+PLANNING
+
+
+
+
+     [ SUMMARY ]
+     Do not overlook the importance of pre-project        that all elements of the plan are in place before
+     planning, whether creating a formal project plan     work begins.
+     or simply creating a checklist. Once approved, be
+     sure to communicate the plan to the appropriate      Do not put off planning until the last minute. Good
+     personnel. Delegate authority to supervisors         planning will prevent many time-consuming and
+     and crewmembers, so they can prepare for their       costly errors that are common on poorly planned
+     responsibilities. Have a method in place to verify   paving projects.
+
+
+
+
+58   | Unit 2: PRE-PROJECT PLANNING
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+PLANNING
+
+
+
+
+Unit 2: PRE-PROJECT PLANNING |   59
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+FUNDAMENTALS
+
+
+
+
+Unit 3
+FUNDAMENTALS OF PAVING
+Each paving crew member should understand how the paver works, and
+the basic theories of paving. That knowledge helps with quality control and
+on-the-job problem solving.
+
+
+
+
+                             Unit 3: FUNDAMENTALS OF PAVING |                 61
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+FUNDAMENTALS
+
+
+
+
+       Proper fundamentals are one of the four principles    constant, then the screed is said to be at equilibrium
+       of quality paving. When the crew takes shortcuts      and will maintain its vertical position.
+       or loses focus on fundamentals, defects invariably
+       appear in the layer of bituminous material.           Finally, the crewmembers must know all factors
+                                                             that influence how the screed floats. These include
+       First, crewmembers must know how to correctly         paving speed, the material feed system, screed
+       use all paver controls. That means the crew must      adjustments, temperature of the bituminous
+       study and refer to the Operation and Maintenance      material, and type of bituminous material. The crew
+       Manual that is shipped with the paver. Controls       is expected to control the first three factors: speed,
+       and features vary on different paver models. A        material feed system and screed adjustments.
+       procedure or technique used on one paver may          The crew does not control mix temperature or mix
+       not be appropriate for another. Always set up and     design, but the crew needs to know how to react to
+       operate the paver in the manner described in the      variations in those factors.
+       manufacturer’s manual.
+
+       Second, crewmembers have to fully understand the
+       concept of the free-floating screed. This concept
+       is basically the same for all pavers. The material
+       supports the screed, which is towed by the tractor.
+       When all the factors that influence how the screed
+       floats on the material are properly controlled and
+
+
+
+62     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+FUNDAMENTALS
+
+
+
+
+[ HOW THE PAVER WORKS ]
+An paver has two basic elements, the tractor and          The screed is connected to both sides of the tractor
+the screed. The tractor provides power to tow the         at the tow-point connections. From the tow-points,
+screed. The tractor receives the material from haul       tow arms extend back and connect to the front
+units or transfer devices and moves the material to       of the screed. The screed controls the width and
+the rear of the tractor, where it is placed in front of   depth of paving. It also provides the initial density
+the screed. The tractor can be equipped with one or       and texture of the bituminous layer.
+two operating stations having controls for steering,
+the propel system, and parts of the material feed
+system.
+
+
+
+
+                                                                tractor
+
+                                screed
+
+
+
+
+[ TRACTOR ]
+Two push rollers are located at the front of the
+tractor. When the mix is transferred directly from
+the haul unit to the tractor hopper, the push rollers
+contact the rear wheels of the haul unit. The push
+rollers turn as the wheels turn. The truck driver
+must maintain light pressure on the brakes to
+prevent it from rolling away and creating a spill in
+front of the paver. (See Unit 7 for more information
+about the truck exchange procedure.)
+
+
+
+
+                                                          Two push rollers contact the rear tires of the haul
+                                                          unit as the paver pushes the haul unit.
+
+
+
+User Tip: Periodically clean the push rollers to avoid material build-up. If build-up occurs, irregular impacts
+between the paver and haul unit can lead to mat defects.
+
+
+
+                                                                Unit 3: FUNDAMENTALS OF PAVING |                  63
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+FUNDAMENTALS
+                                                                                       2 ill. – Jan 23nd, 1hr
+                                                                                       2 ill. – Jan 22nd, 2hr 30m
+
+
+
+
+       A truck hitch is an option on many pavers. It
+       provides a solid connection between the paver
+       and the haul unit. The paver operator controls the
+       truck hitch with a console switch. When the truck
+       hitch is open, the truck backs up and stops just
+       before contacting the push rollers. The paver moves
+       forward slightly and contacts the rear tires of the
+       haul unit. The operator then closes the truck hitch
+       and the rollers on the two truck-hitch arms contact
+       the wheel rims.
+
+       When the load is fully discharged, the operator
+       opens the truck hitch to permit the empty haul
+       unit to depart. Truck hitches help avoid large spills
+       in front of the paver that are caused when a truck
+       inadvertently loses contact with the push rollers.
+
+       Material from haul units can be discharged directly
+       into the paver hopper or can be moved into the          The optional truck hitch helps provide a secure connection
+                                                               between the front of the paver and the haul unit.
+       hopper using a transfer device. The hopper provides
+       a limited amount of storage for bituminous material,
+       so the paver can continue to operate for some           when the crew is using a material transfer device.
+       period of time between haul units.                      The hopper insert increases the storage capacity of
+                                                               the paver and makes it easier to pave continuously
+       Flashing at the front of the hopper helps retain        at normal paving speeds without stops between
+       material. Hopper inserts are commonly installed         haul units.
+
+
+
+
+       The sides of the hopper can be raised one at a
+       time or simultaneously to use the material that has
+       flowed to the sides. Local regulations sometimes
+       prohibit raising hopper sides because doing so can
+       cause material segregation.
+
+       Some pavers are equipped with an optional fold-up
+       section at the front of the hopper. Folding helps
+       prevent spills over the flashing when the sides of
+       the hopper are raised.
+
+       Inside the hopper, two drag-slat conveyors move
+       the material from the hopper, through tunnels under
+       the operator’s platform, and deposit the material in
+       front of the screed. On modern pavers, the left and
+       right conveyors are driven independently to meet
+       the demands for material in front of the screed. For
+       example, if the left side of the screed is set at a     The operator can raise the sides of the hopper, if desired and
+       wider width than the right side of the screed, then     permissible, to move mix from the sides of the hopper to the
+       the left feed system conveyor will run faster than      feed system conveyors.
+       the right conveyor.
+
+
+
+
+64     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+FUNDAMENTALS
+
+
+
+
+Left and right feed system conveyors move material to the front of the screed. Left and right augers move material out to the full
+paving width.
+
+
+
+
+At the rear of the tractor, two augers move the                      Tractor undercarriages include wheel, rubber track,
+material in the auger chamber out to the paving                      and steel track designs.
+width. The left and right augers also feature
+individual controls to regulate their rotation speeds.               Before the introduction of the rubber track
+                                                                     undercarriage, there was clear distinction in
+The material feed system has several types of                        applications for the track-type and rubber-tire
+sensors to help automatically regulate the material                  undercarriages.
+feed system. Either sonic or mechanical feeder
+sensors are located at the rear of the left and right                Track-type systems were preferred for extra
+conveyors and/or near the ends of the left and right                 traction and flotation on soft base materials.
+augers.                                                              Rubber-tire systems were preferred for worksite
+                                                                     mobility and for projects where smoothness of the
+The tractor can be equipped with one or two                          wearing course was very important. Rubber track
+console equipped operating stations. The controls                    undercarriage now combines traction, high travel
+regulate propel speed, tractor steering, some                        speed and smoothness and is very common in
+material feed system controls, lights and some                       some regions today.
+screed controls. The operator selects the station
+that provides the best visibility for steering or slides
+the station to the side of the tractor with the best
+visibility.
+
+The paver operator’s primary responsibilities are to
+help coordinate transfer of material to the hopper,
+guide the machine, and control speed. The operator
+is also responsible for setting some feed system
+controls.
+
+
+
+
+                                                                            Unit 3: FUNDAMENTALS OF PAVING |                         65
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+FUNDAMENTALS
+
+
+
+
+       Tow-point connections are located between the
+       screed and the tractor near the center of the tractor
+       on both sides.
+
+       A hydraulic cylinder is attached to the tow arm. The
+       front of the tow arm extends through a vertical slide
+       compartment. At the end of the tow arm is a roller
+       that contacts the slide compartment. The screed
+       or paver operators can adjust the height of the tow-
+       point connection to meet application requirements.
+       A scale shows the operators the height of the
+       tow-point. The tow-points are the only physical
+       connections between the screed and the tractor
+       and they play an important role in how the screed
+       floats.                                                 The tow-point connection features a height scale that enables
+                                                               the tractor or screed operators to set and check the position of
+                                                               the connection.
+
+
+
+
+       [ SCREED ]
+       Screeds are classified into two primary types—
+       fixed-width and hydraulically extendable, each
+       having several variations.
+
+       Extendable screeds can have extenders that are
+       in front of the main screed (called a front-mount
+       screed) or are behind the main screed (called a
+       rear-mount screed). There are vibratory screeds and
+       tamping screeds with vibration.
+
+       Each screed has its own relative merits that fit
+       certain applications better than others. In some
+       areas, there may be method specifications that
+       mandate the use of a particular type of screed. This
+       guide will not debate the benefits of one screed
+       type over another, but will seek to explain how to
+       best set up and use any type of screed.
+                                                               Left and right hydraulically extendable screed extenders simplify
+                                                               the task of changing paving width.
+       A fixed-width screed consists of one screed frame
+       and screed plate. Typical fixed-width screeds
+       are 2.5 m (8') or 3 m (10') wide. To increase the
+       paving width, the crew must add bolt-on screed
+       extensions. Fixed-width screeds are preferred for       Depending on the particular screed arrangement,
+       some applications, because they tend to make it         the total width of the screed can be increased to
+       easier to create uniform layer density from edge to     twice the width of the main screed by moving
+       edge, and they tend to resist flexing when paving at    the extenders to their capacity. Those screeds
+       wide widths.                                            are commonly referred to as “double-extending”
+                                                               screeds. Other hydraulically extendable screeds can
+       A hydraulically extendable screed consists of a main    be opened up to slightly less than twice the width
+       frame with screed plate plus right and left extender    of the main screed.
+       frames with plates. Typical main screeds are 2.5 m
+       (8') or 3 m (10') wide, just like the fixed-width
+       screeds. To increase paving width beyond the basic
+       width, the operators use control switches to move
+       the extenders.
+
+
+
+66     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+FUNDAMENTALS
+
+
+
+
+User Tip: If possible, use equal-extension widths on both sides of the main screed, whether using bolt-on
+or hydraulic extenders. Equal-extension widths make it easier to control steering and balance material flow.
+
+
+
+
+Extendable screeds are nearly unlimited in
+their setup capabilities. Their versatility is why
+extendable screeds are most commonly used
+around the world. For example, an extender can be
+sloped to an angle that is different than the main
+screed plate when the application calls for paving
+an emergency lane with one slope, while paving the
+driving lane with another slope.
+
+
+
+
+                                                         To meet the requirements of some applications, the crew must
+                                                         install bolt-on screed extensions and specialty attachments to
+                                                         the left and/or right screed extenders.
+
+
+
+
+There are two types of extendable screeds. They
+include screeds with front-mount extenders and
+screeds with rear-mount extenders. The front-
+mount screed is equipped with extenders that
+move in and out in front of the main screed. In
+general, it is easier to retract front-mount extenders
+because the material brought in by the end gates is
+unrestricted. For this reason, front-mount screeds
+are often preferred by crews that pave urban-
+type projects where frequent width changes are
+required.
+
+
+
+
+                                                         Front-mount screeds have extenders that move in and out in
+                                                         front of the main screed.
+
+
+
+
+User Tip: If using an extendable screed with front-mount extenders, and the paving width will constantly
+extend at least 60 cm (2') outside the main screed width, be sure to add auger and mainframe extensions.
+Remember, the material must flow straight out from the auger chamber to reach the end gates. Failure to
+add on auger and mainframe extensions will make it difficult for the crew to adjust the feeder system.
+
+
+
+
+                                                                Unit 3: FUNDAMENTALS OF PAVING |                          67
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+FUNDAMENTALS
+
+
+
+
+       Rear-mount screeds have extenders that are located
+       behind the main screed. In general, rear-mount
+       screeds are preferred by crews that pave mainline
+       and highway projects, requiring fewer paving-width
+       changes.
+
+       User Tip: When using an extendable screed with
+       rear-mount extenders and the paving width will
+       constantly be at least 1 m (3') outside the main
+       screed width, be sure to add auger and mainframe
+       extensions. Rear-mount screeds provide a little
+       leeway compared to front-mount screeds. The
+       material exits the auger chamber and has time to
+       flow out and back to fill in the area in front of the
+       extenders. Failure to add on auger and mainframe
+       extensions make it difficult to adjust the feeder
+       system.
+                                                               Rear-mount extendable screeds have extenders that move in
+                                                               and out behind the main screed.
+
+
+
+
+       Vibratory screeds have small, external eccentric
+       weight shafts installed over each screed plate.
+       The rotation of the eccentric weights causes the
+       screed plates to vibrate when the vibratory system
+       is activated. Vibrating plates increase the density
+       of the layer by an additional one or two percentage
+       points.
+
+       For example, if a non-vibratory screed produces
+       an asphalt layer that is at 84 percent of maximum
+       theoretical density, that number will increase to
+       85-86 percent if the vibratory system is activated—
+       all other factors being equal. Screed vibration also    View of the screed plates on a rear-mount, vibratory, extendable
+       helps bring the fine mix particles to the surface and   screed.
+       improves mat appearance.
+
+
+
+
+       User Tip: Adjust the frequency of the screed vibratory system while the paver is moving at normal
+       operating speed. The goal is to deliver the maximum vibration energy into the bituminous layer without
+       causing excessive vibration of screed components. A common technique is to place a coin or metal washer
+       on any flat screed surface. Increase vibratory frequency until the coin begins to bounce. Reduce frequency
+       until the coin just stops bouncing. If the paving speed is changed, adjust the vibratory frequency.
+
+
+
+
+68     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+FUNDAMENTALS
+
+
+
+
+Tamper screeds supplement vibration energy with
+the energy of one or two tamper bars. Tamper
+bars are located in front of the main screed
+and the screed extenders. The tamper bars are
+connected to an eccentric drive shaft that produces
+rapid vertical movement of the tamper bars. The
+movement helps material, especially stiff mixes
+with large aggregates, flow under the screed nose.
+The extra help means that the screed can float on
+the layer using a relatively small planing angle (angle
+of attack).
+
+
+                                                                        View of rear mount, extendable screed with vibration and
+                                                                        tamper bars.
+
+
+
+
+The distance the tamper bar moves and the                               The working speed, the frequency of the tamper
+frequency (rotations per minute) of movement                            bar and the width of the tamper foot are factors
+depend on the screed model. For example, the                            that affect the results. The tamper foot (bottom of
+tamper bar movement up and down may be 8 mm                             the tamper bar) is 25 mm (1") wide when new. The
+(0.3") at a maximum frequency of 2000 rotations                         tamper foot must impact the surface of the layer
+                                                                                                        2 ill. – Jan 23nd, 1hr
+
+
+per minute. The effect of the tamper bar energy will                    in a closely spaced manner to create an overlap of
+                                                                                                        2 ill. – Jan 22nd, 2hr 30m
+
+
+
+
+be to increase the density of the layer laid down by                    about 6 mm (0.25") for each stroke of the tamper
+the paver beyond the results from vibration only.                       bar. In general, the maximum working speed is
+                                                                        around 8 meters per minute (26' per minute) when
+For example, if the density of the layer is 86 percent                  paving with a tamper bar screed. Excessive working
+of maximum theoretical density using only vibration,                    speed can cause ripples in the surface of the
+density may increase to 90 percent after activating                     bituminous layer.
+the tamper bar system.
+
+
+                                                                                tamper bar
+
+
+
+
+ A   tamper amplitude
+ B   dosing height
+                                                   B
+                                                                                      F
+     dosing angle
+ F   dosing area                                   A
+                                                                                                   SF
+SF   tamper foot
+
+                                                                                                                            screed plate
+
+
+User Tip: As the tamper bar accumulates use, the dosing angle changes and the area of the tamper foot
+becomes smaller. Therefore, the overlap between tamper strokes is harder to maintain. Regularly inspect
+                                                   m03 rh2 ,dn22 naJ – .lli 2
+                                                       rh1 ,dn32 naJ – .lli 2
+
+
+the tamper foot and replace it when the wear affects smoothness or reduces production. As abrasion
+reduces the size of the tamper foot, the paving speed must be reduced to avoid creating ripples in the
+surface of the bituminous layer and to achieve the desired pre-compaction layer density.
+
+
+
+
+                                                                                  Unit 3: FUNDAMENTALS OF PAVING |                         69
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+FUNDAMENTALS
+
+
+
+
+       [ PRINCIPLE OF THE FLOATING SCREED ]
+       All screeds share one common principle: They float          angle. Also, the operator may choose to hold the
+       on the bituminous material that passes under the            screed in position during stops to prevent leaving
+       nose of the screed. When the paver operator lowers          indentations in the uncompacted layer. (More
+       the screed to the starting reference, the operator          information about these systems is provided near
+       positions the screed Raise / Lower / Float switch in        the end of this unit.)
+       the Float position. While the paver is moving, the
+       bituminous material supports the screed.                    Both vibratory screeds and vibratory / tamping
+                                                                   screeds float on the material. Their characteristics
+       Depending on the weight of the screed and the               are somewhat different, but the factors that
+       stiffness of the material, the operator may elect to        impact how they float on the material are basically
+       put some upward hydraulic pressure in the screed            the same. These factors are best explained in a
+       lift cylinders to help the screed float at the proper       diagram.
+
+
+
+
+       Factors that affect how the floating
+       screed maintains its vertical position.
+
+
+
+
+                                                       2
+
+
+
+               1                                                                                   3
+
+T                                                                                                            CG
+
+                                                                                        W                    G        4
+           h
+                                                                   a
+                                                                                C
+                                                                                    d                            F
+
+
+                                                                                                             B
+
+                                                               l
+
+
+
+
+       1   tow-point connection (rotary joint)                     h    height of the tow-point
+
+       2   tow arm (beam)                                           l   projected length
+
+       3   front panel                                             d    depth of the layer (mat thickness)
+
+       4   screed plate                                            a    angle of attack
+
+       T   traction force
+
+       W weight of material in front of the screed
+       C   cutting force (shear force)
+
+       G   gravitational pull (weight of the screed)
+
+       B   buoyant force
+
+       F   frictional force
+
+
+
+
+70     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+FUNDAMENTALS
+
+
+
+
+First, let’s identify the main components in the       Number 3 is the front panel of the screed. This
+diagram.                                               panel confines the material in the auger chamber. A
+                                                       certain amount of material is pushed in front of the
+Number 1 is the tow-point connection (rotary           panel, while a certain amount flows under the front
+joint). There are connections on each side of the      panel.
+paver. The height of the tow-point connections is
+adjustable. (See Units 4 and 5 for information about   Number 4 is the screed plate, which floats on
+setting the tow-point height.) Changing the height     material that is sheared off by the front panel. In
+of a tow-point connection affects the main screed      conjunction with the tamper bar (if equipped) and
+angle of attack and thereby the vertical position of   screed vibration (if engaged), the screed plate
+the screed.                                            develops an additional amount of mat density as
+                                                       the mat is being laid down. The screed plate also
+Number 2 is the tow arm (beam) that extends            affects the texture of the mat surface.
+between the tow-point connection and the front of
+the screed. There are identical tow arms on each
+side of the paver.
+
+
+
+
+                                          2
+
+
+
+    1                                                                             3
+
+
+
+
+                                                                                                       4
+
+
+
+
+1   tow-point connection (rotary joint)
+
+2   tow arm (beam)
+
+3   front panel
+
+4   screed plate
+
+
+
+
+                                                             Unit 3: FUNDAMENTALS OF PAVING |                 71
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+FUNDAMENTALS
+
+
+
+
+       Next, are the forces that act on the screed.             Conversely, the lower the head of material, the
+                                                                lower the resistance, and the screed pushes more
+       Force T : traction force. The traction force is          material in front while allowing less to pass under
+       controlled primarily by the speed of the paver. The      the front of the screed. When the head of material
+       paving speed provides the energy that enables            remains uniform, the screed is more likely to float at
+       the screed to shear a portion of the material in the     equilibrium.
+       auger chamber. Uniform paving speed contributes
+       to screed equilibrium and, therefore, a uniform layer    Resistance felt by the screed also depends on the
+       thickness and smoothness.                                action of the augers. When the augers rotate very
+                                                                slowly or stop rotating altogether, the material
+       Force W : weight of material in front of the             compresses against the front of the screed and its
+       screed. This weight, or force, creates resistance.       weight increases. Consequently, the screed will
+       Weight is affected primarily by the material height in   tend to ride up and thickness increases. Uniform
+       front of the screed, also called the head of material.   auger rotation in the range of 20 to 40 revolutions
+       The higher the head of material, the heavier the         per minute helps the screed maintain equilibrium.
+       weight. The heavier the weight, the greater the
+       resistance felt by the screed—and the more the
+       screed wants to climb onto the head of material.
+
+
+
+
+T                                                                                                       CG
+
+                                                                                  W                     G
+                                                                            C
+
+                                                                                                            F
+
+
+                                                                                                        B
+
+
+
+
+       T   traction force
+
+       W weight of material in front of the screed
+       C   cutting force (shear force)
+
+       G   gravitational pull (weight of the screed)
+
+       B   buoyant force
+
+       F   frictional force
+
+
+
+
+72     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+FUNDAMENTALS
+
+
+
+
+Note for tamper screeds: If the paving speed is increased and the tamper and vibration speed remains
+constant, the distance between tamper impacts increases. Less material will be consolidated under the
+screed and the thickness will decrease. To maintain the correct layer thickness at higher working speeds,
+tamper and vibration speeds must be increased accordingly.
+
+The opposite effect occurs when working speed is decreased. Impacts delivered by the tamper bar are
+closer together and more mix passes under the screed. To restore the balance between working speed and
+tamper forces, the speed of the tamper bar will have to be decreased.
+
+
+
+
+Force C : cutting force (shear force). The cutting       Force B : buoyant force. This is the hydrodynamic
+or shear force is the screed’s ability to pass a         lifting force that is created by the material passing
+certain amount of mix under the front of the screed,     under the screed. Mix designs that contain large
+while pushing the remainder of the material in the       aggregates (19 mm / 0.75" or greater) and high
+auger chamber forward. The shear force is affected       viscosity with modified asphalt cement tend to
+by paving speed, head of material, resistance of         have larger lifting forces than fine-grained mixes
+material influenced by rotation of the auger, and        with conventional asphalt cement. This lifting, or
+angle of attack.                                         supporting force, remains nearly constant once the
+                                                         screed has reached equilibrium and the thickness of
+Force G : gravitational pull (weight of the              the bituminous layer and the mix design remain the
+screed). The weight of the screed acts to compress       same.
+the layer as material passes under the screed. If
+all other factors are equal, a heavier screed wants      Force F : frictional force. The frictional force that
+to compact the material to a greater extent. The         is created between the screed plate and the mix
+crew members may have to adjust to make a heavy          passing under the screed plate is generally fairly
+screed reach a stable equilibrium point. If the width    small. As long as the mix formula and temperature
+of the screed remains unchanged, the weight force        remain the same, the frictional force stays constant
+remains nearly the same.                                 and screed equilibrium is not affected.
+
+If the width of the screed is changed significantly      Colder-than-normal mix tends to create less
+while paving, the force changes and the crew will        drag, or friction, on the screed plate. Under this
+have to make adjustments to maintain the correct         condition, the screed will tend to fall. The larger the
+depth. For example, if extenders are brought out,        temperature loss in the mix, the more the screed
+the weight felt by the material is less and the screed   will fall.
+will rise.
+
+
+
+
+                                                               Unit 3: FUNDAMENTALS OF PAVING |                    73
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+FUNDAMENTALS
+
+
+
+
+       Next, let’s examine the dimensional characteristics           The traction angle that is formed by the height of
+       in the diagram.                                               the tow-point connection affects the main screed
+                                                                     angle of attack. On tamper screeds, this is the
+       Dimension h : height of the tow-point. The                    normal way to change the angle of attack. On
+       height of the tow-point connection affects the                vibratory screeds, crews use either the tow-point or
+       traction angle, or line of pull. The traction angle is        manual depth cranks to change the angle of attack.
+       the relationship between the height of the tow-point
+       connection and the pivot point of the screed.                 Increasing the traction angle increases the angle
+                                                                     of attack and the screed will climb. Decreasing the
+       Before starting to pave, position both tow-point              traction angle decreases the angle of attack and the
+       connections at the height that is appropriate for             screed will go down. Screed operators can change
+       the planned layer thickness. (See Unit 4 for more             the height of the tow-point connection manually
+       information about setting the tow-point height for            using control switches or automatically using a
+       vibratory screeds. See Unit 5 for more information            grade control system.
+       about setting the tow-point height for tamper
+       screeds.)
+
+
+
+
+            h
+                                                                 a
+
+                                                                                d
+
+
+
+
+                                                             l
+
+
+
+
+       h        height of the tow-point
+        l       projected length
+       d        depth of the layer (mat thickness)
+       a        angle of attack
+
+
+
+
+74     | Unit 3: FUNDAMENTALS OF PAVING
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+FUNDAMENTALS
+
+
+
+
+User Note: When paving manually (not using automatic grade and slope controls), the leveling characteristic
+of the free-floating screed can produce up to 50 percent improvement in smoothness when paving over a
+moderately to severely rough grade. The screed at equilibrium tends to remain at a given height, while filling
+in low spots in the grade and leveling off high spots.
+
+
+
+
+Dimension l : projected length. The projected            Dimension a : angle of attack. The angle of attack
+length of the paver is the distance between the          is also referred to as the planing angle. Angle of
+tow-point connection and the screed’s center of          attack can be thought of in several ways. It can be
+gravity (indicated as CG on the page 70 diagram), or     described as the angle between the nose of the
+the screed pivot point. The projected length is often    screed plate and the grade over which the screed
+referred to as the paver’s leveling distance. When       is paving. Or, it can be described as the relationship
+the paver is moving and the screed is at equilibrium,    between the nose and the trailing edge of the
+the leveling distance creates a smooth surface—          screed plate. In general, the best screed stability
+even when paving over an irregular grade.                and best appearance of the bituminous layer occur
+                                                         when the angle of attack is between 3 mm (0.125")
+Dimension d : depth of the layer (mat                    and 6 mm (0.25").
+thickness). Layer depth is the distance between
+the bottom of the screed plate and the grade. Layer      The primary influence on main screed angle of
+depth affects where the crew should position             attack for tamping screeds is the height of the tow-
+the tow-point in order to create the ideal traction      point connection. The angle of attack on vibratory
+angle (line of pull) and the ideal angle of attack for   screeds can be set or altered in two ways: turning
+the main screed. Specifically, when the paving           the depth crank or changing the height of the tow-
+depth is 15 cm (6") or greater, the crew will have       point connection.
+to supplement the traction angle with increased
+angle of attack to help the screed float in a stable
+condition.
+
+
+
+
+Summary. The forces that affect the screed               that is created at the start of paving. Having the
+are interrelated. If one factor is changed, one or       screed in the most stable condition will help reduce
+more other factors may need adjusting to create          the screed’s reactions to changing forces.
+the conditions necessary for screed equilibrium.
+Therefore, the crew should strive for uniform
+performance at all times.
+
+However, even with the best planning and
+preparation, it is virtually impossible to keep all
+forces constant. Setting up the screed properly can
+minimize the negative effects of fluctuations in the
+forces that affect the screed. Pay attention to the
+traction angle (line of pull) and the angle of attack
+
+
+
+
+                                                               Unit 3: FUNDAMENTALS OF PAVING |                   75
+

@@ -17,3 +17,7 @@ curriculum/asphalt-paving/context/chunks/**/*.txt -text -whitespace
 curriculum/asphalt-paving/ms-4/text/** -text -whitespace
 curriculum/asphalt-paving/ms-4/data/** -text
 curriculum/asphalt-paving/ms-4/edits/*.txt -text -whitespace
+
+# Preserve official vector artwork and checksummed manufacturer text extracts.
+*.eps -text -whitespace
+curriculum/asphalt-paving/caterpillar/text/** -text -whitespace

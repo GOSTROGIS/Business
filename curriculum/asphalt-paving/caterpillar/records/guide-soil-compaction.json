@@ -1,0 +1,116 @@
+{
+  "id": "CAT-03",
+  "slug": "guide-soil-compaction",
+  "title": "Guide to Soil Compaction",
+  "publisher": "Caterpillar",
+  "type": "Application guide",
+  "publication": "QEBQ1705",
+  "publication_year": 2013,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Soil properties, compaction equipment and supporting earthwork concepts.",
+  "download_filename": "cat-guide-soil-compaction.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200908-0bad0-9a837",
+  "accessed": "2026-10-30",
+  "original_bytes": 29247534,
+  "original_sha256": "9e0b97dfec265b4eb1a2937ea4f3e3c2400263de368069ba2784847ea68ca191",
+  "original_pages": 132,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "Guide to Soil Compaction\nGuide to Soil Compaction\nCAT® PAVING PRODUCTS\n",
+    "last_page": ""
+  },
+  "parts": [
+    {
+      "file": "sources/guide-soil-compaction/p0001-0025.pdf",
+      "text": "text/guide-soil-compaction/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 5775457,
+      "sha256": "6b17c12a32abde75f02e4fb2e1502d82bdd8a8aef146a0b65cd4f6e461bd0f51",
+      "text_sha256": "718833c13f77a93a68ad9e4406198833d16fe521b16508bab30589213844d879",
+      "empty_text_source_pages": [
+        2,
+        3,
+        4,
+        10,
+        12
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-soil-compaction/p0026-0037.pdf",
+      "text": "text/guide-soil-compaction/p0026-0037.txt",
+      "start": 26,
+      "end": 37,
+      "pages": 12,
+      "bytes": 4097320,
+      "sha256": "762bd2a55685eb456ff63d5816de3e1f2ad308b189301f0ab0f9626a1f44562d",
+      "text_sha256": "a569f6ae6f8060a9e6e68ef810aa08299f4c44eefde449c642134a372b5e737f",
+      "empty_text_source_pages": [
+        34
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-soil-compaction/p0038-0062.pdf",
+      "text": "text/guide-soil-compaction/p0038-0062.txt",
+      "start": 38,
+      "end": 62,
+      "pages": 25,
+      "bytes": 9223322,
+      "sha256": "9c50d4505a2f20ff5837e53dc22758509fa11200d68a344e166590afc094ba67",
+      "text_sha256": "0db4a780064f58d9fb78affeb4af7852a865cf0baaada2163aa08266d3e23243",
+      "empty_text_source_pages": [
+        42,
+        62
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-soil-compaction/p0063-0087.pdf",
+      "text": "text/guide-soil-compaction/p0063-0087.txt",
+      "start": 63,
+      "end": 87,
+      "pages": 25,
+      "bytes": 2599712,
+      "sha256": "bfa65d19bdf8f910b550778306b9d08117e3d6839333497df73007512d2d3d29",
+      "text_sha256": "242d07a941045e73223277ed7cd0aeaae7b0033108f861bef211d46f6433e0fa",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-soil-compaction/p0088-0112.pdf",
+      "text": "text/guide-soil-compaction/p0088-0112.txt",
+      "start": 88,
+      "end": 112,
+      "pages": 25,
+      "bytes": 9195756,
+      "sha256": "202ec2bc3b68e6d99c26db69ddf55fce37ea596e7430102e61f4ab0923492af8",
+      "text_sha256": "81736388ce82965c0d0319cbf7c67e93b64efb592f00d0f03affdccc268456f9",
+      "empty_text_source_pages": [
+        94
+      ],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/guide-soil-compaction/p0113-0132.pdf",
+      "text": "text/guide-soil-compaction/p0113-0132.txt",
+      "start": 113,
+      "end": 132,
+      "pages": 20,
+      "bytes": 884292,
+      "sha256": "64536938405824ae26306c1e94b1a2d0b7dddeed0ac7592183abfdf2ccbbf31d",
+      "text_sha256": "79c1a503254623a4ea0dcd1e98501b12ce33ce372ca8a9ed52b7551ab44928ae",
+      "empty_text_source_pages": [
+        128,
+        129,
+        130,
+        131,
+        132
+      ],
+      "original_bytes_preserved": false
+    }
+  ]
+}

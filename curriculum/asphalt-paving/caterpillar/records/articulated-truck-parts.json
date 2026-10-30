@@ -1,0 +1,37 @@
+{
+  "id": "CAT-14",
+  "slug": "articulated-truck-parts",
+  "title": "Articulated Trucks — Parts Reference Guide",
+  "publisher": "Caterpillar",
+  "type": "Parts reference guide",
+  "publication": null,
+  "publication_year": 2022,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+  "download_filename": "cat-articulated-truck-parts.pdf",
+  "source_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20220802-197ca-96af8",
+  "accessed": "2026-10-30",
+  "original_bytes": 1210376,
+  "original_sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+  "original_pages": 11,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745 \nARTICULATED TRUCKS\nSERIAL NUMBER PREFIXES:  3T9, 3T3, 3F3, 3T4, 3F4, 3T5, 3F5, 3T8, 3F8, 3T7, 3F7, 3T6, 3F6 \nPARTS REFERENCE GUIDE\n",
+    "last_page": "To buy Cat parts online, visit Parts.cat.com.\nCat Filters Provide Longer  \nInjector Life\nChances are, you don’t skip oil changes or regular maintenance  \non the family car. So why skip planned maintenance on your Cat \nequipment? Cat fuel filters outperform the competition, with up to \n45% longer injector life and up to 80% decreased cost per hour.*\nProductivity and Hydraulics  \nGo Hand In Hand\nIf your hydraulic system isn’t performing at peak efficiency, it’s  \nrobbing your machine of performance. Efficiency losses usually  \noccur slowly and can reach 20% before you detect a problem — \nthat’s one day of lost production every week! These losses can  \nalso increase your fuel consumption and operating costs. \nNeed help? \nYour local Cat dealer can provide:\n     • Technical Support\t\n     \t\n• Parts needed and equipment fit\n     • Customer Value Agreements     \t• Repair financing\n     • Oil sample analysis     \t\t\n• Rental Services\nFind your local dealer at www.cat.com today. \n \nAEXQ3497\n(Global)\n© 2022 Caterpillar. All Rights Reserved. CAT, CATERPILLAR, LET’S DO THE WORK, their respective \nlogos, “Caterpillar Corporate Corporate Yellow”, the “Power Edge” and Cat “Modern Hex” trade dress \nas well as corporate and product identity used herein, are trademarks of Caterpillar and may not be \nused without permission.\n"
+  },
+  "parts": [
+    {
+      "file": "sources/articulated-truck-parts/p0001-0011.pdf",
+      "text": "text/articulated-truck-parts/p0001-0011.txt",
+      "start": 1,
+      "end": 11,
+      "pages": 11,
+      "bytes": 1210376,
+      "sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+      "text_sha256": "aa31023a1c046bce7b1f1b187d28f700c7e1dab6084bb0b81a3549ffb08b4774",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true
+    }
+  ]
+}

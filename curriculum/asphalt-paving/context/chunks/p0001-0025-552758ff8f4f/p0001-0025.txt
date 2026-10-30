@@ -1,0 +1,1436 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0001-0025.pdf
+SOURCE SHA-256: 552758ff8f4f0f6e83c46e76ba8f8e57f722bb1e3db0bd5097242d59a9ad3bf8
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+KEBU7520-08 (en-us)
+                                                                                        April 2019
+
+
+
+
+Operation and
+Maintenance
+Manual
+CB-214E , CB-224E, CB-225E Paving
+Compactors
+214 1-UP (CB214E)
+224 1-UP (CB224E)
+225 1-UP (CB225E)
+
+
+
+
+                    Scan to find and purchase genuine Cat® parts and related
+                    service information.
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+i06558969
+
+
+                              Important Safety Information
+Most accidents that involve product operation, maintenance and repair are caused by failure to observe
+basic safety rules or precautions. An accident can often be avoided by recognizing potentially hazardous
+situations before an accident occurs. A person must be alert to potential hazards, including human factors
+that can affect safety. This person should also have the necessary training, skills and tools to perform these
+functions properly.
+Improper operation, lubrication, maintenance or repair of this product can be dangerous and could
+result in injury or death.
+Do not operate or perform any lubrication, maintenance or repair on this product, until you verify
+that you are authorized to perform this work, and have read and understood the operation,
+lubrication, maintenance and repair information.
+Safety precautions and warnings are provided in this manual and on the product. If these hazard warnings
+are not heeded, bodily injury or death could occur to you or to other persons.
+The hazards are identified by the “Safety Alert Symbol” and followed by a “Signal Word” such as
+“DANGER”, “WARNING” or “CAUTION”. The Safety Alert “WARNING” label is shown below.
+
+
+
+
+The meaning of this safety alert symbol is as follows:
+Attention! Become Alert! Your Safety is Involved.
+The message that appears under the warning explains the hazard and can be either written or pictorially
+presented.
+A non-exhaustive list of operations that may cause product damage are identified by “NOTICE” labels on
+the product and in this publication.
+Caterpillar cannot anticipate every possible circumstance that might involve a potential hazard.
+The warnings in this publication and on the product are, therefore, not all inclusive. You must not
+use this product in any manner different from that considered by this manual without first
+satisfying yourself that you have considered all safety rules and precautions applicable to the
+operation of the product in the location of use, including site-specific rules and precautions
+applicable to the worksite. If a tool, procedure, work method or operating technique that is not
+specifically recommended by Caterpillar is used, you must satisfy yourself that it is safe for you
+and for others. You should also ensure that you are authorized to perform this work, and that the
+product will not be damaged or become unsafe by the operation, lubrication, maintenance or repair
+procedures that you intend to use.
+The information, specifications, and illustrations in this publication are on the basis of information that was
+available at the time that the publication was written. The specifications, torques, pressures,
+measurements, adjustments, illustrations, and other items can change at any time. These changes can
+affect the service that is given to the product. Obtain the complete and most current information before you
+start any job. Cat dealers have the most current information available.
+
+
+
+                           When replacement parts are required for this
+                           product Caterpillar recommends using Cat re-
+                           placement parts.
+                           Failure to follow this warning may lead to pre-
+                           mature failures, product damage, personal in-
+                           jury or death.
+
+In the United States, the maintenance, replacement, or repair of the emission control devices and
+systems may be performed by any repair establishment or individual of the owner's choosing.
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+KEBU7520-08                                                                                                                                     3
+                                                                                                                          Table of Contents
+
+
+
+Table of Contents                                                         Engine Starting................................................ 39
+
+                                                                          Parking ............................................................ 41
+Foreword ........................................................... 4
+                                                                          Transportation Information .............................. 43
+Safety Section
+                                                                          Towing Information .......................................... 46
+Safety Messages............................................... 6
+                                                                          Engine Starting (Alternate Methods)............... 50
+General Hazard Information............................ 10
+
+Crushing Prevention and Cutting Prevention.. 13
+                                                                          Maintenance Section
+
+                                                                          Maintenance Access ....................................... 52
+Burn Prevention............................................... 13
+                                                                          Tire Inflation Information.................................. 53
+Fire Prevention and Explosion Prevention...... 14
+                                                                          Lubricant Viscosities and Refill Capacities ..... 54
+Fire Extinguisher Location............................... 17
+                                                                          Maintenance Support ...................................... 56
+Tire Information ............................................... 17
+                                                                          Maintenance Interval Schedule....................... 58
+Electrical Storm Injury Prevention ................... 18
+
+Before Starting Engine .................................... 18            Reference Information Section
+
+Engine Starting................................................ 18        Reference Materials ........................................ 95
+
+Before Operation ............................................. 19         Index Section
+
+Visibility Information ........................................ 19        Index................................................................ 96
+
+Operation......................................................... 19
+
+Engine Stopping .............................................. 20
+
+Parking ............................................................ 20
+
+Slope Operation .............................................. 20
+
+Sound Information and Vibration Information . 21
+
+Product Information Section
+
+General Information ........................................ 24
+
+Identification Information ................................. 25
+
+Operation Section
+
+Before Operation ............................................. 27
+
+Machine Operation .......................................... 29
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+4                                                                                                KEBU7520-08
+Foreword
+
+
+
+Foreword                                                Whenever a question arises regarding your machine,
+                                                        or this publication, please consult your Cat dealer for
+                                                        the latest available information.
+California Proposition 65 Warning
+                                                        Safety
+Diesel engine exhaust and some of its
+constituents are known to the State of                  The safety section lists basic safety precautions. In
+California to cause cancer, birth defects,              addition, this section identifies the text and locations
+                                                        of warning signs and labels used on the machine.
+and other reproductive harm.
+                                                        Read and understand the basic precautions listed in
+       WARNING – This product can                       the safety section before operating or performing
+       expose you to chemicals                          lubrication, maintenance, and repair on this machine.
+       including ethylene glycol, which
+is known to the State of California to                  Operation
+cause birth defects or other reproductive
+harm. For more information go to:                       The operation section is a reference for the new
+                                                        operator and a refresher for the experienced
+www.P65Warnings.ca.gov                                  operator. This section includes a discussion of
+                                                        gauges, switches, machine controls, attachment
+Do not ingest this chemical. Wash hands                 controls, transportation, and towing information.
+after handling to avoid incidental                      Photographs and illustrations guide the operator
+ingestion.                                              through correct procedures of checking, starting,
+                                                        operating, and stopping the machine.
+        WARNING – This product can
+        expose you to chemicals                         Operating techniques outlined in this publication are
+                                                        basic. Skill and techniques develop as the operator
+        including lead and lead                         gains knowledge of the machine and its capabilities.
+compounds, which are known to the
+State of California to cause cancer, birth              Maintenance
+defects, or other reproductive harm. For
+more information go to:                                 The maintenance section is a guide to equipment
+                                                        care. The Maintenance Interval Schedule (MIS) lists
+www.P65Warnings.ca.gov                                  the items to be maintained at a specific service
+                                                        interval. Items without specific intervals are listed
+Wash hands after handling components                    under the "When Required" service interval. The
+that may contain lead.                                  Maintenance Interval Schedule lists the page number
+                                                        for the step-by-step instructions required to
+                                                        accomplish the scheduled maintenance. Use the
+Literature Information                                  Maintenance Interval Schedule as an index or "one
+                                                        safe source" for all maintenance procedures.
+This manual should be stored in the operator's
+compartment in the literature holder or seat back       Maintenance Intervals
+literature storage area.
+                                                        Use the service hour meter to determine servicing
+This manual contains safety information, operation
+                                                        intervals. Calendar intervals shown (daily, weekly,
+instructions, transportation information, lubrication
+information, and maintenance information.               monthly, etc.) can be used instead of service hour
+                                                        meter intervals if the calendar intervals provide more
+Some photographs or illustrations in this publication   convenient servicing schedules and approximate the
+show details or attachments that can be different       indicated service hour meter reading. Perform the
+from your machine. Guards and covers might have         recommended service at the interval that occurs first.
+been removed for illustrative purposes.
+                                                        Under severe, dusty, or wet operating conditions,
+Continuing improvement and advancement of               more frequent lubrication than is specified in the
+product design might have caused changes to your        maintenance intervals chart might be necessary.
+machine which are not included in this publication.
+Read, study, and keep this manual with the machine.
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 5 ===
+KEBU7520-08                                                                                                     5
+                                                                                                     Foreword
+
+
+
+Perform service on items at multiples of the original      2. Machine Descriptor (characters 4-8)
+requirement. For example, at every 500 service
+hours or 3 months, also service those items listed         3. Check Character (character 9)
+under every 250 service hours or monthly and every
+10 service hours or daily.                                 4. Machine Indicator Section (MIS) or Product
+                                                           Sequence Number (characters 10-17). These were
+                                                           previously referred to as the Serial Number.
+Certified Engine Maintenance
+                                                           Machines and generator sets produced before First
+Proper maintenance and repair are essential to keep        Quarter 2001 will maintain their 8 character PIN
+the engine and machine systems operating correctly.        format.
+As the heavy-duty off-road diesel engine owner, you
+are responsible for the performance of the required        Components such as engines, transmissions, axles,
+maintenance listed in the Owner Manual, Operation          and work tools will continue to use an 8 character
+and Maintenance Manual, and Service Manual.                Serial Number (S/N).
+
+It is prohibited for any person engaged in the
+business of repairing, servicing, selling, leasing, or
+trading engines or machines to remove, alter, or to
+render inoperative, any emission-related device or
+element of design installed on or in an engine or
+machine that is in compliance with all applicable
+regulations of the intended country to which it has
+been shipped. Certain elements of the machine and
+engine such as the exhaust system, fuel system,
+electrical system, intake air system, and cooling
+system may be emission-related and should not be
+altered unless approved by Caterpillar.
+
+Machine Capacity
+Additional attachments or modifications may exceed
+machine design capacity which can adversely affect
+performance characteristics. Included would be
+stability and system certifications such as brakes,
+steering, and rollover protective structures (ROPS).
+Contact your Cat dealer for further information.
+
+Product Identification Number
+Effective First Quarter 2001 the Product Identification
+Number (PIN) has changed from 8 to 17 characters.
+To provide uniform equipment identification,
+construction equipment manufacturers are moving to
+comply with the latest version of the product
+identification numbering standard. Non-road machine
+PINs are defined by ISO 10261. The new PIN format
+will apply to all machines and generator sets. The
+PIN plates and frame marking will display the 17
+character PIN. The new format will look like the
+following:
+
+
+
+
+Illustration 1                                 g03891925
+
+Where:
+1. World Manufacturing Code (characters 1-3)
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 6 ===
+6                                               KEBU7520-08
+Safety Section
+Safety Messages
+
+
+Safety Section
+                                    i03522103
+
+
+Safety Messages
+SMCS Code: 1000; 6700; 7000; 7405
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 7 ===
+KEBU7520-08                                                     7
+                                                   Safety Section
+                                                 Safety Messages
+
+
+
+
+Illustration 2                                           g01852254
+
+
+Do Not Operate (1)
+This safety message is located on the steering
+column.
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 8 ===
+8                                                                                              KEBU7520-08
+Safety Section
+Safety Messages
+
+
+
+
+Illustration 3                               g01370904   Illustration 4                                 g01212169
+
+
+
+
+Do not operate or work on this machine unless            Structural damage, an overturn, modification, al-
+you have read and understand the instructions            teration, or improper repair can impair this struc-
+and warnings in the Operation and Maintenance            ture's protection capability thereby voiding this
+Manuals. Failure to follow the instructions or           certification. Do not weld on or drill holes in the
+heed the warnings could result in injury or death.       structure. Consult a Caterpillar dealer to deter-
+Contact any Caterpillar dealer for replacement           mine this structure's limitations without voiding
+manuals. Proper care is your responsibility.             its certification.
+
+
+Do Not Weld or Drill (2) (If                             Pressurized System (3)
+Equipped)                                                This safety message is located in the engine
+                                                         compartment on top of the radiator.
+This safety message is located on the post for the
+ROPS (Rollover Protective Structure).
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 9 ===
+KEBU7520-08                                                                                                   9
+                                                                                                Safety Section
+                                                                                              Safety Messages
+
+
+
+
+Illustration 5                                 g01371640   Illustration 6                              g01370909
+
+
+
+
+Pressurized system: Hot coolant can cause seri-            Explosion Hazard! Improper jumper cable con-
+ous burn. To open cap, stop engine, wait until ra-         nections can cause an explosion resulting in seri-
+diator is cool. Then loosen cap slowly to relieve          ous injury or death. Batteries may be located in
+the pressure.                                              separate compartments. When using jump start
+                                                           cables, always connect the positive (+) cable
+                                                           from the source to the positive (+) terminal of the
+Batteries (4)                                              battery that is connected to the starter solenoid.
+                                                           Connect the negative (−) cable from the source to
+                                                           the negative (−) terminal of the starter. If the ma-
+This safety message is located in the engine               chine is not equipped with a starter negative ter-
+compartment on the side of the fuel tank.                  minal, connect the negative (−) cable to the
+                                                           engine block. Follow the procedure in the Opera-
+                                                           tion and Maintenance Manual.
+
+
+                                                           Crush Hazard (5)
+                                                           This safety message is located on the frame near the
+                                                           articulation joint.
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 10 ===
+10                                                                                             KEBU7520-08
+Safety Section
+General Hazard Information
+
+
+
+
+Illustration 7                              g01371644   Illustration 8                                g01371647
+
+
+
+
+Stay back a safe distance. No clearance for a per-      Connect the steering frame lock between the
+son in this area when the machine turns. Severe         front and the rear frames before lifting, transport-
+injury or death from crushing could occur.              ing, or servicing the machine in the articulation
+                                                        area. Disconnect the steering frame lock and se-
+                                                        cure the steering frame lock before resuming op-
+Crush Hazard (6)                                        eration. Severe injury or death could occur.
+
+This safety message is located on the frame near the
+articulation joint.                                                                                   i07746355
+
+
+                                                        General Hazard Information
+                                                        SMCS Code: 7000
+
+
+
+
+                                                        Illustration 9                                g00104545
+                                                        Typical example
+
+                                                        Attach a “Do Not Operate” warning tag or a similar
+                                                        warning tag to the start switch or to the controls.
+                                                        Attach the warning tag before you service the
+                                                        equipment or before you repair the equipment.
+                                                        Warning tag SEHS7332 is available from your Cat
+                                                        dealer.
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 11 ===
+KEBU7520-08                                                                                                     11
+                                                                                                Safety Section
+                                                                                     General Hazard Information
+
+
+                                                          Obey all local regulations for the disposal of liquids.
+                                                          Use all cleaning solutions with care. Report all
+Operating the machine while distracted can result         necessary repairs.
+in the loss of machine control. Use extreme cau-
+tion when using any device while operating the            Do not allow unauthorized personnel on the
+machine. Operating the machine while distracted           equipment.
+can result in personal injury or death.
+                                                          Unless you are instructed otherwise, perform
+                                                          maintenance with the equipment in the servicing
+Know the width of your equipment to maintain proper       position. Refer to Operation and Maintenance
+clearance when you operate the equipment near             Manual for the procedure for placing the equipment
+fences or near boundary obstacles.                        in the servicing position.
+Be aware of high-voltage power lines and power            When you perform maintenance above ground level,
+cables that are buried. If the machine comes in           use appropriate devices such as ladders or man lift
+contact with these hazards, serious injury or death
+may occur from electrocution.                             machines. If equipped, use the machine anchorage
+                                                          points and use approved fall arrest harnesses and
+                                                          lanyards.
+
+                                                          Pressurized Air and Water
+                                                          Pressurized air and/or water can cause debris and/or
+                                                          hot water to be blown out. The debris and/or hot
+                                                          water could result in personal injury.
+                                                          When pressurized air and/or pressurized water is
+                                                          used for cleaning, wear protective clothing, protective
+                                                          shoes, and eye protection. Eye protection includes
+                                                          goggles or a protective face shield.
+                                                          The maximum air pressure for cleaning purposes
+                                                          must be reduced to 205 kPa (30 psi) when the
+                                                          nozzle is deadheaded and the nozzle is used with an
+Illustration 10                               g00702020   effective chip deflector and personal protective
+                                                          equipment. The maximum water pressure for
+Wear a hard hat, protective glasses, and other            cleaning purposes must be below 275 kPa (40 psi).
+protective equipment, as required.
+                                                          Avoid direct spraying of water on electrical
+Do not wear loose clothing or jewelry that can snag       connectors, connections, and components. When
+on controls or on other parts of the equipment.           using air for cleaning, allow the machine to cool to
+                                                          reduce the possibility of fine debris igniting when re-
+Make sure that all protective guards and all covers       deposited on hot surfaces.
+are secured in place on the equipment.
+Keep the equipment free from foreign material.            Trapped Pressure
+Remove debris, oil, tools, and other items from the
+deck, from walkways, and from steps.                      Pressure can be trapped in a hydraulic system.
+                                                          Releasing trapped pressure can cause sudden
+Secure all loose items such as lunch boxes, tools,        machine movement or attachment movement. Use
+and other items that are not a part of the equipment.     caution if you disconnect hydraulic lines or fittings.
+Know the appropriate work site hand signals and the       High-pressure oil that is released can cause a hose
+                                                          to whip. High-pressure oil that is released can cause
+personnel that are authorized to give the hand
+                                                          oil to spray. Fluid penetration can cause serious
+signals. Accept hand signals from one person only.
+                                                          injury and possible death.
+Do not smoke when you service an air conditioner.
+Also, do not smoke if refrigerant gas may be present.     Fluid Penetration
+Inhaling the fumes that are released from a flame that
+contacts air conditioner refrigerant can cause bodily     Pressure can be trapped in the hydraulic circuit long
+harm or death. Inhaling gas from air conditioner          after the machine has been stopped. The pressure
+refrigerant through a lighted cigarette can cause         can cause hydraulic fluid or items such as pipe plugs
+bodily harm or death.                                     to escape rapidly if the pressure is not relieved
+                                                          correctly.
+Never put maintenance fluids into glass containers.
+Drain all liquids into a suitable container.
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 12 ===
+12                                                                                                   KEBU7520-08
+Safety Section
+General Hazard Information
+
+
+Do not remove any hydraulic components or parts             Obey all local regulations for the disposal of liquids.
+until pressure has been relieved or personal injury
+may occur. Do not disassemble any hydraulic                 Inhalation
+components or parts until pressure has been relieved
+or personal injury may occur. Refer to the Service
+Manual for any procedures that are required to
+relieve the hydraulic pressure.
+
+
+
+
+                                                            Illustration 12                                 g02159053
+
+
+Illustration 11                                 g00687600   Exhaust
+Always use a board or cardboard when you check for          Use caution. Exhaust fumes can be hazardous to
+a leak. Leaking fluid that is under pressure can            your health. If you operate the machine in an
+penetrate body tissue. Fluid penetration can cause          enclosed area, adequate ventilation is necessary.
+serious injury and possible death. A pin hole leak can
+cause severe injury. If fluid is injected into your skin,   Asbestos Information
+you must get treatment immediately. Seek treatment
+from a doctor that is familiar with this type of injury.    Cat equipment and replacement parts that are
+                                                            shipped from Caterpillar are asbestos free.
+Containing Fluid Spillage                                   Caterpillar recommends the use of only genuine Cat
+                                                            replacement parts. Use the following guidelines when
+                                                            you handle any replacement parts that contain
+Care must be taken in order to ensure that fluids are       asbestos or when you handle asbestos debris.
+contained during performance of inspection,
+maintenance, testing, adjusting, and repair of the          Use caution. Avoid inhaling dust that might be
+equipment. Prepare to collect the fluid with suitable       generated when you handle components that contain
+containers before opening any compartment or                asbestos fibers. Inhaling this dust can be hazardous
+disassembling any component that contains fluids.           to your health. The components that may contain
+                                                            asbestos fibers are brake pads, brake bands, lining
+Refer to Special Publication, NENG2500, “Cat dealer         material, clutch plates, and some gaskets. The
+Service Tool Catalog” for the following items:              asbestos that is used in these components is bound
+                                                            in a resin or sealed in some way. Normal handling is
+• Tools that are suitable for collecting fluids and
+                                                            not hazardous unless airborne dust that contains
+  equipment that is suitable for collecting fluids          asbestos is generated.
+• Tools that are suitable for containing fluids and         If dust that may contain asbestos is present, there
+  equipment that is suitable for containing fluids          are several guidelines that should be followed:
+
+                                                            • Never use compressed air for cleaning.
+                                                            • Avoid brushing materials that contain asbestos.
+
+                                                            • Avoid grinding materials that contain asbestos.
+                                                            • Use a wet method in order to clean up asbestos
+                                                              materials.
+                                                            • A vacuum cleaner that is equipped with a high
+                                                              efficiency particulate air filter (HEPA) can also be
+                                                              used.
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 13 ===
+KEBU7520-08                                                                                                     13
+                                                                                               Safety Section
+                                                                   Crushing Prevention and Cutting Prevention
+
+
+• Use exhaust ventilation on permanent machining          Do not work beneath the cab of the machine unless
+  jobs.                                                   the cab is properly supported.
+
+• Wear an approved respirator if there is no other        Unless you are instructed otherwise, never attempt
+  way to control the dust.                                adjustments while the machine is moving or while the
+                                                          engine is running.
+• Comply with applicable rules and regulations for
+  the work place. In the United States, use               Never jump across the starter solenoid terminals in
+                                                          order to start the engine. Unexpected machine
+  Occupational Safety and Health Administration           movement could result.
+  (OSHA) requirements. These OSHA requirements
+  can be found in “29 CFR 1910.1001”. In Japan,           Whenever there are equipment control linkages the
+  use the requirements found in the “Ordinance on         clearance in the linkage area will change with the
+  Prevention of Health Impairment due to Asbestos”        movement of the equipment or the machine. Stay
+  in addition to the requirements of the Industrial       clear of areas that may have a sudden change in
+  Safety and Health Act.                                  clearance with machine movement or equipment
+                                                          movement.
+• Obey environmental regulations for the disposal of      Stay clear of all rotating and moving parts.
+  asbestos.
+                                                          If it is necessary to remove guards in order to perform
+• Stay away from areas that might have asbestos           maintenance, always install the guards after the
+  particles in the air.                                   maintenance is performed.
+
+Dispose of Waste Properly                                 Keep objects away from moving fan blades. The fan
+                                                          blade will throw objects or cut objects.
+                                                          Do not use a kinked wire cable or a frayed wire cable.
+                                                          Wear gloves when you handle wire cable.
+                                                          When you strike a retainer pin with force, the retainer
+                                                          pin can fly out. The loose retainer pin can injure
+                                                          personnel. Make sure that the area is clear of people
+                                                          when you strike a retainer pin. To avoid injury to your
+                                                          eyes, wear protective glasses when you strike a
+                                                          retainer pin.
+                                                          Chips or other debris can fly off an object when you
+                                                          strike the object. Make sure that no one can be
+                                                          injured by flying debris before striking any object.
+
+                                                                                                          i07746334
+
+Illustration 13                              g00706404
+                                                          Burn Prevention
+Improperly disposing of waste can threaten the
+environment. Potentially harmful fluids should be         SMCS Code: 7000
+disposed of according to local regulations.               Do not touch any part of an operating engine. Allow
+                                                          the engine to cool before any maintenance is
+Always use leakproof containers when you drain
+                                                          performed on the engine. Relieve all pressure in the
+fluids. Do not pour waste onto the ground, down a
+                                                          air system, in the oil system, in the lubrication
+drain, or into any source of water.
+                                                          system, in the fuel system, or in the cooling system
+                                                          before any lines, fittings, or related items are
+                                              i01359664   disconnected.
+
+Crushing Prevention and                                   Coolant
+Cutting Prevention                                        When the engine is at operating temperature, the
+SMCS Code: 7000                                           engine coolant is hot. The coolant is also under
+                                                          pressure. The radiator and all lines to the heaters or
+Support the equipment properly before you perform         to the engine contain hot coolant.
+any work or maintenance beneath that equipment.
+Do not depend on the hydraulic cylinders to hold up       Any contact with hot coolant or with steam can cause
+the equipment. Equipment can fall if a control is         severe burns. Allow cooling system components to
+moved, or if a hydraulic line breaks.                     cool before the cooling system is drained.
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 14 ===
+14                                                                                                   KEBU7520-08
+Safety Section
+Fire Prevention and Explosion Prevention
+
+
+Check the coolant level only after the engine has           Always wear protective glasses when you work with
+been stopped.                                               batteries. Wash hands after touching batteries. The
+                                                            use of gloves is recommended.
+Ensure that the filler cap is cool before removing the
+filler cap. The filler cap must be cool enough to touch
+                                                                                                             i07746336
+with a bare hand. Remove the filler cap slowly to
+relieve pressure.
+                                                            Fire Prevention and Explosion
+Cooling system conditioner contains alkali. Alkali can
+cause personal injury. Do not allow alkali to contact
+                                                            Prevention
+the skin, the eyes, or the mouth.                           SMCS Code: 7000
+
+Oils
+Hot oil and hot components can cause personal
+injury. Do not allow hot oil to contact the skin. Also,
+do not allow hot components to contact the skin.
+Remove the hydraulic tank filler cap only after the
+engine has been stopped. The filler cap must be cool
+enough to touch with a bare hand. Follow the
+standard procedure in this manual to remove the
+hydraulic tank filler cap.
+
+Batteries
+The liquid in a battery is an electrolyte. Electrolyte is
+an acid that can cause personal injury. Do not allow
+                                                            Illustration 14                                 g00704000
+electrolyte to contact the skin or the eyes.
+Do not smoke while checking the battery electrolyte         General
+levels. Batteries give off flammable fumes which can
+explode.                                                    All fuels, most lubricants, and some coolant mixtures
+                                                            are flammable.
+                                                            To minimize the risk of fire or explosion, Caterpillar
+                                                            recommends the following actions.
+                                                            Always perform a Walk-Around Inspection, which
+                                                            may help you identify a fire hazard. Do not operate a
+                                                            machine when a fire hazard exists. Contact your Cat
+                                                            dealer for service.
+                                                            Understand the use of the primary exit and
+                                                            alternative exit on the machine. Refer to Operation
+                                                            and Maintenance Manual, “Alternative Exit”.
+                                                            Do not operate a machine with a fluid leak. Repair
+                                                            leaks and clean up fluids before resuming machine
+                                                            operation. Fluids that are leaking or spilled onto hot
+                                                            surfaces or onto electrical components can cause a
+                                                            fire. A fire may cause personal injury or death.
+                                                            Remove flammable material such as leaves, twigs,
+                                                            papers, trash, and so on. These items may
+                                                            accumulate in the engine compartment or around
+                                                            other hot areas and hot parts on the machine.
+                                                            Keep the access doors to major machine
+                                                            compartments closed and access doors in working
+                                                            condition in order to permit the use of fire
+                                                            suppression equipment, in case a fire should occur.
+                                                            Clean all accumulations of flammable materials such
+                                                            as fuel, oil, and debris from the machine.
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 15 ===
+KEBU7520-08                                                                                                       15
+                                                                                                      Safety Section
+                                                                            Fire Prevention and Explosion Prevention
+
+
+Do not operate the machine near any flame.                Avoid static electricity risk when fueling. Ultra low
+                                                          sulfur diesel (ULSD) poses a greater static ignition
+Keep shields in place. Exhaust shields (if equipped)      hazard than earlier diesel formulations with a higher
+protect hot exhaust components from oil spray or fuel     sulfur content. Avoid death or serious injury from fire
+spray in case of a break in a line, in a hose, or in a    or explosion. Consult with your fuel or fuel system
+seal. Exhaust shields must be installed correctly.        supplier to ensure that the delivery system is in
+                                                          compliance with fueling standards for proper
+Do not weld or flame cut on tanks or lines that contain   grounding and bonding practices.
+flammable fluids or flammable material. Empty and
+purge the lines and tanks. Then clean the lines and       Never store flammable fluids in the operator
+tanks with a nonflammable solvent prior to welding or     compartment of the machine.
+flame cutting. Ensure that the components are
+properly grounded in order to avoid unwanted arcs.
+                                                          Battery and Battery Cables
+Dust that is generated from repairing nonmetallic
+hoods or fenders may be flammable and/or
+explosive. Repair such components in a well
+ventilated area away from open flames or sparks.
+Use suitable Personal Protection Equipment (PPE).
+Inspect all lines and hoses for wear or deterioration.
+Replace damaged lines and hoses. The lines and the
+hoses should have adequate support and secure
+clamps. Tighten all connections to the recommended
+torque. Damage to the protective cover or insulation
+may provide fuel for fires.
+Store fuels and lubricants in properly marked
+containers away from unauthorized personnel. Store
+oily rags and flammable materials in protective
+containers. Do not smoke in areas that are used for
+storing flammable materials.
+
+
+
+
+                                                          Illustration 16                                   g03839133
+
+                                                          Caterpillar recommends the following in order to
+                                                          minimize the risk of fire or an explosion related to the
+                                                          battery.
+                                                          Do not operate a machine if battery cables or related
+                                                          parts show signs of wear or damage. Contact your
+                                                          Cat dealer for service.
+                                                          Follow safe procedures for engine starting with jump-
+                                                          start cables. Improper jumper cable connections can
+                                                          cause an explosion that may result in injury. Refer to
+                                                          Operation and Maintenance Manual, “Engine Starting
+                                                          with Jump Start Cables” for specific instructions.
+                                                          Do not charge a frozen battery. This may cause an
+Illustration 15                               g03839130   explosion.
+
+Use caution when you are fueling a machine. Do not        Gases from a battery can explode. Keep any open
+smoke while you are fueling a machine. Do not fuel a      flames or sparks away from the top of a battery. Do
+machine near open flames or sparks. Do not use cell       not smoke in battery charging areas. Do not use cell
+phones or other electronic devices while you are          phones or other electronic devices in battery
+refueling. Always stop the engine before fueling. Fill    charging areas.
+the fuel tank outdoors. Properly clean areas of           Never check the battery charge by placing a metal
+spillage.                                                 object across the terminal posts. Use a voltmeter in
+                                                          order to check the battery charge.
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 16 ===
+16                                                                                                KEBU7520-08
+Safety Section
+Fire Prevention and Explosion Prevention
+
+
+Daily inspect battery cables that are in areas that are   • Cuts on insulation
+visible. Inspect cables, clips, straps, and other
+restraints for damage. Replace any damaged parts.         • Other damage
+Check for signs of the following, which can occur
+over time due to use and environmental factors:           Make sure that all clamps, guards, clips, and straps
+                                                          are reinstalled correctly. This will help to prevent
+• Fraying                                                 vibration, rubbing against other parts, and excessive
+                                                          heat during machine operation.
+• Abrasion
+                                                          Attaching electrical wiring to hoses and tubes that
+• Cracking                                                contain flammable fluids or combustible fluids should
+                                                          be avoided.
+• Discoloration
+                                                          Consult your Cat dealer for repair or for replacement
+• Cuts on the insulation of the cable                     parts.
+                                                          Keep wiring and electrical connections free of debris.
+• Fouling
+
+• Corroded terminals, damaged terminals, and              Lines, Tubes, and Hoses
+  loose terminals
+                                                          Do not bend high-pressure lines. Do not strike high-
+Replace damaged battery cable(s) and replace any          pressure lines. Do not install any lines that are bent
+related parts. Eliminate any fouling, which may have      or damaged. Use the appropriate backup wrenches
+caused insulation failure or related component            in order to tighten all connections to the
+damage or wear. Ensure that all components are            recommended torque.
+reinstalled correctly.
+An exposed wire on the battery cable may cause a
+short to ground if the exposed area comes into
+contact with a grounded surface. A battery cable
+short produces heat from the battery current, which
+may be a fire hazard.
+An exposed wire on the ground cable between the
+battery and the disconnect switch may cause the
+disconnect switch to be bypassed if the exposed area
+comes into contact with a grounded surface. This
+may result in an unsafe condition for servicing the
+machine. Repair components or replace components
+before servicing the machine.
+
+                                                          Illustration 17                                g00687600
+
+
+Fire on a machine can result in personal injury or        Check lines, tubes, and hoses carefully. Wear
+death. Exposed battery cables that come into              Personal Protection Equipment (PPE) in order to
+contact with a grounded connection can result in          check for leaks. Always use a board or cardboard
+fires. Replace cables and related parts that show         when you check for a leak. Leaking fluid that is under
+signs of wear or damage. Contact your Cat                 pressure can penetrate body tissue. Fluid penetration
+dealer.                                                   can cause serious injury and possible death. A pin
+                                                          hole leak can cause severe injury. If fluid is injected
+                                                          into your skin, you must get treatment immediately.
+                                                          Seek treatment from a doctor that is familiar with this
+Wiring                                                    type of injury.
+Check electrical wires daily. If any of the following     Replace the affected parts if any of the following
+conditions exist, replace parts before you operate the    conditions are present:
+machine.
+                                                          • End fittings are damaged or leaking.
+• Fraying
+                                                          • Outer coverings are chafed or cut.
+• Signs of abrasion or wear
+                                                          • Wires are exposed.
+• Cracking
+                                                          • Outer coverings are swelling or ballooning.
+• Discoloration
+                                                          • Flexible parts of the hoses are kinked.
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 17 ===
+KEBU7520-08                                                                                                        17
+                                                                                                   Safety Section
+                                                                                       Fire Extinguisher Location
+
+
+• Outer covers have exposed embedded armoring.             Consider installation of an aftermarket Fire
+                                                           Suppression System, if the application and working
+• End fittings are displaced.                              conditions warrant the installation.
+
+Make sure that all clamps, guards, and heat shields                                                        i01977666
+are installed correctly. During machine operation, this
+will help to prevent vibration, rubbing against other
+parts, excessive heat, and failure of lines, tubes, and    Fire Extinguisher Location
+hoses.                                                     SMCS Code: 7000; 7419
+Do not operate a machine when a fire hazard exists.
+Repair any lines that are corroded, loose, or
+damaged. Leaks may provide fuel for fires. Consult
+your Cat dealer for repair or for replacement parts.
+Use genuine Cat parts or the equivalent, for
+capabilities of both the pressure limit and
+temperature limit.
+
+Ether
+Ether (if equipped) is commonly used in cold-weather
+applications. Ether is flammable and poisonous.
+Only use approved Ether canisters for the Ether
+dispensing system fitted to your machine, do not
+spray Ether manually into an engine, follow the
+correct cold engine starting procedures. Refer to the
+section in the Operation and Maintenance Manual
+with the label “Engine Starting” .
+Use ether in ventilated areas. Do not smoke while
+you are replacing an ether cylinder.
+Do not store ether cylinders in living areas or in the
+                                                           Illustration 18                                g01042324
+operator compartment of a machine. Do not store
+ether cylinders in direct sunlight or in temperatures
+                                                           If your machine is equipped with a ROPS, mount the
+above 49° C (120.2° F). Keep ether cylinders away
+from open flames or sparks.                                fire extinguisher on ROPS (1). If your machine is not
+                                                           equipped with a ROPS, install the fire extinguisher on
+Dispose of used ether cylinders properly. Do not           handrail (2).
+puncture an ether cylinder. Keep ether cylinders
+away from unauthorized personnel.                          Do not weld the ROPS in order to install the fire
+                                                           extinguisher. Also, do not drill holes in the ROPS in
+                                                           order to mount the fire extinguisher on the ROPS.
+Fire Extinguisher
+                                                           If the fire extinguisher is mounted on the ROPS, strap
+As an additional safety measure, keep a fire               the mounting plate to a leg of the ROPS. If the weight
+extinguisher on the machine.                               of the fire extinguisher is more than 4.5 kg (10 lb),
+                                                           mount the fire extinguisher as low as possible on one
+Be familiar with the operation of the fire extinguisher.   leg. Do not mount the fire extinguisher on the upper
+Inspect the fire extinguisher and service the fire         one-third area of the leg.
+extinguisher regularly. Follow the recommendations
+on the instruction plate.                                                                                  i01943386
+
+
+                                                           Tire Information
+                                                           SMCS Code: 7000
+
+                                                           S/N: 2251–Up
+                                                           Explosions of air inflated tires have resulted from
+                                                           heat-induced gas combustion inside the tires.
+                                                           Explosions can be caused by heat that is generated
+                                                           by welding, by heating rim components, by external
+                                                           fire, or by excessive use of brakes.
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 18 ===
+18                                                                                                  KEBU7520-08
+Safety Section
+Electrical Storm Injury Prevention
+
+
+A tire explosion is much more violent than a blowout.                                                      i03636744
+The explosion can propel the tire, the rim
+components, and the axle components as far as
+500 m (1500 ft) or more from the machine. Both the
+                                                             Before Starting Engine
+force of the explosion and the flying debris can cause       SMCS Code: 1000; 7000
+property damage, personal injury, or death.
+                                                             Make sure that the steering frame lock link is stored
+                                                             in the UNLOCKED position. The steering frame lock
+                                                             link must be removed in order to steer the machine.
+                                                             Start the engine only from the operator compartment.
+                                                             Never short across the starter terminals or across the
+                                                             batteries. Shorting could damage the electrical
+                                                             system by bypassing the engine neutral start system.
+                                                             Inspect the condition of the seat belt and of the
+                                                             mounting hardware. Replace any parts that are worn
+                                                             or damaged. Regardless of appearance, replace the
+                                                             seat belt after three years of use. Do not use a seat
+                                                             belt extension on a retractable seat belt.
+                                                             Make sure that the machine is equipped with a
+                                                             lighting system that is adequate for the job
+                                                             conditions. Make sure that all machine lights are
+Illustration 19                                 g00337832    working properly. Before you start the engine and
+(A) At least 15 m (50 ft)                                    before you move the machine, make sure that no one
+(B) At least 500 m (1500 ft)                                 is underneath the machine, around the machine, or
+                                                             on the machine. Briefly sound the horn before you
+Do not approach a warm tire. Maintain a minimum              start the engine. Make sure that the area is free of
+distance, as shown. Stay outside the shaded area in          personnel.
+Illustration 19 .
+                                                                                                           i02676850
+When you inflate a tire, stand behind the tread and
+use a self-attaching chuck.
+                                                             Engine Starting
+Servicing tires and rims can be dangerous. Only              SMCS Code: 1000; 7000
+trained personnel that use proper tools and proper
+procedures should perform this maintenance. If
+correct procedures are not used for servicing tires
+and rims, the assemblies could burst with explosive
+force. This explosive force can cause serious
+personal injury or death. Carefully obey the specific
+instructions from your tire dealer.
+
+                                                 i01122596
+
+
+Electrical Storm Injury
+Prevention
+SMCS Code: 7000
+When lightning is striking in the vicinity of the
+machine, the operator should never attempt the
+following procedures:                                        Illustration 20                               g00104545
+
+
+• Mount the machine.                                         Do not start the engine or move any controls if there
+                                                             is a “Do Not Operate” or similar warning tag attached
+• Dismount the machine.                                      to the start switch or controls.
+If you are in the operator's station during an electrical    Before you start the engine, check for the presence
+storm, stay in the operator's station. If you are on the     of bystanders or maintenance personnel. Ensure that
+ground during an electrical storm, stay away from the        all personnel are clear of the machine. Briefly sound
+vicinity of the machine.                                     the forward horn before you start the engine.
+                                                             Move the parking brake switch to the “ON” position.
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 19 ===
+KEBU7520-08                                                                                                               19
+                                                                                                          Safety Section
+                                                                                                        Before Operation
+
+
+Start the engine and operate the engine in a well              • Workers that direct safe movement of traffic
+ventilated area. In an enclosed area, vent the
+exhaust to the outside.                                        • Restricted areas
+
+                                                   i01361940   • Operator training
+                                                               • Warning symbols or warning signs on machines or
+Before Operation                                                 on vehicles
+SMCS Code: 7000
+                                                               • A system of communication
+Clear all personnel from the machine and from the
+area.                                                          • Communication between workers and operators
+                                                                 prior to approaching the machine
+Clear all obstacles that are in the path of the
+machine. Beware of hazards such as wires, ditches,             Modifications of the machine configuration by the
+etc.                                                           user that result in a restriction of visibility shall be
+Make sure that the machine horn, the backup alarm              evaluated.
+(if equipped) and all other warning devices are
+working properly.                                                                                                  i07475432
+
+Fasten the seat belt securely.                                 Operation
+                                                   i07746368
+                                                               SMCS Code: 7000
+                                                               Machine Operating Temperature Range. The
+Visibility Information                                         machine must function satisfactorily in the anticipated
+SMCS Code: 7000                                                ambient temperature limits that are encountered
+                                                               during operation. The minimum limits of items that
+Before you start the machine, perform a walk-around            will effect the safe operation of the machine to be
+inspection in order to ensure that there are no                considered are 0-100% relative humidity for −40 °C
+hazards around the machine.                                    (−40 °F) to 50 °C (122 °F) temperatures unless
+                                                               otherwise specified in marketing functional
+While the machine is in operation, constantly survey           specification.
+the area around the machine in order to identify
+potential hazards as hazards become visible around             Only operate the machine while you are in a seat.
+the machine.                                                   The seat belt must be fastened while you operate the
+                                                               machine. Only operate the controls while the engine
+Your machine may be equipped with visual aids.                 is running.
+Some examples of visual aids are Closed Circuit
+Television (CCTV) and mirrors. Before operating the            While you operate the machine slowly in an open
+machine, ensure that the visual aids are in proper             area, check for proper operation of all controls and all
+working condition and that the visual aids are clean.          protective devices.
+Adjust the visual aids using the procedures that are
+located in this Operation and Maintenance Manual. If           Make sure that no personnel will be endangered
+equipped, the Work Area Vision System shall be                 before you move the machine.
+adjusted according to Operation and Maintenance
+Manual, SEBU8157, “Work Area Vision System”. If                Do not allow riders on the machine unless the
+equipped, the Cat Detect Object Detection shall be             machine has the following equipment:
+adjusted according to the Operation and
+Maintenance Manual, “Cat Detect Object Detection”              • additional seat
+for your machine.                                              • additional seat belt
+It may not be possible to provide direct visibility on         Never use the work tool as a work platform.
+large machines to all areas around the machine.
+Appropriate job site organization is required in order         Note any needed repairs during machine operation.
+to minimize hazards that are caused by restricted              Report any needed repairs.
+visibility. Job site organization is a collection of rules
+and procedures that coordinates machines and                   Carry attachments approximately 40 cm (15 inches)
+people that work together in the same area.                    above ground level. Do not go close to the edge of a
+Examples of job site organization include the                  cliff, an excavation, or an overhang.
+following:
+                                                               If the machine begins to sideslip downward on a
+• Safety instructions                                          grade, immediately remove the load and turn the
+                                                               machine downhill.
+• Controlled patterns of machine movement and
+  vehicle movement
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 20 ===
+20                                                                                                     KEBU7520-08
+Safety Section
+Engine Stopping
+
+
+Avoid any conditions that can lead to tipping the                                                              i03671600
+machine. The machine can tip when you work on
+hills, on banks and on slopes. Also, the machine can
+tip when you cross ditches, ridges or other
+                                                             Parking
+unexpected obstructions.                                     SMCS Code: 7000
+
+Avoid operating the machine across the slope. When           Park on a level surface. If you must park on a grade,
+possible, operate the machine up the slopes and              chock the machine's wheels.
+down the slopes.
+                                                             Move the propel control lever to the NEUTRAL
+Maintain control of the machine. Do not overload the         position. Engage the parking brake.
+machine beyond the machine capacity.
+                                                             Lower all attachments to the ground.
+Never straddle a wire cable. Never allow other
+personnel to straddle a wire cable.                          Stop the engine.
+
+Know the maximum dimensions of your machine.                 Turn the engine start switch to the OFF position and
+                                                             remove the engine start switch key.
+Limiting Conditions and Criteria                             Note: If you are parking the machine for an extended
+                                                             period of time, turn the battery disconnect switch (if
+Limiting conditions are immediate issues with this           equipped) to the OFF position. This will prevent
+machine that must be addressed prior to continuing
+                                                             drainage of the battery. A battery short circuit, any
+operation.
+                                                             current draw from certain components, and
+The Safety Section of the Operation and                      vandalism can cause drainage of the battery.
+Maintenance Manual describes limiting condition
+criteria for replacing items such as safety messages,                                                          i07746366
+seat belt and mounting hardware, lines, tubes, hoses,
+battery cables and related parts, electrical wires, and
+repairing any fluid leak.
+                                                             Slope Operation
+                                                             SMCS Code: 7000
+The Maintenance Interval Schedule in the Operation
+and Maintenance Manual describes limiting condition          Machines that are operating safely in various
+criteria that require repair or replacement for items (if    applications depend on these criteria: the machine
+equipped) such as alarms, horns, braking system,             model, configuration, machine maintenance,
+steering system, and rollover protective structures.         operating speed of the machine, conditions of the
+                                                             terrain, fluid levels, and tire inflation pressures. The
+The Monitoring System (if equipped) described in the         most important criteria are the skill and judgment of
+Operation Section of the Operation and Maintenance           the operator.
+Manual provides information on limiting condition
+criteria, including a warning level that requires            A well trained operator that follows the instructions in
+immediate shutdown of the machine.                           the Operation and Maintenance Manual has the
+                                                             greatest impact on stability. Operator training
+                                                 i06299648   provides a person with the following abilities:
+                                                             observation of working and environmental conditions,
+                                                             feel for the machine, identification of potential
+Engine Stopping                                              hazards and operating the machine safely by making
+SMCS Code: 1000; 7000                                        appropriate decisions.
+
+Do not stop the engine immediately after the machine         When you work on side hills and when you work on
+has been operated under load. Stopping the engine            slopes, consider the following important points:
+immediately can cause overheating and accelerated
+wear of engine components.                                   Speed of travel – At higher speeds, forces of inertia
+                                                             tend to make the machine less stable.
+After the machine is parked and the parking brake is
+engaged, allow the engine to run at low idle for 5           Roughness of terrain or surface – The machine
+minutes before shutdown. Running the engine allows           may be less stable with uneven terrain.
+hot areas of the engine to cool gradually.                   Direction of travel – Avoid operating the machine
+                                                             across the slope. When possible, operate the
+                                                             machine up the slopes and operate the machine
+                                                             down the slopes. Place the heaviest end of the
+                                                             machine uphill when you are working on an incline.
+                                                             Mounted equipment – Balance of the machine may
+                                                             be impeded by the following components: equipment
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 21 ===
+KEBU7520-08                                                                                                      21
+                                                                                                  Safety Section
+                                                                     Sound Information and Vibration Information
+
+
+that is mounted on the machine, machine                                                                   i02737354
+configuration, weights, and counterweights.
+Nature of surface – Ground that has been newly              Sound Information and
+filled with earth may collapse from the weight of the
+machine.
+                                                            Vibration Information
+                                                            SMCS Code: 7000
+Surface material – Rocks and moisture of the
+surface material may drastically affect the machine's
+traction and machine's stability. Rocky surfaces may        Sound Level Information
+promote side slipping of the machine.
+                                                            Hearing protection may be needed when the
+Slippage due to excessive loads – This may cause            machine is operated with an open operator station for
+downhill tracks or downhill tires to dig into the ground,   extended periods or in a noisy environment. Hearing
+which will increase the angle of the machine.               protection may be needed when the machine is
+                                                            operated with a cab that is not properly maintained or
+Width of tracks or tires – Narrower tracks or               when the doors and windows are open for extended
+narrower tires further increase the digging into the        periods or in a noisy environment.
+ground which causes the machine to be less stable.
+Implements attached to the drawbar – This may               Sound Level Information for
+decrease the weight on the uphill tracks. This may
+also decrease the weight on the uphill tires. The           Machines in European Union
+decreased weight will cause the machine to be less          Countries and in Countries that
+stable.
+                                                            Adopt the “EU Directives”
+Height of the working load of the machine – When
+the working loads are in higher positions, the stability    The operator sound pressure level is 85 dB(A). The
+of the machine is reduced.                                  operator sound pressure level was measured
+                                                            according to the static test procedures and conditions
+Operated equipment – Be aware of performance                that are specified in “ISO 6394:1998”.
+features of the equipment in operation and the effects
+on machine stability.
+                                                            “The European Union Physical
+Operating techniques – Keep all attachments or
+pulled loads low to the ground for optimum stability.       Agents (Vibration) Directive 2002/
+Machine systems have limitations on slopes –
+                                                            44/EC”
+Slopes can affect the proper function and operation
+of the various machine systems. These machine               Vibration Data for Vibratory Asphalt
+systems are needed for machine control.                     Compactor
+                                                            Information Concerning Hand/Arm Vibration
+Note: Operators with lots of experience and proper
+                                                            Level
+equipment for specific applications are also required.
+Safe operation on steep slopes may also require             When the machine is operated according to the
+special machine maintenance. Refer to Lubricant             intended use, the hand/arm vibration of this machine
+Viscosities and Refill Capacities in this manual for the    is below 2.5 meter per second squared.
+proper fluid level requirements and intended machine
+use. Fluids must be at the correct levels to ensure         Information Concerning Whole Body Vibration
+that systems will operate properly on a slope.              Level
+
+                                                            This section provides vibration data and a method for
+                                                            estimating the vibration level for vibratory asphalt
+                                                            compactors.
+                                                            Note: Vibration levels are influenced by many
+                                                            different parameters. Many items are listed below.
+
+                                                            • Operator training, behavior, mode and stress
+                                                            • Job site organization, preparation, environment,
+                                                              weather and material
+                                                            • Machine type, quality of the seat, quality of the
+                                                              suspension system, attachments and condition of
+                                                              the equipment
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 22 ===
+22                                                                                                                  KEBU7520-08
+Safety Section
+Sound Information and Vibration Information
+
+
+It is not possible to get precise vibration levels for this
+machine. The expected vibration levels can be
+estimated with the information in Table 1 in order to
+calculate the daily vibration exposure. A simple
+evaluation of the machine application can be used.
+Estimate the vibration levels for the three vibration
+directions. For typical operating conditions, use the
+average vibration levels as the estimated level. With
+an experienced operator and smooth terrain, subtract
+the Scenario Factors from the average vibration level
+in order to obtain the estimated vibration level. For
+aggressive operations and severe terrain, add the
+Scenario Factors to the average vibration level in
+order to obtain the estimated vibration level.
+
+Note: All vibration levels are in meter per second
+squared.
+
+Table 1
+  “ISO Reference Table A - Equivalent vibration levels of whole body vibration emission for earthmoving equipment.”
+
+     Machine        Typical Operating                    Vibration Levels                             Scenario Factors
+      Type               Activity               X axis        Y axis         Z axis        X axis          Y axis        Z axis
+  Vibratory As-          vibration ON            0,33          0,40           0,48             0,11         0,08          0,14
+      phalt
+   Compactor             vibration OFF           0,35          0,43           0,36             0,13         0,20          0,19
+
+
+Note: Refer to “ISO/TR 25398 Mechanical Vibration -                      c. Controls, hydraulic system and linkages
+Guideline for the assessment of exposure to whole
+body vibration of ride on operated earthmoving                        3. Keep the terrain in good condition.
+machines” for more information about vibration. This                     a. Remove any large rocks or obstacles.
+publication uses data that is measured by
+international institutes, organizations and                              b. Fill any ditches and holes.
+manufacturers. This document provides information
+                                                                         c. Provide machines and schedule time in order to
+about the whole body exposure of operators of
+earthmoving equipment. Refer to Operation and                               maintain the conditions of the terrain.
+Maintenance Manual, SEBU8257, “The European                           4. Use a seat that meets “ISO 7096”. Keep the seat
+Union Physical Agents (Vibration) Directive 2002/44/                     maintained and adjusted.
+EC” for more information about machine vibration
+levels.                                                                  a. Adjust the seat and suspension for the weight
+                                                                            and the size of the operator.
+The Caterpillar suspension seat meets the criteria of
+“ISO 7096”. This represents vertical vibration level                     b. Inspect and maintain the seat suspension and
+under severe operating conditions.                                          adjustment mechanisms.
+Guidelines for Reducing Vibration Levels on                           5. Perform the following operations smoothly.
+Earthmoving Equipment
+                                                                         a. Steer
+Properly adjust machines. Properly maintain
+                                                                         b. Brake
+machines. Operate machines smoothly. Maintain the
+conditions of the terrain. The following guidelines can                  c. Accelerate.
+help reduce the whole body vibration level:
+                                                                         d. Shift the gears.
+1. Use the right type and size of machine, equipment,
+   and attachments.                                                   6. Move the attachments smoothly.
+2. Maintain machines according to the                                 7. Adjust the machine speed and the route in order to
+   manufacturer's recommendations.                                       minimize the vibration level.
+     a. Tire pressures                                                   a. Drive around obstacles and rough terrain.
+     b. Brake and steering systems
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 23 ===
+KEBU7520-08                                                                                                   23
+                                                                                               Safety Section
+                                                                  Sound Information and Vibration Information
+
+
+   b. Slow down when it is necessary to go over          Consult your local Caterpillar dealer for more
+      rough terrain.                                     information about machine features that minimize
+                                                         vibration levels. Consult your local Caterpillar dealer
+8. Minimize vibrations for a long work cycle or a long   about safe machine operation.
+   travel distance.
+                                                         Use the following web site in order to find your local
+   a. Use machines that are equipped with                dealer:
+      suspension systems.
+                                                             Caterpillar, Inc.
+   b. Use the ride control system.                           www.cat.com
+   c. If no ride control system is available, reduce
+      speed in order to prevent bounce.
+   d. Haul the machines between workplaces.
+9. Less operator comfort may be caused by other risk
+   factors. The following guidelines can be effective
+   in order to provide better operator comfort:
+   a. Adjust the seat and adjust the controls in order
+      to achieve good posture.
+   b. Adjust the mirrors in order to minimize twisted
+      posture.
+   c. Provide breaks in order to reduce long periods
+      of sitting.
+   d. Avoid jumping from the cab.
+   e. Minimize repeated handling of loads and lifting
+      of loads.
+   f. Minimize any shocks and impacts during sports
+      and leisure activities.
+
+Sources
+The vibration information and calculation procedure
+is based on “ISO/TR 25398 Mechanical Vibration -
+Guideline for the assessment of exposure to whole
+body vibration of ride on operated earthmoving
+machines”. Harmonized data is measured by
+international institutes, organizations and
+manufacturers.
+This literature provides information about assessing
+the whole body vibration exposure of operators of
+earthmoving equipment. The method is based on
+measured vibration emission under real working
+conditions for all machines.
+You should check the original directive. This
+document summarizes part of the content of the
+applicable law. This document is not meant to
+substitute the original sources. Other parts of these
+documents are based on information from the United
+Kingdom Health and Safety Executive.
+Refer to Operation and Maintenance Manual,
+SEBU8257, “The European Union Physical Agents
+(Vibration) Directive 2002/44/EC” for more
+information about vibration.
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 24 ===
+24                                                                                                                KEBU7520-08
+Product Information Section
+General Information
+
+
+Product Information                                             Table 6
+                                                                                               CB-225E
+Section                                                                                  Vibratory Compactor
+
+                                                                            Machine weight                2450 kg (5400 lb)
+
+General Information                                                   Maximum Length of The Ma-
+                                                                                                           2430 mm (8.0 ft)
+                                                                              chine(1)
+                                                    i02575455         Maximum Length of The Ma-
+                                                                                                           2490 mm (8.2 ft)
+                                                                              chine(2)
+Specifications                                                           Width of The Machine              1300 mm (4.3 ft)
+SMCS Code: 7000
+                                                                      Height of The Machine with a
+                                                                                                           2610 mm (8.6 ft)
+Table 2                                                                          ROPS(1)
+
+                           CB-214E                                    Height of The Machine with a
+                                                                                                           2631 mm (8.6 ft)
+                     Vibratory Compactor                                         ROPS(2)
+                                                                (1) This specification is for a machine that is equipped with 9.5/65-
+          Machine Weight            2490 kg (5490 lb)
+                                                                    15 tires.
+                                                                (2) This specification is for a machine that is equipped with 8.5/90-
+  Maximum Length of Machine          2430 mm (8.0 ft)
+                                                                    15 tires.
+      Width of The Machine           1100 mm (3.6 ft)
+
+  Height of The Machine with a
+                                     2602 mm (8.5 ft)
+             ROPS
+
+Table 3
+                         CB-214E XW
+                     Vibratory Compactor
+
+          Machine Weight          3125 kg (6889.4375 lb)
+
+  Maximum Length of Machine          2430 mm (8.0 ft)
+
+      Width of The Machine         1400 mm (4.5934 ft)
+
+  Height of The Machine with a
+                                     2602 mm (8.5 ft)
+             ROPS
+
+Table 4
+                           CB-224E
+                     Vibratory Compactor
+
+          Machine Weight            2670 kg (5890 lb)
+
+     Maximum Length of The
+                                     2430 mm (8.0 ft)
+           Machine
+
+      Width of The Machine           1300 mm (4.3 ft)
+
+  Height of The Machine with a
+                                     2602 mm (8.5 ft)
+             ROPS
+
+Table 5
+                         CB-224E HW
+                     Vibratory Compactor
+
+          Machine Weight            3125 kg (6890 lb)
+
+     Maximum Length of The
+                                     2430 mm (8.0 ft)
+           Machine
+
+      Width of The Machine           1300 mm (4.3 ft)
+
+  Height of The Machine with a
+                                     2602 mm (8.5 ft)
+             ROPS
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 25 ===
+KEBU7520-08                                                                                                    25
+                                                                                    Product Information Section
+                                                                                       Identification Information
+
+
+Identification Information
+                                              i01976299
+
+
+Plate Locations and Film
+Locations
+SMCS Code: 1000; 7000
+The Product Information Number (PIN) will be used
+to identify a powered machine that is designed for an
+operator to ride.
+Caterpillar products such as engines, transmissions
+and major attachments that are not designed for an
+operator to ride are identified by Serial Numbers.
+For quick reference, record the identification
+numbers in the spaces that are provided below the
+illustration.
+
+Product Identification Number                             Illustration 22                                g01031266
+(PIN)
+                                                          Engine Information and Serial Number Plate
+
+                                                          Certification Plate (CE)
+                                                          If the machine is equipped for the European Union,
+                                                          this plate will be attached to the machine. This plate
+                                                          will contain the following information:
+                                                          Certification Plate
+                                                          PIN
+                                                          Model
+                                                          Power (kW)
+                                                          Weight (kg)
+
+                                                                                                          i01831262
+
+
+                                                          Emissions Certification Film
+                                                          SMCS Code: 1000; 7000; 7405
+
+Illustration 21                              g01031265    Note: This information is pertinent in the United
+                                                          States and in Canada.
+Machine PIN
+                                                          A typical example is shown.
+

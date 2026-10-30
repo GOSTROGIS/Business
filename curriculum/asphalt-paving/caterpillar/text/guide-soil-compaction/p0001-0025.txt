@@ -1,0 +1,851 @@
+=== SOURCE PDF PAGE 1 ===
+CAT® PAVING PRODUCTS
+Guide to Soil Compaction
+Guide to Soil Compaction
+
+=== SOURCE PDF PAGE 2 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 3 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 4 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 5 ===
+CAT® PAVING PRODUCTS
+GUIDE TO SOIL COMPACTION
+GUIDE TO SOIL COMPACTION
+
+=== SOURCE PDF PAGE 6 ===
+The Guide to Soil Compaction is published by Caterpillar® Paving Products. Every attempt has been made to ensure that specifications
+and information contained in this book are correct. Performance information is intended for estimating purposes only. Because of
+the many variables specific to individual soil compaction projects (soil types and characteristics, additives, moisture content, project
+specifications, available equipment, operator efficiencies, owner application preferences, underfoot conditions, altitude, etc.), neither
+Caterpillar Inc. nor its dealers warrant that the machines and methodologies described herein will perform as estimated. Because
+equipment specifications and materials are subject to change without notice, check with your Cat dealer for the latest product
+information and available options. Machines shown may include optional and/or add-on equipment. CAT, CATERPILLAR, their
+respective logos and “Caterpillar Yellow,” and the POWER EDGE trade dress, as well as the corporate and product identity used herein,
+are trademarks of Caterpillar and may not be used without permission.
+
+Note: Always refer to the appropriate Caterpillar Operation and Maintenance Manual for specific product information. Some equipment
+shown may include aftermarket options not manufactured or tested by Caterpillar.
+
+ISBN: 978-1-939945-05-1
+
+
+
+                                                                                        QEBQ1705
+
+                                                     © 2013 Caterpillar Inc. - All rights reserved.
+
+=== SOURCE PDF PAGE 7 ===
+TABLE OF CONTENTS
+
+
+
+Unit 1:    THE BASICS OF SOIL COMPACTION             8
+Unit 2:     SOIL TYPES AND CLASSIFICATIONS           30
+Unit 3:    PHYSICS OF COMPACTION                    38
+Unit 4:     APPLICATION AND CONTROL OF QUALITY    58
+Unit 5:     INTELLIGENT COMPACTION                   90
+           APPENDIX                                       112
+          GLOSSARY OF TERMS                          118
+
+=== SOURCE PDF PAGE 8 ===
+FORWARD
+
+
+Earth materials have always been the world’s          compaction operations—even though they are
+most abundant construction material. From the        a small part of overall construction costs—are
+days when Romans used earth materials to build        increasingly critical for project success.
+roads to modern-day dam construction, proper
+compaction operations have been linked to the         This guide describes the basics of compaction
+performance of fills and to what is ultimately           processes, selection of effective compaction
+built on top of those fills. Today, projects such as       machines, and emerging quality assessment testing
+roadways, embankments, dams, structural fills, and     technologies with the goals of optimizing compaction
+slopes require controlled compaction operations to     time and controlling project costs. Guidance for
+ensure compliance with engineering quality criteria.    machine selection is based on material type,
+When compaction quality is not achieved during         target lift thickness, productivity needs and quality
+construction, repair costs over performance life can    assessment criteria requirements (e.g., relative
+exceed initial construction costs.                     compaction, modulus of subgrade reaction).
+
+Earth materials are not just the most abundant          This guide is particularly useful for contractors who
+construction material, but also the most variable.      want to gather and use soil information before
+Particle size and shape, mineralogy, moisture           projects start so they can develop site-specific bid
+content, mixings and time all contribute to the           prices and compaction process plans that focus on
+variability of earth materials. This guide describes       getting jobs done right the first time, avoiding costly
+sources of variability and focuses on selecting the      rework and construction delays.
+correct equipment to maintain effective, productive
+compaction operations. Practices for selecting        Compaction measurement technologies, like
+compaction equipment and earth material placement   Cat® Compaction Control, now make it possible
+processes have been based largely on rules-of-          to monitor compaction progress in terms of lift
+thumb or what has worked in the past. However,       thickness, pass coverage, Compaction Meter
+with accelerated construction schedules and shifts     Value (CMV) and Machine Drive Power (MDP).
+toward results-oriented performance specifications,   CMV is a well understood parameter that allows
+
+=== SOURCE PDF PAGE 9 ===
+compaction machines to be measurement devices     compaction equipment and operations. Many
+that provide mechanistic parameter values for           practicing contractors, engineers, recognized
+soils (e.g., stiffness, strength) based on machine-        authorities and researchers contributed to this guide.
+ground vibration analysis. MDP is a new, innovative    Emerging compaction technologies, especially
+technology from Caterpillar that pushes the             integrated intelligent compaction monitoring and
+capabilities of these systems even further.           methods for forecasting operation parameters, will
+                                                          drive the most significant changes in compaction
+By measuring mechanistic values of compacted       assessment since 1933 when Proctor established
+materials in real-time using GNSS (Global Navigation    standards for moisture control.
+Satellite System) position information, color-coded
+quality assessment maps can be generated. These     Users of this guide will have at their fingertips a
+maps can be linked to design values to ensure           practical resource for soil compaction principles,
+that compacted materials meet established quality      expert information about machine selection, and how
+criteria. This approach to compaction quality             to optimize compaction operations. Implementing the
+assessment is light years ahead of the old method of    information in this guide will reduce risk and improve
+visually inspecting for “walkout.” Where compaction   compaction quality.
+specifications previously were oriented toward
+method specifications that dictated the process,                                   David J. White, Ph.D.
+results-oriented performance specifications are now                                 Associate Professor
+possible with 100 percent coverage in real-time                                 Iowa State University
+using integrated technologies. In fact, intelligent
+compaction technologies are the basis for rethinking
+compaction quality assessment by agencies around
+the globe.
+
+This guide combines experience and knowledge
+gained from Caterpillar’s commitment to improving
+
+=== SOURCE PDF PAGE 10 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 11 ===
+INTRODUCTION
+
+
+INTRODUCTION
+
+
+Those who want to build must compact.
+
+Caterpillar is pleased to present this Guide to Soil Compaction. It is intended
+as a guide to soil compaction principles, testing techniques and on-the-job
+procedures. The content provides a practical approach to a rather complex
+theoretical subject. It is the product of decades of experience in the
+earthmoving industry, as well as the knowledge contributed by countless
+individuals who have worked with Caterpillar over the years.
+
+Whether you are a construction professional, a governmental official, an
+educator or student, or whether you are simply interested in learning more
+about construction methodology, you’ll find this guide to be a valuable
+resource.
+
+Another valuable resource to consult for earthmoving or compaction
+applications is your local Cat dealer. Dealer personnel are trained by experts
+from Caterpillar to assist you, providing the equipment, services and
+knowledge to keep you at your productive best.
+
+
+
+
+
+                                INTRODUCTION  |       7
+
+=== SOURCE PDF PAGE 12 ===
+[No extractable text on this page; inspect the original PDF image.]
+
+=== SOURCE PDF PAGE 13 ===
+BASICS
+
+
+Unit 1
+THE BASICS OF SOIL COMPACTION
+
+
+The ability to analyze soil composition is critical to the process of
+establishing compaction specifications and then achieving the required
+load-bearing strength.
+
+
+
+
+
+                 Unit 1: THE BASICS OF SOIL COMPACTION  |       9
+
+=== SOURCE PDF PAGE 14 ===
+BASICS
+
+
+         [ WHAT IS COMPACTION? ]
+
+          In simple terms, compaction is the process of           pipelines, dams, canals, culverts and more. If soil is
+         mechanically increasing the density of a material.       required to support a structure, compaction usually is
+          Soil is made denser by reducing the voids between     necessary to keep the structure stable.
+        the particles that make them up. In time, loose
+         material settles and compacts itself naturally. By         Soil compaction is accomplished by employing one
+         applying various mechanical forces, the time required   or a combination of forces: static pressure, impact,
+         to achieve compaction is shortened from years to      manipulation and vibration.
+         hours.
+
+        Compaction is a necessary process for nearly
+        every kind of construction project, including roads,
+          railroads, airfields, building sites/ foundations,
+
+
+
+
+
+10           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 15 ===
+BASICS
+
+
+
+
+
+[ WHY IS COMPACTION IMPORTANT? ]
+
+Properly compacted material is able to support        the proper thickness and stiffness. If one layer is
+heavier loads without deforming (bending, cracking,   not strong enough, the road will fail.
+moving). The substrate material supporting a heavy
+structure must be very dense or it will compact      Compaction occurs during all phases of road
+even more under load, causing the structure to        construction. The quality of compaction has a
+settle. Dense material has less permeability, which     significant impact on the longevity of the road,
+reduces the impact of water infiltration. Compaction   as well as a profound effect on the comfort—and
+also levels the surface and reveals structurally weak   possibly the safety—of the public who use it.
+areas.
+                                            The least expensive element in extending the
+A good way to illustrate the importance of             service life of a road is the compaction process.
+compaction is to consider the various layers of         Increasing the density of the roadway layers
+a typical roadway. Each layer of the roadway is        during the construction process costs very little
+designed to provide a specific engineering purpose,   per cubic meter or yard of soil. Meeting density
+as well as support the weight placed on it. Each       specifications can save significant money in future
+layer must be constructed of the right material to      road maintenance and/or resurfacing costs.
+
+
+
+
+
+TYPICAL SECTION OF ROADWAY
+
+
+embankment
+
+
+                                                           pavement
+                                                               base
+                                                                 sub-base
+                                                                        native soils
+
+
+
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      11
+
+=== SOURCE PDF PAGE 16 ===
+BASICS
+
+
+         [ WHAT IS SOIL? ]
+
+         Soils are unconsolidated materials composed           in that it consists of tiny, flat particles with plate-like
+         of mineral particles that may contain organic           structures that come from a variety of rocks.
+        substances. Soils are essentially deposits of
+         disintegrated rocks that have been slowly broken      Organic matter also contributes to soil formation.
+      down by physical and chemical processes.        When plants die, their residue becomes part of
+                                                           the soil. Soils with high organic matter content
+       The physical processes include freezing and           are usually too spongy and weak to be used for
+        thawing, rolling, grinding and blowing.                  structural purposes.
+
+        Chemical processes form clay soils. Long-term
+        weathering action and rainfall play an important part
+          in creating clays. Clay differs from sand and gravel
+
+
+
+      SOIL FORMATION
+                                                                         2
+
+
+
+                                                                               1
+                                                  10
+
+                                                                        3
+                                   7         9
+                                                    5                                        8
+                                                      4
+
+                                            6
+
+
+
+
+
+         1   residual soils                              6  alluvial soils
+              broken down pre-existing rock                          fine-grained soils deposited on plains and
+                                                                                 in estuaries by flowing water
+         2   glacial deposits
+               materials carried or created by ice sheets        7  wave-washed sediments
+
+         3   glacifluvial deposits                                                      8  wind-blown deposits
+               materials transported by melt water from
+                ice sheets
+                                                      9  organic soils
+                                                      decomposed vegetation
+         4   river deposits
+
+                                                        10 man-made soils
+         5   lake sediments                                  processed by blasting and crushing
+
+
+12           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 17 ===
+BASICS
+
+
+[ SOIL TYPES ]
+
+Although soils may vary widely in physical and         generally defined by systems developed by one
+chemical make-up, six fundamental types are          of two sources: the International Organization for
+recognized for engineering purposes: boulder,         Standardization (ISO) [www.iso.org] or the American
+cobble, gravel, sand, silt and clay.                    Society for Testing and Materials (ASTM) [www.
+                                                         astm.org]. The two systems do not agree precisely,
+The six soil types are generally organized by          but they are very similar. Percentages of soils that
+ particle size, which is determined utilizing a sieve      are too fine to be sorted with sieves are determined
+ test. While the precise details of engineering         by utilizing a hydrometer test. (See page 14.)
+use can vary by country, the sieve sizes are
+
+
+
+
+
+SOIL TYPES                                           SIEVE TEST
+
+
+
+
+
+Boulder                Cobble
+
+
+
+
+
+Gravel                Sand
+
+
+
+
+
+ Silt                     Clay
+
+
+PARTICLE SIZE DISTRIBUTION
+
+
+                clay                   silt            sand             gravel
+    100
+     90    difficult to           unstable - shiftsweight  80   work - sticky          during compaction
+by  70           1                     3     60
+     50                                        4
+     40      high compactionpassing  30       effort - water % very   2
+     20      important                                      high compaction
+     10                                                                 effort
+      0percent         0            0.002             0.06             2             60
+                         particle size in millimeters
+
+       1   silt clay         3  uniform sand
+
+       2  gravel - silt      4  gravel - sand
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      13
+
+=== SOURCE PDF PAGE 18 ===
+BASICS
+
+
+
+
+
+                                  Hydrometer Test
+                                       The soil sample is dispersed (suspended) in water in a graduated
+                                                     cylinder. The time it takes for the material to settle to the
+                                        bottom can identify different grain sizes. A hydrometer
+                                              reading of the suspension is taken to determine the specific
+                                                      gravity, which allows the percentages of grains for a particular
+                                                   size to be calculated.
+
+
+
+
+
+      SOIL COMPARISON CHART
+
+
+                                                                particle size, mm
+
+                      0,002   0,006   0,02    0,06     0,2      0,6     2,0      6,0     20     60       200    600 mm
+
+
+      France     Argile           Limon                     Sable                  Gravier           Cailloux          Roches
+
+
+   Germany     Ton              Schluff                  Sand                       Kies            Steine        Blöcke
+
+
+ Scandinavia     Lera                    Silt                    Sand                    Grus                 Sten         Block
+
+
+       UK     Clay                    Silt                    Sand                      Gravel         Cobbles      Boulders
+
+
+      USA               Clay and Silt                      Sand                      Gravel       Cobbles      Boulders
+
+
+
+                                         200 100  50  30  16   8   4    3/8"   3/4"  11/2"  3"   6"     12"
+
+                                               US standard sieves
+
+
+
+
+      A soil material is fundamentally a mixture composed    SOIL MIXTURE
+         of varying percentages of the previously mentioned                                                                                                          air
+           soil types. It is important to understand that a
+           soil material is not made of solid materials only.
+      A soil material is a mixture of solid matter (any                        water
+        combination of soil types), water and air.
+
+
+
+
+
+                                                                                                 solid matter
+
+
+14           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 19 ===
+BASICS
+
+
+
+                                 AIR/WATER VOIDSNatural or “native” soils—those that lie naturally
+deposited in the ground—will vary from one
+location to the next. For example, a soil material is
+never 100 percent clay or sand—there are always
+small percentages of other soil types present.
+The best soil materials for construction are often           air void
+composites of specific percentages of choice soil
+types, depending on the engineering characteristics
+that are desired.
+
+Geotechnical engineers can design soil mixes to
+provide these characteristics by specifying the
+percentages of each soil type. Soil types missing                           water
+from a native soil are added in proportion and mixed
+with the natural soils to create an engineered soil.
+These additive materials are often determined by
+conducting an economic analysis of soil materials      water. When a soil material has too much air
+available nearby.                                and water due to abundant voids, the soil will be
+                                                      unstable. The process of compaction rearranges the
+When you examine a soil sample closely, the            soil particles to minimize the volume and size of air
+individual particles are of many sizes and shapes.      voids, making the material more dense and stable.
+The spaces between the particles are called
+“voids.” Voids can be occupied by either air or
+
+
+
+
+
+GRADATION
+
+
+
+
+
+                    uniformly or
+                                                   well graded
+                   poorly graded
+
+
+The individual particles of a soil material will vary       Materials that possess particles of nearly identical
+in size, even if the variance is slight. The range          sizes, such as alluvial sands, are “uniformly graded”
+of particle sizes is referred to as “gradation,”           or “poorly graded” materials. If one or more sizes
+or sometimes called “particle-size distribution”        are not present in the material, it is called “gap-
+or “grain-size distribution.” Ideally, there are           graded.” A well-graded soil will compact easier than
+relatively equal amounts of all grain sizes with no      a poorly graded soil because the presence of grain-
+predominant size present. A material that possesses   size variability means the smaller grains fit nicely in
+this ideal range of sizes is referred to as “well-        the voids between the larger grains.
+graded.”
+
+
+
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      15
+
+=== SOURCE PDF PAGE 20 ===
+BASICS
+
+
+         [ FOUR TYPES OF SOIL MATERIAL ]
+
+        While it is sometimes useful to know the exact         MATERIAL TYPES
+        composition of a soil material, it is more pragmatic
+         to understand how a soil material reacts when
+         various forces are applied to it. To that end,
+         professionals who work with soil classify soil
+                                                                                     cohesive
+         materials into four basic types:                              fines
+
+            1. Cohesive
+            2. Semi-cohesive
+                                                                                    semi-cohesive            3. Non-cohesive           }
+            4. Organic
+                                                          coarse
+       Each type reacts differently when forces are applied                                                                                   non-cohesive
+         to it. How each reacts dictates its suitability for                                                                                          or granular
+         various engineering purposes in construction, as         well as what kinds of means are used to work with    }
+       each soil. As previously mentioned, organic soil
+         materials are not suitable for construction purposes.
+                                                                                       organic
+      When a soil material is unsuitable for engineering
+        purposes, it is either replaced or various means are
+       employed to improve the characteristics of the soil, a
+        process referred to as “stabilization.” These solutions
+        can include chemical stabilization—for example,
+        the incorporation of Portland cement, lime, fly ash
+         or calcium chloride—and mechanical stabilization,
+        which includes adding choice aggregates or utilizing
+        geosynthetics to reinforce the soil.
+
+
+
+
+
+         Type of Soil   Appearance / Feel  Water Movement  When Moist    When Dry
+
+        Granular soils,    Coarse grains can be    When water and soil      Very little or no            Little or no
+          fine sands and   seen. Feels gritty when      are shaken in the             plasticity.        cohesive strength
+                              rubbed between fingers.    palm of hand, they                      when dry. Soil
+                 silts                                    mix. When shaking is                         sample will
+                                                         stopped, they separate.                        crumble easily.
+
+        Cohesive soils,    Grains cannot be seen   When water and soil      Plastic and sticky.    Has high strength
+         mixes and       by naked eye. Feels      are shaken in palm of     Can be rolled.       when dry.
+                             smooth and greasy     hand, they will not mix.                       Crumbles with
+              clays       when rubbed between                                                                    difficulty. Slow
+                                              fingers.                                                             saturation in water.
+
+
+
+
+
+16           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 21 ===
+BASICS
+
+
+[ THE IMPORTANCE OF MOISTURE CONTENT ]
+
+The importance of water to the process of soil
+compaction cannot be overstated. Every type of soil
+has physical characteristics that define how the soil
+reacts to moisture. For every soil material, there is
+a moisture content that maximizes the engineering
+properties of the material for a given compaction
+energy. Generally, the smaller the particle size, the
+greater the influence of water on compaction.
+
+If a soil possesses too little moisture, the material
+will be difficult to work with because the particles
+will lack the lubrication necessary to rearrange them
+into a more dense state. And, the particles will
+not be cohesive enough to stay where they have
+settled.
+                                                   the load-bearing capability of the structure. The
+Water is added to enhance cohesion and lubrication.   particles will also be over-lubricated, allowing them
+Too much water can cause saturation. When the       to easily displace.
+soil is saturated, voids fill with water, weakening
+
+
+
+
+
+As a simple example of how water can affect the
+engineering properties of a soil, imagine trying to
+construct a sand castle on a beach. The water in the
+sand gives it enough cohesion to be molded into
+thick walls and tall towers. Now imagine trying to
+build the same sand castle in the desert. The arid
+desert soil lacks cohesion, so it would be difficult to
+manage more than a few low mounds of sand.
+
+Water has other effects as well. Because it resists
+compression, it will displace soil materials, causing
+instability. Frozen water expands, displacing the soil
+around it. When the frozen water thaws, it occupies
+a smaller volume, creating space that will allow
+settling to occur.
+
+
+
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      17
+
+=== SOURCE PDF PAGE 22 ===
+BASICS
+
+
+
+
+       Water is present in all soils in their natural states. It
+        appears in one of three ways.
+
+             1. Gravitational water is free to move downward
+            due to the force of gravity. It can drain
+               naturally from a soil.
+
+            2. Capillary water is held in a soil by small pores
+              or voids. It is considered free water and can
+              only be removed by lowering the water table
+              or by evaporation.
+
+             3. Hygroscopic water is present in a soil after
+                gravitational and capillary water are removed.
+                                                                                  gravitational                Individual soil grains hold this water in the form
+               of a very thin film having physical and chemical
+                 affinity for the soil grains. It is also called “air-
+             dry” moisture content. This water would have
+               to be removed by baking the soil in an oven to
+             determine the true dry weight of the soil.
+
+       Too much moisture over-lubricates the soil and
+        causes particle instability, while too little moisture
+        reduces cohesion and prevents particles from
+         reorienting easily into a denser state. For each soil
+         type, there is an ideal moisture content at which
+      maximum density can be reached with a given
+       amount of compaction energy. The Proctor Test
+       was developed as a way to help define this optimal
+        moisture content for the selected compaction
+                                                                                       capillary          effort.
+
+
+
+
+
+                                                                         hygroscopic
+
+
+
+
+
+18           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 23 ===
+BASICS
+
+
+[ THE PROCTOR TEST ]
+
+The value of compacting base and subbase soils
+has long been understood. But it was not until 1933
+that Ralph R. Proctor of the Los Angeles Bureau of
+Water Works developed a standardized method for
+determining the optimum moisture content and the
+corresponding maximum dry density. The Proctor
+Test used a manually operated ram to compact
+three layers of the soil placed in a confined cylinder.
+
+The Standard procedure determines the optimum
+moisture content of a material that will allow a given
+applied compaction force to obtain the maximum
+dry density of the material. This result is used
+to create a specification for compaction on the
+worksite. Because conditions in the field do not
+match the ideal conditions in a laboratory, the target    Proctor lab test kit
+compaction is scaled to a percentage of the dry
+density determined in the lab. This can range from
+90 percent to over 100 percent.
+
+Modified compaction tests have also been
+introduced in connection with structures requiring
+heavier bearing strength to support extremely
+heavy loads or to limit settlement. The Modified
+compaction test applies about four times more
+energy than the Standard compaction test and
+normally results in a lower “optimum” moisture
+content.
+
+
+
+
+
+Surpassing 100 Percent Dry Density
+How can the target density be over 100 percent? The maximum dry density established by the Proctor
+Test is not the maximum field density achievable on a particular soil. Proctor Dry Density of 100 percent
+represents the maximum density achieved in the lab with the particular sample using a specific amount of
+compaction force and ideal moisture content. Standard Proctor and Modified Proctor use different weights
+and will achieve different dry densities for the same sample. In the field, the “blows” are coming from a
+large soil compactor that applies a different amount of force than the hammers from the Proctor tests. It
+is not unusual to achieve field densities from 100 percent to 115 percent of Proctor maximum dry density.
+Geotechnical engineers may determine that due to load-bearing requirements and soil characteristics,
+compaction density over 100 percent of Proctor is warranted.
+
+
+
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      19
+
+=== SOURCE PDF PAGE 24 ===
+BASICS
+
+
+
+
+        For a given soil sample, either the Standard or      PROCTOR TESTS
+        Modified Proctor is performed five times. The same
+        procedure is used each time the test is run, but the
+        moisture content is varied for each.
+
+       The series starts with the soil in a damp condition
+       somewhat below the probable optimum moisture
+         content. After the first sample is compacted into a
+          cylindrical container, the wet weight is measured
+       and a portion of the sample is placed in a drying
+        oven. When the sample is completely dry, it is
+       weighed again. The difference between the wet
+       and dry weights yields the moisture content that is
+        expressed as a percent of the dry weight.
+
+      A second sample with increased moisture content
+           is compacted and the weighing and drying process
+           is repeated. Additional samples with increasing
+        moisture content are processed until the wet unit
+        weight decreases or the soil becomes too wet to
+        work.                                          standard               modified
+
+       Dry density and moisture content values for each       Each layer receives             Each layer receives
+                                                           25 blows from a 2.5 kg         25 blows from a 4.5 kg       sample are then plotted and a smooth curve is
+                                                                            (5.5 lb) hammer at a               (10 lb) hammer at a
+        formed. The highest point on the curve represents                                                                      distance of 305 mm (12 in)        distance of 457 mm (18 in)
+        the maximum dry density and the optimum
+        moisture content for that soil sample.
+
+
+
+
+
+     PROCTOR CURVES
+
+                                                                         2.4
+
+                                                                         2.3
+                                                                       Gravel
+                                                                        2.2
+
+                                                                              2.1
+                                                             Sand                                                                                                               volume  2.0
+            max density          /
+           1.8
+                                     Modified                      1.9                                          saturation limit                                        Proctor                  mass       volume
+ /   1.7                                                             1.8
+                                                                                                                   Silt
+
+                                                                             1.7     mass   1.6                              Standard                  density
+                                              Proctor
+                                                                            1.6                                                         dry
+           1.5
+                               optimum moisture            1.5         density
+                                          content                                                                                                              Clay
+           1.4    dry                                                                    1.4
+             0      5     10     15     20     25     30           0    5    10   15   20   25   30   35   40   45   50   55   60
+
+                  moisture content (%)                                moisture content (%)
+
+
+20           | Unit 1: THE BASICS OF SOIL COMPACTION
+
+=== SOURCE PDF PAGE 25 ===
+BASICS
+
+
+
+
+Laboratory tests determine the moisture content      Proctor for roadway structures. Likewise, the
+at which maximum density can be attained for        moisture content must be within a range of the
+that particular soil material. Field target densities       laboratory-determined, optimum moisture content.
+are specified as a certain percent of the maximum
+laboratory dry density. Generally, required field
+densities will be 95 percent of Standard Proctor for
+embankments and up to 100 percent of Modified
+
+
+
+
+
+DENSITY TARGETS
+
+This example shows how the nearer the material is to the surface, the higher the density.
+
+
+
+                                               > 100%
+   base course                                                  TA
+                                               > 99%
+                                                                 BA                     }                                                                   modified proctor
+                                               > 97%
+      sub-base                                                  TA                                               > 95%
+                                                                 BA                     }     }
+
+  capping layer                                  > 98.5%
+       (stones)                                                  TA                                               > 96%
+                                                                 BA                     }                                                                   standard proctor
+
+                                               > 95%
+  embankment                                                  TA
+                                               > 92%
+                                                                 BA                     }     }
+
+                                                = average density of entire lift
+                                                                TA
+                                                = average density of just bottom portion of lift
+                                                           BA
+
+
+This illustration of the gradient of compaction compares the average density of the entire lift (     )
+with the average density of just the bottom portion of the lift (      ).                                     TA
+                                                                             BA
+
+
+
+
+                                  compactor
+                                drum
+
+                     (surface)                               density
+
+
+
+
+                                                   peak compaction
+     depth of lift
+
+                                                          (gradient of compation)
+
+
+
+                     average density                average density                                                            (     )        (     )
+                of bottom portion of lift     BA           TA  of entire lift
+
+
+                                            Unit 1: THE BASICS OF SOIL COMPACTION  |      21
+

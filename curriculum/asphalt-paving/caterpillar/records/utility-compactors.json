@@ -1,0 +1,97 @@
+{
+  "id": "CAT-10",
+  "slug": "utility-compactors",
+  "title": "CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual",
+  "publisher": "Caterpillar",
+  "type": "Operation and maintenance manual",
+  "publication": "M0130633-02 (August 2022)",
+  "publication_year": 2022,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP.",
+  "download_filename": "cat-utility-compactors.pdf",
+  "source_url": "https://www.ashbrook.ltd/wp-content/uploads/2023/02/User-Manual-for-Cat-Rollers-Utility-Compactors-CB2.5GC-CB2.7GC-CC2.7GC.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 1741383,
+  "original_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+  "original_pages": 148,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "Scan to find and purchase genuine Cat® parts and related\nservice information.\nLanguage: Original Instructions\nOperation and\nMaintenance\nManual\nCB2.5 GC, CB2.7 GC, CC2.7 GC Utility\nCompactors\nXGC 1-UP (CB2.5 GC)\n640 1-UP (CB2.5 GC)\nBT7 1-UP (CB2.7 GC)\n641 1-UP (CB2.7 GC)\n2C7 1-UP (CC2.7 GC)\n642 1-UP (CC2.7 GC)\nM0130633-02 (en-us)\nAugust 2022\n",
+    "last_page": "M0130633\n©2022 Caterpillar\nAll Rights Reserved\nCAT, CATERPILLAR, LET’S DO THE WORK, their respective\nlogos, “Caterpillar Corporate Yellow”, the “Power Edge” and Cat\n“Modern Hex” trade dress as well as corporate and product identity\nused herein, are trademarks of Caterpillar and may not be used\nwithout permission.\n148\nAugust 2022\n"
+  },
+  "parts": [
+    {
+      "file": "sources/utility-compactors/p0001-0025.pdf",
+      "text": "text/utility-compactors/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 1100651,
+      "sha256": "f2f43c1b72ed6eb1673638a57e9d95876f27f8c6472d91e8e0a74275a7604d08",
+      "text_sha256": "14604d1a9efe5cd4ced99ca182d49a022d4428054d920a0f0b14648dedd0ee39",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/utility-compactors/p0026-0050.pdf",
+      "text": "text/utility-compactors/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 346257,
+      "sha256": "24fe9967cd75631166d2c5e53ca1703978209a571219fd93dad77e36abe108c6",
+      "text_sha256": "37576f0ce5b58e2c4feb6a8bfd3c5fcb67fc649a598be4ec44861f7d0f3bc588",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/utility-compactors/p0051-0075.pdf",
+      "text": "text/utility-compactors/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 704850,
+      "sha256": "4bef4a6d184c6e202b9ebeab1895349982232e48e34925ecf10b8e4cf68d0934",
+      "text_sha256": "da1f7c5ee8bd0701e25b03ca61854b47445b00683b3193a3d6eb70b5fd6e46ac",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/utility-compactors/p0076-0100.pdf",
+      "text": "text/utility-compactors/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 809620,
+      "sha256": "9bf4c47d37d8160f5a8fc6d088800f9162909ff689d0b76dbc631e54712b77b4",
+      "text_sha256": "c4ea279c7c42e510c7e21b508d20633fda63dd4c28d0135513500cefb90049fa",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/utility-compactors/p0101-0125.pdf",
+      "text": "text/utility-compactors/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 394472,
+      "sha256": "74f03e2d8cc76902f1ea5732ee91f895cd612aadec8d4117eedfe18f94374319",
+      "text_sha256": "0f0b354d0998d4b3730f7fb9c2fbed8c37bb81045816116a2da023a9438aa5ba",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/utility-compactors/p0126-0148.pdf",
+      "text": "text/utility-compactors/p0126-0148.txt",
+      "start": 126,
+      "end": 148,
+      "pages": 23,
+      "bytes": 1395499,
+      "sha256": "bbafabdefc7166c0955e4474bb5c264ade7925867ea8eadedd079ebb69884520",
+      "text_sha256": "3fcad82b71c2620bfca7f3fd4df3b3132b6baf6381bc454fc87d5fc4db25d9ee",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

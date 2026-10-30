@@ -1,0 +1,49 @@
+{
+  "id": "CAT-05",
+  "slug": "paving-by-numbers",
+  "title": "Paving By The Numbers",
+  "publisher": "Caterpillar",
+  "type": "Application handbook",
+  "publication": "QEDQ1265-03 (1/2013)",
+  "publication_year": 2013,
+  "year_basis": "Publication/copyright statement in document",
+  "model_scope": "Illustrated paving setup reference; the source equipment/configuration controls its application.",
+  "download_filename": "cat-paving-by-numbers.pdf",
+  "source_url": "https://www.westernstatescat.com/wp-content/uploads/2024/01/Paving-By-The-Numbers-2.pdf",
+  "accessed": "2026-10-30",
+  "original_bytes": 2698730,
+  "original_sha256": "60eaf92e33ff990085ad8d293ab5f24ff7b9b17323f591f00e9c2c64807ee41e",
+  "original_pages": 40,
+  "completeness": "Every page of the publicly supplied PDF, including covers and notices, is retained.",
+  "rights": "Original publisher notices retained. No open licence or machine applicability is inferred.",
+  "identity_text": {
+    "first_page": "R\nPaving By The Numbers\n",
+    "last_page": "R\nQEDQ1265-03 (1/2013) \n© 2013 Caterpillar  \nAll Rights Reserved.\nMaterials and specifications are subject to change without notice. \nFeatured machines in photography may include additional equipment for special applications. CAT, \nCATERPILLAR, their repective logos, “Caterpillar Yellow” and the POWER EDGE trade dress, as well as corporate \nand product identity used herein, are trademarks of Caterpillar and may not be used without permission.\n"
+  },
+  "parts": [
+    {
+      "file": "sources/paving-by-numbers/p0001-0025.pdf",
+      "text": "text/paving-by-numbers/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 2090378,
+      "sha256": "ad2bbdab907e6ff601297b3d2a755408daec16a8bb0e55c74e9312b4595eee0d",
+      "text_sha256": "c98cbbe745e72c977f906ada07a3ec335d7f0506acb71cfdaf38ab3db783ec34",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    },
+    {
+      "file": "sources/paving-by-numbers/p0026-0040.pdf",
+      "text": "text/paving-by-numbers/p0026-0040.txt",
+      "start": 26,
+      "end": 40,
+      "pages": 15,
+      "bytes": 1151859,
+      "sha256": "ebe56e94f150071339cf1640de79438a22a328cbbdb1fcf31818cee03a551566",
+      "text_sha256": "d0b13d88200f67d2d17fafb698d76b18d2e2beb3bb45f7fd9c11c3fc2027a869",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false
+    }
+  ]
+}

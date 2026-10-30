@@ -1,0 +1,63 @@
+{
+  "max_volume_bytes": 47185920,
+  "volumes": [
+    {
+      "file": "downloads/cat-library-volume-01.zip",
+      "bytes": 33276601,
+      "sha256": "351d507bd0ef6c33b38e3e96d0a6b7918bafed5d4e35b1cf0f5c87904d49ada8",
+      "documents": [
+        "CAT-01"
+      ],
+      "source_pages": 300,
+      "members": 34
+    },
+    {
+      "file": "downloads/cat-library-volume-02.zip",
+      "bytes": 28016672,
+      "sha256": "a76f74856f18e025e0558a581ba1c1332f933936d9f755f5d17551277f4517a1",
+      "documents": [
+        "CAT-02",
+        "CAT-03"
+      ],
+      "source_pages": 284,
+      "members": 37
+    },
+    {
+      "file": "downloads/cat-library-volume-03.zip",
+      "bytes": 24112819,
+      "sha256": "6fe5cf4de04be420503c871c3754fc6b7a628e982f89fa1e709fc01edde36169",
+      "documents": [
+        "CAT-04",
+        "CAT-05",
+        "CAT-06",
+        "CAT-07",
+        "CAT-08",
+        "CAT-09"
+      ],
+      "source_pages": 333,
+      "members": 49
+    },
+    {
+      "file": "downloads/cat-library-volume-04.zip",
+      "bytes": 35429611,
+      "sha256": "817b0a31e954641018d76bd86cc19083c9585ff56a61fc068d0c459240435a83",
+      "documents": [
+        "CAT-10",
+        "CAT-11",
+        "CAT-12",
+        "CAT-13",
+        "CAT-14",
+        "CAT-15",
+        "CAT-16",
+        "CAT-17",
+        "CAT-18",
+        "CAT-19",
+        "CAT-20",
+        "CAT-21",
+        "CAT-22"
+      ],
+      "source_pages": 966,
+      "members": 114
+    }
+  ]
+}

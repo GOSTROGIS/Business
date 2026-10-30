@@ -1,0 +1,1218 @@
+SOURCE: curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0076-0100.pdf
+SOURCE SHA-256: 4b33569791fc7a3d0f98343c301751149d76a2ffa163f68f135c1ae59a33d679
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 76 ===
+Methods
+
+
+
+
+      Tandem drum rollers operated in the static mode are
+      the most common finish compactors. Remember,
+      the narrower the drum width, the higher the
+      static force exerted. It is common to see smaller
+      compactors used in the finish position.
+
+      Vibration should not be used in the finish phase. If
+      additional density is required, the problem needs to
+      be addressed in the initial and intermediate phases.
+      The goal of the finish phase is smoothness, not
+      density gains. The finish compactor should make
+      long, slow passes to make the mat smoother. If the
+      finish phase on a portion of the mat is completed
+      and the finish compactor needs to park and wait,
+      park on only a portion of the mat or an adjoining
+      surface that is cool enough to support the machine
+                                                                 Tandem drum rollers operated in the static mode are
+      without deforming the mat.                                 common during the finish compaction phase.
+
+
+
+
+      [ Test Strips ]
+      On many projects, the public works department in           The quality control technician or supervisor should
+      charge will require that a test strip be successfully      have planned a rolling pattern for each phase of
+      completed before the start of full production. The         compaction, and should have selected vibratory
+      requirements for test strips vary greatly from one         amplitude, vibratory frequency and working speed
+      location to another. In general, the test strip verifies   for the initial phase compactor. The vibratory
+      that asphalt production meets the job mix formula,         characteristics are determined by type of mix and
+      that the paving equipment lays down a satisfactory         thickness of the asphalt layer and the working speed
+      mat, and that the selected compaction equipment            of the paver.
+      achieves the specified density.
+                                                                 As soon as the paver pulls off the starting joint,
+      A test strip can be a separate element or part of the      begin to collect data. Once the paver has reached
+      paving project. It will consist of adequate tonnage to     planned paving speed and the correct mat thickness
+      complete the required tests. In this manual, the only      has been established, check the temperature of the
+      concern is about the density testing.                      mat directly behind the paver screed. Throughout
+                                                                 the length of the test strip, continue to check
+      To complete the test strip, the quality control            and document mat temperature. Consistent mat
+      technician or supervisor will need to have an              temperature is one of the keys to creating consistent
+      accurate temperature measuring device and a                mat density. If the mix used on the project has
+      calibrated density testing gauge. The compaction           a tender zone, you will be able to document the
+      equipment used on the test strip must be the               temperature for the start of the tender zone and the
+      equipment that is planned for the project.                 temperature when tenderness disappears.
+
+
+
+
+72    | Unit 4: Methods and Specifications
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 77 ===
+Methods
+
+
+
+
+Check the density of the mat laid by the screed
+before the compaction process begins. Knowing
+the screed laid density will help you select
+amplitude and the number of passes that may be
+necessary to get the required density.
+
+Check screed laid density at several places across
+the width of the mat. Check the density of the
+mat after each pass made by the initial phase
+compactor.
+
+
+
+                                                            Sometimes, checking the density of the mat before initial
+                                                            compaction (top) is overlooked on the test strip. Density
+                                                            values and temperatures written on the mat (above) help
+                                                            compactor operators.
+
+
+
+
+User Tip: When you place the density testing gauge on the mat to make the first density check, draw an
+outline around the base of the gauge with chalk. The chalk outline will help you put the gauge in exactly the
+same spot after each pass.
+
+
+
+
+                                                         Unit 4: Methods and Specifications |                           73
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 78 ===
+Methods
+
+
+
+
+      Continue to make passes with the initial phase compactor until you have reached the target density for the
+      initial phase. Let’s look at an example of a test strip created on a highway project.
+
+      [ Density specifications ]
+        Minimum density:             92% theoretical maximum density
+        Target density:              93.5 to 95.5 theoretical maximum density
+
+      [ Project conditions ]
+        Asphalt mix:                 25 mm (1") dense graded
+        Asphalt cement:              5.8% polymer-modified oil
+        Paving thickness:            80 mm (3.1")
+        Paving width:                3.66 m (12')
+        Screed laid density:         80% theoretical maximum density
+        Mat temperature:             149º C (300º F)
+
+      [ Vibratory characteristics, Initial Phase ]
+        Drum width:                  200 cm (79")
+        Static force per drum:       29.7 kg/cm (166 lb/in)
+        Amplitude:                   0.78 mm (0.031”)
+        Frequency:                   42 Hz (2520 vibrations per minute)
+
+      [ Test strip results, Initial Phase ]
+        Pass One:                    84%
+        Pass Two:                    87%
+        Pass Three:                  90%
+        Pass Four:                   92%
+
+      [ Vibratory characteristics, Intermediate Phase ]
+        Drum width:                  200 cm (79")
+        Static force per drum:       29.7 kg/cm (166 lb/in)
+        Amplitude:                   0.30 mm (0.012")
+        Frequency:                   63.3 Hz (3800 vpm)
+
+      [ Test strip results, Intermediate Phase ]
+        Pass Five:                   93%
+        Pass Six:                    94%
+
+      [ Static characteristics, Finish Phase ]
+        Drum width:                  170 cm (67")
+        Static force per drum:       31.8 kg/cm (178 lb/in)
+
+      [ Test strip results, Finish Phase ]
+        Pass Seven:                  94.5%
+        Pass Eight:                  95.0%
+
+
+
+
+      Summary: This test strip required four passes in the initial phase to reach the minimum density acceptance
+      level. Two more intermediate passes added enough density to meet the target specification. Finish
+      compaction added another percent. The compaction process met the requirement for density, but did it
+      meet the production requirement? We can use the Cat Interactive Production Calculator to confirm that
+      compaction production matches the paving production.
+
+
+
+
+74    | Unit 4: Methods and Specifications
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 79 ===
+Methods
+
+
+
+
+Paver Speed Calculator
+
+
+
+        Trucking               General Inputs
+                               	Paving Thickness:                                    [   3.15    ] in        [   80.0    ] mm
+      Paver Speed
+                               	Paving Width:                                        [   12.00   ] feet      [   3.658   ] meter
+      Compaction                    Material Density Uncompacted:                    [    127    ] lbs/ft3   [   2034    ] kg/m3
+       Windrow
+                               Paver Speed @ Given Production Rate
+          Yield
+                               	Production Rate of Hot Plant:                        [    220    ] tons/hr   [   200     ] tonnes/hr
+         Slope                 	Calculated Paving Speed - 100% Efficiency:           [   18.3    ] ft/min    [   5.58    ] m/min
+
+       Thickness               	Calculated Paving Speed - 95% Efficiency:            [   19.2    ] ft/min    [   5.86    ] m/min
+                               	Calculated Paving Speed - 90% Efficiency:            [   20.1    ] ft/min    [   6.14    ] m/min
+     Job Summary
+                               	Calculated Paving Speed - 85% Efficiency:            [   21.0    ] ft/min    [   6.42    ] m/min
+          Legal                	Calculated Paving Speed - 80% Efficiency:            [   22.0    ] ft/min    [   6.70    ] m/min
+                               	Calculated Paving Speed - 75% Efficiency:            [   22.9    ] ft/min    [   6.97    ] m/min
+
+
+
+          Exit                      Effective Paving Speed:                          [   18.3    ] ft/min    [   5.58    ] m/min
+
+
+
+The production rate planned for this project is 200 tonnes per hour (220 tons per hour). You have checked the screed laid
+density and can, therefore, accurately calculate the weight of the material laid by the screed. On this project, screed laid
+weight is 2034 kg/m3 (127 lb/ft3). The paving depth is 80 mm (3.15") and the paving width is 3.66 m (12'). The effective
+paving speed is therefore 5.58 meters per minute (18.3' per minute). You now have to confirm that the initial phase
+compactor can keep up with the paver.
+
+
+
+
+                                                                Unit 4: Methods and Specifications |                                   75
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 80 ===
+Methods
+
+
+
+
+      Compaction Calculator
+
+
+
+              Trucking                    Roller Model:          [ Click to Select Another Model ]            [         CB54 XW                ]
+
+            Paver Speed             General Inputs
+                                    	Paving Width:                                                        [   12.00      ] feet            [   3.658        ] meter
+            Compaction
+                                    	Actual Drum Width:                                                   [       79     ] in              [ 200.66 ] cm
+             Windrow                	Amount of Overlap:                                                   [       6.0    ] in              [   15.2         ] cm
+               Yield                	Speed of Vibrator:                                                   [    2520      ] VPM             [   2520         ] VPM
+                                    	Impacts (recommended):                                               [       12     ] per ft          [       38       ] per m
+               Slope
+                                          Number of Passes to Cover Mat Width Once: 			                                                    [        2       ]
+             Thickness
+                                    	Number of Repeated Passes (from test strips):                        			                              [        4       ]
+           Job Summary                    Total Number of Passes:                                         			                              [        9       ]
+
+               Legal                      Roller Efficiency Rate (recommended 75 to 85%):			                                               [       80       ] %
+
+                                                                                                                                                   Effective Paver Speed
+
+                                          Actual Roller Speed:                    [     210       ] fpm           [     64        ] mpm            [    18.3       ] ft/min
+                Exit                      Effective Roller Speed*:                [      19       ] fpm           [     6         ] mpm            [    5.58       ] m/min
+
+                                    * Effective Roller Speed should be at least 100% but no more than 115% of the Effective Paver Speed.           [ % = 104 ]
+
+
+
+
+      The compactor selected for the initial phase has 200 cm (79") wide drums. This compactor can cover the mat in two
+      overlapping passes. On the test strip, four passes were needed to reach minimum acceptance density. The calculator
+      shows that this will be a nine-pass pattern. At an actual working speed of 64 meters per minute (210 feet per minute),
+      the initial phase compactor will match the paving speed. The vibratory frequency has been set at 42 Hz (2520 vibrations
+      per minute). Frequency and working speed in this example combine to create 38 impacts per meter (12 impacts per
+      foot). That impact spacing is ideal for consistent density and smoothness.
+
+
+
+
+76    | Unit 4: Methods and Specifications
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 81 ===
+Methods
+
+
+
+
+The test strip has been successfully completed from
+the standpoint of density measurements taken in
+the field. Cores extracted from the asphalt layer and
+analyzed in a laboratory will confirm the densities
+and allow you to further calibrate the density testing
+gauge, if necessary.
+
+
+
+
+                                                           Cutting cores and lab analysis provide the final confirmation that the test
+                                                           strip test density meets the target.
+
+
+
+
+[ Getting more density on the test strip ]
+If the initial phase compactor using the selected vibratory settings and rolling pattern does not achieve the
+required density, changes will be necessary. Sometimes you can continue working on the same area of the
+test strip if the mat is still hot enough. Following is a list of ways to increase density:
+
+  •   Add more passes. You can add more passes only if you can continue to match the paving speed.
+
+  •   Increase amplitude. If a higher amplitude setting is available and the asphalt layer will accept the
+      additional force without causing drum bounce, select the higher amplitude.
+
+  •   Increase tire pressure or ballast weight. If a pneumatic compactor is used for initial compaction,
+      you should be able to increase the compaction force without damaging the mat.
+
+  •   Use a higher production compactor. If one is available, a compactor with wider drums or
+      higher amplitude may be substituted. A compactor with wider drums may cover the mat in fewer
+      overlapping passes and create a faster pattern that makes it easier to add passes.
+
+  •   Work closer to the paver. By keeping the initial compactor very close to the paver, you will
+      be working on the hottest asphalt. You may have to shorten the length of the rolling pattern to
+      accomplish this.
+
+  •   Slow the working speed of the compactor. A slower working speed delivers more force to the
+      area being covered because the impact spacing is closer. This assumes that the slower speed will
+      still allow the compactor to keep up with the paver.
+
+
+
+
+Summary: Setting up the compaction process and successfully completing test strips require planning and
+gathering data. Assuming a process that was successful on one project will also be successful on another
+project is very risky. True, experience is a good teacher, but there are many variables that affect density.
+Each project deserves a full analysis prior to starting work.
+
+
+
+
+                                                         Unit 4: Methods and Specifications |                                            77
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 82 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 83 ===
+Patterns
+
+
+
+
+Unit 5
+Rolling Patterns
+By using the Cat ® Interactive Production Calculator and creating cooling
+curves, you can plan successful patterns prior to the start of your project.
+
+
+
+
+                                         Unit 5: Rolling Patterns |            79
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 84 ===
+Patterns
+
+
+
+
+       A rolling pattern is a series of movements made         speed and consistent compaction forces should
+       by a compactor or compactors on a freshly-laid,         produce uniform density.
+       uncompacted asphalt layer. The rolling pattern is
+       intended to be consistently repeated in order to        Note: In this manual, the term “pass” shall mean
+       produce uniform density in the asphalt layer.           the movement of the compactor in one direction. In
+                                                               other words, when the compactor begins a pattern
+       The rolling pattern covers a certain area of square     by moving forward from a starting point to a point
+       meters (feet) defined by the length and width of        closer to the paver, that movement is considered
+       the pattern. It is assumed that the thickness of        one pass. When the compactor reverses to return
+       the asphalt layer is relatively consistent from one     to the starting point of the pattern, that movement
+       edge of the mat to the other within the pattern.        is considered another pass.
+       The temperature of the asphalt mix within the
+       rolling pattern will also be reasonably consistent as   Once a rolling pattern has been established, it
+       long as the area covered by the pattern is always       should not be altered unless there are changes
+       in the same relationship to the paver as the paver      in the paving process in front of the compactor,
+       moves forward. Therefore, a rolling pattern with a      changes in the mix formula or changes in climate
+       consistent number of passes, a consistent working       conditions.
+
+
+
+
+                                                  REVERSING
+       Reversing
+
+
+
+          1                 2
+
+
+          3                 4
+
+
+          5
+
+
+
+
+       [ Basic Rolling Pattern ]
+       There are certain techniques that are common to         turns toward the center of the mat and stops slowly
+       any rolling pattern. One technique is stopping and      with both drums turned at least 30º leaving the stop
+       reversing a tandem drum roller at the end of a pass.    mark at an angle to the direction of compaction. The
+                                                               operator reverses in the same path for Pass Two.
+       In the drawing shown above, it is assumed that
+       the mat has two unconfined edges or that there is       Pass Three is down the center of the mat with
+       no adjacent cold mat to roll onto. The compactor        some overlap on the coverage of Passes One and
+       operator must stop and reverse on the hot mat.          Two. Pass Three is longer than Pass One in order
+                                                               to keep up with the paver and to clean up the stop
+       Notice that the first two passes are along one edge     mark left at the end of Pass One.
+       of the mat. At the end of Pass One, the operator
+
+
+
+
+80     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 85 ===
+Patterns
+
+
+
+
+Two initial phase compactors reversing direction behind a paver. Note angled stop.
+
+
+
+
+At the end of Pass Three, the operator turns toward          This pattern results when it takes three overlapping
+the uncompacted edge, being careful to not push              passes to cover the width of the mat and it takes
+out the edge of the mat. Again, the stop mark is             two passes per coverage to create the required
+left at an angle to the direction of compaction. The         density.
+operator reverses in the same path for Pass Four.
+                                                             Initial phase compactors are always stopping to
+Pass Five is along the other unconfined edge with            reverse in proximity to the rear of the paver. There
+some overlap on the coverage of Passes Three and             are no absolute rules that dictate how far behind the
+Four. Pass Five continues through the stop mark              paver the compactor should stop. Workplace safety
+left at the end of Pass Three. At the end of Pass            should be the primary consideration. A reasonable
+Five, the operator turns toward the center of the            guideline would be for the compactor(s) to stop at
+mat leaving an angled stop mark where the next               least 5 m (16') behind the paver. Remember, there
+pattern will clean it up. The operator reverses in the       may be laborers or screed operators working on the
+same path for Pass Six.                                      mat behind the paver.
+
+Pass Seven will reposition the compactor to start
+another pattern. This is called a seven-pass pattern.
+
+
+
+
+User Tip: When stopping a steel drum roller to reverse direction, whether on a hot mat or a cold adjacent
+mat, always shut off the vibratory system as soon as you begin to slow down. Remember, it is important to
+maintain drum impact spacing. As the machine speed decreases, the impacts may be too close together.
+You can manually deactivate the vibratory system or you can select the “AutoVibe” feature that will
+automatically stop and start the vibratory system when the working speed reaches programmed levels.
+
+
+
+
+                                                                                Unit 5: Rolling Patterns |           81
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 86 ===
+Patterns
+
+
+
+
+       Pneumatic compactors are allowed to stop straight on the mat.
+
+
+
+
+       Unlike steel drums, the rubber tires on pneumatic           pneumatic compactor should stop slowly without
+       compactors should not be turned when bringing               turning. There will be a slight stop mark in the mat,
+       the compactor to a stop. Aggressive turns with              but usually the finish roller will clean up those marks
+       pneumatic compactors will tear the mat. The                 completely.
+
+
+
+
+       [ Pattern for Two Unconfined Edges ]
+       In this example, assume that the mat has two                from the low side to the high side tends to build
+       unconfined edges, that the left edge is the centerline      strength in the mat and reduce the amount of mat
+       of the structure and that there is a 2% slope from the      deformation.
+       centerline to the right unconfined edge.
+                                                                   In general, the First Pass along any unconfined
+       When the structure to be compacted has two                  edge should be made with the drum edge at least
+       unconfined edges and a sloped surface, Caterpillar          15 cm (6") away from the edge. The Second Pass,
+       recommends making the first passes along the                typically the return pass in the same coverage area
+       lower edge of the structure. The next series should         as the first pass, should be made with the drum
+       be in the center of the mat. The final passes should        slightly overlapping the edge. This sequence also
+       be along the upper unconfined edge. Compaction              helps minimize mat distortion.
+
+
+
+
+82     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 87 ===
+Patterns
+
+
+
+
+Two Unconfined Edges                        TWO UNCONFINED EDGES
+
+        direction of paving
+
+
+                                                                       #6
+                              #5
+
+slope                                                #4
+                              #3
+
+
+
+                              #1       #2
+
+
+
+
+When compacting unconfined edges, watch for               Pneumatic compactors should not overlap
+cracks in the mat along the drum edge when the            unconfined edges. The rubber tires should be at
+drum edge is set back from the unconfined edge.           least 15 cm (6") away from the unconfined edge to
+Some mixes with large aggregates and low asphalt          avoid rolling over or distorting the edge of the mat.
+cement content will show deep cracks if the edge is
+not overlapped during the first pass.
+
+When cracks appear, immediately change the rolling
+pattern to overlap the unconfined edge with every
+pass along the edge of the mat.
+
+
+
+
+Crack in the mat along drum edge set back from the                     Pneumatic compactors always stay al least 15 cm (6")
+unconfined edge.                                                       from unconfined edges.
+
+
+
+
+                                                                            Unit 5: Rolling Patterns |                        83
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 88 ===
+Patterns
+
+
+
+
+       [ Pattern for One Confined Edge ]
+       In this example, assume that the left edge of           Passes Three and Four will be along the unconfined
+       the mat is matching an adjacent mat along the           edge to build strength and minimize mat
+       centerline of the structure. The adjacent mat           deformation at the unconfined edge.
+       is compacted and is cold. Traffic cones are set
+       adjacent to the centerline edge on the cold mat and     Passes Five and Six are made in the center of the
+       traffic is present on the cold mat. A 2% slope runs     mat. This portion of the mat will be the coolest
+       from the centerline down to the unconfined edge.        by this time, but the center portion of the mat
+       You have two acceptable rolling patterns for this       will have, in effect, two confined edges to aid in
+       application.                                            compaction.
+
+       If there is a joint density specification on the        If there is no joint density specification, then
+       project, then the first pass should be along the left   Passes One and Two can be along the right edge
+       edge of the mat to take advantage of the highest        on the low side of the sloped mat as shown in the
+       mat temperature resulting in the highest joint          illustration for two unconfined edges. The center of
+       density. Both drums should be completely on the         the mat is compacted by Passes Three and Four.
+       hot mat about 15-30 cm (6-12") away from the cold       Finally, the centerline joint is compacted with Pass
+       mat. During Pass Two, the return pass along the left    Five slightly off the joint and Pass Six overlapping
+       edge, the drums should be positioned to overlap         the joint.
+       the hot / cold joint by about 15 cm (6"). The overlap
+       will begin the process of sealing the longitudinal
+       centerline joint.
+
+
+
+
+       One unconfined Edge
+                                                  ONE UNCONFINED EDGE
+               centerline joint
+                                                                                  cold mat
+
+
+                                           #2                                     hot mat
+                                  #1
+
+       slope                                                                 #6
+                                  #5
+
+                                                          #4
+                                  #3
+
+
+
+
+84     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 89 ===
+Patterns
+
+
+
+
+Pneumatic compactors in the intermediate phase are                   There are no drum stop marks in the fresh
+effective at sealing hot / cold longitudinal joints.                 mat when the compactor is able to roll onto
+                                                                     a cold, compacted mat.
+
+
+
+
+All other compactors during intermediate or            The compactor operator must be aware of several
+finish phases may overlap the longitudinal joint.      safety issues when rolling off the hot mat to stop
+The rubber tires of pneumatic compactors are           and reverse. First, there may be traffic using the
+particularly efficient at “pinching” joints. The       adjacent lane. Pilot vehicles may be leading traffic
+pneumatic compactor operator should try to             through the work zone. The operator should never
+straddle the joint with one of the tires.              pull onto the adjacent mat if there is traffic present.
+
+On some projects, the edge of the mat that             Second, there may be workers around the paver. In
+is matching a joint will be adjacent to a cold,        particular, laborers may be raking the joint behind
+compacted mat. Whenever possible, compactor            the paver. Be sure to pull off the mat far enough
+operators should roll off the hot mat and onto the     behind the paver if there are workers present.
+cold mat to stop and reverse direction. By reversing
+direction on the cold mat, there will be no stop
+marks left on the hot asphalt layer and smoothness
+will be improved.
+
+
+
+
+                                                                        Unit 5: Rolling Patterns |                 85
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 90 ===
+Patterns
+
+
+
+
+       [ Pattern Using Emergency Lane for Reversing ]
+       On some projects, the plan calls for the paving             the compactor operator will arc slowly across the
+       width to include an emergency lane (also referred           driving lane and straighten out on the emergency
+       to as a shoulder or breakdown lane) along with              lane with both drums on the emergency lane. The
+       one driving lane. Normally, if the emergency lane           compactor operator will stop straight. Stopping
+       is less than 1.5 m (5') wide, it will be included           straight is generally permitted on emergency lanes
+       in the conventional pattern used by the initial             since there is no smoothness specification for
+       phase compactor. Or, if the emergency lane has a            emergency lanes.
+       separate slope, sometimes the emergency lane will
+       be compacted by a utility compactor and will not be         If a pneumatic compactor is part of the compaction
+       included in the pattern with the driving lane.              train, the pneumatic compactor will continue to
+                                                                   stop straight on the driving lane and will not turn
+       However, if the emergency lane is at least 1.5 m            off onto the emergency lane. The finish compactor
+       (5') wide, the emergency lane can be included in            should use the emergency lane for stopping and
+       the initial phase pattern and can be used for all           reversing, too.
+       compactor stopping and reversing.
+
+       The rolling pattern will resemble a series of half
+       circles. After each pass, forward and backward,
+
+
+
+
+       Reversing on Emergency Lane
+                                            REVERSING ON EMERGENCY LANE
+                                                       213 cm (84’’) drum width
+
+
+
+
+                                                                              #4
+                                #3
+
+                                                            #2
+                                #1
+
+
+                                #5
+
+
+
+
+86     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 91 ===
+Patterns
+
+
+
+
+[ Echelon Compaction Patterns ]
+On some projects, two or more compactors may                   passes to bring density up to required levels.
+                                                               In that situation, the pattern needed for one
+operate in the initial compaction position directly
+                                                               compactor will cause that compactor to fall
+behind the paver. For the following reasons, an                behind the paver.
+echelon pattern should be selected.
+                                                            • Limited time for initial compaction. The
+ • Wide width paving. When the paving width                   time available for initial compaction may be
+   exceeds 6 m (20'), it is unlikely that one                 limited by the thickness of the mat, ambient
+   compactor will be able to cover the paving                 temperature, or the appearance of a tender
+   width in three or fewer passes. Therefore, in              zone in the mat. Sometimes, more than one
+   general, one initial compactor will not be able to         initial compactor is needed to cope with rapid
+   match the paver production.                                temperature loss and a short opportunity to get
+ • Stiff mix requiring many passes. Some mix                  initial density.
+   designs, especially those including modified
+   asphalt cement, are very stiff and require many
+
+
+
+
+Initial Phase — Pass One
+                     INITIAL PHASE — PASS ONE
+
+                                             45 m (150’)
+
+           15 cm (6’’)
+
+
+
+            roller one
+
+
+
+                                           uncompacted                                 7.3 m (24’)
+
+
+
+
+            roller two
+
+
+           15 cm (6’’)
+
+
+
+
+In the first example, assume that the paver is laying      unconfined edge. Roller Two begins just after Roller
+down 275 tonnes per hour (300 tons per hour) at            One and operates along the right edge, also staying
+a width of 7.3 m (24') and at a depth of 50 mm             away from the unconfined edge. Roller One comes
+(2"). The effective paving speed is 6 meters per           to a slow stop at an angle in the center of the mat
+minute (20 feet per minute). There are two 200 cm          and reverses. Roller Two moves slightly past the
+(79") wide tandem drum rollers available for initial       Roller One stop and also turns toward the center
+compaction. It takes two passes to bring density to        and reverses.
+the compaction target of the initial phase.
+
+Roller One starts first along the left edge with the
+outer drum edge about 15 cm (6") away from the
+
+
+
+
+User Tip: When employing an echelon pattern, the lead roller should be far enough in front of the second
+roller that the operator can complete the stop and reverse maneuver before the second roller starts to turn
+and reverse.
+
+
+
+
+                                                                           Unit 5: Rolling Patterns |             87
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 92 ===
+Patterns
+
+
+
+
+       Initial Phase — Pass Two
+                                             INITIAL PHASE — PASS TWO
+
+                                                          45 m (150’)
+                            15 cm (6’’)
+
+
+                                                                                                 roller two
+
+
+
+
+                                                       uncompacted                                            7.3 m (24’)
+
+
+                                                                                                 roller one
+
+
+
+
+                            15 cm (6’’)
+
+
+
+       During Pass Two, the return to the starting point,        to make the stop and reverse. At this point, the
+       Roller One is in the lead with Roller Two slightly        outside edges of the mat have been compacted
+       behind. During Pass Two, the outer drums slightly         twice. There is a strip in the center of the mat that
+       overlap the unconfined edges. Again, both                 is about 3.5 m (11.5') wide.
+       compactors turn toward the center of the mat
+
+
+
+
+       Initial Phase — Pass Three
+                              INITIAL PHASE — PASS THREE
+
+                                                        45 m (150’)
+
+
+
+
+          roller two
+
+
+
+                                                                                                          7.3 m (24’)
+
+                       roller one
+
+
+
+
+       For Pass Three, Roller One goes first and operates        Roller Two is slightly behind and operates on the
+       on the left center of the mat with a slight overlap       right center portion of the mat with the right drum
+       of the left drum edge onto the area covered in the        edge slightly overlapping onto the area covered in
+       first two passes. Roller One will pass straight over      the first two passes. Roller Two will clean up the
+       the drum stop mark left by Roller Two, moving             first stop mark left by Roller One, continue forward
+       forward about 8 m (25') past the stop mark before         another 8 m (25') past the stop mark and turn toward
+       turning toward the right edge to stop and reverse.        the left edge to stop and reverse.
+
+
+
+
+88     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 93 ===
+Patterns
+
+
+
+
+Initial Phase — Pass FourPHASE — PASS FOUR
+                   INITIAL
+
+                                              45 m (150’)
+
+
+
+
+                                                                                                 roller two
+
+
+                                                                                                        7.3 m (24’)
+
+
+
+
+                                                                                          roller one
+
+
+
+
+During Pass Four, the two compactors return in the            they roll straight through the stop marks they left at
+same area back to the starting point with Roller One          the end of Pass Two before stopping and reversing.
+slightly ahead of Roller Two. It is recommended that
+
+
+
+
+Stopping to reverse repeatedly in the same area will overwork the fresh asphalt.
+
+
+
+User Tip: Whenever possible, use a pattern that cleans up compactor stop marks. Do not stop and reverse
+in the same area. Stopping and reversing in the same area can distort the mat and create bumps that cannot
+be cleaned up. While it is most important to avoid stopping in the same area when the compactors move
+forward and reverse on the hot mat behind the paver, it is also a good practice to stagger the stop marks at
+the end of the return passes.
+
+
+
+
+                                                                                   Unit 5: Rolling Patterns |            89
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 94 ===
+Patterns
+
+
+
+
+       Pass Five will be a static pass moving forward          should be a new pattern area about 36 m (120') long
+       toward the paver. Both compactor operators should       in front of the old pattern.
+       position their machines along the edges of the
+       fresh mat and start the vibrator systems when the
+       compactors enter the uncompacted zones. There
+
+
+
+
+       User Tip: If the new pattern is too short, in other words, the paver has not moved far enough forward, the
+       compactor operators should reduce their working speeds during Pass Five. Pass Five is done in the static
+       mode so there is no concern about drum impact spacing. Reduce the compactor speed, but never park on
+       the fresh mat.
+
+
+
+
+       User Tip: Sometimes the area left uncompacted in the center of the mat is relatively narrow. In that
+       situation, there will be a large overlap between the drums of the two compactors in the center of the
+       mat. Because a lot of the drum surface will be vibrating on an already dense mat, there is likelihood that
+       the drums will bounce. The operators should be ready to reduce the amount of force being delivered by
+       operating with one drum vibrating and one drum static.
+
+
+
+
+90     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 95 ===
+Patterns
+
+
+
+
+[ Echelon Pattern with two rollers ]
+Next, let’s look at an echelon pattern using two             reach target density for the initial phase. Compactor
+compactors on a mat that is 4.6 m (15') wide. The            working speed is 70 meters per minute (230 feet
+paver is laying down 360 tonnes per hour (400 tons           per minute). Vibratory frequency is 42 Hz (2520
+per hour) at a loose depth of 76 mm (3"). A material         vibrations per minute). The impact spacing is
+transfer device is feeding mix to the paver and the          therefore 36 impacts per meter (11 impacts per
+paving speed is 9 meters per minute (29 feet per             foot).
+minute). The density of the mat passing under the
+vibratory screed is 80% of theoretical maximum               The temperature of the asphalt layer as it passes
+density.                                                     under the screed is consistently around 150º C
+                                                             (300º F). When the mat cools to around 115ºC
+On the test strip, you verified that it takes four           (240º F), it becomes tender. The tenderness
+vibratory passes at medium-high amplitude to                 persists until the mat has cooled to 85º C (185º F).
+
+
+
+
+  Start Date/Time        [ 7/3/2011 ▼ ]   [ 7:08 AM ]      HMA temperature, ºC
+                                                            160
+ Environmental Conditions                                                                              cooling curve
+	Air Temperature: [ 15.6 ] °C                               150                                        start temp/time
+       Wind Speed: [ 8 ] km/h                                                                          stop temp/time
+	Sky: [ Clear & Dry ▼ ]                                     140
+	Latitude: [ 45 ] °N
+                                                            130
+ Mix Specifications                                         120
+            Mix Type: [ Fine/Dense Graded ▼ ]
+    Binder Grade, PG: [ 64 ▼ ] [ -28 ▼ ]                    110
+	Lift Thickness: [ 76 ] mm
+Delivery Temperature: [ 149 ] °C                            100
+
+                                                             90
+  Existing Surface
+        Material Type: [ AC ▼ ]                              80
+   Material Condition: [ - ▼ ] [ - ▼ ]
+	Surface Temperature: [ 15.6 ] °C                            70
+
+Recommended Times                                            60
+                                                                  0      20      40       60      80        100     120
+	Start Rolling: [ 13 ] minutes after laydown
+	Stop Rolling: [ 45 ] minutes after laydown                                           time, minutes
+  Units      SI	     English
+
+
+
+The cooling curve shows that at the start of the shift with the ambient temperature about 16º C (61º F), there are 13
+minutes available for compaction behind the paver in the initial phase before the mat becomes tender. The tenderness
+lasts another 32 minutes. Intermediate and finish phases of compaction can start 45 minutes behind the paver. The
+more important problem is to determine if the initial phase can be accomplished in less than 13 minutes using two
+compactors.
+
+
+
+
+                                                                               Unit 5: Rolling Patterns |                 91
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 96 ===
+Patterns
+
+
+
+
+       Initial Phase — Pass One
+                                           INITIAL PHASE — PASS ONE
+
+                                                         45 m (150’)
+
+                 15 cm (6’’)
+                                              average time to complete: 50 seconds
+                                                   running time: 50 seconds
+                  roller one
+
+
+
+                                                                                                            4.6 m (15’)
+
+
+
+
+                  roller two
+
+
+                 15 cm (6’’)
+
+
+
+
+       The first pass in the initial phase of compaction is about 45 m (150') long. Roller One starts first and compacts the
+       area along the left edge with the drum edge set back about 15 cm (6") from the edge. Roller Two is slightly behind and
+       is compacting the area along the right side of the mat with the drum set away from the edge. Both compactors turn
+       toward the center of the mat to stop and reverse directions. As soon as Roller Two completes its reversing maneuver,
+       both compactors start the second pass. At a working speed of 70 meters per minute (230 feet per minute), Pass One
+       consumes 50 seconds.
+
+       Note: When calculating the time it takes a compactor to complete a pass, use an efficiency factor of 75%. It accounts
+       for the time spent slowing the compactor and coming to an angled stop prior to reversing.
+
+
+
+
+       Initial Phase — Pass Two
+                            INITIAL PHASE — PASS TWO
+
+                                                         45 m (150’)
+                 15 cm (6’’)
+
+                                              average time to complete: 50 seconds
+                                                   running time: 1:40 minutes
+
+
+
+
+                                                                                                            4.6 m (15’)
+
+
+
+
+                 15 cm (6’’)
+
+
+
+
+       During the second pass, both compactors’ drums are set to slightly overlap the edges. Roller Two is in the lead on the
+       return pass and both rollers turn to the center to reverse direction. The second pass takes another 50 seconds. Total
+       running time is 1 minute and 40 seconds.
+
+
+
+
+92     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 97 ===
+Patterns
+
+
+
+
+Initial Phase — Pass Three
+                      INITIAL PHASE — PASS THREE
+
+                                                    55 m (180’)
+
+
+                                         average time to complete: 60 seconds
+                                              running time: 2:40 minutes
+
+
+
+
+                                                                                                       4.6 m (15’)
+
+
+
+
+During Pass Three, Roller One goes back in the lead and extends the pattern length by another 10 m (30') in order to roll
+past the previous stop marks and to move the pattern closer to the paver. This pass will consume about 60 seconds and
+the total running time is 2 minutes and 40 seconds.
+
+
+
+
+Initial Phase — Pass Four
+                      INITIAL PHASE — PASS FOUR
+
+                                                    61 m (200’)
+
+
+                                         average time to complete: 65 seconds
+                                              running time: 3:45 minutes
+
+
+
+
+                                                                                                       4.6 m (15’)
+
+
+
+
+During Pass Four, both compactors return back along the edges. The pattern increases a little in length as both
+compactors work past the previous stop marks. Now, the right edge and left edge of the mat have been rolled four
+times, the number of passes verified by the test strip. The running time is at 3 minutes and 45 seconds. A strip about
+1.3 m (52") wide remains in the center of the mat. Since the drum width of the two compactors is 1.7 m (67"), the two
+compactors can now operate in single file to complete coverage of the mat.
+
+
+
+
+                                                                                 Unit 5: Rolling Patterns |                 93
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 98 ===
+Patterns
+
+
+
+
+       Initial Phase — PassINITIAL
+                            Five PHASE — PASS FIVE
+
+                                                        70 m (230’)
+
+
+                                             average time to complete: 1:15 minutes
+                                                  running time: 5:00 minutes
+
+
+
+
+                                                                                                               4.6 m (15’)
+
+
+
+
+       The width of the uncompacted area is slightly less than the width of the drums so there is a small overlap on both sides
+       of the drum. Since there is a small overlap, there is less need to worry about drums bouncing on the denser portion of
+       the mat. Roller One and Roller Two turn toward the edges of the mat at the end of the pass. This pass is again slightly
+       longer to keep up with the paver’s progress. Pass Five will take 1 minute and 15 seconds for a running time of 5 minutes
+       at this point.
+
+
+
+
+       Initial Phase — PassINITIAL
+                            Six PHASE — PASS SIX
+
+                                                         80 m (260’)
+
+
+                                             average time to complete: 1:25 minutes
+                                                  running time: 6:25 minutes
+
+
+
+
+                                                                                                               4.6 m (15’)
+
+
+
+
+       Both compactors come back down the center of the mat in single file during Pass Six. They roll a little farther back
+       through their stop marks. At this point, every part of the asphalt layer has had four vibratory passes. Density should be
+       consistent across the width and length of the pattern. The running time is 6 minutes and 25 seconds.
+
+
+
+
+94     | Unit 5: Rolling Patterns
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 99 ===
+Patterns
+
+
+
+
+Initial Phase — Pass  Seven
+                 INITIAL PHASE — PASS SEVEN
+
+                                           80 m (260’)
+
+
+                                average time to complete: 1:25 minutes
+                                     running time: 7:50 minutes
+
+
+
+
+                                                                                               4.6 m (15’)
+
+
+
+
+The last pass, Pass Seven, will be completed in the static mode as both compactors reposition themselves along the
+edges of the mat to start a new pattern. A little less than 8 minutes has been used by the two compactors assigned to
+the initial phase of compaction. Their pattern will stay well ahead of the tender zone.
+
+
+
+
+Note: The examples shown in this section illustrate two-compactor echelon patterns. Three-compactor
+echelon patterns are used less frequently but may be needed on wide-width paving applications using hard-
+to-compact, stiff mixes.
+
+
+Summary: Compactor operators and quality control personnel should understand how to set up rolling
+patterns that accomplish three goals. First is to achieve the specified density. Second is to match the
+production rate of the paver. Third is to create patterns that take advantage of opportunities to ensure mat
+smoothness. By using the Cat Interactive Production Calculator and creating cooling curves, you can plan
+successful patterns prior to the start of the project.
+
+
+
+
+                                                                                Unit 5: Rolling Patterns |              95
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 100 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+

@@ -32,6 +32,16 @@ The six units follow A1–A6 in the SkilledTradesBC Asphalt Paving/Laydown Techn
 
 Use the [complete nine-skills books](../skills-for-success/README.md) for explicit instruction, entry routes, fresh practice, assessment records and the Digital practice desk. Their chapters teach Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation.
 
+## Machine parts, CAT manuals and WHMIS
+
+[Visual parts atlas](caterpillar/parts-atlas.html) · [Search 22 CAT publications](caterpillar/index.html) · [Smaller ZIP downloads](caterpillar/downloads.html) · [WHMIS and hazard symbols](whmis/index.html)
+
+The CAT collection adds 1,883 source pages in 88 native PDF parts, each at most 25 pages and 10 MiB. The illustrated atlas contains 20 source figures and 89 named components, with complete legends for the selected conveyor, track, roller-control and loader-linkage diagrams. Ten identification tasks and separate answers connect the pictures to all nine Skills for Success.
+
+The WHMIS collection includes the official symbols as SVG, PNG and EPS, seven source PDFs, complete CAT warning pages, a visual reference and six practice tasks. Current CCOHS sheets are distinguished from the historical 2019 WorkSafeBC books.
+
+Use these in A1/A3 equipment vocabulary, selected B1 safety-orientation preparation and later I2/J1/L1 identification work. [Exact-machine coverage and remaining manuals](caterpillar/coverage.md) records the model/serial information needed to obtain every part diagram for the training fleet.
+
 ## Specifications and equipment manuals
 
 - [Specifications workshop](specifications/README.md): work with the 2006 Design Build Standard Specifications through asphalt document-reading and decision exercises.

@@ -72,3 +72,16 @@ Use the complete [Understanding asphalt learner book](ms-4/concepts/index.html) 
 | Explain, test and revise an information aid | MS4-11–MS4-12: compare two designs, test with a reader, respond to a changed brief | Communication, Collaboration, Adaptability, Creativity and Innovation; actual Digital actions when performed |
 
 The six redraws cite the exact source figures/pages, state the changes and retain original contributor credits. These concept lessons support the occupational route; the [68-competency register](line-a/competency-status.md) continues to identify later technical units that still need authoring and practical assessment.
+
+## Machine identification and WHMIS classroom route
+
+Use the [20-figure CAT parts atlas](caterpillar/parts-atlas.html) with its [ten tasks](caterpillar/practice.html) and [separate answer guide](caterpillar/teaching-guide.html). The 22-publication source library supplies full original page sequences and smaller PDF parts. Use the [WHMIS reference](whmis/index.html), [six tasks](whmis/practice.html) and [answers](whmis/teaching-guide.html) for product identity, symbol reading and SDS navigation.
+
+| Trade preparation | Complete classroom work | Evidence |
+|---|---|---|
+| A1/A3 equipment vocabulary; later I2 paver and J1 screed identification | CAT-ID-01–02, 05, 08; atlas paver, feeder, auger, screed and sensor figures | Located callout, exact part name, purpose and checked explanation |
+| Later L1 compaction-equipment identification | CAT-ID-04; all 19 controls in the stated roller manual, plus full warning pages | Corrected control mismatch, retained model and optional-equipment conditions |
+| B1 safety-orientation preparation | WH-01–06; official pictograms, label/SDS reading and machine-warning comparison | Product/source match, section lookup, checked message and revised briefing |
+| Document use across the equipment pathway | CAT-ID-03, 06–07, 09–10 | Checked counts, saved/reopened source note, revised machine record and tested learning card |
+
+The identification tasks do not supply a complete later technical unit or practical assessment. For actual equipment, obtain the model/serial-specific operation manual and complete parts catalogue; [coverage and outstanding identity fields](caterpillar/coverage.md) are recorded explicitly. Public parts reference guides contain selected parts. The two acquired roller OMMs cover only their stated model/serial ranges.

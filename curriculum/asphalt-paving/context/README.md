@@ -1,6 +1,6 @@
 # Asphalt PDF context library
 
-**58 PDF paths · 57 unique PDFs · 2,353 original pages · 107 PDF chunks and 107 text extracts.**
+**159 PDF paths · 158 unique PDFs · 4,508 original pages · 215 PDF chunks and 215 text extracts.**
 
 Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **11,682,239 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
@@ -14,9 +14,9 @@ The complete **834-page MS-4 seventh-edition scan** is available as [searchable 
 
 Start with the source title and original PDF page range. Open the chunk PDF to inspect the actual page, then use its text file to search or provide smaller context. Text headings preserve the original one-based viewer page number. Printed page labels inside the document can differ. Tables, columns, symbols and diagrams may not extract faithfully; the PDF remains the visual reference.
 
-MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **9**; sparse-text page count: **34**.
+MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **69**; sparse-text page count: **72**.
 
-Internal page-link annotations and original outlines are omitted from chunks so a link cannot point to a missing page. External URI links are retained. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
+New context splits omit internal page links and original outlines; external URI links remain. MS-4 and CAT source parts are reused directly. CAT parts retain valid in-part destinations; destinations outside a source part may be omitted. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
 
 ## Original documents and chunks
 
@@ -430,6 +430,962 @@ Identical aliases:
 | 401–425 | [PDF](chunks/design-build-standard-specs-2006-0e57525e9003/p0401-0425.pdf) | [Text](chunks/design-build-standard-specs-2006-0e57525e9003/p0401-0425.txt) | 847,803 | extracted |
 | 426–441 | [PDF](chunks/design-build-standard-specs-2006-0e57525e9003/p0426-0441.pdf) | [Text](chunks/design-build-standard-specs-2006-0e57525e9003/p0426-0441.txt) | 526,634 | extracted |
 
+### WHMIS — General
+
+**PDF-74af791a2e52** · original-source · 9 pages · original SHA-256 `74af791a2e52388a1157953617aaabe3b23d207dfeed419190cecdd3f002025a`
+
+Original: [curriculum/asphalt-paving/whmis/sources/ccohs-general.pdf](../whmis/sources/ccohs-general.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–9 | [PDF](chunks/ccohs-general-74af791a2e52/p0001-0009.pdf) | [Text](chunks/ccohs-general-74af791a2e52/p0001-0009.txt) | 160,291 | extracted |
+
+### WHMIS — Labels
+
+**PDF-07dc68a882d8** · original-source · 11 pages · original SHA-256 `07dc68a882d81a39720fdcf3a84b2961f2d84e704c1f4f224263cdec063cc925`
+
+Original: [curriculum/asphalt-paving/whmis/sources/ccohs-labels.pdf](../whmis/sources/ccohs-labels.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](chunks/ccohs-labels-07dc68a882d8/p0001-0011.pdf) | [Text](chunks/ccohs-labels-07dc68a882d8/p0001-0011.txt) | 205,007 | extracted |
+
+### WHMIS — Pictograms
+
+**PDF-8bf7192da57a** · original-source · 7 pages · original SHA-256 `8bf7192da57a59749f15dc365015dcd9bdd18a595162edbf223756fb4b4a5546`
+
+Original: [curriculum/asphalt-paving/whmis/sources/ccohs-pictograms.pdf](../whmis/sources/ccohs-pictograms.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](chunks/ccohs-pictograms-8bf7192da57a/p0001-0007.pdf) | [Text](chunks/ccohs-pictograms-8bf7192da57a/p0001-0007.txt) | 207,015 | extracted |
+
+### WHMIS — Safety Data Sheet (SDS)
+
+**PDF-aa94dfe4de7f** · original-source · 13 pages · original SHA-256 `aa94dfe4de7f47dcdd83c84e8969259221c0ed2bebf537f914bb41df7a6a530e`
+
+Original: [curriculum/asphalt-paving/whmis/sources/ccohs-sds.pdf](../whmis/sources/ccohs-sds.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–13 | [PDF](chunks/ccohs-sds-aa94dfe4de7f/p0001-0013.pdf) | [Text](chunks/ccohs-sds-aa94dfe4de7f/p0001-0013.txt) | 166,512 | extracted |
+
+### WHMIS — Education and Training
+
+**PDF-442558ea36da** · original-source · 6 pages · original SHA-256 `442558ea36da44ba9dac5b71aff3867d435229a7aac739cd8894af0fb39f412c`
+
+Original: [curriculum/asphalt-paving/whmis/sources/ccohs-training.pdf](../whmis/sources/ccohs-training.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–6 | [PDF](chunks/ccohs-training-442558ea36da/p0001-0006.pdf) | [Text](chunks/ccohs-training-442558ea36da/p0001-0006.txt) | 129,670 | extracted |
+
+### WHMIS 2015: At Work
+
+**PDF-c4cbc293f59b** · original-source · 104 pages · original SHA-256 `c4cbc293f59b6b5bbf30e24df467d5ff7df87d2054f936263c8b5421a0b743bc`
+
+Original: [curriculum/asphalt-paving/whmis/sources/worksafebc-whmis-at-work.pdf](../whmis/sources/worksafebc-whmis-at-work.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0001-0025.pdf) | [Text](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0001-0025.txt) | 692,299 | No OCR; empty: 10,20 |
+| 26–50 | [PDF](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0026-0050.pdf) | [Text](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0026-0050.txt) | 672,722 | No OCR; empty: 38 |
+| 51–75 | [PDF](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0051-0075.pdf) | [Text](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0051-0075.txt) | 666,448 | No OCR; empty: 54 |
+| 76–100 | [PDF](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0076-0100.pdf) | [Text](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0076-0100.txt) | 185,897 | No OCR; empty: 76,84,96 |
+| 101–104 | [PDF](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0101-0104.pdf) | [Text](chunks/worksafebc-whmis-at-work-c4cbc293f59b/p0101-0104.txt) | 113,450 | No OCR; empty: 103 |
+
+### WHMIS 2015: The Basics
+
+**PDF-8fcbecccc004** · original-source · 68 pages · original SHA-256 `8fcbecccc004741421f580e98850e6e78901c7e178038d0aa9ba603eda59c6e0`
+
+Original: [curriculum/asphalt-paving/whmis/sources/worksafebc-whmis-basics.pdf](../whmis/sources/worksafebc-whmis-basics.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/worksafebc-whmis-basics-8fcbecccc004/p0001-0025.pdf) | [Text](chunks/worksafebc-whmis-basics-8fcbecccc004/p0001-0025.txt) | 649,351 | No OCR; empty: 8,10,18 |
+| 26–50 | [PDF](chunks/worksafebc-whmis-basics-8fcbecccc004/p0026-0050.pdf) | [Text](chunks/worksafebc-whmis-basics-8fcbecccc004/p0026-0050.txt) | 470,340 | extracted |
+| 51–68 | [PDF](chunks/worksafebc-whmis-basics-8fcbecccc004/p0051-0068.pdf) | [Text](chunks/worksafebc-whmis-basics-8fcbecccc004/p0051-0068.txt) | 206,561 | No OCR; empty: 67 |
+
+### Articulated Trucks — Parts Reference Guide · complete source PDF pages 1–11
+
+**PDF-241069cf5003** · manufacturer-original · 11 pages · original SHA-256 `241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/articulated-truck-parts/p0001-0011.pdf](../caterpillar/sources/articulated-truck-parts/p0001-0011.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](../caterpillar/sources/articulated-truck-parts/p0001-0011.pdf) | [Text](chunks/p0001-0011-241069cf5003/p0001-0011.txt) | 1,210,376 | extracted |
+
+### Guide to Attachment Operations · complete source PDF pages 1–25
+
+**PDF-5d7edf45cd00** · manufacturer-original · 25 pages · original SHA-256 `5d7edf45cd00156b6dca3b3099ec5c9c55d536a4244485f406cab1d358173b7b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/attachment-operations/p0001-0025.pdf](../caterpillar/sources/attachment-operations/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/attachment-operations/p0001-0025.pdf) | [Text](chunks/p0001-0025-5d7edf45cd00/p0001-0025.txt) | 6,327,236 | extracted |
+
+### Guide to Attachment Operations · complete source PDF pages 26–44
+
+**PDF-891d1ea411b8** · manufacturer-original · 19 pages · original SHA-256 `891d1ea411b8a3cedd6e5c974eecd0457a136d97ae35e9b96711e820d4b916f1`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/attachment-operations/p0026-0044.pdf](../caterpillar/sources/attachment-operations/p0026-0044.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–19 | [PDF](../caterpillar/sources/attachment-operations/p0026-0044.pdf) | [Text](chunks/p0026-0044-891d1ea411b8/p0001-0019.txt) | 4,069,827 | extracted |
+
+### F Series Backhoe Loader — Parts Reference Guide · complete source PDF pages 1–5
+
+**PDF-fb4c8cef3904** · manufacturer-original · 5 pages · original SHA-256 `fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/backhoe-f-parts/p0001-0005.pdf](../caterpillar/sources/backhoe-f-parts/p0001-0005.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–5 | [PDF](../caterpillar/sources/backhoe-f-parts/p0001-0005.pdf) | [Text](chunks/p0001-0005-fb4c8cef3904/p0001-0005.txt) | 1,298,436 | extracted |
+
+### CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual · complete source PDF pages 1–25
+
+**PDF-552758ff8f4f** · manufacturer-original · 25 pages · original SHA-256 `552758ff8f4f0f6e83c46e76ba8f8e57f722bb1e3db0bd5097242d59a9ad3bf8`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0001-0025.pdf](../caterpillar/sources/cb-series-manual/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cb-series-manual/p0001-0025.pdf) | [Text](chunks/p0001-0025-552758ff8f4f/p0001-0025.txt) | 1,328,966 | extracted |
+
+### CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual · complete source PDF pages 26–50
+
+**PDF-46323ca62938** · manufacturer-original · 25 pages · original SHA-256 `46323ca6293859212290772b67e43d560939017b582f49df1f7c7f4df41fecb5`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0026-0050.pdf](../caterpillar/sources/cb-series-manual/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cb-series-manual/p0026-0050.pdf) | [Text](chunks/p0026-0050-46323ca62938/p0001-0025.txt) | 604,187 | extracted |
+
+### CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual · complete source PDF pages 51–75
+
+**PDF-cd1af74f9aac** · manufacturer-original · 25 pages · original SHA-256 `cd1af74f9aacc9ee19b1dea202f28c8dad366a78300214e751edd9069286b9fc`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0051-0075.pdf](../caterpillar/sources/cb-series-manual/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cb-series-manual/p0051-0075.pdf) | [Text](chunks/p0051-0075-cd1af74f9aac/p0001-0025.txt) | 673,312 | extracted |
+
+### CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual · complete source PDF pages 76–100
+
+**PDF-ab51eb0958cd** · manufacturer-original · 25 pages · original SHA-256 `ab51eb0958cd6e1446d2ded15d11364fa773a115a1100d74561c01ca6899105a`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0076-0100.pdf](../caterpillar/sources/cb-series-manual/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cb-series-manual/p0076-0100.pdf) | [Text](chunks/p0076-0100-ab51eb0958cd/p0001-0025.txt) | 1,258,286 | No OCR; empty: 25 |
+
+### CB-214E, CB-224E, CB-225E Paving Compactors — Operation and Maintenance Manual · complete source PDF pages 101–102
+
+**PDF-5ec92422c25a** · manufacturer-original · 2 pages · original SHA-256 `5ec92422c25a4f98fe1243aa4fb3c709bd3857be96abcc260feee3640baf35e1`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cb-series-manual/p0101-0102.pdf](../caterpillar/sources/cb-series-manual/p0101-0102.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../caterpillar/sources/cb-series-manual/p0101-0102.pdf) | [Text](chunks/p0101-0102-5ec92422c25a/p0001-0002.txt) | 65,698 | extracted |
+
+### Cold Planer Parts Reference Guide · complete source PDF pages 1–25
+
+**PDF-4849cc5bc3bf** · manufacturer-original · 25 pages · original SHA-256 `4849cc5bc3bfd29629f3479d494b99add5e909bf8184840afbfd2a915731255c`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cold-planer-parts-official/p0001-0025.pdf](../caterpillar/sources/cold-planer-parts-official/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cold-planer-parts-official/p0001-0025.pdf) | [Text](chunks/p0001-0025-4849cc5bc3bf/p0001-0025.txt) | 3,268,052 | No OCR; empty: 2 |
+
+### Cold Planer Parts Reference Guide · complete source PDF pages 26–50
+
+**PDF-f857ef683b86** · manufacturer-original · 25 pages · original SHA-256 `f857ef683b86a99514399a69e1c0df4e9c4c5f8edb1a03c24e3ffd9549eb237e`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cold-planer-parts-official/p0026-0050.pdf](../caterpillar/sources/cold-planer-parts-official/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/cold-planer-parts-official/p0026-0050.pdf) | [Text](chunks/p0026-0050-f857ef683b86/p0001-0025.txt) | 2,004,114 | extracted |
+
+### Cold Planer Parts Reference Guide · complete source PDF pages 51–52
+
+**PDF-f511957713f5** · manufacturer-original · 2 pages · original SHA-256 `f511957713f583acb3cef30b9218c42bde5909620bdb2aa840d6f4d585fe71c0`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/cold-planer-parts-official/p0051-0052.pdf](../caterpillar/sources/cold-planer-parts-official/p0051-0052.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../caterpillar/sources/cold-planer-parts-official/p0051-0052.pdf) | [Text](chunks/p0051-0052-f511957713f5/p0001-0002.txt) | 117,675 | extracted |
+
+### D1/D2/D3 Small Dozer — Parts Reference Guide · complete source PDF pages 1–9
+
+**PDF-9849b1c0630e** · manufacturer-original · 9 pages · original SHA-256 `9849b1c0630e78d0e56ca76f99609626594ce38080f091832f5e0135fefde0ae`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/dozer-parts/p0001-0009.pdf](../caterpillar/sources/dozer-parts/p0001-0009.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–9 | [PDF](../caterpillar/sources/dozer-parts/p0001-0009.pdf) | [Text](chunks/p0001-0009-9849b1c0630e/p0001-0009.txt) | 1,314,040 | No OCR; empty: 6 |
+
+### Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers · complete source PDF pages 1–25
+
+**PDF-67a2e43be987** · manufacturer-original · 25 pages · original SHA-256 `67a2e43be987eb0bb0827cb16b4be752363e5af15503fa0e3beca119470e84e3`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0001-0025.pdf](../caterpillar/sources/f-series-paver-handbook/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/f-series-paver-handbook/p0001-0025.pdf) | [Text](chunks/p0001-0025-67a2e43be987/p0001-0025.txt) | 1,738,491 | extracted |
+
+### Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers · complete source PDF pages 26–50
+
+**PDF-6d361a7cf09c** · manufacturer-original · 25 pages · original SHA-256 `6d361a7cf09c03ee40339fa191c226175d403d0703477a5f10924c29eaaea90e`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0026-0050.pdf](../caterpillar/sources/f-series-paver-handbook/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/f-series-paver-handbook/p0026-0050.pdf) | [Text](chunks/p0026-0050-6d361a7cf09c/p0001-0025.txt) | 1,878,182 | extracted |
+
+### Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers · complete source PDF pages 51–75
+
+**PDF-c1e8dd6626e5** · manufacturer-original · 25 pages · original SHA-256 `c1e8dd6626e51971068c60e7f33e88b92f1c8e8de0dc18fb5f922006aa1e35dd`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0051-0075.pdf](../caterpillar/sources/f-series-paver-handbook/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/f-series-paver-handbook/p0051-0075.pdf) | [Text](chunks/p0051-0075-c1e8dd6626e5/p0001-0025.txt) | 1,641,416 | extracted |
+
+### Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers · complete source PDF pages 76–100
+
+**PDF-f9c69b70b383** · manufacturer-original · 25 pages · original SHA-256 `f9c69b70b383dcafffdaf52f0d6727b85f11128e3329a3f3377b4103750f828b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0076-0100.pdf](../caterpillar/sources/f-series-paver-handbook/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/f-series-paver-handbook/p0076-0100.pdf) | [Text](chunks/p0076-0100-f9c69b70b383/p0001-0025.txt) | 1,661,056 | extracted |
+
+### Asphalt Paver Handbook for Cat F Series Large Asphalt Pavers · complete source PDF pages 101–104
+
+**PDF-d325ea96b86f** · manufacturer-original · 4 pages · original SHA-256 `d325ea96b86fe82ae96e9fe375e4865051b66a4257f47fd306241ad3021e75fa`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/f-series-paver-handbook/p0101-0104.pdf](../caterpillar/sources/f-series-paver-handbook/p0101-0104.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](../caterpillar/sources/f-series-paver-handbook/p0101-0104.pdf) | [Text](chunks/p0101-0104-d325ea96b86f/p0001-0004.txt) | 157,288 | extracted |
+
+### Guide to Asphalt Compaction · complete source PDF pages 1–25
+
+**PDF-dd8e5a102329** · manufacturer-original · 25 pages · original SHA-256 `dd8e5a102329a96c3d3d9d42736ca3a794d3e4627d897fe200d9540ab9fd03b2`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0001-0025.pdf](../caterpillar/sources/guide-asphalt-compaction/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0001-0025.pdf) | [Text](chunks/p0001-0025-dd8e5a102329/p0001-0025.txt) | 2,756,258 | No OCR; empty: 2,3,4,8,10,16 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 26–50
+
+**PDF-28df22b1f988** · manufacturer-original · 25 pages · original SHA-256 `28df22b1f988cca48ec642d68daab38b6efd5ef1f955de80d4190c07d2fd075a`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0026-0050.pdf](../caterpillar/sources/guide-asphalt-compaction/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0026-0050.pdf) | [Text](chunks/p0026-0050-28df22b1f988/p0001-0025.txt) | 2,901,469 | No OCR; empty: 7 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 51–75
+
+**PDF-fb22c15e25d3** · manufacturer-original · 25 pages · original SHA-256 `fb22c15e25d3ed00afd82e558561689870622a0b41f36da8981ee64b46c47260`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0051-0075.pdf](../caterpillar/sources/guide-asphalt-compaction/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0051-0075.pdf) | [Text](chunks/p0051-0075-fb22c15e25d3/p0001-0025.txt) | 1,931,193 | No OCR; empty: 4 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 76–100
+
+**PDF-4b33569791fc** · manufacturer-original · 25 pages · original SHA-256 `4b33569791fc7a3d0f98343c301751149d76a2ffa163f68f135c1ae59a33d679`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0076-0100.pdf](../caterpillar/sources/guide-asphalt-compaction/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0076-0100.pdf) | [Text](chunks/p0076-0100-4b33569791fc/p0001-0025.txt) | 1,860,519 | No OCR; empty: 7,25 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 101–125
+
+**PDF-1bfb5cd27192** · manufacturer-original · 25 pages · original SHA-256 `1bfb5cd271920dcf2f9830910debd94108a7c7a830c9e9b1a98d60297ba238d6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0101-0125.pdf](../caterpillar/sources/guide-asphalt-compaction/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0101-0125.pdf) | [Text](chunks/p0101-0125-1bfb5cd27192/p0001-0025.txt) | 2,794,002 | No OCR; empty: 20 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 126–150
+
+**PDF-05fcef221117** · manufacturer-original · 25 pages · original SHA-256 `05fcef221117fbb34849e4031df01ea7e936d489f00022221373e629d9c29155`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0126-0150.pdf](../caterpillar/sources/guide-asphalt-compaction/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0126-0150.pdf) | [Text](chunks/p0126-0150-05fcef221117/p0001-0025.txt) | 1,196,694 | No OCR; empty: 22,23,24,25 |
+
+### Guide to Asphalt Compaction · complete source PDF pages 151–152
+
+**PDF-5356fb1f9abe** · manufacturer-original · 2 pages · original SHA-256 `5356fb1f9abe3e7f70f335fe927916e71b43425da66f9b237f2fd8c6f0858568`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-compaction/p0151-0152.pdf](../caterpillar/sources/guide-asphalt-compaction/p0151-0152.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../caterpillar/sources/guide-asphalt-compaction/p0151-0152.pdf) | [Text](chunks/p0151-0152-5356fb1f9abe/p0001-0002.txt) | 376,009 | No OCR; empty: 1 |
+
+### Guide to Asphalt Paving · complete source PDF pages 1–25
+
+**PDF-b1acc9026b93** · manufacturer-original · 25 pages · original SHA-256 `b1acc9026b93236ee7b03a572bcdd48b61d4617514488cf1e4aedead057b6f27`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0001-0025.pdf](../caterpillar/sources/guide-asphalt-paving/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0001-0025.pdf) | [Text](chunks/p0001-0025-b1acc9026b93/p0001-0025.txt) | 4,813,612 | No OCR; empty: 2,3,4,8,12 |
+
+### Guide to Asphalt Paving · complete source PDF pages 26–50
+
+**PDF-e9813fc4fe10** · manufacturer-original · 25 pages · original SHA-256 `e9813fc4fe10db79a8be38202134bcfcb1b41aadb7d7d3f84d4ec4e5383acce0`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0026-0050.pdf](../caterpillar/sources/guide-asphalt-paving/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0026-0050.pdf) | [Text](chunks/p0026-0050-e9813fc4fe10/p0001-0025.txt) | 2,339,318 | No OCR; empty: 9 |
+
+### Guide to Asphalt Paving · complete source PDF pages 51–75
+
+**PDF-9ab9b43831f4** · manufacturer-original · 25 pages · original SHA-256 `9ab9b43831f4d8e5a08a9945899664bb18dd18f21a2ec741ac6b2a3c42b7b560`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0051-0075.pdf](../caterpillar/sources/guide-asphalt-paving/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0051-0075.pdf) | [Text](chunks/p0051-0075-9ab9b43831f4/p0001-0025.txt) | 2,147,925 | No OCR; empty: 10 |
+
+### Guide to Asphalt Paving · complete source PDF pages 76–100
+
+**PDF-7a2100c9530c** · manufacturer-original · 25 pages · original SHA-256 `7a2100c9530ca25c0f86ab01f081d7b57e85357b3172747671f3c68a11003789`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0076-0100.pdf](../caterpillar/sources/guide-asphalt-paving/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0076-0100.pdf) | [Text](chunks/p0076-0100-7a2100c9530c/p0001-0025.txt) | 3,564,083 | No OCR; empty: 21 |
+
+### Guide to Asphalt Paving · complete source PDF pages 101–125
+
+**PDF-c15e80ceb560** · manufacturer-original · 25 pages · original SHA-256 `c15e80ceb5603be8b8efc4cc76fae1572d6c4ea209daf34e4bf9c7be2c8134be`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0101-0125.pdf](../caterpillar/sources/guide-asphalt-paving/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0101-0125.pdf) | [Text](chunks/p0101-0125-c15e80ceb560/p0001-0025.txt) | 4,371,925 | No OCR; empty: 18 |
+
+### Guide to Asphalt Paving · complete source PDF pages 126–150
+
+**PDF-aae494777d22** · manufacturer-original · 25 pages · original SHA-256 `aae494777d227785559da9a00ae581d4d520c05a189d1910be4ed84a2775fe4b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0126-0150.pdf](../caterpillar/sources/guide-asphalt-paving/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0126-0150.pdf) | [Text](chunks/p0126-0150-aae494777d22/p0001-0025.txt) | 4,212,823 | No OCR; empty: 21 |
+
+### Guide to Asphalt Paving · complete source PDF pages 151–175
+
+**PDF-74943ba3c355** · manufacturer-original · 25 pages · original SHA-256 `74943ba3c355a8ff947c683dcd06a33cf30e5979005cd423e78682ba4a87a2ce`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0151-0175.pdf](../caterpillar/sources/guide-asphalt-paving/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0151-0175.pdf) | [Text](chunks/p0151-0175-74943ba3c355/p0001-0025.txt) | 1,944,626 | extracted |
+
+### Guide to Asphalt Paving · complete source PDF pages 176–200
+
+**PDF-446656fdb316** · manufacturer-original · 25 pages · original SHA-256 `446656fdb31657f345b4aa9ecd5b6d20f69e049b9612c49545ea334a170cd7e5`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0176-0200.pdf](../caterpillar/sources/guide-asphalt-paving/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0176-0200.pdf) | [Text](chunks/p0176-0200-446656fdb316/p0001-0025.txt) | 3,587,303 | No OCR; empty: 9 |
+
+### Guide to Asphalt Paving · complete source PDF pages 201–225
+
+**PDF-7f4754963795** · manufacturer-original · 25 pages · original SHA-256 `7f4754963795bf52c55e85cc07cb2c374e79b22963bc71f833d8fa836672fafd`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0201-0225.pdf](../caterpillar/sources/guide-asphalt-paving/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0201-0225.pdf) | [Text](chunks/p0201-0225-7f4754963795/p0001-0025.txt) | 2,357,964 | extracted |
+
+### Guide to Asphalt Paving · complete source PDF pages 226–250
+
+**PDF-1817cd716df9** · manufacturer-original · 25 pages · original SHA-256 `1817cd716df9e854e4e9f2bf65655b5142a83c42ef518a6dbd262b0cf84166f0`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0226-0250.pdf](../caterpillar/sources/guide-asphalt-paving/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0226-0250.pdf) | [Text](chunks/p0226-0250-1817cd716df9/p0001-0025.txt) | 2,411,724 | extracted |
+
+### Guide to Asphalt Paving · complete source PDF pages 251–275
+
+**PDF-9f4ca4196049** · manufacturer-original · 25 pages · original SHA-256 `9f4ca4196049a780ba54a2e88eab6e10e3df9ae51c1742e50bbcd4fe8f0c77eb`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0251-0275.pdf](../caterpillar/sources/guide-asphalt-paving/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0251-0275.pdf) | [Text](chunks/p0251-0275-9f4ca4196049/p0001-0025.txt) | 3,696,516 | No OCR; empty: 8 |
+
+### Guide to Asphalt Paving · complete source PDF pages 276–300
+
+**PDF-6fbb6854235d** · manufacturer-original · 25 pages · original SHA-256 `6fbb6854235d98aeb8f85278d0393bdbbc58a49ced196caca42a913c91661b8f`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-asphalt-paving/p0276-0300.pdf](../caterpillar/sources/guide-asphalt-paving/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-asphalt-paving/p0276-0300.pdf) | [Text](chunks/p0276-0300-6fbb6854235d/p0001-0025.txt) | 1,724,626 | No OCR; empty: 23,24 |
+
+### Guide to Soil Compaction · complete source PDF pages 1–25
+
+**PDF-6b17c12a32ab** · manufacturer-original · 25 pages · original SHA-256 `6b17c12a32abde75f02e4fb2e1502d82bdd8a8aef146a0b65cd4f6e461bd0f51`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0001-0025.pdf](../caterpillar/sources/guide-soil-compaction/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-soil-compaction/p0001-0025.pdf) | [Text](chunks/p0001-0025-6b17c12a32ab/p0001-0025.txt) | 5,775,457 | No OCR; empty: 2,3,4,10,12 |
+
+### Guide to Soil Compaction · complete source PDF pages 26–37
+
+**PDF-762bd2a55685** · manufacturer-original · 12 pages · original SHA-256 `762bd2a55685eb456ff63d5816de3e1f2ad308b189301f0ab0f9626a1f44562d`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0026-0037.pdf](../caterpillar/sources/guide-soil-compaction/p0026-0037.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–12 | [PDF](../caterpillar/sources/guide-soil-compaction/p0026-0037.pdf) | [Text](chunks/p0026-0037-762bd2a55685/p0001-0012.txt) | 4,097,320 | No OCR; empty: 9 |
+
+### Guide to Soil Compaction · complete source PDF pages 38–62
+
+**PDF-9c50d4505a2f** · manufacturer-original · 25 pages · original SHA-256 `9c50d4505a2f20ff5837e53dc22758509fa11200d68a344e166590afc094ba67`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0038-0062.pdf](../caterpillar/sources/guide-soil-compaction/p0038-0062.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-soil-compaction/p0038-0062.pdf) | [Text](chunks/p0038-0062-9c50d4505a2f/p0001-0025.txt) | 9,223,322 | No OCR; empty: 5,25 |
+
+### Guide to Soil Compaction · complete source PDF pages 63–87
+
+**PDF-bfa65d19bdf8** · manufacturer-original · 25 pages · original SHA-256 `bfa65d19bdf8f910b550778306b9d08117e3d6839333497df73007512d2d3d29`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0063-0087.pdf](../caterpillar/sources/guide-soil-compaction/p0063-0087.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-soil-compaction/p0063-0087.pdf) | [Text](chunks/p0063-0087-bfa65d19bdf8/p0001-0025.txt) | 2,599,712 | extracted |
+
+### Guide to Soil Compaction · complete source PDF pages 88–112
+
+**PDF-202ec2bc3b68** · manufacturer-original · 25 pages · original SHA-256 `202ec2bc3b68e6d99c26db69ddf55fce37ea596e7430102e61f4ab0923492af8`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0088-0112.pdf](../caterpillar/sources/guide-soil-compaction/p0088-0112.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/guide-soil-compaction/p0088-0112.pdf) | [Text](chunks/p0088-0112-202ec2bc3b68/p0001-0025.txt) | 9,195,756 | No OCR; empty: 7 |
+
+### Guide to Soil Compaction · complete source PDF pages 113–132
+
+**PDF-645369384058** · manufacturer-original · 20 pages · original SHA-256 `64536938405824ae26306c1e94b1a2d0b7dddeed0ac7592183abfdf2ccbbf31d`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/guide-soil-compaction/p0113-0132.pdf](../caterpillar/sources/guide-soil-compaction/p0113-0132.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–20 | [PDF](../caterpillar/sources/guide-soil-compaction/p0113-0132.pdf) | [Text](chunks/p0113-0132-645369384058/p0001-0020.txt) | 884,292 | No OCR; empty: 16,17,18,19 |
+
+### Cat B Model Hammers — Parts Reference Guide · complete source PDF pages 1–7
+
+**PDF-9dfb5a685382** · manufacturer-original · 7 pages · original SHA-256 `9dfb5a685382502ef67953db92d00721a1cc0a47cdfb869eb60fefdafcef5ee4`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/hammer-parts/p0001-0007.pdf](../caterpillar/sources/hammer-parts/p0001-0007.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](../caterpillar/sources/hammer-parts/p0001-0007.pdf) | [Text](chunks/p0001-0007-9dfb5a685382/p0001-0007.txt) | 396,473 | extracted |
+
+### Milling By The Numbers · complete source PDF pages 1–1
+
+**PDF-387f231354e1** · manufacturer-original · 1 pages · original SHA-256 `387f231354e1f24ba0878c05698cdde64ebb1c9e4472f7e77888f7f9356ddee3`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/milling-by-numbers/p0001-0001.pdf](../caterpillar/sources/milling-by-numbers/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../caterpillar/sources/milling-by-numbers/p0001-0001.pdf) | [Text](chunks/p0001-0001-387f231354e1/p0001-0001.txt) | 23,832 | extracted |
+
+### Mini Excavator — Parts Reference Guide · complete source PDF pages 1–11
+
+**PDF-512b9bcef8f6** · manufacturer-original · 11 pages · original SHA-256 `512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/mini-excavator-parts/p0001-0011.pdf](../caterpillar/sources/mini-excavator-parts/p0001-0011.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](../caterpillar/sources/mini-excavator-parts/p0001-0011.pdf) | [Text](chunks/p0001-0011-512b9bcef8f6/p0001-0011.txt) | 1,995,381 | extracted |
+
+### K/K2 Series Motor Graders — Parts Reference Guide · complete source PDF pages 1–14
+
+**PDF-be36a7045378** · manufacturer-original · 14 pages · original SHA-256 `be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/motor-grader-parts/p0001-0014.pdf](../caterpillar/sources/motor-grader-parts/p0001-0014.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–14 | [PDF](../caterpillar/sources/motor-grader-parts/p0001-0014.pdf) | [Text](chunks/p0001-0014-be36a7045378/p0001-0014.txt) | 777,090 | extracted |
+
+### Pavers and Screeds Parts Reference Guide · complete source PDF pages 1–25
+
+**PDF-3fa24bc1a21b** · manufacturer-original · 25 pages · original SHA-256 `3fa24bc1a21be0e39e64d4dc7c2d5dc3642097229bd9495e24ca2192d6c36d53`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paver-screed-parts-official/p0001-0025.pdf](../caterpillar/sources/paver-screed-parts-official/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/paver-screed-parts-official/p0001-0025.pdf) | [Text](chunks/p0001-0025-3fa24bc1a21b/p0001-0025.txt) | 2,739,408 | No OCR; empty: 2 |
+
+### Pavers and Screeds Parts Reference Guide · complete source PDF pages 26–50
+
+**PDF-79f5493fac78** · manufacturer-original · 25 pages · original SHA-256 `79f5493fac786163af9624a414f2654aa4926b953cf00cf4cd6ca24f600fffaf`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paver-screed-parts-official/p0026-0050.pdf](../caterpillar/sources/paver-screed-parts-official/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/paver-screed-parts-official/p0026-0050.pdf) | [Text](chunks/p0026-0050-79f5493fac78/p0001-0025.txt) | 2,286,812 | extracted |
+
+### Pavers and Screeds Parts Reference Guide · complete source PDF pages 51–75
+
+**PDF-19dff9319a61** · manufacturer-original · 25 pages · original SHA-256 `19dff9319a613b633f281e18bf6f5e8aac5e2b8db2138faa34db52e5fdfc733f`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paver-screed-parts-official/p0051-0075.pdf](../caterpillar/sources/paver-screed-parts-official/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/paver-screed-parts-official/p0051-0075.pdf) | [Text](chunks/p0051-0075-19dff9319a61/p0001-0025.txt) | 1,082,760 | extracted |
+
+### Pavers and Screeds Parts Reference Guide · complete source PDF pages 76–88
+
+**PDF-5ff1d6a550b5** · manufacturer-original · 13 pages · original SHA-256 `5ff1d6a550b51e96e47dde01d3a78b0b0f619c6948e163264239551f4ce7e87c`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paver-screed-parts-official/p0076-0088.pdf](../caterpillar/sources/paver-screed-parts-official/p0076-0088.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–13 | [PDF](../caterpillar/sources/paver-screed-parts-official/p0076-0088.pdf) | [Text](chunks/p0076-0088-5ff1d6a550b5/p0001-0013.txt) | 658,454 | extracted |
+
+### Paving By The Numbers · complete source PDF pages 1–25
+
+**PDF-ad2bbdab907e** · manufacturer-original · 25 pages · original SHA-256 `ad2bbdab907e6ff601297b3d2a755408daec16a8bb0e55c74e9312b4595eee0d`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paving-by-numbers/p0001-0025.pdf](../caterpillar/sources/paving-by-numbers/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/paving-by-numbers/p0001-0025.pdf) | [Text](chunks/p0001-0025-ad2bbdab907e/p0001-0025.txt) | 2,090,378 | extracted |
+
+### Paving By The Numbers · complete source PDF pages 26–40
+
+**PDF-ebe56e94f150** · manufacturer-original · 15 pages · original SHA-256 `ebe56e94f150071339cf1640de79438a22a328cbbdb1fcf31818cee03a551566`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/paving-by-numbers/p0026-0040.pdf](../caterpillar/sources/paving-by-numbers/p0026-0040.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–15 | [PDF](../caterpillar/sources/paving-by-numbers/p0026-0040.pdf) | [Text](chunks/p0026-0040-ebe56e94f150/p0001-0015.txt) | 1,151,859 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 1–25
+
+**PDF-3e443b93f3fc** · manufacturer-original · 25 pages · original SHA-256 `3e443b93f3fc1e696c1dc8bbf5858c6fd0884eb3fd8e487b7da9c6ab66faeedb`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0001-0025.pdf](../caterpillar/sources/performance-handbook/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0001-0025.pdf) | [Text](chunks/p0001-0025-3e443b93f3fc/p0001-0025.txt) | 4,068,771 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 26–50
+
+**PDF-d480821ffa45** · manufacturer-original · 25 pages · original SHA-256 `d480821ffa455e5dda8c8e5a4446ddce3c158fb4291acdf35b78d22e58bf5f63`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0026-0050.pdf](../caterpillar/sources/performance-handbook/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0026-0050.pdf) | [Text](chunks/p0026-0050-d480821ffa45/p0001-0025.txt) | 690,912 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 51–75
+
+**PDF-8473724a9cec** · manufacturer-original · 25 pages · original SHA-256 `8473724a9cecbe58e752aa19deffb4249fd7fb9d1b4965ade0143c36843af5b6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0051-0075.pdf](../caterpillar/sources/performance-handbook/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0051-0075.pdf) | [Text](chunks/p0051-0075-8473724a9cec/p0001-0025.txt) | 558,134 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 76–100
+
+**PDF-76d2fcf77fbd** · manufacturer-original · 25 pages · original SHA-256 `76d2fcf77fbdfe50690fa2013070b9b9f6a4056bec02064ba1638ad1401020d6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0076-0100.pdf](../caterpillar/sources/performance-handbook/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0076-0100.pdf) | [Text](chunks/p0076-0100-76d2fcf77fbd/p0001-0025.txt) | 685,712 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 101–125
+
+**PDF-196f1ebe1077** · manufacturer-original · 25 pages · original SHA-256 `196f1ebe1077dcfe6c4315363562e17f0e29e12b45ce74116c5c4de781a8ed8c`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0101-0125.pdf](../caterpillar/sources/performance-handbook/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0101-0125.pdf) | [Text](chunks/p0101-0125-196f1ebe1077/p0001-0025.txt) | 376,460 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 126–150
+
+**PDF-c8529e7df38e** · manufacturer-original · 25 pages · original SHA-256 `c8529e7df38e5f852224693cbcb60b7b6ff2f380595df7e2c9df6f90e4b3743b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0126-0150.pdf](../caterpillar/sources/performance-handbook/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0126-0150.pdf) | [Text](chunks/p0126-0150-c8529e7df38e/p0001-0025.txt) | 336,022 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 151–175
+
+**PDF-22229143cddf** · manufacturer-original · 25 pages · original SHA-256 `22229143cddf5a5232dfb841a72d3d46b4c261971d32a8beb3fda9f034064faa`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0151-0175.pdf](../caterpillar/sources/performance-handbook/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0151-0175.pdf) | [Text](chunks/p0151-0175-22229143cddf/p0001-0025.txt) | 902,404 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 176–200
+
+**PDF-dba9b5b9590d** · manufacturer-original · 25 pages · original SHA-256 `dba9b5b9590dc62ed0ca6b96138720e41d85f856f8bb5d24a003954ce0739873`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0176-0200.pdf](../caterpillar/sources/performance-handbook/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0176-0200.pdf) | [Text](chunks/p0176-0200-dba9b5b9590d/p0001-0025.txt) | 586,377 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 201–225
+
+**PDF-8ba4317780b1** · manufacturer-original · 25 pages · original SHA-256 `8ba4317780b1825b4984de619cdfc04e94c0cb571eda7e0c8e5d117797ab00f0`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0201-0225.pdf](../caterpillar/sources/performance-handbook/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0201-0225.pdf) | [Text](chunks/p0201-0225-8ba4317780b1/p0001-0025.txt) | 590,195 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 226–250
+
+**PDF-e8108a1581ff** · manufacturer-original · 25 pages · original SHA-256 `e8108a1581ff9f7dc5c5aafdba17b2145f01ab559afa8f4f0f8b8f634ddaa691`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0226-0250.pdf](../caterpillar/sources/performance-handbook/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0226-0250.pdf) | [Text](chunks/p0226-0250-e8108a1581ff/p0001-0025.txt) | 925,760 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 251–275
+
+**PDF-0fc2cd005449** · manufacturer-original · 25 pages · original SHA-256 `0fc2cd005449c4c7f337000f095a3b17d30dcb933b4945dff5e2b7bfd9d020d6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0251-0275.pdf](../caterpillar/sources/performance-handbook/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0251-0275.pdf) | [Text](chunks/p0251-0275-0fc2cd005449/p0001-0025.txt) | 519,184 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 276–300
+
+**PDF-c266ad08094e** · manufacturer-original · 25 pages · original SHA-256 `c266ad08094e2b34c381b990b7a28d45be12dbca22969290390b8917af365d37`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0276-0300.pdf](../caterpillar/sources/performance-handbook/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0276-0300.pdf) | [Text](chunks/p0276-0300-c266ad08094e/p0001-0025.txt) | 506,553 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 301–325
+
+**PDF-bbc1711b5529** · manufacturer-original · 25 pages · original SHA-256 `bbc1711b552948f4736340f79df06478bf879e95db952fcffa5bb0811de01baa`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0301-0325.pdf](../caterpillar/sources/performance-handbook/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0301-0325.pdf) | [Text](chunks/p0301-0325-bbc1711b5529/p0001-0025.txt) | 775,016 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 326–350
+
+**PDF-d3c0e9e47b8a** · manufacturer-original · 25 pages · original SHA-256 `d3c0e9e47b8a71e764762eb23dee1230af9ab258932da244dc1183bf3b088668`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0326-0350.pdf](../caterpillar/sources/performance-handbook/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0326-0350.pdf) | [Text](chunks/p0326-0350-d3c0e9e47b8a/p0001-0025.txt) | 516,406 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 351–375
+
+**PDF-3d4d642d412c** · manufacturer-original · 25 pages · original SHA-256 `3d4d642d412cf525ba0aa92ad4e88147d18c98e367c329e01e68cf04da688292`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0351-0375.pdf](../caterpillar/sources/performance-handbook/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0351-0375.pdf) | [Text](chunks/p0351-0375-3d4d642d412c/p0001-0025.txt) | 188,990 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 376–400
+
+**PDF-6afea5731a6d** · manufacturer-original · 25 pages · original SHA-256 `6afea5731a6deb773ecfcd17417d5c2667bbef57705b211297213deb4cdb472b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0376-0400.pdf](../caterpillar/sources/performance-handbook/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0376-0400.pdf) | [Text](chunks/p0376-0400-6afea5731a6d/p0001-0025.txt) | 141,618 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 401–425
+
+**PDF-c967daab3eda** · manufacturer-original · 25 pages · original SHA-256 `c967daab3eda7572ae9dc0e3051ab5f3595941d39a1177c2cf439897d202f142`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0401-0425.pdf](../caterpillar/sources/performance-handbook/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0401-0425.pdf) | [Text](chunks/p0401-0425-c967daab3eda/p0001-0025.txt) | 135,593 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 426–450
+
+**PDF-694aeeca5f87** · manufacturer-original · 25 pages · original SHA-256 `694aeeca5f870f7afc2ee48f3141535fc11d57c92e4b42031ac7566d541ef2f2`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0426-0450.pdf](../caterpillar/sources/performance-handbook/p0426-0450.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0426-0450.pdf) | [Text](chunks/p0426-0450-694aeeca5f87/p0001-0025.txt) | 368,324 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 451–475
+
+**PDF-327772678974** · manufacturer-original · 25 pages · original SHA-256 `327772678974d291252614b146284d24df0992be887d2942afe3a66dc6f7233b`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0451-0475.pdf](../caterpillar/sources/performance-handbook/p0451-0475.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0451-0475.pdf) | [Text](chunks/p0451-0475-327772678974/p0001-0025.txt) | 212,495 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 476–500
+
+**PDF-d54c81ec5d49** · manufacturer-original · 25 pages · original SHA-256 `d54c81ec5d49fdf5577ba6ac151267df9c68c44007a6ee78d558ef2ec99ea3c2`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0476-0500.pdf](../caterpillar/sources/performance-handbook/p0476-0500.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0476-0500.pdf) | [Text](chunks/p0476-0500-d54c81ec5d49/p0001-0025.txt) | 417,474 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 501–525
+
+**PDF-8f86167a77c1** · manufacturer-original · 25 pages · original SHA-256 `8f86167a77c1c36974de30b12d40712ca086d9ddce57eeb869e4becc96719d53`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0501-0525.pdf](../caterpillar/sources/performance-handbook/p0501-0525.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0501-0525.pdf) | [Text](chunks/p0501-0525-8f86167a77c1/p0001-0025.txt) | 391,614 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 526–550
+
+**PDF-4884068796d4** · manufacturer-original · 25 pages · original SHA-256 `4884068796d41b92e495a4a3280fa0bcef3d45417702f92339a9c177d70d5119`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0526-0550.pdf](../caterpillar/sources/performance-handbook/p0526-0550.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0526-0550.pdf) | [Text](chunks/p0526-0550-4884068796d4/p0001-0025.txt) | 282,260 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 551–575
+
+**PDF-1d26e63c34f5** · manufacturer-original · 25 pages · original SHA-256 `1d26e63c34f55afde8377947e3971f461576c131ad6b465b4f85c1f654abd4b3`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0551-0575.pdf](../caterpillar/sources/performance-handbook/p0551-0575.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/performance-handbook/p0551-0575.pdf) | [Text](chunks/p0551-0575-1d26e63c34f5/p0001-0025.txt) | 476,470 | extracted |
+
+### Caterpillar Performance Handbook, Edition 50 · complete source PDF pages 576–588
+
+**PDF-74615954d809** · manufacturer-original · 13 pages · original SHA-256 `74615954d809e82a4671f0e8328878c037ab48b6d4b5372b93854b6f0e7a351e`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/performance-handbook/p0576-0588.pdf](../caterpillar/sources/performance-handbook/p0576-0588.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–13 | [PDF](../caterpillar/sources/performance-handbook/p0576-0588.pdf) | [Text](chunks/p0576-0588-74615954d809/p0001-0013.txt) | 202,819 | extracted |
+
+### Reclaimer / Stabilizer Parts Reference Guide · complete source PDF pages 1–25
+
+**PDF-c35cf463daac** · manufacturer-original · 25 pages · original SHA-256 `c35cf463daac33bd2c4f6c014ea58dc79567d933fc7ebc66a494506f9dd859f0`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/road-reclaimer-parts/p0001-0025.pdf](../caterpillar/sources/road-reclaimer-parts/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/road-reclaimer-parts/p0001-0025.pdf) | [Text](chunks/p0001-0025-c35cf463daac/p0001-0025.txt) | 2,834,634 | No OCR; empty: 2 |
+
+### Reclaimer / Stabilizer Parts Reference Guide · complete source PDF pages 26–48
+
+**PDF-a66ec0d104e5** · manufacturer-original · 23 pages · original SHA-256 `a66ec0d104e5217e05d33ae222c4daa76f5d8d022116e8ff3eeac37bdeb5afd4`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/road-reclaimer-parts/p0026-0048.pdf](../caterpillar/sources/road-reclaimer-parts/p0026-0048.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–23 | [PDF](../caterpillar/sources/road-reclaimer-parts/p0026-0048.pdf) | [Text](chunks/p0026-0048-a66ec0d104e5/p0001-0023.txt) | 2,191,425 | extracted |
+
+### D3 Series Skid Steer, Compact Track and Multi Terrain Loaders — Parts Reference Guide · complete source PDF pages 1–11
+
+**PDF-977d6fd1987d** · manufacturer-original · 11 pages · original SHA-256 `977d6fd1987d21f90c78afb841ab35ad20e86f55728eec770b0048d186bb36a6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/skid-steer-d3-parts/p0001-0011.pdf](../caterpillar/sources/skid-steer-d3-parts/p0001-0011.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](../caterpillar/sources/skid-steer-d3-parts/p0001-0011.pdf) | [Text](chunks/p0001-0011-977d6fd1987d/p0001-0011.txt) | 1,438,211 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 1–25
+
+**PDF-f2f43c1b72ed** · manufacturer-original · 25 pages · original SHA-256 `f2f43c1b72ed6eb1673638a57e9d95876f27f8c6472d91e8e0a74275a7604d08`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0001-0025.pdf](../caterpillar/sources/utility-compactors/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/utility-compactors/p0001-0025.pdf) | [Text](chunks/p0001-0025-f2f43c1b72ed/p0001-0025.txt) | 1,100,651 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 26–50
+
+**PDF-24fe9967cd75** · manufacturer-original · 25 pages · original SHA-256 `24fe9967cd75631166d2c5e53ca1703978209a571219fd93dad77e36abe108c6`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0026-0050.pdf](../caterpillar/sources/utility-compactors/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/utility-compactors/p0026-0050.pdf) | [Text](chunks/p0026-0050-24fe9967cd75/p0001-0025.txt) | 346,257 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 51–75
+
+**PDF-4bef4a6d184c** · manufacturer-original · 25 pages · original SHA-256 `4bef4a6d184c6e202b9ebeab1895349982232e48e34925ecf10b8e4cf68d0934`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0051-0075.pdf](../caterpillar/sources/utility-compactors/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/utility-compactors/p0051-0075.pdf) | [Text](chunks/p0051-0075-4bef4a6d184c/p0001-0025.txt) | 704,850 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 76–100
+
+**PDF-9bf4c47d37d8** · manufacturer-original · 25 pages · original SHA-256 `9bf4c47d37d8160f5a8fc6d088800f9162909ff689d0b76dbc631e54712b77b4`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0076-0100.pdf](../caterpillar/sources/utility-compactors/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/utility-compactors/p0076-0100.pdf) | [Text](chunks/p0076-0100-9bf4c47d37d8/p0001-0025.txt) | 809,620 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 101–125
+
+**PDF-74f03e2d8cc7** · manufacturer-original · 25 pages · original SHA-256 `74f03e2d8cc76902f1ea5732ee91f895cd612aadec8d4117eedfe18f94374319`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0101-0125.pdf](../caterpillar/sources/utility-compactors/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../caterpillar/sources/utility-compactors/p0101-0125.pdf) | [Text](chunks/p0101-0125-74f03e2d8cc7/p0001-0025.txt) | 394,472 | extracted |
+
+### CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual · complete source PDF pages 126–148
+
+**PDF-bbafabdefc71** · manufacturer-original · 23 pages · original SHA-256 `bbafabdefc7166c0955e4474bb5c264ade7925867ea8eadedd079ebb69884520`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/utility-compactors/p0126-0148.pdf](../caterpillar/sources/utility-compactors/p0126-0148.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–23 | [PDF](../caterpillar/sources/utility-compactors/p0126-0148.pdf) | [Text](chunks/p0126-0148-bbafabdefc71/p0001-0023.txt) | 1,395,499 | extracted |
+
+### 950M/962M Medium Wheel Loader — Parts Reference Guide · complete source PDF pages 1–11
+
+**PDF-375d219e3bd9** · manufacturer-original · 11 pages · original SHA-256 `375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/wheel-loader-950m-parts/p0001-0011.pdf](../caterpillar/sources/wheel-loader-950m-parts/p0001-0011.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](../caterpillar/sources/wheel-loader-950m-parts/p0001-0011.pdf) | [Text](chunks/p0001-0011-375d219e3bd9/p0001-0011.txt) | 759,093 | extracted |
+
+### M Series Small Wheel Loader — Parts Reference Guide · complete source PDF pages 1–5
+
+**PDF-0d3c6bd7e290** · manufacturer-original · 5 pages · original SHA-256 `0d3c6bd7e290b6ff9c8a950480fc4c0b4366fb311e48778354f0070b10d78535`
+
+Original: [curriculum/asphalt-paving/caterpillar/sources/wheel-loader-m-parts/p0001-0005.pdf](../caterpillar/sources/wheel-loader-m-parts/p0001-0005.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–5 | [PDF](../caterpillar/sources/wheel-loader-m-parts/p0001-0005.pdf) | [Text](chunks/p0001-0005-0d3c6bd7e290/p0001-0005.txt) | 561,100 | extracted |
+
 ### C3.6 and C2.8 Industrial Engines — Operation and Maintenance Manual
 
 **PDF-5dbb7ef6367e** · manufacturer-original · 162 pages · original SHA-256 `5dbb7ef6367e611f560bf95828310cfe75fd7db6af36e29276e3b3426af4b831`
@@ -513,6 +1469,37 @@ Original: [curriculum/asphalt-paving/manuals/pdfs/multiquip-mrh800gs-operation-r
 | 1–25 | [PDF](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0001-0025.pdf) | [Text](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0001-0025.txt) | 2,727,958 | extracted |
 | 26–36 | [PDF](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0026-0036.pdf) | [Text](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0026-0036.txt) | 255,243 | extracted |
 
+### Caterpillar · parts atlas
+
+**PDF-44a200c663ac** · generated-curriculum · 23 pages · original SHA-256 `44a200c663acd56b254ddbf6e6c02c47a75910540c201723b27fe83d436ec8eb`
+
+Original: [curriculum/asphalt-paving/caterpillar/parts-atlas.pdf](../caterpillar/parts-atlas.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](chunks/parts-atlas-44a200c663ac/p0001-0011.pdf) | [Text](chunks/parts-atlas-44a200c663ac/p0001-0011.txt) | 7,152,103 | extracted |
+| 12–23 | [PDF](chunks/parts-atlas-44a200c663ac/p0012-0023.pdf) | [Text](chunks/parts-atlas-44a200c663ac/p0012-0023.txt) | 10,277,952 | extracted |
+
+### Caterpillar · practice
+
+**PDF-478e65af3805** · generated-curriculum · 6 pages · original SHA-256 `478e65af380552005425c2560a5e98180344e5be4b83061ad564e0a11f21d0b3`
+
+Original: [curriculum/asphalt-paving/caterpillar/practice.pdf](../caterpillar/practice.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–6 | [PDF](chunks/practice-478e65af3805/p0001-0006.pdf) | [Text](chunks/practice-478e65af3805/p0001-0006.txt) | 57,255 | extracted |
+
+### Caterpillar · teaching guide
+
+**PDF-7aecac59eb06** · generated-curriculum · 7 pages · original SHA-256 `7aecac59eb0680ca16049853bcc2a5286e8e7705fcd3665033b862f902db9edf`
+
+Original: [curriculum/asphalt-paving/caterpillar/teaching-guide.pdf](../caterpillar/teaching-guide.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](chunks/teaching-guide-7aecac59eb06/p0001-0007.pdf) | [Text](chunks/teaching-guide-7aecac59eb06/p0001-0007.txt) | 59,842 | extracted |
+
 ### Line A · roadbuilding foundations
 
 **PDF-a0c50f5f039e** · generated-curriculum · 38 pages · original SHA-256 `a0c50f5f039e264207951637d5a6f4209231486cfccd9b51c6955a077f6715a4`
@@ -536,23 +1523,23 @@ Original: [curriculum/asphalt-paving/line-a/teaching-guide.pdf](../line-a/teachi
 
 ### Manuals · manual reading instructor
 
-**PDF-60aa07eb76e2** · generated-curriculum · 5 pages · original SHA-256 `60aa07eb76e233c3a3888569607f0a9eecda1eec7442e7f406061a0c1dbc4000`
+**PDF-1aea413257b8** · generated-curriculum · 5 pages · original SHA-256 `1aea413257b8b98e286eff4ca51b355b1c6541b0ea3d03c30f9a516e9d7cdf06`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-instructor.pdf](../manuals/manual-reading-instructor.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–5 | [PDF](chunks/manual-reading-instructor-60aa07eb76e2/p0001-0005.pdf) | [Text](chunks/manual-reading-instructor-60aa07eb76e2/p0001-0005.txt) | 73,525 | extracted |
+| 1–5 | [PDF](chunks/manual-reading-instructor-1aea413257b8/p0001-0005.pdf) | [Text](chunks/manual-reading-instructor-1aea413257b8/p0001-0005.txt) | 73,525 | extracted |
 
 ### Manuals · manual reading lesson
 
-**PDF-2574d4cc5f47** · generated-curriculum · 12 pages · original SHA-256 `2574d4cc5f4756b7ebb4c859e297af6db1f4d5adef2ebb2100b7a7c40a1923ba`
+**PDF-32022d85d127** · generated-curriculum · 12 pages · original SHA-256 `32022d85d1275fbd8e54752ca50963d6a2536f99b02afcc05405580b930b2f2f`
 
 Original: [curriculum/asphalt-paving/manuals/manual-reading-lesson.pdf](../manuals/manual-reading-lesson.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–12 | [PDF](chunks/manual-reading-lesson-2574d4cc5f47/p0001-0012.pdf) | [Text](chunks/manual-reading-lesson-2574d4cc5f47/p0001-0012.txt) | 3,107,667 | extracted |
+| 1–12 | [PDF](chunks/manual-reading-lesson-32022d85d127/p0001-0012.pdf) | [Text](chunks/manual-reading-lesson-32022d85d127/p0001-0012.txt) | 3,107,667 | extracted |
 
 ### Concepts · learner workbook
 
@@ -643,6 +1630,36 @@ Original: [curriculum/asphalt-paving/unit-01/materials/response-sheet.pdf](../un
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
 | 1–12 | [PDF](chunks/response-sheet-3096d063d181/p0001-0012.pdf) | [Text](chunks/response-sheet-3096d063d181/p0001-0012.txt) | 107,012 | extracted |
+
+### Whmis · practice
+
+**PDF-69d3337be3c0** · generated-curriculum · 4 pages · original SHA-256 `69d3337be3c0e468c7d2a74894be2985b288e304141abde826ddd2e8498c936d`
+
+Original: [curriculum/asphalt-paving/whmis/practice.pdf](../whmis/practice.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](chunks/practice-69d3337be3c0/p0001-0004.pdf) | [Text](chunks/practice-69d3337be3c0/p0001-0004.txt) | 46,114 | extracted |
+
+### Whmis · teaching guide
+
+**PDF-2cc9d2586629** · generated-curriculum · 4 pages · original SHA-256 `2cc9d2586629f87d95c269715ffca72bd6d7c0675b5daec0c23fb659a90cb19a`
+
+Original: [curriculum/asphalt-paving/whmis/teaching-guide.pdf](../whmis/teaching-guide.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](chunks/teaching-guide-2cc9d2586629/p0001-0004.pdf) | [Text](chunks/teaching-guide-2cc9d2586629/p0001-0004.txt) | 47,744 | extracted |
+
+### Whmis · whmis reference
+
+**PDF-01fda7744288** · generated-curriculum · 10 pages · original SHA-256 `01fda7744288dfec40e2b9c55e5956694e80dd812283198bc0fe0beb1c8e2885`
+
+Original: [curriculum/asphalt-paving/whmis/whmis-reference.pdf](../whmis/whmis-reference.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–10 | [PDF](chunks/whmis-reference-01fda7744288/p0001-0010.pdf) | [Text](chunks/whmis-reference-01fda7744288/p0001-0010.txt) | 449,218 | extracted |
 
 ## Rebuild after PDFs change
 

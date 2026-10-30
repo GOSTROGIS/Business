@@ -1,0 +1,743 @@
+SOURCE: curriculum/asphalt-paving/whmis/sources/worksafebc-whmis-basics.pdf
+SOURCE SHA-256: 8fcbecccc004741421f580e98850e6e78901c7e178038d0aa9ba603eda59c6e0
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+WHMIS 2015
+The Basics
+
+=== ORIGINAL PDF PAGE 2 ===
+About WorkSafeBC
+
+At WorkSafeBC, we’re dedicated to promoting safe and healthy workplaces across B.C. We
+partner with workers and employers to save lives and prevent injury, disease, and disability.
+When work-related injuries or diseases occur, we provide compensation and support injured
+workers in their recovery, rehabilitation, and safe return to work. We also provide no-fault
+insurance and work diligently to sustain our workers’ compensation system for today and future
+generations. We’re honoured to serve the workers and employers in our province.
+
+ Prevention Information Line
+
+We provide information and assistance with health and safety issues in the workplace.
+
+Call the information line 24 hours a day, 7 days a week to report unsafe working conditions,
+a serious incident, or a major chemical release. Your call can be made anonymously. We can
+provide assistance in almost any language.
+
+If you have questions about workplace health and safety or the Occupational Health and Safety
+Regulation, call during our office hours (8:05 a.m. to 4:30 p.m.) to speak to a WorkSafeBC officer.
+
+If you’re in the Lower Mainland, call 604.276.3100. Elsewhere in Canada, call toll-free at
+1.888.621.7233 (621.SAFE).
+
+=== ORIGINAL PDF PAGE 3 ===
+WHMIS 2015
+The Basics
+
+=== ORIGINAL PDF PAGE 4 ===
+Health and safety resources
+
+You can find our health and safety resources on worksafebc.com, and many of them can be
+ordered from the WorkSafeBC Store at worksafebcstore.com.
+
+In addition to books, you’ll find other types of resources at the WorkSafeBC Store, including
+DVDs, posters, and brochures. If you have any questions about placing an order online, please
+contact a customer service representative at 604.232.9704 or toll-free at 1.866.319.9704.
+
+
+
+
+2019 edition
+ISSN 1715-5940
+
+© 2005, 2016, 2019 Workers’ Compensation Board of British Columbia. All rights reserved.
+The Workers’ Compensation Board of B.C. encourages the copying, reproduction, and
+distribution of this document to promote health and safety in the workplace, provided that the
+Workers’ Compensation Board of B.C. is acknowledged. However, no part of this publication
+may be copied, reproduced, or distributed for profit or other commercial enterprise, nor may
+any part be incorporated into any other publication, without written permission of the Workers’
+Compensation Board of B.C.
+
+=== ORIGINAL PDF PAGE 5 ===
+Contents
+           Acknowledgments                                                                                     v
+           Introduction                                                                                     1
+           1 What is WHMIS?                                                                                    3
+              Overview of WHMIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+                  WHMIS gets an update . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+                  WHMIS legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+                  Key elements of WHMIS 2015 . . . . . . . . . . . . . . . . . . . . . . . 7
+                  Key WHMIS participants and their responsibilities . . . . . . . 8
+
+           2 Classification of hazardous products                                                          11
+              How hazardous products are classified . . . . . . . . . . . . . . . . .12
+                  Physical hazards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+                  Health hazards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+                  Hazard classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+                  Hazard categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+                  Products not covered by WHMIS 2015 . . . . . . . . . . . . . . . 17
+
+           3 Pictograms                                                                                   19
+              About pictograms. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20
+                   How pictograms compare to WHMIS 1988
+                   hazard symbols. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+                   How pictograms are used with WHMIS 2015 hazard classes
+                   and categories. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+                   Hazard classes and categories without pictograms . . . . . . 25
+                   Where to find pictograms . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+           4 Labels                                                                                       27
+              About labels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .28
+                  Overview of label types . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+                  Supplier labels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+                        Information required. . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+                        Format . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+                        Comparing supplier labels: WHMIS 1988
+                        vs. WHMIS 2015. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+                  Workplace labels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+                        Format . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+                        When workplace labels are needed . . . . . . . . . . . . . . . 32
+
+
+
+                                                               WHMIS 2015: The Basics                    iii
+
+=== ORIGINAL PDF PAGE 6 ===
+Other means of identification . . . . . . . . . . . . . . . . . . . . . . . 35
+                                  What you should do when using a hazardous product . . . 36
+
+                        5 Safety data sheets                                                                        37
+                              About safety data sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+                                  Format and information required. . . . . . . . . . . . . . . . . . . . . 40
+                                  Why SDSs can be difficult to understand . . . . . . . . . . . . . . 42
+                                  When you should use SDSs. . . . . . . . . . . . . . . . . . . . . . . . . 42
+                                  MSDS headings vs. SDS headings . . . . . . . . . . . . . . . . . . . . 43
+                                  Looking beyond an SDS for more information . . . . . . . . . . 44
+                                  Confidential business information . . . . . . . . . . . . . . . . . . . . 44
+
+                        6 Putting WHMIS into action                                                                 45
+                              WHMIS program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .46
+                                  Employer responsibilities for a WHMIS program . . . . . . . . 46
+                              Education and training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+                                  Who should receive education and training? . . . . . . . . . . . 47
+                                  Who should provide the education and training?. . . . . . . . 47
+                                  Topics to be covered . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+                                  Your responsibilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+                        7 Exercises                                                                                 49
+                              Pictogram matching exercise . . . . . . . . . . . . . . . . . . . . . . . . .50
+                              Label exercise. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+                              SDS exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .52
+
+                        8 Answer keys                                                                               53
+                              Pictogram matching exercise answers . . . . . . . . . . . . . . . . . .54
+                              Label exercise answers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .55
+                              SDS exercise answers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .56
+                        9 Appendix                                                                                  57
+                              Information items on a supplier label. . . . . . . . . . . . . . . . . . .58
+
+
+
+
+iv   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 7 ===
+Acknowledgments
+        WorkSafeBC wishes to thank the Canadian Centre for Occupational
+        Health and Safety (CCOHS) for permission to use its WHMIS
+        educational materials in this publication.
+
+
+
+
+                                          WHMIS 2015: The Basics    v
+
+=== ORIGINAL PDF PAGE 8 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 9 ===
+Introduction
+          This book explains the basics of the Workplace Hazardous
+          Materials Information System (WHMIS), including the following:
+          • What is WHMIS? — background to WHMIS; key changes from
+             WHMIS 1988 to WHMIS 2015; key elements and participants
+          • Classification — hazard groups, classes, and categories;
+             products not covered by WHMIS
+          • Pictograms — introduction; pictograms vs. WHMIS 1988 hazard
+             symbols; how pictograms are used and where to find them
+          • Labels — supplier labels, workplace labels, and other identifiers
+          • Safety data sheets (SDSs) — use, content, format, and trade
+             secrets
+          • Putting WHMIS into action — WHMIS program; education and
+             training
+
+          The overall purpose of WHMIS is to help ensure a safer, healthier
+          workplace. WHMIS education helps you to understand how
+          WHMIS works. WHMIS training gives you hands-on knowledge of
+          how to work safely with specific products at your workplace.
+
+          When you have been successfully educated and trained in
+                            WHMIS, you should be able to answer these
+                            four questions:
+                            • What are the hazards associated with
+                               hazardous products? (For example,
+                               “How can this product hurt me?”)
+                            • How do I protect myself? (For example,
+                               “What personal protective equipment
+                               should I wear?”)
+                            • What should I do in an emergency?
+                               (For example, “What do I do if I spill it?”)
+                            • Where do I get more information?
+
+          By understanding the information in this book, you will learn where
+          to look on the label of a hazardous product, where to look on a
+          safety data sheet, and what to discuss with your supervisor.
+
+          To help you find out how much you’ve learned, several exercises
+          are included near the end of this book.
+
+
+
+
+                                              WHMIS 2015: The Basics      1
+
+=== ORIGINAL PDF PAGE 10 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 11 ===
+1 What is WHMIS?
+
+=== ORIGINAL PDF PAGE 12 ===
+Overview of WHMIS
+                           WHMIS provides you with health and safety information about
+                           hazardous products in your workplace.
+
+                           Exposure to hazardous products can result in health problems such
+                           as irritation of the eyes, sensitization of the skin or lungs, heart
+                           ailments, kidney and lung damage, or cancer. Hazardous products
+                           can cause fires, explosions, or other accidents when improperly
+                           stored or handled.
+
+                           Under WHMIS, you have the right to receive information about
+                           each hazardous product you use, handle, or store (for example, its
+                           identity, its hazards, and the safety precautions you need to take).
+                           You can use this information to help make sure you go home alive
+                           and well at the end of every workday.
+
+
+    What does WHMIS stand for?
+    • Workplace
+      – Deals only with products used in the workplace
+
+    • Hazardous Materials
+      – Dangerous products that may cause fires,
+        explosions, or health problems
+
+    • Information System
+      – Provides information about hazardous products
+
+
+
+
+                             WHMIS gets an update
+
+                           WHMIS first came into effect in 1988 across Canada. It was
+                           updated in early 2015 to reflect a new set of rules called the
+                           Globally Harmonized System of Classification and Labelling of
+                           Chemicals (GHS).
+
+                           Developed by the United Nations, GHS does the following:
+                           • Defines and classifies the hazards of chemical products
+                           • Provides health and safety information on labels and safety data
+                             sheets, or SDSs (previously called material safety data sheets or
+                             MSDSs in the original WHMIS)
+
+
+
+
+4      WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 13 ===
+GHS is a worldwide system. Its goals are for the whole world to
+adopt and use:
+• The same set of rules for classifying hazardous products
+• The same format and content for labels and SDSs
+
+Currently, many countries have different systems for classifying
+and labelling hazardous products. In fact, several different systems
+can exist even within the same country. This situation has been
+confusing for everyone.
+
+GHS has not replaced WHMIS. Instead, GHS introduces some
+important changes to WHMIS. This will result in many benefits,
+such as the following:
+• Providing improved, consistent hazard information
+• Encouraging the safe handling and use of hazardous products
+• Promoting better emergency response
+• Making it easier and less expensive for companies to follow the
+  rules
+• Making trade easier
+• Reducing the costs of regulation and enforcement
+
+For the sake of clarity, the original WHMIS is now called WHMIS
+1988. The updated version is called WHMIS 2015.
+
+Key changes from WHMIS 1988 to WHMIS 2015 include the
+following:
+• The term “hazardous product” replaces “controlled product.”
+• Hazard classification criteria are more complete. This improves
+    the ability to show the severity of hazards.
+• New hazard classes are included (for example, “Aspiration
+    hazard”).
+• The language has been standardized (made more consistent).
+• Supplier labels have a few new requirements (for example, the
+    use of specific signal words, hazard statements, pictograms, and
+    precautionary statements).
+• SDSs follow a 16-section format, and the information in those
+    sections has been standardized.
+
+By late 2018, all suppliers and employers were required to comply
+with WHMIS 2015. WHMIS 1988 no longer applies.
+
+
+
+
+                                     WHMIS 2015: The Basics       5
+
+=== ORIGINAL PDF PAGE 14 ===
+WHMIS legislation
+
+                       WHMIS is based on a series of laws and regulations passed by the
+                       federal, provincial, and territorial governments.
+
+                       Federal legislation (the Hazardous Products Act and Hazardous
+                       Products Regulations) deals with the importation and sale of
+                       hazardous products. Health Canada reviews claims for confidential
+                       business information (“trade secrets”).
+
+                       Provincial legislation (for example, B.C.’s Workers Compensation
+                       Act and Occupational Health and Safety Regulation) covers the use
+                       of hazardous products in the workplace.
+
+
+                             WHMIS in brief
+
+                             •   A nationwide system put in place at the federal, provincial,
+                                 and territorial levels in 1988; updated in 2015
+                             •   Recognizes the interests of all concerned
+                                 – Labour (workers)
+                                 – Owners (employers)
+                                 – Industry (suppliers)
+                                 – Government (regulators)
+                             •   Four key elements of WHMIS 2015
+                                 – Classification
+                                 – Labels
+                                 – Safety data sheets (SDSs)
+                                 – Worker education and training
+
+
+
+
+6   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 15 ===
+Key elements of WHMIS 2015
+
+• Classification
+  Hazardous products are classified by the types of hazards they
+  present. WHMIS 2015 divides hazardous products into two
+  hazard groups: physical hazards and health hazards. The two
+  hazard groups are further divided into hazard classes. For more
+  information, see page 12.
+
+  After a hazardous product has been classified, the following
+  three WHMIS elements are used to communicate health and
+  safety information.
+
+• WHMIS labels
+  Labels on hazardous products alert you to the identities of
+  products, their hazards, and the precautions you’ll need to take.
+  The information on hazards and precautions has been
+  standardized.
+
+• Safety data sheets (SDSs)
+  These documents provide detailed hazard and precautionary
+  information. Under WHMIS 2015, SDSs use a 16-section format.
+  The information required in each section has been standardized.
+
+• WHMIS education and training programs
+  Your employer provides education and training for you so you
+  can work safely with or near hazardous products. As a worker,
+  you need to know:
+  – How WHMIS works
+  – The hazards of hazardous products in your workplace
+  – The safe work procedures you must follow
+
+
+
+
+                                    WHMIS 2015: The Basics       7
+
+=== ORIGINAL PDF PAGE 16 ===
+How does WHMIS 2015 work?
+
+
+
+
+                         Key WHMIS participants and their responsibilities
+
+                       As a worker, you are one of the key participants in WHMIS, along
+                       with employers and suppliers. (Suppliers are organizations or
+                       individuals who make, import, sell, or distribute hazardous
+                       products in Canada.)
+
+                       All three groups — workers, employers, and suppliers — have
+                       specific responsibilities, as shown in the following table. The roles
+                       and responsibilities of each group remain unchanged in WHMIS
+                       2015.
+
+
+
+
+8   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 17 ===
+Table 1 Group responsibilities
+
+ Workers
+
+  •   Take part in WHMIS training programs.
+  •   Take necessary steps to protect yourself and your
+      co-workers.
+  •   Take part in identifying and controlling hazards.
+
+ Employers
+
+  •   Educate and train workers on the hazards and safe use of
+      hazardous products.
+  •   Ensure that hazardous products are properly labelled.
+  •   Prepare workplace labels and SDSs (as needed).
+  •   Ensure that up-to-date SDSs are easily available to
+      workers.
+  •   Ensure efective control measures are in place to protect
+      workers.
+
+ Suppliers
+
+  •   Properly classify all hazardous products.
+  •   Obtain or prepare up-to-date labels and SDSs.
+  •   Provide these labels and SDSs to purchasers of hazardous
+      products.
+
+
+
+
+                                   WHMIS 2015: The Basics        9
+
+=== ORIGINAL PDF PAGE 18 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 19 ===
+2 Classification of
+  hazardous products
+
+=== ORIGINAL PDF PAGE 20 ===
+How hazardous products are
+classified
+                        The way that hazardous products are classified has changed in
+ What's new
+                        WHMIS 2015. Hazardous products are now divided into two
+ •   New                hazard groups:
+     classifcation      • Physical hazards, based on the physical or chemical properties
+     criteria             of the product (for example, products that are flammable,
+ •   Two hazard           reactive, or corrosive to metals)
+     groups (physical   • Health hazards, based on the ability of the product to cause a
+     hazards, health      health effect, such as:
+     hazards)             – Eye irritation
+ •   19 physical          – Respiratory sensitization (may cause allergy or asthma
+     hazard classes          symptoms, or breathing difficulties)
+ •   12 health hazard     – Carcinogenicity (may cause cancer)
+     classes
+                        The two hazard groups are further divided into hazard classes. A
+ •   Hazard classes
+                        brief listing of the hazard classes in each hazard group is shown
+     containing
+                        below, followed by an overview of the classes. Hazard classes are a
+     “categories”
+                        way of grouping together products that have similar properties.
+     or “types” that
+     refect varying
+                            Physical hazards
+     degrees of
+     hazard
+                        The physical hazards group includes the following hazard classes:
+                        •     Combustible dusts          • Pyrophoric liquids
+                        •     Corrosive to metals        • Pyrophoric solids
+                        •     Flammable aerosols         • Self-heating substances and
+                        •     Flammable gases              mixtures
+                        •     Flammable liquids          • Self-reactive substances and
+                        •     Flammable solids             mixtures
+                        •     Gases under pressure       • Simple asphyxiants
+                        •     Organic peroxides          • Substances and mixtures
+                        •     Oxidizing gases              which, in contact with water,
+                        •     Oxidizing liquids            emit flammable gases
+                        •     Oxidizing solids           • Physical hazards not otherwise
+                        •     Pyrophoric gases             classified
+
+
+
+
+12   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 21 ===
+Note
+
+                         Explosives are classifed as physical hazards under GHS.
+                         And the “exploding bomb” pictogram appears in WHMIS
+                         2015 because some hazardous products can explode. But
+                         explosives are not included in WHMIS 2015 because other
+                         laws cover them.
+
+
+
+                       Health hazards
+
+                      The health hazards group includes the following hazard classes:
+                      • Acute toxicity                  • Serious eye damage/eye
+Note                  • Aspiration hazard                 irritation
+                      • Biohazardous infectious         • Skin corrosion/irritation
+GHS includes an
+                        materials                       • Specific target organ
+environmental
+                      • Carcinogenicity                   toxicity — single exposure
+hazards group.
+                      • Germ cell mutagenicity          • Specific target organ
+This group was not
+                      • Reproductive toxicity             toxicity — repeated exposure
+adopted in WHMIS
+                      • Respiratory or skin             • Health hazards not otherwise
+2015 because
+                        sensitization                     classified
+it is beyond the
+scope of WHMIS
+(i.e., workplaces).    Hazard classes
+However, you
+may see the           A hazardous product is a product that falls into one or more of the
+environmental         hazard classes described below. Suppliers classify these products
+classes listed on     and assign one or more pictograms. (Pictograms are symbols
+labels and SDSs,      surrounded by borders; see page 20.)
+and this is allowed
+under WHMIS 2015.     Brief descriptions of each of the hazard classes are listed on the
+                      following pages.
+
+
+
+
+                                                           WHMIS 2015: The Basics          13
+
+=== ORIGINAL PDF PAGE 22 ===
+Table 2 Overview of physical hazard classes
+
+ Physical hazard class      General description
+
+ Flammable gases            These four classes cover products that have the ability to ignite (catch
+ Flammable aerosols         fire) easily. The main hazards are fire or explosion.
+ Flammable liquids
+ Flammable solids
+
+ Oxidizing gases            These three classes cover oxidizers, which may cause or intensify a
+ Oxidizing liquids          fire or cause a fire or explosion.
+ Oxidizing solids
+
+ Gases under pressure       This class includes compressed gases, liquefied gases, dissolved
+                            gases, and refrigerated liquefied gases.
+
+                            Compressed gases, liquefied gases, and dissolved gases are
+                            hazardous because of the high pressure inside the cylinder or
+                            container. The cylinder or container may explode if heated.
+
+                            Refrigerated liquefied gases are very cold. They can cause severe
+                            cold (cryogenic) burns or injury.
+
+ Self-reactive substances   These products may react on their own to cause a fire or explosion,
+ and mixtures               or may cause a fire or explosion if heated.
+
+ Pyrophoric liquids         These products can catch fire very quickly (spontaneously) if
+ Pyrophoric solids          exposed to air.
+ Pyrophoric gases
+
+ Self-heating substances    These products may catch fire if exposed to air. These products
+ and mixtures               differ from pyrophoric liquids or solids in that they will ignite only
+                            after a longer period of time or when in large amounts.
+
+ Substances and             As the class name suggests, these products react with water to
+ mixtures which, in         release flammable gases. In some cases, the flammable gases may
+ contact with water,        ignite very quickly (spontaneously).
+ emit flammable gases
+
+  Organic peroxides         These products are unstable, highly reactive, or explosive. They may
+                            cause a fire or explosion if heated.
+
+ Corrosive to metals        These products may be corrosive (chemically damaging or
+                            destructive) to metals.
+
+ Combustible dusts          This class is used to warn of products that are finely divided solid
+                            particles. If dispersed in air, the particles may catch fire or explode if
+                            ignited.
+
+
+
+ 14   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 23 ===
+Physical hazard class    General description
+
+ Simple asphyxiants       These products are gases that may displace (take the place of)
+                          oxygen in air and cause rapid suffocation.
+
+ Physical hazards not     This class is meant to cover any physical hazards that are not covered
+ otherwise classified     in any other physical hazard class. These hazards involve chemical
+                          reactions that result in serious injuries or deaths when the reactions
+                          occur. If a product is classified in this class, the hazard statement on
+                          the label and SDS will describe the nature of the hazard.
+
+
+
+Table 3 Overview of health hazard classes
+
+ Health hazard class      General description
+
+ Acute toxicity           These products are fatal, toxic (poisonous), or harmful if they are
+                          inhaled (breathed in), if they come into contact with skin, or if they
+                          are ingested (swallowed).
+                          “Acute toxicity” refers to effects that occur following:
+                          • Skin contact or ingestion exposure to:
+                             – A single dose, or
+                             – Multiple doses given within 24 hours
+                          • An inhalation exposure of 4 hours
+
+                          Acute toxicity could result from exposure to the product itself. It
+                          could also result from a product that, upon contact with water,
+                          releases a gas that can cause acute toxicity.
+
+ Skin corrosion           This class covers products that cause severe skin burns (corrosion)
+ /irritation              and products that cause skin irritation.
+
+ Serious eye damage       This class covers products that cause serious eye damage (corrosion)
+ /eye irritation          and products that cause eye irritation.
+
+ Respiratory or skin      A respiratory sensitizer is a product that may cause allergy or asthma
+ sensitization            symptoms or breathing difficulties if inhaled. A skin sensitizer is a
+                          product that may cause an allergic skin reaction.
+
+ Germ cell mutagenicity   This hazard class includes products that may cause or are suspected
+                          of causing genetic defects. Genetic defects are permanent changes
+                          (mutations) to body cells that can be passed on to future generations.
+
+ Carcinogenicity          This hazard class includes products that cause or are suspected of
+                          causing cancer.
+
+
+
+                                                                   WHMIS 2015: The Basics          15
+
+=== ORIGINAL PDF PAGE 24 ===
+Health hazard class     General description
+
+Reproductive toxicity   This hazard class includes products that may damage or are
+                        suspected of damaging fertility (the ability to conceive children) or
+                        the embryo, fetus, or offspring. Note: There is also a category that
+                        includes products that may cause harm to breast-fed children.
+
+Specific target organ   This hazard class covers products that cause or may cause damage
+toxicity – single       to organs (for example, the liver, kidneys, or blood) after a single
+exposure                exposure.
+
+                        This class also includes a category for products that cause
+                        respiratory irritation, drowsiness, or dizziness.
+
+Specific target organ   This hazard class covers products that cause or may cause damage
+toxicity – repeated     to organs (for example, the liver, kidneys, or blood) following
+exposure                prolonged or repeated exposure.
+
+Aspiration hazard       This hazard class is for products that may be fatal if they are
+                        swallowed and enter the airways.
+
+Biohazardous            These materials are micro-organisms (e.g., viruses, bacteria, or fungi),
+infectious materials    nucleic acids (e.g., DNA or RNA), or proteins that cause or are probable
+                        causes of infection, with or without toxicity, in humans or animals.
+
+Health hazards not      This class covers products that are not included in any other health
+otherwise classified    hazard class. These hazards occur following acute or repeated
+                        exposure. They have adverse effects on the health of a person
+                        exposed to them — including injury or death. If a product is
+                        classified in this class, the hazard statement will describe the nature
+                        of the hazard.
+
+
+                          Hazard categories
+
+                        Each hazard class contains at least one category. The hazard
+                        categories are assigned a number (1, 2, etc.). Categories may also
+                        be called “types.” Types are assigned an alphabetical letter (A, B,
+                        etc.). In a few cases, subcategories are also specified. Subcategories
+                        are identified with a number and a letter (for example, 1A and 1B).
+
+                        Some hazard classes have only one category (for example,
+                        “Corrosive to metals”). Others may have two categories (for
+                        example, “Carcinogenicity” [cancer]) or three categories (for
+                        example, “Oxidizing liquids”). There are a few hazard classes with
+                        five or more categories (for example, “Organic peroxides”).
+
+
+
+16   WHMIS 2015: The Basics
+
+=== ORIGINAL PDF PAGE 25 ===
+The category tells you how hazardous the product is (that is, the
+                       severity of hazard).
+                       • Category 1 is always the greatest level of hazard. (In other words, it
+                          is the most hazardous within that class.) If Category 1 is further
+                          divided, Category 1A within the same hazard class is a greater
+                          hazard than Category 1B.
+                       • Category 2 within the same hazard class is more hazardous than
+                          Category 3, and so on.
+
+                       There are a few exceptions to this rule. For example, for the “Gases
+                       under pressure” hazard class, the hazard categories are
+                       “Compressed gas,” “Liquefied gas,” “Refrigerated liquefied gas,”
+                       and “Dissolved gas.” These classes relate to the physical state of the
+                       gas when packaged. They do not describe the degree of hazard.
+
+                       Also, the “Reproductive toxicity” hazard class has a separate
+ Hazard    Level of    category called “Effects on or via lactation.” “Effects on or via
+category    hazard
+                       lactation” was not assigned a numbered category. Reproductive
+   1         More      toxicity also has categories 1 and 2, which relate to effects on
+           hazardous   fertility and/or the embryo, fetus, or offspring. “Effects on or via
+  2A                   lactation” is considered a different, but related, hazard within the
+  2B                   “Reproductive toxicity” class.
+              Less
+   3       hazardous    Products not covered by WHMIS 2015
+
+                       The following types of products are not covered under WHMIS
+                       2015:
+                       • Explosives
+                       • Cosmetics, devices, drugs, and foods
+                       • Pest control products (pesticides)
+                       • Consumer products (for example, cleaning products, adhesives,
+                         and lubricants)
+                       • Wood or products made of wood
+                       • Nuclear (radioactive) substances
+                       • Hazardous waste
+                       • Tobacco and tobacco products
+                       • Manufactured articles
+
+
+
+
+                                                              WHMIS 2015: The Basics       17
+

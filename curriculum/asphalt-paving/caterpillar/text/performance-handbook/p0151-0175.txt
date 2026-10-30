@@ -1,0 +1,1146 @@
+=== SOURCE PDF PAGE 151 ===
+Vibratory Compactors    Production Estimating
+                      ● Single Drum
+
+
+
+
+  The tables in this section give production estimates for the following assumed conditions:
+  Nominal machine travel speed:        6. 4 km/h  (4. 0 mph)
+  Overlap of rolling width:             15. 2 cm    (6. 0 inches)
+  Table values give representative production rates for three common construction conditions: trenches, roads, and
+wide areas (> 15 m, or 50 ft).
+
+                           Drum              Lift                                       Production
+                              Width       Thickness                                     Estimates
+                                                            Passes                  3.7 m (12 ft)  9.15 m (30 ft)
+           Model         cm      in    cm      in     Required                  Trench     Road Base   Wide Areas
+  CS423E, CS44, CS44B          167.6    66     10.2    4         4          m3/hr        159                    249                   249
+                                                                               yds3/hr       209                    326                   326
+  CS533E, CS54, CS56, CS54B,  213.4   84     15.2    6         6          m3/hr        239                    299                   324
+    CS56B, CS64B, CS66B                                                     yds3/hr       313                    391                   424
+  CS64, CS68B                 213.4   84     15.2    6         5          m3/hr     —                     373                   405
+                                                                               yds3/hr    —                     489                   530
+  CS74, CS74B                  213.4   84     15.2    6         4          m3/hr     —                     448                   486
+                                                                               yds3/hr    —                     587                   636
+  CS76, CS76B                  213.4   84     15.2    12        6          m3/hr     —                     598                   648
+                                                                               yds3/hr    —                     782                   848
+  CS76 XT, CS78B, CS79B       213.4   84     15.2    12        4          m3/hr     —                     896                   972
+                                                                               yds3/hr    —          1174        1272
+  CP44, CP44B                   167.6    66     15.2    6         6          m3/hr        159                    199                   249
+                                                                               yds3/hr       209                    261                   326
+  CP533E, CP54, CP56,
+    CP54B, CP56B              213.4   84    30.5    12        6          m3/hr        478                    478                   647
+                                                                               yds3/hr       626                    626                   847
+  CP76, CP68B, CP74B           213.4   84    30.5    12        6          m3/hr     —                     598                   648
+                                                                               yds3/hr    —                     782                   848
+                                         Travel Speed Efficiency
+    100%
+     95%
+     (ETS)
+     90%
+     85%
+                                                                            3.2 km/h (2 mph)          Efficiency     80%
+                                                                            6.4 km/h (4 mph)
+     75%                                                              9.6 km/h (6 mph)     Speed
+      Travel 70%                                                            12.8 km/h (8 mph)
+     65%
+     60%
+         15              45              75              105             135
+           (49)                (98)               (148)              (197)              (246)
+                                        Cycle Length in meters (ft)
+
+
+
+
+
+10-18
+
+=== SOURCE PDF PAGE 152 ===
+Production Estimating    Vibratory Compactors
+                                    ● Single Drum
+
+
+
+
+Adjusting the Production Estimate                      English example
+   If the assumed conditions are not close to the actual        Actual Conditions — An wide area commercial site
+construction conditions, the production estimates     development job is being compacted in lifts of 8 inches.
+should be corrected. The production estimate from the   A CP56B is being used, operating at 4. 0 mph, and mak­
+table can be adjusted for ‘actual’ construction conditions      ing 4 passes to achieve the target density.
+by applying adjustment factors:                                      First, the table gives a CP56B productivity of 847 yds3/hr.
+ Q (actual) = Q (assumed)  Fs  Ft  Fp               Since lift thickness and passes required are different from
+                                                           the assumed conditions, we should adjust this estimate:  Where: Q (actual) = adjusted productivity
+      Q (assumed) = productivity from table
+           based on assumed conditions                                    Assumed            Actual
+        Fs = adjustment for machine speed                 Speed                   4.0 mph             4.0 mph
+         Ft = adjustment for layer thickness                   Thickness            12 inches           8 inches
+       Fp = adjustment for no. of passes                                                                 Passes               6 passes           4 passes
+  The adjustment factors are determined by com­par­
+ing the ‘actual’ conditions to the ‘assumed’ ones:                                                   Fs = no correction necessary
+  Fs = actual speed/assumed speed                        Ft = 8 inches/12 inches = 0. 7
+  Ft = actual thickness/assumed thickness              Fp = 6 passes/4 passes = 1. 5
+  Fp = assumed passes/actual passes                                               The estimated production is adjusted using these
+                                                                 factors:Metric example
+                                   Q (actual) = 847 yds3/hr  0. 7  1. 5  Actual Conditions — An 9. 15-meter (full road width)
+                                               = 890 yds3/hr (680 m3/hr)base aggregate job is being completed with a com­pacted
+thickness of 15 cm. A CS44B is being used, operating at     Notes on Productivity:
+4. 0 km/h, and making 6 passes to achieve the desired com­    ● For jobs that are relatively narrow, especially road
+                                                                                                             10paction. The roller is overlapping its passes 6 inches.            construction jobs, it is important to understand that
+  For a 9. 15-meter road base the table gives a CS44B         certain widths of construction will be more pro­duc­
+productivity of 249 m3/hr. Since the speed, thickness,          tive than others for a given compactor. A productive
+and passes are different from the assumed conditions,        construction width will make the most use of each
+we should adjust this estimate:                                  side by side pass required by the compactor in order
+                                                             to cover the width.
+                    Assumed            Actual
+                                           ● Production estimates should be adjusted further if the
+  Speed                   6.4 km/h             4.0 km/h              length of the compaction cycles are shorter than 75 m
+   Thickness               10.2 cm            15 cm              (250 ft). Refer to the Travel Speed Efficiency chart to
+   Passes               4 passes           6 passes            determine efficiency ETS. For example, a com­pactor
+                                                                     traveling at 6. 4 km/h (4 mph) operating at cycle lengths
+  Fs = 4. 0 km/h/6. 4 km/h = 0. 6                               of 150 ft has an ETS of 0. 91. Multiply Q (actual) by ETS.
+  Ft = 15 cm/10. 2 cm = 1. 5
+  Fp = 4 passes/6 passes = 0. 7
+  The estimated production is adjusted using these
+factors:
+ Q (actual) = 249 m3/hr  0. 6  1. 7  0. 7
+        = 178 m3/hr (233 yds3/hr)
+
+
+
+
+
+                                                                                                10-19
+
+=== SOURCE PDF PAGE 153 ===
+Vibratory Compactors    Production Estimating
+                      ● Double Drum and Combi
+
+
+
+
+  The table in this section gives production estimates for the following assumed conditions:
+
+  Compacted Layer Thickness         51 mm            2 in
+ Maximum Vibratory Frequency*         —
+  Impacts Spacing                33 impacts/m     10 impacts/ft
+  Passes per Machine Width                     2
+  Compacted Material Density       2483 kg/m3        155 lb/ft3
+  Overlap of Rolling Width            152 mm           6 in
+  Overhang at Lane Edge             76 mm            3 in
+  Efficiency                            75%
+*Maximum vibratory frequency varies by machine, refer to table.
+
+  Table values give representative production rates for common construction widths. If the actual width falls
+between two assumed widths, use the higher number to estimate production. Minor adjustments can normally be
+made in the rolling method to reach this higher production: reduce overlap or overhang, increase speed, or increase
+the cycle time.
+
+                                                    PAVING WIDTH
+                             Vibration                        1.8 m      2.4 m     3.0 m     3.7 m     4.3 m     4.9 m     5.5 m
+        Model           Frequency        Units       6 ft      8 ft      10 ft      12 ft     14 ft     16 ft      18 ft
+  CB1.7                     57 Hz        Tonnes/hr     154.6     160.4     164.0     166.6       –         –         –
+                         3420 vpm       tons/hr      170.4     176.7     180.7     183.5       –         –         –
+  CB1.8                     57 Hz        Tonnes/hr     154.6     2062.9     200.5     196.9       –         –         –
+                         3420 vpm       tons/hr      170.4      227.2     220.9     216.8       –         –         –
+  CB2.5, CB2.5GC            64 Hz        Tonnes/hr     173.5      231.4     224.9      221.0     218.0     249.2     243.0
+                         3840 vpm       tons/hr      191.3     255.1     248.0     243.5     240.4     274.7      267.9
+  CB2.7, CB2.7GC, CC2.7,
+                           64 Hz        Tonnes/hr     243.0      231.4     289.3     270.0      257.6     294.5     280.4
+   and CC2.7GC
+                         3840 vpm       tons/hr       267.9     255.1     318.9      297.7     284.0     324.7     309.0
+  CB2.9                     64 Hz        Tonnes/hr     243.0      231.4     289.3     270.0     315.0     294.5      331.3
+                         3840 vpm       tons/hr       267.9     255.1     318.9      297.7      347.2     324.7     365.2
+  CB4.0, CC4.0               55 Hz        Tonnes/hr     208.8     198.9     248.6     232.0     270.7     253.1     284.7
+                         3300 vpm       tons/hr      230.2     219.2     274.0     255.8     298.4     279.0     313.9
+  CB4.4                     55 Hz        Tonnes/hr     208.8     278.4     248.6     298.3     270.6     309.3     284.8
+                         3300 vpm       tons/hr      230.2     306.9     274.1     328.9     298.3     341.0     313.9
+ CB7                      53 Hz        Tonnes/hr     201.2     268.3     239.6      287.5     260.8     298.1     274.4
+                         3200 vpm       tons/hr      221.8     295.7     264.1     316.9      287.5     328.6     302.5
+ CB10                       63.3 Hz       Tonnes/hr     240.5     320.6     400.8     343.5     400.8     356.3     400.8
+                         3800 vpm       tons/hr      265.1     353.4     441.8     378.6     441.8     392.7     441.8
+ CB13                       63.3 Hz       Tonnes/hr     400.8     320.6     400.8     480.9     400.8     458.0     515.3
+                         3800 vpm       tons/hr      441.8     353.4     441.8     530.1     441.8     504.9     568.0
+  CB15, CB16                 63.3 Hz       Tonnes/hr     400.8     320.6     400.8     480.9     400.8     458.0     515.3
+                         3800 vpm       tons/hr      441.8     353.4     441.8     530.1     441.8     504.9     568.0
+
+
+
+
+
+10-20
+
+=== SOURCE PDF PAGE 154 ===
+Production Estimating    Vibratory Compactors
+                          ● Double Drum and Combi
+
+
+
+
+Example                                            Fs = 42 Hz (2520 vpm)/63. 3 Hz (3800 vpm) = 0. 66
+                                                       Fi = 33 impacts/m (10 impacts/ft)/46 impacts/m  Actual Conditions — A 3. 7 m (12 ft) lane is being paved
+                                                                (14 impacts/ft) = 0. 71with a compacted asphalt thickness of 10 cm (4 in). A
+                                                      Ft = 10 cm (4 in)/5 cm (2 in) = 2. 0CB10 is operating with a frequency of 42 Hz (2520 vpm)
+                                            Fp = 2 passes/4 passes = 0. 5and 46 impacts per meter (14 impacts per ft) and mak­
+ing 4 passes to achieve target density. The roller is over­       The actual, or adjusted, production estimate can then
+lapping its passes 15 cm (6 in) and is overhanging the     be determined from the following:
+edges by 7. 5 cm (3 in).                       Q (actual) = 343 Tonnes/hr (378. 6 tons/hr)
+   First, the table gives a CB10 productivity of 343 Tonnes/         0. 66  0. 71  2  0. 5 =
+hr (378. 6 tons/hr) for a 3. 7 m (12 ft) paving width. Since                161 Tonnes/hr (177. 4 tons/hr)
+the actual vibratory speed, thickness, impact spacing and
+passes are different from the assumed conditions, the     Notes on Productivity:
+estimate should be adjusted.                        ● Higher speed usually results in lower density achieved
+                                                           per pass.
+                   Assumed             Actual
+  Vibratory Speed   63.3 Hz  3800 vpm   42 Hz   2520 vpm     ● Productivity on uphill slopes may be reduced.
+  Impact Spacing     33 impacts/m       46 impacts/m
+                                           ● Tabulated production estimates assume that 1 pass is                      10 impacts/ft       14 impacts/ft
+                                                        used for re-positioning the machine at the begin­ning
+  Thickness         5 cm      2 in     10 cm     4 in
+                                                             of the next run.
+  Passes                  2                  4
+
+
+
+
+
+                                                                                                             10
+
+
+
+
+
+                                                                                              10-21
+
+=== SOURCE PDF PAGE 155 ===
+Pneumatic Tire    Production Estimating
+  Compactors
+
+
+
+
+  The tables in this section give production estimates for the following assumed conditions:
+
+                                                                                                  Cold In-Place
+                                       Hot Mix Asphalt              Soil and Aggregate            Recycled Asphalt
+  Compacted Layer Thickness            51 mm         2 in         152 mm        6 in        203 mm        8 in
+ Maximum Propelling Speed            8 km/h        5 mph        8 km/h        5 mph         4.8 km/h       3 mph
+  Passes per Machine Width                       4                          4                          6
+  Compacted Material Density         2486 kg/cm3    155 lb/ft3    2085 kg/cm3    130 lb/ft3    2246 kg/cm3    140 lb/ft3
+  Overlap of Rolling Width              152 mm        6 in         152 mm        6 in         152 mm        6 in
+  Overhang at Lane Edge                76 mm         3 in         76 mm         3 in         76 mm         3 in
+  Cycle Time (2 passes)                      120 seconds                120 seconds                120 seconds
+
+
+
+
+
+10-22
+
+=== SOURCE PDF PAGE 156 ===
+Production Estimating    Pneumatic Tire
+                                                          Compactors
+
+
+
+
+  Table values give representative production rates for common construction widths. If the actual width falls between
+two assumed widths, use the higher number to estimate production. Minor adjustments can normally be made in the
+rolling method to reach this higher production: reduce overlap or overhang, increase speed, or increase the cycle time.
+
+Hot Mix Asphalt                                PAVING WIDTH
+                                           1.8 m         2.4 m         3.0 m         3.7 m         4.3 m         4.9 m         5.5 m
+  Model               Units         6 ft         8 ft         10 ft        12 ft        14 ft        16 ft        18 ft
+ CW16             Tonnes/hr       195.2        260.2        325.3        270.2        315.3        275.5         310.0
+                      tons/hr        215.1        286.8        358.6         297.9         347.5         303.7         341.7
+ CW34             Tonnes/hr      323.2        239.4        299.3        359.1         419.0         331.5         372.9
+                      tons/hr        356.2        263.9        329.9        395.9         461.8        365.4         411.1
+
+Soil and Aggregate
+ CW16             Tonnes/hr      490.1        653.4        816.8        678.6         791.7         691.9         778.4
+                      tons/hr        540.2        720.3        900.4         748.0        872.7         762.7        858.0
+ CW34             Tonnes/hr       811.6         601.1         751.5         901.8        1052.1        832.4        936.5
+                      tons/hr        894.6        662.7        828.4        994.0        1159.7         917.5        1032.3
+  PS360C            Tonnes/hr      882.2        653.4        816.8        980.2        1143.5        904.8         1017.9
+                      tons/hr        972.4        720.3        900.4        1080.4       1260.5         997.3        1122.0
+
+Cold In-Place Recycled Asphalt
+ CW16             Tonnes/hr      288.0        384.0        480.0        394.1        459.8        399.4        449.3
+                      tons/hr        317.5         423.3        529.2        434.5        506.9        440.3        495.3
+ CW34             Tonnes/hr      492.1        353.3         441.6         530.0        618.3        483.5        543.9
+                      tons/hr        542.4        389.5        486.9        584.2         681.5        533.0        600.0
+                                                                                                             10
+
+
+
+
+
+                                                                                              10-23
+
+=== SOURCE PDF PAGE 157 ===
+Pneumatic Tire    Production Estimating
+  Compactors
+
+
+
+
+Example                                            Fs = 6. 5 km/h/8 km/h (4 mph/5 mph) = 0. 8
+                                                      Ft = 200 mm/152 mm (8 in/6 in) = 1. 3  Actual Conditions — A 7. 3 m (23'11") (full road
+                                            Fp = 4 passes/6 passes = 0. 7width) base aggregate job is being completed with a
+compacted thickness of 200 mm (8 in). A CW16 is      The estimated production is adjusted using these
+being used, operating at 6. 5 km/h (4 mph), and mak­ing       factors:
+6 passes achieve the desired compaction. The roller is     Q (actual) = 778. 4 Tonnes/hr (858. 0 tons/hr) 
+overlapping its passes 152 mm (6 in).                                                                 0. 8  1. 3  0. 7 = 567 Tonnes/hr
+   First, the table does not show production for 7. 3 m                  (625 ton/hr)
+(23'11") so use the greatest width on the table: 5. 5 m (18'1").
+                                              Notes on Productivity:The table gives a CW16 productivity of 778. 4 Tonnes/hr
+(858. 0 tons/hr) for this paving width. We can expect that    ● Ballast weight and tire pressure can significantly affect
+the actual productivity for 7. 3 m (23'11") will be slightly        performance of a pneumatic tire compactor. Refer to
+higher than that. Since the speed, thickness, and passes       machine specifications to choose the best configuration.
+are different from the assumed conditions, we should    ● Productivity on uphill grades and very thick layers
+adjust this estimate:                                                      (>127 mm, or 5 in) may be reduced due to a nec­es­
+                                                             sary reduction in speed.
+                   Assumed             Actual
+  Speed           8 km/h    5 mph    6.5 km/h   4 mph      ● The 11-tire configuration for the CW16 is designed
+                                                         only for chip-and-seal applications. It is not recom­  Thickness        152 mm    6 in    200 mm    8 in
+                                                mended in other applications.
+  Passes                  4                  6
+
+
+
+
+
+10-24
+
+=== SOURCE PDF PAGE 158 ===
+PIPELAYERS
+
+
+
+
+CONTENTS                                         Features:
+Features . . . . . . . . . . . . . . . . . 11-1    ● Hydrostatic transmission on PL61.
+Drawbar Pull Charts . . . . . . . . . . . . 11-2
+Application . . . . . . . . . . . . . . . 11-4    ● Planetary power shift transmission on PL72, PL83
+Extreme Slope Operation . . . . . . . . . . 11-6       and PL87 models.
+                                           ● Kick-out helps prevent boom bending as boom approaches
+                                                                       near-vertical.
+                                           ● Sealed and Lubricated Track.
+                                           ● Simplified Controls for all functions including raise,
+                                                                   lower, quick-drop and power down, variable range and
+                                                         speed adjustments.
+                                           ● Modular design of major components and accessory
+                                                                    drive system for simplified repair.
+                                           ● Separate, self-energizing brakes for boom and hook
+                                                                winches.
+                                           ● Positive track pin retention (PL83 and PL87).
+                                           ● Hydraulic Drawworks with two independently driven
+                                                                hydraulic motors for boom and hook winches.
+                                                                                                                 11
+
+
+
+
+
+                                                                                                        11-1
+
+=== SOURCE PDF PAGE 159 ===
+Pipelayers    Drawbar Pull vs. Ground Speed
+
+
+
+
+
+PL61
+   N     lb 
+    1000   1000
+    250
+              55
+
+              50
+PULL 200       4540
+              35
+    150
+              30
+
+              25
+    100DRAWBAR           20
+
+              15
+     50              10
+
+               5
+      0        0
+                 0        1         2         3         4         5         6         7 mph
+
+                 0          2           4           6           8           10       km/h
+                        SPEED
+
+
+NOTE:  Usable pull will depend upon weight and
+         traction of equipped tractor.
+
+
+PL72
+
+   kg    lb 
+   1000   1000
+     40   90
+              1
+         80
+
+         70
+     30
+         60PULL
+             2
+         50                                       KEY
+     20
+         40                                            1 — 1st Gear
+         30                                            2 — 2nd Gear
+                 3                                        3 — 3rd GearDRAWBAR  10         20
+
+         10
+
+      0    0
+            0      1      2      3      4      5      6      7 mph
+
+            0        2        4       6        8       10      km/h
+
+                    SPEED
+
+
+
+
+11-2
+
+=== SOURCE PDF PAGE 160 ===
+Drawbar Pull vs. Ground Speed    Pipelayers
+
+
+
+
+
+PL83
+   kg   lb 
+   1000  1000
+             160
+       70
+
+             140
+       60
+             120
+       50PULL        100
+       40            1                                KEY              80
+       30                                             1 — 1st Gear
+              60                                         2 — 2nd Gear
+       20DRAWBAR         40                                         3 — 3rd Gear                 2
+       10     20
+                          3
+        0      0
+                 0     1      2      3     4      5      6     7      8 mph
+
+                 0       2       4       6       8       10      12   km/h
+               SPEED
+
+
+
+
+
+PL87                                                                                                            11
+  kg   lb 
+  1000  1000
+            160
+      70
+
+            140
+      60
+
+            120
+      50PULL        100
+      40         1                               KEY
+             80
+      30                                             1 — 1st Gear
+             60                                          2 — 2nd Gear
+      20            2DRAWBAR         40                                          3 — 3rd Gear
+                       3
+      10     20
+
+       0      0
+                 0        1         2        3        4        5         6        7 mph
+
+                0           2          4           6           8         10      km/h
+                  SPEED
+
+
+
+
+
+                                                                                                        11-3
+
+=== SOURCE PDF PAGE 161 ===
+Pipelayers    Application
+
+
+
+
+      PIPELAYER APPLICATION CALCULATIONS:
+
+Typical pipelayer applications on
+flat, firm underfoot conditions
+PL61  laying 8" to 16" pipe
+PL72  laying 16" to 24" pipe
+PL83  laying 24" to 36" pipe
+PL87  laying 36" to 56" pipe
+
+
+
+
+                                                      LOAD OVERHANG
+                      DITCH DEPTH                          Y
+                                                          X     SAFE SLOPE
+
+                                                  DITCH WIDTH
+
+
+
+  The chart above provides general information repre­    ● acceptable distance between pipe lifting points while
+senting typical pipelayer applications. While the fol­       suspended (to prevent bending)
+lowing scenario explores many of the variables involved         determined by the pipe’s bending characteristics.
+in pipelaying it does not cover all the possible variables             If the lifting points are too far apart a pipe can sag
+that must be considered by pipelaying contractors.             enough due to its own weight that it will damage
+  When sizing pipelayers for an application there are                itself.
+many considerations other than the machine’s SAE    ● the operating safety factor desired by the contractor
+rated lift capacity. These include but are not limited to:     ● the length of pipe that will need to be suspended while
+● pipe diameter and weight per linear foot                      laying-in
+● ditch width and depth                                   determined by pipe bending characteristics, ter­
+     ditch width is typically 2  pipe diameter                     rain, etc.
+     ditch depth is typically >2. 5  pipe diameter        ● ground conditions, road bed preparation
+● distance from the ditch (safe slope) required by soil
+   stability conditions
+     varies by local ground conditions but typically 2:1
+    (meaning the pipelayer must be 2  ditch depth
+    from the ditch edge)
+
+
+
+
+
+11-4
+
+=== SOURCE PDF PAGE 162 ===
+Application    Pipelayers
+
+
+
+
+
+ An important consideration is the necessary load          It is important to remember that this is the distance
+overhang. This is the distance from the center of the     between the lift points, not the distance nose-to-tail
+pipe to the tractor’s left track rail. The load overhang     between pipelayers. For this example, assume that 500 ft
+required for an application can be estimated by:             of pipe must be suspended during the laying-in process.
+● load overhang = safe slope  ditch depth +                      500 ft                 5. 9 which means that                                                      =                              (0. 5  ditch width)                                                                                                 six pipelayers are needed                                                                                   84. 7 ft per pipelayer
+  The pipelayer’s rated load capacity at a specific load                                                  The number of pipelayers required could also be deter­overhang (per ANSI/ASME B30. 14) can be found in                                                 mined by a second method:the load capacity graphs in this section of the perfor­
+mance handbook. Once the load capacity is determined                 ft of pipe suspended  pipe weight per ft
+the maximum lift point spacing can be estimated by:             safety factor
+● max lift        load capacity at load overhang                            rated load at overhang          =
+  point spacing     safety factor  pipe weight              In this case:
+                         per linear foot
+                                                      500 ft  125. 5 lb/ft  2     5. 9 which again implies
+  The maximum distance between pipe lift points (based                     =                                                                 21,250 lb           six pipelayerson pipe bending characteristics) may be a shorter dis­
+tance than the maximum spacing between lift points as           If, in this same example, soil conditions required a
+calculated based on pipelayer load capacity. If this is      safe slope of  2. 33 then the load overhang would have
+the case, then in order to avoid damaging the pipe, the     been 16 ft. At this load overhang the 90,000 lb lift pipe­
+shorter distance should be considered to be the maximum       layer’s rated load capacity is approximately 18,125 lb.
+distance between pipelayers.                             Using the equations above, this results in 72. 2 ft between
+  As an example, consider a project involving 0. 5" wall        lift points which means that seven 90,000 lb lift pipe­
+24" diameter pipe which has a weight per linear foot of       layers are now necessary. Using the second method:
+125. 5 lb and the soil has a safe slope of  2. Using the
+                                                                                                                                                          6. 9 again implying thatabove formulas:                                         500 ft  125. 5 lb/ft  2
+                                                        = seven 90,000 lb lift● the ditch depth would be 3  2 ft = 6 ft deep                      18,125 lb                                                                                           pipelayers are needed● the ditch width would be 2  2 ft = 4 ft
+● the load overhang would be 2  6 ft + (0. 5  4 ft)       Rather than adding another pipelayer, PL83’s could   11
+                    = 14 ft                    be used. At a 16 ft load overhang the PL83 has a rated
+  Using the PL72’s lift capacity chart we find that the     load capacity of 29,400 lb. This translates to 117. 1 ft
+PL72 has an ANSI rated load capacity of approx­i­     between lift points. If the pipe’s bending characteristics
+mately 21,250 lb at a 14 ft load overhang.                       will allow this space between lift points, the job could
+  When using rated load numbers it is important to     be done with only five PL83’s.
+understand that the lift capacity charts are based on
+SAE and ANSI test procedures that rate pipelayers on
+level, concrete surfaces. Working on softer underfoot
+conditions, working on slopes, (and other) can greatly
+reduce the pipelayer’s load capacity.
+   If the contractor employs a safety factor of 2 then
+the maximum spacing between pipe lift points is:
+                 21,250 lb
+                    = 84. 7 ft
+             2  125. 5 lb/ft
+
+
+
+
+
+                                                                                                        11-5
+
+=== SOURCE PDF PAGE 163 ===
+Pipelayers    Extreme Slope Operation
+
+
+
+
+EXTREME SLOPE OPERATION
+  The maximum fore and aft grade in static condition       The ENGINE should never be overfilled with oil. This
+on which each track-type tractor or pipelayer will main­    may lead to rapid overheating. For extreme slope oper­
+tain proper lubrication is 45 degrees (100%). Consult       ation, engine oil should be maintained at the full mark.
+Operation & Maintenance Manual (if applicable) for
+                                         NOTE: Both ENGINE and POWERTRAIN fluid levelsPOWERTRAIN fluid level overfill requirements for
+                                                              should be checked on level ground before work­operation on extreme slopes. Extreme slope operation
+                                                                   ing sidehills and slopes.is anytime the slope exceeds 25° (47%).
+
+
+
+  When working sidehills and slopes, consideration    ● Implements hitched to the drawbar — This may decrease
+should be given to the following important points:            weight on uphill track, e. g. , logging arch, two-wheel
+                                                          wagon.
+● Speed of travel — At higher speeds, inertia forces tend
+  to make the tractor less stable.                     ● Height of hitch on tractor — When a high drawbar is
+                                                        used the tractor is less stable than with the standard
+● Roughness of terrain or surface — Ample allow­ance                                                             drawbar.
+  should be made where the terrain or surface is uneven.
+                                           ● Width of shoes — Wide track shoes tend to decrease
+● Mounted equipment — Bulldozers, sidebooms, winches,                                                           “digging in”, hence tractor is more stable.
+  and other mounted equipment cause the tractor to
+  balance differently.                            ● Operated equipment — Be aware of the stability and
+                                                             other performance features of the equipment operated
+● Nature of surface — New earthen fills may give way                                                    by the tractor.
+  with the weight of the tractor. Rocky surfaces may pro­
+  mote side slipping of tractor.                      ● Keep all attachments or pulled loads low to the ground
+                                                                  for optimum stability.
+● Track slippage due to excessive loads — This may
+  cause downhill track to “dig in,” increasing angle of
+   tractor.
+
+
+
+
+
+ NOTE: Safe operation on steep slopes may require special machine maintenance as well as excellent ­operator
+           skill and proper equipment for the specific application. Consult Operation & Maintenance Manual
+             (if applicable) for proper fluid level requirements.
+
+
+
+
+
+11-6
+
+=== SOURCE PDF PAGE 164 ===
+SKID STEER LOADERS/
+                COMPACT TRACK LOADERS
+
+
+
+
+CONTENTS                                         Features:
+SKID STEER LOADERS/                       ● The standard demand cooling fan provides improved
+COMPACT TRACK LOADERS                               fuel efficiency and increased horsepower.
+                                           ● Industry leading sealed and pressurized cab optionFeatures . . . . . . . . . . . . . . . . . 12-1
+                                                              provides a cleaner and quieter operating environment
+                                                     with excellent Work Tool visibility on D3 Series
+                                                              machines.
+                                           ● Ergonomically designed cab provides maximum
+                                                           operator comfort and visibility.
+                                           ● Low-effort joystick controls, armrest, and retractable
+                                                                  seat belt for easy operation.
+                                           ● Available high-back, heated, air ride seat with seat
+                                                      mounted adjustable joystick controls and independently
+                                                                adjustable arm bars make the D3 Series machines the
+                                                                industry leaders in operator comfort.
+                                           ● Deep skid resistant steps make egress/ingress easy.
+
+
+
+
+
+                                                                                                       12
+
+
+
+
+
+                                                                                               12-1
+
+=== SOURCE PDF PAGE 165 ===
+Skid Steer    Features
+        Loaders/
+   Compact Track
+         Loaders
+
+Features (continued):
+● Hand and foot throttle for continuous or variable    ● High performance cooling systems and extended life
+  engine speed.                                                             coolant, along with high performance engine and
+● Anti-stall feature/Electronic Torque Management        hydraulic oils, extend service intervals for low oper-
+  provide maximum rimpull and hydraulic power while         ating costs.
+  preventing engine stalling.                        ● Deutsch electrical connectors with wires that are color
+● Direct drive hystat pumps eliminate drive belts for        coded, numbered, and protected with nylon braiding.
+   efficient power transfer.                         ● Electro-depositioned or “E” coat corrosion protection
+● Ground level access to all daily service and routine         for long paint life.
+  maintenance points helps reduce machine downtime    ● High flow XPS hydraulics are optional on most D3
+  for greater productivity.                                                                 Series models. The XE hydraulic package option on
+● High performance power train provides maximum        the 272D3 and 299D3 combines the high pressure of
+  performance and production capability on D and      XPS with even higher flow for the most demanding
+  D2 Series machines through the Electronic Torque       hydromechanical work tool applications such as
+  Management system, optional two speed travel and        mulching, cold planing, and wheel saw cutting.
+  an electronic hand/foot throttle with decel pedal    ● High flow hydraulics on the 226D3, 232D3, 236D3,
+   capability.                                                    239D3, 242D3, 249D3, 257D3, and 259D3 operate
+● Cat® “Intelligent Leveling” system (ILEV) provides      more demanding, rotating work tools such as
+  industry leading technology and integration through       brooms, cold planers, trenchers, landscape rakes,
+  available features such as dual direction self-level,       power rakes, tillers, snow blowers, brush cutters, and
+  work tool return to dig and work tool positioner.          stump grinders.
+● Speed Sensitive Ride Control option on D3 Series    ● Creep Control allows the operator to select the opti-
+  machines improves operation on rough terrain,      mal ground speed while maintaining maximum
+  enabling better load retention, increased productivity,        hydraulic flow to the attachment to achieve the best
+  and greater operator comfort.                          match between machine hydraulics, ground/operat-
+                                                           ing conditions and attachment, especially effective
+● Maximize machine capability and control with the        with hydro-mechanical attachment.
+  Advanced Display providing on-screen adjustment
+  capability on D3 Series machines for implement
+  response, hystat response, and creep control, multi-
+  language functionality with customizable layouts,
+  security system, and rearview camera.
+
+
+
+
+
+12-2
+
+=== SOURCE PDF PAGE 166 ===
+SURFACE MINING EXTRACTION
+                                              Draglines
+                                        Electric Rope Shovels
+                               Hydraulic Mining Shovels
+
+
+
+
+CONTENTS                            DRAGLINES
+DRAGLINES                                        INTRODUCTION
+Introduction . . . . . . . . . . . . . . . 13-1                                                              Draglines are an important excavating tool used in many
+Safety and Serviceability . . . . . . . . . . 13-1                                                            surface min­ing operations worldwide. These highly pro-
+Features . . . . . . . . . . . . . . . . 13-2                                                           ductive machines operate 24 hours a day, seven days a
+ELECTRIC ROPE SHOVELS                         week and are able to reach depths of 79. 8 m (262 ft) with
+Introduction . . . . . . . . . . . . . . . 13-3      capacities up to 116. 2 m3 (152 yd3). Offering the lowest
+Safety and Serviceability . . . . . . . . . . 13-3      material removal cost per tonne (ton) and an average
+Features . . . . . . . . . . . . . . . . 13-3      operating life of 40 years, draglines are the most produc-
+General Dimensions . . . . . . . . . . . . 13-6       tive and versatile machine in the industry. Caterpillar
+Ground Bearing Pressure . . . . . . . . . 13-13       offers an extensive variety of dragline specifications and
+Dipper Selection . . . . . . . . . . . . . 13-14      on-staff application engineers who will help determine
+Truck Match . . . . . . . . . . . . . . 13-15      the solution that best addresses specific needs.
+Rated Suspended Load . . . . . . . . . . 13-15       With over 100 years of dragline experience and the
+10/10/20 Load Management Policy . . . . . 13-16       largest operating fleet of draglines with buckets of 40 m3
+                                                                                (52. 3 yd3) and above, coupled with an active installed base
+                                                          of over 300 machines, Cat draglines are the most effi-HYDRAULIC MINING SHOVELS
+                                                                cient and proven overburden removal solution.
+General Introduction . . . . . . . . . . . 13-17
+Features . . . . . . . . . . . . . . . . 13-18    SAFETY AND SERVICEABILITY
+Ground Pressures . . . . . . . . . . . . 13-19        Safety plays an integral role in everything we do at
+Bucket Selection . . . . . . . . . . . . . 13-20       Caterpillar, from our factory floors to our service centers
+Cycle Times . . . . . . . . . . . . . . . 13-22      to our clients’ mine sites. Caterpillar’s commitment to
+Production Overviews . . . . . . . . . . 13-24       safety is apparent in our product designs, which undergo
+                                                                   risk assessments and are designed to meet strict codes and
+                                                                   regulations. Stairways, walkways, platforms and access
+                                                          points are incorporated throughout Cat® draglines to
+                                                         ensure safe and convenient access for maintenance per-
+                                                                                                       13                                                                    sonnel. With safety and serviceability enhancing features
+                                                         incorporated into the operator cab, structures, surfaces
+                                                 and electrical equipment, among others, Cat draglines
+                                                      were designed with safety in mind.
+
+
+
+ Throughout this document, references to Tier 4 Interim/Stage IIIB/Japan 2011 (Tier 4 Interim) include U. S. EPA
+  Tier 4 Interim, EU Stage IIIB, and Japan 2011 (Tier 4 Interim) equivalent emission standards. References to
+  Tier 4 Final/Stage IV/Japan 2014 (Tier 4 Final) include U. S. EPA Tier 4 Final, EU Stage V, and Japan 2014 (Tier 4
+  Final) emission standards.
+
+ Throughout this document, references to Tier 1/Stage I include U. S. EPA Tier 1 and EU Stage I equivalent emission
+  standards. References to Tier 2/Stage II/Japan 2001 (Tier 2) equivalent include U. S. EPA Tier 2, EU Stage II, and
+ Japan 2001 (Tier 2) equivalent emission standards. References to Tier 3/Stage IIIA/Japan 2006 (Tier 3) equivalent
+  include U. S. EPA Tier 3, EU Stage IIIA, and Japan 2006 (Tier 3) equivalent emission standards.
+
+
+                                                                                               13-1
+
+=== SOURCE PDF PAGE 167 ===
+Draglines    Features
+
+
+
+
+FEATURES                                           Tri-Structure Design
+                                                The exclusive tri-structure design on Cat draglinesAC IGBT Electrics                                                          reduces front end weight to enable optimization of boom
+  Cat draglines are equipped with AC IGBT electrics                                                            configurations, allowing for increased load and reach.
+which allow for greater machine uptime, lower operat-                                             The tri-structure is manufactured with high impact
+ing costs, and faster cycle times, with AC providing up                                                             strength steel for a simplified wide flange beam construc­
+to 10% energy savings over the life of the machine.                                                                  tion, and less maintenance points are required in com-
+● Superior availability: AC IGBT electric draglines have      parison with an A-frame or mast assembly. Inventory
+  routinely demonstrated electrical availabilities of greater      stocking needs are reduced as the sheaves are inter-
+  than 95%.                                            changeable with both the fairlead and boom assemblies.
+● Greater reliability: Fewer components including inter-                                                Cat Cab
+  changeable inverters. IGBT systems require no fuses                                                             Cat’s state-of-the-art operator’s cab is the product of  or circuit breakers.                                                    a multi-year collaboration between Caterpillar, min­ing
+● Reduced maintenance: No regular maintenance is     companies and operators. The cab provides industry-
+  required on IGBT power control modules. Motor      leading visibility with excellent line of sight supple-
+  maintenance on AC machines is reduced to greasing     mented by five optimally-mounted cameras and display
+  and replacing bearings every 30,000 hours.                  screens.  It provides enhanced safety through dual
+                                                               access/egress doors and an optimally-placed trainer seat
+● Reduced inventory: Hoist, drag, swing, and propel                                                        with independent emergency stop. Additionally, the cab
+  motions are all controlled by AC motors. Cat IGBT                                                               offers the smoothest, most comfortable ride available
+   is a mine quality system with rugged welded cabinets                                                      with an ergonomic, adjustable operator’s seat with a
+  to withstand harsh mining conditions.                                                                   fully pneumatic suspension system, low-effort joysticks
+                                                 and dual display screens optimized for operator comfort.
+Major Structures
+  Cat major structures are designed for extended per-    Custom Design and Aftermarket Support
+formance in harsh mining conditions. Structures are                                                 The Cat dragline model selection process is grounded
+manufactured using impact-resistant, high-strength                                                                 in analysis and collaboration with experienced appli­ca­tion
+steel with select welds of full-penetration, profiled and                                                          engineering professionals and a dragline opti­mi­za­tion
+ground type. All structural welds undergo visual inspec-                                                          process to assist in determining the configuration opti-
+tion, with critical welds also receiving MT, UT or X-ray                                                       mally suited for a particular application. Additionally,
+inspection. Large furnaces are used to stress-relieve                                                    mechanical and electrical upgrades, and component
+entire weldments for reduced susceptibility to cracking.                                                            rebuilds are available to ensure productivity and reli-
+Interiors of finished structures are painted white to facil­                                                                   ability for the life of the machine. Caterpillar also offers
+i­tate field inspection.                                                 machine relocation and field assembly services sup-
+                                                       ported by experienced industry experts.
+
+
+
+
+
+13-2
+
+=== SOURCE PDF PAGE 168 ===
+ELECTRIC ROPE SHOVELS
+
+
+CONTENTS                            SAFETY AND SERVICEABILITY
+ELECTRIC ROPE SHOVELS                                Safety plays an integral role in everything we do at
+                                                                 Caterpillar, from our factory floors to our service centersIntroduction . . . . . . . . . . . . . . . 13-3
+                                                          to our clients’ mine sites. Caterpillar’s commitment toSafety and Serviceability . . . . . . . . . . 13-3
+                                                                safety is apparent in our product designs, which undergoFeatures . . . . . . . . . . . . . . . . 13-3
+                                                                 risk assessments and are designed to meet strict codesGeneral Dimensions . . . . . . . . . . . . 13-6
+                                                 and regulations.Ground Bearing Pressure . . . . . . . . . 13-13
+                                                             Stairways, walkways, platforms and access points areDipper Selection . . . . . . . . . . . . . 13-14
+                                                         incorporated throughout Cat Electric Rope Shovels toTruck Match . . . . . . . . . . . . . . 13-15
+                                                         ensure safe and convenient access for maintenance per-Rated Suspended Load . . . . . . . . . . 13-15
+                                                                sonnel. With safety and serviceability enhancing fea-10/10/20 Load Management Policy . . . . . 13-16
+                                                               tures incorporated into the operator cab, structures, and
+                                                                     electrical equipment, among others, Cat Electric Rope
+INTRODUCTION                                      Shovels were designed with safety in mind.
+  Electric rope shovels are one of the largest loading
+                                    FEATUREStools on the market. They run in a truck-shovel operation
+with mining trucks in order to move large quantities of    AC IGBT Electrics
+material at a low cost per ton. Electric rope shovels are                                                 With over 40 years of AC experience and over 200
+used to mine a variety of minerals including oil sands,                                                         operating AC machines, Bucyrus led the industry in AC
+coal overburden, copper, gold, iron ore, etc. They                                                                     electric rope shovels. Caterpillar continues to carry on
+operate in extreme climates in tough surface mining                                                                      this proud tradition. Since its launch in 1981, the AC elec­
+applications all over the world. With over 130 years'                                                                         tric rope shovel has gained strong industry acceptance,
+experience in the rope shovel industry, and an active                                                                offering:
+population of over 225 machines, Cat Electric Rope
+Shovels are the most efficient and cost effective loading    ● Superior availability: AC IGBT electric rope shovels
+tools available.                                          have routinely demonstrated electrical availabilities
+                                                             of greater than 98%.
+                                           ● Greater reliability: Fewer components including inter-
+                                                         changeable inverters. IGBT systems require no fuses
+                                                                                                       13                                                          or circuit breakers.
+                                           ● Reduced maintenance: No regular maintenance is
+                                                          required on IGBT power control modules. Motor
+                                                       maintenance on AC machines is reduced to greasing
+                                                  and replacing bearings every 30,000 hours.
+                                           ● Durability: Cat IGBT is a mine quality system with
+                                                                 ­rugged unitized construction to withstand harsh min-
+                                                             ing conditions.
+                                           ● Reduced inventory: One IGBT part number is used in
+                                                              multiple locations allowing for decreased component
+                                                                  inventory.
+
+
+
+
+
+                                                                                               13-313-3
+
+=== SOURCE PDF PAGE 169 ===
+Electric    Features
+Rope Shovels
+
+
+
+
+Major Structures                            HydraCrowd™
+  Cat major structures are designed for extended per-      HydraCrowd represents the first new crowd technol-
+formance in harsh mining conditions. Structures are     ogy developed in the past 70 years. A hydraulic cylinder
+manufactured using cold-weather, impact-resistant,       inside the tubular dipper handle maintains all the ­benefits
+high-strength steel with select welds of full-penetration,      of the Cat front end while eliminating the need for ­routine
+profiled and ground type. All structural welds undergo      crowd/retract rope replacements. HydraCrowd cuts
+visual inspection, with critical welds also receiving MT,      ­downtime by reducing the number of maintenance events
+UT or X-ray inspection. Large furnaces are used to     needed to keep the machine operational. HydraCrowd
+stress-relieve entire weldments for reduced susceptibility        is controlled with proven Cat IGBT technology and has
+to cracking. Interiors of finished structures are painted     complete diagnostic and troubleshooting information
+white to facilitate field inspection.                          with step-by-step instructions.
+
+Robust Front End Design                         LatchFree™
+  The Cat crowd/retract system design presents many ben-       The LatchFree Dipper System is Caterpillar’s solu-
+efits over traditional rack-and-pinions ­systems, including:      tion to customers’ number one cause of downtime —
+                                                          the traditional latch assembly. The LatchFree dipper
+● Fast swing times: The Cat deck-mounted, rather than                                                             eliminates the latch assembly, replacing it with a strong
+  boom-mounted, crowd machinery greatly reduces                                                                      steel link mounted to the dipper back, away from mate-
+  front end weight for reduced swing inertia and fast                                                                        rial flow. The system enhances safety by reducing the
+  swing times.                                               number of maintenance events required to maintain the
+● Elimination of torsional loading: The free-floating      system and increases reliability by reducing unplanned
+  tubular handle design allows the Cat handle to rotate      downtime. The LatchFree Dipper System comes com-
+  under uneven loading, transferring force into the ropes       plete with a comprehensive training program to ensure
+  rather than into the boom.                             customers achieve maximum system benefits.
+● Superior visibility: With deck-mounted crowd machin-     FastFil™ Dipper Design
+   ery, Cat machines provide operators with a clear left-       The unique FastFil dipper provides customers with
+  hand line of sight for higher visibility and enhanced       faster and fuller dipper loads where the application per-
+   safety.                                                             mits.  Its trapezoidal shape accommodates the natural
+                                                          configuration of the load, eliminating voids that occur
+● Efficient digging: Wide-set boom point sheaves stabi-                                                       with box-shaped dippers for improved fill factors. The
+   lize the dipper as it engages the bank for easier and                                                            trapezoidal shape also optimizes dipper size and weight
+  more efficient digging.                                                             for improved maneuverability and faster swing times.
+                                                        Additionally, an adjustable pitch brace allows rake
+Cat Cab                                                 angle changes to improve bank penetration, eliminate
+   Caterpillar’s state-of-the-art operator’s cab is the prod­      bulldozing, and improve productivity. Combined, the
+uct of a multi-year collaboration between Caterpillar,      FastFil features maximize the fill factor.
+mining companies and shovel operators. The cab pro-
+                                                 Operator Assist — Enhanced Motion Controlvides industry-leading visibility supplemented by five
+optimally-mounted cameras and display screens.  It       The operator assist — enhanced motion control sys-
+provides enhanced safety through dual access/egress     tem eliminates or reduces the occurrence of crowd
+doors and an optimally-placed trainer seat with inde-      over-speeds, crowd impacts, hoist stalls, boom jack-
+pendent emergency stop. Additionally, the cab offers      ing, and swinging while engaged in the bank. This is
+the smoothest, most comfortable ride available with      accomplished by intelligently controlling how motions
+an ergonomic, adjustable operator’s seat with a fully      are allowed to operate under certain conditions. The
+pneumatic suspension system, low-effort joysticks and     reduced system stress and equal or better cycle times
+dual display screens optimized for operator comfort.        improve shovel performance and cost per ton. This soft-
+                                                   ware is standard on all 7495 Series electric rope shovels.
+
+
+
+
+
+13-413-4
+
+=== SOURCE PDF PAGE 170 ===
+Features     Electric
+                                                       Rope Shovels
+
+
+
+
+Product Link Elite                             MineStar™ Health
+  This sytem boosts connectivity and increases the       MineStar™ Health is an industry-leading technology
+availability of data provided by the shovel. The onboard      offering that helps maximize equipment availability and
+hardware enables the shovel to collect and transmit        reliability. MineStar™ Health keeps you connected to
+information into locally hosted or cloud-hosted applica-     your machines so you can head off small problems while
+tions such as Cat MineStar™ Solutions Health Office,      they’re still small, run machines as efficiently as possible
+Health Equipment Insights, Equipment Care Advisor      for as long as possible, and keep unplanned downtime
+or Vision Link.                                             to a minimum.
+                                                 MineStar™ Health products and services enable you
+PTM Payload                                                           to collect and transmit equipment data, monitor critical
+  Loadcell technology directly measures padlock pin     machine parameters, obtain real-time alerts, analyze
+force and dipper accelerations to determine payload,      operational trends and patterns, predict failures and
+thereby providing real time feedback. It is an improvement      receive repair recommendations — assisting you with
+over traditional systems, which are quasi-static methods      proactive maintenance services and predictive equip-
+that rely on averaging to estimate dipper force and iner-     ment analysis.
+tial effects. PTM Payload can calculate material moved,
+monitor overloading of trucks, and empower operators    MineStar™ Terrain
+to study their loading efficiency and shift performance.        MineStar™ Terrain for loading is a machine guid-
+                                                      ance system that delivers real-time data in the cab—on
+Cycle Segmentation                                                          everything from bucket positioning and bench height to
+  Standard on new machines, this feature detects the      ore bodies and volume of material cut and filled. That
+machine operation mode and classifies the severity of      enables every operator to maximize machine efficiency,
+those operations (dig, swing to dump, dump, and return      leading to better material management, more accurate
+to dig).  It creates application profiles and composite      grades and less rework and wear.
+work cycles based on machine data. The data is stored
+onboard to provide key performance indicators and
+operator feedback in real time.  It is also transmitted
+offboard through Product Link Elite for back office
+applications.
+
+Integrated Technology Platform
+  This hardware provides the foundation to seamlessly
+integrate software solutions as well as interface with
+the MineStar™ product portfolio.  It provides a multi-
+generational building block approach to mature and
+launch machine-level technology solutions digitally,                                                        13
+eliminating future work stoppage for additional hard-
+ware installation.  It enables deployment of onboard
+machine technologies that support higher productivity,
+improved reliability, and increased cyber security. The
+Technology Controls network provides simple mainte-
+nance, troubleshooting and feature upgrades.
+
+Integral Fast Propel Transfer Switch
+  The Cat integral fast propel transfer switch is a more
+responsive system that improves mode transfer as much
+as 75% — delivering more production hours and reduc-
+ing service and costs due to downtime.
+
+
+
+
+
+                                                                                               13-5
+
+=== SOURCE PDF PAGE 171 ===
+Electric    General Dimensions
+Rope Shovels    ● 7295
+
+
+
+                                                                          ROTATION
+             CL
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                ROTATION
+                                                                    CL
+
+
+
+
+
+ MODEL                                                         7295
+ Boom Length                                                            18.00 m                         59'0"
+  A  Height                                                                 18.15 m                         59'7"
+  B  A-Frame Height                                                       11.94 m                         39'2"
+  C  Overall Width                                                       12.39 m                         40'8"
+  D  Tail Swing Radius                                                       7.80 m                       25"8"
+  E  Clearance Radius                                                      17.48 m                          57'4"
+  F  Radius of Level Floor*                                               14.90 m                         48'11"
+  G Minimum Ground Clearance                                            0.78 m                           2'6"
+  H  Track Length                                                        10.26 m                         33'8"
+     I   Operator Eye Level                                                   8.20 m                         26'11"
+*Dimensions based on 19 m3 (25 yd3) dipper.
+Information subject to change.
+All dimensions are approximate and will vary depending on dipper size.
+
+
+
+
+
+13-6
+
+=== SOURCE PDF PAGE 172 ===
+­General Dimensions     Electric
+                                                 ● 7395    Rope Shovels
+
+
+
+
+
+ MODEL                                                         7395
+ Boom Length                                                              19.51 m                         64'0"
+  A  Height                                                              19.50 m                         63'11"
+  B  A-Frame Height                                                     13.30 m                         43'8"
+  C  Overall Width                                                        13.01 m                         42'8"
+  D  Tail Swing Radius                                                    9.30 m                         30'8"
+  E  Clearance Radius                                                    19.05 m                         62'6"
+  F  Radius of Level Floor*                                               16.00 m                          52'4"
+  G Minimum Ground Clearance                                           0.86 m                          2'10"
+  H  Track Length                                                          10.41 m                         34'2"
+     I   Operator Eye Level                                                   8.64 m                          28'4"             13
+*Dimensions based on 24 m3 (32 yd3) dipper.
+Information subject to change.
+All dimensions are approximate and will vary depending on dipper size.
+
+
+
+
+
+                                                                                               13-7
+
+=== SOURCE PDF PAGE 173 ===
+Electric    General Dimensions
+Rope Shovels    ● 7495 HD
+
+
+
+
+
+ MODEL                                                        7495 HD
+ Boom Length                                                           20.40 m                         67'0"
+  A  Height                                                                20.10 m                        65'10"
+  B  A-Frame Height                                                     13.30 m                         43'8"
+  C  Overall Width                                                        13.01 m                         42'8"
+  D  Tail Swing Radius                                                    9.30 m                         30'8"
+  E  Clearance Radius                                                      19.74 m                         64'9"
+  F  Radius of Level Floor*                                                 15.70 m                          51'8"
+  G Minimum Ground Clearance                                           0.86 m                          2'10"
+  H  Track Length                                                          10.41 m                         34'2"
+     I   Operator Eye Level                                                   8.64 m                          28'4"
+*Dimensions based on 32 m3 (42 yd3) dipper.
+Information subject to change.
+All dimensions are approximate and will vary depending on dipper size.
+
+
+
+
+
+13-8
+
+=== SOURCE PDF PAGE 174 ===
+­General Dimensions     Electric
+                                                 ● 7495    Rope Shovels
+
+
+
+
+
+ MODEL                                                         7495
+ Boom Length                                                           20.40 m                         67'0"
+  A  Height                                                             20.87 m                         68'6"
+  B  A-Frame Height                                                     14.00 m                         46'0"
+  C  Overall Width                                                            13.11 m                         43'0"
+  D  Tail Swing Radius                                                    9.30 m                         30'8"
+  E  Clearance Radius                                                    19.65 m                         64'5"
+  F  Radius of Level Floor*                                                    17.10 m                          56'1"
+  G Minimum Ground Clearance                                          0.90 m                           3'0"
+  H  Track Length                                                          11.43 m                         37'6"
+     I   Operator Eye Level                                                   10.61 m                        34'10"             13
+*Dimensions based on 56 m3 (73 yd3) dipper.
+Information subject to change.
+All dimensions are approximate and will vary depending on dipper size.
+
+
+
+
+
+                                                                                               13-9
+
+=== SOURCE PDF PAGE 175 ===
+Electric    General Dimensions
+Rope Shovels    ● 7495 HydraCrowd
+
+
+
+
+
+ MODEL                                                    7495 HydraCrowd
+ Boom Length                                                           20.40 m                         67'0"
+  A  Height                                                             20.87 m                         68'6"
+  B  A-Frame Height                                                     14.00 m                         46'0"
+  C  Overall Width                                                            13.11 m                         43'0"
+  D  Tail Swing Radius                                                    9.30 m                         30'8"
+  E  Clearance Radius                                                    19.65 m                         64'5"
+  F  Radius of Level Floor*                                                    17.10 m                          56'1"
+  G Minimum Ground Clearance                                          0.90 m                           3'0"
+  H  Track Length                                                          11.43 m                         37'6"
+     I   Operator Eye Level                                                   10.61 m                        34'10"
+*Dimensions based on 56 m3 (73 yd3) dipper.
+Information subject to change.
+All dimensions are approximate and will vary depending on dipper size.
+
+
+
+
+
+13-10
+
