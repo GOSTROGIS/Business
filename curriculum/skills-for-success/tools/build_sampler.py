@@ -10,10 +10,10 @@ SELECTIONS = [
     ('learner-textbook', None, 'Redesigned nine-skills cover'),
     ('learner-textbook', 'Six parts of a useful reading process', 'Reading component map'),
     ('learner-textbook', 'Count the packs. Then check the order.', 'Whole packs and the complete order cost'),
-    ('learner-textbook', 'Area is only the first check.', 'Dimensioned board, margins and card layout'),
-    ('learner-textbook', 'Six cards. Five broad stages.', 'Equipment roles and the screed component'),
+    ('learner-textbook', 'Say it. Check it. Switch roles.', 'Communication in one visible exchange'),
+    ('learner-textbook', 'Choose a format that keeps the work useful', 'AI and useful file formats'),
     ('learner-textbook', 'Make the parts the same size.', 'Fraction strips and regrouping one whole'),
-    ('practitioner-guide', 'Build a cause map from evidence', 'Evidence-led fishbone diagram'),
+    ('practitioner-guide', 'An audit needs a location and evidence', 'Audit an AI draft against confirmed facts'),
     ('practitioner-guide', 'Make the next action easy to find.', 'Annotated email specimen'),
 ]
 

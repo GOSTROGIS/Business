@@ -104,6 +104,7 @@ class HTMLDocument(HTMLParser):
         self.ids: list[str] = []
         self.links: list[str] = []
         self.headings: list[str] = []
+        self.activity_ids: list[str] = []
         self.text: list[str] = []
         self.figures: list[dict] = []
         self.body_attributes: dict = {}
@@ -116,6 +117,8 @@ class HTMLDocument(HTMLParser):
 
     def handle_starttag(self, tag, attrs):
         attributes = dict(attrs)
+        if attributes.get("data-activity-id"):
+            self.activity_ids.append(attributes["data-activity-id"])
         if tag == "body":
             self.body_attributes = attributes
         if "toc-page" in attributes.get("class", "").split():
@@ -509,7 +512,7 @@ class Verifier:
                 self.check(not reference_framing, "standalone books",
                            f"Reference-guide framing remains in {path.name}: {reference_framing[:8]}")
                 for prefix in ("RD", "WR", "NU", "DG", "PS", "CM", "CL", "AD", "CI"):
-                    self.check(bool(re.search(rf"\bck\s+{prefix.lower()}\b", body)), "fresh practice coverage",
+                    self.check(any(x == "CK-" + prefix or x.startswith("CK-" + prefix + "-") for x in doc.activity_ids), "fresh practice coverage",
                                f"Fresh {prefix} practice missing from {path.name}")
                 headings = [normalized(heading) for heading in doc.headings]
                 spec = self.book_specs.get(path.stem, {})
@@ -890,8 +893,10 @@ class Verifier:
             for prefix, count in [(prefix, 18) for _, prefix, _ in SKILLS] + [("CP", 12)]:
                 for number in range(1, count + 1):
                     activity = f"{prefix}-{number:02d}"
-                    self.check(re.search(rf"\b{re.escape(normalized(activity))}\b", body), "PDF activity coverage",
-                               f"Missing activity {activity} from {path.name}")
+                    from plain_language import task_names
+                    name = task_names().get(activity)
+                    self.check(bool(name) and normalized(name) in body, "PDF activity coverage",
+                               f"Missing named activity {activity} ({name}) from {path.name}")
             self.artifacts[path.name] = {"bytes": path.stat().st_size, "pages": len(reader.pages), "URI_annotations": annotations}
 
     def verify_sampler(self):

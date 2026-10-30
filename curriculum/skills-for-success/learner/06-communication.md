@@ -8,6 +8,22 @@ In B.C., a training group may include First Nations, Métis and Inuit learners f
 
 All cases, people, times and arrangements are invented classroom examples. The asphalt content introduces equipment purposes, not live operating procedures. Practise with a clear purpose and opportunities to pause, receive feedback and try again.
 
+## See it in action · Communication
+
+<!-- visual:quick-communication--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-communication--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Communication — visual"><img src="../assets/diagrams/quick-communication.svg" alt="SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Both people can state the same plan. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-communication.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.</p></details>
+</figure>
+<!-- /visual:quick-communication--learner -->
+
+This small fictional example shows the skill in use. SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”.
+
+**Try it:** Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch.
+
+**Check your result:** Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.
+
 ## Six connected components
 
 <!-- visual:middle-communication-components--learner-06 -->
@@ -29,18 +45,23 @@ The six components below help you receive and share meaning. Use appropriate com
 | 5. Adapt to your audience and contexts | Consider what this audience knows and needs without stereotyping. | CM-13–CM-15 |
 | 6. Adapt to other people's different communication modes and tools | Agree a usable channel, pace and check-back method. | CM-16–CM-18 |
 
-A shared product does not show every person's communication. Each learner needs turns sending and receiving a message. A written summary may help, but do not use its spelling or length as the only evidence of listening. The instructor can observe a paraphrase, a selected response, an appropriate action in the simulation or a clarification exchange. Recording is optional and requires agreement; live observation also provides evidence.
+Take both turns: send a message, then receive one. When you receive it, say the key point back in your own words or show the correct next action. Ask a question if something is unclear. Your partner confirms or explains again. Your instructor watches how you reach understanding; you do not need a long written answer or a recording.
 
 <!-- teaching:cm-route-learner -->
 ## Communication route card
 
-**Core route.** Begin with a purpose and usable mode. Practise a check-back, clarification and contradiction repair with CM-01/02/04/05/06. Use CM-08/11/12 for an instruction, call and handover; then CM-14/15/16/18 for assumptions, audience choices and a changed-mode exchange. Take both sender and receiver turns in CK-CM. Keep the source/version, essential details confirmed and the actual question/response.
+**Practise in four steps**
+
+1. Agree how to communicate and what the message must achieve.
+2. Send a short instruction or handover. The receiver repeats the essential meaning and asks about any uncertainty.
+3. Confirm or repair the message, then switch sender and receiver roles.
+4. Try a changed audience or communication mode. Keep the actual message, question and confirmation.
 
 **Support route.** Use a familiar chapter source first, a key-detail organizer with headings but no completed answers, a learner-controlled communication tool, agreed interpretation or an instructor counterpart. Rehearse “What is the current room/time?” or another learner-chosen clarification. If an instructor supplies a phrase or points to the missed answer, record that support on the relevant criterion. Reduce unrelated writing; let the receiver show meaning through a check-back, selected details or an appropriate action. No speed or eye-contact target is added.
 
 **Retry route.** Choose the missed action, receive feedback and try it again with the familiar source. If the next goal is unfamiliar reception, use held CK-CM Card C only when it is genuinely unseen by the receiver. Record prior exposure honestly; otherwise arrange another checked message. Compare the essential details and how the uncertainty was resolved, not how confident the learner looked.
 
-**Chapter coverage map:** preparation CM-01/02/05/07/10/13/14/15; guided/observed practice CM-03/04/06/08/09/11/12/16/17/18. Combine activities only when their distinct actions remain visible. A single receiver turn does not supply the sender evidence.
+**What the instructor observes.** Observe each learner both sending and receiving. A receiver turn alone does not show how that learner sends a message.
 
 **Next-attempt agreement:** criterion ___; message/version ___; sender/receiver role ___; mode/language ___; access and task support ___; observer/date ___; evidence still missing ___.
 <!-- /teaching:cm-route-learner -->

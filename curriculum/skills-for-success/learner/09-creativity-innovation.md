@@ -8,6 +8,22 @@
 </figure>
 <!-- /visual:social-creativity-six-components--learner-09 -->
 
+## See it in action · Creativity and innovation
+
+<!-- visual:quick-creativity-innovation--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-creativity-innovation--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Creativity and innovation — visual"><img src="../assets/diagrams/quick-creativity-innovation.svg" alt="NEED: Find the current card quickly. IDEAS: Divider tabs or a labelled tray. Suggest two useful options. Make a small prototype. Ask a user to try it; improve. A tested improvement, with a reason. Choose a visible measure: correct selection, clear labels or fewer steps." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> A tested improvement, with a reason. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-creativity-innovation.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>NEED: Find the current card quickly. IDEAS: Divider tabs or a labelled tray. Suggest two useful options. Make a small prototype. Ask a user to try it; improve. A tested improvement, with a reason. Choose a visible measure: correct selection, clear labels or fewer steps.</p></details>
+</figure>
+<!-- /visual:quick-creativity-innovation--learner -->
+
+This small fictional example shows the skill in use. NEED: Find the current card quickly. IDEAS: Divider tabs or a labelled tray.
+
+**Try it:** Suggest two useful options. Make a small prototype. Ask a user to try it; improve.
+
+**Check your result:** A tested improvement, with a reason. Choose a visible measure: correct selection, clear labels or fewer steps.
+
 ## Useful ideas can begin with an ordinary question
 
 Creativity and innovation involve imagining possibilities, developing ideas and putting them into use. You do not need to be an artist, invent a product for sale or produce an idea nobody has ever had. An idea can be new to you or useful in a particular setting. A clearer information card, a better way to organize a practice kit or a different explanation of a number can all make learning and work easier.
@@ -32,13 +48,18 @@ A useful design is developed with attention to the people who will use it. An ur
 <!-- teaching:ci-route-learner -->
 ## Creativity and Innovation route card
 
-**Core route.** Identify the user's task with CI-01/02/03/04. Generate different options with CI-05/06/07, select/develop with CI-08/09/10 and plan a fair trial with CI-11/12. Use CI-13/14/15 to distinguish observation from inference and make a bounded revision. In CK-CI, keep options, a prototype, actual user actions, help given and a reasoned next version or keep decision. Give a partner concrete feedback without taking over their design.
+**Practise in four steps**
+
+1. Observe what a user needs to do. State one useful improvement.
+2. Generate different options, compare them and make a small usable version.
+3. Let a partner try it. Record what they actually do and any help they need.
+4. Keep or revise a feature for a stated reason. Give useful feedback without taking over another person’s design.
 
 **Support route.** Use plain words, movable cards, a spoken specification or a learner-directed scribe. Start with one visible need and practise two approaches before the fuller three-option attempt. A model can support learning; record when it was available and do not call the copied solution independent idea generation. Ask a willing partner or the instructor to be the user. No artistic quality, cultural motif or personal story is required.
 
 **Retry route.** Change one feature in response to actual evidence, or retain an effective feature with a reason. Try the held status-change card and matching user request. Separate help to the designer from prompts to the user. A repeat with a familiar user shows that repeat under those conditions; it does not establish first-use accessibility or usefulness for everyone. If a truly new user is needed, arrange one rather than claiming a familiar partner is new.
 
-**Chapter coverage map:** preparation CI-01/02/03/04/05/07/08/09/11/13; guided/observed action CI-06/10/12/14/15/16; next-context planning/evidence review CI-17/18. A transfer plan needs later action before it can be called observed application.
+**What the instructor observes.** Keep the options, prototype, trial observations and reason for the next version. A plan for later use needs a later observation.
 
 **Next-attempt agreement:** user task ___; design decision ___; authoring support ___; user/role and prior familiarity ___; trial prompts ___; change/keep reason ___; observer/booking ___; limit of conclusion ___.
 <!-- /teaching:ci-route-learner -->

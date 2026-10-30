@@ -6,6 +6,22 @@ You can build writing through practice, feedback and revision. You may already o
 
 All people, organizations, schedules, quantities and funding arrangements below are invented for learning. The documents resemble useful workplace and classroom formats, but they are original simulations. They do not establish a legal reporting requirement or a workplace procedure. The focus is writing that is accurate for the information you have.
 
+## See it in action · Writing
+
+<!-- visual:quick-writing--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-writing--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Writing — visual"><img src="../assets/diagrams/quick-writing.svg" alt="NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Please confirm a loan of two calculators. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-writing.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.</p></details>
+</figure>
+<!-- /visual:quick-writing--learner -->
+
+This small fictional example shows the skill in use. NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed.
+
+**Try it:** Name the reader and request. Include quantity and timing. Ask for confirmation; revise.
+
+**Check your result:** Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.
+
 ## Six parts of writing with a purpose
 
 <!-- visual:foundation-writing-map--learner-02 -->

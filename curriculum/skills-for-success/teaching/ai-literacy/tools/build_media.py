@@ -1,0 +1,48 @@
+"""Build a self-contained original study-media example with synthetic narration and timed captions."""
+from pathlib import Path
+from html import escape
+import subprocess,json,hashlib,shutil
+import fitz
+from playwright.sync_api import sync_playwright
+R=Path(__file__).resolve().parents[1];F=R/'fixtures';T=Path('/workspace/scratch/ai-literacy/media-build');T.mkdir(parents=True,exist_ok=True)
+scenes=[
+('Choose the file for the job','This is a synthetic study voice. Choose the file format for the work you need to do. Keep an editable master and a checked reading copy.','EDITABLE MASTER  +  CHECKED READING COPY'),
+('DOCX keeps wording editable','A D O C X document lets you revise words, headings and tables. Use it for an editable notice. Open the saved file and check its contents.','DOCX  /  WORDS · HEADINGS · TABLES'),
+('XLSX keeps calculations working','An X L S X workbook can keep sheets and formulas. Change an input, inspect the formula and check that the total recalculates.','XLSX  /  INPUT → FORMULA → CHECKED TOTAL'),
+('PDF keeps a reading copy','A P D F is a page based reading copy. Check every page for missing rows or cut off words. Keep the editable source as well.','PDF  /  OPEN EVERY EXPORTED PAGE'),
+('Your turn','A quantity changes. Which file should you update first: the working workbook or its old P D F copy? Pause and explain your choice.','WHICH FILE SHOULD CHANGE FIRST?'),
+('Pause to answer','', 'THINK · EXPLAIN · THEN CHECK'),
+('Check your answer','Update the working workbook. Check the formulas and total, then create and inspect a fresh reading copy. Keep the old version so the change can be traced.','WORKBOOK → CHECK → NEW READING COPY')]
+manifest=[];concat=[];vtt=['WEBVTT',''];srt=[];time=0
+font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
+def run(args):subprocess.run(args,check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
+def stamp(t,comma=False):
+ ms=round(t*1000);h,ms=divmod(ms,3600000);m,ms=divmod(ms,60000);s,ms=divmod(ms,1000);return f'{h:02}:{m:02}:{s:02}'+(',' if comma else '.')+f'{ms:03}'
+with sync_playwright() as pw:
+ b=pw.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox']);page=b.new_page(viewport={'width':1280,'height':720},device_scale_factor=1)
+ for i,(title,spoken,label) in enumerate(scenes):
+  wav=T/f'{i}.wav';txt=T/f'{i}.txt';txt.write_text(spoken)
+  if spoken:run(['ffmpeg','-y','-f','lavfi','-i',f'flite=textfile={txt}:voice=slt','-ar','44100','-ac','1',str(wav)])
+  else:run(['ffmpeg','-y','-f','lavfi','-i','anullsrc=r=44100:cl=mono','-t','5',str(wav)])
+  dur=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','json',str(wav)]).decode().split('"duration": "')[1].split('"')[0]);dur+=.35
+  # A clear original vector slide; the progress rail and active format change by scene.
+  cards=''
+  for j,(ext,sub) in enumerate([('DOCX','Revise wording'),('XLSX','Recalculate'),('PDF','Read + share')]):
+   x=70+j*390;active=(i==j+1 or i in [0,4,5,6]);c='#a93332' if active else '#777d76';cards+=f'<rect x="{x}" y="210" width="360" height="238" rx="18" fill="#fffdf8"/><path d="M{x+26} 238h50l22 22v66h-72zM{x+76} 238v22h22" fill="none" stroke="{c}" stroke-width="3"/><text x="{x+118}" y="290" fill="{c}" font-size="42" font-weight="700">{ext}</text><text x="{x+28}" y="397" font-size="28" fill="#252927">{sub}</text>'
+  svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img"><title>{escape(title)}</title><rect width="1280" height="720" fill="#f7f2e8"/><rect width="1280" height="150" fill="#242827"/><g font-family="Arial, sans-serif"><text x="60" y="45" fill="#d5ad62" font-size="20">ACCESS IS4S · FILE FORMATS · SYNTHETIC NARRATION</text><text x="60" y="105" fill="white" font-size="43" font-weight="700">{escape(title)}</text>{cards}<text x="640" y="500" text-anchor="middle" font-size="27" font-weight="700" fill="#276b66">{escape(label)}</text><rect x="60" y="546" width="1160" height="8" rx="4" fill="#dfd7c8"/><rect x="60" y="546" width="{1160*(i+1)/7}" height="8" rx="4" fill="#a93332"/><text x="60" y="591" fill="#535c58" font-size="20">{i+1} / 7 · Original teaching example · Check the transcript and captions</text></g></svg>'
+  (F/f'study-scene-{i+1}.svg').write_text(svg);page.set_content('<style>body{margin:0}svg{display:block;width:1280px;height:720px}</style>'+svg);page.screenshot(path=str(T/f'{i}.png'))
+  # Burn readable captions on two/three short lines; no rapid rolling text.
+  import textwrap
+  caption=spoken.replace('D O C X','DOCX').replace('X L S X','XLSX').replace('P D F','PDF') if spoken else '[Pause to answer]'
+  chunks=textwrap.wrap(caption,78);chunk_duration=dur/max(1,len(chunks));local=['WEBVTT','']
+  for j,line in enumerate(chunks):
+   start=time+j*chunk_duration;end=time+(j+1)*chunk_duration;vtt += [f'{stamp(start)} --> {stamp(end)}',line,''];srt += [str(sum(1 for x in srt if '-->' in x)+1),f'{stamp(start,True)} --> {stamp(end,True)}',line,''];local += [f'{stamp(j*chunk_duration)} --> {stamp((j+1)*chunk_duration)}',line,'']
+  (T/f'{i}.vtt').write_text('\n'.join(local))
+  run(['ffmpeg','-y','-loop','1','-i',str(T/f'{i}.png'),'-i',str(wav),'-t',str(dur),'-vf',f"subtitles={T}/{i}.vtt:force_style='FontName=DejaVu Sans,FontSize=21,PrimaryColour=&H00FFFFFF,BackColour=&H00242827,BorderStyle=3,Outline=1,MarginV=18'",'-c:v','libx264','-preset','fast','-tune','stillimage','-pix_fmt','yuv420p','-r','24','-c:a','aac','-b:a','128k','-af','apad',str(T/f'{i}.mp4')])
+  concat.append(f"file '{T}/{i}.mp4'");manifest.append({'scene':i+1,'title':title,'start_seconds':round(time,3),'end_seconds':round(time+dur,3),'narration':spoken,'visual_label':label,'svg':f'study-scene-{i+1}.svg'});time+=dur
+ b.close()
+(T/'concat.txt').write_text('\n'.join(concat));run(['ffmpeg','-y','-f','concat','-safe','0','-i',str(T/'concat.txt'),'-c','copy','-movflags','+faststart',str(F/'file-formats-study.mp4')]);run(['ffmpeg','-y','-i',str(F/'file-formats-study.mp4'),'-vn','-c:a','pcm_s16le',str(F/'file-formats-study.wav')]);run(['ffmpeg','-y','-i',str(F/'file-formats-study.wav'),'-c:a','libmp3lame','-b:a','96k',str(F/'file-formats-study.mp3')])
+(F/'file-formats-study.vtt').write_text('\n'.join(vtt));(F/'file-formats-study.srt').write_text('\n'.join(srt));(F/'file-formats-transcript.txt').write_text('FILE FORMATS STUDY — ORIGINAL ACCESS IS4S EXAMPLE\nSynthetic voice: Flite slt, generated locally. No real person is represented.\n\n'+'\n\n'.join(x['title']+'\n'+(x['narration'] or '[Five-second pause]')+'\nVisual: '+x['visual_label'] for x in manifest));(F/'storyboard.json').write_text(json.dumps({'creator':'ACCESS IS4S','date':'2026-10-30','voice':'Flite slt synthetic TTS; not a commercial AI-product output','scenes':manifest},indent=2)+'\n')
+(F/'study-flashcards.csv').write_text('Question,Answer\nWhat format keeps an editable notice?,DOCX\nWhat format keeps sheets and formulas?,XLSX\nWhat format provides a page-based reading copy?,PDF\nDoes renaming a CSV to XLSX convert it?,No; use a real conversion and verify it.\nWhat should change first when quantities change?,The working workbook; check formulas then export a new reading copy.\nWhy keep a transcript?,It gives a readable equivalent and supports checking spoken content.\n')
+html='''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>File formats · Study audio and video | ACCESS IS4S</title><style>body{font:18px/1.6 sans-serif;background:#f7f2e8;color:#242827;max-width:1050px;margin:auto;padding:24px}h1{color:#a93332}video{width:100%;height:auto}audio{width:100%}a{color:#225d58}details{padding:16px;border:1px solid #aaa}pre{white-space:pre-wrap}</style><main><p>ACCESS · Indigenous Skills 4 Success</p><h1>Choose the file for the job</h1><p>Original study example with neutral synthetic narration. The script and diagrams were created for this lesson. The voice is generated locally with Flite; it does not represent a real person or a named commercial AI platform.</p><video controls preload="metadata" aria-label="Captioned file-format study lesson"><source src="fixtures/file-formats-study.mp4" type="video/mp4"><track kind="captions" src="fixtures/file-formats-study.vtt" srclang="en" label="English" default></video><p>Captions are also visible in the video. Turn the optional player caption track off if it duplicates them.</p><h2>Listen</h2><audio controls preload="metadata" src="fixtures/file-formats-study.mp3">Download the MP3 below.</audio><p><a href="fixtures/file-formats-study.mp3" download>MP3 audio</a> · <a href="fixtures/file-formats-study.wav" download>WAV master</a> · <a href="fixtures/file-formats-study.mp4" download>MP4 video</a> · <a href="fixtures/file-formats-study.vtt" download>WebVTT captions</a> · <a href="fixtures/file-formats-study.srt" download>SRT captions</a> · <a href="fixtures/storyboard.json">Storyboard</a> · <a href="fixtures/study-flashcards.csv" download>Flashcards CSV</a></p><h2>Transcript and visual description</h2><pre>'''+escape((F/'file-formats-transcript.txt').read_text())+'''</pre><p><a href="learner.html">Return to AI-literacy learning</a></p></main></html>''';(R/'media.html').write_text(html)
+(F/'media-manifest.json').write_text(json.dumps({'duration_seconds':round(time,3),'width':1280,'height':720,'captions':'burned in and separate SRT/WebVTT','files':[{'name':p.name,'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in sorted(F.iterdir()) if p.name.startswith(('file-formats','study-scene','storyboard','study-flash'))]},indent=2)+'\n');print('Built media; duration',round(time,2),'seconds')

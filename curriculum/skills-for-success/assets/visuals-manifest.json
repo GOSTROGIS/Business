@@ -766,6 +766,306 @@
       "caption": "Follow a quantity from the target through stock, whole packs, cost and a final check.",
       "alt": "The worked example needs nineteen labels: eight kits times two labels plus three spares. Six labels are available, so thirteen more are needed. Packs contain five labels, so buy three whole packs. Three packs at two dollars and twenty cents cost six dollars and sixty cents. Final stock is twenty-one, two beyond the target. A separate blank record has space for the same five calculation stages using a new agreed example.",
       "kind": "diagram"
+    },
+    {
+      "id": "ai-file-formats--learner-04-digital",
+      "file": "assets/diagrams/ai-file-formats.svg",
+      "source": "learner/04-digital.md",
+      "after_heading": "File extensions are a practical superpower",
+      "caption": "Choose the format for the work it must preserve. Renaming is not conversion. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six file cards compare DOCX editing, XLSX formulas, PDF pages, HTML browser structure, CSV tables and JSON data.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-workflow--learner-04-digital",
+      "file": "assets/diagrams/ai-workflow.svg",
+      "source": "learner/04-digital.md",
+      "after_heading": "Give AI a brief it can act on",
+      "caption": "Direct the task, create actual files, audit with evidence and reopen the result. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six stages: brief, source, create, audit, verify and hand over. Findings lead back to revision.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-audit--learner-04-digital",
+      "file": "assets/diagrams/ai-audit.svg",
+      "source": "learner/04-digital.md",
+      "after_heading": "Audit work against evidence",
+      "caption": "A finding needs a location, source evidence and a checked correction. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "A simulated incorrect notice is compared with the confirmed event facts: 24 participants, Cedar Room and $272 planned cost. Transport and childcare are unconfirmed.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-version-check--learner-04-digital",
+      "file": "assets/diagrams/ai-version-check.svg",
+      "source": "learner/04-digital.md",
+      "after_heading": "Finish with a human release check",
+      "caption": "The partial practice change and full version-2 change produce different totals. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Original total $272, remaining $28. Refreshments-only copy total $278.50, remaining $21.50. Full version 2 total $291.50, remaining $8.50. All values CAD.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-file-formats--practitioner-06-digital",
+      "file": "assets/diagrams/ai-file-formats.svg",
+      "source": "practitioner/06-digital.md",
+      "after_heading": "File extensions are a practical superpower",
+      "caption": "Choose the format for the work it must preserve. Renaming is not conversion. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six file cards compare DOCX editing, XLSX formulas, PDF pages, HTML browser structure, CSV tables and JSON data.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-workflow--practitioner-06-digital",
+      "file": "assets/diagrams/ai-workflow.svg",
+      "source": "practitioner/06-digital.md",
+      "after_heading": "Give AI a brief it can act on",
+      "caption": "Direct the task, create actual files, audit with evidence and reopen the result. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six stages: brief, source, create, audit, verify and hand over. Findings lead back to revision.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-audit--practitioner-06-digital",
+      "file": "assets/diagrams/ai-audit.svg",
+      "source": "practitioner/06-digital.md",
+      "after_heading": "Audit work against evidence",
+      "caption": "A finding needs a location, source evidence and a checked correction. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "A simulated incorrect notice is compared with the confirmed event facts: 24 participants, Cedar Room and $272 planned cost. Transport and childcare are unconfirmed.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-version-check--practitioner-06-digital",
+      "file": "assets/diagrams/ai-version-check.svg",
+      "source": "practitioner/06-digital.md",
+      "after_heading": "Finish with a human release check",
+      "caption": "The partial practice change and full version-2 change produce different totals. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Original total $272, remaining $28. Refreshments-only copy total $278.50, remaining $21.50. Full version 2 total $291.50, remaining $8.50. All values CAD.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-file-formats--ai-literacy-learner",
+      "file": "assets/diagrams/ai-file-formats.svg",
+      "source": "teaching/ai-literacy/learner.md",
+      "after_heading": "File extensions are a practical superpower",
+      "caption": "Choose the format for the work it must preserve. Renaming is not conversion. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six file cards compare DOCX editing, XLSX formulas, PDF pages, HTML browser structure, CSV tables and JSON data.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-workflow--ai-literacy-learner",
+      "file": "assets/diagrams/ai-workflow.svg",
+      "source": "teaching/ai-literacy/learner.md",
+      "after_heading": "Give AI a brief it can act on",
+      "caption": "Direct the task, create actual files, audit with evidence and reopen the result. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Six stages: brief, source, create, audit, verify and hand over. Findings lead back to revision.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-audit--ai-literacy-learner",
+      "file": "assets/diagrams/ai-audit.svg",
+      "source": "teaching/ai-literacy/learner.md",
+      "after_heading": "Audit work against evidence",
+      "caption": "A finding needs a location, source evidence and a checked correction. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "A simulated incorrect notice is compared with the confirmed event facts: 24 participants, Cedar Room and $272 planned cost. Transport and childcare are unconfirmed.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "ai-version-check--ai-literacy-learner",
+      "file": "assets/diagrams/ai-version-check.svg",
+      "source": "teaching/ai-literacy/learner.md",
+      "after_heading": "Finish with a human release check",
+      "caption": "The partial practice change and full version-2 change produce different totals. ACCESS IS4S. (2026). Original instructional SVG. Fictional case.",
+      "alt": "Original total $272, remaining $28. Refreshments-only copy total $278.50, remaining $21.50. Full version 2 total $291.50, remaining $8.50. All values CAD.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-reading--learner",
+      "file": "assets/diagrams/quick-reading.svg",
+      "source": "learner/01-reading.md",
+      "after_heading": "See it in action · Reading",
+      "caption": "Meet in Room 2 at 10:00. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-reading--practitioner",
+      "file": "assets/diagrams/quick-reading.svg",
+      "source": "practitioner/03-reading.md",
+      "after_heading": "See it in action · Reading",
+      "caption": "Meet in Room 2 at 10:00. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-writing--learner",
+      "file": "assets/diagrams/quick-writing.svg",
+      "source": "learner/02-writing.md",
+      "after_heading": "See it in action · Writing",
+      "caption": "Please confirm a loan of two calculators. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-writing--practitioner",
+      "file": "assets/diagrams/quick-writing.svg",
+      "source": "practitioner/04-writing.md",
+      "after_heading": "See it in action · Writing",
+      "caption": "Please confirm a loan of two calculators. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-numeracy--learner",
+      "file": "assets/diagrams/quick-numeracy.svg",
+      "source": "learner/03-numeracy.md",
+      "after_heading": "See it in action · Numeracy",
+      "caption": "Five folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-numeracy--practitioner",
+      "file": "assets/diagrams/quick-numeracy.svg",
+      "source": "practitioner/05-numeracy.md",
+      "after_heading": "See it in action · Numeracy",
+      "caption": "Five folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-digital--learner",
+      "file": "assets/diagrams/quick-digital.svg",
+      "source": "learner/04-digital.md",
+      "after_heading": "See it in action · Digital",
+      "caption": "Three folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "SOURCE: 18 issued; 13 returned. UPDATE: 2 more folders returned. Save an editable first version. Change returned from 13 to 15. Reopen and check the new file. Three folders remain outstanding. Keep the first version. Use AI to help, then verify the actual file.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-digital--practitioner",
+      "file": "assets/diagrams/quick-digital.svg",
+      "source": "practitioner/06-digital.md",
+      "after_heading": "See it in action · Digital",
+      "caption": "Three folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "SOURCE: 18 issued; 13 returned. UPDATE: 2 more folders returned. Save an editable first version. Change returned from 13 to 15. Reopen and check the new file. Three folders remain outstanding. Keep the first version. Use AI to help, then verify the actual file.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-problem-solving--learner",
+      "file": "assets/diagrams/quick-problem-solving.svg",
+      "source": "learner/05-problem-solving.md",
+      "after_heading": "See it in action · Problem solving",
+      "caption": "Use the confirmed current instruction. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-problem-solving--practitioner",
+      "file": "assets/diagrams/quick-problem-solving.svg",
+      "source": "practitioner/07-problem-solving.md",
+      "after_heading": "See it in action · Problem solving",
+      "caption": "Use the confirmed current instruction. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-communication--learner",
+      "file": "assets/diagrams/quick-communication.svg",
+      "source": "learner/06-communication.md",
+      "after_heading": "See it in action · Communication",
+      "caption": "Both people can state the same plan. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-communication--practitioner",
+      "file": "assets/diagrams/quick-communication.svg",
+      "source": "practitioner/08-communication.md",
+      "after_heading": "See it in action · Communication",
+      "caption": "Both people can state the same plan. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-collaboration--learner",
+      "file": "assets/diagrams/quick-collaboration.svg",
+      "source": "learner/07-collaboration.md",
+      "after_heading": "See it in action · Collaboration",
+      "caption": "One checked notice; two visible contributions. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "PERSON A: Check the source facts. PERSON B: Build the notice. Agree the goal and roles. Share progress and ask for help. Review together; name next steps. One checked notice; two visible contributions. A shared file alone does not show what each person did.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-collaboration--practitioner",
+      "file": "assets/diagrams/quick-collaboration.svg",
+      "source": "practitioner/09-collaboration.md",
+      "after_heading": "See it in action · Collaboration",
+      "caption": "One checked notice; two visible contributions. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "PERSON A: Check the source facts. PERSON B: Build the notice. Agree the goal and roles. Share progress and ask for help. Review together; name next steps. One checked notice; two visible contributions. A shared file alone does not show what each person did.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-adaptability--learner",
+      "file": "assets/diagrams/quick-adaptability.svg",
+      "source": "learner/08-adaptability.md",
+      "after_heading": "See it in action · Adaptability",
+      "caption": "The notice and budget both say 26. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-adaptability--practitioner",
+      "file": "assets/diagrams/quick-adaptability.svg",
+      "source": "practitioner/10-adaptability.md",
+      "after_heading": "See it in action · Adaptability",
+      "caption": "The notice and budget both say 26. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-creativity-innovation--learner",
+      "file": "assets/diagrams/quick-creativity-innovation.svg",
+      "source": "learner/09-creativity-innovation.md",
+      "after_heading": "See it in action · Creativity and innovation",
+      "caption": "A tested improvement, with a reason. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NEED: Find the current card quickly. IDEAS: Divider tabs or a labelled tray. Suggest two useful options. Make a small prototype. Ask a user to try it; improve. A tested improvement, with a reason. Choose a visible measure: correct selection, clear labels or fewer steps.",
+      "kind": "diagram",
+      "placement": "after_heading"
+    },
+    {
+      "id": "quick-creativity-innovation--practitioner",
+      "file": "assets/diagrams/quick-creativity-innovation.svg",
+      "source": "practitioner/11-creativity-innovation.md",
+      "after_heading": "See it in action · Creativity and innovation",
+      "caption": "A tested improvement, with a reason. ACCESS IS4S. (2026). Original fictional teaching diagram.",
+      "alt": "NEED: Find the current card quickly. IDEAS: Divider tabs or a labelled tray. Suggest two useful options. Make a small prototype. Ask a user to try it; improve. A tested improvement, with a reason. Choose a visible measure: correct selection, clear labels or fewer steps.",
+      "kind": "diagram",
+      "placement": "after_heading"
     }
   ],
   "notes": [

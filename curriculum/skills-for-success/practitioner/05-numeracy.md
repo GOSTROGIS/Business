@@ -4,6 +4,22 @@ Numeracy develops through useful questions and visible reasoning. A learner may 
 
 The learner chapter offers fictional supply orders, journey planning and an information-board layout. These connect with training, employment and community tasks in British Columbia while keeping personal finances and private circumstances outside the exercise. Learners may bring another non-sensitive context if they wish. Recognize experience in estimating, sharing quantities, planning time and checking materials without assuming that every learner has the same experience.
 
+## See it in action · Numeracy
+
+<!-- visual:quick-numeracy--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-numeracy--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Numeracy — visual"><img src="../assets/diagrams/quick-numeracy.svg" alt="ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Five folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-numeracy.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.</p></details>
+</figure>
+<!-- /visual:quick-numeracy--practitioner -->
+
+This small fictional example shows the skill in use. ISSUED: 18 folders. RETURNED: 13 folders.
+
+**Try it:** Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18.
+
+**Check your result:** Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.
+
 ## Use the complete numeracy cycle
 
 <!-- visual:foundation-numeracy-map--practitioner-05 -->
@@ -16,7 +32,7 @@ The learner chapter offers fictional supply orders, journey planning and an info
 
 The six components are identifying the task; identifying mathematical information; connecting information; applying operations and tools; interpreting and evaluating; and sharing results and implications. Keep all six visible. A worksheet that ends at a calculator answer leaves interpretation and communication unobserved. Ask what the answer means, whether it is plausible and what another person needs to know before using it.
 
-NU-01–NU-06 develop this cycle through quantities, stock, packs and budget conditions. NU-07–NU-10 use time and fares. NU-11–NU-16 distinguish units, area, perimeter, fit and data displays. NU-17–NU-18 require transfer and a numerical handover. Tables, graphs and diagrams connect mathematical information with the task. Keep sharing and explaining the result visible alongside calculation.
+Practise with quantities, stock, whole packs and budgets before moving to time and fares. Then compare units, area, perimeter, fit and data displays. In every task, ask the learner to show the calculation, check whether the result makes sense and explain what someone should do with it.
 
 ## Attend to confidence and the learning conditions
 

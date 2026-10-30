@@ -4,6 +4,22 @@ Writing instruction begins with a reader and a purpose. A short message that giv
 
 The learner chapter uses fictional resource requests, materials records, classroom procedures and visitor notices. These purposes connect with training, work and community activity in British Columbia. Invite an alternative context when it serves the same outcome, without requiring private correspondence, family history or cultural knowledge. Learners retain authorship: support may help them produce and review text, but an instructor's rewrite is not evidence of the learner's decisions.
 
+## See it in action · Writing
+
+<!-- visual:quick-writing--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-writing--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Writing — visual"><img src="../assets/diagrams/quick-writing.svg" alt="NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Please confirm a loan of two calculators. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-writing.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed. Name the reader and request. Include quantity and timing. Ask for confirmation; revise. Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.</p></details>
+</figure>
+<!-- /visual:quick-writing--practitioner -->
+
+This small fictional example shows the skill in use. NEED: 2 calculators by 09:00. RETURN: 11:45; loan not confirmed.
+
+**Try it:** Name the reader and request. Include quantity and timing. Ask for confirmation; revise.
+
+**Check your result:** Please confirm a loan of two calculators. Include collection and return times. A request is not a confirmed loan.
+
 ## Keep the six components connected
 
 <!-- visual:foundation-writing-map--practitioner-04 -->
@@ -14,7 +30,7 @@ The learner chapter uses fictional resource requests, materials records, classro
 </figure>
 <!-- /visual:foundation-writing-map--practitioner-04 -->
 
-Teach learners to identify the writing task, plan it, produce words and phrases, choose language and style, use a suitable format, and review or revise. WR-01–WR-04 develop purpose, selection, planning and drafting. WR-05–WR-06 address clarity and audience. WR-07–WR-11 use factual forms, handovers, procedures and tables. WR-12–WR-15 develop notices, tone, source checking and reader feedback. WR-16–WR-18 provide a new context, revision and reflection.
+Start with the reader, purpose and facts. Plan and draft a useful message, then check clarity, tone and format. Practise with forms, handovers, procedures, tables and notices. Have another reader try the document, revise what needs work and repeat with a new task.
 
 Writing includes completing forms, arranging a table and preparing a schedule. Teach how a label controls an entry and how a blank field differs from a known zero or an unavailable fact. Reading supplies evidence; Numeracy checks quantities; Digital may support composing and saving. Assess these additional demands separately when they obscure the writing decision you want to observe.
 

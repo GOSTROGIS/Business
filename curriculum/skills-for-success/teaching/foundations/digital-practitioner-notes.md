@@ -25,7 +25,13 @@ Allow navigation help when teaching. For a fresh check, record whether help mere
 
 With headings in row 1 and values in rows 2–4, `=B2-C2` is one spreadsheet method for outstanding; `=SUM(B2:B4)` totals issued. Check the range and underlying values, not just the displayed answer. A documented alternative calculation is allowed because this check does not prescribe spreadsheet formula proficiency. Record which tool features were actually demonstrated.
 
-**CK-DG-A01 / CK-DG-B01:** inspect source matching, headings/units by meaning, fictional and version labels, editable save, learner-controlled close/reopen and known location. **CK-DG-A02 / CK-DG-B02:** the specified returned count and in-document version label change; original issued totals stay fixed. Verify the opened v2 content and preserved v1. **CK-DG-A03 / CK-DG-B03:** the temporary dummy field must never contain real data; review copy/PDF excludes it, includes all required data and remains readable. **CK-DG-A04 / CK-DG-B04:** observe a second method and checked result; accept keyboard, voice, switch or another agreed route. A PDF may be editable in some software, but does not preserve the same spreadsheet calculation workflow; avoid claiming every PDF is impossible to edit.
+**CK-DG-A01 / CK-DG-B01:** inspect source matching, headings/units by meaning, fictional and version labels, editable save, learner-controlled close/reopen and known location.
+
+**CK-DG-A02 / CK-DG-B02:** the specified returned count and in-document version label change; original issued totals stay fixed. Verify the opened v2 content and preserved v1.
+
+**CK-DG-A03 / CK-DG-B03:** the temporary dummy field must never contain real data; review copy/PDF excludes it, includes all required data and remains readable.
+
+**CK-DG-A04 / CK-DG-B04:** observe a second method and checked result; accept keyboard, voice, switch or another agreed route. A PDF may be editable in some software, but does not preserve the same spreadsheet calculation workflow; avoid claiming every PDF is impossible to edit.
 
 ## Criteria and anchors
 
@@ -55,3 +61,7 @@ Do not infer all five criteria from a screenshot. Separate numeracy errors from 
 | Blocked opportunities / next appointment | |
 
 A local practice form can demonstrate local entry and review. A simulated permission button cannot establish a real online permission change. If an actual approved platform is added, identify recipient/access requirement, observe the learner setting it and verify the resulting access state; otherwise leave actual permission-setting unobserved. Keep this separate from these local-file criteria.
+
+## Continue into AI-assisted work
+
+Use the complete [AI-literacy sequence](../ai-literacy/learner.md) to apply these file and tool skills to a clear AI brief, editable documents, formula checks and a verified final export. The case supplies its own facts and twelve activities. Observe the learner’s actual AI and file actions separately from these foundation checks.

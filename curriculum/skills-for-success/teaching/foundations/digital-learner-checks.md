@@ -68,3 +68,7 @@ Show both saved locations, explain editable source versus PDF view, and demonstr
 | Tested second method | | |
 
 These tasks show local application and file actions. They do not by themselves show online navigation, sending or actual online permission-setting. Record those actions separately only when they are performed in an approved environment.
+
+## Continue into AI-assisted work
+
+Use the complete [AI-literacy sequence](../ai-literacy/learner.md) to apply these file and tool skills to a clear AI brief, editable documents, formula checks and a verified final export. The case supplies its own facts and twelve activities. Observe the learner’s actual AI and file actions separately from these foundation checks.

@@ -8,6 +8,22 @@
 </figure>
 <!-- /visual:social-collaboration-six-components--learner-07 -->
 
+## See it in action · Collaboration
+
+<!-- visual:quick-collaboration--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-collaboration--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Collaboration — visual"><img src="../assets/diagrams/quick-collaboration.svg" alt="PERSON A: Check the source facts. PERSON B: Build the notice. Agree the goal and roles. Share progress and ask for help. Review together; name next steps. One checked notice; two visible contributions. A shared file alone does not show what each person did." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> One checked notice; two visible contributions. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-collaboration.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>PERSON A: Check the source facts. PERSON B: Build the notice. Agree the goal and roles. Share progress and ask for help. Review together; name next steps. One checked notice; two visible contributions. A shared file alone does not show what each person did.</p></details>
+</figure>
+<!-- /visual:quick-collaboration--learner -->
+
+This small fictional example shows the skill in use. PERSON A: Check the source facts. PERSON B: Build the notice.
+
+**Try it:** Agree the goal and roles. Share progress and ask for help. Review together; name next steps.
+
+**Check your result:** One checked notice; two visible contributions. A shared file alone does not show what each person did.
+
 ## Your contribution belongs in the work
 
 Collaboration means contributing and supporting other people toward a shared goal. You may already do this when arranging a ride, working alongside a crew, helping organize an activity or making decisions with people you trust. This chapter gives you language and practice for making that work clearer. It also gives you ways to notice whether everyone has a useful opportunity to contribute.
@@ -30,13 +46,18 @@ You will practise six connected parts of collaboration.
 <!-- teaching:cl-route-learner -->
 ## Collaboration route card
 
-**Core route.** Agree a goal and contribution process with CL-01/02/03. Use CL-04/05/06 to widen meaningful participation without requiring cultural content. Distinguish facts and preferences with CL-07/08/09. Make the task board, hand over and facilitate with CL-10/11/12; test the pack and a team-process improvement with CL-13/14/15/16. In CK-CL, each learner has a role, a facilitation turn, a product contribution and an opportunity to check the result.
+**Practise in four steps**
+
+1. Agree the shared goal, each person’s role and a way for everyone to contribute.
+2. Build a task board, complete your part and hand over the information another person needs.
+3. Take a turn inviting contributions and resolving a task question. Ask for support when needed.
+4. Test the shared product and one improvement to the team’s process. Record your own contribution.
 
 **Support route.** Begin in a pair with the instructor as a practice partner. Use a task board with empty fields for responsibility, handover and check. A facilitation prompt card may say “purpose → invite → hear → dependency → next action → check back.” Record the scaffold and any live prompt separately. A learner can direct a scribe or use a written invitation. Do not assign all decisions permanently to the quickest speaker or keyboard user. Offer private practice and a different partner when needed.
 
 **Retry route.** Select one observable interaction: wait for the written contribution, restate the handover, name a source discrepancy, or check the next-action summary. Try it with CK-CL Version 2 or another familiar small task. Keep the actual interaction and product result separate. A correct reader test can justify keeping the product; it does not require a manufactured revision. An absent disagreement is Not observed rather than proof of either conflict skill or failure.
 
-**Chapter coverage map:** preparation CL-01/02/04/05/06/07/09/10; guided/observed practice CL-03/08/11/12/13/14/15/16; evidence and next-context planning CL-17/18. Planning a future handover does not demonstrate it.
+**What the instructor observes.** Observe the contribution, handover and facilitation turn. A future plan does not show that the handover happened.
 
 **Next-attempt agreement:** shared task ___; individual role/action ___; contribution mode ___; chosen process improvement ___; partners and observer ___; date/time ___; missing evidence ___.
 <!-- /teaching:cl-route-learner -->

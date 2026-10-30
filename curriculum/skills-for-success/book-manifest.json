@@ -1,6 +1,6 @@
 {
-  "edition": "3",
-  "date": "2026-10-29",
+  "edition": "4",
+  "date": "2026-10-30",
   "skills": [
     "Reading",
     "Writing",
@@ -17,7 +17,7 @@
       "name": "learner-textbook",
       "title": "Nine skills for learning, work and community",
       "short_title": "Learner textbook",
-      "eyebrow": "Book 1 · Learner textbook",
+      "eyebrow": "Book 1 \u00b7 Learner textbook",
       "description": "Learn the nine Skills for Success through illustrated explanations, complete practice cases, individual checks and projects for learning, work and community.",
       "edition_note": "Start with a useful goal and the skills you already bring. Each chapter provides a clear process, worked examples, practice and a fresh task. Choose the entry route you need, keep your own evidence and use feedback to decide what to try next.",
       "chapters": [
@@ -39,7 +39,7 @@
       "name": "practitioner-guide",
       "title": "Teaching the nine Skills for Success",
       "short_title": "Practitioner guide",
-      "eyebrow": "Book 2 · Practitioner guide",
+      "eyebrow": "Book 2 \u00b7 Practitioner guide",
       "description": "Teach the nine Skills for Success with complete cases, visual models, learning routes, lesson plans, observation tools and answer guidance.",
       "edition_note": "Plan, teach, observe and respond to evidence. This guide brings together teaching routines, complete classroom cases, practice checks, answer guidance and reusable delivery tools. Choose an appropriate starting point and record the task conditions so feedback identifies a useful next step.",
       "chapters": [
@@ -70,5 +70,5 @@
       ]
     }
   ],
-  "edition_label": "Teaching and visual practice edition"
+  "edition_label": "AI literacy and independent practice edition"
 }

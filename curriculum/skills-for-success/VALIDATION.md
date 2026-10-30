@@ -1,13 +1,13 @@
 # Build and content validation
 
-**Edition 3 · 29 October 2026.** These checks cover authored content, generated artifacts, software behaviour and sampled visual presentation. Qualified teaching review, a classroom pilot and local Indigenous community participation remain delivery work; this record does not claim they have occurred.
+**Edition 4 · 30 October 2026.** These checks cover authored content, generated artifacts, software behaviour and sampled visual presentation. Qualified teaching review, a classroom pilot and local Indigenous community participation remain delivery work; this record does not claim they have occurred.
 
 ## Delivered books
 
 | Artifact | Pages | Contents |
 |---|---|---|
-| [Learner textbook](learner-textbook.pdf) | 186 | 12 chapters: nine skills, entry teaching, fresh practice, two projects, learning reference and portfolio. |
-| [Practitioner guide](practitioner-guide.pdf) | 248 | 14 teaching and delivery chapters, integrated fresh cases and keys, and 10 core answer sections. |
+| [Learner textbook](learner-textbook.pdf) | 216 | 12 chapters: nine skills, entry teaching, fresh practice, two projects, learning reference and portfolio. |
+| [Practitioner guide](practitioner-guide.pdf) | 287 | 14 teaching and delivery chapters, integrated fresh cases and keys, and 10 core answer sections. |
 | [Visual preview](visual-sampler.pdf) | 8 | Actual pages selected from the complete books. |
 
 Both PDFs contain selectable text, tagged structure, bookmarks and clickable contents. Printed chapter page numbers were checked against the final PDF destinations; both books stabilized after two export passes. Companion-book links resolve to the intended chapter or heading page. No temporary localhost URLs remain in PDF annotations.
@@ -26,13 +26,13 @@ The books teach as standalone ACCESS IS4S documents. Automated checks reject ori
 
 ## Visuals and print
 
-The core books use **41 unique SVGs**, with **73 SVG placements including the two covers**, plus four contextual illustrations. Two further SVGs support Roadbuilding foundations. The canonical manifest has 77 body placements, including two in separate authoring material; 75 body placements occur in the books (71 SVGs and four illustrations).
+The current books contain **105 image placements**: 101 SVG placements and four contextual illustrations. Thirteen new SVGs add one concrete walkthrough for every skill and four AI/file/audit explanations. The canonical visual manifest contains 107 placements, including separate authoring material. Component tables render as readable practice cards, and dense activity-code lists have been replaced with short teaching sequences and numbered routes.
 
-All 36 existing teaching SVGs and the cover were redesigned. Four new core figures explain choosing a learning route, fraction equivalence and regrouping, a quantity check, and a prediction/trial cycle. The two roadbuilding figures explain road structure and material flow. SVG titles, descriptions and chapter alternative text were synchronized.
+Reading editions display descriptive task names; authoring identifiers remain only in internal tracking and HTML metadata. All sixteen AI activities appear in both books, with independent case inputs and full teaching/answer guidance. The practitioner book has no repository or asphalt-course dependency. PDF checks confirm the media activities are included.
 
-Independent visual review rendered all 41 core SVGs and checked text bounds, labels, arithmetic and connector meaning. Two connector collisions were repaired. Inspection of final PDF pages confirms the corrected evidence cycle, fraction diagram and tall quantity check are captured, readable and contained with their captions. The eight-page preview was rendered and inspected for the cover, reading map, budget, board layout, equipment roles, fractions, cause map and annotated email. The drawings remain vectors in the PDFs.
+New browser checks cover Communication, Digital, instructor Digital and the media player at 390 and 1280 pixels. They found no page-level overflow or failed loaded images. All thirteen new SVGs fit their view boxes. Actual PDF pages were visually inspected for the communication exchange, instructor component guide and audio activity. The updated eight-page sampler includes the communication exchange, file-format guide and AI audit alongside selected core visuals.
 
-Actual-book browser checks at **320, 390 and 1280 pixels** found no page-level horizontal overflow, failed images or overflowing two-column tables. Wider tables scroll inside labelled regions. Table regions have unique descriptive labels. Print inspection confirmed usable learning-plan response space and clear cover/contents pages. The visual viewer offers fit/zoom controls, keyboard panning, a text description and a return link; its print layout accommodates tall figures.
+The supplied practice pack contains real DOCX, XLSX formulas, CSV, HTML and PDF files, plus a 58.54-second narrated study video, MP3/WAV audio, seven SVG scenes, SRT/VTT captions, transcript, storyboard and flashcard CSV. The narration uses the local Flite synthetic voice; the example does not claim generation by a named commercial AI platform. Thirty-nine additional checks passed for file opening, calculations, ZIP integrity, audio/video streams, caption timing, browser media metadata and task visibility.
 
 These checks are bounded presentation reviews, not a full assistive-technology or PDF accessibility certification.
 
@@ -50,8 +50,8 @@ python curriculum/skills-for-success/tools/build_books.py
 python curriculum/skills-for-success/tools/verify_books.py --require-generated --report /tmp/is4s-book-verification.json
 ```
 
-The final structural run passed **39,046 checks** at this revision of the documentation. Counts may grow when linked editorial records are added. Checks cover source integrity, coverage inventory, activity/answer IDs, book membership, standalone prose, fresh-practice presence, local links and fragments, contents destinations, companion PDF targets, nonempty PDF pages, figures, alternative descriptions and SVG self-containment. External URLs are outside this offline verifier.
+The current structural run passed with zero errors; the detailed check totals are recorded in the generated verification output. Counts may grow when linked editorial records are added. Checks cover source integrity, coverage inventory, activity/answer IDs, book membership, standalone prose, fresh-practice presence, local links and fragments, contents destinations, companion PDF targets, nonempty PDF pages, figures, alternative descriptions and SVG self-containment. External URLs are outside this offline verifier.
 
-Running the teaching and visual installers twice produced identical Markdown hashes across all 69 authoring and editorial files. Build tools preserve unmarked prose and replace only their declared managed blocks. Python bytecode is excluded from version control; PDF and ZIP artifacts are tracked as binary files.
+The previous edition’s installer idempotence check covered 69 authoring and editorial files. The current edition adds AI lesson sources and preserves the same managed-block installation approach. Build tools preserve unmarked prose and replace only their declared managed blocks. Python bytecode is excluded from version control; PDF and ZIP artifacts are tracked as binary files.
 
 For asphalt-specific validation and remaining technical review, see the [asphalt record](../asphalt-paving/VALIDATION.md) and [Roadbuilding delivery record](../asphalt-paving/line-a/technical-handoff.md).

@@ -4,6 +4,22 @@ Communication instruction needs both a sender and a receiver with a reason to ex
 
 The learner chapter uses fictional classroom changes, a misunderstood card task and a visitor explanation. These settings support practice relevant to B.C. training, work and community life without requiring disclosure of personal experiences. In an ACCESS IS4S classroom, ask about the communication needs of the person and task. Do not assign preferences from identity or ask a learner to speak for a Nation or community.
 
+## See it in action · Communication
+
+<!-- visual:quick-communication--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-communication--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Communication — visual"><img src="../assets/diagrams/quick-communication.svg" alt="SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Both people can state the same plan. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-communication.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”. Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch. Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.</p></details>
+</figure>
+<!-- /visual:quick-communication--practitioner -->
+
+This small fictional example shows the skill in use. SENDER: “Room 2 at 10:00.”. RECEIVER: “Room 2, ten o’clock?”.
+
+**Try it:** Agree a usable way to talk. Send the message; check it back. Confirm or clarify, then switch.
+
+**Check your result:** Both people can state the same plan. Speech, sign, text or AAC can work. Check meaning, not eye contact.
+
 ## Include all six components and accessible modes
 
 <!-- visual:middle-communication-components--practitioner-08 -->
@@ -14,7 +30,7 @@ The learner chapter uses fictional classroom changes, a misunderstood card task 
 </figure>
 <!-- /visual:middle-communication-components--practitioner-08 -->
 
-Teach listening with intention, listening to understand, speaking clearly, speaking with purpose, adapting to audience and context, and adapting to different modes and tools. The learner chapter provides three activities for each: CM-01–CM-03, CM-04–CM-06, CM-07–CM-09, CM-10–CM-12, CM-13–CM-15 and CM-16–CM-18 respectively. Use this sequence flexibly, returning to a component when a later task reveals a need.
+Use the six actions in the diagram as a teaching guide. Begin with a short message that has a clear purpose. Let the receiver repeat the essential meaning and ask a question; the sender confirms or repairs it. Switch roles, then change the audience or communication mode. Return to whichever action needs more practice.
 
 The component names use speaking and listening, while the purpose can be supported through speech, sign, text, augmentative and alternative communication or another agreed mode. Record the mode and support accurately. Give every learner turns sending, receiving and clarifying. Document Use appears when a diagram, schedule or reference card carries part of the message; Reading helps inspect it, while Collaboration supports shared turn-taking and repair.
 
@@ -87,13 +103,18 @@ For reflection, ask partners to describe one action that improved accuracy. Avoi
 <!-- teaching:cm-route-practitioner -->
 ## Communication route card
 
-**Core route.** Begin with a purpose and usable mode. Practise a check-back, clarification and contradiction repair with CM-01/02/04/05/06. Use CM-08/11/12 for an instruction, call and handover; then CM-14/15/16/18 for assumptions, audience choices and a changed-mode exchange. Take both sender and receiver turns in CK-CM. Keep the source/version, essential details confirmed and the actual question/response.
+**Practise in four steps**
+
+1. Agree how to communicate and what the message must achieve.
+2. Send a short instruction or handover. The receiver repeats the essential meaning and asks about any uncertainty.
+3. Confirm or repair the message, then switch sender and receiver roles.
+4. Try a changed audience or communication mode. Keep the actual message, question and confirmation.
 
 **Support route.** Use a familiar chapter source first, a key-detail organizer with headings but no completed answers, a learner-controlled communication tool, agreed interpretation or an instructor counterpart. Rehearse “What is the current room/time?” or another learner-chosen clarification. If an instructor supplies a phrase or points to the missed answer, record that support on the relevant criterion. Reduce unrelated writing; let the receiver show meaning through a check-back, selected details or an appropriate action. No speed or eye-contact target is added.
 
 **Retry route.** Choose the missed action, receive feedback and try it again with the familiar source. If the next goal is unfamiliar reception, use held CK-CM Card C only when it is genuinely unseen by the receiver. Record prior exposure honestly; otherwise arrange another checked message. Compare the essential details and how the uncertainty was resolved, not how confident the learner looked.
 
-**Chapter coverage map:** preparation CM-01/02/05/07/10/13/14/15; guided/observed practice CM-03/04/06/08/09/11/12/16/17/18. Combine activities only when their distinct actions remain visible. A single receiver turn does not supply the sender evidence.
+**What the instructor observes.** Observe each learner both sending and receiving. A receiver turn alone does not show how that learner sends a message.
 
 **Next-attempt agreement:** criterion ___; message/version ___; sender/receiver role ___; mode/language ___; access and task support ___; observer/date ___; evidence still missing ___.
 <!-- /teaching:cm-route-practitioner -->

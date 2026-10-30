@@ -1,6 +1,6 @@
 {
   "edition": 3,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "blocks": [
     {
       "id": "reading-entry-bridge-learner",
@@ -80,7 +80,7 @@
       "target": "learner/03-numeracy.md",
       "placement": "before_heading",
       "heading_offset": 1,
-      "before_heading": "Case document A • Supplies for a classroom project"
+      "before_heading": "Case document A \u2022 Supplies for a classroom project"
     },
     {
       "id": "numeracy-learner-checks-learner",
@@ -195,7 +195,7 @@
     {
       "id": "cm-case-learner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CM · Send, receive and check a fresh classroom change",
+      "source_section": "CK-CM \u00b7 Send, receive and check a fresh classroom change",
       "include_intro": true,
       "target": "learner/06-communication.md",
       "placement": "append",
@@ -213,7 +213,7 @@
     {
       "id": "cm-case-practitioner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CM · Send, receive and check a fresh classroom change",
+      "source_section": "CK-CM \u00b7 Send, receive and check a fresh classroom change",
       "include_intro": true,
       "target": "practitioner/08-communication.md",
       "placement": "append",
@@ -222,7 +222,7 @@
     {
       "id": "cm-key-practitioner",
       "source": "teaching/social/instructor-key.md",
-      "source_section": "CK-CM · Expected content and criterion anchors",
+      "source_section": "CK-CM \u00b7 Expected content and criterion anchors",
       "include_intro": false,
       "target": "practitioner/08-communication.md",
       "placement": "append",
@@ -236,12 +236,12 @@
       "target": "learner/07-collaboration.md",
       "placement": "before_heading",
       "heading_offset": 1,
-      "before_heading": "Case document 1 · The visitor information pack"
+      "before_heading": "Case document 1 \u00b7 The visitor information pack"
     },
     {
       "id": "cl-case-learner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CL · Make a resource handover together",
+      "source_section": "CK-CL \u00b7 Make a resource handover together",
       "include_intro": true,
       "target": "learner/07-collaboration.md",
       "placement": "append",
@@ -259,7 +259,7 @@
     {
       "id": "cl-case-practitioner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CL · Make a resource handover together",
+      "source_section": "CK-CL \u00b7 Make a resource handover together",
       "include_intro": true,
       "target": "practitioner/09-collaboration.md",
       "placement": "append",
@@ -268,7 +268,7 @@
     {
       "id": "cl-key-practitioner",
       "source": "teaching/social/instructor-key.md",
-      "source_section": "CK-CL · Expected product and individual evidence",
+      "source_section": "CK-CL \u00b7 Expected product and individual evidence",
       "include_intro": false,
       "target": "practitioner/09-collaboration.md",
       "placement": "append",
@@ -282,12 +282,12 @@
       "target": "learner/08-adaptability.md",
       "placement": "before_heading",
       "heading_offset": 1,
-      "before_heading": "Case document 1 · A plan for the learning folder"
+      "before_heading": "Case document 1 \u00b7 A plan for the learning folder"
     },
     {
       "id": "ad-case-learner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-AD · Revise a small pack and carry out the next step",
+      "source_section": "CK-AD \u00b7 Revise a small pack and carry out the next step",
       "include_intro": true,
       "target": "learner/08-adaptability.md",
       "placement": "append",
@@ -305,7 +305,7 @@
     {
       "id": "ad-case-practitioner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-AD · Revise a small pack and carry out the next step",
+      "source_section": "CK-AD \u00b7 Revise a small pack and carry out the next step",
       "include_intro": true,
       "target": "practitioner/10-adaptability.md",
       "placement": "append",
@@ -314,7 +314,7 @@
     {
       "id": "ad-key-practitioner",
       "source": "teaching/social/instructor-key.md",
-      "source_section": "CK-AD · Expected revised pack and enacted workflow",
+      "source_section": "CK-AD \u00b7 Expected revised pack and enacted workflow",
       "include_intro": false,
       "target": "practitioner/10-adaptability.md",
       "placement": "append",
@@ -328,12 +328,12 @@
       "target": "learner/09-creativity-innovation.md",
       "placement": "before_heading",
       "heading_offset": 1,
-      "before_heading": "Case document 1 · The practice-card shelf"
+      "before_heading": "Case document 1 \u00b7 The practice-card shelf"
     },
     {
       "id": "ci-case-learner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CI · Design a clear choose-and-check display",
+      "source_section": "CK-CI \u00b7 Design a clear choose-and-check display",
       "include_intro": true,
       "target": "learner/09-creativity-innovation.md",
       "placement": "append",
@@ -351,7 +351,7 @@
     {
       "id": "ci-case-practitioner",
       "source": "teaching/social/learner-fresh-cases.md",
-      "source_section": "CK-CI · Design a clear choose-and-check display",
+      "source_section": "CK-CI \u00b7 Design a clear choose-and-check display",
       "include_intro": true,
       "target": "practitioner/11-creativity-innovation.md",
       "placement": "append",
@@ -360,7 +360,7 @@
     {
       "id": "ci-key-practitioner",
       "source": "teaching/social/instructor-key.md",
-      "source_section": "CK-CI · Valid designs, fair trials and limited conclusions",
+      "source_section": "CK-CI \u00b7 Valid designs, fair trials and limited conclusions",
       "include_intro": false,
       "target": "practitioner/11-creativity-innovation.md",
       "placement": "append",
@@ -384,6 +384,34 @@
       "id": "local-delivery-review",
       "source": "teaching/social/delivery-and-local-review.md",
       "target": "practitioner/14-delivery-and-review.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ai-literacy-learner",
+      "source": "teaching/ai-literacy/learner.md",
+      "target": "learner/04-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ai-literacy-case-practitioner",
+      "source": "teaching/ai-literacy/learner.md",
+      "target": "practitioner/06-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ai-literacy-instructor",
+      "source": "teaching/ai-literacy/instructor.md",
+      "target": "practitioner/06-digital.md",
+      "placement": "append",
+      "heading_offset": 1
+    },
+    {
+      "id": "ai-literacy-answers",
+      "source": "teaching/ai-literacy/answers.md",
+      "target": "answers/04-digital.md",
       "placement": "append",
       "heading_offset": 1
     }

@@ -4,6 +4,22 @@ Reading instruction begins with a reason to use a document. An adult may underst
 
 The learner chapter uses invented training notices, timetables, project briefs and borrowing conditions. Their familiar purposes create useful connections with work and community life in British Columbia without requiring personal disclosure. Invite learners to suggest other document types they encounter. An invitation to share experience is optional; it does not make anyone a representative of a Nation or community.
 
+## See it in action · Reading
+
+<!-- visual:quick-reading--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-reading--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Reading — visual"><img src="../assets/diagrams/quick-reading.svg" alt="NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Meet in Room 2 at 10:00. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-reading.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.</p></details>
+</figure>
+<!-- /visual:quick-reading--practitioner -->
+
+This small fictional example shows the skill in use. NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged.
+
+**Try it:** Find the current message. Compare what changed. Say the room and the time.
+
+**Check your result:** Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.
+
 ## Keep all six components in view
 
 <!-- visual:foundation-reading-map--practitioner-03 -->
@@ -16,7 +32,7 @@ The learner chapter uses invented training notices, timetables, project briefs a
 
 Teach six connected Reading actions: identifying the reading task; identifying information; connecting parts; understanding and applying information; evaluating documents; and reflecting on documents. Reading includes using documents in different forms. Tables, forms, maps, charts and drawings require deliberate instruction in headings, legends, relationships and conditions, not only practice reading paragraphs.
 
-Use RD-01–RD-03 to establish purpose and vocabulary, RD-04–RD-09 for searching and connecting information, and RD-10–RD-12 for judging claims and versions. RD-13–RD-15 examine audience, conditions and the limitations of summaries. RD-16–RD-18 ask learners to transfer and explain their process. These are connected opportunities, not six separate tests. Numeracy becomes visible when a timetable requires elapsed time; Communication helps a learner explain a reading choice.
+Move from a clear reading purpose to finding and connecting details. Practise judging claims and versions, then examine who the document serves and what a summary leaves out. Finish with a new document and an explanation of the reading choices. Use the named activities in the learner chapter; return to an earlier step when a new question requires it.
 
 ## Teach with documents that have a purpose
 

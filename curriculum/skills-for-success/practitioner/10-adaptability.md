@@ -4,6 +4,22 @@ Adaptability becomes visible when a learner notices a change, considers its cons
 
 The learner chapter uses a fictional learning folder, reduced device access and feedback on a project note. It provides changes that can be discussed without asking learners to recount distress, employment conflict or family responsibilities. In an ACCESS IS4S classroom, acknowledge that people already navigate changing circumstances. Do not turn that recognition into an expectation that individuals must overcome inaccessible systems without support.
 
+## See it in action · Adaptability
+
+<!-- visual:quick-adaptability--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-adaptability--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Adaptability — visual"><img src="../assets/diagrams/quick-adaptability.svg" alt="ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The notice and budget both say 26. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-adaptability.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.</p></details>
+</figure>
+<!-- /visual:quick-adaptability--practitioner -->
+
+This small fictional example shows the skill in use. ORIGINAL: 24 participants. UPDATE: 26 participants.
+
+**Try it:** Identify what changed. Update affected quantities. Check what stays the same.
+
+**Check your result:** The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.
+
 ## Keep the six components distinct
 
 <!-- visual:social-adaptability-six-components--practitioner-10 -->
@@ -16,7 +32,7 @@ The learner chapter uses a fictional learning folder, reduced device access and 
 
 Teach responsibility; persistence and perseverance; regulating emotions when appropriate; setting or adjusting goals; planning and prioritizing; and seeking improvement. Teach responsibility as an honest account of commitments and evidence. Teach persistence as purposeful continued effort that can include changing strategy. Emotional regulation here concerns a learner-selected action that supports the task; it is not an assessment of feelings or personality.
 
-AD-01–AD-03 establish purpose and a plan. AD-04–AD-06 offer optional response strategies and boundaries. AD-07–AD-09 examine persistence. AD-10–AD-12 revise a goal and communicate the arrangement. AD-13–AD-15 use feedback and prepare for another change. AD-16–AD-18 test a strategy and assemble evidence across all components. Numeracy supports time allocation, Reading supports interpreting updates, and Communication makes changed commitments clear.
+Start with a purpose and a workable plan. Introduce a changed requirement, invite a useful response and respect reasonable boundaries. Ask each learner to carry out a next step, revise the arrangement and check the result. Use feedback for another attempt; record what the learner actually did.
 
 ## Pair a growth orientation with useful support
 
@@ -140,13 +156,18 @@ Connect personal and facilitation practice. AD-02/AD-17 supply goals and reflect
 <!-- teaching:ad-route-practitioner -->
 ## Adaptability route card
 
-**Core route.** Define a purpose and workable plan with AD-01/02/03. Explore a chosen response and reasonable boundary with AD-04/05/06. Use AD-07/08/09 to perform and check a purposeful next step. Revise a commitment with AD-10/11/12, act on feedback with AD-13/14 and apply a strategy in AD-15/16. In CK-AD, retain the first plan, receive the change, make the revised pack and perform your own retrieval/check turn.
+**Practise in four steps**
+
+1. State the purpose, make a workable plan and keep the first version.
+2. Read the changed requirement. Separate what changed from what stays the same.
+3. Choose a useful response, ask for support if needed and carry out the revised plan.
+4. Retrieve and check the result yourself. Use feedback to decide what to keep or try next.
 
 **Support route.** Use the paper workflow if that suits the focus and available tools. Read the brief together, use a blank “changed / unchanged / next action / check” organizer, or ask for a tool demonstration before the observed attempt. A learner-directed request for an appropriate support can show Adaptability even when the later tool action is assisted. Do not require a personal account of stress or a rehearsed emotional display. If regulation is not needed or chosen, leave that component unobserved in this task.
 
 **Retry route.** Select the affected step and repeat it after feedback. Use Kit T for a different content requirement when appropriate; record whether it was new. If the first work was accurate, retrieve and verify again or choose another challenge. A retry can confirm a successful process; it need not begin with an invented failure. Track who performs the tool action so a partner's work is not claimed as individual Digital evidence.
 
-**Chapter coverage map:** preparation AD-01/02/03/04/06/07/08/10/11/15; guided/observed action AD-05/09/12/13/14/16; practice planning/evidence review AD-17/18. Where AD-09 uses the supplied case only, mark case analysis and arrange an actual action separately.
+**What the instructor observes.** Keep the first plan, changed requirement and checked result. Discussing a case does not show that the learner carried out the action.
 
 **Next-attempt agreement:** purpose ___; changed requirement ___; chosen next action ___; paper/digital tool route ___; support and boundary ___; observer/booking ___; check/result ___.
 <!-- /teaching:ad-route-practitioner -->

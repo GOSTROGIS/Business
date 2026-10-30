@@ -1,0 +1,228 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "Workbook contains actual formulas",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Budget arithmetic and change cases",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "DOCX opens with complete table",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PDF brief is readable and complete",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Practice ZIP CRC",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Practice ZIP contains actual media and formats",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "MP4 has audio and video",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Media duration matches storyboard",
+      "passed": true,
+      "details": {
+        "actual": 58.689698,
+        "planned": 58.54
+      }
+    },
+    {
+      "check": "Captions ordered within media",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "learner-textbook has no visible opaque task codes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "learner-textbook has sixteen named AI activities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "learner-textbook has no repository/course dependency",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "learner-textbook PDF includes audio/video activities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "practitioner-guide has no visible opaque task codes",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "practitioner-guide has sixteen named AI activities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "practitioner-guide has no repository/course dependency",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "practitioner-guide PDF includes audio/video activities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Browser 390 learner/06-communication.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 390 learner/04-digital.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 390 practitioner/06-digital.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 390 teaching/ai-literacy/media.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 1280 learner/06-communication.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 1280 learner/04-digital.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 1280 practitioner/06-digital.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser 1280 teaching/ai-literacy/media.html",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "badImages": []
+      }
+    },
+    {
+      "check": "Browser decodes video metadata",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "SVG bounds ai-audit.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds ai-file-formats.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds ai-version-check.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds ai-workflow.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-adaptability.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-collaboration.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-communication.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-creativity-innovation.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-digital.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-numeracy.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-problem-solving.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-reading.svg",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "SVG bounds quick-writing.svg",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "limits": "Structural, arithmetic, timing and browser checks; not an accessibility certification or a learner pilot."
+}

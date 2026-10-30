@@ -6,7 +6,7 @@ This supplied browser tool supports local form, record, review-copy and version 
 
 ## Prepare a device turn
 
-1. Serve the repository locally or from an approved static host. From the repository root, `python -m http.server 8000 --bind 127.0.0.1` opens a local-only server. Open `http://127.0.0.1:8000/curriculum/skills-for-success/teaching/digital-lab/index.html` on the same device. Directly opening the HTML may work, but browser storage behaviour differs; test the intended route first.
+1. Open the supplied Digital practice desk using the classroom link or locally provided files. The delivery coordinator prepares and tests the browser route before class. Confirm that saving and reopening work on the intended device. The printed case supports planning if the tool is unavailable; arrange a later device turn for practical evidence.
 2. Check the keyboard route, focus, labels, text enlargement and the actual assistive tools needed. This is a functional setup check, not a claim of accessibility certification. An internet connection is unnecessary once the static files are available. The tool sends no form data and has no external service connection.
 3. Use a learning alias and the supplied fictional counts. No real name, phone, password or personal record is needed. Explain that recipient/access settings are a **simulation**. A local browser preview cannot establish real online access control.
 4. Test preview, local save, reopen, download and reset before the class. Browser storage can be disabled or unavailable. If a save fails, the tool reports it and offers a download route; do not record a successful local save that did not occur.
@@ -53,3 +53,7 @@ Use the book's four local statuses: Not observed; Not yet demonstrated; Demonstr
 Download any agreed evidence first. Select **Reset this practice desk**, then confirm. This clears only this tool's saved versions and restores its fictional starting form; it does not delete downloaded files or other browser data. Check the empty version list. Manage downloaded files through the program's real storage arrangements. If browser storage cannot be cleared, the tool reports that limit; ask the instructor to use the appropriate site-data controls. Do not claim a successful removal from an error message.
 
 For paper discussion, use the Digital chapter's source counts and draw the same review choices. Record reasoning evidence only. A later device turn is still needed for tool-action evidence.
+
+## Extend the task with AI
+
+Use the complete [AI-literacy learning sequence](../ai-literacy/learner.md) to direct an assistant, create editable files and audit results. The [instructor sequence](../ai-literacy/instructor.md) includes all case facts, answer checks and an individual transfer task. The practice desk itself has no AI connection; live AI use requires a separate approved tool and an observed learner turn.

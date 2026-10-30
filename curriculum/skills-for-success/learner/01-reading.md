@@ -6,6 +6,22 @@ You already bring ways of making sense of information. You may recognize a famil
 
 All organizations, timetables, messages and project arrangements in this chapter are invented teaching cases. They are complete enough for the activities, but they are not live travel advice, workplace procedures or announcements. Read them as practice documents. For real decisions, obtain the actual current document and check its applicability.
 
+## See it in action · Reading
+
+<!-- visual:quick-reading--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-reading--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Reading — visual"><img src="../assets/diagrams/quick-reading.svg" alt="NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Meet in Room 2 at 10:00. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-reading.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged. Find the current message. Compare what changed. Say the room and the time. Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.</p></details>
+</figure>
+<!-- /visual:quick-reading--learner -->
+
+This small fictional example shows the skill in use. NOTICE 1: Room 1 at 10:00. UPDATE: Room 2; time unchanged.
+
+**Try it:** Find the current message. Compare what changed. Say the room and the time.
+
+**Check your result:** Meet in Room 2 at 10:00. Use both messages. The room changes; the time does not.
+
 ## Six parts of a useful reading process
 
 <!-- visual:foundation-reading-map--learner-01 -->

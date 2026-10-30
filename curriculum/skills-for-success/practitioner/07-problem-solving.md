@@ -4,6 +4,22 @@ Problem solving is a process of making a justified decision under stated conditi
 
 The learner chapter uses fictional device scheduling, repeated card-label corrections and a display request with unresolved permission. These cases connect with B.C. training and community tasks without making people or communities into problems. Frame the issue as a situation to understand. Replace judgemental explanations such as “people do not care” with observations and questions that can be investigated.
 
+## See it in action · Problem solving
+
+<!-- visual:quick-problem-solving--practitioner -->
+<figure class="teaching-figure diagram" data-visual="quick-problem-solving--practitioner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Problem solving — visual"><img src="../assets/diagrams/quick-problem-solving.svg" alt="OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Use the confirmed current instruction. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-problem-solving.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence.</p></details>
+</figure>
+<!-- /visual:quick-problem-solving--practitioner -->
+
+This small fictional example shows the skill in use. OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?.
+
+**Try it:** State the problem and unknown. Check dates and authority. Confirm the action; test it.
+
+**Check your result:** Use the confirmed current instruction. A guess about who made the error is not evidence.
+
 ## Use the complete six-part cycle
 
 <!-- visual:middle-problem-solving-components--practitioner-07 -->
@@ -14,7 +30,7 @@ The learner chapter uses fictional device scheduling, repeated card-label correc
 </figure>
 <!-- /visual:middle-problem-solving-components--practitioner-07 -->
 
-Teach defining the issue, gathering information, analysing, developing multiple routes, addressing the issue, and evaluating effectiveness. PS-01–PS-03 establish the issue and responsibilities. PS-04–PS-06 gather and organize information. PS-07–PS-09 examine explanations and assumptions. PS-10–PS-12 generate and test options. PS-13–PS-15 make an action plan that respects new information and permission. PS-16–PS-18 evaluate and transfer the method.
+Name the problem and the people affected. Gather facts, separate them from assumptions and compare possible explanations. Generate more than one option, test a workable choice and make an action plan. Check what happened before deciding whether to keep, change or transfer the approach.
 
 These stages can loop. New information may change the problem statement; an unsuccessful trial may require another explanation. Reading and Document Use support briefs, evidence tables and cause maps. Numeracy can compare time, cost and proportions. Collaboration contributes other perspectives, while Adaptability helps a learner revise an idea without treating revision as defeat.
 

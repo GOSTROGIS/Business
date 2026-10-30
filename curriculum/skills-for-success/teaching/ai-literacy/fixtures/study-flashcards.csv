@@ -1,0 +1,7 @@
+Question,Answer
+What format keeps an editable notice?,DOCX
+What format keeps sheets and formulas?,XLSX
+What format provides a page-based reading copy?,PDF
+Does renaming a CSV to XLSX convert it?,No; use a real conversion and verify it.
+What should change first when quantities change?,The working workbook; check formulas then export a new reading copy.
+Why keep a transcript?,It gives a readable equivalent and supports checking spoken content.

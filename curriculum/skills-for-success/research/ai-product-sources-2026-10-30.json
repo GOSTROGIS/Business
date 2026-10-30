@@ -1,0 +1,122 @@
+[
+  {
+    "id": "claude",
+    "url": "https://www.anthropic.com/claude",
+    "final_url": "https://claude.com/product/overview",
+    "title": "Claude | The AI assistant for work",
+    "characters": 23143,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "claude-code",
+    "url": "https://code.claude.com/docs/en/overview",
+    "final_url": "https://code.claude.com/docs/en/overview",
+    "title": "Overview - Claude Code Docs",
+    "characters": 11817,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "cowork",
+    "url": "https://claude.com/product/cowork",
+    "final_url": "https://claude.com/product/cowork",
+    "title": "Claude Cowork | Claude by Anthropic",
+    "characters": 14531,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "chatgpt-files",
+    "url": "https://help.openai.com/en/articles/8555545-file-uploads-faq",
+    "final_url": "https://help.openai.com/en/articles/8555545-uploading-files-and-audio-to-chatgpt",
+    "title": "Uploading files and audio to ChatGPT | OpenAI Help Center",
+    "characters": 8999,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "chatgpt-analysis",
+    "url": "https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt",
+    "final_url": "https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt",
+    "title": "Data analysis with ChatGPT | OpenAI Help Center",
+    "characters": 4721,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "claude-files",
+    "url": "https://support.claude.com/en/articles/8241126-what-kinds-of-documents-can-i-upload-to-claude-ai",
+    "final_url": "https://support.claude.com/en/articles/8241126-upload-files-to-claude",
+    "title": "Upload files to Claude | Claude Help Center",
+    "characters": 2897,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "claude-create",
+    "url": "https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude",
+    "final_url": "https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude",
+    "title": "Create and edit files with Claude | Claude Help Center",
+    "characters": 16312,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "openai-data",
+    "url": "https://help.openai.com/en/articles/7730893-data-controls-faq",
+    "final_url": "https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt",
+    "title": "Data controls in ChatGPT | OpenAI Help Center",
+    "characters": 6652,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "codex-product",
+    "url": "https://openai.com/codex/",
+    "final_url": "https://openai.com/codex/",
+    "title": "Codex | AI Coding Partner from OpenAI | OpenAI",
+    "characters": 3640,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "codex-help",
+    "url": "https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan",
+    "final_url": "https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan",
+    "title": "Using Codex with your ChatGPT plan | OpenAI Help Center",
+    "characters": 23251,
+    "retrieved": "2026-10-30"
+  },
+  {
+    "id": "openai-voice",
+    "url": "https://help.openai.com/en/articles/8400625-voice-mode-faq",
+    "final_url": "https://help.openai.com/en/articles/20001274-chatgpt-voice",
+    "title": "ChatGPT Voice | OpenAI Help Center",
+    "retrieved": "2026-10-30",
+    "characters": 14932
+  },
+  {
+    "id": "adobe-video",
+    "url": "https://helpx.adobe.com/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-text-prompts.html",
+    "final_url": "https://helpx.adobe.com/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-text-prompts.html",
+    "title": "Generate videos using text prompts | Firefly",
+    "retrieved": "2026-10-30",
+    "characters": 23995
+  },
+  {
+    "id": "google-video",
+    "url": "https://support.google.com/gemini/answer/16126339?hl=en",
+    "final_url": "https://support.google.com/gemini/answer/16126339?hl=en",
+    "title": "Generate videos with Gemini Apps - Computer - Gemini Apps Help",
+    "retrieved": "2026-10-30",
+    "characters": 4312
+  },
+  {
+    "id": "w3c-captions",
+    "url": "https://www.w3.org/WAI/media/av/captions/",
+    "final_url": "https://www.w3.org/WAI/media/av/captions/",
+    "title": " Captions/Subtitles | Web Accessibility Initiative (WAI) | W3C",
+    "retrieved": "2026-10-30",
+    "characters": 8882
+  },
+  {
+    "id": "openai-audio",
+    "url": "https://platform.openai.com/docs/guides/text-to-speech",
+    "final_url": "https://developers.openai.com/api/docs/guides/text-to-speech",
+    "title": "\n  Text to speech | OpenAI API\n",
+    "retrieved": "2026-10-30",
+    "characters": 23775
+  }
+]

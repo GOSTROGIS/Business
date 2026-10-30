@@ -6,6 +6,22 @@ People bring experience from work, learning, family and community responsibiliti
 
 The cases involve classroom scheduling, learning documents and a community information display. They use invented B.C. training situations, not the affairs of a Nation, employer or actual ACCESS cohort. There is no live equipment troubleshooting. When a real problem concerns machine safety, harassment, legal obligations or someone's immediate wellbeing, involve the responsible qualified person or established support process. A classroom decision exercise does not give a learner authority to resolve every kind of problem alone.
 
+## See it in action · Problem solving
+
+<!-- visual:quick-problem-solving--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-problem-solving--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Problem solving — visual"><img src="../assets/diagrams/quick-problem-solving.svg" alt="OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Use the confirmed current instruction. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-problem-solving.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?. State the problem and unknown. Check dates and authority. Confirm the action; test it. Use the confirmed current instruction. A guess about who made the error is not evidence.</p></details>
+</figure>
+<!-- /visual:quick-problem-solving--learner -->
+
+This small fictional example shows the skill in use. OBSERVED: Two notices disagree. UNKNOWN: Which notice is current?.
+
+**Try it:** State the problem and unknown. Check dates and authority. Confirm the action; test it.
+
+**Check your result:** Use the confirmed current instruction. A guess about who made the error is not evidence.
+
 ## Six steps that can loop back
 
 <!-- visual:middle-problem-solving-components--learner-05 -->

@@ -1,0 +1,70 @@
+{
+  "creator": "ACCESS IS4S",
+  "date": "2026-10-30",
+  "voice": "Flite slt synthetic TTS; not a commercial AI-product output",
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Choose the file for the job",
+      "start_seconds": 0,
+      "end_seconds": 8.32,
+      "narration": "This is a synthetic study voice. Choose the file format for the work you need to do. Keep an editable master and a checked reading copy.",
+      "visual_label": "EDITABLE MASTER  +  CHECKED READING COPY",
+      "svg": "study-scene-1.svg"
+    },
+    {
+      "scene": 2,
+      "title": "DOCX keeps wording editable",
+      "start_seconds": 8.32,
+      "end_seconds": 17.44,
+      "narration": "A D O C X document lets you revise words, headings and tables. Use it for an editable notice. Open the saved file and check its contents.",
+      "visual_label": "DOCX  /  WORDS \u00b7 HEADINGS \u00b7 TABLES",
+      "svg": "study-scene-2.svg"
+    },
+    {
+      "scene": 3,
+      "title": "XLSX keeps calculations working",
+      "start_seconds": 17.44,
+      "end_seconds": 25.505,
+      "narration": "An X L S X workbook can keep sheets and formulas. Change an input, inspect the formula and check that the total recalculates.",
+      "visual_label": "XLSX  /  INPUT \u2192 FORMULA \u2192 CHECKED TOTAL",
+      "svg": "study-scene-3.svg"
+    },
+    {
+      "scene": 4,
+      "title": "PDF keeps a reading copy",
+      "start_seconds": 25.505,
+      "end_seconds": 34.22,
+      "narration": "A P D F is a page based reading copy. Check every page for missing rows or cut off words. Keep the editable source as well.",
+      "visual_label": "PDF  /  OPEN EVERY EXPORTED PAGE",
+      "svg": "study-scene-4.svg"
+    },
+    {
+      "scene": 5,
+      "title": "Your turn",
+      "start_seconds": 34.22,
+      "end_seconds": 43.215,
+      "narration": "A quantity changes. Which file should you update first: the working workbook or its old P D F copy? Pause and explain your choice.",
+      "visual_label": "WHICH FILE SHOULD CHANGE FIRST?",
+      "svg": "study-scene-5.svg"
+    },
+    {
+      "scene": 6,
+      "title": "Pause to answer",
+      "start_seconds": 43.215,
+      "end_seconds": 48.565,
+      "narration": "",
+      "visual_label": "THINK \u00b7 EXPLAIN \u00b7 THEN CHECK",
+      "svg": "study-scene-6.svg"
+    },
+    {
+      "scene": 7,
+      "title": "Check your answer",
+      "start_seconds": 48.565,
+      "end_seconds": 58.54,
+      "narration": "Update the working workbook. Check the formulas and total, then create and inspect a fresh reading copy. Keep the old version so the change can be traced.",
+      "visual_label": "WORKBOOK \u2192 CHECK \u2192 NEW READING COPY",
+      "svg": "study-scene-7.svg"
+    }
+  ]
+}

@@ -4,9 +4,11 @@
 
 [Read the learner book](learner-textbook.html) · [Read the practitioner book](practitioner-guide.html) · [Explore the diagrams](VISUALS.md)
 
-**Edition 3 · 29 October 2026**
+**Edition 4 · 30 October 2026**
 
 Two complete ACCESS Indigenous Skills 4 Success books bring the nine skills into learning, work and community life in British Columbia. Each skill chapter contains a usable process, illustrated explanations, worked examples, complete practice documents and new tasks. The practitioner guide provides teaching routines, full cases, answer guidance and observation tools.
+
+The reading editions use descriptive activity names throughout, illustrated examples for every skill and plain-language practice routes. Digital learning includes Claude, Claude Code, Cowork, ChatGPT and Codex; sixteen activities teach document creation, evidence-based audits, useful file formats and accessible audio/video study materials. [Open the AI lessons](teaching/ai-literacy/learner.html), [play the study-media example](teaching/ai-literacy/media.html), or [download the real practice files](teaching/ai-literacy/fixtures/ai-practice-pack.zip).
 
 ## Start with a useful purpose
 

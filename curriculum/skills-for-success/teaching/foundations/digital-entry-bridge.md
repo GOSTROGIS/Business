@@ -32,3 +32,7 @@ In a new blank file, enter **Return note** and **two rulers**. Save it as **cont
 Ask your observer to record your actions, any navigation help and whether the final saved phrase is present. If a file cannot be found, use the remembered name/location to investigate; do not create repeated copies at random. After watching a demonstration, take your own turn so your actions can be observed.
 
 Continue to making a small table when you can enter, revise and retrieve a simple file with your agreed support. Keep a help card with three reminders you choose: **where I save**, **how I undo**, **how I ask for the next unfamiliar step**. Do not include passwords or private account information.
+
+## Continue into AI-assisted work
+
+Use the complete [AI-literacy sequence](../ai-literacy/learner.md) to apply these file and tool skills to a clear AI brief, editable documents, formula checks and a verified final export. The case supplies its own facts and twelve activities. Observe the learner’s actual AI and file actions separately from these foundation checks.

@@ -1,0 +1,83 @@
+{
+  "duration_seconds": 58.54,
+  "width": 1280,
+  "height": 720,
+  "captions": "burned in and separate SRT/WebVTT",
+  "files": [
+    {
+      "name": "file-formats-study.mp3",
+      "bytes": 706290,
+      "sha256": "0601019d811094af0c609aa1fb5679e0d932d5628880262e731de52778cd65b6"
+    },
+    {
+      "name": "file-formats-study.mp4",
+      "bytes": 1283097,
+      "sha256": "e07fab40758b4284389a84e2f02cc8b299d790e4d1f4614add9b40d22e1c768f"
+    },
+    {
+      "name": "file-formats-study.srt",
+      "bytes": 1285,
+      "sha256": "7793d3a5a141cfbe4a712379764b1df5bced777ed123186ca1bf20f4c78b7ac8"
+    },
+    {
+      "name": "file-formats-study.vtt",
+      "bytes": 1260,
+      "sha256": "43223a2a17c6f8589ff4160aa5712ede08f6c5baa2e7dba8bf7f3910bb142042"
+    },
+    {
+      "name": "file-formats-study.wav",
+      "bytes": 5185614,
+      "sha256": "85ad2bb624054296026b28cfa7d44b918035fb11fb968b83df46865367549585"
+    },
+    {
+      "name": "file-formats-transcript.txt",
+      "bytes": 1439,
+      "sha256": "a774ca66508603fba5c2c975e42017a416f4257e7cde4a134e42882c4a584a6f"
+    },
+    {
+      "name": "storyboard.json",
+      "bytes": 2712,
+      "sha256": "621f2cabcbf75ca631bc6b697a2dc5757bf8597a5e3e400cfa0861d27f5916a9"
+    },
+    {
+      "name": "study-flashcards.csv",
+      "bytes": 446,
+      "sha256": "05b76c4a3dcea674c79929fd13417cd94b7a7e5fae9fceaf642b2c4f1ede19dd"
+    },
+    {
+      "name": "study-scene-1.svg",
+      "bytes": 1839,
+      "sha256": "5193848aeab2a334710f71f0cae299dd8a35f5bda8e52bcad19e503cc6f960e6"
+    },
+    {
+      "name": "study-scene-2.svg",
+      "bytes": 1835,
+      "sha256": "6665e902fbe1ab9e276aa499bc3db2fac74d825e8b0b8f8c8c41f2a4d7765ecf"
+    },
+    {
+      "name": "study-scene-3.svg",
+      "bytes": 1851,
+      "sha256": "92f13b9786528d1623cab01ccf98604ba84d8dfdd2f8df36ebbb4d625a5a58b3"
+    },
+    {
+      "name": "study-scene-4.svg",
+      "bytes": 1824,
+      "sha256": "f7e870fe77c8510bab8e435a5117872c3f11763a0c7fc66ad8894da8cebbdbef"
+    },
+    {
+      "name": "study-scene-5.svg",
+      "bytes": 1793,
+      "sha256": "3d4e9d0b90ed555fb21c73783244e2612b40881a6b423c8284231e0ef728937b"
+    },
+    {
+      "name": "study-scene-6.svg",
+      "bytes": 1804,
+      "sha256": "c6154122c28ecc0cc19431da172dd9e5e62adb4df7a9c43cfbe85312d45513ee"
+    },
+    {
+      "name": "study-scene-7.svg",
+      "bytes": 1806,
+      "sha256": "7a394b8b53e2669c17517f4c38c2bd8438a64a17f9007f8f11941cf992409d20"
+    }
+  ]
+}

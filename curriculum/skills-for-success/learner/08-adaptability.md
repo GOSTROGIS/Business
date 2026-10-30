@@ -8,6 +8,22 @@
 </figure>
 <!-- /visual:social-adaptability-six-components--learner-08 -->
 
+## See it in action · Adaptability
+
+<!-- visual:quick-adaptability--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-adaptability--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Adaptability — visual"><img src="../assets/diagrams/quick-adaptability.svg" alt="ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> The notice and budget both say 26. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-adaptability.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>ORIGINAL: 24 participants. UPDATE: 26 participants. Identify what changed. Update affected quantities. Check what stays the same. The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.</p></details>
+</figure>
+<!-- /visual:quick-adaptability--learner -->
+
+This small fictional example shows the skill in use. ORIGINAL: 24 participants. UPDATE: 26 participants.
+
+**Try it:** Identify what changed. Update affected quantities. Check what stays the same.
+
+**Check your result:** The notice and budget both say 26. Keep the old version. Do not change the room or time without evidence.
+
 ## Change the approach with care
 
 Adaptability is the ability to work toward or adjust a goal when circumstances change. It includes noticing what has changed, deciding what still matters, choosing a workable response and learning from the attempt. Sometimes the response is a new method. Sometimes it is a request for support, a revised deadline or a decision to pause until the right information is available.
@@ -32,13 +48,18 @@ In this chapter, emotional regulation means choosing a practical way to respond 
 <!-- teaching:ad-route-learner -->
 ## Adaptability route card
 
-**Core route.** Define a purpose and workable plan with AD-01/02/03. Explore a chosen response and reasonable boundary with AD-04/05/06. Use AD-07/08/09 to perform and check a purposeful next step. Revise a commitment with AD-10/11/12, act on feedback with AD-13/14 and apply a strategy in AD-15/16. In CK-AD, retain the first plan, receive the change, make the revised pack and perform your own retrieval/check turn.
+**Practise in four steps**
+
+1. State the purpose, make a workable plan and keep the first version.
+2. Read the changed requirement. Separate what changed from what stays the same.
+3. Choose a useful response, ask for support if needed and carry out the revised plan.
+4. Retrieve and check the result yourself. Use feedback to decide what to keep or try next.
 
 **Support route.** Use the paper workflow if that suits the focus and available tools. Read the brief together, use a blank “changed / unchanged / next action / check” organizer, or ask for a tool demonstration before the observed attempt. A learner-directed request for an appropriate support can show Adaptability even when the later tool action is assisted. Do not require a personal account of stress or a rehearsed emotional display. If regulation is not needed or chosen, leave that component unobserved in this task.
 
 **Retry route.** Select the affected step and repeat it after feedback. Use Kit T for a different content requirement when appropriate; record whether it was new. If the first work was accurate, retrieve and verify again or choose another challenge. A retry can confirm a successful process; it need not begin with an invented failure. Track who performs the tool action so a partner's work is not claimed as individual Digital evidence.
 
-**Chapter coverage map:** preparation AD-01/02/03/04/06/07/08/10/11/15; guided/observed action AD-05/09/12/13/14/16; practice planning/evidence review AD-17/18. Where AD-09 uses the supplied case only, mark case analysis and arrange an actual action separately.
+**What the instructor observes.** Keep the first plan, changed requirement and checked result. Discussing a case does not show that the learner carried out the action.
 
 **Next-attempt agreement:** purpose ___; changed requirement ___; chosen next action ___; paper/digital tool route ___; support and boundary ___; observer/booking ___; check/result ___.
 <!-- /teaching:ad-route-learner -->

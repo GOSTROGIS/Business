@@ -24,6 +24,7 @@ import markdown
 
 from install_visuals import install_visuals
 from build_sampler import build_sampler
+from plain_language import transform as plain_language
 
 ROOT = Path(__file__).resolve().parents[1]
 REPOSITORY = ROOT.parents[1]
@@ -222,7 +223,7 @@ def render_body(source, target, manifest, book=None):
     body = re.sub(r'(href|src)="([^"]+)"', rewrite, body)
     body = re.sub(r'(<h[2-6])([^>]*>)([A-Z]{2}-\d{2}\s*[•·—:])', r'\1 class="activity"\2\3', body)
     body = re.sub(r'(<h[2-6])([^>]*>)(Worked example[^<]*)', r'\1 class="example-title"\2\3', body)
-    return keep_change_cards(enhance_figures(enhance_tables(body), target))
+    return keep_change_cards(enhance_figures(enhance_tables(plain_language(body, convert_cards="research" not in source.parts)), target))
 
 
 def shell(title_text, body, target, toolbar='', kind='reading', description='', manifest=None):
@@ -255,7 +256,7 @@ def build_book(book, manifest):
 <p class="eyebrow">{escape(book['eyebrow'])}</p><h1>{escape(book['title'])}</h1>
 <p class="cover-deck">{escape(book['description'])}</p><div class="cover-visual"><img src="{cover_visual['file']}" alt="{escape(cover_visual['alt'], quote=True)}"></div>
 <div class="cover-note"><strong>Learning, work and community in British Columbia</strong><p>Practical lessons, complete cases and visual guides for using the nine Skills for Success.</p><p>{escape(edition_text(manifest))}</p></div></header>'''
-    intro = f'''<section class="edition-note"><h2>Using this book</h2><p>{escape(book['edition_note'])}</p><p>Use the explanations, worked examples and case documents to practise a useful task. Keep your thinking visible, check your result and choose a next step. You can use the fictional cases without sharing personal records or cultural knowledge.</p><p>Keep responses in a notebook, accessible digital document or the learning templates. Each numbered learner activity has answer guidance in the practitioner book. Use the contents to find a skill, and return to a model whenever another example would help.</p></section>'''
+    intro = f'''<section class="edition-note"><h2>Using this book</h2><p>{escape(book['edition_note'])}</p><p>Use the explanations, worked examples and case documents to practise a useful task. Keep your thinking visible, check your result and choose a next step. You can use the fictional cases without sharing personal records or cultural knowledge.</p><p>Keep responses in a notebook, accessible digital document or the learning templates. Each named learner activity has answer guidance in the practitioner book. Use the contents to find a skill, and return to a model whenever another example would help.</p></section>'''
     toc = '<nav class="contents" aria-label="Book contents"><h2>In this book</h2><ol>' + ''.join(contents) + '</ol></nav>'
     body = cover + '<main id="content">' + intro + toc + ''.join(sections) + '</main>'
     companion = 'practitioner-guide' if book['name'] == 'learner-textbook' else 'learner-textbook'

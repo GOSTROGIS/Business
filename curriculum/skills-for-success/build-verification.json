@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "checked_at_utc": "2026-10-30T20:10:43.550121+00:00",
+  "root": "/workspace/Business/curriculum/skills-for-success",
+  "require_generated": true,
+  "checks": {
+    "PDF activity coverage": 348,
+    "PDF annotations": 42,
+    "PDF contents destinations": 123,
+    "SVG accessibility": 108,
+    "SVG resources": 34139,
+    "SVG structure": 162,
+    "activity coverage": 388,
+    "book chapters": 72,
+    "book identity": 8,
+    "book manifest": 79,
+    "crosswalk structure": 40,
+    "external links skipped": 47,
+    "fragments": 820,
+    "fresh practice coverage": 18,
+    "generated HTML": 1891,
+    "generated PDF": 6,
+    "links": 2666,
+    "markdown": 74,
+    "source identity": 7,
+    "source inventory": 709,
+    "standalone books": 2,
+    "visual accessibility": 631,
+    "visual figures": 1260,
+    "visual images": 632,
+    "visual manifest": 854,
+    "visual placement": 315,
+    "visual sampler": 45,
+    "visual skill coverage": 19
+  },
+  "artifacts": {
+    "source": {
+      "path": "/workspace/Business/curriculum/asphalt-paving/sources/SFS-Get-Started-Guide_FINAL_MAR2024.pdf",
+      "sha256": "32dad4699b1ef1ab281ad4bdf95bef310048741703fc401094c57f6c62e33caf",
+      "pages": 148
+    },
+    "markdown_files": 73,
+    "learner-textbook.html": {
+      "bytes": 582776,
+      "headings": 555,
+      "ids": 505
+    },
+    "practitioner-guide.html": {
+      "bytes": 801171,
+      "headings": 634,
+      "ids": 632
+    },
+    "visuals": {
+      "manifest_entries": 107,
+      "SVG_assets": 54,
+      "figure_occurrences": 315
+    },
+    "learner-textbook.pdf": {
+      "bytes": 7234642,
+      "pages": 216,
+      "URI_annotations": 10
+    },
+    "practitioner-guide.pdf": {
+      "bytes": 15897271,
+      "pages": 287,
+      "URI_annotations": 32
+    },
+    "visual-sampler.pdf": {
+      "bytes": 415329,
+      "pages": 8,
+      "source_references": 8,
+      "URI_annotations": 0
+    }
+  },
+  "errors": [],
+  "notes": [],
+  "limits": "Offline structural verification; external URLs, instructional correctness, cultural context and visual layout require separate review."
+}

@@ -1,5 +1,21 @@
 # Numeracy • Find the quantities, choose a method, explain the result
 
+## See it in action · Numeracy
+
+<!-- visual:quick-numeracy--learner -->
+<figure class="teaching-figure diagram" data-visual="quick-numeracy--learner">
+<div class="figure-art" tabindex="0" role="region" aria-label="See it in action · Numeracy — visual"><img src="../assets/diagrams/quick-numeracy.svg" alt="ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged." loading="eager" decoding="sync"></div>
+<figcaption><span class="figure-label">Visual guide</span> Five folders remain outstanding. ACCESS IS4S. (2026). Original fictional teaching diagram. <a class="visual-original" href="../assets/diagrams/quick-numeracy.svg">Open full-size visual</a></figcaption>
+<details class="visual-description"><summary>Read the visual description</summary><p>ISSUED: 18 folders. RETURNED: 13 folders. Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18. Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.</p></details>
+</figure>
+<!-- /visual:quick-numeracy--learner -->
+
+This small fictional example shows the skill in use. ISSUED: 18 folders. RETURNED: 13 folders.
+
+**Try it:** Name the quantity you need. Calculate: 18 − 13 = 5. Check: 13 + 5 = 18.
+
+**Check your result:** Five folders remain outstanding. Outstanding does not automatically mean lost or damaged.
+
 ## Start with a useful question
 
 Numeracy helps you answer questions that matter: Will the supplies cover everyone? Which travel plan meets the arrival time? How much space is available? What does a table actually tell us? Getting a number is part of the work. Knowing what that number means, checking it and explaining its consequences complete the task.
