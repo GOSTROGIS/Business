@@ -1,0 +1,58 @@
+{
+  "id": "multiquip-plate-manual",
+  "slug": "multiquip-plate-manual",
+  "title": "MVC-88VGH/VGHW One-Way Plate Compactor: Operation and Parts Manual",
+  "author": "Multiquip",
+  "edition": "Revision 2, August 6, 2010",
+  "category": "tools",
+  "scope": "Example plate compactor with engine and parts diagrams; confirm actual machine, revision and application.",
+  "kind": "pdf",
+  "download_filename": "multiquip-plate-manual.raw",
+  "original_pages": 70,
+  "original_sha256": "5f996caf13af6d00876ff34f381e03fd48d27493440ae46acc496e4bacf462fb",
+  "original_bytes": 2496785,
+  "source_url": "https://www.multiquip.com/multiquip/pdfs/Plate_compactors_forward_MVC88VGH_VGHW_rev_2_manual_DataId_18385_Version_1.pdf",
+  "final_url": "https://www.multiquip.com/multiquip/pdfs/Plate_compactors_forward_MVC88VGH_VGHW_rev_2_manual_DataId_18385_Version_1.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/multiquip-plate-manual/p0001-0025.pdf",
+      "text": "text/multiquip-plate-manual/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 920920,
+      "sha256": "debcbfb36e12c9b087d53dbc09da924a9d3f133ebfee82ac7edd27bf6011bde9",
+      "text_sha256": "fa03e5cbf6c51fbcfa15965acb37fd26885ba6cc2c6f6d2bcfc70e56f9096d25",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/multiquip-plate-manual/p0026-0050.pdf",
+      "text": "text/multiquip-plate-manual/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 1058555,
+      "sha256": "bc16b150a65a854faf624ebd230352262fd6fa4d26a3de42542a8668a4d594dc",
+      "text_sha256": "296130b78977ff205c34e312ff4cb048824925329f8c4e063289b509eadab913",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/multiquip-plate-manual/p0051-0070.pdf",
+      "text": "text/multiquip-plate-manual/p0051-0070.txt",
+      "start": 51,
+      "end": 70,
+      "pages": 20,
+      "bytes": 634362,
+      "sha256": "7692820627c539d11b734069810de817291a98e6d1a766f26497c79f9b7ab523",
+      "text_sha256": "e59f849442f1ed90fbb96f76668c63035cff2289e756b683891c177b4f2f848b",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

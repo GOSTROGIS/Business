@@ -1,0 +1,32 @@
+{
+  "id": "skilledtrades-exam",
+  "slug": "skilledtrades-exam",
+  "title": "Asphalt Paving/Laydown Technician: Certificate of Qualification Exam Breakdown",
+  "author": "SkilledTradesBC",
+  "edition": "January 1, 2023",
+  "category": "program",
+  "scope": "Official 100-question exam distribution; assessment weighting is distinct from lesson time or training approval.",
+  "kind": "pdf",
+  "download_filename": "skilledtrades-exam.raw",
+  "original_pages": 1,
+  "original_sha256": "dbdc84beaa29fee25e86608510127db8da1dcd66f11740ae0d6d560da77efcdb",
+  "original_bytes": 77059,
+  "source_url": "https://skilledtradesbc.ca/sites/default/files/2023-01/asphalt-paving-laydown-technician-cofq-exam-breakdown-jan-2023.pdf",
+  "final_url": "https://skilledtradesbc.ca/sites/default/files/2023-01/asphalt-paving-laydown-technician-cofq-exam-breakdown-jan-2023.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/skilledtrades-exam/p0001-0001.pdf",
+      "text": "text/skilledtrades-exam/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 77059,
+      "sha256": "dbdc84beaa29fee25e86608510127db8da1dcd66f11740ae0d6d560da77efcdb",
+      "text_sha256": "b17f2c069a28c2b75e823525b12936ec3a59af7b73819c297be6d511241af4e1",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

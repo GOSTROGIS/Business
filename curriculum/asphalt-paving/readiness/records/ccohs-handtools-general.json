@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-handtools-general",
+  "slug": "ccohs-handtools-general",
+  "title": "Hand Tools: General Hand Tool Operation",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "tools",
+  "scope": "General selection, inspection and safe-use guidance; not equipment-specific assembly instructions.",
+  "kind": "pdf",
+  "download_filename": "ccohs-handtools-general.raw",
+  "original_pages": 3,
+  "original_sha256": "6ea4add3278966f853ea23df2f7a91bb480bd7c35da8b30f060dbfc3edfb39b5",
+  "original_bytes": 93326,
+  "source_url": "https://www.ccohs.ca/oshanswers/safety_haz/hand_tools/CCOHS_general.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/safety_haz/hand_tools/CCOHS_general.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-handtools-general/p0001-0003.pdf",
+      "text": "text/ccohs-handtools-general/p0001-0003.txt",
+      "start": 1,
+      "end": 3,
+      "pages": 3,
+      "bytes": 93326,
+      "sha256": "6ea4add3278966f853ea23df2f7a91bb480bd7c35da8b30f060dbfc3edfb39b5",
+      "text_sha256": "16123117ecdc1fe0fb10befd9bd4415da0380ab36978d8246358a6bbda0bd74c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

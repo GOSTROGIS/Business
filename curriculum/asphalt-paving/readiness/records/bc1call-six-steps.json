@@ -1,0 +1,32 @@
+{
+  "id": "bc1call-six-steps",
+  "slug": "bc1call-six-steps",
+  "title": "Safety Is a Shared Responsibility: Six Steps to Safe Digging",
+  "author": "BC 1 Call",
+  "edition": "August 2020",
+  "category": "utilities",
+  "scope": "Obtain a current locate ticket and follow each facility owner's instructions; this handout is not clearance to excavate.",
+  "kind": "pdf",
+  "download_filename": "bc1call-six-steps.raw",
+  "original_pages": 2,
+  "original_sha256": "4d4385e15fc97397092e6af1ecf64679e148db88b3df83eea3070d467c77b9bc",
+  "original_bytes": 2385605,
+  "source_url": "https://www.bc1c.ca/wp-content/uploads/2020/10/6-steps_Aug-2020.pdf",
+  "final_url": "https://www.bc1c.ca/wp-content/uploads/2020/10/6-steps_Aug-2020.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/bc1call-six-steps/p0001-0002.pdf",
+      "text": "text/bc1call-six-steps/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 2385605,
+      "sha256": "4d4385e15fc97397092e6af1ecf64679e148db88b3df83eea3070d467c77b9bc",
+      "text_sha256": "43cc7eb4b3827a0df9001b0a64f021b2ab2bf818c53807d5c13431c75ea0ccf1",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

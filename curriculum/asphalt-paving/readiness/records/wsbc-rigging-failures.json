@@ -1,0 +1,32 @@
+{
+  "id": "wsbc-rigging-failures",
+  "slug": "wsbc-rigging-failures",
+  "title": "Preventing Crane Rigging Failures",
+  "author": "WorkSafeBC",
+  "edition": "2025; WS2025-01",
+  "category": "rigging",
+  "scope": "Safety bulletin with inspection, selection and applicable-standard context; pair with current Parts 14 and 15.",
+  "kind": "pdf",
+  "download_filename": "wsbc-rigging-failures.raw",
+  "original_pages": 2,
+  "original_sha256": "38db373c72ad99cb33a78075d0f64e418aff41647a2ccc45671e7cc87f54703d",
+  "original_bytes": 129375,
+  "source_url": "https://www.worksafebc.com/resources/health-safety/bulletins/preventing-crane-rigging-failures?lang=en&direct",
+  "final_url": "https://www.worksafebc.com/en/resources/health-safety/bulletins/preventing-crane-rigging-failures?lang=en&direct",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/wsbc-rigging-failures/p0001-0002.pdf",
+      "text": "text/wsbc-rigging-failures/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 129375,
+      "sha256": "38db373c72ad99cb33a78075d0f64e418aff41647a2ccc45671e7cc87f54703d",
+      "text_sha256": "f98474559bda5bdef96dd50c210f3ad28b589b85449ecea0628bcbf1fa0ae907",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

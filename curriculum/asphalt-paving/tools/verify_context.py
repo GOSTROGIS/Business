@@ -4,7 +4,7 @@ import csv,hashlib,json,re
 import fitz
 from pypdf import PdfReader
 A=Path(__file__).resolve().parents[1];R=A.parents[1];B=A/'context'
-m=json.loads((B/'manifest.json').read_text());count=0;renders=0;links=0;seen=[];seen_text=[];aliases=[];reused=0;cat_reused=0
+m=json.loads((B/'manifest.json').read_text());count=0;renders=0;links=0;seen=[];seen_text=[];aliases=[];reused=0;cat_reused=0;readiness_reused=0
 for d in m['documents']:
  for alias in d['aliases']:
   p=R/alias;assert hashlib.sha256(p.read_bytes()).hexdigest()==d['sha256'],alias;aliases.append(p.resolve())
@@ -31,12 +31,14 @@ for d in m['documents']:
      assert hashlib.sha256('\f'.join(upstream).encode()).hexdigest()==d['extraction']['text_source_sha256']
      reused+=1
     else:
-     assert A/'caterpillar/sources' in pdf.parents and not c['ocr_performed']
+     assert (A/'caterpillar/sources' in pdf.parents or A/'readiness/sources' in pdf.parents) and not c['ocr_performed']
      global_pages=list(map(int,re.findall(r'^=== COMPLETE SOURCE PDF PAGE (\d+) ===$',txt.decode(),re.M)))
-     assert global_pages==list(range(d['extraction']['complete_source_pdf_start'],d['extraction']['complete_source_pdf_end']+1));cat_reused+=1
+     assert global_pages==list(range(d['extraction']['complete_source_pdf_start'],d['extraction']['complete_source_pdf_end']+1))
+     if A/'caterpillar/sources' in pdf.parents:cat_reused+=1
+     else:readiness_reused+=1
    else:assert B/'chunks' in pdf.parents
    reader=PdfReader(pdf);assert len(reader.pages)==c['page_count']
-   if A/'caterpillar/sources' in pdf.parents:
+   if A/'caterpillar/sources' in pdf.parents or A/'readiness/sources' in pdf.parents:
     with fitz.open(pdf) as native:
      for page in native:
       for link in page.get_links():
@@ -67,5 +69,7 @@ assert len(m['documents'])==m['counts']['unique_pdfs']
 assert {p.resolve() for p in (B/'chunks').rglob('*.pdf')}=={p for p in seen if B/'chunks' in p.parents}
 assert {p.resolve() for p in (B/'chunks').rglob('*.txt')}==set(seen_text)
 assert len(list(csv.DictReader((B/'chunk-index.csv').open())))==count
-assert cat_reused==88 and reused==34 and m['primary_textbook']['pdf_pages']==834 and not m['pending_sources']
-print(json.dumps({'status':'passed','documents':len(m['documents']),'chunks':count,'reused_ms4_source_parts':reused,'reused_cat_source_parts':cat_reused,'representative_render_comparisons':renders,'retained_URI_links':links,'checks':'Source aliases, complete inventory, hashes, size/page limits, local/global text page maps, OCR cache fingerprints, source reuse, PDF page counts, link annotations, CSV and rendering.'},indent=2))
+assert cat_reused==sum(len(d['parts']) for d in json.loads((A/'caterpillar/manifest.json').read_text())['documents'])
+assert readiness_reused==sum(len(d['parts']) for d in json.loads((A/'readiness/manifest.json').read_text())['documents'])
+assert reused==34 and m['primary_textbook']['pdf_pages']==834 and not m['pending_sources']
+print(json.dumps({'status':'passed','documents':len(m['documents']),'chunks':count,'reused_ms4_source_parts':reused,'reused_cat_source_parts':cat_reused,'reused_readiness_source_parts':readiness_reused,'representative_render_comparisons':renders,'retained_URI_links':links,'checks':'Source aliases, complete inventory, hashes, size/page limits, local/global text page maps, OCR cache fingerprints, source reuse, PDF page counts, link annotations, CSV and rendering.'},indent=2))

@@ -1,0 +1,32 @@
+{
+  "id": "bcforest-tiger-torch",
+  "slug": "bcforest-tiger-torch",
+  "title": "Safe Use of Tiger Torches",
+  "author": "BC Forest Safety Council",
+  "edition": "n.d.; publisher 2022 hosting path",
+  "category": "fuel",
+  "scope": "Crew-talk guidance; use the actual torch, regulator and hose instructions and site fire controls.",
+  "kind": "pdf",
+  "download_filename": "bcforest-tiger-torch.raw",
+  "original_pages": 2,
+  "original_sha256": "1fb322836b5adc0de966ecc16488fa28f369a41e4aa8a9353abb525c5349e910",
+  "original_bytes": 573893,
+  "source_url": "https://www.bcforestsafe.org/wp-content/uploads/2022/12/mag_CrewTalk-UseOfTigerTorch.pdf",
+  "final_url": "https://www.bcforestsafe.org/wp-content/uploads/2022/12/mag_CrewTalk-UseOfTigerTorch.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/bcforest-tiger-torch/p0001-0002.pdf",
+      "text": "text/bcforest-tiger-torch/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 573893,
+      "sha256": "1fb322836b5adc0de966ecc16488fa28f369a41e4aa8a9353abb525c5349e910",
+      "text_sha256": "5021b3c33572412edd9f28b7ac8fe95ef1c178d7db4c97c5952bb4179126cd90",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

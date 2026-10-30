@@ -74,3 +74,5 @@
 | L6 | Follow shut down procedures | 103 / 101 | Not authored as a technical unit | Development pending |
 
 Use the [technical handoff](technical-handoff.md) to record a reviewer, source/application check, required changes and disposition. A blank approval field remains pending. The [machine-readable CSV](competency-status.csv) retains original extracted titles alongside normalized display titles.
+
+The [complete source coverage audit](../readiness/coverage.html) and [tool register](../readiness/tools.html) map acquired references and remaining equipment/site requirements without changing these lesson or assessment statuses.

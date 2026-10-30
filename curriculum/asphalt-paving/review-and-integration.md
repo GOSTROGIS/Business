@@ -126,6 +126,12 @@ The access gap is closed. The remaining work is instructional depth and delivery
 
 The next useful visual work is selected labelled diagrams for aggregate grading, moisture/drainage, quality records and rehabilitation routes, chosen alongside the corresponding complete lessons and keys. Add each drawing only after checking its source page and teaching purpose. Track actual learner misunderstandings and access needs during a local pilot before revising examples or timings.
 
+## Full-outline source audit · 30 October 2026
+
+The [68-competency coverage map](readiness/coverage.html) and [32-group tool register](readiness/tools.html) now audit every competency and every named Section 4 tool. The [new library](readiness/index.html) adds 41 complete PDF publications (3,240 pages) and 30 archived web sources, including current WorkSafeBC Parts 14/15, official crane signals, actual hand-tool assembly/parts information, instrument manuals, traffic control, cargo securement, environmental regulation and current highway specifications. Large PDFs are retained in small native parts, with source identity and original page ranges.
+
+The [gap and currentness record](readiness/gaps.html) identifies exact missing course publications, unknown fleet-specific manuals, instrument/SDS/site requirements and wording that needs care when teaching from the 2016 outline. The six later equipment pathways are not declared complete by this acquisition. Original source documents remain unchanged; technical lessons and practical approval remain separate work.
+
 ## CAT parts and WHMIS additions · 30 October 2026
 
 The new [CAT collection](caterpillar/README.md) closes the shortage of publicly available Cat application and parts-reference material: 22 publications, 1,883 pages and 88 native PDF parts. The 20-figure atlas names 89 components and retains original callouts, readable source images, model scope and APA-style source credits. Ten complete practice tasks and an answer guide teach identification and source checking across all nine skills.

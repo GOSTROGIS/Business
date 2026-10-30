@@ -1,0 +1,290 @@
+{
+  "id": "bc-mines-code-2026",
+  "slug": "bc-mines-code-2026",
+  "title": "Health, Safety and Reclamation Code for Mines in British Columbia",
+  "author": "BC Ministry of Mining and Critical Minerals",
+  "edition": "June 2026",
+  "category": "safety",
+  "scope": "For work within Mines Act jurisdiction, including applicable pits/quarries. Establish jurisdiction before choosing procedures.",
+  "kind": "pdf",
+  "download_filename": "bc-mines-code-2026.raw",
+  "original_pages": 427,
+  "original_sha256": "e3a445f7815d218c33a7847b132baa043e2e25ce775e80edeacf7463b767d27b",
+  "original_bytes": 2298241,
+  "source_url": "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/minescode_june_2026.pdf",
+  "final_url": "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/minescode_june_2026.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/bc-mines-code-2026/p0001-0025.pdf",
+      "text": "text/bc-mines-code-2026/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 966430,
+      "sha256": "216a90b78f90d97400470a5c34def4be18b3fa2c4147d4cb8403ed0cc0c0daf2",
+      "text_sha256": "e9fc8c4fb5e7531812cdd47e5455591811c7735a7fe9ac02abf927fb7cf8394a",
+      "empty_text_source_pages": [
+        2,
+        6
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0026-0050.pdf",
+      "text": "text/bc-mines-code-2026/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 392862,
+      "sha256": "4ff09e17170fd3f5800884673e411ab0f758d8498d5157a3611172b281e36851",
+      "text_sha256": "0a4e3f49bf6bb958a2807d5375907b8deb0ddfee21bfea393e23fec84f15837b",
+      "empty_text_source_pages": [
+        38,
+        46,
+        48,
+        50
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0051-0075.pdf",
+      "text": "text/bc-mines-code-2026/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 395046,
+      "sha256": "378ac14452102d622982d0d5733144b44077e4f81175e03f5bf3dcd9efa9ccd9",
+      "text_sha256": "5f1272d61112c406e13f934335f0fc39d8121d3968d2b2c4c2662bbd25a03d1b",
+      "empty_text_source_pages": [
+        54,
+        56,
+        72,
+        74
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0076-0100.pdf",
+      "text": "text/bc-mines-code-2026/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 292101,
+      "sha256": "36b21e05ef980f502232e3492399c067b98b01259f937051c4e0b1421bef4169",
+      "text_sha256": "97aeef94b3fb527b32cadd8e8febcda136fd1f0666e4b45ab93c495f5f8b7377",
+      "empty_text_source_pages": [
+        90
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0101-0125.pdf",
+      "text": "text/bc-mines-code-2026/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 382134,
+      "sha256": "792b51cb17007f19f5f1c97aa202fe5f502d5e9b019bc0fe4de25045dca0d2fd",
+      "text_sha256": "a1bc4489544aafa51f7e6a7adfd41ce5a06f18e76aa07ef319fb0cbd6fe7524a",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0126-0150.pdf",
+      "text": "text/bc-mines-code-2026/p0126-0150.txt",
+      "start": 126,
+      "end": 150,
+      "pages": 25,
+      "bytes": 322169,
+      "sha256": "c24994a3bd9a80193b3242e5e2e1710904054708149db93a4aada01c7c0ac1a9",
+      "text_sha256": "8a0579c0fdcb6dcac8abde91cb60eff756c4b18f6c93e53b101e10e8a2e7f2cf",
+      "empty_text_source_pages": [
+        136,
+        138
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0151-0175.pdf",
+      "text": "text/bc-mines-code-2026/p0151-0175.txt",
+      "start": 151,
+      "end": 175,
+      "pages": 25,
+      "bytes": 552560,
+      "sha256": "7419f4cffd5cf1328f83b78ecc3c657d18b909c0435c1b4728cd3620f19b1023",
+      "text_sha256": "8e247c84508290f90ed5929b16790297e6fd043503e25411908ce8bfc290356b",
+      "empty_text_source_pages": [
+        156
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0176-0200.pdf",
+      "text": "text/bc-mines-code-2026/p0176-0200.txt",
+      "start": 176,
+      "end": 200,
+      "pages": 25,
+      "bytes": 313717,
+      "sha256": "8c36834da1d4b427839524e7dbe614cb914e6df5868b7ca9077e9283f609adde",
+      "text_sha256": "891b9991b3f607cef8aee68ccd91dbb3b008ee77ac0e3ac8292576642b9ec6aa",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0201-0225.pdf",
+      "text": "text/bc-mines-code-2026/p0201-0225.txt",
+      "start": 201,
+      "end": 225,
+      "pages": 25,
+      "bytes": 278556,
+      "sha256": "7f8678ccf584226e18225bd85d5a6d9bec44990cb51da644abdac23ecb585ca2",
+      "text_sha256": "bd10eb562ab00b21058b6fa88436b5877caf691b054a2c145dec16169525f0b7",
+      "empty_text_source_pages": [
+        210,
+        212
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0226-0250.pdf",
+      "text": "text/bc-mines-code-2026/p0226-0250.txt",
+      "start": 226,
+      "end": 250,
+      "pages": 25,
+      "bytes": 260203,
+      "sha256": "c7dbb1170f8ad63cb76927884540e8810bf2ff61a9726942396862e5ab93eabd",
+      "text_sha256": "756b6eac3573491672279217fc8ea87dad44169dfc0ac12f7133049e02f906ea",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0251-0275.pdf",
+      "text": "text/bc-mines-code-2026/p0251-0275.txt",
+      "start": 251,
+      "end": 275,
+      "pages": 25,
+      "bytes": 221454,
+      "sha256": "30e12aa081020b70436cfc6f9be44c22fab4bcbbf4a682020225ff1bb455a202",
+      "text_sha256": "ef801af4c64d7dcbe09679722afb7914bfb95f929ca165eab5f7509f543aeb57",
+      "empty_text_source_pages": [
+        252,
+        254
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0276-0300.pdf",
+      "text": "text/bc-mines-code-2026/p0276-0300.txt",
+      "start": 276,
+      "end": 300,
+      "pages": 25,
+      "bytes": 263434,
+      "sha256": "afed2084ecf6a252076942009f7f8f0426fa3fc4abf2df1dae935ca70d33fff7",
+      "text_sha256": "8c1e3e31b2fdff7225be041599a8d2a53d07a8eeeb18b3f3514625829750760b",
+      "empty_text_source_pages": [
+        288
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0301-0325.pdf",
+      "text": "text/bc-mines-code-2026/p0301-0325.txt",
+      "start": 301,
+      "end": 325,
+      "pages": 25,
+      "bytes": 343933,
+      "sha256": "8824a7091d26538bd8d3c002a948d6f90822fa93ec9fba1fa1fcfabf51cf67d8",
+      "text_sha256": "1e2d6ea0c2dacbccc55d316d88161a1cce0cdc1ba2395a1d4849b41d8b33a420",
+      "empty_text_source_pages": [
+        304,
+        306,
+        318,
+        320
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0326-0350.pdf",
+      "text": "text/bc-mines-code-2026/p0326-0350.txt",
+      "start": 326,
+      "end": 350,
+      "pages": 25,
+      "bytes": 284180,
+      "sha256": "41568dcbc515bf291e7f1781f679bff053a0a6eb2af45f8c9dca716bdbcfd9ed",
+      "text_sha256": "3e16f6727451fb0896e39eff33702efa54d0408cee0afdcad815afed2c205b0c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0351-0375.pdf",
+      "text": "text/bc-mines-code-2026/p0351-0375.txt",
+      "start": 351,
+      "end": 375,
+      "pages": 25,
+      "bytes": 309658,
+      "sha256": "f5d4a3abe3a873a4ce127e79244119540ccaab7b6300718400ea24a1c14644f7",
+      "text_sha256": "6ad692092071f3db7c4c4a3e19c1d21838abe461e200408586ef3ec2f3c051d4",
+      "empty_text_source_pages": [
+        358
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0376-0400.pdf",
+      "text": "text/bc-mines-code-2026/p0376-0400.txt",
+      "start": 376,
+      "end": 400,
+      "pages": 25,
+      "bytes": 304052,
+      "sha256": "a682323e3ae29f62d8841f1b6fd17024173e78d04a016082d9aa5f43182ca064",
+      "text_sha256": "e3ea3f9f2df927d5f223ce8a5ea572c3ceac2dc9c20c43070801d6f0ea2c4003",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0401-0425.pdf",
+      "text": "text/bc-mines-code-2026/p0401-0425.txt",
+      "start": 401,
+      "end": 425,
+      "pages": 25,
+      "bytes": 284334,
+      "sha256": "6c6e3100a65269904a368fbdb6d20f04b1f59a097164b5b7f66a46cd7ebc1c64",
+      "text_sha256": "0f0354885d27b3b84b250da77c0972e004d230dd00724f26f64b33727de17da0",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/bc-mines-code-2026/p0426-0427.pdf",
+      "text": "text/bc-mines-code-2026/p0426-0427.txt",
+      "start": 426,
+      "end": 427,
+      "pages": 2,
+      "bytes": 119131,
+      "sha256": "9b5a0c9ef28dda4cc384e0af97e07f996edf5271e926b568149af92c02e86fc9",
+      "text_sha256": "64c4bc4741d979f96a259df3f80898282bd29b111cd73796cea5f88ef79a9c18",
+      "empty_text_source_pages": [
+        426
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

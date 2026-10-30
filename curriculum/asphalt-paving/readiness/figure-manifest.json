@@ -1,0 +1,62 @@
+[
+  {
+    "file": "assets/rakes-and-handwork.png",
+    "source_id": "seymour-tool-catalogue-2026",
+    "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+    "source_pdf_page": 156,
+    "clip_pdf_points": [
+      0.0,
+      0.0,
+      612.0,
+      530.64
+    ],
+    "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+    "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b",
+    "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 156). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+  },
+  {
+    "file": "assets/tampers.png",
+    "source_id": "seymour-tool-catalogue-2026",
+    "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+    "source_pdf_page": 91,
+    "clip_pdf_points": [
+      0.0,
+      0.0,
+      612.0,
+      451.43999999999994
+    ],
+    "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+    "sha256": "479da928991acd9c7f205f20cf6ec51e989dd25ef556947e02eda1f310c34ea6",
+    "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 91). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+  },
+  {
+    "file": "assets/wheelbarrows.png",
+    "source_id": "seymour-tool-catalogue-2026",
+    "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+    "source_pdf_page": 94,
+    "clip_pdf_points": [
+      0.0,
+      0.0,
+      612.0,
+      570.24
+    ],
+    "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+    "sha256": "fed329dd1e9bf9eee04404f7992ec6de5a42e1ace7a52f2e72c5e494e1dc7ad7",
+    "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 94). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+  },
+  {
+    "file": "assets/crane-signals.png",
+    "source_id": "wsbc-crane-signals",
+    "source_sha256": "8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e",
+    "source_pdf_page": 1,
+    "clip_pdf_points": [
+      0.0,
+      0.0,
+      612.0,
+      792.0
+    ],
+    "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+    "sha256": "a9f934dd461ecedd96b8deaf2f7789c436645bad19105dc608259430def8664f",
+    "citation": "WorkSafeBC. (n.d.; TG07-29). Hand Signals for Hoist and Crane Operations (source PDF p. 1). https://www.worksafebc.com/en/resources/health-safety/toolbox-meeting-guides/hand-signals-for-hoist-and-crane-operations?lang=en&direct"
+  }
+]

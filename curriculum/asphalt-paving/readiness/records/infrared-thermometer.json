@@ -1,0 +1,32 @@
+{
+  "id": "infrared-thermometer",
+  "slug": "infrared-thermometer",
+  "title": "Industrial IR with Circle Laser: IR-IND / IRK-2 Operating Instructions",
+  "author": "ThermoWorks",
+  "edition": "n.d.",
+  "category": "measurement",
+  "scope": "Model-specific surface/probe measurement guidance. An IR surface reading is not automatically the required internal mix temperature.",
+  "kind": "pdf",
+  "download_filename": "infrared-thermometer.raw",
+  "original_pages": 4,
+  "original_sha256": "ce1627ca0e9a4cfde49564a9bf67ebb0f0bde2f9027c39e551901a2be9a02b65",
+  "original_bytes": 337873,
+  "source_url": "https://cdn.shopify.com/s/files/1/0662/7999/7602/files/ir-ind_irk2_operating_instructions_a.pdf?v=1772046629",
+  "final_url": "https://cdn.shopify.com/s/files/1/0662/7999/7602/files/ir-ind_irk2_operating_instructions_a.pdf?v=1772046629",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/infrared-thermometer/p0001-0004.pdf",
+      "text": "text/infrared-thermometer/p0001-0004.txt",
+      "start": 1,
+      "end": 4,
+      "pages": 4,
+      "bytes": 337873,
+      "sha256": "ce1627ca0e9a4cfde49564a9bf67ebb0f0bde2f9027c39e551901a2be9a02b65",
+      "text_sha256": "109b03e58bb4e11cf86ccc420c59035fe854e1e3a845daa68a3e37d89d3fcb13",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

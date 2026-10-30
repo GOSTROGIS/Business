@@ -1,0 +1,795 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0076-0100.pdf
+SOURCE SHA-256: 8baf414e906d9bb37d7e9352fb2f11e1b2d555b5447d7fcdc9f836ad97b3faec
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 76 ===
+Appendix A:
+Maintenance &
+Troubleshooting
+
+       This appendix covers the following topics and tasks:
+
+            Troubleshooting
+            Maintaining and servicing your gauge
+            Charging the battery
+            Replacement parts list
+            Returning the gauge for service
+
+
+
+
+Model 3430                                          Appendix A–1
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 77 ===
+Troubleshooting
+
+Gauge Fails Standard Counts
+Ensure that the source rod opening on the gauge bottom is
+completely closed or covered by the tungsten sliding block. If
+any opening is visible, the sliding block should be cleaned by the
+Radiation Safety Officer as described in Appendix D. If the
+sliding block still does not close completely, contact the nearest
+Troxler Service Center.
+Ensure that the guidelines for performing the standard count
+listed on page 3-9 are followed.
+Perform the standard count again. If it still fails, contact your
+nearest Troxler service center or representative.
+
+No Density Readings
+The most likely reason for no density readings is an electronic
+problem, such as a failure of the detector preamplifier.
+Also, the gauge may have gotten wet. The Model 3430 and 3440
+gauges are not waterproof and should not be used in the rain. If
+the gauge gets wet make sure it is completely dry before sealing
+it in the case for storage. If you suspect that moisture may be
+inside the gauge open the keypad panel and run a fan or
+hairdryer (on low) in the gauge for 15 minutes to an hour in a
+clean environment. .
+As a precaution, ensure that the tip of the source rod is intact
+and undamaged. Use a radiation survey meter to check the
+radiation levels at the surface of the gauge base where the
+source rod exits (without extending the source rod). A
+maximum reading of 10-20 mrem/hr is normal, and indicates
+the source is present. If the maximum reading is less than 1
+mrem/hr or if a survey meter is not available, perform a visual
+inspection of the source rod tip as follows to confirm its
+integrity.
+Extend the source rod just far enough to see the source rod tip.
+The tip should appear flat to slightly rounded and smooth.
+
+Appendix A–2
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 78 ===
+Complete the inspection as quickly as possible and stay at least
+1 meter from the rod tip to minimize exposure (the dose rate at
+1 meter from the unshielded source is about 2.7 mrem/hr).
+If the visual inspection indicates that the source rod tip is
+broken off (source is missing):
+1. Immediately contact your Radiation Safety Officer (RSO).
+2. Initiate a search for the source starting at the location where
+   the gauge was last used.
+3. Report lost or missing radioactive sources to your state or
+   federal radiation control agency in accordance with
+   applicable regulatory requirements.
+4. Contact the Troxler Radiation Safety Department for further
+   advice.
+
+Gauge Readings Appear Erratic
+1. Ensure that the source rod is properly positioned in the
+   desired measurement position. For backscatter readings, do
+   not allow the source rod to contact the material.
+2. Erratic density readings may be caused by a dirty sliding
+   block. Clean the sliding block as instructed in Appendix D
+   and then take readings again.
+3. Check the inside of the gauge for moisture. To dry the gauge
+   interior, remove the keypad. If necessary, use a hair dryer
+   (on low heat) to circulate warm air for 15 minutes to 1 hour.
+4. Remove any foreign objects from inside the gauge.
+5. Ensure the hardware mounting screws are tight and
+   in place.
+6. Check count time – a four-minute count will give the highest
+   precision with a repeatability of ±1 pcf.
+7. Perform a statistical stability (stat)test.
+     If test passes, proceed with job.
+     If test fails, repeat two more times. If test fails two out of
+        three times, contact the nearest Troxler Service Center.
+
+
+Model 3430                                            Appendix A–3
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 79 ===
+NOTE
+    To aid in verifying gauge readings, after a gauge has
+    been calibrated, mark a test area on a concrete floor,
+    sidewalk, or equivalent and measure the density
+    (WD). This measurement can then be used as a
+    reference to verify later gauge readings.
+
+Unreadable, XXXX or ++++ is Displayed
+1. Check the standard counts in memory. If the standard
+   counts are suspect, perform new standard counts. If
+   counts equal zero for both systems, replace high voltage
+   board. Contact the nearest Troxler Service.
+2. Ensure that the measurement depth (depth of the source
+   rod handle) is the same as the depth displayed on the
+   display before starting a measurement.
+3. Check gauge for water damage. If the gauge is wet, dry the
+   gauge interior with hairdryer (on low heat) for 15 minutes
+   to 1 hour..
+4. Check that the calibration constants are valid.
+5. If necessary, perform a statistical stability (stat) test, record
+   the results and contact the nearest Troxler Service Center.
+
+Gauge Turns off after it is Turned On
+1. The gauge automatically turns off after five hours if no
+   keys are pressed. Try to turn the gauge on again.
+2. The gauge may be wet. Do not turn the gauge on until
+   moisture is removed from gauge interior! Component
+   damage may result.
+3. If the battery is below 5.5 volts, recharge or replace the
+   batteries.
+4. The front panel assembly may be defective. To test, replace
+   the suspect front panel assembly with a good front panel
+   assembly.
+
+
+
+Appendix A–4
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 80 ===
+Short Battery Life after Recharging
+1. Check that you are using the correct charger.
+2. Ensure the charging indicator light (red LED) is illuminated
+   when the gauge is plugged in.
+3. NiMH batteries may be charged up to 500 full charge-
+   discharge cycles. The batteries may be reaching end of life
+   cycle - replace. Note that all information stored in the gauge
+   except the calibration constants and the chosen language is
+   lost when the batteries are disconnected.
+4. Remove any loose screws or foreign objects from the
+   gauge interior that may cause an electrical short to ground.
+5. The AC charger may be defective. Check voltage output of
+   charge with a voltmeter or use the dc charger to charge the
+   batteries.
+
+Satisfactory Counts, but Results are in Error
+♦ Ensure that the handle is seated in bottom of notch.
+♦ Ensure the measurement depth on the display screen
+  corresponds to the actual source rod handle depth.
+♦ Check to see if an offset (density, moisture, trench or
+  special) is enabled.
+♦ Ensure that the standard counts are correct.
+♦ Check calibration constants.
+
+
+
+
+Model 3430                                         Appendix A–5
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 81 ===
+Possible Malfunction Indicators
+
+Symptom                                 Possible Malfunction
+Batteries discharge prematurely         HV Board
+Batteries do not charge                 CPU Board,
+                                        Preamp Board
+Battery low indicator does not          CPU Board
+function correctly
+Beeper stops (or is erratic)            CPU Board
+Display malfunctions                    CPU Board
+Display test Fails                      CPU Board
+Fails stability or drift tests          Preamp board
+Gauge does not turn on when             CPU Board
+charger is connecte
+Gauge doesn't turn off                  CPU Board
+Gauge fails stat or drift tests         HV Board
+Gauge fails tube test                   Preamp board
+Moisture or density counts are          HV Board
+unstable
+No keypad response                      CPU Board
+No moisture or density counts           Preamp Board,
+                                        HV Board
+
+
+Error Messages
+The following error messages are not user-serviceable. Contact
+Troxler Customer Service for more information.
+♦ KEY PAD TEST ERROR!
+♦ GM TUBE TEST ERROR!
+♦ HELIUM TUBE TEST ERROR!
+♦ DISPLAY TEST ERROR!
+Appendix A–6
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 82 ===
+Battery Charging
+With fully charged batteries, the Model 3430 gauge will remain
+operational for approximately eight weeks under normal (8-
+hour day) conditions.
+If the batteries become discharged, the following message will
+be displayed on the gauge:
+
+                       *** WARNING! ***
+                          Battery Low!
+
+
+
+When this display appears, there are a few hours remaining
+before the battery must be recharged. In an emergency, a 30-
+minute recharge with the dc or ac charger gives several hours of
+use. If possible, run the batteries down before recharging.
+
+                            NOTE
+   Batteries should not be recharged unless the Battery
+   Low! indication is displayed!
+
+
+
+
+Model 3430                                        Appendix A–7
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 83 ===
+Installing and Using Alkaline Batteries
+If your Model 3430 gauge is installed with the optional alkaline
+battery backup (see page 5–3), you can power the gauge using
+five AA alkaline batteries. To install the batteries:
+1. Turn the gauge off.
+2. Loosen the four captive screws on the control unit.
+3. Carefully lift the control unit from the gauge.
+4. Unplug the ribbon cable from the control unit by pushing
+   the levers on either side of the ribbon down.
+5. Install five standard AA alkaline batteries into the battery
+   holder.
+6. Set the battery select switch to the ALKALINE position.
+7. Plug the ribbon cable into the control unit.
+8. Attach the control unit to the gauge with the fourcaptive
+   screws.
+
+
+
+
+Appendix A–8
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 84 ===
+Mechanical Maintenance
+The following procedures should be performed to keep the
+Model 3430 gauge in good working order. If a serious problem
+with the gauge arises, contact the nearest Troxler Service Center
+or representative for instructions. For a list of Troxler and
+authorized Troxler service centers, refer to the front of this
+manual or visit the Troxler website at www.troxlerlabs.com
+
+                           CAUTION
+    Personnel should wear a dosimeter to monitor
+    radiation exposure while performing maintenance on
+    the gauge if it is required by their radioactive
+    materials license or local regulations.
+
+Cleaning
+If the Model 3430 gauge is to provide precise and accurate
+measurements over a long period of time the gauge should be
+kept as clean as possible. Monitor the outside surfaces of the
+instrument for accumulations of dirt, oil, asphalt, or any other
+foreign matter. If a build-up of material is visible on the gauge
+base or topshell, use the following procedures for cleaning:
+To clean the gauge base, use a putty knife to scrape away any
+built-up accumulations of soil or asphalt. Be careful not to
+damage the gauge base! After removing any large
+accumulations, wipe the gauge base with a cloth soaked in
+BindOff, WD-40 or similar non-corrosive cleaner to remove the
+remaining debris.
+
+                           CAUTION
+    Cleaners and lubricants can damage the keypad.
+    Do not allow these chemicals to make contact with
+    the keypad!
+
+Currently, the Model 3430 gauge topshell is manufactured from
+an engineering thermoplastic designed specifically to provide
+
+Model 3430                                           Appendix A–9
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 85 ===
+high impact strength and to offer excellent compatibility with
+many industrial solvents and petrochemicals. The topshell may
+be cleaned with mild (low alkaline) soap and water. Other
+approved cleaning substances include methyl, isopropyl, or
+isobutyl alcohols.
+
+                                CAUTION
+   The use of any unapproved cleaning agents such as
+   methyl-ethyl-ketones, amines, and methylene chloride
+   will damage the topshell and void the warranty.
+
+Source Rod Lubrication
+If the source rod does not slide up and down freely, the source
+rod bearing may require cleaning and lubrication.
+♦ Remove the control panel assembly from the gauge by
+  loosening the four captive screws that secure it to the
+  topshell. Lift the control unit and disconnect the ribbon
+  cable. Set control unit aside.
+♦ Locate the grease fitting at the base of the source rod tower.
+
+                             NOTE
+   The vent valve was not installed on earlier gauges.
+   Instead, an Allen-head screw was located beneath
+   the grease fitting. On the gauges, remove the Allen-
+   head screw before applying lubricant to allow the
+   old grease to be ejected. Failure to remove the Allen
+   screw may result in severe mechanical damage to
+   the base assembly.
+
+♦ Using a standard 16-ounce grease gun loaded with a
+  Magnalube-G cartridge, apply five shots of lubricant or
+  enough to eject all dirty grease until clean grease is
+  visible.
+♦ Re-assemble the gauge. Do not apply more than 6 in-lb
+  torque to the topshell screws.
+
+Appendix A–10
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 86 ===
+Gasket Replacement
+ Four gaskets seal the gauge from moisture, dirt, and debris.
+Condensation may form inside the gauge if the gauge has been
+out in extremely wet weather or in high humidity, or if it is used
+in the heat and stored in an air conditioned building. In this
+case, remove the topshell and allow the gauge to dry. If
+necessary, use a hairdryer (on low heat) to remove any built-up
+moisture. If moisture continues to be a problem or debris is
+present inside the gauge base, the gaskets may need replacing.
+To replace the control panel gasket (P/N 110841), loosen the
+four screws in the corners of the panel, and remove the panel
+from the gauge topshell. Use care in removing the panel and
+disconnecting the ribbon cable. Gently peel the old gasket from
+the panel and replace with a new gasket. Reconnect the ribbon
+cable and replace the control panel.
+To replace the two post gaskets and the topshell gasket, remove
+the screws that hold the topshell to the gauge base. Remove the
+screws from the metal triangle around the base of the triangle
+extrusion and raise this piece. Then lift the topshell from the
+base. Gently peel the gaskets away from the topshell and gauge
+base and replace. Tighten topshell screws to 6 in-lb.
+If replacing the post gaskets, slide up and over the source rod
+handle. A light coating of talcum powder on the inside of the
+new post gasket will aid in reassembly.
+
+
+
+
+Model 3430                                          Appendix A–11
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 87 ===
+Replacement Parts
+ This section provides a list for replacing the major parts of the
+gauge and purchasing accessories. Many parts can be ordered
+from our e-commerce site at www.troxlerlabs.com.
+
+
+ PART NO.         DESCRIPTION
+ 110899           3430 Gauge Topshell O-ring/Gasket
+ 110013           3430 Bottomplate
+ 110016           3430 Battery Assembly (with case)
+ 110821           3430 Topshell
+ 110848.0040      3430 Nameplate
+ 007158           O-ring for Triangle Tower
+
+
+
+Maintenance Supplies
+ PART NO.        DESCRIPTION
+ 012784          Lubricant, Magnalube-G paste 1.5 oz tube
+ 012786          Lubricant, Magnalube-G paste 1 lb can
+ 012789          Lubricant, Magnalube-G 14.5 oz
+ 100761          Source rod pig
+ 018141          BindOff (1 gallon)
+
+
+
+
+Appendix A–12
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 88 ===
+Accessories
+ PART NO.      DESCRIPTION
+ 110017        3430P/3440 Shipping Case
+ 100421        Drill Rod
+ 102111        Scraper Plate
+ 103680.1000   Extraction Tool
+ 110403        AC Adapter
+ 104156        DC Charger
+ 110990        3430 Operator’s Manual
+ 113128        RS-232 Cable
+ 102876.0005   Leak Test Kit (4 units)
+ 109661        TroxAlert Survey Meter
+ 104661.4000   Printer Package
+
+
+
+
+Model 3430                                Appendix A–13
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 89 ===
+Returning the Gauge for Service
+All shipments within the United States to the factory must be
+accompanied by an RGA (Returned Goods Authorization)
+number, and a description of the instrument and its problem.
+Send a completed RGA form, found on the Downloads page at
+www.troxlerlabs.com, with each item returned for service. This
+information is used by Troxler shipping and service personnel
+to expedite the repair work.
+To obtain an RGA number, please call or fax the factory or
+branch office with your request. Please have the following
+information available when contacting Troxler for an RGA
+number:
+♦ Is the gauge still under warranty?
+♦ Model and Serial number
+♦ Will estimate be required before performing any work on
+  the gauge?
+♦ Problem or difficulty you are having with the instrument.
+♦ Shipment method to Troxler and for return shipment.
+♦ Shipping and billing address (not P.O. Box): street address
+  and zip code.
+♦ Telephone number and contact (for questions from Troxler).
+♦ Payment method: credit card, account number, or purchase
+  order number. All U.S. government agencies (city, county,
+  state and federal) must send purchase orders.
+
+
+
+
+Appendix A–14
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 90 ===
+Appendix B: Specifications
+
+
+       This appendix provides the measurement
+       specifications for Model 3430 gauges.
+
+
+
+
+Model 3430                                      B–1
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 91 ===
+Measurement Specifications
+
+Density at 2000 kg/m3
+Direct Transmission (150 mm)
+
+                              .25 min      1 min      4 min
+Precision (kg/m )
+                3
+                              ±6.8         ±3.40      ±1.70
+Composition error (kg/m3)     ±20.0        ±20.0      ±20.0
+Surface error (kg/m )
+                    3
+                              –17.0        –17.0      –17.0
+  (100% Void)
+
+
+Backscatter (98%, 100 mm)
+
+                              .25 min      1 min      4 min
+Precision (kg/m )
+                3
+                              ±16.0        ±8.00      ±4.00
+Composition error (kg/m3)     ±40.0        ±40.0      ±40.0
+Surface error (kg/m )
+                    3
+                              –75.0        –75.0      –75.0
+  (100% Void)
+
+
+Moisture at 240 kg/m3
+                                 .25 min      1 min      4 min
+Precision (kg/m )
+                3
+                                 ±10.3        ±5.1       ±2.6
+Surface error (kg/m )
+                    3
+                                 –18.0        –18.0      –18.0
+(1.25 mm, 100% void, kg/m3)
+
+Precision is defined as ±one (1) standard deviation in density
+readings. This number is calculated by the ratio of the standard
+deviation in the counting rate and the slope of the calibration
+curve at a given density.
+
+
+
+B–2
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 92 ===
+U.S. Customary Units
+Density at 125 PCF
+Direct Transmission (6 inches)
+
+                               .25 min    1 min     4 min
+Precision (pcf)                ±0.42      ±0.21     ±0.11
+Composition error (pcf)        ±1.25      ±1.25     ±1.25
+Surface error (pcf)            –1.06      –1.06     –1.06
+ (100% Void)
+
+
+
+Backscatter (98%, 4 inches)
+
+                               .25 min    1 min     4 min
+Precision (pcf)                ±1.00      ±0.50     ±0.25
+Composition error (pcf)        ±2.50      ±2.50     ±2.50
+
+Surface error (pcf)            –4.68      –4.68     –4.68
+  (100% Void)
+
+
+
+Moisture at 15 PCF
+                                .25 min     1 min     4 min
+Precision (pcf)                 ±0.64       ±0.32     ±0.16
+Surface error (pcf)             –1.12       –1.12     –1.12
+  (0.05 in., 100% void, pcf)
+
+
+
+
+Model 3430                                                    B–3
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 93 ===
+Radiological Specifications
+  Gamma Source                 0.30 GBq (8 mCi) ± 10%
+                               Cs-137
+  Neutron Source               1.48 GBq (40 mCi) ± 10%
+                               Am-241:Be
+  Source Type                  Sealed Source – Special
+                               Form
+  Source Housing               Stainless Steel,
+                               Encapsulated
+
+  Shielding                    Lead, Tungsten
+
+  Surface Dose Rate            See Radiation Profile on
+                               page D-18
+  Shipping Case                Type A, Yellow II, TI = 0.3
+
+
+Electrical Specifications
+ Stored Power                4 ampere hours
+
+ Average Current Consumption
+ Normal                      35 mA
+ With backlight on           140 mA
+ With GPS on                 105 mA
+ With backlight and GPS on   210 mA
+
+
+ Time Before Automatic       5 hours of complete inactivity
+ Shutdown
+
+
+
+ Power Source(s):
+ Main                        5 C NiMH (Rechargeable
+                             Pack) batteries
+B–4
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 94 ===
+Backup (optional)              5 AA alkaline batteries
+
+ Charge Source                  12 V dc, 2A
+
+ Battery Recharge Time          3 hours maximum, automatic
+                                cutoff (may be charged
+                                incrementally without
+                                damaging the batteries)
+
+ Liquid Crystal Display         Alphanumeric, 4 line × 20
+                                character, backlit
+ Keypad                         10-key sealed membrane
+
+ Serial Data Format             9600 baud
+                                1 stop bit
+                                No parity
+                                8 data bits
+                                Xon-Xoff flow control
+
+ Gauge-to-PC Computer Cable
+ (Null Modem Serial Cable, Part Number 113128)
+
+
+                 9 pin FEMALE      9 pin FEMALE
+                  Rx (pin 2)        Tx (pin 3)
+
+                  Tx (pin 3)        Rx (pin 2)
+
+                  Gnd (pin 5)       Gnd (pin 5)
+
+ USB Port (optional)            A list of compatible USB
+                                devices is available at the
+                                Documents page of Troxler’s
+                                website (www.troxlerlabs.com)
+
+
+
+Model 3430                                                  B–5
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 95 ===
+Mechanical Specifications
+
+ Gauge Size (w/ handle)
+ 12-Inch Rod                       597 H × 368 L × 229 W mm
+                                   (23.5 H × 14.5 L × 9 W in.)
+ 8-Inch Rod                        495 H × 368 L × 229 W mm
+                                   (19.5 H × 14.5 L × 9 W in.)
+ Shipping Case Size                745 H × 419 L × 353 W mm
+                                   (29.35 H × 16.5 L × 13.88 W in.)
+ Weight                            13.8 kg (30.5 lb.)
+ Shipping Weight                   37.6 kg (83.0 lb.)
+
+ Operating Temperature             0 to 70 °C
+                                   32 to 158 °F
+ Max Test Material Surface         175 °C (347 °F) for 15 minutes
+ Storage Temperature               –55 to 85 °C
+                                   –67 to 185 °F
+ Humidity                          98% RH, non-condensing
+
+
+
+                                 CAUTION
+      This instrument contains sensitive electronic and
+      nuclear components. This instrument must not be
+      subjected to stress, abuse, or use other than in
+      accordance with the standard operating procedures
+      listed in this manual.
+
+
+
+
+B–6
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 96 ===
+Appendix C: Transporting
+& Shipping
+
+
+
+       Devices containing radioactive materials must be
+       transported in accordance with the rules of the U.S.
+       Department of Transportation (DOT) and the
+       International Atomic Energy Agency (IAEA).
+
+       The IAEA recommendations have been codified in
+       the International Air Transport Association (IATA)
+       Dangerous Goods Regulations. International
+       customers should consult their local government or
+       licensing authority for applicable regulations.
+
+
+
+
+Model 3430                                                    C–1
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 97 ===
+U.S. Shipping Requirements
+The U.S. DOT hazmat regulations (49 CFR, Parts 100–185) apply
+any time a nuclear device is transported by motor vehicle on a
+public highway or by other means of transport (rail, air, ship).
+The major requirements for transporting a nuclear gauge in the
+United States are listed below. For more detailed information
+about these requirements, please refer to the Troxler
+Transportation Guide.
+♦ A copy of the current IAEA Certificate of Competent
+  Authority for each source in the gauge (Special Form
+  Certificate) must be kept on file. Current versions can be
+  downloaded from the Troxler website, www.troxlerlabs.com.
+♦ A copy of the results of the Type A package testing must be
+  kept on file.
+♦ Hazmat employee training records must be kept on file.
+♦ An Emergency Response Information document must be in
+  the vehicle and immediately accessible to the driver.
+♦ A properly completed bill of lading must be in the vehicle
+  and immediately accessible to the driver. The shipping
+  papers must include a 24-hr emergency response phone
+  number.
+♦ If shipping by air, a Shipper's Declaration for Dangerous
+  Goods must accompany the air waybill.
+♦ The package must be properly marked and labeled in
+  accordance with hazmat regulations.
+♦ The package must have a tamper-evident seal.
+♦ The package must be inspected prior to each shipment.
+♦ The package must be securely blocked and braced in the
+  vehicle to prevent shifting during transport.
+
+
+
+
+C–2
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 98 ===
+Accident Notification Requirements
+In the event of a reportable incident involving radioactive
+material, notify the licensing agency as soon as practical. The
+operator is also required to notify, at the earliest practical
+moment, the U.S. DOT at 1-800-424-8802 of an accident that
+occurs during the course of transportation (including loading,
+unloading, and temporary storage) in which fire, breakage,
+spillage, or suspected contamination occurs involving shipment
+of radioactive materials.
+
+Hazmat Training
+The U.S. DOT regulations require every hazmat employer to
+train, test, certify, and maintain records for each hazmat
+employee. Hazmat training applies to anyone who transports or
+prepares for transport radioactive materials. Refresher training
+is required every three years for shipment / transport by
+roadway in the US. Shipment by air requires training every 2
+years under IATA Dangerous Goods regulations.
+
+
+
+
+Model 3430                                                   C–3
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 99 ===
+Canadian Shipping Requirements
+The Transportation of Dangerous Goods Act and Regulations
+(TDG) and Transport Packaging of Radioactive Materials
+Regulations (TPRM) apply any time a nuclear device used in
+commerce is transported by any means in Canada.
+For training and accident notification requirements, consult the
+Transportation of Dangerous Goods Regulations. For further
+information on transporting a nuclear device, contact the
+transportation section of the Canadian Nuclear Safety
+Commission (CNSC).
+
+
+
+
+C–4
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 100 ===
+Appendix D: Radiation
+Theory & Safety
+     This appendix is required reading for anyone who will
+     operate the Model 3430 Surface Moisture- Density
+     Gauges.
+
+     This appendix covers topics related to radiation theory
+     and the safe operation of the gauge. A brief overview of
+     the regulatory requirements related to the ownership
+     and use of the gauge, as well as a listing of radiation
+     safety-related warnings and cautions, is included.
+
+
+
+
+ Model 3430                                        D-1
+

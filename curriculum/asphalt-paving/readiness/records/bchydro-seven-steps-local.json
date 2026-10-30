@@ -1,0 +1,32 @@
+{
+  "id": "bchydro-seven-steps-local",
+  "slug": "bchydro-seven-steps-local",
+  "title": "7 Steps to Electrical Safety",
+  "author": "BC Hydro",
+  "edition": "n.d.; historical copy hosted by Metchosin Fire Department",
+  "category": "utilities",
+  "scope": "Historical handout explicitly named by the outline. Current WorkSafeBC Part 19 and utility instructions take priority for current work; do not treat this copy as a current authorization.",
+  "kind": "pdf",
+  "download_filename": "bchydro-seven-steps-local.raw",
+  "original_pages": 1,
+  "original_sha256": "2e597a50059e0068f2859170f3c83bc8492900f700d17fc603f4f096aa8958ad",
+  "original_bytes": 75417,
+  "source_url": "https://www.metchosinfire.ca/wp-content/uploads/2013/06/7-Steps-to-Electrical-Safety-BC-Hydro.pdf",
+  "final_url": "https://www.metchosinfire.ca/wp-content/uploads/2013/06/7-Steps-to-Electrical-Safety-BC-Hydro.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/bchydro-seven-steps-local/p0001-0001.pdf",
+      "text": "text/bchydro-seven-steps-local/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 75417,
+      "sha256": "2e597a50059e0068f2859170f3c83bc8492900f700d17fc603f4f096aa8958ad",
+      "text_sha256": "df1ffa994611ad84155754e42b7340fe803f6c9b0ad9795497f05a77deb8aaa7",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

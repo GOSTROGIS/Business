@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-shovelling",
+  "slug": "ccohs-shovelling",
+  "title": "Shovelling",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "tools",
+  "scope": "Ergonomic task design; example loads/rates are not universal worker limits.",
+  "kind": "pdf",
+  "download_filename": "ccohs-shovelling.raw",
+  "original_pages": 7,
+  "original_sha256": "588eb37474455274986f4ebd433a3caf6e51b019ec1296e4c032e40d57eabafb",
+  "original_bytes": 157190,
+  "source_url": "https://www.ccohs.ca/oshanswers/ergonomics/CCOHS_shovel.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/ergonomics/CCOHS_shovel.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-shovelling/p0001-0007.pdf",
+      "text": "text/ccohs-shovelling/p0001-0007.txt",
+      "start": 1,
+      "end": 7,
+      "pages": 7,
+      "bytes": 157190,
+      "sha256": "588eb37474455274986f4ebd433a3caf6e51b019ec1296e4c032e40d57eabafb",
+      "text_sha256": "18d996d4c30fe1e7603ef9053aa821a59c6097e8a9062e08177f5f9aa98c5109",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

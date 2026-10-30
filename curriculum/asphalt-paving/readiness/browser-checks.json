@@ -1,0 +1,68 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "page": "index.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "index.html",
+      "width": 1280,
+      "result": "passed"
+    },
+    {
+      "page": "field-guide.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "field-guide.html",
+      "width": 1280,
+      "result": "passed"
+    },
+    {
+      "page": "tools.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "tools.html",
+      "width": 1280,
+      "result": "passed"
+    },
+    {
+      "page": "coverage.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "coverage.html",
+      "width": 1280,
+      "result": "passed"
+    },
+    {
+      "page": "gaps.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "gaps.html",
+      "width": 1280,
+      "result": "passed"
+    },
+    {
+      "page": "web/ohs-15.html",
+      "width": 390,
+      "result": "passed"
+    },
+    {
+      "page": "web/ohs-15.html",
+      "width": 1280,
+      "result": "passed"
+    }
+  ],
+  "pdf_search": "shackle returns source-page matches",
+  "category_filter": "rigging: 3 publications",
+  "page_errors": []
+}

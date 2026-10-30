@@ -1,0 +1,32 @@
+{
+  "id": "measuring-wheel",
+  "slug": "measuring-wheel",
+  "title": "MP Metal Professional Measuring Wheels: Counter Alignment",
+  "author": "Seymour Midwest",
+  "edition": "n.d.",
+  "category": "measurement",
+  "scope": "Specific counter-alignment sheet; does not replace the selected wheel's complete instructions.",
+  "kind": "pdf",
+  "download_filename": "measuring-wheel.raw",
+  "original_pages": 1,
+  "original_sha256": "442e99654c42dfc5b402f6ba19d20f22a8c8d887069e9494fb2dc233535015da",
+  "original_bytes": 1329228,
+  "source_url": "https://seymourmidwest.com/uploads/instructions/MP401RCA%20Arm%20Alignment%20Instruction%2005078R1.pdf",
+  "final_url": "https://seymourmidwest.com/uploads/instructions/MP401RCA%20Arm%20Alignment%20Instruction%2005078R1.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/measuring-wheel/p0001-0001.pdf",
+      "text": "text/measuring-wheel/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 1329228,
+      "sha256": "442e99654c42dfc5b402f6ba19d20f22a8c8d887069e9494fb2dc233535015da",
+      "text_sha256": "5711966a68eb19dabedebfe707bf02e107966c988a18ae3cd81418fbda988445",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

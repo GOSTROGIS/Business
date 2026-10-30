@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "source_pages": 3240,
+  "pdf_parts": 161,
+  "render_dpi": 36,
+  "render_rechecks_at_100dpi": 2,
+  "text_layer_variations": [
+    {
+      "source_id": "niosh-milling",
+      "source_pdf_page": 74,
+      "render_identical_at_100dpi": true,
+      "original_source_text_retained": "text/niosh-milling/p0051-0075.txt"
+    }
+  ]
+}

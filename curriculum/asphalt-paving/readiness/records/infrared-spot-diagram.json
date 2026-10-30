@@ -1,0 +1,32 @@
+{
+  "id": "infrared-spot-diagram",
+  "slug": "infrared-spot-diagram",
+  "title": "Circle Laser Diagram",
+  "author": "ThermoWorks",
+  "edition": "n.d.",
+  "category": "measurement",
+  "scope": "Manufacturer field-of-view illustration; use alongside the matching thermometer manual.",
+  "kind": "pdf",
+  "download_filename": "infrared-spot-diagram.raw",
+  "original_pages": 1,
+  "original_sha256": "5ef4d1b9b82746872c9187a3f3cc32b4f7b800f762156a738216b25aed9cb166",
+  "original_bytes": 62827,
+  "source_url": "https://cdn.shopify.com/s/files/1/0662/7999/7602/files/circle_laser_diagram2.pdf?v=1772046629",
+  "final_url": "https://cdn.shopify.com/s/files/1/0662/7999/7602/files/circle_laser_diagram2.pdf?v=1772046629",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/infrared-spot-diagram/p0001-0001.pdf",
+      "text": "text/infrared-spot-diagram/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 62827,
+      "sha256": "5ef4d1b9b82746872c9187a3f3cc32b4f7b800f762156a738216b25aed9cb166",
+      "text_sha256": "1dc1e21faf6c8a2b2743b9d4b030bbf5a5773e6601a5a36e2dd624d67496201c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

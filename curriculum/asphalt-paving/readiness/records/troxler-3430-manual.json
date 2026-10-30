@@ -1,0 +1,101 @@
+{
+  "id": "troxler-3430-manual",
+  "slug": "troxler-3430-manual",
+  "title": "RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction",
+  "author": "Troxler Electronic Laboratories",
+  "edition": "Edition 1.3, February 2021",
+  "category": "measurement",
+  "scope": "Model-specific US manual; use Canadian CNSC licence, radiation protection and TDG requirements for Canadian work.",
+  "kind": "pdf",
+  "download_filename": "troxler-3430-manual.raw",
+  "original_pages": 133,
+  "original_sha256": "609e19d6cc9dac73b530bee0cda17a2416b39f82a05441e1d4d996c757804595",
+  "original_bytes": 1495558,
+  "source_url": "https://troxlerlabs.com/wp-content/uploads/2022/09/UM-3430-3430-User-Manual-Ed.-1.3.pdf",
+  "final_url": "https://troxlerlabs.com/wp-content/uploads/2022/09/UM-3430-3430-User-Manual-Ed.-1.3.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/troxler-3430-manual/p0001-0025.pdf",
+      "text": "text/troxler-3430-manual/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 1229277,
+      "sha256": "906f3016653ae92d4f6a38c11b8d94e7a83c69e275e07f594a9735eb93955977",
+      "text_sha256": "aab1839e3cc55a8957190ae5bfbf32ecba046026d968d6a69284a0c45d246b97",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/troxler-3430-manual/p0026-0050.pdf",
+      "text": "text/troxler-3430-manual/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 806484,
+      "sha256": "bc38164caf4a5329a77862f36f1a4bbc822ebd084671a113825f1d5fd5b31c8f",
+      "text_sha256": "cc51ee173a3533d0d3a3597b6af4af086eb89cee8a8723f6e6ced191d471f92a",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/troxler-3430-manual/p0051-0075.pdf",
+      "text": "text/troxler-3430-manual/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 417498,
+      "sha256": "39ab9fdeb9b7029d999e3a66209225f52557dc0add6e630039f7925bd89b608a",
+      "text_sha256": "c6dcd599c5781feb43ea7a8db244ea3d65c6584bb67d8a3ad4fb7028d6cc6a5f",
+      "empty_text_source_pages": [
+        52
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/troxler-3430-manual/p0076-0100.pdf",
+      "text": "text/troxler-3430-manual/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 436224,
+      "sha256": "8baf414e906d9bb37d7e9352fb2f11e1b2d555b5447d7fcdc9f836ad97b3faec",
+      "text_sha256": "7c8897a0516a0e97da8f34b5adf1e641f499d9168e62fae37a6ec202fb3ddd03",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/troxler-3430-manual/p0101-0125.pdf",
+      "text": "text/troxler-3430-manual/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 612847,
+      "sha256": "901e796c8f4a954614387a449f99d33d7349dcfa79452078184c4c19ebe50e70",
+      "text_sha256": "970965d17b91b51d0939ea38dd8eb2cd31161123da097a04c232c8bbfc662cda",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/troxler-3430-manual/p0126-0133.pdf",
+      "text": "text/troxler-3430-manual/p0126-0133.txt",
+      "start": 126,
+      "end": 133,
+      "pages": 8,
+      "bytes": 147237,
+      "sha256": "1991371ca60e85d8f69c019560fd17b06309719d96651cb6af6c0d4ad97771e7",
+      "text_sha256": "92fed652061d6b9c9229a7426e53aa8ba38f87617ec69d00d78c1eca7357db21",
+      "empty_text_source_pages": [
+        132
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

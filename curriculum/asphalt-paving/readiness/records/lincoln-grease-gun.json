@@ -1,0 +1,32 @@
+{
+  "id": "lincoln-grease-gun",
+  "slug": "lincoln-grease-gun",
+  "title": "Lever Gun Models 1142, 1147 and 1151: Installation and Maintenance Guide",
+  "author": "Lincoln Industrial",
+  "edition": "December 2013; Form 404636",
+  "category": "tools",
+  "scope": "Manufacturer guide publicly hosted by Northern Tool. Grease gun instructions do not determine a machine's lubricant or lubrication quantity.",
+  "kind": "pdf",
+  "download_filename": "lincoln-grease-gun.raw",
+  "original_pages": 8,
+  "original_sha256": "55659097aa0fd82e68b4853b8f5d6310137587434163e4ec224f4210ad5f8b91",
+  "original_bytes": 344519,
+  "source_url": "https://assets.northerntool.com/products/109/documents/manuals/109514.pdf",
+  "final_url": "https://assets.northerntool.com/products/109/documents/manuals/109514.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/lincoln-grease-gun/p0001-0008.pdf",
+      "text": "text/lincoln-grease-gun/p0001-0008.txt",
+      "start": 1,
+      "end": 8,
+      "pages": 8,
+      "bytes": 344519,
+      "sha256": "55659097aa0fd82e68b4853b8f5d6310137587434163e4ec224f4210ad5f8b91",
+      "text_sha256": "ed4d3910ad5bd7089fbaf05fbe5233a8ec1183df041a4025ff438527e15bf21d",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

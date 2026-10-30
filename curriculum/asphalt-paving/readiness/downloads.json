@@ -1,0 +1,1217 @@
+{
+  "limit_bytes": 41943040,
+  "archives": [
+    {
+      "file": "downloads/asphalt-context-pdfs-01.zip",
+      "bytes": 35503419,
+      "sha256": "17c1490fd9f917d728671befb70ad6158dcd0f59b7556346aa58c98f8fb2a518",
+      "members": 83,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 01 of 07",
+      "parts": [
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 1,
+          "end": 25,
+          "file": "sources/traffic-manual-2020/p0001-0025.pdf",
+          "sha256": "1904c793be412ab0f71fadab1ef800a6d21ce769072d3e66af825713c7da74ed"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 26,
+          "end": 50,
+          "file": "sources/traffic-manual-2020/p0026-0050.pdf",
+          "sha256": "d05fb2402e19d13194ecd57e683b86d117c2627fc75e9b8ff5daa2fc4da3ea2d"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 51,
+          "end": 75,
+          "file": "sources/traffic-manual-2020/p0051-0075.pdf",
+          "sha256": "66217dbaec3c1f56512032ff936ad4981613280948654a6a9d5b4268ea779ce2"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 76,
+          "end": 100,
+          "file": "sources/traffic-manual-2020/p0076-0100.pdf",
+          "sha256": "e5658511116712fdee0c0d069f0537779caa35af7e9e013f4fecb9d54d0347f0"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 101,
+          "end": 125,
+          "file": "sources/traffic-manual-2020/p0101-0125.pdf",
+          "sha256": "69fdf1c0bc43298a499a9411d0df4d70e59a60ddd226d624cbe98f95b225b748"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 126,
+          "end": 150,
+          "file": "sources/traffic-manual-2020/p0126-0150.pdf",
+          "sha256": "c37ae25d860a60027f18e3aef197878ff983f9d1ab2cd2ac2403251b46bee1d8"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 151,
+          "end": 175,
+          "file": "sources/traffic-manual-2020/p0151-0175.pdf",
+          "sha256": "428c57f155af5094fa32208064ba8343c57f2ea5d150f0e6d772a29eef69301c"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 176,
+          "end": 200,
+          "file": "sources/traffic-manual-2020/p0176-0200.pdf",
+          "sha256": "11bfd8d8b53ba28b3ac3d8f9bf30058fc87942e4007a365e25d074bedc3eb778"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 201,
+          "end": 225,
+          "file": "sources/traffic-manual-2020/p0201-0225.pdf",
+          "sha256": "8a721f5b71218ece072d14d69b948af9d4d3ff28797ce170b8c95093da6b0a44"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 226,
+          "end": 250,
+          "file": "sources/traffic-manual-2020/p0226-0250.pdf",
+          "sha256": "df61ed00317c0fb5ab8134575d50d17691254a96d82dc35711acb9fca0023389"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 251,
+          "end": 275,
+          "file": "sources/traffic-manual-2020/p0251-0275.pdf",
+          "sha256": "82027dff41a6663418d699ec310b79ce8326198f11df45b478fa66747279babd"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 276,
+          "end": 300,
+          "file": "sources/traffic-manual-2020/p0276-0300.pdf",
+          "sha256": "d540fbfe6b159d9e8e32400d99400d698b7e7c81561daaa04bacf2b4db012235"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 301,
+          "end": 325,
+          "file": "sources/traffic-manual-2020/p0301-0325.pdf",
+          "sha256": "b4d9b644124217ac52c17beff0a743d20deed72e89dd649e8dd160af0dabb1a5"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 326,
+          "end": 350,
+          "file": "sources/traffic-manual-2020/p0326-0350.pdf",
+          "sha256": "fb1bd079ba1ee5a6ae8dfc6aa84342fd3b7f5f6fa357c49d5cc657a006cd6fc4"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 351,
+          "end": 375,
+          "file": "sources/traffic-manual-2020/p0351-0375.pdf",
+          "sha256": "02f087ebac738e82e655e40412c964c478db0a3c1a7b1ff0010b761b1e1ae423"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 376,
+          "end": 400,
+          "file": "sources/traffic-manual-2020/p0376-0400.pdf",
+          "sha256": "c3f16bead1457d06eb0d38dc7ec734ad62f84386f72e14b840b2cc8063138f1f"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 401,
+          "end": 425,
+          "file": "sources/traffic-manual-2020/p0401-0425.pdf",
+          "sha256": "6ce49781b6237f20e73c16dd7c31ae2568fbb45d85f4b669c60d61a96532cba9"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 426,
+          "end": 450,
+          "file": "sources/traffic-manual-2020/p0426-0450.pdf",
+          "sha256": "4af3eea120d5f548ddba26837ddcfb33bd33c4a5d7c6c7da7687cf3ea17c503c"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 451,
+          "end": 475,
+          "file": "sources/traffic-manual-2020/p0451-0475.pdf",
+          "sha256": "2e47b87a23a20bc33297a4d01856cac5a97c1544d1edc6c19989c88416a48438"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 476,
+          "end": 500,
+          "file": "sources/traffic-manual-2020/p0476-0500.pdf",
+          "sha256": "7f78f8e2c96a0a4a77441b792893fb92590b69bba6072a1bfaa6356848bec790"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 501,
+          "end": 525,
+          "file": "sources/traffic-manual-2020/p0501-0525.pdf",
+          "sha256": "4cd9b8118c07aa21f3f93528ca35a77c34f6a55a21a45995853238c46129052f"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 526,
+          "end": 550,
+          "file": "sources/traffic-manual-2020/p0526-0550.pdf",
+          "sha256": "bb8a86e06c5f170b1e11715e73df0ed01e7acb81b47c390345c9e310f063efc1"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 551,
+          "end": 575,
+          "file": "sources/traffic-manual-2020/p0551-0575.pdf",
+          "sha256": "2e5a6519ff66927b967602f88567b80cf6b93af008ce6e75572a156264fcc39f"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 576,
+          "end": 600,
+          "file": "sources/traffic-manual-2020/p0576-0600.pdf",
+          "sha256": "fff6f9009bb72c6247ec94addc3dda44ca4ffe689923660c92d5a157e524ab76"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 601,
+          "end": 625,
+          "file": "sources/traffic-manual-2020/p0601-0625.pdf",
+          "sha256": "8880d01ea42c21999c1b2ddd1be6565cc3f98a7c4127ed2a8297a8ea562e7dd0"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 626,
+          "end": 650,
+          "file": "sources/traffic-manual-2020/p0626-0650.pdf",
+          "sha256": "716669665b3322c1a7f269372f2cfd4d0b2a015743a43d9636f435d9f4e3a288"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 651,
+          "end": 675,
+          "file": "sources/traffic-manual-2020/p0651-0675.pdf",
+          "sha256": "ce295dcffdd91f79d3e1d2d183d6c649a6c44409e242f70bd4dc447b492c217b"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 676,
+          "end": 700,
+          "file": "sources/traffic-manual-2020/p0676-0700.pdf",
+          "sha256": "f4906789f105532cb50adad4604930655b7e68abf330298a166fd4db4e7e1f91"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 701,
+          "end": 725,
+          "file": "sources/traffic-manual-2020/p0701-0725.pdf",
+          "sha256": "e711a75f9f6ac23cc5e8ce50a072261250ed65f97db001a3c6ba411129129e62"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 726,
+          "end": 750,
+          "file": "sources/traffic-manual-2020/p0726-0750.pdf",
+          "sha256": "ae33d460e9a1c35114f5c4095851897ba48770b63c4e4fa77dde06493181ae27"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 751,
+          "end": 775,
+          "file": "sources/traffic-manual-2020/p0751-0775.pdf",
+          "sha256": "17fe45a8289560150fbcc59cf54f43187b2dbde2572d590350123b1420e2a1b8"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 776,
+          "end": 800,
+          "file": "sources/traffic-manual-2020/p0776-0800.pdf",
+          "sha256": "1d932afcfaa88b71c42ce0440aab1928639b5576388f3cd75e5916be704a6791"
+        },
+        {
+          "source_id": "traffic-manual-2020",
+          "start": 801,
+          "end": 815,
+          "file": "sources/traffic-manual-2020/p0801-0815.pdf",
+          "sha256": "7d3cf756ae6556514304417e26da661264a7ac960ac5d163d31de4fe9b7446ab"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 1,
+          "end": 25,
+          "file": "sources/highway-specs-2025-vol1/p0001-0025.pdf",
+          "sha256": "3c504eec9e7d2ff9ce63e5a6040a46f61f621f992e1ac2902b393ae37fb2bb3d"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 26,
+          "end": 50,
+          "file": "sources/highway-specs-2025-vol1/p0026-0050.pdf",
+          "sha256": "e0bb0141e22df7a6842c773c37de03ad5cabd3a1337ec838380d4f1814782d6b"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 51,
+          "end": 75,
+          "file": "sources/highway-specs-2025-vol1/p0051-0075.pdf",
+          "sha256": "9fcf695a0d29cd61f6275413200a52baa4c1f727da6d8b2ec1388a9e17fcf56b"
+        }
+      ],
+      "pages": 890
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-02.zip",
+      "bytes": 34085237,
+      "sha256": "fd905b6ae973b538192160c8c5539a913252fdd10ed940d979812466f53d8a57",
+      "members": 47,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 02 of 07",
+      "parts": [
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 76,
+          "end": 100,
+          "file": "sources/highway-specs-2025-vol1/p0076-0100.pdf",
+          "sha256": "f03fb25bae218be6045fc275ffc851ccd91444c229775130d6a6184f4f0e9ca1"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 101,
+          "end": 125,
+          "file": "sources/highway-specs-2025-vol1/p0101-0125.pdf",
+          "sha256": "35860a29b10243211ef14747af54b156f6f60cb3ef510f2998dc5da8490e894b"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 126,
+          "end": 150,
+          "file": "sources/highway-specs-2025-vol1/p0126-0150.pdf",
+          "sha256": "48f0dc2eda6ddc0e56c142295c324c832ff81f6fff4cadb4f3a549b70758710d"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 151,
+          "end": 175,
+          "file": "sources/highway-specs-2025-vol1/p0151-0175.pdf",
+          "sha256": "b5a8db7192ee527ebd025e974278db2a4dedec1c10418f6d505405fbadfe8640"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 176,
+          "end": 200,
+          "file": "sources/highway-specs-2025-vol1/p0176-0200.pdf",
+          "sha256": "d1df9f53d2696a54a4fe884d227774537870b6a7d1d7f6c5dd84071cec853296"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 201,
+          "end": 225,
+          "file": "sources/highway-specs-2025-vol1/p0201-0225.pdf",
+          "sha256": "d0df973e950200dca667eb7848975a75e25b5054511f41c2f3e579deb8d28f82"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 226,
+          "end": 250,
+          "file": "sources/highway-specs-2025-vol1/p0226-0250.pdf",
+          "sha256": "2d4d9fa0063c488a56a9a8074227f4020556a846340cdb3e19119b4777689f81"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 251,
+          "end": 275,
+          "file": "sources/highway-specs-2025-vol1/p0251-0275.pdf",
+          "sha256": "d8dc2daf7a68afb062ec3510bb3320966f071acf328cf9856c2576cd735046ee"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 276,
+          "end": 300,
+          "file": "sources/highway-specs-2025-vol1/p0276-0300.pdf",
+          "sha256": "8a1b83a6b525b874063d82e97caa551d07cd84eb6559e32180335fdf533653cc"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 301,
+          "end": 325,
+          "file": "sources/highway-specs-2025-vol1/p0301-0325.pdf",
+          "sha256": "811590a95f38c5a0b95eede111c7ccb1a29edd951b5e82185a06ba45ce09d329"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 326,
+          "end": 350,
+          "file": "sources/highway-specs-2025-vol1/p0326-0350.pdf",
+          "sha256": "a0468a2c9806e3f0e31ff8fee6e27cdc195d993ac0f82a266b03a1e51ee22311"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 351,
+          "end": 375,
+          "file": "sources/highway-specs-2025-vol1/p0351-0375.pdf",
+          "sha256": "89516c5294ad7fa2f75dbd72633f3e57e400001cb8e1dae8f70a4f311aadd670"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 376,
+          "end": 400,
+          "file": "sources/highway-specs-2025-vol1/p0376-0400.pdf",
+          "sha256": "3ade54ab5cea59e5c0bf148f9e9aebe7ab6b79bfc35afbfb85f0f376ebff394e"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 401,
+          "end": 425,
+          "file": "sources/highway-specs-2025-vol1/p0401-0425.pdf",
+          "sha256": "107ae6d4034cb09f38c2a6ed4b0bfcd0b36deba2fc48d414a0e7cae6e5538c7a"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 426,
+          "end": 450,
+          "file": "sources/highway-specs-2025-vol1/p0426-0450.pdf",
+          "sha256": "fb155ef15fc1620c7b83b7731d7ebbc223950477c26a1a5d42192b05547434b4"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 451,
+          "end": 475,
+          "file": "sources/highway-specs-2025-vol1/p0451-0475.pdf",
+          "sha256": "3dd560faf33b326ec645e74ae116d702ca8971761c485f0ba74a298ad04fc5cf"
+        },
+        {
+          "source_id": "highway-specs-2025-vol1",
+          "start": 476,
+          "end": 498,
+          "file": "sources/highway-specs-2025-vol1/p0476-0498.pdf",
+          "sha256": "ad4bcaff25dd517863322be6a9d141ce9f6373cdfb0245edcd7139f01a00fb23"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 1,
+          "end": 25,
+          "file": "sources/highway-specs-2025-vol2/p0001-0025.pdf",
+          "sha256": "8d40bbf7a7d060761988eca4084c1cb4f6070287533ae749a7f54da8daa110be"
+        }
+      ],
+      "pages": 448
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-03.zip",
+      "bytes": 34009207,
+      "sha256": "295abc1a61285f76b5c1b9ec7290911a7961378e9815fb645f9e00a9d3a8a571",
+      "members": 26,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 03 of 07",
+      "parts": [
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 26,
+          "end": 50,
+          "file": "sources/highway-specs-2025-vol2/p0026-0050.pdf",
+          "sha256": "050c07909408390bfad464f8196a844bf1fac78f3c4af478b3da0c6eb5edd1fb"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 51,
+          "end": 75,
+          "file": "sources/highway-specs-2025-vol2/p0051-0075.pdf",
+          "sha256": "b00393e8b3016dd4e402d2143aa35bc47f65246ff1b68a7b84769a272135a6c6"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 76,
+          "end": 100,
+          "file": "sources/highway-specs-2025-vol2/p0076-0100.pdf",
+          "sha256": "5bc7188cbffae6d40a1df9d5eb8b96c9d030ab940e00da1cc53931a99ca812a9"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 101,
+          "end": 125,
+          "file": "sources/highway-specs-2025-vol2/p0101-0125.pdf",
+          "sha256": "4f6ad287d43b96846c132708a6d7acc6ff26922d1b5010f13160193672573071"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 126,
+          "end": 150,
+          "file": "sources/highway-specs-2025-vol2/p0126-0150.pdf",
+          "sha256": "96af2b3cf8df7a9aa6fb410b0cfb8af990a2127dab11ce1d6139a87fb6b8fc59"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 151,
+          "end": 175,
+          "file": "sources/highway-specs-2025-vol2/p0151-0175.pdf",
+          "sha256": "67e2acb10765bcdead60d4aba097bbbe6a6c8a9af4261fef73cf14a07371afff"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 176,
+          "end": 200,
+          "file": "sources/highway-specs-2025-vol2/p0176-0200.pdf",
+          "sha256": "a8d4de596cd3769c94590876604a5a9667c755f86b64d7deffcbed44484f3283"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 201,
+          "end": 225,
+          "file": "sources/highway-specs-2025-vol2/p0201-0225.pdf",
+          "sha256": "1bf695207e18372ffaa56901e509943781fc234c1f89679b746065a23c896335"
+        }
+      ],
+      "pages": 200
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-04.zip",
+      "bytes": 33265600,
+      "sha256": "3e6bd879de51f0b0f549966c1550cd1762f473ec864a49abed8d7cd5bbe8da7d",
+      "members": 48,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 04 of 07",
+      "parts": [
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 226,
+          "end": 250,
+          "file": "sources/highway-specs-2025-vol2/p0226-0250.pdf",
+          "sha256": "c8eb65922abc72b9b47c4edd3c7426706b3b24d708c23f33604283ab19fb3981"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 251,
+          "end": 275,
+          "file": "sources/highway-specs-2025-vol2/p0251-0275.pdf",
+          "sha256": "23e2b7abb1ac4e5213395b668bae5784574e161529b444c7d874776df0f75525"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 276,
+          "end": 300,
+          "file": "sources/highway-specs-2025-vol2/p0276-0300.pdf",
+          "sha256": "517eb07add5d24aba026ebe0653df9cc6319fc928da346dfe15414754f8bc6c1"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 301,
+          "end": 325,
+          "file": "sources/highway-specs-2025-vol2/p0301-0325.pdf",
+          "sha256": "2321b8b20c6343289afa5a56b357c418c5f2835d9e83c48a36d80dd89eec8cb1"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 326,
+          "end": 350,
+          "file": "sources/highway-specs-2025-vol2/p0326-0350.pdf",
+          "sha256": "af6226de343ee4b58c2bfad8be6a556d3c6b6f6a4acfca920e70738f430164bd"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 351,
+          "end": 375,
+          "file": "sources/highway-specs-2025-vol2/p0351-0375.pdf",
+          "sha256": "48a91a04fc48a7108c5bb49b8aca850a42394e8b45de762bd940108c3d1b1661"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 376,
+          "end": 400,
+          "file": "sources/highway-specs-2025-vol2/p0376-0400.pdf",
+          "sha256": "0366493c7e43bb45bbad633a3fb2e27ba0e266b73e6f9ce67ed9af3b085880b9"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 401,
+          "end": 425,
+          "file": "sources/highway-specs-2025-vol2/p0401-0425.pdf",
+          "sha256": "8cd7dc2bbdbf88594e1dc4054c9eae8fa6d6ab77fff75178b5553eb3e0c7547f"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 426,
+          "end": 450,
+          "file": "sources/highway-specs-2025-vol2/p0426-0450.pdf",
+          "sha256": "8e985c6c83ffac07a5690b6a6d8fac9844c00eeee49bd8e68b2d1ff5cd501373"
+        },
+        {
+          "source_id": "highway-specs-2025-vol2",
+          "start": 451,
+          "end": 456,
+          "file": "sources/highway-specs-2025-vol2/p0451-0456.pdf",
+          "sha256": "7313deb1b5145254e803c178f330eaf344886534dd7eb753efbd75ca28c23c84"
+        },
+        {
+          "source_id": "highway-specs-2025-amendments",
+          "start": 1,
+          "end": 2,
+          "file": "sources/highway-specs-2025-amendments/p0001-0002.pdf",
+          "sha256": "152e943e8525ef0330c44d1a493455efda90c8cf756733cb1871ecbe30c15337"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 1,
+          "end": 25,
+          "file": "sources/bc-mines-code-2026/p0001-0025.pdf",
+          "sha256": "216a90b78f90d97400470a5c34def4be18b3fa2c4147d4cb8403ed0cc0c0daf2"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 26,
+          "end": 50,
+          "file": "sources/bc-mines-code-2026/p0026-0050.pdf",
+          "sha256": "4ff09e17170fd3f5800884673e411ab0f758d8498d5157a3611172b281e36851"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 51,
+          "end": 75,
+          "file": "sources/bc-mines-code-2026/p0051-0075.pdf",
+          "sha256": "378ac14452102d622982d0d5733144b44077e4f81175e03f5bf3dcd9efa9ccd9"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 76,
+          "end": 100,
+          "file": "sources/bc-mines-code-2026/p0076-0100.pdf",
+          "sha256": "36b21e05ef980f502232e3492399c067b98b01259f937051c4e0b1421bef4169"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 101,
+          "end": 125,
+          "file": "sources/bc-mines-code-2026/p0101-0125.pdf",
+          "sha256": "792b51cb17007f19f5f1c97aa202fe5f502d5e9b019bc0fe4de25045dca0d2fd"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 126,
+          "end": 150,
+          "file": "sources/bc-mines-code-2026/p0126-0150.pdf",
+          "sha256": "c24994a3bd9a80193b3242e5e2e1710904054708149db93a4aada01c7c0ac1a9"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 151,
+          "end": 175,
+          "file": "sources/bc-mines-code-2026/p0151-0175.pdf",
+          "sha256": "7419f4cffd5cf1328f83b78ecc3c657d18b909c0435c1b4728cd3620f19b1023"
+        }
+      ],
+      "pages": 408
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-05.zip",
+      "bytes": 22581263,
+      "sha256": "4407f697d5d8ce906957146a5aa1a79a2d141c88c37cdd942ada0302e9469443",
+      "members": 43,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 05 of 07",
+      "parts": [
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 176,
+          "end": 200,
+          "file": "sources/bc-mines-code-2026/p0176-0200.pdf",
+          "sha256": "8c36834da1d4b427839524e7dbe614cb914e6df5868b7ca9077e9283f609adde"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 201,
+          "end": 225,
+          "file": "sources/bc-mines-code-2026/p0201-0225.pdf",
+          "sha256": "7f8678ccf584226e18225bd85d5a6d9bec44990cb51da644abdac23ecb585ca2"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 226,
+          "end": 250,
+          "file": "sources/bc-mines-code-2026/p0226-0250.pdf",
+          "sha256": "c7dbb1170f8ad63cb76927884540e8810bf2ff61a9726942396862e5ab93eabd"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 251,
+          "end": 275,
+          "file": "sources/bc-mines-code-2026/p0251-0275.pdf",
+          "sha256": "30e12aa081020b70436cfc6f9be44c22fab4bcbbf4a682020225ff1bb455a202"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 276,
+          "end": 300,
+          "file": "sources/bc-mines-code-2026/p0276-0300.pdf",
+          "sha256": "afed2084ecf6a252076942009f7f8f0426fa3fc4abf2df1dae935ca70d33fff7"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 301,
+          "end": 325,
+          "file": "sources/bc-mines-code-2026/p0301-0325.pdf",
+          "sha256": "8824a7091d26538bd8d3c002a948d6f90822fa93ec9fba1fa1fcfabf51cf67d8"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 326,
+          "end": 350,
+          "file": "sources/bc-mines-code-2026/p0326-0350.pdf",
+          "sha256": "41568dcbc515bf291e7f1781f679bff053a0a6eb2af45f8c9dca716bdbcfd9ed"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 351,
+          "end": 375,
+          "file": "sources/bc-mines-code-2026/p0351-0375.pdf",
+          "sha256": "f5d4a3abe3a873a4ce127e79244119540ccaab7b6300718400ea24a1c14644f7"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 376,
+          "end": 400,
+          "file": "sources/bc-mines-code-2026/p0376-0400.pdf",
+          "sha256": "a682323e3ae29f62d8841f1b6fd17024173e78d04a016082d9aa5f43182ca064"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 401,
+          "end": 425,
+          "file": "sources/bc-mines-code-2026/p0401-0425.pdf",
+          "sha256": "6c6e3100a65269904a368fbdb6d20f04b1f59a097164b5b7f66a46cd7ebc1c64"
+        },
+        {
+          "source_id": "bc-mines-code-2026",
+          "start": 426,
+          "end": 427,
+          "file": "sources/bc-mines-code-2026/p0426-0427.pdf",
+          "sha256": "9b5a0c9ef28dda4cc384e0af97e07f996edf5271e926b568149af92c02e86fc9"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 1,
+          "end": 25,
+          "file": "sources/seymour-tool-catalogue-2026/p0001-0025.pdf",
+          "sha256": "42cb629d8bb8549ce7a70fc624806c557f9f545fa83c3726be973f6486dddf28"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 26,
+          "end": 50,
+          "file": "sources/seymour-tool-catalogue-2026/p0026-0050.pdf",
+          "sha256": "4a3fae52d2642df6ac5ed541fd3a56887decc3ae9f4fedefdf023b0ec0c13448"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 51,
+          "end": 75,
+          "file": "sources/seymour-tool-catalogue-2026/p0051-0075.pdf",
+          "sha256": "ceadd09baf5a4a85a0806a8f9b22ded4909e04fc112dd5852917f629e1986e3c"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 76,
+          "end": 100,
+          "file": "sources/seymour-tool-catalogue-2026/p0076-0100.pdf",
+          "sha256": "78660a304c1f49ddf31909cfe813a62035cb31be3ff85e56397169e3eb5ef78b"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 101,
+          "end": 125,
+          "file": "sources/seymour-tool-catalogue-2026/p0101-0125.pdf",
+          "sha256": "11d241b7c97a64562bbd9557064b26a91a80ae0ff13594d939c7cf22a4fe1bf1"
+        }
+      ],
+      "pages": 377
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-06.zip",
+      "bytes": 30066695,
+      "sha256": "a33f9cce3e5f9444e224738140af9cc67a79b7edc3bacb5e42d43dd6f0ea4749",
+      "members": 75,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 06 of 07",
+      "parts": [
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 126,
+          "end": 150,
+          "file": "sources/seymour-tool-catalogue-2026/p0126-0150.pdf",
+          "sha256": "1639ff805e7679ee4c200673effb3c4b6819713d1067168606b9b327bda3eeaa"
+        },
+        {
+          "source_id": "seymour-tool-catalogue-2026",
+          "start": 151,
+          "end": 172,
+          "file": "sources/seymour-tool-catalogue-2026/p0151-0172.pdf",
+          "sha256": "951174ab13bdb3bdb9e2768128e7745a80ab4827ea6c2ed3ccc17386d44ff5b6"
+        },
+        {
+          "source_id": "lute-instructions",
+          "start": 1,
+          "end": 2,
+          "file": "sources/lute-instructions/p0001-0002.pdf",
+          "sha256": "6b276ae93054964174c145f59804d7b6d315327f48017c9b6238c95d086521ca"
+        },
+        {
+          "source_id": "lute-gusset-brace",
+          "start": 1,
+          "end": 1,
+          "file": "sources/lute-gusset-brace/p0001-0001.pdf",
+          "sha256": "07df7b862a0e158ee35c8fb3a29654fa49c361640fa190daa1d74e33d5adaa2f"
+        },
+        {
+          "source_id": "lute-wrap-brace",
+          "start": 1,
+          "end": 2,
+          "file": "sources/lute-wrap-brace/p0001-0002.pdf",
+          "sha256": "9a1eafe7a3777acff888025dbebb49ca95e84ea56fd535deacd05420ef648a15"
+        },
+        {
+          "source_id": "blacktop-brush",
+          "start": 1,
+          "end": 2,
+          "file": "sources/blacktop-brush/p0001-0002.pdf",
+          "sha256": "32854476d0c4c6ad3b233d71de0ba711e4b7bbf5b19bac19b69fb17bd1395f3b"
+        },
+        {
+          "source_id": "hand-scraper",
+          "start": 1,
+          "end": 2,
+          "file": "sources/hand-scraper/p0001-0002.pdf",
+          "sha256": "a33e13791e45375366b57f245c456e3f9ad62925fd61aa259e0710c37cde75ac"
+        },
+        {
+          "source_id": "measuring-wheel",
+          "start": 1,
+          "end": 1,
+          "file": "sources/measuring-wheel/p0001-0001.pdf",
+          "sha256": "442e99654c42dfc5b402f6ba19d20f22a8c8d887069e9494fb2dc233535015da"
+        },
+        {
+          "source_id": "fairview-tiger-torch",
+          "start": 1,
+          "end": 1,
+          "file": "sources/fairview-tiger-torch/p0001-0001.pdf",
+          "sha256": "76a7c2356f3b80dc3c162868849638e3cdbde655ed8f4a1c8c06c45b4abf93c7"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 1,
+          "end": 25,
+          "file": "sources/troxler-3430-manual/p0001-0025.pdf",
+          "sha256": "906f3016653ae92d4f6a38c11b8d94e7a83c69e275e07f594a9735eb93955977"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 26,
+          "end": 50,
+          "file": "sources/troxler-3430-manual/p0026-0050.pdf",
+          "sha256": "bc38164caf4a5329a77862f36f1a4bbc822ebd084671a113825f1d5fd5b31c8f"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 51,
+          "end": 75,
+          "file": "sources/troxler-3430-manual/p0051-0075.pdf",
+          "sha256": "39ab9fdeb9b7029d999e3a66209225f52557dc0add6e630039f7925bd89b608a"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 76,
+          "end": 100,
+          "file": "sources/troxler-3430-manual/p0076-0100.pdf",
+          "sha256": "8baf414e906d9bb37d7e9352fb2f11e1b2d555b5447d7fcdc9f836ad97b3faec"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 101,
+          "end": 125,
+          "file": "sources/troxler-3430-manual/p0101-0125.pdf",
+          "sha256": "901e796c8f4a954614387a449f99d33d7349dcfa79452078184c4c19ebe50e70"
+        },
+        {
+          "source_id": "troxler-3430-manual",
+          "start": 126,
+          "end": 133,
+          "file": "sources/troxler-3430-manual/p0126-0133.pdf",
+          "sha256": "1991371ca60e85d8f69c019560fd17b06309719d96651cb6af6c0d4ad97771e7"
+        },
+        {
+          "source_id": "bc1call-six-steps",
+          "start": 1,
+          "end": 2,
+          "file": "sources/bc1call-six-steps/p0001-0002.pdf",
+          "sha256": "4d4385e15fc97397092e6af1ecf64679e148db88b3df83eea3070d467c77b9bc"
+        },
+        {
+          "source_id": "wsbc-rigging-failures",
+          "start": 1,
+          "end": 2,
+          "file": "sources/wsbc-rigging-failures/p0001-0002.pdf",
+          "sha256": "38db373c72ad99cb33a78075d0f64e418aff41647a2ccc45671e7cc87f54703d"
+        },
+        {
+          "source_id": "wsbc-crane-signals",
+          "start": 1,
+          "end": 2,
+          "file": "sources/wsbc-crane-signals/p0001-0002.pdf",
+          "sha256": "8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e"
+        },
+        {
+          "source_id": "wsbc-heat-stress",
+          "start": 1,
+          "end": 25,
+          "file": "sources/wsbc-heat-stress/p0001-0025.pdf",
+          "sha256": "8dbff6a198a01cd838708a91114455b02c6b77d9897e90497670de7f1ec4e30a"
+        },
+        {
+          "source_id": "wsbc-heat-stress",
+          "start": 26,
+          "end": 32,
+          "file": "sources/wsbc-heat-stress/p0026-0032.pdf",
+          "sha256": "819f539005b87dfa2c1a22c89da25c106f8bd494eededcf850aaee7482e35a05"
+        },
+        {
+          "source_id": "wsbc-silica-primer",
+          "start": 1,
+          "end": 2,
+          "file": "sources/wsbc-silica-primer/p0001-0002.pdf",
+          "sha256": "ce1579624fff65208ff4f43f4f7b5486135800d772c1642b3b93e08366086f4f"
+        },
+        {
+          "source_id": "bcforest-tiger-torch",
+          "start": 1,
+          "end": 2,
+          "file": "sources/bcforest-tiger-torch/p0001-0002.pdf",
+          "sha256": "1fb322836b5adc0de966ecc16488fa28f369a41e4aa8a9353abb525c5349e910"
+        },
+        {
+          "source_id": "crosby-termination",
+          "start": 1,
+          "end": 25,
+          "file": "sources/crosby-termination/p0001-0025.pdf",
+          "sha256": "47079c24dce4dba1d726aee3f149f455d7fdcb8890742547a4ae5d1893f160ef"
+        },
+        {
+          "source_id": "crosby-termination",
+          "start": 26,
+          "end": 50,
+          "file": "sources/crosby-termination/p0026-0050.pdf",
+          "sha256": "c062eef7be31afbc99870da2833f7abba04aef06e0bd7f7c183f347168fe8526"
+        },
+        {
+          "source_id": "crosby-termination",
+          "start": 51,
+          "end": 75,
+          "file": "sources/crosby-termination/p0051-0075.pdf",
+          "sha256": "77381ac4c1093a8bc687638202d9d45c29e3542c82df84b1c8e08dfbe2a27a21"
+        }
+      ],
+      "pages": 308
+    },
+    {
+      "file": "downloads/asphalt-context-pdfs-07.zip",
+      "bytes": 29755822,
+      "sha256": "97dea13d0cdcd887c9b4eab697d2f7dc6602ff27f2f6e8f4fc477b1c26203a34",
+      "members": 110,
+      "type": "pdf-volume",
+      "title": "Asphalt source PDFs \u00b7 volume 07 of 07",
+      "parts": [
+        {
+          "source_id": "crosby-termination",
+          "start": 76,
+          "end": 100,
+          "file": "sources/crosby-termination/p0076-0100.pdf",
+          "sha256": "8e2cf93bd1e596dd0ce4146a4cc9cb6ac9f2ef6036f20f16645dc29d77064542"
+        },
+        {
+          "source_id": "crosby-termination",
+          "start": 101,
+          "end": 125,
+          "file": "sources/crosby-termination/p0101-0125.pdf",
+          "sha256": "eae27c174dab0a3a5e2dabdc74933be50a70a4710f7dea1a7442fff7b86568b0"
+        },
+        {
+          "source_id": "crosby-termination",
+          "start": 126,
+          "end": 128,
+          "file": "sources/crosby-termination/p0126-0128.pdf",
+          "sha256": "6256847b72d25f9fc3dc802e4890234351680dcb3bc6cbca3c9278f4a62d6304"
+        },
+        {
+          "source_id": "ccohs-handtools-general",
+          "start": 1,
+          "end": 3,
+          "file": "sources/ccohs-handtools-general/p0001-0003.pdf",
+          "sha256": "6ea4add3278966f853ea23df2f7a91bb480bd7c35da8b30f060dbfc3edfb39b5"
+        },
+        {
+          "source_id": "ccohs-shovelling",
+          "start": 1,
+          "end": 7,
+          "file": "sources/ccohs-shovelling/p0001-0007.pdf",
+          "sha256": "588eb37474455274986f4ebd433a3caf6e51b019ec1296e4c032e40d57eabafb"
+        },
+        {
+          "source_id": "ccohs-pneumatic-tools",
+          "start": 1,
+          "end": 4,
+          "file": "sources/ccohs-pneumatic-tools/p0001-0004.pdf",
+          "sha256": "c39a274ae7ef89fffcdcac167e87680d8301d56475a74052cb6ce1e0531f2947"
+        },
+        {
+          "source_id": "ccohs-fatigue",
+          "start": 1,
+          "end": 10,
+          "file": "sources/ccohs-fatigue/p0001-0010.pdf",
+          "sha256": "984525444242f98b732bfb40dfa6d282afd44b8da2918462d8d99a2a5bbcea41"
+        },
+        {
+          "source_id": "lincoln-grease-gun",
+          "start": 1,
+          "end": 8,
+          "file": "sources/lincoln-grease-gun/p0001-0008.pdf",
+          "sha256": "55659097aa0fd82e68b4853b8f5d6310137587434163e4ec224f4210ad5f8b91"
+        },
+        {
+          "source_id": "cnsc-gauge-guide-pdf",
+          "start": 1,
+          "end": 2,
+          "file": "sources/cnsc-gauge-guide-pdf/p0001-0002.pdf",
+          "sha256": "ee62a9f33245e2ac618cc00c7719dcef30a17b7a6ebe2c97a2c650f11b86d76b"
+        },
+        {
+          "source_id": "multiquip-plate-manual",
+          "start": 1,
+          "end": 25,
+          "file": "sources/multiquip-plate-manual/p0001-0025.pdf",
+          "sha256": "debcbfb36e12c9b087d53dbc09da924a9d3f133ebfee82ac7edd27bf6011bde9"
+        },
+        {
+          "source_id": "multiquip-plate-manual",
+          "start": 26,
+          "end": 50,
+          "file": "sources/multiquip-plate-manual/p0026-0050.pdf",
+          "sha256": "bc16b150a65a854faf624ebd230352262fd6fa4d26a3de42542a8668a4d594dc"
+        },
+        {
+          "source_id": "multiquip-plate-manual",
+          "start": 51,
+          "end": 70,
+          "file": "sources/multiquip-plate-manual/p0051-0070.pdf",
+          "sha256": "7692820627c539d11b734069810de817291a98e6d1a766f26497c79f9b7ab523"
+        },
+        {
+          "source_id": "skilledtrades-exam",
+          "start": 1,
+          "end": 1,
+          "file": "sources/skilledtrades-exam/p0001-0001.pdf",
+          "sha256": "dbdc84beaa29fee25e86608510127db8da1dcd66f11740ae0d6d560da77efcdb"
+        },
+        {
+          "source_id": "niosh-milling",
+          "start": 1,
+          "end": 25,
+          "file": "sources/niosh-milling/p0001-0025.pdf",
+          "sha256": "c45076fce9e843e8e9430908790082d10dc9abc867519281da8df41f6ecfdfbd"
+        },
+        {
+          "source_id": "niosh-milling",
+          "start": 26,
+          "end": 50,
+          "file": "sources/niosh-milling/p0026-0050.pdf",
+          "sha256": "2fbe3ff557eb0c15bb480b7a428e9ffeac2af8ba43d54c10867482f2f10c6e4e"
+        },
+        {
+          "source_id": "niosh-milling",
+          "start": 51,
+          "end": 75,
+          "file": "sources/niosh-milling/p0051-0075.pdf",
+          "sha256": "f74f343c3b9520369b9f19319252a4d6eb8b96e089c7263a9dc6363c0040c0c4"
+        },
+        {
+          "source_id": "niosh-milling",
+          "start": 76,
+          "end": 79,
+          "file": "sources/niosh-milling/p0076-0079.pdf",
+          "sha256": "44af0ac83e0488fbd2e17748d3e212bc282eb98c11e5ed90214e35fb991d11f8"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 1,
+          "end": 25,
+          "file": "sources/cp-breaker-manual-alt/p0001-0025.pdf",
+          "sha256": "5ed0905ce43d28cee427c0d5a29708008bcc2aadaceac83b82933a9b58be1704"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 26,
+          "end": 50,
+          "file": "sources/cp-breaker-manual-alt/p0026-0050.pdf",
+          "sha256": "8416b620077c5dcc305028631783744c013be98b135dbb1429661121c1d13c48"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 51,
+          "end": 75,
+          "file": "sources/cp-breaker-manual-alt/p0051-0075.pdf",
+          "sha256": "efa55d21b6c8c6a04b8696f8b50dd322faafb2b5dda7635512c6d2b61d3b11fc"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 76,
+          "end": 100,
+          "file": "sources/cp-breaker-manual-alt/p0076-0100.pdf",
+          "sha256": "091edb4e76b4ed0bad82c8000f862f9805a919a06859a0482d0c33051b6b41f0"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 101,
+          "end": 125,
+          "file": "sources/cp-breaker-manual-alt/p0101-0125.pdf",
+          "sha256": "f05003612450938818b3787e9bd1924167b925191b00c197c9859b63b64cbf2b"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 126,
+          "end": 150,
+          "file": "sources/cp-breaker-manual-alt/p0126-0150.pdf",
+          "sha256": "d3b52325f5051351e6b30451a430d14c7c639c3f8a02aa7437d5a2a63038e5f6"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 151,
+          "end": 175,
+          "file": "sources/cp-breaker-manual-alt/p0151-0175.pdf",
+          "sha256": "65925aa0149c2cf03cd77e2d2968a86b70e8946db4f8f98d5e998d7e2c164cca"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 176,
+          "end": 200,
+          "file": "sources/cp-breaker-manual-alt/p0176-0200.pdf",
+          "sha256": "239e5b091caecedbb64e2acd98621cb5e0fbad293256b04a2ee0e5e51493f7bc"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 201,
+          "end": 225,
+          "file": "sources/cp-breaker-manual-alt/p0201-0225.pdf",
+          "sha256": "517961079e2caf1c3af8922f4e1ee36e38bb862a62c26c8c7a3ead9811dd9b70"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 226,
+          "end": 250,
+          "file": "sources/cp-breaker-manual-alt/p0226-0250.pdf",
+          "sha256": "b335d47bc42babbdaba771284a6afa073317e808bff56d44842513c17103203b"
+        },
+        {
+          "source_id": "cp-breaker-manual-alt",
+          "start": 251,
+          "end": 264,
+          "file": "sources/cp-breaker-manual-alt/p0251-0264.pdf",
+          "sha256": "6cdcececaa980a5363470492c815db742683e1d186149b2394ad8f497b781e51"
+        },
+        {
+          "source_id": "cp-1230-manual-pl",
+          "start": 1,
+          "end": 8,
+          "file": "sources/cp-1230-manual-pl/p0001-0008.pdf",
+          "sha256": "5283446d33005a72a62f10e34134ff2ccfb7548b1df68901a8b30425acbc403e"
+        },
+        {
+          "source_id": "bchydro-seven-steps-local",
+          "start": 1,
+          "end": 1,
+          "file": "sources/bchydro-seven-steps-local/p0001-0001.pdf",
+          "sha256": "2e597a50059e0068f2859170f3c83bc8492900f700d17fc603f4f096aa8958ad"
+        },
+        {
+          "source_id": "ccohs-propane",
+          "start": 1,
+          "end": 7,
+          "file": "sources/ccohs-propane/p0001-0007.pdf",
+          "sha256": "ea22c907cba834cf20349a252c6585a7b245848ff27ebba19d6195a2e4575cb2"
+        },
+        {
+          "source_id": "ccohs-ladders",
+          "start": 1,
+          "end": 3,
+          "file": "sources/ccohs-ladders/p0001-0003.pdf",
+          "sha256": "9e71b787ac2dc9bdcf91e28bb263da727e89636025b146b67a5d2e265e0ef0d2"
+        },
+        {
+          "source_id": "nsc10-cargo-securement",
+          "start": 1,
+          "end": 25,
+          "file": "sources/nsc10-cargo-securement/p0001-0025.pdf",
+          "sha256": "6df8cc3bf4fbc6744c817696b96d99b42f8d3f388003dfdaa18b34b537e232ce"
+        },
+        {
+          "source_id": "nsc10-cargo-securement",
+          "start": 26,
+          "end": 49,
+          "file": "sources/nsc10-cargo-securement/p0026-0049.pdf",
+          "sha256": "5744857a53ad11b33e001d0d8f435cc8d1d40f5769977e3227941acdb07d9a99"
+        },
+        {
+          "source_id": "infrared-thermometer",
+          "start": 1,
+          "end": 4,
+          "file": "sources/infrared-thermometer/p0001-0004.pdf",
+          "sha256": "ce1627ca0e9a4cfde49564a9bf67ebb0f0bde2f9027c39e551901a2be9a02b65"
+        },
+        {
+          "source_id": "infrared-spot-diagram",
+          "start": 1,
+          "end": 1,
+          "file": "sources/infrared-spot-diagram/p0001-0001.pdf",
+          "sha256": "5ef4d1b9b82746872c9187a3f3cc32b4f7b800f762156a738216b25aed9cb166"
+        },
+        {
+          "source_id": "leica-level-brochure",
+          "start": 1,
+          "end": 6,
+          "file": "sources/leica-level-brochure/p0001-0006.pdf",
+          "sha256": "41ada121cf904abe6797d65e2a8ada86d39bcec37e073233a4e1e1b81a3bfdaa"
+        },
+        {
+          "source_id": "leica-level-datasheet",
+          "start": 1,
+          "end": 1,
+          "file": "sources/leica-level-datasheet/p0001-0001.pdf",
+          "sha256": "40028f5b390f08c46eb4f4af6b680d861646fb8442bda26661328d34873cbca0"
+        },
+        {
+          "source_id": "nsc10-interpretations",
+          "start": 1,
+          "end": 25,
+          "file": "sources/nsc10-interpretations/p0001-0025.pdf",
+          "sha256": "41f4a329802687b47a6f42eb826d2f01df3219312ecc784cdb04d7555bdd0ab5"
+        },
+        {
+          "source_id": "nsc10-interpretations",
+          "start": 26,
+          "end": 28,
+          "file": "sources/nsc10-interpretations/p0026-0028.pdf",
+          "sha256": "196b69f7928aae41f64c75d024b6f437a93f79eadecedc088c1ebca39d294bb7"
+        }
+      ],
+      "pages": 609
+    },
+    {
+      "file": "downloads/asphalt-context-web-and-guides.zip",
+      "bytes": 10966915,
+      "sha256": "44687941fe5386edb3af6200ffe14c48a34674d1b5ea37ad5a5278f7dd53449c",
+      "members": 157,
+      "type": "web-and-guides",
+      "title": "Visual guide, 68-competency map, tool register and 30 complete web articles"
+    }
+  ]
+}

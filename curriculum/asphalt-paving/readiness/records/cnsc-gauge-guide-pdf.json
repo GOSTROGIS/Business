@@ -1,0 +1,32 @@
+{
+  "id": "cnsc-gauge-guide-pdf",
+  "slug": "cnsc-gauge-guide-pdf",
+  "title": "Portable Gauge Quick Reference Guide",
+  "author": "Canadian Nuclear Safety Commission",
+  "edition": "n.d.; current publisher download",
+  "category": "measurement",
+  "scope": "Canadian field, transport, labelling and document guidance; the licence and authorized procedures control use.",
+  "kind": "pdf",
+  "download_filename": "cnsc-gauge-guide-pdf.raw",
+  "original_pages": 2,
+  "original_sha256": "ee62a9f33245e2ac618cc00c7719dcef30a17b7a6ebe2c97a2c650f11b86d76b",
+  "original_bytes": 665004,
+  "source_url": "https://api.cnsc-ccsn.gc.ca/dms/digital-medias/Portable-Gauge-Quick-Reference-Guide-eng.pdf/object",
+  "final_url": "https://api.cnsc-ccsn.gc.ca/dms/digital-medias/Portable-Gauge-Quick-Reference-Guide-eng.pdf/object",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/cnsc-gauge-guide-pdf/p0001-0002.pdf",
+      "text": "text/cnsc-gauge-guide-pdf/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 665004,
+      "sha256": "ee62a9f33245e2ac618cc00c7719dcef30a17b7a6ebe2c97a2c650f11b86d76b",
+      "text_sha256": "f1b48019a405d356f3e63524f559aea11df192b587490cd6f58ab80df1bc3728",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

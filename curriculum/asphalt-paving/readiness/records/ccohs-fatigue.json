@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-fatigue",
+  "slug": "ccohs-fatigue",
+  "title": "Fatigue",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "safety",
+  "scope": "Fatigue risk and prevention; company shift/transport arrangements remain site-specific.",
+  "kind": "pdf",
+  "download_filename": "ccohs-fatigue.raw",
+  "original_pages": 10,
+  "original_sha256": "984525444242f98b732bfb40dfa6d282afd44b8da2918462d8d99a2a5bbcea41",
+  "original_bytes": 197988,
+  "source_url": "https://www.ccohs.ca/oshanswers/psychosocial/CCOHS_fatigue.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/psychosocial/CCOHS_fatigue.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-fatigue/p0001-0010.pdf",
+      "text": "text/ccohs-fatigue/p0001-0010.txt",
+      "start": 1,
+      "end": 10,
+      "pages": 10,
+      "bytes": 197988,
+      "sha256": "984525444242f98b732bfb40dfa6d282afd44b8da2918462d8d99a2a5bbcea41",
+      "text_sha256": "18c7f750ede48a9d48b3a7af31ed2600013928abc5c7cd247736311f5c8af03f",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wsbc-heat-stress",
+  "slug": "wsbc-heat-stress",
+  "title": "Preventing Heat Stress at Work",
+  "author": "WorkSafeBC",
+  "edition": "2026; R05/26",
+  "category": "safety",
+  "scope": "Current acquired handbook: heat assessment, controls, acclimatization and response.",
+  "kind": "pdf",
+  "download_filename": "wsbc-heat-stress.raw",
+  "original_pages": 32,
+  "original_sha256": "ff1086a1bd8b9f7fa6c309017446de5770c4a5da2276cf8bfcf35945c9fb9a69",
+  "original_bytes": 920696,
+  "source_url": "https://www.worksafebc.com/resources/health-safety/books-guides/preventing-heat-stress-at-work?lang=en&direct",
+  "final_url": "https://www.worksafebc.com/en/resources/health-safety/books-guides/preventing-heat-stress-at-work?lang=en&direct",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/wsbc-heat-stress/p0001-0025.pdf",
+      "text": "text/wsbc-heat-stress/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 895071,
+      "sha256": "8dbff6a198a01cd838708a91114455b02c6b77d9897e90497670de7f1ec4e30a",
+      "text_sha256": "4272172ec598f08f43e0d471620637efded47c5b3f4985b0bbfe2fe84930963a",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/wsbc-heat-stress/p0026-0032.pdf",
+      "text": "text/wsbc-heat-stress/p0026-0032.txt",
+      "start": 26,
+      "end": 32,
+      "pages": 7,
+      "bytes": 72062,
+      "sha256": "819f539005b87dfa2c1a22c89da25c106f8bd494eededcf850aaee7482e35a05",
+      "text_sha256": "7d21d02dc39a36f77ada82531082006c0619516bb72ff6e89e4549dae1e5867a",
+      "empty_text_source_pages": [
+        29,
+        30,
+        31
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

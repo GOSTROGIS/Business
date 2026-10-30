@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-pneumatic-tools",
+  "slug": "ccohs-pneumatic-tools",
+  "title": "Powered Hand Tools: Pneumatic Tools, Basic Safety",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "tools",
+  "scope": "Air supply, hoses, connections, pressure and tool hazards; pair with the selected breaker's manual.",
+  "kind": "pdf",
+  "download_filename": "ccohs-pneumatic-tools.raw",
+  "original_pages": 4,
+  "original_sha256": "c39a274ae7ef89fffcdcac167e87680d8301d56475a74052cb6ce1e0531f2947",
+  "original_bytes": 193640,
+  "source_url": "https://www.ccohs.ca/oshanswers/safety_haz/power_tools/CCOHS_pneumat.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/safety_haz/power_tools/CCOHS_pneumat.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-pneumatic-tools/p0001-0004.pdf",
+      "text": "text/ccohs-pneumatic-tools/p0001-0004.txt",
+      "start": 1,
+      "end": 4,
+      "pages": 4,
+      "bytes": 193640,
+      "sha256": "c39a274ae7ef89fffcdcac167e87680d8301d56475a74052cb6ce1e0531f2947",
+      "text_sha256": "baf652f2a6fe1e5c0e36868e21b4356991203a82176cee9fae0876e1a256e679",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

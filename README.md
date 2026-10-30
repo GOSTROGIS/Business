@@ -10,6 +10,8 @@ The [28 October book review and gap analysis](curriculum/skills-for-success/rese
 
 ## Asphalt curriculum
 
+[Tools, rigging and safety source library](curriculum/asphalt-paving/readiness/README.md): the full-outline audit adds 41 PDF publications (3,240 pages), 30 archived regulatory/guidance sources, a visual tool guide, a 32-group tool register and source coverage for all 68 competencies. [Outstanding equipment and delivery requirements](curriculum/asphalt-paving/readiness/gaps.md) remain explicit.
+
 [Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Roadbuilding learner book](curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf) · [Teaching and answer guide](curriculum/asphalt-paving/line-a/teaching-guide.pdf)
 
 Six complete Roadbuilding foundations units develop A1–A6 with 37 activities, current industry evidence, technical diagrams and answer guidance. The curriculum includes the opening A1 workbook, a specifications workshop using the supplied 2006 document, a manufacturer-manual resource pack and an indexed PDF context library. The integrated teaching route connects the books to exact trade terms, APA-credited manual crops and observed nine-skills practice. The complete 834-page MS-4 Seventh Edition is now available as [searchable HTML](curriculum/asphalt-paving/ms-4/index.html) and 34 small PDFs. Six credited SVG redraws and [12 complete concept activities](curriculum/asphalt-paving/ms-4/concepts/index.html) connect the handbook to all nine skills; three redraws are embedded in Line A. [Integrated teaching route](curriculum/asphalt-paving/teaching-route.md) · [Scope and technical review status](curriculum/asphalt-paving/line-a/technical-handoff.md).

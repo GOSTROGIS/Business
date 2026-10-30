@@ -1,0 +1,45 @@
+{
+  "id": "nsc10-interpretations",
+  "slug": "nsc10-interpretations",
+  "title": "Cargo Securement Standard: Interpretations and Guidance",
+  "author": "Canadian Council of Motor Transport Administrators",
+  "edition": "May 2016",
+  "category": "transport",
+  "scope": "Official interpretation document linked by BC; read with Standard 10 and applicable BC requirements.",
+  "kind": "pdf",
+  "download_filename": "nsc10-interpretations.raw",
+  "original_pages": 28,
+  "original_sha256": "36b263ed3a31feadc60d077663d453456c8d9923451e53b21f7afe50d1db688d",
+  "original_bytes": 704651,
+  "source_url": "https://www.ccmta.ca/web/default/files/PDF/Interpretations_and_Guidance_2016.pdf",
+  "final_url": "https://www.ccmta.ca/web/default/files/PDF/Interpretations_and_Guidance_2016.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/nsc10-interpretations/p0001-0025.pdf",
+      "text": "text/nsc10-interpretations/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 596242,
+      "sha256": "41f4a329802687b47a6f42eb826d2f01df3219312ecc784cdb04d7555bdd0ab5",
+      "text_sha256": "37341a5ddd63ee1f87425f3a62af00f29a3b30a5d45e165974e9efc46d4f0808",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/nsc10-interpretations/p0026-0028.pdf",
+      "text": "text/nsc10-interpretations/p0026-0028.txt",
+      "start": 26,
+      "end": 28,
+      "pages": 3,
+      "bytes": 214962,
+      "sha256": "196b69f7928aae41f64c75d024b6f437a93f79eadecedc088c1ebca39d294bb7",
+      "text_sha256": "92b0c9b6cd6f957f4ce7ac9ab93258b897a355bd6abfe27d83ebfca4adbfcc44",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

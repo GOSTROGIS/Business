@@ -1,0 +1,99 @@
+{
+  "id": "crosby-termination",
+  "slug": "crosby-termination",
+  "title": "Wire Rope End Terminations: User's Manual",
+  "author": "The Crosby Group",
+  "edition": "2014 printing",
+  "category": "rigging",
+  "scope": "Manufacturer manual for named Crosby products. Legacy edition; exact product instructions and current BC requirements must be checked before use.",
+  "kind": "pdf",
+  "download_filename": "crosby-termination.raw",
+  "original_pages": 128,
+  "original_sha256": "abdf4472e2a930e2298ba148d90c07fc55c98520a697b3f2fbb3a2564a711943",
+  "original_bytes": 20501892,
+  "source_url": "https://www.thecrosbygroup.com/wp-content/uploads/2014/01/9992320_Termination_Manual_With_Cover_LoRes.pdf",
+  "final_url": "https://www.thecrosbygroup.com/wp-content/uploads/2014/01/9992320_Termination_Manual_With_Cover_LoRes.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/crosby-termination/p0001-0025.pdf",
+      "text": "text/crosby-termination/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 2603248,
+      "sha256": "47079c24dce4dba1d726aee3f149f455d7fdcb8890742547a4ae5d1893f160ef",
+      "text_sha256": "2fae7d5ce0bf95bc12408cedb155d75d0561d120bcc336ab51de8cca93985e50",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/crosby-termination/p0026-0050.pdf",
+      "text": "text/crosby-termination/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 2931287,
+      "sha256": "c062eef7be31afbc99870da2833f7abba04aef06e0bd7f7c183f347168fe8526",
+      "text_sha256": "a3f017b01d2d8069af1d0e19eda567de753de888304029039f58c9cd55b491a7",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/crosby-termination/p0051-0075.pdf",
+      "text": "text/crosby-termination/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 3171860,
+      "sha256": "77381ac4c1093a8bc687638202d9d45c29e3542c82df84b1c8e08dfbe2a27a21",
+      "text_sha256": "00f596227efc2540803cecf8496506788ff846723a0c8976a35345ed294f5872",
+      "empty_text_source_pages": [
+        70
+      ],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/crosby-termination/p0076-0100.pdf",
+      "text": "text/crosby-termination/p0076-0100.txt",
+      "start": 76,
+      "end": 100,
+      "pages": 25,
+      "bytes": 8991488,
+      "sha256": "8e2cf93bd1e596dd0ce4146a4cc9cb6ac9f2ef6036f20f16645dc29d77064542",
+      "text_sha256": "e3c072475fd115bf373aabb1f4bc5035477916c5f0428a56edd9e2f9346d400f",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/crosby-termination/p0101-0125.pdf",
+      "text": "text/crosby-termination/p0101-0125.txt",
+      "start": 101,
+      "end": 125,
+      "pages": 25,
+      "bytes": 2213062,
+      "sha256": "eae27c174dab0a3a5e2dabdc74933be50a70a4710f7dea1a7442fff7b86568b0",
+      "text_sha256": "26caace2c4255b08c467620bc474bb4df05813b87e211350b00191c6fdc1ab69",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/crosby-termination/p0126-0128.pdf",
+      "text": "text/crosby-termination/p0126-0128.txt",
+      "start": 126,
+      "end": 128,
+      "pages": 3,
+      "bytes": 1236754,
+      "sha256": "6256847b72d25f9fc3dc802e4890234351680dcb3bc6cbca3c9278f4a62d6304",
+      "text_sha256": "e53a946ea0b87d33b4755ae90dcfd7ea8c811e6c6c2d1c9821dc1bb410f01c36",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

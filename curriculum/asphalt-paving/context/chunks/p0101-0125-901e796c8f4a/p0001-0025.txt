@@ -1,0 +1,843 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0101-0125.pdf
+SOURCE SHA-256: 901e796c8f4a954614387a449f99d33d7349dcfa79452078184c4c19ebe50e70
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 101 ===
+Radiation Theory
+A more detailed discussion of radiological theory can be found
+in the Troxler Nuclear Gauge Safety Training Program manual,
+provided at the Troxler Safety Class.
+
+Atomic Structure
+All matter is made up of atoms. For example, water has two
+atoms of hydrogen (H) and one atom of oxygen (O), which in
+chemical notation is written H2O.
+An atom is made up of a dense nucleus, consisting of positively
+charged protons and uncharged neutrons, surrounded by a
+cloud of negatively charged electrons. Under normal
+circumstances, the number of electrons in an atom equals the
+number of protons. The number of protons in the atom is called
+the atomic number (Z). A chemical element consists of all atoms
+having the same atomic number.
+The number of protons plus neutrons in the nucleus is called the
+atomic mass (A). Atoms of a given chemical element can exist in
+slightly different variants called isotopes that have different
+atomic masses. For example, carbon-12 (C-12) is non-
+radioactive and carbon-14 (C-14) is radioactive. Isotopes that
+are radioactive are termed radioisotopes or radionuclides.
+Figure 12 depicts a helium atom consisting of two protons and
+two neutrons in the nucleus and two orbiting electrons.
+
+
+      ELECTRONS
+
+
+
+          NEUTRON                                 PROTON
+
+
+
+
+                Figure 12. Diagram of an Atom
+
+
+
+D–2
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 102 ===
+Radioactivity
+Radioactivity is the spontaneous transformation (or
+disintegration) of an unstable nucleus into a more stable
+configuration accompanied by the emission of radiation.
+The quantity of a radioactive material is measured in terms of
+the average number of nuclear disintegrations per unit time.
+The traditional unit of measure for radioactivity (or activity) is
+the curie (Ci), which is defined as 3.7 × 1010 disintegrations per
+second. The activities of the radioactive sources in nuclear
+gauges are so small that they are typically measured in
+millicuries (mCi), which is one-thousandth of a curie, or
+microcuries (µCi), which is one-millionth of a curie.
+In the Standard International (SI) (or metric) system, the unit of
+activity is the becquerel (Bq), which equals one disintegration
+per second. Because the becquerel is such an extremely small
+unit, the activity of sources in nuclear gauges is normally
+expressed in megabecquerel (MBq), which is one million
+becquerels, or gigabecquerel (GBq), which is one billion Bq.
+The radioactivity of a source is not constant, but decreases with
+time as the source decays. The time it takes for one-half of the
+original atoms to disintegrate is called the half-life. In successive
+half-lives, the activity decreases to 1/2, 1/4, 1/8 and so on of the
+initial value. After seven half-lives, less than 1% of the original
+radioactive atoms remain. Each radioisotope has a characteristic
+half-life, which can range from seconds to billions of years. The
+half-lives for the typical radioisotopes used in nuclear gauges
+are:
+
+                     Radioisotope     Half-life
+                     Cs-137           30 years
+                     Am-241           432 years
+
+
+
+
+   Model 3430                                            D-3
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 103 ===
+Types of Radiation
+The radioactive sources in the gauge produce four types of
+radiation:
+      Alpha particles
+      Beta particles
+      Gamma rays (photons)
+      Neutrons
+The alpha and beta particles are stopped by the source capsule.
+Therefore, they present no external hazard to personnel. Only
+the gamma and neutron radiation from sealed sources
+contribute to any occupational radiation exposure.
+Gamma rays (photons) are a type of electromagnetic radiation,
+like X rays, radio waves, and visible light. Photons have no mass
+or electrical charge, and travel at the speed of light. Gamma rays
+are energetic and penetrating. Dense materials (such as lead,
+tungsten, and so on) provide the best shielding against gamma
+radiation.
+Neutrons are a form of particulate radiation but, unlike alpha
+and beta particles, they have no electrical charge. This makes
+neutron radiation very penetrating. Fast neutrons lose energy
+primarily by so-called “billiard ball” elastic collisions with the
+nuclei of low atomic number atoms, especially hydrogen. The
+best shielding materials for fast neutrons are those with a high
+hydrogen content, such as water, concrete, and polyethylene.
+
+
+
+
+D–4
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 104 ===
+Radiation Safety
+This section discusses the principles of general radiation safety.
+This information includes specific procedures for operating,
+inspecting, cleaning, and leak testing the gauge to ensure safe
+operation.
+
+Radiation Dose
+Radiation cannot be detected by any of the human senses (sight,
+touch, hearing, smell). However, using appropriate instruments
+and devices, radiation can be detected and measured at levels
+far below those that significantly affect health.
+For purposes of radiation protection, the basic unit of radiation
+dose is the rem. The SI unit is the sievert (Sv), where 1 Sv = 100
+rem. The rem is a relatively large unit, so often radiation dose is
+expressed in smaller units called millirem (mrem), where
+1 rem = 1000 mrem.
+The risk of injury from radiation is generally related to the total
+radiation dose received over a period of time. It is also related to
+the dose rate, which is the amount of dose received per unit
+time. The same amount of radiation received over a long period
+(months to years) is much less hazardous than if received over a
+very short period (hours). This has to do with the body’s ability
+to repair cell damage caused by the radiation.
+The U.S. Nuclear Regulatory Commission (NRC) has established
+the following limits on the amount of whole body radiation
+exposure that individuals may safely receive from licensed
+radioactive materials.
+
+
+         Type of Individual           Dose Limit
+         Adult worker                 5000 mrem per year
+         Minor (under 18 years old)   500 mrem per year
+         Member of the public         100 mrem per year
+
+
+
+
+   Model 3430                                           D-5
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 105 ===
+Limiting Exposure
+Under average conditions, an individual working with the gauge
+will receive less than 200 mrem per year.
+A basic principle of radiation protection is that radiation
+exposure should be kept as far below the limits as is reasonably
+achievable. This is known as the ALARA (as low as reasonable
+achievable) principle. The three methods for limiting exposure
+are:
+♦ Time
+♦ Distance
+♦ Shielding
+
+Time
+The simplest way to reduce exposure is to minimize the time
+spent around a radioactive source. If the time spent near a
+source is cut in half, then the exposure is halved, all other
+factors remaining constant.
+
+Distance
+Distance is another effective means to reduce radiation
+exposure. A formula known as the inverse square law relates the
+radiation exposure rate to distance (see Figure 13). Doubling
+the distance from a radiation source reduces the exposure to
+one-fourth its original value. If the distance is tripled, then the
+exposure is reduced by a factor of nine, and so on.
+
+
+
+
+D–6
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 106 ===
+Figure 13. Effect of Distance on Exposure
+
+
+
+Shielding
+Shielding is any material used to reduce the radiation exposure
+rate from a radioactive source. The gauge has some built-in
+shielding, which reduces the exposure rate. When gauges are in
+storage, additional shielding may be necessary to keep exposure
+to personnel in adjacent areas below the dose limits for
+members of the public.
+The thickness of any material that reduces the incident
+radiation intensity by one-half is known as the half-value layer
+(HVL). The HVL of a material varies with the type and energy of
+radiation. The HVL values of certain common shielding
+materials are shown below for gamma and fast neutron
+radiation.
+
+
+                       Cs-137 Gamma     Am-241:Be Neutrons
+       Material
+                       Half-Value Layer Half-Value Layer
+       Concrete        1.9 in.                    4.3 in.
+       Lead            0.3 in.                    *
+
+
+
+
+* Lead does not provide any effective shielding of fast neutrons.
+
+
+   Model 3430                                                       D-7
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 107 ===
+Personnel Monitoring
+In the United States, anyone working with or near radioactive
+materials is subject to occupational dose limits. Individual
+monitoring of each authorized user is recommended in order to
+demonstrate compliance with these dose limits.
+The most common types of individual monitoring devices used
+by licensees are film badges and thermoluminescent dosimeter
+(TLD) badges. Film badges are typically exchanged and
+processed monthly due to concerns about film fading. TLD
+badges are usually exchanged quarterly. Troxler offers NVLAP-
+certified personnel monitoring services using TLD badges.
+In Canada, nuclear gauge users are not normally classified as
+Atomic Radiation Workers. In such cases, the general public
+dose limit of 500 mrem/year applies. Users may not be required
+to wear a dosimeter. To establish the personnel monitoring
+requirements for your application, consult the conditions of
+your radioisotope license and the CNSC regulatory document
+R91: Monitoring and Dose Recording for the Individual.
+
+Source Encapsulation
+The neutron (americium-241:beryllium in the Model 3430 and
+photon (cesium-137) source materials are welded inside
+stainless steel capsules. These sealed sources meet U.S. and
+international regulatory requirements for classification as
+“Special Form” radioactive material for purposes of
+transportation. The sealed sources are designed to prevent
+leakage of radioactive material under severe accident
+conditions. They are also designed to comply with applicable
+ANSI classification requirements for sealed sources used in
+portable gauges.
+
+
+
+
+D–8
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 108 ===
+Source Rod Inspection
+To ensure the integrity of the source rod, Troxler recommends
+that a qualified Troxler service person inspect the gauge and the
+source rod at least once every five years. This inspection
+includes checking for excessive wear, corrosion, or damage that
+could affect the safety of gauge operation.
+However, as a precaution if the gauge is ever damaged or
+dropped, ensure that the tip of the source rod is intact and
+undamaged (that is, ensure that the source is not missing) as
+described on page A-2 – A-3.
+Contact the Troxler Radiation Safety Department for further
+advice.
+
+Daily Inspection
+The gauge should be inspected daily before use to ensure
+proper operation of all safety features as follows:
+♦ The source rod opening in the bottom of the gauge is
+  equipped with a spring-loaded tungsten sliding block that
+  shuts when the source rod is in the SAFE (shielded)
+  position. To check the operation of the sliding block, push
+  the source rod down into the backscatter position (see
+  Figure on page 3–4), and then raise it back to the SAFE
+  position. You should hear a click as the sliding block snaps
+  shut. Turn the gauge over and verify that the sliding block is
+  completely shut. If any portion of the opening is uncovered,
+  the sliding block should be cleaned before using,
+  transporting, or storing the gauge. Refer to page D–10 for
+  instructions on cleaning the tungsten sliding block.
+
+                            WARNING
+       Do not store or transport the gauge unless the
+       sliding block is closed. Increased radiation levels
+       may cause excessive personnel radiation
+       exposure and may violate transportation
+       regulations.
+
+  Model 3430                                          D-9
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 109 ===
+If a radiation survey instrument is available, verify that the
+radioactive gamma source is in place by measuring the exposure
+rate at the surface of the gauge. The exposure rate should be
+approximately 10 – 20 mrem per hour. A reading of about
+1 mrem or less indicates either that the survey instrument is not
+working properly or that the cesium-137 source may be
+missing. Refer to the Troubleshooting section of Appendix A for
+further instructions.
+
+Cleaning the Tungsten Sliding Block
+ If the tungsten sliding block is not kept clean, it may stick
+partially or completely open when the source rod is raised to
+the SAFE (shielded) position. This will result in high radiation
+levels near or in line with the source rod opening on the bottom
+of the gauge. After cleaning and reassembling the gauge as
+described below, check the operation of the sliding block by
+pushing the source rod into the backscatter position, then
+returning it to the SAFE position. You should hear a click as the
+sliding block snaps shut. Inspect the opening on the base of the
+gauge to confirm that the sliding block is closed. If not, check
+that the sliding block spring was properly installed after
+cleaning. If the sliding block still does not close properly,
+immediately contact the nearest Troxler Service Center. For a
+list of Troxler and authorized Troxler service centers, refer to
+the front of this manual or visit the Troxler website at
+www.troxlerlabs.com/services.
+
+
+                            WARNING
+       Do not store or transport the gauge unless the
+       sliding block is closed. Increased radiation levels
+       may violate transportation regulations and may
+       cause excessive personnel radiation exposure.
+
+The tungsten sliding block may require cleaning if the source
+rod becomes difficult to lower into the “measure” position, or if
+a click is not heard when the source rod is raised to the SAFE
+(shielded) position. An improperly operating sliding block may
+
+
+D–10
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 110 ===
+also result in erratic or incorrect density readings and increased
+radiation levels.
+
+
+                             WARNING
+        Removal of the sliding block results in dose rates
+        of up to one rem per hour in the path of the
+        beam. Stand clear of the gauge bottom while
+        performing this procedure and proceed as
+        quickly as possible while working in the cavity to
+        minimize exposure to your extremities.
+
+9. With the source rod in the SAFE (shielded) position, place
+   the gauge on its side.
+10. Clean the heads of the four corner screws that hold the
+    bottom plate to the gauge base (see Figure 14). Using a
+    Phillips screwdriver, remove the four screws in the corner
+    of the plate and remove the plate.
+11. To reduce radiological exposure, stand to one side of the
+    gauge. Paying close attention to the position of the sliding
+    block, remove the block.
+12. Using a stiff brush or rag soaked in alcohol, clean the sliding
+    block and the cavity.
+13. Re-install the sliding block with the angled side up. Apply a
+    light coating of Magnalube-G paste to the top angled surface
+    of the sliding block.
+14. Re-install the bottom plate. Do not over-tighten screws!
+    Ensure that the source rod moves up and down freely.
+
+
+
+
+   Model 3430                                           D-11
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 111 ===
+Figure 14. Cleaning the Tungsten Sliding Block
+
+
+Leak Testing
+Unless specified otherwise by your license or state
+regulations, the gauge must be leak tested at intervals not
+exceeding 12 months to ensure the integrity of the radioactive
+source encapsulation. Sample analysis must be performed by a
+licensed laboratory only.
+Using the Troxler Model 3880 Leak Test Kit (PN 102868) and
+accompanying instructions, perform the following procedure:
+
+
+                           WARNING
+       Ensure that the source rod is in the SAFE position
+       (see Figure 7 on page 3–4).
+
+
+1. Write the date, gauge model number, and serial number on
+   the sample form and label.
+
+
+
+D–12
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 112 ===
+2. Remove the control panel from the gauge topshell. Locate
+   the yellow radiation label on the top surface of the base.
+3. Holding the wipe disk with the tongs, wipe the radiation
+   label.
+4. Turn the gauge on its side and locate the opening where the
+   source rod extends through the gauge base.
+5. Holding the wipe disk with tongs, wipe the area around and
+   inside the opening where the source rod extends from the
+   gauge base.
+6. Pack the disk, as instructed, in the envelope and mail to
+   Troxler Electronic Laboratories, Inc. for analysis.
+7. Secure the gauge properly.
+
+
+
+
+  Model 3430                                          D-13
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 113 ===
+Regulatory Requirements
+This section summarizes the licensing and training
+requirements that pertain to ownership or operation of a
+nuclear gauge. This section also provides information on the
+proper disposal of the gauge, as well as emergency procedures
+to follow if the gauge is lost, stolen, or damaged.
+
+Licensing
+In the United States, possession and use of the radioactive
+materials in a nuclear gauge require a license issued by the U.S.
+Nuclear Regulatory Commission (NRC) or an Agreement State
+licensing agency. Detailed information on obtaining a license is
+contained in the Troxler Licensing Guide. Copies of this guide are
+available from Troxler, or can be downloaded from the Troxler
+website, www.troxlerlabs.com.
+To purchase a nuclear gauge in Canada, an owner must obtain a
+radioisotope license from the Canadian Nuclear Safety
+Commission (CNSC). The owner should obtain copies of the
+CNSC Regulations and the Transportation of Dangerous Goods
+Act and Regulations. For other countries, please consult your
+local regulatory agency.
+
+Training
+In the United States, anyone working with or near radioactive
+materials must complete a radiation safety training course to be
+designated an authorized user. Authorized users must be trained
+in the precautions and procedures to minimize radiation
+exposure; applicable regulatory requirements; and the
+operating, emergency, maintenance, and transportation
+procedures for the gauge. Troxler offers training classes
+designed to meet regulatory agency training requirements for
+nuclear gauge users.
+
+
+
+
+D–14
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 114 ===
+Disposal
+A nuclear gauge contains licensed radioactive material. At the
+end of a gauge’s service life, it must not be discarded as ordinary
+trash, recycled as scrap material, or abandoned. Instead, a
+nuclear gauge must be transferred to an authorized recipient
+licensed by the NRC or an Agreement State. For further
+information on gauge disposal, contact Troxler.
+
+Emergency Procedures
+If the nuclear gauge is lost or stolen, then immediately notify the
+gauge owner’s Radiation Safety Officer (RSO).
+The gauge owner should complete the emergency contact
+information on the lines furnished below. (Note that company
+refers to the gauge owner’s company, not Troxler Electronic
+Laboratories.) This information should be readily available to
+the gauge operator at all times.
+
+
+The company RSO is
+Call the RSO at
+
+
+The regulatory agency is
+Call the agency at
+
+
+If a gauge is damaged, then follow the steps below:
+1. Locate the gauge and/or sources.
+2. Do not touch or move the gauge.
+3. Immediately rope off an area around the nuclear gauge
+   and/or sources. A radius of 15 ft. (5 m) is sufficient. Do not
+   leave the area unattended.
+4. Keep all unauthorized personnel from the nuclear gauge.
+5. If a vehicle is involved, it must be stopped until the extent of
+   contamination, if any, can be established.
+   Model 3430                                           D-15
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 115 ===
+6. The gauge user should perform a visual inspection of the
+   nuclear gauge to determine if the source housing or
+   shielding has been damaged.
+7. Use a survey meter (such as the TroxAlert Survey Meter) to
+   measure the dose rate at a distance of 1 m (3 ft.) from the
+   gauge.
+8. Contact the company RSO (name and number given at the
+   beginning of this section). Provide the RSO with the
+   following:
+   a.   The date, time, and location of the accident
+   b.   The gauge model and serial number
+   c.   The nature of the accident
+   d.   The location and condition of the gauge and/or source
+   e.   The dose rate at 1 m (3 ft.) from the gauge
+9. If you are unable to reach the RSO, then call your regulatory
+   agency (name and number given at the beginning of this
+   section).
+10. Follow the instructions of the RSO. The RSO may need to
+    report the incident to the regulatory agency. The RSO may
+    also be required to notify the USDOT of accidents during
+    transport.
+11. Before shipping a damaged gauge to Troxler, obtain an RGA
+    (Returned Goods Authorization) number from the Troxler
+    Customer Service Department, as described in the Returning
+    the Gauge for Service section on page C–14.
+
+
+
+
+D–16
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 116 ===
+Gauge Use Precautions
+The following precautions should be observed when
+transporting, storing, maintaining, or operating the gauge.
+♦ Never touch the unshielded tip of the source rod with your
+  bare hands. The dose rates on contact with the source rod
+  tip can result in exposures exceeding the annual dose
+  limits to the skin of the extremities within a short time
+  period (about 1 hour).
+♦ When not taking readings, always keep the source rod in the
+  SAFE (shielded) position. For added user safety, the source
+  rod automatically retracts to the SAFE position when the
+  gauge is lifted by the handle.
+♦ If you do not hear a click when the gauge is raised to the
+  SAFE position, look at the bottom of the gauge to verify that
+  the tungsten sliding block is completely closed. If the gauge
+  base opening is not completely closed by the sliding block,
+  the sliding block may require cleaning. Refer to page A–10
+  for cleaning instructions.
+♦ Do not store or transport the gauge unless the sliding block
+  is completely closed. Increased radiation levels may cause
+  excessive personnel radiation exposure and may violate
+  transportation regulations.
+♦ When preparing a test site, use the drill rod assembly to drill
+  the test hole. Under no circumstances should the source rod
+  of the gauge be used to drill holes.
+♦ Do not tamper with or modify the gauge. Also, do not
+  remove the sealed source from the gauge. Tampering with
+  or modifying the gauge or removing the sealed source can
+  be dangerous. Such actions are illegal unless authorized by
+  your radioactive materials license.
+
+
+
+
+  Model 3430                                          D-17
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 117 ===
+Radiation Profile
+Table 3 shows the radiation profile for the Model 3430 gauge.
+Each table lists the radiation dose equivalent rates (in
+mrem/hour) for each side of the gauge and transport case
+shown in Figure 15.
+
+
+
+
+       Figure 15. Model 3430 Gauge and Transport Case
+D–18
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 118 ===
+Table 3. Radiation Profile for Model 3430 Gauge
+                (Exposure rate in mrem/hour)
+
+                    Surface                5 cm            30 cm            100 cm
+
+
+
+
+                         Neutron
+
+
+
+
+                                             Neutron
+
+
+
+
+                                                               Neutron
+
+
+
+
+                                                                                  Neutron
+                 Gamma
+
+
+
+
+                                   Gamma
+
+
+
+
+                                                       Gamma
+
+
+
+
+                                                                          Gamma
+ GAUGE
+
+ Top              30.0      1.0     20.0       1.0       2.0     0.2         §         §
+
+ Bottom           19.0      3.0      9.0       2.0       0.6     0.6         §         §
+
+ Left Side        25.0      0.6     10.0       0.4       1.2     0.2        0.2        §
+
+ Right Side        8.0      1.2      3.0       0.4       1.0     0.2        0.2        §
+
+ Front            16.0      1.0      9.0       0.6       1.7     0.2        0.3        §
+
+ Back             25.0      1.0     13.0       0.8       2.0     0.3        0.4        §
+
+ GAUGE IN TRANSPORT CASE
+
+ Top              17.0      0.2      8.0       0.2       1.2       §        0.2        §
+
+ Bottom            6.0      0.2      4.0       0.2       1.0     0.2        0.4        §
+
+ Left Side         1.0        §      0.8          §      0.3       §         §         §
+
+ Right Side        9.0      2.0      4.0       1.6       0.5     1.0         §         §
+
+ Front             9.0      0.4      6.5       0.2       2.0       §        0.2        §
+
+ Back              7.0      0.2      5.0       0.2       2.0       §        0.2        §
+
+
+
+
+Model 3430                                                               D-19
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 119 ===
+NOTES:
+
+   1.    Radiation measurements were of a gauge containing a
+         nominal 8 milli Curies Cesium-137 gamma source and a
+         nominal 40 milli Curies Americium-241: Beryllium neutron
+         source.
+   2.    Gamma measurements were taken with a Bicron Micro Rem
+         survey meter, Serial Number B464Y calibrated in January
+         2011.
+   3.    Neutron measurements were taken with a Ludlum Model
+         12-4 survey meter, Serial Number 140077 calibrated in
+         September 2011.
+   4.    The symbol § denotes a radiation measurement of less than
+         0.2 milli rem per hour.
+   5.    Measurement position nomenclature for the gauge and
+         transport case is shown in Figures 1 and 2.
+   6.    Orientation of the gauge in the transport case is as follows:
+         a. Back of the gauge to the front of the case
+         b. Bottom of the gauge to the right side of the case, and
+         c. Top of the gauge to the left side of the case.
+
+
+
+
+D–20
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 120 ===
+Appendix E:
+Standard Count Log
+       Use the form in this appendix as a guide when recording
+       the daily standard counts. To verify gauge stability,
+       compare the daily standard count to the average of the
+       last four recorded standard counts.
+
+
+
+
+Model 3430                                                  E-1
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 121 ===
+STANDARD COUNT LOG
+         Gauge Serial Number
+
+  Date   MS      DS        Date   MS   DS
+
+
+
+
+E–2
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 122 ===
+Appendix F:
+Unit Conversion
+
+
+     This chapter contains the following topics and tasks:
+
+      Measurement units
+      Radiological units
+
+
+
+
+Model 3430                                                   F-1
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 123 ===
+The Model 3430 gauges can display measurement results in
+either SI (metric) units or English units. Also, HM-181 of 49 CFR
+changes the standard units of radioactivity in the United States
+from the English unit of curies (Ci) to the SI unit of becquerel (Bq).
+This requires the shipper to convert the activity on the Bill of
+Lading from curies to becquerels (GBq). Until everyone is
+accustomed to the SI units, it is permitted to follow the SI units
+with the English units in parentheses to clarify the description
+[for example: 1.48 GBq (40 mCi)].
+To help you convert from English units to SI units, the following
+provides SI conversion factors for common English units relevant
+to the gauge.
+
+
+
+
+   Model 3430                                                     F-2
+                                                                  F-1
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 124 ===
+INDEX
+15-Second inhibit ................................................................................ 5–10
+
+AC charger ............................................................................................... 1–4
+Access code ................................................................................................. xi
+Accessories .............................................................................................. 1–4
+Accident notification ............................................................................ B–3
+Adapter, dc ....................................................................................................1–4
+Alkaline batteries ......................................................................... 5–3, A–8
+Alpha particles ........................................................................................A–4
+American Society of Testing and Materials (ASTM) standards
+  ................................................................................................................. 1–2
+Americium-241:beryllium ...................................... 1–2, 2–5, 3–9, D–8
+Asphalt mode ............................................................................. 3–7, 3–19
+Atomic structure ....................................................................................A–2
+Automatic
+    Shutdown ......................................................................................................... B–4
+Automatic shutdown ........................................................................... 3–3
+
+Backscatter
+    Geometry .......................................................................................................... 2–3
+    Mode .................................................................................................................. 2–2
+Batteries, alkaline................................................................................... 5–3
+Battery
+    Alkaline use ...................................................................................................... A–8
+    Charge ............................................................................................................... B–5
+    Charging ........................................................................................................... A–7
+    Specifications ........................................................................................ B–6, B–5
+Becquerel..................................................................................................A–3
+Beta particles...........................................................................................A–4
+
+
+
+
+Model 3430                                                                                                          F-1
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 125 ===
+Cable pinouts .......................................................................................... B–5
+Californium-252 ..................................................................................... 1–2
+Canadian Nuclear Safety Commission (CNSC) .............. D–14, B–4
+Canadian shipping requirements .................................................... B–4
+Cesium-137 ....................................................1–2, 2–2, 3–9, D–10, D-8
+Charger, ac ............................................................................................... 1–4
+Charging battery....................................................................................A–7
+Cleaning
+    Base and top shell..........................................................................................A–9
+    Sliding block ................................................................................................. D–10
+Count
+    Standard ............................................................................................................ 3–9
+    Time .................................................................................................................... 3–6
+    View ..................................................................................................................... 5–3
+Curie ...........................................................................................................A–3
+
+Data storage............................................................................................ 5–2
+DC adapter............................................................................................... 1–4
+Density
+    Measurement theory .................................................................................... 2–2
+    Offset ........................................................................................................ 4–2, 4–3
+    Voidless.............................................................................................................. 5–9
+Department of Transportation (DOT) ............................................ B–1
+Depth
+    Measurement .................................................................................................. 3–7
+    Of measurement ............................................................................................ 2–5
+Detectors .................................................................................................. 1–4
+Direct transmission
+    Geometry .......................................................................................................... 2–3
+    Mode .................................................................................................................. 2–2
+Display
+    Specifications................................................................................................... B–5
+Display language ................................................................................... 5–3
+Disposal .......................................................................................... 15, D–15
+Drift test .................................................................................................... 5–6
+    Limits .................................................................................................................. 5–6
+Index
+

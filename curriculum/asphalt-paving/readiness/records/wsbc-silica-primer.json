@@ -1,0 +1,32 @@
+{
+  "id": "wsbc-silica-primer",
+  "slug": "wsbc-silica-primer",
+  "title": "Regulatory Change Primer: Silica and Rock Dust",
+  "author": "WorkSafeBC",
+  "edition": "May 1, 2017",
+  "category": "safety",
+  "scope": "Historical change explanation; current Part 6 governs the regulatory reading route.",
+  "kind": "pdf",
+  "download_filename": "wsbc-silica-primer.raw",
+  "original_pages": 2,
+  "original_sha256": "ce1579624fff65208ff4f43f4f7b5486135800d772c1642b3b93e08366086f4f",
+  "original_bytes": 59032,
+  "source_url": "https://www.worksafebc.com/resources/law-policy/act-amendments/regulatory-change-primer-protecting-workers-silica-rock-dust-exposure?lang=en&direct",
+  "final_url": "https://www.worksafebc.com/en/resources/law-policy/act-amendments/regulatory-change-primer-protecting-workers-silica-rock-dust-exposure?lang=en&direct",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/wsbc-silica-primer/p0001-0002.pdf",
+      "text": "text/wsbc-silica-primer/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 59032,
+      "sha256": "ce1579624fff65208ff4f43f4f7b5486135800d772c1642b3b93e08366086f4f",
+      "text_sha256": "0cd844c72cdc5b014b821b40f04218fe2e6b40c663f146e429711b103ed639e9",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

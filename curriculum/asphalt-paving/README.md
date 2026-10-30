@@ -32,7 +32,15 @@ The six units follow A1–A6 in the SkilledTradesBC Asphalt Paving/Laydown Techn
 
 Use the [complete nine-skills books](../skills-for-success/README.md) for explicit instruction, entry routes, fresh practice, assessment records and the Digital practice desk. Their chapters teach Reading, Writing, Numeracy, Digital, Problem solving, Communication, Collaboration, Adaptability, and Creativity and innovation.
 
-## Machine parts, CAT manuals and WHMIS
+## Tools, rigging and complete source coverage
+
+[Visual tool and rigging guide](readiness/field-guide.html) · [32 tool/equipment groups](readiness/tools.html) · [All 68 competencies](readiness/coverage.html) · [Source library](readiness/index.html) · [ZIP downloads](readiness/downloads.html)
+
+The full-outline audit adds **41 PDF publications, 3,240 source pages in 161 small PDF parts, and 30 archived regulatory/guidance articles with 33 source figures**. It includes WorkSafeBC rigging and crane requirements, official hand signals, actual lute/rake/brush information, hand-tool and propane guidance, air-hammer and plate-compactor manuals, measuring equipment, Canadian nuclear-gauge requirements, cargo securement, traffic control and both 2025 highway specification volumes. Three original SVG diagrams and credited manufacturer illustrations make the tools and reading routes easier to understand.
+
+The [delivery gap register](readiness/gaps.html) distinguishes acquired context from the exact course manuals, actual fleet documents, instruments, site records and qualified review still needed. Historical outline wording is checked against current requirements without changing the original source. Use this collection before authoring the later technical units.
+
+## Machine identification and WHMIS practice
 
 [Visual parts atlas](caterpillar/parts-atlas.html) · [Search 22 CAT publications](caterpillar/index.html) · [Smaller ZIP downloads](caterpillar/downloads.html) · [WHMIS and hazard symbols](whmis/index.html)
 

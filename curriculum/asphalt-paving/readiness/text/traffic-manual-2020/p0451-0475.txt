@@ -1,0 +1,846 @@
+=== SOURCE PDF PAGE 451 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+             PART B – TRAFFIC CONTROL
+
+      Section 14:  Traffic Control Layouts – Pavement Marking
+                           Contents
+
+       Legend, Table A, and Table B .............................................................................. 14-1
+
+       14.1   General Information ................................................................................. 14-2
+
+       14.2   Quick-Dry Long-Line Marking ................................................................. 14-4
+              Two-Lane, Two-Way Roadway – Short and Long Duration
+
+       14.3   Quick-Dry Long-Line Marking – Right Lane .......................................... 14-8
+                Multilane Roadway – Short and Long Duration
+
+       14.4   Quick-Dry Long-Line Marking – Left Lane ........................................... 14-10
+                Multilane Roadway (Median ≥ 1 m) – Short and Long Duration
+
+       14.5   Quick-Dry Long-Line Marking – Left Lane ........................................... 14-12
+                Multilane Roadway (Median < 1 m, Right Shoulder ≥ 2 m)
+             – Short and Long Duration
+
+       14.6   Quick-Dry Long-Line Marking – Left Lane ........................................... 14-14
+                Multilane Roadway (Median < 1 m, Right Shoulder < 2 m)
+             – Short and Long Duration
+
+       14.7   Conventional Long-Line Centreline and White Line Marking ............ 14-16
+              Two-Lane, Two-Way Roadway – Short and Long Duration
+
+       14.8   Conventional Long-Line Marking ......................................................... 14-18
+                Multilane Roadway – Short and Long Duration
+
+       14.9   Left-Turn Arrow Marking ........................................................................ 14-20
+             – Short and Long Duration
+
+       14.10  Stop Line and Crosswalk Marking – Left Lanes .................................. 14-22
+             – Multilane Roadway – Short and Long Duration
+
+       14.11  Stop Line and Crosswalk Marking – Right Lanes ............................... 14-24
+             – Multilane Roadway – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                         14-i
+
+=== SOURCE PDF PAGE 452 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+                                 This page is intentionally blank.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                           14-ii
+
+=== SOURCE PDF PAGE 453 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+             PART B – TRAFFIC CONTROL
+
+      Section 14:  Traffic Control Layouts – Pavement Marking
+
+
+
+
+
+                    TABLE A — TAPER LENGTHS
+                                                Regular Posted Speed Limit (km/h)
+           Taper Types (m)
+                                     ≤50    60     70     80     90    100    110    120
+  Merge Taper Length            LM     35     55    160    190    210    230    250    280
+  Lane Shift Taper Length           LL     30     50     80    100    110    120    130    140
+  Downstream Taper Length        LD     30     30     30     30     30     30     30     30
+  TCP, Signal, and Shoulder                                  LS     5      8     15     15     15     15     15     15  Taper Length (min. 5 devices)
+  Minimum Tangent Length                                   LT     30     60    160    190    210    230    250    280  between Tapers
+  Run-In Length on Centreline      LR     40     50     60     60     70     80     90    100
+
+                TABLE B — DEVICE SPACING LENGTHS
+                                                Regular Posted Speed Limit (km/h)
+          Device Spacing (m)
+                                     ≤50    60     70     80     90    100    110    120
+   Construction Sign Spacing      A     40     60     80    100    150    150    200    200
+   Buffer Space               B     30     40     60     80    110    140    170    200
+   Roll-Ahead Buffer Distance     R     30     30     40     40     40     50     50     50
+   Channelizing Device Spacing                        C     10     10     15     15     15     15     15     15   for Tapers
+   Channelizing Device Spacing                        D     10     10     30     30     40     40     40     50  on Curves and Tangents
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-1
+
+=== SOURCE PDF PAGE 454 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+14.1  General Information - Pavement Marking
+
+   1.   For the purposes of this Manual, pavement marking is considered to be either conventional or
+        quick-dry pavement marking:
+        •   Conventional Pavement Marking: When the drying time is 5 minutes or more after
+            the passing of the paint truck and shadow vehicle, and where vehicles could track paint
+            onto the roadway upon contact with it, it is necessary to implement advance warning
+           signage and protection of the painted area until the paint is set. This involves using
+             signs, cones, barricades, closures, and/or other traffic control devices.
+        •   Quick-Dry Pavement Marking: Quick-dry painting is a continuously-moving operation
+          and differs from conventional longitudinal line painting by using dynamic message signs
+          (DMS) on shadow vehicles to inform drivers that painting is in progress along the
+           roadway. When the drying time is 90 seconds or less after the passing of the paint truck
+          and shadow vehicle, the paint is set to a point where vehicles will not track paint onto the
+           roadway upon contact with it.
+   2.  Note that these two terms refer to the set time of the paint, not to two different applications.
+        Paint that sets more slowly can typically be protected until it dries, while paint that sets more
+        quickly may not require the same protection. For traffic control purposes, the determining
+         factor is whether or not the paint will be tracked onto the roadway if vehicles come into
+        contact with the freshly painted line.
+   3.  The set time of the paint is determined by the composition of the paint and the condition and
+       temperature of the surface and the air. Some paints that dry quickly under ideal conditions
+      may no longer be “quick-dry” paints when used in less than ideal conditions.  If the paint’s set
+        time is prolonged for any reason, it can be treated as “conventional” paint that requires
+       advance warning signage and protection of the freshly painted surface.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-2
+
+=== SOURCE PDF PAGE 455 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+The traffic control layouts are considered the minimum standard. The associated text description of
+each figure highlights the key standards as well as guidance and options that can be considered by
+the user. The following information is typical on most layouts in this section:
+
+Standard:
+   •     All static signs and dynamic message signs (DMS) shall be visible to drivers when painting is
+         in progress.
+   •     All work vehicles require two 360-degree flashing lights when painting the centreline or
+       working at night.
+   •   Constant communication is required between all Vehicle Operators.
+   •    Stationary construction signs and cones are not required for quick-dry marking.
+   •   Escort Vehicle Requirements:
+           -   360-degree flashing light and 4-way flashers
+           -    caution pattern or arrow on sequential arrow board
+           -   dynamic message sign (DMS)
+           -   Slow Moving Vehicle C-036 sign
+           -    Caution – Paint Spray Truck Ahead C-043 sign
+           -   Pass This Side C-042-L sign
+   •   Paint Truck Requirements:
+           -   360-degree flashing light and 4-way flashers
+           -    caution pattern or arrow on sequential arrow board
+           -   Wet Paint C-037-1 sign
+           -   Slow Moving Vehicle C-036 sign
+           -   Wet Paint – Keep Off C-037-2 sign
+   •   Shadow Vehicle #1 Requirements:
+           -   360-degree flashing light and 4-way flashers
+           -    caution pattern or arrow on sequential arrow board
+           -   dynamic message sign (DMS)
+           -   Slow Moving Vehicle C-036 sign
+           -   Wet Paint – Keep Off C-037-2 sign
+           -    truck-mounted crash attenuator for speeds ≥ 70 km/h
+   •   Shadow Vehicle #2 Requirements:
+           -   360-degree flashing light and 4-way flashers
+           -    caution pattern or arrow on sequential arrow board
+           -   dynamic message sign (DMS)
+           -   Slow Moving Vehicle C-036 sign
+Guidance:
+   •   None at this time.
+Options:
+   •   A crash attenuator may be added to Shadow Vehicle #2.
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-3
+
+=== SOURCE PDF PAGE 456 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.2  Quick-Dry Long-Line Marking – Two-Lane, Two-Way Roadway
+      – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for quick-dry long-line marking on a two-lane, two-way roadway.
+
+
+Standard:
+
+Two-Lane, Two-Way Roadway – Passing NOT Permitted:
+
+   Escort Operations:
+        •   The Escort Vehicle is positioned 200 to 500 meters in front of the Paint Truck, depending
+          on traffic volumes and sight conditions.
+        •   The DMS display shall be visible to oncoming traffic.  It may be:
+                   -    caution pattern
+                   -    Line Painting … Ahead
+                   -    Line Painting … Slow Down
+        •   The Escort Vehicle Operator shall have a STOP/SLOW TCP C-027 paddle for
+           emergencies.
+   Shadow Vehicle #1 Operations:
+        •   Shadow Vehicle #1 follows the Paint Truck at a distance of 200 to 400 metres,
+           depending on sight distances and paint drying times.
+        •   The DMS shall display one these messages:
+                   -    Line Painting … No Passing
+                   -   Wet Paint … No Passing
+   Shadow Vehicle #2 Operations:
+        •   Shadow Vehicle #2 follows the paint operation at a distance of approximately
+          1 kilometre, depending on sight distances, travelling on the shoulder where possible.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -    caution pattern
+                   -    Line Painting … Ahead
+                   -    Line Painting … 1 km Ahead
+                   -    Line Painting … Next 1 km
+                   -   Wet Paint … Next 1 km
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-4
+
+=== SOURCE PDF PAGE 457 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+   Two-Lane, Two-Way Roadway – Controlled Passing Opportunities:
+
+   Escort Vehicle Operations:
+        •   The Escort Vehicle should be stopped as close as possible to the centreline—but not
+             straddling it—and have good visibility to oncoming traffic.
+        •  When controlled passing is not occurring, the Escort Vehicle Operator shall display these
+          messages on the DMS:
+                   -    Line Painting … Ahead
+                   -    Line Painting … Slow Down
+        •   Upon notification, the Escort Vehicle Operator shall evaluate sight distances and traffic
+             conditions before initiating controlled passing.
+        •      If conditions are satisfactory for controlled passing, the Escort Vehicle Operator shall
+             display STOP on the DMS.
+        •   The Escort Vehicle Operator shall ensure that all vehicles have complied with the STOP
+          message before allowing the paint operation to be passed.
+        •   The Escort Vehicle Operator shall continue to hold stopped traffic until the last vehicle in
+            the passing procession (as described by Shadow Vehicle #1 Operator) has cleared the
+           work zone.
+        •   The Escort Vehicle Operator shall notify the Shadow Vehicle #1 Operator that passing is
+            complete.
+   Shadow Vehicle #1 Operations:
+        •  When passing is required, the Shadow Vehicle #1 Operator shall communicate
+          a passing request to the Escort Vehicle Operator and wait for notification that oncoming
+                traffic is stopped.
+        •  When it is safe to pass, the DMS display shall be changed to:
+                   -    Line Painting … Pass on Left
+                   -   Wet Paint … Pass on Left
+        •   The Shadow Vehicle #1 Operator shall provide a description of the last vehicle in the
+            passing procession to the Escort Vehicle Operator.
+        •   Once the last vehicle has passed, the DMS display shall be changed to:
+                   -    Line Painting … No Passing
+                   -   Wet Paint … No Passing
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-5
+
+=== SOURCE PDF PAGE 458 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+   Shadow Vehicle #2 Operations:
+        •  On a two-lane roadway, Shadow Vehicle #2 assumes the buffer position.
+        •  On a highway with a 3-metre shoulder, Shadow Vehicle #2 shall be driven along the right
+           shoulder—not straddling the edge line—and follow the Paint Truck at a distance of
+            approximately 1 kilometre.
+        •      If the shoulder is too narrow, Shadow Vehicle #2 shall travel leap-frog fashion from
+           approach to approach, parking parallel to the highway when stopping, keeping the signs
+          and DMS visible to approaching traffic, and maintaining the approximate 1 kilometre
+            distance behind the Paint Truck.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -    caution pattern
+                   -    Line Painting … Ahead/Next 1 km
+                   -   Wet Painting … 1 km Ahead/ Next 1 km
+
+Guidance:
+
+   •   The separation distance between the Paint Truck and Shadow Vehicle #1 should be
+       determined by the set time (track-free time) of the pavement-marking paint.
+   •    Sight distances and traffic volumes should be taken into consideration when choosing areas
+         for controlled passing.
+   •    Controlled passing of the painting operation requires effective communication and
+       coordinated traffic control between the Escort Vehicle and Shadow Vehicle #1 Operators.
+   •    Ideally, traffic will pass Shadow Vehicle #1 and the Paint Truck at the same time.
+   •   When traffic volumes are excessive and the passing procession is large, the Paint Truck may
+       have to stop the painting operation until the procession has passed completely. This will also
+        help to reduce the required length of the passing zone.
+   •   When a wide load or emergency vehicle is approaching the painting operation, all
+        Vehicle Operators should be alerted so that they may take appropriate action.
+
+Options:
+
+   •   None at this time.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-6
+
+=== SOURCE PDF PAGE 459 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+         Figure 14.2: Quick-Dry Long-Line Marking – Two-Lane, Two-Way Roadway
+                    – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-7
+
+=== SOURCE PDF PAGE 460 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.3  Quick-Dry Long-Line Marking – Right Lane – Multilane Roadway
+      – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for quick-dry long-line marking on the right lane of a divided or
+undivided multilane roadway.
+
+Standard:
+
+ Shadow Vehicle #1 Operations:
+        •   Shadow Vehicle #1 shall travel in the same lane as the Paint Truck, following at
+          a distance of 50 to 200 metres, depending on sight distance and traffic volumes.  (It may
+          have to be closer to the Paint Truck to prevent vehicles from entering the gap between
+            the two vehicles, with consideration given to the amount of set time required for the
+              paint.)
+        •   The DMS messaging may be:
+                   -     left chevron
+                   -   Wet Paint … Keep Left
+                   -    Line Painting … Keep Left
+ Shadow Vehicle #2 Operations:
+        •   Shadow Vehicle #2 shall travel on the right shoulder—not straddling the edge line—and
+             follow the Paint Truck at a distance of approximately 1 kilometre.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -     left chevron
+                   -    Line Painting … Keep Left
+                   -    Line Painting … Merge Left
+
+Guidance:
+
+   •   The distance between the Paint Truck and Shadow Vehicle #1 should be determined by the
+        set time (track-free time) of the pavement-marking paint.
+
+Options:
+
+   •   When traffic volumes are high, a third shadow vehicle may be positioned between the Paint
+       Truck and Shadow Vehicle #1.  It should follow the Paint Truck at a distance of 50 to 200
+       metres, followed by Shadow Vehicle #1 at a distance of 200 to 300 metres. The DMS
+       messaging on the third shadow vehicle may be:
+           -   Wet Paint … Keep Left
+           -    Line Painting … Keep Left
+   •   The third shadow vehicle may be the Escort Vehicle with the DMS repositioned to be rear-
+        facing so that the message is visible to rear-approaching traffic.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-8
+
+=== SOURCE PDF PAGE 461 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+        Figure 14.3: Quick-Dry Long-Line Marking – Right Lane – Multilane Roadway
+                   – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                    14-9
+
+=== SOURCE PDF PAGE 462 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.4  Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway
+      (Median ≥ 1 m) – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for quick-dry long-line marking on the left lane of a multilane
+roadway when the centre median is ≥ 1 metre wide.
+
+Standard:
+
+  Shadow Vehicle #1 Operations:
+        •   Shadow Vehicle #1 shall travel in the same lane as the Paint Truck, following at
+          a distance of 50 to 200 metres, depending on sight distance and traffic volumes.  (It may
+          have to be closer to the Paint Truck to prevent vehicles from entering the gap between
+            the two vehicles, with consideration given to the amount of set time required for the
+              paint.)
+        •   The DMS messaging may be:
+                   -    right chevron
+                   -   Wet Paint … Keep Right
+                   -    Line Painting … Keep Right
+  Shadow Vehicle #2 Operations:
+        •   Shadow Vehicle #2 shall travel as far left as practicable, following the Paint Truck at a
+            distance of approximately 1 kilometre.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -    right chevron
+                   -    Line Painting … Keep Right
+                   -    Line Painting … Merge Right
+
+Guidance:
+
+   •   The distance between the Paint Truck and Shadow Vehicle #1 should be determined by the
+        set time (track-free time) of the pavement-marking paint.
+
+Options:
+
+   •   When traffic volumes are high, a third shadow vehicle may be positioned between the Paint
+       Truck and Shadow Vehicle #1.  It should follow the Paint Truck at a distance of 50 to 200
+       metres, followed by Shadow Vehicle #1 at a distance of 200 to 300 metres. The DMS on the
+         third shadow vehicle may display one of these messages:
+           -   Wet Paint … Keep Right
+           -    Line Painting … Keep Right
+   •   The third shadow vehicle may be the Escort Vehicle with the DMS repositioned to be rear
+        facing so that the message is visible to rear-approaching traffic.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-10
+
+=== SOURCE PDF PAGE 463 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+   Figure 14.4 Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway (Median ≥ 1 m)
+             – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-11
+
+=== SOURCE PDF PAGE 464 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.5  Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway
+      (Median < 1 m, Right Shoulder ≥ 2 m) – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for quick-dry long-line marking on the left lane of a multilane
+roadway when the centre median width < 1 metre wide and the right shoulder is ≥ 2 metres wide.
+
+Standard:
+
+ Shadow Vehicle #1 Operations:
+        •   Shadow Vehicle #1 shall travel in the same lane as the Paint Truck, following at
+          a distance of 50 to 200 metres, depending on sight distance and traffic volumes.  (It may
+          have to be closer to the Paint Truck to prevent vehicles from entering the gap between
+            the two vehicles, with consideration given to the amount of set time required for the
+              paint.)
+        •   The DMS messaging may be:
+                   -    right chevron
+                   -   Wet Paint … Keep Right
+                   -    Line Painting … Keep Right
+ Shadow Vehicle #2 Operations:
+        •   Shadow Vehicle #2 shall travel as far right as practicable on the right shoulder, following
+            the Paint Truck at a distance not exceeding 1 kilometre.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -    Caution mode
+                   -    Line Painting … Ahead
+                   -   Keep Right
+
+Guidance:
+
+   •   The distance between the Paint Truck and Shadow Vehicle #1 should be determined by the
+        set time (track-free time) of the pavement-marking paint.
+
+Options:
+
+   •   When traffic volumes are high, a third shadow vehicle may be positioned between the Paint
+       Truck and Shadow Vehicle #1.  It should follow the Paint Truck at a distance of 50 to 200
+       metres, followed by Shadow Vehicle #1 at a distance of 200 to 300 metres. The DMS on the
+         third shadow vehicle may display one of these messages:
+           -   Wet Paint … Keep Right
+           -    Line Painting … Keep Right
+   •   The third shadow vehicle may be the Escort Vehicle with the DMS repositioned to be rear-
+        facing so that the message is visible to rear-approaching traffic.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-12
+
+=== SOURCE PDF PAGE 465 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+         Figure 14.5: Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway
+                    (Median < 1 m, Right Shoulder ≥ 2 m) – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-13
+
+=== SOURCE PDF PAGE 466 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.6  Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway
+      (Median < 1 m, Right Shoulder < 2 m) – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for quick-dry long-line marking on the left lane of a multilane
+roadway when the centre median is < 1 metre wide and the right shoulder is < 2 metres wide.
+
+Standard:
+
+  Shadow Vehicle #1 Operations:
+        •   Shadow Vehicle #1 shall travel in the same lane as the Paint Truck, following at
+          a distance of 50 to 200 metres, depending on sight distance and traffic volumes.  (It may
+          have to be closer to the Paint Truck to prevent vehicles from entering the gap between
+            the two vehicles, with consideration given to the amount of set time required for the
+              paint.)
+        •   The DMS messaging may be:
+                   -    Right chevron
+                   -   Wet Paint … Keep Right
+                   -    Line Painting … Keep Right
+  Shadow Vehicle #2 Operations:
+        •   Shadow Vehicle #2 shall be outside the travel lane, either in the median or on the
+            shoulder, at a distance not exceeding 1 kilometre.
+        •   The DMS messaging is specified by the foreman, and may be:
+                   -    Right chevron
+                   -    Line Painting … Ahead
+                   -   Keep Right
+
+Guidance:
+
+   •   The distance between the Paint Truck and Shadow Vehicle #1 should be determined by the
+        set time (track-free time) of the pavement-marking paint.
+
+Options:
+
+   •   When traffic volumes are high, a third shadow vehicle may be positioned between the Paint
+       Truck and Shadow Vehicle #1.  It should follow the Paint Truck at a distance of 50 to 200
+       metres, followed by Shadow Vehicle #1 at a distance of 200 to 300 metres. The DMS on the
+         third shadow vehicle may display one of these messages:
+           -   Wet Paint … Keep Right
+           -    Line Painting … Keep Right
+   •   The third shadow vehicle may be the Escort Vehicle with the DMS repositioned to be rear-
+        facing so that the message is visible to rear-approaching traffic.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-14
+
+=== SOURCE PDF PAGE 467 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+         Figure 14.6: Quick-Dry Long-Line Marking – Left Lane – Multilane Roadway
+                    (Median < 1 m, Right Shoulder < 2 m) – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-15
+
+=== SOURCE PDF PAGE 468 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.7  Conventional Long-Line Centreline and White Line Marking
+      – Two-Lane, Two-Way Roadway – Short and Long Duration
+
+Purpose:
+
+This layout shows typical setups for two kinds of conventional long-line pavement marking along a
+two-lane, two-way roadway:
+   •    Figure 14.7 A – Centreline Marking
+   •    Figure 14.7 B – White Line Marking (Shoulder or Edge)
+
+Standard:
+
+   •   Road Marking in Progress C-041-xx signs shall be displayed at each end of the work activity
+        area. The distance between the two signs shall not exceed 10 kilometres.
+   •   The Slow Vehicles Ahead C-045-2A sign shall be positioned after the Road Marking
+         in Progress C-041-xx sign.
+   •   A Caution – Paint Spray Truck Ahead C-043 sign shall be mounted on the front of the Escort
+        Vehicle.
+   •   Both the Paint Truck and the Escort Vehicle shall have:
+           -   a Pass This Side C-042-LR sign
+           -   a 360-degree flashing light and 4-way flashers
+           -   a dynamic message sign (DMS) set to alternate between flashing arrow mode
+          and a displayed message
+   •   Constant communication is required between all Vehicle Operators.
+   •   For centreline marking, cones shall be placed on the centreline.
+   •   For shoulder line marking, cones shall be placed on the white line.
+
+Guidance:
+
+   •      If it is not practicable for drivers following the Paint Truck and Escort Vehicle to pass the
+        operation, the Paint Truck and Escort Vehicle should pull over periodically to allow these
+        vehicles to go around them.
+   •   The distance between the Escort Vehicle and the Paint Truck will vary, depending on sight
+         lines. They should be as close to each other as possible, but it may be necessary to increase
+        the space on curved roads to provide more advance warning for approaching traffic.
+
+Options:
+
+   •   The Wet Paint side of an additional Road Marking in Progress C-041-xx sign may be used
+        within the work area.
+   •   Crash attenuators may be added to the Paint Truck and/or the Escort Vehicle.
+   •      If shadow vehicles are used to supplement the operation, they shall have dynamic message
+        signs (DMS).
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-16
+
+=== SOURCE PDF PAGE 469 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+           Figure 14.7: Conventional Long-Line Centreline and White Line Marking
+                     – Two-Lane, Two-Way Roadway – Short and Long Duration
+
+          14.7 A – Centreline Marking      14.7 B – White Line Marking (Shoulder or Edge)
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-17
+
+=== SOURCE PDF PAGE 470 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.8  Conventional Long-Line Marking – Multilane Roadway
+      – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for conventional long-line pavement marking on a multilane
+roadway.
+
+The diagram shows line painting occurring in different lanes and in different directions—and the
+associated signing required for each setup—in order to illustrate that the painting operation may
+occupy either lane. The diagram does not imply a requirement to paint in both directions
+simultaneously.
+
+Standard:
+
+   •   Road Marking in Progress C-041-xx signs shall be displayed at each end of the work activity
+        area. The distance between the two signs shall not exceed 10 kilometres.
+   •   For short-duration work, a Crew Working Ahead C-004 sign is required.
+   •   For long-duration work, a Construction Ahead C-018-1A sign is required.
+   •   A Left/Right Lane Closed Ahead C-130-L/R sign with a C-130-T distance tab is required in
+       advance of a second Left/Right Lane Closed Ahead C-130-L/R sign.
+   •   Both the Paint Truck and the Shadow Vehicle require two 360-degree flashing lights when
+        painting the centreline or working at night.
+   •   Cones are required along all painted lines—on the centreline for centreline marking and on
+        the white line for shoulder line marking.
+   •   Dynamic message signs (DMS) shall be used on the Paint Truck and the Shadow Vehicle,
+        with the arrow direction indicating the direction of travel and the side on which vehicles are to
+       pass the operation.
+   •   The taper shall be delineated to prevent vehicles from driving in the working lane or pulling in
+       behind the Paint Truck.
+   •   A flashing arrow board (FAB) is required if the speed limit is ≥ 70km/h.
+   •   Constant communication is required between all Vehicle Operators.
+
+Guidance:
+
+   •    Typical spacing between the Paint Truck and the Shadow Vehicle is 100 to 200 metres.
+
+Options:
+
+   •      If the speed limit is ≤ 60 km/h, a Lane Closure Arrow C-053 sign may replace the flashing
+       arrow board (FAB) in the lane taper.
+   •   The dynamic message signs (DMS) on top of the Paint Truck and Shadow Vehicle may
+      be replaced with flashing arrow boards (FABs).
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-18
+
+=== SOURCE PDF PAGE 471 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+             Figure 14.8: Conventional Long-Line Marking – Multilane Roadway
+                       – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-19
+
+=== SOURCE PDF PAGE 472 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.9   Left-Turn Arrow Marking – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for marking left-turn arrows at an intersection.
+
+If the intersection requiring work is not depicted in the diagram, see the layouts in Section 11: Traffic
+Control Layouts – Intersections.
+
+Standard:
+
+   •   Road Marking in Progress C-041-xx signs shall be displayed at each end of the work activity
+        area. The distance between the two signs shall not exceed 10 kilometres.
+   •   For short-duration work, a Crew Working Ahead C-004 sign is required.
+   •   For long-duration work, a Construction Ahead C-018-1A sign is required.
+   •   When the speed limit is ≥ 70 km/h, a vehicle with a flashing arrow board (FAB) or a
+       360-degree flashing light and 4-way flashers shall be stationed within the upstream island.
+
+Guidance:
+
+   •   A work vehicle can be parked on the left-turn loop to activate the left-turn phase of the traffic
+        signal and help to keep vehicles moving in the now-shared through/left-turn lane.  If it is
+       parked there for an extended time, the controller may stop activating the left-turn phase so
+         this should be monitored and adjustments made to the setup or traffic control as appropriate.
+   •      If the work allows, keeping a portion of the left-turn slot open near the intersection
+      may provide room for vehicles to make left turns.
+
+Options:
+
+   •   The flashing arrow board (FAB) may be replaced as shown below.
+       Speed Limit   Workers or Work Vehicles Present   No Workers or Vehicles Present
+                                                                 Barricade and Type A yellow         ≤ 60 km/h    360° flashing light and 4-way flashers.                                                                     warning light.
+         ≥ 70 km/h                        No substitution.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-20
+
+=== SOURCE PDF PAGE 473 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+              Figure 14.9: Left-Turn Arrow Marking – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-21
+
+=== SOURCE PDF PAGE 474 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+14.10 Stop Line and Crosswalk Marking – Left Lanes – Multilane Roadway
+      – Short and Long Duration
+
+Purpose:
+
+This layout shows the typical setup for marking stop lines and crosswalks in left lanes at an
+intersection.
+
+For multilane intersections, this is usually done in stages, with the inner lane marking done separately
+from the outer lane marking to minimize disruption to traffic.
+
+If the intersection requiring work is not depicted in the diagram, see the layouts in Section 11: Traffic
+Control Layouts – Intersections.
+
+Standard:
+
+   •   For short-duration work, a Crew Working Ahead C-004 sign is required.
+   •   For long-duration work, a Construction Ahead C-018-1A sign is required.
+   •   A Left Lane Closed Ahead C-130-L sign with a C-130-T distance tab is required in advance of
+      a second Left Lane Closed Ahead C-130-L sign.
+   •    Flashing arrow boards (FABs) shall be used inside all lane closure tapers.
+   •      If the speed limit is ≥ 70 km/h, a buffer space shall be used.
+
+Guidance:
+
+   •   To maintain traffic flow, it may be necessary to restrict turning movements at the intersection
+           (i.e., prohibit left and/or right turns using Turn Control R-015-L/R signs).
+   •   A buffer vehicle with a 360-degree light and 4-way flashers should be used when workers are
+      on the roadway.
+   •   Depending on the route and traffic volumes, it may be preferable to implement a single lane
+        closure (as opposed to the two closures shown in the diagram).
+   •   When a buffer space is provided, it may be less than the length specified in Table B – Device
+       Spacing Lengths if space is limited and the adaptation is approved by the Road Authority.
+
+Options:
+
+   •   A Road Marking in Progress C-041-xx sign may be used in advance of the work.
+   •   For low-volume, low-speed (≤ 60 km/h) roadways:
+           -   A Lane Closure Arrow C-053 sign may replace the flashing arrow board (FAB).
+           -   The advance lane drop sign and tab may be removed, and the Crew Working Ahead C-
+          004 sign moved upstream by Table B Distance A.
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-22
+
+=== SOURCE PDF PAGE 475 ===
+Section 14: Traffic Control Layouts – Pavement Marking
+
+
+      Figure 14.10: Stop Line and Crosswalk Marking – Left Lanes – Multilane Roadway
+                  – Short and Long Duration
+
+
+
+
+
+Traffic Management Manual for Work on Roadways                2020                  14-23
+

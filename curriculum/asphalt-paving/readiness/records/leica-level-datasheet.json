@@ -1,0 +1,34 @@
+{
+  "id": "leica-level-datasheet",
+  "slug": "leica-level-datasheet",
+  "title": "Leica NA700 Series Automatic Levels: Technical Data",
+  "author": "Leica Geosystems",
+  "edition": "n.d.",
+  "category": "measurement",
+  "scope": "Actual model specifications; not a calibration certificate or complete field operating procedure.",
+  "kind": "pdf",
+  "download_filename": "leica-level-datasheet.raw",
+  "original_pages": 1,
+  "original_sha256": "40028f5b390f08c46eb4f4af6b680d861646fb8442bda26661328d34873cbca0",
+  "original_bytes": 174036,
+  "source_url": "https://leica-geosystems.com/-/media/files/leicageosystems/products/datasheets/leica_na700_levels_ds.pdf?sc_lang=en&hash=9945C76A9BA336FAA05487B42FBA8622",
+  "final_url": "https://leica-geosystems.com/-/media/files/leicageosystems/products/datasheets/leica_na700_levels_ds.pdf?sc_lang=en&hash=9945C76A9BA336FAA05487B42FBA8622",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/leica-level-datasheet/p0001-0001.pdf",
+      "text": "text/leica-level-datasheet/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 174036,
+      "sha256": "40028f5b390f08c46eb4f4af6b680d861646fb8442bda26661328d34873cbca0",
+      "text_sha256": "6a796c9cc94d480d078ae419589823a367d0652c98f02ba64e1835ca19fbdb3f",
+      "empty_text_source_pages": [
+        1
+      ],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

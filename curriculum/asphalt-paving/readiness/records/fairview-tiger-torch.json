@@ -1,0 +1,34 @@
+{
+  "id": "fairview-tiger-torch",
+  "slug": "fairview-tiger-torch",
+  "title": "Operating Instruction and Safety Procedures: Models 95-B and 445",
+  "author": "Tiger Torch Ltd.",
+  "edition": "n.d.; Fairview-hosted sheet",
+  "category": "fuel",
+  "scope": "Complete bilingual image-only instruction sheet. Source wording and model limits retained; qualified fuel/hot-work procedures are still required.",
+  "kind": "pdf",
+  "download_filename": "fairview-tiger-torch.raw",
+  "original_pages": 1,
+  "original_sha256": "76a7c2356f3b80dc3c162868849638e3cdbde655ed8f4a1c8c06c45b4abf93c7",
+  "original_bytes": 5437320,
+  "source_url": "https://fairview.inc/media/itm/magb1/Productfiles/T445/1770536080_IDS%20(T445%20&%20T95-B).pdf",
+  "final_url": "https://fairview.inc/media/itm/magb1/Productfiles/T445/1770536080_IDS%20(T445%20&%20T95-B).pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/fairview-tiger-torch/p0001-0001.pdf",
+      "text": "text/fairview-tiger-torch/p0001-0001.txt",
+      "start": 1,
+      "end": 1,
+      "pages": 1,
+      "bytes": 5437320,
+      "sha256": "76a7c2356f3b80dc3c162868849638e3cdbde655ed8f4a1c8c06c45b4abf93c7",
+      "text_sha256": "6a796c9cc94d480d078ae419589823a367d0652c98f02ba64e1835ca19fbdb3f",
+      "empty_text_source_pages": [
+        1
+      ],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

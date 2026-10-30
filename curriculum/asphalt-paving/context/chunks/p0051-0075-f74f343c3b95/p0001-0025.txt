@@ -1,0 +1,1025 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/niosh-milling/p0051-0075.pdf
+SOURCE SHA-256: f74f343c3b9520369b9f19319252a4d6eb8b96e089c7263a9dc6363c0040c0c4
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+Table B-2: Example data for one day at five sites
+
+                                     Ground person silica                ln (ground person
+ Site            Day                 concentration (mg/m3)               silica concentration)
+         1               1                        0.005                            -5.298
+         2               1                        0.012                            -4.423
+         3               1                        0.010                            -4.605
+         4               1                        0.008                            -4.828
+         5               1                        0.006                            -5.116
+                                    =mean(sites)=                                  -4.854
+                             =standard deviation(sites)=                            0.359
+                          df1=Degrees of freedom=nsites-1                             4
+
+
+From equation (B-3), UCL2 = Term1 + sqrt (Term2 + Term3).
+Where:
+
+        Term1=                    -4.854 + 0.5 x 0.3592 = -4.789.
+
+        Term2=                           = (0.359 × 2.1318/sqrt(5))2 = 0.1169, where 2.1318 is the 95th
+
+
+        percentile of the t distribution with 4 degrees of freedom.
+
+        Term3=                                       =0.25×0.3594×(4/0.7107- 1)2=0.0886, where 0.7107 is
+
+
+        the 5th percentile of the chi square distribution with 4 degrees of freedom.
+
+Finally, UCL2 = (-4.789 + sqrt(0.1169+0.0886)) = -4.335 and UCLM = eUCL2 = exp(-4.335) = 0.0131
+< 0.05 mg/m3.
+
+Thus, at the 95% confidence level, it can be concluded that the exposures for the job category are
+less than the NIOSH REL of 0.05 mg/m3 for the data in this example. The corresponding upper
+confidence limit for the operator is 0.024 mg/m3, as shown in the example worksheet, to which the
+same conclusion applies. Thus, these conclusions apply to the population of sites from which the
+sample sites were drawn, with 95% confidence for each job category, or 90% overall confidence for
+both job categories (operator and ground person) for the example data.
+
+Study Design Considerations
+Important issues are the choice of strategy 1 or strategy 2, and, for either strategy, the number
+of sites to select. Given the cost associated with moving the milling machine to each site, using
+fewer sites may result in cost savings for the testing. Using too few sites, however, could result in
+low statistical power, which is the probability of correctly identifying an arithmetic mean below
+the occupational exposure limit. For the purposes of this document this is the probability that
+the 95% upper confidence limit is less than the NIOSH REL of 0.05 mg/m3. General guidelines
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   43
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+for choosing the sampling strategy were provided in Appendix B. More detailed calculations for
+     determining sampling strategy are provided here.
+
+     Tables C-2, C-5, and C-6 in Appendix C give the power (estimated using statistical simulation)
+     for various geometric means (GMs) and geometric standard deviations (GSDs). Table C-2 is
+     for strategy 2, one day at each site; Table C-5 is for strategy 1, three days at each site. The GMs
+     considered are 0.006, 0.01, and 0.025 mg/m3 (all less than the NIOSH REL). The 0.006 mg/m3
+     value is based on two past studies [NIOSH 2013a,b]; the 0.025 mg/m3 value was added to see how
+     large the GM can be and still have sizable power. The total GSDs from past studies varied between
+     about 1.7 and 1.9 [NIOSH 2013a,b]; Table C-5 shows power results for total GSD 1.92, and Table
+     C-6 shows results for a wider range of total GSDs, but only for GMs 0.006 and 0.01 mg/m3.
+
+     The results in the Appendix C tables indicate that if the between-site variance is much larger than
+     the within-site variance, little is gained in terms of power by sampling more than one day at each
+     site. For example, for a GM of 0.006 mg/m3 and a total GSD of 1.92, the power of strategy 2 (Table
+     C-2) with 5 sites is 82.2% whereas the power of strategy 1 with 5 sites when most of the variability
+     is between-sites is 84.7% (Table C-5). Thus strategy 2 is preferable because there is no real benefit
+     to the extra work of collecting three days of data at each site. However, if the within-site variance
+     is larger than the between-site variance, then sampling more than one day at each site will increase
+     the study power (e.g., for a GM of 0.025 mg/m3 and a total GSD of 1.92, the power of strategy 2
+     with 5 sites is 23.0% (Table C-2), but increasing the number of sampling days at each site from 1 to
+     3 increases the study power to around 48% when most of the variability is within-site (Table C-5)).
+     Thus, strategy 1 would be preferred over strategy 2 for this example. This is a general conclusion
+     of the effect of large versus small between-site variance that applies whenever the comparison
+     between strategies is made for the same number of sites for the two strategies. The problem is that
+     there is no way to know whether between or within- site variance is larger without collecting data,
+     and, it is expensive to do a preliminary study to provide information about this question.
+
+     Based on the data available in two NIOSH reports [NIOSH 2013a,b] the recommendation is to use
+     one of the following options:
+
+     Strategy 1: Use four sites, with three days per site. From Table C-6, for a total GSD of about 1.92,
+     the power is between 66% and 94% for a GM of 0.006 mg/m3. From two past NIOSH reports,
+     0.006 mg/m3 is an attainable value [NIOSH 2013a,b]. If the GSD is about 2.25, the power is
+     between 46% and 79% for GM 0.006 mg/m3. For each interval, as explained above, the lower
+     values (66% and 46%) are at the highest between-site variance shown.
+
+     Strategy 2: Use five sites, with one day per site. For GSD of about 1.9, the power is 82% and for
+     GSD 2.25 the power is 61%, both for GM 0.006 mg/m3 (Table C-2).
+
+     Both strategies offer reasonably high power (minimum close to 50% and maximum at least 80%)
+     even if the total GSD is somewhat larger than that observed in past studies (GSD 1.92). Because of
+     limited information about the between-site variance, there is no way to know beforehand which
+     design is preferable. If the GM is 0.01 mg/m3, for GSD 1.92, both strategies still have at least 50%
+     power.
+
+
+
+44   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+If the strategy 1 and 2 options above are impractical, there is an option with less power:
+
+Strategy 1, 3 sites: Use three sites, with three days per site, with the understanding that although
+this design lacks power, it could still work under some conditions. The power is between 39% and
+67% for a GSD of 1.92 and a GM of 0.006 mg/m3 and between 28% and 49% for a GSD of 2.25
+and GM of 0.006 mg/m3 (Table C-6). The lower values are at larger between-site variance and the
+higher values are at lower between-site variance. Note that this is clearly inferior in power to the
+four site strategy 1 design results given above.
+
+These recommendations are based on the observation that the total GSD from two past studies
+did not exceed 1.9 [NIOSH 2013a,b]. It is possible that future studies could result in larger GSDs
+that would require more sites to offer sufficient power, under either strategy, but this can only be
+determined when future results are obtained. If GMs are low, for example 0.01 mg/m3 or less, but
+the upper confidence limits exceed the REL, this indicates lack of sufficient statistical power for
+the obtained GSDs. The power results in Tables C-2 and C-6 can help determine the number of
+sites required in a follow-up study to achieve adequate power for some larger GSDs. Note that
+it is imperative to decide beforehand on the sample size and not change the sampling plan after
+starting to collect and analyze data. Thus, if after collection of data it seems that more sites should
+have been sampled, a new study must be done using the revised number of sites.
+
+Additional Comments
+    1. During data analysis, there may be situations where a sample value is missing (due to a
+       sampling problem), unknown (perhaps because the sample determination is less than the
+       limit of detection), or determined to be an outlier. When a sample is missing because of a
+       sampling problem or excluded as an outlier the MOVER method can be used without the
+       missing (or excluded) sample result. When a measurement is unknown because the deter-
+       mination is less than the limit of detection (LOD), a choice must be made among the fol-
+       lowing substitution procedures. It is not appropriate to exclude the unknown measurement
+       in this case. If there is more than one value below the LOD, a statistician should be con-
+       sulted; however, when there is just one such value, a simple method is to replace a single
+       value below the LOD with the limit of detection divided by the square root of 2 [Hornung
+       and Reed 1990].
+    2. The statistical methods proposed here work best if a) the same individual does the job at
+       each site or b) different workers do the job at different sites. This applies for both the opera-
+       tor and ground person. If other arrangements are used, a statistician should be consulted.
+    3. The Excel worksheets in the spreadsheet “mover_upper_confidence_limits.xlsx” are pro-
+       vided so that the users of this document can enter their data into the appropriate sheet, and
+       obtain 95% upper confidence limits for the arithmetic means of their data. See Appendix D
+       for directions for using the spreadsheet.
+    4. The Silica/Asphalt Milling Machine Partnership recommends that asphalt milling machine
+       manufacturers implement dust controls capable of reducing worker exposures below the
+       NIOSH REL for respirable crystalline silica of 0.05 mg/m3 at the 95% confidence level.
+       Several asphalt milling machine manufacturers have also developed their dust controls to
+       reduce worker exposures below the ACGIH TLV value for respirable crystalline silica of
+       0.025 mg/m3. The upper confidence limits provided in this document and in the spread-
+       sheet can be used for comparison to either occupational exposure limit.
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   45
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+5. In the methods presented here, each job category is evaluated separately, so that the results
+            apply individually at the 95% confidence level and for both job categories with about 90%
+            confidence.
+         6. Field data may include outliers. There are statistical methods for identifying outliers. Table
+            B-3 contains 99% limits for the Grubbs statistic for a single upper outlier. For the natural
+            log scale data, the calculated value
+            g = [(maximum- mean)/ standard deviation]
+            should be compared to the applicable Grubbs statistic, and if the value exceeds the 99%
+            value in Table B-3, that data point could be removed. However, it is always important to
+            have a reason based on some peculiarity of the particular sample to justify removing the
+            data point. The formula can be used as follows:
+                 a) For either sampling strategy 1 or 2, the value of n should be the number
+                    of sites. For sampling strategy 1 the “maximum” is the largest site mean,
+                    the “mean” is the mean (site means), and the “standard deviation’ is the
+                    standard deviation (site means). For sampling strategy 2 the “maximum” is
+                    the largest site measurement, the “mean” is the mean(sites) and the “standard
+                    deviation” is the standard deviation(sites). For example, from Table B-2, the
+                    maximum log scale site measurement is (-4.423) where n=5 and g=(-4.423-
+                    (-4.854))/0.359=1.201. From Table B-3 the 99th percentile of the Grubbs
+                    statistic for n=5 is 1.75. Because 1.201 < 1.75, there is no reason to consider
+                    the largest measurement to be an outlier.
+
+                 b) For sampling strategy 1, an additional use of the formula can be made for
+                    evaluation at a particular site where n=the number of days at the site=3. The
+                    “maximum” is the largest measurement for the site, the “mean” is the mean
+                    for the site, and the “standard deviation” is the standard deviation for the
+                    site. If multiple sites are tested, this application should only be performed in
+                    consultation with a statistician, because of complications that involve use of
+                    multiple tests.
+
+                 c) The g test can be performed with either the maximum or the minimum,
+                    whichever is considered a possible outlier. Use of the minimum will result in
+                    a negative value. To determine whether the minimum is a possible outlier,
+                    change the sign to positive and compare to the value in Table B-3 for the
+                    given n value.
+
+
+
+
+46   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+Table B-3. 99% values for Grubbs test for a single upper outlier. [Barnett and Lewis 1978]
+
+                  n*              99% value
+                   3                  1.15
+                   4                  1.49
+                   5                  1.75
+                   6                  1.94
+                   7                  2.10
+
+* For sampling strategy 1, “n” = nsites when determining if a site mean is an outlier compared to the
+other site means and “n” = ndays when determining if a within-site test result is an outlier compared
+to other site-specific results. For sampling strategy 2, “n” = nsites.
+
+References
+Barnett V, and Lewis T [1978]. Outliers in statistical data. New York: Wiley, p. 298.
+
+Hornung R, Reed L [1990]. Estimation of average concentration in the presence of nondetectable
+values. Appl Occup Environ Hyg 5(1):46–51.
+
+NIOSH [1998]. Particulates not otherwise regulated, respirable. In: Schlecht PC, O’Connor PF,
+eds. NIOSH manual of analytical methods (NMAM). 4th ed. 2nd supplement. Cincinnati, OH: U.S.
+Department of Health and Human Services, Centers for Disease Control and Prevention, National
+Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 98-119.
+
+NIOSH [2003]. Silica, crystalline, by XRD (filter redeposition). In: Schlecht PC, O’Connor PF, eds.
+NIOSH manual of analytical methods (NMAM). 4th ed. 3rd supplement. Cincinnati, OH: U.S.
+Department of Health and Human Services, Centers for Disease Control and Prevention, National
+Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 2003-154.
+
+NIOSH [2013a]. Control technology for crystalline silica exposure during pavement milling using
+a Roadtec milling machine equipped with a local exhaust ventilation system. By Hammond DR,
+Shulman SA Cincinnati, OH: U.S. Department of Health and Human Services, Centers for Disease
+Control and Prevention, National Institute for Occupational Safety and Health, EPHB Report No.
+282-25a [http://www.cdc.gov/niosh/surveyreports/pdfs/282-25a.pdf].
+
+NIOSH [2013b]. Control technology for crystalline silica exposure during pavement milling using
+a Wirtgen milling machine equipped with a vacuum cutting system. By Hammond DR, Shulman
+SA. Cincinnati, OH: U.S. Department of Health and Human Services, Centers for Disease Control
+and Prevention, National Institute for Occupational Safety and Health, EPHB Report No. 282-23a
+[http://www.cdc.gov/niosh/surveyreports/pdfs/282-23a.pdf].
+
+Zou, G.Y., Taleban, J., and Huo, C.Y. [2009]. Confidence interval estimation for lognormal data with
+applications to health economics. Computational Statistics and Data Analysis. 53: pp. 3755-3764.
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   47
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+This page left intentionally blank
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+Appendix C: Explanation of Statistical Methods
+The criterion used for evaluating the dust control strategy is that the arithmetic mean of the
+exposure measurements for a randomly chosen day at a randomly chosen site should be less
+than the occupational exposure limit (here the NIOSH REL of 0.05 mg/m3 is used). This will be
+assessed by obtaining an upper 95% confidence limit for the arithmetic mean. If this upper 95%
+confidence limit is less than the occupational exposure limit then the exposures are said to be
+acceptably controlled.
+
+Two sampling strategies are considered: 1) multiple sites (at least three), with three sampling days
+at each site and 2) multiple sites (at least five), with one sampling day at each site.
+
+Under sampling strategy 1, for each of the two job categories the data are treated as coming from a
+one-way random effects model on the natural log scale:
+
+xsd= μ + as + bd(s),              (C-1)
+
+where “s” indexes the sites, “d(s)” indexes the days at the sites, xsd is the natural logarithm of the
+sampling result at site “s” on day “d”, and µ is the mean on the natural log scale (i.e., the natural log
+of the geometric mean(GM)). Site is treated as a random effect (as) which is normally distributed
+with mean 0 and between-site variance σ2s (on the natural log scale). The days at each site are also
+treated as random (error) which is normally distributed with mean 0 and days within-site variance
+σ2d(s) (on the natural log scale). The arithmetic mean is given by exp(μ + 0.5(σ2s + σ2d(s))).
+
+Under sampling strategy 2, the model simplifies to:
+
+xs= μ + as,                       (C-2)
+
+where “s” indexes the sites, xs is the natural logarithm of the sampling result at site “s”, and µ is the
+mean on the natural log scale (i.e., the natural log of the GM). Site is treated as random (error)
+which is normally distributed with mean 0 and between-site variance σ2s (on the natural log scale).
+In this scenario the arithmetic mean is given by exp(μ + 0.5(σ2s)).
+
+In the following, methods are given for estimating the 95% upper confidence limit of the
+arithmetic mean. Simulation results will be provided a) to evaluate the coverage of the proposed
+methods for a wide range of possible parameter values and b) to give an idea of the power of the
+methods based on estimated means and variances from past data. Sampling strategy 2 is discussed
+first, because it is simpler.
+
+Sampling Strategy 2
+Here, the goal is to estimate a 95% upper confidence limit for the arithmetic mean, exp(μ +
+0.5(σ2s)). There are exact confidence limits for the lognormal mean based on Land’s coefficients
+[Gibbons and Coleman 2001] and [Land 1972], when the data are a simple random sample.
+However, this approach requires using tables that depend on the number of sites, thus requiring
+separate work sheets for each possible sample size. Instead, an approach is presented here that can
+be programmed in a single worksheet. The MOVER approach described by [Zou et. al. 2009] is
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   49
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+used to obtain an upper confidence limit for μ + 0.5(σ2s) and this result is exponentiated to obtain
+     an upper confidence limit for the arithmetic mean.
+
+     According to [Zou et. al. 2009], for unbiased, statistically independent estimators        with
+     95% upper confidence limits u1, u2, an upper 95% confidence limit for the linear combination
+                  is:
+
+
+
+                                                                             .
+
+
+     In this application, θ1 is the natural log scale mean, θ2 is the natural log scale variance, a1=1 and
+     a2=0.5. In the formulation of [Zou et. al. 2009], the required upper confidence limit for the data
+     described by Equation (C-2) is:
+
+     UCL2 =                                                                                                (C-3),
+
+
+     where     is the natural log scale mean, is the natural log scale standard deviation, z(0.95) is
+     the 95 percentile of the standard normal distribution, df1 = nsites-1, and chisq(0.05,df1) is the 5th
+           th
+
+     percentile of the chi square distribution with df1 degrees of freedom.
+
+     (The derivation in [Zou et al. 2009] uses the proportionality of the squared differences
+     to the variance of      in large samples to justify the expression UCL2. When independence is
+     lacking, a term for the covariance must be included.)
+
+     Because the sampling strategy will likely include a small number of sites, consider a modification
+     that the z value be replaced by the analogous t-distribution value with df1 degrees of freedom,
+     already shown as Equation (B-3):
+     UCL2
+
+
+     where df1 = nsites-1 and t(0.95,df1) is the 95th percentile of the t distribution with df1 degrees of
+     freedom.
+
+     For either method, the MOVER upper confidence limit (UCLM) is obtained by exponentiation of
+     this result, as in Equation (B-4):
+
+     UCLM = eUCL2=exp(UCL2).
+
+     Statistical simulation was used to compare the coverage of these two methods:
+          1) Method 1 uses MOVER, as in equation (6) of [Zou et al. 2009] with the 95th
+             percentile of the z (standard normal) distribution for the confidence interval of the
+             mean.
+
+          2) Method 2 uses MOVER, but replaces the 95th percentile of the z (standard normal)
+             distribution with the 95th percentile of the t distribution with k-1 degrees of
+             freedom, where k is the number of sites (one measurement at each site).
+
+
+
+50   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+For these simulations, the between-site variance (on the natural log scale) was varied from 0.25
+to 5 and the population mean µ was set to -0.5σ2, where σ2 is the log scale variance. (Most of these
+values were used in [Zou et al. 2009]’s Table 1, although they calculated two-sided 95% confidence
+intervals, rather than the one-sided 95% upper confidence limits computed in these simulations).
+In this case, the upper confidence limit is for the arithmetic mean = exp(µ+0.5σ2)=exp(0)=1,
+or, equivalently, 0 on the natural log scale. By making the arithmetic means the same, the upper
+confidence limits can be compared for different variance values. The coverage is the percentage of
+simulations for which the arithmetic mean is less than the upper confidence limit. However, the
+coverage is not affected by the value of the arithmetic mean. For each combination of k (number of
+sites) and σ2 (between-site variance), 50,000 simulations were performed. The results are described
+in Table C-1.
+
+Table C-1: Coverage (expressed as percentage) for nominal 95% upper confidence intervals for
+(natural log scale) arithmetic mean of lognormal data from a random sample of 1 day at each
+of k sites, by 2 methods.
+
+                                    k=5 sites                         k=6 sites                         k=7 sites
+            Log scale      Method 1        Method 2       Method 1        Method 2         Method 1          Method 2
+            variance,      MOVER,          MOVER,         MOVER,          MOVER,           MOVER,            MOVER,
+                           Using z         Using t        Using z         Using t          Using z           Using t sta-
+    GSD+                   statistic       statistic      statistic       statistic        statistic         tistic
+     1.65       0.25           93.4            95.0           93.0             94.7             93.1                 94.6
+                             (0.69) *         (0.75)         (0.53)           (0.58)           (0.45)               (0.49)
+     2.03       0.50           93.7            94.8           93.8             94.8             93.7                 94.8
+                              (1.26)          (1.33)         (0.96)           (1.01)          (0.795)               (0.84)
+     2.72         1            94.3            95.0           94.2             95.0             94.1                 94.9
+                              (2.43)          (2.49)         (1.81)           (1.87)           (1.47)               (1.52)
+     3.40       1.5            94.5            95.2           94.4             95.0             94.4                 95.0
+                              (3.52)          (3.65)         (2.65)           (2.71)           (2.13)               (2.19)
+     4.11         2            94.7            95.2           94.6             95.1            94.6                  95.0
+                              (4.75)          (4.83)         (3.48)           (3.54)           (2.8)                (2.85)
+     4.86       2.5            94.7            95.2           94.9             95.3             94.6                 95.0
+                              (5.91)          (5.99)         (4.33)           (4.39)           (3.47)               (3.52)
+     5.65         3            95.0            95.3           94.9             95.2             94.6                 95.0
+                              (7.06)          (7.14)         (5.21)           (5.28)           (4.14)               (4.19)
+     9.36         5             95.0           95.2           95.0             95.2             94.8                 95.0
+                              (11.69)        (11.82)         (8.55)           (8.71)           (6.83)               (6.83)
+
+* Cell entry is the actual coverage (the average value of the upper confidence limit on the log scale is in parentheses).
+For all simulations, the arithmetic mean converted to the log scale is 0 and there are ndays=1 at each site. Results based on
+50,000 simulations.
+
++
+    GSD=
+
+The results show that method 1 using the z percentiles gives coverage less than 95%, especially
+for the smaller variances. This is consistent with [Zou et al. 2009]’s Table 1, where, for the smaller
+variances, the coverage of the upper confidence limit for method 1 is less than the nominal value.
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   51
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+The use of the t percentiles in method 2 corrects for this. The average value of the upper confi-
+     dence limits is somewhat larger for method 2, since that method has larger coverage.
+
+     Statistical simulation was also used to calculate the power for the MOVER method based on
+     the t-statistic. For the simulations done here the GM of 0.006 mg/m3 was used because it was
+     the overall GM of geometric means from two past studies [NIOSH 2013a,b]. In addition,
+     computations for GMs of 0.01 and 0.025 mg/m3 have been included in the table. Total geometric
+     standard deviation (GSD) for the data from past studies varied between about 1.7 and 1.9.
+     Values of this magnitude as well as those somewhat smaller and somewhat larger were used
+     in the calculations, as shown in the table. If future studies have approximately the specified
+     GMs and GSDs in the range shown in the table, then the probabilities of meeting the REL will
+     be approximately those shown in Table C-2. Coverage is the fraction of simulations such that
+     [ln(GM) + 0.5        ] is less than the 95% upper confidence limit for the MOVER method 2, using
+     the t statistic (Equation (B-3)). Power is the fraction of simulations such that the upper confidence
+     limit for MOVER method 2 will be less than the NIOSH REL of 0.05 mg/m3.
+
+     Table C-2: Coverage and power (expressed as percentages) for strategy 2 data, using Mover
+     method 2.*
+
+                            Log scale                5 sites                      6 sites                     7 sites
+                            variance,
+
+      GM+        GSD                        Coverage           Power     Coverage           Power    Coverage           Power
+                   1.4          0.11             94.8          100.0          94.6           100          94.5          100.0
+       0.006      1.75          0.31             94.9           92.5          94.7           98.1         94.9          99.6
+                  1.92         0.426             94.9           82.2          94.8           92.4         94.6          97.3
+                  2.25          0.66             95.0           61.1          95.1           74.4         94.7          84.1
+                   3.0          1.21             95.4           31.4          95.1           39.7         94.9          47.9
+       0.01        1.4          0.11             94.5           99.9          94.4          100.0         94.6          100.0
+                  1.75          0.31             94.9           82.1          94.8           92.0         94.6          97.0
+                  1.92         0.426             95.0           67.6          94.8           81.0         94.7          89.0
+                  2.25          0.66             95.0           45.1          95.1           56.0         94.9          66.0
+                   3.0          1.21             95.2           20.6          95.1           26.0         95.3          31.0
+       0.025       1.4          0.11             94.6           81.0          94.4           91.0         94.7          96.0
+                  1.75          0.31             94.8           34.0          94.9           42.0         94.4          50.0
+                  1.92         0.426             94.9           23.0          94.7           28.0         94.8          34.0
+                  2.25          0.66             95.0           13.0          95.0           15.0         94.7          18.0
+                   3.0          1.21             95.1           5.8           95.0           6.2          95.1           6.3
+     * For all simulations, there are ndays=1 at each site. Results based on 50,000 simulations.
+
+     The coverage is slightly anti-conservative for the variances shown here, which is consistent with
+     Table C-1 results for method 2 for relatively small variances. In general, the coverage is quite close
+     to 95% for method 2; coverage is never less than 94.4% and never more than 95.4%.
+
+
+
+52   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+For larger variances, power is much larger when 7 sites are used. However, for the GSD magnitude
+similar to that in previous studies (1.92), the chances of meeting the REL are quite high (>80%) for
+5 sites if the GM is as low as 0.006 mg/m3. For the same GSD and GMs of 0.01 and 0.025 mg/m3,
+respectively, the power drops to 68% and 23%, respectively.
+
+Sampling Strategy 1 – Balanced Design
+The goal is to estimate a 95% upper confidence limit for the arithmetic mean, exp(μ + 0.5(σ2s +
+σ2d(s))), for the data model given by Equation (C-1). Sampling strategy 1 data are not a simple
+random sample since there are multiple days at each site, so the statistical methods are more
+complicated. For large samples, the delta method approximation can be used in conjunction
+with maximum likelihood or ANOVA estimation to calculate confidence levels [Mandel 2013],
+but the sample sizes here are all small. Therefore, the choice of nominal confidence level for
+these methods must be calibrated by simulation, because nominal confidence differs from actual
+confidence. There is an approach based on generalized confidence intervals that can be used,
+although for small samples it must also be calibrated by simulation [Krishnamoorthy and Mathew
+2002]. The work of [Zou et al. 2009], however, can be easily generalized to the case of two variance
+components, as in [Krishnamoorthy and Peng 2014], equation (2), as follows.
+
+For statistically independent estimators ,              with 95% upper confidence limits u1, u2,
+and u3, and 5% lower confidence limits l1, l2, and l3, an upper 95% confidence limit for a linear
+combination is                       :
+
+
+                             +
+
+
+where                                  .
+
+
+Interest is in estimation of the upper confidence limit for the linear combination
+
+μ + 0.5 (σ2s + σ2d(s))
+
+= μ + 0.5 [(σ2s +                +           σ2d(s)]
+
+In this application, θ1 is μ (natural log of the GM); for ndays at each site, θ2 is the variance of site
+means for natural log transformed data (σ2s +             ; and θ3 is the within-site variance
+(     ). Furthermore, all ai>0 (specifically, a1=1, a2=0.5, and for balanced data with ndays at each
+
+site, a3=0.5 x (1-1/ndays)). However, contrary to the assignment rule in [Krishnamoorthy and Peng
+2014], simulation results indicate that for the sample sizes of interest in our study, coverage is
+much closer to nominal when              . [Krishnamoorthy 2014] recommends this alteration and
+simulation results are shown             below that also support this choice.
+
+Thus, the required upper confidence limits can be obtained as follows:
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   53
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+The sample variance of the natural log scale site means (                in equation B-1) estimates θ2 and the
+     average within-site variance (denoted astd ws) estimates θ3 =σ2d(s). Thus,
+                                                    2
+                                                                                                the average of the
+     log scale site means,          , and                      Upper confidence limits for the corresponding
+     parameters are given by u1 =               t(0.95, df1)/ /sqrt(nsites), u2 = df1×    /chisq(0.05,df1 ), and
+     l3=df2×         /chisq(1-0.05,df2), respectively, where astdws is                   the average standard
+                     deviation within sites (square root of the average of the squares of the within-site
+     standard deviations for balanced data), df1 = nsites-1, and (for balanced data) df2 = nsites x (ndays-1).
+     Also, t(0.95,df1) denotes the 95th percentile of the t distribution with df1 degrees of freedom;
+     chisq(0.05,df1) denotes the 5th percentile of the chi square distribution with df1 degrees of
+     freedom; and chisq(1-0.05,df2) denotes the 95th percentile of the chi square distribution with df2
+     degrees of freedom. Making substitutions and simplifying yields the required upper confidence
+     limit for balanced data, shown in Equation (B-1):
+
+     UCL2=
+
+
+
+
+     UCLM=eUCL2 is the required upper confidence limit, given above in Equation (B-2).
+
+     (Equation (B-1) is analogous to Equation (6) of [Zou et. al. 2009].)
+
+     Statistical simulation was used to compare the coverage of the two methods:
+
+                 1) MOVER (using all upper confidence limits), denoted UCLM,U
+
+                 2) Modified MOVER (using upper confidence limits, except using the lower
+                    confidence limit for the variance between days), denoted UCLM.
+
+     In these simulations, coverage was estimated for several balanced designs (3, 4, or 5 sites) based
+     on 3 days per site. As in Table C-1 the aim is to make the upper confidence limits comparable.
+     Analogous to Table C-1 the value of µ is [-0.5 ×(σs2 + σ2d(s))], where σs2 is the between-site variance
+     and σ2d(s) is the days within-site variance. For each choice of variances, the upper confidence limit
+     is for exp[µ+0.5×(σs2 + σ2d(s))]=exp(0)=1, or, equivalently, 0 on the natural log scale. In Table C-3
+     seven scenarios for σ2s and σ2d(s) were considered, for σ2s + σ2d(s)=1 in each scenario. The coverage
+     is evaluated for a very wide range of the ratio of the between-site variance to the total variance,
+     to demonstrate that the coverage is maintained, whatever that ratio is. For each set of parameter
+     values, 50,000 simulations were performed. The coverage is the percentage of simulations for
+     which the arithmetic mean is less than the upper confidence limit. Because the coverage will vary
+     also with the magnitude of the total variance (σs2 + σ2d(s)), Table C-4 presents simulations results
+     for other total variance values, using four other variances from Table C-1, just for nsites equal 3 and
+     5.
+
+
+
+
+54   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+Table C-3: Coverage (expressed as percentage) for nominal 95% upper confidence intervals
+for (natural log scale) arithmetic mean of lognormal data for strategy 1 for the two MOVER
+methods when log scale total variance is 1, and ln (arithmetic mean)=0
+
+                                               3 sites                4 sites                  5 sites
+  σ2s    σ2d(s)    σ2s/( σ2s+ σ2d(s))     UCLM,U      UCLM      UCLM,U      UCLM        UCLM,U        UCLM
+   0       1               0               98.2       95.5       97.8        95.0        97.4         94.5
+                                         (3.49) *    (3.27)     (1.63)      (1.43)      (1.12)       (0.96)
+  0.2     0.8             0.2              97.9       95.5       97.3        95.1        96.7         94.8
+                                          (4.62)     (4.47)     (2.03)      (1.92)      (1.34)       (1.26)
+  0.3     0.7             0.3              97.6       95.5       96.8        95.3        96.5         95.1
+                                          (5.20)     (5.12)     (2.28)      (2.19)      (1.48)       (1.42)
+  0.5     0.5             0.5              96.9       95.4       96.2        95.3        95.9         95.1
+                                          (6.38)     (6.35)     (2.71)      (2.66)      (1.76)       (1.73)
+  0.7     0.3             0.7              96.0       95.5       95.5        95.3        95.6         95.1
+                                          (7.52)     (7.48)     (3.25)      (3.19)      (2.05)       (2.03)
+  0.8     0.2             0.8              95.8       95.5       95.5        95.2        95.4         95.1
+                                          (8.12)     (8.13)     (3.45)      (3.44)      (2.19)       (2.18)
+ 0.95    0.05            0.95              95.4       95.6       95.3        95.3        95.1         95.2
+                                          (9.01)     (9.08)      (3.8)      (3.81)      (2.43)       (2.41)
+*Cell entry is the actual coverage (the average value of the upper confidence limit on the log scale is in parentheses).
+Results based on 50,000 simulations. For all simulations, the natural log of the arithmetic mean is 0 in each simulation
+and there are ndays=3 at each site.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   55
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+56
+                                                                                                                                           Table C-4 Coverage (expressed as percentage) for nominal 95% confidence limits and average upper confidence limits for the two
+                                                                                                                                           MOVER methods for strategy 1 when natural log scale total variance equals 0.25, 2, 3, or 5, values that were used in Table C-1, and
+                                                                                                                                           ln(arithmetic mean)=0.
+
+                                                                                                                                                                                                                                 Total variances: (σ2s+σ2d(s))
+                                                                                                                                             2
+                                                                                                                                            σ s/                         0.25                                           2                                            3                                            5
+                                                                                                                                            Total          3 sites                   5 sites             3 sites                 5 sites              3 sites                    5 sites            3 sites                5 sites
+                                                                                                                                            vari-
+                                                                                                                                            ance     Method    Method       Method       Method     Method   Method         Method   Method     Method Method Method                 Method    Method   Method        Method   Method
+                                                                                                                                                     UCLM,U     UCLM        UCLM,U        UCLM      UCLM,U    UCLM          UCLM,U    UCLM      UCLM,U  UCLM  UCLM,U                  UCLM     UCLM,U    UCLM         UCLM,U    UCLM
+                                                                                                                                                 0    97.2       95.1            96.3       94.6     98.6      95.6          97.8      94.4       98.7      95.5         98.0          94.6     98.8      95.6         98.1      94.7
+                                                                                                                                                     (0.95)*    (0.90)          (0.36)     (0.33)    (6.8)     (6.4)         (2.1)     (1.8)     (10.2)     (9.5)        (3.1)         (2.6)   (17.1)    (15.8)        (5.1)     (4.2)
+                                                                                                                                             0.2       96.6      95.1            95.6       94.4     98.1      95.6          97.4      95.0       98.4       95.8        97.6          95.3     98.5      95.9         97.8      95.2
+                                                                                                                                                      (1.24)    (1.22)          (0.43)     (0.41)    (9.1)     (8.8)         (2.6)     (2.4)     (13.5)     (13.2)       (3.8)         (3.5)   (22.6)    (21.9)        (6.2)     (5.6)
+                                                                                                                                             0.3       96.4      95.0            95.5       94.8     97.9       95.8         97.0      95.1       98.2       95.6        97.4          95.2     98.3      95.6         97.5      95.2
+                                                                                                                                                      (1.39)    (1.37)          (0.47)     (0.46)   (10.3)     (10.0)        (2.8)     (2.7)     (15.4)     (14.9)       (4.1)         (3.9)   (25.5)    (24.9)        (6.8)     (6.4)
+                                                                                                                                             0.5       95.8      95.1            95.2       94.7     97.2       95.6         96.3      95.0       97.6       95.7        96.5          95.1     97.6      95.4         96.8      95.1
+                                                                                                                                                      (1.68)    (1.67)          (0.55)     (0.54)   (12.7)     (12.5)        (3.4)     (3.3)     (18.8)     (18.8)       (4.9)         (4.8)   (31.3)    (30.7)        (8.1)     (7.9)
+                                                                                                                                             0.7       95.6      95.2            95.0       94.7     96.5       95.6         95.7      95.3       96.4       95.5        95.8          95.0     96.6      95.4         95.5      95.1
+                                                                                                                                                      (1.99)    (1.99)          (0.62)     (0.62)   (15.1)     (15.0)        (3.9)     (3.9)     (22.5)     (22.3)       (5.8)         (5.7)   (37.1)    (37.4)        (9.4)     (9.4)
+                                                                                                                                             0.8       95.5      95.5            94.7       94.6     95.8       95.5         95.3      95.3       95.8       95.4        95.6          95.2     95.9      95.4         95.3       95.2
+                                                                                                                                                      (2.15)    (2.14)          (0.66)     (0.66)   (16.3)     (16.2)        (4.2)     (4.2)     (24.4)     (24.3)       (6.2)         (6.2)   (40.2)    (40.4)       (10.3)     (10.3)
+                                                                                                                                             0.95      95.3      95.1            94.7       94.9     95.5       95.4         95.0      95.2       95.3       95.5        95.2          95.1     95.2      95.0         95.2       95.0
+                                                                                                                                                      (2.37)    (2.38)          (0.72)     (0.72)   (18.1)     (18.1)        (4.7)     (4.7)     (26.9)     (26.9)       (6.9)         (6.9)   (44.9)    (44.7)       (11.4)     (11.4)
+
+                                                                                                                                           * Cell entry is the actual coverage (the average value of the upper confidence limit on the natural log scale is in parentheses). Results based on 50,000 simulations.
+                                                                                                                                           There are ndays=3 at each site.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+In Tables C-3 and C-4, the upper confidence limits for the 5 site results for the ratio σ2s/
+(σ2s+σ2d(s))=0.95, should approximate those from Table C-1, for the corresponding total variances.
+All of these tables are for arithmetic mean 1 (0 on log scale.) It makes sense to use results for this
+variance from Table C-4 because for this situation the total variance is most like that in Table C-2
+with one dominant component. They do agree approximately. For instance, for total variance 0.25,
+Table C-4 gives an upper confidence limit for both methods of about 0.72, compared with 0.75 for
+method 2 in Table C-1. Coverage is about 95% from both these tables.
+
+The coverage results in Tables C-3 and C-4, for variances between 0.25 and 5 indicate that the
+modified version of the MOVER (method 2, UCLM) gives coverage much closer to the nominal
+95% than the original version (method 1, UCLM,U). The modified MOVER (method 2) is slightly
+anti-conservative for 5 sites and total variance 0.25. The coverages for the method 2 are never
+lower than 94.4% and never higher than 95.9%.
+
+Statistical simulation was also used to evaluate the power of the modified MOVER for parameter
+values in the range from past studies, analogous to results in Table C-2. The results are shown in
+Tables C-5 and C-6. All calculations use ndays =3 at each site. The GMs considered in Table C-5
+are 0.006, 0.01, and 0.025 mg/m3 (all less than the NIOSH REL). The GSD 1.92 is used because
+for several previous studies the total GSDs were between about 1.75 and 1.9. For instance, for
+=0.106 and                  (values from Table C-5) the total GSD is exp([0.106+0.319 ]0.5)~1.92.
+The 0.025 mg/m3 GM was added to see how large the GM can be and still have sizable power. In
+addition, in order to study the power further, Table C-6 gives additional power results for five
+other total GSDs used in Table C-2, but only for GMs of 0.006 and 0.01 mg/m3. For the Tables C-5
+and C-6, for each total GSD, the between- site variances shown are about 10%, 25%, 75% and 90%
+of the total variance.
+
+Coverage is the fraction of simulations such that [ln(GM) + 0.5 (σ2s+ σ2d(s))] is less than the 95%
+upper confidence limit. Power is the fraction of simulations such that the upper confidence limit
+UCLM is less than the NIOSH REL of 0.05 mg/m3.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   57
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+Table C-5: Coverage and power (expressed as percentages) for modified MOVER*
+
+                 Total     Between-site       Within-site                 3 sites                 4 sites                    5 sites
+         GM      GSD+                                             Coverage      Power      Coverage      Power     Coverage Power
+         0.006    1.92         0.0426              0.383             95.3           67.1      94.9          93.8      94.8             99.5
+         0.006    1.92          0.106              0.319             95.4           59.2      94.9          88.4      94.8             98.2
+         0.006    1.92          0.319              0.106             95.4           42.5      95.2          71.3      94.9             88.2
+         0.006    1.92          0.383              0.0426             95.4          39.0      95.0          66.4      95.0             84.7
+         0.01     1.92         0.0426              0.383             95.3           54.8      95.0          84.6      94.6             96.4
+         0.01     1.92          0.106              0.319             95.4           47.6      94.9          77.0      94.8             92.4
+         0.01     1.92          0.319              0.106             95.4           33.4      95.1          56.3      94.8             75.1
+         0.01     1.92          0.383              0.0426             95.4          30.7      95.1          51.8      94.9             70.3
+         0.025    1.92         0.0426              0.383             95.4           22.6      94.9          35.0      94.7             47.9
+         0.025    1.92          0.106              0.319             95.4           19.4      95.0          30.2      94.7             40.7
+         0.025    1.92          0.319              0.106             95.4           14.0      95.1          20.6      94.8             27.0
+         0.025    1.92          0.383              0.0426             95.3          13.1      95.1          18.5      95.0             24.4
+
+
+     * For all simulations, there are ndays=3 days at each site. Results are based on 50,000 simulations.
+     +
+         Total GSD=
+
+
+
+
+58   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+Table C-6: Coverage and power (expressed as percentages) for strategy 1 data. Simulation results are shown for GM=0.006 and 0.01 mg/
+                                                                                                                                           m3, and for all total GSDs used in Table C-2 ; 50,000 simulations for each set of parameters
+
+                                                                                                                                                                                                                GM=0.006                                                         GM=0.01
+                                                                                                                                                        Approxi-                              3 sites             4 sites               5 sites              3 sites              4 sites               5 sites
+                                                                                                                                                         mate      Between-    Within-
+                                                                                                                                                       Ratio          site      site
+                                                                                                                                               Total   /Total
+                                                                                                                                               GSD+     Variance                         Coverage   Power Coverage      Power      Coverage   Power Coverage       Power      Coverage Power       Coverage    Power
+                                                                                                                                                1.4         0.10       0.011   0.099       95.1         98.9   94.6     100.0        94.5         100.0   94.9         96.3    94.6     100.0        94.5         100.0
+                                                                                                                                                1.4         0.25       0.028   0.083       94.9         97.3   94.6     100.0        94.7         100.0   94.7         93.0    94.7         99.9     94.6         100.0
+                                                                                                                                                1.4         0.75       0.083   0.028       94.8         88.6   94.8         99.8     94.7         100.0   95.1         80.1    94.9         98.7     94.8         100.0
+                                                                                                                                                1.4         0.90       0.099   0.011       95.2         86.0   94.9         99.5     94.6         100.0   95.2         76.1    94.7         97.8     94.6         99.9
+                                                                                                                                               1.75         0.10       0.03     0.28       95.3         78.5   94.6         98.4     94.7         100.0   95.3         67.4    94.9         94.0     94.7         99.4
+                                                                                                                                               1.75         0.25       0.078    0.23       95.3         71.3   95.0         95.9     94.6         99.7    95.2         59.9    94.8         88.9     94.7         98.2
+                                                                                                                                               1.75         0.75       0.23    0.078       95.5         53.4   95.1         83.8     95.1         96.4    95.3         43.1    95.2         71.4     94.9         88.5
+                                                                                                                                               1.75         0.90       0.28     0.03       95.4         49.3   95.2         79.7     94.7         94.4    95.3         39.9    95.0         66.3     94.8         84.8
+                                                                                                                                               1.92         0.10    0.0426     0.383       95.3         67.1   94.9         93.8     94.8         99.5    95.3         54.8    95.0         84.6     94.6         96.4
+                                                                                                                                               1.92         0.25       0.106   0.319       95.4         59.2   94.9         88.4     94.8         98.2    95.4         47.6    94.9         77.0     94.8         92.4
+                                                                                                                                               1.92         0.75       0.319   0.106       95.4         42.5   95.2         71.3     94.9         88.2    95.4         33.4    95.1         56.3     94.8         75.1
+                                                                                                                                               1.92         0.90       0.383   0.0426      95.4         39.0   95.0         66.4     95.0         84.7    95.4         30.7    95.1         51.8     94.9         70.3
+                                                                                                                                               2.25         0.10       0.066    0.59       95.5         49.3   94.8         79.4     94.7         93.8    95.4         38.3    95.0         63.6     94.8         82.5
+                                                                                                                                               2.25         0.25       0.166   0.495       95.5         42.7   95.0         70.5     94.9         88.5    95.6         32.5    95.2         54.6     94.9         73.5
+                                                                                                                                               2.25         0.75       0.495   0.166       95.4         30.2   95.1         50.5     95.0         68.8    95.2         23.1    95.0         37.0     94.9         52.1
+                                                                                                                                               2.25         0.90       0.59    0.066       95.3         28.1   95.3         46.2     95.0         64.2    95.6         21.4    95.1         34.2     95.1         47.2
+                                                                                                                                                3.0         0.10       0.12     1.09       95.8         28.5   95.1         47.7     95.0         64.6    95.4         19.9    95.2         32.0     94.8         44.5
+                                                                                                                                                3.0         0.25       0.30     0.91       95.5         24.2   95.4         39.9     95.2         55.5    95.6         17.6    95.3         27.2     95.0         37.1
+                                                                                                                                                3.0         0.75       0.91     0.30       95.6         17.2   95.3         26.5     95.3         36.9    95.5         12.6    95.2         18.5     95.3         23.9
+                                                                                                                                                3.0         0.90       1.09     0.12       96.0         15.8   95.2         24.5     95.1         33.3    95.3         12.2    95.4         16.8     95.2         21.7
+
+                                                                                                                                           +
+                                                                                                                                               Total GSD=          .
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+                                                                                                                                           Conclusions concerning coverage are that it is between 94.5% and 96.0%.
+
+
+
+
+59
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+Conclusions concerning power from these two tables are:
+
+                 1) It is useful to compare the power for five sites in Table C-5 (or C-6) to that
+                    in Table C-2 for GSD=1.92 and GM=0.006 mg/m3. For Table C-2, the power
+                    is about 82%, compared to about 85% from Table C-5 for =0.383 and
+                            =0.0426. When all the variance in the two component model is due to
+                    between-site variance, this is the same as the one component model, since
+                    the degrees of freedom for sites are the same. Likewise, for Table C-2, for
+                    five sites and GSD=3.0 power is about 31.4%, which is close to 33.3% from
+                    Table C-6 for =1.09 and GM=0.006 mg/m3. For both Tables C-5 and C-6,
+                    for each sample size and total GSD, the power decreases as the between-site
+                    variance becomes a larger portion of the total variance.
+
+                 2) For the two lowest GMs shown (0.006 and 0.01 mg/m3) in Table C-5 or
+                    C-6, GSD=1.92, the highest power for the 3 site data (67.1% for GM=0.006
+                    mg/m3 and 54.8% for GM=0.01 mg/m3) is approximately the same as the
+                    lowest power for the 4 site data (66.4% for GM=0.006 mg/m3 and 51.8% for
+                    GM=0.01 mg/m3). Thus, there is a big difference in power between sampling
+                    at 3 or at 4 sites for total GSD 1.92. Examination of Table C-6 indicates
+                    similar results for other total GSDs, especially at the 0.006 mg/m3 level.
+
+                 3) If the GSD becomes much larger than 1.9, the power decreases considerably.
+                    This happens for both strategy 1 and strategy 2 designs. For the seven site
+                    strategy 2 design and GSD of 3.0 and GM of 0.006 mg/m3, the power is less
+                    than 50% (Table C-2). For the 5 site strategy 1 design with total GSD 3.0 and
+                    between variance accounting for at least 75% of the total variance and GM
+                    0.006 mg/m3, the power is less than 40% (Table C-6). Thus, the discussion
+                    of power in this document relies considerably on observing total GSD much
+                    less than 3.
+
+                 4) When the GM is 0.025 mg/m3, in Table C-5, for no sample size (≤5 sites) is
+                    the power greater than 50%.
+
+     Sampling Strategy 1 – Unbalanced Design
+     Although the recommendation for strategy 1 is to sample three days at each site, there will
+     probably be studies where that is not possible. For such unbalanced data, the same formula for the
+     UCL can be used; however, the following modifications must be made:
+
+                      1. df2 = number of measurements-number of sites.
+
+                      2.          is the sum of the weighted within-site variances divided by df2. Each weight
+                           is the number of days at the site minus 1.
+                      3. In equation (B-1),                 is replaced by (1-nbar), where nbar is the average of the
+                         reciprocals of                    the number of days at the sites. Note that in the case of
+
+
+
+
+60   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+balanced data with ndays at each site, nbar is equal to 1/ndays and (1-nbar) reverts
+                          back to     .
+
+                     4.                    =standard deviation between sites; note that for balanced data,
+                          nbar=1/ndays.
+
+        For unbalanced data, , the mean of site means on the natural log scale, is not
+        statistically independent of       and simulations are done to allow for this. Also,
+        is statistically independent of both and         and is generated that way in the
+        simulations. Although there is some              correlation of the estimators, Equation B-1
+        does not include any term for it. The simulations indicate that the coverage is acceptable.
+        [Krishnamoorthy 2014] also does not include a term for the correlation of and .
+        Note that and          still denote the natural log scale mean of site means and the
+        standard               deviation of site means, respectively.
+
+Statistical simulation was used to estimate coverage for several unbalanced designs based on 3 sites
+and (up to) 3 days per site. For these simulations, the population mean µ was set to -0.5(σ2s + σ(s)).
+Thus, for each choice of variances, the upper confidence limit is for exp[µ+0.5 ×(σs2 + σ2d(s) )]=exp(0)=1,
+or, equivalently, 0 on the natural log scale, as was also done in Tables C-3 and C-4. By making the
+arithmetic means the same, the upper confidence limits can be compared for different variance
+values. For each of the variance settings, 50,000 simulations were performed. The coverage is the
+percentage of simulations for which the arithmetic mean is less than the upper confidence limit.
+Only the modified MOVER method, UCLM, results are shown in Table C-7.
+
+Table C-7: Coverage (expressed as percentage of simulations) of the modified MOVER method
+for the unbalanced design based on 3 and 5 sites.
+
+                            Number of days at each site with k=3 sites:           Number of days at each site with k=5 sites:
+  σs2
+            σ d(s)
+             2
+                            (3,3,3)     (3,3,2)     (3,2,2)      (3,3,1)      (3,3,3,3,3)    (3,3,3,3,2)     (3,3,3,2,2)    (3,3,2,2,1)
+   0          1           95.5(3.27)*    95.5     95.5(4.26)   95.5(5.27)     94.5(0.96)     94.4(1.03)      94.6(1.11)     94.6(1.41)
+                                        (3.77)
+  0.2        0.8          95.5 (4.47)    95.5     95.5 (5.29) 95.5(6.10)      94.8(1.26)     94.8(1.33)      94.9(1.39)     94.9(1.64)
+                                        (4.87)
+  0.3        0.7          95.5 (5.12)    95.4     95.5 (5.83) 95.5(6.55)      95.1(1.42)     95.0(1.47)      94.9(1.53)     94.9(1.73)
+                                        (5.38)
+  0.5        0.5          95.4 (6.35)    95.4     95.6 (6.84) 95.5(7.38)      95.1(1.73)     95.0(1.75)      94.8(1.79)     95.1(1.96)
+                                        (6.57)
+  0.7        0.3          95.5 (7.48)    95.5     95.6 (7.91) 95.6(8.16)      95.1(2.03)     95.1(2.05)      95.1(2.08)     95.2(2.17)
+                                        (7.69)
+  0.8        0.2          95.5 (8.13)    95.5     95.5 (8.41) 95.5(8.57)      95.1(2.18)     95.0(2.21)      95.2(2.22)     95.3(2.28)
+                                        (8.23)
+ 0.95       0.05          95.6 (9.08)    95.5     95.4 (9.14) 95.6(9.24)      95.2(2.41)     95.2(2.43)      95.2(2.43)     95.1(2.44)
+                                        (9.19)
+
+*Cell entry is the actual coverage (the average value of the upper confidence limit on the natural
+log scale is in parentheses). Results based on 50,000 simulations.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   61
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+For the range of sample sizes evaluated for three sites, the coverage is close to the nominal 95%,
+     and never anti-conservative. For five sites, there is slightly less than 95% coverage at very low
+     between-site variance. The coverage is never less than 94.4%.
+
+     The average values of the upper confidence limits tend to increase as the total number of
+     measurements decrease from 9 to 8 to 7. However, with just one day at one site, the configuration
+     (3,3,1) has higher average upper confidence limits than the configuration (3,2,2), although they
+     both have seven days of sampling. Also, as the between-site variance increases the differences
+     in the average upper confidence limits become smaller for these designs. For the 0.95 between-
+     site variance there is almost no difference—all average upper confidence limits are between 9.08
+     and 9.24 for the three site data. When there is almost no day to day variability, the value of the
+     confidence limit depends only on the between-site variance.
+
+     Other simulations have been done for different total variance. Table C-8 has analogous results to
+     those in Table C-7 for total natural log scale variance 0.25 and 3.0, values that were also evaluated
+     in Table C-4 for balanced data.
+
+
+
+
+62   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+Table C-8: Coverage (expressed as percentage of simulations) of the modified MOVER method for the unbalanced design based on 3 and 5 sites.
+                                                                                                                                           10,000 simulations for each specification of parameter values+, except that 50,000 were used for the balanced data, as reproduced from Table C-7.
+
+                                                                                                                                                                                            Number of days at each site with k=3 sites                       Number of days at each site with k=5 sites
+                                                                                                                                               Total
+                                                                                                                                               Vari-                σ2s/Total
+                                                                                                                                                           2
+                                                                                                                                               ance      σs         Variance         (3,3,3)        (3,3,2)        (3,2,2)          (3,3,1)         (3,3,3,3,3)     (3,3,3,3,2)      (3,3,3,2,2)      (3,3,2,2,1)
+                                                                                                                                               0.25       0             0           95.1(0.90)    95.2(1.04)     95.0(1.14)       95.4(1.41)        94.6(0.33)      94.2(0.35)       94.8(0.38)       94.7(0.46)
+                                                                                                                                                        0.05           0.2          95.1(1.22)    94.9(1.33)     95.5(1.42)       95.6(1.63)        94.4(0.41)      94.9(0.43)       94.4(0.44)       94.6(0.51)
+                                                                                                                                                        0.075          0.3          95.0(1.37)    94.9(1.43)     95.3(1.56)       95.4(1.73)        94.8(0.46)      94.6(0.47)       94.6(0.48)       94.8(0.54)
+                                                                                                                                                        0.125          0.5          95.1(1.67)    95.6(1.72)     95.2(1.82)       95.1(1.94)        94.7(0.54)      94.8(0.55)       94.5(0.56)       94.7(0.60)
+                                                                                                                                                        0.175          0.7          95.2(1.99)    95.5(2.02)     95.4(2.08)       95.3(2.16)        94.7(0.62)      94.7(0.63)       94.6(0.64)       94.7(0.66)
+                                                                                                                                                         0.2           0.8          95.5(2.14)    95.6(2.19)     95.2(2.19)       94.9(2.24)        94.6(0.66)      95.1(0.67)       94.5(0.66)       94.7(0.68)
+                                                                                                                                                        0.238          0.95         95.1(2.38)    94.8(2.35)     95.5(2.36)       95.4(2.41)        94.9(0.72)      94.5(0.72)       94.7(0.72)       94.8(0.73)
+                                                                                                                                               3.0        0             0           95.5(9.52)   95.6(11.08)    95.5(12.46)      95.2(15.50)        94.6(2.58)      94.2(2.78)       94.9(3.00)       94.5(3.92)
+                                                                                                                                                         0.6           0.2         95.8(13.17)   95.8(14.38)    95.5(15.37)      95.8(18.16)        95.3(3.48)      95.3(3.72)       95.1(3.83)       95.3(4.56)
+                                                                                                                                                         0.9           0.3         95.6(14.87)   95.4(16.17)    95.5(17.41)      95.4(19.15)        95.2(3.92)      95.5(4.10)       95.0(4.23)       95.0(4.93)
+                                                                                                                                                         1.5           0.5         95.7(18.81)   95.5(19.54)    95.7(20.18)      95.6(21.55)        95.1(4.83)      95.5(4.94)       95.5(5.07)       95.1(5.53)
+                                                                                                                                                         2.1           0.7         95.5(22.31)   95.5(22.79)    95.4(23.56)      95.4(24.18)        95.0(5.73)      95.0(5.88)       95.1(5.89)       95.1(6.21)
+                                                                                                                                                         2.4           0.8         95.4(24.27)   95.6(24.80)    95.6(24.99)      95.5(25.65)        95.2(6.20)      95.1(6.27)       95.2(6.30)       95.2(6.50)
+                                                                                                                                                        2.85           0.95        95.5(26.92)   95.9(26.95)    95.6(27.56)      95.4(27.33)        95.1(6.86)      95.2(6.93)       95.3(7.01)       94.9(6.96)
+
+                                                                                                                                           +
+                                                                                                                                            There are relatively small differences between the simulation results for 10,000 and 50,000 simulations. Also, they are intended mainly to see if there is consistency
+                                                                                                                                           with the 50,000 simulation results in Tables C-4 and C-7.
+                                                                                                                                           *Cell entry is the actual coverage (the average value of the upper confidence limit on the natural log scale is in parentheses).
+
+                                                                                                                                           The results are similar to those in Table C-4 and C-7. For three sites, the coverage is always at least 95%, whereas for 5 sites at total variance
+                                                                                                                                           0.25, the coverage is a little less than 95%. The coverage is never less than 94.2%. For three or five sites, the average upper confidence limit
+                                                                                                                                           increases as the total number of measurements decreases. This should result in some loss of statistical power. As in Table C-7, for the 0.95
+                                                                                                                                           ratio of between-site variance to total variance, there is almost no difference in expected values of the upper confidence limits, for the
+                                                                                                                                           different designs at the given sample size and total variance.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+63
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+References
+     Gibbons R, Coleman D [2001]. Statistical methods for detection and quantification of
+     environmental contamination. Hoboken, NJ: John Wiley and Sons, Inc.
+
+     Krishnamoorthy K [2014]. A Simple Method for Assessing Occupational Exposure Via the One-
+     Way Random Effects Model. Submitted to the Annals of Occupational Hygiene.
+
+     Krishnamoorthy K, and Mathew T [2002]. Assessing occupational exposure via the one-way
+     random effects model with balanced data. Journal of Agricultural, Biological and Environmental
+     Statistics. Vol. 7(3), p. 448.
+
+     Krishnamoorthy, K. and Peng, J. [2014]. Approximate One-Sided Tolerance Limits in Random
+     Effects Models and Some Mixed Models and Comparisons. Journal of Statistical Simulation and
+     Computation. Published online in March, 2014.
+
+     Land CE [1972]. An evaluation of approximate confidence interval estimation methods for
+     lognormal means. Technometrics 14:145-158.
+
+     Mandel M [2013]. Simulation-based confidence intervals for functions with complicated
+     derivatives. The American Statistician. 67(2), pp. 76.
+
+     NIOSH [2013a]. Control technology for crystalline silica exposure during pavement milling using
+     a Roadtec milling machine equipped with a local exhaust ventilation system. By Hammond DR,
+     Shulman SA Cincinnati, OH: U.S. Department of Health and Human Services, Centers for Disease
+     Control and Prevention, National Institute for Occupational Safety and Health, EPHB Report No.
+     282-25a [http://www.cdc.gov/niosh/surveyreports/pdfs/282-25a.pdf].
+
+     NIOSH [2013b]. Control technology for crystalline silica exposure during pavement milling using
+     a Wirtgen milling machine equipped with a vacuum cutting system. By Hammond DR, Shulman
+     SA. Cincinnati, OH: U.S. Department of Health and Human Services, Centers for Disease Control
+     and Prevention, National Institute for Occupational Safety and Health, EPHB Report No. 282-23a
+     [http://www.cdc.gov/niosh/surveyreports/pdfs/282-23a.pdf].
+
+     Zou, G.Y., Taleban, J., and Huo, C.Y. [2009]. Confidence interval estimation for lognormal data with
+     applications to health economics. Computational Statistics and Data Analysis. 53: pp. 3755-3764.
+
+
+
+
+64   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+Appendix D: Use of the Spreadsheet
+The Excel spreadsheet “mover_upper_confidence_limits.xlsx” is included with this document. It
+contains five worksheets: “Ex. Strategy 1-Balanced”, “Ex. Strategy 1-Unbalanced”, “Ex. Strategy 2”,
+“Blank Strategy 1”, and “Blank Strategy 2”. The first three of these worksheets have hypothetical
+example data that were discussed in Appendix B. The two worksheets “Blank Strategy 1” and
+“Blank Strategy 2” do not have data and should be used by manufacturers to input their data from
+field testing to calculate results. The user should choose these “blank” sheets according to the
+sampling strategy used, and enter the data in the red portion of the sheet. The upper confidence
+limit and other calculated estimates will then appear in bold at the bottom of the sheet on the right
+side. Whether the data for strategy 1 are balanced or unbalanced, the sheet “Blank Strategy 1” can
+be used. Whichever blank sheet is selected, that sheet should be copied elsewhere so that the blank
+sheet is available for new data.
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   65
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+Appendix E: Example Daily Dust Control Checklist
+     Table provided by Payne & Dolan, Inc.
+     Appendix E: Example Daily Dust Control Checklist
+
+
+
+
+     Table provided by Payne & Dolan, Inc.
+
+
+
+
+66   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+Appendix F: NAPA/AEM Best Practice Bulletin 1/12
+
+
+
+
+                                                   Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   67
+

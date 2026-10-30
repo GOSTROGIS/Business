@@ -1,0 +1,32 @@
+{
+  "id": "cp-1230-manual-pl",
+  "slug": "cp-1230-manual-pl",
+  "title": "CP 1230 Demolition Tool: Spare Parts List",
+  "author": "Chicago Pneumatic",
+  "edition": "September 2005; 9800 0530 01",
+  "category": "tools",
+  "scope": "Actual exploded parts drawings; older model-specific parts list, not a universal air-hammer parts catalogue.",
+  "kind": "pdf",
+  "download_filename": "cp-1230-manual-pl.raw",
+  "original_pages": 8,
+  "original_sha256": "5283446d33005a72a62f10e34134ff2ccfb7548b1df68901a8b30425acbc403e",
+  "original_bytes": 539590,
+  "source_url": "https://cp.com.pl/files/file/pliki_serwis/cp1230.pdf",
+  "final_url": "https://cp.com.pl/files/file/pliki_serwis/cp1230.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/cp-1230-manual-pl/p0001-0008.pdf",
+      "text": "text/cp-1230-manual-pl/p0001-0008.txt",
+      "start": 1,
+      "end": 8,
+      "pages": 8,
+      "bytes": 539590,
+      "sha256": "5283446d33005a72a62f10e34134ff2ccfb7548b1df68901a8b30425acbc403e",
+      "text_sha256": "e8010a727a9afc02e569d6473fcafb9ad3166830a271141290797736bfa1673c",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

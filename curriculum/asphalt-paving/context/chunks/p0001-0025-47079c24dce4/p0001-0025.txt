@@ -1,0 +1,1554 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/crosby-termination/p0001-0025.pdf
+SOURCE SHA-256: 47079c24dce4dba1d726aee3f149f455d7fdcb8890742547a4ae5d1893f160ef
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+WIRE ROPE END
+TERMINATIONS
+User’s Manual
+
+
+Featuring Application and
+Installation Procedures for:
+National Swage Fittings
+Crosby Spelter Sockets
+Crosby Mooring Sockets
+Crosby Wedge Sockets
+Crosby Wire Rope Clips
+WIRELOCK® Socketing Resin
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+Table of Contents
+                             Wire Rope End Termination User’s Manual
+General Information..........................................................................................................................................................1
+
+General Cautions and Warnings. .....................................................................................................................................2
+
+Definitions................................................................................................................................................................... 3 - 5
+
+Swage Terminations................................................................................................................................................. 7 - 56
+(Swaging Machines, Sleeves, Sockets, Buttons, Hooks, Die Selection, Swaging Instructions)
+
+Crosby® Spelter Terminations................................................................................................................................. 57 - 67
+(Spelter Sockets, Button Sockets, Mooring Sockets)
+
+WIRELOCK®........................................................................................................................................................... 69 - 95
+(Preparation, Pouring, Testing, Approvals, MSDS)
+
+Wedge Socket Terminations..................................................................................................................................97 - 106
+(Preparation, Pouring, Testing, Approvals, MSDS)
+
+Wire Rope Clips. ................................................................................................................................................. 107 - 116
+(U-Bolt, Fist Grip®)
+
+
+
+
+                                                                                                                                                        Scan this QR Code with
+                                                                                                                                                        your smart device to visit
+                                                                                                                                                        our website.
+
+
+Corporate Office                                                              Canada                                                            Europe
+2801 Dawson Road                                                              145 Heart Lake Rd.                                                Industriepark Zone b N°26
+Tulsa, OK 74110                                                               Brampton, Ontario                                                 2220 Heist-op-den-Berg
+P: (918) 834-4611                                                             Canada L6W 3K3                                                    Belgium
+F: (918) 832-0940                                                             P: (905) 451-9261                                                 P: (+32) (0)15 75 71 25
+crosbygroup@thecrosbygroup.com                                                F: (877) 260-5106                                                 F: (+32) (0)15 75 37 64
+                                                                              sales@crosby.ca                                                   sales@crosbyeurope.com
+
+
+
+                                                    www.thecrosbygroup.com
+
+
+
+
+                                                                                                                               Copyright © 2014 The Crosby Group LLC
+                                                                                                                                                   All Rights Reserved
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+General Information
+
+             The purpose of this manual is to provide a resource for preparing wire rope
+             terminations when using Crosby products. The publication contains the
+             recommendations of The Crosby Group LLC, OSHA, ASME and the Wire Technical
+             Board. All recommendations in this manual assume the use of Crosby products.
+             Properly following the procedures will produce the most reliable and efficient
+             terminations available. Crosby provides valuable knowledge about swaging, socketing
+             and other termination processes. This knowledge is the result of many years of
+             extensive testing and “on the job” experience.
+
+             There are many types of wire rope end terminations that can be produced. Your
+             choice will be dependent upon the application and the task in which the termination
+             is going to be used. The Working Load Limit (WLL) rating of the termination/wire
+             rope combination is not entirely a function of the fitting being used. Therefore, the
+             anticipated efficiency is shown as a function of the wire rope strength. Refer to either
+             the Wire Rope Technical Board’s “Wire Rope Sling User’s Manual” for the wire rope’s
+             rated capacity, or the “ Wire Rope User’s Manual” for the minimum breaking force of
+             the wire rope, whichever applies to your application.
+
+             It is important that the proper components be used to make a termination. For a
+             specific style of wire rope termination you must choose the correct type and size of
+             fitting, the correct swaging dies if a swage product is required, the correct WIRELOCK®
+             Kit if speltered product is required, and proper construction of wire rope as shown in
+             the Crosby General Catalog.
+
+             These Crosby instructional materials provide basic application information for
+             the Crosby products and their use with selected other lifting devices. Refer to all
+             manufacturer’s warnings, the current Crosby Seminar workbook, the current Crosby
+             General Catalog and current OSHA and ASME standards as they apply.
+
+             References to ASME, OSHA and WRTB are for the revisions in effect at time this
+             booklet was printed.
+
+             The Crosby Group LLC reserves the right to change product design, materials and
+             specifications without incurring obligations.
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                 Rev. 2                                            1
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+General Cautions and Warnings
+All products manufactured by The Crosby Group LLC are sold with the                 Crosby Group products generally are intended for tension or pull. Side
+express understanding that the purchaser is thoroughly familiar with                loading must be avoided, as it exerts additional force or loading which
+the safe and proper use and application of the product.                             the product is not designed to accommodate.
+Responsibility for the use and application of the products rests with               Welding Crosby load support parts or products can be hazardous.
+the user. The Crosby Group disseminates product warnings and end                    Knowledge of materials, heat treatment and welding procedures are
+user application information through various channels. In addition,                 necessary for proper welding. Crosby Group should be consulted for
+Crosby provides formal product training seminars and our engineering                information.
+personnel are readily available to answer your technical questions.                 The assigned Ultimate Load Rating of Crosby Group products for the
+For more information read the Crosby General Catalog, refer to                      reeving of wire, manila or synthetic rope is based upon design; the
+Crosby’s web site @ www.thecrosbygroup.com, or contact your Crosby                  catalog ultimate strength for the rope parts, when totaled, may exceed
+Distributor or Crosby direct at 918-834-4611.                                       the assigned Ultimate Load Rating.
+Failure of the product can occur due to misapplication, abuse or                    The Working Load Limit of a sling must not exceed the lowest Working
+improper maintenance. Product failure could allow the load to become                Load Limit of the components in the system.
+out of control, resulting in possible property damage, personal injury
+or death.                                                                           The recommended Proof Load on all items in this manual is 2 times
+                                                                                    the Working Load Limit unless otherwise shown.
+There are numerous government and industry standards that cover
+products made by Crosby. This manual makes no attempt to reference                  Products that Crosby intends for swaging are identified in this manual.
+all of them. We do reference the standards that are most frequently                 For proper swaging machine training, operations and die selection,
+asked about.                                                                        refer to specific product section in this manual. To develop other
+                                                                                    product for swaging requires knowledge of materials, heat treatment,
+Ratings shown in Crosby Group literature are applicable only to new or              product design, die design and performance of the final product.
+“in as new” condition products.
+                                                                                    Use only new genuine Crosby parts as replacements when servicing
+Load Limit ratings indicate the greatest force or load a product can                or repairing Crosby products.
+carry under usual environmental conditions. Shock loading and
+extraordinary conditions must be taken into account when selecting                  Crosby products are to be considered as sparking, unless
+products for use in a system.                                                       otherwise noted.
+In general, the products displayed in Crosby Group literature are used              Product Label Replacement - In accordance with ANSI535.4-1991,
+as parts of a system being employed to accomplish a task. Therefore,                “Product Safety Labels” should be periodically inspected and cleaned.
+we can only recommend within the Working Load Limits, or other                      “Product Safety Labels” should be replaced when they are no longer
+stated limitations, the use of products for this purpose.                           legible. Current Crosby warning and application labels, for applicable
+                                                                                    products, are available from The Crosby Group LLC.
+The Working Load Limit, or Design Factor, or Efficiency Rating of
+each Crosby product may be affected by wear, misuse, overloading,                   Two decimal and fractional dimensions shown in catalog are intended
+corrosion, deformation, intentional alteration and other use conditions.            as nominal dimensions only. If three decimal dimensions are shown,
+Regular inspection must be conducted to determine whether use can                   contact Crosby for tolerance information.
+be continued at the catalog assigned WLL, a reduced WLL, or whether
+the product must be withdrawn from service.
+
+
+
+Specific warning and application instructions are included in this manual.
+The instructions can be found at the end of each product section. The symbol                                                       SEE APPLICATION AND
+shown to the right can be found on the page for products that have application                                                    WARNING INFORMATION
+instructions included in this manual. The page numbers that the specific product                       Para Español: www.thecrosbygroup.com   On Page 00
+information can be found are shown in the box for easy reference.
+
+
+Low Temperature Service
+Crosby forged and cast steel products can be used in general service conditions down to temperatures of -40° F (-40° C). McKissick blocks
+can be used in general service conditions down to temperatures of -4° F (-20° C). At temperatures from 0° F to -40° F (-18° C to -40° C),
+good rigging practice requires special attention in the following areas.
+   1. Lifting should be performed at a steady rate. Shock loading should be avoided.
+   2. Equipment containing bearings should have increased inspection and maintenance schedule, and may require special lubrication.
+   3. All lifting equipment should be given a thorough visual inspection before each lift.
+   4. Remove nicks, gouges, or cracks by grinding (5% maximum material removal).
+   5. Do not use fittings that have been welded or modified after leaving the factory.
+   6. If determined to be necessary by the user, lifting equipment should undergo periodic inspection by dye penetrant or magnetic particle
+      surface inspection.
+For operation at temperatures below -40° F (-40° C), consider “Cold Tuff” products or contact Crosby Engineering.
+
+Elevated Temperature Service
+Crosby forged and cast steel products can be used in general service conditions up to temperatures of 400° F (204° C). The following
+should be considered when operating up to temperatures of 400° F (204° C).
+   1. Products that contain non-ferrous materials, and lubricants, plastics, etc. may be adversely affected by high temperatures, and
+      typically should not exceed 200° F (93° C).
+   2. Galvanized, plated or painted fittings may suffer some or total degradation of the surface finish.
+   3. Extended exposure to elevated temperatures can cause severe surface scaling and significant permanent reduction of properties.
+   4. Repeated heating and cooling to room temperatures can result in temper embrittlement.
+For other operating temperatures or products, contact Crosby Engineering.
+2                                                                          Rev. 2                                 Copyright © 2014 The Crosby Group LLC
+                                                                                                                                      All Rights Reserved
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 5 ===
+Definitions
+ANSI – American National Standards Institute
+
+ASME – American Society of Mechanical Engineers
+
+ASTM – American Society for Testing and Materials
+
+Boom Pendant – A non-operating rope or strand with end terminations used to support the boom.
+
+Closed Socket – A wire rope end termination consisting of basket and bail made integral (Crosby G-417/S-417 and S-502).
+
+Core – The axial member of a wire rope around which the strands are laid.
+
+Commercial Surface Quality – The surface condition of the products shown in this catalog. The surface condition
+associated with the normal methods of production of raw materials and machined surfaces. More refined surface
+qualities are considered as special.
+
+Design Factor – An industry term denoting a product’s theoretical reserve capability; usually computed by dividing the
+catalog Ultimate Load by the Working Load Limit and generally expressed as a ratio, e.g., 5 to 1.
+
+Duplex Non-Tapered Sleeves – Oblong cylindrical sleeves used for fabricating wire rope turnback sling eyes. Also
+used on grommet slings (Crosby S-506).
+
+Dross – The impurities that form on top of the molten metal.
+
+Extra Improve Plow Steel (EIPS) – A grade of wire rope.
+
+End Termination – The treatment at the end or ends of a length of wire rope, usually made by forming an eye or
+attaching a fitting and designed to be the permanent end termination on the wire rope that connects it to the load.
+
+Eye or Eye Splice – A loop, with or without a thimble, formed at the end of a wire rope.
+
+Fatique Rated – Tested to a minimum standard of 20,000 cycles at 1.5 times the Working Load Limit. Will meet the
+requirements of the Euronorm standards for fatique.
+
+Fiber Core (FC) – Cord or rope of natural or synthetic fiber used as the axial member of a strand.
+
+Fist Grip Wire Rope Clips – Fitting for clamping parts of wire rope to each other to form an eye
+or splice. (Crosby G-429 Fist Grip® Clips)
+
+Flashing – Occurs when sleeve or socket material flows out into the area between the die faces.
+See picture.
+
+Flemish Eye – A mechanical splice termination formed by unlaying the end of the rope body into two parts, and
+forming an eye by looping the two parts in opposite directions and laying the rope back together. A swaged metal
+sleeve secures the ends to the body of the sling.
+
+Full Die – A process where the complete fitting is inserted into the die and swaged following specific swaging
+procedures for the product.
+
+Full Shank – A process where the full shank length of the fitting is inserted into the die and swaged following specified
+swaging procedures for the product.
+
+Improved Plow Steel (IPS) – A grade of wire rope. A term for a steel wire cold drawn with a tensile strength of
+225,000 to 295,000 P.S.I.
+
+Independent Wire Rope Core (IWRC) – A wire rope used as an axial member of a larger wire rope.
+
+Lang Lay – The type of rope in which the lay of the wires in the strand is in the same direction as the lay of the strand
+in the rope. The crowns of the wires appear to be at an angle to the axis of the rope.
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                     Rev. 2                                                          3
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 6 ===
+Definitions
+Lay –   a) the manner in which the wires in a strand or the strands in a rope are helically laid.
+
+		      b) the distance measured parallel to the axis of the rope (or Strand) in which a strand (or wire) makes
+        one complete helical convolution about the core (or center) – In this connection, Lay is also referred to as Lay
+        Length or Pitch.
+
+Lay of Rope –
+
+
+
+                         ONE LAY
+                         OF ROPE
+
+Marlin Spike – A tapered steel pin used in wire rope splicing.
+
+Open Socket – A wire rope fitting that consists of a basket and two ears with a pin (Crosby G-416/S-416, S-423T, S-501,
+SB-427).
+
+Plow Steel (PS) – Wire rope steel that contains 0.5 to 0.95 percent carbon.
+
+P.S.I. – Pounds per square inch (Pressure).
+
+Poured Socket – A socket attached by means of zinc or resins.
+
+Progressive Swaging – A process where only a portion (Crosby information is set up on thirds for its swagging
+machine capacity charts on page 66 in the 2014 Catalog) of the length of the fitting is inserted into the die and swaged
+following specific swaging procedures for that product.
+
+Proof Load – The average force applied in the performance of a proof test; the average force to which a product may
+be subjected before deformation occurs.
+
+Proof Test – A test applied to a product solely to determine injurious material or manufacturing defects.
+
+Pull Amount or Tail – The standard amount of wire used in a mechanical splice to complete the splice and give ample
+gripping area for the sleeve to secure the termination.
+
+QUIC-CHECK® – Swage Sockets incorporate a reduced machined area of the shank end of the swage socket. Before
+swaging, provides for an obvious visual difference in the shank diameter. After swaging, uniform shank diameter is
+created allowing for a QUIC CHECK® and permanent visual inspection opportunity.
+Designed to quickly determine whether the socket has been through the swaging operation. It does not eliminate the
+need to perform standard production inspections which include gauging for the proper after swage dimensions or
+proof loading.
+
+QUIC-PASS® – Crosby swaging process that is completed in just two passes.
+
+Regular Lay – The type of rope where the lay of the wires in the strand is in the opposite direction to the lay of the
+strand in the rope. The crowns of the wires appear to be parallel to the axis of the rope.
+
+RLL – Right Lang Lay.
+
+Right Regular Lay Rope (RRL) – Strands of wire rope laid to the right with the wire in each strand laid to the left.
+Right Regular Lay is recommended for use with Crosby National Swage Products.
+
+Seale – The name for a type of strand pattern that has two adjacent layers laid in one operation with any number of
+uniform sized wires in the outer layer, and with the same number of uniform but smaller sized wires in the inner layer.
+
+Shock Load – A force that results from the rapid application of a force (such as impacting or jerking) or rapid
+movement of a static load – A shock load significantly adds to the static load.
+
+Socket – Generic name for a type of rope fitting used to terminate wire rope, such as wedge socket, spelter socket, or
+swage socket (Crosby G-416/S-416, G-417/ S-417, G-517, SB-427, S-421T/S-422T/ S-423T).
+
+
+
+4                                                         Rev. 2                      Copyright © 2014 The Crosby Group LLC
+                                                                                                          All Rights Reserved
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 7 ===
+Definitions
+Spring Back – A condition that occurs when swaging a fitting to form a termination; whereby the material moves out a
+small amount when the dies are open.
+
+Swaging – The process of mechanically forming a fitting onto the eye or end of wire rope.
+
+Static Load – The load resulting from a constant applied force or load.
+
+Swaged Fitting – Fitting into which wire rope can be inserted and then permanently attached by swaging the shank
+that encloses the rope (Crosby S-319SWG, S-409, S-501, S-502, S-505 and S-506).
+
+Thimble – Grooved metal fitting to protect the eye, or fastening loop of a wire rope (Crosby G-408, G-411, G-414,
+G-414SL, and S-412).
+
+U-Bolt Wire Rope Clips – Fittings for clamping parts of wire rope to each other to form an eye or splice (Crosby
+G-450 Red-U-Bolt® Clips).
+
+Ultimate Load – The average load or force at which the product fails or no longer supports the load.
+
+Wedge Socket – A wire rope fitting wherein the rope end is secured by a wedge (Crosby S-421T, S-423T and
+McKissick US-422T Wedge Style Sockets).
+
+Wire Rope Clips – Fitting for clamping parts of wire rope to each other (Crosby G-450 Red-U-Bolt Clips and G-429
+Fist Grip® Clips).
+
+WIRELOCK® – A resin based mixture used for forming a 100% efficient termination for wire rope in sockets.
+
+Working Load – The maximum mass or force which the product is authorized to support in a particular service.
+
+Working Load Limit (WLL) – The maximum mass or force which the product is authorized to support in general
+service when the pull is applied in-line, unless noted otherwise, with respect to the centerline of the product. This term
+is used interchangeably with the following terms:
+   1. WLL
+   2. Rated Load Value
+   3. Resultant Working Load
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                     Rev. 2                                                         5
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 8 ===
+Introduction to Crosby End Terminations
+Wire rope is a very useful tool. However, for the wire                   Example #1:
+rope to be utilized, some approved type of termination
+                                                                         Wire rope clips need to be applied to 5/8” IWRC EIPS
+must be attached. The Crosby Group LLC manufactures
+                                                                         wire rope construction. A Crosby 5/8” Wire Rope Clip is
+a variety of fittings designed specifically to terminate
+                                                                         considered an 80% efficient termination. The wire rope
+wire rope (see table below). Guidelines and procedures
+                                                                         has a nominal strength of 20.6 tons, and the design factor
+for the application of terminations shown are covered in
+                                                                         is 5 to 1. To calculate the allowed WLL for the assembly
+this manual.
+                                                                         you would do the following calculations.
+The type of end termination selected is determined by the
+application and strength required of the final assembly.                 Ultimate Strength = Termination x Rope’s Minimum
+                                                                                              Efficiency		 Breaking Force
+Each wire rope termination attaches with a special
+method which may affect the strength of the wire rope.                    Working
+                                                                         Load Limit = Ultimate ÷ Design
+The terminations and stated efficiency shown in
+                                                                           (WLL)		 Strength		 Factor
+this document are based on the specific wire rope
+constructions defined for each respective product. It is                 Or
+understood that other constructions of wire rope and
+strand are available in a variety of different constructions.            Ultimate Strength = .80 x 20.6 = 16.5 tons
+                                                                         WLL = 16.5 ÷ 5 = 3.3 tons
+    Before using any National Swage fitting with                         In summary, the WLL of the assembly is determined by
+    any other type lay, construction or grade of                         the efficiency of the termination, the nominal strength of
+    wire rope stated in the note for that fitting, it is                 the rope and the design factor.
+    recommended that the termination be destructive                      Example #2:
+    tested and documented to prove the adequacy of
+    the assembly to be manufactured.                                     The WLL needs to be determined for a Flemish Eye
+                                                                         mechanical spliced wire rope sling using 5/8” IWRC
+                                                                         EIPS wire rope construction. A properly made Flemish
+          Termination Type          Termination Efficiency               Eye sling has an approximate efficiency of 96%. The
+                  Swage Sockets              100%                        wire rope has a nominal strength of 20.6 tons, and the
+                                                                         design factor is 5 to 1. To calculate the allowed WLL for
+                  Spelter Sockets            100%                        the assembly you would do the following calculations.
+                  Wedge Sockets               80%                        Ultimate Strength = .96 x 20.6 = 19.8 tons
+
+                  Swage Buttons               98%                        WLL = 19.8 ÷ 5 = 3.9 tons
+                                                                         Note: The efficiencies above are valid only if the
+                  Flemish Eyes           90% or Better
+                                                                         terminations are properly fabricated. All ratings given
+                  Turnback Eyes          90% or Better                   in tons refer to short tons of 2,000 lbs. Ratings given
+                                                                         in metric tons equal 2,204 lbs. and are mentioned as
+                  Wire Rope Clips        80% or Better                   “tonnes” (t) or “metric tons”.
+
+Termination Efficiency
+The strength of the wire rope is measured by the
+concept of efficiency. The efficiency ratings for wire
+rope end terminations are based upon the minimum
+breaking force of the wire rope. The table above depicts
+some of the more common termination types and
+their efficiencies. Notice the efficiencies range from 80
+percent for wedge sockets and wire rope clips to 100
+percent for swaged and speltered sockets.
+What does efficiency mean in the field? An 80 percent
+efficient termination will result in only 80 percent of the
+wire rope’s minimum breaking force being available to be
+utilized. To determine the actual working load limit that
+can be assigned to a particular termination, the required
+design factor must then be applied to this reduced
+breaking strength.
+
+
+
+6                                                               Rev. 2                         Copyright © 2014 The Crosby Group LLC
+                                                                                                                   All Rights Reserved
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 9 ===
+Swage Terminations
+                                                                     S-501                                 S-502
+                                                                  Open Swage                           Closed Swage                        S-319SWG
+                                                                    Socket                                Socket                          Shank Hook
+
+
+
+
+               1500 Ton Hydraulic
+               Swaging Machines
+
+
+
+
+                                  S-505
+                                Standard                                  S-506                                      S-409
+                              Steel Sleeves                            Duplex Sleeve                              Swage Button
+
+
+
+
+                                                           Table of Contents
+Introduction to Swaging................................................. 8               National Closed Swage Sockets. ................................ 38
+Swaging Information...................................................... 9              Swage Socket Terminations – ¼” – 1”......................... 39
+National Hydraulic Swaging Machines........................ 10                           Swage Socket Terminations – 1-1/8” & Larger............. 40
+Swaging Machine Warning......................................11-18                       Swage Socket Terminations – Progressive Swaging..... 41
+Die Information....................................................... 19-20             Cold Tuff® Swage Fittings – Buttons............................. 42
+Cold Tuff® Swage Fittings – Intro. ................................ 21                   National Swage Buttons.............................................. 43
+Cold Tuff® Swage Fittings – S-505............................... 22                      Button Terminations – 1/8” – 7/8”................................. 44
+National Steel Swaging Sleeves.............................23-24                         Button Terminations – 1” & Larger............................... 45
+Metric Die Chart.......................................................... 25            Cold Tuff® Swage Fittings – Duplex Sleeves................ 46
+Flemish Type Wire Rope Sling Eyes – Introduction. ......... 26                           National Swage Duplex Sleeves. ................................ 47
+Flemish Type Wire Rope Sling Eyes – Marking................ 27                           Turnback Terminations – 5/16” – 5/8”. ......................... 48
+Flemish Type Wire Rope Sling Eyes................................ 28                     Turnback Terminations – ¾” – 1-1/4”. .......................... 49
+Flemish Type Wire Rope Sling Eyes – 1/4” - 1”................. 29                        Swage Fittings – Hooks............................................... 50
+Flemish Type Wire Rope Sling Eyes – 12mm, 20mm & 24mm...... 30                           Shank Hooks for Swaging........................................... 51
+Flemish Type Wire Rope Sling Eyes – 1-1/8” - 1-3/4”...... 31-32                          Shank Hooks Warning............................................52-53
+Flemish Type Wire Rope Sling Eyes – 2” & Larger. .....33-34                              Swage Hook Terminations -- 3/16” - 1”........................ 54
+QUIC-PASS® Swaging Procedures.............................. 35                           Swage Hook Terminations -- 1-1/8” & Larger............... 55
+Swage Fittings – Sockets. ........................................... 36                 Swage Terminal Assemblies – Fatigue Life. ................ 56
+National Open Swage Sockets.................................... 37
+
+
+Copyright © 2014 The Crosby Group LLC                                           Rev. 2                                                                          7
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 10 ===
+Introduction to Swaging
+There are many styles of terminations that can be made in the end of wire rope using swage fittings. The choice of
+the style is dependent upon the application and the task. The Working Load Limit rating of the termination/wire rope
+combination is not entirely a function of the fitting being used. Therefore, the listing of the working load ratings is not
+within the scope of this literature. (Refer to the Wire Rope Technical Board’s “Wire Rope Sling Users Manual” for
+these values).
+
+It is important that the proper components be used to make a termination. For a specific style wire rope termination,
+you must choose the correct size and type of fitting and its corresponding swaging die. The information displayed in
+this manual is based upon using only a one (1) part, 6 X 19 or 6 X 37; FC, IPS or IWRC EIPS, Right Regular Lay
+Wire Rope. National Swage fittings are designed to be used with inch and metric size wire ropes as designated in this
+manual and the Crosby General Catalog.
+
+
+
+    Before using any National Swage fitting with
+    any other type lay, construction or grade of
+    wire rope stated in the note for that fitting, it is
+    recommended that the termination be destructive
+    tested and documented to prove the adequacy of
+    the assembly to be manufactured.
+
+
+
+
+8                                                           Rev. 2                       Copyright © 2014 The Crosby Group LLC
+                                                                                                             All Rights Reserved
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 11 ===
+Swaging Information
+The purpose of the swaging process is to produce                      The effective swaging that dies can accomplish stops
+an efficient termination in the end of wire rope that                 when the die lands touch each other. Any continued
+is permanent. Done properly, the swaging process                      swaging adds needless wear and strain on the dies
+will produce one of the most reliable and efficient                   and swaging machine. By placing a light oil on the die
+terminations available.                                               faces and in the cavity, the dies will be lubricated as
+Swaging is a cold forming fabrication method used                     well as protected. The oozing of the oil from the faces of
+to permanently attach a specially heat treated forged                 the dies as they touch will indicate when the dies have
+steel fitting to wire rope in order to form slings, boom              closed. At this point, stop the swaging cycle. Again,
+pendants or other useful devices for lifting.                         additional swaging adds needless wear and strain to the
+                                                                      dies and swaging machine.
+The hydraulic swaging equipment, required to provide
+the slow speed and high pressure necessary for ideal                  For the proper after swage dimensions, see the
+swaging control, causes considerable movement of the                  section in this publication or the General Catalog for the
+steel fitting. The extreme pressure forces the fitting’s              specific product you are swaging.
+steel to flow into the crevices between the wires and                 Key Facts About Swaging:
+strands of the wire rope, and at the same time forces the
+flow along the length of the wire rope.                               1. There are a many styles of terminations that can be
+                                                                         made in the end of wire rope using swage fittings. The
+ There are many types of swaged fittings, including:                     choice of the style is dependent upon the application
+   – Sleeves                                                             and the task.
+   – Sockets
+   – Shank hooks                                                      2. The Working Load Limit rating of the termination/
+   – Threaded studs                                                      wire rope combination is not entirely a function of the
+                                                                         fitting being used. Therefore, the listing of the working
+Efficiency                                                               load ratings is not within the scope of this literature.
+Efficiency ratings for wire rope end terminations are                    (Refer to the Wire Rope Technical Board’s “Wire Rope
+based upon the minimum breaking force of wire rope.                      Sling User’s Manual” for these values).
+Termination efficiencies for swaged fittings typically                3. It is important that the proper components be used
+range from 90 to 100 percent.                                            to make a termination. For a specific style wire rope
+                                                                         termination, you must choose the correct size and
+The efficiency of the termination depends on:                            type of fitting and its corresponding swaging die.
+   1. The type of fitting
+   2. Utilizing proper swaging techniques                             4. The information displayed in this manual is based
+   3. Type and construction of wire rope                                 upon using only a one (1) part, 6 X 19 or 6 X 37; FC,
+                                                                         IPS or IWRC EIPS, Right Regular Lay Wire Rope.
+These will be covered in greater detail in this section of
+the manual.                                                           5. National Swage fittings are designed to be used with
+                                                                         inch and metric size wire ropes as designated in this
+This publication contains the recommendations of                         manual and the Crosby General Catalog.
+The Crosby Group LLC for the use of its products to
+produce such terminations.                                            6. Before using any National Swage fitting with any
+                                                                         other type lay, construction or grade of wire rope
+National Swage, a member of The Crosby Group LLC,                        stated in the note for this fitting, it is recommended
+provides the highest quality fittings and equipment                      that the termination be destructive tested and
+available for fabricating swaged wire rope terminations.                 documented to prove the adequacy of the assembly
+In addition, National Swage also provides valuable                       to be manufactured.
+knowledge about the swaging process that is a result of
+the combination of many years of extensive testing and
+“on-the-job” training.
+
+After Swage Dimensions
+One of the important considerations in producing a
+quality termination is the overall diameter of the fitting
+after the swaging process is complete. Since all dies
+wear, and the swaged fitting used in terminations have
+spring back, the results of swaging should be checked
+after each swaging for proper after swage dimensions
+to ensure proper sling performance and to determine
+the wear condition of the die (Per the Warning on page
+71 of the 2014 General Catalog. Third statement). In
+addition to worn dies, not achieving the proper after
+swage dimension can also be due to the die not being
+fully closed during swaging. Dies showing excessive
+wear should be replaced.
+Copyright © 2014 The Crosby Group LLC                        Rev. 2                                                             9
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 12 ===
+National Hydraulic Swaging Machines
+                                                                                                                             SEE APPLICATION AND
+                                                                                                                             WARNING INFORMATION
+                                                                                                                                             On Pages 11-18
+
+
+National offers the highest quality and most complete line of Hydraulic Swaging Machines specifically designed to be
+used to swage fittings on wire rope.
+                                                      3 Capacities to Fit your Requirements:
+                                                                              • 500 Tons
+                                                                             • 1000 Tons
+                                                                             • 1500 Tons
+
+                                                                                     The following features of National Hydraulic Swaging Machines offer
+                                                                                     a number of advantages for high production sling shops:
+                                                                                     ✓✓ A dual hydraulic system which combines the use of high speed
+                                                                                        and low pressure to bring dies into position; and the low speed
+                                                                                        and high pressure necessary for ideal swaging control.
+                                                                                     ✓✓ Adjustable tonnage control, so tonnage can be set to match die
+                                                                                        block Working Load Limit.
+                                                                                     ✓✓ Four column wide stance which provides the operator ample
+                                                                                        working clearance between columns and a large area for in-
+                                                                                        process sling storage.
+                                                                                     ✓✓ Vertical swage action which gives an equalized press on the
+                                                                                        fitting to produce uniform high quality.
+                                                                                     ✓✓ Self locating spring locks snap the shoe-type dies into place for
+                                                                                        quick set-up and change.
+                                                                                     ✓✓ The National four column wide stance Hydraulic Swaging
+                                                                                        Machines, each equipped with an up-acting ram, have two side
+                                                                                        cylinders for fast approach and return of the main ram. They
+                                                                                        come in three swaging capacities.
+                                                                                             • 500 tons (4450 kN)
+                                                                                             • 1000 tons (8900 kN)
+            1500 Ton Hydraulic Swaging Machines                                              • 1500 tons (13350 kN)
+      Approximate weight 29,486 lbs. Overall height 8 ft. 10 in.
+                Fast advance and retract speed.
+            Automatic slow, precision swaging speed.
+
+
+          Swaging Machine Capacity Chart for                                                        Swaging Machine Capacity Chart for
+          Standard Round Sleeves and Buttons                                                          S-501 and S-502 Swage Sockets
+                                                          Largest Fitting Allowed                                                                                 Largest
+  Hydraulic                                                   to be Swaged                          Hydraulic                                                      Fitting
+  Swaging                              Die                         (in.)                            Swaging                                                    Allowed to be
+  Machine        Swaging               Size            S-505      S-506        S-409                Machine         Swaging                   Die Size            Swaged
+    Size         Method                (in.)           Sleeve     Sleeve      Buttons                 Size          Method                      (in.)               (in.)
+                              2-1/2 x 5 Mark Series                                                                                    2-1/2 x 5 Mark Series
+     500 Ton      Full Die             4x7              1-1/2     1-1/4*       7/8                                  Full Shank                  4x7                 3/4
+                                       5x7                                                           500 Ton                                    5x7
+                                       4x7                                                                                                      4x7
+  1000 Ton        Full Die                              2-1/2     1-1/4*      1-1/4*                               Progressive                                     1-1/4
+                                       5x7                                                                                                      5x7
+                                       5x7                                                                                                      4x7
+  1500 Ton        Full Die                              3-1/2     1-1/4*      1-1/4*                                Full Shank                                      1
+                                      6 x 12                                                                                                    5x7
+                                                                                                     1000 Ton
+                                                                                                                                                4x7
+* Largest size fitting available.                                                                                  Progressive                                     1-1/2
+                                                                                                                                                5x7
+                                                                                                                                                5x7
+                                                                                                                    Full Shank                                     1-1/4
+                                                                                                                                               6 x 12
+                                                                                                     1500 Ton
+NOTE: For special applications or conditions,                                                                      Progressive
+                                                                                                                                                5x7
+                                                                                                                                                                    2*
+                                                                                                                                               6 x 12
+contact Crosby National at (501) 982-3112.
+                                                                                                   * Largest size fitting available.
+
+
+
+
+10                                                                                   Rev. 2                              Copyright © 2014 The Crosby Group LLC
+                                                                                                                                             All Rights Reserved
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 13 ===
+NATIONAL SWAGING MACHINE                                                                Operation Safety
+         AND DIE WARNING, USE,                                        • NEVER use dies that are cracked, worn or
+                                                                        abraded (galled).
+     MAINTENANCE AND APPLICATION
+                                                                      • NEVER use dies that have an oversized cavity.
+             INFORMATION                                              • ALWAYS use a matched set of dies.
+National Four Post Swaging Machine                                    • When swaging steel fittings,DO NOT SHIM DIES.
+                                                                        Dies for steel fittings must be free to float and align
+                                                                        one to the other.
+                                                                      • When swaging aluminum fittings, THE STEEL DIES
+                                                                        MUST BE SHIMMED. Shim the side of the die to
+                                                                        ensure the proper cavity alignment for flash removal.
+                                                                      • NEVER shim between the dies.
+                                                                      • When Swaging Crosby National fittings, use only the
+                                                                        proper capacity swaging machine for the size of fitting
+                                                                        used (See Swaging Capacity Chart). If the swaging
+                                                                        machine capacity exceeds the die block Working
+                                                                        Load Limit rating, adjust the swaging machine
+                                                                        tonnage to the Working Load Limit shown on the die
+                                                                        block being used. See Table 1 for die block Working
+                                                                        Load Limit.
+                                                                      • Always use the correct size and type of die for the
+                                                                        size wire rope fitting used.
+                       WARNING                                        • Always lubricate die faces and cavities with light
+ •   Misuse of swaging machine can result in serious                    weight oil.
+     injury or death.                                                 • Progressive swaging of fittings must be done in
+ •   READ, UNDERSTAND, AND FOLLOW all the                               accordance with procedure shown in “Wire Rope End
+     information in this warning document and                           Terminations User’s Manual”. Only open channel dies
+     the instructions shown in “Wire Rope End                           are to be used.
+     Terminations User’s Manual” before operating the
+                                                                      • Stop swaging when the cavity side of both dies touch.
+     swaging machine.
+                                                                      • Make sure part is swaged to the recommended after
+ •   Swaging machine operators must be trained in
+     accordance with the information supplied by The
+                                                                        swage dimensions (See Crosby General Catalog or
+     Crosby Group LLC. THE SWAGING MACHINE                              “Wire Rope End Terminations User’s Manual”, Die
+     OWNER IS RESPONSIBLE FOR THE TRAINING                              Guide, or Die Chart).
+     AND THE SAFE OPERATION OF THE SWAGING                            • If a swage fitting other than a Crosby National is
+     MACHINE.                                                           used, determine adequacy of the termination by a
+ •   Do not swage oversize parts.                                       destructive pull test.
+ •   Only swage parts of the proper design, material                  • All swage sockets must be swaged with socket head
+     and hardness.                                                      adjacent to the socket relief (largest radius) on the die.
+ •   If misused, dies and/or die holders may break.                   • For special applications or conditions, contact
+     PROTECT YOURSELF AND OTHERS:Always stay                            Crosby National.
+     away from the sides of the swaging machine
+     during swaging operations and alert others in                                                      TABLE 1
+     your work area.                                                               Die Size                         Working Load Limit
+                                                                               (Height x Width)                            (WLL)*
+ •   Do not shim between dies.
+                                                                                  2” x 3-1/2”                       200 Ton Mark Series
+ •   Do not shim die or die holder unless swaging                                 2-1/2” x 4”                         200 Ton National
+     aluminum sleeves
+                                                                                  2-1/2” x 5”                       500 Ton Mark Series
+ •   Do not use die holders that are damaged or have                                4” x 7”                        1,200 Ton Mark Series
+     loose side rails or side plates.                                               5” x 7”                          1,500 Ton National
+ •   Keep head, hands, and body away from moving                                   6” x 12”                          3,000 Ton National
+     swaging machine and die parts.
+                                                                      * Note: These Working Load Limits are for Crosby® National Die Blocks only.
+ •   Consult die manufacturer for correct use of                      The Working Load Limits of die blocks from other manufacturers may vary.
+     their product.
+ •   Adjust swaging machine tonnage to the Working
+     Load Limit (WLL) tonnage shown on the die block
+     being used. If the Working Load Limit is not legible,
+     refer to Die height & width and corresponding
+     Working Load Limit (See Table 1). Failure to do so
+     can result in serious injury or death.
+
+
+Copyright © 2014 The Crosby Group LLC                        Rev. 2                                                                                 11
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 14 ===
+Inspection Maintenance Safety
+• Make sure all bolts and nuts are in place and                                  • Inspect the rods for corrosion. Use #000 emery cloth
+  tightened to recommended torque as shown in Table                                or steel wool to maintain a high polish surface.
+  A, on page 13 for new style swaging machines, and                              • Do not increase the hydraulic system pressure above
+  Table B on page 14 for legacy swaging machines.                                  the factory preset pressure of: 6500 psi for 500 ton,
+• Load block or die base plate surfaces must be to                                 1000 ton and 1500 ton swaging machines – 5000 psi
+  manufacturers specifications for thickness and                                   for 3000 ton swaging machine.
+  flatness to provide complete support of the die                                • Under ordinary operating conditions, drain and clean
+  during swaging.                                                                  reservoir every two (2) years.
+• Make sure die holder side rails are not bent, loose or                         • Filters inside of the reservoir should be cleaned every
+  damaged.                                                                         time the reservoir is drained and cleaned. The Racine
+• Clean dies and die holder surfaces. Keep free of                                 “tell-tale” suction filter should be cleaned every
+  metal shavings, slag, grit, sand, floor dry, etc.                                six (6) months.
+• Lubricate the four guide bushings daily with light oil.
+
+                                                                                    Die Working Load Limit Pressure Adjustment on
+     Die Working Load Limit Pressure Adjustment on                                            3000 Ton Swaging Machine
+       Lower Cylinder National 500 Ton through 1500
+                     Ton Swaging Machines                                          For reducing tonnage, use selector switch on front of
+     Follow this procedure to adjust swaging tonnage                               control panel to select lower tonnage (approximately
+     (pressure) on your swaging machine.                                           1500 Tons) or 3000 Ton.
+     1. Install the die holder(s) or die adapter with the                                                                       ALWAYS USE 5 X 7 OR
+         dies to be used.
+                                                                                                 WARNING                        6 X 12 DIES AT 1500
+                                                                                                                                TON SETTING.
+     2. Bring the dies together (without a part in the
+         dies) until they just touch.
+     3. Turn the tonnage control valve, which is located
+         on the control panel left of the tonnage gauge,                                                                        USE ONLY 6 X 12 DIES
+         counter-clockwise about (6) six turns or until                                          WARNING                        ON TONNAGE THAT
+         knob no longer turns.                                                                                                  EXCEEDS 1500 TONS.
+     4. Now (without a part in the dies) apply pressure to
+         the dies by pressing the foot pedal marked “up”.
+        A. If the tonnage is lower than desired Working
+            Load Limit, turn the valve clockwise while
+            continuing to press the foot pedal marked “up”
+            until desired Working Load Limit is reached.
+        B. If tonnage is higher than desired Working
+            Load Limit, release pressure by pressing the
+            pedal marked “down”. Then repeat steps 2
+            through 4.
+
+
+     Swaging Machine Capacity Chart for                                                     Swaging Machine Capacity Chart for
+     Standard Round Sleeves and Buttons                                                       S-501 and S-502 Swage Socket
+                                          Largest Fitting Allowed to                  Hydraulic                                                Largest Fitting
+                                                 be Swaged                            Swaging                                      Die         Allowed to be
+  Hydraulic
+                                                     (in.)                            Machine               Swaging                Size           Swaged
+  Swaging
+                                                                                        Size                Method                 (in.)            (in.)
+  Machine       Swaging       Die Size    S-505    S-506      S-409
+    Size        Method          (in.)     Sleeve   Sleeve    Buttons                                                            Mark Series
+                                                                                                                                 2-1/2 x 5
+                                Mark                                                                       Full Shank                               3/4
+                                                                                                                                   4x7
+                               Series                                                 500 Tons                                     5x7
+     500 Ton     Full Die     2-1/2 x 5   1-1/2    1-1/4*      7/8
+                                4x5                                                                                                4x7
+                                                                                                           Progressive                              1-1/4
+                                5x7                                                                                                5x7
+                                4x7                                                                                                4x7
+  1000 Ton       Full Die                 2-1/2    1-1/4*     1-1/4*                                       Full Shank                                1
+                                5x7                                                   1000 Tons                                    5x7
+                               5x7                                                                         Progressive             4x7              1-1/2
+  1500 Ton       Full Die                 3-1/2    1-1/4*     1-1/4*
+                               6 x 12                                                                                             5x7
+                                                                                                           Full Shank                               1-1/4
+  3000 Ton       Full Die      6 x 12     4-1/2    1-1/4*     1-1/4*                                                              6 x 12
+                                                                                      1500 Tons
+* Largest size fitting available.                                                                                                 5x7
+                                                                                                           Progressive                               2
+                                                                                                                                  6 x 12
+                                                                                                           Full Shank             6 x 12             2*
+                                                                                      3000 Tons
+                                                                                                           Progressive            6 x 12            2-1/2
+                                                                                 * Largest size fitting available.
+
+12                                                                      Rev. 2                                       Copyright © 2014 The Crosby Group LLC
+                                                                                                                                         All Rights Reserved
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 15 ===
+NATIONAL HYDRAULIC SWAGING MACHINE
+                            TORQUE MAINTENANCE INFORMATION
+                                                                        Item           No. Req’d.      Description
+                                                                        A                  1           Cylinder
+                                                                        B                  1           Housing Cap
+                                                                        C                  1           Piston
+                                                                        D                  4           Tie Rod
+                                                                        E                  8           Tie Rod Nut
+                                                                         F                 1           Platen
+                                                                        G                  2           Guide
+                                                                        H                  1           Gland
+                                                                         J                 4           Bushing
+                                                                        K                  1           Mono Seal
+                                                                         L                 1           Seal Spacer
+                                                                        M                  2           Side Cylinder
+                                                                        N                  2           Side Cylinder Mount
+                                                                        P                  2           Lower Bracket
+                                                                        Q                  2           Knuckle
+                                                                        R                  2           Upper Bracket
+                                                                        S                  1           Check Valve
+                                                                         T                 1           Check Valve Seal
+                                                                        U                  4           Tie Rod Eyebolt
+                                                                        V                  1           Cap Eyebolt
+                                                                        W                  4           Key
+                                                                        X                  2           Bumper
+                                                                        Y                  2           Bumper Strip
+                                                                         Z                 2           Rubber Skirt
+                                                                        AA                 1           Bottom of Seal Cavity
+
+
+
+
+                                                              Table B
+                                                                                               Torque in Ft-Lbs
+                                                                             500 Ton   1000 Ton     1500 Ton
+                 No.                                                         Swaging   Swaging      Swaging        Maintenance
+   Item No.     Req’d.                          Description                  Machine   Machine      Machine         Schedule
+      1          Varies   Tie Rod Nut Jack-Bolts                               105        N/A         260              Weekly
+      2            4      Check Valve Bolts                                    100        100         100              Weekly
+      3            8      Lower Bracket Bolts                                  100        100         100              Weekly
+      4            8      Upper Bracket Bolts                                  100        100         100              Weekly
+      5            4      Guide Bolts                                          250        250         250              Weekly
+      6            8      Bushing Screws                                       15         15           15              Weekly
+      7            4      Key Screws                                            4          4            4              Weekly
+      8            4      Platen Bolts                                         525        600         700              Monthly
+      9            6      Bumper Screws                                         4          4            4              Monthly
+      10          12      Gland Bolts                                          700        800         800              Monthly
+
+
+
+
+                                                                                                               Torque in ft./ lbs.
+                                                                                                Die Holder     1/4 - 20 UNC 13
+                                                                                                Bolt Torque    5/16 - 18 UNC 15
+                                                                                                               5/8 - 11 UNC 211
+                                                                                                               7/8 - 9 UNC 583
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                         Rev. 2                                                                 13
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 16 ===
+NATIONAL LEGACY HYDRAULIC SWAGING MACHINE
+                         TORQUE MAINTENANCE INFORMATION
+                                                                                        Item           No. Req’d.      Description
+                                                                                          1                 1          Cylinder
+                                                                                          2                 1          Housing Cap
+                                                                                          3                 1          Piston
+                                                                                          4                 4          Tie Rod
+                                                                                          5                 8          Nut
+                                                                                          6                 1          Platen
+                                                                                          7                 2          Guide
+                                                                                          8                 1          Gland
+                                                                                          9                 4          Bushing
+                                                                                         10                 1          Packing Set
+                                                                                         11                12          Packing Gland Nut
+                                                                                         12                 4          Packing Gland Spacer
+                                                                                         13                12          Stud
+                                                                                         14                 4          Cap Screw
+                                                                                         15                 4          Cap Screw
+                                                                                         16                 2          Lower Bracket
+                                                                                         17                 1          Upper Bronze Ring
+                                                                                         18                 2          Upper Bracket
+                                                                                         19                 8          Machine Screw
+                                                                                         20                 2          Side Cylinder
+                                                                                         21                 1          Lower Bronze Ring
+
+
+                                                                                         A                 1           Block
+                                                                                         B                 4           Stud
+                                                                                         C                 4           Nut
+                                                                                         D                 1           Copper “O” Ring
+                                                                                         E                 4           Lock Nut
+                                                                                         X                 1           Top of Cylinder
+                                                                                         Y                 1           Bottom of Packing Cavity
+
+
+
+
+                                                                     Table A
+                                                                                                       Torque in Ft. Lbs.
+                                                                               500 Ton         800 Ton 1000 Ton     1500 Ton
+                                                                               Swaging         Swaging Swaging      Swaging       Maintenance
+     Item No.                         Description                              Machine         Machine Machine      Machine        Schedule
+        5       Tie Rod Nuts                                                     2000           2250      2500        2500            Weekly
+       14       Piston Bolts                                                      525            600       600         700           Monthly
+       11       Packing Gland Nuts (over spacers only) “all others                200            200       200         200            Weekly
+                hand tighten”
+       15       Platen Guide Bolts                                                250            250       250         250            Weekly
+                Packing Gland Bolts                                               700            800       800         800           6 Months
+       13
+                Side Cylinder Bolts                                               100            N/A       100         150            Weekly
+
+       19       Guide Bushing Bolts                                               15             15        15          15             Weekly
+                80 M Piston Pump Pistons                                      96 to 125 all Swaging Machines
+
+
+
+                                                                                                                               Torque in ft./ lbs.
+                                                                                                                 Die Holder    1/4 - 20 UNC 13
+                                                                                                                 Bolt Torque   5/16 - 18 UNC 15
+                                                                                                                               5/8 - 11 UNC 211
+                                                                                                                               7/8 - 9 UNC 583
+
+
+
+
+14                                                                   Rev. 2                              Copyright © 2014 The Crosby Group LLC
+                                                                                                                             All Rights Reserved
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 17 ===
+Die Information                                                        Dies for 6mm through 26mm (except 12mm, 20mm
+                                                                       and 24mm)
+                       CAUTION                                         Swaging on 6mm through 26mm metric ropes for
+ •   Improper die selection could result in significant                Flemish Eye slings requires the selection of the proper
+     loss of efficiency in the termination.                            S-505 Standard Steel sleeve and the use of the tapered
+                                                                       cavity only. Refer to page 24 of the Wire Rope End
+National dies and die holders are made solely for                      Termination User’s Manual for proper sleeve and
+swaging properly designed fittings on wire rope, and any               die selection.
+other uses are prohibited.
+The swaging operation results in a high degree of                      Dies for 12mm, 20mm and 24mm
+cold metal flow. The movement that occurs between
+                                                                       Swaging on 12mm, 20mm and 24mm metric ropes for
+the fitting and the dies will cause wear of the dies.
+                                                                       Flemish Eye slings requires the selection of the proper
+Therefore, to prolong the life of the dies, it is important
+                                                                       S-505 Standard Steel sleeve and the use of both the
+to always lubricate die faces and cavities between each
+                                                                       open cavity and tapered cavity in special dies. Refer to
+pass with a light weight oil or high pressure grease.
+                                                                       page 25 of the Wire Rope End Termination User’s Manual
+When scores appear in the die cavities, the dies should                for proper sleeve and die selection.
+be removed from service.
+NEVER EXCEED THE WORKING LOAD LIMIT OF                                 Dies for 28mm and larger
+DIES OR DIE HOLDERS.
+                                                                       Swaging on 28mm and larger metric ropes for Flemish
+All National Standard dies 1/4” through 1” include an                  Eye slings requires the selection of the proper S-505
+open channel die cavity and a tapered die cavity in the                Standard Steel sleeve and the use of 2 sets of open
+same die block.                                                        channel dies (1st stage and 2nd stage) for each size.
+Dies for S-505 Standard Steel Sleeves                                  Beginning with the 1st stage die and finishing with
+(Flemish Eyes)                                                         the 2nd stage die will achieve proper after swage
+                                                                       dimensions. Dies for S-505 sleeves 28mm and larger
+Die sizes for 1/4” through 1”                                          are single cavity with open channel. Refer to page 24
+                                                                       and 25 of the Wire Rope End Termination User’s Manual
+Swaging 1/4” through 1” Standard Steel S-505 sleeves                   for proper sleeve and die selection.
+on Flemish Eye terminations requires the use of the
+taper cavity only. Refer to page 24 of the Wire Rope End               Important: If the specific size metric rope required is
+Termination User’s Manual for proper die selection.                    not listed on page 24 of the Wire Rope End Termination
+                                                                       User’s Manual refer to Intermediate Metric Die Chart on
+Die sizes for 1-1/8” and above                                         page 25 of the manual for proper sleeve and
+Swaging 1-1/8” and larger Standard Steel S-505 sleeves                 die selection.
+on Flemish Eye terminations requires using 2 sets of
+open channel dies (1st stage and 2nd stage) for each                   Dies for QUIC-PASS® Swaging System – 1/4”
+size. Beginning with the 1st stage die and finishing                   through 1-1/2”
+with the 2nd stage die will achieve proper after swage
+dimensions. Dies for S-505 Sleeves 1-1/8” and larger are               The QUIC-PASS® swaging system allows “Flemish
+single cavity with open channel. Refer to page 24 of the               style” wire rope terminations to be swaged in only two
+Wire Rope End Termination User’s Manual for proper                     passes. This is accomplished while maintaining currently
+die selection.                                                         published efficiency ratings and utilizing National Swage
+                                                                       S-505 Standard “COLD TUFF”® Steel Sleeves.
+Using S-505 Sleeves with Metric Ropes                                  The special design of the QUIC-PASS® dies allows the
+                                                                       swaging process to be completed in just two passes,
+Although Crosby National S-505 Standard Steel sleeves
+                                                                       resulting in a 50-75% reduction in the number of passes
+are designed to be used with most metric ropes, there
+                                                                       required with conventional swaging systems. Unlike
+are selected “intermediate” sizes of metric ropes that
+                                                                       standard round dies, the QUIC-PASS® dies close
+when swaged in standard National dies utilizing Crosby
+                                                                       completely with each pass, resulting in an increase in
+National S-505 sleeves do not achieve required after
+                                                                       overall swaging process efficiencies (the job can be
+swage dimensions and efficiencies. To ensure all S-505
+                                                                       performed quicker), a reduction in the complexity of
+sleeves achieve the required efficiency when used with
+                                                                       swaging (the concern for excess flashing between dies
+metric ropes, Crosby provides special National swaging
+                                                                       has been eliminated) and a reduction in training time
+dies to be used in conjunction with selected size
+                                                                       needed for operators (more user friendly).
+metric ropes. These new dies will produce the required
+efficiencies and after swage dimensions.                               The finished sleeve has a “Hex” appearance that
+                                                                       provides a QUIC-CHECK® look to determine if the
+The table found on Page 24 of the Wire Rope End                        termination has been swaged and provides a flat
+Termination User’s Manual identifies the new dies that                 surface that allows for ease of I.D. stamping on the
+are required to properly swage the selected intermediate               finished sleeve. Refer to page 24 of the Wire Rope End
+size wire ropes not covered in the standard product                    Termination User’s Manual for proper die selection.
+offering found on Page 25 of the manual.
+
+
+Copyright © 2014 The Crosby Group LLC                         Rev. 2                                                         15
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 18 ===
+Dies for S-501 & S-502 Swage Sockets
+Swaging all S-501 & S-502 Swage Sockets requires the
+use of single cavity die. This is a special die designed
+with a relief for swage sockets and extra length to swage
+the full length of the shank. Refer to pages 36 and 37 of
+the Wire Rope End Termination User’s Manual for proper
+die selection.
+
+Swage Sockets for Spiral Strand Rope
+Our tests indicate that if the spiral strand is 1 x 19 or
+greater, and the ultimate strength does not exceed
+Table 4 of ASTM A586, you can use dies for size swage
+sockets up to the 1-1/4”. For sizes greater than 1-1/4” the
+following table will apply:
+If the strand is of greater strength than Table 4 or has
+less metallic area, we must recalculate the design and                                     Two Cavity Die
+test for adequacy.
+
+Dies for S-506 Turnback Sleeves
+Turnback eye terminations using 5/16” through 1” S-506
+Sleeves utilize the S-505 Standard Steel Sleeve die (1st
+Stage open channel die only). The 1-1/4” S-506 Sleeve
+utilizes the 1-3/8” socket (S-501 and S-502) die. Refer to
+page 46 of the Wire Rope End Termination User’s Manual
+for proper die selection.
+
+
+Dies for S-409 Buttons
+Buttons are swaged in open channel dies. Refer to page
+43 of the Wire Rope End Termination User’s Manual for
+proper die selection.
+Specific recommended swaging practices can be found
+in each product section of this manual. The proper
+die selection and the recommended maximum after
+swage dimensions are referenced in the section of this                 Never use dies that are cracked, worn or abraded
+manual that contains the product you are swaging. This                 (galled).
+information can also be found in The Crosby General
+Catalog (See Section “Wire Rope End Terminations”),
+the National Swage Die Guide, or by referring to the
+National Swage Die Chart.
+Dies and die adapters to fit other type swaging
+machines are available upon request (Refer to page 19).
+
+
+
+
+                     Single Cavity Die
+
+
+16                                                            Rev. 2                       Copyright © 2014 The Crosby Group LLC
+                                                                                                               All Rights Reserved
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 19 ===
+After Swage Inspection Procedures                                        No-Go Gauge Information
+                                                                         To assist in checking the after swage dimensions of the fitting,
+                                                                         the Crosby Group provides the National No-Go Gauges. When
+                          WARNING                                        used correctly the National No-Go Gauges can determine
+                                                                         if the fittings were swaged to the proper diameter. We would
+ •   Read, understand, and follow these instructions                     recommend that all Crosby products or product swaged in
+     before using the National QUIC-PASS® Swaging                        Crosby dies be checked with the proper gauge to determine
+     System.                                                             the acceptability of the swaging process.
+ •   Improper after swage dimensions can result in sling                 • Gauges are made of hardened alloy steel and machined to
+     failure resulting in property damage, serious injury                    strict tolerances.
+     or death.                                                           • Gauge can be used to verify that all fittings have been
+ •   Always gauge or measure the after swage                                 swaged properly.
+     dimensions to ensure proper sling performance.                      • After swage dimensions not within the maximum limits may
+ •   Using National Swaging System with ropes and                            result from worn dies or improper swaging techniques.
+     termination styles other than shown in these                        • Other type gauges are available upon request.
+     procedures may reduce the performance of the
+                                                                         • National No-Go Gauges are available for a variety of
+     termination and lead to premature failure.
+                                                                             products (See Table 1).
+ •   When using rope constructions other than shown in                   • No-Go Gauges and QUIC-PASS® No-Go Gauges are not
+     this procedure, the termination must be destructive                     interchangeable.
+     tested and documented to prove adequacy of the
+     assembly to be manufactured.                                                                        Table 1
+                                                                                   Fitting and Size                     Part No.
+ •   The QUIC-PASS Swaging System is designed only
+                      ®
+                                                                          505 Sleeve 1/4 - 7/8                          1095512
+     for “Flemish Eye” terminations using National S-505
+                                                                          505 Sleeve 1 - 1-1/2                          1095521
+     Standard Steel Sleeves.
+                                                                          505 Sleeve 1-3/4                              1095530
+ •   The QUIC-PASS® Swaging System is not designed                        505 Sleeve 2                                  1095549
+     for Cable-Laid wire rope slings.                                     505 Sleeve 2-1/4                              1095558
+                                                                          505 Sleeve 2-1/2                              1095587
+                                                                          505 Sleeve 2-3/4                              1095576
+Checking Swaging Dimensions                                               505 Sleeve 3                                  1095565
+                                                                          505 Sleeve 3-1/2                              1095594
+One of the important considerations in producing a quality
+                                                                          505 Sleeve 3-3/4                              1095601
+termination is the overall diameter of the fitting after the
+                                                                          505 Sleeve 4                                  1095610
+swaging process is complete. Since all dies wear, and the                 501/502 Socket 1/4 - 1                        1095647
+swaged fitting used in terminations have spring back, the                 501/502 Socket 1-1/8 - 1-3/4                  1095656
+results of swaging should be checked periodically to determine            501/502 Socket 2                              1095665
+the wear condition of the die as well as to ensure the fitting is
+swaged to proper dimensions.
+                                                                         Using No-Go Gauges
+Key Facts About After Swage Dimensions:
+                                                                         When swaged properly, the gauge will go up and down (see
+1. In addition to worn dies, not achieving the proper after              Figure 1) and around the full length of the fitting (see Figure 2).
+    swage dimension can also be due to the die not being
+                                                                         For the proper after swage dimensions, see the section in this
+    fully closed during swaging. Dies showing excessive wear
+                                                                         publication for the specific product you are swaging.
+    should be replaced.
+2. The effective swaging that dies can accomplish stops
+    when the die lands touch each other. Any continued
+    swaging adds needless wear and strain on the dies and
+    swaging machine.
+3. By placing a light oil on the die faces and in the cavity, the
+    dies will be lubricated as well as protected.
+4. The oozing of the oil from the faces of the dies as they
+    touch will indicate when the dies have closed. At this point,
+    stop the swaging cycle.
+5. Additional swaging adds needless wear and strain to the
+    dies and swaging machine.                                                                          Figure 1
+6. Never use dies that are cracked, worn or abraded (galled).
+7. The Crosby Group does not recommend the checking of
+    die dimensions as an acceptable method of determining
+    the quality of a swage sleeve, button, ferrule, or socket.
+8. It is our recommendation that the checking of the after
+    swage dimension of the swaged fitting is the most accurate
+    indicator of a properly swaged termination. Measuring the
+    die cavity only is not an acceptable process control check.
+9. If the die cavity wears, the dies are not closed completely
+    during swaging. If an inadequate number of presses are
+    used, it could be quickly identified by checking the after
+    swage dimension of the part.
+                                                                                                       Figure 2
+10. Swaging Machine not producing sufficient tonnage will
+    affect after swage dimensions.
+Copyright © 2014 The Crosby Group LLC                             Rev. 2                                                                 17
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 20 ===
+QUIC-PASS® No-Go Gauges                                                       QUIC-PASS®
+As a further aid, QUIC-PASS® No-Go gauges are available for                      Maximum After Swage Dimensions
+checking the sleeve’s dimensions after swaging is complete.
+                                                                                                   Maximum “After Swage” Dimension
+• Gauges are made of hardened alloy steel and machined to
+                                                                                  Size                           (in.)
+   strict tolerances.
+                                                                                   1/4                          0.565
+• Gauge can be used to verify that all sleeves have been
+   swaged properly.                                                             5/16 - 3/8                      0.769
+                                                                                7/16 - 1/2                      1.016
+• “After Swage” dimensions not within the maximum limits
+   may result from worn dies or improper swaging techniques.                    9/16 - 5/8                      1.247
+• No-Go Gauges and Quic-Pass® No-Go Gauges are not                                 3/4                          1.475
+   interchangeable.                                                                7/8                          1.738
+                                                                                    1                           1.955
+                   QUIC-PASS® No-Go Gauges                                        1-1/8                         2.170
+             Sleeve and Size                   Stock No.                          1-1/4                         2.405
+      No-Go Gauge for S-505 1/4” - 7/8”         1923705                           1-3/8                         2.610
+      No-Go Gauge for S-505 1” - 1-1/4”         1923712                           1-1/2                         2.835
+     No-Go Gauge for S-505 1-3/8” - 1-1/2”      1923714
+
+
+
+
+                                               Stock No.
+                                                1923705
+
+
+
+
+                                               Stock No.
+                                                1923712
+
+
+
+
+                                               Stock No.
+                                                1923714
+
+
+Use a National QUIC-PASS®
+No-Go Gauge to check the after swage                1
+                                               3           2
+dimensions to ensure that it has been
+swaged to the proper dimension. When
+swaged properly, the gauge will slide up      2            3
+and down the full length of the sleeve on           1
+all three sets of opposing flats.
+
+
+                                            Important Safety Information
+• Crosby does not recommend a “Texas Tuck” style                           • Swaging dies being worn, damaged, misused, or
+  termination with Crosby National S-505 “COLD TUFF®”                        undersized can cause sleeve “After Swage” size not to be
+  Standard Steel Sleeves.                                                    within the proper dimension.
+• Only Crosby National S-505 “COLD TUFF®” Standard Steel                   • Swaging die holders excessively worn, damaged, misused
+  Sleeves are recommended when using the QUIC-PASS®                          or loose can cause sleeve “After Swage” size not to be
+  Swaging System.                                                            within the proper dimension. Only use QUIC-PASS® dies
+• National S-505 Standard Steel Sleeves, when used with                      and die holders inspected and properly secured in National
+  the QUIC-PASS® Swaging System, are only recommended                        swaging machines.
+  for use with one (1) part 6 X 19 or 6 X 37, IPS or XIP (EIP),            • Always refer to Warning and Application information
+  XXIP (EEIP), RRL, IWRC rope.                                               found in the Crosby General Catalog and Wire Rope End
+• The condition of the swaging machine can cause sleeve                      Terminations User’s Manual
+  “After Swage” size not to be within the proper dimensions.
+  Example: worn bushings, loose tie rods, loose die holders,
+  misaligned platens, worn pins, worn linkage, etc.
+
+
+
+
+18                                                                Rev. 2                          Copyright © 2014 The Crosby Group LLC
+                                                                                                                      All Rights Reserved
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 21 ===
+Die Information
+Optional Adapters
+
+
+
+
+                                                                              6 x 12
+                                                                            Front Load
+
+
+
+
+          5x7
+       Front Load
+
+
+
+
+                                                                            6 x 12
+                                                                          Side Load
+
+
+
+
+* Special dies and adapters available upon request.
+
+
+
+Proper die selection and after swage dimensional information can also be found in the following Crosby® sources.
+
+
+
+
+                                                                                                       National
+                                                                                                       Swage
+                                                                                                      Die Guide
+
+
+                      National Swage Die Guide Chart                             Crosby
+                                                                              General Catalog
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                   Rev. 2                                                     19
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 22 ===
+Die Information
+The National Swage Die Guide was developed to aid
+in determining which dies are required for swaging the
+various sizes and types of products manufactured by
+National Swage.
+Side 1 of the Die Guide is to be referenced when
+working with National Standard Dies.
+Side 2 of the Die Guide is to be referenced when using
+Mark Series Dies.
+IMPORTANT: Be sure to reference the correct
+information (side 1 or side 2) for your particular
+swaging application.
+
+
+
+
+                             USING THE NATIONAL SWAGE DIE GUIDE
+An example of how to use the Die Guide would be if you needed to swage a 1/2” S-501 Swage Socket in National
+Standard Dies. First, find the 7/16 -1/2” fitting size designation, and follow that row across the different product types to
+the column heading 501 - 502 Die No.
+You can see that the required Die No. is 1192881 and the size and type is 5 x 7 Std. When you have located and
+verified that you have the correct dies, you are ready to begin the swaging process. You can also find the maximum
+after swage dimension listed below the corresponding Die No. (i.e. 0.91)
+Remember, side 1 refers to National Standard Dies and side 2 refers to Mark Series Dies.
+
+
+
+
+20                                                          Rev. 2                      Copyright © 2014 The Crosby Group LLC
+                                                                                                            All Rights Reserved
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 23 ===
+COLD TUFF® Swage Fittings – Introduction
+                                                                        2. COLD TUFF® virtually eliminates the cracking during
+                                                                           the swaging process, especially at extremely
+                                                                           low temperatures.
+                                                                        3. The steel microstructure created from the
+                                                                           COLD TUFF® heat treatment process reveals a
+                                                                           uniform structure in the Crosby fittings that result
+                                                                           in Charpy impact values averaging up to ten times
+                                                                           greater than those of competitive products.
+
+                                                                             Un-retouched Photomicrographs of Sleeve
+                                                                                  (Original Magnification @ 500x)
+                                                                                                   Crosby COLD TUFF®
+                                                                                                   Heat Treatment
+                                                                                                   The uniform microstructure
+                                                                                                   of the COLD TUFF® process
+                                                                                                   results in superior ductility
+                                                                                                   and toughness properties.
+
+
+
+
+                                                                                                   Competitor’s
+                                                                                                   Heat Treatment
+                                                                                                   The non-uniform microstructure
+                                                                                                   may lack proper ductility and
+                                                                                                   toughness required for swaging
+A number of years ago, we met the challenge of making                                              and use.
+swage fittings, including sleeves, sockets and buttons
+more reliable during adverse swaging conditions. At
+that time sleeves tended to crack during the swaging
+process – especially at lower temperatures.                             4. The improved steel microstructure provides increased
+                                                                           resistance to cracks that can occur during the sling
+Our research in materials, and the development of a                        building process. Cracks are initiated at stress risers.
+unique thermal process resulted in the development of
+COLD TUFF® swage fittings. This name was derived                        5. Crosby COLD TUFF® sleeves dramatically reduce the
+from the ability of these new materials to cold flow                       effects of stress risers that can occur during swaging
+plastically (a definition of swaging) in the presence of a                 where the “cold worked” sleeve makes contact with
+notch at extremely low temperatures.                                       the wire. Stress risers are not detectable through
+                                                                           visual inspection.
+                                                                                                                      Potential Stress
+The success of COLD TUFF® swage fittings in                             6. Because of the higher                      Riser Area
+overcoming problems encountered in swaging has                             Charpy values found in                        Swaged Sleeve
+revolutionized the industry. The result of the                                                                             Cross-Section
+                                                                           Crosby COLD TUFF®
+COLD TUFF® process has made National Swage fittings                        sleeves, stress risers
+stronger. National S-505 Standard Steel sleeves have                       caused by stenciling are
+outperformed stainless steel sleeves on wire rope eye                      not detrimental.
+terminations in the classic 90 degree angle between the
+rope legs of sling eye test – and for a fraction of the cost            7. Crosby or CG and COLD TUFF®
+of a stainless steel sleeve.                                               are clearly stenciled on every
+                                                                           sleeve we make (legible even
+Also, COLD TUFF® swage products can be impression                          after swaging) leaving no            COLD TUFF® process
+stamped after swaging for identification purposes. Properly                question as to the quality or        results in superior
+                                                                           the manufacturer.                    ductility that reduces the
+done, there should be no concern for fractures initiating                                                       effects of stress risers.
+from such impressions. Specific recommended stamping
+procedures can be found in each product section.
+
+Key Facts About Swaging:
+1. Crosby’s proprietary COLD TUFF® heat treat
+   process has made swaging more reliable during the
+   demanding conditions of swaging.
+
+
+Copyright © 2014 The Crosby Group LLC                          Rev. 2                                                                   21
+All Rights Reserved
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 24 ===
+COLD TUFF® Swage Fittings – S-505
+ Swaging Methods for S-505 Sleeves
+        (Carbon Steel Sleeve for Flemish Eyes)
+
+National S-505 carbon steel sleeves are specially
+designed for use with Flemish Eyes and for swaging in
+National dies.
+These swage fittings are designed to be used on one (1)
+part of 6 x 19 or 6 x 37 FC IPS or IWRC EIPS Right
+Regular Lay wire rope.
+
+ Before using any National Swage fitting with
+ any other type lay, construction or grade of wire
+ rope, it is recommended that the termination be
+ destructive tested and documented to prove the
+ adequacy of the assembly to be manufactured.
+
+           Cold Swaging Process
+Cold swaging is a process which causes considerable
+movement and work hardening of the steel in the fitting.
+Exerting extreme pressures, the swaging machine
+forces the steel to flow into the crevices between the
+wires and strands of the wire rope. At the same time, the
+swaging machine forces the material to flow plastically                           Identification Stamping
+along the length of the wire rope. These are a few of                  For identification purposes, National COLD TUFF®
+the reasons swaging is done on steel fittings in multiple              swage products can be impression stamped after
+passes in a well lubricated die.                                       swaging. Properly done,
+                                                                       there should be no
+Protecting Dies and Swaging Machines                                   concern for fractures
+When the die lands touch each other, effective swaging                 initiating from such
+stops. Additional swaging adds needless wear and strain                impressions.
+on the dies and swaging machine. We recommend
+placing oil on the die faces and cavities. When swaging,               To stamp S-505 Sleeves:
+the oozing of the oil from the die faces will indicate when            • Use round corner or
+the dies are closed. At this point, stop swaging.                         low stress stamps.
+                                                                          Stamp to maximum
+           Avoid Excess Flashing                                          depth of 0.015 in.
+Flashing occurs when sleeve material flows out into the                   (1/64”).
+area between the die faces. Once formed, additional                    • Stamp in area on the
+passes will not eliminate flashing. They will only fold                   side of the sleeve in the plane of the sling eye, and no
+back the flash and develop a permanent mark in the                        less than 0.250 in. (1/4”) from either end of the sleeve.
+material and possibly create a crack.
+                                                                       NOTE:
+Flashing is not an issue with QUIC-PASS® system, as
+each pass requires full closure of the dies.                           WHEN USING NATIONAL QUIC-PASS® DIES, THE
+                                                                       FINISHED SLEEVE HAS A “HEX” APPEARANCE THAT
+To avoid excess flashing, do the following:                            PROVIDES A QUIC-CHECK® LOOK TO DETERMINE
+• Select proper dies.                                                  IF THE TERMINATION HAS BEEN SWAGED, AND
+                                                                       PROVIDES A FLAT SURFACE THAT ALLOWS FOR
+• Make sure that dies are
+                                                                       EASE OF I.D. STAMPING ON THE FINISHED SLEEVE.
+   in good condition and
+   properly lubricated.
+• Apply lubricant such as a
+   light hydraulic oil to both
+   die cavities and the lower
+                                  CORRECT        EXCESS
+   die face.                                    FLASHING
+• Follow swaging instructions
+   on pages 27-35.
+
+
+22                                                            Rev. 2                         Copyright © 2014 The Crosby Group LLC
+                                                                                                                 All Rights Reserved
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 25 ===
+National Steel Swaging Sleeves
+
+
+
+                                                                               The National Die Guide will
+                                                                               assist you in selecting the
+                                                                               proper dies to meet your
+                                                                               swaging needs.
+
+
+                              S-505
+
+
+• For Flemish Eye wire rope splicing.                                        • Can be stamped for identification after swaging without
+                                                                               concern for fractures when following these directions.
+• Designed for low temperature toughness.
+                                                                               • Use round corner stamps to a maximum depth of 0.015
+• Resists cracking when swaged (equals or exceeds stainless                      in. (1/64”). The area for stamping should be on the side
+  steel sleeves).                                                                of the sleeve in the plane of the sling eye, and no less
+• Special processed low carbon steel.                                            than 0.250 in. (1/4”) from either end of the sleeve.
+
+• “COLD TUFF®” for better swageability.                                      • Standard Steel Sleeve terminations have efficiency ratings
+                                                                               as follows based on the catalog strength of
+                                                                               wire rope.
+
+                       S-505 Termination Efficiency
+         Size                          Type of Wire Rope*
+         (in.)                    IWRC                     FC
+         1/4 - 1                   96%                    93%
+        1-1/8 - 2                  92%                    89%
+    2-1/8 and Larger               90%                    87%
+* NOTE: S-505 Standard Sleeves are recommended for use with 6 x 19 or
+  6 x 37, IPS or XIP (EIP), XXIP (EEIP), RRL, FC or IWRC wire rope.
+                                                                               NOTE: See page 24 for dimensional       “Cross Section of
+Before using any National Swage fitting with any other type lay,               information.                            Swaged Sleeve”
+construction or grade of wire rope, it is recommended that the termination
+be destructive tested and documented to prove the adequacy of the
+assembly to be manufactured.
+
+
+
+
+QUIC-PASS                                          ®                    National QUIC-PASS® Swaging System
+                                                                              “The Next Generation in Swaging Systems”
+
+
+The QUIC-PASS® swaging system allows “Flemish style” wire rope terminations to be swaged in only two passes.
+This is accomplished while maintaining currently published efficiency ratings and utilizing National Swage S-505
+Standard “COLD TUFF®” Steel Sleeves.
+• Allows the swaging process to be completed in just two passes, resulting in a 50-75% reduction in the number of
+   passes required with conventional swaging systems.
+• Allows the dies to close completely with each pass, resulting in...
+   • An increase in overall swaging process efficiencies (the job can be performed quicker).
+   • A reduction in the complexity of swaging (the concern for excess flashing between dies has been eliminated).
+   • A reduction in training time needed for operators (more user friendly).
+• The finished sleeve has a “Hex” appearance that provides a QUIC-CHECK® look to determine if the termination
+   has been swaged and provides a flat surface that allows for ease of I.D. stamping on the finished sleeve.
+
+
+
+
+Copyright © 2014 The Crosby Group LLC                              Rev. 2                                                                  23
+All Rights Reserved
+

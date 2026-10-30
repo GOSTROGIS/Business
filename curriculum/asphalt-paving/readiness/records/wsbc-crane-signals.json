@@ -1,0 +1,32 @@
+{
+  "id": "wsbc-crane-signals",
+  "slug": "wsbc-crane-signals",
+  "title": "Hand Signals for Hoist and Crane Operations",
+  "author": "WorkSafeBC",
+  "edition": "n.d.; TG07-29",
+  "category": "rigging",
+  "scope": "Official toolbox meeting sheet and attendance record; current regulation Figure 15-1 is also archived.",
+  "kind": "pdf",
+  "download_filename": "wsbc-crane-signals.raw",
+  "original_pages": 2,
+  "original_sha256": "8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e",
+  "original_bytes": 169189,
+  "source_url": "https://www.worksafebc.com/en/resources/health-safety/toolbox-meeting-guides/hand-signals-for-hoist-and-crane-operations?lang=en&direct",
+  "final_url": "https://www.worksafebc.com/en/resources/health-safety/toolbox-meeting-guides/hand-signals-for-hoist-and-crane-operations?lang=en&direct",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/wsbc-crane-signals/p0001-0002.pdf",
+      "text": "text/wsbc-crane-signals/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 169189,
+      "sha256": "8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e",
+      "text_sha256": "d90bcdfb23b1ef423acbc4492cac8512137b1a0161cb0dd7cf156b663bb78c6e",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

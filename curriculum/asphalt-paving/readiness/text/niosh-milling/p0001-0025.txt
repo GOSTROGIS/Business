@@ -1,0 +1,785 @@
+=== SOURCE PDF PAGE 1 ===
+B E S T P R A C T I C E E N G I N E E R I N G C O N T R O L G U I D E L I N E S T O
+Control Worker Exposure to Respirable Crystalline Silica
+during Asphalt Pavement Milling
+
+
+
+
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Centers for Disease Control and Prevention
+National Institute for Occupational Safety and Health
+
+=== SOURCE PDF PAGE 2 ===
+Cover photos by Wirtgen America Inc., Caterpillar Inc.,
+Volvo Construction Equipment, and Roadtec Inc.
+
+=== SOURCE PDF PAGE 3 ===
+BEST PRACTICE ENGINEERING CONTROL GUIDELINES TO
+Control Worker Exposure to Respirable
+Crystalline Silica during Asphalt Pavement Milling
+
+
+
+
+
+DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Centers for Disease Control and Prevention
+National Institute for Occupational Safety and Health
+
+=== SOURCE PDF PAGE 4 ===
+This document is in the public domain and may be freely copied or reprinted.
+
+
+ Disclaimer
+
+  Mention of any company or product does not constitute endorsement by the National Institute for
+  Occupational Safety and Health (NIOSH). In addition, citations to Web sites external to NIOSH do
+  not constitute NIOSH endorsement of the sponsoring organizations or their programs or products.
+  Furthermore, NIOSH is not responsible for the content of these Web sites. All Web addresses
+   referenced in this document were accessible as of the publication date.
+
+ Ordering information
+
+  To receive documents or more information about occupational safety and health topics, contact
+  NIOSH:
+
+  Telephone: 1-800-CDC-INFO (1-800-232-4636)
+  TTY: 1-888-232-6348
+  CDC INFO: www.cdc.gov/info
+
+  or visit the NIOSH Web site at www.cdc.gov/niosh
+
+  For a monthly update on news at NIOSH, subscribe to NIOSH eNews by visiting
+
+  www.cdc.gov/niosh/eNews.
+
+ Suggested Citation
+
+  NIOSH [2015]. Best practice engineering control guidelines to control worker exposure to respirable
+   crystalline silica during asphalt pavement milling. Cincinnati, OH: U.S. Department of Health and
+  Human Services, Centers for Disease Control and Prevention, National Institute for Occupational
+   Safety and Health, DHHS (NIOSH) Publication No. 2015–105.
+
+  DHHS (NIOSH) Publication No. 2015–105
+
+  March 2015
+
+
+
+
+
+ii     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 5 ===
+Executive Summary
+
+This document represents more than ten years of collaborative research by labor, industry, and
+government to reduce respirable crystalline silica exposure during asphalt pavement milling in
+highway construction. The collaborative research began when the Silica/Asphalt Milling Machine
+Partnership was formed at the 2003 National Asphalt Pavement Association (NAPA) Annual Meeting,
+and studies on milling machine dust controls began later that year. The Silica/Asphalt Milling
+Machine Partnership is coordinated by NAPA and includes all U.S. and foreign manufacturers of
+heavy construction equipment that currently sell pavement-milling machines to the U.S. market. In
+addition to NAPA and the equipment manufacturers, the Silica/Asphalt Milling Machine Partnership
+includes numerous paving contractors, the International Union of Operating Engineers, the Laborers
+International Union of North America, the Association of Equipment Manufacturers, and government
+organizations including the Occupational Safety and Health Administration (OSHA), the Federal
+Highway Administration, and the Centers for Disease Control and Prevention’s (CDC’s) National
+Institute for Occupational Safety and Health (NIOSH).
+
+Based on the research of the Silica/Asphalt Milling Machine Partnership, NIOSH recommend
+engineering controls that include ventilation controls in addition to water-sprays used to cool the
+cutting teeth. Milling machines that adopt this well-designed dust control approach have been shown
+to control worker exposures to respirable crystalline silica from asphalt milling operations during 21
+days of personal breathing zone sampling at 11 different highway construction sites [NIOSH 2013b,c].
+The 42 personal breathing zone air sampling results (21 days with 2 workers per day) were all below
+the NIOSH recommended exposure limit of 0.05 mg/m3 for respirable crystalline silica ranging from
+below the limit of detection up to 0.024 mg/m3.
+
+NIOSH and the Silica/Asphalt Milling Machine Partnership recommend ventilation controls be
+placed on all new half-lane and larger asphalt milling machines to reduce worker exposure to
+respirable crystalline silica. It is also recommended that water-sprays be used to suppress dust on
+milling machines if ventilation dust controls are not available. The ventilation and water-spray dust
+controls described in this document represent the current knowledge of best practices developed by
+the Silica/Asphalt Milling Machine Partnership for controlling dust during asphalt pavement milling.
+This document should not limit manufacturers from implementing future improvements in dust
+control as new technologies or inventions become available. Manufacturers can use the procedures in
+Appendices A and B of this document to evaluate current and future dust controls.
+
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling         iii
+
+=== SOURCE PDF PAGE 6 ===
+Authors and Acknowledgments
+
+    The principal authors of this document were National Institute for Occupational Safety and
+    Health (NIOSH) researchers Duane R. Hammond, Andrew B. Cecala, Jay Colinet, Alberto
+     Garcia, Kenneth R. Mead, Alan Echt, Stanley A. Shulman, Misty J. Hein, Michael G. Gressel, Leo
+    Michael Blade, Jeanne Zimmer, Liming Lo, Gerald J. Joy, Gregory Chekan, Ronald Kovein, and
+    David Marlow. The document was written by NIOSH in collaboration with the National Asphalt
+    Pavement Association, the Association of Equipment Manufacturers, the International Union of
+    Operating Engineers, and the Laborers’ International Union of North America.
+
+    The authors thank the members of the Silica/Asphalt Milling Machine Partnership, especially
+     the milling machine manufacturers Caterpillar Inc., Roadtec Inc., Terex Corporation, Volvo
+    Construction Equipment, and Wirtgen America Inc., for developing engineering controls and
+     providing their equipment for testing. The authors thank Gary Fore and Donald Elisburg for
+     their leadership of the Partnership. The authors also thank Partnership Chair Tony Bodway and
+     his employer Payne and Dolan Inc., Steve Henderson and his employer E&B Paving Inc., and
+    Northeast Asphalt Inc. for their efforts on behalf of this study and for their assistance in arranging
+    and conducting the field studies.
+
+    The authors gratefully acknowledge the contributions of the following NIOSH personnel who
+     assisted with the technical content and review of the document: G. Scott Earnest, Ronald M.
+     Hall, Jennifer Topmiller, Trudi McCleery, Matt Gillen, and Elizabeth Garza. The authors also
+    thank Leonid Kopylev and his employer the Environmental Protection Agency, Kalimuthu
+    Krishnamoorthy and his employer the University of Louisiana, William Perry and his employer
+     the Occupational Safety and Health Administration, and Ken Hoffner and his employer the New
+     Jersey Laborers Health and Safety Fund for their careful reviews and helpful suggestions. Milling
+    machine illustrations were drawn by Gino Fazio of NIOSH. Cover design and document layout by
+    Brenda Jones of NIOSH.
+
+
+
+
+
+iv     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 7 ===
+Contents
+
+ Executive Summary...........................................................................................................    iii
+ Authors and Acknowledgments........................................................................................   iv
+ The Silica/Asphalt Milling Machine Partnership.............................................................   1
+ Silica in Construction – Asphalt Pavement Milling.........................................................   3
+ Guidelines for Dust Control on Asphalt Milling Machines.............................................   4
+     Ventilation Control Guidelines for Pavement-Milling Machines...............................   4
+    Water Spray Application Guidelines for Asphalt Milling Machines..........................   6
+ NIOSH Recommended Best Practice Test Guidance for
+ Dust Controls on Milling Machines.................................................................................  15
+ Recommendations for Operation and Maintenance of Dust Control Systems...............  16
+ Silica and Health Effects....................................................................................................  16
+ Occupational Exposure Limits..........................................................................................  17
+     Crystalline Silica Exposure Limits..............................................................................  18
+  References..........................................................................................................................  19
+ Appendix A: Laboratory tracer gas test procedures to evaluate ventilation controls on
+ asphalt pavement milling machines.................................................................................  25
+ Appendix B: Field Test Procedures...................................................................................  36
+ Appendix C: Explanation of Statistical Methods..............................................................  49
+ Appendix D: Use of the Spreadsheet.................................................................................  65
+ Appendix E: Example Daily Dust Control Checklist.......................................................  66
+ Appendix F: NAPA/AEM Best Practice Bulletin 1/12......................................................  67
+ Appendix G: Glossary...................................................................................................................  69
+
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling     v
+
+=== SOURCE PDF PAGE 8 ===
+This page left intentionally blank
+
+=== SOURCE PDF PAGE 9 ===
+The Silica/Asphalt Milling Machine Partnership
+
+The guidelines presented in this document are a result of a collaborative effort by labor, industry,
+and government to reduce respirable crystalline silica exposure during asphalt pavement milling in
+highway construction. This Silica/Asphalt Milling Machine Partnership (Partnership) is coordinated by
+the National Asphalt Pavement Association (NAPA) and includes all U.S. and foreign manufacturers
+of heavy construction equipment that currently sell pavement-milling machines to the U.S. market.
+In addition to NAPA and the equipment manufacturers, the Partnership includes numerous paving
+contractors, the International Union of Operating Engineers, the Laborers International Union of
+North America, the Association of Equipment Manufacturers, and government organizations including
+the Occupational Safety and Health Administration (OSHA), the Federal Highway Administration, and
+the Centers for Disease Control and Prevention’s (CDC’s) National Institute for Occupational Safety
+and Health (NIOSH).
+
+Many of the partners are the same members of a previous partnership to control asphalt fume
+exposures during paving. The Asphalt Paving Partnership was a finalist in the 1998 Innovation in
+American Government Award, presented by the Ford Foundation and Harvard University’s Kennedy
+School of Government. The Asphalt Paving Partnership was responsible for successfully implementing
+engineering controls on all highway-class pavers to reduce exposure to asphalt fumes [NIOSH 1997].
+The same partnership strategy is being used to implement engineering controls on pavement milling
+machines to reduce silica exposures. The aim of the Silica/Asphalt Milling Machine Partnership,
+and the focus of this document, is to identify engineering controls that could be used to reduce
+silica exposures among workers on half-lane and larger asphalt milling machines. The engineering
+controls include ventilation controls in addition to the water-spray systems used on the machines for
+cooling the cutting teeth. The recommendations developed in this report are based on dust control
+studies conducted on asphalt pavement surfaces. NIOSH and the Partnership have not evaluated the
+effectiveness of the best practice dust controls on other non-asphalt road surfaces such as concrete.
+
+Five manufacturers of half-lane and larger cold-milling machines developed silica dust control
+strategies for their respective milling machines. NIOSH and the Partnership conducted laboratory
+and field studies to evaluate these controls for their effectiveness at preventing worker exposures to
+respirable crystalline silica. NIOSH recommend ventilation controls in addition to the water-spray
+systems used for cooling cutting teeth. An effective water-spray application system can also provide
+dust suppression at the source of dust generation on asphalt milling machines that are not fitted
+with ventilation controls. Ventilation controls on milling machines provided dust control capable of
+reducing worker exposures below the NIOSH recommended exposure limit (REL) of 0.05 mg/m3 for
+respirable crystalline silica. Results indicated that these engineering controls can protect workers on
+asphalt milling machines from silica exposures.
+
+In April of 2002, NIOSH met with the Association of Equipment Manufacturer’s Compaction and
+Paving Machinery Technical Committee to propose the Silica/Asphalt Milling Machine Partnership. In
+June 2002, NIOSH met with representatives from NAPA, the Asphalt Institute, and the Harvard School
+of Public Health to propose the Silica/Asphalt Milling Machine Partnership. The Partnership was
+formed at the 2003 NAPA Annual Meeting, and studies on milling machine dust controls began later
+that year.
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling  1
+
+=== SOURCE PDF PAGE 10 ===
+Milling-machine manufacturers that are Partnership members worked with research engineers from
+     the NIOSH Division of Applied Research and Technology and the NIOSH Office of Mine Safety and
+    Health Research to implement and test prototype dust emission-control systems based in part upon
+     the transfer of technology from similar underground mining machinery. From 2003 to 2006, the
+     Partnership helped facilitate six in-depth field surveys during road milling jobs. The first milling-
+    machine field survey served as a pilot study for evaluating the effectiveness of water spray controls
+     for a cold milling machine [NIOSH 2004]. Other field surveys provided data on the effectiveness
+     of water spray controls for one state-of-the-art milling machine model from each of the four largest
+    domestic manufacturers [NIOSH 2007a; 2009a,b,c].
+
+    The results of data analyses performed in 2007 suggested that improvements in engineering dust-
+    emission controls were needed. Consequently, additional field work to evaluate the new designs
+     also was needed. A controlled test site was located in 2008 with Silica/Asphalt Milling Machine
+     Partnership assistance and utilized for the testing. During 2009, the data from this testing were
+     evaluated, and two techniques were found to appreciably and statistically significantly reduce
+     respirable dust levels in and around the milling machine [NIOSH 2011d]. These were ventilation
+     of the cutter housing and primary conveyor areas and the addition of water sprays in the transfer
+     area from the cutter housing to the primary conveyor loading area, with spray orientation counter
+     to material flow. NIOSH and Partnership members concluded that further optimization of the dust
+     emission-control systems followed by additional field testing should occur.
+
+    Another large field study was conducted in 2010 and found that the same water-spray dust-
+     suppression controls that were tested in 2008 did not show the same reductions in respirable dust
+   [NIOSH 2011c]. However, the ventilation control combined with water-sprays used to cool cutting
+     teeth showed statistically significant reductions in respirable dust during both 2008 and 2010, and
+     these results were more consistent than the results from any control that used water-spray dust
+     suppression alone.
+
+    During 2011–2012, four laboratory tracer gas studies were conducted for four different
+    manufacturers [NIOSH 2011a,b; 2012; 2013a]. The laboratory tracer gas studies were conducted at
+     milling machine manufacturing facilities or milling contractor-owned facilities to determine the
+     capture efficiency of the ventilation control before shipping the machine to a test location. The results
+    from the laboratory studies indicated that tracer gas capture efficiencies of the evaluated ventilation
+     controls were generally greater than 90%.
+
+    Although the earlier Silica/Asphalt Milling Machine Partnership studies did not show consistent
+     reductions in respirable dust concentrations using only water-spray systems, one manufacturer
+     requested additional testing of a wet drum design in 2012. The wet drum design uses gravity to
+     release water from inside the drum through nozzles to the cutting surface to suppress dust. The
+     results of this study showed that, while the wet drum appeared to provide increased control over
+     the baseline water-spray configuration, the two were not statistically significantly different [NIOSH
+     2013d]. In addition, the magnitude of the exposure reduction did not appear to be sufficient to
+     protect workers from excessive crystalline silica exposures. Based on the results of the wet drum
+     evaluation and previous studies using only water-spray dust suppression, NIOSH recommended
+     additional testing of ventilation-based controls in addition to the existing water-spray configurations.
+
+
+
+2     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 11 ===
+In the summer and fall of 2012, NIOSH and the Partnership began conducting field tests of
+milling machines fitted with ventilation controls that had been developed by each manufacturer.
+The field testing consisted of full-shift personal breathing zone samples for respirable crystalline
+silica. Breathing zone samples were collected for the operator and the ground person who
+were performing the normal employee work activities of asphalt pavement milling on highway
+construction sites. The goal of the testing was to complete the worker exposure assessment for at
+least 9 days over a minimum of 3 sites for each manufacturer’s machine.
+
+By October 2012, two manufacturers had completed the field testing with a combined 21 days of
+personal breathing zone sampling at 11 different highway construction sites [NIOSH 2013b,c]. The
+42 personal breathing zone air sampling results (21 days with 2 workers per day) were all below
+the NIOSH REL of 0.05 mg/m3 for respirable crystalline silica, ranging from below the limit of
+detection up to 0.024 mg/m3 for the milling machines with well-designed dust controls.
+
+Silica in Construction – Asphalt Pavement Milling
+
+Many construction tasks have been associated with overexposure to crystalline silica [Rappaport
+et al. 2003]. Among these tasks are tuck pointing, concrete sawing, concrete grinding, concrete
+breaking, jackhammering, and abrasive blasting [NIOSH 2000; Thorpe et al. 1999; Akbar-
+Khanzadeh and Brillhart 2002; Glindmeyer and Hammad 1988]. Road milling has also been
+shown to result in overexposures to respirable crystalline silica [Linch 2002; Rappaport et al. 2003;
+Valiante et al. 2004]. However, the three road-milling studies do not provide enough information
+about the operating parameters and engineering controls present on the milling machines to
+determine if the overexposures were due to a lack of effective controls or poor maintenance of the
+machines.
+
+A variety of machinery is employed in asphalt pavement recycling, including cold-planers, heater-
+planers, cold-millers, and heater-scarifiers [Public Works 1995]. Cold-milling of asphalt pavement
+is the focus of this document. Cold-milling, which uses a toothed, rotating cutter drum to grind
+and remove the pavement to be recycled, is primarily used to remove surface deterioration on both
+petroleum-asphalt aggregate (the focus of this document) and Portland-cement concrete road
+surfaces [Public Works 1995]. Key components of a typical half-lane and larger asphalt pavement
+milling machine are shown in Figure 1.
+
+
+
+
+
+Figure 1. Half-lane and larger asphalt pavement milling machine (Illustration by NIOSH)
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling    3
+
+=== SOURCE PDF PAGE 12 ===
+Approximately 367,000 U.S. workers are employed in highway, street, and bridge construction
+     [U.S. Census Bureau 2007]. A number of these workers use cold-milling machines or work in
+     close proximity to these machines. Dust generated from the cold-milling machines often contains
+     respirable crystalline silica. This respirable dust can be transported by air currents to worker
+     breathing zones near the milling machine.
+
+   Guidelines for Dust Control on Asphalt Milling Machines
+
+    The guidelines in this document for half-lane and larger asphalt milling machines are the result of
+     the collaborative work of labor, industry, and government partners. The participating cold-milling
+    machine manufacturers entered into the research project with the Partnership to reduce respirable
+     crystalline silica exposures and improve working conditions in highway construction. The
+     following recommendations are the result of this collaborative research partnership; ventilation
+    recommendations are provided first, followed by guidelines for water-spray dust suppression.
+
+    Ventilation Control Guidelines for Pavement-Milling Machines
+   NIOSH recommends the use of ventilation controls to control worker exposures to respirable
+     crystalline silica during asphalt pavement milling in highway construction. The ventilation
+     controls used in combination with water-sprays that cool the cutting teeth can consistently reduce
+    exposures below the NIOSH REL of 0.05 mg/m3 [NIOSH 2013b,c].
+
+    The ventilation controls designed to reduce respirable crystalline silica exposures on asphalt
+    pavement milling machines should be evaluated in a controlled setting (i.e., shop or warehouse)
+     in which their efficiency can be measured using smoke and tracer gas tests. The visible smoke test
+    should be used as a qualitative test to visualize air-flow patterns around the milling machine drum
+    housing and conveyors to assist in setting up for tracer gas tests. The tracer gas test should be
+    used as a quantitative measure of the air-flow rate and capture efficiency of the ventilation system
+    designed to control the release of respirable crystalline silica into the workers’ breathing zones.
+    Laboratory tracer gas and smoke release test procedures to evaluate ventilation controls on asphalt
+    pavement milling machines are provided in Appendix A.
+
+   When designing a ventilation control on a milling machine, the designer should consider the
+     following:
+        •  extent of enclosure around the drum housing and conveyors
+        •  hood and duct design
+        •  required airflow capacity
+        •   durability and noise of the duct and fan
+        •  measures to prevent clogging of the ventilation control
+
+    The drum housing and conveyors on the milling machine should be designed to provide
+   maximum enclosure around the cutter drum and conveyor belts. An ideal design would have
+    a drum housing and conveyor system that is 100% enclosed with only an opening at the top
+     of the secondary conveyor where recycled asphalt pavement is transferred to the dump truck.
+
+
+
+4     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 13 ===
+Eliminating the open area in the design of these enclosures will help maintain negative air pressure
+necessary for containment of silica dust. Research conducted by the Partnership has shown that a
+well-enclosed drum housing and conveyor system can reduce workers’ dust exposure with as little as
+900 actual cubic feet per minute (acfm) of air drawn from the primary conveyor and drum housing
+areas. The minimum flow rate of 900 acfm was determined to be effective in several tracer gas studies
+[NIOSH 2011c; 2012; 2013a].
+
+Providing negative air pressure within an enclosure is a common ventilation technique for
+preventing a contaminant from escaping into surrounding areas. To contain silica dust, it is
+important to maintain negative air pressure in the drum housing of the milling machine. Operation
+of numerous water-spray nozzles within the drum housing can put the housing under positive air
+pressure. If exhaust ventilation is not used, dust-laden air can be forced out through gaps in the
+drum housing and contaminate the ambient surroundings, including the breathing zones of adjacent
+workers. The rotating drum and moving asphalt material may also generate air flows that can lead to
+dust escape from the drum housing. It is therefore important that the amount of open area through
+which leaks may occur from the drum housing be minimized to the extent compatible with the work
+process. The ventilation control should remove enough air to overcome any positive pressure and
+set a negative pressure differential between the drum housing and the surrounding air. Industrial
+Ventilation: A Manual of Recommended Practice for Design recommends a negative pressure
+differential of 0.04 +/- 0.02 inches of water as a good performance standard for containment of most
+industrial processes [ACGIH 2013b].
+
+Typical ventilation controls designed to reduce dust exposures in a plant or on a piece of equipment
+consist of a hood, fan, ductwork, and dust collector [ACGIH 2013b]. If the ventilation control on
+a milling machine does not include a dust collector, the outlet from the system should discharge at
+high velocity in an upward orientation and be located near the top of the secondary conveyor or
+in another location away from workers. Milling machines without a dust collector should also be
+designed to allow the operator to temporarily turn the ventilation control off when milling into the
+wind. However, a feature should be in place to automatically turn the ventilation control back on
+when it has been off for longer than 60 minutes. Water-spray systems for cooling cutting teeth should
+remain on regardless of wind direction.
+
+The ventilation control should be designed to have a minimum transport air velocity through
+the duct to prevent dust from settling and plugging the flow. The minimum duct design velocity
+recommended by American Conference of Governmental Industrial Hygienists (ACGIH) is 4,500 ft/
+min for heavy or moist dust [ACGIH 2013b].
+
+Duct transport velocities alone may not be enough to prevent plugging. It is also important to design
+a gradual transition of air velocities between the duct and the take-off point of the dust control hood
+so that larger particles do not enter and clog the duct or damage the fan. The fan could move air from
+the drum housing or primary conveyor through a hood or settling box to gradually transition the air
+velocity from low to high before air enters the duct. The design intent of the ventilation control should
+be to at least control respirable size silica particles. It may also be prudent to design the ventilation
+control to capture inhalable size dust particles up to 100 µm in diameter. Particles less than 10 µm are
+capable of entering the gas exchange region of the lungs and triggering silicosis and cancer [Plog 2002].
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling    5
+
+=== SOURCE PDF PAGE 14 ===
+Figure 2. Hood and settling box on a milling machine (Illustration by NIOSH)
+
+    Aerosol scientists have developed a spreadsheet that can be used to calculate settling velocity based
+    on dust particle size and other factors [Baron and Willeke 2001]. Milling machine manufacturers
+    should use the information about particle settling velocity to design a gradual transition of air
+     velocities that prevent larger particles from entering the duct. A possible design would be to orient
+    a hood or settling box so that air is pulled vertically from the drum housing or conveyor. Figure 2
+    shows a square settling box designed to settle out larger particles by gradually transitioning air
+     velocities from low to high before dust enters the duct.
+
+    Even with a settling box or hood to provide a gradual transition of air velocities, the fan and
+    ductwork should be designed to withstand a dusty airstream. The durability of the fan and
+    duct work should be evaluated during the design and testing phase of the ventilation control.
+   Any deficiencies in durability of the fan and duct work or clogging should be corrected before
+    implementing the ventilation control across a fleet of milling machines.
+
+   Water Spray Application Guidelines for Asphalt Milling Machines
+    The Partnership conducted considerable research to develop best practice recommendations
+     for water-spray dust suppression on asphalt milling machines. NIOSH recommends using best
+     practice water-spray systems on asphalt milling machines that do not have ventilation controls.
+    Water-spray systems can provide an effective and economical method to control dust in many
+     types of industrial applications. Although the use of water sprays is a very simple technique, a
+    number of factors should be evaluated to determine the most effective design for their use on
+     asphalt pavement milling machines. Two effective dust control methods utilizing water sprays that
+     are readily applicable to asphalt pavement milling operations are dust prevention and suppression
+     techniques. Dust prevention is achieved by spraying water onto the pavement being milled in
+    order to prevent dust from being liberated/generated and becoming airborne. The second method,
+     dust suppression, involves knocking down airborne dust by spraying the dust cloud and causing
+     the particles to collide, agglomerate, and fall from the air. A common and effective practice is to
+    use a combination of both of these wet methods in the overall dust control plan. Since water is
+    used on all asphalt pavement-milling machines to cool the cutter bits, it is logical to also use this
+    water for respirable dust control.
+
+
+
+
+6     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 15 ===
+The primary dust prevention technique is to wet road material (asphalt pavement) during milling,
+thus causing the material, fines, and dust particles to increase in weight. This in turn, decreases
+the ability for these dust particles to become airborne. As groups of particles become heavier, it
+becomes more difficult for the surrounding air to carry them off. The keys to effective wet spray
+dust control are (1) water pressure and water flow rate, (2) the proper application of moisture,
+(3) the careful design of nozzle location and orientation, (4) the control of droplet size, (5) the
+selection of the best spray pattern and spray nozzle type, and (6) the proper maintenance of
+nozzles and water spray application equipment [NIOSH 2010]. To the extent possible, the tanks,
+pumps, lines and nozzles in a dust suppression system should be made of non-corrosive or
+corrosion resistant materials. One last consideration is to have a properly designed liquid filtration
+system prior to the water application to minimize contaminants in the system and, ultimately, to
+prevent clogged water spray nozzles. NIOSH Best Practices for Dust Control in Metal/Nonmetal
+Mining provides more detailed information about spray nozzle selection and settings that have
+been effective in dust control for underground mining machines that share similar technology
+with cutter drums on milling machines [NIOSH 2010].
+
+During the initial separation from the road bed, adequate wetting is extremely important to ensure
+that dust particles stay attached to the broken asphalt pavement material. Uniform wetting is also
+an important issue for an effective system. Dust reductions can be achieved by spraying the milled
+material with water while using the cutter drum to mechanically mix the asphalt pavement and
+water together to achieve uniform wetting [NIOSH 2011d]. The water sprays can cool the cutting
+bits on the milling drum and also provide dust suppression. Figure 3 illustrates water nozzles
+spraying the bits on a cutter drum. To conserve water, the water sprays should only be activated
+during milling. It is also recommended that manufacturers install water flow meters and pressure
+gauges on each machine to allow for visual determination that the water spray system is operating
+within the designed operating range.
+
+
+
+
+
+Figure 3. Water application at drum to cool cutting bits. The water is then mixed with asphalt pavement material as it is
+removed by the cutter bits (Photo by NIOSH)
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling    7
+
+=== SOURCE PDF PAGE 16 ===
+Water Spray Application—Case Studies
+    In cooperation with NAPA, milling contractors, and equipment manufacturers, NIOSH evaluated
+     the effectiveness of changes in water spray applications on multiple pavement milling job sites.
+    During these surveys, respirable dust levels were measured at multiple locations around the
+     milling machine to monitor dust liberation from the cutter housing and lower conveyor transfer
+     locations. Descriptions of the sampling procedures used during these surveys and specific test
+     conditions at each site are provided in technical reports referenced with each case study. Not
+      all water spray modifications were successful, but multiple surveys did provide examples of
+    measurable reductions in dust liberation. Several case studies are summarized below to illustrate
+     the modifications and changes in water spray application and their measured benefits.
+
+   Case Study A
+
+   On this milling machine, baseline dust levels were determined with the water spray system
+    operated at levels routinely used during milling. The system was equipped with 18 flat-fan sprays
+       (i.e. nozzles) located behind the cutter drum, five flat-fan sprays at the front of the cutter drum,
+    and several sprays at the transition from the primary conveyor. The water pump on the milling
+    machine could be adjusted and had a rated output up to 15 gallons per minute (gpm) at 200
+    pounds per square inch (psi). However, the water spray system levels routinely used during milling
+    were 6 gpm at 35 psi.
+
+    Adjustments were made to the pump to increase the water pressure from 35 psi to 70 psi with a
+    corresponding increase in water flow from 6 gpm to 12 gpm. Figure 4 shows a typical water flow
+    meter and pressure gauge that were installed and used to quantify water application changes
+    during testing. Measurements from seven area dust sampling locations around the machine
+     resulted in a 50% reduction (from a geometric mean of 1 mg/m3 to 0.5 mg/m3) in respirable
+     dust by simply adjusting the water pump from the operator’s deck from 35 to 70 psi, without any
+    change or addition to the existing spray nozzles [NIOSH 2007a]. Personal breathing zone air
+    sampling results for respirable crystalline silica ranged from less than the limit of detection to
+     0.170 mg/m3 for the trial time sampled [NIOSH 2007a].
+
+
+
+
+
+      Figure 4. Water flow meter (left) and pressure gauge (right) used during pavement milling machine studies (Photo by NIOSH)
+
+
+
+
+
+8     Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 17 ===
+Case Study B
+
+Similar to Case Study A, the water flow to this milling machine could be adjusted by the operator
+by changing the output from the water pump. During this survey, increases in water flow from
+12.5 gpm to 18.8 gpm resulted in respirable dust reductions of approximately 41% (from a
+geometric mean of 0.328 mg/m3 to 0.193 mg/m3) at 10 key area sampling locations around the
+machine [NIOSH 2009b]. Once again, these dust reductions were achieved without making
+changes to the existing water spray system other than increasing the water pump output.
+
+Case Study C
+
+During this evaluation, the baseline water spray system consisted of a total of 16 water spray
+nozzles located at the front and rear of the cutter housing and at the discharge to the primary
+conveyor. Total water flow for these nozzles was 22.4 gpm at 20 psi. For the modified spray
+system, a total of 14 nozzles were used, which supplied 21.4 gpm at 20 psi. In this case study, water
+quantity was not increased, but changes to the distribution of the water, such as spray nozzle
+location and orientation, improved dust control. For example, nozzles were relocated in the front
+of the cutter housing to discharge water in the opposite direction of material flow, the upper
+front-housing sprays were eliminated, and sprays were added to the primary conveyor transition.
+Respirable dust levels measured for the modified spray system at six key area sampling locations
+on the machine resulted in an average dust reduction of approximately 43% (from a geometric
+mean of 0.72 mg/m3 to 0.41 mg/m3) when compared to baseline dust levels [NIOSH 2011d].
+
+The Partnership determined that Case Study C was the most effective dust control configuration
+evaluated on a new asphalt milling machine and engineering drawings are provided in Figures
+5-7. However, this recommendation should not limit manufacturers from implementing future
+improvements in water-spray dust control as new technologies, configurations, or inventions are
+evaluated.
+
+
+
+
+
+ Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling    9
+
+=== SOURCE PDF PAGE 18 ===
+Figure 5: Water-spray details overview
+
+
+
+
+
+10    Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 19 ===
+Figure 6: Water-spray details drum housing
+
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   11
+
+=== SOURCE PDF PAGE 20 ===
+Figure 6 (cont.): Water-spray details drum housing
+
+
+
+
+
+12    Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 21 ===
+Figure 7: Water-spray details conveyor transition
+
+
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   13
+
+=== SOURCE PDF PAGE 22 ===
+Figure 7 (cont.): Water-spray details conveyor
+
+
+
+
+
+14    Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 23 ===
+Wet Drum Studies
+In addition to multiple evaluations of water spray configurations, NIOSH and the Partnership
+also evaluated the utilization of wet drum technology. With the wet drum, water is supplied to the
+inside of the cutting drum and uses gravity to release water through nozzles in the drum housing
+in an effort to prevent the release of dust in the cutting area. The dust levels obtained with the wet
+drum were compared to dust levels generated by the baseline water spray system, which consisted
+of sprays located along the back side of the cutting drum and sprays at the primary and secondary
+conveyor transfer locations. The wet drum technology was evaluated at two different milling sites.
+At the first test site, utilization of the wet drum resulted in a 32% reduction at the lower sampling
+locations and a dust reduction of 59% at the operator location [NIOSH 2011c]. At the second test
+site, the wet drum resulted in average dust reductions of 37% at the lower sampling locations and
+27% at the operator location [NIOSH 2013d]. However, due to wide performance variability, the
+reductions at the second site were not statistically significant. Personal breathing zone air sampling
+results for respirable crystalline silica ranged from 0.028 mg/m3 to 0.085 mg/m3 at the second wet
+drum test site [NIOSH 2013d].
+
+One problem observed with the operation of the wet drum technology was inconsistent water
+distribution from the drum. On level roadways, water was discharged from the drum evenly
+across the entire milled strip. However, if the roadway was not level across its width, water would
+discharge from the low side of the cutter drum but the roadway on the high side of the drum
+would be dry. Baffles added inside the drum to ensure uniform water distribution to all sections of
+the drum might potentially improve the performance of the wet drum technology.
+
+NIOSH Recommended Best Practice Test Guidance for
+Dust Controls on Milling Machines
+
+   •  NIOSH recommend that each milling machine manufacturer design and install ventilation
+       controls with a minimum indoor capture efficiency of at least 90% (as determined by the
+       tracer gas method described in Appendix A) on all new half-lane and larger cold-milling
+      machines. Each milling machine manufacturer should conduct the tracer gas testing of
+       ventilation controls for a representative design of a half-lane and full-lane new milling
+      machine. Manufacturers should consider re-testing future milling machine designs if ap­
+       preciable changes are made that could negatively impact the effectiveness of the ventilation
+       control.
+   •  Manufacturers should install an air-flow indicating device on each milling machine so that
+      the ventilation control flow rate can be monitored. The device should allow for visual deter­
+      mination that the ventilation control is operating within the designed operating range. Each
+      manufacturer should attach a plate to the milling machine showing a simple diagram of the
+       ventilation control and a list of field-maintenance procedures.
+   •  NIOSH recommends that each manufacturer should use the procedures in Appendix B
+       to conduct field testing of a representative design of a half-lane and full-lane new milling
+     machine equipped with ventilation controls. The purpose of the field testing is to verify that
+      the ventilation controls continue to protect workers during asphalt pavement milling.
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   15
+
+=== SOURCE PDF PAGE 24 ===
+•  The ventilation and water-spray dust controls described in this document represent the cur­
+            rent knowledge of best practices developed by the Partnership for controlling dust during
+            asphalt pavement milling. This document should not limit manufacturers from implement­
+           ing future improvements in dust control as new technologies or inventions become avail­
+             able. Manufacturers can use the procedures in Appendix B to evaluate current and future
+           dust controls. Appendix D provides instructions on how to use the spreadsheet that accom­
+           panies the statistical procedures explained in Appendix B.
+         •  Milling machine contractors should implement a water-spray and ventilation control
+          system daily checklist to verify that the dust controls are being operated according to the
+           manufacturer instructions. An example daily checklist is provided in Appendix E.
+
+  Recommendations for Operation and Maintenance of
+   Dust Control Systems
+
+     Cold-milling machine manufacturers should provide an operator’s manual that contains a
+     maintenance schedule for the water-spray or ventilation controls. Each operator’s manual
+     should also include detailed sketches, performance criteria, and troubleshooting instructions for
+    equipment owners to use in their periodic inspection of these controls. Owners of cold-milling
+    machines equipped with these dust control systems are advised to inspect and maintain the
+     systems according to the manufacturer’s recommendations and to record the dates of periodic
+     inspections in the operator’s manual.
+
+    Training
+    Equipment manufacturers should provide training manuals to equipment owners in the operation,
+     maintenance, and repair of their dust control systems for cold-milling machines. Equipment
+     mechanics trained in the maintenance and repair of cold-milling machines may require additional
+     training to be aware of and perform these services on the dust control systems. Milling machine
+     operators should also be trained on these controls and be provided with the desired operating
+      specifications (water quantity, water pressure, air velocity) that must be maintained to be effective.
+     Also, milling machine operators should be trained to temporarily disable the ventilation control
+     system when milling directly into the wind.
+
+     Additionally, NAPA has published a Best Practice Bulletin 1/12, Operational Guidance for Water
+     Systems During Milling Operations, which is reprinted in Appendix F of this document with
+     permission from NAPA. The NAPA Best Practices Bulletin 1/12 is free of charge and provides
+     additional information about maintaining water-spray systems during milling operations.
+
+   Silica and Health Effects
+
+      Silica (SiO2), an oxide of silicon, occurs in nature as a mineral in quartz, chalcedony, chert, flint,
+     opal, diatomaceous earth, and sandstone [USGS 1914]. “Crystalline” refers to the orientation of
+     the SiO2 molecules in a fixed pattern as opposed to a nonperiodic, random molecular arrangement
+
+
+
+16    Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling
+
+=== SOURCE PDF PAGE 25 ===
+defined as amorphous [NIOSH 1974]. The three most common forms of crystalline silica
+encountered in construction and mining are quartz, tridymite, and cristobalite. NIOSH defines
+respirable crystalline silica as
+
+    “that portion of airborne crystalline silica that is capable of entering the gas-exchange
+    regions of the lungs if inhaled; by convention, a particle-size-selective fraction of the total
+    airborne dust; includes particles with aerodynamic diameters less than approximately 10
+   μm and has a 50% deposition efficiency for particles with an aerodynamic diameter of
+    approximately 4 μm” [NIOSH 2002].
+
+NIOSH estimates that at least 1.7 million American workers are exposed to respirable crystalline
+silica and that many of those workers’ exposures exceed current occupational exposure limits
+[NIOSH 2002]. Inhalation of respirable crystalline silica can cause silicosis, a debilitating and
+potentially fatal lung disease. Silica exposure has also been associated with lung cancer, chronic
+obstructive pulmonary disease, renal disease, and other adverse health outcomes [NIOSH 2002].
+During the period from 1990 through 1999, at least one-third of decedents with silicosis had
+worked in construction or mining [NIOSH 2007b].
+
+Occupational Exposure Limits
+
+In the United States, occupational exposure limits (OELs) have been established by federal
+agencies, professional organizations, state and local governments, and other entities. The U.S.
+Department of Labor OSHA permissible exposure limits (PELs) [29 CFR 1910.1000 (2003)]
+are OELs that are legally enforceable in covered workplaces under the Occupational Safety and
+Health Act. NIOSH issues RELs that are based on a critical review of the scientific and technical
+information available on the prevalence of health effects, the existence of safety and health risks,
+and the adequacy of methods to identify and control hazards [NIOSH 1992]. Other OELs that
+are commonly used and cited in the United States include the Threshold Limit Values (TLVs)
+recommended by ACGIH [ACGIH 2013a]. ACGIH TLVs are considered voluntary guidelines for
+use by industrial hygienists and others trained in this discipline “to assist in the control of health
+hazards.” Workplace environmental exposure levels (WEELs) are recommended OELs developed
+by the American Industrial Hygiene Association (AIHA). WEELs have been established for some
+chemicals “when no other legal or authoritative limits exist” [AIHA 2007].
+
+OSHA requires an employer to furnish employees a place of employment that is free from
+recognized hazards that are causing or are likely to cause death or serious physical harm
+(Occupational Safety and Health Act of 1970, Public Law 91–596, sec. 5(a)(1)). Thus, employers
+are required to comply with OSHA PELs. NIOSH investigators also encourage employers to
+consider other OELs in making risk assessment and risk management decisions to best protect
+the health of their employees. NIOSH investigators encourage the use of the traditional hierarchy-
+of-controls approach to eliminating or minimizing identified workplace hazards. This approach
+includes, in preferential order, the use of (1) substitution or elimination of the hazardous agent, (2)
+engineering controls (e.g., local exhaust ventilation, process enclosure) (3) administrative controls
+(e.g., limiting time of exposure, employee training, work practice changes, medical surveillance),
+
+
+
+Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling   17
+

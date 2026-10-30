@@ -1,0 +1,1215 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0001-0025.pdf
+SOURCE SHA-256: 3c504eec9e7d2ff9ce63e5a6040a46f61f621f992e1ac2902b393ae37fb2bb3d
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+2025 Standard Specifications
+ for Highway Construction
+                     Volume 1 of 2
+                    Adopted February 1, 2025
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+2025
+      STANDARD SPECIFICATIONS
+     FOR HIGHWAY CONSTRUCTION
+
+                                           VOLUME 1
+
+
+                                Adopted February 1, 2025
+                               Construction and Maintenance Branch
+                               Ministry of Transportation and Transit
+
+
+
+
+Cover Photograph provided by TranBC Flickr site
+https://www.flickr.com/photos/tranbc/53397215642/in/album-72177720304074161
+Nicomen Bridges - Temporary bridge construction after 2021 atmospheric river event
+Trans-Canada Hwy #1, approximately 18 km north of Lytton, BC
+50° 16' 5.86" N; 121° 24' 4.62" W
+
+
+BC MoTT                                                  SS 2025                      Page I of VIII
+                                                                                     Vol.1 Page 3 of 498
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+Library and Archives Canada Cataloguing in Publication Data
+British Columbia. Ministry of Transportation and Transit.
+    Standard specifications for highway construction – 2025 –
+
+   Issued by: Construction and Maintenance Branch
+
+Volume 1:
+ISBN 978-1-0399-0126-1(Print)
+ISBN 978-1-0399-0128-5 (PDF)
+
+[For reference only: Companion Volume 2.]
+ISBN 978-1-0399-0127-8 (Print)
+ISBN 978-1-0399-0129-2 (PDF)
+
+
+Standard specifications for highway construction
+   (British Columbia, Ministry of Transportation and Transit)
+
+   1.   Roads – Specifications – British Columbia. 1. Title II. British Columbia.
+        Construction and Maintenance Branch
+
+BC MoTT                                         SS 2025                             Page II of VIII
+                                                                                    Vol.1 Page 4 of 498
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 5 ===
+NOTICE TO USERS
+
+Generally, text significantly changed or added since the 2025 edition is shown with single underlining and a vertical
+bar in the margin; moved text is double underlined; deletions are marked only by the vertical change bars. Not all
+changes are marked. Minor corrections such as typos have not been marked.
+
+Extensively modified Sections are watermarked as “Revised Section”; new Sections are watermarked “New Section”,
+and neither have updates marked.
+
+
+To obtain hard copies of the current and historical editions of the “Standard Specifications
+for Highway Construction”:
+    •   Order online at www.crownpub.bc.ca/, in the “search” field type in the King’s Printer stock number
+        7680005858 [or click on the number to be hyperlinked to the order page] select “Buy Now” or “add to cart”.
+        You will require a credit card to process this order. (Information is stored on a secure server.) Government
+        customers may enter their customer number and postal code and click the logon button to access government
+        pricing.
+
+    •   Mail in a company cheque, money order or certified cheque payable to the Minister of Finance to:
+           Crown Publications, King’s Printer for BC.
+           Box 9452, Stn Prov Govt
+           Victoria BC V8W 9V7
+
+    •   Phone toll free 1 (800) 663-6105 from anywhere in North America, or locally in Victoria at (250) 387-6409,
+        with your credit card or and staff will place the order for you.
+
+Free PDF versions of the current and historical editions of these specifications are available for downloading at:
+    https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/engineering-standards-
+    guidelines/standard-specifications-for-highway-construction
+
+
+
+
+Please contact Construction and Maintenance Branch
+for questions related to this document.
+
+Construction and Maintenance Branch
+Ministry of Transportation and Transit
+940 Blanshard Street Level 4C
+PO Box 9850 STN PROV GOVT
+Victoria BC V8W 9T5
+E-mail: RehabMaintenance@gov.bc.ca
+
+BC MoTT                                               SS 2025                                        Page III of VIII
+                                                                                                      Vol.1 Page 5 of 498
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 6 ===
+THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+
+
+
+BC MoTT                   SS 2025                 Page IV of VIII
+                                                  Vol.1 Page 6 of 498
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 7 ===
+SS SECTION TITLES
+VOLUME ONE CONTAINS THE FOLLOWING SECTIONS:
+
+  SECTION 000 – NOTES
+
+  SECTION 101 – QUALITY MANAGEMENT
+  SECTION 108 – SAMPLE FORMS
+  SECTION 125 – VALUE ENGINEERING PROPOSALS
+  SECTION 135 – CONSTRUCTION SITE SAFETY
+  SECTION 145 – GENERAL REQUIREMENTS FOR HIGHWAY, BRIDGE AND MARINE CONSTRUCTION
+  SECTION 165 – PROTECTION OF THE ENVIRONMENT
+  SECTION 194 – TRAFFIC MANAGEMENT FOR WORK ZONES
+  SECTION 200 – CLEARING AND GRUBBING
+  SECTION 201 – ROADWAY AND DRAINAGE EXCAVATION
+  SECTION 202 – GRANULAR SURFACING, BASE AND SUBBASES
+  SECTION 204 – ROCK CUTS
+  SECTION 205 – RIPRAP
+  SECTION 206 – ROCK BOLTS
+  SECTION 207 – SLOPE MESH FOR ROCK CUTS
+  SECTION 208 – DRAINS FOR ROCK CUTS
+  SECTION 209 – SHOTCRETE FOR ROCK CUTS
+  SECTION 211 – PORTLAND CEMENT CONCRETE
+  SECTION 213 – TIMBER BRIDGES – CONSTRUCTION
+  SECTION 214 – TIMBER PILING CONSTRUCTION
+  SECTION 215 – BRIDGES
+  SECTION 216 – COATING OF STEELWORK
+  SECTION 218 – CONCRETE FOR MINOR WORKS
+  SECTION 220 – SHOTCRETE AND SOIL ANCHOR WALLS [In development: Not yet available]
+  SECTION 232 – METAL BIN–WALL
+  SECTION 303 – CULVERTS
+  SECTION 308 – COATING SYSTEMS
+  SECTION 312 – STEEL TRAFFIC BARRIERS
+  SECTION 316 – STEEL AND WIRE FENCE MATERIALS
+  SECTION 317 – P.E. PLASTIC DRAINAGE PIPE
+  SECTION 318 – PVC PLASTIC DRAINAGE PIPE
+  SECTION 320 – CORRUGATED STEEL PIPE
+  SECTION 321 – TRAFFIC MARKING PAINT AND SPECIAL MARKINGS
+  SECTION 407 – FOUNDATION EXCAVATION
+  SECTION 412 – CONCRETE REINFORCEMENT
+
+
+BC MoTT                                  SS 2025                               Page V of VIII
+                                                                               Vol.1 Page 7 of 498
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 8 ===
+SECTION 413 – BRIDGE DECKS AND CONCRETE OVERLAYS
+   SECTION 415 – MANUFACTURE AND ERECTION OF PRECAST AND PRECAST PRESTRESSED
+                 CONCRETE MEMBERS
+   SECTION 416 – MANUFACTURE AND INSTALLATION OF POST–TENSIONED CONCRETE MEMBERS
+   SECTION 418 – SILANE TREATMENT OF NEW CONCRETE BRIDGE SURFACES
+   SECTION 419 – CONCRETE BRIDGE DECK WATERPROOFING SYSTEM – PREFABRICATED
+                 MEMBRANE
+   SECTION 420 – HOT APPLIED WATERPROOFING MEMBRANE AND ASPHALT OVERLAY [NEW
+                 SECTION]
+   SECTION 421 – STRUCTURAL STEELWORK
+   SECTION 422 – MISCELLANEOUS STEELWORK
+   SECTION 502 – ASPHALT PAVEMENT CONSTRUCTION (EPS)
+   SECTION 503 – BASE PREPARATION AND BASE PROCESSING
+   SECTION 504 – PAVEMENT DRAINAGE
+   SECTION 505 – USE OF RECLAIMED ASPHALT PAVEMENT IN ASPHALT PAVEMENT CONSTRUCTION
+   SECTION 507 – PRODUCTION AND STOCKPILING OF ASPHALT MIX
+   SECTION 508 – GRADED AGGREGATE SEAL COAT (EPS)
+   SECTION 511 – COLD MILLING
+   SECTION 515 – HOT–IN–PLACE RECYCLED ASPHALT PAVEMENT (EPS)
+   SECTION 521 – ASPHALT STABILIZED BASE COURSE MIXED IN PLACE
+   SECTION 531 – ASPHALT SURFACE TREATMENTS
+   SECTION 536 – PAVEMENT CRACK SEALING
+   SECTION 537 – SPRAY PATCHING
+   SECTION 541 – STONE PAVING
+   SECTION 582 – CONCRETE CURB AND GUTTER AND STORM DRAINAGE
+   SECTION 586 – PLANT MIXED PORTLAND CEMENT TREATED BASE COURSE
+
+
+
+THE FOLLOWING SECTIONS HAVE BEEN DELETED FROM VOLUME 1:
+None
+
+
+
+
+BC MoTT                                   SS 2025                       Page VI of VIII
+                                                                         Vol.1 Page 8 of 498
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 9 ===
+SS SECTION TITLES
+VOLUME TWO CONTAINS THE FOLLOWING SECTIONS:
+
+  SECTION 000 – NOTES
+
+  SECTION 604 – STEEL TRAFFIC BARRIER CONSTRUCTION
+  SECTION 635 – ELECTRICAL AND SIGNING
+  SECTION 700 – WILDLIFE EXCLUSION FENCING
+  SECTION 741 – FENCE CONSTRUCTION
+  SECTION 751 – TOPSOIL AND LANDSCAPE GRADING
+  SECTION 754 – PLANTING OF TREES, SHRUBS, AND GROUND COVERS
+  SECTION 757 – REVEGETATION SEEDING
+  SECTION 766 – IRRIGATION
+  SECTION 769 – PROTECTION AND RETENTION OF VEGETATION
+  SECTION 904 – TIMBER (TREATED AND UNTREATED)
+  SECTION 905 – TIMBER – GLUED LAMINATED
+  SECTION 906 – ROUND TIMBER PILES
+  SECTION 908 – PRESERVATIVE TREATMENT – WOOD PRODUCTS
+  SECTION 909 – TREATED WOOD PRODUCTS
+  SECTION 911 – STEEL AND IRON
+  SECTION 941 – PRECAST REINFORCED CONCRETE BARRIERS
+  SECTION 942 – PRECAST CONCRETE INTERLOCKING MODULAR BLOCKS
+  SECTION 952 – CONTRACTOR SUPPLY ASPHALT AND PAVING MATERIALS FOR HIGHWAY USE
+  SECTION 991 – CALCIUM CHLORIDE AND SODIUM CHLORIDE
+
+
+
+
+THE FOLLOWING SECTIONS HAVE BEEN DELETED FROM VOLUME 2:
+  None.
+
+
+
+
+BC MoTT                                  SS 2025                      Page VII of VIII
+                                                                       Vol.1 Page 9 of 498
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 10 ===
+THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+
+
+
+BC MoTT                   SS 2025                 Page VIII of VIII
+                                                   Vol.1 Page 10 of 498
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 11 ===
+SECTION 000
+                                                             NOTES
+
+000.01 Ministry Names – Within these Standard                      every amendment to it, every regulation made under it and
+Specifications, many Ministry names have been                      any enactment passed in substitution therefore or in
+genericized, focusing on the relevant area of responsibility       replacement thereof.
+rather than the current, full Ministry name. As an example
+                                                                   000.03 Hyperlinks – In the PDF version of this document,
+for an issue related to mine safety, the current “Ministry of
+                                                                   many reference sources have been hyperlinked (such as the
+Mining and Critical Minerals” is referenced as the “Ministry
+                                                                   reference in SS 000.01 above) and will show as blue
+of Mines”.
+                                                                   underlined text.
+A list of current Ministries may be found at:
+                                                                   Clicking on the link will open the resource in your web
+    https://www2.gov.bc.ca/gov/content/governments/org             browser.
+    anizational-structure/ministries-
+                                                                   Generally, links to test methods and specification
+    organizations/ministries
+                                                                   organizations (like CSA or ASTM) will take you to a site
+Where a provincial Act is referenced, the Minister                 where you can purchase and download the associated
+responsible for that Act can be found under the                    specifications; a link to a Ministry document, and some
+“Acts/Ministers’ Responsibilities” link on the BC Laws             others, within the text of a Section should take you to a
+webpage:                                                           website where you can download the referenced document
+                                                                   free of charge.
+   https://www.bclaws.gov.bc.ca/
+                                                                   Note: Due to MS Word® prioritizing “Track Changes”
+Referenced publications maintain the name of the Ministry
+                                                                   formatting over other formatting, some newly inserted
+as shown within the document itself.
+                                                                   hyperlinks are not shown in blue. If there is underlined
+Upon request by the Contractor, the Ministry Representative        black text that looks like it might warrant a hyperlink, hover
+will provide clarification as to which Ministry is currently       your mouse over it to see if it does have an embedded link.
+responsible for any particular reference.
+                                                                   000.03.01 Disclaimer – Any information, including
+000.02 Cross References Abbreviations and Inclusions –             statutes and regulations, that may be found by accessing
+To facilitate the cross referencing among the components of        URLs or websites (including via hyperlinks) in these
+each of the Standard Specification, Tender Document                Standard Specifications are not the official versions and
+Package, the Contract Document Package and the Contract,           may not be accurate, complete, current or reliable.
+unless the context by implication requires otherwise, the
+                                                                   000.04 General Condition (GC) References – Where
+following is used:
+                                                                   these Standard Specifications make a reference to a General
+000.02.01 Shorthand Referencing – A reference to                   Condition (e.g. GC 38.00 Changes to Work), that reference
+XX#.## means to the article, section, subsection, or               is to the applicable clause of the Ministry’s Major Works
+paragraph #.## of document XX, where “XX” refers to the            General Conditions.
+following, as the case may be:
+                                                                   Where the Work is being performed under a different set of
+   CT means Conditions of Tender;                                  terms and conditions (e.g. the Minor Works General
+                                                                   Conditions), the reference shall be read as being to the most
+   GC means General Conditions;
+                                                                   comparable term and condition of the actual Contract.
+   SCT means Invitation to Tender – Supplemental
+                                                                   In the event there is uncertainty in determining the
+   Conditions of Tender;                                           applicable clause, the Ministry Representative will
+   SGC means Supplemental General Conditions;                      determine how the reference is to be interpreted.
+   SP means Special Provisions; and                                000.05 Engineer of Record (EoR) / Professional of
+                                                                   Record (PoR) – These two terms are used, essentially
+   SS means Standard Specifications for Highway                    interchangeably, within these Standard Specifications and
+   Construction.                                                   are based on the Association of Professional Engineers and
+000.02.02 Inclusive of Subclause – A reference to a higher-        Geoscientists of the Province of British Columbia’s
+level clause includes a reference to any subclauses (e.g.          (APEGBC) use and recent terminology change from EoR to
+XX#.00 includes XX#.01, XX#.02 etc.; XX#.01 includes               PoR.
+XX#.01(a), XX#.01(b)(i), etc.).                                    Whereas APEGBC is concerned only with their registrants,
+000.02.03 Statutes – A reference to a statute, whether or not      including Professional Engineers and Geoscientists, usage
+that statute has been defined, means a statute of the Province     in these Standard Specifications may also capture other
+of British Columbia unless otherwise stated and includes           registered professions such as Registered Professional
+
+
+BC MoTT                                                      SS 2025                                              000 (1 of 2)
+                                                                                                             Vol.1 Page 11 of 498
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 12 ===
+SECTION 000                                                                 NOTES
+
+Foresters (RPF), Registered Professional Biologists
+(RPBio), and other disciplines, as appropriate to the
+circumstances.
+Each EoR/PoR is professionally responsible to the Ministry
+for the works they have designed or field-reviewed.
+
+
+
+
+BC MoTT                                                  SS 2025        000 (2 of 2)
+                                                                   Vol.1 Page 12 of 498
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 13 ===
+SECTION 101
+                                               QUALITY MANAGEMENT
+
+101.01 General – All work on Ministry projects shall be           Representative, supplemented by the Contractor’s Quality
+undertaken through a total quality management process,            Control results.
+utilizing Ministry, Contractor and third-party resources, as
+                                                                  Work failing to meet the conditions of the Contract will be
+necessary.
+                                                                  considered Unacceptable Work.
+The Contractor shall have a quality management program
+                                                                  The Ministry Representative may consider all Work from
+and staff in place and provide the Ministry with documented
+                                                                  the last acceptable Quality Assurance testing as
+assurance that any product meets all applicable
+                                                                  Unacceptable Work. The Contractor will not be entitled to
+requirements of the Contract, at any hold point or witness
+                                                                  payment for Work that lacks the appropriate Quality
+point (as defined in SS 145.12) and prior to issuance of the
+                                                                  Control documentation, verified by the QC Manager, as
+Completion Certificate.
+                                                                  required by the Contract.
+101.01.01 Quality Management Definitions – The
+                                                                  The Contractor shall implement a well-coordinated
+Ministry accepts the following definitions associated with
+                                                                  approach to all operations related to the Work and shall
+Quality Management:
+                                                                  organize its team and operations in keeping with the goal of
+(a) Quality Control (QC): The process of checking                 doing things right the first time.
+    specific product or service results to determine if they
+                                                                  101.02 Quality Control Plan (QC Plan)
+    comply with relevant quality standards and identifying
+    ways to eliminate causes of unsatisfactory product or         101.02.01 QC Plan General Requirements – The
+    service performance.                                          Contractor shall be responsible for all Quality Control
+                                                                  during the performance of the Work. QC work includes
+(b) Quality Assurance (QA): The process of evaluating
+                                                                  monitoring, inspecting and testing the means, methods,
+    overall product or service, by persons or companies
+                                                                  materials, workmanship, processes and products of all
+    independent of those doing the Work, on a regular
+                                                                  aspects of the Work as necessary to ensure conformance
+    basis to provide confidence that the product or service
+                                                                  with the Contract.
+    satisfies the relevant quality standards.
+                                                                  The Contractor shall prepare, and submit to the Ministry
+(c)   Quality Audit (QAudit): Review by a party
+                                                                  Representative, a Quality Control Plan (QC Plan) in
+      independent of QC and QA, to provide confidence that
+                                                                  accordance with the Contract provisions, including
+      the QC and QA processes and resulting products
+                                                                  SS 101.02.03.
+      satisfy the contractual requirements.
+                                                                  (a) ISO 9001 – The QC Plan shall be structured around
+(d) Quality Management (QM): The compendium of
+                                                                      the ISO 9001 program although ISO registration is not
+    quality control, assurance and audit provided by a
+                                                                      required, and clearly demonstrate the Contractor’s
+    party
+                                                                      understanding and commitment to ISO’s principles of
+101.01.02 QM Program Components – The quality                         quality management:
+management program has two key components as follows:
+                                                                        (i)   Customer focus
+•     Quality Control – the Contractor’s responsibility
+                                                                        (ii) Leadership
+•     Quality Assurance – the Ministry’s responsibility                 (iii) Engagement of people
+Each component of the program must address materials,                   (iv) Process approach
+processes, products, submittals to the Ministry, and
+documentation, utilizing both construction inspection                   (v) Continual improvement
+measures and standard test methodologies where
+                                                                        (vi) Evidence-based decision-making
+appropriate.
+                                                                        (vii) Relationship Management.
+The Contractor shall provide unrestricted access to all
+Quality Control operations and documentation produced by          (b) The QC Plan must also include sections detailing the
+or on behalf of the Contractor and shall allow the Ministry           Contractor’s methodology associated with each of the
+full access at any time during working hours.                         above principles.
+The Ministry Representative will review the Contractor’s          (c)   No Work shall be undertaken on any element of Work
+performance of the Work and determine the acceptability of              (including payment Items and incidental Work, or
+the Work based on the Ministry’s Quality Assurance results              submittals for review) for which there are QC Plan
+and, where deemed appropriate by the Ministry                           submission requirements until the Ministry has
+
+
+
+BC MoTT                                                     SS 2025                                            101 (1 of 6)
+                                                                                                           Vol.1 Page 13 of 498
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 14 ===
+SECTION 101                                                                                     QUALITY MANAGEMENT
+
+      accepted the base portion of the QC Plan and the            (b) Quality Control Manager – The Contractor shall
+      specific details for that element of Work.                      designate one person as the Quality Control Manager
+                                                                      (QC Manager) who shall be responsible for the
+(d) Subject to the submission requirements outlined in
+                                                                      implementation of the QC Plan.
+    SS 101.02.03, the QC Plan is required to cover the
+    Work in its entirety, including without limitation all              (i)   The QC Manager shall be:
+    materials the Contractor and Subcontractors are
+                                                                              (A) a qualified Professional Engineer,
+    supplying, and all items and phases of construction on
+    the Project.                                                              (B) a Certified Engineering Technician,
+(e)   The plan may be operated wholly or in part by a                         (C) an Applied Science Technologist, or
+      qualified Subcontractor or an independent
+                                                                              (D) another qualified individual,
+      agency/organization.         However, the plan’s
+      administration (including conformance with the plan                     and shall have extensive relevant experience in
+      and its modifications) and the quality of the Work                      quality management, and must demonstrate
+      remain the responsibility of the Contractor.                            knowledge, skills and abilities acceptable to the
+                                                                              Ministry Representative. Any nomination of a
+(f)   The Contractor’s QC program and the Work shall be
+                                                                              Quality Manager or designate shall be
+      undertaken in accordance with the QC Plan and shall
+                                                                              accompanied by a full resumé of the nominee.
+      be well managed, with testing results representative of
+      actual operations. Results will be reported accurately            (ii) The QC Manager shall be at “arms-length” from
+      and in a timely manner.                                                the productivity part of the Contractor’s
+(g) The Contractor shall also ensure that all workers are                    organization and specifically shall not be the
+                                                                             Project Manager or the Project Superintendent.
+    familiar with the Quality Management Plans, its goals,
+                                                                             On Minor Works contracts, this requirement
+    and their role under it, as well as with the Contract
+                                                                             will, upon request by the Contractor and where
+    specifications associated with the Work they are to
+                                                                             the candidate is deemed acceptable under the
+    undertake.
+                                                                             foregoing paragraph, generally be waived by the
+101.02.02 QC Plan Quality Control Staff and                                  Ministry Representative.
+Equipment Submission Requirements – The Contractor
+                                                                        (iii) The Quality Manager is not entitled to waive or
+shall provide all resources and take all actions necessary to
+                                                                              vary any requirement of the Contract, but may
+ensure:
+                                                                              seek authorization of any proposed variance
+(a) Inspection and Testing Staff – Provision of sufficient                    from the Ministry Representative.
+    inspection or testing staff, with adequate equipment
+    and technical support to perform all Quality Control                (iv) The QC Manager, or a designated replacement
+                                                                             acceptable to the Ministry Representative
+    functions in an accurate and timely manner.
+                                                                             empowered and able to perform all of the QC
+      (i)   That QC staff perform only inspections and tests                 Manager’s relevant duties, shall remain on Site
+            for which they are qualified.                                    at all times the Contractor is performing Work
+                                                                             which must be tested or inspected in-process, and
+      (ii) All testing equipment is calibrated, properly
+                                                                             must be readily accessible and able to return
+           maintained, and in good operating condition.
+                                                                             when off-Site.
+      (iii) All testing and inspection is performed in
+                                                                  (c)   Other Contractor Staff – The Ministry recognizes
+            accordance with appropriate standards of the
+                                                                        the Contractor’s Project Manager and Superintendent
+            Contract.
+                                                                        as the personnel responsible for making the product
+      (iv) Submission to the Ministry Representative,                   meet the contractual requirements, but the QC
+           within twenty-four (24) hours, of daily reports              Manager’s duties include being responsible to
+           for all tests and inspections that indicate non-             measure conformance and to ensure that quality is not
+           conformance of the material being tested.                    compromised by production pressures.
+      (v) Production, within forty-eight (48) hours, of           (d) QC Plan Content – The QC Plan will include the
+          daily reports for all tests and inspections that            following information:
+          indicate conformance of the material being tested
+                                                                        (i)   the name of the QC Manager and qualifications
+          and the availability of back-up documentation to
+                                                                              establishing a proven capability to provide the
+          substantiate test results when required.
+                                                                              specific services required for the Project;
+      (vi) Organization, compilation and submission of all
+                                                                        (ii) the name of QC testing agencies and their proven
+           project QC documentation within 14 days of the
+                                                                             capability to provide the specific services
+           last day on Site and as a condition precedent to
+                                                                             required for the Project;
+           the issuance of the Completion Certificate.
+
+BC MoTT                                                     SS 2025                                               101 (2 of 6)
+                                                                                                            Vol.1 Page 14 of 498
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 15 ===
+SECTION 101                                                                                    QUALITY MANAGEMENT
+
+      (iii) a listing of QC staff (including names,                   (vii) undertake quality review activities on the Work
+            qualifications and relevant experience) and their               and Quality Control activities delegated to any
+            assigned roles and work scheduling in                           Sub-contractors to ensure that their work is
+            performing QC duties;                                           compliant with all terms of the Contract.
+      (iv) a list of testing equipment to be used for the             (viii) ensure the requirements for quality management
+           Work;                                                             (including an overview of how the QC Plan
+                                                                             operates, the worker’s role in it, contractual
+      (v) an organizational chart showing details of the
+                                                                             specifications for the Work, and work
+          flow of information, “hold” points, rectification
+                                                                             procedures) are known to, understood by, and
+          of deficiencies and other relationships and
+                                                                             adhered to by all workers on the Site;
+          responsibilities necessary to assure Project
+          quality requirements are met;                               (ix) ensure that all QC checklists are signed-off by
+                                                                           competent and responsible parties as close to the
+      (vi) a description of how the QC staff are allocated to
+                                                                           actual work as appropriate to the nature of the
+           Project requirements, the tasks assigned to each,
+                                                                           Work (e.g. by the actual worker or a foreperson
+           and how their work will be coordinated;
+                                                                           for most work; by a Professional Engineer for
+      (vii) a commitment to have every submission to the                   false work erection; etc.)
+            Ministry seeking review or approval to be
+                                                                      (x) review, sign, and be responsible for all reports
+            accompanied by a QC Checksheet, showing that:
+                                                                          (materials and testing results);
+            (A) the contents of the submission have been
+                                                                      (xi) consult with field inspectors regarding materials
+                reviewed by QC staff and signed off by the
+                                                                           and testing issues;
+                QC Manager; and
+                                                                      (xii) receive notification by inspectors regarding
+            (B) the submission, including any associated
+                                                                            deficiencies and ensure re-testing or rejection;
+                information, is
+                                                                      (xiii) provide monthly summary reports on testing and
+                 (1) fully compliant with all requirements
+                                                                             inspection results. Weekly summary reports may
+                     of the Contract, or
+                                                                             be required if the Ministry Representative finds
+                 (2) identifies any non-conformances and                     the Contractor’s QC to be lacking.
+                     provides an internal NCR, complete
+                                                                      (xiv) initiate the non-conformance process when
+                     with proposed corrective action, or
+                                                                            materials or product do not meet the required
+                 (3)    requests a variance from the Contract               specifications and, inform the Ministry
+                       provisions including any proposed                    Representative of such non-conformance;
+                       revised standards to be applicable to
+                                                                      (xv) consult with the Contractor Representative and
+                       the Work and any compensation
+                                                                           initiate corrective action on non-conformance;
+                       offered to the Ministry should the
+                       variance be approved.                          (xvi) respond to each Non-Conformance Report
+                                                                            (NCR) issued by the Ministry Representative
+(e)   QC Plan Implementation – Without limitation, the
+                                                                            within the time specified in the NCR;
+      Contractor’s QC Manager shall:
+                                                                      (xvii) schedule testing and inspection services in
+      (i)   implement the Contractor’s QC Plan;
+                                                                            coordination     with      the  Contractor’s
+      (ii) ensure all submissions to the Ministry are                       superintendent and forepersons;
+           accompanied by a check sheet pursuant to
+                                                                      (xviii) monitor QC testing and inspection procedures
+           SS 101.02.02(d)(vii):
+                                                                            including those of the Subcontractors;
+      (iii) be responsible for measuring conformance with
+                                                                      (xix) work directly with the Ministry Representative
+            all aspects of the contract quality;
+                                                                            on matters related to QC;
+      (iv) stop work when materials, product, processes or
+                                                                      (xx) ensure required approvals and permits from the
+           submittals are deficient;
+                                                                           Ministry Representative and others are obtained
+      (v) develop inspection and testing plans for each                    as and when required;
+          element of Work;
+                                                                  •   verify that all testing equipment is properly maintained
+      (vi) develop acceptance/non-acceptance reports and              and kept in good working order;
+           quality control checklists for each element of
+           Work in sufficient detail to gauge conformance         •   keep an organized filing system to ensure that quality
+           with all significant contractual requirements;             records are easily accessible so that auditors can obtain
+                                                                      necessary information;
+
+
+BC MoTT                                                     SS 2025                                            101 (3 of 6)
+                                                                                                           Vol.1 Page 15 of 498
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 16 ===
+SECTION 101                                                                                           QUALITY MANAGEMENT
+
+•   review issued for construction drawings, calculations,        (c)   Initial Submission for Both Full and Partial Submissions
+    and shop drawings and ensure that all concerned                     – The initial QC Plan shall be submitted to the Ministry
+    Contractor staff have current versions of documents                 Representative a minimum of seven (7) days in advance of
+    applicable to their part of the Work;                               the Project pre-construction meeting or fourteen (14) days
+                                                                        in advance of undertaking any Work on Site, whichever is
+•   notify the Ministry Representative of any changes in                earlier, and must provide details of all elements of Work
+    survey layout, location, line, grade, etc., for approval;           anticipated to be undertaken within the Contractor’s first
+    notify the company principles of any issues that                    thirty (30) days on Site.
+    compromise the integrity or function of the Quality
+    Management System, and                                              This initial submission must provide complete detail of the
+                                                                        QC methodology to be employed with respect to the
+•   provide an auditable trail for survey computations to               following elements, regardless of when those tasks are
+    the Ministry Representative.                                        anticipated to commence:
+101.02.03 QC       Plan   Submission      Requirements                        (i)   All elements listed in SS 101.02.02
+(Contract–Specific) – Each QC Plan submission to the
+Ministry shall be accompanied by a QC checklist prepared                      (ii) Traffic Management
+by the Contractor, as specified in SS 101.02.02(d)(vii),                      (iii) Site Safety
+demonstrating that the submission has been checked for
+compliance with contractual requirements.                         (d) Subsequent Submissions for Both Full and Partial
+                                                                      Submissions – Detailed submissions for the balance of the
+(a) Full Submission – Unless otherwise specified in the               Work must be received:
+    Special Provisions, the Contractor’s QC plan shall
+    provide details of the means, methods, and frequencies                    (i)   a minimum of fourteen (14) days prior to the
+    of Quality Control measures for all elements of Work                            anticipated first day of Work on each element
+    (whether payment Items or incidental) in the Contract.                          covered by the submission; and
+(b) Partial Submission – On projects considered by the                        (ii) not later than 60 days after the earlier of the pre-
+    Ministry to be of low complexity and/or risk, and only                         construction meeting and the date the Contractor
+    where explicitly invoked by the Special Provisions,                            first occupied the Site.
+    the Ministry will accept a partial QC Plan submission.                    (iii) Improved procedures may be introduced after the
+     Notwithstanding any such reduced submission                                    start of work as necessary as amendments to the
+     requirements, the Contractor remains responsible for                           Quality Control Plan. All amendments require
+     QC for all aspects of the Work.                                                the written acceptance of the Ministry
+                                                                                    Representative.
+     (i)   The Contractor’s partial QC Plan submission to
+           the Ministry Representative is only required to                    (iv) The type and frequency of QC tests shall be
+           address the details of the following types of                           established by the Contractor and shall be in
+           Work:                                                                   conformance with the requirements of the
+                                                                                   Contract, including the minimum frequencies
+           (A) Traffic Management                                                  specified in the Special Provisions and/or
+           (B) Survey/layout                                                       Standard Specifications (for those listed items
+                                                                                   applicable to the Work), and the current
+           (C) Materials incorporated into the Work                                acceptable practice of the industry.
+               (concrete barrier, culverts, filter cloth, lock-
+               blocks, etc.)                                                  (v) When materials or equipment are specified by
+                                                                                  standard or performance specifications the
+           (D) Compaction (subgrade, embankments,                                 Contractor shall obtain from suppliers or
+               granular aggregates, culvert backfill, etc.)                       manufacturers independent test reports, or test
+           (E) Aggregate gradation                                                certificates stating that the materials or
+                                                                                  equipment     meet    or    exceed    specified
+           (F) Plus any other elements identified in the                          requirements. The Contractor shall provide
+               Special Provisions as a submission                                 back-up documentation of actual testing results
+               requirement.                                                       upon request by the Ministry Representative.
+     (ii) The Contractor shall initiate such other Quality              (e)   Submission Checklists – The initial submission, as
+          Control procedures as are necessary for ensuring                    well as any subsequent submission or revision, must
+          the production of a quality product and may                         be accompanied by the Contractor’s QC checklist for
+          include them in the Quality Control Plan                            Quality Management, verifying that the submission
+          submission.                                                         meets all relevant contractual requirements.
+
+
+
+BC MoTT                                                       SS 2025                                                  101 (4 of 6)
+                                                                                                                   Vol.1 Page 16 of 498
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 17 ===
+SECTION 101                                                                                      QUALITY MANAGEMENT
+
+101.03 Ministry Quality Assurance – The Ministry may                101.05 Non-Conformance Reports (NCRs) – The
+prepare and implement a Quality Assurance Plan, based in            Contractor shall, and the Ministry may, review the Work to
+part on the effectiveness and reliability of the Contractor’s       determine conformance with the contractual requirements.
+Quality Control Plan. The Ministry may also undertake
+                                                                    Non-conformances found shall be dealt with as follows.
+random and systematic inspections of the Work and of the
+Contractor’s QC documentation.                                      101.05.01 Contractor’s Internal NCR – Should the
+                                                                    Contractor’s QC reporting indicate that the Work is not in
+The purpose of the QA Plan and inspectional activities is to
+                                                                    conformance, the QC Manager shall issue an internal Non-
+ensure that payment is made only for acceptable works in
+                                                                    Conformance Report (NCR) to the Contractor, with a copy
+place and may be based on a limited amount of sampling
+                                                                    to the Ministry, including a response time.
+and testing.
+                                                                    The Contractor shall then respond to the QC Manager, with
+The Ministry Representative will monitor the Contractor’s
+                                                                    a copy to the Ministry Representative, with respect to the
+operations and the Quality Control program to assure that
+                                                                    NCR, within the specified time, with proposed resolutions
+standards are being met and to assess what payments have
+                                                                    and corrective actions and/or preventative actions, including
+been earned under the terms of the Contract.
+                                                                    whether or not a Stop Work order is warranted for the
+Any instances of Unacceptable Work discovered by either             affected Work. The Contractor and/or the QC Manager may
+the Contractor or the Ministry may result in a Non-                 consult with the Ministry Representative on the resolutions
+Conformance Report being issued to the Contractor.                  but is not required to do so.
+The QA program activities will not relieve the Contractor of        Payment for a Quality Management will not be affected by
+Quality Control responsibilities under the terms of the             internal NCRs, as long as the issue is diligently pursued and
+Contract.                                                           resolved.
+The frequency of QA inspection and testing will generally           Payment for the Work itself may be withheld until the NCR
+be approximately zero to ten percent (0 – 10%) of the               issue is resolved.
+frequencies undertaken by the Contractor in its QC Plan and
+                                                                    101.05.02 Ministry-Issued NCR – Should the Ministry’s
+will initially be set at a level commensurate with the
+                                                                    QA or oversight reporting indicate that the Work is not in
+Ministry Representative’s confidence in the anticipated
+                                                                    conformance, or that the Contractor has failed to address an
+effectiveness of the Contractor’s QC program.
+                                                                    internal NCR within a reasonable period of time, the
+The Ministry Representative may increase or decrease the            Ministry Representative may issue to the Contractor a NCR,
+frequency of QA inspection and testing during the course of         including a response time. Where appropriate, the Ministry
+the Work, based in part on the actual effectiveness of the          may issue two NCR’s related to a single issue – one for the
+Contractor’s QC Plan.                                               product itself, and the other for the Contractor’s failure to
+                                                                    perform Quality Management.
+The Ministry’s Quality Assurance may also include random
+and/or targeted quality audits.                                     The Contractor shall then respond to that NCR, within the
+                                                                    specified time, with proposed resolutions and corrective
+101.04 Independent Quality Audit – The Ministry may
+                                                                    actions.
+have one or more independent auditors on the Project,
+supplementing the work of the Ministry QA staff. When               The Ministry Representative will accept or reject the
+utilized, the auditor(s) will report to the Ministry                proposed resolution and corrective action proposal.
+Representative and provide a systematic and independent
+                                                                    Assurance testing and inspection will be performed to
+assessment of whether or not the materials and Project
+                                                                    determine if the corrective action has provided an
+activities and related results comply with the Contract, the
+                                                                    acceptable product. Acceptance and rejection will continue
+Contractor’s QC Plan, and the Ministry’s QA Plan. These
+                                                                    until the Ministry Representative determines that a quality
+independent auditors may be Ministry employees but will
+                                                                    product has been achieved.
+be assigned from resources which have not otherwise been
+involved with the Work.                                             A portion of the payment for a Quality Management may be
+                                                                    withheld until the NCR issue is resolved or, in accordance
+The objective of the independent Quality Auditing is to have
+                                                                    with SS 101.08, may be withheld permanently.
+an impartial opinion on both QC and QA activities and be
+proactive in avoiding or reducing quality related issues by         Payment for the Work itself may be withheld until the NCR
+requiring the process of conformance verification to be             issue is resolved.
+systematic.
+                                                                    101.05.03 Opportunity for Improvement – Should the
+The auditor(s) will be allowed unrestricted access to the Site      QA or oversight review indicate that the Work is not in
+and all activities therein, to all testing and documentation of     conformance, but the variance is deemed minor by the
+the work done by the Ministry, Contractor and their agents          Ministry Representative, the Ministry Representative may
+and suppliers.                                                      issue an Opportunity for Improvement (OFI) report.
+
+
+BC MoTT                                                       SS 2025                                            101 (5 of 6)
+                                                                                                             Vol.1 Page 17 of 498
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 18 ===
+SECTION 101                                                                                      QUALITY MANAGEMENT
+
+The Contractor is encouraged to review the findings and             If the appeal confirms the non-conformance determination,
+undertake such modifications to the QC Plan and the work            all appeal testing and inspection costs will be borne by the
+procedures as necessary to address the issue.                       Contractor. If the appeal shows that the Work did in fact
+                                                                    meet the requirements of the Contract, all appeal testing and
+An OFI will not affect payment for Quality Management or
+                                                                    inspection costs will be borne by the Ministry.
+for the Work itself.
+                                                                    101.07 Payment – The Lump Sum Price bid for Quality
+101.05.04 Stop Work Order – Should the Ministry
+                                                                    Management shall be full compensation for all costs
+Representative determine that the non-conformance is
+                                                                    resulting from the Quality Management requirements set
+significant, the Ministry Representative may issue a Stop
+                                                                    out in the Contract.
+Work Order. A Ministry-issued Stop Work Order may be
+appealed by the Contractor under SS 101.06 but shall not            Payment will be made on a monthly basis prorated for the
+cause a Notice of Dispute.                                          percentage of the total Work completed as determined by
+                                                                    the Ministry Representative, subject to the Contractor being
+101.06 Appeal – If the Contractor disputes the validity of
+                                                                    totally compliant with the requirements of this Section and
+any testing or inspection finding in an NCR, the Contractor
+                                                                    with its own Quality Control Plan.
+may file an appeal with the Ministry Representative. An
+appeal under this SS 101.06 is available only for issues of         101.08 Withholding       Payment       –   The     Ministry
+assessing compliance of a material, product or process              Representative, in consultation with a Ministry construction
+against the requirements of the Contract, and not any               manager following the issuance of a Ministry-issued NCR
+decision the Ministry may make regarding rectification of           pursuant to SS 101.05.02, may deduct an amount from any
+the non-compliance.                                                 monthly payment so computed, for any quality management
+                                                                    work required but not satisfactorily undertaken during that
+The Ministry Representative and the Contractor
+                                                                    month.
+Representative will use all reasonable efforts to refine the
+area of dispute and to resolve the determination of                 The Ministry Representative may also reduce the total
+conformance with the Contract.                                      Lump Sum payable by the value of any quality management
+                                                                    work required but not satisfactorily undertaken during the
+If the Ministry Representative and the Contractor
+                                                                    Term of the Contract. The foregoing determinations will be
+Representative cannot come to a mutually agreeable
+                                                                    made in the sole discretion of the Ministry Representative.
+resolution, the Work that is the subject of the Non-
+                                                                    When the value bid for the Quality Management Item is
+Conformance Report shall be re-evaluated by an
+                                                                    insufficient to cover the payment reductions, the Ministry
+independent third-party, selected by the Ministry
+                                                                    Representative may recover the reductions as a back charge
+Representative in consultation with the Contractor.
+                                                                    against a Site Modifications Item or any other Item in the
+If the appeal is of test results, the work in question shall be     Contract.
+retested at a test frequency equivalent to twice that specified
+                                                                    Inspection or testing by the Ministry Representative will be
+in the Contract or to such other frequency as may be
+                                                                    at the Ministry’s cost. However, re-inspection or re-testing
+mutually agreed between the Ministry Representative and
+                                                                    by the Ministry for repaired or replaced Work items that
+the Contractor.
+                                                                    originally did not meet contract requirements shall be at the
+If the appeal relates to an inspection, the work in question        Contractor’s cost.
+shall be fully re-evaluated for strict compliance with all
+                                                                    Work that is deemed Unacceptable Work will not be eligible
+applicable terms of the Contract.
+                                                                    for payment.
+The specific retest or reinspection locations shall be
+                                                                    The Completion Certificate will not be issued if there are
+determined by the Ministry Representative, in consultation
+                                                                    any unresolved Non-Conformance Reports.
+with the Contractor and the independent third-party.
+
+
+
+
+BC MoTT                                                       SS 2025                                            101 (6 of 6)
+                                                                                                             Vol.1 Page 18 of 498
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 19 ===
+SECTION 108
+                                                     SAMPLE FORMS
+
+GENERAL                                                           108.12 Major Works, Minor Works and Operational
+                                                                  Services – Holdback or Security Release – The form
+108.01 General – This Section provides sample copies of
+                                                                  attached as APPENDIX 108-B (Ministry form H0394F) is
+forms which the Contractor may be required to execute and
+                                                                  used to meet the Statutory Declaration requirements of the
+submit to the Ministry in accordance with the Contract.
+                                                                  Major Works or Minor Works General Conditions or the
+Blank copies of these forms are available from the Ministry
+                                                                  Operational Services Contract where final holdback
+Representative.
+                                                                  amounts or security (in a form other than a bond) are to be
+                                                                  released by the Ministry.
+STATUTORY DECLARATIONS
+108.11 Major Works – Final Progress Payment and                   MINISTRY FORMS
+Interim Holdback Release – The form attached as
+                                                                  108.13 Ministry Forms – Electronic copies of many
+APPENDIX 108-A (Ministry form H0394A) is used to meet
+                                                                  Ministry forms (including the Statutory Declarations noted
+the Statutory Declaration requirements of the Major Works
+                                                                  above and most forms with an “H-” prefix) are publicly
+General Conditions where the final progress payment or
+                                                                  available on the following website:
+interim holdback release is to be paid by the Ministry to the
+Contractor.                                                              https://www.th.gov.bc.ca/forms/search.aspx
+
+
+
+
+BC MoTT                                                     SS 2025                                           108 (1 of 3)
+                                                                                                          Vol.1 Page 19 of 498
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 20 ===
+SECTION 108                                                       SAMPLE FORMS
+
+                          APPENDIX 108-A – MAJOR WORKS
+              FINAL PROGRESS PAYMENT / INTERIM HOLDBACK RELEASE
+
+
+
+
+                                  E
+                             PL
+                          M
+                      SA
+
+
+
+
+BC MoTT                            SS 2025                              108 (2 of 3)
+                                                                    Vol.1 Page 20 of 498
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 21 ===
+SECTION 108                                                  SAMPLE FORMS
+
+              APPENDIX 108-B – HOLDBACK / SECURITY RELEASE
+
+
+
+
+                               E
+                          PL
+                       M
+                  SA
+
+
+
+
+BC MoTT                        SS 2025                             108 (3 of 3)
+                                                               Vol.1 Page 21 of 498
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 22 ===
+SECTION 125
+                                       VALUE ENGINEERING PROPOSALS
+
+125.01 Definitions                                                 125.02.02 Exclusions from VEPs – A VEP should not:
+(a) VEP means a value engineering proposal which has               (a) impair the functionality and characteristics of the
+    been set out in writing by the Contractor to the                   Project, including, but not limited to, the service life,
+    Ministry in accordance with these guidelines.                      economy of operation, ease of maintenance, aesthetic
+                                                                       considerations,        preliminary          engineering
+(b) Summary VEP means a brief summary of a VEP,
+                                                                       commitments, or design and safety standards.
+    including the anticipated cost and timing of
+    developing the VEP, submitted by the Contractor to             (b) be similar to a change in the Drawings or
+    the Ministry.                                                      specifications under consideration by the Ministry for
+                                                                       the Work at the time the VEP is submitted to the
+(c)   Implemented VEP means a value engineering
+                                                                       Ministry.
+      proposal which has been accepted and implemented by
+      means of a Supplemental Agreement or Work Order.             (c)   increase the anticipated life cycle costs of the Project.
+(d) Net Cost Savings means an amount determined by the             (d) seek a variance to the Contract for an existing non-
+    Ministry on the basis of the Contract Price before                 conforming product. Non-conforming Work cannot
+    implementation of the VEP minus the adjusted                       be made acceptable using this VEP process.
+    Contract Price determined after the implementation of
+                                                                   125.02.03 VEP Design Basis – To be eligible for a Value
+    the VEP less the following costs, which are subject to
+                                                                   Engineering Incentive, a VEP must propose a change to the
+    negotiation:
+                                                                   Work which meets the same constraints, assumptions and
+      (i)   the Contractor's costs of developing the VEP;          considerations as those which governed the original design
+                                                                   of the Work, as it is defined in the Agreement. Where
+      (ii) the Ministry's costs of evaluating the VEP; and
+                                                                   Changed Conditions, or other changes, have occurred and
+      (iii) the anticipated additional administration,             have already created the need for a Change To Work, a VEP
+            engineering, quality management, and project           which responds to this need will not normally be eligible for
+            management costs to the Ministry resulting from        a Value Engineering Incentive, and in any case will be
+            the implementation of the VEP.                         eligible only for a reduced incentive.
+(e)   Value Engineering Incentive means an amount                  125.02.04 VEP Aspects – A VEP may involve:
+      calculated pursuant to written agreement between the
+                                                                   (a) a material or product substitution.
+      Ministry and the Contractor, which will generally be
+      equal to fifty percent (50%) of the Net Cost Savings         (b) a change to the Work method.
+      realized by the Ministry due to the implementation of
+                                                                   (c)   a Work sequencing change, including changes to
+      the VEP.
+                                                                         traffic routing or detour sequences, changes to
+125.02 Guiding Principles for VEP Evaluation                             structure or roadway construction sequences.
+125.02.01 Tangible Benefits to the Ministry – To be                (d) a change to the design or engineering of the Project
+considered, a VEP must be perceived by the Ministry to                 which provides a marked departure from the product
+provide a tangible benefit to the Ministry, such as:                   as defined in the Contract Document Package.
+(a) a reduction in the total cost of the Project; or               125.02.05 Contract Variances – Any request by the
+                                                                   Contractor for a design change, or a substitution of material
+(b) an improvement to the product which the Ministry
+                                                                   or method, will only be considered if submitted as a VEP.
+    expects will reduce the life cycle costs; or
+                                                                   125.03 Value Engineering Proposal Submissions
+(c)   a change in the Construction Schedule which will be
+      beneficial to the Ministry; or                               125.03.01 Summary VEP – Prior to presenting a VEP, the
+                                                                   Contractor will prepare a Summary VEP and submit it to the
+(d) a reduction or transfer of risk which will benefit the
+                                                                   Ministry for consideration.
+    Ministry;
+                                                                   125.03.02 Summary VEP Evaluation by the Ministry –
+and should result in a product which is functionally equal or
+                                                                   The Ministry will evaluate the Summary VEP and will
+superior to that which would result in the absence of the
+                                                                   advise the Contractor whether or not the Ministry would be
+VEP.
+                                                                   willing to consider, without obligation, the VEP described
+                                                                   in the Summary VEP.
+
+
+
+
+BC MoTT                                                      SS 2025                                              125 (1 of 2)
+                                                                                                              Vol.1 Page 22 of 498
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 23 ===
+SECTION 125                                                        VALUE ENGINEERING - PROPOSAL GUIDELINES
+
+125.03.03 Content of VEP Summary – A VEP should                       125.04.04 VEP Execution Terms and Specifications –
+contain the following information:                                    Unless the parties agree otherwise, all Works associated
+                                                                      with the VEP shall be executed in accordance with the terms
+(a) a statement that the proposal is submitted as a VEP.
+                                                                      and conditions of the Ministry’s Design Build Minor
+(b) a detailed description of the VEP and the manner in               General Conditions and the Design Build Standard
+    which the VEP should be implemented (by                           Specifications for Highway Construction (inclusive of any
+    Supplemental Agreement or Work Order).                            amendments). The Contractor shall also provide additional
+                                                                      insurance in accordance with INS-172, including without
+(c)   a detailed description of the Items and quantities,             limitation Professional Liability Insurance and Wrap-Up
+      Drawings, specifications, designs, Completion Date,
+                                                                      CGL insurance, for the Works associated with the VEP.
+      Milestone Dates or other elements under the
+      Agreement which would be changed, altered,                      125.04.05 Associated Technical Circulars – The
+      modified or replaced by the implementation of the               Contractor will, for all engineering works required for each
+      VEP.                                                            implemented VEP:
+(d) plans and working drawings needed to analyze the                  (a) cause their engineer(s) or other registered
+    VEP and determine the impact of the VEP on the                        professional(s) to be responsible for all engineering
+    Project.                                                              and field reviews required for the Work included in, or
+                                                                          affected by, the VEP;
+(e)   An assessment of any quality assurance reviews that
+      would be in addition to or of a different nature than           (b) comply with the requirements of Ministry Technical
+      those the Ministry would typically perform on the                   Circular     T-01/23      “Professional      Assurance
+      original design.                                                    Guidelines”, or any update or replacement thereof,
+                                                                          including, without limitation, identifying Engineers of
+(f)   an itemized cost analysis of the Net Cost Savings.
+                                                                          Record, Professionals of Record, Field Reviewers,
+(g) the date, which must be not less than two weeks after                 and, if appropriate, a Coordinating Professional
+    the date of the VEP, by which the VEP must be                         Engineer or Coordinating Registered Professional, and
+    implemented in order to maximize the cost reduction                   submitting all related letters of assurance to the
+    during the remainder of the Agreement.                                Ministry Representative;
+125.04 Implementation of a VEP                                                 https://www2.gov.bc.ca/assets/gov/driving-and-
+                                                                               transportation/transportation-
+125.04.01 Formalization of an Approved VEP – For                               infrastructure/engineering-standards-and-
+those VEPs approved by the Ministry, the Ministry                              guidelines/technical-circulars/2023/t01-23.pdf
+Representative will prepare a Supplemental Agreement or a
+Work Order which will set out the Net Cost Savings, the               (c)   coordinate with the Coordinating Professional
+Change to Work required realizing the Net Cost Savings,                     Engineer or Coordinating Registered Professional
+and the adjustment to the Contract Price(s) and payment                     responsible for the original design as tendered by the
+terms resulting from the VEP, in accordance with these                      Ministry to ensure that all aspects of engineering
+guidelines.                                                                 between the original design and the VEP are covered
+                                                                            by the Contractor’s engineers; and
+125.04.02 Ministry Rights-of-Use – The Ministry will
+retain the right to utilize a VEP, or part thereof that has been      (d) provide to the Ministry Representative complete
+accepted for the Project, on any other or subsequent projects             signed and sealed record drawings, electronically and
+without any obligation to the Contractor, unless the                      in original hard copy, prepared in accordance with
+Contractor has provided written notice in the Summary VEP                 Ministry Technical Circular T-07/09 “Record
+and the VEP regarding patented materials or processes                     Drawings Amended April 2010” or any update or
+involved in the VEP.                                                      replacement thereof.
+125.04.03 Investigations and Studies – The Contractor                          https://www2.gov.bc.ca/assets/gov/driving-and-
+shall provide and be responsible for all investigations and                    transportation/transportation-
+studies required for the development and implementation of                     infrastructure/engineering-standards-and-
+the VEP.                                                                       guidelines/technical-circulars/2009/t07-09b.pdf
+
+
+
+
+BC MoTT                                                        SS 2025                                             125 (2 of 2)
+                                                                                                               Vol.1 Page 23 of 498
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 24 ===
+SECTION 135
+                                           CONSTRUCTION SITE SAFETY
+
+135.01 General – This Section describes the                            within the Site, which is to be reflected in the Notice of
+responsibilities of the Contractor for safety on the Site.             Project.
+Virtually every Ministry project will occur on a “multiple         (c) AoR-Specific Safety Plan is a companion document to
+employer worksite”, by virtue of the Contractor retaining              a Base Safety Plan which identifies specific hazards or
+Subcontractors, by the Ministry having retained other                  conditions affecting an Area of Responsibility and
+independent contractors to work on or near the Site, by the            designates protocols for mitigation and response for a
+Ministry Representative having forces on-Site, or through              specific project, consistent with the requirements of the
+utilities, municipalities or other entities performing work on         Workers Compensation Act and the Regulation.
+the Site.
+                                                                   (d) Base Safety Program means the occupational health
+Under the Workers Compensation Act and Regulation, each                and safety program that the Prime Contractor will
+of these parties has responsibilities as an “employer” and             initiate and maintain within its assigned Area(s) of
+may have responsibilities as a “prime contractor” for other            Responsibility, all as described in this Section.
+employers working on the Site.
+                                                                   (e) Employer means an employer as defined in the Workers
+In any area where the operations of the various parties                Compensation Act, and includes the Contractor.
+overlap or otherwise affects the others, one of those parties
+                                                                   (f) Incident means an accident, Near Miss, or other
+will be designated by the Ministry as the Prime Contractor,
+                                                                       occurrence which resulted in or had the potential for
+and, as laid out in this Section and the Workers
+                                                                       causing an injury, occupational disease, or property
+Compensation Act and Regulation, will have responsibility
+                                                                       damage.
+for the overall co-ordination of safety in assigned Area(s) of
+Responsibility.                                                    (g) Joint Committee means the joint health and safety
+                                                                       committee that shall be established and maintained by
+Where the Contractor takes on the role of Prime Contractor,
+                                                                       the Prime Contractor in compliance with the Workers
+it continues to have the responsibilities of the Contractor
+                                                                       Compensation Act and the Regulation (see also “Other
+and adds those of the Prime Contractor, each as described
+                                                                       Joint Committees”).
+in this Section.
+                                                                   (h) Multiple Employer Workplace means, in accordance
+Where the Contractor is not the Prime Contractor, but is
+                                                                       with the Workers Compensation Act and the Regulation,
+working on a Site which is under the co-ordination of a
+                                                                       a workplace where workers of 2 (two) or more
+Prime Contractor designated by the Ministry, they will be
+                                                                       Employers are working at the same time.
+responsible for co-operating with the Prime Contractor as
+described in this Section.                                         (i) Near Miss means any event that occurred which had the
+                                                                       potential to cause injury or property damage but did not.
+135.02 “Site” vs “Area of Responsibility – The distinction
+between the geographic areas of the “Site” (where the              (j) Notice of Project means the notice of project described
+Contractor is to build something under the terms of the                in Part 20 of the Regulation.
+Contract) and the “Area of Responsibility” (where the
+                                                                   (k) Notice of Unsafe or Harmful Condition or Act means
+Contractor or another party is responsible for health and
+                                                                       the written notice that the Contractor will deliver to any
+safety issues) is important.
+                                                                       Employer, or other persons, pursuant to SS 135.08, in
+135.03 Definitions – In this Section, except as otherwise              the form set out in APPENDIX 135-A.
+expressly provided herein:
+                                                                   (l) Other Authorized Party means any entity, other than
+(a) Adjacent or Nearby Worksite is a multiple employer                 the Prime Contractor or Contractor, who has a direct
+    workplace described by another Ministry contract, or in            agreement with the Ministry and may therefore have
+    a written notice that may be issued by a Ministry                  contractual obligations to the Ministry and/or the Prime
+    Representative, and/or as described in a Notice of                 Contractor with respect to health and safety issues on the
+    Project, for which another party has been engaged as               Site or Area of Responsibility. Such Other Authorized
+    prime contractor but which may be entered for the                  Parties may include but not be limited to, another
+    purposes of the Contract by the Workers, Suppliers and             construction contractor, a Ministry maintenance
+    Subcontractors of the Contractor.                                  contractor, a utility company, a permittee or a licencee.
+(b) Area(s) of Responsibility (“AoR”) means one or more            (m) Other Joint Committees means additional committees
+    Multiple Employer Workplaces so designated in writing             that may be established by the Contractor in compliance
+    by the Ministry, comprised of the Site including                  with the Workers Compensation Act and the Regulation.
+    additional area(s) outside the Site or excluding area(s)
+
+
+BC MoTT                                                      SS 2025                                            135 (1 of 10)
+                                                                                                             Vol.1 Page 24 of 498
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 25 ===
+SECTION 135                                                                           CONSTRUCTION SITE SAFETY
+
+(n) Other Persons means any entity, who is not the Prime           (w) Workers’ Compensation Board (“WCB” or
+    Contractor, Contractor or an Other Authorized Party,               “WorkSafeBC”) means the Workers’ Compensation
+    who, for whatever reason or purpose, are on the Site or            Board constituted under the Workers Compensation
+    Area of Responsibility and do not have contractual                 Act.
+    responsibilities to the Ministry or the Prime Contractor.
+                                                                   135.04 Ministry
+    As examples, such Other Persons would include, but not
+    be limited to, the public, the RCMP, and WorkSafe BC.          135.04.01 Designation of Area(s) of Responsibility – The
+                                                                   Ministry may designate one or more Areas of
+(o) Prime Contractor means a prime contractor as defined
+                                                                   Responsibility, each with a single Prime Contractor.
+    in Section 13 of the Workers Compensation Act, and
+    Part 20 of the Regulation.                                     135.04.02 Appointment of Prime Contractor – The
+                                                                   Ministry may, in its sole discretion, appoint in writing:
+(p) Qualified Coordinator means the person, who meets
+    the qualifications of a qualified coordinator described in     (a) the Contractor,
+    the Regulation, and who is appointed by the Prime
+    Contractor to discharge for the Area of Responsibility,        (b) a party other than the Contractor, or
+    the responsibilities of a qualified coordinator as             (c) the Ministry
+    described in the Workers Compensation Act and the
+    Regulation.                                                    to be the Prime Contractor for one or more Areas of
+                                                                   Responsibility and will notify the Contractor in writing of
+(q) Qualified Person means the person who meets the                that appointment.
+    qualifications of a qualified person described in the
+    Workers Compensation Act and the Regulation, and               135.04.03 Changes – The Ministry may at any time, in its
+    who is designated by the Contractor to discharge for the       sole discretion and in writing, change or revoke any
+    Site the responsibilities of a qualified person as             appointment of the Prime Contractor or designation of any
+    described in the Workers Compensation Act and the              Area of Responsibility.
+    Regulation.                                                    135.04.04 Designation Content – Any designation or
+(r) Regulation means the British Columbia Regulation               appointment made pursuant to SS 135.04.01 to
+    296/97 entitled Occupational Health and Safety                 SS 135.04.03 will include:
+    Regulation prescribed under the Workers Compensation           (a) a description of the geographic Area of Responsibility,
+    Act, as amended from time to time.                                 and
+(s) Safety Requirements means the compendium of all                (b) the time and date, or condition, that the designation or
+    requirements related to health and safety applicable to            appointment comes into effect.
+    the Work, including without limitation, the Workers
+    Compensation Act, the Occupational Health and Safety           135.04.05 No Implied Approval – Receipt and retention by
+    Regulation, the Mines Act, the Health, Safety and              the Ministry of the information and documentation listed in
+    Reclamation Code for Mines in British Columbia, the            this Section in no way constitutes approval of or
+    Base Safety Program, the AoR-Specific Safety Plan(s),          authorization of the form, content or adequacy of such
+    the Traffic Management Manual, the Contract, and this          information and documentation on the part of the Ministry.
+    SS 135.                                                        135.05 Prime Contractor
+(t) Traffic Management Manual [“TMM”] means the                    135.05.01 Acknowledgement of Assignment as Prime
+    current edition of the Traffic Management Manual for           Contractor – Upon notification of such appointment, the
+    Work on Roadways, as published by the Ministry and             Contractor shall deliver written confirmation to the Ministry
+    including all amendments, available for download from          of its acknowledgement to being the Prime Contractor for
+         https://www2.gov.bc.ca/gov/content/transportatio          the Area of Responsibility.
+         n/transportation-infrastructure/engineering-              135.05.02 Prime Contractor Responsibilities – The Prime
+         standards-guidelines/traffic-engineering-                 Contractor shall, for each assigned Area of Responsibility:
+         safety/trafficmanagementmanual/2020trafficmana
+         gementmanual                                              (a) ensure that all required Notices of Project have been
+                                                                       prepared, accurately reflect the Area of Responsibility
+(u) Workers mean the employees, workers, servants,                     and Prime Contractor assignment, are submitted to the
+    agents or invitees of Employers, including of the                  Workers’ Compensation Board and are posted within
+    Contractor, at the Site.                                           the Area of Responsibility,
+(v) Workers Compensation Act means the Workers                     (b) at the sole cost of the Prime Contractor, provide, post
+    Compensation Act, R.S.B.C. 2019, c.1 as amended                    and maintain 2 (two) signs, in accordance with the
+    from time to time.                                                 specifications, which contain the informational
+                                                                       messaging stipulated in Drawing SP135-01 of this
+
+BC MoTT                                                      SS 2025                                             135 (2 of 10)
+                                                                                                               Vol.1 Page 25 of 498
+

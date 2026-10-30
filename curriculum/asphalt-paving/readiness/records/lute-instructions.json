@@ -1,0 +1,32 @@
+{
+  "id": "lute-instructions",
+  "slug": "lute-instructions",
+  "title": "Light Lute and Lute Assembly Instructions",
+  "author": "Seymour Midwest",
+  "edition": "n.d.; PK90047",
+  "category": "tools",
+  "scope": "Head, handle, grip, braces and fasteners for the listed lute configurations.",
+  "kind": "pdf",
+  "download_filename": "lute-instructions.raw",
+  "original_pages": 2,
+  "original_sha256": "6b276ae93054964174c145f59804d7b6d315327f48017c9b6238c95d086521ca",
+  "original_bytes": 1102549,
+  "source_url": "https://seymourmidwest.com/uploads/instructions/pk90047-light-lute.pdf",
+  "final_url": "https://seymourmidwest.com/uploads/instructions/pk90047-light-lute.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/lute-instructions/p0001-0002.pdf",
+      "text": "text/lute-instructions/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 1102549,
+      "sha256": "6b276ae93054964174c145f59804d7b6d315327f48017c9b6238c95d086521ca",
+      "text_sha256": "a5b8b9ac27e8c779e754a2ace364b6cae028cf9a3085cafb81e99cf3e9878fda",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "nsc10-cargo-securement",
+  "slug": "nsc10-cargo-securement",
+  "title": "National Safety Code Standard 10: Cargo Securement",
+  "author": "Canadian Council of Motor Transport Administrators",
+  "edition": "June 2013",
+  "category": "transport",
+  "scope": "Complete standard linked by the current CCMTA/BC pages; BC applicability and carrier/vehicle conditions must be checked separately.",
+  "kind": "pdf",
+  "download_filename": "nsc10-cargo-securement.raw",
+  "original_pages": 49,
+  "original_sha256": "bae2e9b2a5b240793cd947117daee3be45503917524315a6530a734e86c80710",
+  "original_bytes": 450063,
+  "source_url": "https://www.ccmta.ca/web/default/files/PDF/NSC_Standard_10-_June_2013.pdf",
+  "final_url": "https://www.ccmta.ca/web/default/files/PDF/NSC_Standard_10-_June_2013.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/nsc10-cargo-securement/p0001-0025.pdf",
+      "text": "text/nsc10-cargo-securement/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 291885,
+      "sha256": "6df8cc3bf4fbc6744c817696b96d99b42f8d3f388003dfdaa18b34b537e232ce",
+      "text_sha256": "6cae928caec29748485fbfcf5f1e94ea85a650271a6a02be5822e61f8db986f8",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/nsc10-cargo-securement/p0026-0049.pdf",
+      "text": "text/nsc10-cargo-securement/p0026-0049.txt",
+      "start": 26,
+      "end": 49,
+      "pages": 24,
+      "bytes": 203486,
+      "sha256": "5744857a53ad11b33e001d0d8f435cc8d1d40f5769977e3227941acdb07d9a99",
+      "text_sha256": "474994484b965e4986816a08af7d55ab9f29db779cee69d76b5413c996afd674",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

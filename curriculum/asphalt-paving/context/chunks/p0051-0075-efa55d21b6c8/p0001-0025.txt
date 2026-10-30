@@ -1,0 +1,1576 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0051-0075.pdf
+SOURCE SHA-256: efa55d21b6c8c6a04b8696f8b50dd322faafb2b5dda7635512c6d2b61d3b11fc
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+CP 1210, CP 1230, CP 1240                                        Sicherheits- und Betriebsanleitung
+
+
+
+► Verfügt die Maschine über ein Abgasrohr, richten         WARNUNG            Fliegende Splitter
+  Sie dieses so aus, dass die Staubaufwirbelungen     Fehler des Werkstücks, des Zubehörs oder der
+  in staubigen Umgebungen möglichst gering sind.      Maschine selbst können mit hoher Geschwindigkeit
+► Betrieb und Wartung der Maschine sind               fliegende Splitter erzeugen. Beim Arbeiten können
+  entsprechend den Sicherheitshinweisen und der       Splitter oder andere Partikel des bearbeiteten
+  Betriebsanleitung durchzuführen.                    Materials zu Geschossen werden und ernsthafte
+                                                      Verletzungen verursachen, wenn Sie den
+► Auswahl, Wartung und Austausch von                  Maschinenbenutzer oder andere Personen treffen.
+  Verbrauchsmaterialien/ Werkzeugen/ anderem          Zur Verhütung dieses Unfallrisikos ist Folgendes zu
+  Zubehör sind entsprechend den                       beachten:
+  Sicherheitshinweisen und der Betriebsanleitung
+                                                      ► Tragen Sie immer geeignete Schutzausrüstung
+  durchzuführen. Die falsche Wahl oder
+                                                          und einen Schutzhelm, einschließlich einer
+  ungenügende Wartung von
+                                                          Schutzbrille mit seitlicher Abschirmung der Augen.
+  Verbrauchsmaterialien/ Werkzeugen/ anderem
+  Zubehör kann die Freisetzung von Staub und          ► Stellen Sie sicher, dass Unbefugte den
+  Abgasen erhöhen.                                      Arbeitsbereich nicht betreten können.
+► Tragen Sie am Arbeitsplatz abwaschbare oder         ► Der Arbeitsplatz ist sauber und aufgeräumt zu
+  Einwegschutzkleidung; Duschen Sie oder                hinterlassen.
+  wechseln Sie die Kleidung vor dem Verlassen des
+                                                      ► Stellen Sie sicher, dass das Werkstück wirklich fest
+  Arbeitsplatzes, um Ihre eigene Belastung durch
+                                                        sitzt.
+  Staub und Abgase und die anderer Personen bzw.
+  von Autos, Heimstätten und anderer Bereiche so
+                                                          WARNUNG         Gefahren durch Splitter
+  gering wie möglich zu halten.
+                                                      Wird das Werkzeug als Handschlagwerkzeug
+► Vermeiden Sie das Essen, Trinken oder Rauchen       zweckentfremdet, kann dies zu Verletzungen durch
+  in Bereichen, in denen eine Belastung durch Staub   Splitter führen.
+  und Abgase vorhanden ist.
+                                                      ► Verwenden Sie ein Werkzeug niemals als
+► Waschen Sie umgehend nach dem Verlassen des           Handschlagwerkzeug. Die Werkzeuge sind speziell
+  Belastungsbereichs sowie stets vor dem Essen,         konstruiert und thermisch behandelt und dürfen
+  Trinken, Rauchen oder dem Kontakt mit anderen         nur in einer Maschine verwendet werden.
+  Personen Ihre Hände und Ihr Gesicht.
+                                                          WARNUNG            Gefahren durch
+► Beachten Sie alle relevanten Gesetze und
+                                                      Ausrutschen, Stolpern und Hinfallen
+  Vorschriften sowie die betrieblichen Gesundheits-
+  und Sicherheitsbestimmungen.                        Es besteht die Gefahr, auszurutschen, zu stolpern
+                                                      oder hinzufallen, z. B. Stolpern über Schläuche oder
+► Nehmen Sie entsprechend den betrieblichen           andere Gegenstände. Ausrutschen, Stolpern oder
+  Gesundheits- und Sicherheitsbestimmung an           Hinfallen kann zu Verletzungen führen. Zur
+  Schulungen zur Luftreinhaltung, medizinischen       Verhütung dieses Unfallrisikos ist Folgendes zu
+  Prüfungen und Gesundheits- und                      beachten:
+  Sicherheitsprogrammen teil, wenn diese von
+                                                      ► Stellen Sie stets sicher, dass Ihnen oder anderen
+  Ihrem Arbeitgeber oder von den Berufsverbänden
+                                                         Personen keine Schläuche oder andere Objekte
+  angeboten werden. Konsultieren Sie Ärzte, die
+                                                         in Weg sind.
+  auf Arbeitsmedizin spezialisiert sind.
+                                                      ► Stellen Sie sicher, dass Sie immer eine stabile
+► Arbeiten Sie mit Ihrem Arbeitgeber und
+                                                        Standposition einnehmen. Verteilen Sie dazu Ihr
+  Berufsverband zusammen, um die Gefahren durch
+                                                        Körpergewicht auf beide Füße, die schulterbreit
+  Abgase und Staub am Arbeitsplatz zu vermindern.
+                                                        auseinander stehen.
+  Effektive Gesundheits- und Sicherheitsprogramme,
+  -regelungen und -verfahren zum Schutz von
+  Mitarbeitern und anderen Personen vor
+  gefährlichen Stäuben und Abgasen sollten
+  entsprechend dem Rat von Gesundheits- und
+  Sicherheitsexperten erstellt und implementiert
+  werden. Lassen Sie sich von Experten beraten.
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                               51
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+Sicherheits- und Betriebsanleitung                                     CP 1210, CP 1230, CP 1240
+
+
+
+    WARNUNG          Gefahren durch Bewegung           WARNUNG            Gefahren durch Vibration
+Bei Verwendung der Maschine für arbeitsbezogene    Der Anwender ist auch bei normaler und richtiger
+Tätigkeiten, können Beschwerden an Händen,         Anwendung der Maschine Vibrationen ausgesetzt.
+Armen, Schultern, am Nacken oder an anderen        Häufige und regelmäßige Vibrationsbelastungen
+Körperteilen auftreten.                            können zu Verletzungen der Finger, Hände,
+► Nehmen Sie eine bequeme Körperhaltung und        Handgelenke, Arme, Schultern und/oder der Nerven-
+  eine sichere Standposition ein. Vermeiden Sie    oder Blutbahnen oder anderer Körperteile führen
+  unsichere, unausgeglichene oder ungeschickte     oder andere Körperteile führen oder bestehende
+  Haltungen.                                       Schädigungen verschlimmern. Es können chronische
+                                                   Beschwerden oder Schwächungen entstehen, die
+► Bei längeren Tätigkeiten kann das Wechseln der   sich nur allmählich über Zeiträume von Wochen,
+  Körperposition das Auftreten von Beschwerden     Monaten oder Jahren entwickeln. Dazu kann eine
+  und Ermüdungserscheinungen vermeiden helfen.     Schädigung oder Störung des Blutkreislaufs, des
+► Nehmen Sie bei anhaltenden oder                  Nervensystems, des Bewegungsapparats oder
+  wiederkehrenden Symptomen professionelle         anderer Körperstrukturen gehören.
+  medizinische Hilfe in Anspruch.                  Falls während oder nach der Benutzung der
+                                                   Maschine andauernde Beschwerden, wie Taubheit,
+                                                   Brennen, Steifheit, Klopfen, Kribbeln, Schmerzen,
+                                                   eingeschränkte Feinmotorik oder Greiffunktion,
+                                                   weißliche Hautverfärbungen oder andere Symptome
+                                                   auftreten, stellen Sie die Arbeit ein, benachrichtigen
+                                                   Sie Ihren Arbeitgeber und begeben Sie sich in
+                                                   medizinische Betreuung. Wenn Sie nach dem
+                                                   Auftreten der genannten Beschwerden die Arbeit an
+                                                   der Maschine fortsetzen, kann das zu einer
+                                                   Verschlimmerung der Beschwerden oder zu
+                                                   chronischen Erkrankungen führen.
+                                                   Betrieb und Wartung der Maschine sind
+                                                   entsprechend dieser Anleitung durchzuführen, um
+                                                   unnötig starke Vibrationen zu vermeiden.
+                                                   Die folgenden Hinweise können dazu beitragen, die
+                                                   Vibrationsbelastung für den Anwender gering zu
+                                                   halten:
+                                                   ► Lassen Sie das Werkzeug die Arbeit verrichten.
+                                                      Wenden Sie zum Festhalten der Maschine nur
+                                                      soviel Kraft auf, wie für deren einwandfreie
+                                                      Steuerbarkeit und sicheren Betrieb mindestens
+                                                      erforderlich ist.
+                                                   ► Verfügt die Maschine über vibrationsdämpfende
+                                                     Griffe, halten Sie diese in einer zentralen Position,
+                                                     d. h. vermeiden die Griffe bis zum Anschlag nach
+                                                     unten zu drücken.
+                                                   ► Bei laufendem Schlagmechanismus dürfen Sie
+                                                     keinen anderen Körperkontakt mit der Maschine
+                                                     haben als die Hände am Griff oder an den Griffen.
+                                                     Vermeiden Sie jeden anderen Kontakt, z. B.
+                                                     Anlehnen irgendeines Körperteils an die Maschine,
+                                                     um die Vorschubkraft zu erhöhen. Wichtig ist
+                                                     auch, beim Zurückziehen des Werkzeugs aus der
+                                                     aufgebrochenen Bearbeitungsfläche den Start-
+                                                     und Stoppschalter nicht gedrückt zu halten.
+
+
+
+
+52                                                 9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+CP 1210, CP 1230, CP 1240                                         Sicherheits- und Betriebsanleitung
+
+
+
+► Stellen Sie sicher, dass das eingesetzte Werkzeug        WARNUNG          Gefahren durch
+  gut gewartet und nicht abgenutzt ist (einschl. der   verborgenen Objekte
+  Schärfe, wenn es sich um ein Schneidwerkzeug         Beim Arbeiten stellen verborgene Leitungen und
+  handelt) und die richtige Größe hat. Werkzeuge,      Rohre eine Gefahr dar, die zu ernsthaften
+  die nicht gut gewartet oder abgenutzt sind oder      Verletzungen führen kann.
+  die falsche Größe haben, bewirken längere
+                                                       ► Prüfen Sie vor Beginn der Arbeiten die
+  Bearbeitungszeiten und damit auch längere und
+                                                         Zusammensetzung des Materials.
+  höhere Vibrationsbelastungen.
+                                                       ► Achten Sie auf verborgene Kabel und Leitungen,
+► Stellen Sie sofort die Arbeit ein, wenn die
+                                                         z. B. Elektro-, Telefon-, Wasser-, Gas- und
+  Maschine plötzlich stark zu vibrieren anfängt.
+                                                         Abwasserleitungen.
+  Ermitteln und beseitigen Sie die Ursache der
+  verstärkten Vibrationen, bevor Sie die Arbeit        ► Wenn Sie glauben, dass das Werkzeug ein
+  fortsetzen.                                            verborgenes Objekt getroffen hat, schalten Sie
+                                                         die Maschine sofort aus.
+► Fassen Sie während des Betriebs der Maschine
+  niemals das Werkzeug an bzw. halten Sie es           ► Stellen Sie sicher, dass keine Gefahr besteht, bevor
+  niemals fest.                                          Sie fortfahren.
+► Nehmen Sie an medizinischen Untersuchungen
+                                                           WARNUNG         Unbeabsichtigter Start
+  und Kontrollen teil, wenn diese von Ihrem
+  Arbeitgeber angeboten werden oder gesetzlich         Unbeabsichtigtes Starten der Maschine kann zu
+  vorgeschrieben sind.                                 Verletzungen führen.
+                                                       ► Halten Sie Ihre Hände so lange vom Start- und
+► Tragen Sie beim Arbeiten in kalter Umgebung
+                                                         Stoppschalter fern, bis Sie zum Starten der
+  warme Kleidung, und halten Sie Ihre Hände warm
+                                                         Maschine bereit sind.
+  und trocken.
+                                                       ► Machen Sie sich damit vertraut, wie die Maschine
+Lesen Sie die für diese Maschine geltenden „Angaben      im Notfall ausgeschaltet wird.
+zu Geräuschemission und Vibration“ einschließlich
+                                                       ► Lassen Sie bei jeglicher Unterbrechung der
+der angegebenen Vibrationswerte. Diese
+                                                         Energieversorgung sofort den Start- und
+Informationen befinden sich am Ende dieser
+                                                         Stoppschalter los.
+Sicherheitshinweise und Betriebsanleitung.
+♦ Halten Sie den für den Betrieb der Maschine          ► Schalten Sie bei jedem Einsetzen/Entfernen des
+   empfohlenen Luftdruck ein. Höherer oder               Werkzeugs die Luftzufuhr ab, lassen Sie die
+   niedrigerer Luftdruck als der empfohlene kann zu      Maschine durch Betätigen des Start- und
+   stärkeren Vibrationen führen.                         Stoppschalters auslaufen, und trennen Sie die
+                                                         Maschine von der Energieversorgung.
+    GEFAHR        Gefahren durch elektrischen
+Strom                                                      WARNUNG          Gehörverlust
+Die Maschine ist nicht elektrisch isoliert. Wenn die   Hohe Schallpegel können zu bleibendem
+Maschine mit Elektrizität in Kontakt kommt, kann       Gehörverlust und anderen Problemen wie Tinnitus
+dies zu ernsthaften Verletzungen oder zum Tod          (Klingel-, Summ-, Brumm- oder Pfeifgeräusche in
+führen.                                                den Ohren) führen. Zur Verringerung dieser
+► Betreiben Sie die Maschine niemals in der Nähe       Gefahren und zur Vermeidung von unnötig hohen
+   von elektrischen Leitungen oder anderen             Schallpegeln ist Folgendes zu beachten:
+   Stromquellen.                                       ► Eine Risikoanalyse dieser Gefahren und eine
+                                                          Implementierung geeigneter Kontrollmaßnahmen
+► Stellen Sie sicher, dass innerhalb des
+                                                          werden dringend empfohlen.
+  Arbeitsbereichs keine verborgenen elektrischen
+  Quellen vorhanden sind.                              ► Betrieb und Wartung der Maschine sind
+                                                         entsprechend dieser Anleitung durchzuführen.
+                                                       ► Auswahl, Wartung und Austausch des Werkzeugs
+                                                         sind entsprechend dieser Anleitung
+                                                         durchzuführen.
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                                53
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+Sicherheits- und Betriebsanleitung                                      CP 1210, CP 1230, CP 1240
+
+
+
+► Verfügt die Maschine über einen Schalldämpfer,
+  stellen Sie sicher, dass dieser angebracht und in
+                                                       Lagerung,
+  einwandfreiem Zustand ist.                           Vorsichtsmaßnahmen
+► Tragen Sie stets einen Gehörschutz.
+                                                       ♦ Lagern Sie die Maschine und die Werkzeuge in
+► Verwenden Sie dämpfende Materialien, um das            einer sicheren, abgeschlossenen Umgebung und
+  „Klingeln“ von Werkstücken zu vermeiden.               für Kinder unzugänglich.
+
+
+Wartung,
+Vorsichtsmaßnahmen
+   WARNUNG           Änderungen an der
+Maschine
+Änderungen an der Maschine können zu schweren
+Unfällen führen.
+► Nehmen Sie niemals Änderungen an der Maschine
+  vor. Bei modifizierten Maschinen entfallen
+  Garantie und Produkthaftung.
+► Verwenden Sie stets Originalteile,
+  Originalwerkzeuge und Originalzubehör.
+► Wechseln Sie beschädigte Bauteile sofort aus.
+► Ersetzen Sie verschlissene Komponenten
+  rechtzeitig.
+
+    VORSICHT        Heißes Werkzeug
+Die Spitze des Werkzeugs kann während des Betriebs
+sehr heiß und scharf werden. Das Berühren der
+Spitze kann zu Verbrennungen und
+Schnittverletzungen führen.
+► Berühren Sie niemals ein heißes oder scharfes
+  Werkzeug.
+► Warten Sie mit eventuellen Wartungsarbeiten bis
+  sich das Werkzeug abgekühlt hat.
+
+     WARNUNG          Gefahren durch Werkzeuge
+Sofern die Energieversorgung noch angeschlossen
+ist, kann ein unbeabsichtigtes Betätigen des Start-
+und Stoppschalters während Wartungs- oder
+Installationstätigkeiten zu ernsthaften Verletzungen
+führen.
+► Prüfen, säubern, installieren oder entfernen Sie
+    niemals das Werkzeug bei noch angeschlossener
+    Energieversorgung.
+
+
+
+
+54                                                     9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+CP 1210, CP 1230, CP 1240                                           Sicherheits- und Betriebsanleitung
+
+
+
+Übersicht                                              Hauptkomponenten
+Lesen Sie bitte vor dem Betrieb der Maschine
+die Sicherheitshinweise auf den
+vorangegangenen Seiten dieses Handbuchs,
+um Unfallrisiken, die mit ernsthaften
+Verletzungen oder Lebensgefahr verbunden
+sein können, zu vermeiden.
+
+
+Konstruktion und Funktion
+Die folgende Anleitung gilt für die Modelle CP 1210,
+CP 1230 und CP 1240. Die Modelle CP 1210,
+CP 1230 und CP 1240 sind für mittlere bis schwere
+Abrissarbeiten in Verbindung mit Materialien wie
+Beton und Asphalt ausgelegt. Die Drucklufthämmer
+wurden für die vertikale Nutzung konstruiert. Andere
+Einsatzgebiete sind nicht zulässig. Zur Wahl des
+richtigen Werkzeugs schlagen Sie bitte in der
+Ersatzteilliste nach.
+
+
+Auswahl des für die                                    CP 1210
+Arbeitsaufgabe passenden
+Hammers
+Es ist wichtig, einen Hammer in der für die
+Arbeitsaufgabe passenden Größe auszuwählen.
+Bei einem zu kleinen Hammer dauert die Arbeit
+länger.
+Ein zu großer Hammer muss häufig neu positioniert
+werden, was für den Anwender unnötig ermüdend
+ist.
+Als Faustregel für die Größenauswahl des Hammers
+kann gelten, dass ein Bruchstück normaler Größe
+innerhalb von 10 bis 20 Sekunden herausgebrochen
+werden kann.
+> Dauert dies weniger als 10 Sekunden, sollte ein
+                                                       CP 1230 und 1240
+    kleinerer Hammer verwendet werden.
+                                                       A.   Auslöser (Start- und Stoppschalter)
+> Dauert dies länger als 20 Sekunden, sollte ein
+  größerer Hammer verwendet werden.                    B.   Griff
+                                                       C.   Kopfrückseite
+                                                       D.   Luftzufuhr
+                                                       E.   Schalldämpfer
+                                                       F.   Kopfvorderseite
+                                                       G.   Schnellverschluss
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                          55
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+Sicherheits- und Betriebsanleitung                                           CP 1210, CP 1230, CP 1240
+
+
+
+Aufkleber                                                Sicherheitsschild
+
+An der Maschine sind Etiketten mit wichtigen
+Informationen zu Sicherheit und Wartung
+angebracht. Die Etiketten müssen stets gut lesbar
+sein. Neue Etiketten können anhand der Ersatzteilliste
+bestellt werden.
+
+Typenschild                                              Lesen Sie vor Benutzung und Wartung des
+                                                         Werkzeugs die separat mitgelieferten
+                                                         Sicherheitshinweise sorgfältig durch, um
+                                                         Verletzungen zu vermeiden.
+
+
+                                                         Einbau
+                                                         Schläuche und Anschlüsse
+A.    Maschinentyp
+B.    Max. zulässiger Druckluftdruck
+C.    Seriennummer
+D.    Das Warnsymbol und das Buchsymbol weisen
+      darauf hin, dass Sie vor dem ersten Einsatz der
+      Maschine die Sicherheitshinweise und die
+      Betriebsanleitung lesen müssen.
+E.    Das CE-Zeichen zeigt an, dass die Maschine
+      EG-geprüft ist. Weitere Informationen dazu         A.    Druckluftquelle
+      finden Sie in der beigefügten                      B.    Wasserabscheider (optional)
+      EG-Konformitätserklärung. Fehlt das
+                                                         C.    Schmiervorrichtung (optional)
+      CE-Zeichen, bedeutet dies, dass die Maschine
+      nicht EG-geprüft ist.                              D.    Max. 10 feet (3 m) Druckluftschlauch
+                                                               zwischen Schmiervorrichtung und Maschine.
+Geräuschpegeletikett                                     ♦ Stellen Sie sicher, dass Sie den richtigen Luftdruck
+                                                           von 87 psig (6 bar (e)) eingestellt haben.
+
+                                                         ♦ Der für die Maschine zulässige maximale Luftdruck
+                                                           von 90 psig (6,2 bar (e)) darf nicht überschritten
+                                                           werden.
+
+                                                         ♦ Blasen Sie alle Verunreinigungen aus dem
+                                                           Druckluftschlauch aus, bevor Sie die Maschine
+                                                           anschließen.
+
+                                                         ♦ Wählen Sie für den Druckluftschlauch den
+                                                           richtigen Durchmesser und die passende Länge
+                                                           aus. Für Schlauchlängen bis 100 feet (30 m)
+Das Etikett gibt den garantierten Geräuschpegel
+                                                           sollte ein Innendurchmesser von mindestens 3⁄4"
+entsprechend der EC-Richtlinie 2000/14/EC an. Den
+korrekten Geräuschpegelwert finden Sie unter               (19 mm) verwendet werden. Für Schlauchlängen
+„Technische Daten“.                                        von 100 bis 330 feet (30 bis 100 m) sollte ein
+                                                           Innendurchmesser von mindestens 1" (25 mm)
+                                                           verwendet werden.
+
+
+
+
+56                                                       9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+CP 1210, CP 1230, CP 1240                                         Sicherheits- und Betriebsanleitung
+
+
+
+                                                        Es wird empfohlen, ein Öl zu verwenden, das
+Methoden zur Vermeidung                                 Rostschutzmittel enthält.
+von Einfrieren
+                                                        Schmierölstand prüfen und auffüllen
+Bei Umgebungstemperaturen von 32-50 °F (0-10            ♦ Der Ölstand ist täglich zu prüfen.
+°C) und hoher relativer Luftfeuchtigkeit kann sich
+                                                        ♦ Säubern Sie den Bereich um den Ölstopfen und
+im Schalldämpfer Eis bilden.
+                                                          entfernen Sie den Stopfen.
+Die Maschine ist so konstruiert, dass eine Eisbildung
+im Schalldämpfer vermieden wird. Dennoch kann           ♦ Prüfen Sie, dass die Gewinde nicht beschädigt
+sich unter extremen Bedingungen im Schalldämpfer          oder abgenutzt sind.
+Eis bilden.
+                                                        ♦ Jedes Teil mit beschädigtem oder abgenutztem
+Eine weitere Verringerung des Risikos für Eisbildung      Gewinde muss ausgewechselt werden.
+kann mit folgenden Maßnahmen erreicht werden:
+♦ Verwenden Sie ein frostschutzmittelhaltiges           ♦ Schmieröl in (A) oder (B) einfüllen.
+   Druckluftwerkzeugöl.
+
+♦ Verwenden Sie einen Wasserabscheider.
+
+
+Anschließen eines
+Wasserabscheiders
+Der Schlauch zwischen Kompressor und
+Wasserabscheider muss so lang sein, dass der
+Wasserdampf abkühlt und kondensiert, bevor er den       CP 1230, CP 1230 S, CP 1240 und CP 1240 S
+Wasserabscheider erreicht.
+Wenn die Umgebungstemperatur unter 32 °F (0 °C)
+liegt, muss der Schlauch kurz genug sein, damit das
+Wasser im Schlauch nicht gefriert, bevor es den
+Wasserabscheider erreicht.
+
+
+Schmieren
+Schmieren
+Das Schmiermittel ist wichtig für die
+Funktionsfähigkeit der Maschine und hat großen
+Einfluss auf deren nutzbare Lebensdauer. Um die
+richtige Menge an Schmiermittel zuzuführen, sollte
+eine Schmiervorrichtung an den Luftschlauch             CP 1230 SVR und CP 1240 SVR
+angeschlossen werden. Die Verwendung der                ♦ Den Stopfen wieder fest zudrehen und
+Druckluftleitungs-Schmiervorrichtung von Chicago          überschüssiges Öl abwischen.
+Pneumatic wird empfohlen. Um eine gute
+Schmierung zu gewährleisten, sollte die Länge des
+Luftschlauchs zwischen Schmiervorrichtung und
+Druckluftwerkzeug 10 feet (3 m) nicht
+überschreiten.
+Zu viel Schmiermittel kann Startprobleme, geringe
+Leistung oder ungleichmäßigen Lauf verursachen.
+Empfohlenes Schmiermittel: Druckluftwerkzeugöl
+mit einer Viskosität von 100-150 SUS (ISO VG
+22–32) bis 100°F (38°C) oder 200-300 SUS (ISO VG
+46-68) oberhalb von 100°F (38°C).
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                             57
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+Sicherheits- und Betriebsanleitung                                              CP 1210, CP 1230, CP 1240
+
+
+
+Werkzeug                                                         WARNUNG            Gefahren durch Vibration
+                                                             Erfüllt das Werkzeug nicht die unten genannten
+                                                             Anforderungen, führt dies zu einer längeren
+    VORSICHT        Heißes Werkzeug
+                                                             Bearbeitungszeit und damit auch zu höheren
+Die Spitze des Werkzeugs kann während des Betriebs           Vibrationsbelastungen. Ein abgenutztes Werkzeug
+sehr heiß und scharf werden. Das Berühren der                bewirkt ebenfalls längere Bearbeitungszeiten.
+Spitze kann zu Verbrennungen und
+                                                             ► Stellen Sie sicher, dass das Werkzeug gut gewartet
+Schnittverletzungen führen.
+                                                                und nicht abgenutzt ist und die richtige Größe
+► Berühren Sie niemals ein heißes oder scharfes                 hat.
+  Werkzeug.
+                                                             ► Verwenden Sie immer ein scharfes Werkzeug, um
+► Warten Sie mit eventuellen Wartungsarbeiten bis              effektiv arbeiten zu können.
+  sich das Werkzeug abgekühlt hat.
+
+HINWEIS Kühlen Sie ein heißes Werkzeug niemals
+in Wasser ab. Dies könnte zur Versprödung des
+Werkzeugs und zu dessen vorzeitigem Ausfall führen.
+
+Auswählen des richtigen Werkzeugs
+Die Auswahl des richtigen Werkzeugs ist eine
+Grundvoraussetzung für die ordnungsgemäße
+Funktion der Maschine. Um Maschinenschäden zu
+vermeiden, ist es wichtig, ein qualitativ hochwertiges
+Werkzeug zu verwenden.                                       Prüfen des Werkzeugschaft auf
+Die Maschine kann durch die Verwendung eines                 Verschleiß
+falschen Werkzeugs zerstört werden.
+Die empfohlenen Werkzeuge sind in der
+Ersatzteilliste aufgeführt.
+
+Flachmeißel
+
+                           Der Flachmeißel ist für Abriss-
+                           und Trennarbeiten in
+                           Verbindung mit Beton und
+                           anderen harten Materialien
+                           vorgesehen.
+
+Spitzmeißel
+
+                           Der Spitzmeißel ist nur für das
+                           Erzeugen von Löchern in Beton
+                           und anderen harten Materialien
+                           vorgesehen.
+
+Breitmeißel                                                  Verwenden Sie die für die Werkzeugschaftgröße
+                                                             passende Lehre. Die korrekten
+                           Der Breitmeißel ist nur für       Werkzeugschaftabmessungen finden Sie unter
+                           weiche Materialien wie Asphalt
+                           oder gefrorenen Boden
+                                                             „Technische Daten“.
+                           vorgesehen.                       > Wenn die Öffnung der Lehre (A) bis auf den
+                                                               Werkzeugschaft geschoben werden kann, ist der
+                                                               Schaft verschlissen, und das Werkzeug sollte
+                                                               ersetzt werden.
+                                                             > Stellen Sie sicher, dass die Länge (B) dem
+                                                               gelieferten Maschinentyp entspricht.
+
+
+
+
+58                                                           9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+CP 1210, CP 1230, CP 1240                                          Sicherheits- und Betriebsanleitung
+
+
+
+Einsetzen und Entfernen des Werkzeugs
+Bei jedem Einsetzen/Entfernen des Werkzeugs
+müssen die folgenden Anweisungen beachtet
+werden:
+♦ Um einen unbeabsichtigten Start zu verhindern:
+  Schalten Sie die Druckluftversorgung aus und
+  lassen Sie die Maschine durch Betätigen des Start-
+  und Stoppschalters auslaufen. Trennen Sie die
+  Maschine von der Energieversorgung.
+
+♦ Fetten Sie vor dem Einsetzen eines Werkzeugs den
+  Werkzeugschaft ein.                                    Stoppen Sie den Drucklufthammer durch Loslassen
+                                                         des Auslösers. Der Auslöser nimmt automatisch
+♦ Setzen Sie das Werkzeug ein bzw. entfernen Sie         wieder die Stopp-Stellung ein.
+  es.
+
+♦ Schließen Sie die Werkzeugaufnahme und prüfen          Betrieb
+  Sie die Arretierung, indem Sie kräftig und ruckartig
+  am Werkzeug ziehen.                                    Beginnen eines Abbruchs
+                                                         ♦ Nehmen Sie eine stabile Standposition ein und
+                                                           halten Sie Ihre Füße vom Werkzeug fern.
+Betrieb
+                                                         ♦ Drücken Sie die Maschine vor dem Start auf die
+    WARNUNG         Unbeabsichtigter Start                 Oberfläche des zu bearbeitenden Objekts.
+Unbeabsichtigtes Starten der Maschine kann zu
+                                                         ♦ Wählen Sie den Ansatzpunkt in einem solchen
+Verletzungen führen.
+                                                           Abstand von der Bruchkante, dass die Maschine
+► Halten Sie Ihre Hände so lange vom Start- und            in der Lage ist, das Material ohne Hebelwirkung
+  Stoppschalter fern, bis Sie zum Starten der              aufzubrechen.
+  Maschine bereit sind.
+                                                         ♦ Versuchen Sie niemals, zu große Bruchstücke
+► Machen Sie sich damit vertraut, wie die Maschine
+                                                           abzubrechen. Passen Sie den Bruchabstand (A)
+  im Notfall ausgeschaltet wird.
+                                                           so an, dass das Werkzeug nicht stecken bleibt.
+► Stoppen Sie die Maschine bei jeglicher
+  Unterbrechung der Energieversorgung.
+
+
+Start und Stopp
+
+
+
+
+Starten Sie den Drucklufthammer, indem Sie den
+Auslöser nach unten drücken.
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                              59
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+Sicherheits- und Betriebsanleitung                                        CP 1210, CP 1230, CP 1240
+
+
+
+Aufbrechen                                            Einlegen von Pausen
+♦ Lassen Sie die Maschine die Arbeit verrichten;
+  drücken Sie nicht zu fest auf. Der                  ♦ Bringen Sie die Maschine während jeder Pause
+  vibrationshemmende Griff darf auf keinen Fall bis     außer Reichweite, so dass ein unbeabsichtigtes
+  zum Anschlag nach unten gedrückt werden.              Starten der Maschine ausgeschlossen ist. Stellen
+♦ Drucklufthämmer mit vibrationshemmenden               Sie die Maschine stets so auf dem Boden ab, dass
+  Griffen: Die Vorschubkraft sollte so angepasst        sie nicht umfallen kann.
+  werden, dass die Griffe ungefähr zur Hälfte         ♦ Bei längeren Pausen oder beim Verlassen des
+  hineingedrückt werden. In dieser Position wird        Arbeitsplatzes: Schalten Sie die Energieversorgung
+  die beste Vibrationsdämpfung und die beste            aus, und lassen Sie die Maschine durch Betätigen
+  Aufbrechwirkung erzielt.                              des Start- und Stoppschalters auslaufen.
+
+
+                                                      Wartung
+                                                      Eine regelmäßige Wartung ist die
+                                                      Grundvoraussetzung für den Erhalt der Sicherheit
+                                                      und Effektivität der Maschine. Halten Sie sich bitte
+                                                      genau an die Wartungsanweisungen.
+                                                      ♦ Säubern Sie die Maschine vor dem Start, um
+                                                         gefährliche Substanzen fernzuhalten. Siehe
+                                                         „Gefahren durch Abgase und Staub“
+
+                                                      ♦ Verwenden Sie ausschließlich Originalbauteile.
+                                                        Schäden oder Fehlfunktionen, die durch den
+                                                        Einsatz unzulässiger Bauteile entstehen, werden
+                                                        nicht durch Garantie oder Produkthaftung
+                                                        abgedeckt.
+
+                                                      ♦ Stellen Sie beim Reinigen mechanischer Teile mit
+                                                        Lösungsmittel sicher, dass die geltenden
+                                                        Gesundheits- und Sicherheitsvorschriften
+♦ Vermeiden Sie die Bearbeitung extrem harter           eingehalten werden und für ausreichende Lüftung
+  Materialien, z. B. Granit und Stahlarmierungen        gesorgt ist.
+  (Betonrippenstahl), da dies beträchtliche
+  Vibrationen erzeugt.                                ♦ Für eine Hauptdurchsicht der Maschine wenden
+                                                        Sie sich an Ihre nächste Vertragswerkstatt.
+♦ Vermeiden Sie jeglichen Leerschlagbetrieb, z. B.
+  Betrieb der Maschine ohne Werkzeug oder im          ♦ Prüfen Sie nach jeder Wartung, ob die
+  angehobenen Zustand.                                  Vibrationsstärke der Maschine normal ist. Ist dies
+                                                        nicht der Fall, wenden Sie sich an Ihre nächste
+♦ Wenn die Maschine angehoben wird, darf der            Vertragswerkstatt.
+  Start- und Stoppschalter nicht bedient werden.
+
+♦ Prüfen Sie regelmäßig, ob die Maschine gut          Täglich
+  geschmiert ist.
+                                                      Schalten Sie bei pneumatischen Maschinen vor jeder
+                                                      Wartung oder jedem Werkzeugwechsel immer die
+                                                      Druckluftversorgung aus und lassen Sie die Maschine
+                                                      durch Betätigen des Start- und Stoppschalters
+                                                      auslaufen. Trennen Sie anschließend den
+                                                      Druckluftschlauch von der Maschine.
+
+
+
+
+60                                                    9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+CP 1210, CP 1230, CP 1240                                              Sicherheits- und Betriebsanleitung
+
+
+
+♦ Vor jedem Gebrauch der Maschine bitte reinigen
+  und und eine Funktionsprüfung durchführen.
+                                                          Hauptkomponenten der
+                                                          vibrationshemmenden
+♦ Prüfen Sie die Werkzeugaufnahme auf Verschleiß
+  und Funktion.                                           Griffe
+♦ Führen Sie eine allgemeine Prüfung auf
+  Undichtigkeiten und Beschädigungen durch.
+
+♦ Stellen Sie sicher, dass der Einlassnippel
+  festgezogen und die Klauenkupplung nicht
+  beschädigt ist.
+
+♦ Damit die Maschine die angegebenen
+  Vibrationswerte einhält, sollte folgendes immer
+  geprüft werden:                                         A.   Lager
+♦ Ein zu großer Spalt zwischen Werkzeugschaft und         B.   Feder
+  Meißelbuchse verursacht stärkere Vibrationen.
+                                                          C.   Griffstutzen
+  Um erhöhte Vibrationsbelastungen zu vermeiden,
+  prüfen Sie die Meißelbuchse auf Abnutzung.              D.   Griff
+  Verwenden Sie die für die Werkzeugschaftgröße
+  passende Lehre.
+                                                          Montageanweisungen
+                                                          Die Montage und Demontage des Werkzeugs muss
+                                                          sorgfältig durchgeführt werden, um Abgraten,
+                                                          Riefenbildung oder Verformung passgenauer
+                                                          Präzisionsteile zu vermeiden.
+                                                          1. Überprüfen Sie alle Kontaktflächen zwischen
+                                                              Metallteilen vor und während der Montage auf
+                                                              Scharten und Grate.
+  Wenn die Lehre vollständig bis auf Punkt A in die
+                                                          2. Fetten Sie vor dem Wiedereinbau alle O-Ringe
+  Meißelbuchse (Punkt B) geschoben werden kann,
+                                                             und schmieren Sie alle beweglichen Teile des
+  müssen die Buchse oder die Kopfvorderseite
+                                                             Werkzeugs mit den empfohlenen
+  unverzüglich ersetzt werden. Zum Prüfen des
+                                                             Schmiermitteln.
+  Werkzeugschafts siehe auch „Prüfen des
+  Werkzeugschafts auf Verschleiß“.                        3. Sorgen Sie während der Montage dafür, dass
+                                                             das Werkzeug schmutzfrei bleibt, besonders an
+♦ Wenn die Maschine mit vibrationshemmenden
+                                                             den Kontaktoberflächen.
+  Griffen ausgestattet ist, sollte deren
+  Funktionstüchtigkeit überprüft werden.                  4. Die Bolzen der Kopfvorderseite sind so
+                                                             anzuziehen, dass die Federn oder Buchsen
+♦ Stellen Sie sicher, dass die Griffe sich frei bewegen
+                                                             gleichmäßig zusammengedrückt werden.
+  lassen (auf – ab) und nicht klemmen.
+                                                          5. Nach beendeter Montage füllen Sie ca. ½ oz.
+♦ Stellen Sie sicher, dass die Federn nicht beschädigt
+                                                             (1,5 cl) des empfohlenen Öls in die Luftzufuhr
+  sind, siehe dazu auch „Hauptkomponenten der
+                                                             und nehmen Sie den Drucklufthammer mit
+  vibrationshemmenden Griffe“.
+                                                             reduzierter Leistung für 10-15 Sekunden in
+♦ Wechseln Sie beschädigte Bauteile sofort aus.              Betrieb. Wenn der Drucklufthammer auf dem
+                                                             Boden betrieben wird, lassen Sie ihn mit
+♦ Ersetzen Sie beschädigte oder verschlissene                reduzierter Leistung laufen, um Schäden an
+  Komponenten rechtzeitig.                                   Kolben, Ambossblock und Kopfvorderseite zu
+                                                             vermeiden.
+♦ Stellen Sie sicher, dass Ausrüstung und Zubehör,
+  z. B. Schläuche, Wasserabscheider und
+  Schmiervorrichtungen, gut gewartet sind.
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                                61
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+Sicherheits- und Betriebsanleitung                                           CP 1210, CP 1230, CP 1240
+
+
+
+6. Installieren Sie die Federstifte mit den Schlitzen   1. Stellen Sie sicher, dass die Kontaktflächen sauber
+   in gegenüberliegender Ausrichtung und in                und glatt und die Bolzen festgezogen sind.
+   einem Winkel von 45 Grad. Siehe nachfolgende
+   Abbildung (nur gültig für CP 1210).                  2. Säubern und überprüfen Sie die inneren Teile
+                                                           sorgfältig und stellen Sie sicher, dass sie frei von
+                                                           Rost, Sand und Fremdkörpern sind.
+
+                                                        3. Säubern und überprüfen Sie die Ventilteile
+                                                           sorgfältig. Stellen Sie sicher, dass das Ventil nicht
+                                                           verklemmt ist.
+
+                                                        4. Stellen Sie sicher, dass die Schlagflächen auf dem
+                                                           Ambossblock parallel und plan sind. Wenn der
+                                                           Block eine Vertiefung aufweist, schleifen Sie die
+                                                           hohen Ränder ab; berühren Sie jedoch nicht die
+                                                           polierten Flächen, an denen Amboss und
+                                                           Stahlschaft aufeinandertreffen. Maximal zulässige
+                                                           Abnutzung (A) 1⁄32 " (1mm). Siehe auch die
+                                                           untenstehende Abbildung.
+
+
+
+
+7. Bevor Sie die Kopfrückseite auf dem Zylinder
+   montieren, stellen Sie sicher, dass die Dichtung
+   ca. (B) 1⁄16 ” (1,6 mm) aus der Zylinderfläche
+   herausragt.
+
+
+
+
+Regelmäßige Wartung
+Nach einer Betriebsdauer von ca. 150 Stunden (oder
+zweimal pro Jahr) muss die Maschine zerlegt und
+alle Teile gereinigt und geprüft werden. Diese Arbeit
+muss von speziell hierfür geschultem Personal
+durchgeführt werden.
+
+
+
+
+62                                                      9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+CP 1210, CP 1230, CP 1240                                        Sicherheits- und Betriebsanleitung
+
+
+
+Anziehdrehmomente
+
+
+
+
+                                                       CP 1230 und CP 1240
+CP 1210                                                A.   Anzugsdrehmoment: CP 1230, 100-125 lbf.ft
+A.   Anzugsdrehmoment: 19–20 lbf.ft                         (135-170 Nm) und CP 1240, 125-150 lbf.ft
+     (25–27 Nm). Verwenden Sie Loctite® 242™                (170–203 Nm).
+     (Loctite ist ein eingetragenes Warenzeichen
+     der Henkel Corporation. 242 ist ein               B.   Die Zylinderdichtung muss vor der Montage
+     eingetragenes Warenzeichen der Henkel                  ca. 1⁄16" (1,6 mm) aus der Kopfrückseite
+     Corporation).                                          herausragen.
+
+B.   Anzugsdrehmoment: 70 lbf.ft (95 Nm).              C.   Anzugsdrehmoment: 125–150 lbf.ft
+                                                            (170–203 Nm). Verwenden Sie Loctite® 242™
+C.   Die Zylinderdichtung muss vor der Montage              (Loctite ist ein eingetragenes Warenzeichen
+     ca. 1⁄16" (1,6 mm) aus der Kopfrückseite               der Henkel Corporation. 242 ist ein
+     herausragen.                                           eingetragenes Warenzeichen der Henkel
+D.   Anzugsdrehmoment: 80–100 lbf.ft                        Corporation).
+     (109–136 Nm) Verwenden Sie Loctite® 243™          D.   Anzugsdrehmoment: 65–75 lbf.ft
+E.   Drehmoment, Schalldämpfer (nicht                       (90–100 Nm).
+     dargestellt) 6–7 lbf.ft (8–10 Nm).                E.   Drehmoment, Schalldämpfer (nicht
+F.   Länge der Feder bzw. Buchse im                         dargestellt) 6–7 lbf.ft (8–10 Nm).
+     zusammengebauten Zustand.                         F.   Länge der Feder bzw. Buchse im
+                                                            zusammengebauten Zustand.
+                         Min.-Max. Länge
+Modell                   in. (mm)                                              Min.-Max. Länge
+CP 1210                  1 21⁄32–1 23⁄32 (42,1–43,7)   Modell                  in. (mm)
+                                                       CP 1230                 2 1⁄8–2 3⁄16 (54,0–55,6)
+                                                       CP 1240                 2 17⁄32–2 19⁄32 (64,3–65,9)
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                                    63
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+Sicherheits- und Betriebsanleitung                                      CP 1210, CP 1230, CP 1240
+
+
+
+Fehlersuche
+Wenn die Druckluftmaschine nicht startet oder
+geringe oder ungleichmäßige Leistung abgibt,
+prüfen Sie die folgenden Punkte.
+♦ Stellen Sie sicher, dass ein Werkzeug mit korrekter
+  Schaftgröße eingesetzt ist.
+
+♦ Stellen Sie sicher, dass die Druckluftmaschine mit
+  der korrekten Menge Schmiermittel versorgt wird.
+  Zu viel Schmiermittel kann Start- probleme,
+  geringe oder ungleichmäßige Leistung
+  verursachen.
+
+♦ Stellen Sie sicher, dass das Druckluftsystem die
+  Maschine mit ausreichend Druckluft für maximale
+  Leistung versorgt.
+
+♦ Prüfen Sie, ob Länge und Durchmesser des
+  Druckluftschlauchs den Empfehlungen
+  entsprechen. Siehe „Installation“.
+
+♦ Falls Eisbildungsgefahr besteht, stellen Sie sicher,
+  dass die Abluftöffnungen der Maschine nicht
+  blockiert sind.
+
+♦ Wenn die Maschine nach diesen Verfahren
+  weiterhin nicht zufriedenstellend funktioniert,
+  wenden Sie sich bitte an eine Vertragswerkstatt.
+
+
+Lagerung
+> Reinigen Sie die Maschine gut vor der Lagerung,
+  um gefährliche Substanzen fernzuhalten. Siehe
+  „Gefahren durch Abgase und Staub“
+> Füllen Sie ca. 1⁄2 oz (5 cl) Öl direkt in den
+  Lufteinlassnippel, verbinden die Maschine mit der
+  Druckluftversorgung, und lassen Sie sie für ein
+  paar Sekunden laufen.
+> Lagern Sie die Maschine immer an einem
+  trockenen Ort.
+
+
+
+Entsorgung
+Eine verschlissene Maschine muss so entsorgt
+werden, dass so viel Material wie möglich
+wiederverwendet werden kann und die Umwelt in
+Übereinstimmung mit den örtlichen Regelungen so
+wenig wie möglich belastet wird.
+
+
+
+
+64                                                       9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+CP 1210, CP 1230, CP 1240                                                    Sicherheits- und Betriebsanleitung
+
+
+
+Technische Daten
+Maschinendaten
+                                       Schaftgröße          Gewicht        Länge      Schlagfrequenz Luftdurchsatz
+ Typ                                     in. (mm)            lb (kg)      in. (mm)         bpm         cfm (l/s)
+ CP 1210                               H1x4¼ (25x108)        44 (20)      21¼ (540)       1400         55 (26,5)
+ CP 1210 S                             H1x4¼ (25x108)        48,5 (22)    21¼ (540)       1400         55 (26,5)
+                                      H1 1⁄8x6¼ (28x160*)   49,5 (22,5)    23 (585)       1400         55 (26,5)
+                                      H1¼x6¼ (32x160**)     49,5 (22,5)    23 (585)       1400         55 (26,5)
+ CP 1210 SVR                           H1x4¼ (25x108)       54 (24,5)     23½ (600)       1400         55 (26,5)
+                                      H1 1⁄8x6¼ (28x160*)    55 (25)      25½ (650)       1400         55 (26,5)
+                                      H1¼x6¼ (32x160**)      55 (25)      25½ (650)       1400         55 (26,5)
+ CP 1230                              H1 1⁄8x6¼ (28x160*)   65 (29,5)     26¾ (680)       1300          67 (32)
+                                      H1¼x6¼ (32x160**)     65 (29,5)     26¾ (680)       1300          67 (32)
+ CP 1230 S                            H1 1⁄8x6¼ (28x160*)    68 (31)      26¾ (680)       1300          67 (32)
+                                      H1¼x6¼ (32x160**)      68 (31)      26¾ (680)       1300          67 (32)
+ CP 1230 SVR                          H1 1⁄8x6¼ (28x160*)   76 (34,5)     28¾ (730)       1300          67 (32)
+                                      H1¼x6¼ (32x160**)     76 (34,5)     28¾ (730)       1300          67 (32)
+ CP 1240                          H1 1⁄8 x 6¼ (28x160*)     83 (37,5)     29 (735)        1200          84 (40)
+                                  H1¼x6¼ (32x160**)         83 (37,5)     29 (735)        1200          84 (40)
+ CP 1240 S                            H1 1⁄8x6¼ (28x160*)    86 (39)      29 (735)        1200          84 (40)
+                                      H1¼x6¼ (32x160**)      86 (39)      29 (735)        1200          84 (40)
+ CP 1240 SVR                          H1 1⁄8x6¼ (28x160*)    95 (43)      31 (785)        1200          84 (40)
+                                      H1¼x6¼ (32x160**)      95 (43)      31 (785)        1200          84 (40)
+*) Auch für 1 1⁄8x6 in. (28x152 mm)
+**) Auch für 1 1⁄4x6 in. (32x152 mm)
+
+
+
+Angaben zu Geräuschemission und Vibration
+Garantierter Schallleistungspegel Lw gemäß EN ISO 3744 in Übereinstimmung mit der Richtlinie 2000/14/EG.
+Schalldruckpegel Lp gemäß ISO 11203.
+Vibrationswert A und Unsicherheit B, ermittelt gemäß ISO 20643. Die Werte A, B usw. sind in der Tabelle
+„Angaben zu Geräuschemission und Vibration“ enthalten.
+Die angegebenen Werte wurden durch Bauartprüfung im Labor entsprechend den angegebenen Richtlinien
+bzw. Normen ermittelt und eignen sich nur für den Vergleich mit den angegebenen Werten anderer Werkzeuge,
+die entsprechend den gleichen Richtlinien bzw. Normen ermittelt wurden. Die angegebenen Werte eignen
+sich nicht zur Verwendung in Risikoanalysen, denn die in individuellen Arbeitsumgebungen gemessenen
+Werte können höher sein. Die tatsächliche Belastung und das Verletzungsrisiko für den einzelnen Anwender
+hängen jeweils von der Arbeitsweise des Anwenders, vom bearbeiteten Material, von der Belastungsdauer,
+von der physischen Kondition des Anwenders und vom Zustand der Maschine ab.
+Atlas Copco Construction Tools AB haftet nicht für Folgen, falls die genannten Werte anstelle der Werte
+verwenden werden, die der tatsächlichen Belastung entsprechen, hervorgehend aus einer individuellen
+Risikoanalyse in einer Arbeitsplatzsituation, die wir nicht beeinflussen können.
+Diese Maschine kann das Hand-Arm Vibrationssyndrom auslösen, wenn sie nicht angemessen bedient wird.
+Eine EU-Richtlinie zum Umgang mit Hand-Arm-Vibrationen ist über
+http://www.humanvibration.com/EU/VIBGUIDE.htm abrufbar.
+Wir empfehlen ein Gesundheitsüberwachungsprogramm zur Erkennung auch erster Symptome, die
+möglicherweise auf eine Vibrationsbelastung zurückzuführen sind, so dass betriebliche Maßnahmen zur
+Vorbeugung jeglicher Beeinträchtigungen ergriffen werden können.
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                                          65
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+Sicherheits- und Betriebsanleitung                                            CP 1210, CP 1230, CP 1240
+
+
+
+Zusätzliche Informationen über Vibration
+Diese Informationen dienen dazu, den Vibrationswert am Arbeitsplatz grob abzuschätzen.
+Die Vibrationsbelastung variiert stark und hängt in hohem Maß von der Arbeitsaufgabe und der
+Bedienungstechnik des Anwenders ab. Die angegebenen Werte beziehen sich nur auf den/die Hauptgriff/e.
+In anderen Handpositionen können viel höhere Vibrationswerte auftreten. Wir sind der Auffassung, dass der
+normale bestimmungsgemäße Gebrauch der Maschine je nach den Besonderheiten der Arbeitsaufgabe
+Vibrationsbelastungen im Bereich von C m⁄s 2 und E m⁄s 2 (Gesamtwerte für Vibration gemäß ISO 5349-1:2001).
+Bei einigen Anwendungen können auch Belastungen außerhalb dieser Bereiche auftreten.
+Werte von D m⁄s 2 und F m⁄s 2 sind sicher nützliche durchschnittliche Angaben, um z. B. die wahrscheinliche,
+durchschnittliche Belastung eines Anwenders grob abzuschätzen, dem innerhalb des bestimmungsgemäßen
+Gebrauchs der Maschine ein breiter Aufgabenbereich zugeordnet werden kann. Wir möchten jedoch
+hervorheben, dass eine bestimmte, spezielle Aufgabe andere Durchschnittsvibrationswerte erzeugen kann,
+und empfehlen in solchen Fällen dringend eine spezifische Bewertung der Vibrationsemission.
+
+
+Angaben zu Geräuschemission und Vibration
+                    Geräuschemission                                     Vibration
+                Schalldruck      Schallleistung                      Dreiachsenwerte
+                                                    Angegebene         Zusätzliche Informationen über
+                    Angegebene Werte                  Werte                       Vibration
+                 ISO 11203        2000/14/EG         ISO 20643                Beton                 Asphalt
+                                      Lw                                              D                   F
+                     Lp            garantiert       A         B          C    m/s 2      E      m/s 2
+              r=1m dB(A) bei      dB(A) bei 1     m/s 2     m/s   2
+                                                                      m/s 2
+                                                                              durch     m/s 2
+                                                                                                durch
+Typ              20 µPa               pW          Wert    Verteilung Bereich schnittl. Bereich schnittl.
+CP 1210 S            92                105         14,6       1,9         -            -        -             -
+CP 1210 SVR          92                105          5,3       1,0      3,6–3,7        3,7    3,8–3,9      3,9
+CP 1230 S            95                108         18,2       2,3         -            -        -             -
+CP 1230 SVR          96                108          7,4       1,2      6,7–7,4        7,1    5,8–6,7      6,3
+CP 1240 S            98                111         15,3       2,0         -            -        -             -
+CP 1240 SVR          99                111          7,8       1,3      8,6–11,7       10,3   6,2–7,2      6,7
+
+
+
+
+66                                                        9800 0608 90d | Originalbetriebsanleitung
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+CP 1210, CP 1230, CP 1240                                         Sicherheits- und Betriebsanleitung
+
+
+
+EG-Konformitätserklärung
+EG-Konformitätserklärung (EG-Richtlinie 2006/42/EG)
+Wir, die Atlas Copco Construction Tools AB, erklären hiermit, dass die nachfolgend aufgelisteten Maschinen
+die Bestimmungen der EG-Richtlinien 2006/42/EG (Maschinenrichtlinie) und 2000/14/EG (Lärmschutzrichtlinie)
+sowie die nachfolgend genannten harmonisierten Normen erfüllen.
+
+                           Garantierter                  Gemessener
+Hand-                   Schallleistungspegel          Schallleistungspegel
+Drucklufthämmer                [dB(A)]                       [dB(A)]                   Pmax [bar]
+CP 1210 S                        105                           103                         6.2
+CP 1210 SVR                      105                           103                         6.2
+CP 1230 S                        108                           106                         6.2
+CP 1230 SVR                      108                           107                         6.2
+CP 1240 S                         111                          109                         6.2
+CP 1240 SVR                       111                          110                         6.2
+
+Folgende harmonisierte Normen wurden angewandt:
+♦ ISO/FDIS 11148-4
+
+Folgende andere Normen wurden angewandt:
+♦ Lloyds Register Quality Assurance, NoBo no.0088
+
+
+Bevollmächtigter für die technische Dokumentation:
+Erik Sigfridsson
+Atlas Copco Construction Tools AB
+Dragonvägen 2
+Kalmar
+Geschäftsführer:
+Erik Sigfridsson
+
+Hersteller:
+Atlas Copco Construction Tools AB
+105 23 Stockholm
+Sweden
+Ort und Datum:
+Kalmar, 2010-01-01
+
+
+
+
+9800 0608 90d | Originalbetriebsanleitung                                                              67
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+Contenido                                                                                                                CP 1210, CP 1230, CP 1240
+
+
+
+     ESPAÑOL
+
+
+     Contenido
+     Introducción. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+
+     Acerca de las instrucciones de seguridad y de funcionamiento. . . . . . . . . . . . . . . . . . . . 69
+
+     Instrucciones de seguridad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+        Terminología de las señales de seguridad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+        Precauciones y cualificaciones del personal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+        Instalación, precauciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+        Funcionamiento, precauciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+        Mantenimiento, precauciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+        Almacenamiento, precauciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+     Visión general. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+        Diseño y funcionamiento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+        Selección del martillo correcto para la tarea. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+        Piezas principales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+        Etiquetas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+
+     Montaje. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+       Mangueras y conexiones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+       Métodos para evitar la congelación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+       Conexión de un separador de agua. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+       Lubricación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+       Herramienta de inserción. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+
+     Funcionamiento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+       Puesta en marcha y parada. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+       En funcionamiento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+       En los descansos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+
+     Mantenimiento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+       A diario. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+       Piezas principales de las empuñaduras reductoras de vibraciones. . . . . . . . . . . . . . . . . . . . . . . 83
+       Instrucciones de montaje. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+       Mantenimiento periódico. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+       Pares de apriete. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+     Localización y resolución de problemas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+     Almacenaje. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+
+     Desechar. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+
+     Especificaciones técnicas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+        Datos de la máquina. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+        Declaración de ruido y vibraciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+        Información adicional sobre las vibraciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+        Datos de ruido y vibraciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+
+     Declaración CE de conformidad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+       Declaración CE de conformidad (Directiva 2006/42/CE). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+
+
+
+
+68                                                                                             9800 0608 90d | Instrucciones originales
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+CP 1210, CP 1230, CP 1240                           Instrucciones de seguridad y de funcionamiento
+
+
+
+           Introducción
+           Gracias por elegir productos de la marca Chicago Pneumatic. Durante más de un
+           siglo, la marca Chicago Pneumatic ha sido la representación del rendimiento y la
+           innovación en la industria de las herramientas neumáticas.
+
+           Actualmente se encuentra en todo el mundo con una amplia gama de herramientas
+           neumáticas e hidráulicas, como por ejemplo martillos, perforadoras, cinceladores,
+           excavadoras de tierra, picos, remachadoras, desbastadoras, bombas y muchas otras
+           herramientas.
+
+           La marca Chicago Pneumatic se relaciona con productos potentes y fiables, fáciles
+           de mantener y con una buena relación calidad-precio.
+
+           Para obtener más información, visite www.cp.com
+
+           Atlas Copco Construction Tools AB
+           105 23 Estocolmo
+           Suecia
+
+
+           Acerca de las instrucciones de seguridad
+           y de funcionamiento
+           El objeto de las instrucciones es enseñarle a utilizar el rompedor neumático de una
+           forma eficaz y segura. Asimismo, las instrucciones le aconsejan el modo de realizar
+           el mantenimiento regular del rompedor neumático.
+           Antes de utilizarlo por primera vez debe leer estas instrucciones con atención y
+           entenderlas en su totalidad.
+
+
+
+
+9800 0608 90d | Instrucciones originales                                                         69
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+Instrucciones de seguridad y de funcionamiento                                  CP 1210, CP 1230, CP 1240
+
+
+
+                                                            > Protección respiratoria, cuando sea necesario
+Instrucciones de
+                                                            > Guantes protectores
+seguridad                                                   > Botas protectoras adecuadas
+Para reducir el riesgo de que usted u otras personas        > Una bata de trabajo adecuada o prenda similar
+padezcan lesiones graves o la muerte, lea las                 (no holgada) que cubra los brazos y las piernas.
+Instrucciones de seguridad y funcionamiento antes
+de instalar, usar, reparar o cambiar la máquina o de        Drogas, alcohol y medicación
+realizar su mantenimiento.
+                                                                ADVERTENCIA            Drogas, alcohol y
+Exponga estas instrucciones de seguridad y
+                                                            medicación
+funcionamiento en las zonas de trabajo, proporcione
+copias a los empleados y asegúrese de que todos             Las drogas, el alcohol y la medicación pueden alterar
+las lean antes de utilizar o reparar la máquina.            la capacidad de juicio y el poder de concentración.
+                                                            Las malas reacciones y las valoraciones incorrectas
+Además, el operario o su empleador deberá evaluar           pueden provocar accidentes graves o la muerte.
+los riesgos específicos que pueden surgir como
+resultado del uso de la máquina.                            ► Nunca utilice la máquina cuando esté cansado o
+                                                               bajo los efectos de drogas, alcohol o medicinas.
+                                                            ► Nadie que esté bajo los efectos de drogas, alcohol
+Terminología de las señales                                   o medicinas podrá manejar la máquina.
+de seguridad
+Los términos de seguridad Peligro, Atención y               Instalación, precauciones
+Cuidado tienen los siguientes significados:
+                                                                PELIGRO        Manguera de aire suelta
+PELIGRO                   Indica una situación de peligro   Una manguera de aire comprimido suelta puede
+                          que, si no se evita, ocasionará
+                          la muerte o lesiones graves.      asestar latigazos y ocasionar lesiones o incluso la
+ATENCIÓN                  Indica una situación de peligro
+                                                            muerte. Para reducir este riesgo:
+                          que, si no se evita, podría       ► Compruebe que la manguera de aire comprimido
+                          ocasionar la muerte o lesiones      y las conexiones no estén dañadas y sustitúyalas
+                          graves.
+                                                              si es necesario.
+CUIDADO                   Indica una situación de peligro
+                          que, si no se evita, podría       ► Compruebe que todas las conexiones de aire
+                          ocasionar lesiones menores o        comprimido estén debidamente conectadas.
+                          moderadas.
+                                                            ► No arrastre nunca una máquina neumática por
+                                                              la manguera del aire.
+Precauciones y
+                                                            ► No intente nunca desconectar una manguera de
+cualificaciones del personal                                  aire comprimido que esté presurizada. En primer
+                                                              lugar, apague el suministro de aire comprimido
+Sólo personas cualificadas y debidamente formadas             del compresor y, a continuación, purgue la
+pueden utilizar u ocuparse del mantenimiento de               máquina activando el dispositivo de puesta en
+la máquina. Deben poder manejar físicamente el                marcha y parada.
+volumen, el peso y la potencia de la herramienta.
+                                                            ► No dirija nunca una manguera de aire
+Utilice siempre su sentido común y buen juicio.
+                                                              comprimido hacia sí mismo ni a otras personas.
+Equipo de protección personal                                 Para evitar el riesgo de lesiones, no utilice nunca
+                                                              una manguera de aire comprimido para limpiar
+Utilice siempre equipo de protección autorizado.              el polvo, la suciedad, etc. de la ropa.
+Los operarios y el resto del personal del área de
+trabajo deben llevar, como mínimo, el siguiente             ► No utilice acoplamientos rápidos de desconexión
+equipo de protección:                                         en la entrada de la herramienta. Utilice fijaciones
+> Casco de protección                                         roscadas de la manguera de acero endurecido (o
+                                                              de otro material con una resistencia de choque
+> Protección auditiva                                         similar).
+> Protección ocular resistente a los impactos con
+  protección lateral
+
+
+
+70                                                             9800 0608 90d | Instrucciones originales
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+CP 1210, CP 1230, CP 1240                                Instrucciones de seguridad y de funcionamiento
+
+
+
+► Siempre que se utilicen acoplamientos universales
+  roscados (acoplamientos de garras),
+                                                           Funcionamiento,
+  recomendamos que se coloquen pasadores de                precauciones
+  seguridad y se utilicen cables con válvula de
+  seguridad para proteger la manguera ante                     PELIGRO         Peligro de explosión
+  posibles fallos de conexión de la manguera a la
+                                                           Si una herramienta de inserción entra en contacto
+  herramienta y entre mangueras.
+                                                           con explosivos o gases explosivos, se podría producir
+                                                           una explosión. Al trabajar con ciertos materiales y
+    ADVERTENCIA           Herramienta de
+                                                           al utilizar determinados materiales en las piezas de
+inserción retirada
+                                                           la máquina, se pueden producir chispas y fuego. Las
+Si el retén de la herramienta de la máquina no está        explosiones producirán lesiones graves o la muerte.
+en una posición bloqueada, la herramienta insertada
+se podría retirar de forma forzosa, lo que podría          ► Nunca utilice la máquina en un entorno explosivo.
+causar lesiones personales.                                ► Nunca utilice la máquina cerca de materiales
+► Nunca arranque la máquina mientras cambia la               inflamables, humos o polvo.
+   herramienta de inserción.                               ► Asegúrese de que no haya fuentes de gas ni
+► Antes de cambiar la herramienta de inserción o             explosivos no detectados.
+  los accesorios, pare la máquina, desconecte la
+  alimentación y purgue la máquina activando el                ADVERTENCIA            Movimientos
+  dispositivo de puesta en marcha y parada.                inesperados
+                                                           La herramienta insertada está expuesta a fuertes
+► Nunca dirija la herramienta insertada hacia usted
+                                                           tensiones cuando se utiliza la máquina. Además
+  ni hacia otras personas.
+                                                           puede romperse por fatiga después de un cierto
+► Asegúrese de que la herramienta de inserción esté        volumen de uso. Si la herramienta insertada se
+  insertada completamente y que el retén de la             rompe o se atasca, es posible que haya movimientos
+  herramienta esté en una posición bloqueada antes         repentinos e inesperados, que pueden producir
+  de arrancar la máquina.                                  lesiones. Asimismo, si alguien pierde el equilibrio o
+► Compruebe la función de bloqueo tirando de la            resbala, podría sufrir lesiones.
+  herramienta insertada hacia fuera con fuerza.            ► Asegúrese de estar siempre en una posición
+                                                              estable, con los pies separados a la misma
+    ADVERTENCIA           Movimiento o                        distancia que la anchura de los hombros y con el
+deslizamiento de la herramienta de inserción                  peso del cuerpo equilibrado.
+Unas dimensiones incorrectas del vástago de la             ► Inspeccione siempre el equipo antes de usarlo.
+herramienta insertada pueden dar lugar a que ésta            No utilice el equipo si cree que puede estar
+se pierda o resbale durante su uso. Riesgo de lesiones       dañado.
+graves o de aplastamiento de manos y dedos.
+                                                           ► Compruebe que las empuñaduras estén limpias
+► Compruebe que el vástago de la herramienta de              y que no tengan grasa ni aceite.
+   inserción tenga la longitud y las dimensiones
+   adecuadas para la máquina.                              ► Mantenga los pies lejos de la herramienta
+                                                             insertada.
+► Nunca utilice una herramienta de inserción sin un
+  anillo.                                                  ► Manténgase firmemente de pie y agarre siempre
+                                                             la máquina con ambas manos.
+                                                           ► Nunca arranque la máquina cuando esté en el
+                                                             suelo.
+                                                           ► Nunca “pise” en la máquina con un pie sobre la
+                                                             empuñadura.
+                                                           ► No golpee nunca ni maltrate el equipo.
+                                                           ► Compruebe regularmente el desgaste de la
+                                                             herramienta de inserción y compruebe si hay
+                                                             signos de daños o grietas visibles.
+                                                           ► Preste atención y fíjese en lo que está haciendo.
+
+
+
+
+9800 0608 90d | Instrucciones originales                                                                    71
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+Instrucciones de seguridad y de funcionamiento                              CP 1210, CP 1230, CP 1240
+
+
+
+    ADVERTENCIA             Peligros del polvo y del    ► Si la máquina tiene tubo de escape, diríjalo
+humo                                                      convenientemente de forma que se mueva el
+El polvo y los humos que se generan o dispersan al        menor polvo posible donde éste sea abundante.
+usar la máquina pueden causar dolencias o               ► Maneje y conserve la máquina según lo
+enfermedades respiratorias graves y permanentes u         recomendado en las instrucciones de
+otras lesiones corporales (por ejemplo, silicosis y       funcionamiento y seguridad.
+otras enfermedades pulmonares irreversibles que
+pueden resultar mortales, cáncer, malformaciones        ► Seleccione, conserve y sustituya los consumibles,
+congénitas e inflamación de la piel).                     la herramienta de inserción y demás accesorios
+                                                          según lo recomendado en las instrucciones de
+El polvo y los humos generados por la perforación,
+                                                          funcionamiento y seguridad. La selección
+la rotura, el martilleo, el aserrado, el esmerilado y
+                                                          incorrecta o la falta de mantenimiento de los
+otras actividades de construcción pueden contener
+                                                          consumibles, de la herramienta insertada y demás
+sustancias consideradas por el Estado de California
+                                                          accesorios puede causar un aumento innecesario
+y otras autoridades como causantes de
+                                                          del polvo o de los humos.
+enfermedades respiratorias, cáncer, malformaciones
+congénitas y otros daños reproductivos. Algunos         ► Lleve prendas protectoras lavables o desechables
+ejemplos de estas sustancias son:                         en el lugar de trabajo; dúchese y póngase ropa
+> Sílice cristalino, cemento y otros productos de         limpia antes de salir del lugar de trabajo para
+   albañilería.                                           reducir su exposición al polvo y a los humos y la
+                                                          de otras personas, coches, casas y otras zonas.
+> Arsénico y cromo procedente del caucho tratado
+  con sustancias químicas.                              ► Nunca coma, beba ni fume en zonas donde haya
+                                                          polvo o humos.
+> Plomo procedente de pinturas al plomo.
+                                                        ► Lávese las manos y la cara a fondo lo antes posible
+El polvo y los humos del aire pueden ser invisibles       cuando salga de la zona de exposición, y siempre
+a simple vista, así que no confíe en su buena vista       antes de comer, beber, usar productos
+para determinar si hay polvo o humos en el aire.          relacionados con el tabaco o tener contacto con
+Para reducir el riesgo de exposición al polvo y a los     otras personas.
+humos, haga todo lo siguiente:
+                                                        ► Cumpla todas las leyes y normativas aplicables,
+► Realice una evaluación del riesgo específica del        incluidas las normativas de salud y seguridad en
+   emplazamiento. La evaluación del riesgo debe           el trabajo.
+   incluir el polvo y los humos generados por el uso
+   de la máquina y la posibilidad de alterar el polvo   ► Participe en los programas de control del aire y
+   existente.                                             en los exámenes médicos y en los programas de
+                                                          formación de salud y seguridad proporcionados
+► Utilice controles de ingeniería adecuados para          por su empleador o por las organizaciones
+  minimizar la cantidad de polvo y humos presentes        sindicales y conformes con las normativas y
+  en el aire y para minimizar la acumulación de           recomendaciones de salud y seguridad en el
+  polvo sobre el equipo, las superficies, la ropa y       trabajo. Consulte con médicos que tengan
+  las partes del cuerpo. Algunos ejemplos de              experiencia en medicina del trabajo.
+  controles son: sistemas de ventilación y captación
+  de polvo, rociadores de agua y perforaciones con      ► Colabore con su empleador y con la organización
+  inyección de agua. Controle el polvo y los humos        sindical para reducir la exposición al polvo y a los
+  en el origen cuando sea posible. Asegúrese de           humos en las obras y para reducir los riesgos. Se
+  que los controles se instalen, conserven y utilicen     deben crear y poner en práctica programas,
+  adecuadamente.                                          políticas y procedimientos eficaces de salud y
+                                                          seguridad, para proteger a los trabajadores y a
+► Lleve, conserve y utilice correctamente la              las demás personas contra la exposición nociva
+  protección respiratoria según indican las               al polvo y a los humos, a partir del asesoramiento
+  instrucciones del empleador y según los requisitos      de expertos de salud y seguridad. Consulte con
+  de las normativas de salud y seguridad en el            los expertos.
+  trabajo. La protección respiratoria debe ser eficaz
+  para el tipo de sustancia concreta (y, si procede,
+  aprobada por la autoridad gubernamental
+  correspondiente).
+► Trabaje en una zona bien ventilada.
+
+
+
+
+72                                                         9800 0608 90d | Instrucciones originales
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+CP 1210, CP 1230, CP 1240                              Instrucciones de seguridad y de funcionamiento
+
+
+
+    ADVERTENCIA           Proyectiles                         ADVERTENCIA          Riesgos relativos al
+Un fallo de la pieza de trabajo, de los accesorios o     movimiento
+incluso de la propia máquina puede generar               Al usar la máquina para realizar actividades
+proyectiles a alta velocidad. Durante el                 relacionadas con el trabajo, puede experimentar
+funcionamiento, las astillas y otras partículas del      malestar en las manos, los brazos, los hombros, el
+material de trabajo pueden actuar como proyectiles       cuello y otras partes del cuerpo.
+y causar daños corporales al golpear al operario o a     ► Adopte una postura cómoda manteniendo el pie
+otras personas. Para reducir estos riesgos:                 firme y evitando extrañas posturas en
+► Utilice un equipo de protección personal                  desequilibrio.
+   aprobado y un casco de seguridad, incluida la
+                                                         ► El cambio de postura durante las tareas
+   protección ocular contra impactos con protección
+                                                           prolongadas puede ayudar a evitar el malestar y
+   lateral.
+                                                           la fatiga.
+► Asegúrese de que las personas no autorizadas no
+                                                         ► En caso de tener síntomas continuos o periódicos,
+  entren en la zona de trabajo.
+                                                           consulte a un profesional de la salud cualificado.
+► Mantenga el lugar de trabajo libre de objetos
+  extraños.
+► Asegúrese de que la pieza de trabajo esté bien
+  sujeta.
+
+    ADVERTENCIA            Riesgos relacionados
+con las astillas
+El uso de la herramienta de inserción como
+herramienta manual de percusión puede hacer que
+salten astillas al operario y le provoquen lesiones
+personales.
+► Nunca utilice una herramienta de inserción como
+   herramienta manual de percusión. Está diseñada
+   y tratada térmicamente para su uso específico en
+   una máquina.
+
+   ADVERTENCIA           Peligros de
+deslizamiento, desconexión y caída
+Hay riesgo de deslizamiento, desconexión o caída,
+por ejemplo desconexión de las mangueras u otros
+objetos. El deslizamiento, la desconexión y la caída
+pueden provocar lesiones. Para reducir este riesgo:
+► Asegúrese siempre de que no haya mangueras ni
+  otros objetos que obstaculicen su paso o el de
+  otras personas.
+► Asegúrese de estar siempre en una posición
+  estable, con los pies separados a la misma
+  distancia que la anchura de los hombros, y con
+  el peso del cuerpo equilibrado.
+
+
+
+
+9800 0608 90d | Instrucciones originales                                                                 73
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+Instrucciones de seguridad y de funcionamiento                             CP 1210, CP 1230, CP 1240
+
+
+
+     ADVERTENCIA          Riesgos relativos a las      ► Asegúrese de que la herramienta insertada se
+vibraciones                                              encuentra en buen estado (incluso el afilado, si
+El uso normal y correcto de la máquina expone al         se trata de una herramienta de corte), no está
+operario a las vibraciones. La exposición regular y      gastada y es del tamaño adecuado. Las
+frecuente a las vibraciones puede ocasionar lesiones     herramientas de inserción que no se encuentran
+o trastornos —o contribuir a provocarlos o               en buen estado, están gastadas o no son del
+agravarlos— en dedos, manos, muñecas, brazos,            tamaño adecuado alargan el tiempo de realización
+hombros y/o nervios y riego sanguíneo u otras partes     de una tarea (y de exposición a las vibraciones) y
+del cuerpo del operario, incluidas lesiones o            pueden contribuir a la exposición a niveles más
+trastornos permanentes y/o debilitantes que pueden       altos de vibración.
+desarrollarse gradualmente durante periodos de         ► Deje de trabajar inmediatamente, si de repente
+semanas, meses o años. Estas lesiones o trastornos       la máquina empieza a vibrar violentamente. Antes
+pueden consistir en el deterioro del sistema             de continuar trabajando, averigüe y elimine la
+circulatorio sanguíneo, del sistema nervioso, de las     causa del incremento de las vibraciones.
+articulaciones y otros daños en distintas zonas
+corporales.                                            ► Nunca agarre, sostenga ni toque la herramienta
+                                                         de trabajo cuando utilice la máquina.
+Si en algún momento siente entumecimiento,
+malestar continuo periódico, ardor, agarrotamiento,    ► Participe en las inspecciones o los controles de
+dolor punzante, hormigueo, dolor, torpeza, débil         salud, en los exámenes médicos y en los
+agarre en las manos, piel pálida u otros síntomas,       programas de formación ofrecidos por su
+tanto si está usando la máquina como si no, deje de      empleador y cuando la ley así lo exija.
+usarla, avise a su empleador y acuda al médico. El     ► Cuando trabaje en climas fríos lleve ropa de
+uso continuado de la máquina tras la aparición de        abrigo y mantenga las manos calientes y secas.
+alguno de estos síntomas puede hacer que aumente
+el riesgo de que los síntomas se agraven o se hagan    Consulte la “Declaración de ruido y vibraciones” de
+permanentes.                                           la máquina, incluidos los valores de vibración
+Maneje y conserve la máquina según lo                  declarados. Puede encontrar esta información al final
+recomendado en estas instrucciones, con el fin de      de las instrucciones de seguridad y de
+evitar un aumento innecesario de las vibraciones.      funcionamiento
+Las siguientes indicaciones pueden ayudar a reducir    ♦ Asegúrese de satisfacer la presión atmosférica
+la exposición a las vibraciones para el operario:         recomendada al utilizar la máquina. Una presión
+► Deje que sea la máquina la que haga el trabajo.         atmosférica más alta o más baja puede producir
+   Agárrela lo mínimo, para controlarla                   niveles más altos de vibración.
+   correctamente y que su uso sea seguro.
+                                                           PELIGRO         Riesgos relacionados con la
+► Si la máquina tiene empuñaduras de absorción         electricidad
+  de vibraciones, manténgalas en posición central,     La máquina no está aislada eléctricamente. Si la
+  evitando presionarlas en los topes finales.          máquina entra en contacto con la electricidad,
+► Cuando se active el mecanismo de percusión, el       podría provocar lesiones graves o la muerte.
+  único contacto corporal con la máquina que se        ► No utilice nunca la máquina cerca de un cable
+  debe tener es el de las manos en la empuñadura          eléctrico ni otra fuente de electricidad.
+  o las empuñaduras. Evite cualquier otro contacto,
+  como por ejemplo descansar una parte del cuerpo      ► Compruebe que no haya cables u otras fuentes
+  en la máquina o apoyarse en ella para aumentar         de electricidad ocultos en el área de trabajo.
+  la fuerza de avance. También es importante no
+  mantener el dispositivo de puesta en marcha y
+  parada encendido al mismo tiempo que se extrae
+  la herramienta de la superficie de trabajo rota.
+
+
+
+
+74                                                        9800 0608 90d | Instrucciones originales
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+CP 1210, CP 1230, CP 1240                               Instrucciones de seguridad y de funcionamiento
+
+
+
+   ADVERTENCIA          Peligros relacionados             ► Si la máquina tiene silenciador, compruebe que
+con objetos ocultos                                         esté en su sitio y en buen estado de
+Durante el funcionamiento, los cables y tubos               funcionamiento.
+ocultos constituyen un peligro, ya que pueden             ► Utilice siempre protección para los oídos.
+ocasionar lesiones graves o la muerte.
+                                                          ► Utilice material de amortiguación para evitar que
+► Compruebe la composición del material antes del
+                                                            las piezas de trabajo “vibren”.
+  funcionamiento.
+► Fíjese bien que no haya cables ni tubos ocultos,
+  como líneas de electricidad, teléfono, agua, gas        Mantenimiento,
+  y aguas residuales.
+                                                          precauciones
+► Si la herramienta insertada parece haber topado
+  con un objeto oculto, apague la máquina de
+                                                             ADVERTENCIA          Modificación de la
+  inmediato.
+                                                          máquina
+► Compruebe que no haya ningún peligro antes              Cualquier modificación de la máquina puede
+  de continuar.                                           provocar daños corporales a usted y a otras
+                                                          personas.
+    ADVERTENCIA        Encendido involuntario
+                                                          ► Nunca modifique la máquina. Una máquina
+El encendido involuntario de la máquina puede               modificada no estará cubierta por la garantía ni
+producir lesiones.                                          por la responsabilidad del producto.
+► Mantenga las manos alejadas del dispositivo de
+                                                          ► Utilice siempre piezas, herramientas de inserción
+   puesta en marcha y parada hasta que esté listo
+                                                            y accesorios originales.
+   para arrancar la máquina.
+                                                          ► Cambie las piezas dañadas inmediatamente.
+► Sepa cómo apagar la máquina en caso de
+  producirse una emergencia.                              ► Sustituya los componentes gastados con la debida
+                                                            antelación.
+► Libere el dispositivo de puesta en marcha y parada
+  inmediatamente siempre que se interrumpa el
+                                                              ATENCIÓN           Herramienta de inserción
+  suministro eléctrico.
+                                                          caliente
+► Cuando inserte o extraiga la herramienta de             La punta de la herramienta de inserción puede
+  inserción, interrumpa el suministro de aire,            calentarse con el uso. Si se toca, puede provocar
+  purgue la máquina presionando el dispositivo de         quemaduras y cortes.
+  puesta en marcha y parada y desconecte la
+                                                          ► Nunca toque una herramienta de inserción
+  máquina de la unidad de potencia.
+                                                             caliente o afilada.
+     ADVERTENCIA          Riesgos relacionados            ► Espere a que la herramienta de inserción se haya
+con el ruido                                                enfriado antes de realizar los trabajos de
+Los altos niveles de ruido pueden producir pérdida          mantenimiento.
+de audición permanente e incapacitante y otros
+problemas tales como acúfenos (vibración, zumbido,            ADVERTENCIA          Peligros de la
+silbido o ronroneo en los oídos). Para reducir el         herramienta de inserción
+riesgo y evitar un aumento innecesario de los niveles     La conexión accidental del dispositivo de puesta en
+de ruido:                                                 marcha y parada durante el mantenimiento o la
+► Es esencial hacer la evaluación del riesgo de estos     instalación puede causar lesiones graves cuando la
+   peligros y la puesta en práctica de los controles      unidad de potencia está conectada.
+   adecuados.                                             ► Nunca revise, limpie, instale ni retire la
+                                                             herramienta de inserción mientras la unidad de
+► Maneje y conserve la máquina según lo
+                                                             potencia esté conectada.
+  recomendado en estas instrucciones.
+► Seleccione, conserve y sustituya la herramienta
+  de inserción según lo recomendado en estas
+  instrucciones.
+
+
+
+
+9800 0608 90d | Instrucciones originales                                                                  75
+

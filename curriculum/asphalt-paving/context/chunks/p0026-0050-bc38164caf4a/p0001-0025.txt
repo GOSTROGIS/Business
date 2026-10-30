@@ -1,0 +1,814 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0026-0050.pdf
+SOURCE SHA-256: bc38164caf4a5329a77862f36f1a4bbc822ebd084671a113825f1d5fd5b31c8f
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 26 ===
+Figure 4. Backscatter Surface Density Effects
+               (Top Layer Effect Curves)
+
+
+
+2–4
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 27 ===
+Moisture
+The Model 3430 gauge uses a 40 mCi (1.48 GBq)
+Americium-241:Beryllium neutron source to measure the
+hydrogen content (consequently the water content) of the
+material.
+Neutrons emitted by the Am-241:Be source penetrate the
+material and are thermalized (or slowed). Thermalization is the
+process where neutrons are slowed to the point where further
+collisions with hydrogen or other materials will not continue to
+slow the neutron.
+The Model 3430 gauge contains a helium-3 neutron detector
+that is sensitive to thermalized neutrons. This detector is
+insensitive to non-thermalized or “fast” neutrons and, as a
+result, the counts obtained are directly proportional to the
+amount of hydrogen/moisture present in the material.
+The depth of measurement, or depth at which 98% of the
+counted neutrons pass before reaching the detector, is a
+function of moisture content:
+     Depth (in.) = 11 – (0.17 × M), where: M = moisture in pcf
+or
+ Depth (mm) = 280 - (0.27 × M), where: M = moisture in kg/m3
+
+
+Therefore, the higher the moisture content in the material being
+measured, the smaller the depth of measurement. The
+normalized curve set shown in Figure 5 on the next page
+illustrates the effect of moisture content on the depth of
+measurement.
+
+
+
+
+Model 3430                                                       2–5
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 28 ===
+Figure 5. Effect of Moisture on Depth of Measurement
+
+
+2–6
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 29 ===
+Chapter 3:
+Using the Gauge
+
+
+
+       This chapter covers the following topics and tasks:
+
+            Basic operation of the Model 3430
+            Initial setup
+            Preparing the test site
+            Taking measurements
+
+
+
+
+Model 3430                                                   3–1
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 30 ===
+The Keypad
+The keypad of the Model 3430 Surface Moisture-Density Gauge
+consists of eleven keys—an eight-function keypad plus the
+〈YES〉, 〈NO/ESC〉, and 〈LIGHT〉 keys.
+The gauge is equipped with an internal beeper to verify
+keystrokes. If a beep is not heard when a key is pressed, the
+keystroke was not recognized and should be repeated.
+The 〈YES〉 and 〈NO/ESC〉 keys are used for responses to specific
+questions displayed on the screen. The 〈LIGHT〉 key is used to
+turn the LCD backlight on and off.
+The up and down arrows allow the operator to scroll through
+various function lists displayed by the gauge.
+
+
+
+
+                  Figure 6. Model 3430 Keypad
+3–2
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 31 ===
+Table 1 provides a detailed description of the individual keys.
+             Table 1. Model 3430 Keypad Functions
+
+     KEYS                          DESCRIPTION
+      YES        Answers Yes to prompts.
+      NO         Answers No to prompts and exits menus without
+      ESC        saving changes.
+       ↑         Scrolls the display up.
+       ↓         Scrolls the display down.
+                 Allows entering or enabling of a Proctor or Gmb
+   TARGET
+                 value.
+     TIME        Allows the operator to change the count time.
+  STANDARD       Use to access the Standard Count mode.
+    DEPTH        Allows entry of the source rod depth.
+   SPECIAL       Provides access to the Special functions.
+    START        Starts a measurement or completes answer
+    ENTER        entry.
+    LIGHT        Turns on and off the LCD display backlight.
+
+
+
+                             NOTE
+   The gauge will automatically turn off after five hours
+   if no keys are pressed.
+
+
+
+
+Model 3430                                                     3–3
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 32 ===
+Source Rod Positions
+As shown in Figure 7, the source rod can be placed in the SAFE,
+backscatter, or direct transmission positions. When not taking
+measurements, keep the source rod in the SAFE position. When
+measuring thin layer or other materials through which you
+cannot drill a hole, use the backscatter position. In the direct
+transmission positions, the source rod extends into a pre-drilled
+hole.
+Figure 7 shows the available positions of the source rod.
+
+
+
+
+          BS
+
+
+
+
+          2"
+         50mm
+
+
+
+
+           3"
+         75mm
+
+
+
+
+          4"
+         100mm
+
+
+
+
+          5"
+         125mm
+
+
+
+
+          6"
+         150mm
+
+
+
+
+          7"
+         175mm
+
+
+
+
+          8"
+         200mm
+
+
+
+
+          9"
+         225mm
+
+
+
+
+          10"
+         250mm
+
+
+
+
+          11"
+         275mm
+
+
+
+
+          12"
+         300mm
+
+
+
+
+                 Figure 7. Source Rod Positions
+
+
+
+3–4
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 33 ===
+Daily Inspection
+    The gauge should be inspected daily before use to ensure
+    proper operation of all safety features. Refer to Appendix D for
+    the inspection procedure.
+
+
+    Turning the Gauge On
+    The gauge uses rechargeable NiMH batteries (included) as a
+    power source. When first turned on, the control panel displays
+    test characters before proceeding to the self-test.
+    To turn the gauge on, toggle the on/off switch located to the left
+    of the gauge’s display. Upon turning the gauge on, the gauge
+    displays:
+
+                              -Model 3430 -
+
+                             Vx.xx SN: xxx
+
+
+                                NOTE
+          When turning on the Gauge a prompt will appear to
+         choose a set language. Select desired language using
+        the up and down arrows and press ENTER/START. If the
+              incorrect language is set refer to chapter 5.
+
+    The gauge then performs a test of its LCD (liquid crystal
+    display):
+
+                              Testing LCD
+                       123456789ABCDEF
+
+
+    After the gauge performs a 300-second self-test, the gauge
+    enters the Ready mode. In this state any of the gauge functions
+    may be accessed. The Ready mode display is:
+
+
+
+3–6
+Model 3430                                                             3–5
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 34 ===
+-READY-
+                           03-08-2014 12:21 PM
+                           Prj: TROXLER
+                                Press <START>
+
+      The first line of the display indicates the current count time. The
+      second line of the display indicates the selected source rod
+      depth.
+
+
+
+
+3–6
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 35 ===
+Gauge Setup
+After unpacking the gauge and turning it on, several parameters
+can be initialized, such as measurement units and count time.
+These parameters do not usually change once they are set.
+
+Setting Measurement Units
+The Model 3430 gauge allows measurement results to be
+displayed in either metric or US units. To set the measurement
+units, first access the Special function menu by pressing
+〈SPECIAL〉. The gauge displays:
+
+                          - RECALL -
+
+
+                       ↑↓ or <ENTER>
+
+Press the down arrow seven times to display:
+
+                        - SET UNITS -
+
+
+                       ↑↓ or <ENTER>
+
+To select Set Units press 〈START/ENTER〉.
+
+                        - SET UNITS –
+                          Units: PCF
+
+                       ↑↓ or <ENTER>
+
+Use the up and down arrows to scroll through the available
+units. When the desired units are displayed press
+〈START/ENTER〉.
+
+Setting the Count Time
+The count time defines how long the gauge measures. Longer
+count times produce better measurement precision. Troxler
+
+Model 3430                                                   3–7
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 36 ===
+recommends a count time of one minute for most sample
+measurements.
+To change the count time, press 〈TIME〉 to display:
+
+                             - TIME -
+
+                         Time: 1 min
+                        ↑↓ or <ENTER>
+
+Use the up and down arrows to scroll through the available
+count times. When the desired count time is displayed press
+〈START/ENTER〉.
+Setting the Depth
+To change the depth of measurement, press 〈DEPTH〉.
+
+                           - DEPTH -
+
+                         Depth: 1 inch
+                        ↑↓ or <ENTER>
+
+Use the up and down arrows to scroll through the available
+measurement depths. When the desired depth is displayed
+press 〈START/ENTER〉 to select the displayed depth and return
+to the Ready mode.
+
+Selecting the Mode (Gmb/Proctor)
+The gauge may be used on construction materials (soils, asphalt,
+concrete, and so on). To select the Soil mode, enter or activate a
+Proctor value. To select the Asphalt mode, enter or activate a
+Gmb value. Only one Gmb and one Proctor can be stored in the
+gauge at one time.
+
+                             NOTE
+      To measure concrete, use either the Asphalt or
+      Soil mode. For moisture results select the Soil
+      mode. For density measurement only, use the
+                      Asphalt mode.
+3–8
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 37 ===
+To enter or activate a Gmb or Proctor value, press 〈TARGET〉.
+The display will be one of the following:
+
+                          - TARGET -
+
+                   Gmb: 0.0 PCF
+                   Change Gmb Value?
+
+
+                          - TARGET -
+
+                   Gmb: 0.0 PCF
+                   Change PR Value?
+
+To switch from a Gmb value to a Proctor value, or vice versa, use
+the arrow keys.
+ To activate the displayed value, press 〈NO/ESC〉.
+
+ To change the displayed value, press 〈YES〉. The first digit of
+   the value will flash. Use the arrow keys to scroll through the
+   possible entries (0 – 9) and when the correct value for the
+   current digit is displayed, press 〈START/ENTER〉. The gauge
+   will proceed to the next digit to the right.
+When the value entry is complete, the gauge activates the value
+and returns to the Ready mode.
+
+
+
+
+Model 3430                                                  3–9
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 38 ===
+Taking the Standard Count
+The Model 3430 gauge uses a Cesium-137 and an
+Americium-241:Beryllium source for taking measurements.
+These radioactive sources undergo a natural decay process,
+resulting in a gradual loss in the intensity of their radiation. The
+time required for the source strength to diminish by 50% is
+referred to as the half-life.
+To compensate for the source decay and to check proper
+operation of the gauge, a daily reference standard count should
+be performed. To ensure the highest accuracy possible with the
+gauge, it is important to take a daily standard count.
+The gauge is equipped with a reference standard block for
+taking the standard count. Place the reference standard block on
+a dry, flat surface at least 3 m (10 ft.) from any large vertical
+surface and at least 10 m (33 ft.) from any other radioactive
+source. The surface should be asphalt, concrete or soil at least
+10 cm (4 in.) thick and with a density of at least 1600 kg/m3
+(100 pcf). The right side of the gauge, farthest from the handle,
+should be against the metal butt plate (see Figure 8).
+To begin the standard count procedure, press 〈STANDARD〉.
+
+                         - STANDARD –
+
+                       DS= 1870 MS= 468
+                         New Std Cnt?
+
+To take a new standard count, press 〈YES〉.
+
+                          - STANDARD –
+
+                        Press START for
+                        Standard Count
+
+
+
+
+3–10
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 39 ===
+Ensure that the gauge is positioned as shown in Figure 8. To
+initiate the standard count press 〈START/ENTER〉. After the
+count is complete, the display is:
+
+                        - STANDARD –
+
+                       Standard Count:
+                        DS= X MS= X
+
+Troxler recommends that the operator keep a daily log of the
+moisture and density standard counts (see Appendix E for a
+sample log you can use). To verify gauge stability, compare the
+daily standard count to a reliable reference as follows:
+♦ During the first four days of operation of a new or
+  recalibrated gauge, compare the daily standard count to the
+  factory calibrated values.
+♦ After the first four days of operation (or after taking four
+  standard counts), compare the daily standard count to the
+  average of the last four counts. Acceptable standard count
+  limits are:
+±1% each day for DS (density standard) and
+±2% each day for MS (moisture standard).
+
+After recording the standard counts, press 〈YES〉 to return to the
+Ready mode.
+
+
+
+
+Model 3430                                                  3–11
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 40 ===
+Figure 8. Standard Count Position
+
+
+
+
+3–12
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 41 ===
+Site Preparation
+Preparation of the test site surface is critical to gauge
+performance. This section provides site preparation procedures
+for both soils and base courses and asphalt surfaces. To ensure
+the most accurate gauge readings, the appropriate preparation
+procedure should be followed.
+
+Soil and Base Course Preparation
+1. Locate a level site free from any large holes, cracks, or debris
+   (soil surface conditions are critical to accurate
+   measurements).
+2. Smooth the surface by moving the scraper plate in a back
+   and forth motion. Filler such as fine sand may be used to fill
+   in the surface voids.
+
+                             NOTE
+   Use only enough filler to fill the voids. Too much
+   filler will cause an error in the measurement.
+3. For direct transmission measurements, put the drill rod
+   through the extraction tool and then through one of the
+   guides on the plate (see Figure 9).
+4. Wearing a radiation badge and safety glasses (or other
+   locally approved safety devices), step on the plate and
+   hammer the drill rod at least 50 mm (2 in.) deeper than the
+   desired test depth. The drill rod increments include the
+   additional depth.
+5. Remove the drill rod by pulling straight up and twisting the
+   extraction tool. Do not loosen the drill rod by tapping
+   from side to side with a hammer. This will distort the hole
+   or cause loose material to fall into the hole.
+6. To ensure accurate placement of the gauge, before removing
+   the scraper plate mark the test area using the drill rod as
+   shown in Figure 10.
+
+
+Model 3430                                                    3–13
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 42 ===
+7. Carefully pick up the scraper plate and place the gauge on
+   the surface prepared by the plate. Insert the source rod into
+   the hole made by the drill rod. Use care when inserting the
+   source rod; do not to disturb the soil around the hole.
+8. Lower the source rod into the hole. Release the trigger and
+   lock the source rod into the correct position. A click should
+   be heard when the source rod is locked into position.
+9. Gently slide the gauge toward the keypad so the source rod
+   makes contact with the wall of the hole.
+
+
+
+
+                  Figure 9. Drill Rod Positioning
+
+
+
+
+3–14
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 43 ===
+EDGE
+                   MARK FOR SCRAPER
+
+
+
+
+      SCRAPER                              SCRAPER
+                   MARK FOR DRILL
+
+
+
+
+     METHOD 1                             METHOD 2
+
+                  Figure 10. Marking the Test Area
+
+
+
+Asphalt Surface Preparation
+It is possible, but usually not necessary, to take direct
+transmission readings on asphalt. Drilling a hole in asphalt can
+be difficult and may require the use of a drill (rather than the
+drill rod) if the asphalt has cooled and hardened.
+Under normal conditions, a backscatter reading provides an
+accurate measurement of asphalt density.
+1. Find a smooth location on the asphalt. The operator may
+   want to fill the voids on open mixes with sand or cement.
+   Take care to leave the asphalt exposed. The gauge base
+   must rest on the asphalt, not the fill material!
+2. Ensure that the gauge does not “rock.” It must remain
+   steady. If rocking occurs, find a more suitable test site. If
+   taking a measurement around a core, the gauge may be
+   moved up to a few inches to any side of the hole.
+
+
+
+
+Model 3430                                                         3–15
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 44 ===
+Taking a Measurement – Soil Mode
+The Soil mode is automatically selected when a Proctor value is
+enabled (see page 3–8).
+
+                                 CAUTION
+    When not taking measurements, always keep the
+    source rod in the SAFE position. For added operator
+    safety, the source rod on the gauge automatically
+    retracts to the SAFE position when the gauge is lifted
+    by the handle.
+
+
+                              Warning
+        Do not store or transport the gauge unless the
+        sliding block is completely closed. Increased
+        radiation levels may violate transportation
+        regulations and cause excessive personnel
+        exposure.
+
+Place the gauge on the test site. Release the gauge handle and
+push it down until it is in the correct position. Ensure that the
+handle stops in the notch designated for the proper
+measurement depth.
+Press 〈START/ENTER〉.
+
+
+                     Depth: 1 inch
+                     Time: 60 sec.
+
+
+
+
+3–16
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 45 ===
+After the count time has elapsed, the gauge displays the
+measurement results in a series of three screens, as follows. Use
+the up and down arrows to scroll through the various screens.
+
+
+
+                   WD= XXX PCF
+                   DD= XXX PCF
+                   %PR= XX
+
+
+                   M= XX PCF
+                   %M= XX
+                   %Voids (soil) XXX
+                   Void Ratio: XX
+
+
+                   Moist. CR: X.X
+                   Dens. CR: X.X
+                   M Count: XX
+                   D Count: XX
+where:
+     WD = Wet density in kg/m3 or pcf
+     DD = Dry density in kg/m3 or pcf
+     %PR = Percent Proctor (This value is valid only if an
+     appropriate target has been entered for the material being
+     tested.)
+     MOIST = Moisture value in kg/m3 or pcf
+     % MOIST = Percent moisture
+     Void Ratio = See description below
+     Moist. CR = Moisture count ratio
+     Dens. CR = Density count ratio
+     M Count = Moisture counts as read by the gauge
+     D Count = Density counts as read by the gauge
+
+Press 〈START/ENTER〉 to return to the Ready mode.
+
+Model 3430                                                  3–17
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 46 ===
+Figure 11 illustrates the terms void ratio and % air voids. The
+void ratio is the ratio of the volume occupied by air and water in
+the soil to the volume occupied by solid particles. The term %
+air voids refers to the volume of air voids only as a percentage of
+the total volume.
+The following formulas are used to calculate the % air voids and
+void ratio values.
+        % AIR VOIDS = 100 (1 – (Vs/Vt) – (Vw/Vt))
+              where:
+
+                 Vs = Volume of Soil
+
+                 Vt = Total Volume
+
+                 Vw = Volume of Water
+        or,
+        % AIR VOIDS = 100 (1 – (DD / SG(Dw)) – (M /
+        (Dw)))
+              where:
+
+                 Dw = Density of Water
+
+                 SG = Specific Gravity of Soil Particles
+
+                 DD = Dry Density
+
+                 M = Moisture
+
+
+
+
+3–18
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 47 ===
+VOID RATIO = Volume of Voids / Volume of Soil
+
+                  = ( SG(Dw) – DD ) / DD
+
+
+
+
+                Figure 11. Voids Illustration
+
+
+
+
+Model 3430                                         3–19
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 48 ===
+Taking a Measurement – Asphalt
+Mode
+The Asphalt mode is automatically selected when a Gmb value is
+enabled (see page 3–8).
+
+
+                            Warning
+       Do not store or transport the gauge unless the
+       sliding block is completely closed. Increased
+       radiation levels may violate transportation
+       regulations and cause excessive personnel
+       exposure.
+
+
+                          CAUTION
+   When not taking measurements, always keep the
+   source rod in the SAFE position. For added operator
+   safety, the source rod on the gauge automatically
+   retracts to the SAFE position when the gauge is picked
+   up by the handle.
+
+
+                          CAUTION
+   The Model 3430 gauge is not waterproof. Please do
+   not use it in the rain. If the gauge gets wet, make sure
+   it is completely dry before sealing it in the case for
+   storage. See page A-2 for an explanation.
+
+
+
+
+3–20
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 49 ===
+1. Place the gauge on the test site.
+2. Release the gauge handle and push it into the backscatter
+   position. Ensure that the handle is securely seated by gently
+   tapping the handle down. Do not pass the notch.
+3. Set the depth to Backscatter (1 inch) using the arrows on the
+   keypad.
+4. Press 〈START/ENTER〉.
+
+
+                   Depth: 1 inch
+                   Time: 60 sec
+
+
+After the count time has elapsed, the gauge displays the
+measurement results in a series of three screens, as follows.
+5. Use the up and down arrows to scroll through thevarious
+   screens.
+
+
+
+
+                   WD= XXX PCF
+                   DD= XXX PCF
+                   %PR= XX
+
+
+                   M= XX PCF
+                   %M= XX
+                   %Voids (soil) XXX
+                   Void Ratio: XX
+
+
+                   Moist. CR: X.X
+                   Dens. CR: X.X
+                   M Count: XX
+                   D Count: XX
+
+
+
+
+Model 3430                                                      3–21
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 50 ===
+where:
+   WD = Wet density in kg/m3 or pcf
+   DD = Dry density in kg/m3 or pcf
+   %Gmb = Bulk specific gravity
+   MOIST = Moisture value in kg/m3 or pcf
+   % MOIST = Percent moisture
+   % VOIDS = 100 (1 – WD/VOIDLESS (Gmm))
+   VOIDS RATIO = Value given by subtracting the percent Gmb
+   value from 100. Applies to soil mode only.
+   Moist. CR = Moisture count ratio
+   Dens. CR = Density count ratio
+   M Count = Moisture counts as read by the gauge
+   D Count = Density counts as read by the gauge
+
+
+6. Press 〈YES〉 to return to the Ready mode.
+
+
+
+
+3–22
+

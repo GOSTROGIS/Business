@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "pdf_publications": 41,
+  "all_source_pages_compared": 3240,
+  "pdf_parts": 161,
+  "render_dpi": 36,
+  "render_rechecks_at_100dpi": 2,
+  "text_layer_variations": [
+    {
+      "source_id": "niosh-milling",
+      "source_pdf_page": 74,
+      "render_identical_at_100dpi": true,
+      "original_source_text_retained": "text/niosh-milling/p0051-0075.txt"
+    }
+  ],
+  "web_articles": 30,
+  "html_whitespace_variations": [
+    "ohs-03"
+  ],
+  "web_figures": 33,
+  "local_links": 1218,
+  "checks": "Pinned original/part/text hashes; complete contiguous page ranges; native page geometry and every-page rendering; normalized text with explicitly recorded alternate-text variations checked visually at 100 dpi; original source extracts retained; valid internal PDF destinations; full selected web article text and all archived images; HTML local targets; competency/tool row counts."
+}

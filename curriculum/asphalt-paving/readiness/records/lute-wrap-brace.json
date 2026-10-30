@@ -1,0 +1,32 @@
+{
+  "id": "lute-wrap-brace",
+  "slug": "lute-wrap-brace",
+  "title": "Wrap Around Brace Assembly Instructions",
+  "author": "Seymour Midwest",
+  "edition": "n.d.; PK90048",
+  "category": "tools",
+  "scope": "Assembly and parts identification for the listed wrap-around brace design.",
+  "kind": "pdf",
+  "download_filename": "lute-wrap-brace.raw",
+  "original_pages": 2,
+  "original_sha256": "9a1eafe7a3777acff888025dbebb49ca95e84ea56fd535deacd05420ef648a15",
+  "original_bytes": 474476,
+  "source_url": "https://seymourmidwest.com/uploads/instructions/pk90109-wrap-around-bracing.pdf",
+  "final_url": "https://seymourmidwest.com/uploads/instructions/pk90109-wrap-around-bracing.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/lute-wrap-brace/p0001-0002.pdf",
+      "text": "text/lute-wrap-brace/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 474476,
+      "sha256": "9a1eafe7a3777acff888025dbebb49ca95e84ea56fd535deacd05420ef648a15",
+      "text_sha256": "1e2ec70ebe7ea63b36934bc18177c28a7ebfee82860e69a11b2d7a82615c1a15",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

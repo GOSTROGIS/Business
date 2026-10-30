@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-ladders",
+  "slug": "ccohs-ladders",
+  "title": "Ladders: Inspection",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "tools",
+  "scope": "Conditional access equipment guidance; the actual ladder and site assessment determine suitability.",
+  "kind": "pdf",
+  "download_filename": "ccohs-ladders.raw",
+  "original_pages": 3,
+  "original_sha256": "9e71b787ac2dc9bdcf91e28bb263da727e89636025b146b67a5d2e265e0ef0d2",
+  "original_bytes": 98152,
+  "source_url": "https://www.ccohs.ca/oshanswers/safety_haz/ladders/CCOHS_inspection.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/safety_haz/ladders/CCOHS_inspection.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-ladders/p0001-0003.pdf",
+      "text": "text/ccohs-ladders/p0001-0003.txt",
+      "start": 1,
+      "end": 3,
+      "pages": 3,
+      "bytes": 98152,
+      "sha256": "9e71b787ac2dc9bdcf91e28bb263da727e89636025b146b67a5d2e265e0ef0d2",
+      "text_sha256": "f941912a9a5f0e210e125c9054548c7093134dd384d713daf032bd6463cc5631",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

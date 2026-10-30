@@ -1,0 +1,32 @@
+{
+  "id": "ccohs-propane",
+  "slug": "ccohs-propane",
+  "title": "Chemical Profiles: Propane",
+  "author": "Canadian Centre for Occupational Health and Safety",
+  "edition": "retrieved October 30, 2026",
+  "category": "fuel",
+  "scope": "Chemical hazard information; obtain the actual supplier SDS for the propane used on site.",
+  "kind": "pdf",
+  "download_filename": "ccohs-propane.raw",
+  "original_pages": 7,
+  "original_sha256": "ea22c907cba834cf20349a252c6585a7b245848ff27ebba19d6195a2e4575cb2",
+  "original_bytes": 173659,
+  "source_url": "https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/CCOHS_propane.pdf",
+  "final_url": "https://www.ccohs.ca/oshanswers/chemicals/chem_profiles/CCOHS_propane.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/ccohs-propane/p0001-0007.pdf",
+      "text": "text/ccohs-propane/p0001-0007.txt",
+      "start": 1,
+      "end": 7,
+      "pages": 7,
+      "bytes": 173659,
+      "sha256": "ea22c907cba834cf20349a252c6585a7b245848ff27ebba19d6195a2e4575cb2",
+      "text_sha256": "c415f01826b1355f027883590986db60d3778c04c7b96947e488186c1910e3ab",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

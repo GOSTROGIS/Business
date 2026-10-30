@@ -1,6 +1,6 @@
 # Asphalt PDF context library
 
-**159 PDF paths · 158 unique PDFs · 4,508 original pages · 215 PDF chunks and 215 text extracts.**
+**321 PDF paths · 320 unique PDFs · 7,759 original pages · 377 PDF chunks and 377 text extracts.**
 
 Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **11,682,239 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
@@ -14,9 +14,9 @@ The complete **834-page MS-4 seventh-edition scan** is available as [searchable 
 
 Start with the source title and original PDF page range. Open the chunk PDF to inspect the actual page, then use its text file to search or provide smaller context. Text headings preserve the original one-based viewer page number. Printed page labels inside the document can differ. Tables, columns, symbols and diagrams may not extract faithfully; the PDF remains the visual reference.
 
-MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **69**; sparse-text page count: **72**.
+MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **104**; sparse-text page count: **93**.
 
-New context splits omit internal page links and original outlines; external URI links remain. MS-4 and CAT source parts are reused directly. CAT parts retain valid in-part destinations; destinations outside a source part may be omitted. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
+New context splits omit internal page links and original outlines; external URI links remain. MS-4, CAT and readiness source parts are reused directly. Native source parts retain valid in-part destinations; destinations outside a source part may be omitted. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
 
 ## Original documents and chunks
 
@@ -359,6 +359,1616 @@ Original: [curriculum/asphalt-paving/ms-4/pdf/p0826-0834.pdf](../ms-4/pdf/p0826-
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
 | 1–9 | [PDF](../ms-4/pdf/p0826-0834.pdf) | [Text](chunks/p0826-0834-9707a98e5f48/p0001-0009.txt) | 494,602 | ocr-unproofread |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 1–25
+
+**PDF-216a90b78f90** · original-source · 25 pages · original SHA-256 `216a90b78f90d97400470a5c34def4be18b3fa2c4147d4cb8403ed0cc0c0daf2`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0001-0025.pdf](../readiness/sources/bc-mines-code-2026/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0001-0025.pdf) | [Text](chunks/p0001-0025-216a90b78f90/p0001-0025.txt) | 966,430 | No OCR; empty: 2,6 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 26–50
+
+**PDF-4ff09e17170f** · original-source · 25 pages · original SHA-256 `4ff09e17170fd3f5800884673e411ab0f758d8498d5157a3611172b281e36851`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0026-0050.pdf](../readiness/sources/bc-mines-code-2026/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0026-0050.pdf) | [Text](chunks/p0026-0050-4ff09e17170f/p0001-0025.txt) | 392,862 | No OCR; empty: 13,21,23,25 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 51–75
+
+**PDF-378ac1445210** · original-source · 25 pages · original SHA-256 `378ac14452102d622982d0d5733144b44077e4f81175e03f5bf3dcd9efa9ccd9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0051-0075.pdf](../readiness/sources/bc-mines-code-2026/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0051-0075.pdf) | [Text](chunks/p0051-0075-378ac1445210/p0001-0025.txt) | 395,046 | No OCR; empty: 4,6,22,24 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 76–100
+
+**PDF-36b21e05ef98** · original-source · 25 pages · original SHA-256 `36b21e05ef980f502232e3492399c067b98b01259f937051c4e0b1421bef4169`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0076-0100.pdf](../readiness/sources/bc-mines-code-2026/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0076-0100.pdf) | [Text](chunks/p0076-0100-36b21e05ef98/p0001-0025.txt) | 292,101 | No OCR; empty: 15 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 101–125
+
+**PDF-792b51cb1700** · original-source · 25 pages · original SHA-256 `792b51cb17007f19f5f1c97aa202fe5f502d5e9b019bc0fe4de25045dca0d2fd`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0101-0125.pdf](../readiness/sources/bc-mines-code-2026/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0101-0125.pdf) | [Text](chunks/p0101-0125-792b51cb1700/p0001-0025.txt) | 382,134 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 126–150
+
+**PDF-c24994a3bd9a** · original-source · 25 pages · original SHA-256 `c24994a3bd9a80193b3242e5e2e1710904054708149db93a4aada01c7c0ac1a9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0126-0150.pdf](../readiness/sources/bc-mines-code-2026/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0126-0150.pdf) | [Text](chunks/p0126-0150-c24994a3bd9a/p0001-0025.txt) | 322,169 | No OCR; empty: 11,13 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 151–175
+
+**PDF-7419f4cffd5c** · original-source · 25 pages · original SHA-256 `7419f4cffd5cf1328f83b78ecc3c657d18b909c0435c1b4728cd3620f19b1023`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0151-0175.pdf](../readiness/sources/bc-mines-code-2026/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0151-0175.pdf) | [Text](chunks/p0151-0175-7419f4cffd5c/p0001-0025.txt) | 552,560 | No OCR; empty: 6 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 176–200
+
+**PDF-8c36834da1d4** · original-source · 25 pages · original SHA-256 `8c36834da1d4b427839524e7dbe614cb914e6df5868b7ca9077e9283f609adde`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0176-0200.pdf](../readiness/sources/bc-mines-code-2026/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0176-0200.pdf) | [Text](chunks/p0176-0200-8c36834da1d4/p0001-0025.txt) | 313,717 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 201–225
+
+**PDF-7f8678ccf584** · original-source · 25 pages · original SHA-256 `7f8678ccf584226e18225bd85d5a6d9bec44990cb51da644abdac23ecb585ca2`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0201-0225.pdf](../readiness/sources/bc-mines-code-2026/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0201-0225.pdf) | [Text](chunks/p0201-0225-7f8678ccf584/p0001-0025.txt) | 278,556 | No OCR; empty: 10,12 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 226–250
+
+**PDF-c7dbb1170f8a** · original-source · 25 pages · original SHA-256 `c7dbb1170f8ad63cb76927884540e8810bf2ff61a9726942396862e5ab93eabd`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0226-0250.pdf](../readiness/sources/bc-mines-code-2026/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0226-0250.pdf) | [Text](chunks/p0226-0250-c7dbb1170f8a/p0001-0025.txt) | 260,203 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 251–275
+
+**PDF-30e12aa08102** · original-source · 25 pages · original SHA-256 `30e12aa081020b70436cfc6f9be44c22fab4bcbbf4a682020225ff1bb455a202`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0251-0275.pdf](../readiness/sources/bc-mines-code-2026/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0251-0275.pdf) | [Text](chunks/p0251-0275-30e12aa08102/p0001-0025.txt) | 221,454 | No OCR; empty: 2,4 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 276–300
+
+**PDF-afed2084ecf6** · original-source · 25 pages · original SHA-256 `afed2084ecf6a252076942009f7f8f0426fa3fc4abf2df1dae935ca70d33fff7`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0276-0300.pdf](../readiness/sources/bc-mines-code-2026/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0276-0300.pdf) | [Text](chunks/p0276-0300-afed2084ecf6/p0001-0025.txt) | 263,434 | No OCR; empty: 13 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 301–325
+
+**PDF-8824a7091d26** · original-source · 25 pages · original SHA-256 `8824a7091d26538bd8d3c002a948d6f90822fa93ec9fba1fa1fcfabf51cf67d8`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0301-0325.pdf](../readiness/sources/bc-mines-code-2026/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0301-0325.pdf) | [Text](chunks/p0301-0325-8824a7091d26/p0001-0025.txt) | 343,933 | No OCR; empty: 4,6,18,20 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 326–350
+
+**PDF-41568dcbc515** · original-source · 25 pages · original SHA-256 `41568dcbc515bf291e7f1781f679bff053a0a6eb2af45f8c9dca716bdbcfd9ed`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0326-0350.pdf](../readiness/sources/bc-mines-code-2026/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0326-0350.pdf) | [Text](chunks/p0326-0350-41568dcbc515/p0001-0025.txt) | 284,180 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 351–375
+
+**PDF-f5d4a3abe3a8** · original-source · 25 pages · original SHA-256 `f5d4a3abe3a873a4ce127e79244119540ccaab7b6300718400ea24a1c14644f7`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0351-0375.pdf](../readiness/sources/bc-mines-code-2026/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0351-0375.pdf) | [Text](chunks/p0351-0375-f5d4a3abe3a8/p0001-0025.txt) | 309,658 | No OCR; empty: 8 |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 376–400
+
+**PDF-a682323e3ae2** · original-source · 25 pages · original SHA-256 `a682323e3ae29f62d8841f1b6fd17024173e78d04a016082d9aa5f43182ca064`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0376-0400.pdf](../readiness/sources/bc-mines-code-2026/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0376-0400.pdf) | [Text](chunks/p0376-0400-a682323e3ae2/p0001-0025.txt) | 304,052 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 401–425
+
+**PDF-6c6e3100a652** · original-source · 25 pages · original SHA-256 `6c6e3100a65269904a368fbdb6d20f04b1f59a097164b5b7f66a46cd7ebc1c64`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0401-0425.pdf](../readiness/sources/bc-mines-code-2026/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/bc-mines-code-2026/p0401-0425.pdf) | [Text](chunks/p0401-0425-6c6e3100a652/p0001-0025.txt) | 284,334 | extracted |
+
+### Health, Safety and Reclamation Code for Mines in British Columbia · complete source PDF pages 426–427
+
+**PDF-9b5a0c9ef28d** · original-source · 2 pages · original SHA-256 `9b5a0c9ef28dda4cc384e0af97e07f996edf5271e926b568149af92c02e86fc9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc-mines-code-2026/p0426-0427.pdf](../readiness/sources/bc-mines-code-2026/p0426-0427.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/bc-mines-code-2026/p0426-0427.pdf) | [Text](chunks/p0426-0427-9b5a0c9ef28d/p0001-0002.txt) | 119,131 | No OCR; empty: 1 |
+
+### Safety Is a Shared Responsibility: Six Steps to Safe Digging · complete source PDF pages 1–2
+
+**PDF-4d4385e15fc9** · original-source · 2 pages · original SHA-256 `4d4385e15fc97397092e6af1ecf64679e148db88b3df83eea3070d467c77b9bc`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bc1call-six-steps/p0001-0002.pdf](../readiness/sources/bc1call-six-steps/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/bc1call-six-steps/p0001-0002.pdf) | [Text](chunks/p0001-0002-4d4385e15fc9/p0001-0002.txt) | 2,385,605 | extracted |
+
+### Safe Use of Tiger Torches · complete source PDF pages 1–2
+
+**PDF-1fb322836b5a** · original-source · 2 pages · original SHA-256 `1fb322836b5adc0de966ecc16488fa28f369a41e4aa8a9353abb525c5349e910`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bcforest-tiger-torch/p0001-0002.pdf](../readiness/sources/bcforest-tiger-torch/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/bcforest-tiger-torch/p0001-0002.pdf) | [Text](chunks/p0001-0002-1fb322836b5a/p0001-0002.txt) | 573,893 | extracted |
+
+### 7 Steps to Electrical Safety · complete source PDF pages 1–1
+
+**PDF-2e597a50059e** · original-source · 1 pages · original SHA-256 `2e597a50059e0068f2859170f3c83bc8492900f700d17fc603f4f096aa8958ad`
+
+Original: [curriculum/asphalt-paving/readiness/sources/bchydro-seven-steps-local/p0001-0001.pdf](../readiness/sources/bchydro-seven-steps-local/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/bchydro-seven-steps-local/p0001-0001.pdf) | [Text](chunks/p0001-0001-2e597a50059e/p0001-0001.txt) | 75,417 | extracted |
+
+### Heavy Duty Concrete/Blacktop Brush Assembly Instructions · complete source PDF pages 1–2
+
+**PDF-32854476d0c4** · original-source · 2 pages · original SHA-256 `32854476d0c4c6ad3b233d71de0ba711e4b7bbf5b19bac19b69fb17bd1395f3b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/blacktop-brush/p0001-0002.pdf](../readiness/sources/blacktop-brush/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/blacktop-brush/p0001-0002.pdf) | [Text](chunks/p0001-0002-32854476d0c4/p0001-0002.txt) | 995,117 | extracted |
+
+### Fatigue · complete source PDF pages 1–10
+
+**PDF-984525444242** · original-source · 10 pages · original SHA-256 `984525444242f98b732bfb40dfa6d282afd44b8da2918462d8d99a2a5bbcea41`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-fatigue/p0001-0010.pdf](../readiness/sources/ccohs-fatigue/p0001-0010.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–10 | [PDF](../readiness/sources/ccohs-fatigue/p0001-0010.pdf) | [Text](chunks/p0001-0010-984525444242/p0001-0010.txt) | 197,988 | extracted |
+
+### Hand Tools: General Hand Tool Operation · complete source PDF pages 1–3
+
+**PDF-6ea4add32789** · original-source · 3 pages · original SHA-256 `6ea4add3278966f853ea23df2f7a91bb480bd7c35da8b30f060dbfc3edfb39b5`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-handtools-general/p0001-0003.pdf](../readiness/sources/ccohs-handtools-general/p0001-0003.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–3 | [PDF](../readiness/sources/ccohs-handtools-general/p0001-0003.pdf) | [Text](chunks/p0001-0003-6ea4add32789/p0001-0003.txt) | 93,326 | extracted |
+
+### Ladders: Inspection · complete source PDF pages 1–3
+
+**PDF-9e71b787ac2d** · original-source · 3 pages · original SHA-256 `9e71b787ac2dc9bdcf91e28bb263da727e89636025b146b67a5d2e265e0ef0d2`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-ladders/p0001-0003.pdf](../readiness/sources/ccohs-ladders/p0001-0003.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–3 | [PDF](../readiness/sources/ccohs-ladders/p0001-0003.pdf) | [Text](chunks/p0001-0003-9e71b787ac2d/p0001-0003.txt) | 98,152 | extracted |
+
+### Powered Hand Tools: Pneumatic Tools, Basic Safety · complete source PDF pages 1–4
+
+**PDF-c39a274ae7ef** · original-source · 4 pages · original SHA-256 `c39a274ae7ef89fffcdcac167e87680d8301d56475a74052cb6ce1e0531f2947`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-pneumatic-tools/p0001-0004.pdf](../readiness/sources/ccohs-pneumatic-tools/p0001-0004.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](../readiness/sources/ccohs-pneumatic-tools/p0001-0004.pdf) | [Text](chunks/p0001-0004-c39a274ae7ef/p0001-0004.txt) | 193,640 | extracted |
+
+### Chemical Profiles: Propane · complete source PDF pages 1–7
+
+**PDF-ea22c907cba8** · original-source · 7 pages · original SHA-256 `ea22c907cba834cf20349a252c6585a7b245848ff27ebba19d6195a2e4575cb2`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-propane/p0001-0007.pdf](../readiness/sources/ccohs-propane/p0001-0007.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](../readiness/sources/ccohs-propane/p0001-0007.pdf) | [Text](chunks/p0001-0007-ea22c907cba8/p0001-0007.txt) | 173,659 | extracted |
+
+### Shovelling · complete source PDF pages 1–7
+
+**PDF-588eb3747445** · original-source · 7 pages · original SHA-256 `588eb37474455274986f4ebd433a3caf6e51b019ec1296e4c032e40d57eabafb`
+
+Original: [curriculum/asphalt-paving/readiness/sources/ccohs-shovelling/p0001-0007.pdf](../readiness/sources/ccohs-shovelling/p0001-0007.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](../readiness/sources/ccohs-shovelling/p0001-0007.pdf) | [Text](chunks/p0001-0007-588eb3747445/p0001-0007.txt) | 157,190 | extracted |
+
+### Portable Gauge Quick Reference Guide · complete source PDF pages 1–2
+
+**PDF-ee62a9f33245** · original-source · 2 pages · original SHA-256 `ee62a9f33245e2ac618cc00c7719dcef30a17b7a6ebe2c97a2c650f11b86d76b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cnsc-gauge-guide-pdf/p0001-0002.pdf](../readiness/sources/cnsc-gauge-guide-pdf/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/cnsc-gauge-guide-pdf/p0001-0002.pdf) | [Text](chunks/p0001-0002-ee62a9f33245/p0001-0002.txt) | 665,004 | extracted |
+
+### CP 1230 Demolition Tool: Spare Parts List · complete source PDF pages 1–8
+
+**PDF-5283446d3300** · original-source · 8 pages · original SHA-256 `5283446d33005a72a62f10e34134ff2ccfb7548b1df68901a8b30425acbc403e`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-1230-manual-pl/p0001-0008.pdf](../readiness/sources/cp-1230-manual-pl/p0001-0008.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–8 | [PDF](../readiness/sources/cp-1230-manual-pl/p0001-0008.pdf) | [Text](chunks/p0001-0008-5283446d3300/p0001-0008.txt) | 539,590 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 1–25
+
+**PDF-5ed0905ce43d** · original-source · 25 pages · original SHA-256 `5ed0905ce43d28cee427c0d5a29708008bcc2aadaceac83b82933a9b58be1704`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0001-0025.pdf](../readiness/sources/cp-breaker-manual-alt/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0001-0025.pdf) | [Text](chunks/p0001-0025-5ed0905ce43d/p0001-0025.txt) | 945,481 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 26–50
+
+**PDF-8416b620077c** · original-source · 25 pages · original SHA-256 `8416b620077c5dcc305028631783744c013be98b135dbb1429661121c1d13c48`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0026-0050.pdf](../readiness/sources/cp-breaker-manual-alt/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0026-0050.pdf) | [Text](chunks/p0026-0050-8416b620077c/p0001-0025.txt) | 755,478 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 51–75
+
+**PDF-efa55d21b6c8** · original-source · 25 pages · original SHA-256 `efa55d21b6c8c6a04b8696f8b50dd322faafb2b5dda7635512c6d2b61d3b11fc`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0051-0075.pdf](../readiness/sources/cp-breaker-manual-alt/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0051-0075.pdf) | [Text](chunks/p0051-0075-efa55d21b6c8/p0001-0025.txt) | 752,971 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 76–100
+
+**PDF-091edb4e76b4** · original-source · 25 pages · original SHA-256 `091edb4e76b4ed0bad82c8000f862f9805a919a06859a0482d0c33051b6b41f0`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0076-0100.pdf](../readiness/sources/cp-breaker-manual-alt/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0076-0100.pdf) | [Text](chunks/p0076-0100-091edb4e76b4/p0001-0025.txt) | 750,312 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 101–125
+
+**PDF-f05003612450** · original-source · 25 pages · original SHA-256 `f05003612450938818b3787e9bd1924167b925191b00c197c9859b63b64cbf2b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0101-0125.pdf](../readiness/sources/cp-breaker-manual-alt/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0101-0125.pdf) | [Text](chunks/p0101-0125-f05003612450/p0001-0025.txt) | 755,214 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 126–150
+
+**PDF-d3b52325f505** · original-source · 25 pages · original SHA-256 `d3b52325f5051351e6b30451a430d14c7c639c3f8a02aa7437d5a2a63038e5f6`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0126-0150.pdf](../readiness/sources/cp-breaker-manual-alt/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0126-0150.pdf) | [Text](chunks/p0126-0150-d3b52325f505/p0001-0025.txt) | 750,958 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 151–175
+
+**PDF-65925aa0149c** · original-source · 25 pages · original SHA-256 `65925aa0149c2cf03cd77e2d2968a86b70e8946db4f8f98d5e998d7e2c164cca`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0151-0175.pdf](../readiness/sources/cp-breaker-manual-alt/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0151-0175.pdf) | [Text](chunks/p0151-0175-65925aa0149c/p0001-0025.txt) | 833,968 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 176–200
+
+**PDF-239e5b091cae** · original-source · 25 pages · original SHA-256 `239e5b091caecedbb64e2acd98621cb5e0fbad293256b04a2ee0e5e51493f7bc`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0176-0200.pdf](../readiness/sources/cp-breaker-manual-alt/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0176-0200.pdf) | [Text](chunks/p0176-0200-239e5b091cae/p0001-0025.txt) | 769,630 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 201–225
+
+**PDF-517961079e2c** · original-source · 25 pages · original SHA-256 `517961079e2caf1c3af8922f4e1ee36e38bb862a62c26c8c7a3ead9811dd9b70`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0201-0225.pdf](../readiness/sources/cp-breaker-manual-alt/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0201-0225.pdf) | [Text](chunks/p0201-0225-517961079e2c/p0001-0025.txt) | 753,825 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 226–250
+
+**PDF-b335d47bc42b** · original-source · 25 pages · original SHA-256 `b335d47bc42babbdaba771284a6afa073317e808bff56d44842513c17103203b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0226-0250.pdf](../readiness/sources/cp-breaker-manual-alt/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0226-0250.pdf) | [Text](chunks/p0226-0250-b335d47bc42b/p0001-0025.txt) | 750,861 | extracted |
+
+### CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions · complete source PDF pages 251–264
+
+**PDF-6cdcececaa98** · original-source · 14 pages · original SHA-256 `6cdcececaa980a5363470492c815db742683e1d186149b2394ad8f497b781e51`
+
+Original: [curriculum/asphalt-paving/readiness/sources/cp-breaker-manual-alt/p0251-0264.pdf](../readiness/sources/cp-breaker-manual-alt/p0251-0264.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–14 | [PDF](../readiness/sources/cp-breaker-manual-alt/p0251-0264.pdf) | [Text](chunks/p0251-0264-6cdcececaa98/p0001-0014.txt) | 548,824 | extracted |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 1–25
+
+**PDF-47079c24dce4** · original-source · 25 pages · original SHA-256 `47079c24dce4dba1d726aee3f149f455d7fdcb8890742547a4ae5d1893f160ef`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0001-0025.pdf](../readiness/sources/crosby-termination/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/crosby-termination/p0001-0025.pdf) | [Text](chunks/p0001-0025-47079c24dce4/p0001-0025.txt) | 2,603,248 | extracted |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 26–50
+
+**PDF-c062eef7be31** · original-source · 25 pages · original SHA-256 `c062eef7be31afbc99870da2833f7abba04aef06e0bd7f7c183f347168fe8526`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0026-0050.pdf](../readiness/sources/crosby-termination/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/crosby-termination/p0026-0050.pdf) | [Text](chunks/p0026-0050-c062eef7be31/p0001-0025.txt) | 2,931,287 | extracted |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 51–75
+
+**PDF-77381ac4c109** · original-source · 25 pages · original SHA-256 `77381ac4c1093a8bc687638202d9d45c29e3542c82df84b1c8e08dfbe2a27a21`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0051-0075.pdf](../readiness/sources/crosby-termination/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/crosby-termination/p0051-0075.pdf) | [Text](chunks/p0051-0075-77381ac4c109/p0001-0025.txt) | 3,171,860 | No OCR; empty: 20 |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 76–100
+
+**PDF-8e2cf93bd1e5** · original-source · 25 pages · original SHA-256 `8e2cf93bd1e596dd0ce4146a4cc9cb6ac9f2ef6036f20f16645dc29d77064542`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0076-0100.pdf](../readiness/sources/crosby-termination/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/crosby-termination/p0076-0100.pdf) | [Text](chunks/p0076-0100-8e2cf93bd1e5/p0001-0025.txt) | 8,991,488 | extracted |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 101–125
+
+**PDF-eae27c174dab** · original-source · 25 pages · original SHA-256 `eae27c174dab0a3a5e2dabdc74933be50a70a4710f7dea1a7442fff7b86568b0`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0101-0125.pdf](../readiness/sources/crosby-termination/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/crosby-termination/p0101-0125.pdf) | [Text](chunks/p0101-0125-eae27c174dab/p0001-0025.txt) | 2,213,062 | extracted |
+
+### Wire Rope End Terminations: User's Manual · complete source PDF pages 126–128
+
+**PDF-6256847b72d2** · original-source · 3 pages · original SHA-256 `6256847b72d25f9fc3dc802e4890234351680dcb3bc6cbca3c9278f4a62d6304`
+
+Original: [curriculum/asphalt-paving/readiness/sources/crosby-termination/p0126-0128.pdf](../readiness/sources/crosby-termination/p0126-0128.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–3 | [PDF](../readiness/sources/crosby-termination/p0126-0128.pdf) | [Text](chunks/p0126-0128-6256847b72d2/p0001-0003.txt) | 1,236,754 | extracted |
+
+### Operating Instruction and Safety Procedures: Models 95-B and 445 · complete source PDF pages 1–1
+
+**PDF-76a7c2356f3b** · original-source · 1 pages · original SHA-256 `76a7c2356f3b80dc3c162868849638e3cdbde655ed8f4a1c8c06c45b4abf93c7`
+
+Original: [curriculum/asphalt-paving/readiness/sources/fairview-tiger-torch/p0001-0001.pdf](../readiness/sources/fairview-tiger-torch/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/fairview-tiger-torch/p0001-0001.pdf) | [Text](chunks/p0001-0001-76a7c2356f3b/p0001-0001.txt) | 5,437,320 | No OCR; empty: 1 |
+
+### Stainless Steel Scraper Assembly Instructions · complete source PDF pages 1–2
+
+**PDF-a33e13791e45** · original-source · 2 pages · original SHA-256 `a33e13791e45375366b57f245c456e3f9ad62925fd61aa259e0710c37cde75ac`
+
+Original: [curriculum/asphalt-paving/readiness/sources/hand-scraper/p0001-0002.pdf](../readiness/sources/hand-scraper/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/hand-scraper/p0001-0002.pdf) | [Text](chunks/p0001-0002-a33e13791e45/p0001-0002.txt) | 626,956 | extracted |
+
+### Amendments to 2025 Standard Specifications, Update 3 · complete source PDF pages 1–2
+
+**PDF-152e943e8525** · original-source · 2 pages · original SHA-256 `152e943e8525ef0330c44d1a493455efda90c8cf756733cb1871ecbe30c15337`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-amendments/p0001-0002.pdf](../readiness/sources/highway-specs-2025-amendments/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/highway-specs-2025-amendments/p0001-0002.pdf) | [Text](chunks/p0001-0002-152e943e8525/p0001-0002.txt) | 261,975 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 1–25
+
+**PDF-3c504eec9e7d** · original-source · 25 pages · original SHA-256 `3c504eec9e7d2ff9ce63e5a6040a46f61f621f992e1ac2902b393ae37fb2bb3d`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0001-0025.pdf](../readiness/sources/highway-specs-2025-vol1/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0001-0025.pdf) | [Text](chunks/p0001-0025-3c504eec9e7d/p0001-0025.txt) | 2,791,278 | No OCR; empty: 2 |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 26–50
+
+**PDF-e0bb0141e22d** · original-source · 25 pages · original SHA-256 `e0bb0141e22df7a6842c773c37de03ad5cabd3a1337ec838380d4f1814782d6b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0026-0050.pdf](../readiness/sources/highway-specs-2025-vol1/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0026-0050.pdf) | [Text](chunks/p0026-0050-e0bb0141e22d/p0001-0025.txt) | 1,077,686 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 51–75
+
+**PDF-9fcf695a0d29** · original-source · 25 pages · original SHA-256 `9fcf695a0d29cd61f6275413200a52baa4c1f727da6d8b2ec1388a9e17fcf56b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0051-0075.pdf](../readiness/sources/highway-specs-2025-vol1/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0051-0075.pdf) | [Text](chunks/p0051-0075-9fcf695a0d29/p0001-0025.txt) | 612,086 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 76–100
+
+**PDF-f03fb25bae21** · original-source · 25 pages · original SHA-256 `f03fb25bae218be6045fc275ffc851ccd91444c229775130d6a6184f4f0e9ca1`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0076-0100.pdf](../readiness/sources/highway-specs-2025-vol1/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0076-0100.pdf) | [Text](chunks/p0076-0100-f03fb25bae21/p0001-0025.txt) | 1,400,973 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 101–125
+
+**PDF-35860a29b102** · original-source · 25 pages · original SHA-256 `35860a29b10243211ef14747af54b156f6f60cb3ef510f2998dc5da8490e894b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0101-0125.pdf](../readiness/sources/highway-specs-2025-vol1/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0101-0125.pdf) | [Text](chunks/p0101-0125-35860a29b102/p0001-0025.txt) | 2,286,640 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 126–150
+
+**PDF-48f0dc2eda6d** · original-source · 25 pages · original SHA-256 `48f0dc2eda6ddc0e56c142295c324c832ff81f6fff4cadb4f3a549b70758710d`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0126-0150.pdf](../readiness/sources/highway-specs-2025-vol1/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0126-0150.pdf) | [Text](chunks/p0126-0150-48f0dc2eda6d/p0001-0025.txt) | 3,421,268 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 151–175
+
+**PDF-b5a8db7192ee** · original-source · 25 pages · original SHA-256 `b5a8db7192ee527ebd025e974278db2a4dedec1c10418f6d505405fbadfe8640`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0151-0175.pdf](../readiness/sources/highway-specs-2025-vol1/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0151-0175.pdf) | [Text](chunks/p0151-0175-b5a8db7192ee/p0001-0025.txt) | 910,265 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 176–200
+
+**PDF-d1df9f53d269** · original-source · 25 pages · original SHA-256 `d1df9f53d2696a54a4fe884d227774537870b6a7d1d7f6c5dd84071cec853296`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0176-0200.pdf](../readiness/sources/highway-specs-2025-vol1/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0176-0200.pdf) | [Text](chunks/p0176-0200-d1df9f53d269/p0001-0025.txt) | 2,279,672 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 201–225
+
+**PDF-d0df973e9502** · original-source · 25 pages · original SHA-256 `d0df973e950200dca667eb7848975a75e25b5054511f41c2f3e579deb8d28f82`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0201-0225.pdf](../readiness/sources/highway-specs-2025-vol1/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0201-0225.pdf) | [Text](chunks/p0201-0225-d0df973e9502/p0001-0025.txt) | 4,183,845 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 226–250
+
+**PDF-2d4d9fa0063c** · original-source · 25 pages · original SHA-256 `2d4d9fa0063c488a56a9a8074227f4020556a846340cdb3e19119b4777689f81`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0226-0250.pdf](../readiness/sources/highway-specs-2025-vol1/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0226-0250.pdf) | [Text](chunks/p0226-0250-2d4d9fa0063c/p0001-0025.txt) | 1,717,053 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 251–275
+
+**PDF-d8dc2daf7a68** · original-source · 25 pages · original SHA-256 `d8dc2daf7a68afb062ec3510bb3320966f071acf328cf9856c2576cd735046ee`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0251-0275.pdf](../readiness/sources/highway-specs-2025-vol1/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0251-0275.pdf) | [Text](chunks/p0251-0275-d8dc2daf7a68/p0001-0025.txt) | 1,211,580 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 276–300
+
+**PDF-8a1b83a6b525** · original-source · 25 pages · original SHA-256 `8a1b83a6b525b874063d82e97caa551d07cd84eb6559e32180335fdf533653cc`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0276-0300.pdf](../readiness/sources/highway-specs-2025-vol1/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0276-0300.pdf) | [Text](chunks/p0276-0300-8a1b83a6b525/p0001-0025.txt) | 1,520,271 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 301–325
+
+**PDF-811590a95f38** · original-source · 25 pages · original SHA-256 `811590a95f38c5a0b95eede111c7ccb1a29edd951b5e82185a06ba45ce09d329`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0301-0325.pdf](../readiness/sources/highway-specs-2025-vol1/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0301-0325.pdf) | [Text](chunks/p0301-0325-811590a95f38/p0001-0025.txt) | 1,342,166 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 326–350
+
+**PDF-a0468a2c9806** · original-source · 25 pages · original SHA-256 `a0468a2c9806e3f0e31ff8fee6e27cdc195d993ac0f82a266b03a1e51ee22311`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0326-0350.pdf](../readiness/sources/highway-specs-2025-vol1/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0326-0350.pdf) | [Text](chunks/p0326-0350-a0468a2c9806/p0001-0025.txt) | 1,108,840 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 351–375
+
+**PDF-89516c5294ad** · original-source · 25 pages · original SHA-256 `89516c5294ad7fa2f75dbd72633f3e57e400001cb8e1dae8f70a4f311aadd670`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0351-0375.pdf](../readiness/sources/highway-specs-2025-vol1/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0351-0375.pdf) | [Text](chunks/p0351-0375-89516c5294ad/p0001-0025.txt) | 1,586,061 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 376–400
+
+**PDF-3ade54ab5cea** · original-source · 25 pages · original SHA-256 `3ade54ab5cea59e5c0bf148f9e9aebe7ab6b79bfc35afbfb85f0f376ebff394e`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0376-0400.pdf](../readiness/sources/highway-specs-2025-vol1/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0376-0400.pdf) | [Text](chunks/p0376-0400-3ade54ab5cea/p0001-0025.txt) | 2,367,507 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 401–425
+
+**PDF-107ae6d4034c** · original-source · 25 pages · original SHA-256 `107ae6d4034cb09f38c2a6ed4b0bfcd0b36deba2fc48d414a0e7cae6e5538c7a`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0401-0425.pdf](../readiness/sources/highway-specs-2025-vol1/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0401-0425.pdf) | [Text](chunks/p0401-0425-107ae6d4034c/p0001-0025.txt) | 1,460,994 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 426–450
+
+**PDF-fb155ef15fc1** · original-source · 25 pages · original SHA-256 `fb155ef15fc1620c7b83b7731d7ebbc223950477c26a1a5d42192b05547434b4`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0426-0450.pdf](../readiness/sources/highway-specs-2025-vol1/p0426-0450.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0426-0450.pdf) | [Text](chunks/p0426-0450-fb155ef15fc1/p0001-0025.txt) | 1,382,542 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 451–475
+
+**PDF-3dd560faf33b** · original-source · 25 pages · original SHA-256 `3dd560faf33b326ec645e74ae116d702ca8971761c485f0ba74a298ad04fc5cf`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0451-0475.pdf](../readiness/sources/highway-specs-2025-vol1/p0451-0475.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0451-0475.pdf) | [Text](chunks/p0451-0475-3dd560faf33b/p0001-0025.txt) | 3,190,010 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 1 · complete source PDF pages 476–498
+
+**PDF-ad4bcaff25dd** · original-source · 23 pages · original SHA-256 `ad4bcaff25dd517863322be6a9d141ce9f6373cdfb0245edcd7139f01a00fb23`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol1/p0476-0498.pdf](../readiness/sources/highway-specs-2025-vol1/p0476-0498.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–23 | [PDF](../readiness/sources/highway-specs-2025-vol1/p0476-0498.pdf) | [Text](chunks/p0476-0498-ad4bcaff25dd/p0001-0023.txt) | 3,921,548 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 1–25
+
+**PDF-8d40bbf7a7d0** · original-source · 25 pages · original SHA-256 `8d40bbf7a7d060761988eca4084c1cb4f6070287533ae749a7f54da8daa110be`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0001-0025.pdf](../readiness/sources/highway-specs-2025-vol2/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0001-0025.pdf) | [Text](chunks/p0001-0025-8d40bbf7a7d0/p0001-0025.txt) | 1,903,993 | No OCR; empty: 2 |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 26–50
+
+**PDF-050c07909408** · original-source · 25 pages · original SHA-256 `050c07909408390bfad464f8196a844bf1fac78f3c4af478b3da0c6eb5edd1fb`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0026-0050.pdf](../readiness/sources/highway-specs-2025-vol2/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0026-0050.pdf) | [Text](chunks/p0026-0050-050c07909408/p0001-0025.txt) | 3,876,611 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 51–75
+
+**PDF-b00393e8b301** · original-source · 25 pages · original SHA-256 `b00393e8b3016dd4e402d2143aa35bc47f65246ff1b68a7b84769a272135a6c6`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0051-0075.pdf](../readiness/sources/highway-specs-2025-vol2/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0051-0075.pdf) | [Text](chunks/p0051-0075-b00393e8b301/p0001-0025.txt) | 4,480,616 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 76–100
+
+**PDF-5bc7188cbffa** · original-source · 25 pages · original SHA-256 `5bc7188cbffae6d40a1df9d5eb8b96c9d030ab940e00da1cc53931a99ca812a9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0076-0100.pdf](../readiness/sources/highway-specs-2025-vol2/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0076-0100.pdf) | [Text](chunks/p0076-0100-5bc7188cbffa/p0001-0025.txt) | 4,486,123 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 101–125
+
+**PDF-4f6ad287d43b** · original-source · 25 pages · original SHA-256 `4f6ad287d43b96846c132708a6d7acc6ff26922d1b5010f13160193672573071`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0101-0125.pdf](../readiness/sources/highway-specs-2025-vol2/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0101-0125.pdf) | [Text](chunks/p0101-0125-4f6ad287d43b/p0001-0025.txt) | 4,658,917 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 126–150
+
+**PDF-96af2b3cf8df** · original-source · 25 pages · original SHA-256 `96af2b3cf8df7a9aa6fb410b0cfb8af990a2127dab11ce1d6139a87fb6b8fc59`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0126-0150.pdf](../readiness/sources/highway-specs-2025-vol2/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0126-0150.pdf) | [Text](chunks/p0126-0150-96af2b3cf8df/p0001-0025.txt) | 4,539,291 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 151–175
+
+**PDF-67e2acb10765** · original-source · 25 pages · original SHA-256 `67e2acb10765bcdead60d4aba097bbbe6a6c8a9af4261fef73cf14a07371afff`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0151-0175.pdf](../readiness/sources/highway-specs-2025-vol2/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0151-0175.pdf) | [Text](chunks/p0151-0175-67e2acb10765/p0001-0025.txt) | 4,629,192 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 176–200
+
+**PDF-a8d4de596cd3** · original-source · 25 pages · original SHA-256 `a8d4de596cd3769c94590876604a5a9667c755f86b64d7deffcbed44484f3283`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0176-0200.pdf](../readiness/sources/highway-specs-2025-vol2/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0176-0200.pdf) | [Text](chunks/p0176-0200-a8d4de596cd3/p0001-0025.txt) | 4,803,976 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 201–225
+
+**PDF-1bf695207e18** · original-source · 25 pages · original SHA-256 `1bf695207e18372ffaa56901e509943781fc234c1f89679b746065a23c896335`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0201-0225.pdf](../readiness/sources/highway-specs-2025-vol2/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0201-0225.pdf) | [Text](chunks/p0201-0225-1bf695207e18/p0001-0025.txt) | 4,630,437 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 226–250
+
+**PDF-c8eb65922abc** · original-source · 25 pages · original SHA-256 `c8eb65922abc72b9b47c4edd3c7426706b3b24d708c23f33604283ab19fb3981`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0226-0250.pdf](../readiness/sources/highway-specs-2025-vol2/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0226-0250.pdf) | [Text](chunks/p0226-0250-c8eb65922abc/p0001-0025.txt) | 4,673,433 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 251–275
+
+**PDF-23e2b7abb1ac** · original-source · 25 pages · original SHA-256 `23e2b7abb1ac4e5213395b668bae5784574e161529b444c7d874776df0f75525`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0251-0275.pdf](../readiness/sources/highway-specs-2025-vol2/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0251-0275.pdf) | [Text](chunks/p0251-0275-23e2b7abb1ac/p0001-0025.txt) | 3,890,468 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 276–300
+
+**PDF-517eb07add5d** · original-source · 25 pages · original SHA-256 `517eb07add5d24aba026ebe0653df9cc6319fc928da346dfe15414754f8bc6c1`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0276-0300.pdf](../readiness/sources/highway-specs-2025-vol2/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0276-0300.pdf) | [Text](chunks/p0276-0300-517eb07add5d/p0001-0025.txt) | 5,697,211 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 301–325
+
+**PDF-2321b8b20c63** · original-source · 25 pages · original SHA-256 `2321b8b20c6343289afa5a56b357c418c5f2835d9e83c48a36d80dd89eec8cb1`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0301-0325.pdf](../readiness/sources/highway-specs-2025-vol2/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0301-0325.pdf) | [Text](chunks/p0301-0325-2321b8b20c63/p0001-0025.txt) | 5,378,616 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 326–350
+
+**PDF-af6226de343e** · original-source · 25 pages · original SHA-256 `af6226de343ee4b58c2bfad8be6a556d3c6b6f6a4acfca920e70738f430164bd`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0326-0350.pdf](../readiness/sources/highway-specs-2025-vol2/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0326-0350.pdf) | [Text](chunks/p0326-0350-af6226de343e/p0001-0025.txt) | 5,918,819 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 351–375
+
+**PDF-48a91a04fc48** · original-source · 25 pages · original SHA-256 `48a91a04fc48a7108c5bb49b8aca850a42394e8b45de762bd940108c3d1b1661`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0351-0375.pdf](../readiness/sources/highway-specs-2025-vol2/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0351-0375.pdf) | [Text](chunks/p0351-0375-48a91a04fc48/p0001-0025.txt) | 2,553,108 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 376–400
+
+**PDF-0366493c7e43** · original-source · 25 pages · original SHA-256 `0366493c7e43bb45bbad633a3fb2e27ba0e266b73e6f9ce67ed9af3b085880b9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0376-0400.pdf](../readiness/sources/highway-specs-2025-vol2/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0376-0400.pdf) | [Text](chunks/p0376-0400-0366493c7e43/p0001-0025.txt) | 2,102,923 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 401–425
+
+**PDF-8cd7dc2bbdbf** · original-source · 25 pages · original SHA-256 `8cd7dc2bbdbf88594e1dc4054c9eae8fa6d6ab77fff75178b5553eb3e0c7547f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0401-0425.pdf](../readiness/sources/highway-specs-2025-vol2/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0401-0425.pdf) | [Text](chunks/p0401-0425-8cd7dc2bbdbf/p0001-0025.txt) | 2,671,530 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 426–450
+
+**PDF-8e985c6c83ff** · original-source · 25 pages · original SHA-256 `8e985c6c83ffac07a5690b6a6d8fac9844c00eeee49bd8e68b2d1ff5cd501373`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0426-0450.pdf](../readiness/sources/highway-specs-2025-vol2/p0426-0450.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0426-0450.pdf) | [Text](chunks/p0426-0450-8e985c6c83ff/p0001-0025.txt) | 1,830,504 | extracted |
+
+### 2025 Standard Specifications for Highway Construction, Volume 2 · complete source PDF pages 451–456
+
+**PDF-7313deb1b514** · original-source · 6 pages · original SHA-256 `7313deb1b5145254e803c178f330eaf344886534dd7eb753efbd75ca28c23c84`
+
+Original: [curriculum/asphalt-paving/readiness/sources/highway-specs-2025-vol2/p0451-0456.pdf](../readiness/sources/highway-specs-2025-vol2/p0451-0456.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–6 | [PDF](../readiness/sources/highway-specs-2025-vol2/p0451-0456.pdf) | [Text](chunks/p0451-0456-7313deb1b514/p0001-0006.txt) | 392,814 | extracted |
+
+### Circle Laser Diagram · complete source PDF pages 1–1
+
+**PDF-5ef4d1b9b827** · original-source · 1 pages · original SHA-256 `5ef4d1b9b82746872c9187a3f3cc32b4f7b800f762156a738216b25aed9cb166`
+
+Original: [curriculum/asphalt-paving/readiness/sources/infrared-spot-diagram/p0001-0001.pdf](../readiness/sources/infrared-spot-diagram/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/infrared-spot-diagram/p0001-0001.pdf) | [Text](chunks/p0001-0001-5ef4d1b9b827/p0001-0001.txt) | 62,827 | extracted |
+
+### Industrial IR with Circle Laser: IR-IND / IRK-2 Operating Instructions · complete source PDF pages 1–4
+
+**PDF-ce1627ca0e9a** · original-source · 4 pages · original SHA-256 `ce1627ca0e9a4cfde49564a9bf67ebb0f0bde2f9027c39e551901a2be9a02b65`
+
+Original: [curriculum/asphalt-paving/readiness/sources/infrared-thermometer/p0001-0004.pdf](../readiness/sources/infrared-thermometer/p0001-0004.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](../readiness/sources/infrared-thermometer/p0001-0004.pdf) | [Text](chunks/p0001-0004-ce1627ca0e9a/p0001-0004.txt) | 337,873 | extracted |
+
+### Leica NA700 Series Automatic Levels · complete source PDF pages 1–6
+
+**PDF-41ada121cf90** · original-source · 6 pages · original SHA-256 `41ada121cf904abe6797d65e2a8ada86d39bcec37e073233a4e1e1b81a3bfdaa`
+
+Original: [curriculum/asphalt-paving/readiness/sources/leica-level-brochure/p0001-0006.pdf](../readiness/sources/leica-level-brochure/p0001-0006.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–6 | [PDF](../readiness/sources/leica-level-brochure/p0001-0006.pdf) | [Text](chunks/p0001-0006-41ada121cf90/p0001-0006.txt) | 1,197,017 | extracted |
+
+### Leica NA700 Series Automatic Levels: Technical Data · complete source PDF pages 1–1
+
+**PDF-40028f5b390f** · original-source · 1 pages · original SHA-256 `40028f5b390f08c46eb4f4af6b680d861646fb8442bda26661328d34873cbca0`
+
+Original: [curriculum/asphalt-paving/readiness/sources/leica-level-datasheet/p0001-0001.pdf](../readiness/sources/leica-level-datasheet/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/leica-level-datasheet/p0001-0001.pdf) | [Text](chunks/p0001-0001-40028f5b390f/p0001-0001.txt) | 174,036 | No OCR; empty: 1 |
+
+### Lever Gun Models 1142, 1147 and 1151: Installation and Maintenance Guide · complete source PDF pages 1–8
+
+**PDF-55659097aa0f** · original-source · 8 pages · original SHA-256 `55659097aa0fd82e68b4853b8f5d6310137587434163e4ec224f4210ad5f8b91`
+
+Original: [curriculum/asphalt-paving/readiness/sources/lincoln-grease-gun/p0001-0008.pdf](../readiness/sources/lincoln-grease-gun/p0001-0008.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–8 | [PDF](../readiness/sources/lincoln-grease-gun/p0001-0008.pdf) | [Text](chunks/p0001-0008-55659097aa0f/p0001-0008.txt) | 344,519 | extracted |
+
+### Gusset Brace Assembly Instructions · complete source PDF pages 1–1
+
+**PDF-07df7b862a0e** · original-source · 1 pages · original SHA-256 `07df7b862a0e158ee35c8fb3a29654fa49c361640fa190daa1d74e33d5adaa2f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/lute-gusset-brace/p0001-0001.pdf](../readiness/sources/lute-gusset-brace/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/lute-gusset-brace/p0001-0001.pdf) | [Text](chunks/p0001-0001-07df7b862a0e/p0001-0001.txt) | 607,988 | extracted |
+
+### Light Lute and Lute Assembly Instructions · complete source PDF pages 1–2
+
+**PDF-6b276ae93054** · original-source · 2 pages · original SHA-256 `6b276ae93054964174c145f59804d7b6d315327f48017c9b6238c95d086521ca`
+
+Original: [curriculum/asphalt-paving/readiness/sources/lute-instructions/p0001-0002.pdf](../readiness/sources/lute-instructions/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/lute-instructions/p0001-0002.pdf) | [Text](chunks/p0001-0002-6b276ae93054/p0001-0002.txt) | 1,102,549 | extracted |
+
+### Wrap Around Brace Assembly Instructions · complete source PDF pages 1–2
+
+**PDF-9a1eafe7a377** · original-source · 2 pages · original SHA-256 `9a1eafe7a3777acff888025dbebb49ca95e84ea56fd535deacd05420ef648a15`
+
+Original: [curriculum/asphalt-paving/readiness/sources/lute-wrap-brace/p0001-0002.pdf](../readiness/sources/lute-wrap-brace/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/lute-wrap-brace/p0001-0002.pdf) | [Text](chunks/p0001-0002-9a1eafe7a377/p0001-0002.txt) | 474,476 | extracted |
+
+### MP Metal Professional Measuring Wheels: Counter Alignment · complete source PDF pages 1–1
+
+**PDF-442e99654c42** · original-source · 1 pages · original SHA-256 `442e99654c42dfc5b402f6ba19d20f22a8c8d887069e9494fb2dc233535015da`
+
+Original: [curriculum/asphalt-paving/readiness/sources/measuring-wheel/p0001-0001.pdf](../readiness/sources/measuring-wheel/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/measuring-wheel/p0001-0001.pdf) | [Text](chunks/p0001-0001-442e99654c42/p0001-0001.txt) | 1,329,228 | extracted |
+
+### MVC-88VGH/VGHW One-Way Plate Compactor: Operation and Parts Manual · complete source PDF pages 1–25
+
+**PDF-debcbfb36e12** · original-source · 25 pages · original SHA-256 `debcbfb36e12c9b087d53dbc09da924a9d3f133ebfee82ac7edd27bf6011bde9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/multiquip-plate-manual/p0001-0025.pdf](../readiness/sources/multiquip-plate-manual/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/multiquip-plate-manual/p0001-0025.pdf) | [Text](chunks/p0001-0025-debcbfb36e12/p0001-0025.txt) | 920,920 | extracted |
+
+### MVC-88VGH/VGHW One-Way Plate Compactor: Operation and Parts Manual · complete source PDF pages 26–50
+
+**PDF-bc16b150a65a** · original-source · 25 pages · original SHA-256 `bc16b150a65a854faf624ebd230352262fd6fa4d26a3de42542a8668a4d594dc`
+
+Original: [curriculum/asphalt-paving/readiness/sources/multiquip-plate-manual/p0026-0050.pdf](../readiness/sources/multiquip-plate-manual/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/multiquip-plate-manual/p0026-0050.pdf) | [Text](chunks/p0026-0050-bc16b150a65a/p0001-0025.txt) | 1,058,555 | extracted |
+
+### MVC-88VGH/VGHW One-Way Plate Compactor: Operation and Parts Manual · complete source PDF pages 51–70
+
+**PDF-7692820627c5** · original-source · 20 pages · original SHA-256 `7692820627c539d11b734069810de817291a98e6d1a766f26497c79f9b7ab523`
+
+Original: [curriculum/asphalt-paving/readiness/sources/multiquip-plate-manual/p0051-0070.pdf](../readiness/sources/multiquip-plate-manual/p0051-0070.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–20 | [PDF](../readiness/sources/multiquip-plate-manual/p0051-0070.pdf) | [Text](chunks/p0051-0070-7692820627c5/p0001-0020.txt) | 634,362 | extracted |
+
+### Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling · complete source PDF pages 1–25
+
+**PDF-c45076fce9e8** · original-source · 25 pages · original SHA-256 `c45076fce9e843e8e9430908790082d10dc9abc867519281da8df41f6ecfdfbd`
+
+Original: [curriculum/asphalt-paving/readiness/sources/niosh-milling/p0001-0025.pdf](../readiness/sources/niosh-milling/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/niosh-milling/p0001-0025.pdf) | [Text](chunks/p0001-0025-c45076fce9e8/p0001-0025.txt) | 1,689,180 | extracted |
+
+### Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling · complete source PDF pages 26–50
+
+**PDF-2fbe3ff557eb** · original-source · 25 pages · original SHA-256 `2fbe3ff557eb0c15bb480b7a428e9ffeac2af8ba43d54c10867482f2f10c6e4e`
+
+Original: [curriculum/asphalt-paving/readiness/sources/niosh-milling/p0026-0050.pdf](../readiness/sources/niosh-milling/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/niosh-milling/p0026-0050.pdf) | [Text](chunks/p0026-0050-2fbe3ff557eb/p0001-0025.txt) | 454,426 | extracted |
+
+### Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling · complete source PDF pages 51–75
+
+**PDF-f74f343c3b95** · original-source · 25 pages · original SHA-256 `f74f343c3b9520369b9f19319252a4d6eb8b96e089c7263a9dc6363c0040c0c4`
+
+Original: [curriculum/asphalt-paving/readiness/sources/niosh-milling/p0051-0075.pdf](../readiness/sources/niosh-milling/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/niosh-milling/p0051-0075.pdf) | [Text](chunks/p0051-0075-f74f343c3b95/p0001-0025.txt) | 657,685 | extracted |
+
+### Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling · complete source PDF pages 76–79
+
+**PDF-44af0ac83e04** · original-source · 4 pages · original SHA-256 `44af0ac83e0488fbd2e17748d3e212bc282eb98c11e5ed90214e35fb991d11f8`
+
+Original: [curriculum/asphalt-paving/readiness/sources/niosh-milling/p0076-0079.pdf](../readiness/sources/niosh-milling/p0076-0079.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–4 | [PDF](../readiness/sources/niosh-milling/p0076-0079.pdf) | [Text](chunks/p0076-0079-44af0ac83e04/p0001-0004.txt) | 573,432 | extracted |
+
+### National Safety Code Standard 10: Cargo Securement · complete source PDF pages 1–25
+
+**PDF-6df8cc3bf4fb** · original-source · 25 pages · original SHA-256 `6df8cc3bf4fbc6744c817696b96d99b42f8d3f388003dfdaa18b34b537e232ce`
+
+Original: [curriculum/asphalt-paving/readiness/sources/nsc10-cargo-securement/p0001-0025.pdf](../readiness/sources/nsc10-cargo-securement/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/nsc10-cargo-securement/p0001-0025.pdf) | [Text](chunks/p0001-0025-6df8cc3bf4fb/p0001-0025.txt) | 291,885 | extracted |
+
+### National Safety Code Standard 10: Cargo Securement · complete source PDF pages 26–49
+
+**PDF-5744857a53ad** · original-source · 24 pages · original SHA-256 `5744857a53ad11b33e001d0d8f435cc8d1d40f5769977e3227941acdb07d9a99`
+
+Original: [curriculum/asphalt-paving/readiness/sources/nsc10-cargo-securement/p0026-0049.pdf](../readiness/sources/nsc10-cargo-securement/p0026-0049.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–24 | [PDF](../readiness/sources/nsc10-cargo-securement/p0026-0049.pdf) | [Text](chunks/p0026-0049-5744857a53ad/p0001-0024.txt) | 203,486 | extracted |
+
+### Cargo Securement Standard: Interpretations and Guidance · complete source PDF pages 1–25
+
+**PDF-41f4a3298026** · original-source · 25 pages · original SHA-256 `41f4a329802687b47a6f42eb826d2f01df3219312ecc784cdb04d7555bdd0ab5`
+
+Original: [curriculum/asphalt-paving/readiness/sources/nsc10-interpretations/p0001-0025.pdf](../readiness/sources/nsc10-interpretations/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/nsc10-interpretations/p0001-0025.pdf) | [Text](chunks/p0001-0025-41f4a3298026/p0001-0025.txt) | 596,242 | extracted |
+
+### Cargo Securement Standard: Interpretations and Guidance · complete source PDF pages 26–28
+
+**PDF-196b69f7928a** · original-source · 3 pages · original SHA-256 `196b69f7928aae41f64c75d024b6f437a93f79eadecedc088c1ebca39d294bb7`
+
+Original: [curriculum/asphalt-paving/readiness/sources/nsc10-interpretations/p0026-0028.pdf](../readiness/sources/nsc10-interpretations/p0026-0028.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–3 | [PDF](../readiness/sources/nsc10-interpretations/p0026-0028.pdf) | [Text](chunks/p0026-0028-196b69f7928a/p0001-0003.txt) | 214,962 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 1–25
+
+**PDF-42cb629d8bb8** · original-source · 25 pages · original SHA-256 `42cb629d8bb8549ce7a70fc624806c557f9f545fa83c3726be973f6486dddf28`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0001-0025.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0001-0025.pdf) | [Text](chunks/p0001-0025-42cb629d8bb8/p0001-0025.txt) | 7,866,544 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 26–50
+
+**PDF-4a3fae52d264** · original-source · 25 pages · original SHA-256 `4a3fae52d2642df6ac5ed541fd3a56887decc3ae9f4fedefdf023b0ec0c13448`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0026-0050.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0026-0050.pdf) | [Text](chunks/p0026-0050-4a3fae52d264/p0001-0025.txt) | 9,193,895 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 51–75
+
+**PDF-ceadd09baf5a** · original-source · 25 pages · original SHA-256 `ceadd09baf5a4a85a0806a8f9b22ded4909e04fc112dd5852917f629e1986e3c`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0051-0075.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0051-0075.pdf) | [Text](chunks/p0051-0075-ceadd09baf5a/p0001-0025.txt) | 6,661,800 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 76–100
+
+**PDF-78660a304c1f** · original-source · 25 pages · original SHA-256 `78660a304c1f49ddf31909cfe813a62035cb31be3ff85e56397169e3eb5ef78b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0076-0100.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0076-0100.pdf) | [Text](chunks/p0076-0100-78660a304c1f/p0001-0025.txt) | 4,822,492 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 101–125
+
+**PDF-11d241b7c97a** · original-source · 25 pages · original SHA-256 `11d241b7c97a64562bbd9557064b26a91a80ae0ff13594d939c7cf22a4fe1bf1`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0101-0125.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0101-0125.pdf) | [Text](chunks/p0101-0125-11d241b7c97a/p0001-0025.txt) | 2,011,144 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 126–150
+
+**PDF-1639ff805e76** · original-source · 25 pages · original SHA-256 `1639ff805e7679ee4c200673effb3c4b6819713d1067168606b9b327bda3eeaa`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0126-0150.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0126-0150.pdf) | [Text](chunks/p0126-0150-1639ff805e76/p0001-0025.txt) | 5,313,300 | extracted |
+
+### Partner Resource Guide · complete source PDF pages 151–172
+
+**PDF-951174ab13bd** · original-source · 22 pages · original SHA-256 `951174ab13bdb3bdb9e2768128e7745a80ab4827ea6c2ed3ccc17386d44ff5b6`
+
+Original: [curriculum/asphalt-paving/readiness/sources/seymour-tool-catalogue-2026/p0151-0172.pdf](../readiness/sources/seymour-tool-catalogue-2026/p0151-0172.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–22 | [PDF](../readiness/sources/seymour-tool-catalogue-2026/p0151-0172.pdf) | [Text](chunks/p0151-0172-951174ab13bd/p0001-0022.txt) | 2,661,808 | extracted |
+
+### Asphalt Paving/Laydown Technician: Certificate of Qualification Exam Breakdown · complete source PDF pages 1–1
+
+**PDF-dbdc84beaa29** · original-source · 1 pages · original SHA-256 `dbdc84beaa29fee25e86608510127db8da1dcd66f11740ae0d6d560da77efcdb`
+
+Original: [curriculum/asphalt-paving/readiness/sources/skilledtrades-exam/p0001-0001.pdf](../readiness/sources/skilledtrades-exam/p0001-0001.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–1 | [PDF](../readiness/sources/skilledtrades-exam/p0001-0001.pdf) | [Text](chunks/p0001-0001-dbdc84beaa29/p0001-0001.txt) | 77,059 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 1–25
+
+**PDF-1904c793be41** · original-source · 25 pages · original SHA-256 `1904c793be412ab0f71fadab1ef800a6d21ce769072d3e66af825713c7da74ed`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0001-0025.pdf](../readiness/sources/traffic-manual-2020/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0001-0025.pdf) | [Text](chunks/p0001-0025-1904c793be41/p0001-0025.txt) | 1,439,177 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 26–50
+
+**PDF-d05fb2402e19** · original-source · 25 pages · original SHA-256 `d05fb2402e19d13194ecd57e683b86d117c2627fc75e9b8ff5daa2fc4da3ea2d`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0026-0050.pdf](../readiness/sources/traffic-manual-2020/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0026-0050.pdf) | [Text](chunks/p0026-0050-d05fb2402e19/p0001-0025.txt) | 314,245 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 51–75
+
+**PDF-66217dbaec3c** · original-source · 25 pages · original SHA-256 `66217dbaec3c1f56512032ff936ad4981613280948654a6a9d5b4268ea779ce2`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0051-0075.pdf](../readiness/sources/traffic-manual-2020/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0051-0075.pdf) | [Text](chunks/p0051-0075-66217dbaec3c/p0001-0025.txt) | 799,314 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 76–100
+
+**PDF-e56585111167** · original-source · 25 pages · original SHA-256 `e5658511116712fdee0c0d069f0537779caa35af7e9e013f4fecb9d54d0347f0`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0076-0100.pdf](../readiness/sources/traffic-manual-2020/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0076-0100.pdf) | [Text](chunks/p0076-0100-e56585111167/p0001-0025.txt) | 236,897 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 101–125
+
+**PDF-69fdf1c0bc43** · original-source · 25 pages · original SHA-256 `69fdf1c0bc43298a499a9411d0df4d70e59a60ddd226d624cbe98f95b225b748`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0101-0125.pdf](../readiness/sources/traffic-manual-2020/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0101-0125.pdf) | [Text](chunks/p0101-0125-69fdf1c0bc43/p0001-0025.txt) | 1,326,469 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 126–150
+
+**PDF-c37ae25d860a** · original-source · 25 pages · original SHA-256 `c37ae25d860a60027f18e3aef197878ff983f9d1ab2cd2ac2403251b46bee1d8`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0126-0150.pdf](../readiness/sources/traffic-manual-2020/p0126-0150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0126-0150.pdf) | [Text](chunks/p0126-0150-c37ae25d860a/p0001-0025.txt) | 1,195,725 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 151–175
+
+**PDF-428c57f155af** · original-source · 25 pages · original SHA-256 `428c57f155af5094fa32208064ba8343c57f2ea5d150f0e6d772a29eef69301c`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0151-0175.pdf](../readiness/sources/traffic-manual-2020/p0151-0175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0151-0175.pdf) | [Text](chunks/p0151-0175-428c57f155af/p0001-0025.txt) | 826,859 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 176–200
+
+**PDF-11bfd8d8b53b** · original-source · 25 pages · original SHA-256 `11bfd8d8b53ba28b3ac3d8f9bf30058fc87942e4007a365e25d074bedc3eb778`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0176-0200.pdf](../readiness/sources/traffic-manual-2020/p0176-0200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0176-0200.pdf) | [Text](chunks/p0176-0200-11bfd8d8b53b/p0001-0025.txt) | 846,911 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 201–225
+
+**PDF-8a721f5b7121** · original-source · 25 pages · original SHA-256 `8a721f5b71218ece072d14d69b948af9d4d3ff28797ce170b8c95093da6b0a44`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0201-0225.pdf](../readiness/sources/traffic-manual-2020/p0201-0225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0201-0225.pdf) | [Text](chunks/p0201-0225-8a721f5b7121/p0001-0025.txt) | 1,077,248 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 226–250
+
+**PDF-df61ed00317c** · original-source · 25 pages · original SHA-256 `df61ed00317c0fb5ab8134575d50d17691254a96d82dc35711acb9fca0023389`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0226-0250.pdf](../readiness/sources/traffic-manual-2020/p0226-0250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0226-0250.pdf) | [Text](chunks/p0226-0250-df61ed00317c/p0001-0025.txt) | 853,123 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 251–275
+
+**PDF-82027dff41a6** · original-source · 25 pages · original SHA-256 `82027dff41a6663418d699ec310b79ce8326198f11df45b478fa66747279babd`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0251-0275.pdf](../readiness/sources/traffic-manual-2020/p0251-0275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0251-0275.pdf) | [Text](chunks/p0251-0275-82027dff41a6/p0001-0025.txt) | 1,170,926 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 276–300
+
+**PDF-d540fbfe6b15** · original-source · 25 pages · original SHA-256 `d540fbfe6b159d9e8e32400d99400d698b7e7c81561daaa04bacf2b4db012235`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0276-0300.pdf](../readiness/sources/traffic-manual-2020/p0276-0300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0276-0300.pdf) | [Text](chunks/p0276-0300-d540fbfe6b15/p0001-0025.txt) | 987,888 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 301–325
+
+**PDF-b4d9b6441242** · original-source · 25 pages · original SHA-256 `b4d9b644124217ac52c17beff0a743d20deed72e89dd649e8dd160af0dabb1a5`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0301-0325.pdf](../readiness/sources/traffic-manual-2020/p0301-0325.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0301-0325.pdf) | [Text](chunks/p0301-0325-b4d9b6441242/p0001-0025.txt) | 1,464,572 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 326–350
+
+**PDF-fb1bd079ba1e** · original-source · 25 pages · original SHA-256 `fb1bd079ba1ee5a6ae8dfc6aa84342fd3b7f5f6fa357c49d5cc657a006cd6fc4`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0326-0350.pdf](../readiness/sources/traffic-manual-2020/p0326-0350.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0326-0350.pdf) | [Text](chunks/p0326-0350-fb1bd079ba1e/p0001-0025.txt) | 1,812,110 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 351–375
+
+**PDF-02f087ebac73** · original-source · 25 pages · original SHA-256 `02f087ebac738e82e655e40412c964c478db0a3c1a7b1ff0010b761b1e1ae423`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0351-0375.pdf](../readiness/sources/traffic-manual-2020/p0351-0375.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0351-0375.pdf) | [Text](chunks/p0351-0375-02f087ebac73/p0001-0025.txt) | 1,134,285 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 376–400
+
+**PDF-c3f16bead145** · original-source · 25 pages · original SHA-256 `c3f16bead1457d06eb0d38dc7ec734ad62f84386f72e14b840b2cc8063138f1f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0376-0400.pdf](../readiness/sources/traffic-manual-2020/p0376-0400.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0376-0400.pdf) | [Text](chunks/p0376-0400-c3f16bead145/p0001-0025.txt) | 939,103 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 401–425
+
+**PDF-6ce49781b623** · original-source · 25 pages · original SHA-256 `6ce49781b6237f20e73c16dd7c31ae2568fbb45d85f4b669c60d61a96532cba9`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0401-0425.pdf](../readiness/sources/traffic-manual-2020/p0401-0425.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0401-0425.pdf) | [Text](chunks/p0401-0425-6ce49781b623/p0001-0025.txt) | 1,258,589 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 426–450
+
+**PDF-4af3eea120d5** · original-source · 25 pages · original SHA-256 `4af3eea120d5f548ddba26837ddcfb33bd33c4a5d7c6c7da7687cf3ea17c503c`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0426-0450.pdf](../readiness/sources/traffic-manual-2020/p0426-0450.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0426-0450.pdf) | [Text](chunks/p0426-0450-4af3eea120d5/p0001-0025.txt) | 1,325,313 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 451–475
+
+**PDF-2e47b87a23a2** · original-source · 25 pages · original SHA-256 `2e47b87a23a20bc33297a4d01856cac5a97c1544d1edc6c19989c88416a48438`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0451-0475.pdf](../readiness/sources/traffic-manual-2020/p0451-0475.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0451-0475.pdf) | [Text](chunks/p0451-0475-2e47b87a23a2/p0001-0025.txt) | 1,016,617 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 476–500
+
+**PDF-7f78f8e2c96a** · original-source · 25 pages · original SHA-256 `7f78f8e2c96a0a4a77441b792893fb92590b69bba6072a1bfaa6356848bec790`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0476-0500.pdf](../readiness/sources/traffic-manual-2020/p0476-0500.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0476-0500.pdf) | [Text](chunks/p0476-0500-7f78f8e2c96a/p0001-0025.txt) | 938,751 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 501–525
+
+**PDF-4cd9b8118c07** · original-source · 25 pages · original SHA-256 `4cd9b8118c07aa21f3f93528ca35a77c34f6a55a21a45995853238c46129052f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0501-0525.pdf](../readiness/sources/traffic-manual-2020/p0501-0525.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0501-0525.pdf) | [Text](chunks/p0501-0525-4cd9b8118c07/p0001-0025.txt) | 1,029,347 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 526–550
+
+**PDF-bb8a86e06c5f** · original-source · 25 pages · original SHA-256 `bb8a86e06c5f170b1e11715e73df0ed01e7acb81b47c390345c9e310f063efc1`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0526-0550.pdf](../readiness/sources/traffic-manual-2020/p0526-0550.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0526-0550.pdf) | [Text](chunks/p0526-0550-bb8a86e06c5f/p0001-0025.txt) | 824,302 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 551–575
+
+**PDF-2e5a6519ff66** · original-source · 25 pages · original SHA-256 `2e5a6519ff66927b967602f88567b80cf6b93af008ce6e75572a156264fcc39f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0551-0575.pdf](../readiness/sources/traffic-manual-2020/p0551-0575.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0551-0575.pdf) | [Text](chunks/p0551-0575-2e5a6519ff66/p0001-0025.txt) | 1,049,019 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 576–600
+
+**PDF-fff6f9009bb7** · original-source · 25 pages · original SHA-256 `fff6f9009bb72c6247ec94addc3dda44ca4ffe689923660c92d5a157e524ab76`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0576-0600.pdf](../readiness/sources/traffic-manual-2020/p0576-0600.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0576-0600.pdf) | [Text](chunks/p0576-0600-fff6f9009bb7/p0001-0025.txt) | 2,209,051 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 601–625
+
+**PDF-8880d01ea42c** · original-source · 25 pages · original SHA-256 `8880d01ea42c21999c1b2ddd1be6565cc3f98a7c4127ed2a8297a8ea562e7dd0`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0601-0625.pdf](../readiness/sources/traffic-manual-2020/p0601-0625.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0601-0625.pdf) | [Text](chunks/p0601-0625-8880d01ea42c/p0001-0025.txt) | 770,430 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 626–650
+
+**PDF-716669665b33** · original-source · 25 pages · original SHA-256 `716669665b3322c1a7f269372f2cfd4d0b2a015743a43d9636f435d9f4e3a288`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0626-0650.pdf](../readiness/sources/traffic-manual-2020/p0626-0650.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0626-0650.pdf) | [Text](chunks/p0626-0650-716669665b33/p0001-0025.txt) | 683,310 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 651–675
+
+**PDF-ce295dcffdd9** · original-source · 25 pages · original SHA-256 `ce295dcffdd91f79d3e1d2d183d6c649a6c44409e242f70bd4dc447b492c217b`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0651-0675.pdf](../readiness/sources/traffic-manual-2020/p0651-0675.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0651-0675.pdf) | [Text](chunks/p0651-0675-ce295dcffdd9/p0001-0025.txt) | 687,181 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 676–700
+
+**PDF-f4906789f105** · original-source · 25 pages · original SHA-256 `f4906789f105532cb50adad4604930655b7e68abf330298a166fd4db4e7e1f91`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0676-0700.pdf](../readiness/sources/traffic-manual-2020/p0676-0700.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0676-0700.pdf) | [Text](chunks/p0676-0700-f4906789f105/p0001-0025.txt) | 882,973 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 701–725
+
+**PDF-e711a75f9f6a** · original-source · 25 pages · original SHA-256 `e711a75f9f6ac23cc5e8ce50a072261250ed65f97db001a3c6ba411129129e62`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0701-0725.pdf](../readiness/sources/traffic-manual-2020/p0701-0725.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0701-0725.pdf) | [Text](chunks/p0701-0725-e711a75f9f6a/p0001-0025.txt) | 212,736 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 726–750
+
+**PDF-ae33d460e9a1** · original-source · 25 pages · original SHA-256 `ae33d460e9a1c35114f5c4095851897ba48770b63c4e4fa77dde06493181ae27`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0726-0750.pdf](../readiness/sources/traffic-manual-2020/p0726-0750.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0726-0750.pdf) | [Text](chunks/p0726-0750-ae33d460e9a1/p0001-0025.txt) | 593,744 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 751–775
+
+**PDF-17fe45a82895** · original-source · 25 pages · original SHA-256 `17fe45a8289560150fbcc59cf54f43187b2dbde2572d590350123b1420e2a1b8`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0751-0775.pdf](../readiness/sources/traffic-manual-2020/p0751-0775.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0751-0775.pdf) | [Text](chunks/p0751-0775-17fe45a82895/p0001-0025.txt) | 359,807 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 776–800
+
+**PDF-1d932afcfaa8** · original-source · 25 pages · original SHA-256 `1d932afcfaa88b71c42ce0440aab1928639b5576388f3cd75e5916be704a6791`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0776-0800.pdf](../readiness/sources/traffic-manual-2020/p0776-0800.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/traffic-manual-2020/p0776-0800.pdf) | [Text](chunks/p0776-0800-1d932afcfaa8/p0001-0025.txt) | 1,021,398 | extracted |
+
+### Traffic Management Manual for Work on Roadways · complete source PDF pages 801–815
+
+**PDF-7d3cf756ae65** · original-source · 15 pages · original SHA-256 `7d3cf756ae6556514304417e26da661264a7ac960ac5d163d31de4fe9b7446ab`
+
+Original: [curriculum/asphalt-paving/readiness/sources/traffic-manual-2020/p0801-0815.pdf](../readiness/sources/traffic-manual-2020/p0801-0815.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–15 | [PDF](../readiness/sources/traffic-manual-2020/p0801-0815.pdf) | [Text](chunks/p0801-0815-7d3cf756ae65/p0001-0015.txt) | 1,511,610 | extracted |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 1–25
+
+**PDF-906f3016653a** · original-source · 25 pages · original SHA-256 `906f3016653ae92d4f6a38c11b8d94e7a83c69e275e07f594a9735eb93955977`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0001-0025.pdf](../readiness/sources/troxler-3430-manual/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/troxler-3430-manual/p0001-0025.pdf) | [Text](chunks/p0001-0025-906f3016653a/p0001-0025.txt) | 1,229,277 | extracted |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 26–50
+
+**PDF-bc38164caf4a** · original-source · 25 pages · original SHA-256 `bc38164caf4a5329a77862f36f1a4bbc822ebd084671a113825f1d5fd5b31c8f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0026-0050.pdf](../readiness/sources/troxler-3430-manual/p0026-0050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/troxler-3430-manual/p0026-0050.pdf) | [Text](chunks/p0026-0050-bc38164caf4a/p0001-0025.txt) | 806,484 | extracted |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 51–75
+
+**PDF-39ab9fdeb9b7** · original-source · 25 pages · original SHA-256 `39ab9fdeb9b7029d999e3a66209225f52557dc0add6e630039f7925bd89b608a`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0051-0075.pdf](../readiness/sources/troxler-3430-manual/p0051-0075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/troxler-3430-manual/p0051-0075.pdf) | [Text](chunks/p0051-0075-39ab9fdeb9b7/p0001-0025.txt) | 417,498 | No OCR; empty: 2 |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 76–100
+
+**PDF-8baf414e906d** · original-source · 25 pages · original SHA-256 `8baf414e906d9bb37d7e9352fb2f11e1b2d555b5447d7fcdc9f836ad97b3faec`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0076-0100.pdf](../readiness/sources/troxler-3430-manual/p0076-0100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/troxler-3430-manual/p0076-0100.pdf) | [Text](chunks/p0076-0100-8baf414e906d/p0001-0025.txt) | 436,224 | extracted |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 101–125
+
+**PDF-901e796c8f4a** · original-source · 25 pages · original SHA-256 `901e796c8f4a954614387a449f99d33d7349dcfa79452078184c4c19ebe50e70`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0101-0125.pdf](../readiness/sources/troxler-3430-manual/p0101-0125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/troxler-3430-manual/p0101-0125.pdf) | [Text](chunks/p0101-0125-901e796c8f4a/p0001-0025.txt) | 612,847 | extracted |
+
+### RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction · complete source PDF pages 126–133
+
+**PDF-1991371ca60e** · original-source · 8 pages · original SHA-256 `1991371ca60e85d8f69c019560fd17b06309719d96651cb6af6c0d4ad97771e7`
+
+Original: [curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0126-0133.pdf](../readiness/sources/troxler-3430-manual/p0126-0133.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–8 | [PDF](../readiness/sources/troxler-3430-manual/p0126-0133.pdf) | [Text](chunks/p0126-0133-1991371ca60e/p0001-0008.txt) | 147,237 | No OCR; empty: 7 |
+
+### Hand Signals for Hoist and Crane Operations · complete source PDF pages 1–2
+
+**PDF-8c2c589e6b61** · original-source · 2 pages · original SHA-256 `8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e`
+
+Original: [curriculum/asphalt-paving/readiness/sources/wsbc-crane-signals/p0001-0002.pdf](../readiness/sources/wsbc-crane-signals/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/wsbc-crane-signals/p0001-0002.pdf) | [Text](chunks/p0001-0002-8c2c589e6b61/p0001-0002.txt) | 169,189 | extracted |
+
+### Preventing Heat Stress at Work · complete source PDF pages 1–25
+
+**PDF-8dbff6a198a0** · original-source · 25 pages · original SHA-256 `8dbff6a198a01cd838708a91114455b02c6b77d9897e90497670de7f1ec4e30a`
+
+Original: [curriculum/asphalt-paving/readiness/sources/wsbc-heat-stress/p0001-0025.pdf](../readiness/sources/wsbc-heat-stress/p0001-0025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../readiness/sources/wsbc-heat-stress/p0001-0025.pdf) | [Text](chunks/p0001-0025-8dbff6a198a0/p0001-0025.txt) | 895,071 | extracted |
+
+### Preventing Heat Stress at Work · complete source PDF pages 26–32
+
+**PDF-819f539005b8** · original-source · 7 pages · original SHA-256 `819f539005b87dfa2c1a22c89da25c106f8bd494eededcf850aaee7482e35a05`
+
+Original: [curriculum/asphalt-paving/readiness/sources/wsbc-heat-stress/p0026-0032.pdf](../readiness/sources/wsbc-heat-stress/p0026-0032.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–7 | [PDF](../readiness/sources/wsbc-heat-stress/p0026-0032.pdf) | [Text](chunks/p0026-0032-819f539005b8/p0001-0007.txt) | 72,062 | No OCR; empty: 4,5,6 |
+
+### Preventing Crane Rigging Failures · complete source PDF pages 1–2
+
+**PDF-38db373c72ad** · original-source · 2 pages · original SHA-256 `38db373c72ad99cb33a78075d0f64e418aff41647a2ccc45671e7cc87f54703d`
+
+Original: [curriculum/asphalt-paving/readiness/sources/wsbc-rigging-failures/p0001-0002.pdf](../readiness/sources/wsbc-rigging-failures/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/wsbc-rigging-failures/p0001-0002.pdf) | [Text](chunks/p0001-0002-38db373c72ad/p0001-0002.txt) | 129,375 | extracted |
+
+### Regulatory Change Primer: Silica and Rock Dust · complete source PDF pages 1–2
+
+**PDF-ce1579624fff** · original-source · 2 pages · original SHA-256 `ce1579624fff65208ff4f43f4f7b5486135800d772c1642b3b93e08366086f4f`
+
+Original: [curriculum/asphalt-paving/readiness/sources/wsbc-silica-primer/p0001-0002.pdf](../readiness/sources/wsbc-silica-primer/p0001-0002.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–2 | [PDF](../readiness/sources/wsbc-silica-primer/p0001-0002.pdf) | [Text](chunks/p0001-0002-ce1579624fff/p0001-0002.txt) | 59,032 | extracted |
 
 ### Skills for Success Get Started Guide for Practitioners
 
@@ -1560,6 +3170,16 @@ Original: [curriculum/asphalt-paving/ms-4/concepts/teaching-guide.pdf](../ms-4/c
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
 | 1–6 | [PDF](chunks/teaching-guide-08560dc95bbc/p0001-0006.pdf) | [Text](chunks/teaching-guide-08560dc95bbc/p0001-0006.txt) | 74,576 | extracted |
+
+### Readiness · field guide
+
+**PDF-f0d532e487c3** · generated-curriculum · 11 pages · original SHA-256 `f0d532e487c32d6a78eb3b2b6dad02d9cfcb12c43ccd3ca05a0db5c4dedf1d71`
+
+Original: [curriculum/asphalt-paving/readiness/field-guide.pdf](../readiness/field-guide.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–11 | [PDF](chunks/field-guide-f0d532e487c3/p0001-0011.pdf) | [Text](chunks/field-guide-f0d532e487c3/p0001-0011.txt) | 2,860,955 | extracted |
 
 ### Specifications · learner workbook
 

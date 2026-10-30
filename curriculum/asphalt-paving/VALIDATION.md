@@ -86,6 +86,15 @@ The refreshed OEM archive still contains **715 files** and seven complete OEM re
 
 The [CAT/WHMIS validation record](caterpillar/VALIDATION.md) covers 22 CAT publications (1,883 source pages in 88 parts), a 20-figure/89-component atlas, ten identification tasks, official WHMIS PNG/EPS/SVG artwork, seven WHMIS source PDFs and six WHMIS tasks. Four CAT ZIP volumes are each under 34 MiB; the WHMIS ZIP is 8,175,558 bytes. The new classroom pages passed 417 local-link checks and 24 browser cases. All 20 atlas crops match their recorded source regions exactly. The existing asphalt verifier passed 799 checks.
 
-The latest context snapshot now contains **159 PDF paths, 158 unique PDFs, 4,508 pages and 215 chunks/text extracts**. All 88 CAT parts and 34 MS-4 parts are reused directly. Hashes, inventory, ranges, text page maps, annotation destinations and 105 representative render comparisons passed. Its largest part remains 11,682,239 bytes, with at most 25 pages and no size exceptions.
+The context snapshot for that expansion contained **159 PDF paths, 158 unique PDFs, 4,508 pages and 215 chunks/text extracts**. All 88 CAT parts and 34 MS-4 parts are reused directly. Hashes, inventory, ranges, text page maps, annotation destinations and 105 representative render comparisons passed. Its largest part remains 11,682,239 bytes, with at most 25 pages and no size exceptions.
 
 The original OEM ZIP was refreshed with links to the separate CAT and WHMIS collections. It still contains 715 entries and seven complete OEM references; its new size is **57,007,655 bytes**, SHA-256 `fb4e22f7a13a3ca6dbcc9959aa6efd7b288bad76e1a7ff93a96ba6b0373566d4`. Its CRC and relative-path checks passed. The CAT/WHMIS files are packaged separately to keep those downloads smaller.
+
+
+## Full-outline source and tool audit · 30 October 2026
+
+The [new collection validation](readiness/VALIDATION.md) covers 41 complete PDF publications (3,240 pages in 161 small parts), 30 complete archived web articles and 33 source figures. Every PDF page passed visual comparison; original article text and image hashes were checked. A recorded NIOSH alternate-text extraction variation preserves the original text extract and matches the original visible page at 100 dpi.
+
+The collection includes a complete 68-competency source map, 32 tool/equipment groups, three original SVGs, four credited source-page images, an 11-page visual guide and eight ZIPs below 40 MiB. Checks passed for 1,218 local HTML targets, 957 offline ZIP HTML targets, all archive CRCs and source-part hashes, and 12 browser page/viewport cases. The existing material verifier passed 827 checks.
+
+The current context snapshot contains **321 PDF paths, 320 unique PDFs, 7,759 pages and 377 chunks/text extracts**. It directly reuses all 161 readiness, 88 CAT and 34 MS-4 source parts. Inventory, hashes, page maps, sizes, destinations, 108 representative render comparisons and 2,256 retained URI links passed. Exact course manuals, fleet/instrument applicability and site/qualified-review requirements remain recorded in the delivery gap register.

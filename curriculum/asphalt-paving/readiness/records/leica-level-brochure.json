@@ -1,0 +1,32 @@
+{
+  "id": "leica-level-brochure",
+  "slug": "leica-level-brochure",
+  "title": "Leica NA700 Series Automatic Levels",
+  "author": "Leica Geosystems",
+  "edition": "n.d.; manufacturer brochure",
+  "category": "measurement",
+  "scope": "Instrument components, applications and specifications; full user manuals are linked through the manufacturer's MyWorld portal.",
+  "kind": "pdf",
+  "download_filename": "leica-level-brochure.raw",
+  "original_pages": 6,
+  "original_sha256": "41ada121cf904abe6797d65e2a8ada86d39bcec37e073233a4e1e1b81a3bfdaa",
+  "original_bytes": 1197017,
+  "source_url": "https://leica-geosystems.com/-/media/files/leicageosystems/products/brochures/leica_na700_bro.pdf?sc_lang=en&hash=591AB423E5A02DF60C62D29CFE02997E",
+  "final_url": "https://leica-geosystems.com/-/media/files/leicageosystems/products/brochures/leica_na700_bro.pdf?sc_lang=en&hash=591AB423E5A02DF60C62D29CFE02997E",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/leica-level-brochure/p0001-0006.pdf",
+      "text": "text/leica-level-brochure/p0001-0006.txt",
+      "start": 1,
+      "end": 6,
+      "pages": 6,
+      "bytes": 1197017,
+      "sha256": "41ada121cf904abe6797d65e2a8ada86d39bcec37e073233a4e1e1b81a3bfdaa",
+      "text_sha256": "5ceb490bf2ac44f2bdbe7f740c73e8ceab4afdad05b1c6dd22c6e53c5e2162f3",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

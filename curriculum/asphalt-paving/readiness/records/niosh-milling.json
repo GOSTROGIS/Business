@@ -1,0 +1,71 @@
+{
+  "id": "niosh-milling",
+  "slug": "niosh-milling",
+  "title": "Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling",
+  "author": "National Institute for Occupational Safety and Health",
+  "edition": "2015; Publication 2015-105",
+  "category": "safety",
+  "scope": "Engineering-control research for milling; US guidance is contextual, while current BC law and exposure assessment govern BC work.",
+  "kind": "pdf",
+  "download_filename": "niosh-milling.raw",
+  "original_pages": 79,
+  "original_sha256": "76787cbdcfe49e3f56eb1325f834d81cf329e13d3063ca27e9f4f51135109c87",
+  "original_bytes": 3234065,
+  "source_url": "https://www.cdc.gov/niosh/docs/2015-105/pdfs/2015-105.pdf",
+  "final_url": "https://www.cdc.gov/niosh/docs/2015-105/pdfs/2015-105.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/niosh-milling/p0001-0025.pdf",
+      "text": "text/niosh-milling/p0001-0025.txt",
+      "start": 1,
+      "end": 25,
+      "pages": 25,
+      "bytes": 1689180,
+      "sha256": "c45076fce9e843e8e9430908790082d10dc9abc867519281da8df41f6ecfdfbd",
+      "text_sha256": "23580212d4126aa6b9d4654c806ddb1ec7dad715edfac26777f1a212557b396a",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/niosh-milling/p0026-0050.pdf",
+      "text": "text/niosh-milling/p0026-0050.txt",
+      "start": 26,
+      "end": 50,
+      "pages": 25,
+      "bytes": 454426,
+      "sha256": "2fbe3ff557eb0c15bb480b7a428e9ffeac2af8ba43d54c10867482f2f10c6e4e",
+      "text_sha256": "5d5a643f7620d842aff3239937a6988ab4653d76707792354fe0e71d85a844cc",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/niosh-milling/p0051-0075.pdf",
+      "text": "text/niosh-milling/p0051-0075.txt",
+      "start": 51,
+      "end": 75,
+      "pages": 25,
+      "bytes": 657685,
+      "sha256": "f74f343c3b9520369b9f19319252a4d6eb8b96e089c7263a9dc6363c0040c0c4",
+      "text_sha256": "a435ec1a5d2229f3213f774cc36b5e8b5796be1ff6586e5eaf12ec57f1816985",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    },
+    {
+      "file": "sources/niosh-milling/p0076-0079.pdf",
+      "text": "text/niosh-milling/p0076-0079.txt",
+      "start": 76,
+      "end": 79,
+      "pages": 4,
+      "bytes": 573432,
+      "sha256": "44af0ac83e0488fbd2e17748d3e212bc282eb98c11e5ed90214e35fb991d11f8",
+      "text_sha256": "208d2e23234c756d036f2e591104904182df3504f9c8640b59e60d0986119179",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": false,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

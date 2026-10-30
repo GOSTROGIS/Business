@@ -1,0 +1,849 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0051-0075.pdf
+SOURCE SHA-256: 39ab9fdeb9b7029d999e3a66209225f52557dc0add6e630039f7925bd89b608a
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 51 ===
+NOTES
+
+
+
+
+Model 3430           3–23
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 52 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 53 ===
+Chapter 4:
+Advanced Gauge
+Operation
+
+
+
+       This chapter covers the following topics and tasks:
+
+        Enabling offsets
+        Taking thin layer measurements
+
+
+
+
+Model 3430                                                   4–1
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 54 ===
+Offsets
+The Model 3430 is factory-calibrated for soils, asphalt, and
+concrete with an approximate density range of 1100 to 2700
+kg/m3 (70 to 170 pcf). With an offset, the operator can adjust the
+gauge readings to correlate to traditional laboratory methods,
+such as core samples. The Model 3430 gauge provides three
+offsets: density, moisture, and trench.
+
+                              NOTE
+      When an offset has been enabled, all future readings
+      will automatically be adjusted with the offset factor
+      regardless of the test site. It is very important that
+      the operator disable the offset function prior to
+      taking readings on materials that do not require an
+      offset. Offsets are disabled if the gauge is turned off
+      for more than 10 seconds.
+
+Density offsets are common when the material being measured
+is outside the range of 70 to 170 pcf (1121 to 2723 kg/m3) or if
+the material composition varies from average soil/asphalt on
+which the factory calibration is based.
+Moisture offsets are required for accurate measurements if the
+material to be measured contains elements that can cause the
+gauge to yield erroneous results. A negative offset is required if
+the material to be measured is high in hydrogenous components
+such as cement, gypsum, coal, or lime. A positive offset is
+required if the material is high in neutron-absorbing material
+such as boron or cadmium.
+The Model 3430 gauge requires an offset if measurements are to
+be taken inside a trench or close to vertical structures. Vertical
+structures can scatter neutrons and gamma photons back to the
+gauge, increasing the possibility of moisture or density errors
+due to high counts.
+
+
+
+
+4–2
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 55 ===
+Density Offset
+1. To access the Special functions, press 〈SPECIAL〉.
+2. Press the down arrow key once to access the Offset function.
+   Press 〈START/ENTER〉 to display:
+
+                          - OFFSET –
+                         Density Offset
+
+                        ↑↓ or <ENTER>
+
+3. Press 〈START/ENTER〉.
+
+                         - OFFSET –
+                      Density Offset: OFF
+                       Want to enable?
+                       <YES> or <NO>
+
+4. To enable the Density Offset function, press 〈YES〉.
+
+                          - OFFSET –
+
+                       D Off: �000.0 PCF
+                        ↑↓ or <ENTER>
+
+5. Input the difference between the gauge and alternative
+   density readings. To input a minus sign (for a negative
+   offset), press the down arrow first. To scroll through the
+   numerals, press up and down arrows.
+6. To select the next digit and/or exit, press 〈START/ENTER〉.
+   The display will be:
+
+
+                         Density Offset
+                              ON
+
+
+
+
+Model 3430                                                      4–3
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 56 ===
+Moisture Offset
+Some soils contain hydrogen sources other than water or may
+contain neutron absorbers. The gauge measures moisture by
+determining the hydrogen content of the material and relating
+this to the water content. Because of this, both types of material
+could cause gauge readings that differ from the true moisture. If
+measuring such materials, use the moisture offset to adjust the
+readings.
+The offset factor (k) is determined by comparing the moisture
+content of a laboratory sample with the moisture content
+determined by a gauge reading.
+
+To determine the offset factor:
+1. Take a gauge reading at the site. Record thereading
+   (%MGAUGE).
+2. Remove one or more samples from the site and seal the
+   container until it can be dried by lab methods. Calculate the
+   average moisture of the dried laboratory samples and the
+   average of the gauge measurements. These averages should
+   be used for the offset factor calculation.
+3. Calculate the offset factor (k).
+                     %MLAB – %MGAUGE
+               k=                           × 1000
+                     100 + %MGAUGE
+
+
+
+                             NOTE
+      If the k value is negative, enter a minus sign (–)
+      by pressing the down arrow before entering the
+      first digit.
+
+
+
+
+4–4
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 57 ===
+To enter the offset factor in the gauge:
+1. Access the Special functions by pressing 〈SPECIAL〉.
+2. Press the down arrow key once to access the Offset function.
+   Press 〈START/ENTER〉 to display:
+
+                          - OFFSET -
+                         Moisture Offset
+
+                         ↑↓ or <ENTER>
+
+3. To enter a moisture offset, press the down arrow once and
+   press 〈START/ENTER〉.
+
+                          - OFFSET -
+                      Moisture Offset:OFF
+                       Want to enable?
+                       <YES> or <NO>
+
+4. To enable the Moisture Offset function, press 〈YES〉.
+
+                            - OFFSET -
+
+                            K: -00.00
+                         ↑↓ or <ENTER>
+
+The first digit will flash. To input a minus (–) sign (for a negative
+offset), press the down arrow first.
+5. Press the down arrow key to scroll through the possible
+   values for each digit. Select the next digit by pressing
+   〈START/ENTER〉. When all digits are entered, the gauge will
+   enable the offset. The display will be:
+
+
+                         Moisture Offset
+                               On
+
+
+
+
+Model 3430                                                       4–5
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 58 ===
+Trench Offsets
+If the gauge is to be used for moisture or density measurements
+in a trench or within 2 ft. (0.6 m) of a large vertical structure, a
+trench offset may be required. If used, the trench offset adjusts
+all moisture measurements but only the density measurements
+from backscatter through 4 in. (10 cm). Measurements deeper
+than 10 cm (4 in) do not require the offset.
+
+To perform a trench offset:
+1. Take the daily standard count (outside the trench) and
+   record the density standard (DS) and moisture standard
+   (MS) values.
+2. Place the gauge on the reference standard block in the
+   trench the same distance from the wall as the
+   anticipated readings. Do not take another standard
+   count.
+3. Set the count time to four minutes.
+4. With the source rod in the SAFE (standard count) position,
+   take a four-minute count. To start the count, press the
+   〈START/ENTER〉 key.
+5. Record the trench density count (DCTrench) and moisture
+   count (MCTrench.) by scrolling to the third data screen.
+6. Subtract the daily standard count values from the trench
+   count values:
+      Dens Cnst = (DCTrench) – DS
+      Mois Cnst = (MCTrench) – MS
+
+The Dens Cnst and Moist Cnst will be entered as the Trench
+Offset values.
+
+
+
+
+4–6
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 59 ===
+To enable a trench offset:
+1. Press 〈SPECIAL〉 to access the Special functions, then press
+   the down arrow key once to access the Offset function. Press
+   〈START/ENTER〉 to display:
+
+                          - OFFSET -
+                         Trench Offset
+
+                        ↑↓ or <ENTER>
+
+To enter a trench offset, press the down arrow twice and press
+〈START/ENTER〉.
+
+                          - OFFSET -
+                       Trench Offset:OFF
+                        Want to enable?
+                        <YES> or <NO>
+
+To enable the Trench Offset function, press 〈YES〉.
+
+                          - OFFSET –
+
+                       Mois Cnst: �00.00
+                        ↑↓ or <ENTER>
+
+The gauge requests the Mois Cnst and Dens Cnst values
+determined earlier. The procedure for entering the values is the
+same as for moisture and density offsets, ignoring the ± sign on
+the display.
+When the values are complete, the gauge enables the offset and
+displays:
+
+
+                         Trench Offset
+                              ON
+
+
+
+
+Model 3430                                                  4–7
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 60 ===
+Thin Layer Measurements
+Conventional backscatter gauges measure density to depths of
+approximately 4 in. To perform readings on layers of asphalt
+with thickness of 3.33 in. or less, use the following method
+(formula):
+                                WD – DB × K
+                        DT =
+                                     1–K
+
+where:
+      DT = Overlay wet density
+      WD = Density read by gauge
+      DB = Bottom layer wet density
+      K = Effect of top layer thickness on the gauge- see Table 4-1
+To use the above method of overlay measurement, follow the
+procedure below:
+1. Determine the wet density of the bottom layer (underlying
+   material) (DB).
+2. Apply the thin lift overlay.
+3. Determine the thickness of the overlay and select the
+   corresponding (k) value from Table 2 on page 4–10.
+4. Measure the thin lift overlay density with the gauge in
+   backscatter position (WD).
+5. Enter all values into the above equation and calculate the
+   overlay density (DT).
+
+
+
+
+4–8
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 61 ===
+Example
+Given the following values:
+ Bottom Layer Wet Density (DB) = 135 pcf (2162 kg/m3)
+ Overlay Thickness = 1.2 in. (30 mm)
+ K (from Table 4-1) = 0.38235
+ Density read by gauge (WD) = 142.0 pcf (2275 kg/m3)
+                      142.0 – (135 × 0.38235)
+                DT =
+                            1 – 0.38235
+
+                        DT = 146.3 pcf
+                               or,
+                 DT = 2275 – (2162 × 0.38235)
+                              1 – 0.38235
+
+                       DT = 2345 kg/m3
+
+
+                              NOTE
+   The majority of the backscattered gamma rays
+   reaching the detectors are the result of interactions
+   in the top 3.3 in. (84 mm) of the overlay. In
+   applications where the overlay thickness is greater
+   than 3.3 in. (84 mm), use (0) for the k value or use
+   the actual gauge readings (WD).
+
+
+
+
+Model 3430                                                 4–9
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 62 ===
+Table 2. K Values for Thin Lift Overlays
+
+Thickness   Thickness                Thickness   Thickness
+                          K                                    K
+ (inches)    (mm)                     (inches)     (mm)
+   1.0         25       0.46159                     55       0.13459
+               26       0.44787         2.2         56       0.12880
+               27       0.43414                     57       0.12078
+   1.1         28       0.42042         2.3         58       0.11275
+               29       0.40138                     59       0.10781
+   1.2         30       0.38235                     60       0.10285
+               31       0.36475         2.4         61       0.09790
+               32       0.35889                     62       0.09104
+   1.3         33       0.34716         2.5         63       0.08418
+               34       0.33631                     64       0.07995
+               35       0.32547                     65       0.07572
+   1.4         36       0.31462         2.6         66       0.07149
+               37       0.29958                     67       0.06562
+   1.5         38       0.28454         2.7         68       0.05976
+               39       0.27527                     69       0.05615
+               40       0.26600                     70       0.05253
+   1.6         41       0.25673         2.8         71       0.04892
+               42       0.24387                     72       0.04390
+   1.7         43       0.23102         2.9         73       0.03889
+               44       0.22310                     74       0.03580
+               45       0.21517                     75       0.03271
+   1.8         46       0.20725         3.0         76       0.02962
+               47       0.19626                     77       0.02676
+   1.9         48       0.18527                     78       0.02391
+               49       0.17850         3.1         79       0.02105
+               50       0.17172                     80       0.01709
+   2.0         51       0.16495         3.2         81       0.01313
+               52       0.15556                     82       0.01069
+   2.1         53       0.14617                     83       0.00825
+               54       0.14038         3.3         84       0.00581
+
+4–10
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 63 ===
+Chapter 5:
+Optional Features &
+Special Functions
+
+
+       This chapter covers the following topics and tasks:
+
+            Overview of optional features and special functions
+            Recalling data
+            Performing stat and drift tests
+            Resetting the memory
+            Understanding specific gravity and voidless density
+            Setting the units and calibration constants
+
+
+
+
+Model 3430                                                   5–1
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 64 ===
+Data Storage
+The optional data storage feature automatically stores the most
+recent 100 data records. These data records can be viewed on
+the screen or transferred to a computer or printer via the serial
+port or transferred to a storage device or printer via the
+optional USB port (if installed on the gauge).
+To access the stored data, press <SPECIAL>, then use the arrow
+keys to scroll to “DATA OUTPUT” then press <ENTER>. There
+are four menu options under DATA OUPUT. Scroll to select the
+appropriate option to manage stored data:
+♦ Output Records
+♦ View Data, Erase Data
+♦ Set Output Destination
+We recommend that you erase stored data after it is output and
+saved. This will keep the output files size smaller when
+downloading data in the future.
+Before printing or downloading stored data set the Output
+Destination:
+♦ Serial Port,
+♦ USB Printer
+♦ Thumb Drive.
+
+
+USB Port
+The optional USB port can be used to transfer data to a mass
+storage device (thumb drive) or to a USB printer. To access the
+menu for the USB port, press <SPECIAL>, then use the arrow
+keys to scroll to “DATA OUTPUT” and press <ENTER>. Scroll to
+select Set Output Destination, and then select Thumb Drive for
+any mass storage device or USB printer for printing the data.
+Press ENTER. Connect your device to the USB port, then select
+Output Records and press ENTER.
+
+
+5–2
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 65 ===
+Remote Start Keypad
+ If the optional remote start keypad is installed, there will be
+ 〈START〉 and 〈ESC〉 keys near the handle (at the top of the
+ triangular extrusion). These keys are used the same way as
+ those on the gauge keypad. 〈START〉 will begin a reading and
+ 〈ESC〉 will clear the display and return to the Ready screen.
+
+
+ Alkaline Battery for Backup Use
+ The optional alkaline battery pack can be used when the
+ rechargeable battery is depleted, and the gauge cannot be
+ charged. These batteries allow the gauge to run for
+ approximately 50 hours. Note that extra features such as USB
+ port and external beeper will shorten battery life.
+ To use the back-up battery, open the front panel assembly by
+ loosening the four captive screws on the corners. Lift the front
+ panel and find the switch labeled Alkaline/Rechargeable.
+ Toggle the switch to the Alkaline position.
+ When charging the alkaline battery, be sure to toggle the switch
+ back to the Rechargeable position or the batteries will not
+ charge.
+
+ Languages
+ The Model 3430 is available in English, French, and Spanish.
+ The user is prompted to choose the set language the first time
+ the gauge is turned on. Press the up and down arrows to
+ navigate between: 1. English 2. Spanish and 3. French press
+ enter to select the set language. To set the language at any time
+ start at the home menu. Press “Special” then press UP arrow 9
+ times to navigate to language, press enter then use the up and
+ down arrows to choose language, then press enter. If you are
+ interested in the Spanish or French keypad or operator’s
+ manual, please contact your Troxler representative.
+
+
+
+
+5–3
+                                                        Model 3430
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 66 ===
+Recall
+ The Recall function displays only the last measurement data.
+ The Model 3430 gauge does not store multiple readings (unless
+ this is purchased as an optional feature). Therefore, this
+ function displays only the most recent measurement data. To
+ access the Special functions press 〈SPECIAL〉.
+To access the Recall feature press 〈START/ENTER〉.
+The gauge displays the data from the last measurement. Scroll
+through the screens using the up and down arrow keys.
+
+
+Offset
+For information on offsetting gauge readings, refer to page 4–2.
+
+
+Stat Test
+The statistical stability test, or stat test, may be performed to
+validate the normal operation of the gauge. Erratic readings or
+readings that seem to fluctuate may indicate a problem with the
+gauge. In the event the readings are suspect, a stat test may be
+executed.
+A stat test consists of 20 one-minute counts. After the 20 counts,
+the gauge calculates the standard deviation. This standard
+deviation is compared to a theoretical standard deviation value.
+Ideally this ratio should be one. However, the Model 3430 gauge
+pre-scales (or divides) the counts by 16, resulting in an ideal
+ratio of 0.25. The acceptable limits for the ratio are from 0.17 to
+0.33. The gauge is considered unstable if the ratio is outside
+these limits.
+
+To perform a stat test:
+1. Place the gauge on the reference standard block in the
+   standard count position (see page 3–10).
+2. To access the Special functions, press 〈SPECIAL〉.
+
+
+
+5–3
+5–4                                                      Model 3430
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 67 ===
+3. To access the Stat Test feature press the down arrow twice
+   and then press 〈START/ENTER〉.
+
+                           - STAT TEST –
+
+                          20 m. Stat Test
+                          Press <START>
+
+
+
+ 4. To begin the twenty counts, press 〈START/ENTER〉. Do not
+    disturb the gauge or allow other nuclear sources within 30
+    ft. (10 m) during the twenty counts.
+
+ 5. The gauge will display the stat test count progress as shown
+    below.
+
+                               Stat Test: 1
+                                Counting
+                                   60s
+
+
+
+
+ 6. Upon completion of the stat test, the gauge displays the
+    pass/fail status. If the stat test fails, repeat the test twice
+    more. If two out of three stat tests fail, contact Troxler
+    Technical Support.
+      If the stat test passes, the display is:
+
+                       D: PASS M: PASS
+
+                       ↑↓ to view data
+
+
+
+
+5–5
+5–3
+                                                            Model 3430
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 68 ===
+To view the stat test data, use the up and down arrow keys.
+
+                   Dens. R = x.xxx
+                   Dens. AVG = xxxx
+
+                   ↑↓ to view data
+
+
+
+                  Moist R = x.xxx
+                  Moist. AVG = xxx
+
+                  ↑↓ to view data
+
+
+
+                  #1
+                  D xxx M xxx
+
+                  (Use ↑ & ↓ keys)
+
+
+
+
+5–3
+5–6                                                   Model 3430
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 69 ===
+Drift Test
+If the stat test has already been performed, and passed, but
+gauge readings seem to drift between tests, the drift test can
+check the long-term drift of the gauge.
+A drift test consists of five 4-minute counts taken approximately
+three to eight hours after completion of a stat test with no
+movement of the gauge between tests. Pass/fail limits are set
+using the percent difference between the average of the stat and
+drift test results. If the percent difference exceeds 0.5% for
+density or 1% for moisture, the drift test fails.
+
+                             NOTE
+   The gauge should not be turned off between the stat
+   test and drift test. The stat test must be current.
+
+   In addition, the gauge must not be moved between
+   the stat and drift tests to eliminate possible failure
+   due to positioning changes.
+
+
+To perform a drift test:
+1. With the gauge still in the standard count position (on
+   the reference standard block), press 〈SPECIAL〉.
+2. From the Special functions display, select the Drift Test
+   feature by pressing the down arrow three times and then
+   press 〈START/ENTER〉.
+
+                        - DRIFT TEST –
+
+                        20 m. Drift Test
+                        Press <START>
+
+
+
+
+Model 3430                                                       5–7
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 70 ===
+3. To begin the five counts press 〈START/ENTER〉.
+4. The gauge will display the drift test count progress as shown
+   below.
+
+                          Drift Test: 1
+                           Counting
+                             240 s
+
+
+5. As with the stat test, the gauge indicates the count
+   progress during the drift test.
+6. After the five counts have been completed, the display is:
+
+                   D: PASS M: PASS
+                   ↑↓ to view data
+
+
+
+7. To view the drift test data, use the up and down arrow keys.
+
+                   D % Drift xx.xxx
+                   Dens. AVG = xxxx
+
+                   ↑↓ to view data
+
+
+                   M % Drift xx.xxx
+                   M AVG = xxxx
+
+                   ↑↓ to view data
+
+
+                   #1
+                   D xxx M xxx
+
+                   (Use ↑ & ↓ keys)
+
+
+
+
+5–8
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 71 ===
+Specific Gravity
+The specific gravity of a solid is defined as the density of the
+material divided by the density of water. The Specific Gravity
+function allows the operator to input the specific gravity of a
+material into the gauge. This value (SG) is used in the calculation
+of % Air Voids and Void Ratio (see page Error! Bookmark not
+defined.).
+
+To view or change the specific gravity value:
+1. Access the Special functions, by pressing 〈SPECIAL〉.
+2. To access the Specific Gravity feature, press the down arrow
+   five times and press 〈START/ENTER〉.
+
+                        - SPECIFIC GRAV.-
+
+                     SG: 00.00
+                         ↑↓ or <ENTER>
+
+3. To change the value of the flashing digit, use the up and
+   down arrows. To accept the flashing value and select the
+   next digit, press 〈START/ENTER〉.
+4. If a value is not entered, the default value is 2.70, the
+   “typical” specific gravity for soil, but will not apply to all soil
+   types
+
+
+
+
+Model 3430                                                       5–9
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 72 ===
+Voidless Density
+The Voidless Density function allows the input of the theoretical
+voidless density value of the asphalt material being measured.
+This value is used in the % Voids calculation.
+
+To view or change the voidless density value:
+1. Access the Special functions, by pressing 〈SPECIAL〉.
+2. To access the Voidless Density feature, press the down arrow
+   six times and press 〈START/ENTER〉.
+
+                      - VOIDLESS DENS.-
+
+                   Gmm: 000.0 PCF
+                     ↑↓ or <ENTER>
+
+To change the value of the flashing digit, use the up and down
+arrows. To accept the flashing value and select the next digit,
+press 〈START/ENTER〉.
+
+
+
+Set Units
+For information on the Set Units feature, see page 3–7.
+
+
+
+
+5–10
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 73 ===
+Memory Reset
+This function is protected by a special access code and should
+only be used with proper authorization from Troxler.
+
+                            NOTE
+   This function is for authorized personnel only!
+
+
+                                CAUTION
+   The Memory Reset function resets settings to the
+   default values (except calibration constants).
+
+
+
+15- Second Inhibit
+The 15-Second Inhibit function enables the gauge owner or
+operator to disable the 15-second count option. When this
+function is enabled, the gauge can only conduct one- or four-
+minute counts.
+To disable the 15-second count option, first access the Special
+functions by pressing 〈SPECIAL〉. Use the up or down arrows to
+display:
+
+                        - 15 SECONDS -
+
+
+                        ↑↓ or <ENTER>
+
+To access the 15-Second Inhibit function, press 〈START/ENTER〉.
+
+                        - 15 SECONDS -
+                              Code:
+                              0000
+                        ↑↓ or <ENTER>
+
+
+Model 3430                                                  5–11
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 74 ===
+This feature requires the input of the access code found in the
+front of this manual. Using the up and down arrow keys to select
+the correct number for the flashing digit, enter the access code.
+To accept the flashing value and select the next digit, press
+〈START/ENTER〉.
+If the 15-second count option is currently enabled, the gauge
+displays:
+
+                       - 15 SECONDS –
+                      15 Sec. Inhibit:ON
+                       Want to disable?
+                        <YES> or <NO>
+
+Press 〈YES〉 to disable the 15-second count option. The gauge
+returns to the Ready mode.
+If the 15-second count option is currently disabled, the gauge
+displays:
+
+                       - 15 SECONDS –
+                      15 Sec. Inhibit:OFF
+                       Want to enable?
+                        <YES> or <NO>
+
+Press 〈YES〉 to enable the 15-second count option. The gauge
+returns to the Ready mode.
+
+
+
+
+5–12
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 75 ===
+Battery Status
+The Battery Status feature shows the voltage left on the
+rechargeable batteries. When the batteries are fully charged,
+the battery voltage should be between 6.8 and 7.2 V dc. Charge
+batteries as described on page A-7.
+
+
+
+View Constants
+The View Constants feature displays the moisture and density
+constants for the depths for which is the gauge is calibrated.
+
+
+
+CLI Status
+                            NOTE
+   This function is for factory-authorized personnel
+   only.
+
+
+
+
+Model 3430                                                  5–13
+

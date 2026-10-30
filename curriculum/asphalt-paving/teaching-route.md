@@ -75,6 +75,8 @@ The six redraws cite the exact source figures/pages, state the changes and retai
 
 ## Machine identification and WHMIS classroom route
 
+Before developing B–L technical instruction, use the [complete competency/source map](readiness/coverage.html), [tool register](readiness/tools.html) and [delivery gap record](readiness/gaps.html). The [visual tools and rigging guide](readiness/field-guide.html) connects actual manufacturer figures, WorkSafeBC Part 15, measuring instruments and site requirements to nine-skills evidence. Its short document exercises support preparation; the full occupational units and practical assessments still require development and qualified review.
+
 Use the [20-figure CAT parts atlas](caterpillar/parts-atlas.html) with its [ten tasks](caterpillar/practice.html) and [separate answer guide](caterpillar/teaching-guide.html). The 22-publication source library supplies full original page sequences and smaller PDF parts. Use the [WHMIS reference](whmis/index.html), [six tasks](whmis/practice.html) and [answers](whmis/teaching-guide.html) for product identity, symbol reading and SDS navigation.
 
 | Trade preparation | Complete classroom work | Evidence |

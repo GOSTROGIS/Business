@@ -1,0 +1,32 @@
+{
+  "id": "blacktop-brush",
+  "slug": "blacktop-brush",
+  "title": "Heavy Duty Concrete/Blacktop Brush Assembly Instructions",
+  "author": "Seymour Midwest",
+  "edition": "n.d.",
+  "category": "tools",
+  "scope": "Brush, spline, handle and attachment hardware; actual manufacturer figures retained.",
+  "kind": "pdf",
+  "download_filename": "blacktop-brush.raw",
+  "original_pages": 2,
+  "original_sha256": "32854476d0c4c6ad3b233d71de0ba711e4b7bbf5b19bac19b69fb17bd1395f3b",
+  "original_bytes": 995117,
+  "source_url": "https://seymourmidwest.com/uploads/instructions/pk90133-heavy-duty-concrete-blacktop-brush.pdf",
+  "final_url": "https://seymourmidwest.com/uploads/instructions/pk90133-heavy-duty-concrete-blacktop-brush.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/blacktop-brush/p0001-0002.pdf",
+      "text": "text/blacktop-brush/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 995117,
+      "sha256": "32854476d0c4c6ad3b233d71de0ba711e4b7bbf5b19bac19b69fb17bd1395f3b",
+      "text_sha256": "2b2ba4d55b2ff08f519a596e121b46e9e18e65e190fcc3ba4af053791c9e415a",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

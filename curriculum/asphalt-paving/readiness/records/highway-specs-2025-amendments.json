@@ -1,0 +1,32 @@
+{
+  "id": "highway-specs-2025-amendments",
+  "slug": "highway-specs-2025-amendments",
+  "title": "Amendments to 2025 Standard Specifications, Update 3",
+  "author": "BC Ministry of Transportation and Transit",
+  "edition": "2026; conflicting dates in source",
+  "category": "specifications",
+  "scope": "Header says January 12, 2026; main heading says April 1, 2026. Confirm the issued amendment set with the contract administrator.",
+  "kind": "pdf",
+  "download_filename": "highway-specs-2025-amendments.raw",
+  "original_pages": 2,
+  "original_sha256": "152e943e8525ef0330c44d1a493455efda90c8cf756733cb1871ecbe30c15337",
+  "original_bytes": 261975,
+  "source_url": "https://www2.gov.bc.ca/assets/gov/driving-and-transportation/transportation-infrastructure/engineering-standards-and-guidelines/highway-specifications/2025-amendments/2025-special-provisions-appendix-amendments.pdf",
+  "final_url": "https://www2.gov.bc.ca/assets/gov/driving-and-transportation/transportation-infrastructure/engineering-standards-and-guidelines/highway-specifications/2025-amendments/2025-special-provisions-appendix-amendments.pdf",
+  "accessed": "2026-10-30",
+  "parts": [
+    {
+      "file": "sources/highway-specs-2025-amendments/p0001-0002.pdf",
+      "text": "text/highway-specs-2025-amendments/p0001-0002.txt",
+      "start": 1,
+      "end": 2,
+      "pages": 2,
+      "bytes": 261975,
+      "sha256": "152e943e8525ef0330c44d1a493455efda90c8cf756733cb1871ecbe30c15337",
+      "text_sha256": "596fef47e242bd61b77f176eea8155886efab1740aea13cc03248f7a67cedf64",
+      "empty_text_source_pages": [],
+      "original_bytes_preserved": true,
+      "unused_resource_cleanup": false
+    }
+  ]
+}

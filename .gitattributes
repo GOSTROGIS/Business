@@ -21,3 +21,8 @@ curriculum/asphalt-paving/ms-4/edits/*.txt -text -whitespace
 # Preserve official vector artwork and checksummed manufacturer text extracts.
 *.eps -text -whitespace
 curriculum/asphalt-paving/caterpillar/text/** -text -whitespace
+curriculum/asphalt-paving/readiness/text/** -text -whitespace
+curriculum/asphalt-paving/readiness/web/raw/** -text -whitespace
+curriculum/asphalt-paving/readiness/web/text/** -text -whitespace
+# Readable archived articles retain publisher whitespace and comments.
+curriculum/asphalt-paving/readiness/web/*.html -text -whitespace

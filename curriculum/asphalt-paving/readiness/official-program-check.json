@@ -1,0 +1,19 @@
+{
+  "checked": "2026-10-30",
+  "documents": [
+    {
+      "source_url": "https://skilledtradesbc.ca/media/490/download",
+      "final_url": "https://skilledtradesbc.ca/media/490/download",
+      "sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+      "existing_file": "../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf",
+      "result": "Current official download is byte-identical to the existing repository source; no duplicate added."
+    },
+    {
+      "source_url": "https://skilledtradesbc.ca/media/491/download",
+      "final_url": "https://skilledtradesbc.ca/media/491/download",
+      "sha256": "8fbba756fa18d445fe31f5e9b6a960448685cf1839dd735cf43da150da3108b0",
+      "existing_file": "../sources/asphalt-paving-laydown-technician-program-profile-nov-2014.pdf",
+      "result": "Current official download is byte-identical to the existing repository source; no duplicate added."
+    }
+  ]
+}

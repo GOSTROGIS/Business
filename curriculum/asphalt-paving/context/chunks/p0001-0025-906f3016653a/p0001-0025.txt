@@ -1,0 +1,685 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/troxler-3430-manual/p0001-0025.pdf
+SOURCE SHA-256: 906f3016653ae92d4f6a38c11b8d94e7a83c69e275e07f594a9735eb93955977
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+Manual of Operation and Instruction
+
+
+
+
+Troxler RoadReader™
+ Model 3430 Surface
+Moisture-Density Gauge
+
+
+
+
+    Troxler Electronic Laboratories, Inc.
+       3008 Cornwallis Rd. • P.O. Box 12057
+        Research Triangle Park, NC 27709
+             Phone: 1.877.TROXLER
+        Outside the USA: +1.919.549.8661
+              Fax: +1.919.549.0761
+              www.troxlerlabs.com
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+Troxler products are protected by U.S. and foreign Patents
+
+
+Copyright  2015-2021
+Troxler Electronic Laboratories, Inc.
+All Rights Reserved
+
+
+No part of this manual may be reproduced or transmitted in any
+form or by any means, electronic or mechanical, including
+photocopying, recording, or information storage and retrieval
+systems, for any purpose without the express written
+permission of Troxler Electronic Laboratories, Inc.
+
+
+Magnalube-G is a registered trademark of Magnalube, Inc.
+BindOff is a registered trademark of Chemical Solutions, Inc.
+
+
+
+
+PN 110990
+February 2021
+Edition 1.3
+
+
+
+
+Model 3430                                                      i
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+ii
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+TROXLER SERVICE CENTERS
+                  Troxler Corporate Headquarters
+                            P.O. Box 12057
+                   Research Triangle Park, NC 27709
+                 Phone: 1.877.TROXLER (1.877.876.9537)
+                  Outside the U.S.A.: +1.919.549.8661
+                         Fax: +1.919.549.0761
+Technical Support                   North Carolina Service Center
+Phone: 1.877.TROXLER                3008 E. Cornwallis Road
+ (1.877.876.9537)                   Research Triangle Park, NC 27709
+ 1-919-549-8661(International)      Phone: +1.919.549.8661
+TroxTechSupport@troxlerlabs.com     Fax: +1.919.549.0761
+                                    TroxTechSupport@troxlerlabs.com
+Florida Office & Service Center     Midwestern Office & Service Center
+2376 Forsyth Road                   1430 Brook Drive
+Orlando, FL 32807                   Downers Grove, IL 60515
+Phone: +1.407.681.4221              Phone: +1.630.261.9304
+Fax: +1.407.681.3188                Fax: +1.630.261.9341
+TroxTechSupport@troxlerlabs.com     TroxTechSupport@troxlerlabs.com
+
+
+Western Office & Service Center     Southwestern Office & Service Center
+11300 Sanders Drive, Suite 7        2016 East Randol Mill Rd., Suite 406
+Rancho Cordova, CA 95742            Arlington, TX 76011
+Phone: +1.916.631.0234              Phone: +1.817.275.0571
+Fax: +1.916.631.0541                Fax: +1.817.275.8562
+TroxTechSupport@troxlerlabs.com     TroxTechSupport@troxlerlabs.com
+
+
+Troxler Europe & Service Center     Troxler Electronic Technologies
+Troxler Electronics GmbH            (Zhangjiagang)
+Waldstrasse 4, D.82239 Alling nr.   1F, Bldg G, No. 1 Guotai North Road
+Munich, Germany                     ZJG, China, 215600
+Phone: ++ 49.8141.71063             Phone: 0086.512.56793702
+Fax: ++49.8141.80731                Fax: 0086.512.56793701
+troxler@t-online.de                 kjin@troxlerlabs.cn
+  To locate an independent, Troxler-authorized service partner
+  near you, call 1.877.TROXLER (1.877.876.9537).
+
+    Model 3430                                                     ii
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 5 ===
+ABOUT THIS MANUAL
+The Model 3430 Manual of Operation and Instruction provides
+detailed information about this gauge. The manual includes
+product safety information, as well as instructions for the
+proper installation and use of the Model 3430 gauge.
+This manual is organized as follows:
+Chapter 1, Introduction – Provides information on the safe use
+of the gauge; a brief overview of the unit and its features; a list
+of parts and accessories; and instructions for unpacking and
+inspection.
+Chapter 2, Theory of Operation – Provides a brief description
+of how the gauge’s operations work in relation to their sources.
+Chapter 3, Using the Gauge – Describes the keypad and
+provides instructions for setting up, starting, and operating the
+gauge.
+Chapter 4, Advanced Gauge Operation –Describes the options
+available from the gauge’s Special menu.
+Chapter 5, Special Functions – Describes the gauge’s special
+functions, such as stat and drift tests and memory reset.
+Appendix A, Maintenance & Troubleshooting – Provides
+maintenance and service information, as well as instructions for
+basic troubleshooting.
+Appendix B, Specifications – Contains mechanical, electrical,
+and environmental performance specifications.
+Appendix C, Transporting and Shipping – Provides
+information about shipping requirements for the United States
+and Canada.
+Appendix D, Radiation Safety & Theory – Provides a radiation
+primer, regulatory requirements, and gauge safety precautions.
+Appendix E, Standard Count Log – Use this form to record
+your standard count readings.
+Appendix F, Unit Conversion – Provides a conversion
+for measurement and radiological units.
+
+
+Model 3430                                                       iii
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 6 ===
+HOW TO USE THIS MANUAL
+Congratulations on the purchase of the Troxler Model 3430
+Surface Moisture-Density Gauge.
+The Model 3430 Manual of Operation and Instruction contains
+information on how the Model 3430 operates and provides
+directions on the use of this gauge. Site selection, basic
+parameter setup, moisture and density determination, data
+storage, and advanced operations are included, along with
+radiological information and system troubleshooting.
+
+
+
+
+iv
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 7 ===
+CONVENTIONS USED IN THIS MANUAL
+Throughout this manual the following symbols and special
+formatting are used to reveal the purpose of the text.
+
+                               WARNING
+
+       Warnings indicate conditions or procedures that,
+       if not followed correctly, may cause personal
+       injury.
+
+
+                               CAUTION
+   Cautions indicate conditions or procedures that, if not
+   followed correctly, may cause equipment damage.
+
+                             NOTE
+   Notes indicate important information that must be
+   read to ensure proper operation.
+
+〈KEY〉 This style indicates a key or character to press on the
+       ADU keypad.
+
+       DISPLAY–Typestyle and
+       shading used to simulate the
+       control panel display
+
+1. Indicates a procedure with multiple steps.
+♦ Indicates a list of things needed (such as equipment) or
+  important points to know.
+ Indicates that more than one option is available. Carefully
+   select the option that applies.
+
+
+
+
+Model 3430                                                      v
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 8 ===
+CAUTIONS AND WARNINGS
+
+     Units intended for use in countries that are members of
+     the European Community are shipped with an AC adapter,
+     Troxler part number 108354.
+
+     Gauge cover is to be removed by trained service personnel
+     only. There are no user-serviceable components inside.
+     Note that components behind the cover can have voltage
+     potentials in excess of 50 volts during normal operation of
+     the gauge.
+
+     Appendix D, Radiation Theory and Safety should be read
+     carefully and understood before using the gauge.
+     The source rod should automatically retract to the SAFE
+     position when the gauge is lifted by the handle.
+     The Model 3430 gauges are not waterproof. Please do not
+     use them in the rain. If the gauge gets wet, make sure it is
+     completely dry before sealing it in the case for storage.
+     Even small amounts of moisture can get into the body of
+     the gauge and cause damage. If you suspect that moisture
+     may be inside the gauge open the keypad panel and run a
+     fan or hairdryer (on low) in the gauge for an hour or more
+     until dry.
+
+
+
+
+vi
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 9 ===
+TABLE OF CONTENTS
+
+
+ CHAPTER 1: INTRODUCTION .................................... 1–1
+ Introduction............................................................................................. 1–2
+ Gauge Parts and Accessories ............................................................ 1–4
+ Unpacking and Inspection ................................................................. 1–6
+
+
+ CHAPTER 2: THEORY OF OPERATION ...................... 2–1
+ Density ...................................................................................................... 2–2
+ Moisture.................................................................................................... 2–5
+
+
+ CHAPTER 3: USING THE GAUGE ............................... 3–1
+ The Keypad .............................................................................................. 3–2
+ Source Rod Positions ........................................................................... 3–4
+ Daily Inspection ..................................................................................... 3–5
+ Turning the Gauge On......................................................................... 3–5
+ Gauge Setup ........................................................................................... 3–7
+ Taking the Standard Count ............................................................. 3–10
+ Site Preparation ................................................................................... 3–13
+ Taking a Measurement – Soil Mode ............................................ 3–16
+ Taking a Measurement – Asphalt Mode..................................... 3–20
+
+
+ CHAPTER 4: ADVANCED GAUGE OPERATION ........ 4–1
+ Offsets ....................................................................................................... 4–2
+ Thin Layer Measurements .................................................................. 4–8
+
+CHAPTER 5: OPTIONAL FEATURES & SPECIAL
+ Model 3430                                                                                                     vii
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 10 ===
+FUNCTIONS ................................................................. 5–1
+Data Storage ........................................................................................... 5–2
+USB Port.................................................................................................... 5–2
+Remote Start Keypad ........................................................................... 5–3
+Alkaline Battery for Backup Use ....................................................... 5–3
+Languages ................................................................................................ 5–3
+Recall.......................................................................................................... 5–3
+Offset ......................................................................................................... 5–4
+Stat Test .................................................................................................... 5–4
+Drift Test ................................................................................................... 5–7
+Specific Gravity ....................................................................................... 5–9
+Voidless Density................................................................................... 5–10
+Set Units.................................................................................................. 5–10
+Memory Reset ...................................................................................... 5–11
+15- Second Inhibit ................................................................................ 5–11
+
+Battery Status........................................................................................ 5–13
+View Constants..................................................................................... 5–13
+CLI Status ................................................................................................ 5–13
+
+
+APPENDIX A : MAINTENANCE &
+TROUBLESHOOTING ..................................................A-1
+Troubleshooting ....................................................................................A-2
+Battery Charging.................................................................................... A-7
+Mechanical Maintenance ................................................................... A-9
+Replacement Parts..............................................................................A-12
+
+
+
+  Model 3430                                                                                                       vii
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 11 ===
+Returning the Gauge for Service ................................................... A-14
+
+
+ APPENDIX B : SPECIFICATIONS ................................ B-1
+ Measurement Specifications..............................................................B-2
+ Radiological Specifications.................................................................B-4
+ Electrical Specifications........................................................................B-4
+ Mechanical Specifications...................................................................B-6
+
+
+ APPENDIX C : TRANSPORTING & SHIPPING .......... C-1
+ U.S. Shipping Requirements.............................................................. C-2
+ Canadian Shipping Requirements ..................................................C-4
+
+
+ APPENDIX D : RADIATION THEORY & SAFETY ...... D-1
+ Radiation Theory ................................................................................... D-2
+ Radiation Safety..................................................................................... D-5
+ Regulatory Requirements ................................................................D-14
+ Gauge Use Precautions.....................................................................D-17
+ Radiation Profile ..................................................................................D-18
+
+
+ APPENDIX E : STANDARD COUNT LOG...................E-1
+ APPENDIX F : Unit Conversion…………....................F-1
+
+
+ INDEX
+
+ WARRANTY
+
+
+
+
+ix
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 12 ===
+LIST OF FIGURES
+Figure 1. Model 3430 Gauge and Accessories ........................... 1–5
+
+Figure 2. Direct Transmission Geometry....................................... 2–3
+
+Figure 3. Backscatter Geometry ....................................................... 2–3
+
+Figure 4. Backscatter Surface Density Effects ............................. 2–4
+
+Figure 5. Effect of Moisture on Depth of Measurement ......... 2–6
+
+Figure 6. Model 3430 Keypad ........................................................... 3–2
+
+Figure 7. Source Rod Positions ........................................................ 3–4
+
+Figure 8. Standard Count Position ................................................ 3–12
+
+Figure 9. Drill Rod Positioning ........................................................ 3–14
+
+Figure 10. Marking the Test Area .................................................. 3–15
+
+Figure 11. Voids Illustration............................................................. 3–19
+
+Figure 12. Diagram of an Atom .......................................................D-2
+
+Figure 13. Effect of Distance on Exposure ...................................D-7
+
+Figure 14. Cleaning the Tungsten Sliding Block..................... D-12
+
+Figure 15. Model 3430 Gauge and Transport Case............... D-18
+
+
+
+                                LIST OF TABLES
+Table 1. Model 3430 Keypad Functions........................................ 3–3
+
+Table 2. K Values for Thin Lift Overlays ....................................... 4–10
+
+Table 3. Radiation Profile for Model 3430 Gauge.................. D-19
+
+
+
+
+x
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 13 ===
+ATTENTION MODEL 3430 GAUGE OWNER
+
+This unit contains functions that require an Access Code
+ to be entered. This allows some control over the access
+   to these functions. If you would like management to
+retain this control, remove this page upon receipt of the
+             gauge and file it somewhere safe.
+
+
+     THE ACCESS CODE IS FOR THIS GAUGE
+
+                       IS: 4678
+
+
+
+
+Model 3430                                              xi
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 14 ===
+NOTES
+
+
+
+
+xii
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 15 ===
+Chapter 1:
+Introduction
+
+       This chapter covers the following topics and tasks:
+
+        An introduction to your new Model 3430 gauge
+        Inspecting and unpacking
+        Included parts and accessories
+
+
+
+
+Model 3430                                                   1–1
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 16 ===
+Introduction
+The Model 3430 Surface Moisture-Density Gauge can quickly
+and precisely determine the moisture and density of soils, soil
+bases, aggregate, concrete and asphaltic concrete without the
+use of core samples or other destructive methods.
+Using direct transmission or backscattered gamma radiation,
+the Model 3430 gauge determines the density of materials by
+counting the number of photons emitted by a cesium-137
+source. Geiger-Mueller (G-M) detectors located in the gauge
+base detect the gamma radiation and a microprocessor converts
+the counts into a density reading.
+Using the principle of neutron thermalization, the Model 3430
+determines the moisture content of soils and soil-like materials.
+Hydrogen (water) in the material slows neutrons emitted from
+an americium-241: beryllium source. Helium-3 detectors
+located in the gauge base detect the slowed neutrons.
+The nuclear method of testing density and moisture has been
+approved by the American Society of Testing and Materials
+(ASTM). The Model 3430 meets or exceeds all applicable
+American Society of Testing and Materials (ASTM) standards (or
+corresponding equivalent), including:
+♦ ASTM C–1040: Standard Test Methods for In-Place Density
+  of Unhardened and Hardened Concrete, Including Roller
+  Compacted Concrete, By Nuclear Methods
+♦ ASTM D-2950: Standard Test Method for Density of
+  Bituminous Concrete in Place by Nuclear Method.
+♦ ASTM D-6938: Standard Test Methods for In-Place Density
+  and Water Content of Soil and Soil-Aggregate by Nuclear
+  Methods (Shallow Depth)
+Some information contained in this manual is used in training
+courses offered by Troxler Electronic Laboratories, Inc. and to
+assist purchasers in obtaining a Radioactive Materials License
+from the U.S. Nuclear Regulatory Commission or an Agreement
+State. Owners of this gauge must maintain a current radioactive
+materials license as long as they own the gauge, even if it is in
+storage and not actively being used.
+1–2
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 17 ===
+Any licensing issues discussed in this manual are for the United
+States. To purchase a Model 3430 in Canada, owners must
+obtain a radioisotope license from the Canadian Nuclear Safety
+Commission (CNSC). The owner should obtain copies of the
+CNSC Regulations and the Transportation of Dangerous Goods
+Act and Regulations. This manual provides a guide to Canadian
+shipping requirements in Appendix D.
+Owners are encouraged to require study of this manual by users
+before allowing any use of the instrument. To monitor exposure
+to radiation, personnel should wear a dosimeter while operating
+or cleaning the gauge. The sections of the manual covering
+radiation safety should be required reading for all operators and
+potential operators. If these sections are not completely
+understood, users should seek assistance from Troxler, an
+appointed Troxler representative or others designated
+within the user organization. Additional radiation safety
+information is available by attending a Troxler Nuclear Gauge
+Training Course.
+As changes are made to local, state, and federal regulations on a
+continuing basis, the owner/user must maintain knowledge of
+these regulations. The responsibility for compliance ultimately
+falls upon the owner. The owner may also wish to purchase and
+subscribe to Titles 10 and 49 of the Code of Federal Regulations
+in addition to applicable local/state regulations.
+
+
+
+
+Model 3430                                                    1–3
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 18 ===
+Gauge Parts and Accessories
+Use Figure 1 and the list below to identify the gauge and parts as
+they are unpacked.
+♦ The Gauge is the portable instrument containing all
+  electronic modules, the rechargeable battery pack,
+  detectors, and the radioactive sources.
+♦ The Reference Standard Block provides a measurement
+  standard for standard counts and is used during stat and
+  drift tests.
+♦ The Drill Rod is used to drill holes for direct transmission
+  measurements. Do not use the source rod of the gauge to
+  drill holes.
+♦ The Scraper Plate / Drill Rod Guide is used to prepare the
+  test site and to guide the drill rod when preparing the site
+  for direct transmission measurements.
+♦ The Extraction Tool provides leverage to remove the drill
+  rod from soil materials.
+♦ The AC Charger and DC Adapter are used to charge the
+  gauge batteries. The AC charger accepts 90 – 220 V AC,
+  50/60 Hz and supplies 12 V DC. The DC adapter allows
+  recharging from an automobile accessory power outlet.
+♦ The Transport Case provided with the gauge has been
+  approved as a Type A package and should not be altered.
+  Always use this transport case when transporting or
+  shipping the gauge.
+♦ The Manual of Operation and Instruction details how to
+  use the gauge.
+
+
+
+
+1–4
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 19 ===
+Figure 1. Model 3430 Gauge and Accessories
+
+
+
+
+Model 3430                                            1–5
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 20 ===
+Unpacking and Inspection
+Troxler recommends that all operators wear a dosimeter while
+working with the gauge. Upon receipt of the gauge from the
+factory, perform a complete inspection and inventory. If the
+shipping case and/or any other part or accessory appears
+damaged, notify the carrier and your Troxler Representative
+immediately.
+Save the box and any packing material for shipping to another
+location or back to the factory
+Check the shipping case for the following:
+♦ Gauge
+♦ Reference Standard Block
+♦ Drill Rod
+♦ Scraper Plate/Drill Rod Guide
+♦ Extraction Tool
+♦ AC Charger
+♦ DC Adapter (for a vehicle cigarette lighter)
+♦ Manual of Operation and Instruction
+♦ Gauge Warranty
+♦ Source Certificate
+♦ Transportation Guide (This guide refers to U.S. standards. All
+  other countries please refer to local regulations. In the
+  absence of local regulations, please use this guide as a
+  reference only.)
+
+
+                           WARNING
+       The source rod should always be locked in the
+       SAFE position when the gauge is not in use.
+
+
+
+1–6
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 21 ===
+NOTE
+   Charge the batteries for three hours prior to initial
+   use.
+
+
+Complete the unpacking and inspection by following these
+steps:
+1. Lift the gauge from the transport case and inspect
+   the outside surface for damage.
+2. Check the lock on the source rod handle and make sure the
+   keys fit.
+3. Remove the lock, release the trigger, and check the source
+   rod operation. It should move up and down with minimal
+   effort.
+4. Replace the handle lock and return the gauge to the
+   transport case.
+
+
+
+
+Model 3430                                                  1–7
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 22 ===
+NOTES
+
+
+
+
+1–8
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 23 ===
+Chapter 2:
+Theory of Operation
+
+
+
+       This chapter covers the following topics and tasks:
+
+        Theory of operation and modes of transmission
+        Overview of density and moisture measurements
+
+
+
+
+Model 3430                                                   2–1
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 24 ===
+Density
+The Model 3430 gauge utilizes two modes of operation: direct
+transmission mode (source rod extended into the material) and
+backscatter mode. Figure 2 and Figure 3 9++6illustrate these
+two modes of operation.
+In direct transmission mode, the rod containing the Cesium-137
+(8 mCi/0.3 GBq) source is lowered to the desired depth. The
+detectors in the gauge base measure the radiation emitted by
+the source rod. Gamma photons reaching the detectors must
+first pass through the material, colliding with electrons present
+in the material. Generally, the lower the number of photons that
+reach the detectors, the denser the material is.
+In backscatter mode, the gamma photons that enter the material
+must be scattered (or reflected) to reach the detectors. With the
+rod locked in the first notch, the source and detectors are in the
+same plane, referred to as the backscatter position. Photons
+emitted from the source penetrate the material and the
+detectors measure the scattered photons.
+While the direct transmission geometry measures the average
+density of the material from the source to the surface, the
+backscatter geometry yields an average heavily weighted by the
+density close to the surface.
+Figure 4 shows two normalized top layer effect curves,
+illustrating the percentages of photons at the detectors for
+various depths. The two curves can be used to compute the
+gauge response to layered material of different densities. For
+example, the density of the top inch of a surface layer accounts
+for about 52% of the backscatter density measurement.
+
+
+
+
+2–2
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 25 ===
+Figure 2. Direct Transmission Geometry
+
+
+
+
+                Figure 3. Backscatter Geometry
+
+
+
+Model 3430                                            2–3
+

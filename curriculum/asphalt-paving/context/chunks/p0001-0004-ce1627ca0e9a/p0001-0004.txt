@@ -1,0 +1,186 @@
+SOURCE: curriculum/asphalt-paving/readiness/sources/infrared-thermometer/p0001-0004.pdf
+SOURCE SHA-256: ce1627ca0e9a4cfde49564a9bf67ebb0f0bde2f9027c39e551901a2be9a02b65
+ORIGINAL PDF VIEWER PAGES: 1–4 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+IR-IND Industrial Infrared &
+      IRK-2 Infrared
+
+
+
+
+                  Operating Instructions
+For tips on using infrared thermometers visit the Learning Center at www.thermoworks.com.
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+Introduction
+Congratulations on purchasing a ThermoWorks precision instrument, the IR-IND or IRK-2 Infrared thermometer. Each in-
+strument is factory tested and a certificate of conformance is included to ensure that it was tested against NIST-Traceable
+standards. Please review this operation guide prior to use.
+
+Operating Instructions
+Open the battery compartment by pulling forward on the front handle. Insert the batteries noting the polarity. Pull the
+trigger, and the temperature reading of the surface being measured will be shown on the LCD display. Use the circle laser
+pattern to identify the target area being measured. On the side of the unit are slots to insert a type K thermocouple probe
+(sold separately) for contact measurements.
+
+Infrared measurements are affected by many factors including emissivity, distance, ambient temperature, material of
+target being measured and many other factors. For tips on using infrared thermometers visit the Learning Center at
+www.thermoworks.com.
+
+Features                                                                                                 Infrared Lens
+                                      Thermocouple
+            LCD                             Socket
+                                                                                                          Laser
+                                      Mode Key
+
+         Down Key                     Up Key
+
+
+
+
+                                                                          Meas. Key
+                                                                          ‘Trigger’
+
+
+                                                                  Battery Cover
+
+
+
+
+Function Keys (Press Mode button to scroll)
+                          Current emissivity setting. (The default emissivity is 0.95.)
+
+                          Press ‘Mode’ button, then press ‘Up’ key or ‘Down’ key to set the emissivity. Press ‘Mode’
+                          key to save. The emissivity is settable from 0.10 (10E) to 1 (100E).
+
+
+
+                          Press ‘Mode’ button to view Maximum (MAX), Minimum (MIN), Different between MAX
+                          and MIN (DIF) and Average (AVG) modes. All functions are reset when measurements
+                          resume.
+
+
+
+                          Press ‘Up’ key or ‘Down’ key to change the High Alarm (HAL) or Lo Alarm (LAL), then press
+                          ‘Meas.’ key to save. Alarm will sound and screen will flash when limits are exceeded. Alarm
+                          is for infrared measurements only.
+
+
+                          Connect a suitable type K thermocouple probe to the connection on the side of the unit.
+                          Within the PRB function the temperature of the probe will be displayed in the lower display.
+
+
+
+Lock Mode
+Press the “Lock” button to enable the continuous operation mode. In this mode the unit will measure without requiring
+the press of the trigger. Press ‘Lock’ button again to disable continuous operation mode.
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+Backlight
+To turn on the LCD backlight, press the “Lock” button while holding down the trigger. Press again to turn the backlight off.
+
+Laser
+To turn on the circle laser, press the “C/F” button while holding down the trigger. Press again to turn the laser off.
+
+Storage & Cleaning
+The thermometer should be stored at room temperature. The sensor lens is the most delicate part of the thermometer.
+The lens should be kept clean at all times; care should be taken when cleaning the lens using only a soft cloth or cotton
+swab with water or medical alcohol, allowing the lens to fully dry before using the thermometer. Do not submerge any
+part of the thermometer.
+
+Troubleshooting
+The thermometer incorporates visual diagnostic messages as follows:
+
+                           ‘Hi’ or ‘Lo’ is displayed when the temperature being measured is outside of the settings of
+                           HAL and LAL.
+
+                           ‘Er2’ is displayed when the thermometer is exposed to rapid changes in the ambient (working
+                           / room) temperature. ‘Er3’ is displayed when the ambient temperature exceeds 32°F (0°C)
+                           or 122°F (50°C). The thermometer should always be allowed plenty of time (minimum of 30
+                           minutes) to stabilize to the ambient temperature.
+
+                           Error 5-9 is displayed for all other error messages; it is necessary to reset the thermometer.
+                           To reset the thermometer, turn it off, remove the battery and wait for a minimum of one
+                           minute, reinsert the battery and turn on. If the error message remains, please contact
+                           Technical Support at techsupport@thermoworks.com for further assistance. ‘Hi’ or ‘Lo’ is
+                           displayed when the temperature being measured is outside of the measurement range.
+
+                           ‘Battery Low’ Replace batteries. Measurements are not affected
+
+
+                           Replace batteries
+
+
+    When the ‘Low Battery’ icon flashes, the battery should be replaced immediately with AAA, 1.5V batteries. Please
+note: Turn the instrument off before replacing the battery.
+
+     Dispose of used battery promptly and keep away from children.
+
+
+Specifications
+                         Range IR-IND       -76 to 1400°F (-60 to 760°C)
+                           Range IRK-2      -76 to 1022°F (-60 to 550°C)
+            Type K Thermocouple Range       -83.2 to 2552°F (-64 to 1400°C)
+                       Operating Range      32 to 122°F (0 to 50°C)
+               Accuracy*(Tamb=25°C)        59 to 95°F ±1.8°F (15 to 35°C ±1.0°C)
+            Accuracy*(Tamb=23±3°C)         -60 to 0: ±(2+0.05/deg C) deg C,
+                                            0 to 760: 2% of reading or 4°F (2°C), whichever is greater
+                       Emissivity Range     0.95 default — adjustable 0.1 to 1 step .01
+                              Resolution    0.1° at -83.2 to 999.9°, otherwise 1°
+                  Response Time (90%)       1 sec.
+                   Distance:Spot IR-IND     30:1 (90% energy covered)
+                    Distance:Spot IRK-2     12:1 (90% energy covered)
+                             Battery Life   Typical 140 hours continuous use (Alkaline, without Laser and Backlight)
+                            Dimensions      4.7 x 1.87 x 6.76 inches (119.2 x 47.5 x 171.8 mm)
+                                  Weight    9.02 oz. (255.7g) including batteries (AAA x 2)
+
+*IR accuracy can be affected by the emissivity setting, target spot size and rapid changes in ambient temperature.
+
+    EMC/RFI: Readings may affected if the unit is operated within the radio frequency electromagnetic field strength of
+approximately 3 volts per meter, but the performance of the instrument will not be permanently affected.
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+CERTIFICATE OF CONFORMANCE
+
+The manufacturer of this instrument has implemented a quality assurance system
+under ISO 9001:2000 certified quality system and fully follow ISO GUM (Guide to the
+Expression of Uncertainty in Measurement) to evaluate the uncertainty of temperature
+and resistance standards, guarantee performance as below:
+
+
+       Calibration         Max Error        Target Accuracy      Target Stability
+      Temperature
+         -30°C               ±3.5°C              ±0.3°C               0.3°C
+           0°C               ±2.0°C              ±0.4°C               0.1°C
+         100°C               ±2.0°C              ±0.4°C               0.1°C
+         200°C               ±4.0°C              ±0.5°C               0.1°C
+          Note: Assume the operation ambient temperature under 23 ± 3°C
+
+
+Furthermore, we certify that this infrared thermometer has been inspected and found to
+comply with published specifications. This device has been calibrated by temperature
+and/or resistance standards that are traceable to NIST (U.S. National Institute of
+Standards and Technology) or NML (National Measurement Laboratory) of Taiwan,
+and the calibration procedure corresponds with generally accepted regulations and
+standards.
+
+
+
+
+                                 ThermoWorks, Inc.
+                                     Utah, U.S.A.
+                                 www.thermoworks.com
+
+
+
+
+                                                                                    P-14-008-02-a
+
