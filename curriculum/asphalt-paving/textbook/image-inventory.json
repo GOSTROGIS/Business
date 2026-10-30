@@ -1,0 +1,270 @@
+{
+  "placements": 44,
+  "unique_files": 44,
+  "images": [
+    {
+      "file": "assets/cover-art.svg",
+      "alt": "Original conceptual roadbuilding scene with aggregate support, asphalt surface, haul truck, paver and roller.",
+      "caption": "ACCESS IS4S. (2026). Roadbuilding connections [Original cover illustration]. Conceptual scene.",
+      "sha256": "5d1940b90bf30b1d97a82985100ef704c26acbd00ed2ef4b01caf1bc9cd9544c"
+    },
+    {
+      "file": "assets/road-chain.svg",
+      "alt": "Aggregate and binder travel through production, delivery, placement and compaction. Preparation and inspection support every stage.",
+      "caption": "Note. ACCESS IS4S. (2026). From rock to a road people use [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "3af3e3793d1a67f72acf6f6de580dab2a81811c1f1d4071312a3c6d48de9f216"
+    },
+    {
+      "file": "../caterpillar/assets/figures/paver-sections.png",
+      "alt": "Manufacturer illustration identifying Screed, Tractor.",
+      "caption": "Note. From Guide to Asphalt Paving (QEBQ1888, source PDF p. 63), by Caterpillar, 2016. Copyright Caterpillar. Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure. Scope: Conceptual paver example in the 2016 application guide; this picture does not identify a specific machine serial number. Source and context .",
+      "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b"
+    },
+    {
+      "file": "../readiness/assets/handwork-anatomy.svg",
+      "alt": "Labelled original illustrations of a lute, rake, shovel and wheelbarrow.",
+      "caption": "Note. ACCESS IS4S. (2026). The small tools that shape the work [Original instructional SVG]. Illustrative anatomy; confirm the actual model and parts list. Source and context .",
+      "sha256": "f88e2ac798c0242ca1f6f3f6f037a92b59fb3c6a609299554205dee9e00b1a4d"
+    },
+    {
+      "file": "../readiness/assets/rakes-and-handwork.png",
+      "alt": "Seymour catalogue photographs of an asphalt rake, cleaning tool and blacktop brushes.",
+      "caption": "Note. From Partner Resource Guide (source PDF p. 156; printed p. 155), by Seymour Midwest, 2026 publisher download. Copyright Seymour Midwest. Upper illustration area cropped; original product relationships retained. Source and context .",
+      "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b"
+    },
+    {
+      "file": "assets/road-surfaces.svg",
+      "alt": "Four surface examples and a seasonal ice-road category. Uses and structures must be established separately.",
+      "caption": "Note. ACCESS IS4S. (2026). A road’s purpose does not name its surface [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "a8ddc46683bcfa43b5610cf25081028cf20a50b0ca3919dc1b249ff861e9469b"
+    },
+    {
+      "file": "../ms-4/concepts/assets/load-spread.svg",
+      "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+      "caption": "Note. Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 1.5, p. 13 / PDF 47. Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels.  Copyright 2007 by Asphalt Institute. ACCESS redraw (2026). Source and context .",
+      "sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd"
+    },
+    {
+      "file": "assets/history-timeline.svg",
+      "alt": "Separate the events on the Alaska Highway timeline from unrelated international road milestones.",
+      "caption": "Note. ACCESS IS4S. (2026). Dates tell different stories [Original instructional SVG]. Based on the public historical accounts by Public Services and Procurement Canada (2025), UNESCO (2024) and FHWA listed in the references. Separate time scales; no universal sequence implied.",
+      "sha256": "86bd700c954e1ee4ca37dc3a94fd3243844435f5efaa27c18d97e5483b3b88c3"
+    },
+    {
+      "file": "../../skills-for-success/assets/diagrams/edition3-material-flow.svg",
+      "alt": "Conceptual material flow from source through plant, haul, placement and compaction, with separate plant-return and hot-in-place recycling routes.",
+      "caption": "Note. An original ACCESS IS4S instructional illustration. The process distinctions are explained in this chapter; the drawing supplies no operating settings or mix proportions. By ACCESS IS4S (2026a); see the figure references in the working reference section.",
+      "sha256": "02b20654a57586db11c9104f5eb6353484fc9ba66be8c0794944834f8d5a38bb"
+    },
+    {
+      "file": "../ms-4/concepts/assets/plant-processes.svg",
+      "alt": "The batch route shows cold-feed bins, drying and heating, screening and hot bins, weighing a batch, mixing with binder and storage. The continuous route shows proportioning, flow measurement, continuous drying and mixing with metered binder, and storage.",
+      "caption": "Note. Adapted from The asphalt handbook (7th ed., MS-4; Figure 7.2, p. 310 / PDF 344 ; Figure 7.4, p. 312 / PDF 346 ), by Asphalt Institute, 2007. Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems. Original Figure 7.2 is credited to Terex Roadbuilding in the handbook's contributor list. Original Figure 7.4 is credited to National Highway Institute (NHI) in the handbook's contributor list. Copyright 2007 by Asphalt Institute; original contributor credits retained.",
+      "sha256": "bf27c203f47c84952ad939944aaa8ec802e9e44746e73b68e46263ac4e48427b"
+    },
+    {
+      "file": "../ms-4/concepts/assets/paver-material-route.svg",
+      "alt": "Mixture enters the hopper, travels rearward on slat conveyors, is distributed laterally by augers and passes beneath the screed to form the mat. The diagram names functions without prescribing controls or settings.",
+      "caption": "Note. Adapted from The asphalt handbook (7th ed., MS-4; Figure 8.11, p. 377 / PDF 411 ; 8.4.1, component descriptions, p. 378 / PDF 412 ), by Asphalt Institute, 2007. Replaced the perspective equipment schematic with a labelled functional material route. Not drawn to scale or tied to an actual model. Original Figure 8.11 is credited to Volvo Construction Equipment in the handbook's contributor list. Copyright 2007 by Asphalt Institute; original contributor credits retained.",
+      "sha256": "2f26badc7b05d903f856451ad80f54751118f0672e611dbe657c94e96372e278"
+    },
+    {
+      "file": "../manuals/assets/crops/leeboy-8680-machine-overview.png",
+      "alt": "LeeBoy 8680 paver photograph with the manufacturer's original numbered component callouts. Selected callouts 7, 10, 11 and 12 are explained in the table immediately after the figure.",
+      "caption": "Note. Cropped from Figure 3-1, “Machine Overview,” in LeeBoy model 8680 commercial paver: Safety and operations manual (Manual No. 1033428-SOP, p. 3-7; PDF p. 43), by LeeBoy, 2026 ( manufacturer publication ). Copyright 2026 by LeeBoy. Original numbered callouts retained; the surrounding page and legend are omitted from the crop. Selected original component names appear below; the plain-language explanations are authored for this lesson. Open the complete source page and legend.",
+      "sha256": "ce61ab92ef9664a3f0e1c6e96933320a7f4136f92eeda42d4d2198b4ed6425a3"
+    },
+    {
+      "file": "../caterpillar/assets/figures/feeder-system.png",
+      "alt": "Manufacturer illustration identifying Feeder bed plate, Feeder chain guard, Foot shaft, Feeder chain, Head shaft.",
+      "caption": "Note. From Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 11), by Caterpillar, 2024. Copyright Caterpillar. Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure. Scope: Multiple paver/screed models and build numbers; applicability is specified in individual tables. Source and context .",
+      "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a"
+    },
+    {
+      "file": "../caterpillar/assets/figures/auger-assembly.png",
+      "alt": "Manufacturer illustration identifying Auger segments, Deflector, Auger bearings, Auger shaft.",
+      "caption": "Note. From Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 15), by Caterpillar, 2024. Copyright Caterpillar. Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure. Scope: Multiple paver/screed models and build numbers; applicability is specified in individual tables. Source and context .",
+      "sha256": "e5a5a66b432c79e6e9ed48898a3f1bc8c32f641182ca4d7850e087f73f49033d"
+    },
+    {
+      "file": "assets/ms4-screed.png",
+      "alt": "Original MS-4 Figure 8.16 with its original labels and caption.",
+      "caption": "Note. From The asphalt handbook (7th ed., MS-4, Figure 8.16, p. 383; source PDF 417), by Asphalt Institute, 2007. Copyright 2007 by Asphalt Institute. Faithful crop from the supplied scan; no labels altered. Original figure contributor: Volvo Construction Equipment (credit on PDF 804). Source and context .",
+      "sha256": "d5c6213c9aeda2fed45e843b93bc1558b8839ea898504d75dfb48aa25a589641"
+    },
+    {
+      "file": "../ms-4/concepts/assets/screed-factors.svg",
+      "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+      "caption": "Note. Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 8.16, p. 383 / PDF 417. Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings. Original contributor: Volvo Construction Equipment. Copyright 2007 by Asphalt Institute. ACCESS redraw (2026). Source and context .",
+      "sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+    },
+    {
+      "file": "../ms-4/concepts/assets/pass-and-coverage.svg",
+      "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+      "caption": "Note. Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 9.1, p. 416 / PDF 450. Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed.  Copyright 2007 by Asphalt Institute. ACCESS redraw (2026). Source and context .",
+      "sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9"
+    },
+    {
+      "file": "assets/handover.svg",
+      "alt": "Read back the location, task, limits and change. Record unresolved questions and the person responsible.",
+      "caption": "Note. ACCESS IS4S. (2026). A handover is complete when it is understood [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "0a4dc8a83834016640c7297373dfca30cdf69191f7d87444dac4bf4fc2ca334d"
+    },
+    {
+      "file": "assets/site-plan.svg",
+      "alt": "Fictional non-georeferenced plan. An entrance, boundary, utility record and site point have different meanings.",
+      "caption": "Note. ACCESS IS4S. (2026). Cedar Learning Access  /  P-01 revision B [Original instructional SVG]. Informed by GOSTROGIS. (2026). Site planner, parcel site planner, map symbology and utility-network documentation (commit 9e409ba). All geometry is fictional and not georeferenced.",
+      "sha256": "76d5c1cd186ccf11015193f25ee849be6f8e985da872894c3e4aea32cc590cc7"
+    },
+    {
+      "file": "../../skills-for-success/assets/diagrams/edition3-road-cross-section.svg",
+      "alt": "Conceptual cross-section showing a crown, outward surface-water arrows, shoulders, an open ditch, asphalt course, aggregate base and prepared subgrade.",
+      "caption": "Note. An original ACCESS IS4S instructional illustration. Layer depths are exaggerated. Curb-and-gutter and superelevation alternatives are discussed in the text, not drawn here. No design dimensions or acceptance standards are supplied. By ACCESS IS4S (2026b); see the figure references in the working reference section.",
+      "sha256": "60a56214cedd855d72f762b64fd367a16cce4098000407cc2d42d1c7d1c7695f"
+    },
+    {
+      "file": "assets/three-views.svg",
+      "alt": "Plan gives length and width; profile gives elevation along the route; cross-section identifies transverse form and layers.",
+      "caption": "Note. ACCESS IS4S. (2026). Three views. Three different questions. [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "4188bdb19ae5d3efc75ae740d63f8c4d8b5ee06d4e1d39623786758f2f20ce93"
+    },
+    {
+      "file": "../ms-4/concepts/assets/pavement-layers.svg",
+      "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+      "caption": "Note. Adapted from The asphalt handbook (7th ed., MS-4; Figure 1.6, p. 14 / PDF 48 ), by Asphalt Institute, 2007. Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied.  Copyright 2007 by Asphalt Institute; original contributor credits retained.",
+      "sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+    },
+    {
+      "file": "assets/ms4-structures.png",
+      "alt": "Original MS-4 Figure 1.6 with its original labels and caption.",
+      "caption": "Note. From The asphalt handbook (7th ed., MS-4, Figure 1.6, p. 14; source PDF 48), by Asphalt Institute, 2007. Copyright 2007 by Asphalt Institute. Faithful crop from the supplied scan; no labels altered. Source and context .",
+      "sha256": "6a4a29f33d0aceaf0028477c93ca3fb63a5c4eb327832e6d6ebae8281e0fa639"
+    },
+    {
+      "file": "assets/quantity.svg",
+      "alt": "A fictional rectangular layer is calculated with 50 metres length, 6 metres width and 40 millimetres thickness.",
+      "caption": "Note. ACCESS IS4S. (2026). Keep each unit attached to its quantity [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "f8faa60be5dcc1f9c4801e7a633f0f11828f8fc6357cc445d9719ec5a12cc61c"
+    },
+    {
+      "file": "assets/plan-desk-screen.png",
+      "alt": "Screenshot of the actual Cedar plan desk showing revision B, fictional map layers and the entrance record.",
+      "caption": "Note. ACCESS IS4S. (2026). Cedar Learning Access plan desk [Actual interface screenshot]. Fictional classroom geometry. Map-reading concepts adapted from GOSTROGIS CONSULTING documentation, commit 9e409ba, with owner authorization. Source and context .",
+      "sha256": "eb97100167391e169872d894c2edc9ae895d2e3702d41b7b982e9cd8dd13941b"
+    },
+    {
+      "file": "assets/life-cycle.svg",
+      "alt": "Compare material production, transport, construction, maintenance and end-of-life for an equivalent pavement service.",
+      "caption": "Note. ACCESS IS4S. (2026). Follow the whole service, not a single claim [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "4ff2edcd3ab92b7ee68433ec71b9bd584c867ff3f4628aa54c2acb93a33ffbd4"
+    },
+    {
+      "file": "assets/exposure-routes.svg",
+      "alt": "Chemical exposure can occur by inhalation, ingestion, skin absorption or injection. Other hazards have other mechanisms.",
+      "caption": "Note. ACCESS IS4S. (2026). A hazard needs a route to reach you [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "74b28fca37cc4e3bbac2c97de1d525b41a3f048082721ef881b3758867e5be7e"
+    },
+    {
+      "file": "assets/controls.svg",
+      "alt": "Assess the task, eliminate or reduce the hazard, check the controls and reassess when conditions change.",
+      "caption": "Note. ACCESS IS4S. (2026). Control the exposure before it reaches a person [Original instructional SVG]. Based on WorkSafeBC. (2026 retrieved consolidation). Occupational Health and Safety Regulation, § 5.55. Conceptual teaching sequence; use the complete applicable clauses.",
+      "sha256": "7643ffa3fe97ec3c4de5e02aad46dc24bc1bf7648748fc705e1323974f30eef1"
+    },
+    {
+      "file": "../whmis/assets/pictograms/flame.png",
+      "alt": "Official Flame pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "1a227810e24420c6a24d90dc37abd77170cb0cc1b06ccff7e11386ddc744f17c"
+    },
+    {
+      "file": "../whmis/assets/pictograms/flame_circle.png",
+      "alt": "Official Flame over circle pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "5431a8c6aff66119dcacf90f253523e7a71a4430aa28475bd52eb6ef3ee92546"
+    },
+    {
+      "file": "../whmis/assets/pictograms/exploding_bomb.png",
+      "alt": "Official Exploding bomb pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "821b9aa570d9337058ef0c72f846389d4a614b528f469515f49b11aa95cf988e"
+    },
+    {
+      "file": "../whmis/assets/pictograms/gas_cylinder.png",
+      "alt": "Official Gas cylinder pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "a854d88dda48c5e0cffac2eb11cd4b867a3a5cfb039a7a71181660b5185cfb91"
+    },
+    {
+      "file": "../whmis/assets/pictograms/corrosion.png",
+      "alt": "Official Corrosion pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "feb027a2231f7e94273b156b86d0ff7c904559d12d39713d06a8481d1d80632d"
+    },
+    {
+      "file": "../whmis/assets/pictograms/skull_crossbones.png",
+      "alt": "Official Skull and crossbones pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "5fb5861112da20edd7a9b52656ce8078316cb768d6b223d9f37466e695a2d016"
+    },
+    {
+      "file": "../whmis/assets/pictograms/health_hazard.png",
+      "alt": "Official Health hazard pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "a8692e3906c0309580779d136e7477c7926973d4a377bcfb8e5f313b4a60ffb3"
+    },
+    {
+      "file": "../whmis/assets/pictograms/exclamation_mark.png",
+      "alt": "Official Exclamation mark pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "c96ce2a9e72f93a2c8a7c3bfd5c7edf7574750f0f2cd7ded4586b60a62d62504"
+    },
+    {
+      "file": "../whmis/assets/pictograms/biohazardous.png",
+      "alt": "Official Biohazardous infectious materials pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "fad9d907aba34c34e66dfe4fea035bb0d03c146c1b1c6245b7602b9df3056a9c"
+    },
+    {
+      "file": "../whmis/assets/pictograms/environment.png",
+      "alt": "Official Environment pictogram",
+      "caption": "Note. Official pictograms from Canadian Centre for Occupational Health and Safety. (2026). WHMIS—Pictograms and official symbol kit. Artwork reproduced unchanged. Short meanings are teaching summaries; classification and conditions require the actual product label/SDS. The environmental pictogram is not mandatory under WHMIS. Complete reference and provenance .",
+      "sha256": "32873788a465c8c3da42c13d4f908feebc66b2f0abb37f2fb4685f2cd57d13df"
+    },
+    {
+      "file": "assets/rigging-angle.svg",
+      "alt": "The WorkSafeBC Table 15-3 angle is measured from vertical. This picture identifies geometry, not a lift plan or a capacity.",
+      "caption": "Note. ACCESS IS4S. (2026). Rigging: identify the angle you are reading [Original instructional SVG]. Based on WorkSafeBC. (2026 retrieved consolidation). Occupational Health and Safety Regulation, Part 15, especially §§ 15.2, 15.31 and 15.34. Identifies the angle from vertical; no working load limit or lift arrangement is prescribed.",
+      "sha256": "5f51ab5ee308076c64b6396ac66159cbd86858da169f863afc4d4f2f61886067"
+    },
+    {
+      "file": "../readiness/assets/crane-signals.png",
+      "alt": "Complete WorkSafeBC hand-signals sheet with the original illustrations and labels.",
+      "caption": "Note. From Hand signals for hoist and crane operations (TG07-29, p. 1), by WorkSafeBC, n.d. Copyright WorkSafeBC. Complete first page reproduced. Compare the regulation’s Figure 15-1 and the applicable lift plan. Source and context .",
+      "sha256": "a9f934dd461ecedd96b8deaf2f7789c436645bad19105dc608259430def8664f"
+    },
+    {
+      "file": "../whmis/assets/cat-roller-safety-p09.png",
+      "alt": "Actual Cat roller safety page with manufacturer hazard warning illustrations.",
+      "caption": "Note. Caterpillar. (2022). CB2.5 GC, CB2.7 GC, CC2.7 GC utility compactors: Operation and maintenance manual (M0130633-02, source PDF p. 9). Complete source-page render. Confirm the publication and serial-number applicability before operating. Source and context .",
+      "sha256": "18d79b8c84921d60bbf1d8dc7a6d705c8ae2c38db97ccafeeef49a4a098f1f4a"
+    },
+    {
+      "file": "../caterpillar/assets/figures/steering-frame-lock.png",
+      "alt": "Manufacturer illustration identifying Pin, Eye hole, Steering frame lock.",
+      "caption": "Note. From CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual (M0130633-02 (August 2022), source PDF p. 38), by Caterpillar, 2022. Copyright Caterpillar. Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure. Scope: CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Read the complete source page for locking/unlocking instructions; this task is identification only. Source and context .",
+      "sha256": "ca8fff26426b405e843d77a89862fea609639bffc4dc312c86a36dfc0d03bef8"
+    },
+    {
+      "file": "../caterpillar/assets/figures/roller-controls.png",
+      "alt": "Manufacturer illustration identifying Steering wheel, Right propel control, Traction Control Switch (if equipped), 12V power receptacle, Left propel control (if equipped), Emergency stop knob, Work lights, Front/Position lights, Turn signal, Hazard lights, Gauges and indicators, Parking brake, Horn, Water spray system, Engine start switch, Vibratory mode / Emulsion switch, Engine speed, Beacon, Digital display.",
+      "caption": "Note. From CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual (M0130633-02 (August 2022), source PDF p. 41), by Caterpillar, 2022. Copyright Caterpillar. Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure. Scope: CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Illustration 39 has 1–5; Illustration 40 has 6–19. Optional items retain “if equipped.” Source and context .",
+      "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6"
+    },
+    {
+      "file": "assets/public-route.svg",
+      "alt": "A conceptual work-zone plan shows a public route and work area separated with a designed access point.",
+      "caption": "Note. ACCESS IS4S. (2026). Plan the people routes as carefully as the work [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "sha256": "fe433960b4deefc9005b78079d2dec84ba6d97e7653f936d44ef8aa7870773f6"
+    }
+  ]
+}

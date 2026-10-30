@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "purpose": "Recheck updated competency status, delivery gaps and offline ZIP after adding study Volume 1. Original PDF page fidelity checks remain unchanged.",
+  "local_targets": 1219,
+  "archive_checks": {
+    "status": "passed",
+    "archives": 8,
+    "pdf_volumes": 7,
+    "largest_zip_bytes": 35503419,
+    "pdf_parts_once_only": 161,
+    "offline_local_links": 957,
+    "checks": "ZIP CRCs, exact member counts, SHA-256 for archives and all source PDFs, every source part packaged exactly once, all local HTML targets inside each ZIP, size limit."
+  }
+}

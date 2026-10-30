@@ -10,6 +10,10 @@ The [28 October book review and gap analysis](curriculum/skills-for-success/rese
 
 ## Asphalt curriculum
 
+**[New asphalt study textbook](curriculum/asphalt-paving/textbook/README.md)** · **[Textbook PDF](curriculum/asphalt-paving/textbook/study-textbook.pdf)** · [Worked-answer PDF](curriculum/asphalt-paving/textbook/answers.pdf) · [Interactive plan desk](curriculum/asphalt-paving/textbook/plan-desk.html)
+
+Volume 1 develops A1–A6 and B1 with 60 activities, 44 visual placements, 13 original SVGs including the cover, MS-4 crops/redraws, manufacturer component pictures and official WHMIS symbols. Five pinned CONSULTING documents inform the fictional map-reading work. The seven chapters are standalone classroom study material; technical approval, pilot and practical assessment remain pending.
+
 [Tools, rigging and safety source library](curriculum/asphalt-paving/readiness/README.md): the full-outline audit adds 41 PDF publications (3,240 pages), 30 archived regulatory/guidance sources, a visual tool guide, a 32-group tool register and source coverage for all 68 competencies. [Outstanding equipment and delivery requirements](curriculum/asphalt-paving/readiness/gaps.md) remain explicit.
 
 [Open the asphalt curriculum](curriculum/asphalt-paving/README.md) · [Roadbuilding learner book](curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf) · [Teaching and answer guide](curriculum/asphalt-paving/line-a/teaching-guide.pdf)

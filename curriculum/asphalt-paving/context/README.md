@@ -1,6 +1,6 @@
 # Asphalt PDF context library
 
-**321 PDF paths · 320 unique PDFs · 7,759 original pages · 377 PDF chunks and 377 text extracts.**
+**323 PDF paths · 322 unique PDFs · 7,856 original pages · 382 PDF chunks and 382 text extracts.**
 
 Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **11,682,239 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
@@ -3200,6 +3200,29 @@ Original: [curriculum/asphalt-paving/specifications/teaching-guide.pdf](../speci
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
 | 1–11 | [PDF](chunks/teaching-guide-d0cde3dba1d1/p0001-0011.pdf) | [Text](chunks/teaching-guide-d0cde3dba1d1/p0001-0011.txt) | 129,301 | extracted |
+
+### Textbook · answers
+
+**PDF-d9248b33bf59** · generated-curriculum · 20 pages · original SHA-256 `d9248b33bf59821c2f42a7126d4ed776d6a61b6f2ddbafae4bf7206e9469bbe6`
+
+Original: [curriculum/asphalt-paving/textbook/answers.pdf](../textbook/answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–20 | [PDF](chunks/answers-d9248b33bf59/p0001-0020.pdf) | [Text](chunks/answers-d9248b33bf59/p0001-0020.txt) | 188,656 | extracted |
+
+### Textbook · study textbook
+
+**PDF-c3e6f453d41f** · generated-curriculum · 77 pages · original SHA-256 `c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4`
+
+Original: [curriculum/asphalt-paving/textbook/study-textbook.pdf](../textbook/study-textbook.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/study-textbook-c3e6f453d41f/p0001-0025.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0001-0025.txt) | 1,916,393 | extracted |
+| 26–50 | [PDF](chunks/study-textbook-c3e6f453d41f/p0026-0050.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0026-0050.txt) | 5,041,158 | extracted |
+| 51–75 | [PDF](chunks/study-textbook-c3e6f453d41f/p0051-0075.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0051-0075.txt) | 1,729,357 | extracted |
+| 76–77 | [PDF](chunks/study-textbook-c3e6f453d41f/p0076-0077.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0076-0077.txt) | 77,424 | extracted |
 
 ### Unit 01 · instructor guide
 

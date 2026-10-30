@@ -1,0 +1,29 @@
+{
+  "local_targets_checked": 533,
+  "html_fragments_checked": 47,
+  "activity_count": 60,
+  "new_activities": 23,
+  "image_placements": 44,
+  "unique_image_files": 44,
+  "original_new_svgs": 13,
+  "pinned_consulting_documents": 5,
+  "pdfs": [
+    {
+      "file": "study-textbook.pdf",
+      "pages": 77,
+      "bytes": 8754547,
+      "sha256": "c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "answers.pdf",
+      "pages": 20,
+      "bytes": 189614,
+      "sha256": "d9248b33bf59821c2f42a7126d4ed776d6a61b6f2ddbafae4bf7206e9469bbe6",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    }
+  ],
+  "errors": []
+}

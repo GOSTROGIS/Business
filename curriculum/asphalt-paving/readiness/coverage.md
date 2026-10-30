@@ -16,7 +16,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Qualified review and classroom pilot; actual fleet identification.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## A2 · Describe history of asphalt pavement
 
@@ -28,7 +28,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Qualified review of historical claims and classroom pilot.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## A3 · Describe paving technology
 
@@ -40,7 +40,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Current local industry examples and qualified review.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## A4 · Describe industry expectations of/for workers
 
@@ -52,7 +52,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Employer policies, orientation and learner supports.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## A5 · Describe basic road and highway profiles
 
@@ -64,7 +64,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Actual drawings, grade reference and contract edition.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## A6 · Describe future paving/construction trends
 
@@ -76,7 +76,7 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Remaining:** Current project evidence and qualified review.
 
-**Lesson status:** Classroom unit authored.
+**Lesson status:** Classroom study chapter authored and expanded.
 
 ## B1 · Safety orientation
 
@@ -86,9 +86,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 3: Rights and Responsibilities](index.html#ohs-03)<br>[OHS Regulation, Part 4: General Conditions](index.html#ohs-04)<br>[OHS Regulation, Part 5: Chemical and Biological Substances](index.html#ohs-05)<br>[OHS Regulation, Part 7: Noise, Vibration, Radiation and Temperature](index.html#ohs-07)<br>[OHS Regulation, Part 8: Personal Protective Clothing and Equipment](index.html#ohs-08)<br>[OHS Regulation, Part 14: Cranes and Hoists](index.html#ohs-14)<br>[OHS Regulation, Part 15: Rigging](index.html#ohs-15)<br>[OHS Regulation, Part 19: Electrical Safety](index.html#ohs-19)<br>[OHS Regulation, Part 20: Construction, Excavation and Demolition](index.html#ohs-20)<br>[Preventing Crane Rigging Failures](index.html#wsbc-rigging-failures)<br>[Safety Is a Shared Responsibility: Six Steps to Safe Digging](index.html#bc1call-six-steps)<br>[WHMIS and official symbols](../whmis/index.html)
 
-**Remaining:** Site risk/first-aid assessments, SDS, lift plans, qualified workers, emergency procedures and complete technical unit.
+**Remaining:** Site risk/first-aid assessments, SDS, lift plans, qualified workers, emergency procedures, qualified review and practical assessment; B1 study chapter now authored.
 
-**Lesson status:** WHMIS/symbol classroom preparation; full technical unit pending.
+**Lesson status:** Classroom study chapter authored; seven learning tasks.
 
 ## B2 · Describe working safely around haul trucks
 

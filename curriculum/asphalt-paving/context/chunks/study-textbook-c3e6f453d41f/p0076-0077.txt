@@ -1,0 +1,113 @@
+SOURCE: curriculum/asphalt-paving/textbook/study-textbook.pdf
+SOURCE SHA-256: c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4
+ORIGINAL PDF VIEWER PAGES: 76–77 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 76 ===
+LeeBoy. (2026). LeeBoy model 8680 commercial paver: Safety and operations manual (Manual No.
+1033428-SOP). https://www.leeboy.com/wp-content/uploads/2024/03/1033428-SOP-MANUAL-8680-
+REV-A_WEB.pdf
+
+Figure LA-3 uses Figure 3-1, printed p. 3-7 / PDF p. 43. The manufacturer names shown beside the crop are
+a selected subset of the complete legend. The image provenance manifest records the original PDF hash,
+page and crop boundary.
+
+Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Complete local reader.
+
+Figures LA-4–LA-6 are ACCESS redraws of verified MS-4 figures. LA-4 uses Figures 7.2 and 7.4 (pp. 310,
+312 / PDF 344, 346; original contributors Terex Roadbuilding and National Highway Institute). LA-5 uses
+Figure 8.11 and component descriptions (pp. 377–378 / PDF 411–412; original figure contributor Volvo
+Construction Equipment). LA-6 uses one unbound-base arrangement from Figure 1.6 (p. 14 / PDF 48). Each
+caption identifies the simplification. The figure provenance manifest retains the source identity, asset hash
+and contributor-credit page. The chapter map connects the verified book contents to the occupational
+outline.
+
+
+
+Safety and map-reading references
+WorkSafeBC. (2026, retrieved October 30). Occupational Health and Safety Regulation, Parts 3, 5, 7, 8, 10,
+14, 15, 16, 18, 19 and 20. Retained full-text publisher articles; retrieval date identifies the consolidation
+consulted, not the date each rule was enacted.
+
+WorkSafeBC. (n.d.). Hand signals for hoist and crane operations (TG07-29). Retained two-page publication.
+
+WorkSafeBC. (2026). Preventing heat stress at work. Complete retained publication.
+
+Canadian Centre for Occupational Health and Safety. (2026). WHMIS: Pictograms; General; Labels; Safety
+data sheets. Retained current fact sheets and official symbol kit. Revision dates and downloaded-file
+hashes are recorded in the local manifest. Symbols are reproduced unchanged; the environmental symbol
+is not mandatory under WHMIS.
+
+BC 1 Call. (n.d.). Six steps to safe digging. Retained publication. Follow actual utility-owner responses and
+the applicable excavation procedure.
+
+Canadian Centre for Occupational Health and Safety. (2026 retrieved editions). Hand tool ergonomics;
+Shovelling; Powered hand tools—Pneumatic tools; Fatigue. Complete source catalogue. The catalogue
+records the individual publication dates where supplied.
+
+Seymour Midwest. (2026 publisher download). Partner resource guide. Retained complete catalogue.
+Product examples illustrate names and configurations; match actual product identifiers before use.
+
+Caterpillar. (2016). Guide to asphalt paving (QEBQ1888). Complete retained guide.
+
+Caterpillar. (2022). CB2.5 GC, CB2.7 GC, CC2.7 GC utility compactors: Operation and maintenance manual
+(M0130633-02). Manual catalogue. The figure register and original catalogue retain publication, model and
+serial-range applicability for every selected machine illustration.
+
+
+
+
+                                          ACCESS IS4S · Asphalt study textbook · 76 / 77
+
+=== ORIGINAL PDF PAGE 77 ===
+GOSTROGIS. (2026). Site planner; Parcel site planner; Map symbology; Utility-network coverage; Project
+areas [Repository documentation, commit 9e409ba9d5bc28e7da3d400671ec6e7707615613]. Pinned
+reuse record. Concepts adapted with the repository owner's express authorization. Five authored
+documentation snapshots are retained locally; no real cadastral, utility, client or student dataset was
+imported. The Cedar case is fictional.
+
+
+
+Additional trade words for safe work
+
+ Term                                  Meaning in this volume
+
+ Hazard / risk / control               Potential source of harm / likelihood and consequences in context / measure that
+                                       prevents or reduces exposure
+
+ PPE                                   Personal protective equipment selected for the assessed hazard, person and task
+
+ SDS                                   Safety data sheet for the identified product
+
+ Inhalation / ingestion / absorption   Entry by breathing / swallowing / through skin / penetration such as high-pressure
+ / injection                           fluid
+
+ MSI                                   Musculoskeletal injury involving muscles, tendons, joints or related tissues
+
+ Orientation                           Workplace-specific introduction, instruction and confirmation of responsibilities and
+                                       arrangements
+
+ Rigging / sling / WLL                 Load-handling connections and arrangements / lifting connector / working load limit
+                                       under stated conditions
+
+ Articulation                          Relative pivoting between sections of a machine designed for that movement
+
+ Hazardous energy                      Energy that can cause harm, including motion, pressure, gravity, electricity and heat
+
+ Point / line / polygon                Map geometry locating a feature / tracing a feature / enclosing an area
+
+ Status / uncertainty                  What a record says about a feature / what remains unknown or unverified
+
+
+
+The figure register identifies each picture, its source page or original drawing, transformations and image
+hash. Captions travel with the figures in the study textbook. The teaching and worked-answer guide
+includes the coverage map and evidence criteria.
+
+
+
+
+                                              ACCESS IS4S · Asphalt study textbook · 77 / 77
+

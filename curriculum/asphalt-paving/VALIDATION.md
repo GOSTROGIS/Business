@@ -1,5 +1,12 @@
 # Asphalt curriculum validation record
 
+## Study textbook Volume 1 · 30 October 2026
+
+The [new standalone study volume](textbook/README.md) contains a 77-page textbook, a 20-page worked-answer guide, 60 activities, 44 image placements and 13 original SVGs. It develops A1–A6 and all seven B1 safety-orientation tasks. [Book verification](textbook/VALIDATION.md) records 533 local-target checks, 47 fragment checks, 17 browser/interaction checks, image and pinned-source identity checks, PDF inspection and complete answer coverage. Technical approval and classroom pilot are pending. The updated competency register leaves 61 complete technical units, B2–L6, for subsequent authoring.
+
+Existing material and Line A checks pass (827 and 351). The context index now contains 322 unique PDFs / 7,856 pages / 382 chunks, with 114 representative page-render comparisons and 2,379 retained URI links verified. Historical validation snapshots below describe their original editions.
+
+
 **ACCESS IS4S classroom edition · updated 29 October 2026**
 
 ## Roadbuilding foundations · 29 October 2026

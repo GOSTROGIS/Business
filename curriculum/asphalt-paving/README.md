@@ -1,5 +1,12 @@
 # ACCESS IS4S · Asphalt paving
 
+## Standalone study textbook · Volume 1
+
+**[Read the textbook](textbook/study-textbook.html)** · **[Textbook PDF](textbook/study-textbook.pdf)** · [Worked answers](textbook/answers.html) · [Answer PDF](textbook/answers.pdf) · [Interactive plan desk](textbook/plan-desk.html)
+
+The illustrated study volume follows **A1–A6 and B1** with **60 activities**, all nine Skills for Success, MS-4 source crops and redraws, manufacturer parts illustrations, official WHMIS symbols and new SVGs. It includes the seven B1 safety-orientation tasks, an editable fictional road-plan exercise and map-reading concepts adapted from the owner's CONSULTING repository. [Figure credits](textbook/figure-register.html) · [Coverage and delivery status](textbook/coverage.html). Technical review and classroom pilot are pending; B2–L6 are the next textbook volumes.
+
+
 Read the work, understand the equipment and use the nine Skills for Success to make and explain a sound decision.
 
 **Classroom teaching edition · 30 October 2026**

@@ -2,7 +2,7 @@
 
 **Audit date: 30 October 2026.** The audit covers all 68 competencies, A1–L6, plus Section 4 of the August 2016 outline. The new library contains complete acquired publications and regulatory articles, while the [coverage map](coverage.html) identifies their relevance and remaining limits. It does not certify completion of the program or approval of practical delivery.
 
-The six Line A classroom units remain authored. B1 WHMIS and I2/J1/L1 machine-identification preparation are also present. The later 62 competencies still require complete technical lesson development and qualified review. Acquiring a reference does not change that status.
+The [study textbook](../textbook/README.md) now develops all six Line A chapters and the seven B1 safety-orientation tasks. I2/J1/L1 machine-identification preparation is also present. The remaining 61 competencies need complete technical lesson development; qualified review and practical assessment remain pending for all units. Acquiring a reference does not change that status.
 
 ## Section 4 acquisition record
 

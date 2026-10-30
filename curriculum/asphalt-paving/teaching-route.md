@@ -1,5 +1,10 @@
 # Teach the trade words through useful work
 
+## Begin with the standalone study volume
+
+Use the [study textbook](textbook/study-textbook.html) for A1–A6 and B1 in outline sequence. Its 60 activities include readings, trade terms, worked examples, image studies, a complete classroom safety brief and [worked answers](textbook/answers.html). The [plan desk](textbook/plan-desk.html) supports TB5-01–03 and utility-source questions in TB7-11. Keep each learner's evidence for all nine skills; TB7-13 brings the work together. The [coverage record](textbook/coverage.html) identifies the remaining B2–L6 authoring and practical/technical approval work.
+
+
 **ACCESS IS4S · Integrated classroom route · 30 October 2026**
 
 Use the SkilledTradesBC outline to choose the occupational outcome. Teach the words, picture and worked example together, then collect a learner's own explanation or product. Use the nine-skills books when a learner needs explicit instruction before returning to the trade task.

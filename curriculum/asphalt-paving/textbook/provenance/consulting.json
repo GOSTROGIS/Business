@@ -1,0 +1,56 @@
+{
+  "authorization": "Repository owner explicitly authorized necessary reuse for this textbook in the current conversation.",
+  "retrieved": "2026-10-30",
+  "records": [
+    {
+      "repository": "GOSTROGIS/CONSULTING",
+      "commit": "9e409ba9d5bc28e7da3d400671ec6e7707615613",
+      "path": "docs/site-planner.md",
+      "git_blob_sha": "3981b94c5686215929295b13fb978de82abc63a2",
+      "sha256": "0ccff8fdf206ac26c1d77b07efe54fee3bc0b792f7167af677117ea91e9e3dc0",
+      "url": "https://github.com/GOSTROGIS/CONSULTING/blob/9e409ba9d5bc28e7da3d400671ec6e7707615613/docs/site-planner.md",
+      "local_file": "provenance/consulting/docs/site-planner.md",
+      "use": "Adapted map-reading and evidence-checking concepts; no real property, utility or personal data imported."
+    },
+    {
+      "repository": "GOSTROGIS/CONSULTING",
+      "commit": "9e409ba9d5bc28e7da3d400671ec6e7707615613",
+      "path": "docs/parcel-site-planner.md",
+      "git_blob_sha": "c402eefee03706be4862938ab1440081bf91b6cd",
+      "sha256": "96c3cf2c8c0e3c588b09571297d90eba160124d06c49acc7deb377bf19720620",
+      "url": "https://github.com/GOSTROGIS/CONSULTING/blob/9e409ba9d5bc28e7da3d400671ec6e7707615613/docs/parcel-site-planner.md",
+      "local_file": "provenance/consulting/docs/parcel-site-planner.md",
+      "use": "Adapted map-reading and evidence-checking concepts; no real property, utility or personal data imported."
+    },
+    {
+      "repository": "GOSTROGIS/CONSULTING",
+      "commit": "9e409ba9d5bc28e7da3d400671ec6e7707615613",
+      "path": "docs/map-symbology.md",
+      "git_blob_sha": "7bb66ce9228bbae0c1e36f7753b68515efc309b8",
+      "sha256": "5a4dfb29db6c1a7f3defbc2cdc434eb832383c1e5fae4a7ed056cfcf964a3705",
+      "url": "https://github.com/GOSTROGIS/CONSULTING/blob/9e409ba9d5bc28e7da3d400671ec6e7707615613/docs/map-symbology.md",
+      "local_file": "provenance/consulting/docs/map-symbology.md",
+      "use": "Adapted map-reading and evidence-checking concepts; no real property, utility or personal data imported."
+    },
+    {
+      "repository": "GOSTROGIS/CONSULTING",
+      "commit": "9e409ba9d5bc28e7da3d400671ec6e7707615613",
+      "path": "docs/utility-network-coverage.md",
+      "git_blob_sha": "1c501e51d6ded3343333fecfc30acf859f77e435",
+      "sha256": "0645ab4457e8a2ad270ff62163b4ddfbcad9bb6e5c8fea751a86e9c5512ec01b",
+      "url": "https://github.com/GOSTROGIS/CONSULTING/blob/9e409ba9d5bc28e7da3d400671ec6e7707615613/docs/utility-network-coverage.md",
+      "local_file": "provenance/consulting/docs/utility-network-coverage.md",
+      "use": "Adapted map-reading and evidence-checking concepts; no real property, utility or personal data imported."
+    },
+    {
+      "repository": "GOSTROGIS/CONSULTING",
+      "commit": "9e409ba9d5bc28e7da3d400671ec6e7707615613",
+      "path": "docs/project-areas.md",
+      "git_blob_sha": "34e96426c8df58e8291e78987bd2b9e828c8719a",
+      "sha256": "cfe547edda5c3985ac1e033ebd011a06749bd3994b27f11504d8ad62c78fe057",
+      "url": "https://github.com/GOSTROGIS/CONSULTING/blob/9e409ba9d5bc28e7da3d400671ec6e7707615613/docs/project-areas.md",
+      "local_file": "provenance/consulting/docs/project-areas.md",
+      "use": "Adapted map-reading and evidence-checking concepts; no real property, utility or personal data imported."
+    }
+  ]
+}

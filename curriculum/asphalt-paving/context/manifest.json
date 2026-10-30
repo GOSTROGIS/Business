@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "built_utc": "2026-10-30T17:15:46.221969+00:00",
+  "built_utc": "2026-10-30T18:06:28.796213+00:00",
   "collection": "All available PDFs under curriculum/asphalt-paving, excluding this context directory",
   "originals_preserved": true,
   "chunk_policy": {
@@ -11,13 +11,13 @@
   },
   "processing": "Original PDF page appearance retained without image downsampling. MS-4, CAT and readiness source parts are referenced directly without duplicate PDF copies. MS-4 text comes from the upstream OCR pipeline; CAT, readiness and other texts use pdftotext. Internal/non-URI annotations are omitted from split chunks; reused native source parts retain valid in-part links, and MS-4 image-only parts have no such links.",
   "counts": {
-    "original_file_paths": 321,
-    "unique_pdfs": 320,
+    "original_file_paths": 323,
+    "unique_pdfs": 322,
     "duplicate_alias_paths": 1,
-    "unique_original_pages": 7759,
-    "chunks": 377,
-    "chunk_pdf_bytes": 670223731,
-    "chunk_text_bytes": 23424804,
+    "unique_original_pages": 7856,
+    "chunks": 382,
+    "chunk_pdf_bytes": 679176719,
+    "chunk_text_bytes": 23664259,
     "largest_chunk_bytes": 11682239,
     "largest_chunk_pages": 25,
     "empty_text_pages": 104,
@@ -26,7 +26,7 @@
     "categories": {
       "original-source": 206,
       "manufacturer-original": 94,
-      "generated-curriculum": 20
+      "generated-curriculum": 22
     }
   },
   "documents": [
@@ -15224,6 +15224,140 @@
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 8,
           "external_uri_link_annotations_retained": 6
+        }
+      ]
+    },
+    {
+      "id": "PDF-d9248b33bf59",
+      "title": "Textbook · answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/answers.pdf"
+      ],
+      "sha256": "d9248b33bf59821c2f42a7126d4ed776d6a61b6f2ddbafae4bf7206e9469bbe6",
+      "original_bytes": 189614,
+      "pdf_pages": 20,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 20,
+          "page_count": 20,
+          "pdf": "chunks/answers-d9248b33bf59/p0001-0020.pdf",
+          "bytes": 188656,
+          "sha256": "ac4c1283cee39d0c98ad1cef9b90cef3fe0eab4fae742e3cf8ccee9d4953bfe3",
+          "text": "chunks/answers-d9248b33bf59/p0001-0020.txt",
+          "text_bytes": 51354,
+          "text_sha256": "0c89ef543892b8bcc53b022cdd14250f6bb142355c7e2c34a6afb2e706a4414f",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 8,
+          "external_uri_link_annotations_retained": 4
+        }
+      ]
+    },
+    {
+      "id": "PDF-c3e6f453d41f",
+      "title": "Textbook · study textbook",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/study-textbook.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/study-textbook.pdf"
+      ],
+      "sha256": "c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4",
+      "original_bytes": 8754547,
+      "pdf_pages": 77,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/study-textbook-c3e6f453d41f/p0001-0025.pdf",
+          "bytes": 1916393,
+          "sha256": "ece823a91bcb442261b3ec4ecdb3373aa4dbd4bd50fe48e109325ce444e6f634",
+          "text": "chunks/study-textbook-c3e6f453d41f/p0001-0025.txt",
+          "text_bytes": 61195,
+          "text_sha256": "691a9f68f9f18dd9ce5757bc50be42e4d678e85370fc16e63c9ed3d4cffea449",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 9,
+          "external_uri_link_annotations_retained": 20
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/study-textbook-c3e6f453d41f/p0026-0050.pdf",
+          "bytes": 5041158,
+          "sha256": "601ecd6502b96e30449169b9d40ba1c31d22b2810dcc89beb8d4fefa013de5aa",
+          "text": "chunks/study-textbook-c3e6f453d41f/p0026-0050.txt",
+          "text_bytes": 57144,
+          "text_sha256": "9702d8e9c88c46958f0a6fd025a6b4b7c6051259e5bfdd1dde2325bcaa9abcba",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 28
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 75,
+          "page_count": 25,
+          "pdf": "chunks/study-textbook-c3e6f453d41f/p0051-0075.pdf",
+          "bytes": 1729357,
+          "sha256": "9323914f2fb0e4717d64c0ba47c4d69450977e5da2e0b6c8621b2b633f4699f5",
+          "text": "chunks/study-textbook-c3e6f453d41f/p0051-0075.txt",
+          "text_bytes": 63927,
+          "text_sha256": "09caea7a77215a89d7146937be9df447993aab421fc2daf95081224aa25db4c3",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 44
+        },
+        {
+          "original_page_start": 76,
+          "original_page_end": 77,
+          "page_count": 2,
+          "pdf": "chunks/study-textbook-c3e6f453d41f/p0076-0077.pdf",
+          "bytes": 77424,
+          "sha256": "28e38c03cb516de17072323b0cada01b1b5f94908979d07a585881367d037131",
+          "text": "chunks/study-textbook-c3e6f453d41f/p0076-0077.txt",
+          "text_bytes": 5835,
+          "text_sha256": "44d388a23efef3c26a4eaaa3f1262577c5f39a51568f4eed0eda8665b37e6571",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 27
         }
       ]
     },

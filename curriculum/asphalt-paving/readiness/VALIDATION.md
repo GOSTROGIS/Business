@@ -12,3 +12,7 @@ The complete source audit and collection passed verification. [Detailed source c
 - Current official SkilledTradesBC outline/profile downloads are byte-identical to the existing repository copies. The original documents were not edited.
 
 Qualified technical approval, classroom pilots, complete later technical units and practical delivery are not claimed by these file/content checks. The [gap register](gaps.html) retains the exact remaining course-publication, fleet, instrument and site requirements.
+
+## Post-textbook status update
+
+A1–A6 and B1 now point to the standalone study volume. The generated competency/gap pages and web/guide ZIP have been refreshed. [Post-update checks](post-textbook-checks.json) confirm 1,219 local HTML targets; all eight ZIP CRCs/hashes, all 161 PDF parts exactly once and 957 offline HTML targets pass. Source PDFs and their previously verified page fidelity are unchanged.
