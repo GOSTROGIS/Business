@@ -1,0 +1,71 @@
+{
+  "code": "H8",
+  "title": "Transport milling and reclaiming equipment",
+  "intro": "Transport is a planned operation involving machine configuration, carrier capacity, route and load securement. The person driving the carrier and the person moving the machine need a shared plan and clearly assigned responsibilities.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe roles and responsibilities",
+      "text": "The carrier/driver checks legal loading, axle and vehicle ratings, route/permit requirements and cargo securement within their role. The designated machine operator follows the OMM loading procedure. A trained ground guide controls the agreed communication from a safe position. Do not assume a job title automatically authorizes loading. Confirm who checks ramp suitability, machine mass/configuration, attachments and final securement before movement."
+    },
+    {
+      "number": 2,
+      "title": "Prepare machine for transport",
+      "text": "Prepare the machine in its specified transport configuration: conveyor, guards, attachments, locks and loose items. Remove attachments only with the approved handling method and rated lifting/rigging equipment where required. Know the actual mass, dimensions and centre-of-gravity implications of fitted equipment. Use designated tie-down points; a convenient handrail or hydraulic line is not one. Secure detached items as separate cargo. Retain guards needed for safe loading."
+    },
+    {
+      "number": 3,
+      "title": "Describe loading and unloading procedures",
+      "text": "Inspect the carrier, ramps, approach and ground for capacity, support, alignment and traction. Establish a controlled area and agreed stop signal. Follow the machine’s direction, speed and configuration requirements when crossing changes in slope. Stop if a guide is lost or alignment becomes uncertain. After positioning, apply parking/support requirements and the compliant securement system. National Safety Code Standard 10 and applicable BC rules govern the arrangement; chain count alone does not prove adequate restraint. At unloading, control the machine before releasing restraints in the authorized sequence."
+    }
+  ],
+  "worked": {
+    "title": "A mass record that excludes attachments",
+    "case": "The transport plan lists a base machine mass of 19,800 kg. A fitted conveyor option and attachments add 1,250 kg.",
+    "solution": "Planned machine load is at least 21,050 kg before any other cargo. Confirm actual configuration, carrier/ramp/axle ratings and route requirements. The base-machine figure is insufficient for release; obtain the transport lead’s verified plan."
+  },
+  "activities": [
+    {
+      "id": "H8-01",
+      "prompt": "A carrier’s fictional available payload is 22,000 kg. Machine plus attachments is 21,050 kg and separate equipment is 1,200 kg. Find the excess.",
+      "answer": "Total 22,250 kg, exceeding available payload by 250 kg. Hold and revise the load plan; also check axle distribution and all other limits.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A carrier’s fictional available payload is 22,000 kg"
+    },
+    {
+      "id": "H8-02",
+      "prompt": "List information needed before selecting tie-downs.",
+      "answer": "Actual machine mass/configuration, designated attachment points, restraint arrangement, rated components and condition, applicable Standard 10/BC requirements, carrier points and manufacturer transport instructions.",
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "title": "List information needed before selecting tie-downs."
+    },
+    {
+      "id": "H8-03",
+      "prompt": "During loading the guide disappears from view. What happens next?",
+      "answer": "Stop safely, maintain the machine’s controlled state, re-establish the guide’s safe position and communication, then resume only after confirmation. Do not continue from memory of the route.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "During loading the guide disappears from view"
+    }
+  ],
+  "practical": [
+    "Verify roles, carrier/ramp suitability and transport configuration.",
+    "Prepare attachments and approved tie-down points.",
+    "Demonstrate controlled loading preparation and final securement checks within the planned time without rushing safety."
+  ],
+  "visuals": [
+    "transport-plan",
+    "transport-budget"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

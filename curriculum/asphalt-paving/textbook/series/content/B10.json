@@ -1,0 +1,73 @@
+{
+  "code": "B10",
+  "title": "Complete fatigue awareness training",
+  "intro": "Fatigue is reduced physical or mental capacity associated with inadequate sleep, prolonged wakefulness, demanding work or other factors. It can affect attention, reaction, memory and judgement before a person recognizes the full change. A crew depends on accurate handovers and timely responses; fatigue therefore belongs in work planning, not in a judgement about someone’s character.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define mental fatigue",
+      "text": "**Sleep debt** accumulates when sleep is less than a person’s need. **Circadian rhythms** influence alertness across the day and night. A worker may have a scheduled rest interval but little opportunity to sleep after commuting, meals and personal responsibilities. Extended wakefulness and successive demanding shifts can compound the problem.\n\nSigns may include slowed responses, difficulty concentrating, errors, irritability or difficulty staying awake. These observations do not diagnose the cause. Respond through the workplace fitness-for-task and support arrangements, with privacy and respect. Caffeine or willpower cannot be treated as a complete replacement for sleep. A fatigued person may also be unsafe to drive home; plan a safe response rather than simply sending them onto the road."
+    },
+    {
+      "number": 2,
+      "title": "Define a work schedule that helps reduce fatigue",
+      "text": "A fatigue-aware schedule considers shift length, timing, consecutive duties, recovery opportunity, travel and workload. The employer’s planning and response arrangements should make reporting possible and provide a practical way to change the assignment when needed. A schedule can look adequate on paper while overtime, an early call-out or a long commute removes the intended recovery.\n\nDistinguish time off duty from sleep opportunity and actual sleep. A calculation can expose an obvious planning conflict, but it cannot certify that an individual is fit. Ask whether the schedule remains workable after a delay and whether the highest-consequence tasks have appropriate staffing and supervision. Record the changed assignment and handover so the response does not create another gap."
+    },
+    {
+      "number": 3,
+      "title": "Discuss available training",
+      "text": "Useful fatigue-awareness training explains causes, signs, work and driving effects, reporting, prevention and the workplace response. CCOHS provides a retained evidence source for this study. Evaluate an external course by its content, current evidence, instructor/provider suitability and relevance to the actual work; a website name or completion badge alone does not establish effective controls.\n\nThe learner practises recognizing a condition, communicating it without blame and using the agreed support route. The supervisor practises responding to the work risk rather than demanding private information in front of colleagues. A training record identifies the content completed, the learner’s demonstrated understanding and the employer-specific arrangements still required."
+    }
+  ],
+  "worked": {
+    "title": "Rest interval versus sleep opportunity",
+    "case": "Fictional shift finishes at 20:00; the next begins at 06:00. Total travel uses 2 hours, meals/personal preparation 1.5 hours and a required call 0.5 hour. Calculate the maximum remaining interval before other interruptions.",
+    "solution": "There are 10 hours between shifts. Subtracting 2 + 1.5 + 0.5 leaves at most 6 hours available. That is an opportunity estimate, not proof of six hours of sleep or a universal fitness threshold. The schedule needs review through the workplace fatigue process, especially before safety-critical work or driving."
+  },
+  "activities": [
+    {
+      "id": "B10-01",
+      "prompt": "Explain sleep debt and circadian timing in your own words. Separate observed signs from a diagnosis or a judgement about a person.",
+      "answer": "Sleep debt concerns insufficient recovery over time; circadian rhythms affect timing of alertness. Describe behaviour/concerns and use a respectful support response without diagnosing.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Explain sleep debt and circadian timing in your own words"
+    },
+    {
+      "id": "B10-02",
+      "prompt": "Recalculate the worked case if a late task adds 90 minutes. Explain the scheduling implication without declaring an individual fit or unfit from arithmetic alone.",
+      "answer": "Maximum remaining opportunity falls from 6 to 4.5 hours. The change needs prompt planning/fitness-for-task review; actual sleep and individual condition are not known.",
+      "skills": [
+        "Numeracy",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Recalculate the worked case if a late task adds 90 minutes"
+    },
+    {
+      "id": "B10-03",
+      "prompt": "Compare the retained CCOHS content with your workplace training checklist. Create, peer-test and save a fatigue-reporting flow that includes a safe transport-home question.",
+      "answer": "Checklist covers causes/signs, schedule/recovery, reporting, reassignment/support and travel risk. No personal medical disclosure is required; keep individual feedback and actual digital evidence.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Compare the retained CCOHS content with your workplace training checklist"
+    }
+  ],
+  "practical": [
+    "Use fictional scenarios for classroom privacy; explain the actual confidential reporting route before workplace practice.",
+    "Observe recognition, respectful communication, schedule checking and a safe handover/reassignment response.",
+    "Record completed awareness learning separately from a medical judgement or a vehicle-driving qualification."
+  ],
+  "visuals": [
+    "fatigue-clock",
+    "handover"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

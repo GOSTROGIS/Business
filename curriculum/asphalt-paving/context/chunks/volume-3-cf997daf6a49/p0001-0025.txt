@@ -1,0 +1,1169 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/volume-3.pdf
+SOURCE SHA-256: cf997daf6a494e33d3823ae5911f2978d7107901caffda04970526b5b4b566f7
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+ACCESS · INDIGENOUS SKILLS 4 SUCCESS
+
+
+
+
+Materials, plants and
+quality evidence
+Volume 3 · C1, C2, C3, C4, D1, D2, D3, E1, E2, E3, E4
+
+Classroom development edition · 30 October 2026
+
+
+                     ACCESS IS4S / ASPHALT STUDY
+
+
+                     Follow aggregate through the plant
+
+                     Processing changes size and separates material; moving systems need controlled access.
+
+
+
+
+                         FEED                                    CRUSH                                   SCREEN                   STORE
+                         Raw material                            Jaw / cone / impact                     Separate by size         Keep products apart
+                         Controlled supply                       Reduce particle size                    Check screen condition   Prevent contamination
+
+
+
+
+                                                                                    Oversize may return for more crushing.
+
+                          Conveyors connect the process. Wash systems may remove unwanted fines.
+
+
+                       A stopped belt is not an isolated belt. Use the actual energy-control procedure.
+
+                     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+
+ACCESS IS4S. (2026). Follow aggregate through the plant [Original instructional SVG]. Conceptual explanation based on the cited chapter
+readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                              ACCESS IS4S · Volume 3 · 1 / 67
+
+=== ORIGINAL PDF PAGE 2 ===
+In this volume
+
+  1. How to use the volume and key terms
+
+  2. Crushing process and paving aggregate production
+
+  3. Types and specifications of aggregates
+
+  4. Asphalt plant operation
+
+  5. Asphalt products and uses
+
+  6. Environmentally friendly properties
+
+  7. Use of storage areas
+
+  8. Asphalt plant and placement emissions
+
+  9. Determine asphalt mix design
+
+ 10. Confirm that samples match mix design
+
+ 11. Determine haul truck samples
+
+ 12. Determine compaction levels
+
+ 13. Trace a material and its sample
+
+
+
+
+                                           ACCESS IS4S · Volume 3 · 2 / 67
+
+=== ORIGINAL PDF PAGE 3 ===
+Use this volume
+This volume provides complete classroom readings, worked examples, named practice tasks and answer
+guidance for materials, plants and quality evidence. Follow the learning route in each chapter, study the
+labelled figures and explain your reasoning. The separate answer book contains the worked keys and
+observation records.
+
+Care for people, place and the next person using the work runs through the cases. Local First Nations, Métis
+and Inuit learners and partners bring distinct knowledge and priorities. Participation does not require
+sharing personal stories or cultural teachings, and no diagram claims to represent a Nation’s protocol.
+
+
+    Classroom authoring is complete for the listed competencies. Qualified technical review, actual
+    fleet/site matching, a local teaching pilot and observed practical qualification are separate
+    requirements. The practical records are ready for an instructor to configure and use; they do not certify
+    unobserved work.
+
+
+
+
+Read the picture, then test the idea
+    1. Identify the object, process or quantity shown.
+    2. Read labels, units and the figure’s stated limits.
+    3. Connect the image to the chapter explanation.
+    4. Try the exercise and check against evidence.
+    5. Explain the result to another person and revise if needed.
+
+
+
+Use AI as a checked working tool
+Claude and ChatGPT can help explain provided documents and create supported files. Claude Code,
+Cowork and Codex can help with permitted multi-file tasks and repeatable workflows when their tools are
+available. Give a clear purpose, named sources, output formats, limits and checks. Ask for a findings table
+with page/cell evidence; verify it against the source. Reopen DOCX, XLSX, HTML or PDF outputs. For study
+audio/video, verify the script, captions, diagrams and actual playback. A generated result is not a technical
+approval.
+
+
+
+Keep the term with its meaning
+AGGREGATE
+Mineral particles forming the solid skeleton of the mixture or granular layer.
+
+BINDER
+The asphalt material that coats and binds the aggregate in the specified mixture.
+
+COMPACTED THICKNESS
+
+
+
+
+                                                    ACCESS IS4S · Volume 3 · 3 / 67
+
+=== ORIGINAL PDF PAGE 4 ===
+Layer thickness after the required compaction process; distinct from loose depth behind the
+screed.
+
+DENSITY REFERENCE
+The specified comparison value used as the denominator of a percent-density calculation.
+
+GRADATION
+Distribution of aggregate particle sizes, commonly expressed as cumulative percent passing
+specified sieves.
+
+HEAD OF MATERIAL
+The quantity/distribution of mix immediately in front of the screed.
+
+JOB MIX FORMULA (JMF)
+The accepted mixture proportions and properties under the applicable quality/contract process.
+
+LOCKOUT
+Isolation, securing and verification of hazardous energy for work requiring protection.
+
+LOT / SUB-LOT
+Defined portions of work used for sampling, testing and acceptance under the contract.
+
+OMM
+Operation and maintenance manual matched to the actual machine, serial range and configuration.
+
+RAP
+Reclaimed asphalt pavement: recovered material containing aggregate and aged binder.
+
+SDS
+Safety data sheet for the actual product; read with its label and workplace procedure.
+
+SCREED
+The paver assembly that forms the mat; its response depends on setup, material and movement.
+
+STATION / OFFSET
+Location along an alignment / distance and direction from a defined reference.
+
+TCP
+Traffic control person with the required training and assigned role.
+
+TRACEABILITY
+A record connecting material, location, time, sample, result and authorized decision.
+
+SVG
+Scalable vector graphics: useful for clear diagrams whose labels and geometry must be checked.
+
+DOCX / XLSX
+Editable document / spreadsheet workbook; verify actual content and formulas after creation.
+
+PDF / HTML
+Page-based reading copy / browser document; inspect completeness, access and linked
+resources.
+
+
+
+                                          ACCESS IS4S · Volume 3 · 4 / 67
+
+=== ORIGINAL PDF PAGE 5 ===
+MP3 / MP4 / VTT
+Audio file / video container / timed web captions; test playback and retain a transcript.
+
+
+
+
+                                          ACCESS IS4S · Volume 3 · 5 / 67
+
+=== ORIGINAL PDF PAGE 6 ===
+Study chapter · Outline C1
+
+
+
+Crushing process and paving aggregate
+production
+Aggregate production changes a natural or reclaimed feed into identified products. Each stage controls a
+different feature: crushing changes particle size and shape; screening separates sizes; washing removes
+specified unwanted fines; handling preserves the product. A plant diagram is useful because a defect
+observed at the stockpile may have begun several stages earlier.
+
+The paving crew normally receives a finished product, but understanding its route helps them ask precise
+questions about segregation, contamination and supply. The material record should preserve source,
+product, test identity and destination.
+
+
+  Gravel pits, quarries
+
+  Crushing equipment
+
+  The screen
+
+  Conveyors
+
+  Feeders
+
+  Explain stockpiling and handling
+
+  Washing procedures
+
+  Types of aggregate transportation
+
+
+LEARNING STEP 1
+
+
+
+
+Gravel pits, quarries
+A gravel pit extracts deposits that can contain varying proportions of gravel, sand and fines. A quarry
+extracts rock that commonly needs breaking and crushing. Deposits vary within a site, so one attractive
+sample does not establish an entire source’s suitability. Source approval, extraction permission,
+environmental controls and safe access are separate requirements. Dredged or recovered material likewise
+needs its authorized source and product assessment.
+
+
+
+
+                                             ACCESS IS4S · Volume 3 · 6 / 67
+
+=== ORIGINAL PDF PAGE 7 ===
+Follow aggregate through the plant
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Follow aggregate through the plant
+
+     Processing changes size and separates material; moving systems need controlled access.
+
+
+
+
+         FEED                                    CRUSH                                    SCREEN                   STORE
+         Raw material                            Jaw / cone / impact                      Separate by size         Keep products apart
+         Controlled supply                       Reduce particle size                     Check screen condition   Prevent contamination
+
+
+
+
+                                                                    Oversize may return for more crushing.
+
+          Conveyors connect the process. Wash systems may remove unwanted fines.
+
+
+       A stopped belt is not an isolated belt. Use the actual energy-control procedure.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Follow aggregate through the plant [Original instructional SVG]. Conceptual explanation based on the cited
+ chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+Crushing equipment
+A jaw crusher reduces feed between crushing surfaces using compression. A cone crusher reduces
+material between a moving and a fixed crushing surface. An impact crusher uses impact to break material.
+Feed properties, desired product and the designed circuit influence selection and result. A learner
+identifies function and flow, not an operating gap or speed from a generic sketch. Wear and inappropriate
+feed can change shape, size distribution and equipment demand.
+
+LEARNING STEP 3
+
+
+
+
+The screen
+A screen separates material through openings of stated sizes. Material that passes an opening follows one
+route; retained material follows another, which may return to crushing. A torn, blinded or incorrectly
+configured screen can change the product even when the crusher is operating normally. Read the
+screen/product relationship and the inspection/test evidence together. A screen opening description alone
+is not the full aggregate specification.
+
+LEARNING STEP 4
+
+
+
+
+                                                                    ACCESS IS4S · Volume 3 · 7 / 67
+
+=== ORIGINAL PDF PAGE 8 ===
+Conveyors
+A conveyor carries material between stages or to storage. Fixed, transfer and stockpiling arrangements
+have different purposes. Belt, idlers, pulleys, drive, guards and discharge point are parts to identify.
+Transfer height, direction and handling can affect segregation and dust. The carrying route must be
+distinguished from a safe pedestrian route; a stopped belt is not an authorized crossing or maintenance
+condition.
+
+LEARNING STEP 5
+
+
+
+
+Feeders
+A feeder controls how material enters a process. Its job is more than moving the largest possible amount: a
+consistent, suitable feed helps the downstream circuit operate as intended. Irregular feed, bridging or
+incompatible material can disturb processing. Changes are handled through the plant’s procedure; workers
+do not enter a hopper or reach into a feeder to correct the flow.
+
+LEARNING STEP 6
+
+
+
+
+Explain stockpiling and handling
+Stockpiles keep identified products separate before use. Place and recover material using the approved
+handling arrangement to limit intermingling, segregation and contamination from the ground or adjacent
+products. Large particles can roll farther during pile formation, creating a different gradation at different
+locations. Maintain signs and records so a loader does not supply the wrong pile. Moisture and recovered-
+material variability also matter to later plant control.
+
+LEARNING STEP 7
+
+
+
+
+Washing procedures
+Washing separates unwanted fine material through a designed water-and-material process. It can improve
+cleanliness for the intended product, but also creates wash water and collected fines that need permitted
+management. Washing does not automatically make a product suitable for every use. Check the specified
+test results and the site’s water/settling or recycling arrangement; uncontrolled discharge is not part of a
+legitimate material-improvement process.
+
+LEARNING STEP 8
+
+
+
+
+Types of aggregate transportation
+Trucks, rail and barges can move aggregate between source, storage and plant. The selected transport
+method affects logistics and handling points, not the required product identity. Loads must remain
+traceable and protected against unacceptable contamination or segregation. Receiving checks compare the
+supplier, product, quantity and relevant test record with the order. A change of transport route or
+transloading point may introduce a new handling risk that belongs in the supply plan.
+
+
+
+
+                                               ACCESS IS4S · Volume 3 · 8 / 67
+
+=== ORIGINAL PDF PAGE 9 ===
+Gradation types
+
+
+
+
+Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 3.9, p. 134; PDF p. 168). Faithful scan crop; original figure
+caption retained. Full source context.
+
+
+
+
+  Worked example · Find the process change
+  Fictional circuit: a screen sends its oversize back to a cone crusher. A damaged screen allows larger
+  particles into the finished-product pile. The delivery ticket still carries the correct product name.
+
+  Think it through.
+
+  The name on the ticket has not verified the physical product. Identify affected production and
+  stockpile records, isolate the questioned product through the quality process, inspect the screen
+  safely and obtain the specified testing. Do not blend the questioned pile into accepted material to
+  hide the difference. The process diagram points to where the change occurred and which records
+  may be affected.
+
+
+
+
+                                                         ACCESS IS4S · Volume 3 · 9 / 67
+
+=== ORIGINAL PDF PAGE 10 ===
+Try it and explain your thinking
+
+  Trace a product through feeder, jaw/cone/impact stage, screen, conveyor, stockpile and
+  transport
+
+  Trace a product through feeder, jaw/cone/impact stage, screen, conveyor, stockpile and transport.
+  Explain which stages change material and which preserve or separate it.
+
+  Skills you use: Reading, Communication.
+
+
+
+
+  A fictional delivery uses 12 truckloads of 18 t
+
+  A fictional delivery uses 12 truckloads of 18 t. Two loads are held after the screen fault is discovered.
+  Calculate the recorded total and the quantity held, without calling the remainder accepted.
+
+  Skills you use: Numeracy, Problem solving, Writing.
+
+
+
+
+  Create a digital material-route record for the worked case
+
+  Create a digital material-route record for the worked case. Ask a partner to trace affected loads back
+  to the pile and production interval; improve any missing identifiers.
+
+  Skills you use: Digital, Collaboration, Adaptability, Creativity and innovation.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+
+
+                                               ACCESS IS4S · Volume 3 · 10 / 67
+
+=== ORIGINAL PDF PAGE 11 ===
+What the observer checks                                                                      Result       Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                             Pass /       Observation:
+                                                                                               hold         __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for           Pass /       Observation:
+ the actual task.                                                                              hold         __________________
+
+ Observe the actual process from authorized locations under site induction.                    0/1/2        Evidence/help:
+                                                                                                            ________________
+
+ Assess identification of crushers, screens, feeders, conveyors, stockpiles and transport      0/1/2        Evidence/help:
+ interfaces, plus the learner’s explanation of product identity.                                            ________________
+
+ Sample handling and machine service require their own safe procedures and authorized          0/1/2        Evidence/help:
+ personnel.                                                                                                 ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, C1, printed p. 37; source PDF pp. 39–39.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 3: Mineral Aggregates and Mixture Additives; source PDF
+        pp. 143–192. Open publication.
+        BC Ministry of Mining and Critical Minerals. (June 2026). Health, Safety and Reclamation Code for Mines in British Columbia. Open
+        publication.
+        WorkSafeBC. (Web snapshot: October 30, 2026). OHS Regulation, Part 12: Tools, Machinery and Equipment. Open publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                            ACCESS IS4S · Volume 3 · 11 / 67
+
+=== ORIGINAL PDF PAGE 12 ===
+Study chapter · Outline C2
+
+
+
+Types and specifications of aggregates
+An aggregate name is the beginning of a specification, not its complete meaning. The useful questions are:
+What particles are present? How do they interact? How do water and loading affect them? Which measured
+properties must the product meet? Gradation is the distribution of particle sizes; the properties of the
+blend are different from the properties of a single stone.
+
+
+  Aggregate processing
+
+  Characteristics
+
+  Common products
+
+
+LEARNING STEP 1
+
+
+
+
+Aggregate processing
+Crushing, screening and washing perform different jobs. Crushing can alter size and particle shape;
+screening separates sizes; washing removes specified fine material. A product may pass through more than
+one stage. The process name does not prove the final result: test the identified product using the required
+method and compare it with the applicable specification. A change in source, wear or handling can affect
+results even when the nominal process remains the same.
+
+
+
+
+                                             ACCESS IS4S · Volume 3 · 12 / 67
+
+=== ORIGINAL PDF PAGE 13 ===
+A gradation curve shows what passes
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     A gradation curve shows what passes
+
+     Fictional 1,000 g sample · sieve sizes shown for calculation practice only.
+      % passing                                                                                        100%
+       100
+                                                                             85%
+                                                                                                              MASS CHECK
+       75
+                                                                                                              150 + 350 + 300 + 200
+                                                   50%                                                        = 1,000 g retained total
+       50
+                                                                                                              Passing = 100% −
+                                                                                                              cumulative retained %
+       25                20%
+
+
+
+       0
+                     0.6                      2.36                       4.75                     9.5
+                            Sieve opening, mm · spaced schematically
+
+
+
+       Check the sample total, units and cumulative calculation before plotting.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). A gradation curve shows what passes [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+Characteristics
+Permeability describes the ability of a material arrangement to transmit water. Load-bearing response
+concerns how the structure supports loading. Resistance to shearing depends on particle interaction and
+other conditions. Particle shape, texture, grading, fines and moisture can influence these behaviours. An
+open-looking product is not automatically a designed drainage layer; the complete gradation,
+contamination and drainage arrangement matter.
+
+Liquid limit and plastic limit characterize consistency of the applicable fine-grained material under
+specified tests. The plasticity index is liquid limit minus plastic limit. These are not moisture limits for
+every whole aggregate or a visual test of a pile. Gradation is normally recorded as cumulative percent
+passing identified sieves. Keep sieve size, units, test method and product/sample identity with the result.
+
+LEARNING STEP 3
+
+
+
+
+Common products
+Pit run describes material taken from a deposit with limited processing; its properties can vary. Screened
+road base, including a nominal '3-inch minus' description, needs the specified grading and quality limits.
+Bedding sand is selected for the relevant pipe or bedding design. Crushed road mulch is a
+
+
+
+                                                                    ACCESS IS4S · Volume 3 · 13 / 67
+
+=== ORIGINAL PDF PAGE 14 ===
+regional/product term that must be resolved through its actual specification. Asphalt aggregates are
+selected and blended for the approved mixture.
+
+Drain rock serves an intended drainage use with specified grading/cleanliness. Chips and driveway chips
+describe particular aggregate products whose intended application and grading must be established.
+Reclaimed asphalt pavement (RAP) contains recovered aggregate and aged binder; it is not
+interchangeable with clean virgin stone. Concrete sand, including material specified under ASTM C33, has
+its own requirements. Stucco sand is selected for a different mortar/render application. A shared word
+'sand' does not authorize substitution among them.
+
+
+
+ Gradation types
+
+
+
+
+ Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 3.9, p. 134; PDF p. 168). Faithful scan crop; original figure
+ caption retained. Full source context.
+
+
+
+
+   Worked example · Read a sieve result
+   Fictional dry sample mass is 1,000 g. The measured retained masses on three successive sieves are
+   150 g, 350 g and 300 g; the pan holds 200 g. Use these values only to practise the arithmetic.
+
+   Think it through.
+
+   The masses total 1,000 g. Cumulative retained percentages are 15%, 50% and 80%; cumulative
+   passing values are 85%, 50% and 20%. The pan fraction is 20%. Whether the product conforms
+   cannot be decided without sieve sizes, specified method, product identity and acceptance limits.
+
+
+
+
+                                                          ACCESS IS4S · Volume 3 · 14 / 67
+
+=== ORIGINAL PDF PAGE 15 ===
+Try it and explain your thinking
+
+  Make a product selection table for bedding, drainage, asphalt mixture and concrete sand
+
+  Make a product selection table for bedding, drainage, asphalt mixture and concrete sand. Name the
+  information needed before accepting a substitution.
+
+  Skills you use: Reading, Writing, Problem solving.
+
+
+
+
+  Recalculate the example if 20 g is missing from the total
+
+  Recalculate the example if 20 g is missing from the total. Then calculate PI for fictional LL = 32 and PL
+  = 21. Explain the limits of both results.
+
+  Skills you use: Numeracy, Communication.
+
+
+
+
+  Plot the supplied cumulative passing values with clearly labelled sieve positions
+
+  Plot the supplied cumulative passing values with clearly labelled sieve positions. Save the chart, let a
+  partner find the missing real sieve sizes, and revise its title to avoid implying acceptance.
+
+  Skills you use: Digital, Collaboration, Adaptability, Creativity and innovation.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+
+
+                                               ACCESS IS4S · Volume 3 · 15 / 67
+
+=== ORIGINAL PDF PAGE 16 ===
+What the observer checks                                                                    Result         Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                           Pass /         Observation:
+                                                                                             hold           __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for         Pass /         Observation:
+ the actual task.                                                                            hold           __________________
+
+ Use labelled samples and the approved test method under supervision; do not identify a      0/1/2          Evidence/help:
+ product by colour alone.                                                                                   ________________
+
+ Observe correct terminology, sample/product traceability and interpretation of a sieve      0/1/2          Evidence/help:
+ table.                                                                                                     ________________
+
+ Laboratory competence and approval of a source/product require the applicable               0/1/2          Evidence/help:
+ qualified testing and decision process.                                                                    ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+          SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, C2, printed p. 38; source PDF pp. 40–40.
+          Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 3: Mineral Aggregates and Mixture Additives; source PDF
+          pp. 143–192. Open publication.
+          BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 2. Open
+          publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                          ACCESS IS4S · Volume 3 · 16 / 67
+
+=== ORIGINAL PDF PAGE 17 ===
+Study chapter · Outline C3
+
+
+
+Asphalt plant operation
+Both drum and batch plants turn specified inputs into a controlled mixture, but they organize the flow
+differently. Learn the path of aggregate, binder, recovered material where permitted, collected fines and
+finished mixture. A material-flow drawing is not a pipe-and-instrumentation diagram: it explains
+relationships without supplying the plant’s operating settings.
+
+
+  The operation of a drum plant
+
+  The operation of a batch plant
+
+
+LEARNING STEP 1
+
+
+
+
+The operation of a drum plant
+In a continuous drum-mix arrangement, cold-feed bins supply identified aggregate fractions. Feeders and
+conveyors proportion and carry material through the designed drying/mixing system. Binder and other
+permitted inputs are introduced through controlled systems. Drum layouts differ, including where drying
+and mixing occur; do not infer one universal arrangement from the word 'drum'. Moisture in the aggregate
+affects drying demand and production control.
+
+Finished mixture moves to the designed storage/surge system and loadout. A storage silo provides a
+controlled material-handling stage; it does not remove the need to preserve mix identity, temperature
+conditions and acceptable storage duration. The load record connects the product and time to the truck.
+Dust collection, burner performance and recovered-fines control interact with production and
+environmental requirements. A change in one feed must be managed through the approved mixture/plant
+process.
+
+
+
+
+                                             ACCESS IS4S · Volume 3 · 17 / 67
+
+=== ORIGINAL PDF PAGE 18 ===
+Batch or continuous?
+
+
+     ACCESS IS4S · ASPHALT FOUNDATIONS
+
+
+     Batch or continuous?
+     Classify the mixing process, not the presence of one piece of equipment.
+
+
+        BATCH                Separate weighed batches
+
+
+          Cold-feed              Dry and                 Screen +                 Weigh a                 Mix with         Store /
+          bins                   heat                    hot bins                 batch                   binder           load out
+
+        A batch plant can have a drying drum. The batch mixer defines the process.
+
+
+
+        DRUM / CONTINUOUS
+
+          Proportion at                       Measure the                           Dry + mix with                   Continuous mix
+          cold-feed bins                      material flow                         metered binder                   to storage
+
+
+        Some facilities use a separate dryer and continuous mixer.
+
+
+
+     Simplified material routes · additives, recycling and detailed controls require their own records.
+
+
+
+ Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026).
+ Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems. Source locations:
+ [{"figure": "7.2", "printed_page": 310, "pdf_page": 344}, {"figure": "7.4", "printed_page": 312, "pdf_page": 346}, {"section": "7.1.1–
+ 7.1.2", "printed_pages": [309, 311, 312], "pdf_pages": [343, 345, 346]}]. Original contributors: Terex Roadbuilding; National Highway
+ Institute (NHI) Full source context.
+
+
+LEARNING STEP 2
+
+
+
+
+The operation of a batch plant
+In a conventional batch arrangement, cold feeds send aggregate to drying/heating. A hot stone elevator
+lifts heated aggregate to the screen deck, where fractions are separated into hot bins. Weigh bins measure
+the selected fractions for a batch. The pug mill mixes the measured materials with the specified binder and
+other permitted inputs. A slat conveyor or other designed transfer moves the product toward
+storage/loadout.
+
+The batch identity helps relate proportioning to a production record. It does not guarantee that every batch
+meets the formula: incorrect bin contents, screen condition, scales, moisture assumptions or binder
+measurement can affect the result. Quality control checks the process and tested product. Operators
+follow the actual plant’s safe controls, interlocks and procedures; learners should be able to trace an input
+and explain what evidence would reveal a change.
+
+
+
+
+                                                               ACCESS IS4S · Volume 3 · 18 / 67
+
+=== ORIGINAL PDF PAGE 19 ===
+Internal components of a baghouse
+
+
+
+
+Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 7.13, p. 324; PDF p. 358). Faithful scan crop; original figure
+caption retained. Original image contributor: Terex Roadbuilding; credit register, PDF pp. 803–805. Full source context.
+
+
+
+
+  Worked example · One product, two process records
+  Fictional batch card: 950 kg aggregate plus 50 kg binder, with no other mass included. Fictional
+  continuous record: 19,000 kg aggregate plus 1,000 kg binder over an interval. Compare binder mass
+  percentage on a total-mixture basis.
+
+  Think it through.
+
+  Batch total = 1,000 kg; binder = 5%. Continuous total = 20,000 kg; binder = 5%. The same arithmetic
+  ratio does not establish matching gradation, moisture correction, binder grade, temperature or
+  conformity. The records describe different production organizations; both require the approved
+  formula and checks.
+
+
+
+
+                                                         ACCESS IS4S · Volume 3 · 19 / 67
+
+=== ORIGINAL PDF PAGE 20 ===
+Try it and explain your thinking
+
+  Explain and apply the idea
+
+  Trace both plant diagrams and explain hot elevator, screen deck, hot bin, weigh bin, pug mill, slat
+  conveyor, silo and loadout.
+
+  Skills you use: Reading, Communication.
+
+
+
+
+  Recalculate the batch if binder is 52 kg while aggregate remains 950 kg
+
+  Recalculate the batch if binder is 52 kg while aggregate remains 950 kg. State the denominator and
+  why the result alone cannot approve the product.
+
+  Skills you use: Numeracy, Writing, Problem solving.
+
+
+
+
+  Create a saved side-by-side production record
+
+  Create a saved side-by-side production record. A partner introduces a bin-label mismatch; identify
+  affected records and revise the release status.
+
+  Skills you use: Digital, Collaboration, Adaptability, Creativity and innovation.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+
+
+                                               ACCESS IS4S · Volume 3 · 20 / 67
+
+=== ORIGINAL PDF PAGE 21 ===
+What the observer checks                                                                    Result         Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                           Pass /         Observation:
+                                                                                             hold           __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for         Pass /         Observation:
+ the actual task.                                                                            hold           __________________
+
+ Use the actual plant process drawing and authorized observation area.                       0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Assess component/function identification, input/output traceability and recognition of a    0/1/2          Evidence/help:
+ changed production condition.                                                                              ________________
+
+ Plant operation, scale calibration and maintenance are separate authorized practical        0/1/2          Evidence/help:
+ tasks.                                                                                                     ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+          SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, C3, printed p. 39; source PDF pp. 41–41.
+          Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 7: Manufacture of Hot Mix Asphalt; source PDF pp. 341–
+          390. Open publication.
+          Province of British Columbia. (Web snapshot: October 30, 2026). Asphalt Plant Regulation, B.C. Reg. 217/97. Open publication.
+          WorkSafeBC. (Web snapshot: October 30, 2026). OHS Regulation, Part 12: Tools, Machinery and Equipment. Open publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                          ACCESS IS4S · Volume 3 · 21 / 67
+
+=== ORIGINAL PDF PAGE 22 ===
+Study chapter · Outline C4
+
+
+
+Asphalt products and uses
+A road requirement has an issuer, edition, project adoption and decision authority. A contractor, designer,
+owner and regulator may each issue documents, but their documents answer different questions. Read the
+contract register before choosing a clause from a familiar book. The same surface material can appear on a
+highway, a municipal street and private property under different project requirements.
+
+
+  The key elements of the MMCD
+
+  The role of the MOT
+
+  The role of the DOT
+
+  Engineer Specs
+
+  Role of Architect
+
+  Other asphalt and paving materials
+
+
+LEARNING STEP 1
+
+
+
+
+The key elements of the MMCD
+MMCD means Master Municipal Construction Documents. The published contract documents provide
+standardized municipal construction specifications, drawings and related contract material. A project may
+adopt an edition and add supplementary conditions or specifications. Obtain the actual adopted documents
+and changes; the title 'municipal work' does not establish every MMCD clause or edition. Record the
+governing project reference, not a guessed requirement from another job.
+
+
+
+
+                                            ACCESS IS4S · Volume 3 · 22 / 67
+
+=== ORIGINAL PDF PAGE 23 ===
+Find the document that governs the task
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Find the document that governs the task
+
+     Check adoption and revision before applying a number.
+
+
+
+
+          CONTRACT                                                    1                      DRAWING                       2
+          Edition + special provisions                                                       Revision + location
+
+
+
+
+          METHOD                                                      3                      RECORD                        4
+          Approved procedure + roles                                                         Actual result + disposition
+
+
+
+
+       A historical table is useful for learning; the adopted project requirements govern work.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Find the document that governs the task [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+The role of the MOT
+The provincial transportation ministry’s role is established by the project and applicable law/contract.
+Distinguish contractor quality control from owner-side quality assurance, audit and acceptance activities
+as defined in the contract. A contractor’s passing internal check is not automatically the owner’s
+acceptance. Conversely, an audit sample does not remove the contractor’s duty to control its own process.
+Current ministry naming can change; identify the actual issuer and authorized representative.
+
+LEARNING STEP 3
+
+
+
+
+The role of the DOT
+DOT is commonly used for a Department of Transportation in other jurisdictions. It does not identify one
+universal Canadian asphalt standard. The supplied 2006 B.C. Design Build Standard Specifications is a
+specific historical document, not a generic federal transport regulation. When an old note says 'DOT
+standard', identify its jurisdiction, full title, edition and contractual adoption before using it. This prevents a
+familiar acronym from becoming an unsupported requirement.
+
+LEARNING STEP 4
+
+
+
+
+                                                                    ACCESS IS4S · Volume 3 · 23 / 67
+
+=== ORIGINAL PDF PAGE 24 ===
+Engineer Specs
+An engineer’s project specifications translate the design into required materials, workmanship, inspection
+and acceptance criteria. Such specifications are used in public as well as private work. Drawings and
+specifications must be read together, using the project’s hierarchy and change process. A conflict is
+referred to the authorized design/contract role; the crew does not choose whichever version gives the
+easiest quantity.
+
+LEARNING STEP 5
+
+
+
+
+Role of Architect
+An architect may coordinate the site and building interface, accessibility, appearance and other project
+requirements through the design team. The actual division of responsibility is project-specific. Architectural
+drawings can identify finishes or interfaces while civil drawings establish drainage and pavement details. A
+worker must know which record and responsible designer address the question, and retain an authorized
+response when the work changes.
+
+LEARNING STEP 6
+
+
+
+
+Other asphalt and paving materials
+Paving blocks/stones, asphalt, concrete and permeable pavement systems have different structures,
+construction methods and maintenance needs. 'Green road' is a claim or design objective that needs
+defined performance and evidence. A substitution affects more than appearance: loading, drainage, access,
+joints, durability and approved quantities may change. Compare the required service and obtain the
+authorized design decision before substituting a product.
+
+
+
+
+                                             ACCESS IS4S · Volume 3 · 24 / 67
+
+=== ORIGINAL PDF PAGE 25 ===
+Three views. Three different questions.
+
+   ACCESS IS4S / ASPHALT STUDY TEXTBOOK
+
+
+   Three views. Three different questions.
+
+    PLAN / WHERE AND HOW WIDE?                                                                      PROFILE / HOW HIGH?
+                                                                                                                                         50 m / 100.50 m
+
+                                                                              6m
+
+
+
+                         50 m horizontal length                                                        0 m / 100.00 m
+
+                                                                                                            Rise = 0.50 m • Run = 50 m
+                                                                                                            0.50 ÷ 50 × 100 = 1% grade
+    CROSS-SECTION / WHAT LAYERS?
+
+                                                                                           Illustrative surface course
+
+
+
+                                                                                           Aggregate base
+
+
+                                                                                           Prepared subgrade
+
+
+
+   P-01 revision B is fictional · Vertical scales exaggerated · The section supplies no design dimensions or acceptance criteria.
+
+
+
+Note. ACCESS IS4S. (2026). Three views. Three different questions. [Original instructional SVG]. Conceptual illustration; read the stated
+conditions in the lesson.
+
+
+
+
+  Worked example · Resolve the document conflict
+  Fictional register lists drawing P-04 revision C and specification SP-07 revision 2. A delivery note
+  refers to an older project’s MMCD detail. The crew is asked to change the surface material at the
+  entrance.
+
+  Think it through.
+
+  The delivery note does not establish the governing design. Identify the current project documents,
+  describe the requested change and obtain the authorized design/contract response. Keep the reason
+  and affected drawing/specification revisions together. Do not treat an acronym or a supplier
+  recommendation as approval.
+
+
+
+
+                                                                           ACCESS IS4S · Volume 3 · 25 / 67
+

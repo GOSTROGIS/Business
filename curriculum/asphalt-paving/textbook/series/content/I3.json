@@ -1,0 +1,86 @@
+{
+  "code": "I3",
+  "title": "Apply paver work safety procedures",
+  "intro": "Safe paver work depends on a shared plan and controlled movement around hot material and moving machinery. The ground crew, truck driver and screed crew need the same understanding of the work boundary.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Interpret job plan",
+      "text": "Brief the path, paving pattern, thickness, crown, joints, obstacles, utilities and public access. Identify the approved drawing and changes. Establish who directs truck movement, who controls the screed and how an emergency stop is communicated. Protect entrances and services according to the actual access plan."
+    },
+    {
+      "number": 2,
+      "title": "Demonstrate awareness of machine-specific safety",
+      "text": "Recognize hopper-wing and truck-interface pinch points, conveyor/auger entanglement, hot mix and heating systems, fumes, noise, hydraulic pressure, blind areas and moving rollers. Never enter a hopper or reach into a feed system because motion has paused. Keep clear of the machine’s swept path and raised components. Use specified blocking/support before work requiring access."
+    },
+    {
+      "number": 3,
+      "title": "Describe traffic control requirements",
+      "text": "Use the traffic-control plan for signs, devices, trained personnel and communication. Public traffic control and guiding a delivery truck are distinct roles. Reassess as the paver advances and access points change. Stop affected movements when the route or signals become unclear; do not assume high-visibility clothing makes a worker visible to every operator."
+    },
+    {
+      "number": 4,
+      "title": "Use proper PPE",
+      "text": "Use the required footwear, head, eye, hearing, visibility and heat/chemical protection selected for the task. Check condition and fit. Respiratory protection needs the applicable program and controls. The employer ensures required PPE is used and maintained; worker/employer supply responsibilities follow current Part 8 and any agreements. PPE does not remove a crush or entanglement hazard."
+    },
+    {
+      "number": 5,
+      "title": "Perform lockout procedures",
+      "text": "Apply the machine-specific lockout procedure for service, clearing or hazardous access. Address engine/electrical, hydraulic, gravity, heat and stored energy. Secure and verify the safe state before work. A night switch, stopped engine or emergency-stop button alone is not proof of complete isolation. Reinstatement follows the authorized procedure with people clear and guards restored."
+    },
+    {
+      "number": 6,
+      "title": "Secure machine for safety",
+      "text": "Park at the designated stable location, position and support the screed/attachments as instructed, apply parking controls and required chocks, and secure access. Record defects and communicate out-of-service status. Protect people who may approach after the crew leaves."
+    }
+  ],
+  "worked": {
+    "title": "A stopped auger",
+    "case": "Material stops moving, and a worker reaches toward the auger to remove a lump.",
+    "solution": "Stop the approach and keep clear. A pause in automatic feed does not isolate the auger; it may restart. Use the approved stopping, lockout, stored-energy and clearing procedure with authorized personnel."
+  },
+  "activities": [
+    {
+      "id": "I3-01",
+      "prompt": "Name the safe response when the truck guide’s signal is lost.",
+      "answer": "Stop the affected movement, maintain safe positions and re-establish acknowledged communication before resuming.",
+      "skills": [
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "Name the safe response when the truck guide’s signal is lost."
+    },
+    {
+      "id": "I3-02",
+      "prompt": "A revised layout moves the paver edge 0.4 m toward a public route. What must be checked before proceeding?",
+      "answer": "Reassess the actual clearance, barriers, swept paths and access plan with the responsible lead/TCP team. The numerical shift alone does not establish acceptable separation.",
+      "skills": [
+        "Numeracy",
+        "Problem solving",
+        "Adaptability"
+      ],
+      "title": "A revised layout moves the paver edge 0.4 m toward a public route"
+    },
+    {
+      "id": "I3-03",
+      "prompt": "Prepare a three-field defect note for a damaged hopper guard.",
+      "answer": "Identify machine/location and damage; state held/out-of-service status and immediate controls; name the person notified and required authorized correction/release.",
+      "skills": [
+        "Writing",
+        "Digital"
+      ],
+      "title": "Prepare a three-field defect note for a damaged hopper guard."
+    }
+  ],
+  "practical": [
+    "Use selected PPE and identify machine-specific hazards.",
+    "Demonstrate full approved lockout and verification.",
+    "Secure the machine with required supports, parking controls and access protection."
+  ],
+  "visuals": [
+    "truck-interface",
+    "isolation-states"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

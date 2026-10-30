@@ -6,64 +6,64 @@ A4|Worker expectations; communication; responsibilities|ohs-03,ccohs-fatigue|Emp
 A5|Road profiles; structure; drawings|ms4:05,ms4:06,highway-specs-2025-vol1|Actual drawings, grade reference and contract edition
 A6|Recycling; rehabilitation; future trends|ms4:11,ms4:13,ms4:15|Current project evidence and qualified review
 B1|PPE; chemical/physical/biological hazards; MSI; WHMIS; first aid; rigging; utilities; public safety|ohs-03,ohs-04,ohs-05,ohs-07,ohs-08,ohs-14,ohs-15,ohs-19,ohs-20,wsbc-rigging-failures,bc1call-six-steps,whmis|Site risk/first-aid assessments, SDS, lift plans, qualified workers, emergency procedures, qualified review and practical assessment; B1 study chapter now authored
-B2|Haul-truck blind areas; pinch points; signals; clearance|ohs-16,ohs-18,cat:01|Actual truck manual, haul route, exclusion zones, communication plan and technical unit
-B3|Power-broom traffic; rotating brush; noise; airborne dust|ohs-06,ohs-07,ohs-12,ohs-16,ohs-18|Actual broom manual/parts, dust assessment/controls and technical unit
-B4|Air-hammer hoses; noise; vibration; debris; ergonomics|cp-breaker-manual-alt,cp-1230-manual-pl,ccohs-pneumatic-tools,ohs-07,ohs-12|Actual tool/air-supply manual and exposure controls; technical unit
-B5|Propane cylinders; hoses; regulator; torch; handling/storage|fairview-tiger-torch,bcforest-tiger-torch,ccohs-propane,ohs-05,tdg-training|Actual complete assembly instructions, supplier SDS, fire controls and technical unit
-B6|Heat; cold; sun; hydration; weather changes|ohs-07,wsbc-heat-stress|Site exposure plan, emergency arrangements and technical unit
-B7|Traffic planning; signs; signals; radios; TCP duties|ohs-18,guidelines-18,traffic-manual-2020,traffic-updates|Road-authority plan, qualified people, TCP credentials where required and technical unit
-B8|Plant/pit moving equipment; crushers; conveyors; dust/noise|bc-mines-code-2026,ohs-10,ohs-12,ohs-16,niosh-milling|Jurisdiction, actual plant/pit induction, machine manuals and technical unit; NIOSH source covers milling only
-B9|Vehicle/trailer suitability; loading; cargo restraint; duties|bc-cargo-securement,nsc10-cargo-securement,nsc10-interpretations,tdg-training|Actual mass/dimensions, vehicle/anchor ratings, route/permits and technical unit
-B10|Fatigue causes; recognition; shift planning|ccohs-fatigue,ohs-04|Employer scheduling/response arrangements and technical unit
-C1|Aggregate production; crushers; screens; conveyors; stockpiles|ms4:03,bc-mines-code-2026,ohs-12|Actual process/site information, plant component manuals and technical unit
-C2|Aggregate properties; gradation; liquid/plastic limits; products|ms4:03,highway-specs-2025-vol2|Specified test methods, material records and technical unit
-C3|Batch/drum plants; component functions; material flow|ms4:07,bc-asphalt-reg,ohs-12|Actual plant OEM manuals, process/permit documents and technical unit
-C4|Asphalt products; applications; MMCD/MOT/engineer specifications|ms4:02,ms4:15,highway-specs-2025-vol1,mmcd-supplements|Licensed MMCD if used, actual product/SDS and contract documents; technical unit
-D1|Environmental properties; reuse; evidence and limitations|ms4:13,bc-asphalt-reg,bc-spill-reporting|Project/product environmental evidence; qualify blanket historical assertions; technical unit
-D2|Fuels; primers/emulsions; containment; waste/recycling|ms4:07,ohs-05,bc-spill-reporting,ccohs-propane|Actual SDS, storage/spill/waste plan and technical unit
-D3|Plant/placement emissions; dust collection; jurisdiction|ms4:07,bc-asphalt-reg,ohs-05,ohs-06|Applicable regional permits/rules, exposure assessment and technical unit
-E1|Mix design; Marshall/Superpave context; temperature|ms4:04,highway-specs-2025-vol1,highway-specs-2025-vol2|Approved design, specified test methods and technical unit
-E2|Aggregate/belt/mix sampling; sample identity; design comparison|ms4:10,highway-specs-2025-vol2|Approved sampling method, safe access, sampling equipment and technical unit
-E3|Truck sampling; handling; identification; records|ms4:10,highway-specs-2025-vol2,ohs-16|Sampling procedure, traffic coordination and technical unit
-E4|Density; nuclear gauge; coring; calibration and records|ms4:09,ms4:10,troxler-3430-manual,cnsc-gauges-current,cnsc-gauge-guide-pdf|Licence/training arrangements, actual gauge/corer, approved test method and technical unit
-F1|Subgrade; drainage; geotextile; subbase/base|ms4:05,ms4:06,highway-specs-2025-vol1|Project drawings/material specifications and technical unit
-F2|Metric/imperial plans; slopes; crowns; levels; grade control|leica-level-brochure,leica-level-datasheet,measuring-wheel,highway-specs-2025-vol1|Actual level/laser/grade-control manuals, checks, plans and full technical unit
-F3|Utilities; castings; fine grade; crossfall; width|ms4:08,bc1call-six-steps,highway-specs-2025-vol1|Locate responses, drawings, grade records and full technical unit
-G1|EPS gradation criteria and records|ms4:03,ms4:10,spec2006,highway-specs-2025-vol1|Actual contract edition, test method and technical unit
-G2|EPS binder/oil content and mix records|ms4:02,ms4:04,ms4:10,spec2006,highway-specs-2025-vol1|Approved design, test criteria and technical unit
-G3|EPS application and placement requirements|ms4:08,spec2006,highway-specs-2025-vol1|Actual project acceptance rules and technical unit
-G4|Segregation recognition; causes; prevention context|ms4:08,cat:01,spec2006,highway-specs-2025-vol1|Project criteria, corrective-action authority and technical unit
-G5|Density measurement and acceptance|ms4:09,ms4:10,spec2006,troxler-3430-manual,cnsc-gauges-current|Contract criteria, authorized testing arrangement and technical unit
-G6|Smoothness; measurement; acceptance|ms4:10,spec2006,highway-specs-2025-vol1|Required instruments/methods, contract criteria and technical unit
-H1|Milling/reclaiming machine components and applications|ms4:13,cat-library,niosh-milling|Actual model/serial parts and operation manuals; technical unit
-H2|Milling hazards; dust; exclusion; isolation|ohs-06,ohs-10,ohs-16,niosh-milling|Actual machine dust controls, exposure/lockout procedures and technical unit
-H3|Operator/crew roles; communications; signals|ohs-03,ohs-16,ohs-15|Crew/site responsibilities and technical unit; crane signals use Part 15
-H4|Milling inspection; lubrication; servicing|ohs-10,cat-library,lincoln-grease-gun|Exact machine maintenance/lubrication charts and technical unit
-H5|Stakes; offsets; grades; station/elevation records|leica-level-brochure,highway-specs-2025-vol1|Actual drawings/instruments and full technical unit; EL means elevation
-H6|Milling/reclaiming operation; controls; production|ms4:13,cat-library,niosh-milling|Actual operator manual, controlled practice and authorized assessment; technical unit
-H7|Milling shutdown; parking; isolation|ohs-10,ohs-16,cat-library|Exact shutdown/isolation procedure and technical unit
-H8|Milling loading and transport|nsc10-cargo-securement,nsc10-interpretations,bc-cargo-securement,cat-library|Actual machine transport points, trailer/anchors, route and technical unit
-I1|Placement sequence; tack; thickness; material delivery|ms4:08,cat:01|Actual products, mix, contract and trial evidence; technical unit
-I2|Tractor; hopper; conveyors; augers; tracks; attachments|cat-atlas,cat:01,ms4:08|Actual model/serial comprehensive parts catalogue and full technical unit
-I3|Paver safety; access; material flow; isolation|ohs-10,ohs-16,ohs-18,cat:01|Actual paver manual and site procedures; technical unit
-I4|Paver operator and crew coordination|cat:01,ohs-03,ohs-16|Crew roles, communications and technical unit
-I5|Paver inspection; lubrication; maintenance|cat-library,ohs-10,lincoln-grease-gun|Exact paver maintenance chart/intervals and technical unit
-I6|Markers; grade; stakes; reference lines|ms4:08,leica-level-datasheet,highway-specs-2025-vol1|Actual plans and grade-control manuals; technical unit
-I7|Paver controls; starts; material flow; flat/slope scope|cat:01,ms4:08,cat-library|Actual machine instruction, controlled practice and assessment; technical unit
-I8|Paver shutdown and parking|cat-library,ohs-10,ohs-16|Exact machine shutdown/isolation procedure and technical unit
-I9|Paver transport; restraint; attachment configuration|nsc10-cargo-securement,nsc10-interpretations,bc-cargo-securement,cat-library|Actual machine/trailer/anchors and transport plan; technical unit
-J1|Rigid/variable screeds; extensions; sensors; component names|cat-atlas,cat:01,ms4:08|Actual screed/attachment serial parts and OMM; full technical unit
-J2|Screed heat; pinch points; extensions; isolation|cat:01,ohs-10,ohs-16,ohs-08|Exact screed/heat-system procedures and technical unit
-J3|Screed operator roles; coordination; quality checks|cat:01,ms4:08,ohs-03|Crew/site responsibilities and technical unit
-J4|Screed maintenance; heating; wear surfaces|cat-library,ohs-10|Exact screed service/lubrication/heat-system manuals and technical unit
-J5|Width; grade; thickness; mat-depth poker; operation|cat:01,ms4:08,infrared-thermometer,highway-specs-2025-vol1|Actual controls, depth-check method, project criteria and technical unit
-J6|Screed shutdown and safe condition|cat-library,ohs-10|Exact shutdown/heater/isolation procedure and technical unit
-K1|Raker roles; preparation; inaccessible areas; joints|ms4:08,cat:01,seymour-tool-catalogue-2026|Crew workflow, project handwork requirements and technical unit
-K2|Handles/traffic; heat; burns; dust; ergonomics|ccohs-handtools-general,ccohs-shovelling,wsbc-heat-stress,ohs-08,ohs-16|Actual handwork/traffic/exposure arrangements and technical unit
-K3|Rakes; toothed/straight lutes; shovels; tampers; wheelbarrows; patching/joints; torch|lute-instructions,lute-gusset-brace,lute-wrap-brace,seymour-tool-catalogue-2026,multiquip-plate-manual,fairview-tiger-torch,cat:01,ms4:08|Exact selected tools, approved handwork/repair procedure and supervised assessment; technical unit
-L1|Static/vibratory/pneumatic rollers; stages; components|cat-atlas,cat:02,ms4:09|Actual roller model/serial OMM and comprehensive parts; full technical unit
-L2|Compactor safety; people; edges; access; heat|ohs-16,ohs-08,cat:02|Actual machine exclusions/operating conditions and site controls; technical unit
-L3|Compactor operator roles; coordination; records|cat:02,ohs-03,ms4:09|Crew workflow and technical unit
-L4|Compactor inspection; lubrication; spray systems|cat-library,ohs-10,lincoln-grease-gun|Exact roller maintenance/lubrication chart and technical unit
-L5|Compaction phases; temperature; density; records|cat:02,ms4:09,infrared-thermometer,troxler-3430-manual,cnsc-gauges-current|Mix-specific rolling plan, instrument/licence/test requirements and technical unit
-L6|Compactor shutdown; parking; isolation|cat-library,ohs-10,ohs-16|Exact roller shutdown/parking/isolation procedure and technical unit
+B2|Haul-truck blind areas; pinch points; signals; clearance|ohs-16,ohs-18,cat:01|Actual truck manual, haul route, exclusion zones, communication plan; qualified technical review, fleet/site matching and observed assessment
+B3|Power-broom traffic; rotating brush; noise; airborne dust|ohs-06,ohs-07,ohs-12,ohs-16,ohs-18,rosco-rb50-manual|Actual broom manual/parts, dust assessment/controls; qualified technical review, fleet/site matching and observed assessment
+B4|Air-hammer hoses; noise; vibration; debris; ergonomics|cp-breaker-manual-alt,cp-1230-manual-pl,ccohs-pneumatic-tools,ohs-07,ohs-12|Actual tool/air-supply manual and exposure controls; qualified technical review, fleet/site matching and observed assessment
+B5|Propane cylinders; hoses; regulator; torch; handling/storage|fairview-tiger-torch,bcforest-tiger-torch,ccohs-propane,ohs-05,tdg-training|Actual complete assembly instructions, supplier SDS, fire controls; qualified technical review, fleet/site matching and observed assessment
+B6|Heat; cold; sun; hydration; weather changes|ohs-07,wsbc-heat-stress|Site exposure plan, emergency arrangements; qualified technical review, fleet/site matching and observed assessment
+B7|Traffic planning; signs; signals; radios; TCP duties|ohs-18,guidelines-18,traffic-manual-2020,traffic-updates|Road-authority plan, qualified people, TCP credentials where required; qualified technical review, fleet/site matching and observed assessment
+B8|Plant/pit moving equipment; crushers; conveyors; dust/noise|bc-mines-code-2026,ohs-10,ohs-12,ohs-16,niosh-milling|Jurisdiction, actual plant/pit induction, machine manuals; NIOSH source covers milling only; qualified technical review, fleet/site matching and observed assessment
+B9|Vehicle/trailer suitability; loading; cargo restraint; duties|bc-cargo-securement,nsc10-cargo-securement,nsc10-interpretations,tdg-training|Actual mass/dimensions, vehicle/anchor ratings, route/permits; qualified technical review, fleet/site matching and observed assessment
+B10|Fatigue causes; recognition; shift planning|ccohs-fatigue,ohs-04|Employer scheduling/response arrangements; qualified technical review, fleet/site matching and observed assessment
+C1|Aggregate production; crushers; screens; conveyors; stockpiles|ms4:03,bc-mines-code-2026,ohs-12|Actual process/site information, plant component manuals; qualified technical review, fleet/site matching and observed assessment
+C2|Aggregate properties; gradation; liquid/plastic limits; products|ms4:03,highway-specs-2025-vol2|Specified test methods, material records; qualified technical review, fleet/site matching and observed assessment
+C3|Batch/drum plants; component functions; material flow|ms4:07,bc-asphalt-reg,ohs-12|Actual plant OEM manuals, process/permit documents; qualified technical review, fleet/site matching and observed assessment
+C4|Asphalt products; applications; MMCD/MOT/engineer specifications|ms4:02,ms4:15,highway-specs-2025-vol1,mmcd-supplements|Licensed MMCD if used, actual product/SDS and contract documents; qualified technical review, fleet/site matching and observed assessment
+D1|Environmental properties; reuse; evidence and limitations|ms4:13,bc-asphalt-reg,bc-spill-reporting|Project/product environmental evidence; qualify blanket historical assertions; qualified technical review, fleet/site matching and observed assessment
+D2|Fuels; primers/emulsions; containment; waste/recycling|ms4:07,ohs-05,bc-spill-reporting,ccohs-propane|Actual SDS, storage/spill/waste plan; qualified technical review, fleet/site matching and observed assessment
+D3|Plant/placement emissions; dust collection; jurisdiction|ms4:07,bc-asphalt-reg,ohs-05,ohs-06|Applicable regional permits/rules, exposure assessment; qualified technical review, fleet/site matching and observed assessment
+E1|Mix design; Marshall/Superpave context; temperature|ms4:04,highway-specs-2025-vol1,highway-specs-2025-vol2|Approved design, specified test methods; qualified technical review, fleet/site matching and observed assessment
+E2|Aggregate/belt/mix sampling; sample identity; design comparison|ms4:10,highway-specs-2025-vol2|Approved sampling method, safe access, sampling equipment; qualified technical review, fleet/site matching and observed assessment
+E3|Truck sampling; handling; identification; records|ms4:10,highway-specs-2025-vol2,ohs-16|Sampling procedure, traffic coordination; qualified technical review, fleet/site matching and observed assessment
+E4|Density; nuclear gauge; coring; calibration and records|ms4:09,ms4:10,troxler-3430-manual,cnsc-gauges-current,cnsc-gauge-guide-pdf|Licence/training arrangements, actual gauge/corer, approved test method; qualified technical review, fleet/site matching and observed assessment
+F1|Subgrade; drainage; geotextile; subbase/base|ms4:05,ms4:06,highway-specs-2025-vol1|Project drawings/material specifications; qualified technical review, fleet/site matching and observed assessment
+F2|Metric/imperial plans; slopes; crowns; levels; grade control|leica-level-brochure,leica-level-datasheet,measuring-wheel,highway-specs-2025-vol1|Actual level/laser/grade-control manuals, checks, plans; qualified technical review, fleet/site matching and observed assessment
+F3|Utilities; castings; fine grade; crossfall; width|ms4:08,bc1call-six-steps,highway-specs-2025-vol1|Locate responses, drawings, grade records; qualified technical review, fleet/site matching and observed assessment
+G1|EPS gradation criteria and records|ms4:03,ms4:10,spec2006,highway-specs-2025-vol1|Actual contract edition, test method; qualified technical review, fleet/site matching and observed assessment
+G2|EPS binder/oil content and mix records|ms4:02,ms4:04,ms4:10,spec2006,highway-specs-2025-vol1|Approved design, test criteria; qualified technical review, fleet/site matching and observed assessment
+G3|EPS application and placement requirements|ms4:08,spec2006,highway-specs-2025-vol1|Actual project acceptance rules; qualified technical review, fleet/site matching and observed assessment
+G4|Segregation recognition; causes; prevention context|ms4:08,cat:01,spec2006,highway-specs-2025-vol1|Project criteria, corrective-action authority; qualified technical review, fleet/site matching and observed assessment
+G5|Density measurement and acceptance|ms4:09,ms4:10,spec2006,troxler-3430-manual,cnsc-gauges-current|Contract criteria, authorized testing arrangement; qualified technical review, fleet/site matching and observed assessment
+G6|Smoothness; measurement; acceptance|ms4:10,spec2006,highway-specs-2025-vol1|Required instruments/methods, contract criteria; qualified technical review, fleet/site matching and observed assessment
+H1|Milling/reclaiming machine components and applications|ms4:13,cat-library,niosh-milling|Actual model/serial parts and operation manuals; qualified technical review, fleet/site matching and observed assessment
+H2|Milling hazards; dust; exclusion; isolation|ohs-06,ohs-10,ohs-16,niosh-milling|Actual machine dust controls, exposure/lockout procedures; qualified technical review, fleet/site matching and observed assessment
+H3|Operator/crew roles; communications; signals|ohs-03,ohs-16,ohs-15|Crew/site responsibilities; crane signals use Part 15; qualified technical review, fleet/site matching and observed assessment
+H4|Milling inspection; lubrication; servicing|ohs-10,cat-library,lincoln-grease-gun|Exact machine maintenance/lubrication charts; qualified technical review, fleet/site matching and observed assessment
+H5|Stakes; offsets; grades; station/elevation records|leica-level-brochure,highway-specs-2025-vol1|Actual drawings/instruments; EL means elevation; qualified technical review, fleet/site matching and observed assessment
+H6|Milling/reclaiming operation; controls; production|ms4:13,cat-library,niosh-milling|Actual operator manual, controlled practice and authorized assessment; qualified technical review, fleet/site matching and observed assessment
+H7|Milling shutdown; parking; isolation|ohs-10,ohs-16,cat-library|Exact shutdown/isolation procedure; qualified technical review, fleet/site matching and observed assessment
+H8|Milling loading and transport|nsc10-cargo-securement,nsc10-interpretations,bc-cargo-securement,cat-library|Actual machine transport points, trailer/anchors, route; qualified technical review, fleet/site matching and observed assessment
+I1|Placement sequence; tack; thickness; material delivery|ms4:08,cat:01|Actual products, mix, contract and trial evidence; qualified technical review, fleet/site matching and observed assessment
+I2|Tractor; hopper; conveyors; augers; tracks; attachments|cat-atlas,cat:01,ms4:08|Actual model/serial comprehensive parts catalogue; qualified technical review, fleet/site matching and observed assessment
+I3|Paver safety; access; material flow; isolation|ohs-10,ohs-16,ohs-18,cat:01|Actual paver manual and site procedures; qualified technical review, fleet/site matching and observed assessment
+I4|Paver operator and crew coordination|cat:01,ohs-03,ohs-16|Crew roles, communications; qualified technical review, fleet/site matching and observed assessment
+I5|Paver inspection; lubrication; maintenance|cat-library,ohs-10,lincoln-grease-gun|Exact paver maintenance chart/intervals; qualified technical review, fleet/site matching and observed assessment
+I6|Markers; grade; stakes; reference lines|ms4:08,leica-level-datasheet,highway-specs-2025-vol1|Actual plans and grade-control manuals; qualified technical review, fleet/site matching and observed assessment
+I7|Paver controls; starts; material flow; flat/slope scope|cat:01,ms4:08,cat-library|Actual machine instruction, controlled practice and assessment; qualified technical review, fleet/site matching and observed assessment
+I8|Paver shutdown and parking|cat-library,ohs-10,ohs-16|Exact machine shutdown/isolation procedure; qualified technical review, fleet/site matching and observed assessment
+I9|Paver transport; restraint; attachment configuration|nsc10-cargo-securement,nsc10-interpretations,bc-cargo-securement,cat-library|Actual machine/trailer/anchors and transport plan; qualified technical review, fleet/site matching and observed assessment
+J1|Rigid/variable screeds; extensions; sensors; component names|cat-atlas,cat:01,ms4:08|Actual screed/attachment serial parts and OMM; qualified technical review, fleet/site matching and observed assessment
+J2|Screed heat; pinch points; extensions; isolation|cat:01,ohs-10,ohs-16,ohs-08|Exact screed/heat-system procedures; qualified technical review, fleet/site matching and observed assessment
+J3|Screed operator roles; coordination; quality checks|cat:01,ms4:08,ohs-03|Crew/site responsibilities; qualified technical review, fleet/site matching and observed assessment
+J4|Screed maintenance; heating; wear surfaces|cat-library,ohs-10|Exact screed service/lubrication/heat-system manuals; qualified technical review, fleet/site matching and observed assessment
+J5|Width; grade; thickness; mat-depth poker; operation|cat:01,ms4:08,infrared-thermometer,highway-specs-2025-vol1|Actual controls, depth-check method, project criteria; qualified technical review, fleet/site matching and observed assessment
+J6|Screed shutdown and safe condition|cat-library,ohs-10|Exact shutdown/heater/isolation procedure; qualified technical review, fleet/site matching and observed assessment
+K1|Raker roles; preparation; inaccessible areas; joints|ms4:08,cat:01,seymour-tool-catalogue-2026|Crew workflow, project handwork requirements; qualified technical review, fleet/site matching and observed assessment
+K2|Handles/traffic; heat; burns; dust; ergonomics|ccohs-handtools-general,ccohs-shovelling,wsbc-heat-stress,ohs-08,ohs-16|Actual handwork/traffic/exposure arrangements; qualified technical review, fleet/site matching and observed assessment
+K3|Rakes; toothed/straight lutes; shovels; tampers; wheelbarrows; patching/joints; torch|lute-instructions,lute-gusset-brace,lute-wrap-brace,seymour-tool-catalogue-2026,multiquip-plate-manual,fairview-tiger-torch,cat:01,ms4:08|Exact selected tools, approved handwork/repair procedure and supervised assessment; qualified technical review, fleet/site matching and observed assessment
+L1|Static/vibratory/pneumatic rollers; stages; components|cat-atlas,cat:02,ms4:09|Actual roller model/serial OMM and comprehensive parts; qualified technical review, fleet/site matching and observed assessment
+L2|Compactor safety; people; edges; access; heat|ohs-16,ohs-08,cat:02|Actual machine exclusions/operating conditions and site controls; qualified technical review, fleet/site matching and observed assessment
+L3|Compactor operator roles; coordination; records|cat:02,ohs-03,ms4:09|Crew workflow; qualified technical review, fleet/site matching and observed assessment
+L4|Compactor inspection; lubrication; spray systems|cat-library,ohs-10,lincoln-grease-gun|Exact roller maintenance/lubrication chart; qualified technical review, fleet/site matching and observed assessment
+L5|Compaction phases; temperature; density; records|cat:02,ms4:09,infrared-thermometer,troxler-3430-manual,cnsc-gauges-current|Mix-specific rolling plan, instrument/licence/test requirements; qualified technical review, fleet/site matching and observed assessment
+L6|Compactor shutdown; parking; isolation|cat-library,ohs-10,ohs-16|Exact roller shutdown/parking/isolation procedure; qualified technical review, fleet/site matching and observed assessment

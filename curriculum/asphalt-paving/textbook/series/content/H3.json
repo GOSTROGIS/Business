@@ -1,0 +1,71 @@
+{
+  "code": "H3",
+  "title": "Describe milling and reclaiming operator roles and responsibilities",
+  "intro": "Milling is team work with distinct control responsibilities. Clear roles prevent two people giving incompatible instructions and ensure the operator receives reliable information about the cut and surrounding movement.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe the role of Milling Machine Operator",
+      "text": "The machine operator controls assigned travel and working functions from the operator station, monitors warnings and machine response, and maintains awareness of the work area. “Top end” describes a crew role, not permission to ignore ground observations. The operator must know who gives movement instructions, what the stop signal means and when to stop for uncertainty. A ground guide cannot remove the operator’s duty to operate safely."
+    },
+    {
+      "number": 2,
+      "title": "Describe the role of ground men",
+      "text": "Ground crew members may check cut depth/profile, manage assigned grade controls, observe the material route and coordinate truck positioning from approved locations. Duties depend on the machine and work plan. No person should measure beside moving cutting equipment or stand in a truck’s pinch zone to improve visibility. Agree who reports depth, who communicates with trucks and who records quality. Rotate or adjust work when fatigue, noise or visibility makes the assigned role ineffective."
+    },
+    {
+      "number": 3,
+      "title": "Demonstrate hand signals communication",
+      "text": "Before work, rehearse a small agreed set of movement and stop signals, radio wording and acknowledgement. Use one designated movement signaller at a time, while anyone can give an emergency stop. If a signal is unclear, conflicting or lost, stop and re-establish communication. Crane/hoisting work has applicable standardized signal requirements; a crew-created milling signal must not replace them. Use plain words with machine ID, direction and limits; avoid “over there” or an unexplained horn pattern."
+    }
+  ],
+  "worked": {
+    "title": "Two people signal",
+    "case": "One ground worker signals a truck forward while another signals stop. The operator sees both.",
+    "solution": "Stop the affected movement. Clarify the hazard and designated signaller, confirm the driver and operator understand the revised instruction, and resume only when the area is clear and the communication arrangement is restored."
+  },
+  "activities": [
+    {
+      "id": "H3-01",
+      "prompt": "Assign operator, depth checker, truck coordinator and recorder duties for a simulated pass.",
+      "answer": "A workable allocation names each person, safe position, information needed, communication channel, stop authority and relief arrangement. Roles may be combined only where the plan and workload allow.",
+      "skills": [
+        "Collaboration",
+        "Writing"
+      ],
+      "title": "Assign operator, depth checker, truck coordinator and recorder duties for a simulated pass."
+    },
+    {
+      "id": "H3-02",
+      "prompt": "Depth readings at three authorized checks are 38, 41 and 40 mm against a fictional target 40 mm. Find the mean and explain its limitation.",
+      "answer": "Mean = 119/3 = 39.67 mm. It does not prove every location meets the project tolerance; retain each reading and its location.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "Depth readings at three authorized checks are 38, 41 and 40 mm against a fictional target 40 mm"
+    },
+    {
+      "id": "H3-03",
+      "prompt": "Rehearse a lost-radio response with a partner, then improve the wording.",
+      "answer": "Stop affected movement, maintain safe positions, restore communication and confirm the instruction before restarting. An improvement uses machine ID, location and explicit acknowledgement.",
+      "skills": [
+        "Communication",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Rehearse a lost-radio response with a partner, then improve the wording."
+    }
+  ],
+  "practical": [
+    "Perform a clear role and communication briefing.",
+    "Demonstrate stop on ambiguous or lost communication.",
+    "Report cut observations with location and units."
+  ],
+  "visuals": [
+    "crew-communication",
+    "cat-grade-sensors"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

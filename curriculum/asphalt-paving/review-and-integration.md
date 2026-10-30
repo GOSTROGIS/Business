@@ -114,7 +114,7 @@ This review also independently checked the LeeBoy Figure 3-1 callouts 7, 10, 11 
 
 ## Remaining whole-program development
 
-The [68-row competency register](line-a/competency-status.csv) records six A competencies and 62 later competencies: **B 10; C 4; D 3; E 4; F 3; G 6; H 8; I 9; J 6; K 3; L 6**. F2/F3 already have a clearly labelled foundation bridge. Build the later sequence around the outline's own learning tasks, achievement criteria and performance conditions, beginning with the B1 safety-orientation requirements before practical progression.
+The [68-row competency register](line-a/competency-status.csv) records six A competencies and 62 later competencies: **B 10; C 4; D 3; E 4; F 3; G 6; H 8; I 9; J 6; K 3; L 6**. F2/F3 already have a clearly labelled foundation bridge. The complete study series now follows the outline’s learning tasks and supplies observation records. Begin practical progression with verified safety orientation and actual equipment/site requirements.
 
 [Section 4, PDF 107 / printed 105](sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf#page=107), requires the Instructor Guide/PowerPoint slides; Common Core, Raker, Compaction Roller, Screed, Paver and Milling Machine course manuals; the 2006 specifications; MS-4 seventh edition; two named Caterpillar training CDs; and WorkSafeBC online resources. The seven available OEM references supply useful machine context but do not establish possession of the six named course manuals. The [resource-access record](manuals/access-status.md) must retain those gaps accurately.
 
@@ -122,7 +122,7 @@ Before marking an integration complete, verify the source-to-term and source-to-
 
 ## Further development after the complete-book conversion
 
-The access gap is closed. The remaining work is instructional depth and delivery evidence: author the remaining 61 competency units (B2–L6) against their exact learning tasks; check technical values and machine procedures with qualified instructors; build practical assessment records; and proofread OCR passages as they enter lessons. Preserve the scan beside each transcription so tables, notation and diagrams remain inspectable. The current six conceptual redraws deliberately avoid unsupported numeric design or operating settings.
+The access gap is closed. The remaining work is instructional depth and delivery evidence: review the now-authored 61 B2–L6 classroom chapters against their exact learning tasks; check technical values and machine procedures with qualified instructors; configure the supplied practical assessment records; and proofread OCR passages as they enter lessons. Preserve the scan beside each transcription so tables, notation and diagrams remain inspectable. The current six conceptual redraws deliberately avoid unsupported numeric design or operating settings.
 
 The next useful visual work is selected labelled diagrams for aggregate grading, moisture/drainage, quality records and rehabilitation routes, chosen alongside the corresponding complete lessons and keys. Add each drawing only after checking its source page and teaching purpose. Track actual learner misunderstandings and access needs during a local pilot before revising examples or timings.
 
@@ -144,4 +144,19 @@ Remaining gaps: complete serial-specific parts catalogues for the actual fleet; 
 
 The [first study volume](textbook/README.md) integrates and expands the six Line A chapters and adds B1 safety orientation across all seven learning tasks. It contains 60 activities, a separate worked-answer guide, 44 visual placements and a fictional interactive plan desk. Thirteen new SVGs include cover art and twelve instructional diagrams; additional images retain their MS-4, CAT, LeeBoy, Seymour and WorkSafeBC credits. Official WHMIS artwork is unchanged. Five CONSULTING documentation snapshots are pinned by commit and blob identity and adapted into map/utility source-reading instruction.
 
-The canonical competency register now points to the study chapters. Technical approval and classroom pilot remain pending; the remaining 61 complete technical units are B2–L6. See [the book verification](textbook/VALIDATION.md) for actual export, visual, source-identity and interface checks.
+The canonical competency register now points to the study chapters. All 61 B2–L6 classroom chapters are now authored in seven further study/answer volumes. Technical approval, fleet/site matching, local pilot and observed qualification remain pending. See [the book verification](textbook/VALIDATION.md) for actual export, visual, source-identity and interface checks.
+
+
+## Complete study sequence through compaction
+
+[Open all eight volumes](textbook/series/index.html). Volume 1 develops foundations and safe work; seven further volumes complete B2–L6 with 61 chapters, 218 learning tasks, 183 named chapter activities, seven integrated nine-skill cases and full worked answers. The books include 42 new SVGs and 84 unique teaching figures across 131 chapter placements, with manual/MS-4 page credits.
+
+- **People, tools and safe work:** [study PDF](textbook/series/volume-2.pdf), [teaching and answers](textbook/series/volume-2-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-2-print-pack.zip).
+- **Materials, plants and quality evidence:** [study PDF](textbook/series/volume-3.pdf), [teaching and answers](textbook/series/volume-3-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-3-print-pack.zip).
+- **Road geometry and acceptance:** [study PDF](textbook/series/volume-4.pdf), [teaching and answers](textbook/series/volume-4-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-4-print-pack.zip).
+- **Milling and reclaiming:** [study PDF](textbook/series/volume-5.pdf), [teaching and answers](textbook/series/volume-5-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-5-print-pack.zip).
+- **Paver operation:** [study PDF](textbook/series/volume-6.pdf), [teaching and answers](textbook/series/volume-6-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-6-print-pack.zip).
+- **Screed control and handwork:** [study PDF](textbook/series/volume-7.pdf), [teaching and answers](textbook/series/volume-7-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-7-print-pack.zip).
+- **Compaction and final handover:** [study PDF](textbook/series/volume-8.pdf), [teaching and answers](textbook/series/volume-8-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-8-print-pack.zip).
+
+All classroom chapters are authored. Qualified technical review, fleet/site matching, local pilot and observed practical qualification remain separate. [Task-by-task coverage](textbook/series/coverage.html) records all 218 later learning tasks.

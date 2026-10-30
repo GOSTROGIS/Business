@@ -1,0 +1,83 @@
+{
+  "code": "L6",
+  "title": "Follow shut down procedures",
+  "intro": "A roller can move unintentionally after the shift if parking and securement are incomplete. Shutdown also prepares the machine for cleaning, staging, maintenance and transport.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform shut-down procedures",
+      "text": "Choose the designated stable parking position with service access, clear emergency/public routes and suitable ground for checks. Follow the OMM stopping, cooling and shutdown sequence, apply parking controls and required chocks, and inspect safely for leaks or damage. Use the battery/night switch only as directed; it is not the whole lockout procedure. Record defects and the machine’s status."
+    },
+    {
+      "number": 2,
+      "title": "Clean equipment",
+      "text": "Clean drums/tires, scrapers and spray equipment through the approved safe method. Control movement, heat, pressure and cleaning-product hazards, and contain waste. Never reach toward a rotating drum or articulation zone to remove pickup. Restore guards and account for tools before release."
+    },
+    {
+      "number": 3,
+      "title": "Ensure efficient staging",
+      "text": "Coordinate staging with the foreperson so the next shift can access the roller without blocking other equipment, deliveries or public routes. Identify the machine, location, readiness and pending service. Efficient staging includes safe access for a machine that cannot restart."
+    },
+    {
+      "number": 4,
+      "title": "Prepare for transport",
+      "text": "Prepare for transport using the actual OMM configuration and carrier plan. Assign a competent operator/guide and carrier responsibilities, verify mass/dimensions, ramp/support suitability and designated tie-down points. Use the applicable securement requirements and approved loading sequence. The transport driver’s role does not remove the need for clear machine-control responsibilities."
+    },
+    {
+      "number": 5,
+      "title": "Secure machine for safety",
+      "text": "Secure controls, keys, detachable items and access panels; protect the public and prevent roll-away through the required parking/chocking arrangement. Consider residual heat and stored energy. Communicate out-of-service status visibly through the site system. Recheck the final state before leaving; a completed numerical checklist score cannot override a failed critical securement item."
+    }
+  ],
+  "worked": {
+    "title": "Ready for the next shift",
+    "case": "A roller is clean and fuelled but parked where a delivery truck must reverse around it beside a public entrance.",
+    "solution": "Have the responsible lead arrange a safer approved staging location. Complete the movement and shutdown under the actual procedure, preserve access and communicate the final location/status. “Ready” includes safe placement, not only clean equipment."
+  },
+  "activities": [
+    {
+      "id": "L6-01",
+      "prompt": "State the difference between staging and transport securement.",
+      "answer": "Staging positions equipment safely for site access and the next task. Transport securement restrains the configured load on a carrier under manufacturer and applicable transport rules. Both require planned parking/movement controls, but their arrangements differ.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "State the difference between staging and transport securement."
+    },
+    {
+      "id": "L6-02",
+      "prompt": "A ten-item checklist has 20 possible points. A learner earns 18 but fails a critical roll-away control. Is the outcome satisfactory?",
+      "answer": "90% numerically, but not satisfactory for release. Correct and reassess the critical control; the 80% outline threshold does not permit an unsafe final state.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A ten-item checklist has 20 possible points"
+    },
+    {
+      "id": "L6-03",
+      "prompt": "Write a final shift handover with a pending spray-system repair.",
+      "answer": "Identify roller/meter, parking location and secure state, cleaning/service completed, exact spray defect, hold/out-of-service status and responsible person/next action. Do not describe it as ready for production until authorized.",
+      "skills": [
+        "Writing",
+        "Digital",
+        "Collaboration"
+      ],
+      "title": "Write a final shift handover with a pending spray-system repair."
+    }
+  ],
+  "practical": [
+    "Perform matching shutdown, parking and required chocking.",
+    "Clean safely and stage without blocking access.",
+    "Prepare transport configuration and communicate roles.",
+    "Secure the machine and hand over defects/readiness."
+  ],
+  "visuals": [
+    "shutdown-state",
+    "transport-plan",
+    "roller-water-system"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

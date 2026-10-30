@@ -1,0 +1,576 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf
+SOURCE SHA-256: bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80
+ORIGINAL PDF VIEWER PAGES: 101–125 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 101 ===
+Maintenance
+
+         SYMPTOM                            CAUSE                                        REMEDY
+                                                                   De-rate engine power output for altitudes above
+                              Operating engine at high altitude.
+                                                                   10,000 feet.
+                              Air intake piping restricted.        Remove restrictions.
+                              Air cleaner element(s) dirty.        Clean or replace air cleaner element(s).
+                              Fuel suction line or filter          Check fuel line for restrictions.
+                              restricted.                          Replace fuel filter element(s).
+Engine power output is low.   Fuel return system restricted.       Correct restricted fuel return system.
+                              Fuel quality poor.                   Verify by operating with a known fuel quality.
+                              Fuel transfer pump                   Replace fuel transfer pump.
+                              malfunctioning.                      Refer to Engine Operator’s Manual.
+                              Throttle improperly adjusted.        Adjust throttle controls.
+                                                                   Replace fuel injector.
+                              Fuel injector malfunctioning.
+                                                                   Refer to Engine Operator’s Manual.
+                              Park brake engaged.                  Release park brake.
+Broom doesn’t move with       Broom rotation control valve is
+                                                                   Repair or replace relief valve cartridge(s).
+engine running or moves in    bypassing oil at low pressure.
+one direction only.           Damaged hydrostatic pump.            Repair or replace hydrostatic pump.
+                              Damaged hydrostatic motor.           Repair or replace hydrostatic motor.
+                              Brush drive relief valve set too     Adjust relief valve to 2500 PSI.
+                              low or defective.                    Replace if defective.
+Broom stalls or lacks
+power.
+                              Sweeping with too much down
+                              pressure.
+
+                              Ground speed too fast.
+                                                                   See Brush Down Pressure Control on Page 4-14.
+
+                                                                   Pull back on joystick and increase engine RPMs
+                                                                                                                           5
+                                                                   to increase brush speed.
+                              Low hydraulic fluid level.           Add hydraulic oil.
+                              Hydraulic filters contain            Check filters for contamination and clean or
+                              contamination.                       replace.
+                              Hydraulic pump priority relief       Check relief valve setting. It should be 1500 PSI.
+Steering is difficult.        valve set incorrectly.               Adjust setting if necessary.
+                              Worn hydraulic pump.                 Repair or replace.
+                              Worn steering orbital motor.         Repair or replace.
+                              Worn steering cylinder.              Repair or replace.
+                              Loose wiring or fault connection.    Repair or replace loose wiring or connector.
+                              Diode at alternator loose or
+                                                                   Tighten connection or replace diode.
+                              faulty.
+Alternator not charging.
+                              Alternator belt loose or broken.     Adjust or replace belt.
+                              Alternator malfunctioning.           Replace alternator.
+                              Circuit breaker tripped.             Reset circuit breaker.
+                              Faulty gauge or sender.              Replace gauge or sender.
+Instrument gauges don’t
+                              Alternator not charging.             Repair wiring or replace alternator.
+work.
+                              Faulty wiring.                       Replace wiring or connector.
+
+
+
+
+Rosco RB50 Broom                                                                                                    5-33
+
+=== ORIGINAL PDF PAGE 102 ===
+Maintenance
+
+        SYMPTOM                             CAUSE                                         REMEDY
+                              Low hydraulic oil level.             Refill with hydraulic fluid.
+                              Defective temperature gauge or
+                              sender giving wrong temperature Replace gauge or sender.
+                              reading.
+                              Brush drive relief valve set too     Adjust relief valve to 2500 PSI. Replace if
+                              low or defective.                    defective.
+                              Excessive ambient air tempera-       Operate broom at slower ground speed and
+Hydraulic system
+                              ture and high-duty cycle.            maximum engine RPMs during hot weather.
+overheats.
+                                                                   Clean fins and correct any other problems with
+                              Plugged fins on fluid cooler.
+                                                                   cooling air flow.
+                                                                   Repair or replace. If valve is open, turn valve
+                              Hydrostatic pump bypass valve        clockwise until seated and torque to 9.5 - 14
+                              defective or open.                   N•m (7-10 ft lb). DO NOT over torque as this will
+                                                                   damage valve.
+                              Worn hydrostatic pump.               Repair or replace.
+                              Electrical power not being sup-
+                                                                   Check fuse.
+                              plied to gauge.
+                              Incorrect oil level. Too high or     Check for leaks. Add or drain engine oil. Check
+                              too low.                             dipstick calibration.
+                              Oil filter plugged.                  Change oil filter.
+Engine oil pressure is low.                                        Replace fuel injector, fuel transfer pump and
+                              Oil diluted with fuel.
+                                                                   injection pump.
+                              Oil diluted with coolant.            See your authorized Rosco/LeeBoy dealer.
+                              Incorrect oil specifications.        Change oil.
+                              Oil pressure sender or gauge
+                                                                   Replace oil pressure sender or gauge.
+                              malfunctioning.
+                              Radiator find damaged or
+                                                                   Inspect radiator fins. Clean, repair or replace.
+                              obstructed.
+                              Collapsed or restricted radiator
+                                                                   Inspect hoses. Replace if needed.
+                              hose.
+                                                                   Check belt tension and tighten or replace as
+                              Loose fan drive belt.
+                                                                   needed.
+                           Cooling fan shroud damaged or
+                                                                   Inspect shroud. Repair or replace.
+Engine coolant temperature missing.
+above normal.              Incorrect or malfunctioning
+                                                                   Check radiator cap and replace if needed.
+                           radiator cap.
+                              Temperature gauge or sender
+                                                                   Repair or replace.
+                              malfunctioning.
+                              Thermostat stuck in closed
+                                                                   Test thermostat. Replace if necessary.
+                              position.
+                              Dirt, scale or rust in the cooling
+                                                                   Clean cooling system.
+                              system.
+
+
+
+
+5-34                                                                                               Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 103 ===
+Section 6
+                                              SCHEMATICS
+                                                                                                                                                Page
+                Main Wiring Schematic (1 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-3
+                Main Wiring Schematic (2 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-5
+                Main Wiring Schematic (3 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-7
+                Main Wiring Schematic (4 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-9
+                Main Wiring Schematic (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-11
+                Main Wiring Harness (1 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-13
+                Main Wiring Harness (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-15
+                Cab Harness (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-17
+                Cab Harness (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-19
+                Controls Console (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-21
+                Controls Console (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-23
+                Beacon Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-25
+                Oil Cooler Schematic/Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-27
+                Option - Windshield Washer Pump Harness.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                           6-29
+                Option - Spray Pump Harness .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-31
+                Option - Curb Brush Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-33
+                Option - Snow Plow Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-35
+                Option - FNR Pedal Main Harness (1 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-37
+                Option - FNR Pedal Main Harness (2 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      6-39
+                Option - FNR Pedal Broom Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-41
+                Option - FNR Pedal Control Console (1 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      6-43
+                Option - FNR Pedal Control Console (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-45
+                Hydraulic System - Standard (1 of 5).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                  6-47
+                Hydraulic System - Snow Plow Option (2 of 5) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                        6-49
+                Hydraulic System - Curb Brush Option (3 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-51
+                Hydraulic System - Curb Brush & Snow Plow Option (4 of 5).  .  .  .  .  .  .  .                                                 6-53
+                Hydraulic System - FNR Pedal Option (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-55
+
+
+
+
+Rosco RB-50 Broom                                                                                                                                           6-1
+
+=== ORIGINAL PDF PAGE 104 ===
+NOTES
+
+=== ORIGINAL PDF PAGE 105 ===
+Schematics
+
+MAIN WIRING SCHEMATIC (1 OF 5)
+Schematic #1016958
+
+
+
+
+                                                                                            6
+
+
+
+                                 Figure 6-1. Main Wiring Schematic (1 of 5)
+
+
+
+Rosco RB-50 Broom                                                                     6-3
+
+=== ORIGINAL PDF PAGE 106 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-4                  Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 107 ===
+Schematics
+
+MAIN WIRING SCHEMATIC (2 OF 5)
+Schematic #1016958
+
+
+
+
+                                                                                            6
+
+
+
+                                 Figure 6-2. Main Wiring Schematic (2 of 5)
+
+
+
+Rosco RB-50 Broom                                                                     6-5
+
+=== ORIGINAL PDF PAGE 108 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-6                  Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 109 ===
+Schematics
+
+MAIN WIRING SCHEMATIC (3 OF 5)
+Schematic #1016958
+
+
+
+
+                                                                                            6
+
+
+
+                                 Figure 6-3. Main Wiring Schematic (3 of 5)
+
+
+
+Rosco RB-50 Broom                                                                     6-7
+
+=== ORIGINAL PDF PAGE 110 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-8                  Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 111 ===
+Schematics
+
+MAIN WIRING SCHEMATIC (4 OF 5)
+Schematic #1016958
+
+
+
+
+                                                                                            6
+
+
+
+                                 Figure 6-4. Main Wiring Schematic (4 of 5)
+
+
+
+Rosco RB-50 Broom                                                                     6-9
+
+=== ORIGINAL PDF PAGE 112 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-10                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 113 ===
+Schematics
+
+MAIN WIRING SCHEMATIC (5 OF 5)
+Schematic #1016958
+
+
+
+
+                                                                                             6
+
+
+
+                                 Figure 6-5. Main Wiring Schematic (5 of 5)
+
+
+
+Rosco RB-50 Broom                                                                     6-11
+
+=== ORIGINAL PDF PAGE 114 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-12                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 115 ===
+Schematics
+
+MAIN WIRING HARNESS (1 OF 2)
+Schematic #1022386
+
+
+
+
+                                                                                         6
+
+
+
+                               Figure 6-6. Main Wiring Harness (1 of 2)
+
+
+
+Rosco RB-50 Broom                                                                 6-13
+
+=== ORIGINAL PDF PAGE 116 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-14                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 117 ===
+Schematics
+
+MAIN WIRING HARNESS (2 OF 2)
+Schematic #1022386
+
+
+
+
+                                                                                         6
+
+
+
+                               Figure 6-7. Main Wiring Harness (2 of 2)
+
+
+
+Rosco RB-50 Broom                                                                 6-15
+
+=== ORIGINAL PDF PAGE 118 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-16                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 119 ===
+Schematics
+
+CAB HARNESS (1 OF 2)
+Schematic #1016077
+
+
+
+
+                                                                         6
+
+
+
+                       Figure 6-8. Cab Harness (1 of 2)
+
+
+
+Rosco RB-50 Broom                                                 6-17
+
+=== ORIGINAL PDF PAGE 120 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-18                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 121 ===
+Schematics
+
+CAB HARNESS (2 OF 2)
+Schematic #1016077
+
+
+
+
+                                                                         6
+
+
+
+                       Figure 6-9. Cab Harness (2 of 2)
+
+
+
+Rosco RB-50 Broom                                                 6-19
+
+=== ORIGINAL PDF PAGE 122 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-20                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 123 ===
+Schematics
+
+CONTROLS CONSOLE (1 OF 2)
+Schematic #1021630
+
+
+
+
+                                                                     INDICATOR LIGHT
+
+                                                                                                                                                                                       INDICATOR LIGHTS
+
+
+                                                                                                                                                                                       FAN
+                                                                       WIPER-FRONT                     39141-16                                                             39141-22
+
+
+
+
+                                                                                                                           F
+                                                                                                                                                                                       WORK LIGHTS-REAR
+                                                                                                                                                       R
+
+
+
+
+                                                                              HORN                                                                                                     HAZARD LIGHTS
+                                                                                                                                                                                       WORK LIGHTS-FRONT
+                                                                                                                                                                                       BEACON
+                                                                                                                                                                                       SPRAY
+
+
+                                                                           JOYSTICK
+                                                                                                                        1021704-06
+
+
+
+
+                                                                                                                                           FLOAT
+
+
+
+                                                                                                                               BRUSH CONTROL
+
+
+
+
+                                                                                                                                                                                       E-STOP
+                                                                                                                  B   DECREASE
+                                                                                                                  R
+                                                                                                                  U
+                                                                                                                  S
+                                                                                                                  H                                                                    TURN SIGNAL SWITCH
+                                                                                         TWO SPEED                S
+                                                                                                                  P
+
+
+
+
+                                                                                                                                     1021704-10
+                                                                                       HIGH       LOW             E
+
+                                                                          THROTTLE              1021704-08
+                                                                                                                  E
+                                                                                                                  D
+
+
+
+
+                                                                                                                                                   B
+                                                                                                                                                                                       BRUSH SPEED
+
+
+
+
+                                                                                                                                                       BRUSH DRIVE ENGAGE
+                                                                                                                                                   R
+                                                                                                                                                   U
+                                                                                                                                                   S
+
+                                                                      POWER SUPPLY                                                                 H
+                                                                                                                                                   N
+                                                                                                                                                   R
+                                                                                                                                                   O
+                                                                                                                                                   T
+                                                                                                                                                   A
+                                                                                                                                                   T
+                                                                                                                                                   I
+                                                                                                                                                   O
+                                                                                                                                                   N
+
+                                                                     IGNITION SWITCH
+
+
+
+
+                                                                                                                                     1021704-04
+                                                                                                                                                                                                              6
+
+
+
+                            Figure 6-10. Controls Console (1 of 2)
+
+
+
+Rosco RB-50 Broom                                                                                                                                                                                      6-21
+
+=== ORIGINAL PDF PAGE 124 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-22                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 125 ===
+Schematics
+
+CONTROLS CONSOLE (2 OF 2)
+Schematic #1021630
+
+
+
+
+                                                                                   6
+
+
+
+                            Figure 6-11. Controls Console (2 of 2)
+
+
+
+Rosco RB-50 Broom                                                           6-23
+

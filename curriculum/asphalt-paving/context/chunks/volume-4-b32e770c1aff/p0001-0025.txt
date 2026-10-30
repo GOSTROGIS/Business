@@ -1,0 +1,1265 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/volume-4.pdf
+SOURCE SHA-256: b32e770c1aff3a864beb34d382640de4eaf7596633e007b248d3adb1589ea5e5
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+ACCESS · INDIGENOUS SKILLS 4 SUCCESS
+
+
+
+
+Road geometry and
+acceptance
+Volume 4 · F1, F2, F3, G1, G2, G3, G4, G5, G6
+
+Classroom development edition · 30 October 2026
+
+
+
+                          ACCESS IS4S · ASPHALT FOUNDATIONS
+
+
+                          Name the layers
+                          One example: asphalt pavement on an unbound base, with a subbase.
+
+
+
+
+                                                                                                           1    Asphalt surface
+                                                                                                                The upper asphalt layer.
+
+
+                                                                                                           2    Granular base
+                                                                                                                Supports the asphalt surface.
+
+
+
+                                                                                                           3    Subbase, where specified
+                                                                                                                An additional supporting layer.
+
+
+
+                                                                                                           4    Prepared subgrade
+                                                                                                                The prepared ground beneath the structure.
+
+
+
+
+                          Conceptual section · other pavement structures exist · layer thicknesses are not a design.
+
+
+
+Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Selected the
+unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied. Source
+locations: [{"figure": "1.6", "printed_page": 14, "pdf_page": 48}]. Original contributors: No separate contributor listed for this figure.
+
+
+
+
+                                                                            ACCESS IS4S · Volume 4 · 1 / 53
+
+=== ORIGINAL PDF PAGE 2 ===
+In this volume
+
+  1. How to use the volume and key terms
+
+  2. Drainage, grade and base
+
+  3. Verify slopes, crowns and grades
+
+  4. Final grade preparation
+
+  5. Gradation
+
+  6. Oil content
+
+  7. Application
+
+  8. Segregation
+
+  9. Density
+
+ 10. Smoothness
+
+ 11. Check the grade and the quantity
+
+
+
+
+                                           ACCESS IS4S · Volume 4 · 2 / 53
+
+=== ORIGINAL PDF PAGE 3 ===
+Use this volume
+This volume provides complete classroom readings, worked examples, named practice tasks and answer
+guidance for road geometry and acceptance. Follow the learning route in each chapter, study the labelled
+figures and explain your reasoning. The separate answer book contains the worked keys and observation
+records.
+
+Care for people, place and the next person using the work runs through the cases. Local First Nations, Métis
+and Inuit learners and partners bring distinct knowledge and priorities. Participation does not require
+sharing personal stories or cultural teachings, and no diagram claims to represent a Nation’s protocol.
+
+
+    Classroom authoring is complete for the listed competencies. Qualified technical review, actual
+    fleet/site matching, a local teaching pilot and observed practical qualification are separate
+    requirements. The practical records are ready for an instructor to configure and use; they do not certify
+    unobserved work.
+
+
+
+
+Read the picture, then test the idea
+    1. Identify the object, process or quantity shown.
+    2. Read labels, units and the figure’s stated limits.
+    3. Connect the image to the chapter explanation.
+    4. Try the exercise and check against evidence.
+    5. Explain the result to another person and revise if needed.
+
+
+
+Use AI as a checked working tool
+Claude and ChatGPT can help explain provided documents and create supported files. Claude Code,
+Cowork and Codex can help with permitted multi-file tasks and repeatable workflows when their tools are
+available. Give a clear purpose, named sources, output formats, limits and checks. Ask for a findings table
+with page/cell evidence; verify it against the source. Reopen DOCX, XLSX, HTML or PDF outputs. For study
+audio/video, verify the script, captions, diagrams and actual playback. A generated result is not a technical
+approval.
+
+
+
+Keep the term with its meaning
+AGGREGATE
+Mineral particles forming the solid skeleton of the mixture or granular layer.
+
+BINDER
+The asphalt material that coats and binds the aggregate in the specified mixture.
+
+COMPACTED THICKNESS
+
+
+
+
+                                                    ACCESS IS4S · Volume 4 · 3 / 53
+
+=== ORIGINAL PDF PAGE 4 ===
+Layer thickness after the required compaction process; distinct from loose depth behind the
+screed.
+
+DENSITY REFERENCE
+The specified comparison value used as the denominator of a percent-density calculation.
+
+GRADATION
+Distribution of aggregate particle sizes, commonly expressed as cumulative percent passing
+specified sieves.
+
+HEAD OF MATERIAL
+The quantity/distribution of mix immediately in front of the screed.
+
+JOB MIX FORMULA (JMF)
+The accepted mixture proportions and properties under the applicable quality/contract process.
+
+LOCKOUT
+Isolation, securing and verification of hazardous energy for work requiring protection.
+
+LOT / SUB-LOT
+Defined portions of work used for sampling, testing and acceptance under the contract.
+
+OMM
+Operation and maintenance manual matched to the actual machine, serial range and configuration.
+
+RAP
+Reclaimed asphalt pavement: recovered material containing aggregate and aged binder.
+
+SDS
+Safety data sheet for the actual product; read with its label and workplace procedure.
+
+SCREED
+The paver assembly that forms the mat; its response depends on setup, material and movement.
+
+STATION / OFFSET
+Location along an alignment / distance and direction from a defined reference.
+
+TCP
+Traffic control person with the required training and assigned role.
+
+TRACEABILITY
+A record connecting material, location, time, sample, result and authorized decision.
+
+SVG
+Scalable vector graphics: useful for clear diagrams whose labels and geometry must be checked.
+
+DOCX / XLSX
+Editable document / spreadsheet workbook; verify actual content and formulas after creation.
+
+PDF / HTML
+Page-based reading copy / browser document; inspect completeness, access and linked
+resources.
+
+
+
+                                          ACCESS IS4S · Volume 4 · 4 / 53
+
+=== ORIGINAL PDF PAGE 5 ===
+MP3 / MP4 / VTT
+Audio file / video container / timed web captions; test playback and retain a transcript.
+
+
+
+
+                                          ACCESS IS4S · Volume 4 · 5 / 53
+
+=== ORIGINAL PDF PAGE 6 ===
+Study chapter · Outline F1
+
+
+
+Drainage, grade and base
+A pavement is a layered structure that must carry loads and manage water. A smooth new surface will not
+correct an unstable foundation or a blocked drainage route. Reading the whole road helps the crew protect
+access to homes, services and community spaces.
+
+
+  Proper road drainage
+
+  Sub grade
+
+  Sub-base
+
+  Base
+
+
+LEARNING STEP 1
+
+
+
+
+Proper road drainage
+Surface water follows crossfall, longitudinal grade and low points toward an approved collection route.
+Subsurface water needs its own drainage path. Inspect ditches, catch basins, culverts and outlets against
+the drawings; a visible inlet is not proof of a functioning outlet. Sediment, fuel and uncured materials must
+be kept out of drainage systems. Do not redirect water toward neighbouring land or a watercourse because
+that route looks convenient. Report ponding, erosion and blocked drainage before covering the evidence.
+Approved environmental controls and local access commitments belong in the work plan.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 6 / 53
+
+=== ORIGINAL PDF PAGE 7 ===
+Name the layers
+
+
+     ACCESS IS4S · ASPHALT FOUNDATIONS
+
+
+     Name the layers
+     One example: asphalt pavement on an unbound base, with a subbase.
+
+
+
+
+                                                                                         1      Asphalt surface
+                                                                                                The upper asphalt layer.
+
+
+                                                                                         2      Granular base
+                                                                                                Supports the asphalt surface.
+
+
+
+                                                                                         3      Subbase, where specified
+                                                                                                An additional supporting layer.
+
+
+
+                                                                                         4      Prepared subgrade
+                                                                                                The prepared ground beneath the structure.
+
+
+
+
+     Conceptual section · other pavement structures exist · layer thicknesses are not a design.
+
+
+
+ Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026).
+ Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions
+ are not implied. Source locations: [{"figure": "1.6", "printed_page": 14, "pdf_page": 48}]. Original contributors: No separate contributor
+ listed for this figure. Full source context.
+
+
+LEARNING STEP 2
+
+
+
+
+Sub grade
+Subgrade is the prepared soil foundation beneath the pavement structure. Soil type, moisture, density, frost
+susceptibility and soft areas influence performance. Rutting under equipment, pumping water and
+inconsistent support require evaluation; adding asphalt is not a substitute for correcting the cause.
+Geotextiles can separate materials or provide filtration, depending on the specified product and design.
+Geogrids have different functions. Check product identity, overlap, orientation and protection requirements
+before placement. Damaged or wrongly installed fabric cannot be assumed effective because it is hidden.
+
+LEARNING STEP 3
+
+
+
+
+Sub-base
+Sub-base distributes loading and can provide a working platform or drainage function. Its specified grading,
+thickness, moisture and compaction requirements govern placement. Approved recycled material may be
+suitable, but availability alone does not establish compliance. Place in controlled lifts, protect against
+
+
+
+
+                                                              ACCESS IS4S · Volume 4 · 7 / 53
+
+=== ORIGINAL PDF PAGE 8 ===
+contamination and check each accepted layer before burying it. Segregation, excessive fines and trapped
+water can change how the layer behaves. Record the material source and test results so a later concern can
+be traced to an actual location and lift.
+
+LEARNING STEP 4
+
+
+
+
+Base
+Base is the prepared layer directly supporting the asphalt in a typical flexible pavement. Crushed aggregate
+from a quarry or pit, approved dredged or river-derived material, and recycled products each require the
+project’s source authorization and material acceptance. Their names do not establish equal performance or
+permission to extract them. Check surface elevation, crossfall, density, cleanliness and drainage. A thin low
+spot in the base changes asphalt demand and may create a local thickness problem. Maintain the accepted
+base until paving starts; traffic or rain can alter it after inspection.
+
+
+
+ Reuse materials through a verified process
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Reuse materials through a verified process
+
+     RAP means reclaimed asphalt pavement. Suitability depends on the designed use.
+
+
+
+           EXISTING ROAD                                                                          RECOVER + SORT
+           Assess condition                                                                       Mill / process
+           Plan recovery                                                                          Keep traceability
+
+
+
+
+           PLACE + MAINTAIN                                                                       DESIGN + TEST
+           Build to the accepted plan                                                             Confirm material suitability
+           Review service performance                                                             Approve the mixture/layer
+
+
+
+
+       A recycled percentage is not the same as an emissions-reduction percentage.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Reuse materials through a verified process [Original instructional SVG]. Conceptual explanation based on
+ the cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                    ACCESS IS4S · Volume 4 · 8 / 53
+
+=== ORIGINAL PDF PAGE 9 ===
+Worked example · Follow the water
+  A 120 m access road has a sound-looking base. A blocked catch basin sits at its low point, and water
+  is pumping through one wheel path. The paving crew is ready.
+
+  Think it through.
+
+  Hold the affected work and identify the drainage and support problems. Protect public access and the
+  inlet, document the location, and request the responsible person’s correction and acceptance. Do not
+  treat extra asphalt as a drainage repair. Record the repaired outlet and accepted foundation before
+  release.
+
+
+
+
+Try it and explain your thinking
+
+ Draw the four typical layers from prepared soil to asphalt
+
+ Draw the four typical layers from prepared soil to asphalt. Label one check at each interface.
+
+ Skills you use: Reading, Writing, Creativity and innovation.
+
+
+
+
+ An approved 80 m × 4 m sub-base lift is 0.15 m compacted thickness
+
+ An approved 80 m × 4 m sub-base lift is 0.15 m compacted thickness. Find its compacted volume.
+ Can you order that many loose cubic metres without further information?
+
+ Skills you use: Numeracy, Problem solving.
+
+
+
+
+ A partner proposes opening a ditch toward a nearby creek to remove ponded water
+
+ A partner proposes opening a ditch toward a nearby creek to remove ponded water. Give a respectful
+ response and a next step.
+
+ Skills you use: Communication, Collaboration, Adaptability.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 9 / 53
+
+=== ORIGINAL PDF PAGE 10 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                       Result      Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                              Pass /      Observation:
+                                                                                                hold        __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for            Pass /      Observation:
+ the actual task.                                                                               hold        __________________
+
+ Identify actual layer boundaries on an approved section.                                       0/1/2       Evidence/help:
+                                                                                                            ________________
+
+ Trace a drainage route from surface to authorized outlet.                                      0/1/2       Evidence/help:
+                                                                                                            ________________
+
+ Record and communicate a foundation defect before covering it.                                 0/1/2       Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, F1, printed p. 48; source PDF pp. 50–50.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 5: Soils and Drainage for Asphalt Pavements; source PDF
+        pp. 281–314. Open publication.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 6: Thickness Design; source PDF pp. 315–340. Open
+        publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                             ACCESS IS4S · Volume 4 · 10 / 53
+
+=== ORIGINAL PDF PAGE 11 ===
+Study chapter · Outline F2
+
+
+
+Verify slopes, crowns and grades
+Grade work turns a drawing into reliable elevations on the ground. Keep the benchmark, units, drawing
+revision and sign convention visible in every calculation. Another person should be able to repeat your
+result without guessing what a number means.
+
+
+  Confirm plans/blueprints
+
+  Define role of Surveyor
+
+  Define role of Grade Person
+
+  Typical calculations
+
+
+LEARNING STEP 1
+
+
+
+
+Confirm plans/blueprints
+Read the title block, north arrow, legend, scale, revision and detail references before measuring. A plan is
+the overhead view; a profile follows an alignment; a cross-section cuts across it. Profiles often exaggerate
+the vertical scale, so the drawn angle is not the road’s actual slope. Use stated dimensions before scaling,
+especially on resized screens or prints. One inch is exactly 25.4 mm and one foot exactly 0.3048 m.
+Horizontal run is used for ordinary grade calculations; a tape stretched along a slope measures a longer
+distance.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 11 / 53
+
+=== ORIGINAL PDF PAGE 12 ===
+Keep the benchmark in the calculation
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Keep the benchmark in the calculation
+
+     Fictional level run · elevations and instrument readings are in metres.
+
+
+          BM EL 100.000                                                                                Foresight 1.670
+          Backsight 1.250                                                                              Point EL 99.580
+
+
+
+
+                                             HI = 100.000 + 1.250 = 101.250
+
+
+       Point elevation = HI − foresight. Target 99.650 means 70 mm fill at this point.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Keep the benchmark in the calculation [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+Define role of Surveyor
+The surveyor establishes or verifies control and supplies elevations, alignment and construction
+information within their assigned role. Cut and fill at a profile station normally refer to the defined
+centreline, not automatically to the entire cross-section. Pipe invert is the inside-bottom elevation. Depth to
+invert and cover above the pipe crown are different quantities; calculating cover requires the appropriate
+pipe dimensions. Quantity work combines accepted geometry with a justified allowance for settlement or
+compaction. A material list includes identity, size, quantity, units and drawing reference, not just an
+unexplained total.
+
+LEARNING STEP 3
+
+
+
+
+Define role of Grade Person
+The grade person transfers authorized control to usable offset stakes, marks and machine references.
+Protect the original control and record offsets so a stake displaced from the construction line is not
+mistaken for the line itself. Confirm benchmark identity, datum, instrument setup and backsight. If marks
+conflict or a stake moves, stop using it and obtain verification. Do not average conflicting elevations. Read
+back instructions with station, side, offset, target elevation and cut/fill direction.
+
+
+
+
+                                                                    ACCESS IS4S · Volume 4 · 12 / 53
+
+=== ORIGINAL PDF PAGE 13 ===
+LEARNING STEP 4
+
+
+
+
+Typical calculations
+For differential levelling, height of instrument (HI) = known elevation + backsight; point elevation = HI −
+foresight. For grade, rise/run × 100 gives percent when both use the same units. A 2% crossfall across a
+3.5 m horizontal half-width gives 0.070 m or 70 mm drop. Use a spirit level, builder’s level, laser and
+automatic slope control only with their setup, checking and operating instructions. Check calibration and an
+independent reference. Instrument displays do not make an incorrect benchmark correct. Record
+tolerances from the project rather than inventing a universal pass band.
+
+
+
+ Three views. Three different questions.
+
+    ACCESS IS4S / ASPHALT STUDY TEXTBOOK
+
+
+    Three views. Three different questions.
+
+     PLAN / WHERE AND HOW WIDE?                                                                      PROFILE / HOW HIGH?
+                                                                                                                                          50 m / 100.50 m
+
+                                                                               6m
+
+
+
+                          50 m horizontal length                                                        0 m / 100.00 m
+
+                                                                                                             Rise = 0.50 m • Run = 50 m
+                                                                                                             0.50 ÷ 50 × 100 = 1% grade
+     CROSS-SECTION / WHAT LAYERS?
+
+                                                                                            Illustrative surface course
+
+
+
+                                                                                            Aggregate base
+
+
+                                                                                            Prepared subgrade
+
+
+
+    P-01 revision B is fictional · Vertical scales exaggerated · The section supplies no design dimensions or acceptance criteria.
+
+
+
+ Note. ACCESS IS4S. (2026). Three views. Three different questions. [Original instructional SVG]. Conceptual illustration; read the stated
+ conditions in the lesson.
+
+
+
+
+                                                                            ACCESS IS4S · Volume 4 · 13 / 53
+
+=== ORIGINAL PDF PAGE 14 ===
+Worked example · A level-book entry
+  Benchmark EL 100.000 m; backsight 1.250 m; foresight to prepared base 1.670 m. Target base EL
+  99.650 m.
+
+  Think it through.
+
+  HI = 101.250 m. Existing base = 101.250 − 1.670 = 99.580 m. Target minus existing = +0.070 m: fill
+  70 mm at this point, subject to the specified material and compaction method. Check against the
+  correct drawing revision and benchmark before directing work.
+
+
+
+
+Try it and explain your thinking
+
+ Use the same benchmark with backsight 1.400 m and foresight 1.600 m
+
+ Use the same benchmark with backsight 1.400 m and foresight 1.600 m. Target EL is 99.650 m. State
+ cut or fill.
+
+ Skills you use: Numeracy, Reading.
+
+
+
+
+ A profile uses horizontal 1:500 and vertical 1:50
+
+ A profile uses horizontal 1:500 and vertical 1:50. Explain why measuring its apparent angle is
+ unreliable.
+
+ Skills you use: Digital, Problem solving.
+
+
+
+
+ Write a handover for a disturbed offset stake at station 0+080, right side.
+
+ Write a handover for a disturbed offset stake at station 0+080, right side.
+
+ Skills you use: Writing, Communication, Collaboration.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 14 / 53
+
+=== ORIGINAL PDF PAGE 15 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                     Result        Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                            Pass /        Observation:
+                                                                                              hold          __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for          Pass /        Observation:
+ the actual task.                                                                             hold          __________________
+
+ Set up and check spirit, builder’s and laser levels under supervision.                       0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Verify automatic slope control against an independent approved reference.                    0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Maintain specified grade and slope and retain a legible level-book record.                   0/1/2         Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, F2, printed p. 49; source PDF pp. 51–52.
+        Leica Geosystems. (n.d.; manufacturer brochure). Leica NA700 Series Automatic Levels. Open publication.
+        Leica Geosystems. (n.d.). Leica NA700 Series Automatic Levels: Technical Data. Open publication.
+        Seymour Midwest. (n.d.). MP Metal Professional Measuring Wheels: Counter Alignment. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                           ACCESS IS4S · Volume 4 · 15 / 53
+
+=== ORIGINAL PDF PAGE 16 ===
+Study chapter · Outline F3
+
+
+
+Final grade preparation
+Final grade preparation is the last opportunity to correct the support and geometry before the mat covers
+them. Work from accepted levels, drainage and utility details. A neat edge and a clean base help the paving
+crew place the intended thickness.
+
+
+  Check and raise utilities
+
+  Fine grading
+
+  Boning crown/cross-fall
+
+  Limit of asphalt layout
+
+
+LEARNING STEP 1
+
+
+
+
+Check and raise utilities
+Locate utility structures using the project information and required locating process. Confirm casting type,
+ownership, target elevation and approved adjustment detail. Raising a frame may require rings, approved
+bedding, structural support and curing time; it is not simply lifting the lid. Protect openings, coordinate
+access and traffic control, and prevent loose material entering the system. Only authorized workers make
+the adjustment. Recheck finished elevation and crossfall around the structure so the paving joint does not
+create a pond or abrupt bump.
+
+
+
+
+                                              ACCESS IS4S · Volume 4 · 16 / 53
+
+=== ORIGINAL PDF PAGE 17 ===
+Read the mark, the offset and the datum
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Read the mark, the offset and the datum
+
+     Fictional training stake · confirm the actual project legend before use.
+
+
+
+                                                                                       LOCATION
+                         STA 0+125
+                                                                                       Station: 125 m along the alignment
+                         2.0 m RT OFFSET                                               Offset: reference away from the work
+
+
+                         FG EL 102.400
+                                                                                       LEVEL
+                         C 0.060
+                                                                                       FG: finished-grade elevation
+                                                                                       Cut: 60 mm from the defined mark
+
+
+
+
+       A stake’s top is not automatically the reference mark. Protect survey control.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Read the mark, the offset and the datum [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+Fine grading
+Fine grading removes high spots and fills low areas with the approved material and method. Check
+moisture and compaction as required, remove contamination and protect the surface from rutting. Do not
+conceal soft spots with a thin scatter of dry aggregate. Confirm that repairs are accepted and that the base
+is ready for the specified prime or tack treatment, where applicable. Record the inspection location and
+time because construction traffic and weather may change the surface after it was checked.
+
+LEARNING STEP 3
+
+
+
+
+Boning crown/cross-fall
+Boning uses aligned sighting references to compare intermediate levels with a defined grade. All rods and
+reference heights must be consistent, and the method needs a verified starting and finishing reference.
+Check crown and crossfall with appropriate instruments and the drawing’s actual geometry. A crown is not
+always centred, and curves, transitions, intersections and accessibility features may have different
+requirements. Check machine slope calibration against an independent measure. Agreement between two
+displays using the same wrong reference is not independent verification.
+
+LEARNING STEP 4
+
+
+
+
+                                                                    ACCESS IS4S · Volume 4 · 17 / 53
+
+=== ORIGINAL PDF PAGE 18 ===
+Limit of asphalt layout
+Mark the finished mat limits from approved alignment, width, edge and tie-in details. Include tapers,
+entrances, curb offsets, construction joints and the paving sequence. Distinguish the paver’s nominal
+screed width from the specified finished width and any working allowance. Measure at identified stations
+and record changes. Discuss public access and emergency routes before changing the work boundary. If
+the layout conflicts with a utility or existing surface, request a resolved detail before placing material.
+
+
+
+ Name the layers
+
+
+     ACCESS IS4S · ASPHALT FOUNDATIONS
+
+
+     Name the layers
+     One example: asphalt pavement on an unbound base, with a subbase.
+
+
+
+
+                                                                                        1       Asphalt surface
+                                                                                                The upper asphalt layer.
+
+
+                                                                                        2       Granular base
+                                                                                                Supports the asphalt surface.
+
+
+
+                                                                                        3       Subbase, where specified
+                                                                                                An additional supporting layer.
+
+
+
+                                                                                        4       Prepared subgrade
+                                                                                                The prepared ground beneath the structure.
+
+
+
+
+     Conceptual section · other pavement structures exist · layer thicknesses are not a design.
+
+
+
+ Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026).
+ Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions
+ are not implied. Source locations: [{"figure": "1.6", "printed_page": 14, "pdf_page": 48}]. Original contributors: No separate contributor
+ listed for this figure. Full source context.
+
+
+
+
+                                                             ACCESS IS4S · Volume 4 · 18 / 53
+
+=== ORIGINAL PDF PAGE 19 ===
+Worked example · Width before tonnage
+  A rectangular paving area is 60 m long. The approved width is 4.2 m, but the marked limits measure
+  4.0 m.
+
+  Think it through.
+
+  Approved area = 252 m²; marked area = 240 m². The shortfall is 12 m². Verify the drawing and correct
+  the layout before ordering or placing to the wrong boundary. Extra mix later does not automatically
+  restore the intended edge support and joint quality.
+
+
+
+
+Try it and explain your thinking
+
+ The target casting EL is 102.340 m and its verified current EL is 102.295 m
+
+ The target casting EL is 102.340 m and its verified current EL is 102.295 m. Find the required
+ elevation change.
+
+ Skills you use: Numeracy, Problem solving.
+
+
+
+
+ Build a five-item release record for the base.
+
+ Build a five-item release record for the base.
+
+ Skills you use: Writing, Digital.
+
+
+
+
+ A worker suggests smoothing a pumping area and paving immediately to keep the delivery
+ slot
+
+ A worker suggests smoothing a pumping area and paving immediately to keep the delivery slot.
+ Respond.
+
+ Skills you use: Communication, Adaptability, Collaboration.
+
+
+
+
+                                            ACCESS IS4S · Volume 4 · 19 / 53
+
+=== ORIGINAL PDF PAGE 20 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                     Result        Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                            Pass /        Observation:
+                                                                                              hold          __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for          Pass /        Observation:
+ the actual task.                                                                             hold          __________________
+
+ Check utility elevations and protected openings with the responsible person.                 0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Verify crown, crossfall and width against the current layout.                                0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Complete a release record identifying unresolved defects.                                    0/1/2         Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, F3, printed p. 51; source PDF pp. 53–53.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 8: Hot Mix Asphalt Paving; source PDF pp. 391–446. Open
+        publication.
+        BC 1 Call. (August 2020). Safety Is a Shared Responsibility: Six Steps to Safe Digging. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                           ACCESS IS4S · Volume 4 · 20 / 53
+
+=== ORIGINAL PDF PAGE 21 ===
+Study chapter · Outline G1
+
+
+
+Gradation
+Quality control connects the planned pavement with evidence from production and placement. The crew
+needs to know which document governs, which tests apply and who can release or reject work. This
+chapter uses the supplied BC Ministry of Transportation DB 2006 Section 502 for a dated contract-reading
+exercise.
+
+
+  MOT Specs
+
+  The audit process
+
+  Penalty/bonus
+
+  Limit of asphalt layout
+
+
+LEARNING STEP 1
+
+
+
+
+MOT Specs
+A quality management plan identifies materials, accepted mix design, sampling and testing, production
+controls, placement checks, records and responsibilities. Quality control is the producer/contractor’s
+process control; quality assurance provides the owner’s confidence and verification through the specified
+system. Neither term means that a crew can self-approve a departure. In the 2006 example, a mix design
+becomes the job mix formula (JMF) through the required written acceptance process. Identify the actual
+contract edition, special provisions and amendments before using any limit on a real job.
+
+
+
+
+                                            ACCESS IS4S · Volume 4 · 21 / 53
+
+=== ORIGINAL PDF PAGE 22 ===
+A quality result needs a traceable chain
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     A quality result needs a traceable chain
+
+     One lot identifier connects the work to its evidence.
+
+
+
+
+          PLAN                                                        1                      SAMPLE                         2
+          Accepted material + method                                                         Location + time + identity
+
+
+
+
+          RESULT                                                      3                      DECISION                       4
+          Method + units + reference                                                         Authorized acceptance / hold
+
+
+
+
+       A missing link is a question to resolve, not a space to fill with an invented fact.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). A quality result needs a traceable chain [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+LEARNING STEP 2
+
+
+
+
+The audit process
+An audit follows evidence: approved procedure, actual activity, dated record, result and corrective action. A
+missing record and a failed result are different findings, and both require a response. Trace a sample from
+station and lot through laboratory report to disposition. Check instrument identification and calibration
+records. Record what was observed without inventing motives. Close a finding only when the responsible
+authority accepts the evidence of correction. A tidy binder with untraceable sample numbers does not
+demonstrate control.
+
+LEARNING STEP 3
+
+
+
+
+Penalty/bonus
+Payment adjustments are contract calculations tied to defined lots, tests and acceptance rules. A bonus for
+one property does not cancel rejection under another. The 2006 tables separately address binder content,
+gradation, application rate, segregation, density and smoothness. Always state parameter, units, applicable
+lift, table and edition. Crowns and crossfalls remain geometric requirements even where a payment table
+does not express them. Learners calculate an isolated adjustment first, then check all other acceptance
+conditions before discussing overall payment.
+
+
+
+
+                                                                    ACCESS IS4S · Volume 4 · 22 / 53
+
+=== ORIGINAL PDF PAGE 23 ===
+LEARNING STEP 4
+
+
+
+
+Limit of asphalt layout
+Define the paving limits, lift, station range, lane and measured area before assigning tickets or samples to a
+lot. Mark intersections, letdowns and other geometry according to the contract’s measurement method. A
+layout change can affect quantity, sample locations and the meaning of a payment calculation. For the
+2006 gradation exercise, Table 502-G compares departures from the JMF on specified sieves; it is not a
+width table. Keep layout verification and the appropriate quality-table lookup linked through the same lot
+identifier.
+
+
+
+ Find the document that governs the task
+
+     ACCESS IS4S / ASPHALT STUDY
+
+
+     Find the document that governs the task
+
+     Check adoption and revision before applying a number.
+
+
+
+
+          CONTRACT                                                    1                      DRAWING                       2
+          Edition + special provisions                                                       Revision + location
+
+
+
+
+          METHOD                                                      3                      RECORD                        4
+          Approved procedure + roles                                                         Actual result + disposition
+
+
+
+
+       A historical table is useful for learning; the adopted project requirements govern work.
+
+     Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+ Note. ACCESS IS4S. (2026). Find the document that governs the task [Original instructional SVG]. Conceptual explanation based on the
+ cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                    ACCESS IS4S · Volume 4 · 23 / 53
+
+=== ORIGINAL PDF PAGE 24 ===
+Worked example · One good result is not full acceptance
+  A fictional 600 t lot qualifies for a +$0.75/t gradation adjustment under the complete applicable table
+  conditions. A separate density result is under review.
+
+  Think it through.
+
+  The isolated gradation adjustment is 600 × $0.75 = +$450. Record it as provisional for this
+  parameter. Do not declare the lot accepted or payable until all applicable requirements and the
+  authorized disposition are resolved.
+
+
+
+
+Try it and explain your thinking
+
+ An audit finds sample Q17 on a report but no matching location log
+
+ An audit finds sample Q17 on a report but no matching location log. Write a finding and action.
+
+ Skills you use: Writing, Problem solving.
+
+
+
+
+ For a fictional 420 t lot, calculate a −$1.50/t isolated adjustment.
+
+ For a fictional 420 t lot, calculate a −$1.50/t isolated adjustment.
+
+ Skills you use: Numeracy, Reading.
+
+
+
+
+ Compare the 2006 document and the current project document in a digital register
+
+ Compare the 2006 document and the current project document in a digital register. What fields
+ prevent accidental substitution?
+
+ Skills you use: Digital, Collaboration, Adaptability.
+
+
+
+
+                                              ACCESS IS4S · Volume 4 · 24 / 53
+
+=== ORIGINAL PDF PAGE 25 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                      Result       Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                             Pass /       Observation:
+                                                                                               hold         __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for           Pass /       Observation:
+ the actual task.                                                                              hold         __________________
+
+ Trace one fictional lot through plan, sample, result and disposition.                         0/1/2        Evidence/help:
+                                                                                                            ________________
+
+ Identify the governing edition and amendments.                                                0/1/2        Evidence/help:
+                                                                                                            ________________
+
+ Communicate a quality hold with exact location and evidence.                                  0/1/2        Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G1, printed p. 52; source PDF pp. 54–54.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 3: Mineral Aggregates and Mixture Additives; source PDF
+        pp. 143–192. Open publication.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 10: Quality Control and Acceptance of Hot Mix Asphalt;
+        source PDF pp. 479–552. Open publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                            ACCESS IS4S · Volume 4 · 25 / 53
+

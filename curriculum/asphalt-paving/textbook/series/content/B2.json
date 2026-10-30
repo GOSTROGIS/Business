@@ -1,0 +1,68 @@
+{
+  "code": "B2",
+  "title": "Describe working safely around haul trucks",
+  "intro": "A haul truck brings material into a place where people and machines already have work to do. The transfer becomes a coordinated operation: truck, paver, ground worker and traffic control each need a shared understanding. **Blind area** means a space the operator cannot see from the operating position. **Pinch point** means a place where a person can be caught between moving or closing surfaces. Neither disappears because a worker is wearing high-visibility clothing.\n\nAt Cedar Learning Access, a delivery may arrive while someone needs the community entrance. The crew must protect both the delivery path and the public route. The task is to keep people out of the interaction between truck and paver while the approved delivery arrangement is followed.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe consequences of lapses in communication",
+      "text": "Communication fails when a message is unheard, misunderstood or directed at the wrong person. Agree the signalling arrangement before the approach: the designated person, the signals or radio channel, the acknowledged stop instruction and the response to lost contact. Use the established site procedure, precise messages and confirmation. A driver looking toward a worker is not proof that the worker’s intention was understood. Eye contact supports communication, but it does not replace a confirmed message or a safe position.\n\nThe ground worker identifies themselves and remains in the planned visible position with an escape route, away from the truck’s swept path and reversing space. If visual or radio contact is lost, the movement must stop under the agreed procedure; the worker does not approach a moving vehicle to restore contact. Restart only after the people involved have re-established the arrangement. Record a recurring communication failure so the system can be improved."
+    },
+    {
+      "number": 2,
+      "title": "Identify equipment specific hazards",
+      "text": "Study the whole movement envelope, not only the tyre tracks. A turning truck has a swept path; the body, rear overhang and attachments can move through different areas. A reversing truck creates a changing space between itself and the paver. That space stays clear of people and loose equipment. A raised body changes height and stability; overhead utilities, structures and ground condition must be addressed before the delivery operation.\n\nClean mirrors, windows, cameras and lights help the operator see, but visibility aids have limits and require inspection. Spilled material, a dirty access step or a contaminated walking surface adds slip and housekeeping risks. A person should never infer the safe location from an illustration’s scale. The actual truck configuration, manufacturer instructions, assessment and traffic arrangement determine the controlled area. A pre-delivery check connects these physical conditions to the agreed communication."
+    }
+  ],
+  "worked": {
+    "title": "A missed acknowledgement",
+    "case": "Fictional sequence: 08:10 the ground worker calls the truck identifier; 08:11 an unrelated driver replies; 08:12 the assigned driver begins backing. The assigned driver has not acknowledged the direction. A pedestrian also approaches the facility entrance.",
+    "solution": "The sequence contains no confirmed instruction between the assigned people. Stop the movement through the agreed procedure, protect the pedestrian route and re-establish the identified driver/signaller exchange. The three timestamps show order, not proof of a safe movement. The handover should record the wrong-driver reply and the access conflict; simply repeating the original call leaves the cause unresolved."
+  },
+  "activities": [
+    {
+      "id": "B2-01",
+      "prompt": "Annotate the truck/paver interaction diagram with blind-area, pinch-point, swept-path and overhead-hazard questions. Describe the location a ground worker must avoid and what must be confirmed before choosing a signalling position.",
+      "answer": "Identify the truck/paver gap, reversing/swept path and overhead envelope; choose a position only through the actual plan with visibility and escape. No drawing dimension establishes clearance.",
+      "skills": [
+        "Reading",
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "B2-02",
+      "prompt": "Rewrite the three radio messages in the worked case so the intended driver and acknowledgement are unambiguous. Rehearse a lost-contact event with spoken classroom roles only.",
+      "answer": "Messages identify the vehicle/person, intended action/location and confirmation. Loss of contact invokes the agreed stop response; resume only after shared understanding and access control are restored.",
+      "skills": [
+        "Writing",
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "Calculate and check the result"
+    },
+    {
+      "id": "B2-03",
+      "prompt": "Create and save a one-page delivery brief for the fictional site. A partner adds a blocked entrance and dirty camera. Revise the brief, reopen the saved version and identify your change.",
+      "answer": "Brief includes participants, route, public access, visibility/inspection, signals and lost-contact response. The revision addresses both changes; record each learner’s contribution and actual file operations.",
+      "skills": [
+        "Digital",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Create and save a one-page delivery brief for the fictional site"
+    }
+  ],
+  "practical": [
+    "In a controlled, authorized exercise, the instructor checks the learner’s visible safe position and escape route against the actual plan.",
+    "Observe correct communication, loss-of-contact response and keeping the truck/paver gap clear; stop if the arrangement fails.",
+    "Record the machine, site conditions, supervision, observed actions and repeat attempt. Classroom role-play alone does not demonstrate vehicle-side competence."
+  ],
+  "visuals": [
+    "truck-interface",
+    "cat-paver-sections"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

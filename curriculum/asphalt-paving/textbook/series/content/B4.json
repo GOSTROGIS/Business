@@ -1,0 +1,73 @@
+{
+  "code": "B4",
+  "title": "Describe safety working around and operating air hammers",
+  "intro": "An air hammer converts compressed-air energy into repeated impacts at its working tool. **Air hose**, **coupling**, **retainer**, **handle**, **trigger/control** and **tool steel** are parts to identify before learning the task. The energy that makes breaking possible can also create noise, vibration, flying material, hose movement and physical strain. Preparation therefore includes the air supply and connections as well as the hammer itself.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe noise and vibration hazards",
+      "text": "Repeated impact produces substantial noise and hand-arm vibration. Exposure depends on the actual tool, maintenance, material, use time and working conditions. A rating in a brochure is not an individual’s measured daily exposure. Use the assessed controls: appropriate equipment, maintenance, exposure organization and correctly selected hearing/PPE arrangements. Report unusual vibration, looseness, numbness or other concerns through the workplace process.\n\nThe CP1210/1230/1240 family manual provides actual pneumatic-tool safety and component information; the applicable model and configuration still matter. A lower-vibration model may improve control but does not eliminate the need to assess the job. For a training record, distinguish trigger time from total time spent in the work area."
+    },
+    {
+      "number": 2,
+      "title": "Describe hazards of flying debris",
+      "text": "Impact breaks material into fragments that can strike the operator or others. Assess the material, access and nearby work; establish the required controlled area and suitable protection. Eye/face protection must match the hazard, while dust controls address the airborne material. Positioning a bystander just outside a sketch’s boundary is insufficient without the actual assessment.\n\nInspect the tool retention and hose/coupling arrangement under the manual. A loose connection can become an uncontrolled hose, and an unsecured tool can be ejected. Before disconnecting or changing a tool, isolate the supply and release stored pressure using the specified procedure. Never test for a leak with a hand or direct compressed air at a person."
+    },
+    {
+      "number": 3,
+      "title": "Describe ergonomics and safe equipment handling",
+      "text": "A heavy tool can strain the body while carrying, starting, working or stowing. Plan access and the working position before lifting it into place. Choose the appropriate tool/support and approved handling method; avoid twisting with the load or using the body to force an unsuitable tool. Hoses should be routed to reduce tripping, dragging and damage while allowing the intended controlled movement.\n\nMaintenance affects effort: damaged or unsuitable tool steel can increase the force and time a person applies. The operator recognizes a change and reports it instead of compensating with more force. Stowing means controlling the energy, placing the tool securely, organizing the hose and protecting others from a falling tool or protruding steel."
+    }
+  ],
+  "worked": {
+    "title": "Count exposure honestly",
+    "case": "Fictional log: 09:00–09:20 setup; 09:20–09:35 tool in use; 09:35–09:45 pause; 09:45–10:05 tool in use. The worker reports “65 minutes of hammer operation.”",
+    "solution": "Elapsed time is 65 minutes, while recorded tool-use intervals total 15 + 20 = 35 minutes. The remaining 30 minutes are setup/pause. Keep both values because different exposures may continue during non-trigger time. The log does not calculate a permissible vibration dose; actual assessment needs the relevant exposure data and method."
+  },
+  "activities": [
+    {
+      "id": "B4-01",
+      "prompt": "Label the supply-to-tool diagram, including hose, coupling, retainer and tool. Explain where stored energy remains after a trigger is released.",
+      "answer": "Compressed air remains in the system until the specified isolation/depressurization procedure is completed. Releasing a control is not proof of zero pressure.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Label the supply-to-tool diagram, including hose, coupling, retainer and tool"
+    },
+    {
+      "id": "B4-02",
+      "prompt": "Recalculate the worked log and propose two columns that prevent elapsed-time and trigger-time confusion.",
+      "answer": "65 minutes elapsed; 35 minutes recorded operation. Keep start/end, action and duration, with exposure assessment recorded separately.",
+      "skills": [
+        "Numeracy",
+        "Writing"
+      ],
+      "title": "Calculate and check the result"
+    },
+    {
+      "id": "B4-03",
+      "prompt": "Create a short illustrated handling/stowing brief. A partner introduces a damaged coupling; revise the brief and save the corrected record.",
+      "answer": "The defect removes the affected assembly from use for assessment under the procedure. The brief addresses handling, hose route, retained pressure, tool security and individual communication.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Communication",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Create a short illustrated handling/stowing brief"
+    }
+  ],
+  "practical": [
+    "Use the actual tool manual and assessed material, air supply and exposure controls.",
+    "Observe safe handling, PPE, people separation, controlled use and shutdown/stowing under qualified supervision.",
+    "Require the learner to identify a defect and stop; do not create a live hose failure for a demonstration."
+  ],
+  "visuals": [
+    "pneumatic-system",
+    "cp-breaker"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

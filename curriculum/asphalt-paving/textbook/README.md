@@ -28,3 +28,6 @@ The editable Markdown chapters are the teaching source. All nine Skills for Succ
 Use the repository's Python requirements and Chromium. From the repository root, run the scripts in `curriculum/asphalt-paving/textbook/tools/`: `draw.py`, `build_desk.py`, `export.py --desk-only`, `prepare_figures.py`, `build.py`, `export.py`, then `verify.py`. Keep figure captions with the artwork. The source/library paths remain relative to this folder so the complete repository can be used offline.
 
 The five imported CONSULTING documentation snapshots are unchanged, pinned by commit and Git blob identity. The learning desk and illustrations use entirely fictional geometry; no real property, utility, student or client dataset is included.
+
+
+Continue with [Volumes 2–8](series/index.html): all B2–L6 chapters, named practice tasks, manual/MS-4 figures, worked answers and integrated nine-skill cases.

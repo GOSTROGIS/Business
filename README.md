@@ -4,11 +4,15 @@
 
 [Open the books](curriculum/skills-for-success/README.md) · [Learner textbook (PDF)](curriculum/skills-for-success/learner-textbook.pdf) · [Practitioner guide (PDF)](curriculum/skills-for-success/practitioner-guide.pdf)
 
-Two standalone ACCESS IS4S books teach all nine Skills for Success through complete learning cases, worked examples, fresh practice, integrated projects and answer guidance. Edition 3 adds direct teaching routes, observation tools, a local Digital practice desk and redesigned SVG illustrations. [Explore the books](curriculum/skills-for-success/README.md).
+Two standalone ACCESS IS4S books teach all nine Skills for Success through complete learning cases, worked examples, fresh practice, integrated projects and answer guidance. Edition 4 uses plain-language task names and visual practice routes throughout. Sixteen AI activities cover Claude, Claude Code, Cowork, ChatGPT, Codex, document audits, useful file formats and accessible audio/video study materials. [Explore the books](curriculum/skills-for-success/README.md).
 
 The [28 October book review and gap analysis](curriculum/skills-for-success/research/book-gap-analysis-2026-10-28.md) identifies 14 prioritized improvements, with evidence and completion checks for teaching, assessment, visual usability, local review and the asphalt pathway.
 
 ## Asphalt curriculum
+
+**[Complete asphalt study series](curriculum/asphalt-paving/textbook/series/index.html)** · [All 68 competency statuses](curriculum/asphalt-paving/line-a/competency-status.md)
+
+Volumes 2–8 complete B2–L6: 61 chapters, all 218 learning tasks, 183 named activities, seven integrated nine-skill cases, 383 study pages and 184 answer pages. The series adds 42 original SVGs, manual/MS-4 figures with credits, individual observation records and smaller PDF/ZIP downloads. Classroom authoring is complete; qualified technical review, actual fleet/site matching and observed practical qualification remain separate.
 
 **[New asphalt study textbook](curriculum/asphalt-paving/textbook/README.md)** · **[Textbook PDF](curriculum/asphalt-paving/textbook/study-textbook.pdf)** · [Worked-answer PDF](curriculum/asphalt-paving/textbook/answers.pdf) · [Interactive plan desk](curriculum/asphalt-paving/textbook/plan-desk.html)
 

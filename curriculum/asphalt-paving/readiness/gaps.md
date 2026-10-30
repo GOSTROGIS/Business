@@ -2,7 +2,7 @@
 
 **Audit date: 30 October 2026.** The audit covers all 68 competencies, A1–L6, plus Section 4 of the August 2016 outline. The new library contains complete acquired publications and regulatory articles, while the [coverage map](coverage.html) identifies their relevance and remaining limits. It does not certify completion of the program or approval of practical delivery.
 
-The [study textbook](../textbook/README.md) now develops all six Line A chapters and the seven B1 safety-orientation tasks. I2/J1/L1 machine-identification preparation is also present. The remaining 61 competencies need complete technical lesson development; qualified review and practical assessment remain pending for all units. Acquiring a reference does not change that status.
+All 68 competencies now have authored classroom study chapters: [Volume 1](../textbook/index.html) and [Volumes 2–8](../textbook/series/index.html). The later volumes cover every B2–L6 learning task with readings, visuals, named practice, answers and observation records. Qualified review, actual fleet/site matching, local pilot and observed practical assessment remain pending.
 
 ## Section 4 acquisition record
 

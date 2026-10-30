@@ -1,0 +1,1512 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf
+SOURCE SHA-256: bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80
+ORIGINAL PDF VIEWER PAGES: 201–225 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 201 ===
+Illustrated Parts List (IPL)
+
+Hydraulic System (3 of 5)
+Item
+            Part Number          Qty.                       Description                             Remarks
+ No.
+ASSY           1020495            1     Assembly, 2 Speed Solenoid w/ORFS Adapters            Includes 1-5
+ REF           1016012            1     Valve, Hydraulic Solenoid, 3-Way                      Includes 1-3
+  1           1009619-03          2     Coil
+  2           1016012-02          1     Spool, 3-Way
+  3           1016012-01          1     Valve Body, 3-Way
+  4      FS6801-06-06-NWO-FG      7     Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring
+  5      FS-6602-06-06-04-FG      1     Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-4 ORFS
+  6      F387TCJCJ1060606-34      1     Hose Assembly, Solenoid Valve 1 to Motor X1           Tag# 106
+  7     F387TCJCJC060606-20       1     Hose Assembly, Solenoid Valve to Tank                 Tag# 137
+  8      F387TCJCJ9060606-26      1     Hose Assembly, Pump Gage Port to Solenoid Valve 3     Tag# 106
+ASSY           1020496            1     Assembly, Destroke Solenoid w/ORFS Adapters           Includes 1,4,9-10
+ REF           1009619            1     Valve, Hydraulic Solenoid, 2-Way, 2-POS               Includes 1,9-10
+  9           1019619-01          1     Spool, 2-Way
+ 10           1019619-02          1     Valve Body
+  11     F387TCJCJC060606-14      1     Hose Assembly, Pump Servo Gage M4 to Destroke Valve   Tag# 4
+  12    F387TCJCJC060606-26       1     Hose Assembly, Pump Servo Gage M5 to Destroke Valve   Tag# 5
+ 13        FS6400-06-06-O         1     Adapter, Straight, -6 ORFS/-6 O-Rings
+ASSY           1022095            1     Assembly, Brush Speed Solenoid w/ORFS Adapters        Includes 14-19
+ REF            1021111           1     Valve, Hydraulic Solenoid                             Includes 14-16
+  14          1021111-02          1     Coil
+  15          1021111-03          1     Spool
+ 16             1021111           1     Valve Body
+  17    FS6804-12-12-12-NWO-FG    1     Adapter, Run Tee, -12 ORFS/-12 O-Ring/-12 ORFS
+ 18         FS6400-12-12-O        1     Adapter, Straight, -12 ORFS/-12 O-Rings
+ 19      F387TCJCJC121212-36      1     Hose Assembly, Aux Pump to Brush Speed Valve 1        Tag# 140
+ 20      F387TCJCJ9121212-29      1     Hose Assembly, Brush Speed Valve 2 to Tank            Tag# 141
+  21        FS6400-12-10-O        1     Adapter, Straight, -12 ORFS/-10 O-Rings
+ 22         100-4-20-26-5         4     CSHH, 1/4-20 x 1.625, GR5
+ 23             302-4             6     Washer, Lock, 1/4
+ 24             300-4             6     Washer, Flat, SAE, 1/4
+ 25         100-4-20-32-5         2     CSHH, 1/4-20 x 2.00, GR5
+ 26                               1     Adapter, Bulkhead, Test Port to -4 IRFS
+
+                                                                                                                           7
+               1019707                                                                        Located RH Side of Vehicle
+
+ 27           1021704-17          1     Decal, Test Port, Charge Pressure
+ 28            1019709            1     Hose Assembly, SMS Test w/-4 Female ORFS (x2)
+
+
+
+
+Rosco RB-50 Broom                                                                                                 7-43
+
+=== ORIGINAL PDF PAGE 202 ===
+Illustrated Parts List (IPL)
+
+
+HYDRAULIC SYSTEM (4 OF 5)
+                                 7
+
+                                                                 22
+
+
+                                                                21
+
+
+
+
+                         8
+
+                                             13
+               14
+
+                                                   3
+                                                                                 12
+                             1
+
+                                                            2         26 27 28
+              20 19 18                                                                                   9
+                                                                                                 9
+                         2                             25
+                    3                                       24
+                                                                 23
+                                 6
+                                                  15
+           TO MANIFOLD
+            ASSEMBLY
+             (1023126)               5
+
+                                         4         4
+
+
+                                                                 17
+                                             16
+
+
+
+
+                    11
+  10
+       4
+
+                                                   Figure 7-19. Hydraulic System (4 of 5)
+
+
+
+7-44                                                                                        Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 203 ===
+Illustrated Parts List (IPL)
+
+Hydraulic System (4 of 5)
+Item
+               Part Number               Qty.                            Description                   Remarks
+ No.
+ASSY              1021513                 1     Assembly, Brush Drive Valve w/ORFS Adapters         Includes 1-7
+  1               1012242                 1     Valve, Motor Control
+  2      FS6804-12-12-12-NWO-FG           2     Adapter, Run Tee, -12 ORFS/-12 O-Ring/-12 ORFS
+  3            FS2406-12-06               1     Adapter, Reducer, Straight, -12 FFORX/-6 ORFS
+  4       FS6801-12-10-NWO-FG             3     Adapter, Elbow, 90°, -12 ORFS/-10 O-Ring
+  5          FS6500-06-06-FG              1     Adapter, Elbow, 90°, Swivel, -6 ORFS/-6 O-Ring
+  6        FS6602-06-06-06-FG             1     Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-6 ORFS
+  7               1020387                 1     Valve, Check, 20 PSI, 4 GPM, -6 ORFS/-6 ORB
+  8       FS6801-06-08-NWO-FG             1     Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring
+  9          FS6400-06-06-O               2     Adapter, Straight, -6 ORFS/-6 O-Ring
+ 10          FS6500-12-12-FG              1     Adapter, Elbow, 90°, Swivel, -12 ORFS/-12 O-Ring
+  11          FS6400-12-12-O              1     Adapter, Straight, -12 ORFS/-12 O-Ring
+  12       F387TCJCJ9121212-32            1     Brush Speed Valve 1 to Motor Valve                  Tag# 102
+ 13    F387TCJCJC060606-66-AS-B-13-25     1     Aux Pump to Steering Motor In                       Tag# 112
+  14     F387TCJ5J5060606-24-0            1     Motor Valve to Needle Valve                         Tag# 122
+  15     F387TCJCJC060606-50              1     Steering Motor Out to Motor Valve                   Tag# 130
+ 16    F387TCJCJ1121212-113-AS-B-19-35    1     Motor Valve A to Brush Motor B                      Tag# 101
+  17      F387TCJCJ5121212-110-           1     Motor Valve B to Brush Motor A                      Tag# 121
+               AS-B-19-39
+ 18            100-5-18-24-5              3     CSHH, 5/16-18 x 1.50, GR5
+ 19                302-5                  3     Washer, Lock, 5/16
+ 20                300-2                  3     Washer, Flat, SAE, 5/16
+  21              1010266                 1     Brush Valve, Lever                                  Located In Cab
+ 22                36735                  1     Grip                                                Located In Cab
+ 23              404-4-12                 1     Pin, Clevis, .25 x .75
+ 24                300-4                  1     Washer, Flat, SAE, 1/4
+ 25                71714                  1     Pin, Cotter, .094 x .75
+ 26            100-6-16-24-5              1     CSHH, 3/8-16 x 1.50, GR5
+ 27                300-6                  5     Washer, Flat, SAE, 3/8
+ 28             204-6-16-5                1     Nut, Lock, Stover, 3/8-16, GR5
+
+
+
+
+                                                                                                                          7
+
+
+Rosco RB-50 Broom                                                                                                  7-45
+
+=== ORIGINAL PDF PAGE 204 ===
+Illustrated Parts List (IPL)
+
+
+HYDRAULIC SYSTEM (5 OF 5)
+
+
+
+                                                                             3
+                                                                                      2
+
+                                           4        4
+                6
+                                                                         4
+
+                7
+                                                                                 13
+
+
+
+                                                                                 2
+                     8
+
+                         9
+                                                               5
+                                                                             1
+
+                                                               12
+
+
+
+
+                                               10
+
+
+                                                                    11
+
+                                      16
+
+
+
+
+       20 19
+
+
+        16
+
+
+             18 17
+
+
+
+
+                                                                                                 14
+
+
+
+                                                                                          15
+
+
+
+
+                             Figure 7-20. Hydraulic System (5 of 5)
+
+
+
+7-46                                                                                       Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 205 ===
+Illustrated Parts List (IPL)
+
+Hydraulic System (5 of 5)
+ Item
+                  Part Number                 Qty.                        Description                       Remarks
+  No.
+ASSY                 1023126                   1     Assembly, Manifold w/ORFS Adapters                     Includes 1-5
+  1                  1011734                   1     Manifold, Hydraulic, 3 Valve w/Internal Check Valves
+  -                 1011734-01                A/R    Valve, Directional Solenoid                            Repair Part
+  -                 1011734-02                A/R    Coil, 12VDC                                            Repair Part
+  2         FS6804-06-06-06-NWO-FG             2     Adapter, Run Tee, -6 ORFS/-6 O-Ring/-6 ORFS
+  3           FS6400-06-06-O X 078             1     Adapter, Straight, -6 ORFS/-6 O-Ring, .078 Orifice
+  4              FS6400-06-06-O                3     Adapter, Straight, -6 ORFS/-6 O-Ring
+  5          FS6802-06-06-NWO-FG               1     Adapter, Elbow, 45°, -6 ORFS/-6 O-Ring
+  6           FS6801-06-06-NWO-FG              1     Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring
+  7          F387TCJCJ9060606-67               1     Hose Assembly, Manifold A2 to Needle Valve             Tag# 123
+  8          F387TCJCJC060606-46               1     Hose Assembly, Manifold B1 to Pivot Cylinder           Tag# 109
+  9          F387TCJCJ7060606-35               1     Hose Assembly, Manifold A1 to Pivot Cylinder Rod End   Tag# 107
+  10    F387TCJCJC060606-68-AS-B-13-66.25      1     Hose Assembly, Manifold A2 to Lift Cylinder            Tag# 111
+  11    F387TCJCJ5060606-77-AS-B-13-74.75      1     Hose Assembly, Manifold T to Lift Cylinder             Tag# 108
+  12     F387TCJCJC060606-17-AS-B-13-15.25     1     Hose Assembly, Manifold P to Steering Motor Aux        Tag# 113
+  13           F387TCJCJ9060606-63             1     Hose Assembly, Manifold T to Motor Valve               Tag# 110
+  14    F387TCJCJC060606-117-AS-B-13-115.25    1     Hose Assembly, Steering Motor RT to Steer Cylinder     Tag# 124
+  15    F387TCJCJC060606-106-AS-B-13-130.25    1     Hose Assembly, Steering Motor LT to Steer Cylinder     Tag# 125
+  16               1008089SRV                  2     Mount, Valve Block Assembly
+  17              100-5-18-8-5F                4     CSHH, 5/16-18 x .50, GR5, FT
+  18                  302-5                    4     Washer, Lock, 5/16
+  19              100-4-20-16-5                4     CSHH, 1/4-20 x 1.00, GR5
+ 20                   300-4                    4     Washer, Flat, SAE, 1/4
+
+
+
+
+                                                                                                                           7
+
+
+Rosco RB-50 Broom                                                                                                  7-47
+
+=== ORIGINAL PDF PAGE 206 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY , DETAILS (1 OF 2)
+                                                      18
+                              19
+
+
+
+                                             20                                                      36
+                              21            22
+
+                                                                                                                     35
+
+
+                                                                                                                                   9
+                                                                                                                               8
+                                                                                                            37
+                                                                              31 32 33
+
+
+
+
+                              1
+                    9
+               8                   17
+          7
+                         13         16
+                    12
+               11
+          10
+
+
+  5
+
+
+
+      6                   3
+
+
+      4   14 15 8 7
+                                                                                  2
+
+
+                                                                                                    34
+
+
+
+
+                                                                                          30                 D
+                                                                                               24            A
+                                                                                                             N
+                                                                                                             G
+                                                                                                     29      E
+                                                                                         28                  R
+
+
+                                                                                                          RO LL-
+                                                                                                          OVER
+                                                                                                          H A Z A RD!
+                                                                                                          Do not
+                                                                                                          operate
+
+
+                                                                             23
+                                                                                                          machine on
+                                                                                                          or near
+                                                                                                          inclined
+                                                                                                          surface.
+
+
+
+
+                                                                                         27 26 25
+                                                                                                          A LWA Y S
+                                                                                                          WE A R
+                                                                                                          S E A T B E LT
+                                                                                                          Failure to
+                                                                                                          comply will
+                                                                                                          result in
+                                                                                                          death or
+                                                                                                          serious
+                                                                                                          injury.     856532
+
+
+
+
+                                         Figure 7-21. Cab Assembly, Details (1 of 2)
+
+
+
+7-48                                                                                                Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 207 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Details (1 of 2)
+ Item
+        Part Number      Qty.                          Description                            Remarks
+  No.
+  1        1021679        1     Assembly, Mirror Cluster, RH                   Includes Items 3-15
+  2        1021678        1     Assembly, Mirror Cluster, LH                   Includes Items 3-15
+  3        852570         2     Mirror Head                                    (1) Per Side
+  4        100857         2     Mirror - ø7.50, Convex                         (1) Per Side
+  5        856986         2     Brace, Mirror                                  (1) Per Side
+  6        856987         4     Mount, Light, Mirror                           (2) Per Side
+  7      200-5-18-5       4     Nut, Hex, 5/16-18, GR5                         (2) Per Side
+  8         302-5         12    Washer, Lock, 5/16                             (4) Per Side
+  9         300-5         8     Washer, Flat, SAE, 5/16                        (2) Per Side
+  10    100-8-13-36-5     2     CSHH, 1/2-13 x 2.25, GR5                       (1) Per Side
+  11        300-8         4     Washer, Flat, SAE, 1/2                         (2) Per Side
+  12        302-8         2     Washer, Lock, 1/2                              (1) Per Side
+  13     200-8-13-5       2     Nut, Hex, 1/2-13, GR5                          (1) Per Side
+  14    100-5-18-32-5     4     CSHH, 5/16-18 x 2.00, GR5                      (2) Per Side
+  15        301-5         8     Washer, Flat, USS, 5/16                        (4) Per Side
+  16       1012563        2     Light, LED Circular                            (1) Per Side
+  17       1005941        2     LED Single Face Pedestal Lamp, Yellow          (1) Per Side
+  18        151170        1     Motor, Windshield Wiper
+  19        81277         1     CSBHS, 1/4-20 x .875, SS
+ 20        35136-3        1     Plug, Hole, 3/8, Flush Mount, Plastic
+  21       1021648        1     Arm, Wiper, 14"
+  22      12755028        1     Blade, Wiper, 16"
+ 23       20190773        1     Horn, Low Pitch
+ 24        1015543        1     Rollbar, Complete
+ 25     101-16-8-48-8     4     CSHH, Heavy, 1-8 x 3.00, GR8                   (2) Per Side
+ 26        310-16         4     Washer, Hardened, SAE, 1                       (2) Per Side
+  27     204-16-8-8       4     Nut, Lock, Stover, 1-8, GR8                    (2) Per Side
+ 28        1015784        2     Strap, Roll Bar Shipping                       (1) Per Side
+ 29      1015036-02       2     Decal - Danger, Roll-Over Hazard               Not Shown, (1) Per Side
+ 30        1015546        6     Loom Clip, ø.50                                Not Shown
+  31       1013231        1     Beacon Light, Amber, Strobe, LED
+ 32
+ 33
+ 34
+           1015786
+           1016701
+           33963
+                          1
+                          1
+                          1
+                                Bracket, Beacon Light
+                                Harness, Beacon
+                                Alarm, Back Up
+                                                                               Not Shown                        7
+ 35        1015915        1     Baffle, Lower Radiator, Formed
+ 36        1016327        1     Baffle, Lower Radiator
+ 37     100-5-18-12-5F    4     CSHH, 5/16-18 x .75, GR5, FT
+
+
+
+
+Rosco RB-50 Broom                                                                                        7-49
+
+=== ORIGINAL PDF PAGE 208 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, DETAILS (2 OF 2)
+                                                           WARNING                                                 CAUTION
+                                                     R O L L O V E R P R O T E C T IO N
+                                                         S Y S T E M WA R N IN G
+                                                                                                                 Vehicle is equipped
+                                             Protection offered by ROPS will be impaired                         with a back-up alarm.
+                                             if subjected to any modifications, structural
+                                             damage, or involved in an overturn incident.
+                                                                                                                 When backing,
+                                             REPLACE ROPS after a rollover.
+                                                                                                                 ALARM MUST SOUND!
+                                12           Wear seat belts at all times.
+                                             Maximum weight: 7500 LBS (3402 kg)
+                                             Meets SAE: J1040 APR88, SAE J1043 SEP87
+                                                                                                                 Operator is
+                                             Failure to comply could result in death or
+                                                                                                            18   responsible for safe
+                                             serious injury.                      1021704-07
+                                                                                                                 use of vehicle.   39141-19
+
+
+
+                                                       19
+
+
+                                                                                                            17
+
+                                                                                                        1
+
+                                                                                                    2
+ 3                                                                                             11
+
+
+
+                                                                                          5
+  4
+                                                                                               6 7 8
+
+
+
+
+  10
+
+
+
+
+                                                       13
+                                        14
+                                                                                                15
+                                9
+
+                                                         16                                                                      22
+
+                                                                                                                                 29
+                                                                                                                                              28
+                                                                                                                                               7
+                                                                                                                                               8
+                                                                                                                                              27
+
+
+
+
+                                                                                                                                         20
+
+
+
+
+                                          26 25 24 23                                                       21
+
+
+
+
+                    Figure 7-22. Cab Assembly, Details (2 of 2)
+
+
+
+7-50                                                                                                                Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 209 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Details (2 of 2)
+ Item
+          Part Number      Qty.                    Description                        Remarks
+  No.
+  1           35425         1     Defrost Fan Assembly, 12V
+  2          720260         1     Mirror, Inside Rearview
+  3           35136         1     Plug, Hole, 1.25, Flush Mount
+  4          38840          1     Light, Dome
+  5          1015622        1     Door Sill, Cab
+  6       100-4-20-16-5F    3     CSHH, 1/4-20 x 1.00, GR5, FT
+  7           302-4         7     Washer, Lock, 1/4
+  8           300-4         11    Washer, Flat, SAE, 1/4
+ KIT         1015083        1     Kit, Cab Insulation, No AC/Heat        Includes Items 9-13
+  9        1015083-01       1     Cab Insulation, Floor Mat - RH
+  10       1015083-02       1     Cab Insulation, Rear
+  11       1015083-03       1     Cab Insulation, No AC - LH
+  12       1015083-04       1     Cab Insulation, Headliner
+  13       1015083-05       1     Cab Insulation, Floor Mat - LH
+  14       1015035-05       1     Anti-Skid, Cab, Center
+  15       1015035-04       1     Decal, Deco, RB50
+  16       1013790-08       1     Decal, Deco, Rosco, 8.50"
+  17         1005474        1     Decal, No Unattended                   Located in Cab Interior
+  18         39141-19       1     Decal, Caution, Alarm                  Located in Cab Interior
+  19       1021704-04       1     Decal, Warning, ROPS                   Located in Cab Interior
+ 20          1008042        1     Plate, Access Cover                    No AC/Heat Only
+  21          1011711       1     Cover, Plate, Cab Floor                No AC/Heat Only
+  22        35136-21        4     Plug, Hole, .313, Flush Mount          No AC/Heat Only
+ 23       100-6-16-16-5F    2     CSHH, 3/8-16 x 1.00, GR5, FT
+ 24           301-6         4     Washer, Flat, USS, 3/8
+ 25           302-6         2     Washer, Lock, 3/8
+ 26        200-6-16-5       2     Nut, Hex, 3/8-16, GR5
+  27      100-4-20-12-5F    4     CSHH, 1/4-20 x .75, GR5, FT
+ 28        200-4-20-5       4     Nut, Hex, 1/4-20, GR5
+ 29         94004-21        1     Plate, Info, Serial Number
+
+
+
+
+                                                                                                          7
+
+
+Rosco RB-50 Broom                                                                                  7-51
+
+=== ORIGINAL PDF PAGE 210 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, WINDOWS
+
+
+
+
+                                                                                 5
+                                                                                     6
+
+                       6
+                   5
+
+
+
+
+               9
+
+
+
+
+       6
+           5
+
+
+
+
+                                       1
+                                                                            7
+                                                                        8
+                                                              10
+                                                        11
+                                   2                          12
+                                                        12
+                                                              13
+                                                        12
+                                                              11
+                               3
+                                                        14
+                           4
+
+
+
+
+                                   Figure 7-23. Cab Assembly, Windows
+
+
+
+7-52                                                                            Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 211 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Windows
+ Item
+        Part Number      Qty.                       Description                  Remarks
+  No.
+  1        1021669        1     Seal, Window, Upper
+  2        1021714        1     Window, Side, Sliding
+  3        1021668        1     Seal, Window, Lower
+  4        1021666        1     Glass, Lower
+  5        1015595        3     Seal, Window, Common
+  6        1015593        3     Glass, Common
+  7       1023442         1     Seal, Window, Front
+  8       1023436         1     Glass, Front
+  9      1013789-05       1     Decal, Kick Glass
+  10    100-12-10-64-5    4     CSHH, 3/4-10 x 4.00, GR5
+  11        301-12        8     Washer, Flat, USS, 3/4
+  12       36073          12    Washer, Flat, .80 x 3.25 x .188
+  13       36072          4     Mount, Rubber
+  14     204-12-10-5      4     Nut, Lock, Stover, 3/4-10, GR5
+
+
+
+
+                                                                                                  7
+
+
+Rosco RB-50 Broom                                                                          7-53
+
+=== ORIGINAL PDF PAGE 212 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, DOOR
+                                                                                                                      WARNING
+
+
+                                                                        •   It’s the owner’s responsibility to instruct all operators and personnel in the safe opera�on of this equipment.
+                                                                        •   Anyone working on or around this equipment should be familiar with operator’s manual.
+                                                                        •   NO passengers allowed.
+
+                        12
+                                                                        •   Ensure transmission is in NEUTRAL before star�ng engine.
+                                                                        •   Fasten seat belt while opera�ng.
+                                                                        •   DO NOT sweep debris toward traﬃc or bystanders.
+                                                                        •   HEARING PROTECTION REQUIRED!
+                                                                        •   DO NOT drink and drive.
+                                                                                                                      CALIFORNIA
+                                                                                                                 Proposi�on 65 Warning
+                                                                              Engine exhaust and some of its cons�tuents are known to the State of California to cause cancer,
+                                                                              birth defects, and other reproduc�ve harm. Always use care to avoid breathing engine exhaust.
+                                                                                                   Failure to comply could result in death or serious injury.              1021704-01
+
+
+                         11                                        19
+
+                    2
+
+
+                                           14
+               9
+               10                          13
+
+           8
+
+
+
+
+                                                     3
+       6
+
+
+
+                    4                 1
+       7
+                                                                                                                                                           15
+                                                                                                                      16
+                                                17
+                                      20                                                                              17
+                                                22
+                    5                           21
+                                                              18
+
+
+
+                                                         19
+                                                                                                                                                             25
+                                                                                      23                                                                     17
+                                                                                                                                                             24
+                                                                   19
+
+
+
+
+                                                                                                                                   26
+
+                             Figure 7-24. Cab Assembly, Door
+
+
+
+7-54                                                                                                                            Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 213 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Door
+ Item
+         Part Number          Qty.                        Description                         Remarks
+  No.
+ASSY        1023440            1     Assembly, Cab Door                          Includes 1-11
+  1         1023428            1     Cab Door                                    Includes 2
+  2      983423-01SRV          1     Rotary Latch
+  3         1023445            1     Seal, Door Trim
+  4         1023444            1     Seal, Window, Door, Upper
+  5         1023443            1     Seal, Window, Door, Lower
+  6         1023438            1     Glass, Door, Upper
+  7          1023437           1     Glass, Door, Lower
+  8          982415            1     Door Handle - Push Button
+  -         982415-01          1     Key, Door Latch                             Not Shown
+  9     100-M5-0.8-10-8.8-F    4     CSHH, M5x0.8 x 10mm, C8.8, FT
+  10         300-#10           4     Washer, Flat, SAE, #10
+  11         980678            1     Cover, Door Latch
+  12         851156            1     Knob, Black
+  13         1020242           1     Bolt, Striker, 2.75" Long
+  14       205-7-14-5          1     Nut, Lock, Nylon, 7/16-14, GR5
+  15          38392            1     Bumper, 1.50 OD x .75
+  16      122-4-20-16F         1     PHMS, Cross, 1/4-20 x 1, FT
+  17          300-4            8     Washer, Flat, SAE, 1/4
+  18         1021687           1     Bracket, Door Latch
+  19         1021659           1     Latch, Door, T-Handle
+ 20          1021720           1     Grommet, .19 ID x .63 OD x .125
+  21     100-4-20-16-5F        3     CSHH, 1/4-20 x 1.00, GR5, FT
+  22          302-4            3     Washer, Lock, 1/4
+ 23          1021721           1     Mount, Release, Cab Door
+ 24      100-4-20-12-5F        2     CSHH, 1/4-20 x .75, GR5, FT
+ 25        204-4-20-5          2     Nut, Lock, Stover, 1/4-20, GR5
+ 26        1021704-13          1     Decal, Door Release
+  27       1021704-01          1     Decal, Warning, Equipment
+
+
+
+
+                                                                                                               7
+
+
+Rosco RB-50 Broom                                                                                       7-55
+
+=== ORIGINAL PDF PAGE 214 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, BRAKES
+                                          DO NOT USE BRAKE FLUID
+                                                                    MASTER
+                                              CITGO A/W ALL-TEMP VG32
+
+                                          USE ONLY HYDRAULIC FLUID CYLINDER
+                                                                                        1010608
+
+
+
+
+                3                    19
+
+
+                         2
+
+
+                                              1
+
+
+
+
+                                                          4
+         9          5
+                    6
+                    7
+
+
+
+
+ 10                 8
+ 11
+ 12
+
+
+
+
+                                                         15
+
+                                                                 14
+                                                                        13
+
+                                                  15
+
+
+
+
+                        Figure 7-25. Cab Assembly, Brakes
+
+
+
+7-56                                                                         Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 215 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Brakes
+ Item
+        Part Number     Qty.                       Description                             Remarks
+  No.
+ASSY      1023497        1     Assembly, Brake Pedal                           Includes 1-12
+  1       1009383        1     Master Cylinder
+  2       1010648        1     Boot, Master Cylinder
+  3       1009786        1     Pushrod, Brake
+  4        38277         1     Fitting, Master Cylinder Adapter
+  5     100-6-16-48-5    2     CSHH, 3/8-16 x 3.00, GR5
+  6        302-6         2     Washer, Lock, 3/8
+  7      204-6-16-5      2     Nut, Lock, Stover, 3/8-16, GR5
+  8        1023181       1     Mount, Brake Pedal
+  9      28650SRV        1     Brake Pedal
+  10    100-8-13-60-5    1     CSHH, 1/2-13 x 3.75, GR5
+  11       300-8         2     Washer, Flat, SAE, 1/2
+  12     204-8-13-5      1     Nut, Lock, Stover, 1/2-13, GR5
+  13      1020243        1     Pressure Switch, NO, 30-120PSI, 1/8" Male NPT
+  14       33557         1     Fitting, Tee 02FM, Brass
+  15       39059         2     Fitting, Straight, 02MP-03IFF, Brass
+  16      33953-15       3     Brake Line, .188 x 15                           Not Shown
+  17     33953-50        1     Brake Line, .188 x 50                           Not Shown
+  18     33953-107       2     Brake Line, .188 x 107                          Not Shown
+  19      1010608        1     Decal, Info, Master Cylinder                    Located Inside Cab
+
+
+
+
+                                                                                                            7
+
+
+Rosco RB-50 Broom                                                                                    7-57
+
+=== ORIGINAL PDF PAGE 216 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, STEERING
+                                                                                    3
+
+                                                                                           1 2
+
+
+
+
+                                                                           4
+
+
+
+
+                                                               6
+
+
+
+
+                                                                                           5
+
+
+
+
+                                                    15 14 13
+       18
+              21 20 19                                             7 8 9
+
+                                            10
+
+
+                                                                       7 8 9
+
+                  17
+                                      16
+
+
+
+
+                              7 8 9
+
+                                                          11
+
+                                            12
+
+
+
+                         Figure 7-26. Cab Assembly, Steering
+
+
+
+7-58                                                                           Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 217 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Steering
+Item
+        Part Number          Qty.                       Description                          Remarks
+ No.
+  1         300030            1     Steering Wheel, 17", 36 Spline
+  2         300010            1     Cap, Steering Wheel
+  3         300020            1     Nut, Hex, .813-20
+ASSY        1021625           1     Assembly, Tilt Steering                      Includes Items 4-9
+  4         1021697           1     Column, Tilt Steering, Male Spline w/Boot    Includes Item 5
+  5       1009492-01          1     Gas Spring, Steering Column
+  6       1021697-04          1     Boot
+  7     100-6-16-16-5F        10    CSHH, 3/8-16 x 1.00, GR5, FT
+  8          302-6            10    Washer, Lock, 3/8
+  9          300-6            10    Washer, Flat, SAE, 3/8
+ASSY        1021624           1     Adapter, Tilt Steering
+ 10         1021699           1     Assembly, Steering Motor w/Adapters          Includes Items 10-11
+  11        1021698           1     Motor, Hydraulic, Power Steering, 8.9 CIR
+  12   FS6400-06-06-O         5     Adapter, Straight, -6 ORFS/-6 O-Ring
+ 13    100-M06-1.00-12-8.5    4     CSHH, M6x1.0 x 12mm, C8.8
+  14         302-4            4     Washer, Lock, 1/4
+  15         300-4            4     Washer, Flat, SAE, 1/4
+ 16         1021788           1     Bracket, Mount, Manual Box
+  17        985234            1     Manual-PAK Case
+ 18         988634            1     Decal - Notice, Operator's Manual
+ 19     100-5-18-12-5F        4     CSHH, 5/16-18 x .75, GR5, FT
+ 20          301-5            8     Washer, Flat, USS, 5/16
+  21      204-5-18-5          4     Nut, Lock, Stover, 5/16-18, GR5
+
+
+
+
+                                                                                                               7
+
+
+Rosco RB-50 Broom                                                                                       7-59
+
+=== ORIGINAL PDF PAGE 218 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, SPRING SEAT
+
+
+
+
+                                                                      1
+
+
+
+
+                                                                          11
+
+
+
+
+                                                              7 6 12
+
+
+                         2
+
+
+
+                    7 6 5 4
+
+
+
+
+                    3
+
+
+
+                10 9 8
+
+
+
+
+                             Figure 7-27. Cab Assembly, Spring Seat
+
+
+
+7-60                                                                           Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 219 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Spring Seat
+Item
+        Part Number     Qty.                        Description                  Remarks
+ No.
+ GRP      1015620              Group, Spring Seat
+  1       360010B        1     Assembly, Seat, Black w/Armrest
+  2       140600         1     Suspension Bracketry, Seat, Low
+  3       1015621        1     Pedestal, Spring Seat
+  4     100-5-18-16-5    4     CSHH, 5/16-18 x 1.00, GR5
+  5        300-5         4     Washer, Flat, SAE, 5/16
+  6        302-5         8     Washer, Lock, 5/16
+  7      200-5-18-5      8     Nut, Hex, 5/16-18, GR5
+  8    100-6-16-16-5F    8     CSHH, 3/8-16 x 1.00, GR5, FT
+  9        302-6         4     Washer, Lock, 3/8
+ 10        300-6         4     Washer, Flat, SAE. 3/8
+  11     730-3050        1     Seat Belt, 2.00 w/Hardware
+  12       301-5         8     Washer, Flat, USS, 5/16
+
+
+
+
+                                                                                                  7
+
+
+Rosco RB-50 Broom                                                                          7-61
+
+=== ORIGINAL PDF PAGE 220 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, CONTROLS
+                                                                             1                                                                                                1
+
+
+
+                         49                                            2                                                                                                                     2
+            42
+                                                                                                                                                                                                              4
+                                                                                                                                                                                             5
+                                                                       7
+                                                                                                                                                                                                              6
+                         50                                                                                                                                                                  3
+                                                                       10                                                                                                                              HIGH
+
+
+
+
+                                                                                                                                                                                             8
+            41                                                         11
+
+                                                                                            39141-16                                                                              39141-22
+                                                                                                                                                                                             9
+                                                                       12
+                                                                                                                                                                                             13
+                                                  46 47
+                                                                                                                             F                           R
+
+
+       40
+                                                                       14                                                                                                                    15
+
+                                                                                                                                                                                              16
+                    44
+
+
+
+                                                                       17
+                           47 45                                                                                          1021704-06
+
+
+
+
+                                                                                                                                                                                                  18
+                                                                                                                                             FLOAT
+
+
+
+
+                               43
+                                                                                                                                 BRUSH CONTROL
+
+
+
+
+                                                                                                                                                                                                  19
+
+                                                                                                                                                                                                  25
+                                                                       22                              B
+                                                                                                       R
+                                                                                                                        DECREASE
+
+
+
+
+                                                               21 20
+                                                                                                       U
+                                                                                                       S
+                                                                                                       H
+
+
+                                                                       24     TWO SPEED                S
+                                                                                                       P
+
+
+
+
+                                                                                                                                       1021704-10
+                                                                            HIGH       LOW             E
+
+
+                                                                                                                                                                                              26
+                                                                                                       E
+
+
+                                   48
+                                                                                     1021704-08        D
+
+
+
+
+                                                                       23                                                                            B                                        30
+
+
+                                                                                                                                                         BRUSH DRIVE ENGAGE
+                                                                                                                                                     R
+                                                                                                                                                     U
+                                                                                                                                                     S
+                                                                                                                                                     H
+                                                                                                                                                     N
+                                                                       27                                                                            R
+                                                                                                                                                     O
+                                                                                                                                                     T
+                                                                                                                                                     A
+
+
+                                                                                                                                                                                              28 29
+                                                                                                                                                     T
+                                                                                                                                                     I
+                                                                                                                                                     O
+                                                                                                                                                     N
+                                                                                                                                       1021704-04
+
+
+
+
+                                                                       31
+
+                                                                       32
+
+                                             33      35
+                                        36
+
+                                                                       37
+                                                                                                           1021704-09
+
+
+
+
+                              34
+                                                          39
+                                                                                BRUSH DOWN
+                                                                             PRESSURE CONTROL
+
+
+
+
+                              38
+
+
+
+
+                         Figure 7-28. Cab Assembly, Controls
+
+
+
+7-62                                                                                                                                      Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 221 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Controls
+Item
+         Part Number           Qty.                        Description                           Remarks
+ No.
+  1         35136-6             2     Plug, Hole, .75 Flush Mount, Plastic
+  2          1016102            2     Light, Indicator, Green
+  3       1009253-07            1     Light, Indicator, Red
+  4        1013789-07           1     Decal - Oper, Park Brake
+  5           31986             1     Light, Blue, Dash, .50 Hole
+  6        1021704-16           1     Decal - Oper, High Gear
+  7          1015929            1     PV380 Display
+  8          35426              1     Switch, Fan, 3-SPD w/Knob
+  9         39141-22            1     Decal - Oper, Fan
+ 10         35136-4             1     Plug, Hole, .50, Locking, Plastic
+  11         853090             1     Switch, Wiper/Washer
+  12        39141-16            1     Decal - Oper, Wiper/Washer
+ 13        1013789-01           1     Decal - Oper, Lights/Horn
+ 14         39140-13            1     Switch, Rocker, SPST
+ 15         39140-12            1     Switch, Rocker, SPST, Red
+ 16         39140-14            4     Switch, Rocker, SPST, Amber
+  17        1019658             1     Joystick, FNR w/Brush Control
+ 18        1021704-06           1     Decal - Oper, Brush Control
+ 19          1010672            1     Switch, Emergency Stop, 1-NC
+ 20          35049              1     Knob, .25 Shaft
+  21      1023229SRV            1     Assembly, Brush Speed Potentiometer
+ 22        1021704-10           1     Decal - Oper, Brush Speed
+ 23          851391             1     Switch, Toggle, SPST, 2 -POS
+ 24        1021704-08           1     Decal - Oper, 2 -Speed
+ 25         39140-11            1     Switch, Rocker, SPDT, Paddle
+ 26        1013789-06           2     Decal - Oper, Turn Signal
+ 27          1011147            1     Outlet, 12V
+ 28         1010266             1     Lever, Brush Valve
+ 29          36735              1     Grip, .25 x 1.00 x 4.00
+ 30        1021704-04           1     Decal - Oper, Brush Drive
+ 31         39146-14            1     Switch, Ignition w/Heat St
+  -
+ 32
+ASSY
+           982008-04
+             982689
+             1020371
+                                1
+                                1
+                                1
+                                      Key, Ignition
+                                      Cup Holder
+                                      Assembly, Needle Valve w/Adapters               Includes Items 31-34
+                                                                                                                    7
+ 33          35552              1     Valve, Needle, Hydraulic
+ 34    FS6400-06-06-O           1     Adapter, Straight, -6 ORFS/-6 O-Ring
+ 35    FS6801-06-06-NWO-FG      1     Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring
+ 36           17670             1     Valve Clamp
+ 37        1021704-09           1     Decal - Oper, Brush Crown Pressure
+ 38    F387TCJ5J5060606-24-0    1     Hose Assembly, Motor Valve to Needle Valve      Tag# 122
+
+
+
+
+Rosco RB-50 Broom                                                                                            7-63
+
+=== ORIGINAL PDF PAGE 222 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, CONTROLS (CONT.)
+                                                                            1                                                                                                1
+
+
+
+                         49                                           2                                                                                                                     2
+            42
+                                                                                                                                                                                                             4
+                                                                                                                                                                                            5
+                                                                      7
+                                                                                                                                                                                                             6
+                         50                                                                                                                                                                 3
+                                                                      10                                                                                                                              HIGH
+
+
+
+
+                                                                                                                                                                                            8
+            41                                                        11
+
+                                                                                           39141-16                                                                              39141-22
+                                                                                                                                                                                            9
+                                                                      12
+                                                                                                                                                                                            13
+                                                 46 47
+                                                                                                                            F                           R
+
+
+       40
+                                                                      14                                                                                                                    15
+
+                                                                                                                                                                                             16
+                    44
+
+
+
+                                                                      17
+                          47 45                                                                                          1021704-06
+
+
+
+
+                                                                                                                                                                                                 18
+                                                                                                                                            FLOAT
+
+
+
+
+                               43
+                                                                                                                                BRUSH CONTROL
+
+
+
+
+                                                                                                                                                                                                 19
+
+                                                                                                                                                                                                 25
+                                                                      22                              B
+                                                                                                      R
+                                                                                                                       DECREASE
+
+
+
+
+                                                              21 20
+                                                                                                      U
+                                                                                                      S
+                                                                                                      H
+
+
+                                                                      24     TWO SPEED                S
+                                                                                                      P
+
+
+
+
+                                                                                                                                      1021704-10
+                                                                           HIGH       LOW             E
+
+
+                                                                                                                                                                                             26
+                                                                                                      E
+
+
+                                  48
+                                                                                    1021704-08        D
+
+
+
+
+                                                                      23                                                                            B                                        30
+
+
+                                                                                                                                                        BRUSH DRIVE ENGAGE
+                                                                                                                                                    R
+                                                                                                                                                    U
+                                                                                                                                                    S
+                                                                                                                                                    H
+                                                                                                                                                    N
+                                                                      27                                                                            R
+                                                                                                                                                    O
+                                                                                                                                                    T
+                                                                                                                                                    A
+
+
+                                                                                                                                                                                             28 29
+                                                                                                                                                    T
+                                                                                                                                                    I
+                                                                                                                                                    O
+                                                                                                                                                    N
+                                                                                                                                      1021704-04
+
+
+
+
+                                                                      31
+
+                                                                      32
+
+                                            33      35
+                                       36
+
+                                                                      37
+                                                                                                          1021704-09
+
+
+
+
+                              34
+                                                         39
+                                                                               BRUSH DOWN
+                                                                            PRESSURE CONTROL
+
+
+
+
+                              38
+
+
+
+
+                   Figure 7-28. Cab Assembly, Controls (Cont.)
+
+
+
+7-64                                                                                                                                     Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 223 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Controls (Cont.)
+Item
+        Part Number          Qty.                        Description                        Remarks
+ No.
+ 39    F387TCJCJ9060606-67    1     Hose Assembly, Manifold A2 to Needle Valve   Tag# 123
+ GRP        1015130                 Group - Park Brake                           Includes Items 40-47
+ 40         34299             1     Lever, Park Brake, 12" Handle
+  41         21218            1     Mount, Brake Switch
+ 42       951091224           1     Switch, Safety Start
+ 43          6427             1     Clevis, 5/16-24 UNF w/Pin
+ 44          21217            1     Bracket, Brake Lever
+ 45     100-5-18-12-5F        4     CSHH, 5/16-18 x .75, GR5, FT
+ 46     100-5-18-40-5F        2     CSHH, 5/16-18 x 2.50, GR5, FT
+ 47          302-5            6     Washer, Lock, 5/16
+ 48         1010036           1     Cable, Brake
+ 49         39141-17          1     Decal - Park Brake
+ 50        39141-24           1     Decal - Danger, Run-Away Vehicle
+
+
+
+
+                                                                                                               7
+
+
+Rosco RB-50 Broom                                                                                       7-65
+
+=== ORIGINAL PDF PAGE 224 ===
+Illustrated Parts List (IPL)
+
+
+CAB ASSEMBLY, FUSE PANEL
+       JOYSTICK    PARK BRAKE
+                  BCK UP ALARM
+         10A         10A
+          TWO
+                                          3
+                DESTROKE
+        SPEED OIL COOLER
+          10A      10A
+
+         TRACK
+           UNIT
+           10A
+          BRUSH
+                RADIO
+          SPEED   10A
+           10A
+       RR WORK    FAN
+        LIGHTS
+          10A     10A
+       FR WORK   REAR
+        LIGHTS   WIPER                  LOCATED ON
+          10A     15A
+       BEACON       FRONT                 INSIDE
+                    WIPER
+         10A         15A                 OF PANEL
+        WATER       12V
+        PUMP       OUTLET
+         15A        10A
+        HORN         HEAT
+                     A/C
+         10A         20A
+
+
+                           1021704-14
+
+
+
+
+                                                                                    1
+
+
+
+
+                            FUSE PANEL                                                       7          8
+                                                     1021704-05   2
+
+                                                                      4 5 6                                   9
+
+
+
+
+                                                                              17 16 15 14
+
+
+                                                                                                              10
+
+                                                                                  13                          11
+
+
+
+
+                                                                                                 12
+
+                                                     Figure 7-29. Cab Assembly, Fuse Panel
+
+
+
+7-66                                                                                                  Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 225 ===
+Illustrated Parts List (IPL)
+
+Cab Assembly, Fuse Panel
+Item
+        Part Number     Qty.                       Description                  Remarks
+ No.
+  1       1015587        1     Cover, Wiring Access
+  2      1021704-05      1     Decal - Oper, Fuse Panel
+  3      1021704-14      1     Decal - Oper, Fuse Panel
+  4    100-4-20-12-5F    6     CSHH, 1/4-20 x .75, GR5, FT
+  5        302-4         6     Washer, Lock, 1/4
+  6        300-4         6     Washer, Flat, SAE, 1/4
+  7       1010202        1     Flasher, LED
+  8        34798         1     Clamp, Insulated Band, 1.25 ID
+  9       1016125        4     Bridge Rectifier
+ 10        36085         1     Relay, 12VDC, SPDT, 40A, 5 Pin
+  11       36086         1     Bracket, Relay Mounting
+  12      720290         1     Solenoid, 12V, Constant Duty
+ 13        37118         1     Fuse Holder, Inline, ATC
+ 14       685060         1     Fuse Block, 18 Gang, ATC
+ 15        36340         13    Fuse, 10A, ATC
+ 16        36341         3     Fuse, 15A, ATC
+  17       36342         1     Fuse, 20A, ATC
+
+
+
+
+                                                                                                 7
+
+
+Rosco RB-50 Broom                                                                         7-67
+

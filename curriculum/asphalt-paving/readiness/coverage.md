@@ -1,6 +1,6 @@
 # All 68 competencies: source coverage
 
-Every row identifies acquired supporting context and the remaining technical or delivery work. This is a source map, not a declaration that all competencies have complete lessons or practical approval. Read the [delivery gap register](gaps.html), [tool register](tools.html) and [visual guide](field-guide.html).
+Every row identifies acquired supporting context and the remaining technical or delivery work. All 68 competencies now have authored classroom chapters in the [complete study series](../textbook/series/index.html). This source map records applicability and review work separately from classroom authoring. Read the [delivery gap register](gaps.html), [tool register](tools.html) and [visual guide](field-guide.html).
 
 **Scope:** August 2016 outline, source PDF pp. 22–103; Section 4 is audited separately in the delivery gap register. PDF viewer pages are two greater than printed outline pages.
 
@@ -98,9 +98,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 18: Traffic Control](index.html#ohs-18)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)
 
-**Remaining:** Actual truck manual, haul route, exclusion zones, communication plan and technical unit.
+**Remaining:** Actual truck manual, haul route, exclusion zones, communication plan; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## B3 · Describe safety working around and operating power brooms
 
@@ -108,11 +108,11 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Required context:** Power-broom traffic; rotating brush; noise; airborne dust.
 
-**Acquired sources:** [OHS Regulation, Part 6: Substance Specific Requirements](index.html#ohs-06)<br>[OHS Regulation, Part 7: Noise, Vibration, Radiation and Temperature](index.html#ohs-07)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 18: Traffic Control](index.html#ohs-18)
+**Acquired sources:** [OHS Regulation, Part 6: Substance Specific Requirements](index.html#ohs-06)<br>[OHS Regulation, Part 7: Noise, Vibration, Radiation and Temperature](index.html#ohs-07)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 18: Traffic Control](index.html#ohs-18)<br>[Rosco RB50 operations/service/parts manual](../textbook/series/sources/rosco-rb50-manual.pdf)
 
-**Remaining:** Actual broom manual/parts, dust assessment/controls and technical unit.
+**Remaining:** Actual broom manual/parts, dust assessment/controls; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## B4 · Describe safety working around and operating air hammers
 
@@ -122,9 +122,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CP 1210, CP 1230 and CP 1240: Safety and Operating Instructions](index.html#cp-breaker-manual-alt)<br>[CP 1230 Demolition Tool: Spare Parts List](index.html#cp-1230-manual-pl)<br>[Powered Hand Tools: Pneumatic Tools, Basic Safety](index.html#ccohs-pneumatic-tools)<br>[OHS Regulation, Part 7: Noise, Vibration, Radiation and Temperature](index.html#ohs-07)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)
 
-**Remaining:** Actual tool/air-supply manual and exposure controls; technical unit.
+**Remaining:** Actual tool/air-supply manual and exposure controls; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## B5 · Describe safety working around and operating propane tanks
 
@@ -134,9 +134,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Operating Instruction and Safety Procedures: Models 95-B and 445](index.html#fairview-tiger-torch)<br>[Safe Use of Tiger Torches](index.html#bcforest-tiger-torch)<br>[Chemical Profiles: Propane](index.html#ccohs-propane)<br>[OHS Regulation, Part 5: Chemical and Biological Substances](index.html#ohs-05)<br>[Transportation of Dangerous Goods: Training](index.html#tdg-training)
 
-**Remaining:** Actual complete assembly instructions, supplier SDS, fire controls and technical unit.
+**Remaining:** Actual complete assembly instructions, supplier SDS, fire controls; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## B6 · Describe weather effects and precautions
 
@@ -146,9 +146,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 7: Noise, Vibration, Radiation and Temperature](index.html#ohs-07)<br>[Preventing Heat Stress at Work](index.html#wsbc-heat-stress)
 
-**Remaining:** Site exposure plan, emergency arrangements and technical unit.
+**Remaining:** Site exposure plan, emergency arrangements; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## B7 · Describe safety and traffic control procedures
 
@@ -158,9 +158,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 18: Traffic Control](index.html#ohs-18)<br>[OHS Guidelines, Part 18](index.html#guidelines-18)<br>[Traffic Management Manual for Work on Roadways](index.html#traffic-manual-2020)<br>[Traffic Management Manual Updates](index.html#traffic-updates)
 
-**Remaining:** Road-authority plan, qualified people, TCP credentials where required and technical unit.
+**Remaining:** Road-authority plan, qualified people, TCP credentials where required; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## B8 · Describe plant site and gravel pit safety
 
@@ -170,9 +170,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Health, Safety and Reclamation Code for Mines in British Columbia](index.html#bc-mines-code-2026)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling](index.html#niosh-milling)
 
-**Remaining:** Jurisdiction, actual plant/pit induction, machine manuals and technical unit; NIOSH source covers milling only.
+**Remaining:** Jurisdiction, actual plant/pit induction, machine manuals; NIOSH source covers milling only; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## B9 · Describe light vehicle transporting procedures
 
@@ -182,9 +182,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Cargo Securement](index.html#bc-cargo-securement)<br>[National Safety Code Standard 10: Cargo Securement](index.html#nsc10-cargo-securement)<br>[Cargo Securement Standard: Interpretations and Guidance](index.html#nsc10-interpretations)<br>[Transportation of Dangerous Goods: Training](index.html#tdg-training)
 
-**Remaining:** Actual mass/dimensions, vehicle/anchor ratings, route/permits and technical unit.
+**Remaining:** Actual mass/dimensions, vehicle/anchor ratings, route/permits; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## B10 · Complete fatigue awareness training
 
@@ -194,9 +194,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Fatigue](index.html#ccohs-fatigue)<br>[OHS Regulation, Part 4: General Conditions](index.html#ohs-04)
 
-**Remaining:** Employer scheduling/response arrangements and technical unit.
+**Remaining:** Employer scheduling/response arrangements; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## C1 · Describe crushing process and paving aggregate production
 
@@ -206,9 +206,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 3](../ms-4/reader/chapter-03-01.html)<br>[Health, Safety and Reclamation Code for Mines in British Columbia](index.html#bc-mines-code-2026)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)
 
-**Remaining:** Actual process/site information, plant component manuals and technical unit.
+**Remaining:** Actual process/site information, plant component manuals; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 8 learning tasks.
 
 ## C2 · Describe types and specifications of aggregates
 
@@ -218,9 +218,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 3](../ms-4/reader/chapter-03-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 2](index.html#highway-specs-2025-vol2)
 
-**Remaining:** Specified test methods, material records and technical unit.
+**Remaining:** Specified test methods, material records; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## C3 · Describe asphalt plant operation
 
@@ -230,9 +230,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 7](../ms-4/reader/chapter-07-01.html)<br>[Asphalt Plant Regulation, B.C. Reg. 217/97](index.html#bc-asphalt-reg)<br>[OHS Regulation, Part 12: Tools, Machinery and Equipment](index.html#ohs-12)
 
-**Remaining:** Actual plant OEM manuals, process/permit documents and technical unit.
+**Remaining:** Actual plant OEM manuals, process/permit documents; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## C4 · Describe asphalt products and uses
 
@@ -242,9 +242,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 2](../ms-4/reader/chapter-02-01.html)<br>[MS-4 chapter 15](../ms-4/reader/chapter-15-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)<br>[Supplementary Documents](index.html#mmcd-supplements)
 
-**Remaining:** Licensed MMCD if used, actual product/SDS and contract documents; technical unit.
+**Remaining:** Licensed MMCD if used, actual product/SDS and contract documents; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## D1 · Describe environmentally friendly properties
 
@@ -254,9 +254,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 13](../ms-4/reader/chapter-13-01.html)<br>[Asphalt Plant Regulation, B.C. Reg. 217/97](index.html#bc-asphalt-reg)<br>[Report a Spill](index.html#bc-spill-reporting)
 
-**Remaining:** Project/product environmental evidence; qualify blanket historical assertions; technical unit.
+**Remaining:** Project/product environmental evidence; qualify blanket historical assertions; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## D2 · Describe use of storage areas
 
@@ -266,9 +266,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 7](../ms-4/reader/chapter-07-01.html)<br>[OHS Regulation, Part 5: Chemical and Biological Substances](index.html#ohs-05)<br>[Report a Spill](index.html#bc-spill-reporting)<br>[Chemical Profiles: Propane](index.html#ccohs-propane)
 
-**Remaining:** Actual SDS, storage/spill/waste plan and technical unit.
+**Remaining:** Actual SDS, storage/spill/waste plan; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## D3 · Describe asphalt plant and placement emissions
 
@@ -278,9 +278,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 7](../ms-4/reader/chapter-07-01.html)<br>[Asphalt Plant Regulation, B.C. Reg. 217/97](index.html#bc-asphalt-reg)<br>[OHS Regulation, Part 5: Chemical and Biological Substances](index.html#ohs-05)<br>[OHS Regulation, Part 6: Substance Specific Requirements](index.html#ohs-06)
 
-**Remaining:** Applicable regional permits/rules, exposure assessment and technical unit.
+**Remaining:** Applicable regional permits/rules, exposure assessment; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## E1 · Determine asphalt mix design
 
@@ -290,9 +290,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 4](../ms-4/reader/chapter-04-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)<br>[2025 Standard Specifications for Highway Construction, Volume 2](index.html#highway-specs-2025-vol2)
 
-**Remaining:** Approved design, specified test methods and technical unit.
+**Remaining:** Approved design, specified test methods; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## E2 · Confirm that samples match mix design
 
@@ -302,9 +302,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 2](index.html#highway-specs-2025-vol2)
 
-**Remaining:** Approved sampling method, safe access, sampling equipment and technical unit.
+**Remaining:** Approved sampling method, safe access, sampling equipment; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## E3 · Determine haul truck samples
 
@@ -314,9 +314,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 2](index.html#highway-specs-2025-vol2)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)
 
-**Remaining:** Sampling procedure, traffic coordination and technical unit.
+**Remaining:** Sampling procedure, traffic coordination; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## E4 · Determine compaction levels
 
@@ -326,9 +326,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 9](../ms-4/reader/chapter-09-01.html)<br>[MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction](index.html#troxler-3430-manual)<br>[Portable Nuclear Gauges](index.html#cnsc-gauges-current)<br>[Portable Gauge Quick Reference Guide](index.html#cnsc-gauge-guide-pdf)
 
-**Remaining:** Licence/training arrangements, actual gauge/corer, approved test method and technical unit.
+**Remaining:** Licence/training arrangements, actual gauge/corer, approved test method; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## F1 · Describe drainage, grade and base
 
@@ -338,9 +338,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 5](../ms-4/reader/chapter-05-01.html)<br>[MS-4 chapter 6](../ms-4/reader/chapter-06-01.html)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Project drawings/material specifications and technical unit.
+**Remaining:** Project drawings/material specifications; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## F2 · Verify slopes, crowns and grades
 
@@ -350,9 +350,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Leica NA700 Series Automatic Levels](index.html#leica-level-brochure)<br>[Leica NA700 Series Automatic Levels: Technical Data](index.html#leica-level-datasheet)<br>[MP Metal Professional Measuring Wheels: Counter Alignment](index.html#measuring-wheel)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual level/laser/grade-control manuals, checks, plans and full technical unit.
+**Remaining:** Actual level/laser/grade-control manuals, checks, plans; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Foundation bridge only.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## F3 · Describe final grade preparation
 
@@ -362,9 +362,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[Safety Is a Shared Responsibility: Six Steps to Safe Digging](index.html#bc1call-six-steps)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Locate responses, drawings, grade records and full technical unit.
+**Remaining:** Locate responses, drawings, grade records; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Foundation bridge only.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## G1 · Describe gradation
 
@@ -374,9 +374,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 3](../ms-4/reader/chapter-03-01.html)<br>[MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual contract edition, test method and technical unit.
+**Remaining:** Actual contract edition, test method; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## G2 · Describe oil content
 
@@ -386,9 +386,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 2](../ms-4/reader/chapter-02-01.html)<br>[MS-4 chapter 4](../ms-4/reader/chapter-04-01.html)<br>[MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Approved design, test criteria and technical unit.
+**Remaining:** Approved design, test criteria; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## G3 · Describe application
 
@@ -398,9 +398,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual project acceptance rules and technical unit.
+**Remaining:** Actual project acceptance rules; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## G4 · Describe segregation
 
@@ -410,9 +410,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Project criteria, corrective-action authority and technical unit.
+**Remaining:** Project criteria, corrective-action authority; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## G5 · Describe density
 
@@ -422,9 +422,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 9](../ms-4/reader/chapter-09-01.html)<br>[MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction](index.html#troxler-3430-manual)<br>[Portable Nuclear Gauges](index.html#cnsc-gauges-current)
 
-**Remaining:** Contract criteria, authorized testing arrangement and technical unit.
+**Remaining:** Contract criteria, authorized testing arrangement; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## G6 · Describe smoothness
 
@@ -434,9 +434,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 10](../ms-4/reader/chapter-10-01.html)<br>[2006 BC specification](../sources/design_build_standard_specs_2006.pdf)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Required instruments/methods, contract criteria and technical unit.
+**Remaining:** Required instruments/methods, contract criteria; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## H1 · Describe milling and reclaiming equipment
 
@@ -446,9 +446,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 13](../ms-4/reader/chapter-13-01.html)<br>[CAT source library](../caterpillar/index.html)<br>[Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling](index.html#niosh-milling)
 
-**Remaining:** Actual model/serial parts and operation manuals; technical unit.
+**Remaining:** Actual model/serial parts and operation manuals; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## H2 · Identify milling and reclaiming safety procedures
 
@@ -458,9 +458,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 6: Substance Specific Requirements](index.html#ohs-06)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling](index.html#niosh-milling)
 
-**Remaining:** Actual machine dust controls, exposure/lockout procedures and technical unit.
+**Remaining:** Actual machine dust controls, exposure/lockout procedures; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## H3 · Describe milling and reclaiming operator roles and responsibilities
 
@@ -470,9 +470,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 3: Rights and Responsibilities](index.html#ohs-03)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 15: Rigging](index.html#ohs-15)
 
-**Remaining:** Crew/site responsibilities and technical unit; crane signals use Part 15.
+**Remaining:** Crew/site responsibilities; crane signals use Part 15; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## H4 · Perform milling and reclaiming equipment maintenance
 
@@ -482,9 +482,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[CAT source library](../caterpillar/index.html)<br>[Lever Gun Models 1142, 1147 and 1151: Installation and Maintenance Guide](index.html#lincoln-grease-gun)
 
-**Remaining:** Exact machine maintenance/lubrication charts and technical unit.
+**Remaining:** Exact machine maintenance/lubrication charts; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## H5 · Comply with markers, grades and stakes
 
@@ -494,9 +494,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Leica NA700 Series Automatic Levels](index.html#leica-level-brochure)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual drawings/instruments and full technical unit; EL means elevation.
+**Remaining:** Actual drawings/instruments; EL means elevation; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## H6 · Operate milling and reclaiming equipment
 
@@ -506,9 +506,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 13](../ms-4/reader/chapter-13-01.html)<br>[CAT source library](../caterpillar/index.html)<br>[Best Practice Engineering Control Guidelines to Control Worker Exposure to Respirable Crystalline Silica during Asphalt Pavement Milling](index.html#niosh-milling)
 
-**Remaining:** Actual operator manual, controlled practice and authorized assessment; technical unit.
+**Remaining:** Actual operator manual, controlled practice and authorized assessment; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 7 learning tasks.
 
 ## H7 · Follow shut down procedures
 
@@ -518,9 +518,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[CAT source library](../caterpillar/index.html)
 
-**Remaining:** Exact shutdown/isolation procedure and technical unit.
+**Remaining:** Exact shutdown/isolation procedure; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## H8 · Transport milling and reclaiming equipment
 
@@ -530,9 +530,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [National Safety Code Standard 10: Cargo Securement](index.html#nsc10-cargo-securement)<br>[Cargo Securement Standard: Interpretations and Guidance](index.html#nsc10-interpretations)<br>[Cargo Securement](index.html#bc-cargo-securement)<br>[CAT source library](../caterpillar/index.html)
 
-**Remaining:** Actual machine transport points, trailer/anchors, route and technical unit.
+**Remaining:** Actual machine transport points, trailer/anchors, route; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## I1 · Describe asphalt placement process
 
@@ -542,9 +542,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)
 
-**Remaining:** Actual products, mix, contract and trial evidence; technical unit.
+**Remaining:** Actual products, mix, contract and trial evidence; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 7 learning tasks.
 
 ## I2 · Describe paving machine equipment and attachments
 
@@ -554,9 +554,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Machine parts atlas](../caterpillar/parts-atlas.html)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)
 
-**Remaining:** Actual model/serial comprehensive parts catalogue and full technical unit.
+**Remaining:** Actual model/serial comprehensive parts catalogue; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Component-identification preparation; full technical unit pending.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## I3 · Apply paver work safety procedures
 
@@ -566,9 +566,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 18: Traffic Control](index.html#ohs-18)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)
 
-**Remaining:** Actual paver manual and site procedures; technical unit.
+**Remaining:** Actual paver manual and site procedures; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## I4 · Asphalt paver operator roles and responsibilities
 
@@ -578,9 +578,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 01](../caterpillar/index.html#CAT-01)<br>[OHS Regulation, Part 3: Rights and Responsibilities](index.html#ohs-03)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)
 
-**Remaining:** Crew roles, communications and technical unit.
+**Remaining:** Crew roles, communications; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 8 learning tasks.
 
 ## I5 · Perform paving machine maintenance
 
@@ -590,9 +590,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[Lever Gun Models 1142, 1147 and 1151: Installation and Maintenance Guide](index.html#lincoln-grease-gun)
 
-**Remaining:** Exact paver maintenance chart/intervals and technical unit.
+**Remaining:** Exact paver maintenance chart/intervals; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## I6 · Comply with markers, grades and stakes
 
@@ -602,9 +602,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[Leica NA700 Series Automatic Levels: Technical Data](index.html#leica-level-datasheet)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual plans and grade-control manuals; technical unit.
+**Remaining:** Actual plans and grade-control manuals; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## I7 · Operate asphalt paver
 
@@ -614,9 +614,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[CAT source library](../caterpillar/index.html)
 
-**Remaining:** Actual machine instruction, controlled practice and assessment; technical unit.
+**Remaining:** Actual machine instruction, controlled practice and assessment; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## I8 · Follow shut down procedures
 
@@ -626,9 +626,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)
 
-**Remaining:** Exact machine shutdown/isolation procedure and technical unit.
+**Remaining:** Exact machine shutdown/isolation procedure; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## I9 · Transport paver
 
@@ -638,9 +638,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [National Safety Code Standard 10: Cargo Securement](index.html#nsc10-cargo-securement)<br>[Cargo Securement Standard: Interpretations and Guidance](index.html#nsc10-interpretations)<br>[Cargo Securement](index.html#bc-cargo-securement)<br>[CAT source library](../caterpillar/index.html)
 
-**Remaining:** Actual machine/trailer/anchors and transport plan; technical unit.
+**Remaining:** Actual machine/trailer/anchors and transport plan; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## J1 · Describe paving screed and attachments
 
@@ -650,9 +650,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Machine parts atlas](../caterpillar/parts-atlas.html)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)
 
-**Remaining:** Actual screed/attachment serial parts and OMM; full technical unit.
+**Remaining:** Actual screed/attachment serial parts and OMM; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Screed-identification preparation; full technical unit pending.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## J2 · Apply screed work safety procedures
 
@@ -662,9 +662,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 01](../caterpillar/index.html#CAT-01)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 8: Personal Protective Clothing and Equipment](index.html#ohs-08)
 
-**Remaining:** Exact screed/heat-system procedures and technical unit.
+**Remaining:** Exact screed/heat-system procedures; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## J3 · Describe asphalt screed operator roles and responsibilities
 
@@ -674,9 +674,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[OHS Regulation, Part 3: Rights and Responsibilities](index.html#ohs-03)
 
-**Remaining:** Crew/site responsibilities and technical unit.
+**Remaining:** Crew/site responsibilities; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## J4 · Perform screed maintenance
 
@@ -686,9 +686,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)
 
-**Remaining:** Exact screed service/lubrication/heat-system manuals and technical unit.
+**Remaining:** Exact screed service/lubrication/heat-system manuals; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## J5 · Operate asphalt screed
 
@@ -698,9 +698,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[Industrial IR with Circle Laser: IR-IND / IRK-2 Operating Instructions](index.html#infrared-thermometer)<br>[2025 Standard Specifications for Highway Construction, Volume 1](index.html#highway-specs-2025-vol1)
 
-**Remaining:** Actual controls, depth-check method, project criteria and technical unit.
+**Remaining:** Actual controls, depth-check method, project criteria; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 3 learning tasks.
 
 ## J6 · Follow shut down procedures
 
@@ -710,9 +710,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)
 
-**Remaining:** Exact shutdown/heater/isolation procedure and technical unit.
+**Remaining:** Exact shutdown/heater/isolation procedure; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## K1 · Describe raker roles and responsibilities
 
@@ -722,9 +722,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)<br>[Partner Resource Guide](index.html#seymour-tool-catalogue-2026)
 
-**Remaining:** Crew workflow, project handwork requirements and technical unit.
+**Remaining:** Crew workflow, project handwork requirements; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 1 learning tasks.
 
 ## K2 · Apply raking safety procedures
 
@@ -734,9 +734,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Hand Tools: General Hand Tool Operation](index.html#ccohs-handtools-general)<br>[Shovelling](index.html#ccohs-shovelling)<br>[Preventing Heat Stress at Work](index.html#wsbc-heat-stress)<br>[OHS Regulation, Part 8: Personal Protective Clothing and Equipment](index.html#ohs-08)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)
 
-**Remaining:** Actual handwork/traffic/exposure arrangements and technical unit.
+**Remaining:** Actual handwork/traffic/exposure arrangements; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## K3 · Place asphalt hot mix
 
@@ -746,9 +746,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Light Lute and Lute Assembly Instructions](index.html#lute-instructions)<br>[Gusset Brace Assembly Instructions](index.html#lute-gusset-brace)<br>[Wrap Around Brace Assembly Instructions](index.html#lute-wrap-brace)<br>[Partner Resource Guide](index.html#seymour-tool-catalogue-2026)<br>[MVC-88VGH/VGHW One-Way Plate Compactor: Operation and Parts Manual](index.html#multiquip-plate-manual)<br>[Operating Instruction and Safety Procedures: Models 95-B and 445](index.html#fairview-tiger-torch)<br>[CAT publication 01](../caterpillar/index.html#CAT-01)<br>[MS-4 chapter 8](../ms-4/reader/chapter-08-01.html)
 
-**Remaining:** Exact selected tools, approved handwork/repair procedure and supervised assessment; technical unit.
+**Remaining:** Exact selected tools, approved handwork/repair procedure and supervised assessment; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 2 learning tasks.
 
 ## L1 · Describe compaction equipment
 
@@ -758,9 +758,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [Machine parts atlas](../caterpillar/parts-atlas.html)<br>[CAT publication 02](../caterpillar/index.html#CAT-02)<br>[MS-4 chapter 9](../ms-4/reader/chapter-09-01.html)
 
-**Remaining:** Actual roller model/serial OMM and comprehensive parts; full technical unit.
+**Remaining:** Actual roller model/serial OMM and comprehensive parts; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Roller-identification preparation; full technical unit pending.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## L2 · Apply compaction work safety procedures
 
@@ -770,9 +770,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)<br>[OHS Regulation, Part 8: Personal Protective Clothing and Equipment](index.html#ohs-08)<br>[CAT publication 02](../caterpillar/index.html#CAT-02)
 
-**Remaining:** Actual machine exclusions/operating conditions and site controls; technical unit.
+**Remaining:** Actual machine exclusions/operating conditions and site controls; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## L3 · Describe asphalt Compaction Roller operator roles and responsibilities
 
@@ -782,9 +782,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 02](../caterpillar/index.html#CAT-02)<br>[OHS Regulation, Part 3: Rights and Responsibilities](index.html#ohs-03)<br>[MS-4 chapter 9](../ms-4/reader/chapter-09-01.html)
 
-**Remaining:** Crew workflow and technical unit.
+**Remaining:** Crew workflow; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## L4 · Perform Compaction Roller maintenance
 
@@ -794,9 +794,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[Lever Gun Models 1142, 1147 and 1151: Installation and Maintenance Guide](index.html#lincoln-grease-gun)
 
-**Remaining:** Exact roller maintenance/lubrication chart and technical unit.
+**Remaining:** Exact roller maintenance/lubrication chart; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 6 learning tasks.
 
 ## L5 · Operate Compaction Roller
 
@@ -806,9 +806,9 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT publication 02](../caterpillar/index.html#CAT-02)<br>[MS-4 chapter 9](../ms-4/reader/chapter-09-01.html)<br>[Industrial IR with Circle Laser: IR-IND / IRK-2 Operating Instructions](index.html#infrared-thermometer)<br>[RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of Operation and Instruction](index.html#troxler-3430-manual)<br>[Portable Nuclear Gauges](index.html#cnsc-gauges-current)
 
-**Remaining:** Mix-specific rolling plan, instrument/licence/test requirements and technical unit.
+**Remaining:** Mix-specific rolling plan, instrument/licence/test requirements; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 4 learning tasks.
 
 ## L6 · Follow shut down procedures
 
@@ -818,6 +818,6 @@ Every row identifies acquired supporting context and the remaining technical or 
 
 **Acquired sources:** [CAT source library](../caterpillar/index.html)<br>[OHS Regulation, Part 10: De-energization and Lockout](index.html#ohs-10)<br>[OHS Regulation, Part 16: Mobile Equipment](index.html#ohs-16)
 
-**Remaining:** Exact roller shutdown/parking/isolation procedure and technical unit.
+**Remaining:** Exact roller shutdown/parking/isolation procedure; qualified technical review, fleet/site matching and observed assessment.
 
-**Lesson status:** Not authored as a technical unit.
+**Lesson status:** Classroom study chapter authored; 5 learning tasks.

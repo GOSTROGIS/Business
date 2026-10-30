@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rosco-rb50-manual",
+    "url": "https://www.leeboy.com/wp-content/uploads/2021/04/1017258-03-MANUAL-RB50_WEB.pdf",
+    "final_url": "https://www.leeboy.com/wp-content/uploads/2021/04/1017258-03-MANUAL-RB50_WEB.pdf",
+    "retrieved": "2026-10-30",
+    "file": "sources/rosco-rb50-manual.pdf",
+    "sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80",
+    "bytes": 30133586,
+    "pages": 314
+  },
+  {
+    "id": "metro-air-regulation",
+    "url": "https://metrovancouver.org/services/environmental-regulation-enforcement/air-quality-regulatory-program",
+    "final_url": "https://metrovancouver.org/services/environmental-regulation-enforcement/air-quality-regulatory-program",
+    "retrieved": "2026-10-30",
+    "file": "sources/metro-air-regulation.source.html.txt",
+    "sha256": "272f2b97b64af8177fbdac807290a5b23c778b04bf91b1ca31caf3b99fe7076e",
+    "bytes": 122933,
+    "role": "Current program locator only",
+    "limitation": "Retained response is primarily a JavaScript application shell, not a complete permit or regulatory guidance article. Metro exclusion is established by the separately retained BC Asphalt Plant Regulation."
+  }
+]

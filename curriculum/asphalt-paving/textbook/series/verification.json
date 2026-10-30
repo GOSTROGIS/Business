@@ -1,0 +1,126 @@
+{
+  "checks": 7440,
+  "chapter_count": 61,
+  "learning_tasks": 218,
+  "chapter_activities": 183,
+  "integrated_cases": 7,
+  "manual_source_pages_compared": 314,
+  "local_targets": 2569,
+  "html_fragments": 962,
+  "pdfs": [
+    {
+      "file": "volume-2.pdf",
+      "pages": 55,
+      "bytes": 4656789,
+      "sha256": "61d6326a9bd824ee7c389dae6a14b068f785bbbbf98eb651d96a0a04b11da93a",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-2-answers.pdf",
+      "pages": 27,
+      "bytes": 405017,
+      "sha256": "2942e4c343f934a253f7a3f55b18cb207a61ea28495aa7d03d80e2779c58c805",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-3.pdf",
+      "pages": 67,
+      "bytes": 2232068,
+      "sha256": "cf997daf6a494e33d3823ae5911f2978d7107901caffda04970526b5b4b566f7",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-3-answers.pdf",
+      "pages": 32,
+      "bytes": 482353,
+      "sha256": "50072f1bf1c6285c24b19d7afa8b6f41f85374212bfb8b0fd6d807f4275ac5c7",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-4.pdf",
+      "pages": 53,
+      "bytes": 3654809,
+      "sha256": "b32e770c1aff3a864beb34d382640de4eaf7596633e007b248d3adb1589ea5e5",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-4-answers.pdf",
+      "pages": 27,
+      "bytes": 391186,
+      "sha256": "8f0348647c88fc6510dec41023d006e4c9ab090adf3ffd57f0b56eaa8145e418",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-5.pdf",
+      "pages": 51,
+      "bytes": 5176645,
+      "sha256": "844c71a1adc85d19d1a2e4e1303f5e7c5e330fa34b09fd8277ff2827ef9b92e3",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-5-answers.pdf",
+      "pages": 24,
+      "bytes": 362392,
+      "sha256": "5aaf7a9e0badf89627819dd61c3521d3defcc407b7274b917b066c4c3679e463",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-6.pdf",
+      "pages": 58,
+      "bytes": 6868383,
+      "sha256": "3dbd9786ff488125a2fbf5efb2cf0ffd3db670b6ef10a2a2b46511d29602f50a",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-6-answers.pdf",
+      "pages": 26,
+      "bytes": 389894,
+      "sha256": "83afb7f989a8521d52b6831bceef1ce6e8b0ae3abfb3a002dc31b1dd4374a5ea",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-7.pdf",
+      "pages": 55,
+      "bytes": 4134459,
+      "sha256": "efcee644784dc58a4b8088c6de907179cdab3a69da7f947adb75afafb23deab0",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-7-answers.pdf",
+      "pages": 27,
+      "bytes": 389383,
+      "sha256": "95a068da3dd6d88b8d73e0f17214fcaf9972ca7b2bbc814086cfe1013c9908dd",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-8.pdf",
+      "pages": 44,
+      "bytes": 1796552,
+      "sha256": "fb2feedcca97f9e6e6c3821ac4822390b6dbc53c7afa1061832cb2063867e38f",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    },
+    {
+      "file": "volume-8-answers.pdf",
+      "pages": 21,
+      "bytes": 304290,
+      "sha256": "b5e5fb5b60663698d1921941deddb0f0f8fb6bc0e0575e56b08efc7ffd7bf85b",
+      "near_empty_pages": [],
+      "text_outside_page": []
+    }
+  ],
+  "errors": [],
+  "limits": "Authored classroom coverage and artifact checks. Qualified technical review, actual fleet/site applicability, learner pilot and observed practical qualification are not claimed."
+}

@@ -1,0 +1,67 @@
+{
+  "code": "B8",
+  "title": "Describe plant site and gravel pit safety",
+  "intro": "A plant or gravel pit is an interconnected worksite. Material moves through feeders, crushers, screens, conveyors, stockpiles and vehicles; people may not be able to see the next process from where they stand. A stoppage at one machine can leave others running or material stored above it. Begin with the site induction, responsible supervisor and applicable jurisdiction. A mine/pit operation may be governed by B.C.'s mining safety framework; other workplaces fall under the applicable WorkSafeBC requirements.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define noise hazards and precautions",
+      "text": "Crushing, screening, engines and material impacts can create sustained or changing noise. Hearing protection is selected within the site’s assessed program. It must remain compatible with communication and other PPE; a person who cannot hear a warning needs a safe communication arrangement rather than removing protection in the exposure area.\n\nReview the site’s noise areas, permitted access, signs and protection requirements before entering. Equipment condition and engineering controls influence noise as well as reliability. An unusual sound can be a defect indicator, but approaching the source through a restricted area to investigate is not an appropriate response for an unassigned learner."
+    },
+    {
+      "number": 2,
+      "title": "Describe site specific hazards",
+      "text": "Crushing and entanglement hazards occur at feed openings, belt/pulley nip points, rotating shafts and moving mechanisms. Guards do not authorize reaching through or around them. Isolation must account for connected equipment and stored material/energy when cleaning or maintenance is assigned. A bridge of material can collapse; an idle belt may still be connected to a starting sequence.\n\nVehicle/loader routes, stockpile faces and reversing areas require the site’s controls. Flying debris and dust can extend beyond a machine footprint; assess the material, collection/suppression systems and exposure. Stockpile instability, water edges and restricted plant structures also matter. Follow approved pedestrian routes and do not climb a pile or conveyor to take a better look. Report missing guards, damaged dust controls or access conflicts to the responsible person without entering the hazard."
+    }
+  ],
+  "worked": {
+    "title": "One stopped belt is not the whole system",
+    "case": "Fictional process: feeder → crusher → conveyor → screen → stockpile. The conveyor stops and material begins accumulating upstream. A visitor proposes stepping over it while an operator investigates.",
+    "solution": "A stopped component does not establish isolation or a safe crossing. Accumulation adds a stored-material hazard and connected equipment may restart. Keep the visitor on the authorized route, report the condition and use the site’s controlled shutdown/isolation response. The process map helps identify connected sources; it does not replace the isolation plan."
+  },
+  "activities": [
+    {
+      "id": "B8-01",
+      "prompt": "Trace the process diagram and identify four different hazard mechanisms, including one that remains when motion stops.",
+      "answer": "Examples: crusher impact/crush, belt nip/entanglement, noise/dust, mobile plant and stored-material collapse. Stopped motion does not remove gravity, pressure or automatic restart.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "B8-02",
+      "prompt": "Write a visitor brief for the worked site using only authorized routes and role boundaries. Include the response to an unfamiliar alarm.",
+      "answer": "Brief identifies induction/contact, PPE/noise arrangement, routes, restricted areas and alarm instructions from the site. Learner seeks the actual emergency instruction rather than inventing an alarm meaning.",
+      "skills": [
+        "Writing",
+        "Communication"
+      ],
+      "title": "Write a visitor brief for the worked site using only authorized routes and role boundaries"
+    },
+    {
+      "id": "B8-03",
+      "prompt": "Create a digital process-and-access sketch. A partner removes a guard symbol and blocks a pedestrian route. Record the defects and revise the access plan through the responsible role.",
+      "answer": "Both changes require controlled response; no improvised crossing or work near unguarded machinery. Retain original/revised sketches and each learner’s explanation.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Create a digital process-and-access sketch"
+    }
+  ],
+  "practical": [
+    "Confirm jurisdiction, induction, PPE and permitted observation area for the actual plant/pit.",
+    "Observe route compliance, recognition of noise/dust/mobile-equipment/connected-machine hazards and appropriate reporting.",
+    "Maintenance or confined-space activities require their own authorized instruction and assessment."
+  ],
+  "visuals": [
+    "aggregate-process",
+    "cat-milling-conveyor"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

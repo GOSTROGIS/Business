@@ -1,0 +1,1281 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf
+SOURCE SHA-256: bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80
+ORIGINAL PDF VIEWER PAGES: 276–300 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 276 ===
+Illustrated Parts List (IPL)
+
+
+HYDRAULIC HOSE SCHEDULE - STANDARD UNIT
+ Hose
+  No.   Qty.                  Part Number                                Description
+
+ GRP           1022904                               MAIN HOSE KIT
+
+   1     1     F797TCJCJC161616-19                   PUMP A TO MOTOR A
+
+  2      1     F797TCJCJ9161616-30                   PUMP B TO MOTOR B
+
+  4      1     F387TCJCJC060606-14                   PUMP SERVO GAGE M4 TO DESTROKE VALVE
+
+  5      1     F387TCJCJC060606-26                   PUMP SERVO GAGE M5 TO DESTROKE VALVE
+
+  6      1     F387TCJCJC121212-19                   PUMP CASE OUTLET TO TANK
+
+   7     1     F387TCJCJ7121212-71-AS-B-19-67        COOLER TO CHARGE PUMP INLET
+
+  8      1     F387TCJCJ7121212-52                   MOTOR CASE DRAIN TO FILTER
+
+  9      1     F387TCJCJ5121212-44-AS-B-19-40.75     FILTER TO COOLER
+
+  10     1     F387TCJCJ9121212-27                   COOLER TO TANK
+
+  101    1     F387TCJCJ1121212-113-AS-B-19-35       MOTOR VALVE A TO BRUSH MOTOR B
+
+  102    1     F387TCJCJ9121212-32                   BRUSH SPEED VALVE 1 TO MOTOR VALVE
+
+ 105     1     F387TCJCJ9060606-26                   PUMP GAGE PORT TO SOLENOID VALVE 3
+ 106     1     F387TCJCJ1060606-34                   SOLENOID VALVE 1 TO MOTOR X1
+
+  107    1     F387TCJCJ7060606-35                   MANIFOLD A1 TO PIVOT CYLINDER ROD END
+
+ 108     1     F387TCJCJ5060606-77-AS-B-13-74.75     MANIFOLD T TO LIFT CYLINDER
+
+ 109     1     F387TCJCJC060606-46                   MANIFOLD B1 TO PIVOT CYLINDER
+
+  110    1     F387TCJCJ9060606-63                   MANIFOLD T TO MOTOR VALVE
+
+  111    1     F387TCJCJC060606-68-AS-B-13-66.25     MANIFOLD A2 TO LIFT CYLINDER
+
+  112    1     F387TCJCJC060606-66-AS-B-13-25        AUX PUMP TO STEERING MOTOR IN
+
+  113    1     F387TCJCJ9060606-17-AS-B-13-15        MANIFOLD P TO STEERING MOTOR AUX
+  119    1     K811HTJCJ9161616-38                   TANK TO PUMP
+
+  121    1     F387TCJCJ5121212-110-AS-B-19-39       MOTOR VALVE B TO BRUSH MOTOR A
+
+  122    1     F387TCJ5J5060606-24-0                 MOTOR VALVE TO NEEDLE VALVE
+
+  123    1     F387TCJCJ9060606-67                   MANIFOLD A2 TO NEEDLE VALVE
+
+  124    1     F387TCJCJ9060606-117-AS-B-13-113.75   STEERING MOTOR RT TO STEER CYLINDER
+
+  125    1     F387TCJCJC060606-106-AS-B-13-104.25   STEERING MOTOR LT TO STEER CYLINDER
+
+ 130     1     F387TCJCJ9060606-50                   STEERING MOTOR OUT TO MOTOR VALVE
+
+ 134     1     F387TCJCJ7121212-60-AS-B-19-25        MOTOR VALVE TO FILTER
+
+  137    1     F387TCJCJC060606-20                   SOLENOID VALVE 2 TO TANK
+
+ 140     1     F387TCJCJC121212-36                   AUX PUMP TO BRUSH SPEED VALVE 1
+
+  141    1     F387TCJCJ9121212-29                   BRUSH SPEED VALVE 2 TO TANK
+
+
+
+
+7-118                                                                                  Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 277 ===
+Illustrated Parts List (IPL)
+
+
+HYDRAULIC HOSE SCHEDULE - OPTIONS
+Hose
+ No.   Qty.             Part Number                               Description
+
+GRP           1023243                 FNR PEDAL HOSE KIT
+  1     1     F387TCJCJC040404-94     PUMP X1 TO PEDAL 1
+
+  2     1     F387TCJCJC040404-95     PUMP X2 TO PEDAL 2
+
+  3     1     F387TCJCJC040604-85     PUMP GAGE PORT TO PEDAL P
+
+  4     1     F387TCJCJC060606-85     PEDAL T TO TANK
+
+Hose
+ No.   Qty.             Part Number                               Description
+
+ GRP          1020525                 SNOW PLOW HOSE KIT
+
+  2     1     F387TCJCJC060606-130    LIFT CYLINDER BACK END TO TANK
+
+  3     1     F387TCJCJC060606-128    SNOW PLOW VALVE A2 TO LIFT CYLINDER ROD END
+
+  4     1     F387TCJCJC060606-156    SNOW PLOW VALVE A1 TO LEFT PIVOT CYLINDER
+
+  5     1     F387TCJCJC060606-142    SNOW PLOW VALVE B1 TO RIGHT PIVOT CYLINDER
+
+  6     1     F387TCJCJ9060606-26     FLOW DIVIDER 2 TO MAIN MANIFOLD P
+
+  7     1     F387TCJCJ9060606-20     FLOW DIVIDER 4 TO SNOW PLOW MANIFOLD P
+
+  8     1     F387TCJ7JC060606-33     MAIN MANIFOLD T TO SNOW PLOW MANIFOLD T
+
+ 113    1     F387TCJCJC060606-17     STEERING MOTOR AUX TO FLOW DIVIDER 3
+Hose
+ No.   Qty.             Part Number                               Description
+
+ GRP          1020529                 CURB BRUSH HOSE KIT
+
+  1     1     F387TCJCJC060606-22     HOSE, HYDRAULIC, FLOW DIVIDER EXCESS FLOW TO CURB BRUSH VALVE P
+
+  2     1     F387TCJCJS060806-32     HOSE, HYDRAULIC, CURB BRUSH VALVE T TO RELIEF VAVLE RETURN
+  3     1     F387TCJCJ9161616-35     HOSE, HYDRAULIC, TANK TO AUX PUMP INLET
+
+  4     1     F387TCJCJC080808-21     HOSE, HYDRAULIC, AUX PUMP REAR OUTLET TO RELIEF VALVE INLET
+
+  5     1     F387TCJCJC060606-45     HOSE, HYDRAULIC, RELIEF VALVE OUT TO TANK
+
+  6     1     F387TCJCJC060606-146    HOSE, HYDRAULIC, CURB BRUSH VALVE A2 TO LIFT CYCLINDER ROD END
+
+
+
+
+                                                                                                               7
+  7     1     F387TCJCJC060606-136    HOSE, HYDRAULIC, CURB BRUSH VALVE T TO LIFT CYLINDER BACK END
+
+  8     1     F387TCJCJC060606-184    HOSE, HYDRAULIC, CURB BRUSH VALVE A1 TO BRUSH MOTOR A
+
+  9     1     F387TCJCJC060606-184    HOSE, HYDRAULIC, CURB BRUSH VALVE B1 TO BRUSH MOTOR B
+
+
+
+
+Rosco RB-50 Broom                                                                                      7-119
+
+=== ORIGINAL PDF PAGE 278 ===
+Alphabetical Parts Index
+
+
+ALPHABETICAL PARTS INDEX
+                                                                                 Figure   Item
+                       Description                          Part No.
+                                                                                  No.      No.
+ 1/2 Low Pressure Hose - Black (Per Foot)                     6352                 7-41    14
+ 1/2 Low Pressure Hose - Black x 3.00"                         REF                 7-41   14A
+ 1/2 Low Pressure Hose - Black x 36.00”                        REF                 7-41   14C
+ 1/2 Low Pressure Hose - Black x 72.00”                        REF                 7-41   14B
+ 12V Battery, 770 CCA, 950 CA, Group 34                PURCHASE LOCALLY            7-14   20
+ 12V Starter, 2.2KW                                         1015794-15             7-14    11
+ 14V/110A Alternator                                        1015794-16             7-14    4
+ 90° Fitting, 08MP-08HB, Poly                                 70319                7-41   20
+
+
+ -A-
+ A/C Thermostat                                             36745-19               7-31    6
+ AC Belt Idler                                             1015794-32              7-14    17
+ AC Belt Idler                                             1015794-32              7-30    10
+ AC Belt Tensioner                                          1015794-31             7-14    16
+ AC Belt Tensioner                                          1015794-31             7-30    11
+ AC Compressor                                             1015794-30              7-14    14
+ AC Main Mounting Bracket                                 1015794-33               7-14    15
+ AC Main Mounting Bracket                                  1015794-33             7-30     8
+ AC Support Bracket                                        1015794-34              7-14    18
+ AC Support Bracket                                        1015794-34             7-30     9
+ AC Support Strap                                          1015794-35              7-14    19
+ Access Port                                                 1006804               7-9     5
+ Access Port                                                 1006804               7-10    6
+ Accuseal Clamp, 2.00”                                       1015876               7-13    10
+ Adapter Elbow, 90°, -6 ORFS/-6 NPTF, .078 Orifice    FS2501-06-06-FG x 078        7-45    16
+ Adapter Elbow, 90°, -6 ORFS/-6 O-Ring                FS6801-06-06-NWO-FG          7-45    7
+ Adapter, Branch Tee, -12 ORFS/-12 ORFS/-12 O-Ring   FS6803-12-12-12-NWO-FG        7-17    2
+ Adapter, Branch Tee, -12 ORFS/-12 ORFS/-12 O-Ring   FS6803-12-12-12-NWO-FG        7-35    4
+ Adapter, Branch Tee, -6 ORFS/-6 ORFS/-6 O-Ring      FS6803-06-06-06-NWO-FG       7-43     3
+ Adapter, Branch Tee, -8 ORFS/-8 ORFS/-8 NPT           FS2601-08-08-08-FG         7-43     11
+Adapter, Branch Tee, Swivel, -12 ORFS                   FS6600-12-12-12-FG         7-16    5
+Adapter, Bulkhead, Test Port to -4 IRFS                      1019707               7-18   26
+Adapter, Cap, ORFS, -16                                    FS0304-C-16             7-10   26
+Adapter, Elbow, 45°, -6 ORFS/-6 O-Ring                FS6802-06-06-NWO-FG         7-46     4
+Adapter, Elbow, 45°, -6 ORFS/-6 O-Ring                FS6802-06-06-NWO-FG          7-20    5
+
+
+
+
+7-120                                                                         Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 279 ===
+Alphabetical Parts Index
+
+                                                                                   Figure   Item
+                     Description                               Part No.
+                                                                                    No.      No.
+Adapter, Elbow, 45°, -8 ORFS/-8 NPTF                       FS2503-08-08-FG          7-43     12
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-46     5
+Adapter, Elbow, 90°, -06 ORFS/-06 O-Ring                 FS6801-06-06-NWO-FG        7-37     2
+Adapter, Elbow, 90°, -12 ORFS/-10 ORFS                    FS6801-12-10-NWO-FG       7-35     8
+Adapter, Elbow, 90°, -12 ORFS/-10 O-Ring                  FS6801-12-10-NWO-FG       7-8     46
+Adapter, Elbow, 90°, -12 ORFS/-10 O-Ring                  FS6801-12-10-NWO-FG       7-19     4
+Adapter, Elbow, 90°, -12 ORFS/-12 O-Ring                  FS6801-12-12-NWO-FG       7-5      5
+Adapter, Elbow, 90°, -12 ORFS/-12 O-Ring                  FS6801-12-12-NWO-FG       7-10     10
+Adapter, Elbow, 90°, -12 ORFS/-12 O-Ring                  FS6801-12-12-NWO-FG       7-17     5
+Adapter, Elbow, 90°, -12 ORFS/-12 O-Ring                 FS6801--12-12-NWO-FS       7-44     5
+Adapter, Elbow, 90°, -12 ORFS/-16 O-Ring                  FS6801-12-16-NWO-FG       7-15     6
+Adapter, Elbow, 90°, -12 ORFS/-16 O-Ring                  FS6801-12-16-NWO-FG       7-16     14
+Adapter, Elbow, 90°, -12 ORFS/-16 O-Ring                  FS6801-12-16-NWO-FG       7-37     6
+Adapter, Elbow, 90°, -16 ORFS/-12 O-Ring                 FS6801--16-12-NWO-FS       7-44     3
+Adapter, Elbow, 90°, -16 ORFS/-16 O-Ring                  FS6801-16-16-NWO-FG       7-5      4
+Adapter, Elbow, 90°, -16 ORFS/-16 O-Ring                  FS6801-16-16-NWO-FG       7-15     7
+Adapter, Elbow, 90°, -16 ORFS/-16 O-Ring                  FS6801-16-16-NWO-FG       7-17     6
+Adapter, Elbow, 90°, -16 ORFS/-16 O-Ring                  FS6801-16-16-NWO-FG       7-37     7
+Adapter, Elbow, 90°, -6 JIC/-4 O-Ring                        6804-6-4 NWO           7-9      8
+Adapter, Elbow, 90°, -6 ORFS/-6 ORFS                       FS6500-06-06-FG          7-35     7
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-10     18
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-15     2
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-18     4
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-20     6
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-28    35
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring                   FS6801-06-06-NWO-FG        7-43     5
+Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring, .030 Orifice   FS6801-06-06-NWO-FG X 030    7-5      6
+Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring                   FS6801-06-08-NWO-FG        7-6     44
+Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring                   FS6801-06-08-NWO-FG        7-15     11
+Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring                   FS6801-06-08-NWO-FG        7-19     8
+Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring                   FS6801-06-08-NWO-FG        7-37     14
+Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring                   FS6801-06-08-NWO-FG        7-43     8
+Adapter, Elbow, 90°, -6 ORFS--6 O-Ring                   FS6801-06-06-NWO-FG        7-7      16
+Adapter, Elbow, 90°, -8 ORFS/-10 O-Ring                  FS6801--08-10-NWO-FS       7-44     4
+Adapter, Elbow, 90°, Swivel, -12 ORFS/-12 ORFS              FS6500-12-12-FG         7-8     48
+Adapter, Elbow, 90°, Swivel, -12 ORFS/-12 ORFS              FS6500-12-12-FG         7-10     12
+Adapter, Elbow, 90°, Swivel, -12 ORFS/-12 O-Ring            FS6500-12-12-FG         7-19     10
+
+
+
+
+Rosco RB-50 Broom                                                                            7-121
+
+=== ORIGINAL PDF PAGE 280 ===
+Alphabetical Parts Index
+
+                                                                                    Figure   Item
+                      Description                              Part No.
+                                                                                     No.      No.
+ Adapter, Elbow, 90°, Swivel, -6 ORFS/-6 O-Ring            FS6500-06-06-FG            7-19    5
+ Adapter, Plug, -6 O-Ring                                      6408-6-O               7-10    16
+ Adapter, Plug, O-Ring, -4                                     6408-4-O               7-9     7
+ Adapter, Reducer, Straight, -12 FFORX/-6 ORFS               FS2406-12-06             7-17    3
+ Adapter, Reducer, Straight, -12 FFORX/-6 ORFS               FS2406-12-06             7-19    3
+ Adapter, Reducer, Straight, -12 FFORX/-6 ORFS               FS2406-12-06             7-35    5
+ Adapter, Reducer, Straight, -12 FFORX/-8 ORFS               FS2406-12-08             7-35    3
+ Adapter, Run Tee, -12 ORFS/-12 O-Ring/12 ORFS          FS6804-12-12-12-NWO-FG        7-35    2
+ Adapter, Run Tee, -12 ORFS/-12 O-Ring/-12 ORFS         FS6804-12-12-12-NWO-FG        7-10    11
+ Adapter, Run Tee, -12 ORFS/-12 O-Ring/-12 ORFS         FS6804-12-12-12-NWO-FG        7-18    17
+ Adapter, Run Tee, -12 ORFS/-12 O-Ring/-12 ORFS         FS6804-12-12-12-NWO-FG        7-19    2
+ Adapter, Run Tee, -12 ORFs/-12 O-Ring/-16 ORFS         FS6804-12-12-16-NWO-FG        7-10    22
+ Adapter, Run Tee, -4 ORFS/-4 O-Ring/-4 ORFS            FS6804-04-04-04-NWO-FG        7-37    9
+ Adapter, Run Tee, -6 ORFS/-6 ORFS/-6 ORFS                FS6602-06-06-06-FG          7-46    3
+ Adapter, Run Tee, -6 ORFS/-6 O-Ring/-6 ORFS            FS6804-06-06-06-NWO-FG        7-20    2
+ Adapter, Run Tee, -6 ORFS/-6 O-Ring/-6 ORFS            FS6804-06-06-06-NWO-FG        7-37    8
+ Adapter, Run Tee, -6 ORFS/-6 O-Ring/-6 ORFS            FS6804-06-06-06-NWO-FG        7-46    2
+ Adapter, Run Tee, Swivel, -16 ORFS/-16 ORFS/-16 ORFS      FS6602-16-16-16-FG         7-44    6
+ Adapter, Run Tee, Swivel, -6 ORFS                        FS6602-06-06-06-FG          7-10    19
+ Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-4 ORFS        FS-6602-06-06-04-FG         7-18    5
+ Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-6 ORFS        FS6602-06-06-06-FG          7-19    6
+ Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-6 ORFS        FS6602-06-06-06-FG          7-35    6
+ Adapter, Run Tee, Swivel, -6 ORFS/-6 ORFS/-6 ORFS        FS6602-06-06-06-FG          7-44    7
+ Adapter, Straight, -12 ORFS/-10 O-Ring                     FS6400-12-10-O            7-8     47
+ Adapter, Straight, -12 ORFS/-10 O-Ring                     FS6400-12-10-O            7-15    12
+ Adapter, Straight, -12 ORFS/-10 O-Ring                     FS6400-12-10-O            7-37    15
+ Adapter, Straight, -12 ORFS/-10 O-Rings                    FS6400-12-10-O            7-18    21
+ Adapter, Straight, -12 ORFS/-12 O-Ring                     FS6400-12-12-O            7-10    17
+ Adapter, Straight, -12 ORFS/-12 O-Ring                     FS6400-12-12-O            7-15    4
+ Adapter, Straight, -12 ORFS/-12 O-Ring                     FS6400-12-12-O            7-19    11
+ Adapter, Straight, -12 ORFS/-12 O-Ring                     FS6400-12-12-O            7-37    4
+ Adapter, Straight, -12 ORFS/-12 O-Rings                    FS6400-12-12-O            7-18    18
+ Adapter, Straight, -12 ORFS/-16 O-Ring                     FS6400-12-16-O            7-16    4
+ Adapter, Straight, -12 O-Ring/-8 NPTF                        6401-12-8-O             7-43    10
+ Adapter, Straight, -16 ORFS/-16 O-Ring                     FS6400-16-16-O            7-10   25
+ Adapter, Straight, -16 ORFS/-16 O-Ring                     FS6400-16-16-O            7-15    5
+ Adapter, Straight, -16 ORFS/-16 O-Ring                     FS6400-16-16-O            7-17    8
+
+
+
+
+7-122                                                                            Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 281 ===
+Alphabetical Parts Index
+
+                                                                            Figure   Item
+                         Description                       Part No.
+                                                                             No.      No.
+Adapter, Straight, -16 ORFS/-16 O-Ring                  FS6400-16-16-O       7-37     5
+Adapter, Straight, -16 ORFS/-16 O-Ring                  FS6400-16-16-O       7-44     2
+Adapter, Straight, -20 ORFS/-20 O-Ring                 FS6400-20-20-O        7-10     28
+Adapter, Straight, -4 ORFS/-4 O-Ring                   FS6400-04-04-O        7-36     5
+Adapter, Straight, -4/Swivel ORFS/-4 O-Ring               4_G65L-S           7-37     10
+Adapter, Straight, -6 ORFS/-12 O-Ring                  FS6400-06-12-O        7-43     9
+Adapter, Straight, -6 ORFS/-4 O-Ring                   FS6400-06-04-O        7-36     4
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-15     3
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-19     9
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-20     4
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-26     12
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-28     34
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-37     3
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-43     4
+Adapter, Straight, -6 ORFS/-6 O-Ring                   FS6400-06-06-O        7-46     13
+Adapter, Straight, -6 ORFS/-6 O-Ring, .078 Orifice   FS6400-06-06-O X 078    7-7      17
+Adapter, Straight, -6 ORFS/-6 O-Ring, .078 Orifice   FS6400-06-06-O X 078    7-20     3
+Adapter, Straight, -6 ORFS/-6 O-Rings                  FS6400-06-06-O        7-18     13
+Adapter, Tilt Steering                                     1021624           7-26    ASSY
+Adapter, Union, -16 O-Ring/-16 O-Ring                  6407-16-16 NWO        7-10     23
+Adjustment Pin                                              29130            7-42     30
+Adjustment Plate Weldment                                   28943            7-42     8
+Air & Water Radiator                                      1015794-20         7-12     1
+Air Conditioner Compressor                                1015794-30         7-30     7
+Air Conditioner Dryer                                     36745-07           7-30     13
+Air Conditioner/Heat Hose Kit                              1016157           7-30    REF
+Air Conditioner/Heater Filter Spacer                       1016314           7-30     3
+Air Conditioner/Heater Kit                                 1020046           7-30     1
+Air Conditioner/Heater Mount Weldment                      1015616           7-30     2
+Air Filter Assembly                                       1015794-58         7-13     6
+Air Intake Pipe Weldment                                   1015788           7-13     2
+Air Intake, Extended                                       1023083           7-49     1
+Alarm, Back Up                                              33963            7-21     34
+Amber Lightbar, LED, 16"                                   1018573           7-48     1
+Antenna, AM/FM, Flexible                                   1002021           7-40     3
+Anti-Skid, Cab, Center                                    1015035-05         7-22     14
+Arm, Wiper, 14"                                            1021648           7-21     21
+
+
+
+
+Rosco RB-50 Broom                                                                    7-123
+
+=== ORIGINAL PDF PAGE 282 ===
+Alphabetical Parts Index
+
+                                                                        Figure   Item
+                      Description                        Part No.
+                                                                         No.      No.
+ Arm, Wiper, 14"                                         1021646          7-34    4
+ Assembly, 2 Speed Solenoid w/ORFS Adapters              1020495          7-18   ASSY
+ Assembly, Axle, Front Fenders                           1024307          7-47   ASSY
+ Assembly, Brake Pedal                                   1023497          7-25   ASSY
+ Assembly, Brake Pedal                                   1023497         7-36    ASSY
+ Assembly, Brush Drive Valve w/ORFS Adapters              1021513         7-19   ASSY
+ Assembly, Brush Motor w/ORFS Adapters                   1020376          7-8    ASSY
+ Assembly, Brush Speed Potentiometer                    1023229SRV        7-28    21
+ Assembly, Brush Speed Solenoid w/ORFS Adapters          1022095          7-18   ASSY
+ Assembly, Cab Door                                      1023440          7-24   ASSY
+ Assembly, Casted Hub, Idler Comer                        1011707         7-6    ASSY
+ Assembly, Curb Brush Controls                           1020531         7-43    ASSY
+ Assembly, Curb Brush Valve w/ORFS Adapters              1020532         7-43    ASSY
+ Assembly, Destroke Solenoid w/ORFS Adapters             1020496          7-18   ASSY
+Assembly, Flow Divider & Relief Valve w/ORFS Adapters    1020533         7-43    ASSY
+Assembly, Flow Divider w/ORFS Adapters                   1024785         7-46    ASSY
+Assembly, Foot Pedal w/ORFS Adapters                     1023496         7-36    ASSY
+Assembly, Fuel Tank, 30 GAL                              1021896          7-9    ASSY
+Assembly, Hydraulic Tank w/ORFS Adapters                  1021145         7-10   ASSY
+Assembly, Lift Cylinder w/ORFS Adapters                  1020377          7-7    ASSY
+Assembly, Lift Cylinder w/ORFS Adapters                  1020527         7-45    ASSY
+Assembly, Manifold w/ORFS Adapters                       1023126          7-20   ASSY
+Assembly, Mirror Cluster, LH                             1021678          7-21    2
+Assembly, Mirror Cluster, RH                             1021679          7-21    1
+Assembly, Motor w/ORFS Adapters                          1020372          7-1     7
+Assembly, Motor w/ORFS Adapters                          1020372          7-5    ASSY
+Assembly, Needle Valve w/Adapters                        1020371          7-28   ASSY
+Assembly, Oil Cooler w/Adapters                          1020497          7-16   ASSY
+Assembly, Pivot Cylinder w/ORFS Adapters                 1020378          7-7    ASSY
+Assembly, Plow Shoe                                      38224-05        7-45     3
+Assembly, Pump Drive Plate                              1015794-52        7-15    22
+Assembly, Pump Drive Plate                              1015794-52        7-37    20
+Assembly, Pump w/ORFS Adapters                           1020530         7-44    ASSY
+Assembly, Pumps w/Adapters                               1020374          7-15   ASSY
+Assembly, Pumps w/Adapters                               1023528          7-37   ASSY
+Assembly, Return Filter w/Adapters                       1020370          7-10   ASSY
+Assembly, Seat, Black w/Armrest                          360010B          7-27    1
+
+
+
+
+7-124                                                                Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 283 ===
+Alphabetical Parts Index
+
+                                                                              Figure   Item
+                          Description                   Part No.
+                                                                               No.      No.
+Assembly, Steering Axle                                 1009423                7-1      6
+Assembly, Steering Axle                                 1009423                7-6     ASSY
+Assembly, Steering Axle                                 1009423                7-47     1
+Assembly, Steering Motor w/Adapters                     1021699                7-26     10
+Assembly, Swing Cylinder w/ORFS Adapters                1020528                7-45    ASSY
+Assembly, Tilt Steering                                 1021625                7-26    ASSY
+Assembly, Tire & Wheel                                  1009432                7-50     4
+Assembly, Tire & Wheel, 15x6                            1009432                7-1     ASSY
+Assembly, Valve w/ORFS Adapters, Snow Plow              1020526                7-46    ASSY
+Assembly, Vandalism Cover, Spare Tire                  1017980SRV              7-50     1
+Assembly, Water Tank, 150 GAL                         1012308SRV               7-41    ASSY
+Aux Pump to Steering Motor In                F387TCJCJC060606-66-AS-B-13-25    7-19     13
+Axle Mounting Plate                                     1016659                7-1      5
+
+
+-B-
+Baffle, Lower Radiator                                  1016327                7-21     36
+Baffle, Lower Radiator, Formed                          1015915                7-21     35
+Baffle, Radiator, Rubber                                1015819                7-11     25
+Ball Joint - Left                                        36757                 7-6      34
+Ball Joint - Right                                       36756                 7-6      32
+Ball Joint, Steering Cylinder End                        36755                 7-6      24
+Ball Valve, 1/2 (Brass)                                  32874                 7-30     6
+Bar, Intake Support, Extended                           1023082                7-49     2
+Base, Louver                                              REF                  7-31     10
+Battery Hold Down Pad                                    410050                7-14     22
+Battery Hold Down Strap                                150042SRV               7-14     21
+Beacon Light, Amber, Strobe, LED                        1013231                7-21     31
+Bearing 30214                                          1006327-10              7-4      6
+Bearing 32012X                                         1006327-13              7-4      3
+Bearing Cone                                             610210                7-6      20
+Bearing Cone                                             36828                 7-7      10
+Bearing Cone, Wheel Hub, Outer                          340180                 7-6      17
+Bearing Cup                                              610200                7-6      19
+Bearing Cup, Wheel Hub, Outer                            340170                7-6      18
+Bearing Flange, 4 Bolt, 1.50                             312030                7-42     4
+Bearing Flange, 4 Bolt, 1.50 w/Set Screw                 312030                7-8      30
+Bevel Crown Z=38                                       1006327-24              7-3      1
+
+
+
+
+Rosco RB-50 Broom                                                                      7-125
+
+=== ORIGINAL PDF PAGE 284 ===
+Alphabetical Parts Index
+
+                                                        Figure   Item
+                          Description    Part No.
+                                                         No.      No.
+ Bevel Pinion Z=9                       1006327-25        7-3     2
+ Blade, Wiper, 16"                      12755028          7-21    22
+ Blade, Wiper, 16"                       1021649          7-34    5
+ Blower Plate                           36745-26          7-31    19
+ Blowing Unit, Broom A/C                 1021528          7-31    21
+ Bolt, Striker, 2.75" Long               1020242          7-24    13
+ Boot                                   1021697-04        7-26    6
+ Boot, Master Cylinder                   1010648          7-25    2
+ Boot, Master Cylinder                   1010648         7-36     12
+ Brace, Mirror                           856986           7-21    5
+ Bracket, Beacon Light                   1015786          7-21   32
+ Bracket, Brake Lever                     21217           7-28   44
+ Bracket, Clap Mount                     1018739          7-32    9
+ Bracket, Control Cable                  1009333          7-15    9
+ Bracket, Door Latch                     1021687          7-24    18
+ Bracket, Mount, Manual Box              1021788          7-26    16
+ Bracket, Relay Mounting                  36086           7-29    11
+ Brake Bleeder M10x1                    1006327-08        7-4     19
+ Brake Disc                             1006327-01        7-4     1
+ Brake Fulcrum Pin                      1006327-49        7-3    25
+ Brake Lever                            1006327-53        7-3    30
+ Brake Lever Pin                        1006327-51        7-3    28
+ Brake Line, .188 x 107                 33953-107         7-25    18
+ Brake Line, .188 x 15                   33953-15         7-25    16
+ Brake Line, .188 x 50                  33953-50          7-25    17
+ Brake Pedal                            28650SRV          7-25    9
+ Brake Pedal                            28650SRV         7-36     15
+ Brake piston                           1006327-02        7-4     8
+Brake Ring                              1006327-06        7-4     16
+ Brake Shoe Pair                        1006327-56        7-3    33
+Bridge Rectifier                         1016125          7-29    9
+Broom Air Conditioner Condenser         1013712-01       7-30     12
+Brush Core Assembly                       28766           7-7     -
+Brush Core Assembly                       28766           7-7     -
+Brush Cover                              1021079          7-8     1
+Brush Drive Hub Assembly                  39138           7-8    29
+Brush Frame                              1017474          7-8     18
+
+
+
+
+7-126                                                Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 285 ===
+Alphabetical Parts Index
+
+                                                                       Figure   Item
+                        Description                   Part No.
+                                                                        No.      No.
+Brush Frame Assembly and Drive Components                REF            7-7      1
+Brush Motor Mount Weldment                             28928            7-42     3
+Brush Motor Plate                                      28925            7-42     2
+Brush Pivot Pin                                        1015845          7-8      19
+Brush Pivot Pin Weldment                               1015845          7-7      17
+Brush Pivot Weldment                                   1015652          7-7      12
+Brush Speed Valve 1 to Motor Valve               F387TCJCJ9121212-32    7-19     12
+Brush Swing Arm                                        1017477          7-8     26
+Brush Valve, Lever                                     1010266          7-19     21
+Bulkhead Pipe w/Nut & Gasket                            36731           7-41    23
+Bumper Mount Weldment                                 28941SRV          7-42     11
+Bumper, 1.50 OD x .75                                  38392            7-24     15
+Bushing, Oilite, 1.003 ID x 1.253 OD x .75 LG          35406            7-6      7
+Bushing, Oilite, 1.252 ID x 1.565 ID x 1.50 LG          71054           7-6     35
+
+
+-C-
+Cab Door                                              1023428           7-24     1
+Cab Insulation, Floor Mat - LH                       1015083-05         7-22     13
+Cab Insulation, Floor Mat - RH                       1015083-01         7-22     9
+Cab Insulation, Headliner                            1015083-04         7-22     12
+Cab Insulation, No AC - LH                           1015083-03         7-22     11
+Cab Insulation, Rear                                 1015083-02         7-22     10
+Cab, Insulation, Floor Mat - LH                      1023191-02         7-38     2
+Cab, Insulation, Floor Mat - RH                       1023191-01        7-38     1
+Cab, Insulation, Headliner                           1015083-04         7-38     4
+Cab, Insulation, Rear                                1015083-02         7-38     3
+Cable, Battery (-), 26", Eye/Post                      800076           7-14    25
+Cable, Battery (+), 16", Eye/Post                      800072           7-14    23
+Cable, Battery (+), 21", Eye/Eye                       1012037          7-14    26
+Cable, Battery (+), 24", Eye/Eye                       1016367          7-14     27
+Cable, Brake                                           1010036          7-28    48
+Cable, Push, Pull, 1/4-28 w/Threaded Caps              1016290          7-15     17
+Cable, Push, Pull, 1/4-28 w/Threaded Caps              1016290          7-37     21
+Cable, Push/Pull                                      36749-04          7-31     9
+Cam Lock Fitting, 3/4" F to 1/2" M Pipe               1007326           7-41     5
+Cam Lock Fitting, 3/4" M to 1/2" F Pipe               1007325           7-41     6
+Camera Display, Color                                  1004617          7-39     2
+
+
+
+
+Rosco RB-50 Broom                                                               7-127
+
+=== ORIGINAL PDF PAGE 286 ===
+Alphabetical Parts Index
+
+                                                               Figure   Item
+                           Description        Part No.
+                                                                No.      No.
+ Camera System Cable, 4-Pin, 16'              1022961            7-39    3
+ Cap                                         1006327-21          7-4     21
+ Cap M10x1 DIN908                            1006327-15          7-4     7
+ Cap M22x1,5 Din 909                        1006327-68           7-2     8
+ Cap, Fuel, Lockable                         140030FL            7-9     2
+ Cap, Hydraulic, Lockable                    140030HL            7-10    2
+ Cap, Steering Wheel                           300010            7-26    2
+ Cap, Tank                                                       7-33    4
+ Cap, Tank                                                       7-34    9
+ Carriage Bolt, 1/2-13 x 1.50, GR5          106-8-13-24-5        7-45    22
+ Catalyzer Assembly                          1015794-14          7-13    9
+ Center Bumper Mount Weldment                  28946             7-42    14
+ Central Housing                             1006327-61          7-2     1
+ Check Valve, 08HB, 5 PSI, Poly                36883             7-41    13
+ Check Valve, Condensate Drain                 1023211           7-31   34
+ Circular LED Light                           1012563            7-11    22
+ Clamp, Insulated Band, 1.25 ID                34798             7-29    8
+ Clamp, T-Bolt, 4.31-4.59 Range              953521243           7-32    5
+ Clevis Pin, .375 x 1.25, 1.015 Grip           81214             7-42   33
+ Clevis Pin, 1.00 x 2.50                       1011476           7-7     14
+ Clevis Pin, 1.00 x 2.50 HDM                   1011476           7-42   36
+ Clevis Pin, 1.00 x 2.50 HDM                   1011476           7-45    17
+ Clevis Pin, 1.00 x 3.25                      240030             7-7    20
+ Clevis Pin, 1.00 x 3.25 w/ Second Hole       1016641            7-45    8
+ Clevis, 1/4-28 UNF x .375 ID                  989817            7-15    18
+ Clevis, 1/4-28 UNF x .375 ID                  989817            7-37    22
+ Clevis, 5/16-24 UNF w/Pin                      6427             7-28   43
+ Close Pipe Nipple, .500, PVC                  36810             7-41    22
+ Coil                                        1009619-03          7-18    1
+ Coil                                        1021111-02          7-18    14
+ Coil Bracket (Left)                         38653-06            7-31   24
+ Coil Bracket (Right)                        38653-07            7-31   23
+Coil, 12VDC                                  1011734-02          7-20    -
+Column, Tilt Steering, Male Spline w/Boot     1021697            7-26    4
+Condenser Mounting Bracket                    1013775           7-30     19
+Control Box                                   1023492           7-38     5
+Control Box                                   1016637            7-42    41
+
+
+
+
+7-128                                                       Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 287 ===
+Alphabetical Parts Index
+
+                                                         Figure   Item
+                          Description     Part No.
+                                                          No.      No.
+Control Box                                1016637        7-45    38
+Control Panel, Curb Brush/Snow Plow        1021739        7-42    50
+Control Panel, Curb Brush/Snow Plow        1021739        7-45     47
+Control, Rotary Cable                     36749-03        7-31     8
+Coolant Hose                              1015794-13      7-12     4
+Coolant Hose                             1015794-09       7-12     11
+Coolant Sight Glass                      1015794-53       7-12     3
+Cooler, Hydraulic Oil, 45,000 BTU          1015757        7-16     1
+Cotter Pin                                95458329        7-7      21
+Cotter Pin, .125 x 1.50                    80332          7-6      11
+Cotter Pin, .177                           36544          7-8      7
+Cotter Pin, .177, 7 GA                     870307         7-45     9
+Cotter Pin, .188 x 1.50                    80336          7-45     13
+Cotter Pin, .188 x 2.00                    80338          7-7      15
+Cotter Pin, .188 x 2.00                    80336          7-8      21
+Cotter Pin, 1/85” x 1-1/4”                  80331         7-7      5
+Cotter Pin, ø.094 x .250 x .500             37108         7-42    32
+Cotter Pin, ø.177, 7 GA                    36544          7-42     31
+Cotter Pin, ø.188 x 1.50                  405-3-24        7-42    34
+Cover, Air Filter                         38653-02        7-31     4
+Cover, Door Latch                          980678         7-24     11
+Cover, Plate, Cab Floor                     1011711       7-22     21
+Cover, Recirculation                      36745-29        7-31    28
+Cover, Servo, M46 Pump                     851492         7-5      2
+Cover, Wiring Access                       1015587        7-29     1
+CRG Bolt, 3/8-16 x 1.50, GR5            106-6-16-24-5F    7-8      8
+CSBHS, 1/4-20 x .875, SS                    81277         7-21     19
+CSBHS, 1/4-20 x .875, SS                    81277         7-34     6
+CSBHS, 1/4-20 x .875, SS                    81106         7-36     27
+CSHH, 1/2-13 x 1.25, GR5, FT            100-8-13-20-5F    7-8      3
+CSHH, 1/2-13 x 1.25, GR5, FT            100-8-13-20-5F    7-42    25
+CSHH, 1/2-13 x 1.50, GR5                100-8-13-24-5     7-6     37
+CSHH, 1/2-13 x 1.50, GR5                100-8-13-24-5     7-41    26
+CSHH, 1/2-13 x 1.50, GR5                100-8-13-24-5     7-42    29
+CSHH, 1/2-13 x 1.75, GR5                100-8-13-28-5     7-32     11
+CSHH, 1/2-13 x 1.75, GR5, FT            100-8-13-28-5F    7-45    36
+CSHH, 1/2-13 x 2.00, GR5                100-8-13-32-5     7-8     32
+
+
+
+
+Rosco RB-50 Broom                                                 7-129
+
+=== ORIGINAL PDF PAGE 288 ===
+Alphabetical Parts Index
+
+                                                       Figure   Item
+                     Description     Part No.
+                                                        No.      No.
+CSHH, 1/2-13 x 2.00, GR5           100-8-13-32-5         7-42    21
+CSHH, 1/2-13 x 2.25, GR5           100-8-13-36-5         7-21    10
+CSHH, 1/2-13 x 2.25, GR5           100-8-13-36-5         7-42   38
+CSHH, 1/2-13 x 3.00, GR5           100-8-13-48-5         7-8    34
+CSHH, 1/2-13 x 3.75, GR5           100-8-13-60-5         7-25    10
+CSHH, 1/2-13 x 3.75, GR5           100-8-13-60-5         7-36    19
+CSHH, 1/2-13 x 3.75, GR5           100-8-13-60-5         7-42    37
+CSHH, 1/2-13 x 6.50, GR5           100-8-13-104-5        7-42    27
+CSHH, 1/2-20 x 2.00, GR5           100-8-20-32-5         7-8    43
+CSHH, 1/4-20 x .75, GR5            100-4-20-12-5         7-42   46
+CSHH, 1/4-20 x .75, GR5            100-4-20-12-5         7-45   43
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-11    19
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-22    27
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-24   24
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-29    4
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-30   24
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-32    18
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-33    5
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-34    10
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-41   38
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-43   20
+CSHH, 1/4-20 x .75, GR5, FT        100-4-20-12-5F        7-46    9
+CSHH, 1/4-20 x 1.00, GR5           100-4-20-16-5         7-20    19
+CSHH, 1/4-20 x 1.00, GR5           100-4-20-16-5         7-49    3
+CSHH, 1/4-20 x 1.00, GR5, FT       100-4-20-16-5F        7-22    6
+CSHH, 1/4-20 x 1.00, GR5, FT       100-4-20-16-5F        7-24    21
+CSHH, 1/4-20 x 1.00, GR5, FT       100-4-20-16-5F        7-47    9
+CSHH, 1/4-20 x 1.00, GR5, FT       100-4-20-16-5F        7-48    3
+CSHH, 1/4-20- x 1.00, GR5, FT      100-4-20-16-5F        7-31    15
+CSHH, 1/4-20 x 1.25, GR5           100-4-20-20-5         7-48    4
+CSHH, 1/4-20 x 1.25, GR5, FT       100-4-20-20-5F        7-11    16
+CSHH, 1/4-20 x 1.625, GR5          100-4-20-26-5         7-18    22
+CSHH, 1/4-20 x 16, GR5             100-4-20-16-5         7-11    12
+CSHH, 1/4-20 x 2.00, GR5           100-4-20-32-5         7-18   25
+CSHH, 1/4-20 x 2.50, GR5           100-4-20-40-5         7-43    13
+CSHH, 1/4-28 x .75, GR5, FT        100-4-28-12-5F        7-40    9
+CSHH, 1-8 x 7.00, GR5              100-16-8-112-5        7-8    23
+
+
+
+
+7-130                                               Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 289 ===
+Alphabetical Parts Index
+
+                                                    Figure   Item
+                     Description     Part No.
+                                                     No.      No.
+CSHH, 1-8 x 8.00, GR5              100-16-8-128-5    7-6      4
+CSHH, 3/4-10 x 3.50, GR5           100-12-10-56-5    7-45    26
+CSHH, 3/4-10 x 4.00, GR5           100-12-10-64-5    7-23     10
+CSHH, 3/4-10 x 4.00, GR5           100-12-10-64-5    7-45     27
+CSHH, 3/4-10 x 5.00, GR5           100-12-10-80-5    7-6     25
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-6      41
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-8     38
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-10     13
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-11    28
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-16     7
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-22    23
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-26     7
+CSHH, 3/8-16 x 1.00, GR5, FT       100-6-16-16-5F    7-27     8
+CSHH, 3/8-16 x 1.00. GR5, FT       100-6-16-16-5F    7-12     25
+CSHH, 3/8-16 x 1.25, GR5           100-6-16-20-5     7-42     19
+CSHH, 3/8-16 x 1.25, GR5, FT       100-6-16-20-5F    7-8     28
+CSHH, 3/8-16 x 1.50, GR5           100-6-16-24-5     7-8      12
+CSHH, 3/8-16 x 1.50, GR5           100-6-16-24-5     7-9      6
+CSHH, 3/8-16 x 1.50, GR5           100-6-16-24-5     7-10     7
+CSHH, 3/8-16 x 1.50, GR5           100-6-16-24-5     7-19    26
+CSHH, 3/8-16 x 2.00, GR5           100-6-16-32-5     7-42     16
+CSHH, 3/8-16 x 3.00, GR5           100-6-16-48-5     7-8      16
+CSHH, 3/8-16 x 3.00, GR5           100-6-16-48-5     7-25     5
+CSHH, 3/8-16 x 3.00, GR5           100-6-16-48-5     7-36     16
+CSHH, 3/8-16 x 5.00, GR5           100-6-16-80-5     7-41    29
+CSHH, 3/8-16 x 5.00, GR5           100-6-16-80-5     7-45    32
+CSHH, 3/8-16 x 6.50, GR8           100-6-16-104-8    7-50     6
+CSHH, 3/8-16 x 9.00, GR5           100-6-16-144-5    7-14    28
+CSHH, 3/8-24 x 1.00, GR5, FT       100-6-24-16-5F    7-47     6
+CSHH, 5/16-18 x .50, GR5, FT       100-5-18-8-5F     7-20     17
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-11     7
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-21     37
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-26     19
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-28    45
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-43     17
+CSHH, 5/16-18 x .75, GR5, FT       100-5-18-12-5F    7-46     6
+CSHH, 5/16-18 x 1.00, GR5          100-5-18-16-5     7-11     17
+
+
+
+
+Rosco RB-50 Broom                                             7-131
+
+=== ORIGINAL PDF PAGE 290 ===
+Alphabetical Parts Index
+
+                                                                         Figure   Item
+                        Description                 Part No.
+                                                                          No.      No.
+ CSHH, 5/16-18 x 1.00, GR5                        100-5-18-16-5            7-27    4
+CSHH, 5/16-18 x 1.00, GR5                         100-5-18-16-5           7-30    23
+CSHH, 5/16-18 x 1.00, GR5                         100-5-18-16-5            7-32    14
+CSHH, 5/16-18 x 1.00, GR5                         100-5-18-16-5            7-41   39
+CSHH, 5/16-18 x 1.50, GR5                         100-5-18-24-5            7-19    18
+CSHH, 5/16-18 x 2.00, GR5                         100-5-18-32-5            7-21    14
+CSHH, 5/16-18 x 2.50, GR5, FT                    100-5-18-40-5F            7-28   46
+CSHH, 5/16-18 x 3.00, GR5                         100-5-18-48-5           7-30     16
+ CSHH, 5/8-11 x 4.00, GR5                         100-10-11-64-5           7-45   35
+ CSHH, 5/8-11 x 6.00, GR5                         100-10-11-96-5           7-45   30
+ CSHH, 5/8-11 x 6.50, GR5                        100-10-11-104-8           7-1     2
+ CSHH, Heavy, 1-8 x 3.00, GR8                     101-16-8-48-8            7-21   25
+ CSHH, M12x1.75 x 35, C8.8, FT                 100-M12-1.75-35-8.8F        7-12   28
+ CSHH, M14x2 x 35, C8.8                         100-M14-2-35-8.8           7-1     8
+ CSHH, M5x0.8 x 10mm, C8.8, FT                 100-M5-0.8-10-8.8-F         7-24    9
+ CSHH, M6x1.0 x 12mm, C8.8                     100-M06-1.00-12-8.5         7-26    13
+ CSSBH, 3/8-16 x 1.25                              117-6-16-20             7-11    5
+ CSSH, 1/2-13 x 1.50, FT                          102-8-13-24-F            7-15    15
+ CSSH, 1/2-13 x 1.50, FT                          102-8-13-24-F            7-37    18
+ CSSH, 1/4-20 x 1.00, FT                          102-4-20-16-F           7-36     2
+ CSSH, 3/8-16 x 1.50, FT                          102-6-16-24-F            7-15    13
+ CSSH, 3/8-16 x 1.50, FT                          102-6-16-24-F            7-37    16
+ Cup Holder                                          982689                7-28   32
+ Curb Brush Mount Spacer                             1016712               7-42    15
+Cylinder, Hydraulic, 2.00 x 10.75 x 1.00 Rod         36754                 7-6    23
+Cylinder, Hydraulic, Snow Plow                      38224-26               7-45    15
+Cylindrical Pin Ø10x30                             1006327-72              7-2     12
+
+
+ -D-
+ Decal - Danger, Roll-Over Hazard                  1015036-02              7-21   29
+ Decal - Danger, Run-Away Vehicle                   39141-24               7-28   50
+Decal - Notice, Operator's Manual                    988634                7-26    18
+Decal - Oper, 2 -Speed                             1021704-08              7-28   24
+Decal - Oper, Brush Control                        1021704-06              7-28    18
+Decal - Oper, Brush Crown Pressure                 1021704-09              7-28   37
+Decal - Oper, Brush Drive                          1021704-04              7-28   30
+Decal - Oper, Brush Speed                          1021704-10              7-28    22
+
+
+
+
+7-132                                                                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 291 ===
+Alphabetical Parts Index
+
+                                                      Figure   Item
+                         Description    Part No.
+                                                       No.      No.
+Decal - Oper, Cab Filter System         1019367        7-32    24
+Decal - Oper, Fan                       39141-22       7-28     9
+Decal - Oper, Fuse Panel               1021704-05      7-29     2
+Decal - Oper, Fuse Panel               1021704-14      7-29     3
+Decal - Oper, High Gear                1021704-16      7-28     6
+Decal - Oper, Lights/Horn              1013789-01      7-28     13
+Decal - Oper, Park Brake               1013789-07      7-28     4
+Decal - Oper, Pressure Monitor          1019376        7-32    25
+Decal - Oper, Turn Signal              1013789-06      7-28    26
+Decal - Oper, Wiper/Washer              39141-16       7-28     12
+Decal - Park Brake                      39141-17       7-28    49
+Decal, Adjustment Screws               1015036-07      7-7     24
+Decal, Caution, Alarm                   39141-19       7-22     18
+Decal, Caution, Hydraulic Oil          1021704-03      7-10    33
+Decal, Control Box, Snow Plow           1016684        7-45    42
+Decal, Curb Brush                       1016686        7-42    45
+Decal, Deco, RB50                      1015035-04      7-22     15
+Decal, Deco, Rosco, 8.50"              1013790-08      7-22     16
+Decal, Door Release                    1021704-13      7-24    26
+Decal, Info, Arrow, Down                39135-09       7-36    25
+Decal, Info, Arrow, Up                  39135-08       7-36    26
+Decal, Info, Master Cylinder            1010608        7-25     19
+Decal, Info, Master Cylinder            1010608        7-36    23
+Decal, Info, No Step                   1000623-01      7-47     12
+Decal, Kick Glass                      1013789-05      7-23     9
+Decal, No Unattended                    1005474        7-22     17
+Decal, Notice, Hydraulic Dye            1013275        7-10    32
+Decal, Notice, Press Brake              1023508        7-36     22
+Decal, Oper, Brush Controls             1023509        7-38     8
+Decal, Oper, FNR, Brush Rotation        1020781        7-35     9
+Decal, Oper, Water Tank                 39141-18       7-41    44
+Decal, Pinch/Entanglement               1008622        7-7     23
+Decal, Temporary, Remove Pre-Cleaner    1023734        7-49     6
+Decal, Test Port, Charge Pressure      1021704-17      7-18     27
+Decal, Warning, Equipment              1021704-01      7-24     27
+Decal, Warning, ROPS                   1021704-04      7-22     19
+Decal, Warning, Slip/Fall              1021704-02      7-7     25
+
+
+
+
+Rosco RB-50 Broom                                              7-133
+
+=== ORIGINAL PDF PAGE 292 ===
+Alphabetical Parts Index
+
+                                                                   Figure   Item
+                        Description             Part No.
+                                                                    No.      No.
+ Decal, Wipers                                  39141-16             7-34    14
+ Defrost Fan Assembly, 12V                       35425               7-22    1
+ Diaphragm Water Pump w/Pressure Switch       1004598SRV             7-41    19
+ Differential Housing                         1006327-42             7-3     21
+ Dipstick                                      1015794-27            7-14    9
+ Disc Package                                 1006327-43             7-3     22
+ Door Handle - Push Button                      982415               7-24    8
+Door Sill, Cab                                  1015622              7-22    5
+Door, Engine Compartment                        1019872              7-11    2
+Drive Axle, Comer 068                           1016955              7-1     1
+Drive Axle, Comer 068                           1016655              7-2    REF
+Drive Axle, Comer 068                           1016655              7-3    REF
+Drive Axle, Comer 068                           1016655              7-4    REF
+Drive Group, Comer                              1009431              7-1    REF
+Drive Hub                                        28570               7-8     41
+Drive Shaft                                   1006327-65             7-2     5
+Dust Cap                                        620200               7-6     16
+
+
+ -E, F-
+ ECU                                           1015794-56            7-14   32
+Elastic Washer D. 18                          1006327-74             7-4    25
+Elbow Adapter, 90°, -6 ORFS / -6 O-Ring   FS6801-06-06-NWO-FG        7-42    13
+Elbow Adapter, 90°, -6 ORFS / -8 O-Ring   FS6801-06-08-NWO-FG        7-42    7
+Elbow, Rubber, 90°, 4.00 ID                      36919               7-32    6
+Electric Fuel Pump                             1015794-17            7-14    5
+Engine Assembly, Hatz 4H50TIC w/AC              1015794              7-30   REF
+Engine Cover                                    1021577              7-11    1
+Engine Mount Isolator                         1015794-36             7-12    18
+Evaporator Coil Assembly                       38653-05              7-31   25
+Exhaust Pipe                                    1015867              7-13    13
+Exhaust Pipe Support                            1015790              7-13    11
+Extension, Door Latch                           1023131              7-32    17
+Extension, Door Stop                            1019992              7-32    22
+Eye bot, 5/8-11 x 1.75 x 1.38 ID                 38967               7-45   24
+Fan                                            1015794-22            7-14    1
+Fan (Pusher)                                   1015757-02            7-16    2
+Fastener, Fractional Turn                      36745-36              7-31    27
+
+
+
+
+7-134                                                           Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 293 ===
+Alphabetical Parts Index
+
+                                                        Figure   Item
+                       Description        Part No.
+                                                         No.      No.
+Fender Weldment                           1008025        7-47     3
+Filler Neck                               140030FN       7-10     3
+Filter Element, Cab Air                    1017782       7-31     3
+Filter Element, Hydraulic, 9 Micron       290030         7-10     9
+Filter Head, Hydraulic HMK04              1017402        7-10     8
+Filter System, Air Quality Unit          1018732-06      7-32     1
+Fitting, Master Cylinder Adapter           38277         7-25     4
+Fitting, Master Cylinder Adapter           38277         7-36     11
+Fitting, Push Lok, -6 LOC/-6 RFJX        6LOC-6RFJX      7-9      9
+Fitting, Straight, 02MP-03IFF, Brass       39059         7-25     15
+Fitting, Tee 02FM, Brass                   33557         7-25     14
+Flange with Brake Drum                   1006327-34      7-3      12
+Flasher, LED                              1010202        7-29     7
+Flow Divider, 4 GPM, 5000 PSI             1022694        7-46     12
+Flow Divider, Fixed, w/Pressure Relief    982959         7-43     6
+Flush Mount Hole Plug, .500               35136-4        7-42    44
+Flush Mount Hole Plug, .500               35136-4        7-45     41
+Friction Washer                          1006327-52      7-3     29
+Friction Washer                          1006327-54      7-3      31
+Front Bracket                             28718SRV       7-45     5
+Fuel Filter                              1015794-06      7-14     10
+Fuel Tank, 30 GAL                         1021897        7-9      1
+Fuse Block, 18 Gang, ATC                  685060         7-29     14
+Fuse Holder                              1015794-28      7-14    REF
+Fuse Holder, Inline, ATC                    37118        7-29     13
+Fuse, 10A, ATC                             36340         7-12    20
+Fuse, 10A, ATC                             36340         7-29     15
+Fuse, 10A, ATC                             36340         7-33    REF
+Fuse, 15A ATC                              36341         7-32    29
+Fuse, 15A, ATC                             36341         7-12     21
+Fuse, 15A, ATC                             36341         7-29     16
+Fuse, 1A, ATC                            1015794-55      7-12     22
+Fuse, 20A, ATC                             36342         7-29     17
+Fuse, 30A, ATC                             36218         7-12     19
+Fuse, 40A, ATC                             115911        7-12    23
+Fuse, 5A ATC                               36746         7-32    28
+
+
+
+
+Rosco RB-50 Broom                                                7-135
+
+=== ORIGINAL PDF PAGE 294 ===
+Alphabetical Parts Index
+
+                                                                 Figure   Item
+                          Description             Part No.
+                                                                  No.      No.
+-G-
+Galvanized Pipe Cap, .500                          91152           7-41    9
+Galvanized Pipe Street Elbow, 90°, .500            38843           7-41    10
+Galvanized Pipe Tee, 08FP                          99845           7-41    4
+Gas Spring, Steering Column                      1009492-01        7-26    5
+Gasket, Servo Cover, M46 Pump                     851494           7-5     3
+Gauge, Sight Lever/Temp, Hydraulic Oil            500070           7-10   20
+Glass, Common                                     1015593          7-23    6
+Glass, Door, Lower                                1023437          7-24    7
+Glass, Door, Upper                                1023438          7-24    6
+Glass, Front                                      1023436          7-23    8
+Glass, Lower                                      1021666          7-23    4
+Grease Fitting, 1/8 NPT                            33684           7-6     8
+Grease Fitting, 1/8 NPT, 90°                      29B-02           7-6     22
+Greaser M10x1                                    1006327-59        7-3    36
+Grip                                               36735           7-19    22
+Grip, .25 x 1.00 x 4.00                            36735           7-28   29
+Grommet                                          35465-06          7-31   20
+Grommet                                          38525-34          7-31   30
+Grommet                                          38606-15          7-31    31
+Grommet                                          38606-16          7-31   32
+Grommet, .19 ID x .63 OD x .125                   1021720          7-24   20
+Grommet, Insulation, .75 ID                      35465-04         7-34     13
+Grommet, Insulation, .75 ID x 1.00 OD x .063     35465-07         7-40     4
+Grommet, Rubber, .25 ID, .125 Panel, .438 Hole    1019362          7-32    27
+Grommet. Insulation, 3/4" ID                     35465-07         7-33     2
+Group - Axles                                     1009422          7-1    GRP
+Group - Brush Assembly                            1015623          7-8    GRP
+Group - Engine Cover                              1017187          7-11   GRP
+Group - Motor Drive                               1009431          7-5    GRP
+Group - Park Brake                                1015130          7-28   GRP
+Group - SMV Sign                                   17898           7-11   GRP
+Group, Spring Seat                                1015620          7-27   GRP
+Guard, Dust                                       1010979          7-6    40
+Gutter Brush                                       39000           7-42    1
+
+
+
+
+7-136                                                         Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 295 ===
+Alphabetical Parts Index
+
+                                                                                                    Figure   Item
+                       Description                                          Part No.
+                                                                                                     No.      No.
+-H-
+Harness, Air Filtration System                                               1018736                 7-32     30
+Harness, Beacon                                                              1016701                 7-21     33
+Harness, Broom Controls                                                     1023493                  7-38    ASSY
+Harness, Controls, Curb Brush                                               1018050                  7-42     52
+Harness, Controls, Snow Plow                                                 1017667                 7-45     49
+Harness, Valves, Curb Brush                                                  1016123                 7-42     51
+Harness, Valves, Snow Plow                                                  1016080                  7-45     48
+Harness, Windshield Washer Pumps                                            1016079                  7-33     8
+Hatz 4H50TIC Engine Manual                                                 1015794-57                7-14    REF
+Hatz Engine Assembly, T4F, No AC/Heat                                        1021576                 7-14    GRP
+Hatz Engine Assembly, T4F, with AC/Heat                                      1021575                 7-14    GRP
+HD Brush Spray Pipe                                                         1007328                  7-41     7
+Heater Coil                                                                 36749-02                 7-31     22
+Hinge, 18"                                                                   1020511                 7-11     6
+Hitch Pin, ø.944 x 7.50 w/Clip                                               72840                   7-8      22
+Holder, Filter                                                              36745-30                 7-31     29
+Horn, Low Pitch                                                             20190773                 7-21     23
+Hose Assembly - Cooler To Charge Pump Inlet                      F387TCJCJ9121212-71-AS-B-19-67      7-16     13
+Hose Assembly - Cooler To Tank                                        F387TCJCJ9121212-27            7-16     12
+Hose Assembly - Filter To Cooler                                F387TC06L9121212-44-AS-B-19-40.75    7-16     11
+Hose Assembly, Aux Pump Rear Outlet to Relief Valve Inlet            F387TCJCJC080808-21             7-44     9
+Hose Assembly, Aux Pump to Brush Speed Valve 1                        F387TCJCJC121212-36            7-18     19
+Hose Assembly, Brush Speed Valve 2 to Tank                            F387TCJCJ9121212-29            7-10     29
+Hose Assembly, Brush Speed Valve 2 to Tank                            F387TCJCJ9121212-29            7-18     20
+Hose Assembly, Curb Brush Valve A1 to Brush Motor A                  F387TCJCJC060606-184            7-43     25
+Hose Assembly, Curb Brush Valve B1 to Brush Motor B                  F387TCJCJC060606-184            7-43     26
+Hose Assembly, Curb Brush Valve T to Lift Cylinder Back End          F387TCJCJC060606-136            7-43     24
+Hose Assembly, Curb Brush Valve T to Relief Valve Return             F387TCJCJS060806-32             7-43     22
+Hose Assembly, Curb Brush Valve, A2 to Lift Cylinder Rod End         F387TCJCJC060606-146            7-43     23
+Hose Assembly, Flow Divider 2 to Main Manifold P                     F387TCJCJ9060606-26             7-46     20
+Hose Assembly, Flow Divider 4 to Snow Plow Manifold P                F387TCJCJ9060606-20             7-46     19
+Hose Assembly, Flow Divider Excess Flow to Curb Brush Valve P        F387TCJCJC060606-22             7-43     21
+Hose Assembly, Hydraulic Tank to Aux Pump Inlet                       F387TCJCJ9161616-35            7-44     8
+Hose Assembly, Lift Cylinder back End to Hydraulic Tank              F387TCJCJC060606-130            7-46     15
+Hose Assembly, Main Manifold T to Snow Plow Manifold T               F387TCJCJ7060606-33             7-46     14
+Hose Assembly, Manifold A1 to Pivot Cylinder Rod End                 F387TCJCJ7060606-35             7-20     9
+
+
+
+
+Rosco RB-50 Broom                                                                                            7-137
+
+=== ORIGINAL PDF PAGE 296 ===
+Alphabetical Parts Index
+
+                                                                                                      Figure   Item
+                       Description                                        Part No.
+                                                                                                       No.      No.
+Hose Assembly, Manifold A2 to Lift Cylinder                  F387TCJCJC060606-68-AS-B-13-66.25          7-20    10
+Hose Assembly, Manifold A2 to Needle Valve                          F387TCJCJ9060606-67                 7-20    7
+Hose Assembly, Manifold A2 to Needle Valve                          F387TCJCJ9060606-67                 7-28   39
+Hose Assembly, Manifold B1 to Pivot Cylinder                        F387TCJCJC060606-46                 7-20    8
+Hose Assembly, Manifold P to Steering Motor Aux               F387TCJCJC060606-17-AS-B-13-15.25         7-20    12
+Hose Assembly, Manifold T to Lift Cylinder                   F387TCJCJ5060606-77-AS-B-13-74.75          7-20    11
+Hose Assembly, Manifold T to Motor Valve                            F387TCJCJ9060606-63                 7-20    13
+Hose Assembly, Motor Case Drain to Filter                            F387TC0637121212-52                7-17    4
+Hose Assembly, Motor Valve to Filter                           F387TC0637121212-60-AS-B-19-25           7-17    1
+Hose Assembly, Motor Valve to Needle Valve                         F387TCJ5J5060606-24-0                7-28   38
+Hose Assembly, Pump A to Motor !                                     F797TC0606161616-19                7-17    7
+Hose Assembly, Pump B to Motor B                                    F797TC0639161616-30                 7-17    9
+Hose Assembly, Pump Case Outlet to Tank                              F387TCJCJC121212-19                7-10    31
+Hose Assembly, Pump Gage Port to Solenoid Valve 3                   F387TCJCJ9060606-26                 7-18    8
+Hose Assembly, Pump Servo Gage M4 to Destroke Valve                 F387TCJCJC060606-14                 7-18    11
+Hose Assembly, Pump Servo Gage M5 to Destroke Valve                 F387TCJCJC060606-26                 7-18    12
+Hose Assembly, Pump X1 to Pedal 1                                   F387TCJCJC040404-94                7-36     6
+Hose Assembly, Pump X2 to Pedal 2                                   F387TCJCJC040404-95                7-36     7
+Hose Assembly, SMS Test w/-4 Female ORFS (x2)                              1019709                      7-18   28
+Hose Assembly, Snow Plow Valve A1 to Left Pivot Cylinder           F387TCJCJC060606-156                7-46     18
+Hose Assembly, Snow Plow Valve A2 to Lift Cylinder Rod End         F387TCJCJC060606-128                7-46     16
+Hose Assembly, Snow Plow Valve B1 to Right Pivot Cylinder          F387TCJCJC060606-142                7-46     17
+Hose Assembly, Solenoid Valve 1 to Motor X1                         F387TCJCJ1060606-34                 7-18    6
+Hose Assembly, Solenoid Valve to Tank                               F387TCJCJC060606-20                 7-18    7
+Hose Assembly, Steering Motor Aux to Flow Divider 3                 F387TCJCJC060606-17                7-46     21
+Hose Assembly, Steering Motor LT to Steer Cylinder           F387TCJCJC060606-106-AS-B-13-130.25        7-20    15
+Hose Assembly, Steering Motor RT to Steer Cylinder           F387TCJCJC060606-117-AS-B-13-115.25        7-20    14
+Hose Assembly, Tank to Pump                                          K811HTJCJ9161616-38                7-10   30
+Hose Clamp, #08 (.50-.91)                                                  33163                        7-41    12
+Hose Clamp, #10 (.56-1.06)                                                 33164                        7-41    17
+Hose Clamp, ø10-16mm                                                     1015794-16                     7-12    5
+Hose Clamp, ø12.8                                                        1015794-39                     7-12    15
+Hose Clamp, ø12-22mm                                                     1015794-41                     7-12    12
+Hose Clamp, ø25-40mm                                                     1015794-42                     7-12    7
+Hose Clamp, ø40-60mm                                                     1015794-47                     7-12    9
+Hose Kite, Hydraulic, Snow Plow Option                                    1020525                      7-46    KIT
+Hose, Windshield Washer, ø.188 ID (Per Foot)                               35550                       7-33    REF
+
+
+
+
+7-138                                                                                              Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 297 ===
+Alphabetical Parts Index
+
+                                                            Figure   Item
+                          Description         Part No.
+                                                             No.      No.
+Housing, Lower Cover                         1023470-03      7-31    26
+Hub Assembly, 6 Bolt, 205MM BC               1009281SRV      7-6      12
+Hub, Idler Casting, Comer Axle                 1011706       7-6      13
+Hydraulic Cylinder Lock                        28948         7-45     10
+Hydraulic Cylinder, 2.00 x 8.00 x 1.00 Rod     610110        7-42     12
+Hydraulic Cylinder, 2.00 x 8.00 x 1.00 Rod     610110        7-45     6
+Hydraulic Cylinder, 2.50 x 16.00 x 1.25       1020385        7-7      13
+Hydraulic Cylinder, 2.50 x 16.00 x 1.125      1020384        7-7      18
+Hydraulic Cylinder, 2.50 x 6.00 x 1.125        31884A        7-7      16
+Hydraulic MOT Connection                     1006327-57      7-3     34
+Hydraulic MOT Mount                          1006327-58      7-3     35
+Hydraulic Motor, LSHT, 8.0 DISP                38122         7-42     6
+Hydraulic Tank, 25 GAL                        1023238        7-10     1
+
+
+-I, J, K, L-
+Idle Shaft Pin                               1005200-115     7-8      31
+Idler Hub                                      28828         7-8      27
+Insulated Band Clamp, 3/4"                    871111602      7-41     15
+Insulation Grommet, .375 ID x 1.00 Groove     35465-09       7-41    25
+Insulation Grommet, .75 ID                    35465-07       7-41     16
+Intake Support Bracket                         13857         7-11     11
+Joystick, FNR w/Brush Control                 1019658        7-28     17
+Key                                            35560         7-11     4
+Key, Door Latch                              982415-01       7-24     -
+Kit, Air Conditioner/Heater, Sealed           1023470        7-31    KIT
+Kit, Cab Air Filtration                       1018732        7-32    KIT
+Kit, Cab Insulation, No AC/Heat               1015083        7-22    KIT
+Kit, Cylinder Seal                            36754-03       7-6      -
+Kit, Hydraulic Hose, Foot Pedal               1023243        7-36    KIT
+Kit, Insulation, Foot Pedal                    1023191       7-38    KIT
+Kit, Strainer & Gasket                       140030GK        7-10     4
+Knob, .25 Shaft                                35049         7-28    20
+Knob, Black                                    851156        7-24     12
+Knob, Fan Switch                              37645-21       7-31     14
+Latch, Door, T-Handle                         1021659        7-24     19
+LED Single Face Pedestal Lamp, Yellow         1005941        7-21     17
+Length Adjustment Tube Weldment                28937         7-42     9
+
+
+
+
+Rosco RB-50 Broom                                                    7-139
+
+=== ORIGINAL PDF PAGE 298 ===
+Alphabetical Parts Index
+
+                                                                                            Figure   Item
+                        Description                               Part No.
+                                                                                             No.      No.
+Lever Latch                                                       980460                      7-11    3
+Lever Latch                                                       980460                     7-50     2
+Lever, Brush Valve                                                1010266                     7-28   28
+Lever, Park Brake, 12" Handle                                      34299                      7-28   40
+Lever, Throttle Control                                          1010262-02                   7-15   20
+Lift Cylinder Stop                                                1022642                     7-7     19
+Light, Blue, Dash, .50 Hole                                        31986                      7-28    5
+Light, Dome                                                        38840                      7-22    4
+Light, Indicator, Green                                            1016102                    7-28    2
+Light, Indicator, Red                                            1009253-07                   7-28    3
+Light, LED Circular                                               1012563                     7-21    16
+Lock w/Offset Cam                                                  25812                      7-11   24
+Lock Washer                                                      1006327-22                   7-4     22
+Locknut M55x2                                                    1006327-23                   7-4    23
+Loom Clip, ø.50                                                   1015546                     7-21   30
+Louver, 2.50: Round                                               36745-17                    7-31    2
+Louver, 3” Round                                                  36745-16                    7-31    11
+Lug Nut, M18X1.5                                                  1009294                    7-50     3
+Lynch Pin, 1/4                                                   989272-21                    7-45    21
+
+
+-M, N-
+Magnetic Drain Plug                                              1015794-26                   7-14    13
+Main Air Filter Element                                          1015794-03                   7-13    7
+Main Housing                                                     1023470-01                   7-31    1
+Manifold, Hydraulic, 3 Valve w/Internal Check Valves               1011734                    7-20    1
+Manifold, Hydraulic, 3-Valve w/Internal Checks                     1011734                   7-43     2
+Manifold, Hydraulic, 3-Valve w/Internal Checks                     1011734                   7-46     1
+Manual-PAK Case                                                    985234                     7-26    17
+Master Cylinder                                                   1009383                     7-25    1
+Master Cylinder                                                   1009383                    7-36     10
+Mirror - ø7.50, Convex                                             100857                     7-21    4
+Mirror Head                                                        852570                     7-21    3
+Mirror, Inside Rearview                                            720260                     7-22    2
+Monitor, Pressure, Air Filtration Unit                           1018732-08                   7-32    4
+Motor Mount Weldment                                               28931                      7-42    5
+Motor Valve A to Brush Motor B                         F387TCJCJ1121212-113-AS-B-19-35        7-19    16
+Motor Valve B to Brush Motor A                         F387TCJCJ5121212-110-AS-B-19-39        7-19    17
+
+
+
+
+7-140                                                                                    Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 299 ===
+Alphabetical Parts Index
+
+                                                                       Figure   Item
+                        Description                  Part No.
+                                                                        No.      No.
+Motor Valve to Needle Valve                    F387TCJ5J5060606-24-0    7-19     14
+Motor, Hydraulic Brush Drive                          1011086           7-8     44
+Motor, Hydraulic, M46 Variable, 2.8/1.45 CIR           35330            7-5      1
+Motor, Hydraulic, Power Steering, 8.9 CIR             1021698           7-26     11
+Motor, Windshield Wiper                                151170           7-21     18
+Motor, Windshield Wiper                                151170           7-34     1
+Mount, Brake Pedal                                    1023181           7-25     8
+Mount, Brake Pedal                                    1023181           7-36     14
+Mount, Brake Switch                                    21218            7-28     41
+Mount, Foot Pedal, FNR                                1023183           7-36     3
+Mount, Light, Mirror                                  856987            7-21     6
+Mount, Lightbar, LED, 16"                             1018574           7-48     2
+Mount, Release, Cab Door                              1021721           7-24    23
+Mount, Rubber                                          36072            7-23     13
+Mount, Spare Tire                                     1011743           7-50     5
+Mount, Valve Block Assembly                         1008089SRV          7-20     16
+Mount, Valve Block Assembly                         1008089SRV          7-46     6
+Mount, Weldment, Radio/Speaker                        1008092           7-40     2
+Mounting Bracket, Air Filtration                      1018740           7-32     8
+Mounting Bracket, Curb Brush Valve                    1016688           7-43     1
+Muffler Clamp, 2.00”                                   71172            7-13     12
+Nozzle Assembly, 08 Pipe, Straight                    1008851           7-41     8
+Nozzle Kit, Windshield Washer                         852810            7-33     1
+Nozzle Kit, Windshield Washer                         852810            7-34     3
+Nut AUTOBLOK M10                                    1006327-76          7-3      13
+Nut M18x1.5 MF                                      1006327-73          7-4     24
+Nut, Hex, .813-20                                     300020            7-26     3
+Nut, Hex, 1/2-13, GR5                                200-8-13-5         7-8      6
+Nut, Hex, 1/2-13, GR5                                200-8-13-5         7-21     13
+Nut, Hex, 1/2-13, GR5                                200-8-13-5         7-42    23
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-11    20
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-22    28
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-31     18
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-32     21
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-40     11
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-42    49
+Nut, Hex, 1/4-20, GR5                               200-4-20-5          7-43     16
+
+
+
+
+Rosco RB-50 Broom                                                                7-141
+
+=== ORIGINAL PDF PAGE 300 ===
+Alphabetical Parts Index
+
+                                                         Figure   Item
+                         Description    Part No.
+                                                          No.      No.
+ Nut, Hex, 1/4-20, GR5                 200-4-20-5          7-45   46
+ Nut, Hex, 3/8-16, GR5                  200-6-16-5         7-8     11
+ Nut, Hex, 3/8-16, GR5                  200-6-16-5         7-11    31
+ Nut, Hex, 3/8-16, GR5                  200-6-16-5         7-16    10
+Nut, Hex, 3/8-16, GR5                   200-6-16-5         7-22   26
+Nut, Hex, 3/8-16, GR5                   200-6-16-5         7-42   20
+Nut, Hex, 3/8-16, GR8                   200-6-16-8        7-50     9
+Nut, Hex, 5/16-18, GR5                  200-5-18-5         7-21    7
+Nut, Hex, 5/16-18, GR5                  200-5-18-5         7-27    7
+Nut, Hex, 5/16-18, GR5                  200-5-18-5        7-30     18
+Nut, Hex, 5/16-18, GR5                  200-5-16-5         7-41   42
+Nut, Hex, Jam, 1/2-13, GR5              202-8-13-5         7-8    33
+Nut, Hex, Machine, #10-24              209-#10-24         7-40     8
+Nut, Jam, 1-16, LH                        21114            7-6    33
+Nut, Jam, 1-16, RH                        21113            7-6     31
+Nut, Lock, Flexloc, 1/2-13               217-8-13          7-41   28
+Nut, Lock, Flexloc, 1/4-20               217-4-20          7-41   34
+Nut, Lock, Flexloc, 1/4-20, Full, LT     217-4-20          7-11    15
+Nut, Lock, Flexloc, 3/8-16               217-6-16          7-41    31
+Nut, Lock, Flexloc, 3/8-16               217-6-16         7-45    34
+Nut, Lock, Nylon, #10-32, GR5          205-#10-32-5        7-41   37
+Nut, Lock, Nylon, #6-32, GR5           205-#6-32-5        7-30     22
+Nut, Lock, Nylon, 7/16-14, GR5          205-7-14-5         7-24    14
+Nut, Lock, Stover, 1/2, GR5             204-8-13-5         7-6    39
+Nut, Lock, Stover, 1/2-13, GR5          204-8-13-5         7-8    35
+Nut, Lock, Stover, 1/2-13, GR5          204-8-13-5         7-25    12
+Nut, Lock, Stover, 1/2-13, GR5          204-8-13-5        7-36     21
+Nut, Lock, Stover, 1/2-13, GR5          204-8-13-5         7-42   28
+Nut, Lock, Stover, 1/2-13, GR5          204-8-13-5        7-45    23
+Nut, Lock, Stover, 1/4-20, GR5         204-4-20-5          7-8     15
+Nut, Lock, Stover, 1/4-20, GR5         204-4-20-5          7-24   25
+Nut, Lock, Stover, 1/4-20, GR5         204-4-20-5          7-47    11
+Nut, Lock, Stover, 1/4-20, GR5         204-4-20-5         7-48     6
+Nut, Lock, Stover, 1/4-20, GR5         204-4-20-5         7-49     5
+Nut, Lock, Stover, 1-8, GR5             204-16-8-5         7-6     5
+Nut, Lock, Stover, 1-8, GR5             204-1-8-5          7-8    25
+Nut, Lock, Stover, 1-8, GR8             204-16-8-8         7-21    27
+
+
+
+
+7-142                                                 Rosco RB-50 Broom
+

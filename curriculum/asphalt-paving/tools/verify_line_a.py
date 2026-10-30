@@ -29,6 +29,8 @@ class Links(HTMLParser):
             if name in {'href', 'src'} and value:
                 self.links.append(value)
 
+from activity_names import NAMES
+
 def main(require_generated=False):
     chapters = sorted(p for p in ROOT.glob('0[1-6]-*.md'))
     all_ids = []
@@ -104,7 +106,7 @@ def main(require_generated=False):
         pdf_pages[name]=len(reader.pages)
         text='\n'.join(p.extract_text() or '' for p in reader.pages)
         for activity in all_ids:
-            check(activity in text,f'{pdf.name}: missing activity {activity}')
+            check(NAMES[activity] in " ".join(text.split()),f'{pdf.name}: missing activity {activity}')
         for p in reader.pages:
             for ref in p.get('/Annots',[]):
                 action=ref.get_object().get('/A',{})

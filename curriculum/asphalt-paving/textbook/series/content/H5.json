@@ -1,0 +1,66 @@
+{
+  "code": "H5",
+  "title": "Comply with markers, grades and stakes",
+  "intro": "A stake is a compact instruction that depends on its location, legend and reference. Read the whole mark before acting. Protect survey control so the next crew inherits reliable information.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe abbreviations used on stakes",
+      "text": "Common abbreviations include BM or B/M—benchmark; C—cut; CB or C/B—catch basin; SMH—sanitary manhole; EL/Elv—elevation; FG—finished grade; PL—property line; RW—right of way; SAN or S—sanitary; Mon—monument; G—gas; PVC—polyvinyl chloride. Project legends can differ, so confirm the meaning and units. A gas mark identifies a potential utility concern; it does not give complete location, depth or clearance information. An elevation is a height relative to a stated datum, not a depth below the current surface."
+    },
+    {
+      "number": 2,
+      "title": "Interpret stakes",
+      "text": "Read station, side, offset, target/reference mark, cut/fill, grade and slope together. Station 0+125 means 125 m along the defined alignment in this metric example. An offset stake sits away from the point it describes; preserve both the offset and direction. Property pins and survey monuments are protected control, not disposable construction stakes. A temporary benchmark may use an assumed datum, while other control is tied to a geodetic datum; do not combine them without an authorized relationship.\n\nCross-heads and reference marks can carry a level used to transfer information. Confirm which physical mark is the reference before measuring. Locate work such as catch basins, manholes and headwalls from the approved layout. Compare the milling limit and required profile with the marks before setting controls. If a stake is disturbed, illegible or conflicts with the plan, protect the evidence and request verification. An apparently small guess can propagate along an entire pass."
+    }
+  ],
+  "worked": {
+    "title": "Read an offset",
+    "case": "A fictional stake says STA 0+125, 2.0 m RT OFFSET, FG EL 102.400, C 0.060. The legend defines cut from the marked reference to the required grade.",
+    "solution": "Locate station 125 m on the alignment and interpret the right-side offset using the project convention. The stated cut is 60 mm from the defined reference, not automatically from the top of the stake. FG is 102.400 m in the stated datum. Confirm the target location and mark before using the value."
+  },
+  "activities": [
+    {
+      "id": "H5-01",
+      "prompt": "Expand BM, CB, EL, FG, PL and PVC.",
+      "answer": "Benchmark; catch basin; elevation; finished grade; property line; polyvinyl chloride. Verify project-specific usage.",
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "title": "Expand BM, CB, EL, FG, PL and PVC."
+    },
+    {
+      "id": "H5-02",
+      "prompt": "At a verified point, existing EL is 102.455 m and required milled EL is 102.400 m. Find nominal cut depth.",
+      "answer": "102.455 − 102.400 = 0.055 m = 55 mm, subject to the approved milling plan and checks for utilities and layer limits.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "At a verified point, existing EL is 102.455 m and required milled EL is 102.400 m"
+    },
+    {
+      "id": "H5-03",
+      "prompt": "A digital plan uses a geodetic datum; a loose note says “BM 100 assumed.” What should the crew do?",
+      "answer": "Do not combine them. Ask the survey/grade lead for the verified relationship and controlling reference. Record the clarification and communicate it to everyone using the marks.",
+      "skills": [
+        "Digital",
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "A digital plan uses a geodetic datum; a loose note says “BM 100 assumed.” What should the crew do"
+    }
+  ],
+  "practical": [
+    "Interpret station, offset, cut/fill and elevation on a training layout.",
+    "Identify and protect benchmarks and monuments.",
+    "Maintain the assigned profile from verified controls."
+  ],
+  "visuals": [
+    "grade-stakes",
+    "level-book"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

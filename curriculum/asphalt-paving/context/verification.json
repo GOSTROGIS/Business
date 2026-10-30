@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "documents": 350,
+  "chunks": 440,
+  "reused_ms4_source_parts": 34,
+  "reused_cat_source_parts": 88,
+  "reused_readiness_source_parts": 161,
+  "reused_series_source_parts": 13,
+  "representative_render_comparisons": 159,
+  "retained_URI_links": 2928,
+  "checks": "Source aliases, complete inventory, hashes, size/page limits, local/global text page maps, OCR cache fingerprints, source reuse, PDF page counts, link annotations, CSV and rendering."
+}

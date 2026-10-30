@@ -1,0 +1,61 @@
+{
+  "code": "G5",
+  "title": "Describe density",
+  "intro": "Percent density compares measured in-place density with a defined reference density. The reference is part of the result. Saying only “the density is 94%” leaves out information needed to interpret it.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Section 502",
+      "text": "Section 502.11 of the supplied 2006 document uses different references for Marshall and Superpave mixtures. The Marshall expression divides in-place density by the density of the plant briquette. The Superpave expression divides in-place density by maximum theoretical density determined by the specified procedure. Use compatible units, the applicable method and representative results from the correct lot.\n\nA core and a nuclear gauge do not produce evidence through the same procedure. Follow the approved sampling, testing, calibration/correlation and reporting requirements. Nuclear gauge operation requires the applicable CNSC licensing, training and controls; reading this chapter does not authorize it. Record location, lift, sample/gauge identification, method, density units and reference result. Avoid substituting a different day’s reference because it produces a more favourable percentage.\n\nThe dated tables E-1 and E-2 use different acceptance/payment bands. For example, a Marshall lot average of 97.6–98.0% has a +$0.50/t adjustment, while the Superpave +$0.50/t band is 93.0–93.9%. These bands cannot be exchanged. Sub-lot limits, rejection provisions and the other acceptance requirements also apply. A satisfactory lot mean can conceal an unacceptable individual area.\n\nCompaction effort, temperature, mixture behaviour, support and rolling pattern affect the outcome. More passes are not automatically better: they may be ineffective after cooling or damage an unstable mat. Use the approved pattern and quality feedback to guide authorized changes."
+    }
+  ],
+  "worked": {
+    "title": "Two legitimate references, two different percentages",
+    "case": "In-place density is 2.340 Mg/m³. A fictional plant briquette result is 2.400 Mg/m³; maximum theoretical density is 2.500 Mg/m³.",
+    "solution": "Marshall-style comparison: 2.340/2.400 × 100 = 97.50%. Maximum-theoretical comparison: 2.340/2.500 × 100 = 93.60%. Both calculations are arithmetic examples; use only the reference required for the actual mixture and contract."
+  },
+  "activities": [
+    {
+      "id": "G5-01",
+      "prompt": "For 2.325 Mg/m³ in place and 2.500 Mg/m³ maximum theoretical, calculate percent.",
+      "answer": "2.325/2.500 × 100 = 93.00%. Identify the reference as maximum theoretical density and retain the actual method and lot details.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "For 2.325 Mg/m³ in place and 2.500 Mg/m³ maximum theoretical, calculate percent."
+    },
+    {
+      "id": "G5-02",
+      "prompt": "A 400 t fictional Superpave lot average is 93.4%. Find the isolated dated table adjustment, then name two checks still needed.",
+      "answer": "400 × $0.50 = +$200. Still check sub-lot/rejection requirements and all other acceptance parameters; verify the correct edition, reference and valid test results.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A 400 t fictional Superpave lot average is 93.4%"
+    },
+    {
+      "id": "G5-03",
+      "prompt": "A spreadsheet divides every test by a fixed 2.400. What should a reviewer do?",
+      "answer": "Check mixture, lot and required reference; replace the unsupported constant with a traceable approved reference for each applicable calculation. Preserve the original record and document the correction.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Writing"
+      ],
+      "title": "A spreadsheet divides every test by a fixed 2.400"
+    }
+  ],
+  "practical": [
+    "Explain and select the correct density denominator.",
+    "Trace test results to location and reference.",
+    "Distinguish a lot average from individual acceptance requirements."
+  ],
+  "visuals": [
+    "density-bases",
+    "spec-density"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

@@ -1,0 +1,60 @@
+{
+  "code": "I8",
+  "title": "Follow shut down procedures",
+  "intro": "A controlled shutdown preserves the paver’s condition and leaves a clear handover. The process includes parking, heat and energy controls, inspection and security—not simply switching off the engine.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform shut-down procedures",
+      "text": "Select the designated stable parking location with service access and clear public/emergency routes. Consider the possibility that the machine will not restart. Use level ground where required for the procedure and fluid checks. Coordinate completion of material handling and screed work before the final stop.\n\nFollow the matching OMM sequence for stopping working functions, positioning the screed and attachments, parking controls, required cooling and engine shutdown. Do not transfer a cooldown time or control sequence from a different model. Use specified supports, locks and chocks. A normal shutdown does not by itself authorize maintenance access: apply the full lockout procedure when the next task requires it.\n\nInspect from safe access areas for leaks, damage, buildup and missing guards. Keep away from hot or pressurized systems and moving/unsupported parts. Record machine ID, meter, parking location, defects and required service. Secure keys, panels and detachable items, then communicate the final status to the responsible person and next shift.\n\nThe practical checklist uses the actual machine procedure. Safety-critical parking, support and energy-control items must all pass. The outline’s 80% checklist threshold cannot compensate for an unsafe final state. Repeat the required practice after feedback and record the new attempt separately."
+    }
+  ],
+  "worked": {
+    "title": "An incomplete handover",
+    "case": "The paver is parked correctly, but the operator noticed a leak and left without recording it.",
+    "solution": "The shutdown/handover is incomplete. Record the leak observation, location and machine status, notify the responsible person and arrange the required hold/inspection. The next operator needs the information before starting."
+  },
+  "activities": [
+    {
+      "id": "I8-01",
+      "prompt": "Explain shutdown versus lockout.",
+      "answer": "Shutdown ends operation in the prescribed state. Lockout isolates, secures and verifies hazardous energy for work requiring protection. A shutdown may be part of lockout but is not the whole process.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Explain shutdown versus lockout."
+    },
+    {
+      "id": "I8-02",
+      "prompt": "A ten-item assessment gives 17/20 but a required screed-support check failed. State the result.",
+      "answer": "85% numerically, but not released: the safety-critical failure must be corrected and reassessed.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A ten-item assessment gives 17/20 but a required screed-support check failed"
+    },
+    {
+      "id": "I8-03",
+      "prompt": "Prepare a concise next-shift note.",
+      "answer": "Include machine/meter, location and parking/support state, completed cleaning/service, defects/hold status, keys/access arrangement and person responsible for the next action.",
+      "skills": [
+        "Writing",
+        "Collaboration"
+      ],
+      "title": "Prepare a concise next-shift note."
+    }
+  ],
+  "practical": [
+    "Choose and secure the approved parking location.",
+    "Complete model-specific shutdown and component support.",
+    "Inspect safely and hand over defects and status."
+  ],
+  "visuals": [
+    "shutdown-state",
+    "leeboy-screed-lock"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

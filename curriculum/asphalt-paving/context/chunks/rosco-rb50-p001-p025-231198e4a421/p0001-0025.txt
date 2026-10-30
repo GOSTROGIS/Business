@@ -1,0 +1,1011 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf
+SOURCE SHA-256: 231198e4a4213e57de6ccf7e6607d84b21fd8ed0ad09a94daf02e6dfd0a9b68b
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 1 ===
+Operations, Service
+ And Parts Manual
+
+
+
+
+      RB50 BROOM
+   Manual No. 1017258-03
+             Rev. B
+     This manual applies to
+     Serial Number 255027
+           and above.
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 2 ===
+[NO EXTRACTABLE TEXT: page may be blank, image-only, or have an unavailable text layer; no OCR was performed.]
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 3 ===
+Thumb Index
+
+
+
+                                       SAFETY   1
+                                 INFORMATION 2
+
+                         COMPONENT LOCATION 3
+
+                                   OPERATION 4
+
+                                 MAINTENANCE 5
+
+                                  SCHEMATICS 6
+
+                   ILLUSTRATED PARTS LIST (IPL) 7
+
+
+
+
+Rosco RB50 Broom                               iii
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 4 ===
+Legal Notices
+
+
+
+                                                    Disclaimer
+     All information, illustrations and specifications in this manual are based on the latest information available
+     at the time of publishing. The illustrations used in this manual are intended as representative reference
+     views only. Moreover, because of our continuous product improvement policy, we may modify information,
+     illustrations and/or specifications to explain and/or exemplify a product, service or maintenance
+     improvement. We reserve the right to make any change at any time without notice. ST Engineering
+     LeeBoy, Inc., dba LeeBoy, (“LeeBoy”), is referred to as LeeBoy throughout this manual.
+
+
+
+
+                       Title 40, Code of Federal Regulations (CFR) 1068
+     This product meets certified-emission requirements set by the EPA (Environmental Protection Agency),
+     governed by Title 40 CFR 1068, which specifies actions that are prohibited by law and lists civil penalties
+     for noncompliance. As part of those regulations, modification or rendering inoperative any emission-
+     related component can subject you to government penalties (and void your warranty). Tampering with
+     emission controls is in violation of federal law, and can result in civil penalties of up to $3,750 each day an
+     engine or piece of equipment is operated in violation.
+     Please be aware that you are responsible for maintaining the machine and the certified emission engine
+     installation. Failure to comply to comply could result in penalties as listed above and void the warranty on
+     this engine and this machine.
+                    For more information, visit: https://www.epa.gov/laws-regulations/regulations
+
+
+
+
+                                  California Proposition 65 Warning
+     Diesel engine exhaust and some of its constituents are known to the State of California to cause cancer,
+     birth defects, and other reproductive harm.
+     Battery posts, terminals and other related accessories contain lead and lead compounds, chemicals
+     known to the State of California to cause cancer and other reproductive harm. Wash hands after handling.
+
+
+
+
+                                                   2021 LeeBoy
+     LeeBoy reserves all copyright and other rights in this manual and its content. No part of this manual may
+     be reproduced or used in any way without the written permission of LeeBoy, except as necessary to
+     operate LeeBoy equipment.
+
+
+
+
+iv                                                                                                   Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 5 ===
+TABLE OF CONTENTS
+
+Safety .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-1
+           Safety Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-4
+           Machine Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                      Hot Material Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                      Hydraulic Systems Precautions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-7
+                      Refueling Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                      Battery Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-8
+                      Starting and Stopping Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                      Parking Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                      Operating Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                      Storage Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-9
+                      Maintenance Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-9
+                      Tire Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-10
+           Safety Decals.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-11
+                      Safety Decal Locations .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-11
+                      Safety Decals Care.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+Information and Specifications.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-1
+           Two Year Limited Warranty.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-2
+           Contact Information.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-3
+           Specification Charts.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-4
+           Torque Specifications .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-7
+                      Standard Inch Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-7
+                      Metric Fasteners.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  2-8
+                      Hydraulic Fittings .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2-8
+                      Determining Proper Torque .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 2-9
+Components .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-1
+           Components Overview.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-3
+                      Broom Cab .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-3
+                      Engine .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3-3
+
+
+Rosco RB50 Broom                                                                                                                                               v
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 6 ===
+Table of Contents
+                         Brush Control and Quick-Change Core System.  .  .  .  .  .  .  .  .  .  .  . 3-4
+                         Electrical System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-4
+                         Hydrostatic Drive System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-4
+              Machine Overview .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-5
+              RB50 Broom Controls.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 3-6
+              Foot Pedal Controls Option.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  3-8
+      Operation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-1
+              General Information.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-3
+                         Receiving the Machine.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-3
+                         Initial and Daily Inspection.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-3
+              ROPS .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-4
+              Start-Up Procedure.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-4
+                         Cold Weather Starting .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-5
+                         Stopping the Engine .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-5
+                         Emergency Stop Button.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-5
+              Driving the Broom .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-6
+                         Cab Door Release.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-6
+                         Adjust Seat .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-7
+                         Adjust Steering Console .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-7
+                         Cab AC/Heat.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-7
+                         Joystick Transmission Selector.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-8
+                         Speed Selector Switch.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-8
+                         Stopping and Braking .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-8
+              PV380 PowerView™ Display.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-9
+                         Keypad Functions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-10
+                         Gauge Screens .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-11
+                         User Settings Screen.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-12
+                         Service Reminders Screen .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-13
+                         Faults Screen.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-14
+                         PV380 Diagnostic Codes.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-14
+              Starting to Sweep.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-16
+                         Joystick Controls .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-16
+                         Brush Lift/Float .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-16
+                         Brush Swing.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-16
+                         Brush Rotation Lever .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-17
+                         Brush Speed and Down Pressure .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-17
+
+
+
+
+vi                                                                                                                                                             Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 7 ===
+Table of Contents
+                    Sweeping Guidelines.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-17
+                    Brush Core Adjustment.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-18
+                    Quick-Change Brush Core.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-18
+                    Transporting the Broom .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-19
+                    Options.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                               4-20
+                              Brushes .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-20
+                              Front Windshield Washer and Rear Wiper/Washer .   .   .   .   .   .   .   .   .   .  4-20
+                              Rearview Camera System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-20
+                              Dust Suppression System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-20
+                              Cab Audio and Bluetooth.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-20
+                              Forward/Reverse Brush Rotation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-21
+                              Spare Tire and Mount .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-21
+                              Curb Brush .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-21
+                              Strike-Off Blade.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-21
+                              Telescoping Steering .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  4-22
+                              Cab Air Quality Kit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 4-22
+                              Magnetic Cup Holder .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4-22
+          Maintenance.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-1
+                    Maintenance Schedule.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-3
+                    Routine Maintenance.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-4
+                              Preparing Machine for Maintenance .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-4
+                              Every 10 Hours or Daily Routine Maintenance .   .   .   .   .   .   .   .   .   .   .   .   . 5-4
+                              Every 50 Hours or Weekly Routine Maintenance .   .   .   .   .   .   .   .   .   .   .  5-4
+                              Every 100 Hour or Monthly Maintenance.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-4
+                              Every 250 Hours or Quarterly Routine Maintenance .   .   .   .   .   .   .   .   .   . 5-5
+                              Every 500 Hours or Semi-Annual Routine Maintenance .  .  .  .  .  .  .  . 5-5
+                              Every 1000 Hours or Annual Routine Maintenance.   .   .   .   .   .   .   .   .   .   . 5-5
+                    Machine Lubrication .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-5
+                              Lubrication Points.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-6
+                               Lubrication points are shown below:.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-6
+                              Daily Lubrication.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-7
+                              Weekly Lubrication.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-7
+                              Monthly Lubrication .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-8
+                              Biannual and Annual Lubrication .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-8
+                              Drive Axle .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-8
+                    Engine Maintenance .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-9
+
+
+
+
+Rosco RB50 Broom                                                                                                                                                         vii
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 8 ===
+Table of Contents
+                 Check Engine Oil .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-9
+                 Change Engine Oil and Filter.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-10
+                 Inspect Cooling System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-11
+                 Air Filter.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-11
+       Fuel System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-12
+                 Fuel Filter .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-12
+                 Fuel Water Separator.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-13
+       Electrical System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-13
+                 Battery Servicing.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-13
+                 Check Battery Electrolyte Level .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-14
+                 Alternator .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-15
+                 Lighting .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-15
+                 Cold Weather Starting .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-15
+                 Fuse Box Panel .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-16
+                 Dielectric Grease.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-16
+       Hydraulic System .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-17
+                 Check Hydraulic Oil Level .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-18
+                 Change Hydraulic Oil and Filter .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-18
+                 Hydraulic Pump and Motor.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-19
+                 Change Hydraulic Oil Strainer.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-19
+                 Priority Relief Valve .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                    5-20
+                 Brush Drive Relief Valve.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-21
+       Chassis Maintenance.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-22
+                 Tires and Wheels.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5-22
+                 Change Tires.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                     5-23
+                 Repack Front Wheel Bearings .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-24
+                 Change Drive Axle Oil .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-25
+                 Park Brake Adjustment.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-25
+                 Brakes.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-25
+       Dust Suppression System (Option).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-26
+       Component Replacement .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-26
+                 Change Brush Core.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-26
+                 Replace Batteries.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-27
+                 Replace Radiator Hoses .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                            5-28
+       Winterizing for Storage.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-28
+                 Periodic Maintenance in Storage.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-29
+                 Removing from Storage .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-29
+
+
+
+viii                                                                                                                                                            Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 9 ===
+Table of Contents
+                    Weldment .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 5-30
+                    Troubleshooting .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-31
+                               Hydraulic Motor Installation Start-Up Procedure.   .   .   .   .   .   .   .   .   .   . 5-31
+                               Troubleshooting Chart.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  5-32
+                    Main Wiring Schematic (1 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-3
+                    Main Wiring Schematic (2 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-5
+                    Main Wiring Schematic (3 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-7
+                    Main Wiring Schematic (4 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-9
+                    Main Wiring Schematic (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-11
+                    Main Wiring Harness (1 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6-13
+                    Main Wiring Harness (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-15
+                    Cab Harness (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-17
+                    Cab Harness (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-19
+                    Controls Console (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-21
+                    Controls Console (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-23
+                    Beacon Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-25
+                    Oil Cooler Schematic/Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-27
+                    Option - Windshield Washer Pump Harness.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                                 6-29
+                    Option - Spray Pump Harness .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-31
+                    Option - Curb Brush Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-33
+                    Option - Snow Plow Harness.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-35
+                    Option - FNR Pedal Main Harness (1 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-37
+                    Option - FNR Pedal Main Harness (2 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                            6-39
+                    Option - FNR Pedal Broom Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-41
+                    Option - FNR Pedal Control Console (1 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                            6-43
+                    Option - FNR Pedal Control Console (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-45
+                    Hydraulic System - Standard (1 of 5).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                        6-47
+                    Hydraulic System - Snow Plow Option (2 of 5) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                              6-49
+                    Hydraulic System - Curb Brush Option (3 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 6-51
+                    Hydraulic System - Curb Brush & Snow Plow Option (4 of 5).  .  .  .  .  .  .  .                                                       6-53
+                    Hydraulic System - FNR Pedal Option (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  6-55
+          Illustrated Parts List .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-1
+                    Quick Reference Guide .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-3
+                    Axle - Assemblies.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-4
+                    Axle - Rear Drive (1 of 3).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-6
+                    Axle - Rear Drive (2 of 3).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-8
+
+
+
+
+Rosco RB50 Broom                                                                                                                                                      ix
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 10 ===
+Table of Contents
+        Axle - Rear Drive (3 of 3) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-10
+        Axle - Drive Motor.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-12
+        Axle - Front Steering .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-14
+        Axle - Front Steering (Cont.).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-16
+        Brush Assembly, Pivot.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-18
+        Brush Assembly, Drive & Idler .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-20
+        Brush Assembly, Drive and Idler (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-22
+        Tanks - Fuel, 30 Gallon .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-24
+        Tanks - Hydraulic, 25 Gallon .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-26
+        Engine Covers.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-28
+        Engine - Radiator .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                            7-30
+        Engine - Intake and Exhaust .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-32
+        Engine - Components.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                 7-34
+        Engine - Hydraulic Pumps .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-36
+        Hydraulic System (1 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-38
+        Hydraulic System (2 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-40
+        Hydraulic System (3 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-42
+        Hydraulic System (4 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-44
+        Hydraulic System (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-46
+        Cab Assembly , Details (1 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                 7-48
+        Cab Assembly, Details (2 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-50
+        Cab Assembly, Windows .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-52
+        Cab Assembly, Door .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-54
+        Cab Assembly, Brakes .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-56
+        Cab Assembly, Steering .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-58
+        Cab Assembly, Spring Seat.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-60
+        Cab Assembly, Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-62
+        Cab Assembly, Controls (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-64
+        Cab Assembly, Fuse Panel.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-66
+        OPTION - Cab Assembly, AC/Heater (1 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                           7-68
+        OPTION - Cab Assembly, AC/Heater (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-70
+        OPTION - Cab Assembly, Filtration System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-72
+        OPTION - Front Winshield Spray Washer.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-74
+        OPTION - Cab Rear Wiper/Spray Washer .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-76
+        OPTION - FNR Brush Rotation .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-78
+        OPTION - Foot Pedal Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-80
+
+
+
+
+x                                                                                                                                                   Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 11 ===
+Table of Contents
+               OPTION - Foot Pedal Controls, Pumps .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-82
+               OPTION - Foot Pedal Controls, Details .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-84
+               OPTION - Rear Camera System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-86
+               OPTION - Stereo System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-88
+               OPTION - Brush Water Spray Down.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                         7-90
+               OPTION - Brush Water Spray Down Assembly (Cont.) .  .  .  .  .  .  .  .  .  .  .  . 7-92
+               OPTION - Curb Brush.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                7-94
+               OPTION - Curb Brush (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-96
+               OPTION - Curb Brush, Hydraulics (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-98
+               OPTION - Curb Brush, Hydraulics (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-100
+               OPTION - Snow Plow. . . . . . . . . . . . . . . . . . . . . . . . . . . .7-102
+               OPTION - Snow Plow (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-104
+               OPTION - Snow Plow, Hydraulics.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-106
+               OPTION - Front Fenders .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-108
+               OPTION - Lightbar .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-110
+               OPTION - Extended Air Cleaner.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                     7-112
+               OPTION - Spare Tire Mount .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-114
+               Decal Schedule .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-116
+               Hydraulic Hose Schedule - Standard Unit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-118
+               Hydraulic Hose Schedule - Options .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      7-119
+               Alphabetical Parts Index.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-120
+
+
+
+
+Rosco RB50 Broom                                                                                                                                             xi
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 12 ===
+Table of Contents
+
+                    NOTES
+
+
+
+
+xii                         Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 13 ===
+Introduction
+Thank you for purchasing the Rosco RB50 Broom. We            Section 1 - Safety: Contains general and specific safety
+wish you many years of safe and efficient operation of       guidelines for product and safety label locations.
+your machine.
+                                                             Section 2 - Information and Specifications: Contains
+READ THIS MANUAL PRIOR TO OPERATING the unit.
+                                                             warranty, contact information, machine specification
+This is an important part of the machine and should be
+                                                             tables, and machine dimensions.
+kept in the dedicated storage container at all times.
+Though you may be familiar with similar equipment,
+                                                             Section 3 - Component Location: Contains overview
+you MUST read and understand this manual before
+                                                             of major component locations and functions.
+operating this machine to help prevent injury or damage
+to the unit. If this manual becomes lost or damaged,
+                                                             Section 4 - Operation: Contains instructions for safe
+contact your authorized Rosco LeeBoy dealer
+                                                             operation and information for optional equipment.
+immediately to order a replacement (see Contact
+Information in Section 2).
+                                                             Section 5 - Maintenance: Contains routine mainte-
+This manual is intended as a guide for the safe and          nance procedures, mechanical adjustments, component
+efficient use for proper operation and maintenance           replacement and troubleshooting charts for common
+of the machine. This manual contains information that        problems and corrections. (For specific engine main-
+was available at the time of printing and are subject to     tenance procedures, refer to the engine manufacturer
+change without notice.                                       manual.)
+Use this manual along with all related supplemental
+books, engine and transmission manuals included              Section 6 - Schematics: Contains electrical and hy-
+with your machine. Related Service Bulletins should          draulic schematics for product functionality.
+be reviewed to provide information regarding some of
+the recent changes. Contact your authorized Rosco            Section 7 - Illustrated Parts List (IPL): Contains parts
+LeeBoy dealer for the latest available information.          numbers and illustrations for serviceable components.
+
+
+
+
+                             LeeBoy is proud to be ISO 9001 certified. The International Standards Organization
+                              (ISO) establishes guidelines to ensure that products and services are safe, reliable,
+                                and of good quality. ISO certifies companies who demonstrate compliance with all
+                                 aspects of product safety, customer satisfaction, efficiency, environmental
+                                  stewardship and social responsibility. Our teams work hard to deliver quality
+                                 industrial machines that exceed customer expectations and we strive for continuous
+                                improvement in everything we do. The LeeBoy family of companies is committed to
+                              total quality management with a strong focus on meeting customer needs.
+
+
+
+
+                             LeeBoy is also proud to be an accredited ANAB manufacturer, which is a certification
+                              process comprised of quality standards established by the American National
+                              Standards Institute (ANSI) and the American Society for Quality (ASQ). The ANSI-ASQ
+                              National Accreditation Board plays an important role in ensuring the safety and quality
+                             of goods and services, along with protecting the environment.
+
+
+
+
+Rosco RB50 Broom                                                                                                     xiii
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 14 ===
+Introduction
+
+               NOTES
+
+
+
+
+xiv                    Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 15 ===
+Section 1
+                                                                         SAFETY
+                                                                                                                                                               Page
+                                                                                                                                                                                1
+           Safety .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-1
+                      Safety Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-4
+                      Machine Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                 Hot Material Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-7
+                                 Hydraulic Systems Precautions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-7
+                                 Refueling Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                 Battery Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-8
+                                 Starting and Stopping Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                 Parking Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                 Operating Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-8
+                                 Storage Precautions.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-9
+                                 Maintenance Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 1-9
+                                 Tire Precautions .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  1-10
+                      Safety Decals.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-11
+                                 Safety Decals Care.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1-12
+
+
+
+
+Rosco RB50 Broom                                                                                                                                                          1-1
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 16 ===
+Safety
+
+         NOTES
+
+
+
+
+1-2              Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 17 ===
+Safety
+
+This manual provides important information to familiarize      LOOK FOR THESE SYMBOLS THROUGHOUT
+you with safe operating and maintenance procedures.           THIS MANUAL. THESE ITEMS ARE EXTREMELY
+Even though you may be familiar with similar equipment,        IMPORTANT FOR THE SAFETY OF YOU AND
+you MUST read and understand this manual before               YOUR COWORKERS. READ AND UNDERSTAND
+operating the Rosco RB50 Broom and follow its                  THOROUGHLY. HEED THE WARNINGS AND
+
+
+                                                                                                                       1
+instructions when operating the broom.                               FOLLOW THE INSTRUCTIONS.
+Safety is everyone’s business and our top concern.
+Knowing the guidelines covered in this section will help
+                                                                            Indicates a hazardous situation which,
+ensure your safety, the safety of those around you, as
+                                                            if not avoided, will result in death or serious injury.
+well as proper broom operation.
+Keep safety decals in good condition. If safety
+decals become missing or damaged, replace them                              Indicates a hazardous situation which,
+immediately. Replacement safety decals are available        if not avoided, could result in death or serious injury.
+from your authorized Rosco/LeeBoy dealer.
+You can find more information about occupational
+health and safety in the industry on the internet. A few                    Indicates a hazardous situation which,
+resources are listed below:                                 if not avoided, could result in minor or moderate
+                                                            injury.
+                     www.osha.gov
+                         cdc.gov
+                                                                          Indicates a situation which can cause
+               www.safety.fhwa.dot.gov/                     damage to the equipment, personal property and/
+                                                            or the environment, or cause the machine to operate
+                                                            improperly.
+
+
+                                                            NOTE: Indicates a procedure, practice or condition
+                                                                  that should be followed in order for the
+                                                                  machine or component to function in the
+                                                                  manner intended.
+
+
+
+
+Rosco RB50 Broom                                                                                                 1-3
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 18 ===
+Safety
+
+SAFETY PRECAUTIONS
+                                                              The safety messages that follow have DANGER level
+                                                                                  hazards.
+
+The safety messages that follow have CAUTION level
+                    hazards.                                               Power Lines Hazard
+                                                              If your machine comes into contact with electric power
+                                                              lines, observe the following:
+            Pre-Operation Hazard
+                                                              • Stay in the operators seat.
+          Read and understand this manual before
+          operating or servicing the engine to                • Warn other workers to stay away and do not touch any
+          ensure that safe operating practices and              control or any part of the machine.
+          maintenance procedures are followed.                • If contact can be broken, drive the machine away from
+• Never permit anyone to service or operate the                 the danger zone.
+  machine without proper training.                            • If contact cannot be broken, stay in the operators seat
+• Safety signs and labels are additional reminders for          until told that power is off.
+  safe operating and maintenance techniques.                  • Failure to observe these directions could result in
+• Contact your authorized Rosco/LeeBoy dealer for               electrocution or death.
+  additional training.
+• Make sure you are aware of all laws and regulations                      Electrocution Hazard
+  that are in effect for the location in which the broom is
+  operated.                                                   Disconnect the battery before welding anywhere on the
+                                                              machine.
+• Make sure you have all necessary licenses to operate
+  the broom.                                                                Suffocation Hazard
+                                                                         Carbon monoxide poisoning is a serious
+The safety messages that follow have CAUTION level                       condition that occurs as a result of improper
+                    hazards.                                             ventilation.
+                                                              • Never operate the internal combustion engine on this
+                                                                machine in an enclosed area with poor ventilation.
+                  Poor Lighting Hazard                          Ensure proper ventilation to reduce risk of carbon
+          The work area must be well lit to ensure safe         monoxide poisoning or death.
+          and proper operation.
+• Ensure that the work area is adequately illuminated.                         Exhaust Hazard
+• Always install wire cages on portable safety lights.
+                                                                          All internal combustion engines create
+                                                                          carbon monoxide gas during operation and
+                                                                          special precautions are required to avoid
+                    Tool Hazard                                           carbon monoxide poisoning:
+Always use tools appropriate for the task at hand and         • Never block windows, vents or other means of
+use the correct size tool for loosening or tightening           ventilation.
+machine parts.
+                                                              • Always ensure that all connections are tightened to
+                                                                specifications after repair is made to the exhaust
+                                                                system.
+
+
+
+
+1-4                                                                                                Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 19 ===
+Safety
+
+                                                                     Fire and Explosion Hazard
+                                                            • Diesel fuel is flammable and explosive under certain
+  The safety messages that follow have WARNING                conditions.
+                  level hazards.
+                                                            • Never use a shop rag to catch fuel.
+
+
+                  Crush Hazard
+Keep bystanders away from work area before and
+                                                            • Wipe up all spills immediately.
+                                                            • Never refuel with the engine running.                        1
+                                                            • Store any containers containing fuel in a well-
+during operation.                                             ventilated area, away from any combustibles or
+                                                              sources of ignition.
+
+             Modification Hazard                                                Fire Hazard
+Never modify the machine without the written consent                    When operating machinery there is a risk for
+of Rosco/LeeBoy . Any modification can affect safe                      fire. Always ensure appropriate safety
+operation and may cause personal injury or even death.                  equipment is available.
+                                                            • Keep a charged fire extinguisher within reach when
+                                                              working in an environment where a fire may occur.
+                Exposure Hazard                             • Have all fire extinguishers checked periodically for
+                                                              proper operation and/or readiness.
+           Operators must be aware of their work
+           environment and the equipment needed to          • Always read and follow safety-related precautions
+           work safely.                                       found on containers of hazardous substances
+                                                              like parts cleaners, primers, sealants and sealant
+                                                              removers.
+• Always wear personal protective equipment, including      • Undersized wiring systems can cause electrical fires.
+  appropriate clothing, gloves, work shoes, and
+  protection for eyes and ears, as required by the task
+  at hand.                                                          Entanglement/Sever Hazard
+                                                                         Verify there are no people, obstacles or
+               Explosion Hazard                                          other equipment near the machine before
+                                                                         starting the engine. Sound the horn as a
+            While the engine is running or the battery is                warning before starting the engine.
+            charging, hydrogen gas is being produced
+            and can be easily ignited. Keep the area                     If the engine must be serviced while it is
+            around the battery well-ventilated and keep                  operating, remove all jewelry and tie back
+            sparks, open flame, and any other form of                    long hair before operating or servicing the
+            ignition out of the area.                                    machine.
+• Always disconnect the negative (-) battery cable          • Keep hands, other body parts, and clothing away from
+  before servicing the broom.                                 moving/rotating parts.
+• Do not start the engine by shorting the starter circuit   • Always stop the engine before beginning service.
+  or any other starting method not stated in this manual.     Before maintenance, remove negative battery cable
+  Only use the starting procedure as described in this        from battery post to ensure vehicle is not operated
+  manual to start the engine.                                 during maintenance.
+• Never charge a frozen battery. Always slowly warm the     • Verify that all guards and covers are properly attached
+  battery to room temperature before charging.                before starting the engine. DO NOT start the engine if
+                                                              any guards or covers are not properly installed on the
+                                                              machine.
+
+
+
+
+Rosco RB50 Broom                                                                                                     1-5
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 20 ===
+Safety
+
+• If you must run the engine during maintenance                             Flying Object Hazard
+  procedures, make sure you have a helper to
+  keep bystanders clear of the machine and make                            Always wear eye protection when cleaning
+  observations of moving parts as requested by the                         the machine with compressed air or high-
+  operator.                                                                pressure water.
+
+• Always turn the start switch to the OFF position after                   Dust, flying debris, compressed air,
+  operation is complete and remove the key from the                        pressurized water or steam may cause eye
+  switch. Keep the key in your possession when the                         injury.
+  broom is not operating.                                                       Coolant Hazard
+• Attach a “Do Not Operate” tag near the key switch
+  while performing maintenance on the equipment.                           Coolant must be handled properly to ensure
+                                                                           operator safety.
+• Never operate the engine while wearing a headset to
+  listen to a radio or music because it will be difficult to   • Wear eye protection and rubber gloves when handling
+  hear the warning signals.                                      engine coolant.
+
+• Always start the engine and operate the controls while       • If contact with the eyes occurs, flush eyes with clean
+  seated in the operators seat.                                  water for 15 minutes.
+                                                               • If contact with skin occurs, wash immediately with
+                                                                 soap and clean water.
+          Alcohol and Drug Hazard
+
+             Never operate the machine while under the                            Burn Hazard
+             influence of alcohol, drugs, or when ill.
+                                                                            Some of the machine’s surfaces become
+                                                                            very hot during operation and shortly after
+                                                                            shutdown.
+                 Piercing Hazard
+                                                               • Keep hands and other body parts away from hot
+           High-pressure hydraulic fluid or fuel can             machine surfaces.
+           penetrate your skin and result in serious
+           injury. Avoid skin contact with high-pressure       • Handle hot components with heat-resistant gloves.
+           hydraulic fluid or diesel fuel spray caused by
+           a hydraulic or fuel system leak such as a
+broken hydraulic hose or fuel injection line.
+• If you are exposed to high-pressure hydraulic fluid or
+  fuel spray, obtain prompt medical treatment.
+• Never check for a hydraulic fluid or fuel leak with your
+  hands. Always use a piece of wood or cardboard.
+  Have your authorized LeeBoy dealer or distributor
+  repair the damaged parts.
+
+
+
+
+1-6                                                                                                 Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 21 ===
+Safety
+
+                                                              MACHINE PRECAUTIONS
+ The safety messages that follow have NOTICE level            Hot Material Precautions
+                    hazards.                                  • Allow machine to cool before repairing or maintaining
+
+
+                                                                                                                             1
+                                                                working components.
+Any part that is found defective as a result of inspection    • DO NOT remove radiator cap, drain plugs, service
+or any part whose measured value does not satisfy the           grease fittings, or pressure taps while engine is hot.
+standard or limit must be replaced.                             Add coolant to the radiator and perform other services
+                                                                only when the engine is stopped and fully cooled.
+Always tighten components to the specified torque.
+Loose parts can cause damage to the machine or cause
+it to operate improperly.
+                                                              Hydraulic Systems Precautions
+Only use replacement parts approved by Rosco/
+LeeBoy. Other replacement parts may affect warranty           • Ensure all components are in good working condition.
+coverage.                                                       Replace any worn, cut, abraded, flattened or crimped
+                                                                hoses and metal lines.
+               Follow the guidelines of the EPA or other
+               governmental agencies for the proper           • DO NOT attempt makeshift repairs using tape, clamps
+               disposal of hazardous materials such as          or cements. The hydraulic system operates under
+               engine oil, diesel fuel, and engine coolant.     extremely high pressure and such repairs could
+               Consult the local authorities or                 cause serious injury.
+               reclamation facility.                          • Wear proper hand and eye protection when checking
+Dispose of hazardous materials in accordance with               for a high pressure leak. Use a piece of wood or
+all applicable laws and regulations. Never dispose of           cardboard as a back stop to isolate and identify leaks.
+hazardous materials by dumping them into a sewer, on
+                                                                             Hydraulic oil under pressure can
+the ground, or into groundwater or waterways.
+                                                              cause serious personal injury. Check for oil leaks
+Clean all accumulated dirt and debris away from the           with a piece of cardboard. DO NOT expose hands to
+body of the broom and its components before you               possible high-pressure oil. Turn off engine before
+inspect the broom or perform preventive maintenance           attempting to tighten oil lines and fittings.
+procedures or repairs. Operating a machine with
+                                                              • Escaping pressurized hydraulic fluid has force
+accumulated dirt and debris will cause premature wear
+                                                                sufficient to penetrate the skin, which could cause
+of components.
+                                                                serious personal injury. Ensure all pressure is
+If any alert indicator illuminates during operation, stop       relieved before disconnecting line, hoses or valves.
+the engine immediately. Determine the cause and repair
+                                                              • If injury from concentrated high pressure steam
+the problem before continuing to operate.
+                                                                or hydraulic fluid occurs, seek medical attention
+                                                                immediately. Injuries resulting from hydraulic fluid
+                                                                penetrating the skin’s surface can result in serious
+                                                                infections or toxic reactions.
+
+
+
+
+Rosco RB50 Broom                                                                                                       1-7
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 22 ===
+Safety
+
+Refueling Precautions                                         Starting and Stopping
+• Do NOT overfill the fuel tank as overflow creates a fire    Precautions
+  hazard when spilled on hot components.                      • Check all around the machine to ensure there are no
+• DO NOT smoke when refueling and never refuel when             people working on the machine or in its path before
+  the engine is running. Fuel is highly flammable and           starting. DO NOT start until area is clear. Death or
+  should be handled with care. Death or serious injury          serious injury can occur to bystanders from being
+  can occur due to explosion and/or fire.                       crushed under a moving machine.
+• DO NOT fill tank to capacity. Allow room for expansion                   DO NOT operate the engine in an
+  to reduce the risk of fuel expanding and spilling from      enclosed area without proper ventilation. Exhaust
+  the tank.                                                   gasses are odorless and deadly.
+• Tighten fuel cap securely. Should fuel cap be lost,
+  replace it with an original manufacturer’s approved
+  cap. Pressurization of the tank may result from use of      Parking Precautions
+  non-approved cap.
+                                                              • Park machine on level ground whenever possible and
+• Prevent fires by keeping the machine clean of                 apply the parking brake.
+  accumulated debris, grease, and spilled fuel.
+                                                              • Before leaving operator’s station:
+• Use ultra-low sulfur diesel fuel (ULSD) only.
+                                                               1.   Turn off all accessories.
+                                                               2.   Set parking brake.
+Battery Precautions                                            3. Shut off engine.
+• Keep all sparks and flames away from batteries, as          • Always remove ignition key when leaving the machine
+  gas given off by electrolytes is explosive.                   parked or unattended.
+• Acid propelled by an explosion can cause blindness
+  if it comes in contact with eyes. Always wear safety
+  glasses when working near batteries.                        Operating Precautions
+• If you come in contact with battery electrolyte solution,   • Always comply with local regulations regarding
+  wash off immediately. Chemicals can cause burns.              industrial equipment on public roads and highways.
+• Always disconnect the battery ground cable before           • Know and use the hand signals required for a
+  working on the electrical system to avoid injury from         particular job. Know who has the responsibility for
+  spark or short circuit. Electrical shock and burns can        signaling.
+  occur.                                                      • Make sure that all lights and reflectors comply with
+• To avoid electrolyte loss, DO NOT tip batteries more          state and local regulations. Ensure that they are
+  than 45 degrees.                                              clean, in good working order, and can be seen clearly
+                                                                by all traffic.
+• Use jumper cables ONLY as directed in Section 5
+  (Maintenance). Improper use can result in battery           • DO NOT ride on attachments.
+  explosion or unexpected machine motion.                     • Check all gauges and warning instruments for proper
+                                                                operation. If malfunctions are found, shut down the
+                                                                machine and report the problem for resolution. If the
+                                                                failure causes loss of steering control, loss of brake
+                                                                control, or loss of engine power, stop motion as
+                                                                quickly as possible. Apply parking brake and turn off
+                                                                the machine. Keep the machine securely parked until
+                                                                the failure is corrected or the machine can be safely
+                                                                transported.
+
+
+
+
+1-8                                                                                                  Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 23 ===
+Safety
+
+• Drive the machine with care. Make sure speed is           Maintenance Precautions
+  compatible with conditions. Use caution on rough
+  ground, slopes, in traffic zones and while turning.       • DO NOT attempt repairs unless trained to do so.
+                                                              Refer to manuals and experienced repair personnel
+• Be alert for hazards and obstructions such as ditches,      for help.
+  trees, cliffs, overhead power lines, and areas where
+  there is danger of a slide.
+• Be aware of and understand the job site traffic flow
+  patterns.
+                                                            • Before working on the machine, securely block the
+                                                              machine and any components that may fall. Block
+                                                              any working components to prevent unexpected
+                                                              movement while repairs are being made.
+                                                                                                                          1
+• Obey flagmen, road signs, and signals.                    • Always wear safety glasses and other required safety
+• Watch for bystanders. Never allow anyone to be              equipment when servicing or making repairs.
+  under the machine during operation. Never allow           • Disconnect battery before working on the electrical
+  anyone to reach into the machine during use.                system.
+• Operator must know how to use signaling devices and       • Avoid lubrication or mechanical adjustments while the
+  understand which circumstances require use of each          machine is in motion and engine is operating.
+  signal. Use tail lights, slow moving vehicle signs, and
+  warning beacon as needed when traveling on public         • If lubrication or mechanical adjustment is necessary,
+  roads. It is recommended that you provide an escort         use extreme caution.
+  on the road.                                              • Never make repairs on pressurized components such
+• DO NOT tow the machine, except to remove from road          as fluid lines, the gas system, or mechanical items until
+  or load on a trailer for transport.                         the pressure has been relieved.
+                                                            • When servicing or replacing hardened pins, use a
+                                                              brass drift or other suitable material between the
+Storage Precautions                                           hammer and pin.
+• Store machine in an area away from human activity.        • Keep brake and steering systems in good operating
+                                                              condition.
+• DO NOT permit children to play on or around the
+  machine. Serious injury or death can occur from
+  improper/unauthorized use of the machine.
+• Make sure the unit is stored on a surface that is firm,
+  level, and free of debris.
+• Store the machine inside a building or cover securely
+  with a weatherproof tarpaulin.
+
+
+
+
+Rosco RB50 Broom                                                                                                    1-9
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 24 ===
+Safety
+
+Tire Precautions                                               •   DO NOT attempt to demount a tire unless you have
+                                                                   the proper equipment and experience to do the job.
+              DO NOT mount or demount tires
+                                                               •   DO NOT try to seat rings or other components by
+without proper training. A violent explosion can
+                                                                   hammering unless tire is fully deflated. Double-
+occur.
+                                                                   check all components prior to inflation.
+Follow all procedures and safety instructions. Charts
+                                                               •   DO NOT inflate a tire before all components are
+containing mounting and demounting instructions are
+                                                                   properly in place. Recheck components for proper
+available from OSHA at www.osha.gov/pls/publications.
+                                                                   assembly. If improperly assembled, deflate and
+                Contact your authorized dealer or                  correct.
+a qualified tire dealer or repair service to perform           •   Never hammer on a tire/rim assembly that is not fully
+required tire maintenance.                                         deflated. If assembly is proper at 10 psi (68,947.572
+•   Clean rims and repaint to stop corrosion and                   Pa), continue to inflate to fully seat the tire beads.
+    facilitate checking air level and tire mounting. Be            Then completely deflate the tire to prevent overly
+    careful to clean all dirt and rust from the lock ring          stretching the tube. Reinflate to recommended
+    and gutter. This is important to secure lock ring in its       operating pressure.
+    the proper position.                                       •   NEVER sit on or stand in front of a tire/rim assembly
+•   Check rim components periodically for cracks.                  during inflation. Use a clip-on chuck and make sure
+    Replace all cracked, badly worn, severely rusted,              inflation hose is long enough permit the person
+    and otherwise damaged components with new parts                inflating the tire to stand to the side of the tire.
+    of the same size and type. If you are not sure about       •   DO NOT hammer components with steel hammers.
+    proper mating of tire and wheel parts, consult your            Use rubber, lead, plastic, or brass-faced mallets to
+    authorized dealer or a wheel and rim expert.                   tap components together.
+               DO NOT attempt to rework, weld,                 •   DO NOT try to drive an assembled or partially-
+heat or braze any rim components that are cracked,                 assembled tire or rim over a cast spoke wheel by
+broken or damaged. Replace damaged components                      hammering. DEFLATE and examine to determine
+with new parts of the same size and type. Mixing                   the reason for the improper fit. Look for distortion or
+parts of one type with those of another is potentially             components that are not properly locked or sealed.
+dangerous.
+                                                               •   Block the tire and wheel on opposite sides of the
+                DO NOT reinflate a tire that has been              vehicle before you place the jack in position. Always
+run flat without first inspecting the tire, tube, flap, rim,       put hardwood blocks under the jack and crib up the
+and wheel assembly. Double-check the side ring and                 vehicle in case the jack slips.
+O-ring for damage, ensuring they are secured in the
+gutter before inflation.                                       •   DO NOT inflate tires beyond the maximum
+                                                                   recommended inflation pressure.
+             Mismatched rim parts are dangerous
+                                                               •   NEVER operate a vehicle on a single tire of a dual
+and could cause SEVERE injury.
+                                                                   assembly. The carrying capacity of the single tire
+•   Remove valve core to exhaust all air from tire.                and rim is dangerously exceeded and operating a
+    ALWAYS exhaust all air from tire prior to removing             vehicle in this manner can result in damage to the
+    rim components or wheel components such as nuts                rim and tire.
+    or rim clamps. Check the valve stem by running a
+    piece of wire through the stem to make sure it is not
+    plugged.
+
+
+
+
+1-10                                                                                                 Rosco RB50 Broom
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 25 ===
+Safety
+
+SAFETY DECALS
+If your machine is repainted, it is extremely important
+                                                                NOTE: It is the responsibility of the owner and
+that you replace all the CAUTION, WARNING and
+                                                                operator to make sure that all safety labels are
+DANGER safety decals as shown in the following
+
+
+                                                                                                                     1
+                                                                readable and located on the machine as designated
+graphics. For additional help, refer to the parts listing in
+                                                                by LeeBoy.
+Section 7 and contact your authorized LeeBoy dealer to
+order a replacement kit.
+
+                                         Safety Decal Locations
+                                                      Part # 1010090
+
+
+
+
+                      Part # 1021704-03
+                                                          Part # 1010091
+
+
+
+                                (Right Side)
+                                                                                   Part # 59020040
+            (Both Sides)
+
+
+
+
+                                                                                    Part # 1008622
+
+
+
+
+                                                 (Both Sides)
+
+
+
+
+                                                                                    (Both Sides)
+
+
+
+
+    Part # 10150136-03                     Part # 1021704-02
+
+
+
+Rosco RB50 Broom                                                                                              1-11
+

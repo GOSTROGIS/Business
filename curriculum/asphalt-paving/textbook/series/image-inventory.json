@@ -1,0 +1,792 @@
+{
+  "placements": 131,
+  "unique_figures": 84,
+  "images": [
+    {
+      "chapter": "B2",
+      "figure": "truck-interface",
+      "file": "assets/diagrams/truck-interface.svg",
+      "sha256": "63da253176ae93148e418441444d20ce82088652403bd34901ba5c39a34faf2e"
+    },
+    {
+      "chapter": "B2",
+      "figure": "cat-paver-sections",
+      "file": "../../caterpillar/assets/figures/paver-sections.png",
+      "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b"
+    },
+    {
+      "chapter": "B3",
+      "figure": "broom-anatomy",
+      "file": "assets/diagrams/broom-anatomy.svg",
+      "sha256": "33d24b40c775716de14b3836e82c769f17d009fd189411219db61db51e4b0d35"
+    },
+    {
+      "chapter": "B3",
+      "figure": "rb50-components",
+      "file": "assets/crops/rb50-components.png",
+      "sha256": "1b70a54c223f9c8bc9b3dc1a7b6d8a821d27f0bdaa52cb5a7815ca8bb3921817"
+    },
+    {
+      "chapter": "B4",
+      "figure": "pneumatic-system",
+      "file": "assets/diagrams/pneumatic-system.svg",
+      "sha256": "d995a5fdbc1ea7ef758efa5ff895c709f0144031dd4402b802b8b1758259982e"
+    },
+    {
+      "chapter": "B4",
+      "figure": "cp-breaker",
+      "file": "assets/crops/cp-breaker.png",
+      "sha256": "9c78df9291e0184de114c942f59e83335378b33573f2704aa5c2620ebf62b6fc"
+    },
+    {
+      "chapter": "B5",
+      "figure": "propane-assembly",
+      "file": "assets/diagrams/propane-assembly.svg",
+      "sha256": "47c712f6e4241df971229e6b0959f972e675f06486285cdc1415b98b746079b8"
+    },
+    {
+      "chapter": "B5",
+      "figure": "torch-instructions",
+      "file": "assets/crops/torch-instructions.png",
+      "sha256": "4b12717feb4beea2d9ee574dc54d4ba855a890a28ad903c5f8ce567d1056682a"
+    },
+    {
+      "chapter": "B6",
+      "figure": "heat-response",
+      "file": "assets/diagrams/heat-response.svg",
+      "sha256": "3aaf3e8a06a08edbedfd16907bbe0f7dde97b57bda042a34ba75559143985deb"
+    },
+    {
+      "chapter": "B6",
+      "figure": "exposure-routes",
+      "file": "../assets/exposure-routes.svg",
+      "sha256": "74b28fca37cc4e3bbac2c97de1d525b41a3f048082721ef881b3758867e5be7e"
+    },
+    {
+      "chapter": "B7",
+      "figure": "traffic-zones",
+      "file": "assets/diagrams/traffic-zones.svg",
+      "sha256": "63ea67eb24aaa182c8705184d735edfd1ff297312277fe64e33c859f0f33d421"
+    },
+    {
+      "chapter": "B7",
+      "figure": "public-route",
+      "file": "../assets/public-route.svg",
+      "sha256": "fe433960b4deefc9005b78079d2dec84ba6d97e7653f936d44ef8aa7870773f6"
+    },
+    {
+      "chapter": "B8",
+      "figure": "aggregate-process",
+      "file": "assets/diagrams/aggregate-process.svg",
+      "sha256": "03a779c27461ad56c1bf6e28213a7a34a1dba55c3419009262fd72d5c7b5cbbd"
+    },
+    {
+      "chapter": "B8",
+      "figure": "cat-milling-conveyor",
+      "file": "../../caterpillar/assets/figures/milling-conveyor.png",
+      "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80"
+    },
+    {
+      "chapter": "B9",
+      "figure": "transport-budget",
+      "file": "assets/diagrams/transport-budget.svg",
+      "sha256": "233dfa39a3f860a9e0209b903ddd9d7de1f24d06a556a0ea1ab16d54c07f81d3"
+    },
+    {
+      "chapter": "B9",
+      "figure": "cat-truck-body-liners",
+      "file": "../../caterpillar/assets/figures/truck-body-liners.png",
+      "sha256": "6669f35e291aa8aa476b55d125ccffd7678ebe909f555266504a5f4166f254f7"
+    },
+    {
+      "chapter": "B10",
+      "figure": "fatigue-clock",
+      "file": "assets/diagrams/fatigue-clock.svg",
+      "sha256": "7302b2333f5093c2577de87a71fb1f93320ae65b49bd1c7d3d0458e7df50da70"
+    },
+    {
+      "chapter": "B10",
+      "figure": "handover",
+      "file": "../assets/handover.svg",
+      "sha256": "0a4dc8a83834016640c7297373dfca30cdf69191f7d87444dac4bf4fc2ca334d"
+    },
+    {
+      "chapter": "C1",
+      "figure": "aggregate-process",
+      "file": "assets/diagrams/aggregate-process.svg",
+      "sha256": "03a779c27461ad56c1bf6e28213a7a34a1dba55c3419009262fd72d5c7b5cbbd"
+    },
+    {
+      "chapter": "C1",
+      "figure": "ms4-gradation",
+      "file": "assets/crops/ms4-gradation.png",
+      "sha256": "16314d417d4be8c438ac55dc5611f3f197e610f46b151e20edbf44b8e3f9856a"
+    },
+    {
+      "chapter": "C2",
+      "figure": "gradation-curve",
+      "file": "assets/diagrams/gradation-curve.svg",
+      "sha256": "648792cc3e363810fc30d96f2432ee3a8fc9db0d9ea9272297dd10a0815ea014"
+    },
+    {
+      "chapter": "C2",
+      "figure": "ms4-gradation",
+      "file": "assets/crops/ms4-gradation.png",
+      "sha256": "16314d417d4be8c438ac55dc5611f3f197e610f46b151e20edbf44b8e3f9856a"
+    },
+    {
+      "chapter": "C3",
+      "figure": "plant-processes",
+      "file": "../../ms-4/concepts/assets/plant-processes.svg",
+      "sha256": "bf27c203f47c84952ad939944aaa8ec802e9e44746e73b68e46263ac4e48427b"
+    },
+    {
+      "chapter": "C3",
+      "figure": "ms4-baghouse",
+      "file": "assets/crops/ms4-baghouse.png",
+      "sha256": "e3a05eee620e50da5d65d697714bfd4b515649ab16c96ad3481c59abb09352ea"
+    },
+    {
+      "chapter": "C4",
+      "figure": "document-authority",
+      "file": "assets/diagrams/document-authority.svg",
+      "sha256": "ab21866dd99626a307486cba6a90e0c6be14e095cacfd5802b095f9fa3bb433f"
+    },
+    {
+      "chapter": "C4",
+      "figure": "three-views",
+      "file": "../assets/three-views.svg",
+      "sha256": "4188bdb19ae5d3efc75ae740d63f8c4d8b5ee06d4e1d39623786758f2f20ce93"
+    },
+    {
+      "chapter": "D1",
+      "figure": "material-cycle",
+      "file": "assets/diagrams/material-cycle.svg",
+      "sha256": "079ec371cb3ffc2ba548f5edc142e2078ceafac2208f34a56d22db4862aa55f8"
+    },
+    {
+      "chapter": "D1",
+      "figure": "life-cycle",
+      "file": "../assets/life-cycle.svg",
+      "sha256": "4ff2edcd3ab92b7ee68433ec71b9bd584c867ff3f4628aa54c2acb93a33ffbd4"
+    },
+    {
+      "chapter": "D2",
+      "figure": "containment",
+      "file": "assets/diagrams/containment.svg",
+      "sha256": "a654f07f64fcc236d2e03d46a51cd85620a1a4cee39d4de4de1bd455350d84f9"
+    },
+    {
+      "chapter": "D2",
+      "figure": "propane-assembly",
+      "file": "assets/diagrams/propane-assembly.svg",
+      "sha256": "47c712f6e4241df971229e6b0959f972e675f06486285cdc1415b98b746079b8"
+    },
+    {
+      "chapter": "D3",
+      "figure": "baghouse",
+      "file": "assets/diagrams/baghouse.svg",
+      "sha256": "4a4055db4c71a5dda08245f5818c3dfc997a773cbe9de56c89f60eff786c8209"
+    },
+    {
+      "chapter": "D3",
+      "figure": "ms4-baghouse",
+      "file": "assets/crops/ms4-baghouse.png",
+      "sha256": "e3a05eee620e50da5d65d697714bfd4b515649ab16c96ad3481c59abb09352ea"
+    },
+    {
+      "chapter": "E1",
+      "figure": "mix-phases",
+      "file": "assets/diagrams/mix-phases.svg",
+      "sha256": "2a78740c28112d1b2ddc6715906a7cca708439bf8852a0270f9244f3ed093845"
+    },
+    {
+      "chapter": "E1",
+      "figure": "ms4-marshall",
+      "file": "assets/crops/ms4-marshall.png",
+      "sha256": "ee4bb2a7ced85fa430a873a8ac4ee32eb409a7e34df09319d93c464c3e6e583e"
+    },
+    {
+      "chapter": "E2",
+      "figure": "sample-chain",
+      "file": "assets/diagrams/sample-chain.svg",
+      "sha256": "e188b521cdf5d84fd5a970af7b285fb80084c35f357009f9c4b10352762eea60"
+    },
+    {
+      "chapter": "E2",
+      "figure": "temperature-reading",
+      "file": "assets/diagrams/temperature-reading.svg",
+      "sha256": "acfc68b89538dc2f28cea3118600e19e4196eaf83af5510d48f0775f05896099"
+    },
+    {
+      "chapter": "E3",
+      "figure": "truck-sample",
+      "file": "assets/diagrams/truck-sample.svg",
+      "sha256": "a2af6d703d00a948804b8a356d29e6a087a0c93af4758b920aea2f9204886ad5"
+    },
+    {
+      "chapter": "E3",
+      "figure": "sample-chain",
+      "file": "assets/diagrams/sample-chain.svg",
+      "sha256": "e188b521cdf5d84fd5a970af7b285fb80084c35f357009f9c4b10352762eea60"
+    },
+    {
+      "chapter": "E4",
+      "figure": "density-bases",
+      "file": "assets/diagrams/density-bases.svg",
+      "sha256": "3883eecdba02f104b0d9663af08137c395cf9adfe551cd97359aba100884cfcf"
+    },
+    {
+      "chapter": "E4",
+      "figure": "troxler-gauge",
+      "file": "assets/crops/troxler-gauge.png",
+      "sha256": "f9c441a6d22ba935961996b6013bc4881f34edda66082e1376f0a5839b523eca"
+    },
+    {
+      "chapter": "F1",
+      "figure": "road-layers",
+      "file": "../../ms-4/concepts/assets/pavement-layers.svg",
+      "sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+    },
+    {
+      "chapter": "F1",
+      "figure": "material-cycle",
+      "file": "assets/diagrams/material-cycle.svg",
+      "sha256": "079ec371cb3ffc2ba548f5edc142e2078ceafac2208f34a56d22db4862aa55f8"
+    },
+    {
+      "chapter": "F2",
+      "figure": "level-book",
+      "file": "assets/diagrams/level-book.svg",
+      "sha256": "a751bc73245a859e1c5f7d176b9b58ccca55539641d2330c5192e6f524d2df7d"
+    },
+    {
+      "chapter": "F2",
+      "figure": "three-views",
+      "file": "../assets/three-views.svg",
+      "sha256": "4188bdb19ae5d3efc75ae740d63f8c4d8b5ee06d4e1d39623786758f2f20ce93"
+    },
+    {
+      "chapter": "F3",
+      "figure": "grade-stakes",
+      "file": "assets/diagrams/grade-stakes.svg",
+      "sha256": "c83810d02b89c26b21f12af9668a2e01c0bca29f0ef2b9560b77602ce5909200"
+    },
+    {
+      "chapter": "F3",
+      "figure": "road-layers",
+      "file": "../../ms-4/concepts/assets/pavement-layers.svg",
+      "sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+    },
+    {
+      "chapter": "G1",
+      "figure": "quality-chain",
+      "file": "assets/diagrams/quality-chain.svg",
+      "sha256": "b73082486b2efefb9aaf9280b92f1e0cb99c7adb62bc873909565e57b291045b"
+    },
+    {
+      "chapter": "G1",
+      "figure": "document-authority",
+      "file": "assets/diagrams/document-authority.svg",
+      "sha256": "ab21866dd99626a307486cba6a90e0c6be14e095cacfd5802b095f9fa3bb433f"
+    },
+    {
+      "chapter": "G2",
+      "figure": "binder-basis",
+      "file": "assets/diagrams/binder-basis.svg",
+      "sha256": "509bcc7b465ccd1e87f93163b1156058506ee213679c249a53fd24a04da687a7"
+    },
+    {
+      "chapter": "G2",
+      "figure": "spec-binder",
+      "file": "assets/crops/spec-binder.png",
+      "sha256": "8dda3b2130584a82d7cae704ce9aa03f72c56c7b15d29616d96197191e6f538f"
+    },
+    {
+      "chapter": "G3",
+      "figure": "application-rate",
+      "file": "assets/diagrams/application-rate.svg",
+      "sha256": "7228fde859ca6a50c8e3a9723ffdc1318cf1802b2b3629016a2f925e78272feb"
+    },
+    {
+      "chapter": "G3",
+      "figure": "spec-application",
+      "file": "assets/crops/spec-application.png",
+      "sha256": "3a249df15e5cecfa9172a99f6735123c55779e4757dc6f5b8bc951476c7b47f6"
+    },
+    {
+      "chapter": "G4",
+      "figure": "segregation",
+      "file": "assets/diagrams/segregation.svg",
+      "sha256": "fcbced35f580538605685df5ef3c2d46731bec1c5abe2a536aff917acda310f7"
+    },
+    {
+      "chapter": "G4",
+      "figure": "ms4-segregation",
+      "file": "assets/crops/ms4-segregation.png",
+      "sha256": "33f2525906f967a694f17f46471cb5e2e8ebc5bd7e636154bd614bb38a44f1fd"
+    },
+    {
+      "chapter": "G5",
+      "figure": "density-bases",
+      "file": "assets/diagrams/density-bases.svg",
+      "sha256": "3883eecdba02f104b0d9663af08137c395cf9adfe551cd97359aba100884cfcf"
+    },
+    {
+      "chapter": "G5",
+      "figure": "spec-density",
+      "file": "assets/crops/spec-density.png",
+      "sha256": "4ec83b6c38dd2b7223cb9a71df5dd7e8b889cf9734d2e81e1c1f52c362cc1970"
+    },
+    {
+      "chapter": "G6",
+      "figure": "smoothness-profile",
+      "file": "assets/diagrams/smoothness-profile.svg",
+      "sha256": "5d1f3cb9d8cee6f5f1cba1d35c75384bf362eac6c3f4290a4fa8d649ed326825"
+    },
+    {
+      "chapter": "G6",
+      "figure": "spec-smoothness",
+      "file": "assets/crops/spec-smoothness.png",
+      "sha256": "2fe072b34a3de67eeb6ff38889f19ca8af3adcabd2022e99aa4f74de94aca0ef"
+    },
+    {
+      "chapter": "H1",
+      "figure": "cat-milling-rotor",
+      "file": "../../caterpillar/assets/figures/milling-rotor.png",
+      "sha256": "373cc3df44101aaf6120980db9d4701668f04a4343911a06e4932177c5a248ee"
+    },
+    {
+      "chapter": "H1",
+      "figure": "cat-milling-conveyor",
+      "file": "../../caterpillar/assets/figures/milling-conveyor.png",
+      "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80"
+    },
+    {
+      "chapter": "H1",
+      "figure": "milling-cut",
+      "file": "assets/diagrams/milling-cut.svg",
+      "sha256": "ee9c60a70b8c381e3d866aea85996ee857fdf33368cb861026b1ab0674e5d17c"
+    },
+    {
+      "chapter": "H2",
+      "figure": "isolation-states",
+      "file": "assets/diagrams/isolation-states.svg",
+      "sha256": "388c89098e1239b89e8f50f525f0cb9ca8e819e5db1d6b3e5eb5c2d6e90c554f"
+    },
+    {
+      "chapter": "H2",
+      "figure": "traffic-zones",
+      "file": "assets/diagrams/traffic-zones.svg",
+      "sha256": "63ea67eb24aaa182c8705184d735edfd1ff297312277fe64e33c859f0f33d421"
+    },
+    {
+      "chapter": "H3",
+      "figure": "crew-communication",
+      "file": "assets/diagrams/crew-communication.svg",
+      "sha256": "eddd32f327ab0af7b7590cea9f85c13213b95adbe54f09f128ba39114aa1413e"
+    },
+    {
+      "chapter": "H3",
+      "figure": "cat-grade-sensors",
+      "file": "../../caterpillar/assets/figures/grade-sensors.png",
+      "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4"
+    },
+    {
+      "chapter": "H4",
+      "figure": "maintenance-record",
+      "file": "assets/diagrams/maintenance-record.svg",
+      "sha256": "68d94dc244900d9fd9115ff08654c55387716b841c2f77b3f916a940dadc232a"
+    },
+    {
+      "chapter": "H4",
+      "figure": "cat-cutting-chamber",
+      "file": "../../caterpillar/assets/figures/cutting-chamber.png",
+      "sha256": "4bf13585b06b997ab0222569da13b97906c529b5a7edb05f907088aaf248f495"
+    },
+    {
+      "chapter": "H5",
+      "figure": "grade-stakes",
+      "file": "assets/diagrams/grade-stakes.svg",
+      "sha256": "c83810d02b89c26b21f12af9668a2e01c0bca29f0ef2b9560b77602ce5909200"
+    },
+    {
+      "chapter": "H5",
+      "figure": "level-book",
+      "file": "assets/diagrams/level-book.svg",
+      "sha256": "a751bc73245a859e1c5f7d176b9b58ccca55539641d2330c5192e6f524d2df7d"
+    },
+    {
+      "chapter": "H6",
+      "figure": "milling-cut",
+      "file": "assets/diagrams/milling-cut.svg",
+      "sha256": "ee9c60a70b8c381e3d866aea85996ee857fdf33368cb861026b1ab0674e5d17c"
+    },
+    {
+      "chapter": "H6",
+      "figure": "cat-milling-undercarriage",
+      "file": "../../caterpillar/assets/figures/milling-undercarriage.png",
+      "sha256": "e716b951031fca60e4ff8712e3853ab78340bd70bcbcbb2e8f632781d8c9d7ce"
+    },
+    {
+      "chapter": "H7",
+      "figure": "shutdown-state",
+      "file": "assets/diagrams/shutdown-state.svg",
+      "sha256": "a8f23224af2ec744fe191a7fbd78cb9fb1770c384da48d214d627c1526a8f50b"
+    },
+    {
+      "chapter": "H7",
+      "figure": "cat-milling-conveyor",
+      "file": "../../caterpillar/assets/figures/milling-conveyor.png",
+      "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80"
+    },
+    {
+      "chapter": "H8",
+      "figure": "transport-plan",
+      "file": "assets/diagrams/transport-plan.svg",
+      "sha256": "bc4c9f47f39fb555349de656f2712d735415b0943c12d83186c74fce98af1ca8"
+    },
+    {
+      "chapter": "H8",
+      "figure": "transport-budget",
+      "file": "assets/diagrams/transport-budget.svg",
+      "sha256": "233dfa39a3f860a9e0209b903ddd9d7de1f24d06a556a0ea1ab16d54c07f81d3"
+    },
+    {
+      "chapter": "I1",
+      "figure": "paving-train",
+      "file": "assets/diagrams/paving-train.svg",
+      "sha256": "0432bd01be9d2d470b94a215afbdf5d3eb598617933bb2a099b8b4a2bd5c5062"
+    },
+    {
+      "chapter": "I1",
+      "figure": "cat-feeder-system",
+      "file": "../../caterpillar/assets/figures/feeder-system.png",
+      "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a"
+    },
+    {
+      "chapter": "I1",
+      "figure": "screed-factors",
+      "file": "../../ms-4/concepts/assets/screed-factors.svg",
+      "sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+    },
+    {
+      "chapter": "I2",
+      "figure": "cat-paver-sections",
+      "file": "../../caterpillar/assets/figures/paver-sections.png",
+      "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b"
+    },
+    {
+      "chapter": "I2",
+      "figure": "cat-auger-assembly",
+      "file": "../../caterpillar/assets/figures/auger-assembly.png",
+      "sha256": "e5a5a66b432c79e6e9ed48898a3f1bc8c32f641182ca4d7850e087f73f49033d"
+    },
+    {
+      "chapter": "I2",
+      "figure": "cat-feed-sensors",
+      "file": "../../caterpillar/assets/figures/feed-sensors.png",
+      "sha256": "0222e8232bcd17d9b341ecda650e64b0cd27cb2a84b0192c92c85084d947dec8"
+    },
+    {
+      "chapter": "I3",
+      "figure": "truck-interface",
+      "file": "assets/diagrams/truck-interface.svg",
+      "sha256": "63da253176ae93148e418441444d20ce82088652403bd34901ba5c39a34faf2e"
+    },
+    {
+      "chapter": "I3",
+      "figure": "isolation-states",
+      "file": "assets/diagrams/isolation-states.svg",
+      "sha256": "388c89098e1239b89e8f50f525f0cb9ca8e819e5db1d6b3e5eb5c2d6e90c554f"
+    },
+    {
+      "chapter": "I4",
+      "figure": "paving-train",
+      "file": "assets/diagrams/paving-train.svg",
+      "sha256": "0432bd01be9d2d470b94a215afbdf5d3eb598617933bb2a099b8b4a2bd5c5062"
+    },
+    {
+      "chapter": "I4",
+      "figure": "cat-grade-sensors",
+      "file": "../../caterpillar/assets/figures/grade-sensors.png",
+      "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4"
+    },
+    {
+      "chapter": "I4",
+      "figure": "cat-feed-sensors",
+      "file": "../../caterpillar/assets/figures/feed-sensors.png",
+      "sha256": "0222e8232bcd17d9b341ecda650e64b0cd27cb2a84b0192c92c85084d947dec8"
+    },
+    {
+      "chapter": "I5",
+      "figure": "maintenance-record",
+      "file": "assets/diagrams/maintenance-record.svg",
+      "sha256": "68d94dc244900d9fd9115ff08654c55387716b841c2f77b3f916a940dadc232a"
+    },
+    {
+      "chapter": "I5",
+      "figure": "cat-feeder-system",
+      "file": "../../caterpillar/assets/figures/feeder-system.png",
+      "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a"
+    },
+    {
+      "chapter": "I6",
+      "figure": "grade-stakes",
+      "file": "assets/diagrams/grade-stakes.svg",
+      "sha256": "c83810d02b89c26b21f12af9668a2e01c0bca29f0ef2b9560b77602ce5909200"
+    },
+    {
+      "chapter": "I6",
+      "figure": "cat-grade-sensors",
+      "file": "../../caterpillar/assets/figures/grade-sensors.png",
+      "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4"
+    },
+    {
+      "chapter": "I7",
+      "figure": "paving-train",
+      "file": "assets/diagrams/paving-train.svg",
+      "sha256": "0432bd01be9d2d470b94a215afbdf5d3eb598617933bb2a099b8b4a2bd5c5062"
+    },
+    {
+      "chapter": "I7",
+      "figure": "cat-paver-undercarriage",
+      "file": "../../caterpillar/assets/figures/paver-undercarriage.png",
+      "sha256": "8bcb77e4b8f0c94930f9394cc198f2e082db7421faa895e6cfa2c842553d6e41"
+    },
+    {
+      "chapter": "I8",
+      "figure": "shutdown-state",
+      "file": "assets/diagrams/shutdown-state.svg",
+      "sha256": "a8f23224af2ec744fe191a7fbd78cb9fb1770c384da48d214d627c1526a8f50b"
+    },
+    {
+      "chapter": "I8",
+      "figure": "leeboy-screed-lock",
+      "file": "assets/crops/leeboy-screed-lock.png",
+      "sha256": "24151b2f2a56b9c28b06c1440657f7907ec241f091d9fe10f0cf8c5b8c865de7"
+    },
+    {
+      "chapter": "I9",
+      "figure": "transport-plan",
+      "file": "assets/diagrams/transport-plan.svg",
+      "sha256": "bc4c9f47f39fb555349de656f2712d735415b0943c12d83186c74fce98af1ca8"
+    },
+    {
+      "chapter": "I9",
+      "figure": "leeboy-loading",
+      "file": "assets/crops/leeboy-loading.png",
+      "sha256": "ab1fbb743ac9c52779488f2a15f31689282e337349646417e40cc0bea1140748"
+    },
+    {
+      "chapter": "J1",
+      "figure": "cat-screed-plates",
+      "file": "../../caterpillar/assets/figures/screed-plates.png",
+      "sha256": "f6ccc5295de8c821c82496ea37da5a2dfd82672661332d3f0ffd0644d615e89a"
+    },
+    {
+      "chapter": "J1",
+      "figure": "cat-tamper-screed",
+      "file": "../../caterpillar/assets/figures/tamper-screed.png",
+      "sha256": "0b1ba4150a91195bae823e7dc4a126f1470fbf278ecf96ba9562e0c7e1419757"
+    },
+    {
+      "chapter": "J1",
+      "figure": "screed-factors",
+      "file": "../../ms-4/concepts/assets/screed-factors.svg",
+      "sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+    },
+    {
+      "chapter": "J2",
+      "figure": "screed-safe-zones",
+      "file": "assets/diagrams/screed-safe-zones.svg",
+      "sha256": "700ff2af1995c841d54c6d3961f028c263c9ab1c6e1b0f3368d63cc0233076ee"
+    },
+    {
+      "chapter": "J2",
+      "figure": "isolation-states",
+      "file": "assets/diagrams/isolation-states.svg",
+      "sha256": "388c89098e1239b89e8f50f525f0cb9ca8e819e5db1d6b3e5eb5c2d6e90c554f"
+    },
+    {
+      "chapter": "J3",
+      "figure": "screed-response",
+      "file": "assets/diagrams/screed-response.svg",
+      "sha256": "f5fde6f63bc089d6990ebf0af8d1c92764981bc39b60c6785b113d830f401790"
+    },
+    {
+      "chapter": "J3",
+      "figure": "application-rate",
+      "file": "assets/diagrams/application-rate.svg",
+      "sha256": "7228fde859ca6a50c8e3a9723ffdc1318cf1802b2b3629016a2f925e78272feb"
+    },
+    {
+      "chapter": "J4",
+      "figure": "cat-screed-plates",
+      "file": "../../caterpillar/assets/figures/screed-plates.png",
+      "sha256": "f6ccc5295de8c821c82496ea37da5a2dfd82672661332d3f0ffd0644d615e89a"
+    },
+    {
+      "chapter": "J4",
+      "figure": "maintenance-record",
+      "file": "assets/diagrams/maintenance-record.svg",
+      "sha256": "68d94dc244900d9fd9115ff08654c55387716b841c2f77b3f916a940dadc232a"
+    },
+    {
+      "chapter": "J5",
+      "figure": "leeboy-starter-blocks",
+      "file": "assets/crops/leeboy-starter-blocks.png",
+      "sha256": "566048a70a48a6a4c69f3f6eeeb5759bc2c6a4ca6ce619130f11d559f24cc875"
+    },
+    {
+      "chapter": "J5",
+      "figure": "screed-response",
+      "file": "assets/diagrams/screed-response.svg",
+      "sha256": "f5fde6f63bc089d6990ebf0af8d1c92764981bc39b60c6785b113d830f401790"
+    },
+    {
+      "chapter": "J6",
+      "figure": "shutdown-state",
+      "file": "assets/diagrams/shutdown-state.svg",
+      "sha256": "a8f23224af2ec744fe191a7fbd78cb9fb1770c384da48d214d627c1526a8f50b"
+    },
+    {
+      "chapter": "J6",
+      "figure": "screed-safe-zones",
+      "file": "assets/diagrams/screed-safe-zones.svg",
+      "sha256": "700ff2af1995c841d54c6d3961f028c263c9ab1c6e1b0f3368d63cc0233076ee"
+    },
+    {
+      "chapter": "K1",
+      "figure": "handwork-tools",
+      "file": "../../readiness/assets/handwork-anatomy.svg",
+      "sha256": "f88e2ac798c0242ca1f6f3f6f037a92b59fb3c6a609299554205dee9e00b1a4d"
+    },
+    {
+      "chapter": "K1",
+      "figure": "rakes-and-handwork",
+      "file": "../../readiness/assets/rakes-and-handwork.png",
+      "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b"
+    },
+    {
+      "chapter": "K2",
+      "figure": "handwork-zone",
+      "file": "assets/diagrams/handwork-zone.svg",
+      "sha256": "a638f59a50c389ac6dfc5c8b87bae3c5b6d579da6b4b94a8d6da9246672b42bf"
+    },
+    {
+      "chapter": "K2",
+      "figure": "heat-response",
+      "file": "assets/diagrams/heat-response.svg",
+      "sha256": "3aaf3e8a06a08edbedfd16907bbe0f7dde97b57bda042a34ba75559143985deb"
+    },
+    {
+      "chapter": "K3",
+      "figure": "handwork-patch",
+      "file": "assets/diagrams/handwork-patch.svg",
+      "sha256": "27d86716cfcb8ce7bac707ae095e17a0f57dbfccd4355582d7b5ee89136fb0c5"
+    },
+    {
+      "chapter": "K3",
+      "figure": "rakes-and-handwork",
+      "file": "../../readiness/assets/rakes-and-handwork.png",
+      "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b"
+    },
+    {
+      "chapter": "K3",
+      "figure": "tampers",
+      "file": "../../readiness/assets/tampers.png",
+      "sha256": "479da928991acd9c7f205f20cf6ec51e989dd25ef556947e02eda1f310c34ea6"
+    },
+    {
+      "chapter": "L1",
+      "figure": "roller-types",
+      "file": "assets/diagrams/roller-types.svg",
+      "sha256": "b3d9e80032c6ffa5ec184baea107f86c1c06da49c595c7e2db534f78dda7bedc"
+    },
+    {
+      "chapter": "L1",
+      "figure": "cat-roller-controls",
+      "file": "../../caterpillar/assets/figures/roller-controls.png",
+      "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6"
+    },
+    {
+      "chapter": "L1",
+      "figure": "ms4-vibratory-roller",
+      "file": "assets/crops/ms4-vibratory-roller.png",
+      "sha256": "9faffb2fd45df9a838fdc7d7fa064014e40ff95efdb1657913dda27ff9abf0dd"
+    },
+    {
+      "chapter": "L2",
+      "figure": "roller-safe-zones",
+      "file": "assets/diagrams/roller-safe-zones.svg",
+      "sha256": "3e51a82cbcea7809c33717719c21989d2f4db3ac9ec3d6242273740ae3097b07"
+    },
+    {
+      "chapter": "L2",
+      "figure": "cat-steering-frame-lock",
+      "file": "../../caterpillar/assets/figures/steering-frame-lock.png",
+      "sha256": "ca8fff26426b405e843d77a89862fea609639bffc4dc312c86a36dfc0d03bef8"
+    },
+    {
+      "chapter": "L3",
+      "figure": "rolling-coverage",
+      "file": "assets/diagrams/rolling-coverage.svg",
+      "sha256": "36a27653816c0a0ea9e80cfb4888652d5d3c923857ccede17ab9a278c951df27"
+    },
+    {
+      "chapter": "L3",
+      "figure": "smoothness-profile",
+      "file": "assets/diagrams/smoothness-profile.svg",
+      "sha256": "5d1f3cb9d8cee6f5f1cba1d35c75384bf362eac6c3f4290a4fa8d649ed326825"
+    },
+    {
+      "chapter": "L4",
+      "figure": "roller-water-system",
+      "file": "assets/diagrams/roller-water-system.svg",
+      "sha256": "dff6c391dd7df3ee933ee60302412549f319c4530ab5e4984e3726a061380408"
+    },
+    {
+      "chapter": "L4",
+      "figure": "cat-roller-controls",
+      "file": "../../caterpillar/assets/figures/roller-controls.png",
+      "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6"
+    },
+    {
+      "chapter": "L5",
+      "figure": "compaction-curve",
+      "file": "assets/diagrams/compaction-curve.svg",
+      "sha256": "7b69beaeb0bd5eafec02b9c76d16fb337ea4037a51b5f2c56ce158bf31ba1b94"
+    },
+    {
+      "chapter": "L5",
+      "figure": "rolling-coverage",
+      "file": "assets/diagrams/rolling-coverage.svg",
+      "sha256": "36a27653816c0a0ea9e80cfb4888652d5d3c923857ccede17ab9a278c951df27"
+    },
+    {
+      "chapter": "L5",
+      "figure": "troxler-gauge",
+      "file": "assets/crops/troxler-gauge.png",
+      "sha256": "f9c441a6d22ba935961996b6013bc4881f34edda66082e1376f0a5839b523eca"
+    },
+    {
+      "chapter": "L6",
+      "figure": "shutdown-state",
+      "file": "assets/diagrams/shutdown-state.svg",
+      "sha256": "a8f23224af2ec744fe191a7fbd78cb9fb1770c384da48d214d627c1526a8f50b"
+    },
+    {
+      "chapter": "L6",
+      "figure": "transport-plan",
+      "file": "assets/diagrams/transport-plan.svg",
+      "sha256": "bc4c9f47f39fb555349de656f2712d735415b0943c12d83186c74fce98af1ca8"
+    },
+    {
+      "chapter": "L6",
+      "figure": "roller-water-system",
+      "file": "assets/diagrams/roller-water-system.svg",
+      "sha256": "dff6c391dd7df3ee933ee60302412549f319c4530ab5e4984e3726a061380408"
+    }
+  ]
+}

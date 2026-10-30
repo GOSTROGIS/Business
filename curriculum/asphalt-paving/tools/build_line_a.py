@@ -13,6 +13,7 @@ from threading import Thread
 from urllib.parse import urlsplit, unquote
 
 import markdown
+from activity_names import readable
 
 ROOT = Path(__file__).resolve().parents[1]
 BOOK = ROOT / 'line-a'
@@ -41,7 +42,7 @@ def body_for(name: str) -> tuple[str, str]:
     text = (BOOK / name).read_text(encoding='utf-8')
     title = text.splitlines()[0].lstrip('# ').strip()
     body = markdown.markdown(text, extensions=['tables', 'fenced_code', 'toc', 'sane_lists'])
-    body = re.sub(r'(?<![\w"-])(LA[1-6]-\d{2})(?![\w"-])', r'<span class="activity-id">\1</span>', body)
+    body = readable(body)
     body = body.replace('<th>', '<th scope="col">').replace('<th style=', '<th scope="col" style=')
     body = re.sub(r'<table>.*?</table>', lambda m: '<div class="table-wrap" tabindex="0" role="region" aria-label="Data table">' + m[0] + '</div>', body, flags=re.S)
     return title, body

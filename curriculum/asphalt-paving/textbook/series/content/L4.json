@@ -1,0 +1,86 @@
+{
+  "code": "L4",
+  "title": "Perform Compaction Roller maintenance",
+  "intro": "Roller maintenance supports safe control and consistent contact with the mat. Water sprays, scrapers and clean contact surfaces are process equipment as well as housekeeping items.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Service lubrication systems (greasing)",
+      "text": "Use the actual lubrication chart and fitted system. Confirm product, interval, quantity and safe position, clean fittings and load the grease gun correctly. Articulation-area access requires the specified protection. Do not transfer a grease quantity from a different roller or force a blocked fitting."
+    },
+    {
+      "number": 2,
+      "title": "Service air intake system as required (air filters/pre cleaners)",
+      "text": "Read intake restriction indicators and service the pre-cleaner/filter through the manufacturer’s method. Inspect seals and prevent contamination of the clean side. Clean only when permitted; otherwise replace the element. An employer’s stricter replacement policy may apply. Do not assume reduced-pressure air is acceptable for every element."
+    },
+    {
+      "number": 3,
+      "title": "Drain fuel tank sump, water separator fuel filters is equipped",
+      "text": "Where fitted, drain the fuel sump/water separator under the prescribed conditions, collect the liquid and report water/debris. Control ignition and exposure. Keep this routine task separate from high-pressure fuel-system repairs. Record unusual or repeated contamination."
+    },
+    {
+      "number": 4,
+      "title": "Add fluids as required",
+      "text": "Identify the correct fluid and reservoir, then use the specified level ground, temperature and engine state for checking. Dual-scale dipsticks require the correct reading condition. Clean fill tools and avoid mixing, overfill and dirt/water entry. Report repeated losses and leaks rather than treating top-up as a permanent correction."
+    },
+    {
+      "number": 5,
+      "title": "Inspect and clean components as required",
+      "text": "Inspect radiator/oil cooler, plugs, dipsticks, batteries, hoses, guards and accessible components. Protect fins and electrical parts during cleaning. Hot coolant, pressurized hydraulics and battery hazards require their actual procedures. Inspect safety systems and report defects for authorized repair. A maintenance checklist does not authorize work beyond the learner’s training."
+    },
+    {
+      "number": 6,
+      "title": "Perform housekeeping tasks",
+      "text": "Remove debris and excess grease from safe access areas. Maintain the spray tank, filters, nozzles and approved water-treatment arrangements, and inspect drum/tire cleanliness, scrapers and fitted mats. Blocked sprays can allow pickup and mark the surface. Prepare the water system for freezing conditions using the model’s drain/winterization procedure; “drain all water” requires knowing every affected component. Collect waste, restore guards and record service and defects."
+    }
+  ],
+  "worked": {
+    "title": "A dry stripe on the drum",
+    "case": "A drum shows a persistent dry stripe and material begins to pick up in that area.",
+    "solution": "Report the pattern, stop/hold as required and inspect the spray/scraper system through the safe procedure. A blocked nozzle or another fault is a possibility, not a confirmed diagnosis. Correct and verify the authorized repair before continuing."
+  },
+  "activities": [
+    {
+      "id": "L4-01",
+      "prompt": "A fictional 120 L tank contains 35 L. How much water reaches the stated 120 L level?",
+      "answer": "85 L, assuming those stated values and no other limits. Use the actual machine filling instructions and do not infer a recommended tank capacity.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A fictional 120 L tank contains 35 L"
+    },
+    {
+      "id": "L4-02",
+      "prompt": "List four water-system items for a model-specific winterization record.",
+      "answer": "Tank, pump, filters/lines and spray bars/nozzles as fitted, with each actual drain/protection step and verification. Use the complete OMM procedure.",
+      "skills": [
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "List four water-system items for a model-specific winterization record."
+    },
+    {
+      "id": "L4-03",
+      "prompt": "Build a maintenance checklist with AI assistance and audit it before use.",
+      "answer": "Give the matching manual/serial scope, ask for page references, verify every item and interval, flag missing access or unread pages, and have the responsible qualified person approve the practical checklist. AI does not supply technical authorization.",
+      "skills": [
+        "Digital",
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "Build a maintenance checklist with AI assistance and audit it before use."
+    }
+  ],
+  "practical": [
+    "Service lubrication/intake/separator and correct fluids safely.",
+    "Inspect cooling/battery and fitted safety systems.",
+    "Maintain sprays, scrapers/contact surfaces and model-specific winterization."
+  ],
+  "visuals": [
+    "roller-water-system",
+    "cat-roller-controls"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

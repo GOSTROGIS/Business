@@ -1,0 +1,75 @@
+{
+  "code": "B3",
+  "title": "Describe safety working around and operating power brooms",
+  "intro": "A power broom prepares a surface by moving unwanted loose material. Its brush also moves air, dust and debris. A clean-looking surface may still have an uncontrolled airborne exposure, and a clear brush path may cross a pedestrian route. Read the machine as a combination of **travel**, **brush movement** and **dust control**.\n\nThe Rosco RB50 example in this chapter is the manufacturer’s Operations, Service and Parts Manual 1017258-03, Rev. B, for serial 255027 and above. Its component and warning pages are a real model study. Match a different training machine to its own manual before practical instruction.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe effects of noise and dust",
+      "text": "Noise can damage hearing and mask a spoken warning. Dust can irritate or contain hazardous constituents, including respirable silica where the material produces it. Identify the material and exposure conditions; visible dust is not a measurement of the respirable fraction. Controls may include the machine’s appropriate dust-suppression system, a suitable method and access separation, with exposure assessment and required respiratory/hearing programs.\n\nPPE is chosen after the hazard assessment. High visibility addresses conspicuity; it does not control inhalation. Respiratory protection must match the contaminant, exposure and required fit/program conditions. Inspect the actual water system or other fitted dust-control equipment under the manual, and respond if its performance changes. Do not assume every RB50 has every optional system shown in a product picture."
+    },
+    {
+      "number": 2,
+      "title": "Describe dangers associated with vehicle movement",
+      "text": "Travel and steering can create a collision even when the brush is disengaged. Establish the working route, speed/movement controls, pedestrian separation, traffic coordination and operator visibility before sweeping. Broom swing and attachments can extend beyond the tyre path. A person at the edge of the travel lane may still be within the moving assembly’s envelope.\n\nThe operator checks access and the surroundings from the intended operating position and follows the machine’s travel and sweeping instructions. The ground crew remains in the planned safe area. A new parked vehicle, visitor or traffic queue changes the route; the operator stops and the arrangement is reassessed. A warning horn tells people something is happening but does not give the machine a clear route."
+    },
+    {
+      "number": 3,
+      "title": "Describe dangers associated with moving parts",
+      "text": "The rotating brush, drive mechanism, hydraulic connections and moving linkages can entangle, strike or pinch. Guarding and exclusion protect people during use; inspection, cleaning and adjustment require the applicable shutdown and hazardous-energy control. A stopped brush may still be supported by hydraulics or connected to stored energy.\n\nTrace the component picture from brush core and bristles to support/linkage and machine. Identify which parts rotate, swing or raise. Loose clothing, hands or tools must not enter the moving mechanism. A jam or wound material is reported and dealt with under the actual isolation procedure. Reaching in for a quick pull while someone holds a control is not isolation."
+    }
+  ],
+  "worked": {
+    "title": "The clean strip and the dusty doorway",
+    "case": "Fictional observation: a broom produces a visibly clean 80 m strip, but dust travels toward an occupied doorway and its fitted water system has stopped spraying. The operator proposes finishing the last 20 m first.",
+    "solution": "The achieved 80 m does not validate the exposure control. The planned run is 100 m; 20% remains, but that arithmetic is irrelevant to accepting an uncontrolled hazard. Stop the affected work under the procedure, protect the doorway and have the dust-control fault assessed. Resume when the task controls are established, not when the inconvenience feels small."
+  },
+  "activities": [
+    {
+      "id": "B3-01",
+      "prompt": "Identify brush, supports, operator position and any dust-control components visible in the RB50 manual image. Separate visible features from optional equipment that must be checked.",
+      "answer": "Use the original labels. Do not infer an option from another model or a brochure. Explain brush rotation, movement envelope and the purpose of dust suppression.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "B3-02",
+      "prompt": "Check the worked-case percentage and write a defect/exposure report that distinguishes work completed from safe conditions.",
+      "answer": "80 + 20 = 100 m; 20/100 × 100 = 20% remains. Record water-system failure, dust direction, affected people and interim response; no completion percentage overrides controls.",
+      "skills": [
+        "Numeracy",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Calculate and check the result"
+    },
+    {
+      "id": "B3-03",
+      "prompt": "Use a device to locate the manual’s component, safety and sweeping sections. Save three page references, then redesign your brief when the route crosses a public entrance.",
+      "answer": "The record names manual/revision/serial scope and actual page references. Revised brief includes the public route and communication; the learner demonstrates retrieval, save and reopen.",
+      "skills": [
+        "Digital",
+        "Adaptability",
+        "Creativity and innovation",
+        "Collaboration"
+      ],
+      "title": "Use a device to locate the manual’s component, safety and sweeping sections"
+    }
+  ],
+  "practical": [
+    "Match the broom, serial range and fitted options before demonstration.",
+    "Observe inspection and use of selected PPE, route awareness and safe ground-worker positioning during an authorized sweeping exercise.",
+    "Observe response to a simulated dust-control fault with the machine safely controlled; assess isolation knowledge separately from operating skills."
+  ],
+  "visuals": [
+    "broom-anatomy",
+    "rb50-components"
+  ],
+  "additional_sources": [
+    "rosco-rb50-manual"
+  ],
+  "assessment_threshold": null
+}

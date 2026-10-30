@@ -1,0 +1,71 @@
+{
+  "code": "I6",
+  "title": "Comply with markers, grades and stakes",
+  "intro": "A paver operator uses survey information to maintain the approved line and geometry. The marks must be interpreted before they become machine instructions.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe abbreviations used on stakes",
+      "text": "Read common abbreviations with the project legend: BM benchmark; C cut; CB catch basin; SMH sanitary manhole; EL elevation; FG finished grade; PL property line; RW right of way; SAN/S sanitary; Mon monument; G gas; PVC polyvinyl chloride. A label identifies a feature or value, not necessarily its complete location or safe clearance. Keep units and datum with every elevation."
+    },
+    {
+      "number": 2,
+      "title": "Interpret stakes",
+      "text": "Identify station, side, offset, reference mark, cut/fill, slope and target work. Preserve property pins, benchmarks and protected monuments. Distinguish an assumed local datum from geodetic control. Cross-heads and offset stakes transfer information away from the work area; they are not automatically the paving edge. If a mark is moved or conflicts with the current drawing, stop using it and request verification."
+    },
+    {
+      "number": 3,
+      "title": "Describe fundamentals of paver operation",
+      "text": "Follow a verified line with a stable sighting reference and smooth steering. Look sufficiently ahead while maintaining awareness of trucks, crew and obstacles. Guide trucks into the planned straight approach rather than forcing the paver out of alignment to receive them. Experience improves precision through feedback, not by ignoring measured checks. Coordinate alignment with the screed operator’s width and grade controls."
+    }
+  ],
+  "worked": {
+    "title": "Offset versus edge",
+    "case": "A stake marked 1.5 m RT OFFSET describes the approved right paving edge at station 0+060. A learner treats the stake itself as the edge.",
+    "solution": "Use the project legend and stated offset direction to locate the actual edge; the stake is a reference away from it. Verify the relation with the grade lead before setting the paver line. Do not shift the whole mat to the stake."
+  },
+  "activities": [
+    {
+      "id": "I6-01",
+      "prompt": "At one verified point, base EL is 101.250 m and finished EL is 101.300 m. Find the vertical difference.",
+      "answer": "0.050 m = 50 mm. It is the specified geometric difference at that point, not automatically the loose screed setting.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "At one verified point, base EL is 101.250 m and finished EL is 101.300 m"
+    },
+    {
+      "id": "I6-02",
+      "prompt": "Write a read-back containing station, side, offset and unresolved datum.",
+      "answer": "Example: “Station 0+060, right-side offset stake, marked 1.5 m. I need confirmation of the reference direction and datum before using its elevation.” Include the actual mark and ask the responsible person to confirm.",
+      "skills": [
+        "Writing",
+        "Communication"
+      ],
+      "title": "Write a read-back containing station, side, offset and unresolved datum."
+    },
+    {
+      "id": "I6-03",
+      "prompt": "Use an AI to explain the abbreviation list, then identify what it cannot establish from the list alone.",
+      "answer": "It can draft definitions, which must be checked against the project legend. It cannot establish actual utility depth, property boundary, datum relationship or safe machine clearance from abbreviations alone.",
+      "skills": [
+        "Digital",
+        "Reading",
+        "Adaptability"
+      ],
+      "title": "Communicate and verify the work"
+    }
+  ],
+  "practical": [
+    "Interpret and protect the actual control marks.",
+    "Transfer line/elevation information correctly.",
+    "Maintain smooth alignment while coordinating truck and screed roles."
+  ],
+  "visuals": [
+    "grade-stakes",
+    "cat-grade-sensors"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

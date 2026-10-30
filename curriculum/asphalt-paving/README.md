@@ -1,10 +1,24 @@
 # ACCESS IS4S · Asphalt paving
 
+## Complete study sequence through compaction
+
+[Open all eight volumes](textbook/series/index.html). Volume 1 develops foundations and safe work; seven further volumes complete B2–L6 with 61 chapters, 218 learning tasks, 183 named chapter activities, seven integrated nine-skill cases and full worked answers. The books include 42 new SVGs and 84 unique teaching figures across 131 chapter placements, with manual/MS-4 page credits.
+
+- **People, tools and safe work:** [study PDF](textbook/series/volume-2.pdf), [teaching and answers](textbook/series/volume-2-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-2-print-pack.zip).
+- **Materials, plants and quality evidence:** [study PDF](textbook/series/volume-3.pdf), [teaching and answers](textbook/series/volume-3-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-3-print-pack.zip).
+- **Road geometry and acceptance:** [study PDF](textbook/series/volume-4.pdf), [teaching and answers](textbook/series/volume-4-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-4-print-pack.zip).
+- **Milling and reclaiming:** [study PDF](textbook/series/volume-5.pdf), [teaching and answers](textbook/series/volume-5-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-5-print-pack.zip).
+- **Paver operation:** [study PDF](textbook/series/volume-6.pdf), [teaching and answers](textbook/series/volume-6-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-6-print-pack.zip).
+- **Screed control and handwork:** [study PDF](textbook/series/volume-7.pdf), [teaching and answers](textbook/series/volume-7-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-7-print-pack.zip).
+- **Compaction and final handover:** [study PDF](textbook/series/volume-8.pdf), [teaching and answers](textbook/series/volume-8-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-8-print-pack.zip).
+
+All classroom chapters are authored. Qualified technical review, fleet/site matching, local pilot and observed practical qualification remain separate. [Task-by-task coverage](textbook/series/coverage.html) records all 218 later learning tasks.
+
 ## Standalone study textbook · Volume 1
 
 **[Read the textbook](textbook/study-textbook.html)** · **[Textbook PDF](textbook/study-textbook.pdf)** · [Worked answers](textbook/answers.html) · [Answer PDF](textbook/answers.pdf) · [Interactive plan desk](textbook/plan-desk.html)
 
-The illustrated study volume follows **A1–A6 and B1** with **60 activities**, all nine Skills for Success, MS-4 source crops and redraws, manufacturer parts illustrations, official WHMIS symbols and new SVGs. It includes the seven B1 safety-orientation tasks, an editable fictional road-plan exercise and map-reading concepts adapted from the owner's CONSULTING repository. [Figure credits](textbook/figure-register.html) · [Coverage and delivery status](textbook/coverage.html). Technical review and classroom pilot are pending; B2–L6 are the next textbook volumes.
+The illustrated study volume follows **A1–A6 and B1** with **60 activities**, all nine Skills for Success, MS-4 source crops and redraws, manufacturer parts illustrations, official WHMIS symbols and new SVGs. It includes the seven B1 safety-orientation tasks, an editable fictional road-plan exercise and map-reading concepts adapted from the owner's CONSULTING repository. [Figure credits](textbook/figure-register.html) · [Coverage and delivery status](textbook/coverage.html). The B2–L6 continuation is complete in Volumes 2–8; qualified technical review and classroom pilot remain pending.
 
 
 Read the work, understand the equipment and use the nine Skills for Success to make and explain a sound decision.

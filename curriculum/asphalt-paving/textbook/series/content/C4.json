@@ -1,0 +1,88 @@
+{
+  "code": "C4",
+  "title": "Describe asphalt products and uses",
+  "intro": "A road requirement has an issuer, edition, project adoption and decision authority. A contractor, designer, owner and regulator may each issue documents, but their documents answer different questions. Read the contract register before choosing a clause from a familiar book. The same surface material can appear on a highway, a municipal street and private property under different project requirements.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe the key elements of the MMCD",
+      "text": "**MMCD** means Master Municipal Construction Documents. The published contract documents provide standardized municipal construction specifications, drawings and related contract material. A project may adopt an edition and add supplementary conditions or specifications. Obtain the actual adopted documents and changes; the title 'municipal work' does not establish every MMCD clause or edition. Record the governing project reference, not a guessed requirement from another job."
+    },
+    {
+      "number": 2,
+      "title": "Describe the role of the MOT",
+      "text": "The provincial transportation ministry’s role is established by the project and applicable law/contract. Distinguish contractor **quality control** from owner-side **quality assurance**, audit and acceptance activities as defined in the contract. A contractor’s passing internal check is not automatically the owner’s acceptance. Conversely, an audit sample does not remove the contractor’s duty to control its own process. Current ministry naming can change; identify the actual issuer and authorized representative."
+    },
+    {
+      "number": 3,
+      "title": "Describe the role of the DOT",
+      "text": "**DOT** is commonly used for a Department of Transportation in other jurisdictions. It does not identify one universal Canadian asphalt standard. The supplied 2006 B.C. Design Build Standard Specifications is a specific historical document, not a generic federal transport regulation. When an old note says 'DOT standard', identify its jurisdiction, full title, edition and contractual adoption before using it. This prevents a familiar acronym from becoming an unsupported requirement."
+    },
+    {
+      "number": 4,
+      "title": "Describe Engineer Specs",
+      "text": "An engineer’s project specifications translate the design into required materials, workmanship, inspection and acceptance criteria. Such specifications are used in public as well as private work. Drawings and specifications must be read together, using the project’s hierarchy and change process. A conflict is referred to the authorized design/contract role; the crew does not choose whichever version gives the easiest quantity."
+    },
+    {
+      "number": 5,
+      "title": "Describe role of Architect",
+      "text": "An architect may coordinate the site and building interface, accessibility, appearance and other project requirements through the design team. The actual division of responsibility is project-specific. Architectural drawings can identify finishes or interfaces while civil drawings establish drainage and pavement details. A worker must know which record and responsible designer address the question, and retain an authorized response when the work changes."
+    },
+    {
+      "number": 6,
+      "title": "Describe other asphalt and paving materials",
+      "text": "Paving blocks/stones, asphalt, concrete and permeable pavement systems have different structures, construction methods and maintenance needs. 'Green road' is a claim or design objective that needs defined performance and evidence. A substitution affects more than appearance: loading, drainage, access, joints, durability and approved quantities may change. Compare the required service and obtain the authorized design decision before substituting a product."
+    }
+  ],
+  "worked": {
+    "title": "Resolve the document conflict",
+    "case": "Fictional register lists drawing P-04 revision C and specification SP-07 revision 2. A delivery note refers to an older project’s MMCD detail. The crew is asked to change the surface material at the entrance.",
+    "solution": "The delivery note does not establish the governing design. Identify the current project documents, describe the requested change and obtain the authorized design/contract response. Keep the reason and affected drawing/specification revisions together. Do not treat an acronym or a supplier recommendation as approval."
+  },
+  "activities": [
+    {
+      "id": "C4-01",
+      "prompt": "Create a five-column authority map: owner, designer, contractor QC, owner QA/acceptance and regulator. Place MMCD/ministry/project documents in their actual roles.",
+      "answer": "Roles may be held by different organizations; identify project-specific authority. Standard publishers provide documents, while adoption and decision authority come from the project/legal context.",
+      "skills": [
+        "Reading",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "C4-02",
+      "prompt": "Write a clarification request for the worked case that names the conflict, location, current versions and decision needed.",
+      "answer": "Request states P-04 C/SP-07 2, the old-project reference and proposed entrance substitution; seeks an authorized response before changing work.",
+      "skills": [
+        "Writing",
+        "Communication"
+      ],
+      "title": "Calculate and check the result"
+    },
+    {
+      "id": "C4-03",
+      "prompt": "Build a digital revision register and peer-test whether another learner can find the current entrance requirements. Add a new response and show the superseded record without deleting its history.",
+      "answer": "Current/superseded status, issuer, date, adoption and response are visible. Each learner demonstrates save/reopen and a justified improvement to findability.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Communicate and verify the work"
+    }
+  ],
+  "practical": [
+    "Use a permitted project document set or the complete fictional case.",
+    "Assess correct document selection, interpretation and referral of an unresolved design conflict.",
+    "No classroom interpretation changes a real contract or design."
+  ],
+  "visuals": [
+    "document-authority",
+    "three-views"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

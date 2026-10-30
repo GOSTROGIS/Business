@@ -1,0 +1,140 @@
+[
+  {
+    "number": 2,
+    "title": "People, tools and safe work",
+    "codes": [
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7",
+      "B8",
+      "B9",
+      "B10"
+    ],
+    "case_title": "Prepare a clear work-zone briefing",
+    "brief": "A fictional community-access project has a 90 m \u00d7 4 m work strip. The plan protects a walking route, uses a designated truck guide and requires a working broom dust-control system. At 08:20, the guide\u2019s radio fails and the broom dust-control indicator shows a fault. A draft note says \u201ccontinue while the guide shouts.\u201d The crew\u2019s shift gap is 11 hours, with 2 hours travel and 2 hours other responsibilities. No safe clearance or operating temperature is supplied.",
+    "answer": "Area = 360 m\u00b2. Sleep opportunity = 11 \u2212 2 \u2212 2 = 7 hours, not a fitness-for-work determination. Hold affected movement/work, restore communication and dust controls through the authorized process; revise the draft.",
+    "change": "The protected walking route must move because an entrance is needed; the responsible lead has not yet approved a new route.",
+    "change_answer": "Preserve the existing safe controls and obtain an approved revised access plan before dependent movement."
+  },
+  {
+    "number": 3,
+    "title": "Materials, plants and quality evidence",
+    "codes": [
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "D1",
+      "D2",
+      "D3",
+      "E1",
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "case_title": "Trace a material and its sample",
+    "brief": "A fictional 1,200 g aggregate sample has retained masses of 180 g, 420 g, 360 g and 240 g in the pan. Its log says Mix M, lot 4, but the container label says lot 5. A draft report says \u201cthe sample is representative because it is large\u201d and \u201c20% RAP means 20% lower emissions.\u201d The project location is in Metro Vancouver. No acceptance limits or permit number are supplied.",
+    "answer": "Retained total = 1,200 g; cumulative passing after three sieves = 85%, 50%, 20%. Resolve the lot mismatch; sample size does not establish representativeness. RAP percentage does not establish emission reduction. Confirm the applicable Metro regulatory/permit requirements; do not apply the provincial Asphalt Plant Regulation as if it covered Metro.",
+    "change": "The quality lead supplies a corrected source record linking the container to lot 5, with documented authorization and preserved original record.",
+    "change_answer": "Update the traceability record transparently; do not erase the original discrepancy or infer acceptance limits."
+  },
+  {
+    "number": 4,
+    "title": "Road geometry and acceptance",
+    "codes": [
+      "F1",
+      "F2",
+      "F3",
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6"
+    ],
+    "case_title": "Check the grade and the quantity",
+    "brief": "A fictional rectangle is 80 m \u00d7 3.5 m. Assigned mix mass is 33.6 t and specified application rate is 120 kg/m\u00b2. Benchmark EL is 100.000 m, backsight 1.300 m, foresight 1.720 m and target base EL 99.650 m. A draft claims \u201cthe application rate proves the whole mat is accepted.\u201d No density or smoothness results are supplied.",
+    "answer": "Area 280 m\u00b2; actual rate 33,600/280 = 120 kg/m\u00b2, or 100% of specified. HI 101.300; measured EL 99.580; fill 70 mm at that point. Application rate alone does not establish density, smoothness, uniform thickness or acceptance.",
+    "change": "A corrected drawing changes width to 3.6 m before placement; the mass allocation has not been revised.",
+    "change_answer": "New area 288 m\u00b2. The same 33.6 t would give 116.67 kg/m\u00b2, about 97.22% of 120. Confirm the authorized quantity/layout change before treating it as the current plan."
+  },
+  {
+    "number": 5,
+    "title": "Milling and reclaiming",
+    "codes": [
+      "H1",
+      "H2",
+      "H3",
+      "H4",
+      "H5",
+      "H6",
+      "H7",
+      "H8"
+    ],
+    "case_title": "Hand over a controlled milling pass",
+    "brief": "A fictional approved training strip is 60 m \u00d7 2 m with a 0.04 m nominal cut. Safe recorded checks at three locations are 40, 41 and 53 mm. The last location follows a disturbed reference. A draft handover states \u201caverage depth acceptable; continue.\u201d No project tolerance is supplied. The discharge route remains within a controlled area.",
+    "answer": "Geometric removed volume = 4.8 m\u00b3 in place. Mean of readings = 44.67 mm, but the mean cannot establish conformity or hide the 53 mm reading. Hold the affected work and verify the reference, limits and authorized correction.",
+    "change": "The next shift uses a different machine model and a different rotor configuration.",
+    "change_answer": "Reconfirm matching OMM, controls, maintenance and setup; transfer the verified site information without transferring unsupported machine settings."
+  },
+  {
+    "number": 6,
+    "title": "Paver operation",
+    "codes": [
+      "I1",
+      "I2",
+      "I3",
+      "I4",
+      "I5",
+      "I6",
+      "I7",
+      "I8",
+      "I9"
+    ],
+    "case_title": "Keep delivery and mat records consistent",
+    "brief": "A fictional approved area is 50 m \u00d7 3.2 m with a 45 mm compacted target. A verified trial relationship is loose/compacted = 1.24 for this exercise. The delivery register contains ticket 81 for 12 t and ticket 82 for 11 t, but a draft totals 35 t by counting ticket 81 twice. No density for estimating required mass is supplied.",
+    "answer": "Area 160 m\u00b2; compacted geometric volume 7.2 m\u00b3; trial-based loose estimate 55.8 mm. Unique delivered tickets total 23 t, not 35 t. Do not infer required mass or acceptance without the missing density/criteria.",
+    "change": "The coordinator asks for an audio handover as well as an editable table and PDF.",
+    "change_answer": "Create a checked script from the verified facts, identify the actual narration tool, retain transcript and inspect the audio; keep all file versions consistent."
+  },
+  {
+    "number": 7,
+    "title": "Screed control and handwork",
+    "codes": [
+      "J1",
+      "J2",
+      "J3",
+      "J4",
+      "J5",
+      "J6",
+      "K1",
+      "K2",
+      "K3"
+    ],
+    "case_title": "Prepare a small-area finishing plan",
+    "brief": "A fictional rectangular repair is 2.5 m \u00d7 1.2 m with a 0.05 m compacted depth. The structure elevation and joint treatment are supplied by an approved drawing, but no mixture density or universal compaction allowance is given. A draft proposes heating any cooled mix with a torch and using the same loose-thickness factor on every job.",
+    "answer": "Area 3.0 m\u00b2; compacted volume 0.15 m\u00b3. Required mass and loose allowance need appropriate project information. Reject the universal factor and default torch proposal; use the authorized mixture, placement, temperature and heating procedures.",
+    "change": "The work boundary narrows beside a public entrance and the long lute handle would cross it.",
+    "change_answer": "Reassess the route, tool orientation and work positions with the lead/TCP team; preserve safe access and brief an approved change before proceeding."
+  },
+  {
+    "number": 8,
+    "title": "Compaction and final handover",
+    "codes": [
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "L6"
+    ],
+    "case_title": "Read the rolling record and its limits",
+    "brief": "A fictional density record gives in-place 2.325 Mg/m\u00b3 and maximum theoretical 2.500 Mg/m\u00b3. A coverage sketch marks strips A and B complete and C awaiting a check. A draft says \u201c93% means the whole lot is accepted\u201d and \u201csix passes always work.\u201d No contract limit, sub-lot results or approved fixed pass count is supplied.",
+    "answer": "Percent density = 93.0% using the stated maximum-theoretical reference. It does not establish whole-lot acceptance. Preserve the pending strip and actual trial/temperature/coverage evidence; reject a universal six-pass claim.",
+    "change": "The spray system develops a dry stripe and the operator observes material pickup.",
+    "change_answer": "Report and hold/stop as required, investigate the actual spray/scraper system safely and obtain authorized correction before resuming."
+  }
+]

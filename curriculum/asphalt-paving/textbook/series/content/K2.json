@@ -1,0 +1,75 @@
+{
+  "code": "K2",
+  "title": "Apply raking safety procedures",
+  "intro": "Handwork places a person close to hot material and moving equipment while using long tools. Plan the work position and escape route before concentrating on the surface.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Interpret job planning",
+      "text": "Read the path, work pattern, thickness, temperature requirements, crown, obstacles and sequence. Agree when handwork can enter and when the roller needs the area. Identify the safe material-transfer route, including wheelbarrow movement. Protect public access and confirm how a changing condition will be communicated."
+    },
+    {
+      "number": 2,
+      "title": "Describe raker-specific safety hazards",
+      "text": "Recognize burns, heat strain, fumes, noise, dust, pressurized systems, blind areas, pinch zones and traffic. Keep long handles inside the work area. Use manageable loads and a stable stance, move feet to turn rather than twisting under load, and vary tasks/breaks through the work plan. Do not overreach to save a step. Wet or unsuitable footwear can worsen hot-material exposure. Report fatigue, dizziness or damaged equipment early."
+    },
+    {
+      "number": 3,
+      "title": "Describe traffic control requirements",
+      "text": "Coordinate with trained traffic-control personnel and the designated equipment signallers. A raker does not step into live traffic to retrieve a tool or direct a truck without the assigned role and controls. Obtain acknowledgement before approaching a machine’s working area. If visibility or communication is lost, stop the affected activity and move only through the established safe route."
+    },
+    {
+      "number": 4,
+      "title": "Describe proper PPE",
+      "text": "Use task-selected footwear, head, eye, hearing, visibility and heat/chemical protection. Inspect condition, fit and contamination. Follow current Part 8 supply responsibilities and employer arrangements. PPE does not replace ergonomic planning or separation from equipment. The instructor observes actual safe tool handling, communication and movement, not only whether the learner can name PPE."
+    }
+  ],
+  "worked": {
+    "title": "A handle reaches into the lane",
+    "case": "A worker turns with a long lute while watching the mat. Its handle crosses the work-zone boundary.",
+    "solution": "Stop and reposition through the safe route. Review the work space, tool orientation and traffic boundary with the lead. A safe stance must account for the whole tool, not only the worker’s feet."
+  },
+  "activities": [
+    {
+      "id": "K2-01",
+      "prompt": "Identify three ergonomic improvements for shovelling a small patch.",
+      "answer": "Use a suitable tool and manageable load; maintain stable footing and turn with the feet; position material to reduce reach and coordinate task variation/rest. Match the actual task and access needs.",
+      "skills": [
+        "Problem solving",
+        "Reading"
+      ],
+      "title": "Identify three ergonomic improvements for shovelling a small patch."
+    },
+    {
+      "id": "K2-02",
+      "prompt": "A practice plan has 40 min of handwork split into four equal periods. How long is each period? Does that prescribe a heat-rest schedule?",
+      "answer": "10 min each. No; the actual heat/work-rest plan depends on assessment and conditions, not this arithmetic example.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "A practice plan has 40 min of handwork split into four equal periods"
+    },
+    {
+      "id": "K2-03",
+      "prompt": "Rehearse a request for safe access to finish an edge before rolling.",
+      "answer": "Name the location and work needed, ask the roller/crew lead for a controlled access opportunity, obtain acknowledgement and confirm when the area is clear again.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Rehearse a request for safe access to finish an edge before rolling."
+    }
+  ],
+  "practical": [
+    "Use correct PPE and demonstrate ergonomic tool handling.",
+    "Coordinate with traffic control and equipment operators.",
+    "Keep people and long tools within the controlled work area."
+  ],
+  "visuals": [
+    "handwork-zone",
+    "heat-response"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

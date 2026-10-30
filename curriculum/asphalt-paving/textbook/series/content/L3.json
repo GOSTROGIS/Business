@@ -1,0 +1,76 @@
+{
+  "code": "L3",
+  "title": "Describe asphalt Compaction Roller operator roles and responsibilities",
+  "intro": "The roller operator coordinates density development and surface finish with the paving train. A useful rolling pattern is planned, checked and adjusted through evidence rather than repeated by habit.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe communication techniques",
+      "text": "Agree machine roles, lane/area, direction-change locations, signal/radio channel and stop response. With multiple rollers, share which area is complete, which still needs work and where testing or handwork is occurring. Use location and pass/coverage terminology consistently. An unacknowledged instruction is not a completed handover."
+    },
+    {
+      "number": 2,
+      "title": "Describe effective rolling pattern",
+      "text": "A rolling pattern specifies sequence, overlap, operating mode, speed and repetitions for the actual mixture and conditions. A pass and a coverage must be defined: one machine movement is not necessarily one complete treatment of the full mat width. Establish the pattern with the approved trial/quality process and record changes. Repeatedly rolling one strip while missing another creates uneven treatment even if the total pass count looks high."
+    },
+    {
+      "number": 3,
+      "title": "Determine pattern to achieve ride planning",
+      "text": "Plan for ride quality before the mat cools. Coordinate steady paving, joints, starts/stops and smooth direction changes. Abrupt turns or stopping in a damaging condition can mark or displace the mat. The finish roller cannot be assumed to repair every earlier profile defect. Use measured feedback and report persistent marks or instability promptly."
+    },
+    {
+      "number": 4,
+      "title": "Describe responsibilities of Compaction Roller operator",
+      "text": "The operator monitors surroundings, mixture condition, spray/scraper performance, working mode and the planned pattern. Avoid sharp cuts across the mat and do not allow vibration to continue while stationary where prohibited by the machine/process instructions. Coordinate changes with the lead instead of adding passes independently. Required density, smoothness and surface condition are separate checks; meeting one does not establish the others."
+    }
+  ],
+  "worked": {
+    "title": "Pass count without coverage",
+    "case": "Two operators each report six passes, but their paths overlap on one side and leave a strip untreated.",
+    "solution": "Reconstruct the actual path and coverage map, identify the missed strip and obtain an authorized response while conditions allow. Define pass/coverage consistently for the next run. Twelve reported movements do not establish uniform compaction."
+  },
+  "activities": [
+    {
+      "id": "L3-01",
+      "prompt": "Draw a conceptual coverage map with three labelled strips and a legend for complete/needs check.",
+      "answer": "Use patterns or labels as well as colour, identify direction and boundaries, and record the actual approved sequence separately. Do not present the sketch as a universal rolling pattern.",
+      "skills": [
+        "Writing",
+        "Creativity and innovation"
+      ],
+      "title": "Draw a conceptual coverage map with three labelled strips and a legend for complete/needs check."
+    },
+    {
+      "id": "L3-02",
+      "prompt": "A training record has four strips, each requiring two planned coverages. How many strip-coverages are planned?",
+      "answer": "4 × 2 = 8 strip-coverages. This exercise count is not a recommended field pass requirement or proof of density.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A training record has four strips, each requiring two planned coverages"
+    },
+    {
+      "id": "L3-03",
+      "prompt": "Write a handover for a strip awaiting a quality check.",
+      "answer": "Identify lane/station/strip, actual completed treatment, known temperature/time, pending test and person responsible. Confirm where other equipment and people may move.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Digital"
+      ],
+      "title": "Write a handover for a strip awaiting a quality check."
+    }
+  ],
+  "practical": [
+    "Coordinate multiple operators using clear location and coverage terms.",
+    "Follow and record the approved pattern.",
+    "Recognize and report ride/texture concerns without unsupported corrections."
+  ],
+  "visuals": [
+    "rolling-coverage",
+    "smoothness-profile"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

@@ -1,0 +1,73 @@
+{
+  "code": "E3",
+  "title": "Determine haul truck samples",
+  "intro": "A truck sample connects the delivered mixture to a production and quality record. The truck, load ticket, mix identifier, time and sampled location must remain traceable. Sampling should answer the planned question; choosing only the easiest or coolest-looking portion can introduce bias. Safe access is established before sampling, not improvised after a truck arrives.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe mix sampling",
+      "text": "Confirm the intended material and sampling purpose: mixture identity, temperature, binder-content/gradation testing or another specified property. Use the required sampling location, increments, tools and sample size under the approved method. The arrangement must control vehicle movement, hot material, access and other exposed people. Do not climb a load or reach into a discharge stream on the strength of a classroom description.\n\nTemperature and laboratory specimens may require different handling. The sampling record identifies exactly what was taken, where, when and by whom. A result is compared with the correct formula and contractual criterion, not simply with the last truck’s appearance."
+    },
+    {
+      "number": 2,
+      "title": "Describe quality control",
+      "text": "Random selection reduces the opportunity to choose favourable loads or locations, while the approved plan determines the sampling population and timing. Random does not mean unplanned or unsafe. The testing agency/company personnel must have the required competence and authorization, and the truck/paver crew must understand the hold and communication arrangement.\n\nKeep quality-control sampling separate from owner acceptance/audit sampling where the contract distinguishes them. A failed result is handled through the documented process, preserving the selected sample and records. Replacing it with an unrecorded convenient sample defeats traceability and can hide a production problem."
+    },
+    {
+      "number": 3,
+      "title": "Describe how to bag samples",
+      "text": "Use the container or bag specified for the sample’s material, temperature, quantity and test. Identify the load, mix, date/time, location, sampler, intended test and any required seal/backup identification. Protect the sample from contamination and loss while following safe hot-material handling. An ordinary classroom bag may be unsuitable for actual hot mix.\n\nA backup sample is useful only if it remains correctly identified, preserved and handled under the applicable method and retention arrangement. Record transfer and receipt. If a seal breaks or the label becomes unreadable, report the condition rather than recreating identity from memory."
+    }
+  ],
+  "worked": {
+    "title": "Random selection with traceability",
+    "case": "Fictional teaching plan identifies loads 1–10 and a recorded random selection of loads 3 and 8. Load 8 is delayed; load 7 is easier to reach. The sampler proposes silently substituting 7.",
+    "solution": "The approved selection has changed. Follow the plan’s authorized contingency/rescheduling method and record any change; do not silently substitute a convenient load. Maintain safe coordination while waiting or arranging the approved alternative. Random selection and safe access must both be satisfied."
+  },
+  "activities": [
+    {
+      "id": "E3-01",
+      "prompt": "Prepare the complete label and transfer record for fictional load 3, mix JMF-C revision 2, sampled at 10:25 for binder/gradation testing. Mark any information the case does not supply.",
+      "answer": "Include load/mix/version/time/test and fields for actual location, sampler, method, container/seal and transfer/receipt. Unknown data stays open for confirmation, not invented.",
+      "skills": [
+        "Reading",
+        "Writing"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "E3-02",
+      "prompt": "Two fictional increments are 6.2 kg and 5.8 kg. Find total mass and explain why this sum alone cannot establish a representative or correctly reduced laboratory sample.",
+      "answer": "12.0 kg total. Representativeness depends on the sampling plan and collection; laboratory preparation/reduction follows the method.",
+      "skills": [
+        "Numeracy",
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "Two fictional increments are 6.2 kg and 5.8 kg"
+    },
+    {
+      "id": "E3-03",
+      "prompt": "Create a digital sampling log, introduce the delayed-load change with a partner and preserve the authorized decision trail.",
+      "answer": "Log retains original selection, reason for change, authority, actual sample identity and result linkage. Each learner contributes and demonstrates saving/reopening the record.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Communicate and verify the work"
+    }
+  ],
+  "practical": [
+    "Instructor establishes actual vehicle separation, access, tools, containers and sampling method with the competent testing role.",
+    "Observe representative sampling from authorized locations, identification, safe handling and backup/transfer procedure.",
+    "Record practical evidence from the actual task; paper labels alone do not demonstrate hot-mix sampling skill."
+  ],
+  "visuals": [
+    "truck-sample",
+    "sample-chain"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

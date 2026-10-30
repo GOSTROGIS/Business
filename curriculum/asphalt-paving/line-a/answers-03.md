@@ -34,3 +34,10 @@ The component-reading addition supports A1 equipment vocabulary and introduces I
 ## Connect the two drawings to the machine photograph
 
 Use Figure LA-4 with LA3-02, then Figure LA-5 with LA3-07. Have a learner trace and say each material route before writing it. Keep the source figure/page with the explanation. The complete [Understanding asphalt learner book](../ms-4/concepts/index.html) provides MS4-03–MS4-06 for additional process comparison, saved notes and checked communication, with separate [answer guidance](../ms-4/concepts/teaching-guide.html). The source figures and original contributor credits are recorded in the adjacent captions.
+
+
+## Review the AI-assisted technology note and study media
+
+The checked note must preserve the plant/process distinctions, component names, material route and unresolved product request. Inspect the actual DOCX/Markdown, PDF/HTML and SVG: a filename in a chat is not evidence of a created file. The audit must connect each technical claim to a supplied source and retain unknowns. Reject invented temperatures, mix proportions or machine settings.
+
+The short recording must accurately distinguish hopper, slat conveyors, augers and screed; it includes a question, pause, answer and transcript. If video is created, check caption timing, readability and whether the picture supports the spoken explanation. Record the actual tool, saved formats, checks, corrections and partner’s explanation. An accurate script demonstrates script work; award recording evidence only after playback of an actual audio/video file. Observe each learner’s own file and audit actions.

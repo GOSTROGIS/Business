@@ -1,0 +1,94 @@
+{
+  "code": "H6",
+  "title": "Operate milling and reclaiming equipment",
+  "intro": "Machine operation develops through supervised practice on the selected equipment. The sequence below explains the decisions and observations required; the instructor uses the matching OMM for control positions, settings and exact operating steps.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Plan job",
+      "text": "Review the training or job plan, permitted surface, depth, line, material discharge, weather, utilities and exclusion areas. Complete pre-start checks and daily maintenance, identify emergency stopping controls, and agree on communications. The instructor defines the permitted operating envelope and observes the learner. A changed condition requires a new assessment before continuing."
+    },
+    {
+      "number": 2,
+      "title": "Position the machine",
+      "text": "Position the machine on the approved approach with adequate support and clearance. Align the truck or approved side-discharge arrangement without placing a person between moving equipment. Check the full conveyor movement envelope, including overhead electrical hazards. Use the designated guide and stop if visibility or acknowledgement is lost."
+    },
+    {
+      "number": 3,
+      "title": "Engage teeth",
+      "text": "Engage and lower the cutting system only through the selected machine’s sequence, with guards and dust controls effective and everyone clear. Rotor speed, depth and engagement conditions are model- and task-specific. A rotating drum is not approached for a visual check or manual clearing. Unexpected impact or vibration requires an appropriate stop and report."
+    },
+    {
+      "number": 4,
+      "title": "Move forward",
+      "text": "Move along the verified line with smooth control and continuous observation. Painted lines, string references or the previous cut may guide alignment when authorized. Keep the cutting and discharge processes coordinated; do not focus so closely on a line that people, trucks or obstacles disappear from attention."
+    },
+    {
+      "number": 5,
+      "title": "Make adjustments",
+      "text": "Make deliberate, controlled adjustments after identifying the reason. Large repeated changes can create an uneven profile and obscure the cause. Communicate changes to ground crew and allow the machine’s response to be evaluated. If the machine behaves unexpectedly, stop for investigation instead of chasing the error with more controls."
+    },
+    {
+      "number": 6,
+      "title": "Control depth",
+      "text": "Set and verify cut depth against the approved reference. Check at safe, authorized locations and record station, side and measured depth. Existing surface variation, sensor reference changes and machine movement can influence the result. Average depth alone does not establish an acceptable profile everywhere."
+    },
+    {
+      "number": 7,
+      "title": "Set Controls",
+      "text": "Coordinate travel speed, cut depth, machine attitude and discharge capacity within the OMM and plan. Monitor engine/load indicators, dust-control performance and truck availability. Finish with the manufacturer’s shutdown sequence and a recorded handover. Competence includes stopping early when the conditions exceed the plan, not only producing material."
+    }
+  ],
+  "worked": {
+    "title": "Depth changes across a pass",
+    "case": "The approved exercise cut is 40 mm. Safe checks show 40, 41 and then 54 mm near a changed reference surface.",
+    "solution": "Record each location, notify the lead and hold the affected operation for verification of reference and controls. The 54 mm result should not be concealed by an average. Resume with authorized settings after the cause and required correction are resolved."
+  },
+  "activities": [
+    {
+      "id": "H6-01",
+      "prompt": "Describe a safe supervised sequence for forward–stop–reverse–stop on a flat training pad.",
+      "answer": "Precheck and brief; confirm clear route and signals; use the OMM travel controls; move smoothly; stop; recheck the reverse route and acknowledgement; reverse and stop; apply the specified parking/isolation controls. Exact controls are machine-specific.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Describe a safe supervised sequence for forward–stop–reverse–stop on a flat training pad."
+    },
+    {
+      "id": "H6-02",
+      "prompt": "A 75 m pass takes 15 min of actual travel. Find average travel speed in m/min; explain why this is not a recommended setting.",
+      "answer": "75/15 = 5 m/min. It is a recorded average, not a safe or productive setting for every material, depth, machine or site.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A 75 m pass takes 15 min of actual travel"
+    },
+    {
+      "id": "H6-03",
+      "prompt": "Design a one-pass log that helps the next operator understand a sensor-reference change.",
+      "answer": "Include machine, station range, depth target/readings, reference type/change, settings as recorded, time, observed response, stop/action and authorization to resume.",
+      "skills": [
+        "Writing",
+        "Digital",
+        "Collaboration",
+        "Creativity and innovation"
+      ],
+      "title": "Design a one-pass log that helps the next operator understand a sensor-reference change."
+    }
+  ],
+  "practical": [
+    "Precheck, start, monitor and shut down using the matching OMM.",
+    "Move forward/stop/reverse/stop on flat ground and apply parking controls.",
+    "Raise/lower/swing conveyor only within the cleared envelope.",
+    "Set and verify depth; follow the line during an approved supervised cut.",
+    "Coordinate with ground crew and haul driver or approved side-discharge plan."
+  ],
+  "visuals": [
+    "milling-cut",
+    "cat-milling-undercarriage"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

@@ -1,0 +1,69 @@
+{
+  "code": "K3",
+  "title": "Place asphalt hot mix",
+  "intro": "Hand placement aims for a consistent layer that can be compacted properly. Work promptly and deliberately, using the approved preparation, joint and compaction methods for the actual repair or small area.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform common hand work crew duties",
+      "text": "Prepare the road edge, driveway, intersection, trench patch or pothole according to the specified repair detail. Confirm sound boundaries, support, drainage, depth and the required bond treatment. Apply the specified tack/emulsion to prepared faces under its procedure; an inert simulation may be used in training. Use shovels to place manageable amounts close to their final position. Coordinate delivery without entering a truck’s uncontrolled discharge area.\n\nA wheelbarrow can move small quantities where the route, load, footing and heat controls allow. Inspect wheel, handles and tray, keep the load manageable and use the designated transfer arrangement. Spread with the suitable toothed or straight lute edge for the material and task. Avoid excessive manipulation that separates particles or cools the mix. Grade changes need controlled placement to limit uneven compaction, not an arbitrary heap of loose material."
+    },
+    {
+      "number": 2,
+      "title": "Demonstrate common techniques",
+      "text": "“Bumping” in this teaching context means controlled local adjustment of the loose mat with the approved hand tool to bring material into the required line or shape. The instructor demonstrates the project’s technique and terminology; it is not permission to strike machinery or people. Ramping forms a planned transition, which may be temporary or permanent according to the detail. Work around manholes to the verified elevation and crossfall without trapping water.\n\nSquare and prepare the end of a run and joints using the accepted method. Coordinate tamping/compaction equipment and roller access while the mixture remains suitable. A tiger torch or other heating tool is used only where specifically authorized, with its own training, equipment instructions and fire controls. It is not a default way to restore cooled or unsuitable mix. Inspect the finished line, surface and drainage, and report defects for authorized correction."
+    }
+  ],
+  "worked": {
+    "title": "A small rectangular patch",
+    "case": "A prepared patch is 1.2 m × 0.8 m with 0.06 m compacted depth.",
+    "solution": "Area = 0.96 m²; compacted volume = 0.0576 m³. Material quantity requires an appropriate density and justified allowance. Confirm the repair detail and compaction method; the volume calculation does not establish that a single lift or any particular tool is suitable."
+  },
+  "activities": [
+    {
+      "id": "K3-01",
+      "prompt": "For a 2 m × 0.5 m strip at 0.04 m compacted depth, find geometric volume.",
+      "answer": "2 × 0.5 × 0.04 = 0.04 m³ compacted. Use the specified material and approved quantity conversion for ordering.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "For a 2 m × 0.5 m strip at 0.04 m compacted depth, find geometric volume."
+    },
+    {
+      "id": "K3-02",
+      "prompt": "Explain a safe handwork sequence around a manhole.",
+      "answer": "Verify structure elevation/detail and protected access; prepare support/face treatment; place/distribute suitable mix; check line/crossfall; coordinate compaction and inspect drainage/finish. Use the actual approved method and keep clear of moving equipment.",
+      "skills": [
+        "Communication",
+        "Problem solving"
+      ],
+      "title": "Explain a safe handwork sequence around a manhole."
+    },
+    {
+      "id": "K3-03",
+      "prompt": "Document a supervised practice using a shovel, lute and tamper, then review with a partner.",
+      "answer": "Record task/site conditions, tools, safe transfer, selected lute edge, placement/transition/joint work, compaction coordination and observed result. Identify actual feedback and a next attempt without claiming unobserved workplace competence.",
+      "skills": [
+        "Writing",
+        "Digital",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Document a supervised practice using a shovel, lute and tamper, then review with a partner."
+    }
+  ],
+  "practical": [
+    "Prepare and treat an approved joint or simulated face.",
+    "Transfer manageable material with shovel/wheelbarrow on the controlled route.",
+    "Use toothed/straight lute edges, form a transition and work around a structure.",
+    "Demonstrate approved bumping/joint techniques and coordinate compaction."
+  ],
+  "visuals": [
+    "handwork-patch",
+    "rakes-and-handwork",
+    "tampers"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

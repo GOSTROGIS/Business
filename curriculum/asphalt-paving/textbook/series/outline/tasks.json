@@ -1,0 +1,2793 @@
+[
+  {
+    "code": "B2",
+    "title": "Describe working safely around haul trucks",
+    "pdf_start": 30,
+    "pdf_end": 30,
+    "printed_start": 28,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe consequences of lapses in communication",
+        "content": [
+          "•    Maintain eye contact"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Identify equipment specific hazards",
+        "content": [
+          "•    Pinch points",
+          "•    Blind spots",
+          "•    Machine cleanliness"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B3",
+    "title": "Describe safety working around and operating power brooms",
+    "pdf_start": 31,
+    "pdf_end": 31,
+    "printed_start": 29,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe effects of noise and dust",
+        "content": [
+          "•     Use proper PPE including Hi-Vis and dust",
+          "mask"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe dangers associated with vehicle movement",
+        "content": [
+          "•     Power brooms move quickly, collision hazard"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe dangers associated with moving parts",
+        "content": [
+          "•     Spinning brushes and attachments can cause",
+          "injury"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B4",
+    "title": "Describe safety working around and operating air hammers",
+    "pdf_start": 32,
+    "pdf_end": 32,
+    "printed_start": 30,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe noise and vibration hazards",
+        "content": [
+          "•     Use proper PPE including hearing protection"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe hazards of flying debris",
+        "content": [
+          "•     Keep clear to avoid being hit by flying debris"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe ergonomics and safe equipment handling",
+        "content": [
+          "•     Air hammers are heavy, care must be taken to",
+          "avoid strain while operating or stowing"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B5",
+    "title": "Describe safety working around and operating propane tanks",
+    "pdf_start": 33,
+    "pdf_end": 33,
+    "printed_start": 31,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Identify potential fire hazards while working around propane tanks",
+        "content": [
+          "•     Discuss properties of compressed gas",
+          "including explosion/fire"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Demonstrate proper storage and handling",
+        "content": [
+          "•     Secure for transport",
+          "•     Stow attachments e.g., Tiger Torch"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Demonstrate proper connection procedures and check for leaks",
+        "content": [
+          "•     Use of soapy solution to check for leaks",
+          "•     Proper connection of threaded fittings"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B6",
+    "title": "Describe weather effects and precautions",
+    "pdf_start": 34,
+    "pdf_end": 34,
+    "printed_start": 32,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe the effects of temperature on the body",
+        "content": [
+          "•     Excess heat can cause exhaustion",
+          "•     Radiant heat from pavement"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the importance of proper hydration",
+        "content": [
+          "•     Drink plenty of fluids, especially during",
+          "asphalt laydown",
+          "•     Recognize signs and treatment of heat",
+          "exhaustion and heat stroke"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Define effects of exposure to direct sun",
+        "content": [
+          "•     Risk of skin cancer",
+          "•     Use proper protective clothing, hats, etc",
+          "•     Use sunscreen"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B7",
+    "title": "Describe safety and traffic control procedures",
+    "pdf_start": 35,
+    "pdf_end": 35,
+    "printed_start": 33,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B7.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe traffic control procedures (TCP) Certification",
+        "content": [
+          "•     Certification process Radiant heat from",
+          "pavement"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Review TCP training content",
+        "content": [
+          "•     Summary of TCP course content"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Review TCP regulations",
+        "content": [
+          "•     Number of TCPs required",
+          "•     Signage",
+          "•     Signals",
+          "•     Communication"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B8",
+    "title": "Describe plant site and gravel pit safety",
+    "pdf_start": 36,
+    "pdf_end": 36,
+    "printed_start": 34,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B8.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define noise hazards and precautions",
+        "content": [
+          "•     Hearing protection"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe site specific hazards",
+        "content": [
+          "•     Crushing",
+          "•     Moving equipment",
+          "•     Flying debris",
+          "•     Dust"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B9",
+    "title": "Describe light vehicle transporting procedures",
+    "pdf_start": 37,
+    "pdf_end": 37,
+    "printed_start": 35,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B9.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe procedures for transportation of vehicles under 5000 kg",
+        "content": [
+          "•     Follow company safety rules"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe procedures for transportation of vehicles over 5000 kg",
+        "content": [
+          "•     Transport Canada rules apply"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B10",
+    "title": "Complete fatigue awareness training",
+    "pdf_start": 38,
+    "pdf_end": 38,
+    "printed_start": 36,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/B10.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define mental fatigue",
+        "content": [
+          "•     Combination of cumulative sleep debt and",
+          "the time of day circadian rhythms"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Define a work schedule that helps reduce fatigue",
+        "content": [
+          "•     Work schedules need to be designed properly",
+          "to reduce the risk of creating cumulative or",
+          "acute sleep debt"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Discuss available training",
+        "content": [
+          "•     Examine sources of fatigue awareness",
+          "training e.g., www.Shiftwork.ca"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C1",
+    "title": "Describe crushing process and paving aggregate production",
+    "pdf_start": 39,
+    "pdf_end": 39,
+    "printed_start": 37,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/C1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe gravel pits, quarries",
+        "content": [
+          "•     Types of pits"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe crushing equipment",
+        "content": [
+          "•     Jaw, cone, impact"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe the screen",
+        "content": [
+          "•     Description and purpose"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe conveyors",
+        "content": [
+          "•     Types of conveyors"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe feeders",
+        "content": [
+          "•     Description and purpose"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Explain stockpiling and handling",
+        "content": [
+          "•     How materials is stored prior to use"
+        ]
+      },
+      {
+        "number": 7,
+        "task": "Describe washing procedures",
+        "content": [
+          "•     Methods and purpose"
+        ]
+      },
+      {
+        "number": 8,
+        "task": "Describe types of aggregate transportation",
+        "content": [
+          "•     Barge and trucking and rail cars"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C2",
+    "title": "Describe types and specifications of aggregates",
+    "pdf_start": 40,
+    "pdf_end": 40,
+    "printed_start": 38,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/C2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe aggregate processing",
+        "content": [
+          "•     Screening",
+          "•     Crushing",
+          "•     Washing"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe characteristics",
+        "content": [
+          "•     Permeability",
+          "•     Load bearing",
+          "•     Resistance to shearing",
+          "•     Gradation",
+          "•     Plastic limit",
+          "•     Liquid limit"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe common products",
+        "content": [
+          "•     Describe characteristics and most common",
+          "uses for each",
+          "o Pit run",
+          "o Screened road base 3” minus",
+          "o Bedding sand",
+          "o Crushed road mulch",
+          "o Asphalt aggregates",
+          "o Drain rock",
+          "o Chips, driveway chips",
+          "o Recyled asphalt",
+          "o Concrete sand, C33",
+          "o Stucco sand"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C3",
+    "title": "Describe asphalt plant operation",
+    "pdf_start": 41,
+    "pdf_end": 41,
+    "printed_start": 39,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/C3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe the operation of a drum plant",
+        "content": [
+          "•     Cold feeds",
+          "•     Conveyor systems",
+          "•     Mixing process",
+          "•     Storage silo",
+          "•     Load out"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the operation of a batch plant",
+        "content": [
+          "•     Cold feeds",
+          "•     Hot stone elevator",
+          "•     Screen deck",
+          "•     Hot bins",
+          "•     Weigh bins",
+          "•     Pug mill",
+          "•     Slat conveyor"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C4",
+    "title": "Describe asphalt products and uses",
+    "pdf_start": 42,
+    "pdf_end": 42,
+    "printed_start": 40,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/C4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe the key elements of the MMCD",
+        "content": [
+          "•     Master Municipal Contract Documents"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the role of the MOT",
+        "content": [
+          "•     Ministry of Transport",
+          "•     Quality control",
+          "•     Quality assurance",
+          "•     Quality audit"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe the role of the DOT",
+        "content": [
+          "•     Department of Transport",
+          "•     Design build standards for highways",
+          "contruction"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe Engineer Specs",
+        "content": [
+          "•     Apply to private property"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe role of Architect",
+        "content": [
+          "•     Variety of publications"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe other asphalt and paving materials",
+        "content": [
+          "•     Paving blocks/stones",
+          "•     Green roads",
+          "•     Concrete"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "D1",
+    "title": "Describe environmentally friendly properties",
+    "pdf_start": 43,
+    "pdf_end": 43,
+    "printed_start": 41,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/D1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Green properties of asphalt",
+        "content": [
+          "•     Not toxic when laid",
+          "•     Does not leach",
+          "•     Can be recycled",
+          "•     Can be used with other materials and used",
+          "again: RAP [Recycled Asphalt Products]"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "D2",
+    "title": "Describe use of storage areas",
+    "pdf_start": 44,
+    "pdf_end": 44,
+    "printed_start": 42,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/D2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe Type 1 storage",
+        "content": [
+          "•     Spill contained areas – dangerous goods (tank",
+          "and containment pool)",
+          "•     Fuels (diesel bunker)",
+          "•     Waste",
+          "•     Primer and SS1",
+          "•     Natural gas",
+          "•     Asphalt oils"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe Type 2 storage",
+        "content": [
+          "•     Self contained",
+          "•     Liquid asphalt",
+          "•     Fuels (bio diesel)"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe use of recycled materials in hot mix asphalt",
+        "content": [
+          "•     Cost savings",
+          "•     Mobile recycling"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe use of recycled materials in asphalt plant burners",
+        "content": [
+          "•     Temperature",
+          "•     Handling precautions"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "D3",
+    "title": "Describe asphalt plant and placement emissions",
+    "pdf_start": 45,
+    "pdf_end": 45,
+    "printed_start": 43,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/D3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Discuss role of Metro Vancouver (formerly GVRD) in enforcement and regulation of emissions",
+        "content": [
+          "•     21 communities"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe role of MOE in establishing regulations",
+        "content": [
+          "•     Provincial regulations"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe use of Bag house",
+        "content": [
+          "•     Dust collection technologies"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe emission controls",
+        "content": [
+          "•     Heating asphalt"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E1",
+    "title": "Determine asphalt mix design",
+    "pdf_start": 46,
+    "pdf_end": 46,
+    "printed_start": 44,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/E1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe asphalt/aggregate composition",
+        "content": [
+          "•     Marshall method",
+          "•     Super pave method"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe types of mix designs",
+        "content": [
+          "•     Mix"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe mix temperature characteristics",
+        "content": [
+          "•     Hot mix asphalt HMA – upper and lower",
+          "•     Warm mix asphalt (WMA)",
+          "•     Cold mix aspalt"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E2",
+    "title": "Confirm that samples match mix design",
+    "pdf_start": 47,
+    "pdf_end": 47,
+    "printed_start": 45,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/E2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe aggregate sampling",
+        "content": [
+          "•     Weigh bins"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe belt sampling",
+        "content": [
+          "•     Drum mixer"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe lab tests",
+        "content": [
+          "•     Sample of mix to lab"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe the process of taking mix temperature readings",
+        "content": [
+          "•     Temperature measurement tools and",
+          "recording equipment"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E3",
+    "title": "Determine haul truck samples",
+    "pdf_start": 48,
+    "pdf_end": 48,
+    "printed_start": 46,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/E3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe mix sampling",
+        "content": [
+          "•     Confirmation",
+          "o Of an asphalt sample",
+          "o Temperature test",
+          "o Extraction/gradation test"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe quality control",
+        "content": [
+          "•     Requirement: truck sample randomly taken",
+          "at job site (by testing agency or company of",
+          "certified)"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe how to bag samples",
+        "content": [
+          "•     For backup"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E4",
+    "title": "Determine compaction levels",
+    "pdf_start": 49,
+    "pdf_end": 49,
+    "printed_start": 47,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/E4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe two methods to determine compaction",
+        "content": [
+          "•     Nuclear densometer",
+          "•     In situ coring sample"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "F1",
+    "title": "Describe drainage, grade and base",
+    "pdf_start": 50,
+    "pdf_end": 50,
+    "printed_start": 48,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/F1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe proper road drainage",
+        "content": [
+          "•     Environmental considerations"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe sub grade",
+        "content": [
+          "•     Existing soil conditions",
+          "•     Geo-textiles"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe sub-base",
+        "content": [
+          "•     Aggregation and alternative materials"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe base",
+        "content": [
+          "•     Virgin product",
+          "•     Quary, pit or dredge or river",
+          "extraction/material",
+          "•     Recycled products"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "F2",
+    "title": "Verify slopes, crowns and grades",
+    "pdf_start": 51,
+    "pdf_end": 52,
+    "printed_start": 49,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/F2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Confirm plans/blueprints",
+        "content": [
+          "•     Metric and Imperial measurement",
+          "•     Scale",
+          "•     Abbreviations, symbols common to civil",
+          "drawings",
+          "•     Distinguish horizontal distance from slope",
+          "distance"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Define role of Surveyor",
+        "content": [
+          "•     Determine cuts and fills of road construction",
+          "at specified centerline points on profile",
+          "•     Determine depth of pipe at specified points",
+          "•     Calculate the volume of aggregate types",
+          "allowing for settlement i.e. road base or pipe",
+          "bedding",
+          "•     Create material lists i.e. pipe, valves, etc."
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Define role of Grade Person",
+        "content": [
+          "•     Transfers info to offset stakes"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Perform typical calculations",
+        "content": [
+          "•     Use ‘real world’ examples of plan sets to",
+          "describe drawings",
+          "•     Plan view: drawing with the view from",
+          "overhead",
+          "•     Profile view: drawing of side view with the",
+          "vertical scale exaggerated, usually 10x the",
+          "horizontal scale; showing original ground",
+          "and design grades of roads, pipe, manholes,",
+          "culverts, bridges; cuts and fills shown are at",
+          "the centerline only; often on the same page as",
+          "a plan view aligned on the same horizontal",
+          "scale",
+          "•     Section: drawing of a ‘slice’ of works at right",
+          "angle to the centerline with the same",
+          "horizontal and vertical scale",
+          "•     Additional features of drawings: scale, north",
+          "orientation, legends, creation and revision",
+          "dates, “created by” info, detail drawing",
+          "insertions"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "F3",
+    "title": "Describe final grade preparation",
+    "pdf_start": 53,
+    "pdf_end": 53,
+    "printed_start": 51,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/F3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe how to check and raise utilities",
+        "content": [
+          "•     Describe methods of raising castings and",
+          "related traffic control issues"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe fine grading",
+        "content": [
+          "•     Discuss fine grading, soil compaction and",
+          "surface preparation"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe boning crown/cross-fall",
+        "content": [
+          "•     Ensure crown and cross-fall specifications are",
+          "understood and proper calibrations made to",
+          "equipment"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe limit of asphalt layout",
+        "content": [
+          "•     Determine width of finished mat"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G1",
+    "title": "Describe gradation",
+    "pdf_start": 54,
+    "pdf_end": 54,
+    "printed_start": 52,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe MOT Specs",
+        "content": [
+          "•     Review Part A General including definitions",
+          "•     Preparing a Quality Control Plan for",
+          "evaluation before commencing the Work and",
+          "providing at the production site a testing",
+          "facility to provide the data needed to",
+          "implement that plan",
+          "•     Supplying, screening, crushing, processing",
+          "and improving aggregate to produce asphalt",
+          "mix aggregate",
+          "•     Supplying and delivering asphalt cement and",
+          "spray primer meeting the requirements of",
+          "Section 952",
+          "•     Preparing mix designs which, once verified by",
+          "the Ministry Representative, become the",
+          "basis for the accepted Job Mix Formula",
+          "•     Heating the asphalt mix aggregate and mixing",
+          "it with asphalt cement to produce asphalt mix",
+          "that meets the Job Mix Formula",
+          "•     Hauling, placing, compacting and finishing",
+          "the asphalt mix"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the audit process",
+        "content": [
+          "•     Quality control plan requirements"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe penalty/bonus",
+        "content": [
+          "•     Ensure crown and cross-fall specifications are",
+          "understood and proper calibrations made to",
+          "equipment"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe limit of asphalt layout",
+        "content": [
+          "•     Discuss payment adjustment form Part B of",
+          "section 502",
+          "•     Review Table 502-G"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G2",
+    "title": "Describe oil content",
+    "pdf_start": 55,
+    "pdf_end": 55,
+    "printed_start": 53,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Section 502",
+        "content": [
+          "•     Oil content requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G3",
+    "title": "Describe application",
+    "pdf_start": 56,
+    "pdf_end": 56,
+    "printed_start": 54,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Section 502",
+        "content": [
+          "•     Asphalt application standards"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G4",
+    "title": "Describe segregation",
+    "pdf_start": 57,
+    "pdf_end": 57,
+    "printed_start": 55,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Section 502",
+        "content": [
+          "•     Segregation of asphalt"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G5",
+    "title": "Describe density",
+    "pdf_start": 58,
+    "pdf_end": 58,
+    "printed_start": 56,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Section 502",
+        "content": [
+          "•     Density specifications"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G6",
+    "title": "Describe smoothness",
+    "pdf_start": 59,
+    "pdf_end": 59,
+    "printed_start": 57,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/G6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Define Section 502",
+        "content": [
+          "•     Smoothness standards"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H1",
+    "title": "Describe milling and reclaiming equipment",
+    "pdf_start": 60,
+    "pdf_end": 60,
+    "printed_start": 58,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe milling equipment",
+        "content": [
+          "•     Reference manufacturers and equipment",
+          "available",
+          "•     Reference brochures, videos, etc."
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the function of milling equipment",
+        "content": [
+          "•     Milling: Profiling",
+          "•     Reclaiming: total reclaiming of existing",
+          "materials",
+          "•     Material injection",
+          "•     Stabilized base",
+          "•     Foamed asphalt",
+          "•     Reclaim, grade, pave"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe major mechanical components",
+        "content": [
+          "•     Major components checklist",
+          "•     Identify and describe function from list of",
+          "major components"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe potential failures, symptoms and indicators of failure",
+        "content": [
+          "•     Symptoms: noise, vibration, smell, leaks,",
+          "cracks",
+          "•     Respond appropriately: service required,",
+          "immediate repair required, immediate",
+          "removal from service"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H2",
+    "title": "Identify milling and reclaiming safety procedures",
+    "pdf_start": 61,
+    "pdf_end": 61,
+    "printed_start": 59,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Interpret and follow job plan",
+        "content": [
+          "•   Communication of plan",
+          "o Path",
+          "o Pattern",
+          "o Depth",
+          "o Passes"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Demonstrate awareness of machine-specific safety",
+        "content": [
+          "•   Dust, pressure (machine malfunctions/",
+          "kickbacks) blind spots, fumes, hydraulic line,",
+          "noise",
+          "•   Block outs"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe Traffic Control requirements",
+        "content": [
+          "•   Number of TCP’s required",
+          "•   Signage",
+          "•   Signals",
+          "•   Communication"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe proper PPE",
+        "content": [
+          "•   Workers are responsible to provide general",
+          "purpose gloves, safety footwear, hard hat -",
+          "employers are responsible for providing all",
+          "other safety items",
+          "•   Employers must ensure that PPE is properly",
+          "worn when required, and is cleaned,",
+          "inspected, maintained",
+          "•   Employers must ensure that workers are",
+          "adequately trained: correct use, limitations,",
+          "maintenance"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe lockout procedures",
+        "content": [
+          "•   Fuel supply",
+          "•   Battery lockout, etc."
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe how to secure equipment for safety",
+        "content": [
+          "•   Vandal proof take ancillary parts off",
+          "•   Park safety block elevated equipment, use",
+          "parking brakes and chocks"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H3",
+    "title": "Describe milling and reclaiming operator roles and responsibilities",
+    "pdf_start": 62,
+    "pdf_end": 62,
+    "printed_start": 60,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe the role of Milling Machine Operator",
+        "content": [
+          "•     Top end"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe the role of ground men",
+        "content": [
+          "•     Operating depth of drum",
+          "•     Assume profile depth, quality of job",
+          "•     Keep trucks in line, laser guided controls, set",
+          "controls",
+          "•     Team contolling function",
+          "•     Cooperation is key"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Demonstrate hand signals communication",
+        "content": [
+          "•     Not standardized"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H4",
+    "title": "Perform milling and reclaiming equipment maintenance",
+    "pdf_start": 63,
+    "pdf_end": 64,
+    "printed_start": 61,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Service lubrication system (greasing)",
+        "content": [
+          "•     Identify and lube all points",
+          "•     Load grease gun",
+          "•     Note: point out all that employers differ, but",
+          "the following guidelines are reasonable",
+          "•     2-3 shots for small areas: fan bearings, small",
+          "U joints, linkages, hinges, etc.",
+          "•     8-10 shots for common pins and bushings",
+          "•     20 shots where one nipple feeds large areas",
+          "•     Every pin must be showing excess grease",
+          "•     Daily for most points/weekly for some",
+          "•     Wipe off nipples before greasing to reduce",
+          "abrasive particles entering pin/bushing"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Service air intake system as required (air filters / pre cleaners)",
+        "content": [
+          "•     Restriction indicators",
+          "•     Pre cleaner service",
+          "•     Cleaning vs. replacement, check policy",
+          "•     Use air only with reduced pressure"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Drain fuel tank sump, water separator fuel filters if equipped",
+        "content": [
+          "•     Drain, assess",
+          "•     Water, debris, scale, etc."
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Add fluids as required",
+        "content": [
+          "•     Indetify correct fluids for each components",
+          "•     Add fluids as required",
+          "•     Avoid contamination with dirt, water",
+          "•     Describe 2 sided dipsticks with levels for",
+          "stopped/idling (CAT engines, transmissions)"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Inspect and clean components as required",
+        "content": [
+          "•     Radiation and oil cooler",
+          "•     Filter plugs, dipstick",
+          "•     Battery terminals"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Perform housekeeping tasks",
+        "content": [
+          "•     Garbage",
+          "•     Excess grease",
+          "•     General cleanliness"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H5",
+    "title": "Comply with markers, grades and stakes",
+    "pdf_start": 65,
+    "pdf_end": 66,
+    "printed_start": 63,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe abbreviations used on stakes",
+        "content": [
+          "•     Abbreviations commonly used on stakes",
+          "o B/M - bench mark",
+          "o C - cut",
+          "o C/B - catch basin",
+          "o SMH - sanitary manhole",
+          "o Elv or EL - elevator",
+          "o F/G - finish grade",
+          "o P/L - property line",
+          "o R/W - right of way",
+          "o SAN or S - sanitary",
+          "o Mon - monument",
+          "o G - gas",
+          "o PVC - poly vinyl chloride"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Interpret stakes",
+        "content": [
+          "•     Interpret common types of staking",
+          "o Property line, iron pins",
+          "o Centre line, stationing",
+          "o Offset",
+          "o Cut, fill",
+          "o Grade",
+          "o Slope",
+          "o Reference point",
+          "o Bench marks, temporary bench marks:",
+          "geodetic and referenced to assumed",
+          "elevations",
+          "o Survey menument: geodetic, precise,",
+          "permanent, protected by law",
+          "o Cross-heads",
+          "o Location of work, e.g., manholes, catch,",
+          "basins, headwalls, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H6",
+    "title": "Operate milling and reclaiming equipment",
+    "pdf_start": 67,
+    "pdf_end": 68,
+    "printed_start": 65,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Plan job",
+        "content": [
+          "•     Discuss the importance of proper planning",
+          "•     Follow plan for practical in-school training"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Position the machine",
+        "content": [
+          "•     Manoeuvre machine into position to begin",
+          "milling",
+          "•     Position haul truck for material collection"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Engage teeth",
+        "content": [
+          "•     Lower cutting wheel"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Move forward",
+        "content": [
+          "•     Follow the line (could be a string, paint, or",
+          "previous cut)"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Make adjustments",
+        "content": [
+          "•     Avoid adjustments if possible – when",
+          "necessary do not make dramatic adjustments"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Control depth",
+        "content": [
+          "•     Proper use of depth controls, set according to",
+          "job requirements"
+        ]
+      },
+      {
+        "number": 7,
+        "task": "Set Controls",
+        "content": [
+          "•     Proper speed, depth and angle for job",
+          "requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H7",
+    "title": "Follow shut down procedures",
+    "pdf_start": 69,
+    "pdf_end": 69,
+    "printed_start": 67,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H7.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform shut down procedures",
+        "content": [
+          "•     Position that allows access in case of",
+          "mechanical trouble at start up",
+          "•     Safe parking position, set parking brake",
+          "•     Level position for checking of fluids",
+          "•     Cool down before shut down",
+          "•     Walk around, look for leaks, general check",
+          "secure manchine, locks, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H8",
+    "title": "Transport milling and reclaiming equipment",
+    "pdf_start": 70,
+    "pdf_end": 70,
+    "printed_start": 68,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/H8.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe roles and responsibilities",
+        "content": [
+          "•     Truck driver is usually responsible for",
+          "transporting equipment"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Prepare machine for transport",
+        "content": [
+          "•     Remove attachments",
+          "•     Secure equipment",
+          "•     Ensure all guards are in place"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe loading and unloading procedures",
+        "content": [
+          "•     Operator is usually involved in",
+          "loading/unloading",
+          "•     Use of tie-downs",
+          "•     Safe movement of machine on/off trailer"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I1",
+    "title": "Describe asphalt placement process",
+    "pdf_start": 71,
+    "pdf_end": 71,
+    "printed_start": 69,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe how to place prime and tack coats",
+        "content": [
+          "•     When placing asphalt over existing asphalt, a",
+          "tack coat is required"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe where to position the Paver",
+        "content": [
+          "•     Asphalt train"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe how to ready the Paving Machine",
+        "content": [
+          "•     Hydrostatic transmission and hydraulic",
+          "systems require full power"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe how to lower Screed on to blocks",
+        "content": [
+          "•     Proper thickness",
+          "•     Do not remove blocks until machine has",
+          "moved forward",
+          "•     Safe movement of machine on/off trailer",
+          "•     Allow approx 20% for compaction"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe how to place Haul Truck Loads in Hopper",
+        "content": [
+          "•     Communnicate with proper hand/horn",
+          "signals",
+          "•     Open hopper wings"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe how to place the asphalt product",
+        "content": [
+          "•     Joints, affective joints and overlaps",
+          "•     Maintain proper head of material on screed",
+          "•     Ensure appropriate speed"
+        ]
+      },
+      {
+        "number": 7,
+        "task": "Describe how to compact asphalt",
+        "content": [
+          "•     Explain breakdown, vibration, compaction",
+          "and the effects of temperature, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I2",
+    "title": "Describe paving machine equipment and attachments",
+    "pdf_start": 72,
+    "pdf_end": 72,
+    "printed_start": 70,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe types of paving machines",
+        "content": [
+          "•     8 and 10ft paver (standard)",
+          "•     Light duty",
+          "•     Sidewalks, pathways, shoulders",
+          "•     Medium duty",
+          "•     Highway class",
+          "•     Specialty pavers"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe major components",
+        "content": [
+          "•     Two parts",
+          "o Tractor",
+          "o Rubber tire, rubber tracked or steel",
+          "tracked",
+          "o Hopper handles material, pulls the",
+          "screed",
+          "o Screed (attachment)",
+          "o Different widths, uses, etc.",
+          "o Variable and fixed"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe attachments",
+        "content": [
+          "•     Pick up machine",
+          "•     Picks up asphalt",
+          "•     Hopper system",
+          "•     Remixes it for consistent output",
+          "•     Alleviates segregation",
+          "•     Uses belly dump instead of end dump (more",
+          "efficient)"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I3",
+    "title": "Apply paver work safety procedures",
+    "pdf_start": 73,
+    "pdf_end": 74,
+    "printed_start": 71,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Interpret job plan",
+        "content": [
+          "•   Communicate job plan",
+          "•   Path",
+          "•   Pattern",
+          "•   Asphalt thickness",
+          "•   Crown",
+          "•   Obstacles"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Demonstrate awareness of machine-specific safety",
+        "content": [
+          "•   Dust, pressure (machine",
+          "malfunctions/kickbacks) blind spots,",
+          "fumes, hydraulic lines, noise",
+          "•   Block outs",
+          "•   Pinch point hazard",
+          "•   Maintain safe distance from other",
+          "equipment – e.g., Compaction Rollers"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe traffic control requirements",
+        "content": [
+          "•   Signage",
+          "•   Signals",
+          "•   Communication"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Use proper PPE",
+        "content": [
+          "•   Workers are responsible to provide general",
+          "purpose gloves, safety footwear, hard hat -",
+          "employers are responsible for providing all",
+          "other safety items",
+          "•   Employers must ensure that PPE is properly",
+          "worn when required, and is cleaned,",
+          "inspected, maintained",
+          "•   Employers must ensure that workers are",
+          "adequately trained: correct use, limitations,",
+          "maintenance"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Perform lockout procedures",
+        "content": [
+          "•   Fuel supply",
+          "•   Battery lockout, etc."
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Secure machine for safety",
+        "content": [
+          "•     Vandal proof take ancillary parts off",
+          "•     Park safety block elevated equipment, use",
+          "parking brakes and chocks"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I4",
+    "title": "Asphalt paver operator roles and responsibilities",
+    "pdf_start": 75,
+    "pdf_end": 75,
+    "printed_start": 73,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe how to position Paver",
+        "content": [
+          "•     Efficient movement and alignment"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe how to ready the Paver",
+        "content": [
+          "•     Heating the screed and on blocks"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe how to follow the line",
+        "content": [
+          "•     Laser or string line guidance system"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe the transition process",
+        "content": [
+          "•     Efficient loading of hopper"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe how to maintain consistent “head”",
+        "content": [
+          "• Keep hopper full",
+          "• Material pushed by screed"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe positioning of haul trucks",
+        "content": [
+          "• Flow of mix from truck into hopper and hopper to the screed"
+        ]
+      },
+      {
+        "number": 7,
+        "task": "Describe signals/communication",
+        "content": [
+          "•     Hand signals should be slow and controlled",
+          "•     Operator hand signals through truck mirrors",
+          "and horn"
+        ]
+      },
+      {
+        "number": 8,
+        "task": "Identify obstacles and overhead hazards",
+        "content": [
+          "•     Paver operator should be aware of obstacles",
+          "(overhead and on path)"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I5",
+    "title": "Perform paving machine maintenance",
+    "pdf_start": 76,
+    "pdf_end": 77,
+    "printed_start": 74,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Service lubrication system (greasing)",
+        "content": [
+          "•     Identify and lube all points",
+          "•     Load grease gun"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Service air intake system as required (air filters/pre cleaners)",
+        "content": [
+          "•     Restriction indicators",
+          "•     Pre cleaner service",
+          "•     Cleaning vs. replacement, check employer",
+          "policy (some insist on never using air –",
+          "replace only)",
+          "•     Use air only with reduced pressure"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Drain fuel tank sump, water separator fuel filters if equipped",
+        "content": [
+          "•     Drain, assess",
+          "•     Water, debris, scale, etc."
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Add fluids as required",
+        "content": [
+          "•     Identify correct fluids for each component",
+          "•     Add fluids as required",
+          "•     Avoid contamination with dirt, water",
+          "•     Describe two-sided dipsticks with levels for",
+          "stopped/idling (Cat engines, transmissions)"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Inspect and clean components as required",
+        "content": [
+          "•     Radiator and oil cooler",
+          "•     Filter plugs, dipsticks",
+          "•     Battery terminals"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Perform housekeeping tasks",
+        "content": [
+          "•     Garbage",
+          "•     Excess grease",
+          "•     General clean of screed, hoppers, augers,",
+          "screed decks, extensions, top of pavers, etc.",
+          "•     Methods",
+          "•     Scraping",
+          "•     Release agents",
+          "•     Environmental concerns",
+          "•     Biodegradable solvents",
+          "•     Commonly missed spots"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I6",
+    "title": "Comply with markers, grades and stakes",
+    "pdf_start": 78,
+    "pdf_end": 79,
+    "printed_start": 76,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe abbreviations used on stakes",
+        "content": [
+          "•     B/M - bench mark",
+          "•     C - cut",
+          "•     C/B - catch basin",
+          "•     SMH - sanitary manhole",
+          "•     Elv or EL - elevation",
+          "•     F/G - finish grade",
+          "•     P/L - property line",
+          "•     R/W - right of way",
+          "•     San or S - sanitary",
+          "•     Mon - monument",
+          "•     G - gas",
+          "•     PVC - poly vinyl chloride"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Interpret stakes",
+        "content": [
+          "•     Property line, iron pins",
+          "•     Centre line, stationinng",
+          "•     Offset",
+          "•     Cut, fill",
+          "•     Grade",
+          "•     Slope",
+          "•     Reference points",
+          "•     Bench mark, temporary bench marks:",
+          "geodetic and referenced to assumed",
+          "elevations",
+          "•     Survey monuments: geodetic, precise,",
+          "permanent, protected by law",
+          "•     Cross-heads",
+          "•     Location of works, e.g., manholes, catch",
+          "basins, headwalls, etc."
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe fundamentals of paver operation",
+        "content": [
+          "•     Follow the line",
+          "•     Precision developed through expereince",
+          "•     Aim vs. steering – set sight ahead",
+          "•     Pay attention!",
+          "•     Trucks come in straight"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I7",
+    "title": "Operate asphalt paver",
+    "pdf_start": 80,
+    "pdf_end": 81,
+    "printed_start": 78,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I7.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform standard moves",
+        "content": [
+          "•     Move forward, stop, back up, stop",
+          "•     Apply park brake, lockout transmission"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Maneuvering the paver",
+        "content": [
+          "•     Hills and slopes",
+          "•     Forwards and backwards"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Position paver",
+        "content": [
+          "•     Efficient positioning of paver pre-operational",
+          "•     Move into appropriate position for several",
+          "scenarios"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Simulate paving laying down a mat using 5mm crush and sand mixture or similar compact quality material or asphalt",
+        "content": [
+          "•     Move over varied conditions, choose speeds",
+          "appropriate, choose pattern"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I8",
+    "title": "Follow shut down procedures",
+    "pdf_start": 82,
+    "pdf_end": 82,
+    "printed_start": 80,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I8.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform shut-down procedures",
+        "content": [
+          "•     Position that allows access in case of",
+          "mechanical trouble at start up",
+          "•     Safe parking position, set parking brake",
+          "•     Level position for checking of fluids",
+          "•     Cool down before shut down",
+          "•     Walk around, look for leaks, general check",
+          "•     Secure machine, locks, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "code": "I9",
+    "title": "Transport paver",
+    "pdf_start": 83,
+    "pdf_end": 83,
+    "printed_start": 81,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/I9.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe compliance with wide load regulations",
+        "content": [
+          "•     Signage",
+          "•     Pilot car if applicable",
+          "•     Removing extension"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe roles and responsibilities",
+        "content": [
+          "•     Truck driver is usually responsible for",
+          "transporting equipment"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe how to prepare machine for transport",
+        "content": [
+          "•     Remove attachments",
+          "•     Secure equipment",
+          "•     Ensure all guards are in place"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe loading and unloading procedures",
+        "content": [
+          "•     Operator is not usually involved in",
+          "loading/unloading",
+          "•     Use of tie-downs",
+          "•     Safe movement of maching on/off trailer"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J1",
+    "title": "Describe paving screed and attachments",
+    "pdf_start": 84,
+    "pdf_end": 84,
+    "printed_start": 82,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe screed categories",
+        "content": [
+          "•     Rigid",
+          "•     Variable"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe common attachments",
+        "content": [
+          "•     Extension, hydraulic wings, automatic grade",
+          "controls (laser)",
+          "•     String line vs. boom vs. ski boom",
+          "•     Cut off shoe to narrow down joint, curb form"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe principal functions",
+        "content": [
+          "•     Basic mix thickness control",
+          "•     How material gets to screed",
+          "•     Attachments",
+          "•     Different circumstances that require",
+          "adjustments",
+          "•     Timing"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J2",
+    "title": "Apply screed work safety procedures",
+    "pdf_start": 85,
+    "pdf_end": 86,
+    "printed_start": 83,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Interpret job plan",
+        "content": [
+          "•   Communicate job plan",
+          "•   Path",
+          "•   Pattern",
+          "•   Asphalt thickness",
+          "•   Temperature",
+          "•   Crown",
+          "•   Obstacles"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe machine-specific safety hazards",
+        "content": [
+          "•   Dust, pressure (machine malfunctions/",
+          "kickbacks) blind spots, fumes, hydraulic",
+          "lines, noise",
+          "•   Block outs",
+          "•   Heat related injuries",
+          "•   Proper work boots (steel or composite)",
+          "•   Burnt foot has happened (in a day and in cold",
+          "weather when boots get wet)",
+          "•   Proper hydration"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe traffic-control requirements",
+        "content": [
+          "•   Number of TCP’s required",
+          "•   Signage",
+          "•   Signals",
+          "•   Communication"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe proper PPE",
+        "content": [
+          "•   Workers are responsible to provide general",
+          "purpose gloves, safety footwear, hard hat -",
+          "employers are responsible for providing all",
+          "other safety items",
+          "•   Employers must ensure that PPE is properly",
+          "worn when required, and is cleaned,",
+          "inspected, maintained",
+          "•   Employers must ensure that workers are",
+          "adequately trained: correct use, limitations,",
+          "maintenance"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe lockout procedures",
+        "content": [
+          "•     Fuel supply",
+          "•     Battery lockout, etc."
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe how to secure machine for safety",
+        "content": [
+          "•     Vandal proof take ancillary parts off",
+          "•     Park safely block elevated equipment, use",
+          "parking brake and chocks"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J3",
+    "title": "Describe asphalt screed operator roles and responsibilities",
+    "pdf_start": 87,
+    "pdf_end": 87,
+    "printed_start": 85,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe how to plan work procedures",
+        "content": [
+          "•     Requirements for EPS"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe how to maintain mat thickness",
+        "content": [
+          "•     Width and volume control of asphalt mix"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe communication techniques",
+        "content": [
+          "•     Paver operator and raker man"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe problem solving strategies",
+        "content": [
+          "•     Anticipate adjustments and timing effect",
+          "(several feet)"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe the importance of teamwork",
+        "content": [
+          "•     Paver and screed operator"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe importance of adhering to standards",
+        "content": [
+          "•     Maintain and correct volume – not under or",
+          "over"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J4",
+    "title": "Perform screed maintenance",
+    "pdf_start": 88,
+    "pdf_end": 88,
+    "printed_start": 86,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Service lubrication system (greasing)",
+        "content": [
+          "•     Identify and lube all points",
+          "•     Load grease gun",
+          "•     Lubricate thickness control “screws”"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Inspect and clean components as required",
+        "content": [
+          "•     Radiator and oil cooler",
+          "•     Filter plugs, dipsticks",
+          "•     Battery terminals"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Perform housekeeping tasks",
+        "content": [
+          "•     Garbage",
+          "•     Excess grease",
+          "•     Clean windows, sweep out cab, general",
+          "cleanliness"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Maintain screed plate",
+        "content": [
+          "•     Maintaining screed plate and adjust",
+          "•     Prolem: scuff mark on finished product",
+          "•     Problem: more wear",
+          "•     Could reveal themselves in a day"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J5",
+    "title": "Operate asphalt screed",
+    "pdf_start": 89,
+    "pdf_end": 89,
+    "printed_start": 87,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Set-up screed",
+        "content": [
+          "•     Thickness control – set up screed for",
+          "thickness",
+          "•     Make proper adjustments"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Maintain proper thickness",
+        "content": [
+          "•     Maintain and correct volume – not under or",
+          "over"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Check depth of mat",
+        "content": [
+          "•     Sing a poker: a stick or piece of metal"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "J6",
+    "title": "Follow shut down procedures",
+    "pdf_start": 90,
+    "pdf_end": 90,
+    "printed_start": 88,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/J6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform shut down procedures",
+        "content": [
+          "•     Position that allows access in case of",
+          "mechanical trouble at start up",
+          "•     Level position for checking of fluids",
+          "•     Walk around, look for leaks, general check",
+          "•     Secure machine, locks, etc."
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Clean screed after use",
+        "content": [
+          "•     Proper cleaning to prevent build up",
+          "•     Coordinate with paver to clean both",
+          "machines simultaneously",
+          "•     Solvents and scraping (same for paver and in",
+          "tandem) 20 min"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "K1",
+    "title": "Describe raker roles and responsibilities",
+    "pdf_start": 91,
+    "pdf_end": 91,
+    "printed_start": 89,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/K1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe typical raker duties",
+        "content": [
+          "•     Does prep where machines can’t go",
+          "•     Smaller jobs: manhole levelling asphalt mix",
+          "to conform to grade appurtenances",
+          "•     Repair and level mistakes (made by screed or",
+          "paver)",
+          "•     Finishing a pass, removing excess and",
+          "squaring off edges",
+          "•     Raking joints",
+          "•     Longitudinal or tranverse centerline joints"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "K2",
+    "title": "Apply raking safety procedures",
+    "pdf_start": 92,
+    "pdf_end": 93,
+    "printed_start": 90,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/K2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Interpret job planning",
+        "content": [
+          "•   Communicate job plan",
+          "•   Path",
+          "•   Pattern",
+          "•   Asphalt thickness",
+          "•   Temperature",
+          "•   Crown",
+          "•   Obstacles"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe raker-specific safety hazards",
+        "content": [
+          "•   Dust, pressure (machine",
+          "malfunction/kickback) blind spots, fumes,",
+          "hydraulic lines, noises",
+          "•   Block outs",
+          "•   Heat related injuries",
+          "•   Proper work boots (steel or composite)",
+          "•   Burnt foot has happened (in a day and in cold",
+          "weather when boots get wet)",
+          "•   Proper hydration is essential",
+          "•   Main focus is on awareness of other",
+          "equipment, i.e., Compaction Rollers and",
+          "vehicle traffic",
+          "•   Rake handles are long – keep handles out of",
+          "traffic"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe traffic control requirements",
+        "content": [
+          "•   Signage",
+          "•   Signals",
+          "•   Communication"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe proper PPE",
+        "content": [
+          "•     Workers are responsible to provide general",
+          "purpose gloves, safety footwear, hard hat -",
+          "employers are responsible for providing all",
+          "other safety items",
+          "•     Employers must ensure that PPE is properly",
+          "worn when required, and is cleaned,",
+          "inspected, maintained",
+          "•     Employers must ensure that workers are",
+          "adequately trained: correct use, limitations,",
+          "maintenance"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "K3",
+    "title": "Place asphalt hot mix",
+    "pdf_start": 94,
+    "pdf_end": 94,
+    "printed_start": 92,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/K3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform common hand work crew duties",
+        "content": [
+          "•     Raker man on any size crew",
+          "•     Prep road",
+          "•     Intersection",
+          "•     Drive ways",
+          "•     Trench patching",
+          "•     Pothole filling",
+          "•     Grade deviations to minimize differential",
+          "compaction",
+          "•     Squaring off end of the run/mat"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Demonstrate common techniques",
+        "content": [
+          "•     Bumping",
+          "•     Ramping",
+          "•     Working around manholes"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L1",
+    "title": "Describe compaction equipment",
+    "pdf_start": 95,
+    "pdf_end": 95,
+    "printed_start": 93,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L1.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe types of Compaction Rollers",
+        "content": [
+          "•   Manufacturers, e.g., CAT, Amman, Bomag,",
+          "Dynapac",
+          "•   Sized to match use",
+          "•   Production rate determines size",
+          "•   Type of mix (foreman controlled)",
+          "•   Finished product specs",
+          "•   Experience",
+          "•   Drum widths and weight"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe major components of compaction equipment",
+        "content": [
+          "•   Pneumatic (rubber tire)",
+          "•   Never vibration",
+          "•   Adjust tire pressure to affect depth",
+          "•   Combo rubber on one end, steel on other",
+          "•   Vibration option",
+          "•   Steel – vibration (manual)",
+          "•   Diesel powered"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe basic functions of compaction equipment",
+        "content": [
+          "•   Breakdown – mix, time of year",
+          "•   Intermediate",
+          "•   Finish"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe emerging technology",
+        "content": [
+          "•   New in industry – oscillating (side to side) less",
+          "impact"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L2",
+    "title": "Apply compaction work safety procedures",
+    "pdf_start": 96,
+    "pdf_end": 97,
+    "printed_start": 94,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L2.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Interpret job planning",
+        "content": [
+          "•   Communicate job plan",
+          "•   Path",
+          "•   Pattern",
+          "•   Asphalt thickness",
+          "•   Temperature",
+          "•   Crown",
+          "•   Coordination of asphalt train",
+          "•   Obstacles"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe machine-specific safety hazards",
+        "content": [
+          "•   Dust, pressure (machine",
+          "malfunctions/kickbacks) blind spots, fumes,",
+          "hydraulic line, noise",
+          "•   Block outs",
+          "•   ROPS/seatbelts",
+          "•   Working in proximity to paver and other",
+          "Compaction Rollers – 3 meters is best",
+          "practice"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Describe traffic control requirements",
+        "content": [
+          "•   Signage",
+          "•   Signals",
+          "•   Communication"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe PPE",
+        "content": [
+          "•   Workers are responsible to provide general",
+          "purpose gloves, safety footwear, hard hat -",
+          "employers are responsible for providing all",
+          "other safety items",
+          "•   Employers must ensure that PPE is properly",
+          "worn when required, and is cleaned,",
+          "inspected, maintained",
+          "•   Employers must ensure that workers are",
+          "adequately trained: correct use, limitations,",
+          "maintenance"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Describe lockout procedures",
+        "content": [
+          "•     Fuel supply",
+          "•     Battery lockout, etc."
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Describe how to secure machine for safety",
+        "content": [
+          "•     Vandal proof take ancillary parts off",
+          "•     Park safety block elevated equipment, use",
+          "parking brakes and shocks"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L3",
+    "title": "Describe asphalt Compaction Roller operator roles and responsibilities",
+    "pdf_start": 98,
+    "pdf_end": 98,
+    "printed_start": 96,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L3.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Describe communication techniques",
+        "content": [
+          "•     Coordination and communication among all",
+          "Compaction Roller operations (two or more)"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Describe effective rolling pattern",
+        "content": [
+          "•     Compactor and smoothness of asphalt mix"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Determine pattern to achieve ride planning",
+        "content": [
+          "•     Required ride (cannot adjust after the fact)"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Describe responsibilities of Compaction Roller operator",
+        "content": [
+          "•     Achieving required density",
+          "•     Finish surface",
+          "•     Asphalt train",
+          "•     Not cutting across the mat too severely",
+          "•     Not stopping with vibrating features",
+          "•     No cut marks, consistency"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L4",
+    "title": "Perform Compaction Roller maintenance",
+    "pdf_start": 99,
+    "pdf_end": 100,
+    "printed_start": 97,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L4.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Service lubrication systems (greasing)",
+        "content": [
+          "•     Identify and lube all points",
+          "•     Load grease gun"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Service air intake system as required (air filters/pre cleaners)",
+        "content": [
+          "•     Restriction indicators",
+          "•     Pre cleaner service",
+          "•     Cleaning vs. replacement, check employer",
+          "policy (some insist on never using air –",
+          "replace only)",
+          "•     Use air only with reduced pressure"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Drain fuel tank sump, water separator fuel filters is equipped",
+        "content": [
+          "•     Drain assess",
+          "•     Water, debris, scale, etc."
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Add fluids as required",
+        "content": [
+          "•     Identify correct fluids for each component",
+          "•     Add fluids as required",
+          "•     Avoid contamination with dirt, water",
+          "•     Describe 2 sided dipsticks with levels for",
+          "stopped/idling (CAT engines, transmissions)"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Inspect and clean components as required",
+        "content": [
+          "•     Radiator and oil cooler",
+          "•     Filter plugs, dipsticks",
+          "•     Battery terminals"
+        ]
+      },
+      {
+        "number": 6,
+        "task": "Perform housekeeping tasks",
+        "content": [
+          "•     Garbage",
+          "•     Excess grease",
+          "•     Maintain sprayers",
+          "•     Cleanliness of tires or drums",
+          "•     Winter – drain all water",
+          "•     Replace/maintain scrapers and coco mat",
+          "(indicated by use)"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L5",
+    "title": "Operate Compaction Roller",
+    "pdf_start": 101,
+    "pdf_end": 102,
+    "printed_start": 99,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L5.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Plan work",
+        "content": [
+          "•     Pre-rolling considerations",
+          "•     Looking over grade for danger, obstructions",
+          "and limitations",
+          "•     Determine number of Compaction Rollers/",
+          "type equipment",
+          "•     Ensure spray tanks are full",
+          "•     Make proper adjustments",
+          "o Because following factors: weather, site",
+          "conditions, grade, project densometer",
+          "readings, vibration frequency",
+          "o Compaction equipment speed – dictated",
+          "by production"
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Test temperature",
+        "content": [
+          "•     Mix temperature"
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Test density",
+        "content": [
+          "•     Describe the use and purpose of nuclear",
+          "densometer – quality control",
+          "•     Describe Troxler (manufacturer)",
+          "•     Understand technician certification",
+          "•     Determine roll pattern",
+          "•     Theoretical density",
+          "•     Frequency is job dependant – sometimes",
+          "required after each pass"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Maintain efficient patterns",
+        "content": [
+          "•     Pattern in both direction",
+          "•     Forward and reverse not expected to",
+          "stop/park",
+          "•     Change direction smoothly and slowly",
+          "•     Breakdown rolling",
+          "•     Intermediate rolling",
+          "•     Finish rolling"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "L6",
+    "title": "Follow shut down procedures",
+    "pdf_start": 103,
+    "pdf_end": 103,
+    "printed_start": 101,
+    "source_sha256": "39ae29dc6b883f6687c4a2378d1031f4f0c6cf28ca4b47ed2bb98de45ba55757",
+    "text": "outline/L6.txt",
+    "tasks": [
+      {
+        "number": 1,
+        "task": "Perform shut-down procedures",
+        "content": [
+          "•     Position that allows access in case of",
+          "mechanical trouble at start-up",
+          "•     Safe parking position, set parking brake",
+          "•     Level position for checking of fluids",
+          "•     Cool down before shut down",
+          "•     Walk around, look for leaks, general check",
+          "•     Night switches/lockouts – batteries",
+          "•     Secure machine, locks, etc."
+        ]
+      },
+      {
+        "number": 2,
+        "task": "Clean equipment",
+        "content": [
+          "•     Cleaning the drum, etc."
+        ]
+      },
+      {
+        "number": 3,
+        "task": "Ensure efficient staging",
+        "content": [
+          "•     Foreman staging"
+        ]
+      },
+      {
+        "number": 4,
+        "task": "Prepare for transport",
+        "content": [
+          "•     Transport driver responsible for moving"
+        ]
+      },
+      {
+        "number": 5,
+        "task": "Secure machine for safety",
+        "content": [
+          "•     Public liability",
+          "•     Vandal proof take ancilary parts off",
+          "•     Park safety (can roll away)"
+        ]
+      }
+    ]
+  }
+]

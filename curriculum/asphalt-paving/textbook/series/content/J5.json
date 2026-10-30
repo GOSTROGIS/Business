@@ -1,0 +1,72 @@
+{
+  "code": "J5",
+  "title": "Operate asphalt screed",
+  "intro": "Screed operation combines careful setup with measured feedback. The learner practises on the selected machine under supervision, using its OMM for exact control actions and limits.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Set-up screed",
+      "text": "Inspect the screed and surroundings, identify the fitted heating system and complete daily maintenance. Establish starting width, crown/contour, extension alignment and the trial-based loose-thickness setting. Lower onto the specified starting supports through the safe procedure. Operate heating only as instructed; protect against burns, fire and electrical hazards. The LeeBoy 8680 example identifies separate main/extension/end-gate heat controls and warns against overheating. Do not transfer its settings to another machine."
+    },
+    {
+      "number": 2,
+      "title": "Maintain proper thickness",
+      "text": "Coordinate with the paver operator to maintain a suitable steady speed and material head. Monitor the mat, hydraulic/electrical indications and assigned controls. Make authorized small, deliberate changes to angle of attack, tow points or contour as appropriate, then allow the response to develop and recheck. Keep width changes coordinated with auger/feed distribution and safe clearance. Operate lights or other ancillary equipment only where fitted and included in the plan."
+    },
+    {
+      "number": 3,
+      "title": "Check depth of mat",
+      "text": "Measure loose depth using the approved probe/tool and safe access method. Identify the base interface rather than pushing into soft support, record station/side and avoid contact with hot material or moving equipment. A probe reading is not a core result or proof of final compacted thickness. Compare repeated readings with the specified target and trial relationship, report departures and retain the record."
+    }
+  ],
+  "worked": {
+    "title": "Loose depth and final thickness",
+    "case": "A verified trial relationship is loose/compacted = 1.25. Target compacted thickness is 40 mm. A loose-depth check reads 50 mm.",
+    "solution": "Estimated loose target = 40 × 1.25 = 50 mm, so the reading matches that exercise target. Final compacted thickness still requires the specified verification; one loose reading does not establish the whole mat’s acceptance."
+  },
+  "activities": [
+    {
+      "id": "J5-01",
+      "prompt": "For the same fictional factor, estimate loose thickness for a 48 mm compacted target.",
+      "answer": "48 × 1.25 = 60 mm. Confirm through the approved setup and actual checks; the factor is not universal.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "For the same fictional factor, estimate loose thickness for a 48 mm compacted target."
+    },
+    {
+      "id": "J5-02",
+      "prompt": "Explain why repeated immediate adjustments after each probe reading can be unhelpful.",
+      "answer": "The screed response develops over travel distance. Repeated changes before the response is measured can create oscillation and obscure the cause. Use coordinated, authorized changes and location-based feedback.",
+      "skills": [
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "Explain why repeated immediate adjustments after each probe reading can be unhelpful."
+    },
+    {
+      "id": "J5-03",
+      "prompt": "Record a supervised setup and two subsequent checks in a digital table.",
+      "answer": "Include model, reference, target/factor source, support/heating readiness, station/side, readings, authorized adjustment and result. Distinguish actual observations from planned settings.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Collaboration"
+      ],
+      "title": "Record a supervised setup and two subsequent checks in a digital table."
+    }
+  ],
+  "practical": [
+    "Precheck and service the screed; operate its fitted heater safely.",
+    "Set thickness/crown/width and starting supports under supervision.",
+    "Coordinate speed and material head; monitor hydraulics and fitted ancillary controls.",
+    "Measure loose depth safely and evaluate an authorized adjustment."
+  ],
+  "visuals": [
+    "leeboy-starter-blocks",
+    "screed-response"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

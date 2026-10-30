@@ -3,6 +3,8 @@ from pathlib import Path
 from urllib.parse import urlsplit,unquote
 from collections import Counter
 import json,re,hashlib,sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[2]/"tools"))
+from activity_names import NAMES
 from bs4 import BeautifulSoup
 import fitz
 R=Path(__file__).resolve().parents[1];REPO=R.parents[2]
@@ -33,7 +35,7 @@ for img in images:
 ids=re.findall(r'^### ((?:LA\d|TB\d)-\d\d)\b','\n'.join(p.read_text() for p in sorted(R.glob('0[1-7]-*.md'))),re.M)
 check(len(ids)==len(set(ids)),'Duplicate activity identifiers')
 answer=soup_for(R/'answers.html').get_text(' ')
-for id in ids:check(id in answer,f'Missing answer {id}')
+for id in ids:check(NAMES[id] in answer,f'Missing answer {id}')
 pdfs=[]
 for name in ['study-textbook','answers']:
  p=R/(name+'.pdf');doc=fitz.open(p);text='\n'.join(pg.get_text() for pg in doc)
@@ -48,7 +50,7 @@ for name in ['study-textbook','answers']:
   for l in pg.get_links():
    if l.get('uri'):check('127.0.0.1' not in l['uri'] and 'localhost' not in l['uri'],f'Localhost PDF link {name}')
  check(not blank,f'{name}: near-empty pages {blank}');check(not outside,f'{name}: text outside page {outside[:5]}')
- for id in ids:check(id in text,f'{name}: activity missing in extracted PDF text {id}')
+ for id in ids:check(NAMES[id] in " ".join(text.split()),f'{name}: activity missing in extracted PDF text {id}')
  pdfs.append({'file':p.name,'pages':len(doc),'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'near_empty_pages':blank,'text_outside_page':outside})
 check(len(json.loads((R/'browser-checks.json').read_text()))==17,'Browser checks absent')
 result={'local_targets_checked':links,'html_fragments_checked':fragments,'activity_count':len(ids),'new_activities':len([x for x in ids if x.startswith('TB')]),'image_placements':len(images),'unique_image_files':len({x['src'] for x in images}),'original_new_svgs':len(list((R/'assets').glob('*.svg'))),'pinned_consulting_documents':5,'pdfs':pdfs,'errors':errors}

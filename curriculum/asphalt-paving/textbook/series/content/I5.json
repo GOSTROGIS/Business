@@ -1,0 +1,86 @@
+{
+  "code": "I5",
+  "title": "Perform paving machine maintenance",
+  "intro": "A clean, correctly serviced paver feeds material consistently and gives the crew safe access. Daily maintenance follows the selected machine’s schedule and safe conditions, with defects recorded for the next shift.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Service lubrication system (greasing)",
+      "text": "Locate lubrication points on the actual chart, including fitted centralized systems. Confirm grease type, interval, quantity and safe position. Clean fittings and use a properly loaded grease gun. The LeeBoy 8680 example includes optional systems that combine several points; do not assume every machine has them. Record service and report damaged or blocked fittings instead of forcing lubricant through an unknown obstruction."
+    },
+    {
+      "number": 2,
+      "title": "Service air intake system as required (air filters/pre cleaners)",
+      "text": "Read the intake restriction indicator, inspect the pre-cleaner and check housing/seal condition. Follow the manufacturer’s cleaning/replacement policy and keep dirt out of the clean side. Some elements must be replaced rather than cleaned. Do not use compressed air unless the actual procedure permits it and specifies the method and limits."
+    },
+    {
+      "number": 3,
+      "title": "Drain fuel tank sump, water separator fuel filters if equipped",
+      "text": "Service the fuel sump or separator only where fitted and under its prescribed conditions. Collect drainage, note water/debris and dispose of it properly. Keep ignition sources controlled. Routine separator service does not authorize opening high-pressure fuel components. Repeated contamination requires investigation."
+    },
+    {
+      "number": 4,
+      "title": "Add fluids as required",
+      "text": "Match fluid to the labelled system and specification. Check ground level, temperature and stopped/running condition before interpreting the dipstick or sight gauge. Use the correct side of any dual-scale dipstick. Clean fill points, avoid cross-contamination and overfilling, and record unusual consumption. Coolant, hydraulic fluid, engine oil and release agent are not interchangeable."
+    },
+    {
+      "number": 5,
+      "title": "Inspect and clean components as required",
+      "text": "Inspect radiator/oil cooler, accessible plugs, dipsticks, battery condition and hoses using safe access and isolation. Protect cooling fins and electrical parts during cleaning. Never open a hot pressurized system or touch a suspected hydraulic leak. Restore guards and refer repairs to authorized personnel."
+    },
+    {
+      "number": 6,
+      "title": "Perform housekeeping tasks",
+      "text": "Clean hopper, conveyors, augers, screed decks, extensions, steps and commonly missed ledges using the approved procedure. Coordinate with the screed crew, control heat and ignition sources, and prevent contact with moving systems. Use a compatible release/cleaning product with its SDS and containment requirements. “Biodegradable” does not mean harmless or permitted to drain onto the ground. Collect waste, account for tools and document the final condition."
+    }
+  ],
+  "worked": {
+    "title": "A repeated low level",
+    "case": "Hydraulic oil is low again after yesterday’s top-up. A fresh wet area is visible beneath the machine.",
+    "solution": "Record the repeated loss and safe visual observation, secure/hold the machine as required and notify the responsible person. Do not treat repeated top-up as a repair or touch the suspected leak. Confirm authorized correction before release."
+  },
+  "activities": [
+    {
+      "id": "I5-01",
+      "prompt": "A fictional service interval is 10 operating hours. Last service 1,420 h; current 1,429.5 h. How much remains?",
+      "answer": "9.5 h elapsed; 0.5 h remains under this exercise interval. Calendar, condition and other schedule requirements may make service due sooner.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A fictional service interval is 10 operating hours"
+    },
+    {
+      "id": "I5-02",
+      "prompt": "Explain why an unlabelled spray bottle cannot be accepted as a release agent.",
+      "answer": "Its identity, compatibility, hazards and approved use cannot be confirmed. Obtain the labelled approved product and SDS before use.",
+      "skills": [
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "Explain why an unlabelled spray bottle cannot be accepted as a release agent."
+    },
+    {
+      "id": "I5-03",
+      "prompt": "Create a digital maintenance record without claiming checks you did not perform.",
+      "answer": "Include machine/serial, meter, date, actual checks/service, lubricant/fluid identity, defects, status and responsible person. Mark unobserved or not applicable with reason.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Collaboration"
+      ],
+      "title": "Create a digital maintenance record without claiming checks you did not perform."
+    }
+  ],
+  "practical": [
+    "Service lubrication/intake/separator according to the actual schedule.",
+    "Check correct fluids and accessible cooling/battery components safely.",
+    "Clean feed and access areas with containment and restore guards."
+  ],
+  "visuals": [
+    "maintenance-record",
+    "cat-feeder-system"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

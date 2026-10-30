@@ -1,0 +1,81 @@
+{
+  "code": "L5",
+  "title": "Operate Compaction Roller",
+  "intro": "Compaction operation combines smooth machine control with temperature, density and coverage feedback. The instructor observes the actual machine and conditions; a written pattern alone does not demonstrate operating skill.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Plan work",
+      "text": "Inspect the grade for edges, support, obstacles and limits. Confirm roller types/roles, approved settings and pattern, water supply, communications and traffic controls. Complete pre-start checks and daily maintenance. Start and monitor through the matching OMM. Practise forward–stop–reverse–stop on the flat training area, parking controls, travel-mode changes and fitted vibration controls under supervision. Weather, site conditions, grade and quality feedback can require an authorized plan change."
+    },
+    {
+      "number": 2,
+      "title": "Test temperature",
+      "text": "Measure temperature with the specified instrument and method at safe locations. Infrared instruments read a surface-related temperature and depend on emissivity, distance/spot size and conditions; a probe measures through its contact method. Record location, time, method and units. Mixture-specific compaction conditions govern; do not use a universal temperature window from memory. Cooling rate varies with lift, weather, support and delays."
+    },
+    {
+      "number": 3,
+      "title": "Test density",
+      "text": "Density testing provides feedback through the approved method and reference. A nuclear gauge such as the Troxler 3430 requires licensed/trained use and applicable CNSC controls; observing it does not authorize operation. Core testing has a different sampling process. Confirm the denominator for percent density and the test location/lot. The test plan determines frequency. Results help the responsible lead evaluate the pattern; a single reading does not prove complete acceptance."
+    },
+    {
+      "number": 4,
+      "title": "Maintain efficient patterns",
+      "text": "Maintain the approved breakdown, intermediate and finish sequence with smooth direction changes and controlled speed/mode. Demonstrate the assigned confined-edge and longitudinal-joint patterns under the instructor’s plan. Coordinate with the paver and other rollers, track coverage and avoid abrupt turns or damaging stops. Do not interpret repeated forward/reverse movement as permission to stop with vibration engaged. Finish with the model-specific shutdown and a clear record of actual treatment and unresolved areas."
+    }
+  ],
+  "worked": {
+    "title": "Density feedback changes the plan",
+    "case": "A trial strip’s recorded density increases over the first approved passes, then stops improving while the mixture cools.",
+    "solution": "Report the measured results with temperature, location and reference. The quality/crew lead evaluates whether settings, timing, equipment or another factor needs adjustment. More passes are not automatically effective and may damage the mat. Preserve the trial record and authorized revised pattern."
+  },
+  "activities": [
+    {
+      "id": "L5-01",
+      "prompt": "In-place density is 2.310 Mg/m³ and the required maximum-theoretical reference is 2.500 Mg/m³. Calculate percent.",
+      "answer": "2.310/2.500 × 100 = 92.4%. Interpretation requires the applicable method, lot and contract limits; it is not a standalone acceptance decision.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "In-place density is 2.310 Mg/m³ and the required maximum-theoretical reference is 2.500 Mg/m³"
+    },
+    {
+      "id": "L5-02",
+      "prompt": "An infrared reading and probe reading differ. What should be checked before declaring either wrong?",
+      "answer": "Instrument identity/calibration, method, location, timing, surface versus internal measurement, units and specified procedure. Record both and seek the responsible person’s interpretation.",
+      "skills": [
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "An infrared reading and probe reading differ"
+    },
+    {
+      "id": "L5-03",
+      "prompt": "Create a rolling record that another operator can continue from.",
+      "answer": "Include machine/role, lane/station/strip, approved pattern/settings, actual coverages, time/temperature, test references, changes/authorization and pending areas. Distinguish observations from assumptions.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Create a rolling record that another operator can continue from."
+    }
+  ],
+  "practical": [
+    "Precheck, service, start/monitor and shut down the actual roller.",
+    "Perform flat forward/stop/reverse/stop, parking and travel-mode controls safely.",
+    "Operate fitted vibration through the approved sequence.",
+    "Demonstrate assigned confined-edge and longitudinal-joint patterns.",
+    "Coordinate breakdown/intermediate/finish roles with the paving train.",
+    "Interpret temperature/density feedback and maintain a traceable coverage record."
+  ],
+  "visuals": [
+    "compaction-curve",
+    "rolling-coverage",
+    "troxler-gauge"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

@@ -1,0 +1,86 @@
+{
+  "code": "H4",
+  "title": "Perform milling and reclaiming equipment maintenance",
+  "intro": "Daily maintenance protects the next operator as well as the machine. Use the actual model’s maintenance schedule and safe work instructions. Record what was checked, what was serviced and what remains out of service.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Service lubrication system (greasing)",
+      "text": "Identify grease points from the machine chart, lubricant specification, interval and required machine position. Clean fittings before connection and load the grease gun according to its instructions. Use the specified quantity or completion criterion; generic numbers of gun strokes and visible overflow are not universal rules. Some bearings and centralized systems have different requirements. Do not reach past guards or into a hazard to access a fitting. Collect excess lubricant and report damaged fittings or blocked lines."
+    },
+    {
+      "number": 2,
+      "title": "Service air intake system as required (air filters / pre cleaners)",
+      "text": "Check the intake restriction indicator and service the pre-cleaner as instructed. Keep dirt out of the clean side of the system. Inspect seals and housings; a damaged seal can defeat a clean filter. Clean an element only where the manufacturer permits it and with its method and limits; otherwise replace it. Reduced-pressure air is not automatic permission to blow out every filter. Do not run without the required element."
+    },
+    {
+      "number": 3,
+      "title": "Drain fuel tank sump, water separator fuel filters if equipped",
+      "text": "Where fitted, service the fuel sump/water separator using the specified safe conditions and collection method. Identify water, debris or unusual contamination and report it. Keep ignition sources controlled and avoid skin contact. Dispose of collected fluid through the approved route. Opening a high-pressure fuel line is not a routine water-drain task."
+    },
+    {
+      "number": 4,
+      "title": "Add fluids as required",
+      "text": "Identify each reservoir and correct fluid before adding anything. Check on the specified ground condition, temperature and engine state. A two-sided dipstick may have different stopped/running scales; read the marking and manual. Clean the fill area and tools, avoid mixing incompatible fluids and do not overfill. Unexpected consumption or a repeated low level requires investigation, not endless topping up."
+    },
+    {
+      "number": 5,
+      "title": "Inspect and clean components as required",
+      "text": "Inspect radiator and oil-cooler surfaces, plugs, dipsticks, battery condition, hoses and accessible guards. Cooling surfaces can be damaged by inappropriate pressure or tools. Hot coolant and batteries have their own hazards; use the safe procedure and authorized access. Record leak location and appearance without touching a pressurized leak. Electrical and mechanical repairs belong to authorized personnel."
+    },
+    {
+      "number": 6,
+      "title": "Perform housekeeping tasks",
+      "text": "Remove rubbish and loose items from safe access areas. Clean excess grease, steps and handholds, and keep waste out of drains. Account for tools and restore guards before release. Enter meter reading, date, tasks, products, defects and next action in the maintenance record. A blank box is ambiguous: mark completed, not applicable with reason, or held for correction."
+    }
+  ],
+  "worked": {
+    "title": "The wrong grease assumption",
+    "case": "A chart specifies a particular grease and service interval. A worker brings an unlabelled cartridge and proposes ten strokes at every fitting.",
+    "solution": "Do not use the unlabelled product or generic stroke count. Confirm lubricant, points, quantities and safe positions from the matching chart. Obtain the correct product and record any blocked or damaged fitting for action."
+  },
+  "activities": [
+    {
+      "id": "H4-01",
+      "prompt": "A machine meter reads 812 h; the last service was at 786 h and the fictional interval is 25 h. Is it due?",
+      "answer": "812 − 786 = 26 h; it is 1 h beyond the stated exercise interval. Notify the lead and follow the actual maintenance/operating restrictions.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A machine meter reads 812 h; the last service was at 786 h and the fictional interval is 25 h"
+    },
+    {
+      "id": "H4-02",
+      "prompt": "Write a useful entry for water found in a separator.",
+      "answer": "Record model/serial, meter, date, component, observed quantity/appearance, action taken under the procedure, waste handling and person notified. Do not diagnose the source without evidence.",
+      "skills": [
+        "Writing",
+        "Digital",
+        "Problem solving"
+      ],
+      "title": "Write a useful entry for water found in a separator."
+    },
+    {
+      "id": "H4-03",
+      "prompt": "A partner wants to check a leak with a bare hand. Respond and arrange the next step.",
+      "answer": "Stop the unsafe approach, keep clear, secure the machine as required and refer inspection to authorized personnel using the approved method. Explain the injection hazard respectfully.",
+      "skills": [
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "A partner wants to check a leak with a bare hand"
+    }
+  ],
+  "practical": [
+    "Match lubricant/fluids and service intervals to the machine.",
+    "Service intake, separator and accessible points under the correct isolation.",
+    "Inspect cooling/battery areas, restore guards and complete the defect record."
+  ],
+  "visuals": [
+    "maintenance-record",
+    "cat-cutting-chamber"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

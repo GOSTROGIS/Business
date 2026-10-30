@@ -1,0 +1,78 @@
+{
+  "code": "D2",
+  "title": "Describe use of storage areas",
+  "intro": "Storage keeps the right material identifiable and available while controlling release, incompatibility and exposure. A storage plan includes the container/tank, surrounding area, access, inspection, emergency response and destination for waste. A tidy-looking tank is not proof that its containment or product identity is adequate.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe Type 1 storage",
+      "text": "For this lesson, **Type 1** describes a primary storage container with a separate spill-containment arrangement, such as a tank within a designed containment area. It is a course grouping, not a universal legal classification. Fuels, primers, emulsions such as an identified SS-1 product, asphalt binder and waste streams require their actual SDS, compatibility, heating/handling and regulatory arrangements.\n\nIdentify the product and hazards before deciding which area is suitable. Natural gas service has its own engineered supply and safety requirements; it is not handled as an ordinary open liquid tank. Containment must remain effective, including when rainwater or other material occupies space. Drainage and disposal of collected liquid follow the approved procedure; opening a drain to clear capacity can release contamination."
+    },
+    {
+      "number": 2,
+      "title": "Describe Type 2 storage",
+      "text": "**Type 2** here describes a self-contained storage arrangement, such as equipment with integral secondary containment, where its design provides that function. The word self-contained does not mean leak-proof, maintenance-free or automatically suitable for every fuel or liquid asphalt product. Verify the actual design, product compatibility, capacity, inspection and permitted location.\n\nA biodiesel blend can have different handling/storage considerations from another fuel. A heated binder storage system introduces thermal and other hazards. Labels, isolation, overfill prevention, transfer connections and emergency access must match the actual installation. Read the tank/assembly instructions and product records together."
+    },
+    {
+      "number": 3,
+      "title": "Describe use of recycled materials in hot mix asphalt",
+      "text": "Using RAP in hot mix can reduce demand for some new material and may offer cost benefits, but the outcome depends on processing, transport, consistency, binder contribution and required performance. Mobile recycling changes where processing occurs and may change traffic, emissions and material-control arrangements. Identify what is being recycled and into which approved product; do not treat every recovered pile as acceptable feed.\n\nKeep recovered material segregated by the required source/type and protect it from unacceptable contamination. The quality record follows it through processing and blending. A low purchase price alone is not the cost of a compliant finished mixture."
+    },
+    {
+      "number": 4,
+      "title": "Describe use of recycled materials in asphalt plant burners",
+      "text": "A plant burner must use only fuel permitted by its design and applicable environmental authorization. Recovered fuel or other recycled material is not automatically acceptable because it burns. Composition, contamination, handling, burner suitability, combustion control and emissions requirements matter. Heating temperature is established by the approved process and equipment, not by a generic classroom number.\n\nStorage/transfer for a permitted recovered fuel needs the actual SDS and emergency arrangements. A change in fuel can affect burner performance and emissions and must be controlled through the authorized process. Do not conduct a classroom trial with an unidentified waste fuel."
+    }
+  ],
+  "worked": {
+    "title": "Containment is a working system",
+    "case": "Fictional inspection record: the containment area is intact, but its drain is open and collected rainwater has not been assessed for contamination. A delivery is due in 30 minutes.",
+    "solution": "The record does not establish effective containment for the transfer. Have the responsible person implement the storage/transfer procedure, address the open drain and assess the collected liquid before release or transfer. Delivery timing does not change the product or environmental requirements. Record the condition and resolution rather than ticking “tank intact” as the whole inspection."
+  },
+  "activities": [
+    {
+      "id": "D2-01",
+      "prompt": "Draw the difference between separate containment and an integral self-contained arrangement. Identify five checks both still require.",
+      "answer": "Product identity/compatibility, condition, usable capacity, transfer/overfill controls, permitted location and emergency/waste arrangements are relevant. The teaching Type 1/2 labels are not legal certification.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Draw the difference between separate containment and an integral self-contained arrangement"
+    },
+    {
+      "id": "D2-02",
+      "prompt": "Fictional cost exercise: virgin material supply costs $8,000; recovered feed costs $5,000 plus $2,400 processing and $900 extra transport. Compare only these stated costs.",
+      "answer": "Recovered-route subtotal = $8,300, $300 higher. This bounded estimate does not include every production/performance/life-cycle factor and does not authorize the material.",
+      "skills": [
+        "Numeracy",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Calculate and check the result"
+    },
+    {
+      "id": "D2-03",
+      "prompt": "Create a digital storage inspection record and peer-test it with the open-drain case. Revise it to distinguish observation, action, responsible person and verified closure.",
+      "answer": "A useful record captures actual condition and evidence rather than a vague safe/unsafe tick. Each learner saves/reopens the revised version and explains the change.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Create a digital storage inspection record and peer-test it with the open-drain case"
+    }
+  ],
+  "practical": [
+    "Use the actual installation, SDS, transfer plan and permitted observation area.",
+    "Assess product identification, containment/compatibility questions and reporting of a defect.",
+    "Live fuel/binder transfer and burner changes require separate authorized instruction and controls."
+  ],
+  "visuals": [
+    "containment",
+    "propane-assembly"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

@@ -14,7 +14,7 @@ def main():
     args=parser.parse_args()
     m=json.loads((ROOT/'catalogue.json').read_text())
     sources={d['id']:d for d in m['documents']+m['web_documents']}
-    fixed={'cat-library':('CAT source library','../caterpillar/index.html'),'cat-atlas':('Machine parts atlas','../caterpillar/parts-atlas.html'),'whmis':('WHMIS and official symbols','../whmis/index.html'),'outline':('2016 trade outline','../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf'),'spec2006':('2006 BC specification','../sources/design_build_standard_specs_2006.pdf')}
+    fixed={'rosco-rb50-manual':('Rosco RB50 operations/service/parts manual','../textbook/series/sources/rosco-rb50-manual.pdf'),'cat-library':('CAT source library','../caterpillar/index.html'),'cat-atlas':('Machine parts atlas','../caterpillar/parts-atlas.html'),'whmis':('WHMIS and official symbols','../whmis/index.html'),'outline':('2016 trade outline','../sources/asphalt-paving-laydown-technician-program-outline-august-2016.pdf'),'spec2006':('2006 BC specification','../sources/design_build_standard_specs_2006.pdf')}
     def link(key):
         if key in sources: title,href=sources[key]['title'],'index.html#'+key
         elif key.startswith('ms4:'):
@@ -26,7 +26,7 @@ def main():
     competencies=list(csv.DictReader((ROOT.parent/'line-a/competency-status.csv').open()))
     mappings=readpsv('coverage-data.psv');bycode={r['code']:r for r in mappings}
     assert len(mappings)==68 and set(bycode)=={r['code'] for r in competencies}
-    text='# All 68 competencies: source coverage\n\nEvery row identifies acquired supporting context and the remaining technical or delivery work. This is a source map, not a declaration that all competencies have complete lessons or practical approval. Read the [delivery gap register](gaps.html), [tool register](tools.html) and [visual guide](field-guide.html).\n\n**Scope:** August 2016 outline, source PDF pp. 22–103; Section 4 is audited separately in the delivery gap register. PDF viewer pages are two greater than printed outline pages.\n\n[Download the full CSV](coverage.csv).\n\n'
+    text='# All 68 competencies: source coverage\n\nEvery row identifies acquired supporting context and the remaining technical or delivery work. All 68 competencies now have authored classroom chapters in the [complete study series](../textbook/series/index.html). This source map records applicability and review work separately from classroom authoring. Read the [delivery gap register](gaps.html), [tool register](tools.html) and [visual guide](field-guide.html).\n\n**Scope:** August 2016 outline, source PDF pp. 22–103; Section 4 is audited separately in the delivery gap register. PDF viewer pages are two greater than printed outline pages.\n\n[Download the full CSV](coverage.csv).\n\n'
     rows=[]
     for i,c in enumerate(competencies):
         r=bycode[c['code']];end=int(competencies[i+1]['pdf_page'])-1 if i+1<len(competencies) else 103

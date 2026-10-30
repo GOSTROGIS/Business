@@ -3,6 +3,9 @@ from pathlib import Path
 from html import escape
 import json,re,argparse
 import markdown
+import sys
+sys.path.insert(0,str(Path(__file__).resolve().parents[2]/"tools"))
+from activity_names import readable
 from bs4 import BeautifulSoup, NavigableString
 R=Path(__file__).resolve().parents[1]
 LEARNER=['00-start.md','01-industry-evidence.md','02-history.md','03-technology.md','04-workers.md','05-road-documents.md','06-trends.md','07-safe-work.md','08-reference.md']
@@ -25,14 +28,7 @@ def body(name):
  text=(R/name).read_text();title=text.splitlines()[0].lstrip('# ')
  text=re.sub(r'@@fig:([^@]+)@@',lambda m:figure(m[1]),text).replace('@@whmis@@',whmis())
  soup=BeautifulSoup(markdown.markdown(text,extensions=['tables','fenced_code','toc','sane_lists']),'html.parser')
- for node in list(soup.find_all(string=re.compile(r'(?:LA|TB)\d-\d{2}'))):
-  if node.parent.name in ['script','style']:continue
-  parts=re.split(r'((?:LA|TB)\d-\d{2})',str(node))
-  for part in parts:
-   if re.fullmatch(r'(?:LA|TB)\d-\d{2}',part):
-    tag=soup.new_tag('span',attrs={'class':'activity-id'});tag.string=part;node.insert_before(tag)
-   else:node.insert_before(NavigableString(part))
-  node.extract()
+ soup=BeautifulSoup(readable(str(soup)),"html.parser")
  for th in soup.select('th'):th['scope']='col'
  for tab in soup.select('table'):
   wrapper=soup.new_tag('div',attrs={'class':'table-wrap','tabindex':'0','role':'region','aria-label':'Study table'});tab.wrap(wrapper)
@@ -40,7 +36,7 @@ def body(name):
 def page(title,body,deck='Study textbook · Volume 1',wide=False):
  cover = '<figure class="cover-art"><img src="assets/cover-art.svg" alt="Original conceptual roadbuilding scene with aggregate support, asphalt surface, haul truck, paver and roller."><figcaption>ACCESS IS4S. (2026). Roadbuilding connections [Original cover illustration]. Conceptual scene.</figcaption></figure>' if title=='Asphalt paving · Foundations and safe work' else ''
  coverclass = ' book-cover' if cover else ''
- return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(title)} | ACCESS IS4S</title><link rel="stylesheet" href="assets/book.css"></head><body><a class="skip" href="#content">Skip to content</a><header class="mast{coverclass}"><p class="brand">ACCESS · Indigenous Skills 4 Success</p><h1>{escape(title)}</h1><p class="deck">{escape(deck)}</p><p class="edition">Classroom development edition · 30 October 2026 · Technical review and pilot pending</p>{cover}<nav class="navline" aria-label="Book resources"><a href="index.html">Start</a><a href="study-textbook.html">Read the book</a><a href="study-textbook.pdf">Download PDF</a><a href="plan-desk.html">Plan desk</a><a href="answers.html">Worked answers</a></nav></header><main class="page" id="content">{body}</main></body></html>'''
+ return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(title)} | ACCESS IS4S</title><link rel="stylesheet" href="assets/book.css"></head><body><a class="skip" href="#content">Skip to content</a><header class="mast{coverclass}"><p class="brand">ACCESS · Indigenous Skills 4 Success</p><h1>{escape(title)}</h1><p class="deck">{escape(deck)}</p><p class="edition">Classroom development edition · 30 October 2026 · Technical review and pilot pending</p>{cover}<nav class="navline" aria-label="Book resources"><a href="index.html">Start</a><a href="study-textbook.html">Read the book</a><a href="study-textbook.pdf">Download PDF</a><a href="plan-desk.html">Plan desk</a><a href="answers.html">Worked answers</a><a href="series/index.html">Complete study series</a></nav></header><main class="page" id="content">{body}</main></body></html>'''
 def prefix_ids(html,prefix):
  soup=BeautifulSoup(html,'html.parser'); ids={e['id']:prefix+'-'+e['id'] for e in soup.select('[id]')}
  for e in soup.select('[id]'):e['id']=ids[e['id']]

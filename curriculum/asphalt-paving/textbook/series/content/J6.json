@@ -1,0 +1,65 @@
+{
+  "code": "J6",
+  "title": "Follow shut down procedures",
+  "intro": "Screed shutdown and cleaning are coordinated with the paver. The final state must protect people from heat, movement and unsupported components while keeping the equipment ready for inspection.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform shut down procedures",
+      "text": "Choose the approved parking position with service access and suitable ground. Follow the actual stopping, heater shutdown, component positioning/support and paver parking sequence. Inspect safely for leaks, damage and missing guards. Apply full lockout when the cleaning or service task requires it; normal shutdown alone is insufficient. Secure controls and access and record the final state."
+    },
+    {
+      "number": 2,
+      "title": "Clean screed after use",
+      "text": "Clean buildup using the manufacturer-approved method, compatible product and SDS controls. Coordinate with the paver crew so shared systems cannot move unexpectedly. Control ignition sources and residual heat; never spray a flammable product onto a hot heater or open flame. A fixed “20-minute clean” is not a universal safe duration. Collect scrapings and wash/cleaning waste, protect drainage and restore guards. Record defects and any work still required before the next start."
+    }
+  ],
+  "worked": {
+    "title": "Cleaning is delayed",
+    "case": "The screed remains too hot for the approved cleaning product and procedure when the scheduled shift ends.",
+    "solution": "Maintain the safe shutdown state and coordinate the required cooling and cleaning arrangements. Do not spray early to meet the schedule. Record the outstanding task and responsible person so the next shift does not assume cleaning is complete."
+  },
+  "activities": [
+    {
+      "id": "J6-01",
+      "prompt": "Explain three checks before cleaning starts.",
+      "answer": "Actual heat condition/product compatibility; required isolation/support of shared systems; controlled area, PPE and waste containment. Confirm the complete machine procedure.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Explain three checks before cleaning starts."
+    },
+    {
+      "id": "J6-02",
+      "prompt": "An assessment has 20 possible points and earns 15. What percentage is that, and what follows?",
+      "answer": "75%, below the outline’s 80% threshold for this checklist task. Give specific feedback and repeat the required practice; all critical safety items must also pass.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "An assessment has 20 possible points and earns 15"
+    },
+    {
+      "id": "J6-03",
+      "prompt": "Write a handover stating that cleaning remains incomplete.",
+      "answer": "Identify machine/screed, safe parked/isolated state, reason cleaning is held, residual hazards, required next action and responsible person. Do not mark the task complete.",
+      "skills": [
+        "Writing",
+        "Communication",
+        "Collaboration"
+      ],
+      "title": "Write a handover stating that cleaning remains incomplete."
+    }
+  ],
+  "practical": [
+    "Complete the matching shutdown and support procedure.",
+    "Coordinate safe cleaning with heat/energy and waste controls.",
+    "Secure the equipment and record incomplete work."
+  ],
+  "visuals": [
+    "shutdown-state",
+    "screed-safe-zones"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

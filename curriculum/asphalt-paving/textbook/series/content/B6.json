@@ -1,0 +1,73 @@
+{
+  "code": "B6",
+  "title": "Describe weather effects and precautions",
+  "intro": "Weather affects the worker as well as the material. Hot mix and hot pavement add radiant heat to the work environment; sun, humidity, air movement, workload and clothing affect how the body loses heat. A forecast temperature alone cannot describe the exposure. Crew members also differ in acclimatization and health needs, which should be supported without demanding personal medical details in front of the group.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe the effects of temperature on the body",
+      "text": "The body produces heat during work and loses heat through exchanges with the surroundings, including evaporation of sweat. Heavy work, radiant heat and clothing can make cooling more difficult. Heat strain can develop even when the air temperature seems familiar. The work plan assesses conditions, provides appropriate controls and adjusts work/rest and supervision arrangements as conditions change.\n\nRecognize changes in behaviour, weakness, dizziness, headache, nausea or collapse and obtain help. Cold, rain and wind can also affect dexterity, judgement, traction and health. A weather response includes clothing, shelter, suitable work organization and an emergency plan. A new worker needs an acclimatization arrangement rather than an assumption that determination will make them tolerate the exposure."
+    },
+    {
+      "number": 2,
+      "title": "Describe the importance of proper hydration",
+      "text": "Workers need ready access to appropriate drinking water and the opportunity to drink regularly under the workplace heat plan. Hydration is one part of control; it does not replace reducing exposure, rest, cooling or recognizing illness. Do not make a class-wide medical fluid prescription or assume a person with symptoms only needs another drink.\n\nHeat exhaustion and heat stroke require prompt response. The WorkSafeBC heat-stress guide treats heat stroke as a medical emergency. Altered mental state, collapse or other severe signs require emergency assistance: call the local emergency number, get the first-aid attendant and begin the plan’s safe cooling response while waiting for help. Do not leave the person alone or give fluids to someone unable to swallow safely. The trained response follows the workplace emergency and first-aid arrangements."
+    },
+    {
+      "number": 3,
+      "title": "Define effects of exposure to direct sun",
+      "text": "Ultraviolet exposure can damage skin and eyes, including on days that do not feel extremely hot. The task plan combines suitable clothing/head protection, shade, scheduling and appropriate sunscreen or other protection under the guidance used by the workplace. Select protective items so they remain compatible with required PPE and the task.\n\nA reflective or hot work surface adds to the need to assess exposure. Check breaks, water, shelter and communication before starting; recheck when work intensity, weather or worker condition changes. A short team check-in should invite early reporting without blame. Care for the crew includes making it possible to use the controls, not only telling people they exist."
+    }
+  ],
+  "worked": {
+    "title": "A break plan that cannot be used",
+    "case": "Fictional schedule: a crew is assigned continuous handwork from 10:00 to 12:00. The written heat plan requires planned cool-rest opportunities, but the relief person has been reassigned. A new worker begins making confused replies.",
+    "solution": "The plan is not being implemented, and confusion is an emergency warning sign in this context. Stop the affected work, summon emergency/first-aid help and follow the cooling response. Arrange coverage and reassess the work before resuming. The two-hour scheduled block does not establish a safe exposure interval; it reveals a mismatch between the plan and staffing."
+  },
+  "activities": [
+    {
+      "id": "B6-01",
+      "prompt": "List five factors beyond air temperature that influence heat risk, then match each to information the supervisor must consider.",
+      "answer": "Workload, radiant heat, humidity/air movement, clothing/PPE, acclimatization and individual factors are valid. Explain the relationship rather than treating a list as an exposure assessment.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "B6-02",
+      "prompt": "Mark the time span in the worked case and identify why the plan failed. Write the first emergency communication with location and observed condition.",
+      "answer": "10:00–12:00 is two hours; no safe limit is inferred. Relief removal prevents planned control. Message reports actual location, confusion/condition, people affected and known hazards, and summons help.",
+      "skills": [
+        "Numeracy",
+        "Writing",
+        "Communication"
+      ],
+      "title": "Mark the time span in the worked case and identify why the plan failed"
+    },
+    {
+      "id": "B6-03",
+      "prompt": "Develop a weather check-in card with heat, sun and cold/wet prompts. Test it with a partner, revise it and save a version that leaves medical information private.",
+      "answer": "Card helps workers report conditions/symptoms and find assistance without diagnosis or disclosure demands. Each learner records feedback and performs actual save/reopen actions.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Develop a weather check-in card with heat, sun and cold/wet prompts"
+    }
+  ],
+  "practical": [
+    "Confirm the current heat/cold exposure and emergency plans before outdoor practice.",
+    "Observe recognition and reporting in a spoken scenario, access to water/rest/shade and safe use of selected protection.",
+    "Qualified first-aid instruction assesses treatment skills; this chapter assesses recognition, prevention and prompt escalation."
+  ],
+  "visuals": [
+    "heat-response",
+    "exposure-routes"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

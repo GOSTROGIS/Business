@@ -1,0 +1,120 @@
+{
+  "code": "E4",
+  "title": "Determine compaction levels",
+  "intro": "**Density** relates mass to volume. Compaction changes the arrangement of particles and air voids, but the measured density must be compared with the correct reference and method. Two instruments can report numbers that look similar while representing different locations or measurement principles. Keep the instrument, sample, units and denominator visible.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe two methods to determine compaction",
+      "text": "A **nuclear density gauge** uses a radioactive source and detector arrangement to infer a material property through its calibrated method. The actual instrument, mode, calibration/standardization, surface preparation and test method affect the result. In Canada, possession/use and transport require the applicable CNSC licensing, training, security and radiation-safety arrangements. Reading the Troxler 3430 manual is useful instrument study; it does not authorize source handling or operation.\n\nA **core** is a physical specimen removed at an identified location. The approved coring and laboratory method establish sampling, handling, dimensions and density determination. Coring also requires utility/location checks, traffic/access controls and safe equipment/water management, followed by the specified repair of the hole. A damaged, contaminated or mislabelled core may not support the intended result.\n\nGauge and core results are compared only through the specified procedure and any required correlation. A percentage density must state its reference: maximum theoretical mixture density, laboratory compacted reference or another defined basis. Do not compare percentages that use different denominators. The result belongs to the sampled location and acceptance unit defined by the contract; one point does not automatically represent an entire project.\n\nReport original readings, checks, location and any limitation. A low result prompts the approved investigation/disposition process. Additional rolling is not automatically appropriate after the material’s workable window or when the cause is unknown."
+    }
+  ],
+  "worked": {
+    "title": "The denominator changes the meaning",
+    "case": "Fictional in-place density is 2.34 t/m³. Reference A, maximum theoretical density, is 2.50 t/m³. Reference B, a compacted laboratory reference in a different teaching system, is 2.40 t/m³.",
+    "solution": "Against A: 2.34/2.50 × 100 = 93.6%. Against B: 2.34/2.40 × 100 = 97.5%. Both calculations use the same numerator; they answer different defined questions. Neither establishes acceptance without the applicable method and criterion. Never relabel 97.5% as percent of maximum theoretical density."
+  },
+  "activities": [
+    {
+      "id": "E4-01",
+      "prompt": "Compare gauge and core methods using columns for measurement principle, identification, checks, access and authorization.",
+      "answer": "Gauge: calibrated indirect measurement with radiation/licensing requirements. Core: physical specimen under approved sampling/lab method. Both need location, traceability, instrument/method checks and safe access.",
+      "skills": [
+        "Reading",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "E4-02",
+      "prompt": "Repeat the worked ratios for an in-place value of 2.30 t/m³. Write each full label.",
+      "answer": "92.0% of reference A; approximately 95.83% of reference B. Different bases must remain explicit; no acceptance threshold is supplied.",
+      "skills": [
+        "Numeracy",
+        "Communication"
+      ],
+      "title": "Repeat the worked ratios for an in-place value of 2.30 t/m³"
+    },
+    {
+      "id": "E4-03",
+      "prompt": "Build a saved density-result sheet and peer-test whether its denominator, units and test location can be found immediately. Correct any ambiguity.",
+      "answer": "Sheet includes actual method/instrument or core ID, reference basis, location/time, units, checks, result and disposition. Peer test and digital actions are recorded individually.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Communicate and verify the work"
+    }
+  ],
+  "practical": [
+    "Use a licensed/authorized gauge arrangement or approved core-sampling/laboratory arrangement with qualified supervision.",
+    "Assess method recognition, traceability, calculation and correct interpretation; no learner handles a radiation source without required authorization.",
+    "For the outline knowledge quiz, use the questions in this unit with the provider’s grading record; practical testing remains a separately observed outcome."
+  ],
+  "visuals": [
+    "density-bases",
+    "troxler-gauge"
+  ],
+  "additional_sources": [],
+  "quiz": {
+    "title": "Check your understanding of density evidence",
+    "points": 20,
+    "minimum_points": 14,
+    "questions": [
+      {
+        "question": "Explain one difference between core testing and nuclear-gauge testing, and identify the Canadian authorization issue.",
+        "answer": "A core is a physical sample tested through its approved method; a nuclear gauge uses radiation-based measurement under its procedure. Canadian operation requires the applicable CNSC licence, training and controls.",
+        "marks": [
+          "Core method identified",
+          "Gauge method identified",
+          "Methods not treated as interchangeable",
+          "CNSC authorization/training identified"
+        ]
+      },
+      {
+        "question": "Calculate percent density for 2.30 Mg/m³ in place and 2.50 Mg/m³ maximum theoretical.",
+        "answer": "2.30/2.50 × 100 = 92.0%; reference is maximum theoretical density.",
+        "marks": [
+          "Correct denominator",
+          "Correct calculation",
+          "92.0% with percent unit",
+          "Reference named"
+        ]
+      },
+      {
+        "question": "Name four traceability fields needed with a density result.",
+        "answer": "Examples: location/station, lane/lift, lot/sample ID, date/time, method/instrument ID, density units and reference result.",
+        "marks": [
+          "One correct field",
+          "Second distinct field",
+          "Third distinct field",
+          "Fourth distinct field"
+        ]
+      },
+      {
+        "question": "A draft changes the reference density to improve the percentage. Explain the response.",
+        "answer": "Preserve the original result, verify the required method and reference, reject an unsupported substitution and obtain the responsible quality lead’s documented disposition.",
+        "marks": [
+          "Preserves evidence",
+          "Checks required reference",
+          "Rejects unsupported substitution",
+          "Escalates/documents decision"
+        ]
+      },
+      {
+        "question": "Plan a safe learning observation of core or gauge testing.",
+        "answer": "Use the approved sampling/testing plan, controlled access and authorized personnel. Record observation separately from operation and keep method/location/result traceable.",
+        "marks": [
+          "Approved method/plan",
+          "Controlled access",
+          "Authorized personnel",
+          "Observation/operation distinction"
+        ]
+      }
+    ]
+  },
+  "assessment_threshold": null
+}

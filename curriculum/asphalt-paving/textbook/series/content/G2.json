@@ -1,0 +1,60 @@
+{
+  "code": "G2",
+  "title": "Describe oil content",
+  "intro": "In asphalt quality work, “oil content” commonly refers to asphalt binder content. It does not mean engine oil. Binder content affects the mixture, but its reported percentage is meaningless unless the mass basis and test method are known.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Section 502",
+      "text": "Section 502.12 of the supplied 2006 specification evaluates actual asphalt content against the approved content. Table 502-F expresses deviation in kilograms of binder per 100 kg of dry aggregate. This is a different basis from binder as a percentage of total mixture. For example, 5 kg binder with 100 kg dry aggregate is 5.00% on aggregate mass and 5/105 × 100 = 4.76% on total mixture mass. Never subtract results reported on different bases.\n\nThe historical procedure uses the sample mean from the specified sub-lot samples. Preserve sample identity, test method, lot and lift. Compute actual minus approved content, then use the magnitude of the deviation where the table applies to either above or below. Follow the contract’s rounding and reporting rules rather than rounding early to reach a favourable band.\n\nIn Table 502-F, a deviation of 0–0.15 earns +$0.50/t, 0.16–0.30 has no adjustment, and 0.31–0.35 gives −$1/t. Larger deviations have larger deductions and different top/lower-lift rejection boundaries. The full table and associated clauses govern; these are historical exercise values, not current project permission. A top-lift deviation greater than 0.50 triggers the stated rejection/remedial provisions. An operator does not fix a field result by independently changing the approved JMF.\n\nPossible causes of an unexpected result include actual production variation, sampling problems, incorrect identities, test issues or a mistaken reporting basis. Preserve the original evidence and refer the issue to the quality lead. A single favourable retest is not automatic authority to discard an unfavourable result."
+    }
+  ],
+  "worked": {
+    "title": "Read the basis before the band",
+    "case": "Approved binder content is 5.20 kg/100 kg dry aggregate. The three fictional sub-lot results are 5.45, 5.50 and 5.49 on that same basis. Lot mass is 500 t.",
+    "solution": "Mean = (5.45 + 5.50 + 5.49)/3 = 5.48. Absolute deviation = 0.28. Under the dated Table 502-F exercise, 0.16–0.30 gives $0/t, so this isolated adjustment is $0. This says nothing about other acceptance parameters."
+  },
+  "activities": [
+    {
+      "id": "G2-01",
+      "prompt": "Approved content is 5.20 and the mean is 4.86, both kg/100 kg dry aggregate. Find deviation and the historical isolated adjustment for 300 t.",
+      "answer": "Absolute deviation = 0.34. Table 502-F band 0.31–0.35 gives −$1/t; 300 t gives −$300. Check lift, reporting and all other contract conditions before disposition.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "Approved content is 5.20 and the mean is 4.86, both kg/100 kg dry aggregate"
+    },
+    {
+      "id": "G2-02",
+      "prompt": "A report says 5.2% but has no basis. Can it be compared directly with 5.2 kg/100 kg dry aggregate?",
+      "answer": "No. Obtain the test report’s basis and method. A percentage of total mixture is not the same as a percentage of dry aggregate.",
+      "skills": [
+        "Problem solving",
+        "Communication"
+      ],
+      "title": "A report says 5.2% but has no basis"
+    },
+    {
+      "id": "G2-03",
+      "prompt": "Write a two-line hold note for conflicting sample IDs.",
+      "answer": "Identify lot, lift, sample IDs and conflicting records; preserve both. Request the quality lead’s reconciliation and disposition before changing production or releasing the affected work.",
+      "skills": [
+        "Writing",
+        "Collaboration"
+      ],
+      "title": "Write a two-line hold note for conflicting sample IDs."
+    }
+  ],
+  "practical": [
+    "Identify binder basis and lot/lift before calculation.",
+    "Read the complete applicable payment/rejection table.",
+    "Escalate a conflicting result without altering original evidence."
+  ],
+  "visuals": [
+    "binder-basis",
+    "spec-binder"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

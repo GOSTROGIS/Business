@@ -1,0 +1,1024 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf
+SOURCE SHA-256: ce5b8f796ef3a4b4e6d69681960b7e3514c5341a92d7a333897264c24062c8ae
+ORIGINAL PDF VIEWER PAGES: 1–25 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 1 ===
+=== COMPLETE SOURCE PDF PAGE 151 ===
+Schematics
+
+HYDRAULIC SYSTEM - SNOW PLOW OPTION (2 OF 5)
+Schematic #1016638
+
+
+
+
+                     STRG.
+                     WHL.
+
+
+
+
+                                                                                          -FH2#1
+
+                                                                                                                         6
+
+
+             SNOW PLOW OPTION
+                                               Figure 6-24. Hydraulic System - Snow Plow Option (2 of 5)
+
+
+
+Rosco RB-50 Broom                                                                                                 6-49
+
+=== ORIGINAL PDF PAGE 2 ===
+=== COMPLETE SOURCE PDF PAGE 152 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-50                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 3 ===
+=== COMPLETE SOURCE PDF PAGE 153 ===
+Schematics
+
+HYDRAULIC SYSTEM - CURB BRUSH OPTION (3 OF 5)
+Schematic #1016638
+
+
+
+
+                                                                                                                            6
+
+
+
+                                                Figure 6-25. Hydraulic System - Curb Brush Option (3 of 5)
+
+
+
+Rosco RB-50 Broom                                                                                                    6-51
+
+=== ORIGINAL PDF PAGE 4 ===
+=== COMPLETE SOURCE PDF PAGE 154 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-52                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 5 ===
+=== COMPLETE SOURCE PDF PAGE 155 ===
+Schematics
+
+HYDRAULIC SYSTEM - CURB BRUSH & SNOW PLOW OPTION (4 OF 5)
+Schematic #1016638
+
+
+
+
+                                                                                                                   T
+
+
+
+
+                      B
+
+
+
+
+                                                                                                                                     6
+                          A   C
+
+
+
+
+                                          Figure 6-26. Hydraulic System - Curb Brush & Snow Plow Option (4 of 5)
+
+
+
+Rosco RB-50 Broom                                                                                                             6-53
+
+=== ORIGINAL PDF PAGE 6 ===
+=== COMPLETE SOURCE PDF PAGE 156 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-54                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 7 ===
+=== COMPLETE SOURCE PDF PAGE 157 ===
+Schematics
+
+HYDRAULIC SYSTEM - FNR PEDAL OPTION (5 OF 5)
+Schematic #1016638
+                                                                                                                                                                    -C12
+                                                                                                                                                                  31884A
+                                                                                                                                                               BROOM LIFT
+                                                                                                                                                                                EXT               RET
+                                                                                                   -C10              -C9                                                                                                                                                S                                                                 IN
+                                                                                                   36754         750610
+                                                                                                   STEERING BROOM PIVOT                                                                                              -V16                                                                                           SUCTION STRAINER
+                                                           L                            R                                       EXT             RET                                                                 35552                                                                                           100 MESH, 25 GPM
+                                                                                                                                                                                                        DOWN PRESSURE                                                                                                         1014037
+                                                                                                                                                                                                                                                                                                                                   -F5
+                                                                                                                                                                                                            B               A
+                                                                                                                                                                                                                                                                                                                                         OUT
+                                                                                                                                                 A1   B1                 A2
+                          1022801                                                 LT                  RT
+                          FOOT PEDAL (FNR)                                                                      -M7
+                      T                                                                                         1014017
+                                                                                                                8.9 in³ (146 cm3)                                                                                                                CW
+                      P                                                                                         STEERING                                                                                T
+
+                                                                    STRG.
+                                                                    WHL.
+                                                                                                                                       P
+                                                                                                                                                                                                                            OUT
+                                                                                                                                                                              LIFT / PIVOT                                              -V15
+                                         1      2                                                                                                                             1011734                                                   38641                                                       -P5
+                                                                                                                                                                                                                                                                                        2500 PSI
+                                                                                                                                                                              -V14                                                      20 PSI                                                      1005574
+                                                                                                                    AUX
+                                                                                                                                                                                                                                IN                                                                  1.94 in³ (31.8 cm3)
+                                                                                                   1800 PSI                                                                                                                                                                                         19 GPM @ 2500 RPM
+                                                                                                                                                                                                                                                                                                    AUX PUMP
+                                                                                                                                                                                                                                                                 EF         CF
+                                                                                       IN                     OUT
+
+
+
+                                                                                            4 GPM PRIORITY
+
+
+                                                                                                                                                                                                                                                                                                                        A
+                                                                                                                                                       X1                                                                                                                                                 -M6
+                                                                                                                                                                                                  X2                                                                                                 1011086
+                                                                                                                                                                                                                                                      IN                                18.71 in³ (306.6 cm3)
+                                                                                                                                                                                                                                                                                            BROOM MOTOR
+                                                                                                                          1023206                                                                                                    RETURN FILTER
+                                 3       2                                                                                2.8 cu/in (46 cm3)                                                                                             11 micron                25 psi BYPASS                                         B
+                                                                                                                          3625 PSI (250 BAR)                                                                                              34463-01                34463-02
+                                                                                                                          27 GPM @ 2500 RPM                                                                                                                       -FH3
+                                                                                                                          PROPEL PUMP                                                                                                           -F6
+                                                 2 SPEED                                                                                        M3                                                                                                  OUT
+                                     1           1016012                                                                                                                                                                                                                                                                                            OUT
+                                                 -V13
+                                                               L1                                                                                                                                                                                          IN                                                   B
+                                                                                                                                                                   1.2        1.2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                  6
+                                                                                               A                      A                                                                      M4                 2                                                                 1021111                                                                 A
+                                                                                                                                                                                                                                                                 AUX COOLER       BRUSH SPEED
+                                                                                                                                                                                                                                                                 1015757
+                                                                                                                                                                                                                                                      COOLER     -C11
+                                                                                                                                                                                             M5                 1   -V12
+                                                                                                                                                                                                                    1009619
+                                                                                                                                  345 bar                                                                           DESTROKE                               OUT                                                                                 2500 PSI
+                                                                                                                                                                                                                                                                                                                                                          -V18
+                                                                     MIN.                                                                                                                                                                                                                                                                                 1012242
+                                                                     DISP.
+                                                                                                                                      345 bar
+                                                                                                                                                                                                                                                                                                                               IN
+                                               -M5
+                                             35330
+                          2.8/1.45 in³ (46/24 cm3)
+                                  PROPEL MOTOR                                                 B
+                                                                    X1       L2                                       B                                                                      L2
+
+                                                                                                                               M2                          S                      L1
+                                                           .030
+
+
+
+
+                     FOOT PEDAL OPTION
+                                                                                                                             Figure 6-27. Hydraulic System - FNR Pedal Option (5 of 5)
+
+
+
+Rosco RB-50 Broom                                                                                                                                                                                                                                                                                                                                                          6-55
+
+=== ORIGINAL PDF PAGE 8 ===
+=== COMPLETE SOURCE PDF PAGE 158 ===
+Schematics
+
+             NOTES
+
+
+
+
+6-56                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 9 ===
+=== COMPLETE SOURCE PDF PAGE 159 ===
+Section 7
+               ILLUSTRATED PARTS LIST
+                                                                                                                                                   Page
+                Quick Reference Guide .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-3
+                Axle - Assemblies.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-4
+                Axle - Rear Drive (1 of 3).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-6
+                Axle - Rear Drive (2 of 3).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-8
+                Axle - Rear Drive (3 of 3) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-10
+                Axle - Drive Motor.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-12
+                Axle - Front Steering .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-14
+                Axle - Front Steering (Cont.).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-16
+                Brush Assembly, Pivot.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-18
+                Brush Assembly, Drive & Idler .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-20
+                Brush Assembly, Drive and Idler (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-22
+                Tanks - Fuel, 30 Gallon .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-24
+                Tanks - Hydraulic, 25 Gallon .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-26
+                Engine Covers.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-28
+                Engine - Radiator .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                            7-30
+                Engine - Intake and Exhaust .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-32
+                Engine - Components.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                 7-34
+                Engine - Hydraulic Pumps .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-36
+                Hydraulic System (1 of 5) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-38
+                Hydraulic System (2 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-40
+                Hydraulic System (3 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-42
+                Hydraulic System (4 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-44
+                Hydraulic System (5 of 5).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-46
+                Cab Assembly , Details (1 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                 7-48
+                Cab Assembly, Details (2 of 2).  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-50
+                Cab Assembly, Windows .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-52
+
+
+
+
+Rosco RB-50 Broom                                                                                                                                              7-1
+
+=== ORIGINAL PDF PAGE 10 ===
+=== COMPLETE SOURCE PDF PAGE 160 ===
+Illustrated Parts List (IPL)
+
+
+
+           Cab Assembly, Door .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-54
+           Cab Assembly, Brakes .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-56
+           Cab Assembly, Steering .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-58
+           Cab Assembly, Spring Seat.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-60
+           Cab Assembly, Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-62
+           Cab Assembly, Controls (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-64
+           Cab Assembly, Fuse Panel.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-66
+           OPTION - Cab Assembly, AC/Heater (1 of 2) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                          7-68
+           OPTION - Cab Assembly, AC/Heater (2 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-70
+           OPTION - Cab Assembly, Filtration System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-72
+           OPTION - Front Winshield Spray Washer.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-74
+           OPTION - Cab Rear Wiper/Spray Washer .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7-76
+           OPTION - FNR Brush Rotation .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-78
+           OPTION - Foot Pedal Controls .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-80
+           OPTION - Foot Pedal Controls, Pumps .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-82
+           OPTION - Foot Pedal Controls, Details .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-84
+           OPTION - Rear Camera System .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-86
+           OPTION - Stereo System.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-88
+           OPTION - Brush Water Spray Down.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                         7-90
+           OPTION - Brush Water Spray Down Assembly (Cont.) .  .  .  .  .  .  .  .  .  .  .  . 7-92
+           OPTION - Curb Brush.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                7-94
+           OPTION - Curb Brush (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-96
+           OPTION - Curb Brush, Hydraulics (1 of 2) .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-98
+           OPTION - Curb Brush, Hydraulics (2 of 2).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-100
+           OPTION - Snow Plow. . . . . . . . . . . . . . . . . . . . . . . . . . . .7-102
+           OPTION - Snow Plow (Cont.).   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-104
+           OPTION - Snow Plow, Hydraulics.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-106
+           OPTION - Front Fenders .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-108
+           OPTION - Lightbar .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-110
+           OPTION - Extended Air Cleaner.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                     7-112
+           OPTION - Spare Tire Mount .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-114
+           Decal Schedule .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-116
+           Hydraulic Hose Schedule - Standard Unit.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  7-118
+           Hydraulic Hose Schedule - Options .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .                                      7-119
+           Alphabetical Parts Index.   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   . 7-120
+
+
+
+7-2                                                                                                                                          Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 11 ===
+=== COMPLETE SOURCE PDF PAGE 161 ===
+Illustrated Parts List (IPL)
+
+
+                                          QUICK REFERENCE GUIDE
+                    FILTERS/STRAINERS                                     ELECTRICAL COMPONENTS
+  Engine                    Description            Part #    Controls          Description        Qty      Part #
+               Oil Filter                       1015794-01              1A Fuse, ATC               1    1015794-55
+               Pre-Fuel Filter                  1015794-05              5A Fuse, ATC              2     36746
+               Fuel Filter                      1015794-06              10A Fuse, ATC             16    36340
+               Air Cleaner, Primary             1015794-03              15A Fuse, ATC             5     36341
+               Air Cleaner, Secondary           1015794-04              20A Fuse, ATC              1    36342
+ Hydraulic                                                              30A Fuse, ATC              1    36218
+               Suction Strainer, 2-1/2-12 SAE   1014037                 40A Fuse, ATC              1    115911
+
+               Charge Filter                    290030                  Fuse Block, ATC            1    685060
+               Charge/Return Filter Head        1017402
+
+                  ENGINE COMPONENTS                                     Relay, 12VDC, SPDT, 40A    1    36085
+
+                             Description           Part #
+                  Engine Belt - No A/C          1015794-07              Flasher, LED               1    1010202
+                  Engine Belt - A/C             1015794-08
+                                                                        Bridge Rectifier          4     1016125
+                  Alternator                    1015794-16
+
+                                                                        Fuse Holder, Inline        1    37118
+                  Starter                       1015794-15
+
+                                                                        Solenoid, 12V, CD          1    720290
+                  A/C Compressor (Option)       1015794-30
+
+
+                    BRUSH ASSEMBLIES
+                        Description                Part #
+
+             Brush -Poly Wafers                 1005054
+
+
+             Brush - Poly-Steel Wafers          1005055
+
+
+             Brush, Tube, 32x90, Poly           38806
+
+
+             Brush, Tube, 32x90, Poly/Steel
+
+
+                  TIRE/WHEEL ASSEMBLY
+                                                1007309
+                                                                                                                          7
+                        Description                Part #
+
+
+             Assembly, Tire & WHeel, 15x6       1009432
+
+
+
+
+Rosco RB-50 Broom                                                                                                   7-3
+
+=== ORIGINAL PDF PAGE 12 ===
+=== COMPLETE SOURCE PDF PAGE 162 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - ASSEMBLIES
+
+
+
+
+            4 3 2
+
+
+
+
+                1
+                                            8
+
+
+                          5
+                                   7
+
+
+
+
+                                                              6
+            9
+                10
+                     11
+
+                              11
+                                   10
+                                        9
+
+
+
+
+                              Figure 7-1. Axle - Assemblies
+
+
+
+7-4                                                               Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 13 ===
+=== COMPLETE SOURCE PDF PAGE 163 ===
+Illustrated Parts List (IPL)
+
+Axle - Assemblies
+ Item
+             Part Number           Qty.                         Description                Remarks
+  No.
+ G RP          1 0094 2 2                 Group - Axles                               Includes 1-8
+   1            1 01 695 5          1     Drive Axle, Comer 068                       See Fig. 7-2 & 7-3
+   2       1 00-1 0-1 1 -1 04 -8    8     CSHH, 5/8-11 x 6.50, GR5
+   3             31 1 -1 0         16     Washer, Hardened, USS, 5/8
+   4         2 04 -1 0-1 1 -5       8     Nut, Lock, Stover, 5/8-11, GR5
+   5            1 01 665 9          2     Axle Mounting Plate
+   6           1 0094 2 3           1     Assembly, Steering Axle
+  RE F         1 0094 31            1     Drive Group, Comer                          Includes 7-8
+   7           1 02 0372            1     Assembly, Motor w/ORFS Adapters             See Fig 7-5
+   8      10 0-M 1 4 -2 -35 -8.8    2     CSHH, M14x2 x 35, C8.8
+ ASSY          1 0094 32            4     Assembly, Tire & Wheel, 15x6                Includes 9-11
+   9             35 34 2            4     Radial Tire, ST225/75R15, E
+  10           1 008062             4     Wheel, 15 x 6, 6 on 205MM BC
+   11            72 761             4     Tire Valve, Tubeless, 2.00 LG
+   12          1 0092 94           24     Nut, Lug, M18x1.5                           Not Shown
+
+
+
+
+                                                                                                            7
+
+
+Rosco RB-50 Broom                                                                                     7-5
+
+=== ORIGINAL PDF PAGE 14 ===
+=== COMPLETE SOURCE PDF PAGE 164 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - REAR DRIVE (1 OF 3)
+
+
+
+
+          5
+                    3
+                                              2
+
+
+      4                                           1
+
+                                                                  8
+
+
+
+              7 6
+
+
+
+
+                                                                                  4
+                                          8
+                                      9
+                                                             11
+                             10
+                                                                            5
+
+
+
+
+                        Figure 7-2. Axle - Rear Drive (1 of 3)
+
+
+
+7-6                                                                   Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 15 ===
+=== COMPLETE SOURCE PDF PAGE 165 ===
+Illustrated Parts List (IPL)
+
+Axle - Rear Drive (1 of 3)
+Item
+          Part Number       Qty.                      Description                       Remarks
+ No.
+ RE F   1016655         1          Drive Axle, Comer 068                     Not All Items Shown
+  1     1006327-61      1          Central Housing
+  2     1006327-62      1          Vent Cap M22x1.5
+  3     1006327-63      2          Side Housing
+  4     1006327-64      2          Shim
+  5     1006327-65      2          Drive Shaft
+  6     1006327-66      18         Shnorr Washer D.10
+  7     1006327-67      18         Socket Head Screw M10x30
+  8     1006327-68      4          Cap M22x1,5 Din 909
+  9     1006327-69      2          Paper Gasket 0,2
+ 10     1006327-70      1          Paper Gasket 0,1
+  11    1006327-71      16         Socket Head Screw 12x35
+  12    1006327-72      6          Cylindrical Pin Ø10x30
+
+
+
+
+                                                                                                         7
+
+
+Rosco RB-50 Broom                                                                                  7-7
+
+=== ORIGINAL PDF PAGE 16 ===
+=== COMPLETE SOURCE PDF PAGE 166 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - REAR DRIVE (2 OF 3)
+
+
+
+
+                                                                                                21
+                                                                  19
+                                          17
+                                                 18
+                                                            20
+
+                                                                            22
+                                                                                   23
+
+                                                      26               28                            23
+                                                       25                                                 22
+                                           33                                                                                           24
+                                     27                                                                                                      18
+                                                                                   29
+                          12                                                                          37
+                                                                        31         30                                  2          19
+                36                                                                                                         20
+                                                                 32                                                3                   17
+                     15
+      13                                                                                7                      4
+           14
+                                                                             8/9
+                                16
+                                                                 10                                        5
+                           34                                                               6
+
+
+                                                                            11
+
+
+           35
+
+
+
+
+                                               Figure 7-3. Axle - Readr Drive (2 of 3)
+
+
+
+7-8                                                                                                                             Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 17 ===
+=== COMPLETE SOURCE PDF PAGE 167 ===
+Illustrated Parts List (IPL)
+
+Axle - Rear Drive (2 of 3)
+ Item
+  No.     Part Number       Qty.                      Description           Remarks
+  REF   1016655         1          Drive Axle, Comer 068                    Not All Items Shown
+   1    1006327-24      1          Bevel Crown Z=38
+   2    1006327-25      1          Bevel Pinion Z=9
+   3    1006327-26      1          O-Ring 4112
+   4    1006327-27      1          Tapered Roller Bearing 30308
+   5    1006327-28      1          Pinion Housing
+   6    1006327-75      10         Screw T.C.E.I. M12x45 12.9
+   7    1006327-29      1          Spacer
+   8    1006327-30      -          Shim PS 35x45x0,1
+   9    1006327-31      -          Shim PS 35x45x0,3
+   10   1006327-32      1          Taper Rolling Bearing 30307
+   11   1006327-33      1          Oil Seal BASL 50x72x8
+   12   1006327-34      1          Flange with Brake Drum
+   13   1006327-76      8          Nut AUTOBLOK M10
+   14   1006327-35      8          Stud Bolt M10x25
+   15   1006327-36      1          Shim AS 1528
+   16   1006327-37      1          Self-Lock Nut GP M30x1,5
+   17   1006327-38      2          Roller Bearing 32012
+   18   1006327-39      -          Spess. ø61x70x0,1
+   19   1006327-40      -          Spess. ø61x70x0,3
+  20    1006327-41      -          Spess. ø61x70x0,5
+   21   1006327-42      1          Differential Housing
+  22    1006327-43      2          Disc Package
+  23    1006327-44      4          Shim, 50x70x0.2
+  24    1006327-48      8          Socket Head Screw M14x70
+  25    1006327-49      1          Brake Fulcrum Pin
+  26    REF             1          Washer
+  27    1006327-50      2          Spring
+  28    1006327-51      1          Brake Lever Pin
+  29    1006327-52      2          Friction Washer
+  30    1006327-53      1          Brake Lever
+   31
+  32
+  33
+        1006327-54
+        1006327-55
+        1006327-56
+                        1
+                        1
+                        1
+                                   Friction Washer
+                                   Snap Ring E14 230-150H
+                                   Brake Shoe Pair
+                                                                                                        7
+  34    1006327-57      1          Hydraulic MOT Connection
+  35    1006327-58      1          Hydraulic MOT Mount
+  36    1006327-59      1          Greaser M10x1
+  37    1006327-60      6          Screw M10x25 8.8
+
+
+
+
+Rosco RB-50 Broom                                                                                 7-9
+
+=== ORIGINAL PDF PAGE 18 ===
+=== COMPLETE SOURCE PDF PAGE 168 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - REAR DRIVE (3 OF 3)
+
+
+
+
+        1
+            18
+                      8
+                          15              19
+
+
+                               14
+
+                                               9
+
+            17
+                 16                                       6
+                                                                   4
+                                                                            2
+                                                                                20
+                                                                                     25
+                                                                                          24
+
+
+                                                                                          3
+                                                                                               22
+                                                                                                    23
+                                                                                                         21
+
+
+                                               10                  5
+                                                                        7
+
+
+
+
+                               Figure 7-4. Axle - Rear Drive (3 of 3)
+
+
+
+7-10                                                                                 Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 19 ===
+=== COMPLETE SOURCE PDF PAGE 169 ===
+Illustrated Parts List (IPL)
+
+Axle - Rear Drive (3 of 3)
+Item
+        Part Number   Qty.                        Description                        Remarks
+ No.
+ REF      1016655      1     Drive Axle, Comer 068                       Not All Items Shown
+  1      1006327-01    1     Brake Disc
+  2      1006327-12    1     Wheel Hub
+  3      1006327-13    1     Bearing 32012X
+  4      1006327-11    1     Oil Seal BASL 145X170x12
+  5      1006327-14    1     Washer 10x16x1,5
+  6      1006327-10    1     Bearing 30214
+  7      1006327-15    1     Cap M10x1 DIN908
+  8      1006327-02    1     Brake piston
+  9     1006327-09     1     Spindle
+ 10      1006327-16    3     Planetary Gear Pin
+  11     1006327-17    6     Planetary Gear Shim
+  12     1006327-18    3     Planetary Gear
+ 13      1006327-19    51    Roller D.4x23.8 DIN5402
+ 14      1006327-07    1     Parallel Pin 5X12
+ 15     1006327-03     3     Parallel Pin 6X20
+ 16     1006327-06     1     Brake Ring
+  17    1006327-04     1     Square Ring 237-993-9780
+ 18     1006327-05     1     Square Ring 238-956-9707
+ 19     1006327-08     1     Brake Bleeder M10x1
+ 20      1006327-20    6     Stud Bolt M18x1,5 10.9
+  21     1006327-21    1     Cap
+ 22      1006327-22    1     Lock Washer
+ 23      1006327-23    1     Locknut M55x2
+ 24      1006327-73    12    Nut M18x1.5 MF
+ 25      1006327-74    12    Elastic Washer D. 18
+
+
+
+
+                                                                                                      7
+
+
+Rosco RB-50 Broom                                                                              7-11
+
+=== ORIGINAL PDF PAGE 20 ===
+=== COMPLETE SOURCE PDF PAGE 170 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - DRIVE MOTOR
+
+
+
+
+                                                      6
+
+
+
+                                                                     5
+
+
+
+
+                                                                         4
+                             2
+                         3
+
+
+
+
+                                                          1
+
+
+
+                                                  4
+
+
+
+
+                        Figure 7-5. Axle - Drive Motor
+
+
+
+7-12                                                          Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 21 ===
+=== COMPLETE SOURCE PDF PAGE 171 ===
+Illustrated Parts List (IPL)
+
+Axle - Drive Motor
+ Item
+            Part Number             Qty                     Description                                 Remarks
+  No
+GRP           1009431                     Group - Motor Drive
+ASSY          1020372                1    Assembly, Motor w/ORFS Adapters
+  1            35330                 1    Motor, Hydraulic, M46 Variable, 2.8/1.45 CIR
+  -          35330-02               A/R   Seal Kit, Hydraulic Motor, M46                       Repair Part, Not Shown
+  2            851492                1    Cover, Servo, M46 Pump
+  3            851494                1    Gasket, Servo Cover, M46 Pump
+  4     FS6801-16-16-NWO-FG          2    Adapter, Elbow, 90°, -16 ORFS/-16 O-Ring
+  5     FS6801-12-12-NWO-FG          1    Adapter, Elbow, 90°, -12 ORFS/-12 O-Ring
+  6     FS6801-06-06-NWO-FG X 030    1    Adapter, Elbow, 90°, -6 ORFS/-6 O-Ring, .030 Orifice
+
+
+
+
+                                                                                                                               7
+
+
+Rosco RB-50 Broom                                                                                                       7-13
+
+=== ORIGINAL PDF PAGE 22 ===
+=== COMPLETE SOURCE PDF PAGE 172 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - FRONT STEERING
+
+
+
+
+                                                                                                             36
+                                                                                                                       39
+                                                                                                                  38
+                                                                                                             37
+
+
+
+
+                                                                                    34
+                                                                                                                                   40
+                                                                               33
+
+
+
+
+                                              30
+                                                                          35                                                            3
+                                                                                                                                            24
+
+
+                                                                          22
+                                                                      1
+                                                                                                             26 25
+                                         4
+
+            31                                                                                          28                                  44
+                                                                                         27                                    23
+       32
+                            6                                                            29
+                                                                                                                              44
+                            7
+                       8
+                 2
+
+                                                                                                        43
+                                                   5                                               42
+                                                                                              41
+  12
+
+
+
+                                         11
+                                    10
+                                9
+                                                                                    40
+
+
+
+
+                       13
+                 14                                              21
+            15                                              20
+                                                       19
+
+
+
+                           17       18
+                      16
+
+
+
+                                                            Figure 7-6. Axle - Front Steering
+
+
+
+7-14                                                                                                                        Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 23 ===
+=== COMPLETE SOURCE PDF PAGE 173 ===
+Illustrated Parts List (IPL)
+
+Axle - Front Steering
+Item
+         Part Number      Qty.                          Description                        Remarks
+ No.
+ASSY        1009423        1     Assembly, Steering Axle                          Includes Items 1-36
+  1        28451SRV        1     Weldment, Front Axle
+  2       1010689SRV       1     Weldment, Spindle - Right
+  3       1010688SRV       1     Weldment, Spindle - Left
+  4      100-16-8-128-5    2     CSHH, 1-8 x 8.00, GR5
+  5        204-16-8-5      2     Nut, Lock, Stover, 1-8, GR5
+  6          301-16        4     Washer, Flat, USS, 1
+  7          35406         4     Bushing, Oilite, 1.003 ID x 1.253 OD x .75 LG
+  8          33684         4     Grease Fitting, 1/8 NPT
+  9           31713        2     Nut, Spindle, 6BF
+ 10          300-16        2     Washer, Flat, SAE, 1
+  11         80332         2     Cotter Pin, .125 x 1.50
+  12      1009281SRV       2     Hub Assembly, 6 Bolt, 205MM BC                   Includes Items 13-24
+ASSY         1011707       2     Assembly, Casted Hub, Idler Comer                Includes 13-15
+ 13          1011706       2     Hub, Idler Casting, Comer Axle
+ 14         1009293        12    Stud, Wheel, M18x1.5 x 2.1" LG
+ 15         1009294        12    Nut, Lug, M18x1.5
+ 16         620200         2     Dust Cap
+  17         340180        2     Bearing Cone, Wheel Hub, Outer
+ 18          340170        2     Bearing Cup, Wheel Hub, Outer
+ 19          610200        2     Bearing Cup
+ 20          610210        2     Bearing Cone
+  21         33187         2     Seal
+ 22          29B-02        1     Grease Fitting, 1/8 NPT, 90°
+ 23          36754         1     Cylinder, Hydraulic, 2.00 x 10.75 x 1.00 Rod
+  -        36754-03       A/R    Kit, Cylinder Seal
+ 24          36755         1     Ball Joint, Steering Cylinder End
+ 25      100-12-10-80-5    1     CSHH, 3/4-10 x 5.00, GR5
+ 26          300-12        1     Washer, Flat, SAE, 3/4
+ 27          16935         1     Sleeve, Steering Cylinder Mount
+ 28          301-12        1     Washer, Flat USS, 3/4
+ 29        204-12-10-5     1     Nut, Lock, Stover, 3/4-10, GR5
+
+
+
+                                                                                                                7
+ 30          20727         1     Tube, Tie Rod
+ 31           21113        1     Nut, Jam, 1-16, RH
+ 32          36756         1     Ball Joint - Right
+ 33           21114        1     Nut, Jam, 1-16, LH
+ 34          36757         1     Ball Joint - Left
+ 35          71054         2     Bushing, Oilite, 1.252 ID x 1.565 ID x 1.50 LG
+ 36         1016667        1     Shaft, Axle Pivot
+ 37       100-8-13-24-5    1     CSHH, 1/2-13 x 1.50, GR5
+ 38          300-8         1     Washer, Flat, SAE, 1/2
+ 39        204-8-13-5      1     Nut, Lock, Stover, 1/2, GR5
+
+
+
+
+Rosco RB-50 Broom                                                                                        7-15
+
+=== ORIGINAL PDF PAGE 24 ===
+=== COMPLETE SOURCE PDF PAGE 174 ===
+Illustrated Parts List (IPL)
+
+
+AXLE - FRONT STEERING (CONT.)
+
+
+
+
+                                                                                                             36
+                                                                                                                       39
+                                                                                                                  38
+                                                                                                             37
+
+
+
+
+                                                                                    34
+                                                                                                                                   40
+                                                                               33
+
+
+
+
+                                              30
+                                                                          35                                                            3
+                                                                                                                                            24
+
+
+                                                                          22
+                                                                      1
+                                                                                                             26 25
+                                         4
+
+            31                                                                                          28                                  44
+                                                                                         27                                    23
+       32
+                            6                                                            29
+                                                                                                                              44
+                            7
+                       8
+                 2
+
+                                                                                                        43
+                                                   5                                               42
+                                                                                              41
+  12
+
+
+
+                                         11
+                                    10
+                                9
+                                                                                    40
+
+
+
+
+                       13
+                 14                                              21
+            15                                              20
+                                                       19
+
+
+
+                           17       18
+                      16
+
+
+
+                                                   Figure 7-6. Axle - Front Steering (Cont.)
+
+
+
+7-16                                                                                                                        Rosco RB-50 Broom
+
+=== ORIGINAL PDF PAGE 25 ===
+=== COMPLETE SOURCE PDF PAGE 175 ===
+Illustrated Parts List (IPL)
+
+Axle - Front Steering (Cont.)
+Item
+          Part Number        Qty.                      Description                    Remarks
+ No.
+ 40          1010979          2     Guard, Dust
+ 41       100-6-16-16-5F      8     CSHH, 3/8-16 x 1.00, GR5, FT
+ 42           300-6           8     Washer, Flat, SAE, 3/8
+ 43         204-6-16-5        8     Nut, Lock, Stover, 3/8-16, GR5
+ 44    FS6801-06-08-NWO-FG    2     Adapter, Elbow, 90°, -6 ORFS/-8 O-Ring
+
+
+
+
+                                                                                                       7
+
+
+Rosco RB-50 Broom                                                                               7-17
+

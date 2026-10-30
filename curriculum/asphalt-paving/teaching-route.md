@@ -2,7 +2,7 @@
 
 ## Begin with the standalone study volume
 
-Use the [study textbook](textbook/study-textbook.html) for A1–A6 and B1 in outline sequence. Its 60 activities include readings, trade terms, worked examples, image studies, a complete classroom safety brief and [worked answers](textbook/answers.html). The [plan desk](textbook/plan-desk.html) supports TB5-01–03 and utility-source questions in TB7-11. Keep each learner's evidence for all nine skills; TB7-13 brings the work together. The [coverage record](textbook/coverage.html) identifies the remaining B2–L6 authoring and practical/technical approval work.
+Use [Volume 1](textbook/study-textbook.html) for foundations and safe work, then continue through [Volumes 2–8](textbook/series/index.html). Read the chapter, inspect the labelled figure, work through the example and complete the named practice. Use the separate answer book to check reasoning. Each volume ends with a complete case involving all nine skills. The [learning-task map](textbook/series/coverage.html) shows the full B2–L6 coverage.
 
 
 **ACCESS IS4S · Integrated classroom route · 30 October 2026**
@@ -11,9 +11,23 @@ Use the SkilledTradesBC outline to choose the occupational outcome. Teach the wo
 
 [Learner books and resources](README.md) · [Review and development gaps](review-and-integration.md) · [All 68 competency statuses](line-a/competency-status.md)
 
+## Complete study sequence through compaction
+
+[Open all eight volumes](textbook/series/index.html). Volume 1 develops foundations and safe work; seven further volumes complete B2–L6 with 61 chapters, 218 learning tasks, 183 named chapter activities, seven integrated nine-skill cases and full worked answers. The books include 42 new SVGs and 84 unique teaching figures across 131 chapter placements, with manual/MS-4 page credits.
+
+- **People, tools and safe work:** [study PDF](textbook/series/volume-2.pdf), [teaching and answers](textbook/series/volume-2-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-2-print-pack.zip).
+- **Materials, plants and quality evidence:** [study PDF](textbook/series/volume-3.pdf), [teaching and answers](textbook/series/volume-3-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-3-print-pack.zip).
+- **Road geometry and acceptance:** [study PDF](textbook/series/volume-4.pdf), [teaching and answers](textbook/series/volume-4-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-4-print-pack.zip).
+- **Milling and reclaiming:** [study PDF](textbook/series/volume-5.pdf), [teaching and answers](textbook/series/volume-5-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-5-print-pack.zip).
+- **Paver operation:** [study PDF](textbook/series/volume-6.pdf), [teaching and answers](textbook/series/volume-6-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-6-print-pack.zip).
+- **Screed control and handwork:** [study PDF](textbook/series/volume-7.pdf), [teaching and answers](textbook/series/volume-7-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-7-print-pack.zip).
+- **Compaction and final handover:** [study PDF](textbook/series/volume-8.pdf), [teaching and answers](textbook/series/volume-8-answers.pdf), [both PDFs in a ZIP](textbook/series/volume-8-print-pack.zip).
+
+All classroom chapters are authored. Qualified technical review, fleet/site matching, local pilot and observed practical qualification remain separate. [Task-by-task coverage](textbook/series/coverage.html) records all 218 later learning tasks.
+
 ## Connect the books in the outline's sequence
 
-The six authored Line A units provide the main classroom route. The opening case introduces the work. Manual and specification lessons provide document-reading practice at the relevant point in that route. Choose the amount of practice from observed need; do not add every published session time together and call it an approved technical timetable.
+The eight study volumes provide the classroom route through all 68 competencies. The opening case introduces the work. Manual and specification lessons provide document-reading practice at the relevant point in that route. Choose the amount of practice from observed need; do not add every published session time together and call it an approved technical timetable.
 
 | Trade outcome | Teach and practise | Bring in the real document or picture | Individual evidence |
 |---|---|---|---|
@@ -24,7 +38,7 @@ The six authored Line A units provide the main classroom route. The opening case
 | **A5 · Describe basic road and highway profiles** | [Read road documents and quantities](line-a/05-road-documents.html), LA5-01–LA5-06. Distinguish plan/profile/cross-section, crown and superelevation; keep units and versions visible. | [Specifications workshop](specifications/learner-workbook.html), MS4-01–MS4-02 develop load/layer vocabulary; SP-01–SP-18: read the original table crop and Road Checker's Summary clause, then use the explicitly fictional tickets and dimensions. | A located source cell; checked quantity calculation; saved spreadsheet; corrected record; handover preserving the reason for change. |
 | **A6 · Describe future paving/construction trends** | [Investigate a paving trend](line-a/06-trends.html), LA6-01–LA6-06. Compare a proposal using stated criteria and dated evidence. | Return to MAN-09 or SP-18 to design and test a useful information aid. Evaluate its effect on another reader before revising it. | Bounded recommendation; two ideas; trial observation; explained improvement. |
 
-The specification work also prepares selected F2 drawing and F3 measurement learning tasks. The equipment pictures introduce vocabulary later needed in I2 (paver), J1 (screed) and L1 (compaction equipment). These are narrow preparation links. They do not turn those later competencies into complete technical units or practical assessments. J2 concerns screed safety; it is not the component-identification competency.
+The specification work also prepares selected F2 drawing and F3 measurement learning tasks. The equipment pictures introduce vocabulary later needed in I2 (paver), J1 (screed) and L1 (compaction equipment). The later study volumes now provide complete classroom chapters for those competencies, with separate requirements for technical review and observed practical assessment. J2 concerns screed safety; it is not the component-identification competency.
 
 ## A repeatable picture-reading lesson
 

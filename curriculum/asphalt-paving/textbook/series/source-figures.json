@@ -1,0 +1,2150 @@
+{
+  "figures": [
+    {
+      "id": "controls",
+      "file": "../assets/controls.svg",
+      "title": "Control the exposure before it reaches a person",
+      "alt": "Assess the task, eliminate or reduce the hazard, check the controls and reassess when conditions change.",
+      "credit": "ACCESS IS4S. (2026). Control the exposure before it reaches a person [Original instructional SVG]. Based on WorkSafeBC. (2026 retrieved consolidation). Occupational Health and Safety Regulation, § 5.55. Conceptual teaching sequence; use the complete applicable clauses.",
+      "source_link": null,
+      "sha256": "7643ffa3fe97ec3c4de5e02aad46dc24bc1bf7648748fc705e1323974f30eef1",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "cover-art",
+      "file": "../assets/cover-art.svg",
+      "title": "Roadbuilding connections",
+      "alt": "Original conceptual cover art: aggregate support, asphalt surface and paving equipment. No real place or operating arrangement.",
+      "credit": "ACCESS IS4S. (2026). Roadbuilding connections [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "5d1940b90bf30b1d97a82985100ef704c26acbd00ed2ef4b01caf1bc9cd9544c",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "exposure-routes",
+      "file": "../assets/exposure-routes.svg",
+      "title": "A hazard needs a route to reach you",
+      "alt": "Chemical exposure can occur by inhalation, ingestion, skin absorption or injection. Other hazards have other mechanisms.",
+      "credit": "ACCESS IS4S. (2026). A hazard needs a route to reach you [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "74b28fca37cc4e3bbac2c97de1d525b41a3f048082721ef881b3758867e5be7e",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "handover",
+      "file": "../assets/handover.svg",
+      "title": "A handover is complete when it is understood",
+      "alt": "Read back the location, task, limits and change. Record unresolved questions and the person responsible.",
+      "credit": "ACCESS IS4S. (2026). A handover is complete when it is understood [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "0a4dc8a83834016640c7297373dfca30cdf69191f7d87444dac4bf4fc2ca334d",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "history-timeline",
+      "file": "../assets/history-timeline.svg",
+      "title": "Dates tell different stories",
+      "alt": "Separate the events on the Alaska Highway timeline from unrelated international road milestones.",
+      "credit": "ACCESS IS4S. (2026). Dates tell different stories [Original instructional SVG]. Based on the public historical accounts by Public Services and Procurement Canada (2025), UNESCO (2024) and FHWA listed in the references. Separate time scales; no universal sequence implied.",
+      "source_link": null,
+      "sha256": "86bd700c954e1ee4ca37dc3a94fd3243844435f5efaa27c18d97e5483b3b88c3",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "life-cycle",
+      "file": "../assets/life-cycle.svg",
+      "title": "Follow the whole service, not a single claim",
+      "alt": "Compare material production, transport, construction, maintenance and end-of-life for an equivalent pavement service.",
+      "credit": "ACCESS IS4S. (2026). Follow the whole service, not a single claim [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "4ff2edcd3ab92b7ee68433ec71b9bd584c867ff3f4628aa54c2acb93a33ffbd4",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "public-route",
+      "file": "../assets/public-route.svg",
+      "title": "Plan the people routes as carefully as the work",
+      "alt": "A conceptual work-zone plan shows a public route and work area separated with a designed access point.",
+      "credit": "ACCESS IS4S. (2026). Plan the people routes as carefully as the work [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "fe433960b4deefc9005b78079d2dec84ba6d97e7653f936d44ef8aa7870773f6",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "quantity",
+      "file": "../assets/quantity.svg",
+      "title": "Keep each unit attached to its quantity",
+      "alt": "A fictional rectangular layer is calculated with 50 metres length, 6 metres width and 40 millimetres thickness.",
+      "credit": "ACCESS IS4S. (2026). Keep each unit attached to its quantity [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "f8faa60be5dcc1f9c4801e7a633f0f11828f8fc6357cc445d9719ec5a12cc61c",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "rigging-angle",
+      "file": "../assets/rigging-angle.svg",
+      "title": "Rigging: identify the angle you are reading",
+      "alt": "The WorkSafeBC Table 15-3 angle is measured from vertical. This picture identifies geometry, not a lift plan or a capacity.",
+      "credit": "ACCESS IS4S. (2026). Rigging: identify the angle you are reading [Original instructional SVG]. Based on WorkSafeBC. (2026 retrieved consolidation). Occupational Health and Safety Regulation, Part 15, especially §§ 15.2, 15.31 and 15.34. Identifies the angle from vertical; no working load limit or lift arrangement is prescribed.",
+      "source_link": null,
+      "sha256": "5f51ab5ee308076c64b6396ac66159cbd86858da169f863afc4d4f2f61886067",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "road-chain",
+      "file": "../assets/road-chain.svg",
+      "title": "From rock to a road people use",
+      "alt": "Aggregate and binder travel through production, delivery, placement and compaction. Preparation and inspection support every stage.",
+      "credit": "ACCESS IS4S. (2026). From rock to a road people use [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "3af3e3793d1a67f72acf6f6de580dab2a81811c1f1d4071312a3c6d48de9f216",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "road-surfaces",
+      "file": "../assets/road-surfaces.svg",
+      "title": "A road’s purpose does not name its surface",
+      "alt": "Four surface examples and a seasonal ice-road category. Uses and structures must be established separately.",
+      "credit": "ACCESS IS4S. (2026). A road’s purpose does not name its surface [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "a8ddc46683bcfa43b5610cf25081028cf20a50b0ca3919dc1b249ff861e9469b",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "site-plan",
+      "file": "../assets/site-plan.svg",
+      "title": "Cedar Learning Access  /  P-01 revision B",
+      "alt": "Fictional non-georeferenced plan. An entrance, boundary, utility record and site point have different meanings.",
+      "credit": "ACCESS IS4S. (2026). Cedar Learning Access  /  P-01 revision B [Original instructional SVG]. Informed by GOSTROGIS. (2026). Site planner, parcel site planner, map symbology and utility-network documentation (commit 9e409ba). All geometry is fictional and not georeferenced.",
+      "source_link": null,
+      "sha256": "76d5c1cd186ccf11015193f25ee849be6f8e985da872894c3e4aea32cc590cc7",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "three-views",
+      "file": "../assets/three-views.svg",
+      "title": "Three views. Three different questions.",
+      "alt": "Plan gives length and width; profile gives elevation along the route; cross-section identifies transverse form and layers.",
+      "credit": "ACCESS IS4S. (2026). Three views. Three different questions. [Original instructional SVG]. Conceptual illustration; read the stated conditions in the lesson.",
+      "source_link": null,
+      "sha256": "4188bdb19ae5d3efc75ae740d63f8c4d8b5ee06d4e1d39623786758f2f20ce93",
+      "provenance": {
+        "generator": "tools/draw.py",
+        "type": "original"
+      }
+    },
+    {
+      "id": "ms4-structures",
+      "file": "../assets/ms4-structures.png",
+      "title": "Compare the handbook’s pavement structures",
+      "alt": "Original MS-4 Figure 1.6 with its original labels and caption.",
+      "credit": "From The asphalt handbook (7th ed., MS-4, Figure 1.6, p. 14; source PDF 48), by Asphalt Institute, 2007. Copyright 2007 by Asphalt Institute. Faithful crop from the supplied scan; no labels altered.",
+      "source_link": "../../ms-4/reader/chapter-01-01.html#page-0048",
+      "sha256": "6a4a29f33d0aceaf0028477c93ca3fb63a5c4eb327832e6d6ebae8281e0fa639",
+      "provenance": {
+        "type": "source crop",
+        "source_file": "ms-4/assets/pages/p0048.webp",
+        "source_asset_sha256": "d2fd99e4969890ad278ee1cd85b3268cb0923a05fb903173a09c60a2de7ce784",
+        "crop_pixels": [
+          250,
+          615,
+          1030,
+          1430
+        ],
+        "source_pdf_page": 48,
+        "printed_page": 14
+      }
+    },
+    {
+      "id": "ms4-screed",
+      "file": "../assets/ms4-screed.png",
+      "title": "Read the forces around a free-floating screed",
+      "alt": "Original MS-4 Figure 8.16 with its original labels and caption.",
+      "credit": "From The asphalt handbook (7th ed., MS-4, Figure 8.16, p. 383; source PDF 417), by Asphalt Institute, 2007. Copyright 2007 by Asphalt Institute. Faithful crop from the supplied scan; no labels altered. Original figure contributor: Volvo Construction Equipment (credit on PDF 804).",
+      "source_link": "../../ms-4/reader/chapter-08-02.html#page-0417",
+      "sha256": "d5c6213c9aeda2fed45e843b93bc1558b8839ea898504d75dfb48aa25a589641",
+      "provenance": {
+        "type": "source crop",
+        "source_file": "ms-4/assets/pages/p0417.webp",
+        "source_asset_sha256": "725406aa390def23cf6a6491717c95fb46db784f21aef94e54e8c6e9cfc68eca",
+        "crop_pixels": [
+          235,
+          999,
+          1005,
+          1424
+        ],
+        "source_pdf_page": 417,
+        "printed_page": 383
+      }
+    },
+    {
+      "id": "ms4-load-spread",
+      "file": "../../ms-4/concepts/assets/load-spread.svg",
+      "title": "Spread the load",
+      "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+      "credit": "Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 1.5, p. 13 / PDF 47. Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels.  Copyright 2007 by Asphalt Institute. ACCESS redraw (2026).",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd",
+      "provenance": {
+        "id": "load-spread",
+        "file": "assets/load-spread.svg",
+        "title": "Spread the load",
+        "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "1.5",
+            "printed_page": 13,
+            "pdf_page": 47
+          }
+        ],
+        "adaptation": "Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels.",
+        "original_contributors": [],
+        "asset_sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd"
+      }
+    },
+    {
+      "id": "ms4-screed-factors",
+      "file": "../../ms-4/concepts/assets/screed-factors.svg",
+      "title": "A free-floating screed responds to a system",
+      "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+      "credit": "Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 8.16, p. 383 / PDF 417. Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings. Original contributor: Volvo Construction Equipment. Copyright 2007 by Asphalt Institute. ACCESS redraw (2026).",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57",
+      "provenance": {
+        "id": "screed-factors",
+        "file": "assets/screed-factors.svg",
+        "title": "A free-floating screed responds to a system",
+        "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "8.16",
+            "printed_page": 383,
+            "pdf_page": 417
+          },
+          {
+            "section": "8.4.3, five factors",
+            "printed_page": 384,
+            "pdf_page": 418
+          }
+        ],
+        "adaptation": "Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings.",
+        "original_contributors": [
+          {
+            "figure": "8.16",
+            "credit": "Volvo Construction Equipment",
+            "credit_pdf_page": 804
+          }
+        ],
+        "asset_sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+      }
+    },
+    {
+      "id": "ms4-pass-and-coverage",
+      "file": "../../ms-4/concepts/assets/pass-and-coverage.svg",
+      "title": "A pass is not a coverage",
+      "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+      "credit": "Adapted from Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Figure 9.1, p. 416 / PDF 450. Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed.  Copyright 2007 by Asphalt Institute. ACCESS redraw (2026).",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9",
+      "provenance": {
+        "id": "pass-and-coverage",
+        "file": "assets/pass-and-coverage.svg",
+        "title": "A pass is not a coverage",
+        "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "9.1",
+            "printed_page": 416,
+            "pdf_page": 450
+          }
+        ],
+        "adaptation": "Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed.",
+        "original_contributors": [],
+        "asset_sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9"
+      }
+    },
+    {
+      "id": "cat-paver-sections",
+      "file": "../../caterpillar/assets/figures/paver-sections.png",
+      "title": "Two main sections of the paver",
+      "alt": "Two main sections of the paver. Conceptual paver example in the 2016 application guide; this picture does not identify a specific machine serial number.",
+      "credit": "Caterpillar. (2016). Guide to Asphalt Paving (QEBQ1888, source PDF p. 63). Faithful crop; original labels retained. Conceptual paver example in the 2016 application guide; this picture does not identify a specific machine serial number.",
+      "source_link": "../../caterpillar/parts-atlas.html#paver-sections",
+      "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b",
+      "provenance": {
+        "id": "paver-sections",
+        "document": "CAT-01",
+        "source_page": 63,
+        "source_sha256": "708e981b0910239b7c455df16f6912afc1041070636b5e26b0bd66a4cbb9f88c",
+        "title": "Two main sections of the paver",
+        "scope": "Conceptual paver example in the 2016 application guide; this picture does not identify a specific machine serial number.",
+        "file": "assets/figures/paver-sections.png",
+        "crop_points": [
+          59.527600097656254,
+          269.4048046875,
+          517.8901208496094,
+          463.03950805664067
+        ],
+        "image_pixels": [
+          1274,
+          539
+        ],
+        "sha256": "2f3de5da166e9dfa98b9335b158a8453a9883b8b94690c79ba0564e644517b9b",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "screed",
+            "name": "Screed",
+            "explanation": "Places and shapes the mat behind the tractor."
+          },
+          {
+            "locator": "tractor",
+            "name": "Tractor",
+            "explanation": "Provides propulsion, power and material-handling functions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-feeder-system",
+      "file": "../../caterpillar/assets/figures/feeder-system.png",
+      "title": "Inside the paver: the feeder system",
+      "alt": "Inside the paver: the feeder system. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 11). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#feeder-system",
+      "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a",
+      "provenance": {
+        "id": "feeder-system",
+        "document": "CAT-07",
+        "source_page": 11,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Inside the paver: the feeder system",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/feeder-system.png",
+        "crop_points": [
+          30.6,
+          55.440000000000005,
+          587.52,
+          483.12
+        ],
+        "image_pixels": [
+          1547,
+          1188
+        ],
+        "sha256": "a4d419d5ff34a59f880e8ad8c9dfe2e43d0c54e5b8ac83e2ad499950aa4fdf7a",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "label",
+            "name": "Feeder bed plate",
+            "explanation": "Wear surface beneath material moving through the feeder system."
+          },
+          {
+            "locator": "label",
+            "name": "Feeder chain guard",
+            "explanation": "Protective wear plate associated with the feeder-chain path."
+          },
+          {
+            "locator": "label",
+            "name": "Foot shaft",
+            "explanation": "Shaft at the foot end of the feeder assembly."
+          },
+          {
+            "locator": "label",
+            "name": "Feeder chain",
+            "explanation": "Linked assembly that carries material through the feeder path."
+          },
+          {
+            "locator": "label",
+            "name": "Head shaft",
+            "explanation": "Shaft at the head end of the feeder assembly."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-auger-assembly",
+      "file": "../../caterpillar/assets/figures/auger-assembly.png",
+      "title": "Auger parts: identify the assembly",
+      "alt": "Auger parts: identify the assembly. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 15). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#auger-assembly",
+      "sha256": "e5a5a66b432c79e6e9ed48898a3f1bc8c32f641182ca4d7850e087f73f49033d",
+      "provenance": {
+        "id": "auger-assembly",
+        "document": "CAT-07",
+        "source_page": 15,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Auger parts: identify the assembly",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/auger-assembly.png",
+        "crop_points": [
+          24.48,
+          55.440000000000005,
+          593.64,
+          459.35999999999996
+        ],
+        "image_pixels": [
+          1581,
+          1122
+        ],
+        "sha256": "e5a5a66b432c79e6e9ed48898a3f1bc8c32f641182ca4d7850e087f73f49033d",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "label",
+            "name": "Auger segments",
+            "explanation": "Spiral sections that move mixture across the width."
+          },
+          {
+            "locator": "label",
+            "name": "Deflector",
+            "explanation": "Guides material near the auger assembly."
+          },
+          {
+            "locator": "label",
+            "name": "Auger bearings",
+            "explanation": "Support the rotating auger shaft."
+          },
+          {
+            "locator": "label",
+            "name": "Auger shaft",
+            "explanation": "Shaft on which the auger segments are mounted."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-roller-controls",
+      "file": "../../caterpillar/assets/figures/roller-controls.png",
+      "title": "Locate all 19 original roller-control callouts",
+      "alt": "Locate all 19 original roller-control callouts. CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Illustration 39 has 1–5; Illustration 40 has 6–19. Optional items retain “if equipped.”",
+      "credit": "Caterpillar. (2022). CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual (M0130633-02 (August 2022), source PDF p. 41). Faithful crop; original labels retained. CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Illustration 39 has 1–5; Illustration 40 has 6–19. Optional items retain “if equipped.”",
+      "source_link": "../../caterpillar/parts-atlas.html#roller-controls",
+      "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6",
+      "provenance": {
+        "id": "roller-controls",
+        "document": "CAT-10",
+        "source_page": 41,
+        "source_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+        "title": "Locate all 19 original roller-control callouts",
+        "scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Illustration 39 has 1–5; Illustration 40 has 6–19. Optional items retain “if equipped.”",
+        "file": "assets/figures/roller-controls.png",
+        "crop_points": [
+          27.54,
+          55.440000000000005,
+          584.4599999999999,
+          570.24
+        ],
+        "image_pixels": [
+          1548,
+          1430
+        ],
+        "sha256": "bf038cbceabc6f4836f541b99655216d5225170f98632f3a8d22151664434fc6",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Steering wheel",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "2",
+            "name": "Right propel control",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "3",
+            "name": "Traction Control Switch (if equipped)",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "4",
+            "name": "12V power receptacle",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "5",
+            "name": "Left propel control (if equipped)",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "6",
+            "name": "Emergency stop knob",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "7",
+            "name": "Work lights",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "8",
+            "name": "Front/Position lights",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "9",
+            "name": "Turn signal",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "10",
+            "name": "Hazard lights",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "11",
+            "name": "Gauges and indicators",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "12",
+            "name": "Parking brake",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "13",
+            "name": "Horn",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "14",
+            "name": "Water spray system",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "15",
+            "name": "Engine start switch",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "16",
+            "name": "Vibratory mode / Emulsion switch",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "17",
+            "name": "Engine speed",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "18",
+            "name": "Beacon",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          },
+          {
+            "locator": "19",
+            "name": "Digital display",
+            "explanation": "Identify this exact numbered control or indicator on the source illustration. Its operation and configuration are described in the complete manual."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-steering-frame-lock",
+      "file": "../../caterpillar/assets/figures/steering-frame-lock.png",
+      "title": "Articulation and the steering frame lock",
+      "alt": "Articulation and the steering frame lock. CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Read the complete source page for locking/unlocking instructions; this task is identification only.",
+      "credit": "Caterpillar. (2022). CB2.5 GC, CB2.7 GC, CC2.7 GC Utility Compactors — Operation and Maintenance Manual (M0130633-02 (August 2022), source PDF p. 38). Faithful crop; original labels retained. CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Read the complete source page for locking/unlocking instructions; this task is identification only.",
+      "source_link": "../../caterpillar/parts-atlas.html#steering-frame-lock",
+      "sha256": "ca8fff26426b405e843d77a89862fea609639bffc4dc312c86a36dfc0d03bef8",
+      "provenance": {
+        "id": "steering-frame-lock",
+        "document": "CAT-10",
+        "source_page": 38,
+        "source_sha256": "f4581a998de03c5400f7fac16f5ea5224bb35ffc003359d1541b458bc704bbf7",
+        "title": "Articulation and the steering frame lock",
+        "scope": "CB2.5 GC: XGC 1-UP, 640 1-UP; CB2.7 GC: BT7 1-UP, 641 1-UP; CC2.7 GC: 2C7 1-UP, 642 1-UP. Read the complete source page for locking/unlocking instructions; this task is identification only.",
+        "file": "assets/figures/steering-frame-lock.png",
+        "crop_points": [
+          12.24,
+          277.2,
+          306.0,
+          459.35999999999996
+        ],
+        "image_pixels": [
+          816,
+          506
+        ],
+        "sha256": "ca8fff26426b405e843d77a89862fea609639bffc4dc312c86a36dfc0d03bef8",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Pin",
+            "explanation": "Retaining pin identified in the source illustration."
+          },
+          {
+            "locator": "2",
+            "name": "Eye hole",
+            "explanation": "Alignment opening identified in the source illustration."
+          },
+          {
+            "locator": "assembly",
+            "name": "Steering frame lock",
+            "explanation": "Mechanical assembly used to restrict articulation under the manual’s specified conditions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "hand-tools",
+      "file": "../../readiness/assets/handwork-anatomy.svg",
+      "title": "Name the parts of the handwork kit",
+      "alt": "Labelled original illustrations of a lute, rake, shovel and wheelbarrow.",
+      "credit": "ACCESS IS4S. (2026). The small tools that shape the work [Original instructional SVG]. Illustrative anatomy; confirm the actual model and parts list.",
+      "source_link": "../../readiness/field-guide.html",
+      "sha256": "f88e2ac798c0242ca1f6f3f6f037a92b59fb3c6a609299554205dee9e00b1a4d",
+      "provenance": {
+        "source_manifest": "../readiness/manifest.json",
+        "type": "existing verified figure"
+      }
+    },
+    {
+      "id": "rake-products",
+      "file": "../../readiness/assets/rakes-and-handwork.png",
+      "title": "Match the drawing to real tools",
+      "alt": "Seymour catalogue photographs of an asphalt rake, cleaning tool and blacktop brushes.",
+      "credit": "From Partner Resource Guide (source PDF p. 156; printed p. 155), by Seymour Midwest, 2026 publisher download. Copyright Seymour Midwest. Upper illustration area cropped; original product relationships retained.",
+      "source_link": "../../readiness/index.html#seymour-tool-catalogue-2026",
+      "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b",
+      "provenance": {
+        "source_manifest": "../readiness/manifest.json",
+        "type": "existing verified figure"
+      }
+    },
+    {
+      "id": "crane-signals",
+      "file": "../../readiness/assets/crane-signals.png",
+      "title": "Crane Signals",
+      "alt": "Original manufacturer illustrations with labels retained; inspect the full-size figure.",
+      "credit": "WorkSafeBC. (n.d.; TG07-29). Hand Signals for Hoist and Crane Operations (source PDF p. 1). https://www.worksafebc.com/en/resources/health-safety/toolbox-meeting-guides/hand-signals-for-hoist-and-crane-operations?lang=en&direct Faithful source crop.",
+      "source_link": "../../readiness/index.html",
+      "sha256": "a9f934dd461ecedd96b8deaf2f7789c436645bad19105dc608259430def8664f",
+      "provenance": {
+        "file": "assets/crane-signals.png",
+        "source_id": "wsbc-crane-signals",
+        "source_sha256": "8c2c589e6b610afd6101906ddc95dfab83eb15ee3e10e6cbaa97a400e125232e",
+        "source_pdf_page": 1,
+        "clip_pdf_points": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ],
+        "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+        "sha256": "a9f934dd461ecedd96b8deaf2f7789c436645bad19105dc608259430def8664f",
+        "citation": "WorkSafeBC. (n.d.; TG07-29). Hand Signals for Hoist and Crane Operations (source PDF p. 1). https://www.worksafebc.com/en/resources/health-safety/toolbox-meeting-guides/hand-signals-for-hoist-and-crane-operations?lang=en&direct"
+      }
+    },
+    {
+      "id": "roller-warning",
+      "file": "../../whmis/assets/cat-roller-safety-p09.png",
+      "title": "Find the warning before the control",
+      "alt": "Actual Cat roller safety page with manufacturer hazard warning illustrations.",
+      "credit": "Caterpillar. (2022). CB2.5 GC, CB2.7 GC, CC2.7 GC utility compactors: Operation and maintenance manual (M0130633-02, source PDF p. 9). Complete source-page render. Confirm the publication and serial-number applicability before operating.",
+      "source_link": "../../whmis/index.html",
+      "sha256": "18d79b8c84921d60bbf1d8dc7a6d705c8ae2c38db97ccafeeef49a4a098f1f4a",
+      "provenance": {
+        "document": "CAT-10",
+        "source_pdf_page": 9,
+        "file": "assets/cat-roller-safety-p09.png",
+        "sha256": "18d79b8c84921d60bbf1d8dc7a6d705c8ae2c38db97ccafeeef49a4a098f1f4a",
+        "processing": "Complete source page rendered at 160 dpi; no warning text cropped or altered."
+      }
+    },
+    {
+      "id": "plan-desk-screen",
+      "file": "../assets/plan-desk-screen.png",
+      "title": "Inspect the record behind the map symbol",
+      "alt": "Screenshot of the actual Cedar plan desk showing revision B, fictional map layers and the entrance record.",
+      "credit": "ACCESS IS4S. (2026). Cedar Learning Access plan desk [Actual interface screenshot]. Fictional classroom geometry. Map-reading concepts adapted from GOSTROGIS CONSULTING documentation, commit 9e409ba, with owner authorization.",
+      "source_link": "../plan-desk.html",
+      "sha256": "eb97100167391e169872d894c2edc9ae895d2e3702d41b7b982e9cd8dd13941b",
+      "provenance": {
+        "type": "browser screenshot",
+        "generator": "tools/export.py --desk-only",
+        "viewport": [
+          1440,
+          1100
+        ]
+      }
+    },
+    {
+      "id": "cat-paver-undercarriage",
+      "file": "../../caterpillar/assets/figures/paver-undercarriage.png",
+      "title": "Paver contact with the ground",
+      "alt": "Paver contact with the ground. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 19). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#paver-undercarriage",
+      "sha256": "8bcb77e4b8f0c94930f9394cc198f2e082db7421faa895e6cfa2c842553d6e41",
+      "provenance": {
+        "id": "paver-undercarriage",
+        "document": "CAT-07",
+        "source_page": 19,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Paver contact with the ground",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/paver-undercarriage.png",
+        "crop_points": [
+          30.6,
+          63.36,
+          587.52,
+          712.8000000000001
+        ],
+        "image_pixels": [
+          1547,
+          1804
+        ],
+        "sha256": "8bcb77e4b8f0c94930f9394cc198f2e082db7421faa895e6cfa2c842553d6e41",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "photo",
+            "name": "Smooth belt",
+            "explanation": "Ground-contact belt used on the illustrated track arrangement."
+          },
+          {
+            "locator": "photo",
+            "name": "Track pads",
+            "explanation": "Wear/contact pads on the illustrated track arrangement."
+          },
+          {
+            "locator": "photo",
+            "name": "Track plow",
+            "explanation": "Scraper ahead of the track contact area."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-screed-plates",
+      "file": "../../caterpillar/assets/figures/screed-plates.png",
+      "title": "Screed plates and heating components",
+      "alt": "Screed plates and heating components. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 22). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#screed-plates",
+      "sha256": "f6ccc5295de8c821c82496ea37da5a2dfd82672661332d3f0ffd0644d615e89a",
+      "provenance": {
+        "id": "screed-plates",
+        "document": "CAT-07",
+        "source_page": 22,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Screed plates and heating components",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/screed-plates.png",
+        "crop_points": [
+          24.48,
+          55.440000000000005,
+          593.64,
+          340.56
+        ],
+        "image_pixels": [
+          1581,
+          792
+        ],
+        "sha256": "f6ccc5295de8c821c82496ea37da5a2dfd82672661332d3f0ffd0644d615e89a",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "label",
+            "name": "Deflectors",
+            "explanation": "Guide material at the screed assembly."
+          },
+          {
+            "locator": "label",
+            "name": "Screed plates",
+            "explanation": "Lower wear surfaces that contact the placed mixture."
+          },
+          {
+            "locator": "label",
+            "name": "Nose bars",
+            "explanation": "Wear components at the leading part of the screed plate arrangement."
+          },
+          {
+            "locator": "label",
+            "name": "Heating elements",
+            "explanation": "Heat the applicable electrically heated screed components."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-tamper-screed",
+      "file": "../../caterpillar/assets/figures/tamper-screed.png",
+      "title": "Look inside a tamper-bar screed",
+      "alt": "Look inside a tamper-bar screed. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 28). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#tamper-screed",
+      "sha256": "0b1ba4150a91195bae823e7dc4a126f1470fbf278ecf96ba9562e0c7e1419757",
+      "provenance": {
+        "id": "tamper-screed",
+        "document": "CAT-07",
+        "source_page": 28,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Look inside a tamper-bar screed",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/tamper-screed.png",
+        "crop_points": [
+          24.48,
+          71.28,
+          593.64,
+          467.28
+        ],
+        "image_pixels": [
+          1581,
+          1100
+        ],
+        "sha256": "0b1ba4150a91195bae823e7dc4a126f1470fbf278ecf96ba9562e0c7e1419757",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "label",
+            "name": "Deflector",
+            "explanation": "Material-guiding component."
+          },
+          {
+            "locator": "label",
+            "name": "Tamper blade",
+            "explanation": "Working element in the tamping assembly."
+          },
+          {
+            "locator": "label",
+            "name": "Tamper bar",
+            "explanation": "Bar assembly that provides tamping action."
+          },
+          {
+            "locator": "label",
+            "name": "Wear plate",
+            "explanation": "Replaceable wear surface in the illustrated assembly."
+          },
+          {
+            "locator": "label",
+            "name": "Screed plate",
+            "explanation": "Surface that shapes the mat."
+          },
+          {
+            "locator": "label",
+            "name": "Heating element",
+            "explanation": "Heater for the applicable component."
+          },
+          {
+            "locator": "label",
+            "name": "Tamper motor",
+            "explanation": "Drive component for the tamping system."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-grade-sensors",
+      "file": "../../caterpillar/assets/figures/grade-sensors.png",
+      "title": "Identify grade and slope sensors",
+      "alt": "Identify grade and slope sensors. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 34). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#grade-sensors",
+      "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4",
+      "provenance": {
+        "id": "grade-sensors",
+        "document": "CAT-07",
+        "source_page": 34,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Identify grade and slope sensors",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/grade-sensors.png",
+        "crop_points": [
+          24.48,
+          63.36,
+          593.64,
+          728.64
+        ],
+        "image_pixels": [
+          1581,
+          1848
+        ],
+        "sha256": "59fd0bdb37d1d33b4fddff7cb152388a389b17bc4bbbac9a28f8b73d81f105d4",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "photo",
+            "name": "Sonic grade sensor",
+            "explanation": "Non-contact grade-reference sensor."
+          },
+          {
+            "locator": "photo",
+            "name": "Mechanical grade sensor",
+            "explanation": "Contacting sensor with a wand/riding shoe."
+          },
+          {
+            "locator": "photo",
+            "name": "Extendable sonic grade sensor",
+            "explanation": "Sonic sensor with an extendable mounting arrangement."
+          },
+          {
+            "locator": "photo",
+            "name": "Extendable mechanical grade sensor",
+            "explanation": "Mechanical sensor with an extendable mounting arrangement."
+          },
+          {
+            "locator": "photo",
+            "name": "Slope sensor",
+            "explanation": "Sensor associated with the transverse beam for slope information."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-feed-sensors",
+      "file": "../../caterpillar/assets/figures/feed-sensors.png",
+      "title": "Feed sensing and hopper information",
+      "alt": "Feed sensing and hopper information. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "credit": "Caterpillar. (2024). Pavers and Screeds Parts Reference Guide (QEXQ3132-02 (08/2024), source PDF p. 43). Faithful crop; original labels retained. Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+      "source_link": "../../caterpillar/parts-atlas.html#feed-sensors",
+      "sha256": "0222e8232bcd17d9b341ecda650e64b0cd27cb2a84b0192c92c85084d947dec8",
+      "provenance": {
+        "id": "feed-sensors",
+        "document": "CAT-07",
+        "source_page": 43,
+        "source_sha256": "11cb4c5b11453b45c93c675c5e5082f144fa544a432f107fbf9f3a133c97d03e",
+        "title": "Feed sensing and hopper information",
+        "scope": "Multiple paver/screed models and build numbers; applicability is specified in individual tables.",
+        "file": "assets/figures/feed-sensors.png",
+        "crop_points": [
+          24.48,
+          55.440000000000005,
+          593.64,
+          736.5600000000001
+        ],
+        "image_pixels": [
+          1581,
+          1892
+        ],
+        "sha256": "0222e8232bcd17d9b341ecda650e64b0cd27cb2a84b0192c92c85084d947dec8",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "photo",
+            "name": "Sonic material feed sensors",
+            "explanation": "Sense material around conveyor discharge or auger ends in the applicable arrangement."
+          },
+          {
+            "locator": "photo",
+            "name": "Paddle material feed sensors",
+            "explanation": "Contacting material sensors in the auger chamber."
+          },
+          {
+            "locator": "photo",
+            "name": "Hopper material level and temperature sensor",
+            "explanation": "Reports hopper material information on applicable configurations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-milling-rotor",
+      "file": "../../caterpillar/assets/figures/milling-rotor.png",
+      "title": "Cutting system: rotor details",
+      "alt": "Cutting system: rotor details. Cat System K rotor example. Other rotor systems and retaining arrangements differ; no change-out procedure is taught here.",
+      "credit": "Caterpillar. (2026). Cold Planer Parts Reference Guide (QEXQ3131-01 (05/2026), source PDF p. 8). Faithful crop; original labels retained. Cat System K rotor example. Other rotor systems and retaining arrangements differ; no change-out procedure is taught here.",
+      "source_link": "../../caterpillar/parts-atlas.html#milling-rotor",
+      "sha256": "373cc3df44101aaf6120980db9d4701668f04a4343911a06e4932177c5a248ee",
+      "provenance": {
+        "id": "milling-rotor",
+        "document": "CAT-08",
+        "source_page": 8,
+        "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+        "title": "Cutting system: rotor details",
+        "scope": "Cat System K rotor example. Other rotor systems and retaining arrangements differ; no change-out procedure is taught here.",
+        "file": "assets/figures/milling-rotor.png",
+        "crop_points": [
+          42.84,
+          411.84000000000003,
+          550.8000000000001,
+          728.64
+        ],
+        "image_pixels": [
+          1411,
+          880
+        ],
+        "sha256": "373cc3df44101aaf6120980db9d4701668f04a4343911a06e4932177c5a248ee",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "label",
+            "name": "Kicker paddles",
+            "explanation": "Move cut material through the rotor system."
+          },
+          {
+            "locator": "label",
+            "name": "Fastener-free toolholder",
+            "explanation": "Holds the applicable cutting tool in the illustrated System K design."
+          },
+          {
+            "locator": "detail",
+            "name": "Tooth / cutting bit",
+            "explanation": "Cutting tool that contacts the material being removed."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-cutting-chamber",
+      "file": "../../caterpillar/assets/figures/cutting-chamber.png",
+      "title": "Four wear components around the cutting chamber",
+      "alt": "Four wear components around the cutting chamber. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "credit": "Caterpillar. (2026). Cold Planer Parts Reference Guide (QEXQ3131-01 (05/2026), source PDF p. 18). Faithful crop; original labels retained. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "source_link": "../../caterpillar/parts-atlas.html#cutting-chamber",
+      "sha256": "4bf13585b06b997ab0222569da13b97906c529b5a7edb05f907088aaf248f495",
+      "provenance": {
+        "id": "cutting-chamber",
+        "document": "CAT-08",
+        "source_page": 18,
+        "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+        "title": "Four wear components around the cutting chamber",
+        "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+        "file": "assets/figures/cutting-chamber.png",
+        "crop_points": [
+          24.48,
+          55.440000000000005,
+          593.64,
+          467.28
+        ],
+        "image_pixels": [
+          1581,
+          1144
+        ],
+        "sha256": "4bf13585b06b997ab0222569da13b97906c529b5a7edb05f907088aaf248f495",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Anti-slab wear skis",
+            "explanation": "Wear surfaces associated with the anti-slab arrangement."
+          },
+          {
+            "locator": "2",
+            "name": "Moldboard cutting edges",
+            "explanation": "Wear edges at the rear of the cutting chamber."
+          },
+          {
+            "locator": "3",
+            "name": "Sidegate wear skis",
+            "explanation": "Wear surfaces at the chamber sides."
+          },
+          {
+            "locator": "4",
+            "name": "Inboard grade control wear ski",
+            "explanation": "Wear ski used with the inboard grade-control arrangement."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-rotor-drive",
+      "file": "../../caterpillar/assets/figures/rotor-drive.png",
+      "title": "Rotor drive components",
+      "alt": "Rotor drive components. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "credit": "Caterpillar. (2026). Cold Planer Parts Reference Guide (QEXQ3131-01 (05/2026), source PDF p. 22). Faithful crop; original labels retained. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "source_link": "../../caterpillar/parts-atlas.html#rotor-drive",
+      "sha256": "5d9c84bba0c0ba1f4894d17e0b3b8cc5c5f18ba2477a17532298bc747d893947",
+      "provenance": {
+        "id": "rotor-drive",
+        "document": "CAT-08",
+        "source_page": 22,
+        "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+        "title": "Rotor drive components",
+        "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+        "file": "assets/figures/rotor-drive.png",
+        "crop_points": [
+          24.48,
+          63.36,
+          593.64,
+          467.28
+        ],
+        "image_pixels": [
+          1581,
+          1122
+        ],
+        "sha256": "5d9c84bba0c0ba1f4894d17e0b3b8cc5c5f18ba2477a17532298bc747d893947",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Rotor drive belt",
+            "explanation": "Transfers drive through the rotor-drive arrangement."
+          },
+          {
+            "locator": "2",
+            "name": "Tensioner idler",
+            "explanation": "Idler on the belt tensioner arm."
+          },
+          {
+            "locator": "3",
+            "name": "Sheave",
+            "explanation": "Grooved wheel that interfaces with the rotor drive belt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-milling-conveyor",
+      "file": "../../caterpillar/assets/figures/milling-conveyor.png",
+      "title": "Every numbered component in this conveyor diagram",
+      "alt": "Every numbered component in this conveyor diagram. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "credit": "Caterpillar. (2026). Cold Planer Parts Reference Guide (QEXQ3131-01 (05/2026), source PDF p. 25). Faithful crop; original labels retained. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "source_link": "../../caterpillar/parts-atlas.html#milling-conveyor",
+      "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80",
+      "provenance": {
+        "id": "milling-conveyor",
+        "document": "CAT-08",
+        "source_page": 25,
+        "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+        "title": "Every numbered component in this conveyor diagram",
+        "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+        "file": "assets/figures/milling-conveyor.png",
+        "crop_points": [
+          24.48,
+          63.36,
+          593.64,
+          435.6
+        ],
+        "image_pixels": [
+          1581,
+          1034
+        ],
+        "sha256": "5821612b2f89064368deed97301c9b1ed8168afd53cb39d22f18a048c8109c80",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Guide rollers",
+            "explanation": "Guide the conveyor belt."
+          },
+          {
+            "locator": "2",
+            "name": "Trough rollers",
+            "explanation": "Support the belt in a trough shape."
+          },
+          {
+            "locator": "3",
+            "name": "Return idlers",
+            "explanation": "Support the returning portion of the belt."
+          },
+          {
+            "locator": "4",
+            "name": "Tail pulley",
+            "explanation": "Pulley at the tail end of the conveyor."
+          },
+          {
+            "locator": "5",
+            "name": "Tail pulley bearings",
+            "explanation": "Support the tail pulley on both sides."
+          },
+          {
+            "locator": "6",
+            "name": "Bunk rollers",
+            "explanation": "Support the belt in the material-loading area."
+          },
+          {
+            "locator": "7",
+            "name": "Head pulley",
+            "explanation": "Pulley associated with the conveyor drive end."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-milling-undercarriage",
+      "file": "../../caterpillar/assets/figures/milling-undercarriage.png",
+      "title": "Every numbered component in this track diagram",
+      "alt": "Every numbered component in this track diagram. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "credit": "Caterpillar. (2026). Cold Planer Parts Reference Guide (QEXQ3131-01 (05/2026), source PDF p. 32). Faithful crop; original labels retained. PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+      "source_link": "../../caterpillar/parts-atlas.html#milling-undercarriage",
+      "sha256": "e716b951031fca60e4ff8712e3853ab78340bd70bcbcbb2e8f632781d8c9d7ce",
+      "provenance": {
+        "id": "milling-undercarriage",
+        "document": "CAT-08",
+        "source_page": 32,
+        "source_sha256": "2119a096a2abffdc8280a2708d5adf0f854fc16374a3dc3cdbc9e7ffa5f15328",
+        "title": "Every numbered component in this track diagram",
+        "scope": "PM310, PM312, PM313, PM620, PM622, PM820, PM822 and PM825; individual parts/model tables apply.",
+        "file": "assets/figures/milling-undercarriage.png",
+        "crop_points": [
+          24.48,
+          63.36,
+          593.64,
+          435.6
+        ],
+        "image_pixels": [
+          1581,
+          1034
+        ],
+        "sha256": "e716b951031fca60e4ff8712e3853ab78340bd70bcbcbb2e8f632781d8c9d7ce",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "1",
+            "name": "Track pads",
+            "explanation": "Ground-contact pads on this undercarriage."
+          },
+          {
+            "locator": "2",
+            "name": "Sprockets",
+            "explanation": "Transfer driving loads into the tracks."
+          },
+          {
+            "locator": "3",
+            "name": "Rollers",
+            "explanation": "Support/guide the track arrangement."
+          },
+          {
+            "locator": "4",
+            "name": "Idlers",
+            "explanation": "Guide the track at the idler end."
+          },
+          {
+            "locator": "5",
+            "name": "Track shoes",
+            "explanation": "Interface with the track pads in this arrangement."
+          },
+          {
+            "locator": "6",
+            "name": "Track chain",
+            "explanation": "Linked track assembly that travels around the undercarriage."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-grader-articulation",
+      "file": "../../caterpillar/assets/figures/grader-articulation.png",
+      "title": "Motor grader: articulation pins and bearings",
+      "alt": "Motor grader: articulation pins and bearings. 12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+      "credit": "Caterpillar. (2023). K/K2 Series Motor Graders — Parts Reference Guide (None, source PDF p. 11). Faithful crop; original labels retained. 12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+      "source_link": "../../caterpillar/parts-atlas.html#grader-articulation",
+      "sha256": "45ea9b9594eb02d1ea37284c8fe390a712970a69d7e409fdb58e6158ff05073c",
+      "provenance": {
+        "id": "grader-articulation",
+        "document": "CAT-12",
+        "source_page": 11,
+        "source_sha256": "be36a70453787033321dfc6abe9253d136798f4939cbd476df3f9057f291924f",
+        "title": "Motor grader: articulation pins and bearings",
+        "scope": "12K, 120K, 120K2, 140K, 140K2 and 160K; model and serial-prefix table applies.",
+        "file": "assets/figures/grader-articulation.png",
+        "crop_points": [
+          0.0,
+          0.0,
+          1224.0,
+          792.0
+        ],
+        "image_pixels": [
+          3400,
+          2200
+        ],
+        "sha256": "45ea9b9594eb02d1ea37284c8fe390a712970a69d7e409fdb58e6158ff05073c",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": []
+      }
+    },
+    {
+      "id": "cat-loader-linkage",
+      "file": "../../caterpillar/assets/figures/loader-linkage.png",
+      "title": "Wheel loader: all 11 lettered pin locations",
+      "alt": "Wheel loader: all 11 lettered pin locations. 950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+      "credit": "Caterpillar. (2022). 950M/962M Medium Wheel Loader — Parts Reference Guide (None, source PDF p. 6). Faithful crop; original labels retained. 950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+      "source_link": "../../caterpillar/parts-atlas.html#loader-linkage",
+      "sha256": "4542cb63367368a6eca746eb1c993c5e807bc800f3124e911fa8443dfce7635d",
+      "provenance": {
+        "id": "loader-linkage",
+        "document": "CAT-17",
+        "source_page": 6,
+        "source_sha256": "375d219e3bd9f6a435fb7171f0750fe705d830690e9097483a588e65354249fa",
+        "title": "Wheel loader: all 11 lettered pin locations",
+        "scope": "950M/962M; cover lists EMB, KSA, FTR, NHL, J1S, XCJ, EJB, RKH, F2T, K88, J2S, JYD.",
+        "file": "assets/figures/loader-linkage.png",
+        "crop_points": [
+          0.0,
+          0.0,
+          893.52,
+          285.12
+        ],
+        "image_pixels": [
+          2482,
+          792
+        ],
+        "sha256": "4542cb63367368a6eca746eb1c993c5e807bc800f3124e911fa8443dfce7635d",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": [
+          {
+            "locator": "A",
+            "name": "Loader arm to front frame",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "B",
+            "name": "Loader arm to coupler/bucket",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "C",
+            "name": "Tilt link to coupler/bucket",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "D",
+            "name": "Tilt lever to tilt link",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "E",
+            "name": "Tilt cylinder to tilt lever",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "F",
+            "name": "Tilt lever pivot",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "G",
+            "name": "Tilt cylinder to front frame",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "K",
+            "name": "Lift cylinder to loader arm",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "Y",
+            "name": "Lift cylinder to front frame",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "S1",
+            "name": "Steering cylinder to rear frame",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          },
+          {
+            "locator": "S2",
+            "name": "Steering cylinder to front frame",
+            "explanation": "Pin joining the two named components; locate the matching letter on the diagram."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cat-excavator-linkage",
+      "file": "../../caterpillar/assets/figures/excavator-linkage.png",
+      "title": "Mini excavator: undercarriage parts and model table",
+      "alt": "Mini excavator: undercarriage parts and model table. Cat 300–310 family; exact model and serial-prefix tables apply.",
+      "credit": "Caterpillar. (2019). Mini Excavator — Parts Reference Guide (None, source PDF p. 5). Faithful crop; original labels retained. Cat 300–310 family; exact model and serial-prefix tables apply.",
+      "source_link": "../../caterpillar/parts-atlas.html#excavator-linkage",
+      "sha256": "b697a7928d3863cc18cc4fab913a90cb466bec951d627689cd63bfc2e3deb9a1",
+      "provenance": {
+        "id": "excavator-linkage",
+        "document": "CAT-18",
+        "source_page": 5,
+        "source_sha256": "512b9bcef8f6bde2cad303f14d8554273f993a2ad5aaf8b4554f27250b5e0a60",
+        "title": "Mini excavator: undercarriage parts and model table",
+        "scope": "Cat 300–310 family; exact model and serial-prefix tables apply.",
+        "file": "assets/figures/excavator-linkage.png",
+        "crop_points": [
+          0.0,
+          0.0,
+          1224.0,
+          792.0
+        ],
+        "image_pixels": [
+          3400,
+          2200
+        ],
+        "sha256": "b697a7928d3863cc18cc4fab913a90cb466bec951d627689cd63bfc2e3deb9a1",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": []
+      }
+    },
+    {
+      "id": "cat-backhoe-components",
+      "file": "../../caterpillar/assets/figures/backhoe-components.png",
+      "title": "Backhoe loader: glass, lighting, wear and engine parts",
+      "alt": "Backhoe loader: glass, lighting, wear and engine parts. F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+      "credit": "Caterpillar. (2015). F Series Backhoe Loader — Parts Reference Guide (None, source PDF p. 4). Faithful crop; original labels retained. F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+      "source_link": "../../caterpillar/parts-atlas.html#backhoe-components",
+      "sha256": "cf1401ea0dd4b0edc1b1db00bf9f562682a8d04b6484a9c2f53da9a6260f1053",
+      "provenance": {
+        "id": "backhoe-components",
+        "document": "CAT-13",
+        "source_page": 4,
+        "source_sha256": "fb4c8cef3904c329c94c09cc9d4a106193a03f529bbccb962523719e2c0a7b0d",
+        "title": "Backhoe loader: glass, lighting, wear and engine parts",
+        "scope": "F Series backhoe loaders; listed E/F ground-engaging-tool combinations and model tables control coverage.",
+        "file": "assets/figures/backhoe-components.png",
+        "crop_points": [
+          0.0,
+          0.0,
+          1224.0,
+          792.0
+        ],
+        "image_pixels": [
+          3400,
+          2200
+        ],
+        "sha256": "cf1401ea0dd4b0edc1b1db00bf9f562682a8d04b6484a9c2f53da9a6260f1053",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": []
+      }
+    },
+    {
+      "id": "cat-truck-body-liners",
+      "file": "../../caterpillar/assets/figures/truck-body-liners.png",
+      "title": "Articulated truck: dump-body liner locations",
+      "alt": "Articulated truck: dump-body liner locations. 725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+      "credit": "Caterpillar. (2022). Articulated Trucks — Parts Reference Guide (None, source PDF p. 9). Faithful crop; original labels retained. 725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+      "source_link": "../../caterpillar/parts-atlas.html#truck-body-liners",
+      "sha256": "6669f35e291aa8aa476b55d125ccffd7678ebe909f555266504a5f4166f254f7",
+      "provenance": {
+        "id": "truck-body-liners",
+        "document": "CAT-14",
+        "source_page": 9,
+        "source_sha256": "241069cf50037ea32142880ae14811bb36e736ce3c830434d3b29ff77a16d9e8",
+        "title": "Articulated truck: dump-body liner locations",
+        "scope": "725, 730, 730 EJ, 735, 740 GC, 740 EJ, 745; listed 3T/3F serial prefixes.",
+        "file": "assets/figures/truck-body-liners.png",
+        "crop_points": [
+          0.0,
+          0.0,
+          1224.0,
+          792.0
+        ],
+        "image_pixels": [
+          3400,
+          2200
+        ],
+        "sha256": "6669f35e291aa8aa476b55d125ccffd7678ebe909f555266504a5f4166f254f7",
+        "processing": "Faithful 200 dpi colour crop; original diagrams, callouts and labels retained. No labels invented or replaced. Complete source-page link accompanies the figure.",
+        "components": []
+      }
+    },
+    {
+      "id": "load-spread",
+      "file": "../../ms-4/concepts/assets/load-spread.svg",
+      "title": "Spread the load",
+      "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels. Source locations: [{\"figure\": \"1.5\", \"printed_page\": 13, \"pdf_page\": 47}]. Original contributors: No separate contributor listed for this figure.",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd",
+      "provenance": {
+        "id": "load-spread",
+        "file": "assets/load-spread.svg",
+        "title": "Spread the load",
+        "alt": "A wheel loads the pavement surface. The illustrated load spreads through the pavement structure to a wider region of prepared subgrade. Arrows show transfer, not measured pressure.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "1.5",
+            "printed_page": 13,
+            "pdf_page": 47
+          }
+        ],
+        "adaptation": "Simplified qualitative section; replaced pressure profile with a shaded load-transfer area and plain-language labels.",
+        "original_contributors": [],
+        "asset_sha256": "c4602ef00fb68b81693c4eb2d9511af3446109949d1cc0705e25a0dbce8fd1bd"
+      }
+    },
+    {
+      "id": "pavement-layers",
+      "file": "../../ms-4/concepts/assets/pavement-layers.svg",
+      "title": "Name the layers",
+      "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied. Source locations: [{\"figure\": \"1.6\", \"printed_page\": 14, \"pdf_page\": 48}]. Original contributors: No separate contributor listed for this figure.",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975",
+      "provenance": {
+        "id": "pavement-layers",
+        "file": "assets/pavement-layers.svg",
+        "title": "Name the layers",
+        "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "1.6",
+            "printed_page": 14,
+            "pdf_page": 48
+          }
+        ],
+        "adaptation": "Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied.",
+        "original_contributors": [],
+        "asset_sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+      }
+    },
+    {
+      "id": "plant-processes",
+      "file": "../../ms-4/concepts/assets/plant-processes.svg",
+      "title": "Batch or continuous?",
+      "alt": "The batch route shows cold-feed bins, drying and heating, screening and hot bins, weighing a batch, mixing with binder and storage. The continuous route shows proportioning, flow measurement, continuous drying and mixing with metered binder, and storage.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems. Source locations: [{\"figure\": \"7.2\", \"printed_page\": 310, \"pdf_page\": 344}, {\"figure\": \"7.4\", \"printed_page\": 312, \"pdf_page\": 346}, {\"section\": \"7.1.1–7.1.2\", \"printed_pages\": [309, 311, 312], \"pdf_pages\": [343, 345, 346]}]. Original contributors: Terex Roadbuilding; National Highway Institute (NHI)",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "bf27c203f47c84952ad939944aaa8ec802e9e44746e73b68e46263ac4e48427b",
+      "provenance": {
+        "id": "plant-processes",
+        "file": "assets/plant-processes.svg",
+        "title": "Batch or continuous?",
+        "alt": "The batch route shows cold-feed bins, drying and heating, screening and hot bins, weighing a batch, mixing with binder and storage. The continuous route shows proportioning, flow measurement, continuous drying and mixing with metered binder, and storage.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "7.2",
+            "printed_page": 310,
+            "pdf_page": 344
+          },
+          {
+            "figure": "7.4",
+            "printed_page": 312,
+            "pdf_page": 346
+          },
+          {
+            "section": "7.1.1–7.1.2",
+            "printed_pages": [
+              309,
+              311,
+              312
+            ],
+            "pdf_pages": [
+              343,
+              345,
+              346
+            ]
+          }
+        ],
+        "adaptation": "Converted equipment drawings into two simplified process lanes; omitted settings and detailed control systems.",
+        "original_contributors": [
+          {
+            "figure": "7.2",
+            "credit": "Terex Roadbuilding",
+            "credit_pdf_page": 803
+          },
+          {
+            "figure": "7.4",
+            "credit": "National Highway Institute (NHI)",
+            "credit_pdf_page": 803
+          }
+        ],
+        "asset_sha256": "bf27c203f47c84952ad939944aaa8ec802e9e44746e73b68e46263ac4e48427b"
+      }
+    },
+    {
+      "id": "paver-material-route",
+      "file": "../../ms-4/concepts/assets/paver-material-route.svg",
+      "title": "Follow the mixture through the paver",
+      "alt": "Mixture enters the hopper, travels rearward on slat conveyors, is distributed laterally by augers and passes beneath the screed to form the mat. The diagram names functions without prescribing controls or settings.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Replaced the perspective equipment schematic with a labelled functional material route. Not drawn to scale or tied to an actual model. Source locations: [{\"figure\": \"8.11\", \"printed_page\": 377, \"pdf_page\": 411}, {\"section\": \"8.4.1, component descriptions\", \"printed_page\": 378, \"pdf_page\": 412}]. Original contributors: Volvo Construction Equipment",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "2f26badc7b05d903f856451ad80f54751118f0672e611dbe657c94e96372e278",
+      "provenance": {
+        "id": "paver-material-route",
+        "file": "assets/paver-material-route.svg",
+        "title": "Follow the mixture through the paver",
+        "alt": "Mixture enters the hopper, travels rearward on slat conveyors, is distributed laterally by augers and passes beneath the screed to form the mat. The diagram names functions without prescribing controls or settings.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "8.11",
+            "printed_page": 377,
+            "pdf_page": 411
+          },
+          {
+            "section": "8.4.1, component descriptions",
+            "printed_page": 378,
+            "pdf_page": 412
+          }
+        ],
+        "adaptation": "Replaced the perspective equipment schematic with a labelled functional material route. Not drawn to scale or tied to an actual model.",
+        "original_contributors": [
+          {
+            "figure": "8.11",
+            "credit": "Volvo Construction Equipment",
+            "credit_pdf_page": 804
+          }
+        ],
+        "asset_sha256": "2f26badc7b05d903f856451ad80f54751118f0672e611dbe657c94e96372e278"
+      }
+    },
+    {
+      "id": "screed-factors",
+      "file": "../../ms-4/concepts/assets/screed-factors.svg",
+      "title": "A free-floating screed responds to a system",
+      "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings. Source locations: [{\"figure\": \"8.16\", \"printed_page\": 383, \"pdf_page\": 417}, {\"section\": \"8.4.3, five factors\", \"printed_page\": 384, \"pdf_page\": 418}]. Original contributors: Volvo Construction Equipment",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57",
+      "provenance": {
+        "id": "screed-factors",
+        "file": "assets/screed-factors.svg",
+        "title": "A free-floating screed responds to a system",
+        "alt": "A simplified free-floating screed with five named factors: angle of attack, head of material, forward motion or paving speed, screed weight, and HMA stability influenced by temperature and gradation. No control setting or adjustment is specified.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "8.16",
+            "printed_page": 383,
+            "pdf_page": 417
+          },
+          {
+            "section": "8.4.3, five factors",
+            "printed_page": 384,
+            "pdf_page": 418
+          }
+        ],
+        "adaptation": "Mirrored and simplified the schematic; grouped the five factors in numbered callouts; omitted adjustment procedures and numeric settings.",
+        "original_contributors": [
+          {
+            "figure": "8.16",
+            "credit": "Volvo Construction Equipment",
+            "credit_pdf_page": 804
+          }
+        ],
+        "asset_sha256": "5bd14d56a94f425b106064e8b46811974a06b3503d4db7b5051da2d807b69e57"
+      }
+    },
+    {
+      "id": "pass-and-coverage",
+      "file": "../../ms-4/concepts/assets/pass-and-coverage.svg",
+      "title": "A pass is not a coverage",
+      "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed. Source locations: [{\"figure\": \"9.1\", \"printed_page\": 416, \"pdf_page\": 450}]. Original contributors: No separate contributor listed for this figure.",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9",
+      "provenance": {
+        "id": "pass-and-coverage",
+        "file": "assets/pass-and-coverage.svg",
+        "title": "A pass is not a coverage",
+        "alt": "A pass counts a roller crossing over one point. Coverage concerns the full mat width. A point may receive two passes while the full width has received only one complete coverage. Three coloured bands are conceptual, not an operating pattern.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "9.1",
+            "printed_page": 416,
+            "pdf_page": 450
+          }
+        ],
+        "adaptation": "Replaced the original five-pass pattern with separate point and full-width concepts, plus a new record-reading example. No operating pattern is prescribed.",
+        "original_contributors": [],
+        "asset_sha256": "f2f8ece2dd8ed3bce6a8f36059dbc30cda9577f2f43d531bc7deebed61deb0f9"
+      }
+    },
+    {
+      "id": "road-layers",
+      "file": "../../ms-4/concepts/assets/pavement-layers.svg",
+      "title": "Name the layers",
+      "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4). Original instructional adaptation by ACCESS IS4S (2026). Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied. Source locations: [{\"figure\": \"1.6\", \"printed_page\": 14, \"pdf_page\": 48}]. Original contributors: No separate contributor listed for this figure.",
+      "source_link": "../../ms-4/concepts/index.html",
+      "sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975",
+      "provenance": {
+        "id": "pavement-layers",
+        "file": "assets/pavement-layers.svg",
+        "title": "Name the layers",
+        "alt": "Four labelled layers: asphalt surface, granular base, optional subbase where specified, and prepared subgrade. The first three are above the prepared ground. This is one example, not every road structure.",
+        "source": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4).",
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "references": [
+          {
+            "figure": "1.6",
+            "printed_page": 14,
+            "pdf_page": 48
+          }
+        ],
+        "adaptation": "Selected the unbound-base example, separated its layers and added functional descriptions. Other structures and design dimensions are not implied.",
+        "original_contributors": [],
+        "asset_sha256": "36002dcee240464f53a219ecaa89fdacfefd0e1800a4ab5c91cfd9d2b2ea1975"
+      }
+    },
+    {
+      "id": "rakes-and-handwork",
+      "file": "../../readiness/assets/rakes-and-handwork.png",
+      "title": "Rakes And Handwork",
+      "alt": "Original manufacturer illustrations with labels retained; inspect the full-size figure.",
+      "credit": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 156). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf Faithful source crop.",
+      "source_link": "../../readiness/index.html",
+      "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b",
+      "provenance": {
+        "file": "assets/rakes-and-handwork.png",
+        "source_id": "seymour-tool-catalogue-2026",
+        "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+        "source_pdf_page": 156,
+        "clip_pdf_points": [
+          0.0,
+          0.0,
+          612.0,
+          530.64
+        ],
+        "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+        "sha256": "1077ddfbf0967ac8abe829aeec8fdaecfc7d5c0f49164a46ef03f110a2bb4e9b",
+        "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 156). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+      }
+    },
+    {
+      "id": "tampers",
+      "file": "../../readiness/assets/tampers.png",
+      "title": "Tampers",
+      "alt": "Original manufacturer illustrations with labels retained; inspect the full-size figure.",
+      "credit": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 91). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf Faithful source crop.",
+      "source_link": "../../readiness/index.html",
+      "sha256": "479da928991acd9c7f205f20cf6ec51e989dd25ef556947e02eda1f310c34ea6",
+      "provenance": {
+        "file": "assets/tampers.png",
+        "source_id": "seymour-tool-catalogue-2026",
+        "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+        "source_pdf_page": 91,
+        "clip_pdf_points": [
+          0.0,
+          0.0,
+          612.0,
+          451.43999999999994
+        ],
+        "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+        "sha256": "479da928991acd9c7f205f20cf6ec51e989dd25ef556947e02eda1f310c34ea6",
+        "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 91). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+      }
+    },
+    {
+      "id": "wheelbarrows",
+      "file": "../../readiness/assets/wheelbarrows.png",
+      "title": "Wheelbarrows",
+      "alt": "Original manufacturer illustrations with labels retained; inspect the full-size figure.",
+      "credit": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 94). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf Faithful source crop.",
+      "source_link": "../../readiness/index.html",
+      "sha256": "fed329dd1e9bf9eee04404f7992ec6de5a42e1ace7a52f2e72c5e494e1dc7ad7",
+      "provenance": {
+        "file": "assets/wheelbarrows.png",
+        "source_id": "seymour-tool-catalogue-2026",
+        "source_sha256": "22b3f072bc9dd3cc732fabeaef58ef5e9eb2924821719b0617e637178c30d37a",
+        "source_pdf_page": 94,
+        "clip_pdf_points": [
+          0.0,
+          0.0,
+          612.0,
+          570.24
+        ],
+        "processing": "PDF page rendered at 150 dpi; stated crop only, no labels removed from the selected illustrations or redrawn.",
+        "sha256": "fed329dd1e9bf9eee04404f7992ec6de5a42e1ace7a52f2e72c5e494e1dc7ad7",
+        "citation": "Seymour Midwest. (2026 publisher download). Partner Resource Guide (source PDF p. 94). https://seymourmidwest.com/uploads/SMW2026_PRGweb.pdf"
+      }
+    },
+    {
+      "id": "handwork-tools",
+      "file": "../../readiness/assets/handwork-anatomy.svg",
+      "title": "Name the parts of a handwork tool",
+      "alt": "Lute and handwork tool anatomy with head, working edge, handle and connection points.",
+      "credit": "ACCESS IS4S. (2026). Handwork tool anatomy [Original instructional SVG]. Based on the Seymour Midwest tool information retained in the tool library.",
+      "source_link": "../../readiness/tools.html",
+      "sha256": "f88e2ac798c0242ca1f6f3f6f037a92b59fb3c6a609299554205dee9e00b1a4d",
+      "provenance": {}
+    },
+    {
+      "id": "leeboy-starter-blocks",
+      "file": "assets/crops/leeboy-starter-blocks.png",
+      "title": "LeeBoy 8680 starter blocks and screed locks",
+      "alt": "LeeBoy 8680 starter blocks and screed locks",
+      "credit": "LeeBoy. (2026). 8680 Commercial Paver: Safety and operations manual (1033428-SOP, p. 4-57; PDF p. 125). Serial 365152 and above. Faithful crop; use the complete matching procedure.",
+      "source_link": "../../manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=125",
+      "sha256": "566048a70a48a6a4c69f3f6eeeb5759bc2c6a4ca6ce619130f11d559f24cc875",
+      "provenance": {
+        "source_sha256": "25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96",
+        "pdf_page": 125,
+        "crop_pdf_points": [
+          59.0,
+          499.0,
+          307.0,
+          741.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "leeboy-screed-lock",
+      "file": "assets/crops/leeboy-screed-lock.png",
+      "title": "LeeBoy 8680 screed locks and hopper lock valves",
+      "alt": "LeeBoy 8680 screed locks and hopper lock valves",
+      "credit": "LeeBoy. (2026). 8680 Commercial Paver: Safety and operations manual (1033428-SOP, p. 4-4; PDF p. 72). Serial 365152 and above. Faithful crop; use the complete matching procedure.",
+      "source_link": "../../manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=72",
+      "sha256": "24151b2f2a56b9c28b06c1440657f7907ec241f091d9fe10f0cf8c5b8c865de7",
+      "provenance": {
+        "source_sha256": "25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96",
+        "pdf_page": 72,
+        "crop_pdf_points": [
+          0.0,
+          0.0,
+          612.0,
+          792.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "leeboy-loading",
+      "file": "assets/crops/leeboy-loading.png",
+      "title": "LeeBoy 8680 loading arrangement",
+      "alt": "LeeBoy 8680 loading arrangement",
+      "credit": "LeeBoy. (2026). 8680 Commercial Paver: Safety and operations manual (1033428-SOP, p. 4-64; PDF p. 132). Serial 365152 and above. Faithful crop; use the complete matching procedure.",
+      "source_link": "../../manuals/pdfs/leeboy-8680-safety-operations-1033428-sop.pdf#page=132",
+      "sha256": "ab1fbb743ac9c52779488f2a15f31689282e337349646417e40cc0bea1140748",
+      "provenance": {
+        "source_sha256": "25428ad04bc1971a16fc43e60b737cc4158d82af0afcb84fca2d33353dc00f96",
+        "pdf_page": 132,
+        "crop_pdf_points": [
+          299.0,
+          550.0,
+          553.0,
+          709.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "rb50-components",
+      "file": "assets/crops/rb50-components.png",
+      "title": "Rosco RB50 machine overview and component key",
+      "alt": "Rosco RB50 machine overview and component key",
+      "credit": "Rosco / LeeBoy. (n.d.). RB50 Broom: Operations, service and parts manual (1017258-03, Rev. B, Fig. 3-1, p. 3-5; PDF p. 43). Serial 255027 and above.",
+      "source_link": "sources/rosco-rb50-manual.pdf#page=43",
+      "sha256": "1b70a54c223f9c8bc9b3dc1a7b6d8a821d27f0bdaa52cb5a7815ca8bb3921817",
+      "provenance": {
+        "source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80",
+        "pdf_page": 43,
+        "crop_pdf_points": [
+          55.0,
+          83.0,
+          575.0,
+          737.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "cp-breaker",
+      "file": "assets/crops/cp-breaker.png",
+      "title": "CP breaker main parts and letter key",
+      "alt": "CP breaker main parts and letter key",
+      "credit": "Atlas Copco Construction Tools / Chicago Pneumatic. (2010). CP 1210, CP 1230, CP 1240: Safety and operating instructions (9800 0608 90d, p. 12).",
+      "source_link": "../../readiness/index.html",
+      "sha256": "9c78df9291e0184de114c942f59e83335378b33573f2704aa5c2620ebf62b6fc",
+      "provenance": {
+        "source_sha256": "7bd05bc0685ebaf25c58b69e1505f28a8cd04ec7248b1488b5e9d01beae240be",
+        "pdf_page": 12,
+        "crop_pdf_points": [
+          303.0,
+          55.0,
+          545.0,
+          697.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "torch-instructions",
+      "file": "assets/crops/torch-instructions.png",
+      "title": "Tiger Torch 95-B and 445 instruction sheet",
+      "alt": "Tiger Torch 95-B and 445 instruction sheet",
+      "credit": "Tiger Torch Ltd. (n.d.). Operating instruction and safety procedures: Models 95-B and 445 [Bilingual instruction sheet, Fairview-hosted].",
+      "source_link": "../../readiness/index.html",
+      "sha256": "4b12717feb4beea2d9ee574dc54d4ba855a890a28ad903c5f8ce567d1056682a",
+      "provenance": {
+        "source_sha256": "76a7c2356f3b80dc3c162868849638e3cdbde655ed8f4a1c8c06c45b4abf93c7",
+        "pdf_page": 1,
+        "crop_pdf_points": [
+          0.0,
+          0.0,
+          682.5599975585938,
+          536.1599731445312
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "troxler-gauge",
+      "file": "assets/crops/troxler-gauge.png",
+      "title": "Troxler 3430 gauge and accessories",
+      "alt": "Troxler 3430 gauge and accessories",
+      "credit": "Troxler Electronic Laboratories. (2021). RoadReader Model 3430: Manual of operation and instruction (Ed. 1.3, Fig. 1, p. 1-5; PDF p. 19). Identification only; Canadian use requires applicable CNSC authorization.",
+      "source_link": "../../readiness/index.html",
+      "sha256": "f9c441a6d22ba935961996b6013bc4881f34edda66082e1376f0a5839b523eca",
+      "provenance": {
+        "source_sha256": "609e19d6cc9dac73b530bee0cda17a2416b39f82a05441e1d4d996c757804595",
+        "pdf_page": 19,
+        "crop_pdf_points": [
+          20.0,
+          48.0,
+          380.0,
+          530.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "ms4-gradation",
+      "file": "assets/crops/ms4-gradation.png",
+      "title": "Gradation types",
+      "alt": "Gradation types; original labels and caption retained in the source crop.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 3.9, p. 134; PDF p. 168). Faithful scan crop; original figure caption retained.",
+      "source_link": "../../ms-4/assets/pages/p0168.webp",
+      "sha256": "16314d417d4be8c438ac55dc5611f3f197e610f46b151e20edbf44b8e3f9856a",
+      "provenance": {
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "source_page_image_sha256": "9ea727ee04b101c99d0d1f9fc731de6213dd2bd3ce54753d8cd3fbba8b47445d",
+        "pdf_page": 168,
+        "printed_page": 134,
+        "figure": "3.9",
+        "crop_pixels": [
+          268,
+          974,
+          1033,
+          1419
+        ],
+        "source_image_pixels": [
+          1275,
+          1650
+        ],
+        "contributor": null
+      }
+    },
+    {
+      "id": "ms4-marshall",
+      "file": "assets/crops/ms4-marshall.png",
+      "title": "Marshall compaction hammer",
+      "alt": "Marshall compaction hammer; original labels and caption retained in the source crop.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 4.18, p. 199; PDF p. 233). Faithful scan crop; original figure caption retained.",
+      "source_link": "../../ms-4/assets/pages/p0233.webp",
+      "sha256": "ee4bb2a7ced85fa430a873a8ac4ee32eb409a7e34df09319d93c464c3e6e583e",
+      "provenance": {
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "source_page_image_sha256": "a9051e6204201cf80b4014d8a9103c7ba7b7b785d71c48522b050820f213e1d5",
+        "pdf_page": 233,
+        "printed_page": 199,
+        "figure": "4.18",
+        "crop_pixels": [
+          230,
+          132,
+          1033,
+          1254
+        ],
+        "source_image_pixels": [
+          1275,
+          1650
+        ],
+        "contributor": null
+      }
+    },
+    {
+      "id": "ms4-baghouse",
+      "file": "assets/crops/ms4-baghouse.png",
+      "title": "Internal components of a baghouse",
+      "alt": "Internal components of a baghouse; original labels and caption retained in the source crop.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 7.13, p. 324; PDF p. 358). Faithful scan crop; original figure caption retained. Original image contributor: Terex Roadbuilding; credit register, PDF pp. 803–805.",
+      "source_link": "../../ms-4/assets/pages/p0358.webp",
+      "sha256": "e3a05eee620e50da5d65d697714bfd4b515649ab16c96ad3481c59abb09352ea",
+      "provenance": {
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "source_page_image_sha256": "09fc645559da34fbc2b9b85cd3f4672486bb5dc16bb12ba99a3c6848385f7ce3",
+        "pdf_page": 358,
+        "printed_page": 324,
+        "figure": "7.13",
+        "crop_pixels": [
+          242,
+          776,
+          1046,
+          1386
+        ],
+        "source_image_pixels": [
+          1275,
+          1650
+        ],
+        "contributor": "Terex Roadbuilding"
+      }
+    },
+    {
+      "id": "ms4-segregation",
+      "file": "assets/crops/ms4-segregation.png",
+      "title": "Segregation along the outside edge of a mat",
+      "alt": "Segregation along the outside edge of a mat; original labels and caption retained in the source crop.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 8.26, p. 402; PDF p. 436). Faithful scan crop; original figure caption retained. Original image contributor: James A. Scherocman, P.E., Consulting Engineer; credit register, PDF pp. 803–805.",
+      "source_link": "../../ms-4/assets/pages/p0436.webp",
+      "sha256": "33f2525906f967a694f17f46471cb5e2e8ebc5bd7e636154bd614bb38a44f1fd",
+      "provenance": {
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "source_page_image_sha256": "2f009034855a5bea93bd20f040b6265c920f121d0bfc9c60f2d7ce70f92ccf78",
+        "pdf_page": 436,
+        "printed_page": 402,
+        "figure": "8.26",
+        "crop_pixels": [
+          255,
+          710,
+          1046,
+          1452
+        ],
+        "source_image_pixels": [
+          1275,
+          1650
+        ],
+        "contributor": "James A. Scherocman, P.E., Consulting Engineer"
+      }
+    },
+    {
+      "id": "ms4-vibratory-roller",
+      "file": "assets/crops/ms4-vibratory-roller.png",
+      "title": "Vibratory roller",
+      "alt": "Vibratory roller; original labels and caption retained in the source crop.",
+      "credit": "Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 9.7, p. 430; PDF p. 464). Faithful scan crop; original figure caption retained.",
+      "source_link": "../../ms-4/assets/pages/p0464.webp",
+      "sha256": "9faffb2fd45df9a838fdc7d7fa064014e40ff95efdb1657913dda27ff9abf0dd",
+      "provenance": {
+        "source_sha256": "cb4708d2854d06d492af6dfdf0d39600af0ec45feef4c179c48fcff107da046b",
+        "source_page_image_sha256": "749bf42905355a64d5b10df1472ad7c7006178c8ab2fcbdd0caca5fc8ac82667",
+        "pdf_page": 464,
+        "printed_page": 430,
+        "figure": "9.7",
+        "crop_pixels": [
+          230,
+          132,
+          1058,
+          726
+        ],
+        "source_image_pixels": [
+          1275,
+          1650
+        ],
+        "contributor": null
+      }
+    },
+    {
+      "id": "spec-binder",
+      "file": "assets/crops/spec-binder.png",
+      "title": "2006 Table 502-F: binder-content adjustment",
+      "alt": "2006 Table 502-F: binder-content adjustment",
+      "credit": "British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 12; PDF p. 308). Historical contract-reading example; complete clauses and actual project adoption govern.",
+      "source_link": "../../sources/design_build_standard_specs_2006.pdf#page=308",
+      "sha256": "8dda3b2130584a82d7cae704ce9aa03f72c56c7b15d29616d96197191e6f538f",
+      "provenance": {
+        "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+        "pdf_page": 308,
+        "crop_pdf_points": [
+          34.0,
+          462.0,
+          487.0,
+          724.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "spec-application",
+      "file": "assets/crops/spec-application.png",
+      "title": "2006 Table 502-H: application-rate adjustment",
+      "alt": "2006 Table 502-H: application-rate adjustment",
+      "credit": "British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 14; PDF p. 310). Historical contract-reading example; complete clauses and actual project adoption govern.",
+      "source_link": "../../sources/design_build_standard_specs_2006.pdf#page=310",
+      "sha256": "3a249df15e5cecfa9172a99f6735123c55779e4757dc6f5b8bc951476c7b47f6",
+      "provenance": {
+        "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+        "pdf_page": 310,
+        "crop_pdf_points": [
+          34.0,
+          70.0,
+          535.0,
+          405.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "spec-density",
+      "file": "assets/crops/spec-density.png",
+      "title": "2006 Tables 502-E-1 and E-2: different density bases",
+      "alt": "2006 Tables 502-E-1 and E-2: different density bases",
+      "credit": "British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 11; PDF p. 307). Historical contract-reading example; complete clauses and actual project adoption govern.",
+      "source_link": "../../sources/design_build_standard_specs_2006.pdf#page=307",
+      "sha256": "4ec83b6c38dd2b7223cb9a71df5dd7e8b889cf9734d2e81e1c1f52c362cc1970",
+      "provenance": {
+        "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+        "pdf_page": 307,
+        "crop_pdf_points": [
+          62.0,
+          75.0,
+          540.0,
+          510.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    },
+    {
+      "id": "spec-smoothness",
+      "file": "assets/crops/spec-smoothness.png",
+      "title": "2006 Tables 502-J and J-2: smoothness",
+      "alt": "2006 Tables 502-J and J-2: smoothness",
+      "credit": "British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 16; PDF p. 312). Historical contract-reading example; complete clauses and actual project adoption govern.",
+      "source_link": "../../sources/design_build_standard_specs_2006.pdf#page=312",
+      "sha256": "2fe072b34a3de67eeb6ff38889f19ca8af3adcabd2022e99aa4f74de94aca0ef",
+      "provenance": {
+        "source_sha256": "0e57525e900390dc04451855039de6daa2b39bae79329d2878800228e69d1c13",
+        "pdf_page": 312,
+        "crop_pdf_points": [
+          10.0,
+          70.0,
+          292.0,
+          735.0
+        ],
+        "processing": "Faithful 144 dpi crop; source labels retained."
+      }
+    }
+  ]
+}

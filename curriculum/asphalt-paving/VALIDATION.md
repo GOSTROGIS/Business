@@ -2,16 +2,16 @@
 
 ## Study textbook Volume 1 · 30 October 2026
 
-The [new standalone study volume](textbook/README.md) contains a 77-page textbook, a 20-page worked-answer guide, 60 activities, 44 image placements and 13 original SVGs. It develops A1–A6 and all seven B1 safety-orientation tasks. [Book verification](textbook/VALIDATION.md) records 533 local-target checks, 47 fragment checks, 17 browser/interaction checks, image and pinned-source identity checks, PDF inspection and complete answer coverage. Technical approval and classroom pilot are pending. The updated competency register leaves 61 complete technical units, B2–L6, for subsequent authoring.
+The [new standalone study volume](textbook/README.md) contains a 78-page textbook, a 24-page worked-answer guide, 60 activities, 44 image placements and 13 original SVGs. It develops A1–A6 and all seven B1 safety-orientation tasks. [Book verification](textbook/VALIDATION.md) records 559 local-target checks, 47 fragment checks, 17 browser/interaction checks, image and pinned-source identity checks, PDF inspection and complete answer coverage. Technical approval and classroom pilot are pending. All 61 B2–L6 classroom chapters are now authored; see the complete-series record below.
 
-Existing material and Line A checks pass (827 and 351). The context index now contains 322 unique PDFs / 7,856 pages / 382 chunks, with 114 representative page-render comparisons and 2,379 retained URI links verified. Historical validation snapshots below describe their original editions.
+Existing material and Line A checks pass (989 and 350). The context index now contains 350 unique PDFs / 9,058 pages / 440 chunks, with 159 representative page-render comparisons and 2,928 retained URI links verified. Historical validation snapshots below describe their original editions.
 
 
 **ACCESS IS4S classroom edition · updated 29 October 2026**
 
 ## Roadbuilding foundations · 29 October 2026
 
-The [Line A learner book](line-a/roadbuilding-foundations.pdf) and [teaching and answer guide](line-a/teaching-guide.pdf) deliver six authored classroom units with **37 unique activities**. Separate answer guides map **33 learning-task criteria**: A1.6, A1.8 and A1.9, plus all 30 tasks across A2–A6. The original 18-activity opening case introduces the broader A1 context. The [whole-program status register](line-a/competency-status.md) accounts for **68 competencies**, separating the six authored Line A classroom units from 62 later competencies without complete technical units. F2/F3 receive a foundation bridge only.
+The [Line A learner book](line-a/roadbuilding-foundations.pdf) and [teaching and answer guide](line-a/teaching-guide.pdf) deliver six authored classroom units with **37 unique activities**. Separate answer guides map **33 learning-task criteria**: A1.6, A1.8 and A1.9, plus all 30 tasks across A2–A6. The original 18-activity opening case introduces the broader A1 context. The [whole-program status register](line-a/competency-status.md) accounts for **68 competencies**, recording authored classroom chapters for all 68 competencies while preserving pending technical and practical approvals.
 
 **Recorded Line A check run: 299 checks, zero errors.** The learner PDF has **34 pages** and the teaching PDF **17 pages** in this validated build. Checks cover unique activity IDs and keyed answers; the 33 learning-task mappings; all 68 competency codes and unfilled technical/practical approvals; 20 curated public evidence records; Statistics Canada source scope and category totals; 23 arithmetic comparisons; local generated links; readable PDFs containing every activity; and the absence of machine-local PDF links.
 
@@ -105,3 +105,10 @@ The [new collection validation](readiness/VALIDATION.md) covers 41 complete PDF 
 The collection includes a complete 68-competency source map, 32 tool/equipment groups, three original SVGs, four credited source-page images, an 11-page visual guide and eight ZIPs below 40 MiB. Checks passed for 1,218 local HTML targets, 957 offline ZIP HTML targets, all archive CRCs and source-part hashes, and 12 browser page/viewport cases. The existing material verifier passed 827 checks.
 
 The current context snapshot contains **321 PDF paths, 320 unique PDFs, 7,759 pages and 377 chunks/text extracts**. It directly reuses all 161 readiness, 88 CAT and 34 MS-4 source parts. Inventory, hashes, page maps, sizes, destinations, 108 representative render comparisons and 2,256 retained URI links passed. Exact course manuals, fleet/instrument applicability and site/qualified-review requirements remain recorded in the delivery gap register.
+
+
+## Complete study series and intuitive task names
+
+All B2–L6 classroom authoring is complete in [seven study/answer pairs](textbook/series/index.html): 61 chapters, 218 learning tasks, 183 chapter activities and seven integrated nine-skill cases. The study books total 383 pages; answer books total 184. They include 42 new SVGs and 84 unique teaching figures across 131 chapter placements. [Series validation](textbook/series/VALIDATION.md) records coverage, numerical, source, figure, browser, PDF and package checks.
+
+Activity identifiers now remain in authoring records and metadata; Volume 1 and the earlier Line A reading editions display descriptive names. Cramped answer-code tables became full-width named answer sections. Digital technology practice now covers AI-directed document creation, source audits, useful extensions and accessible study audio/video. The refreshed Volume 1 PDFs have 78 and 24 pages; the earlier Line A PDFs have 39 and 18 pages. Technical approval, actual fleet/site matching, pilot and observed qualification remain pending.

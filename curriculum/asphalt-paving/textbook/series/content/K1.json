@@ -1,0 +1,60 @@
+{
+  "code": "K1",
+  "title": "Describe raker roles and responsibilities",
+  "intro": "The handwork crew shapes and finishes areas the paver cannot complete on its own. A raker needs judgement about material, grade, joints and timing, as well as awareness of every machine moving nearby.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe typical raker duties",
+      "text": "Typical duties include preparing small areas, distributing mix around structures, finishing edges, correcting authorized local irregularities and preparing longitudinal or transverse joints. A lute commonly has a long handle and a broad head with straight and toothed edges; a rake, shovel, tamper and wheelbarrow serve different purposes. Inspect handle attachment, head/brace condition and working edges before use.\n\nWork around manholes and other appurtenances to the approved elevation and drainage detail. Remove excess and square the end of a run through the planned method. Avoid scattering coarse material over a finished mat or repeatedly disturbing a surface until the mixture cools. A paver or screed problem that repeats needs communication and correction at its cause, not endless hand repair.\n\nAt joints, understand which face is prepared, which treatment is specified, what overlap/allowance is intended and how compaction will occur. Longitudinal joints run generally along the paving direction; transverse joints cross it. Their details and rolling sequence depend on the project and mixture. Do not infer a universal joint allowance from a sketch.\n\nCoordinate with the paver, screed and roller operators before entering an area. Keep tools and handles out of traffic and machine paths. Preserve accessible routes and protect nearby drains. Careful handwork serves the finished road and the people using it; communicate a concern early rather than hiding it under a cosmetic finish."
+    }
+  ],
+  "worked": {
+    "title": "The same hollow returns",
+    "case": "A small low area appears repeatedly behind the same screed location. The raker has filled it twice.",
+    "solution": "Report the repeated location and timing to the screed/quality lead. Complete only authorized hand correction while the underlying cause is investigated. Repeated filling without diagnosis can change texture and compaction and hide a continuing setup issue."
+  },
+  "activities": [
+    {
+      "id": "K1-01",
+      "prompt": "Choose a lute, shovel, tamper and wheelbarrow for four distinct purposes.",
+      "answer": "Lute distributes/finishes as appropriate; shovel transfers/places mix; tamper compacts suitable confined areas through the approved method; wheelbarrow moves manageable quantities on an approved route. Tool choice depends on the task and procedure.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Choose a lute, shovel, tamper and wheelbarrow for four distinct purposes."
+    },
+    {
+      "id": "K1-02",
+      "prompt": "A rectangular small area is 2.4 m × 1.5 m. Find area for the work plan.",
+      "answer": "3.6 m². Thickness and suitable density are still needed for volume/mass; do not order from area alone.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "A rectangular small area is 2.4 m × 1.5 m"
+    },
+    {
+      "id": "K1-03",
+      "prompt": "Prepare a photographed or SVG tool-identification card with AI assistance if available.",
+      "answer": "Show the actual tool, head/edge, handle and attachment/brace; explain its purpose and inspection points. Verify labels against the supplied manufacturer information and credit the image.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Creativity and innovation"
+      ],
+      "title": "Prepare a photographed or SVG tool-identification card with AI assistance if available."
+    }
+  ],
+  "practical": [
+    "Identify and inspect handwork tools.",
+    "Explain local finishing, structure and joint duties.",
+    "Report a repeated defect and coordinate safe access."
+  ],
+  "visuals": [
+    "handwork-tools",
+    "rakes-and-handwork"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

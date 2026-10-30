@@ -1,0 +1,76 @@
+{
+  "code": "I9",
+  "title": "Transport paver",
+  "intro": "Moving a paver between sites requires a verified transport configuration and a coordinated loading plan. The fitted screed and attachments can change width, mass and securement requirements.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe compliance with wide load regulations",
+      "text": "Measure actual transport dimensions and confirm the load, route and applicable BC commercial transport requirements. Signs, lighting, permits, pilot cars and travel restrictions depend on the actual movement; they are not triggered by a single classroom rule. Removing extensions may change width but requires the approved handling and securement method. The carrier confirms the current requirements before departure."
+    },
+    {
+      "number": 2,
+      "title": "Describe roles and responsibilities",
+      "text": "Assign a competent machine operator, carrier/driver and ground guide as required. The driver/carrier manages transport compliance and securement within their responsibility; the designated operator follows the machine loading procedure. Do not assume the paver operator is always included or excluded. Everyone must know the stop signal, communication method and final release responsibility."
+    },
+    {
+      "number": 3,
+      "title": "Describe how to prepare machine for transport",
+      "text": "Follow the OMM transport configuration for screed, extensions, augers, cut-offs, guards and loose equipment. Use approved lifting/rigging for removed components and designated tie-down points. The LeeBoy 8680 example gives specific preparation and loading instructions in printed pages 4-64–4-65; those instructions apply to the stated model/serial scope, not every paver. Read the complete procedure before a practical demonstration."
+    },
+    {
+      "number": 4,
+      "title": "Describe loading and unloading procedures",
+      "text": "Check carrier/ramp capacity, alignment, support, traction and the clear movement envelope. Use the specified loading direction and controlled speed, with a guide positioned safely. Stop if alignment or communication is lost. After loading, position/support the machine, apply required parking controls and secure using rated components and the applicable National Safety Code Standard 10/BC requirements. Control the machine before releasing restraints for unloading. A time target never justifies rushing a critical step."
+    }
+  ],
+  "worked": {
+    "title": "Width changes with configuration",
+    "case": "A fictional machine measures 2.50 m with transport equipment retracted and 3.10 m with a fitted extension assembly.",
+    "solution": "The actual configured width differs by 0.60 m. Verify the required transport configuration and current route/permit conditions with the carrier. The smaller dimension cannot be used on paperwork while the larger configuration remains fitted."
+  },
+  "activities": [
+    {
+      "id": "I9-01",
+      "prompt": "Name four checks before the machine touches the ramp.",
+      "answer": "Correct OMM/configuration and mass; carrier/ramp rating and support; alignment/traction/clear area; designated operator/guide with acknowledged signals. Include route/permit preparation within the transport plan.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Name four checks before the machine touches the ramp."
+    },
+    {
+      "id": "I9-02",
+      "prompt": "A base machine is 8,600 kg and fitted items add 740 kg. Find the load before separate cargo.",
+      "answer": "9,340 kg. Verify actual configuration and all carrier, axle, ramp and securement limits; this arithmetic is not a transport approval.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "A base machine is 8,600 kg and fitted items add 740 kg"
+    },
+    {
+      "id": "I9-03",
+      "prompt": "Write a handover when loading is delayed by an unidentified tie-down point.",
+      "answer": "Hold loading/securement as appropriate, identify the machine and disputed point, obtain the matching manufacturer information and carrier confirmation, then revise and brief the plan before continuing.",
+      "skills": [
+        "Writing",
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Write a handover when loading is delayed by an unidentified tie-down point."
+    }
+  ],
+  "practical": [
+    "Verify dimensions, transport rules and assigned roles.",
+    "Prepare screed/attachments to the actual OMM.",
+    "Demonstrate controlled loading preparation and rated securement checks."
+  ],
+  "visuals": [
+    "transport-plan",
+    "leeboy-loading"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

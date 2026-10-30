@@ -1,0 +1,72 @@
+{
+  "code": "B5",
+  "title": "Describe safety working around and operating propane tanks",
+  "intro": "Propane equipment is an assembly: cylinder, valve, connector, regulator where required, hose and appliance must be compatible. A familiar-looking fitting is not enough to establish compatibility. Identify each part and the pressure/function it serves before preparing the task. The acquired Fairview Tiger Torch instructions and the actual appliance markings are useful examples; they do not authorize mixing arbitrary components.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Identify potential fire hazards while working around propane tanks",
+      "text": "Propane is stored under pressure and can form a flammable mixture with air when released. Escaping liquid can cause cold injury; a leak can also create an oxygen-displacement concern in an unsuitable space. Ignition sources include flames, hot surfaces, sparks and some equipment operations. Adequate ventilation, separation and the correct assembly therefore belong in the task plan.\n\nA cylinder must be suitable, identified and within the applicable inspection/requalification requirements. Inspect its condition and the connected equipment through the prescribed pre-use checks. Odour may indicate a release, but smell is not a complete leak or concentration test. An unexpected leak, damaged connection or uncertain assembly is a reason to stop and use the emergency/isolation procedure, not to experiment with ignition."
+    },
+    {
+      "number": 2,
+      "title": "Demonstrate proper storage and handling",
+      "text": "Storage and transport are different contexts. Secure the cylinder against unintended movement in the required orientation, protect the valve and keep it in the permitted ventilated location away from prohibited heat/ignition exposures. Follow the supplier, workplace and transport requirements for the actual quantity and vehicle. The stowed torch and hose should be protected from damage; closing a valve alone does not make loose equipment adequately secured.\n\nIdentify whether the task involves use, temporary placement, storage or transport. Each can have different requirements. Keep the product SDS and relevant instruction accessible, and know the site’s spill/fire/emergency arrangements. Do not place a cylinder in a vehicle space merely because it fits there."
+    },
+    {
+      "number": 3,
+      "title": "Demonstrate proper connection procedures and check for leaks",
+      "text": "Connection is a supervised procedural skill. Confirm the cylinder/appliance identity and the specified connector type, inspect sealing surfaces and the complete hose/regulator assembly, and use the manufacturer’s connection method. Some fittings have different thread directions or sealing arrangements; an improvised adapter, force or an unspecified sealant can create a hazard. The actual instructions determine the connection and tightening method.\n\nUse the manufacturer-approved leak-test solution and test procedure; a flame is never a leak detector. Observe the specified connection locations and response to bubbles or another leak indication. If the assembly leaks, take it out of operation and follow the prescribed isolation/repair route. Rechecking after a repair is part of the applicable procedure. An instructor assesses the actual connection and leak check with approved equipment, not a learner’s confidence alone."
+    }
+  ],
+  "worked": {
+    "title": "The assembly register",
+    "case": "Fictional teaching sample: the cylinder and torch are identified, but the hose rating is unreadable and the regulator model cannot be matched to the appliance. A learner proposes connecting them because the threads fit.",
+    "solution": "The assembly has two unresolved compatibility/condition questions. Matching threads does not establish pressure suitability or the correct sealing design. Keep the assembly out of operation; obtain the appropriate component identification and manufacturer instructions, then have the supervised setup and leak test completed. Record the unknown components rather than replacing unknown values with guesses."
+  },
+  "activities": [
+    {
+      "id": "B5-01",
+      "prompt": "Trace the labelled propane assembly and state the function of each part. Identify which parts must be matched to the actual appliance.",
+      "answer": "Cylinder/valve store and control the supply; connector joins the approved assembly; regulator where required controls pressure; hose conveys fuel; appliance uses it. Ratings, connections and configurations require the actual instructions.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Trace the labelled propane assembly and state the function of each part"
+    },
+    {
+      "id": "B5-02",
+      "prompt": "Write a connection-and-leak-check preparation record for the worked case. State the rejection conditions and the records required before use.",
+      "answer": "Unreadable hose identification or unverified regulator compatibility prevents acceptance. Use manufacturer-approved testing, never flame; stop/isolate/report a leak under the procedure.",
+      "skills": [
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Write a connection-and-leak-check preparation record for the worked case"
+    },
+    {
+      "id": "B5-03",
+      "prompt": "Inspect the actual retained torch instructions on a device and save the publication/page identity. Explain to a partner how use, storage and transport questions differ; improve the record after their feedback.",
+      "answer": "The learner locates real instructions and keeps their model scope. A valid explanation distinguishes fuel-use setup from storage location and vehicle/securement requirements.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Inspect the actual retained torch instructions on a device and save the publication/page identity"
+    }
+  ],
+  "practical": [
+    "Instructor confirms compatible cylinder, appliance, connections, condition, location, fire controls and emergency arrangements.",
+    "Observe the approved connection, leak test, response to a simulated defect, isolation and secure stowing/transport preparation.",
+    "Record the actual equipment, procedure, support and outcome; no live leak is deliberately created."
+  ],
+  "visuals": [
+    "propane-assembly",
+    "torch-instructions"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

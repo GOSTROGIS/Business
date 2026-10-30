@@ -1,0 +1,91 @@
+{
+  "code": "I1",
+  "title": "Describe asphalt placement process",
+  "intro": "Asphalt placement links surface preparation, delivery, paver setup, screed control and rolling. A consistent process helps produce the intended thickness, bond and surface while keeping the whole crew informed.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe how to place prime and tack coats",
+      "text": "Prime and tack have different purposes. A prime treatment may prepare an approved absorbent granular surface; tack promotes bonding between specified pavement surfaces or lifts. Follow the actual product, surface preparation, application rate, curing/breaking and traffic restrictions in the project procedure. Inspect the label and SDS and protect drainage and public routes. Do not substitute one treatment for the other or pave over an unready surface because a truck has arrived."
+    },
+    {
+      "number": 2,
+      "title": "Describe where to position the Paver",
+      "text": "Position the paver within the planned asphalt train: delivery, placement, handwork and breakdown/intermediate/finish rolling. Confirm line, width, starting joint, access and truck approach. Establish safe separation and communication using the site plan, machine instructions and risk assessment. A diagram of the train explains roles, not universal spacing."
+    },
+    {
+      "number": 3,
+      "title": "Describe how to ready the Paving Machine",
+      "text": "Complete inspection, fluid checks, guards, controls, alarms and the required warm-up. Select the machine’s specified operating mode and engine conditions; “full power” is not a universal instruction for every function. Check the fitted feed and grade-control systems and agree who controls each adjustment. Resolve faults before production."
+    },
+    {
+      "number": 4,
+      "title": "Describe how to lower Screed on to blocks",
+      "text": "Set the screed on the specified starting support/block arrangement and establish initial thickness, crown and extension alignment. Loose thickness must allow for the actual mixture’s compaction behaviour and project trial results. A fixed 20% allowance is not universal. Keep hands and feet out of the lowering zone; move or retrieve blocks only through the approved safe sequence."
+    },
+    {
+      "number": 5,
+      "title": "Describe how to place Haul Truck Loads in Hopper",
+      "text": "Coordinate the haul truck through the designated signal system. Confirm alignment, clear the pinch zone and control the transfer without striking or disturbing the paver. Hopper-wing operation and load level follow the machine procedure and paving plan. Avoid uncontrolled emptying or repeated material surges. Watch overhead hazards when a truck body rises."
+    },
+    {
+      "number": 6,
+      "title": "Describe how to place the asphalt product",
+      "text": "Maintain appropriate paving speed and a consistent head of material at the screed. Conveyors carry mix rearward; augers distribute it across the width. The floating screed responds to several interacting factors, so abrupt changes can affect thickness and texture. Plan longitudinal/transverse joints, overlap and tie-ins using the accepted procedure. Record emerging defects and communicate before repeated adjustments."
+    },
+    {
+      "number": 7,
+      "title": "Describe how to compact asphalt",
+      "text": "Rolling follows the approved pattern while the mixture is within its effective compaction conditions. Breakdown establishes early compaction; intermediate rolling develops density as required; finish rolling removes marks and completes the surface. Temperature, mixture, support, roller type and weather matter. The paver and roller crews coordinate supply and pace; speed alone does not establish production quality."
+    }
+  ],
+  "worked": {
+    "title": "Convert a trial thickness relationship",
+    "case": "A fictional trial produced 50 mm compacted thickness from 62 mm loose thickness. The same approved trial relationship is used to estimate a 45 mm compacted target.",
+    "solution": "Loose/compacted factor = 62/50 = 1.24. Estimated loose thickness = 45 × 1.24 = 55.8 mm. This is an exercise estimate tied to the stated trial, not a universal setting; confirm with actual placement and compaction checks."
+  },
+  "activities": [
+    {
+      "id": "I1-01",
+      "prompt": "Put surface acceptance, treatment readiness, paver setup, placement and rolling in a useful sequence.",
+      "answer": "Accept and prepare the surface; apply/verify the specified treatment; inspect and set the paver/screed; place consistently; compact through the approved rolling plan. Communication and quality checks continue throughout.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "I1-02",
+      "prompt": "A rectangular 50 m × 3 m mat has 0.05 m compacted thickness. Find compacted volume.",
+      "answer": "50 × 3 × 0.05 = 7.5 m³. Tonnage requires an appropriate density; loose thickness and delivered mass are different quantities.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "A rectangular 50 m × 3 m mat has 0.05 m compacted thickness"
+    },
+    {
+      "id": "I1-03",
+      "prompt": "Write a call to the roller lead when delivery is interrupted.",
+      "answer": "State paver location, expected interruption, placed area needing attention, known temperature/quality information and proposed coordination. Confirm the rolling plan with the lead rather than inventing new pass counts.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Write a call to the roller lead when delivery is interrupted."
+    }
+  ],
+  "practical": [
+    "Explain the complete placement sequence and treatment distinction.",
+    "Verify starting support, line and trial-based thickness allowance.",
+    "Coordinate delivery, placement and compaction with clear role boundaries."
+  ],
+  "visuals": [
+    "paving-train",
+    "cat-feeder-system",
+    "screed-factors"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

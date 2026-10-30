@@ -1,0 +1,72 @@
+{
+  "code": "J1",
+  "title": "Describe paving screed and attachments",
+  "intro": "The screed forms the asphalt layer behind the tractor. Its geometry, material supply, temperature and movement interact. Knowing the parts helps the crew discuss a mat problem without making several unrelated adjustments at once.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe screed categories",
+      "text": "A rigid or fixed-width screed uses its assembled width and approved extensions. A variable-width screed changes working width through its designed extension system. Front- and rear-mounted extensions have different arrangements and setup needs. Identify the actual main screed, extensions, plates, heating system, vibration/tamper equipment and control options. Nominal paver size does not establish the fitted screed’s full capability."
+    },
+    {
+      "number": 2,
+      "title": "Describe common attachments",
+      "text": "Attachments can include bolt-on extensions, hydraulic extensions, end gates, cutoff shoes, curb-forming equipment and grade/slope controls. A stringline, ski, averaging beam or other reference system supplies different information; a laser or sonic sensor is not an interchangeable reference for every job. Confirm compatibility, mounting, calibration and safe movement envelope. Narrowing a pass with a cutoff attachment affects material distribution and the approved setup."
+    },
+    {
+      "number": 3,
+      "title": "Describe principal functions",
+      "text": "The tractor pulls the screed through tow arms; the feed system supplies material in front of it. A floating screed reaches a working balance influenced by tow-point position/angle of attack, material head, speed, mixture and screed condition. A control change takes travel distance to develop its full effect. Do not repeatedly adjust before observing the response. The main plate and extensions must work together to avoid lines, tearing or uneven thickness. Heat prevents sticking to cold plates; it is not a substitute for correct material temperature or setup."
+    }
+  ],
+  "worked": {
+    "title": "An extension line",
+    "case": "A visible line follows the inner edge of an extension while the rest of the mat looks consistent.",
+    "solution": "Record side, station and conditions. Check the relevant extension setup, plate condition, heating and material distribution through the authorized procedure. A line is a clue; do not assume one control or universal adjustment will fix every model."
+  },
+  "activities": [
+    {
+      "id": "J1-01",
+      "prompt": "Identify tow arm, main plate, extension, end gate and grade sensor on the supplied figures.",
+      "answer": "Tow arm transmits the pull; plate forms the mat; extension changes width as designed; end gate contains/shapes the edge; grade sensor follows its reference. Verify actual labels and model.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Identify tow arm, main plate, extension, end gate and grade sensor on the supplied figures."
+    },
+    {
+      "id": "J1-02",
+      "prompt": "A fictional main width is 2.4 m with 0.6 m extension on each side. Find total width.",
+      "answer": "2.4 + 0.6 + 0.6 = 3.6 m. This arithmetic does not establish compatible attachments or permissible operating width.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A fictional main width is 2.4 m with 0.6 m extension on each side"
+    },
+    {
+      "id": "J1-03",
+      "prompt": "Create a checked SVG concept map of the factors affecting a floating screed, using AI if available.",
+      "answer": "Include speed, head of material, tow-point/angle, mixture and screed condition with clearly labelled conceptual connections. Check against the supplied MS-4/CAT explanation, credit sources and omit invented settings.",
+      "skills": [
+        "Digital",
+        "Creativity and innovation",
+        "Writing"
+      ],
+      "title": "Create a checked SVG concept map of the factors affecting a floating screed, using AI if available."
+    }
+  ],
+  "practical": [
+    "Identify screed type and fitted attachments.",
+    "Explain the material route and floating-screed response.",
+    "Distinguish an observed mat symptom from a confirmed cause."
+  ],
+  "visuals": [
+    "cat-screed-plates",
+    "cat-tamper-screed",
+    "screed-factors"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

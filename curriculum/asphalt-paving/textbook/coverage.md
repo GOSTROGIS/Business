@@ -1,6 +1,6 @@
 # Coverage and delivery record
 
-This first study volume follows the August 2016 SkilledTradesBC outline in order through A1–A6 and B1. It contains complete classroom readings and practice for this scope. The remaining 61 competencies, B2–L6, are the next textbook-development work; their source coverage is tracked in the 68-competency audit. Practical assessment, technical approval and classroom pilot are pending.
+All 61 later B2–L6 competencies now have complete classroom chapters in [Volumes 2–8](series/index.html); see the [218-task coverage map](series/coverage.html). Technical review and observed practical assessment remain separate.
 
 | Competency | Learning tasks covered | Main evidence |
 |---|---|---|
@@ -29,6 +29,6 @@ The chapter tables connect learning tasks to practice; the complete outline word
 
 ## Continuity with earlier resources
 
-The six existing roadbuilding chapters and their worked answers have been brought into this study volume and expanded. Activity IDs LA1–LA6 are retained so earlier learner records remain usable. TB activity IDs identify the new work. The six inherited LA figures keep their existing credits; the additional figure register supplies machine-readable provenance and source/crop hashes.
+The six existing roadbuilding chapters and their worked answers have been brought into this study volume and expanded. Activity identifiers remain in authoring records and HTML metadata; reading editions use descriptive task names. The six inherited LA figures keep their existing credits; the additional figure register supplies machine-readable provenance and source/crop hashes.
 
 CONSULTING contributes authored map-reading and source-quality workflows, pinned to a verified commit. The lesson adapts these to fictional practice geometry. The original documentation snapshots are retained for audit, while the learner chapter explains the concepts directly.

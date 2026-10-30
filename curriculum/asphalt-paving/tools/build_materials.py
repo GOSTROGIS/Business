@@ -19,6 +19,7 @@ from threading import Thread
 from urllib.parse import urlsplit
 
 import markdown
+from activity_names import readable
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC = "https://github.com/GOSTROGIS/Business/blob/main/curriculum/asphalt-paving/"
@@ -41,7 +42,7 @@ HTML_FOR_SOURCE = {(ROOT / source).resolve(): (ROOT / target).resolve() for sour
 def render_document(source_name, target_name, title, eyebrow, pdf_name):
     source, target = ROOT / source_name, ROOT / target_name
     converter = markdown.Markdown(extensions=["tables", "fenced_code", "toc", "sane_lists"], extension_configs={"toc": {"toc_depth": "2-2"}})
-    body = converter.convert(source.read_text(encoding="utf-8"))
+    body = readable(converter.convert(source.read_text(encoding="utf-8")))
     body = re.sub(r"^<h1[^>]*>.*?</h1>\s*", "", body, count=1, flags=re.S)
 
     def rewrite(match):

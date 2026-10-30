@@ -1,0 +1,1011 @@
+SOURCE: curriculum/asphalt-paving/textbook/series/volume-4.pdf
+SOURCE SHA-256: b32e770c1aff3a864beb34d382640de4eaf7596633e007b248d3adb1589ea5e5
+ORIGINAL PDF VIEWER PAGES: 26–50 (one-based)
+OCR PERFORMED: no
+EXTRACTION STATUS: extracted
+Text is a reading aid; compare tables, figures, symbols and conditions against the PDF.
+
+=== ORIGINAL PDF PAGE 26 ===
+Study chapter · Outline G2
+
+
+
+Oil content
+In asphalt quality work, “oil content” commonly refers to asphalt binder content. It does not mean engine
+oil. Binder content affects the mixture, but its reported percentage is meaningless unless the mass basis
+and test method are known.
+
+
+  Define Section 502
+
+
+LEARNING STEP 1
+
+
+
+
+Define Section 502
+Section 502.12 of the supplied 2006 specification evaluates actual asphalt content against the approved
+content. Table 502-F expresses deviation in kilograms of binder per 100 kg of dry aggregate. This is a
+different basis from binder as a percentage of total mixture. For example, 5 kg binder with 100 kg dry
+aggregate is 5.00% on aggregate mass and 5/105 × 100 = 4.76% on total mixture mass. Never subtract
+results reported on different bases.
+
+The historical procedure uses the sample mean from the specified sub-lot samples. Preserve sample
+identity, test method, lot and lift. Compute actual minus approved content, then use the magnitude of the
+deviation where the table applies to either above or below. Follow the contract’s rounding and reporting
+rules rather than rounding early to reach a favourable band.
+
+In Table 502-F, a deviation of 0–0.15 earns +$0.50/t, 0.16–0.30 has no adjustment, and 0.31–0.35 gives −
+$1/t. Larger deviations have larger deductions and different top/lower-lift rejection boundaries. The full
+table and associated clauses govern; these are historical exercise values, not current project permission. A
+top-lift deviation greater than 0.50 triggers the stated rejection/remedial provisions. An operator does not
+fix a field result by independently changing the approved JMF.
+
+Possible causes of an unexpected result include actual production variation, sampling problems, incorrect
+identities, test issues or a mistaken reporting basis. Preserve the original evidence and refer the issue to
+the quality lead. A single favourable retest is not automatic authority to discard an unfavourable result.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 26 / 53
+
+=== ORIGINAL PDF PAGE 27 ===
+The denominator changes the percentage
+
+    ACCESS IS4S / ASPHALT STUDY
+
+
+    The denominator changes the percentage
+
+    Fictional mixture: 100 kg dry aggregate plus 5 kg binder.
+
+
+
+
+                                          100 kg aggregate                                                       5 kg
+
+
+
+
+            ON AGGREGATE MASS                                                            ON TOTAL MIX MASS
+            5 ÷ 100 × 100 = 5.00%                                                        5 ÷ 105 × 100 = 4.76%
+
+
+
+
+      Compare results only after confirming the same reporting basis and method.
+
+    Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+Note. ACCESS IS4S. (2026). The denominator changes the percentage [Original instructional SVG]. Conceptual explanation based on the
+cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                   ACCESS IS4S · Volume 4 · 27 / 53
+
+=== ORIGINAL PDF PAGE 28 ===
+2006 Table 502-F: binder-content adjustment
+
+
+
+
+Note. British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 12; PDF p. 308).
+Historical contract-reading example; complete clauses and actual project adoption govern. Full source context.
+
+
+
+
+  Worked example · Read the basis before the band
+  Approved binder content is 5.20 kg/100 kg dry aggregate. The three fictional sub-lot results are 5.45,
+  5.50 and 5.49 on that same basis. Lot mass is 500 t.
+
+  Think it through.
+
+  Mean = (5.45 + 5.50 + 5.49)/3 = 5.48. Absolute deviation = 0.28. Under the dated Table 502-F
+  exercise, 0.16–0.30 gives $0/t, so this isolated adjustment is $0. This says nothing about other
+  acceptance parameters.
+
+
+
+
+                                                        ACCESS IS4S · Volume 4 · 28 / 53
+
+=== ORIGINAL PDF PAGE 29 ===
+Try it and explain your thinking
+
+  Approved content is 5.20 and the mean is 4.86, both kg/100 kg dry aggregate
+
+  Approved content is 5.20 and the mean is 4.86, both kg/100 kg dry aggregate. Find deviation and the
+  historical isolated adjustment for 300 t.
+
+  Skills you use: Numeracy, Reading.
+
+
+
+
+  A report says 5.2% but has no basis
+
+  A report says 5.2% but has no basis. Can it be compared directly with 5.2 kg/100 kg dry aggregate?
+
+  Skills you use: Problem solving, Communication.
+
+
+
+
+  Write a two-line hold note for conflicting sample IDs.
+
+  Write a two-line hold note for conflicting sample IDs.
+
+  Skills you use: Writing, Collaboration.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                Result   Evidence
+
+Critical: Safe access, surroundings and communication maintained.                        Pass /   Observation:
+                                                                                         hold     __________________
+
+
+
+
+                                                      ACCESS IS4S · Volume 4 · 29 / 53
+
+=== ORIGINAL PDF PAGE 30 ===
+What the observer checks                                                                      Result       Evidence
+
+ Critical: Required energy, heat, movement and public-access controls maintained for           Pass /       Observation:
+ the actual task.                                                                              hold         __________________
+
+ Identify binder basis and lot/lift before calculation.                                        0/1/2        Evidence/help:
+                                                                                                            ________________
+
+ Read the complete applicable payment/rejection table.                                         0/1/2        Evidence/help:
+                                                                                                            ________________
+
+ Escalate a conflicting result without altering original evidence.                             0/1/2        Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G2, printed p. 53; source PDF pp. 55–55.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 2: Petroleum Asphalt; source PDF pp. 55–142. Open
+        publication.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 4: Hot Mix Asphalt (HMA) Design; source PDF pp. 193–280.
+        Open publication.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 10: Quality Control and Acceptance of Hot Mix Asphalt;
+        source PDF pp. 479–552. Open publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                            ACCESS IS4S · Volume 4 · 30 / 53
+
+=== ORIGINAL PDF PAGE 31 ===
+Study chapter · Outline G3
+
+
+
+Application
+Application rate describes how much asphalt mixture was placed over a measured area. It is a mass-per-
+area quantity. It can help identify a quantity or thickness concern, but does not replace density, level or
+compacted-thickness checks.
+
+
+  Define Section 502
+
+
+LEARNING STEP 1
+
+
+
+
+Define Section 502
+Section 502.14 of the 2006 specification determines application rate from the delivered tonnage assigned
+to the lot and its covered area, with the specified treatment of entrance letdowns and intersections.
+Reconcile weigh tickets, returned material, location and lift according to the contract. Counting an entire
+truck twice or including a ticket from another lane changes the result even when the arithmetic is correct.
+
+Use consistent units: 1 tonne = 1,000 kg. Actual application rate in kg/m² = accepted assigned mass in kg ÷
+measured area in m². The ratio used by Table 502-H is actual rate ÷ specified rate × 100. This ratio is a
+percentage of the specified rate, not a binder percentage and not percent density.
+
+The dated table distinguishes bottom/single lifts from the top lift of multiple lifts. For the uncomplicated
+96.0–103.9% band, both columns show +$0.50/t. Other bands include different deductions, restrictions on
+payment for excess material and rejection/remedial provisions. Read the full row and correct lift column.
+Do not treat over-application as a desirable way to earn payment: it can change grade, tie-ins and material
+demand.
+
+If a calculated rate seems wrong, check area boundaries, units, tickets, lift identity and authorized changes
+first. Then compare with thickness and survey evidence. A rate alone cannot prove a uniform mat; a thick
+patch and a thin patch can average to the specified rate.
+
+
+
+
+                                              ACCESS IS4S · Volume 4 · 31 / 53
+
+=== ORIGINAL PDF PAGE 32 ===
+Mass divided by area gives application rate
+
+    ACCESS IS4S / ASPHALT STUDY
+
+
+    Mass divided by area gives application rate
+
+    Fictional lot: 288 t over 2,400 m²; specified rate 120 kg/m².
+
+
+
+
+                                                                                                      CALCULATE
+                                                                                                      288 t = 288,000 kg
+                                                                                                      288,000 ÷ 2,400
+                                   2,400 m²                                                           = 120 kg/m²
+
+
+
+
+             120 ÷ 120 × 100 = 100% of the specified rate
+
+      An average rate does not prove uniform thickness or full acceptance.
+
+    Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+Note. ACCESS IS4S. (2026). Mass divided by area gives application rate [Original instructional SVG]. Conceptual explanation based on
+the cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                   ACCESS IS4S · Volume 4 · 32 / 53
+
+=== ORIGINAL PDF PAGE 33 ===
+2006 Table 502-H: application-rate adjustment
+
+
+
+
+Note. British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 14; PDF p. 310).
+Historical contract-reading example; complete clauses and actual project adoption govern. Full source context.
+
+
+
+
+  Worked example · Mass over area
+  A fictional lot receives 288 t over 2,400 m². Specified application is 120 kg/m².
+
+  Think it through.
+
+  288 t = 288,000 kg. Actual = 288,000/2,400 = 120 kg/m². Ratio = 120/120 × 100 = 100%. In the
+  dated 96.0–103.9% band, isolated adjustment = 288 × $0.50 = +$144, subject to all applicable
+  conditions.
+
+
+
+
+                                                        ACCESS IS4S · Volume 4 · 33 / 53
+
+=== ORIGINAL PDF PAGE 34 ===
+Try it and explain your thinking
+
+  A 200 m × 3.5 m rectangle receives 77 t
+
+  A 200 m × 3.5 m rectangle receives 77 t. Find actual application rate.
+
+  Skills you use: Numeracy, Reading.
+
+
+
+
+  Specified rate is 115 kg/m²
+
+  Specified rate is 115 kg/m². What percentage of specified is 110 kg/m²?
+
+  Skills you use: Numeracy, Problem solving.
+
+
+
+
+  Design a ticket register that a partner can audit.
+
+  Design a ticket register that a partner can audit.
+
+  Skills you use: Digital, Writing, Collaboration, Creativity and innovation.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                 Result   Evidence
+
+Critical: Safe access, surroundings and communication maintained.                         Pass /   Observation:
+                                                                                          hold     __________________
+
+Critical: Required energy, heat, movement and public-access controls maintained for       Pass /   Observation:
+the actual task.                                                                          hold     __________________
+
+
+
+
+                                                       ACCESS IS4S · Volume 4 · 34 / 53
+
+=== ORIGINAL PDF PAGE 35 ===
+What the observer checks                                                                    Result         Evidence
+
+ Measure and document a lot boundary.                                                        0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Reconcile unique tickets to the correct lift.                                               0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Calculate rate and explain why average rate does not prove uniform thickness.               0/1/2          Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G3, printed p. 54; source PDF pp. 56–56.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 8: Hot Mix Asphalt Paving; source PDF pp. 391–446. Open
+        publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                          ACCESS IS4S · Volume 4 · 35 / 53
+
+=== ORIGINAL PDF PAGE 36 ===
+Study chapter · Outline G4
+
+
+
+Segregation
+Segregation is separation within the mixture that produces an uneven distribution of aggregate sizes or
+other mixture characteristics. A visibly coarse patch can be a clue, but a crew needs agreed inspection
+criteria and a traceable location before deciding its cause or treatment.
+
+
+  Define Section 502
+
+
+LEARNING STEP 1
+
+
+
+
+Define Section 502
+Section 502.15 of the 2006 specification calls for a homogeneous mixture and uniform surface texture. Its
+visual classification distinguishes slight, moderate and severe segregation using the amount of stone and
+remaining binder/fine-aggregate matrix. The project’s agreed comparison areas or photographs support
+consistent judgement. Temperature differences can also affect paving behaviour; thermal segregation and
+aggregate-size segregation are related quality concerns but are not interchangeable descriptions.
+
+Track where a pattern occurs: at truck changes, the end of loads, edges, behind a particular part of the
+screed or at repeated stops. Material handling, stockpiles, truck loading/unloading, hopper management
+and the feed system all deserve investigation. Do not claim a single cause from a photograph alone. Record
+station, lane, lift, time, load and observed texture, then notify the responsible lead while the crew can still
+investigate the process.
+
+The historical top-lift tables 502-I-1 and I-2 address remediation and payment. They include different
+remedies by severity and counts per lane kilometre. These dated repair descriptions are an exercise in
+reading a contract, not a field instruction to apply slurry or overlay without approval. Current project
+specifications and the authorized repair design govern actual work. A payment deduction does not
+automatically remove the requirement for remediation.
+
+Prevention is a coordinated task. Maintain the specified material-handling and paving process,
+communicate supply changes early, and avoid scattering coarse material onto a finished surface. When a
+defect is suspected, preserve evidence and obtain direction before an improvised repair hides the cause.
+
+
+
+
+                                              ACCESS IS4S · Volume 4 · 36 / 53
+
+=== ORIGINAL PDF PAGE 37 ===
+Look at distribution, then investigate the cause
+
+    ACCESS IS4S / ASPHALT STUDY
+
+
+    Look at distribution, then investigate the cause
+
+    Conceptual particle patterns · field classification uses agreed project criteria.
+
+
+       MORE UNIFORM                                                                    COARSE CONCENTRATION
+
+
+
+
+           Describe texture, location and timing. Do not assign blame from a picture.
+
+
+      A suspected defect needs traceable evidence and an authorized disposition.
+
+    Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+Note. ACCESS IS4S. (2026). Look at distribution, then investigate the cause [Original instructional SVG]. Conceptual explanation based
+on the cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                   ACCESS IS4S · Volume 4 · 37 / 53
+
+=== ORIGINAL PDF PAGE 38 ===
+Segregation along the outside edge of a mat
+
+
+
+
+Note. Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4, Fig. 8.26, p. 402; PDF p. 436). Faithful scan crop; original figure
+caption retained. Original image contributor: James A. Scherocman, P.E., Consulting Engineer; credit register, PDF pp. 803–805. Full
+source context.
+
+
+
+
+                                                         ACCESS IS4S · Volume 4 · 38 / 53
+
+=== ORIGINAL PDF PAGE 39 ===
+Worked example · Describe before diagnosing
+  A coarse-looking strip appears near the right edge after three truck changes. The surrounding surface
+  has more fine matrix.
+
+  Think it through.
+
+  Record the repeated location and timing, photograph from a safe position with a scale and location
+  label, and notify the paving/quality lead. Compare with agreed criteria and inspect the process under
+  authorized conditions. Do not declare severe segregation or choose a repair from appearance alone.
+
+
+
+
+Try it and explain your thinking
+
+ Write three useful observations and one unsupported conclusion for the case.
+
+ Write three useful observations and one unsupported conclusion for the case.
+
+ Skills you use: Writing, Problem solving.
+
+
+
+
+ In the dated Table 502-I-2, a 1 lane-km top lift has 4 slight areas, zero moderate and zero
+ severe
+
+ In the dated Table 502-I-2, a 1 lane-km top lift has 4 slight areas, zero moderate and zero severe.
+ What is the isolated adjustment?
+
+ Skills you use: Numeracy, Reading.
+
+
+
+
+ Propose a safe digital defect log and a respectful crew discussion.
+
+ Propose a safe digital defect log and a respectful crew discussion.
+
+ Skills you use: Digital, Communication, Collaboration, Creativity and innovation.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 39 / 53
+
+=== ORIGINAL PDF PAGE 40 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                    Result         Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                           Pass /         Observation:
+                                                                                             hold           __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for         Pass /         Observation:
+ the actual task.                                                                            hold           __________________
+
+ Compare texture using approved project criteria.                                            0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Locate and record a suspected segregated area.                                              0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Separate observation, possible cause and authorized disposition.                            0/1/2          Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G4, printed p. 55; source PDF pp. 57–57.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 8: Hot Mix Asphalt Paving; source PDF pp. 391–446. Open
+        publication.
+        Caterpillar. (2016). Guide to Asphalt Paving (QEBQ1888). Asphalt paving process, tractor, screed, material delivery and handwork;
+        model examples vary. Open publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                          ACCESS IS4S · Volume 4 · 40 / 53
+
+=== ORIGINAL PDF PAGE 41 ===
+Study chapter · Outline G5
+
+
+
+Density
+Percent density compares measured in-place density with a defined reference density. The reference is
+part of the result. Saying only “the density is 94%” leaves out information needed to interpret it.
+
+
+  Define Section 502
+
+
+LEARNING STEP 1
+
+
+
+
+Define Section 502
+Section 502.11 of the supplied 2006 document uses different references for Marshall and Superpave
+mixtures. The Marshall expression divides in-place density by the density of the plant briquette. The
+Superpave expression divides in-place density by maximum theoretical density determined by the
+specified procedure. Use compatible units, the applicable method and representative results from the
+correct lot.
+
+A core and a nuclear gauge do not produce evidence through the same procedure. Follow the approved
+sampling, testing, calibration/correlation and reporting requirements. Nuclear gauge operation requires the
+applicable CNSC licensing, training and controls; reading this chapter does not authorize it. Record location,
+lift, sample/gauge identification, method, density units and reference result. Avoid substituting a different
+day’s reference because it produces a more favourable percentage.
+
+The dated tables E-1 and E-2 use different acceptance/payment bands. For example, a Marshall lot average
+of 97.6–98.0% has a +$0.50/t adjustment, while the Superpave +$0.50/t band is 93.0–93.9%. These
+bands cannot be exchanged. Sub-lot limits, rejection provisions and the other acceptance requirements
+also apply. A satisfactory lot mean can conceal an unacceptable individual area.
+
+Compaction effort, temperature, mixture behaviour, support and rolling pattern affect the outcome. More
+passes are not automatically better: they may be ineffective after cooling or damage an unstable mat. Use
+the approved pattern and quality feedback to guide authorized changes.
+
+
+
+
+                                             ACCESS IS4S · Volume 4 · 41 / 53
+
+=== ORIGINAL PDF PAGE 42 ===
+One in-place result, two reference bases
+
+    ACCESS IS4S / ASPHALT STUDY
+
+
+    One in-place result, two reference bases
+
+    Fictional in-place density: 2.340 Mg/m³. Choose the required reference.
+
+
+
+          PLANT BRIQUETTE                                                                 MAXIMUM THEORETICAL
+          Reference: 2.400 Mg/m³                                                          Reference: 2.500 Mg/m³
+          2.340 ÷ 2.400 × 100                                                             2.340 ÷ 2.500 × 100
+
+
+
+
+                 97.50%                                                                           93.60%
+           Marshall-style comparison                                                       Maximum-theoretical comparison
+
+
+      Neither percentage can be interpreted without the actual method, lot and contract requirements.
+
+    Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+Note. ACCESS IS4S. (2026). One in-place result, two reference bases [Original instructional SVG]. Conceptual explanation based on the
+cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                   ACCESS IS4S · Volume 4 · 42 / 53
+
+=== ORIGINAL PDF PAGE 43 ===
+2006 Tables 502-E-1 and E-2: different density bases
+
+
+
+
+Note. British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 11; PDF p. 307).
+Historical contract-reading example; complete clauses and actual project adoption govern. Full source context.
+
+
+
+
+                                                        ACCESS IS4S · Volume 4 · 43 / 53
+
+=== ORIGINAL PDF PAGE 44 ===
+Worked example · Two legitimate references, two different
+  percentages
+  In-place density is 2.340 Mg/m³. A fictional plant briquette result is 2.400 Mg/m³; maximum
+  theoretical density is 2.500 Mg/m³.
+
+  Think it through.
+
+  Marshall-style comparison: 2.340/2.400 × 100 = 97.50%. Maximum-theoretical comparison:
+  2.340/2.500 × 100 = 93.60%. Both calculations are arithmetic examples; use only the reference
+  required for the actual mixture and contract.
+
+
+
+
+Try it and explain your thinking
+
+ For 2.325 Mg/m³ in place and 2.500 Mg/m³ maximum theoretical, calculate percent.
+
+ For 2.325 Mg/m³ in place and 2.500 Mg/m³ maximum theoretical, calculate percent.
+
+ Skills you use: Numeracy, Reading.
+
+
+
+
+ A 400 t fictional Superpave lot average is 93.4%
+
+ A 400 t fictional Superpave lot average is 93.4%. Find the isolated dated table adjustment, then name
+ two checks still needed.
+
+ Skills you use: Numeracy, Problem solving.
+
+
+
+
+ A spreadsheet divides every test by a fixed 2.400
+
+ A spreadsheet divides every test by a fixed 2.400. What should a reviewer do?
+
+ Skills you use: Digital, Collaboration, Writing.
+
+
+
+
+                                              ACCESS IS4S · Volume 4 · 44 / 53
+
+=== ORIGINAL PDF PAGE 45 ===
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                    Result         Evidence
+
+ Critical: Safe access, surroundings and communication maintained.                           Pass /         Observation:
+                                                                                             hold           __________________
+
+ Critical: Required energy, heat, movement and public-access controls maintained for         Pass /         Observation:
+ the actual task.                                                                            hold           __________________
+
+ Explain and select the correct density denominator.                                         0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Trace test results to location and reference.                                               0/1/2          Evidence/help:
+                                                                                                            ________________
+
+ Distinguish a lot average from individual acceptance requirements.                          0/1/2          Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G5, printed p. 56; source PDF pp. 58–58.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 9: Hot Mix Asphalt Compaction; source PDF pp. 447–478.
+        Open publication.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 10: Quality Control and Acceptance of Hot Mix Asphalt;
+        source PDF pp. 479–552. Open publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        Troxler Electronic Laboratories. (Edition 1.3, February 2021). RoadReader Model 3430 Surface Moisture-Density Gauge: Manual of
+        Operation and Instruction. Open publication.
+        Canadian Nuclear Safety Commission. (Web snapshot: October 30, 2026). Portable Nuclear Gauges. Open publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                          ACCESS IS4S · Volume 4 · 45 / 53
+
+=== ORIGINAL PDF PAGE 46 ===
+Study chapter · Outline G6
+
+
+
+Smoothness
+Smoothness concerns the longitudinal profile experienced by a moving vehicle. It differs from crossfall,
+compacted thickness and density. A mat can meet one of those requirements while failing another.
+
+
+  Define Section 502
+
+
+LEARNING STEP 1
+
+
+
+
+Define Section 502
+Section 502.16 of the dated 2006 specification measures longitudinal profile with a specified precision
+rolling instrument and computes the International Roughness Index (IRI). IRI is commonly expressed in
+m/km; lower values indicate a smoother profile under the model. It is not a direct measurement of crossfall
+or a single bump’s height. Straightedge checks and localized-defect requirements answer different
+questions and may apply in addition to IRI.
+
+Identify the lane, direction, station limits, lift and applicable lot/sub-lot rules. The historical clauses treat
+auxiliary lanes and short lengths specifically, and use the applicable Table 502-J or J-2 when adopted.
+Acceptance limits and payment schedules depend on the road classification and contract. Do not import an
+IRI threshold from another job. Preserve the instrument record and the quality lead’s interpretation.
+
+Smoothness begins before the profiler arrives: prepared base, correct setup, steady paving speed and
+material head, coordinated truck changes, careful joints and suitable rolling practice all matter. Abrupt
+control changes, stops and poorly matched joints can leave profile defects. A roller cannot reliably erase
+every paver setup error. Report an emerging pattern early enough for the lead to investigate the process.
+
+The 2006 auxiliary-lane example prorates a qualifying adjustment by segment length relative to a 1 km lot.
+This is a contract rule, not a general conversion from IRI to dollars. Repairs and remeasurement require
+authorized procedures. Keep the original and subsequent profiles linked so the correction can be evaluated
+transparently.
+
+
+
+
+                                               ACCESS IS4S · Volume 4 · 46 / 53
+
+=== ORIGINAL PDF PAGE 47 ===
+Smoothness and crossfall answer different questions
+
+    ACCESS IS4S / ASPHALT STUDY
+
+
+    Smoothness and crossfall answer different questions
+
+    Conceptual profiles · no acceptance limit or scale is implied.
+
+
+         ALONG THE ROAD                                                                               ACROSS THE ROAD
+
+
+
+
+                        Longitudinal profile → IRI / local defects                                      Crown / crossfall
+
+
+
+         Density is another measurement again: compaction relative to a stated reference.
+
+
+
+      A good result for one property does not prove the others meet specification.
+
+    Conceptual teaching diagram · Use the stated case and actual project/machine requirements.
+
+
+Note. ACCESS IS4S. (2026). Smoothness and crossfall answer different questions [Original instructional SVG]. Conceptual explanation
+based on the cited chapter readings; geometry and operating arrangements are illustrative, not prescribed settings.
+
+
+
+
+                                                                   ACCESS IS4S · Volume 4 · 47 / 53
+
+=== ORIGINAL PDF PAGE 48 ===
+2006 Tables 502-J and J-2: smoothness
+
+
+
+
+Note. British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502 (section p. 16; PDF p. 312).
+Historical contract-reading example; complete clauses and actual project adoption govern. Full source context.
+
+
+
+
+  Worked example · Prorating an authorized historical adjustment
+  For a fictional exercise, the applicable table and acceptance checks establish a +$800 adjustment for
+  a full 1 km lot. The qualifying auxiliary segment is 565 m.
+
+  Think it through.
+
+  Length factor = 565/1,000 = 0.565. Prorated adjustment = 0.565 × $800 = +$452. The $800 is an
+  explicitly supplied exercise value, not a quoted Table 502-J value or a current project entitlement.
+
+
+
+
+                                                        ACCESS IS4S · Volume 4 · 48 / 53
+
+=== ORIGINAL PDF PAGE 49 ===
+Try it and explain your thinking
+
+  A qualifying segment is 240 m and the supplied full-kilometre adjustment is −$1,200
+
+  A qualifying segment is 240 m and the supplied full-kilometre adjustment is −$1,200. Calculate the
+  exercise adjustment.
+
+  Skills you use: Numeracy, Reading.
+
+
+
+
+  A learner says a good density result proves a smooth road
+
+  A learner says a good density result proves a smooth road. Explain the gap.
+
+  Skills you use: Communication, Problem solving.
+
+
+
+
+  Create a handover for a repeated bump near each truck-change location.
+
+  Create a handover for a repeated bump near each truck-change location.
+
+  Skills you use: Writing, Digital, Collaboration, Adaptability.
+
+
+
+
+Show the skill in supervised practice
+Machine/model/serial or classroom case: __________ · Manual/procedure and revision: __________ ·
+Date/location: __________ · Learner/observer: __________
+
+Record each criterion as 0—not yet demonstrated, 1—with task-solving support, or 2—independently under
+the stated conditions. Mark unobserved criteria separately; do not convert missing opportunity into a zero.
+The assessor determines the required repeat practice and applicable qualification requirements. A critical
+failure means hold, correction and reassessment regardless of the numerical result. Use safe simulations
+for classroom reasoning; actual operation requires the selected equipment, approved conditions and
+competent supervision.
+
+
+ What the observer checks                                                                Result   Evidence
+
+Critical: Safe access, surroundings and communication maintained.                        Pass /   Observation:
+                                                                                         hold     __________________
+
+
+
+
+                                                      ACCESS IS4S · Volume 4 · 49 / 53
+
+=== ORIGINAL PDF PAGE 50 ===
+What the observer checks                                                                     Result        Evidence
+
+ Critical: Required energy, heat, movement and public-access controls maintained for          Pass /        Observation:
+ the actual task.                                                                             hold          __________________
+
+ Identify the profile measurement and applicable contract limits.                             0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Separate IRI, localized defects and crossfall.                                               0/1/2         Evidence/help:
+                                                                                                            ________________
+
+ Trace a profile concern to a location and authorized corrective process.                     0/1/2         Evidence/help:
+                                                                                                            ________________
+
+
+
+Actual conditions and support: __________________________
+
+Feedback, next practice and authorized release/status: __________________________
+
+
+
+Sources and further reading
+        SkilledTradesBC. (2016). Asphalt Paving/Laydown Technician program outline, G6, printed p. 57; source PDF pp. 59–59.
+        Asphalt Institute. (2007). The asphalt handbook (7th ed., MS-4), Chapter 10: Quality Control and Acceptance of Hot Mix Asphalt;
+        source PDF pp. 479–552. Open publication.
+        British Columbia Ministry of Transportation. (2006). Design build standard specifications, Section 502; PDF pp. 297–318. Historical
+        contract exercise. Open publication.
+        BC Ministry of Transportation and Transit. (2025). 2025 Standard Specifications for Highway Construction, Volume 1. Open
+        publication.
+
+Figure-specific pages, editions and original contributors are credited beside each image. Current project
+requirements and the matching machine instructions determine practical use.
+
+
+
+
+                                                           ACCESS IS4S · Volume 4 · 50 / 53
+

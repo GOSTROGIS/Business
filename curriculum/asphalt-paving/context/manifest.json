@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "built_utc": "2026-10-30T18:06:28.796213+00:00",
+  "built_utc": "2026-10-30T20:17:22.389401+00:00",
   "collection": "All available PDFs under curriculum/asphalt-paving, excluding this context directory",
   "originals_preserved": true,
   "chunk_policy": {
@@ -9,24 +9,24 @@
     "target_max_bytes": 16777216,
     "single_page_over_target_policy": "Preserve the page without image degradation; flag an exception. A chunk at or above 100,000,000 bytes fails the build."
   },
-  "processing": "Original PDF page appearance retained without image downsampling. MS-4, CAT and readiness source parts are referenced directly without duplicate PDF copies. MS-4 text comes from the upstream OCR pipeline; CAT, readiness and other texts use pdftotext. Internal/non-URI annotations are omitted from split chunks; reused native source parts retain valid in-part links, and MS-4 image-only parts have no such links.",
+  "processing": "Original PDF page appearance retained without image downsampling. MS-4, CAT, readiness and study-series source parts are referenced directly without duplicate PDF copies. MS-4 text comes from the upstream OCR pipeline; CAT, readiness and other texts use pdftotext. Internal/non-URI annotations are omitted from split chunks; reused native source parts retain valid in-part links, and MS-4 image-only parts have no such links.",
   "counts": {
-    "original_file_paths": 323,
-    "unique_pdfs": 322,
+    "original_file_paths": 351,
+    "unique_pdfs": 350,
     "duplicate_alias_paths": 1,
-    "unique_original_pages": 7856,
-    "chunks": 382,
-    "chunk_pdf_bytes": 679176719,
-    "chunk_text_bytes": 23664259,
+    "unique_original_pages": 9058,
+    "chunks": 440,
+    "chunk_pdf_bytes": 774400242,
+    "chunk_text_bytes": 26336241,
     "largest_chunk_bytes": 11682239,
     "largest_chunk_pages": 25,
-    "empty_text_pages": 104,
-    "sparse_text_pages": 93,
+    "empty_text_pages": 108,
+    "sparse_text_pages": 157,
     "single_page_size_exceptions": 0,
     "categories": {
       "original-source": 206,
-      "manufacturer-original": 94,
-      "generated-curriculum": 22
+      "manufacturer-original": 108,
+      "generated-curriculum": 36
     }
   },
   "documents": [
@@ -14712,6 +14712,929 @@
       ]
     },
     {
+      "id": "PDF-bb218679ef4b",
+      "title": "Rosco RB50 operation, service and parts manual (1017258-03 Rev. B; serial 255027 and above)",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf"
+      ],
+      "sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80",
+      "original_bytes": 30133586,
+      "pdf_pages": 314,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0001-0025.pdf",
+          "bytes": 1324356,
+          "sha256": "8481164302e962d77cc04f8a293ec764ec1dd79bb73c088de0f0ab1f3a196f75",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0001-0025.txt",
+          "text_bytes": 79373,
+          "text_sha256": "9b82b8d3727ddca3b6ee2d7c3ab679db58e08a8430fc1ccfa45d05366a0a0ad3",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [
+            2
+          ],
+          "sparse_text_original_pages": [
+            12,
+            14,
+            16
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 247,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0026-0050.pdf",
+          "bytes": 2467889,
+          "sha256": "3a9fb29ce04b97ac347aed09866efd5adbeddfd8716f47ffe1e0652c01f55504",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0026-0050.txt",
+          "text_bytes": 79019,
+          "text_sha256": "32117297c251a5bb984ce98d4ef7dd2727ed83a4e98485a7c585e77ad585090c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            40
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 66,
+          "external_uri_link_annotations_retained": 1
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 75,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0051-0075.pdf",
+          "bytes": 3457563,
+          "sha256": "ee236b7a2db4b16cb3779d62ec2c950768d35b1579341dac88cd6de4db7230a5",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0051-0075.txt",
+          "text_bytes": 90698,
+          "text_sha256": "af2c30f7e1575a9d6e2565a4c2af8027763ee9de5debc85cb8a73fc47fb92d09",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 60,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 76,
+          "original_page_end": 100,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0076-0100.pdf",
+          "bytes": 2649021,
+          "sha256": "5a21d90388e31c613e4a8f9345b8ab78c3fb2b15c2d7977e4127e1dc6d9bc0a4",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0076-0100.txt",
+          "text_bytes": 96958,
+          "text_sha256": "1c64325cfa4e8e0a54f860fca76c7c12c17b1e58152846cf59899b1add35c8be",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 101,
+          "original_page_end": 125,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0101-0125.pdf",
+          "bytes": 2310340,
+          "sha256": "b42b5e29ea4743cb9f107bed98f89635c0b8e15a4fcf58ac7c363523cd58dbe3",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0101-0125.txt",
+          "text_bytes": 25747,
+          "text_sha256": "e5026791f11f8d4cbdfbced4a24aac5e251105b6920bcbbf0a82414a51bbdbdb",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 27,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 126,
+          "original_page_end": 150,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0126-0150.pdf",
+          "bytes": 1611173,
+          "sha256": "1b45c3808df84afe568559a0585f32a29a1964b22fb22f8c90d7545a15c2fb7e",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0126-0150.txt",
+          "text_bytes": 32046,
+          "text_sha256": "9c56bc56d4b6801585e8eb7e8748a7e46ef3a26eb08730b4a9c5cb917433a9bc",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            126,
+            128,
+            130,
+            132,
+            134,
+            136,
+            138,
+            140,
+            142,
+            144,
+            146,
+            148,
+            150
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 151,
+          "original_page_end": 175,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0151-0175.pdf",
+          "bytes": 2004447,
+          "sha256": "4950661e7ea327dbd0418316bc51db35ac649e3363a940c38b6def53460163d0",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0151-0175.txt",
+          "text_bytes": 54721,
+          "text_sha256": "88741bfa7a159c20f8ce8eda79644d3586da54c92663e3d2f99c75da19460e81",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            152,
+            154,
+            156,
+            158
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 61,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 176,
+          "original_page_end": 200,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0176-0200.pdf",
+          "bytes": 5648462,
+          "sha256": "3dc0a1b2a9edf362e54ab7ecdb4679113180c1f956fd535c62e35af88f3d48a5",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0176-0200.txt",
+          "text_bytes": 56994,
+          "text_sha256": "7f16cce88d4f48ed0463efd05e7b422ede9decaf994b39caef5975935fee076c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 201,
+          "original_page_end": 225,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0201-0225.pdf",
+          "bytes": 3691328,
+          "sha256": "faf8272fc210544de42498210a3ede8f7f60f64c54d5ef0111c8be76d610209b",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0201-0225.txt",
+          "text_bytes": 70460,
+          "text_sha256": "4293c2f4a1d4b8467212c9fd4f26234553ccb435c3f99851775c38e6aee717c9",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 226,
+          "original_page_end": 250,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0226-0250.pdf",
+          "bytes": 2968727,
+          "sha256": "05c4335fb27a1327b60ac7fa577cd4c36e80772bf801fcde0986810f9c78ddf3",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0226-0250.txt",
+          "text_bytes": 54611,
+          "text_sha256": "8b6e49c6a3838a2fc922066155c682ba5b7ab0c76f332f03825f549ae5071606",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 251,
+          "original_page_end": 275,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0251-0275.pdf",
+          "bytes": 2928377,
+          "sha256": "3d2f1c9cfc3c325d8eb2486a3c523017b978ad4779217968f306a830f608de57",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0251-0275.txt",
+          "text_bytes": 50441,
+          "text_sha256": "05f263f79c23755aa6c811da0d0630e12ed01feab91ae63ee8c9515b2bdd5a86",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 276,
+          "original_page_end": 300,
+          "page_count": 25,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0276-0300.pdf",
+          "bytes": 162459,
+          "sha256": "af8d5334309949f87f2ccbf48b9aad8b6b15462964e6bb13327b37c996629301",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0276-0300.txt",
+          "text_bytes": 83515,
+          "text_sha256": "e70a4c096ef573cbbd182086309c55be4ec91a1629220c8642e2ca1be26894b2",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 301,
+          "original_page_end": 314,
+          "page_count": 14,
+          "pdf": "chunks/rosco-rb50-manual-bb218679ef4b/p0301-0314.pdf",
+          "bytes": 163617,
+          "sha256": "1947d9b5b2af4acf5e38f53c9a46cd33514f251f862cf19e44e4d66b2388f032",
+          "text": "chunks/rosco-rb50-manual-bb218679ef4b/p0301-0314.txt",
+          "text_bytes": 35480,
+          "text_sha256": "58e40449c244d747cf9ce75145312d17b1ac5cd7929add5573085e9ee63707c2",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [
+            313
+          ],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-231198e4a421",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 1–25",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf"
+      ],
+      "sha256": "231198e4a4213e57de6ccf7e6607d84b21fd8ed0ad09a94daf02e6dfd0a9b68b",
+      "original_bytes": 1324296,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 1,
+        "complete_source_pdf_end": 25,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf",
+          "bytes": 1324296,
+          "sha256": "231198e4a4213e57de6ccf7e6607d84b21fd8ed0ad09a94daf02e6dfd0a9b68b",
+          "text": "chunks/rosco-rb50-p001-p025-231198e4a421/p0001-0025.txt",
+          "text_bytes": 80284,
+          "text_sha256": "af8dc8bb4ae7780c0458f2e67787a40a06c9c2925ebfa5b9e3af5d66166528b9",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [
+            2
+          ],
+          "sparse_text_original_pages": [
+            12,
+            14,
+            16
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-421951d6f962",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 26–50",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf"
+      ],
+      "sha256": "421951d6f962628b78161f21f79cd6737c59c3c1619e684af4d4ade673273133",
+      "original_bytes": 2467829,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 26,
+        "complete_source_pdf_end": 50,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf",
+          "bytes": 2467829,
+          "sha256": "421951d6f962628b78161f21f79cd6737c59c3c1619e684af4d4ade673273133",
+          "text": "chunks/rosco-rb50-p026-p050-421951d6f962/p0001-0025.txt",
+          "text_bytes": 79929,
+          "text_sha256": "9da6a12d3602e19ff419c7c96141c4f4e234db99d7238595347a17c5dab52e55",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            15
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 1
+        }
+      ]
+    },
+    {
+      "id": "PDF-fe42a2f45c81",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 51–75",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf"
+      ],
+      "sha256": "fe42a2f45c8148482a1bfee2ced4f45ec9d08ddf0f67617be776a52af12e4c40",
+      "original_bytes": 3457503,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 51,
+        "complete_source_pdf_end": 75,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf",
+          "bytes": 3457503,
+          "sha256": "fe42a2f45c8148482a1bfee2ced4f45ec9d08ddf0f67617be776a52af12e4c40",
+          "text": "chunks/rosco-rb50-p051-p075-fe42a2f45c81/p0001-0025.txt",
+          "text_bytes": 91608,
+          "text_sha256": "34ba856d818e59c323ff94959d6ffceaa42ac71b7926fe23cf1298b490f436f0",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-82c19c592a53",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 76–100",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf"
+      ],
+      "sha256": "82c19c592a53a6ef0d9465572565c194f81a1eaef3c3063d3ba8aa6cc6e41f19",
+      "original_bytes": 2648961,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 76,
+        "complete_source_pdf_end": 100,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf",
+          "bytes": 2648961,
+          "sha256": "82c19c592a53a6ef0d9465572565c194f81a1eaef3c3063d3ba8aa6cc6e41f19",
+          "text": "chunks/rosco-rb50-p076-p100-82c19c592a53/p0001-0025.txt",
+          "text_bytes": 97867,
+          "text_sha256": "d8d44eee5c6963502be4065a85027799187532eacea0f0887d0d42b9b52654c4",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-604f5d1cbc19",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 101–125",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf"
+      ],
+      "sha256": "604f5d1cbc19c94fdf864b30364765fd1813975bda63a5f586a161d9d1236168",
+      "original_bytes": 2310280,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 101,
+        "complete_source_pdf_end": 125,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf",
+          "bytes": 2310280,
+          "sha256": "604f5d1cbc19c94fdf864b30364765fd1813975bda63a5f586a161d9d1236168",
+          "text": "chunks/rosco-rb50-p101-p125-604f5d1cbc19/p0001-0025.txt",
+          "text_bytes": 26655,
+          "text_sha256": "53fca33096971ede49446a9a1132a6597d72157a7446c604cc23d60c681db361",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-b55ac98e5d22",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 126–150",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf"
+      ],
+      "sha256": "b55ac98e5d22d19fe7dc0f616914d482709d4bd4c3847a5d0189dd975acd3fd6",
+      "original_bytes": 1611113,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 126,
+        "complete_source_pdf_end": 150,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf",
+          "bytes": 1611113,
+          "sha256": "b55ac98e5d22d19fe7dc0f616914d482709d4bd4c3847a5d0189dd975acd3fd6",
+          "text": "chunks/rosco-rb50-p126-p150-b55ac98e5d22/p0001-0025.txt",
+          "text_bytes": 32954,
+          "text_sha256": "a6c82da165e5f8fdaf54d8494b31c4688b7145dcc2bc7e9e611993ab85095a39",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            1,
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21,
+            23,
+            25
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-ce5b8f796ef3",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 151–175",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf"
+      ],
+      "sha256": "ce5b8f796ef3a4b4e6d69681960b7e3514c5341a92d7a333897264c24062c8ae",
+      "original_bytes": 2004387,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 151,
+        "complete_source_pdf_end": 175,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf",
+          "bytes": 2004387,
+          "sha256": "ce5b8f796ef3a4b4e6d69681960b7e3514c5341a92d7a333897264c24062c8ae",
+          "text": "chunks/rosco-rb50-p151-p175-ce5b8f796ef3/p0001-0025.txt",
+          "text_bytes": 55629,
+          "text_sha256": "4580c5299b550088ff1045b763789eb43a57f632849182bc16c53a003ed20cb2",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [
+            2,
+            4,
+            6,
+            8
+          ],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-d4f14329a29b",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 176–200",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf"
+      ],
+      "sha256": "d4f14329a29ba73829d1328540720522b4b15272056235bc79598c399b7de599",
+      "original_bytes": 5648402,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 176,
+        "complete_source_pdf_end": 200,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf",
+          "bytes": 5648402,
+          "sha256": "d4f14329a29ba73829d1328540720522b4b15272056235bc79598c399b7de599",
+          "text": "chunks/rosco-rb50-p176-p200-d4f14329a29b/p0001-0025.txt",
+          "text_bytes": 57902,
+          "text_sha256": "ff98184d3599a3804d742377296a1cfb31eaffb66626599e13c4fe78bf454669",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-b0344a7f8ec5",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 201–225",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf"
+      ],
+      "sha256": "b0344a7f8ec54736bfedb14232844d6080f9032a6ee381b5e781ff0be14eb72b",
+      "original_bytes": 3691268,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 201,
+        "complete_source_pdf_end": 225,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf",
+          "bytes": 3691268,
+          "sha256": "b0344a7f8ec54736bfedb14232844d6080f9032a6ee381b5e781ff0be14eb72b",
+          "text": "chunks/rosco-rb50-p201-p225-b0344a7f8ec5/p0001-0025.txt",
+          "text_bytes": 71368,
+          "text_sha256": "6e3120f2a2c1f1546a45bb03d43361e3ebf7a06cc22e848d7af14e8acbf7c95f",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-610022043733",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 226–250",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf"
+      ],
+      "sha256": "610022043733d3a2a0c5e03a7a93425c96dae5d4edf92c3c27e682c4c5811d64",
+      "original_bytes": 2968667,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 226,
+        "complete_source_pdf_end": 250,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf",
+          "bytes": 2968667,
+          "sha256": "610022043733d3a2a0c5e03a7a93425c96dae5d4edf92c3c27e682c4c5811d64",
+          "text": "chunks/rosco-rb50-p226-p250-610022043733/p0001-0025.txt",
+          "text_bytes": 55519,
+          "text_sha256": "7c7e076df84f39eb0f74befc8bca8cdf7d2e3a6a71462efe704df52f9a0011d3",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-5dd4ae5c0c3a",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 251–275",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf"
+      ],
+      "sha256": "5dd4ae5c0c3a60493247d0bff2510cd186a99320d0b74e446e34f30701151734",
+      "original_bytes": 2928317,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 251,
+        "complete_source_pdf_end": 275,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf",
+          "bytes": 2928317,
+          "sha256": "5dd4ae5c0c3a60493247d0bff2510cd186a99320d0b74e446e34f30701151734",
+          "text": "chunks/rosco-rb50-p251-p275-5dd4ae5c0c3a/p0001-0025.txt",
+          "text_bytes": 51349,
+          "text_sha256": "a144bbe4fe6939a719786903d7592cad78010af863a353150e7a7dceb1caec51",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-a95e29bccd70",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 276–300",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf"
+      ],
+      "sha256": "a95e29bccd7081a9feda6ce083a1008d22e9dd976e5c4299dd8863a88691564c",
+      "original_bytes": 162399,
+      "pdf_pages": 25,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 276,
+        "complete_source_pdf_end": 300,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf",
+          "bytes": 162399,
+          "sha256": "a95e29bccd7081a9feda6ce083a1008d22e9dd976e5c4299dd8863a88691564c",
+          "text": "chunks/rosco-rb50-p276-p300-a95e29bccd70/p0001-0025.txt",
+          "text_bytes": 84423,
+          "text_sha256": "b98d92ec00b619b7f7cf4d2f245f943d9f211d2bf54f529d40c4e43380430ec4",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-1e3436cbf97e",
+      "title": "Rosco RB50 operation, service and parts manual · original PDF pages 301–314",
+      "category": "manufacturer-original",
+      "original_path": "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf"
+      ],
+      "sha256": "1e3436cbf97e90a7c41d2909a3692e504267eee06074a19fa31478a54dec429d",
+      "original_bytes": 163557,
+      "pdf_pages": 14,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained",
+        "source_document": "rosco-rb50-manual",
+        "complete_source_pdf_start": 301,
+        "complete_source_pdf_end": 314,
+        "complete_source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 14,
+          "page_count": 14,
+          "pdf": "../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf",
+          "bytes": 163557,
+          "sha256": "1e3436cbf97e90a7c41d2909a3692e504267eee06074a19fa31478a54dec429d",
+          "text": "chunks/rosco-rb50-p301-p314-1e3436cbf97e/p0001-0014.txt",
+          "text_bytes": 35992,
+          "text_sha256": "0279060baf5db23bd465ea644149527749a08986697d7f3a241916a4cf6f394b",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [
+            13
+          ],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "source_part_reused": true,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
       "id": "PDF-44a200c663ac",
       "title": "Caterpillar · parts atlas",
       "category": "generated-curriculum",
@@ -14850,16 +15773,16 @@
       ]
     },
     {
-      "id": "PDF-a0c50f5f039e",
+      "id": "PDF-5f81a063f4ab",
       "title": "Line A · roadbuilding foundations",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf",
       "aliases": [
         "curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf"
       ],
-      "sha256": "a0c50f5f039e264207951637d5a6f4209231486cfccd9b51c6955a077f6715a4",
-      "original_bytes": 2600055,
-      "pdf_pages": 38,
+      "sha256": "5f81a063f4ab26f293f1f80dff85756c29b68f94bdcb90676b96bd5b3b21389e",
+      "original_bytes": 2606783,
+      "pdf_pages": 39,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -14873,12 +15796,12 @@
           "original_page_start": 1,
           "original_page_end": 25,
           "page_count": 25,
-          "pdf": "chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.pdf",
-          "bytes": 1665269,
-          "sha256": "60aad8d130ee27910638eb7e78eb9a1e770129c99a729a64e3d1bf9d77cb99f1",
-          "text": "chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.txt",
-          "text_bytes": 67500,
-          "text_sha256": "8949a95e2b88956d051032e84362738be048af9394496a3a0d8459d33ff524b8",
+          "pdf": "chunks/roadbuilding-foundations-5f81a063f4ab/p0001-0025.pdf",
+          "bytes": 1664817,
+          "sha256": "440b074217ea54d47e75585a13b0da7b206918afa3d0675004d9097e6f6667e0",
+          "text": "chunks/roadbuilding-foundations-5f81a063f4ab/p0001-0025.txt",
+          "text_bytes": 66630,
+          "text_sha256": "f744b04e1fc433595d6603cd787db3cf369858e6d6f683908c5c9081a0a03b47",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -14889,14 +15812,14 @@
         },
         {
           "original_page_start": 26,
-          "original_page_end": 38,
-          "page_count": 13,
-          "pdf": "chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.pdf",
-          "bytes": 865635,
-          "sha256": "c8be6eec60c7b699906fc72e895476aa95d85ece5bef1f3e78f3bbd69524cf3f",
-          "text": "chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.txt",
-          "text_bytes": 36425,
-          "text_sha256": "1c73188a8a00919fa63da2c540a63addfb66123d31d2c2d234f9efe966349372",
+          "original_page_end": 39,
+          "page_count": 14,
+          "pdf": "chunks/roadbuilding-foundations-5f81a063f4ab/p0026-0039.pdf",
+          "bytes": 873038,
+          "sha256": "6dc905e144614fc097f94f7bbf578b3202f855aaf3a186db09a82829746df623",
+          "text": "chunks/roadbuilding-foundations-5f81a063f4ab/p0026-0039.txt",
+          "text_bytes": 39263,
+          "text_sha256": "35e90de335cb068013ce8578841025a573f2011630d9927816ec6a0e20ecc85c",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -14908,16 +15831,16 @@
       ]
     },
     {
-      "id": "PDF-8ded550dcc0d",
+      "id": "PDF-c77af84593f6",
       "title": "Line A · teaching guide",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/line-a/teaching-guide.pdf",
       "aliases": [
         "curriculum/asphalt-paving/line-a/teaching-guide.pdf"
       ],
-      "sha256": "8ded550dcc0d7963cbfd9aada46a99edfeb38d47b3f44552bebb52118072d16d",
-      "original_bytes": 152972,
-      "pdf_pages": 17,
+      "sha256": "c77af84593f6da52803524650df376d8b78b1510d1755277174a1ff2d9e13c80",
+      "original_bytes": 164166,
+      "pdf_pages": 18,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -14929,21 +15852,21 @@
       "chunks": [
         {
           "original_page_start": 1,
-          "original_page_end": 17,
-          "page_count": 17,
-          "pdf": "chunks/teaching-guide-8ded550dcc0d/p0001-0017.pdf",
-          "bytes": 152246,
-          "sha256": "f3bcf82d652ada93613cea39d02be7fd456000f8f9bc7363590565eb97044dae",
-          "text": "chunks/teaching-guide-8ded550dcc0d/p0001-0017.txt",
-          "text_bytes": 44158,
-          "text_sha256": "13248a67645182a94785f5acd4a5d6152c8fa65d00e11f6fa08db9fc1547d54c",
+          "original_page_end": 18,
+          "page_count": 18,
+          "pdf": "chunks/teaching-guide-c77af84593f6/p0001-0018.pdf",
+          "bytes": 163440,
+          "sha256": "cf06a7b3d9c3f34bb526c6c3e68d3b4b9d237047b79a3de4f12cbe33c6412d9e",
+          "text": "chunks/teaching-guide-c77af84593f6/p0001-0018.txt",
+          "text_bytes": 48961,
+          "text_sha256": "3d5bfef7ed19770cd78e902051e81845a181b1ab9ac57c733142c785988c5e37",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 7,
-          "external_uri_link_annotations_retained": 4
+          "external_uri_link_annotations_retained": 3
         }
       ]
     },
@@ -15228,16 +16151,16 @@
       ]
     },
     {
-      "id": "PDF-d9248b33bf59",
+      "id": "PDF-6ec6551957c7",
       "title": "Textbook · answers",
       "category": "generated-curriculum",
       "original_path": "curriculum/asphalt-paving/textbook/answers.pdf",
       "aliases": [
         "curriculum/asphalt-paving/textbook/answers.pdf"
       ],
-      "sha256": "d9248b33bf59821c2f42a7126d4ed776d6a61b6f2ddbafae4bf7206e9469bbe6",
-      "original_bytes": 189614,
-      "pdf_pages": 20,
+      "sha256": "6ec6551957c708fb815b852185e9cce25885e8f34c7d39882c43907ea7bdf310",
+      "original_bytes": 203968,
+      "pdf_pages": 24,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -15249,35 +16172,35 @@
       "chunks": [
         {
           "original_page_start": 1,
-          "original_page_end": 20,
-          "page_count": 20,
-          "pdf": "chunks/answers-d9248b33bf59/p0001-0020.pdf",
-          "bytes": 188656,
-          "sha256": "ac4c1283cee39d0c98ad1cef9b90cef3fe0eab4fae742e3cf8ccee9d4953bfe3",
-          "text": "chunks/answers-d9248b33bf59/p0001-0020.txt",
-          "text_bytes": 51354,
-          "text_sha256": "0c89ef543892b8bcc53b022cdd14250f6bb142355c7e2c34a6afb2e706a4414f",
+          "original_page_end": 24,
+          "page_count": 24,
+          "pdf": "chunks/answers-6ec6551957c7/p0001-0024.pdf",
+          "bytes": 203010,
+          "sha256": "74fc8fb47de761df928fdf426de51d92e63ce69aed17c9e6801732a23a06853a",
+          "text": "chunks/answers-6ec6551957c7/p0001-0024.txt",
+          "text_bytes": 58009,
+          "text_sha256": "19491d03a153bcc4dbf5f750400f4bd10c9818e8c982bce21d1be2336041d94c",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 8,
-          "external_uri_link_annotations_retained": 4
+          "external_uri_link_annotations_retained": 6
         }
       ]
     },
     {
-      "id": "PDF-c3e6f453d41f",
-      "title": "Textbook · study textbook",
+      "id": "PDF-2942e4c343f9",
+      "title": "Series · volume 2 answers",
       "category": "generated-curriculum",
-      "original_path": "curriculum/asphalt-paving/textbook/study-textbook.pdf",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-2-answers.pdf",
       "aliases": [
-        "curriculum/asphalt-paving/textbook/study-textbook.pdf"
+        "curriculum/asphalt-paving/textbook/series/volume-2-answers.pdf"
       ],
-      "sha256": "c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4",
-      "original_bytes": 8754547,
-      "pdf_pages": 77,
+      "sha256": "2942e4c343f934a253f7a3f55b18cb207a61ea28495aa7d03d80e2779c58c805",
+      "original_bytes": 405017,
+      "pdf_pages": 27,
       "original_encryption_present": false,
       "opened_with_standard_empty_password": false,
       "extraction": {
@@ -15291,12 +16214,896 @@
           "original_page_start": 1,
           "original_page_end": 25,
           "page_count": 25,
-          "pdf": "chunks/study-textbook-c3e6f453d41f/p0001-0025.pdf",
-          "bytes": 1916393,
-          "sha256": "ece823a91bcb442261b3ec4ecdb3373aa4dbd4bd50fe48e109325ce444e6f634",
-          "text": "chunks/study-textbook-c3e6f453d41f/p0001-0025.txt",
-          "text_bytes": 61195,
-          "text_sha256": "691a9f68f9f18dd9ce5757bc50be42e4d678e85370fc16e63c9ed3d4cffea449",
+          "pdf": "chunks/volume-2-answers-2942e4c343f9/p0001-0025.pdf",
+          "bytes": 222764,
+          "sha256": "86af3becef282edd75c3b2efea1cf6fbdb7769aec90f5dd1bbe318d1356772b0",
+          "text": "chunks/volume-2-answers-2942e4c343f9/p0001-0025.txt",
+          "text_bytes": 53676,
+          "text_sha256": "0f1e71da44ff521d7edccb90ef5d14dbfc6494836035b1bed6491e8379c26871",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 11,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 27,
+          "page_count": 2,
+          "pdf": "chunks/volume-2-answers-2942e4c343f9/p0026-0027.pdf",
+          "bytes": 60088,
+          "sha256": "bcd0c51e094f5d36838165b0df0a3515ff8a3dc4d33779fc063dad821e13e7f1",
+          "text": "chunks/volume-2-answers-2942e4c343f9/p0026-0027.txt",
+          "text_bytes": 2429,
+          "text_sha256": "cb99d28f3c605900e9aebc9e9f2362ef764e67ad304b7c4d614948e957b2ca4d",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-61d6326a9bd8",
+      "title": "Series · volume 2",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-2.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-2.pdf"
+      ],
+      "sha256": "61d6326a9bd824ee7c389dae6a14b068f785bbbbf98eb651d96a0a04b11da93a",
+      "original_bytes": 4656789,
+      "pdf_pages": 55,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-2-61d6326a9bd8/p0001-0025.pdf",
+          "bytes": 2801232,
+          "sha256": "604cde4c2b89e1cc24aa085febb485f7309163db4677c9412fb03457f12f5a60",
+          "text": "chunks/volume-2-61d6326a9bd8/p0001-0025.txt",
+          "text_bytes": 42423,
+          "text_sha256": "fc70454e3e112790aca5351f903caf19474645187911d005ab9201c40d171e1d",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 22,
+          "external_uri_link_annotations_retained": 32
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-2-61d6326a9bd8/p0026-0050.pdf",
+          "bytes": 1601911,
+          "sha256": "c3bde70644bc2b76d051d2fe63b015c47a80d23a65c6956824010a318aa5d72a",
+          "text": "chunks/volume-2-61d6326a9bd8/p0026-0050.txt",
+          "text_bytes": 51059,
+          "text_sha256": "303ec9adcd8656f0be28e68d556595e21071e22b6cd6c27761e460833b44bd6b",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 13,
+          "external_uri_link_annotations_retained": 41
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 55,
+          "page_count": 5,
+          "pdf": "chunks/volume-2-61d6326a9bd8/p0051-0055.pdf",
+          "bytes": 85449,
+          "sha256": "8d6a648484eabc4623a7d2f798c7ceece46d063d12959be1097f83c5ebf467b0",
+          "text": "chunks/volume-2-61d6326a9bd8/p0051-0055.txt",
+          "text_bytes": 7617,
+          "text_sha256": "d3a1e4d26243de255df2df15a2c0eff07cbaa4922771e1775965b0422c0eeb78",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 3
+        }
+      ]
+    },
+    {
+      "id": "PDF-50072f1bf1c6",
+      "title": "Series · volume 3 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-3-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-3-answers.pdf"
+      ],
+      "sha256": "50072f1bf1c6285c24b19d7afa8b6f41f85374212bfb8b0fd6d807f4275ac5c7",
+      "original_bytes": 482353,
+      "pdf_pages": 32,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-3-answers-50072f1bf1c6/p0001-0025.pdf",
+          "bytes": 220595,
+          "sha256": "bb067233058385ebb6f2ce4f24de603dc16aee2fea82e7900a8f1ae4dc116c6a",
+          "text": "chunks/volume-3-answers-50072f1bf1c6/p0001-0025.txt",
+          "text_bytes": 54581,
+          "text_sha256": "d3202865f93c0987e444af7d82ccd1632e136164fd694ba4a36f84d2d81cc30c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 13,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 32,
+          "page_count": 7,
+          "pdf": "chunks/volume-3-answers-50072f1bf1c6/p0026-0032.pdf",
+          "bytes": 100418,
+          "sha256": "7d29ce14a03f9af3a309526dea61ce5b817428a98547107b1ac7804cd6b0a98a",
+          "text": "chunks/volume-3-answers-50072f1bf1c6/p0026-0032.txt",
+          "text_bytes": 12520,
+          "text_sha256": "7c6ce8cb7ab156f566c7a95d6faf2771828873da1ce637f577afd06e9bf842b0",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-cf997daf6a49",
+      "title": "Series · volume 3",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-3.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-3.pdf"
+      ],
+      "sha256": "cf997daf6a494e33d3823ae5911f2978d7107901caffda04970526b5b4b566f7",
+      "original_bytes": 2232068,
+      "pdf_pages": 67,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-3-cf997daf6a49/p0001-0025.pdf",
+          "bytes": 593842,
+          "sha256": "44b8bdedea0addbcefbe367ffc76e5099d415b5e76fd3e5df63b994bda9a494a",
+          "text": "chunks/volume-3-cf997daf6a49/p0001-0025.txt",
+          "text_bytes": 45542,
+          "text_sha256": "2c8d013527021b75c6c71633212a9fda69d9b8d87dc805162ae2fe2d17445689",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 32,
+          "external_uri_link_annotations_retained": 25
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-3-cf997daf6a49/p0026-0050.pdf",
+          "bytes": 1052625,
+          "sha256": "f7540cfcfa844ec75af4ba96c3a1592bb6168fc4be95e42946574292bd1c9da8",
+          "text": "chunks/volume-3-cf997daf6a49/p0026-0050.txt",
+          "text_bytes": 48895,
+          "text_sha256": "492707f5c224c652e1c0e0228709db57208d24ac86ded2209cd91ab7a106f0cb",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 16,
+          "external_uri_link_annotations_retained": 40
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 67,
+          "page_count": 17,
+          "pdf": "chunks/volume-3-cf997daf6a49/p0051-0067.pdf",
+          "bytes": 480178,
+          "sha256": "67441723116cf93ca8eeb75c4f209e77bf0d6109092d8416dec88cc51d6888ba",
+          "text": "chunks/volume-3-cf997daf6a49/p0051-0067.txt",
+          "text_bytes": 30230,
+          "text_sha256": "b5e33a170191d4ef322416a6cadf58eff8e382ab66d43e44ac17f29f401d4636",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 4,
+          "external_uri_link_annotations_retained": 21
+        }
+      ]
+    },
+    {
+      "id": "PDF-8f0348647c88",
+      "title": "Series · volume 4 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-4-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-4-answers.pdf"
+      ],
+      "sha256": "8f0348647c88fc6510dec41023d006e4c9ab090adf3ffd57f0b56eaa8145e418",
+      "original_bytes": 391186,
+      "pdf_pages": 27,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-4-answers-8f0348647c88/p0001-0025.pdf",
+          "bytes": 208245,
+          "sha256": "25a67d34316750d6b94e75f9f0f9d584fce74c5937761b55bfaa482347f8ca9f",
+          "text": "chunks/volume-4-answers-8f0348647c88/p0001-0025.txt",
+          "text_bytes": 49196,
+          "text_sha256": "a573d92da758250ad60387728f0ab4414620eeb557247b06cc9ecafe460ca1da",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 11,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 27,
+          "page_count": 2,
+          "pdf": "chunks/volume-4-answers-8f0348647c88/p0026-0027.pdf",
+          "bytes": 61526,
+          "sha256": "db7389cb1ddbfaf627f778ce2ba130102d6ebb2f4d8ae4c43815a699b8890b0d",
+          "text": "chunks/volume-4-answers-8f0348647c88/p0026-0027.txt",
+          "text_bytes": 2478,
+          "text_sha256": "6cf9b052d3c0044d84a6ab7ed67e8eec9830fe9b31854462309a7fe3d85f0af8",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-b32e770c1aff",
+      "title": "Series · volume 4",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-4.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-4.pdf"
+      ],
+      "sha256": "b32e770c1aff3a864beb34d382640de4eaf7596633e007b248d3adb1589ea5e5",
+      "original_bytes": 3654809,
+      "pdf_pages": 53,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-4-b32e770c1aff/p0001-0025.pdf",
+          "bytes": 1947996,
+          "sha256": "36ced9cde1f2b70c072343692eb06dcd478cfd541dde6db40814f05e776942cd",
+          "text": "chunks/volume-4-b32e770c1aff/p0001-0025.txt",
+          "text_bytes": 49235,
+          "text_sha256": "dd9f2d7ee265db932240a27852b167ee172a159217916af866e277f3f5887116",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 27,
+          "external_uri_link_annotations_retained": 34
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-4-b32e770c1aff/p0026-0050.pdf",
+          "bytes": 1106577,
+          "sha256": "b96286c2291d51643ee9a4f9716b3b3a26aaf1a0a25ac45445c56de80fad53ce",
+          "text": "chunks/volume-4-b32e770c1aff/p0026-0050.txt",
+          "text_bytes": 42022,
+          "text_sha256": "c1e9ceffba7f51df994748e9151eb7c53ae56a7d6876e5e21a90ae51e37ac69b",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 5,
+          "external_uri_link_annotations_retained": 48
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 53,
+          "page_count": 3,
+          "pdf": "chunks/volume-4-b32e770c1aff/p0051-0053.pdf",
+          "bytes": 71563,
+          "sha256": "e2fb832e61aca7daaeb29891be19bfeea0b1785dd2c62588855a22437e19a0d6",
+          "text": "chunks/volume-4-b32e770c1aff/p0051-0053.txt",
+          "text_bytes": 3471,
+          "text_sha256": "0af659633ca66e1ca783e6f7749b7edf80bb334a162a74956cce2de61c79ae3c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-5aaf7a9e0bad",
+      "title": "Series · volume 5 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-5-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-5-answers.pdf"
+      ],
+      "sha256": "5aaf7a9e0badf89627819dd61c3521d3defcc407b7274b917b066c4c3679e463",
+      "original_bytes": 362392,
+      "pdf_pages": 24,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 24,
+          "page_count": 24,
+          "pdf": "chunks/volume-5-answers-5aaf7a9e0bad/p0001-0024.pdf",
+          "bytes": 202259,
+          "sha256": "8ecaaacd45bf9d8a622d7a0ba5b0a06be93810280a49ea3e96789a1f6030f361",
+          "text": "chunks/volume-5-answers-5aaf7a9e0bad/p0001-0024.txt",
+          "text_bytes": 47152,
+          "text_sha256": "f41942368a005284e63bdb078448a872de4165f249bfeadc390217bdd857ea0b",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 10,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-844c71a1adc8",
+      "title": "Series · volume 5",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-5.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-5.pdf"
+      ],
+      "sha256": "844c71a1adc85d19d1a2e4e1303f5e7c5e330fa34b09fd8277ff2827ef9b92e3",
+      "original_bytes": 5176645,
+      "pdf_pages": 51,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-5-844c71a1adc8/p0001-0025.pdf",
+          "bytes": 3661677,
+          "sha256": "208cfe15fe5fd713efeafefd5f635196fd2f5a95ff32d07925dd99d08517ca0b",
+          "text": "chunks/volume-5-844c71a1adc8/p0001-0025.txt",
+          "text_bytes": 39733,
+          "text_sha256": "f3aa2abbf141d7c7a78d6b1f869c547fa0fbc13caef31a4f4492ddd19891cf9a",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 29,
+          "external_uri_link_annotations_retained": 27
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-5-844c71a1adc8/p0026-0050.pdf",
+          "bytes": 2018558,
+          "sha256": "42bdd26a512a69e3ecd902159770a33612ede2a87ef4ea58602aa907557842b9",
+          "text": "chunks/volume-5-844c71a1adc8/p0026-0050.txt",
+          "text_bytes": 42641,
+          "text_sha256": "a34c55fd2024b6c51b5db06939417c20e39e6c66b7de6aec0cc5f4d50ec8d2d9",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 13,
+          "external_uri_link_annotations_retained": 37
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 51,
+          "page_count": 1,
+          "pdf": "chunks/volume-5-844c71a1adc8/p0051-0051.pdf",
+          "bytes": 39309,
+          "sha256": "fe435701cd9e9a8af5c07abb4c1d7f01ccc23e91686b937207bb0fbac645f9a9",
+          "text": "chunks/volume-5-844c71a1adc8/p0051-0051.txt",
+          "text_bytes": 1513,
+          "text_sha256": "00d383577cc428992f5b0a81b125429789745ed5a5017877db9f200597cc1470",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-83afb7f989a8",
+      "title": "Series · volume 6 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-6-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-6-answers.pdf"
+      ],
+      "sha256": "83afb7f989a8521d52b6831bceef1ce6e8b0ae3abfb3a002dc31b1dd4374a5ea",
+      "original_bytes": 389894,
+      "pdf_pages": 26,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-6-answers-83afb7f989a8/p0001-0025.pdf",
+          "bytes": 211772,
+          "sha256": "18c9cf8ea519a32e5c683d58b38f77e8a6e4ff85b7c3a26b546d962016eafd76",
+          "text": "chunks/volume-6-answers-83afb7f989a8/p0001-0025.txt",
+          "text_bytes": 50737,
+          "text_sha256": "ae0eab81c7c32a125ab7ded53c65046cc06c2f2fe612287b6d120ed5a4162012",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 11,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 26,
+          "page_count": 1,
+          "pdf": "chunks/volume-6-answers-83afb7f989a8/p0026-0026.pdf",
+          "bytes": 29314,
+          "sha256": "87116ea5a936251c4cf047efa7b3101ae98f8321df477cb03285c4a70f4534fd",
+          "text": "chunks/volume-6-answers-83afb7f989a8/p0026-0026.txt",
+          "text_bytes": 702,
+          "text_sha256": "1194107b805a9a5eb11e6e71f108372fb19207a738d4684645994a72c5f0ac8b",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-3dbd9786ff48",
+      "title": "Series · volume 6",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-6.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-6.pdf"
+      ],
+      "sha256": "3dbd9786ff488125a2fbf5efb2cf0ffd3db670b6ef10a2a2b46511d29602f50a",
+      "original_bytes": 6868383,
+      "pdf_pages": 58,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-6-3dbd9786ff48/p0001-0025.pdf",
+          "bytes": 4989383,
+          "sha256": "ca16347ed6e0f6ac83dbac9571d2054d2d3c517e091858337e45ff1de2823c7a",
+          "text": "chunks/volume-6-3dbd9786ff48/p0001-0025.txt",
+          "text_bytes": 40217,
+          "text_sha256": "45a6866cbd1f991dd9ae12749a48a30d3b2db90df83151870919903800d11e2c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 35,
+          "external_uri_link_annotations_retained": 33
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-6-3dbd9786ff48/p0026-0050.pdf",
+          "bytes": 4045480,
+          "sha256": "1e450db562596fa35ff29eb2564cb61748150d3a045ff9b858b1c5d69a4b92d7",
+          "text": "chunks/volume-6-3dbd9786ff48/p0026-0050.txt",
+          "text_bytes": 41770,
+          "text_sha256": "7942d1f3d999d5a41da8050de569e76f297a62fcc3a15fb8a26d6e346810ce64",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 15,
+          "external_uri_link_annotations_retained": 45
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 58,
+          "page_count": 8,
+          "pdf": "chunks/volume-6-3dbd9786ff48/p0051-0058.pdf",
+          "bytes": 260976,
+          "sha256": "91671f940dbecb259aced2b077757024255cb5e05bb9d0b1b674b848a15c9277",
+          "text": "chunks/volume-6-3dbd9786ff48/p0051-0058.txt",
+          "text_bytes": 12377,
+          "text_sha256": "4448a026312410e8e6646fabba914fc7f7733ae0cf218d37ee9552c3c1a4e226",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 4,
+          "external_uri_link_annotations_retained": 12
+        }
+      ]
+    },
+    {
+      "id": "PDF-95a068da3dd6",
+      "title": "Series · volume 7 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-7-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-7-answers.pdf"
+      ],
+      "sha256": "95a068da3dd6d88b8d73e0f17214fcaf9972ca7b2bbc814086cfe1013c9908dd",
+      "original_bytes": 389383,
+      "pdf_pages": 27,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-7-answers-95a068da3dd6/p0001-0025.pdf",
+          "bytes": 205083,
+          "sha256": "96b7e20c0f585989a7b76b799b86d48945e87318d464c8fa9e677b3dc95a6491",
+          "text": "chunks/volume-7-answers-95a068da3dd6/p0001-0025.txt",
+          "text_bytes": 49020,
+          "text_sha256": "37fc5a6945f1a9b7add279117694d6c5c3702110e3b5792dfd0c0b99768c9c99",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 11,
+          "external_uri_link_annotations_retained": 0
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 27,
+          "page_count": 2,
+          "pdf": "chunks/volume-7-answers-95a068da3dd6/p0026-0027.pdf",
+          "bytes": 58855,
+          "sha256": "301c8dd87ca6ab500679c73b8e0b4d21e246a88d356d3d7794ce34d6b133d7ed",
+          "text": "chunks/volume-7-answers-95a068da3dd6/p0026-0027.txt",
+          "text_bytes": 2463,
+          "text_sha256": "60aef90131763b8e8f3f0dd0c3046ee2f3bbdb59277df5c5cb4da0949d77814e",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-efcee644784d",
+      "title": "Series · volume 7",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-7.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-7.pdf"
+      ],
+      "sha256": "efcee644784dc58a4b8088c6de907179cdab3a69da7f947adb75afafb23deab0",
+      "original_bytes": 4134459,
+      "pdf_pages": 55,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-7-efcee644784d/p0001-0025.pdf",
+          "bytes": 1931764,
+          "sha256": "82d153b6253fc7b27c9514afd933eb354a2335e9d31a674ce5922e73b0760b4c",
+          "text": "chunks/volume-7-efcee644784d/p0001-0025.txt",
+          "text_bytes": 39218,
+          "text_sha256": "53331ef8ec565028abc6f8c8fc00b3ea108fc2283c0eea3cb19389edc96e621c",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 30,
+          "external_uri_link_annotations_retained": 32
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 50,
+          "page_count": 25,
+          "pdf": "chunks/volume-7-efcee644784d/p0026-0050.pdf",
+          "bytes": 1929897,
+          "sha256": "e8658b53c66377cdd57a4824b2701198307e366ccf628f4bae62da9d26f7c7c8",
+          "text": "chunks/volume-7-efcee644784d/p0026-0050.txt",
+          "text_bytes": 43555,
+          "text_sha256": "8c8e0f5b923ca423d135245dda3a1d08c6da4683ebba8f54b516a93705402ff8",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 12,
+          "external_uri_link_annotations_retained": 47
+        },
+        {
+          "original_page_start": 51,
+          "original_page_end": 55,
+          "page_count": 5,
+          "pdf": "chunks/volume-7-efcee644784d/p0051-0055.pdf",
+          "bytes": 89176,
+          "sha256": "8213de977bf0d932f15145aed5ba4220c1373bd793c9d0c1e553f553167284aa",
+          "text": "chunks/volume-7-efcee644784d/p0051-0055.txt",
+          "text_bytes": 8338,
+          "text_sha256": "497d84021cbc5e033ae6aaca142e7235adc1823dffe52e542b02ff0c35e0a31f",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 0,
+          "external_uri_link_annotations_retained": 11
+        }
+      ]
+    },
+    {
+      "id": "PDF-b5e5fb5b6066",
+      "title": "Series · volume 8 answers",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-8-answers.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-8-answers.pdf"
+      ],
+      "sha256": "b5e5fb5b60663698d1921941deddb0f0f8fb6bc0e0575e56b08efc7ffd7bf85b",
+      "original_bytes": 304290,
+      "pdf_pages": 21,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 21,
+          "page_count": 21,
+          "pdf": "chunks/volume-8-answers-b5e5fb5b6066/p0001-0021.pdf",
+          "bytes": 174133,
+          "sha256": "9960a70018f4db3c0f2f883154843598dadefdbdb5b027f1bc96b99af999d30d",
+          "text": "chunks/volume-8-answers-b5e5fb5b6066/p0001-0021.txt",
+          "text_bytes": 38534,
+          "text_sha256": "5d3f95af479fba27e12f15c9edc405e477394bbfdf60fdd4887d46114d38fc49",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 8,
+          "external_uri_link_annotations_retained": 0
+        }
+      ]
+    },
+    {
+      "id": "PDF-fb2feedcca97",
+      "title": "Series · volume 8",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/series/volume-8.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/series/volume-8.pdf"
+      ],
+      "sha256": "fb2feedcca97f9e6e6c3821ac4822390b6dbc53c7afa1061832cb2063867e38f",
+      "original_bytes": 1796552,
+      "pdf_pages": 44,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/volume-8-fb2feedcca97/p0001-0025.pdf",
+          "bytes": 1153757,
+          "sha256": "6c22fc93e15e0aa6dabdc98da217fc3ff863d1ea1adada212d8ffcdeb43eaa61",
+          "text": "chunks/volume-8-fb2feedcca97/p0001-0025.txt",
+          "text_bytes": 39444,
+          "text_sha256": "62fb72650a76f23c611e7e7f9a6f53f3f701224a7c82f5922b45ffc1105a9ab8",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 28,
+          "external_uri_link_annotations_retained": 29
+        },
+        {
+          "original_page_start": 26,
+          "original_page_end": 44,
+          "page_count": 19,
+          "pdf": "chunks/volume-8-fb2feedcca97/p0026-0044.pdf",
+          "bytes": 793253,
+          "sha256": "72b0141bd4d4cad309f457daa88b9392e0d62d5423e81c4b2cbaf9c1fcbd76c6",
+          "text": "chunks/volume-8-fb2feedcca97/p0026-0044.txt",
+          "text_bytes": 31414,
+          "text_sha256": "69c0f0ae31dc7ceea6df96fe2facf0e6de55cd7c7a8a35a9b2dbd62b7c20bbc5",
+          "extraction_status": "extracted",
+          "empty_text_original_pages": [],
+          "sparse_text_original_pages": [],
+          "ocr_performed": false,
+          "single_page_exceeds_target_bytes": false,
+          "internal_or_non_uri_link_annotations_removed": 9,
+          "external_uri_link_annotations_retained": 29
+        }
+      ]
+    },
+    {
+      "id": "PDF-8dc630b760ba",
+      "title": "Textbook · study textbook",
+      "category": "generated-curriculum",
+      "original_path": "curriculum/asphalt-paving/textbook/study-textbook.pdf",
+      "aliases": [
+        "curriculum/asphalt-paving/textbook/study-textbook.pdf"
+      ],
+      "sha256": "8dc630b760bac91d2a0fce4d3e4c0530cd801ad167b0d7347598c674f33fd82f",
+      "original_bytes": 8761234,
+      "pdf_pages": 78,
+      "original_encryption_present": false,
+      "opened_with_standard_empty_password": false,
+      "extraction": {
+        "status": "extracted",
+        "warning": null,
+        "ocr_performed": false,
+        "method": "pdftotext -layout, UTF-8; PDF page boundaries retained"
+      },
+      "chunks": [
+        {
+          "original_page_start": 1,
+          "original_page_end": 25,
+          "page_count": 25,
+          "pdf": "chunks/study-textbook-8dc630b760ba/p0001-0025.pdf",
+          "bytes": 1917310,
+          "sha256": "c05f3cc762684ae5b8146163b67e32e4eab6c44e70c71693b8a257bf9fa75768",
+          "text": "chunks/study-textbook-8dc630b760ba/p0001-0025.txt",
+          "text_bytes": 61744,
+          "text_sha256": "1631d2670c60140f26675e2b5d1cce460033746e7dcee5a7be9c894dc5f349a1",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -15309,12 +17116,12 @@
           "original_page_start": 26,
           "original_page_end": 50,
           "page_count": 25,
-          "pdf": "chunks/study-textbook-c3e6f453d41f/p0026-0050.pdf",
-          "bytes": 5041158,
-          "sha256": "601ecd6502b96e30449169b9d40ba1c31d22b2810dcc89beb8d4fefa013de5aa",
-          "text": "chunks/study-textbook-c3e6f453d41f/p0026-0050.txt",
-          "text_bytes": 57144,
-          "text_sha256": "9702d8e9c88c46958f0a6fd025a6b4b7c6051259e5bfdd1dde2325bcaa9abcba",
+          "pdf": "chunks/study-textbook-8dc630b760ba/p0026-0050.pdf",
+          "bytes": 5042438,
+          "sha256": "2c7313337b0088723d56fa6eed36e64d2f0a9595912c695878e144c1cb6f18b8",
+          "text": "chunks/study-textbook-8dc630b760ba/p0026-0050.txt",
+          "text_bytes": 58069,
+          "text_sha256": "caca504fdd6c411092c7bdee110b3bf3be90d2d4a3f42bf1ee7c5a64cce11796",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
@@ -15327,37 +17134,37 @@
           "original_page_start": 51,
           "original_page_end": 75,
           "page_count": 25,
-          "pdf": "chunks/study-textbook-c3e6f453d41f/p0051-0075.pdf",
-          "bytes": 1729357,
-          "sha256": "9323914f2fb0e4717d64c0ba47c4d69450977e5da2e0b6c8621b2b633f4699f5",
-          "text": "chunks/study-textbook-c3e6f453d41f/p0051-0075.txt",
-          "text_bytes": 63927,
-          "text_sha256": "09caea7a77215a89d7146937be9df447993aab421fc2daf95081224aa25db4c3",
+          "pdf": "chunks/study-textbook-8dc630b760ba/p0051-0075.pdf",
+          "bytes": 1716298,
+          "sha256": "94a352eaff42bcb2b86c8e69681b38d6320ce03f0b2a3c4aeff23bd693074c6e",
+          "text": "chunks/study-textbook-8dc630b760ba/p0051-0075.txt",
+          "text_bytes": 62046,
+          "text_sha256": "26297814998665f81af3c4278361df9b8fb62070ebfe01e066b0a198428c6ac5",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 0,
-          "external_uri_link_annotations_retained": 44
+          "external_uri_link_annotations_retained": 19
         },
         {
           "original_page_start": 76,
-          "original_page_end": 77,
-          "page_count": 2,
-          "pdf": "chunks/study-textbook-c3e6f453d41f/p0076-0077.pdf",
-          "bytes": 77424,
-          "sha256": "28e38c03cb516de17072323b0cada01b1b5f94908979d07a585881367d037131",
-          "text": "chunks/study-textbook-c3e6f453d41f/p0076-0077.txt",
-          "text_bytes": 5835,
-          "text_sha256": "44d388a23efef3c26a4eaaa3f1262577c5f39a51568f4eed0eda8665b37e6571",
+          "original_page_end": 78,
+          "page_count": 3,
+          "pdf": "chunks/study-textbook-8dc630b760ba/p0076-0078.pdf",
+          "bytes": 94917,
+          "sha256": "fb3276de60f3bc658dd8fc564d8b0b5bbae7530a0242ef7bd12ecd3f725d71de",
+          "text": "chunks/study-textbook-8dc630b760ba/p0076-0078.txt",
+          "text_bytes": 9054,
+          "text_sha256": "d5a5465561fcb89020e1c8a2e46a64b3c09dbc6b78c22482e87d5b98b9274ef4",
           "extraction_status": "extracted",
           "empty_text_original_pages": [],
           "sparse_text_original_pages": [],
           "ocr_performed": false,
           "single_page_exceeds_target_bytes": false,
           "internal_or_non_uri_link_annotations_removed": 0,
-          "external_uri_link_annotations_retained": 27
+          "external_uri_link_annotations_retained": 52
         }
       ]
     },

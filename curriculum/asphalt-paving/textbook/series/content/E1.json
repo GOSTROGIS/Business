@@ -1,0 +1,73 @@
+{
+  "code": "E1",
+  "title": "Determine asphalt mix design",
+  "intro": "A **mix design** establishes a suitable combination of aggregate, binder and other permitted ingredients for the required pavement performance. The accepted **job mix formula (JMF)** then provides the production target under the contract. It is more than a recipe by eye: the materials, proportions, test basis and performance requirements belong together.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe asphalt/aggregate composition",
+      "text": "The aggregate skeleton, binder and air voids form a mixture whose response depends on both materials and compaction. **Marshall** design uses its specified specimen preparation and stability/flow and volumetric evaluations. **Superpave** design uses its specified material selection, gyratory compaction and volumetric framework, with additional tests where required. Their results and specimen methods are not interchangeable labels.\n\nA field crew does not redesign a mixture by adding binder when the surface looks dry. Document the observation, identify the supplied JMF and refer the condition through quality control. Changes in aggregate source, binder grade or recovered material can affect the design and may require the specified approval process."
+    },
+    {
+      "number": 2,
+      "title": "Describe types of mix designs",
+      "text": "Dense-graded, open-graded, gap-graded and other designed mixtures distribute aggregate sizes differently and may serve different functions. A mixture chosen for drainage is not automatically suitable for every structural or traffic demand. The specification identifies the required mixture type, nominal size, binder and other design properties; the accepted formula identifies the actual approved combination.\n\nRead the formula’s product/source identities, target proportions, binder grade/content, recovered material where permitted, test basis and version. A production ticket with the wrong JMF identifier is a traceability issue even if the mixture looks familiar. Keep design approval separate from daily production conformity."
+    },
+    {
+      "number": 3,
+      "title": "Describe mix temperature characteristics",
+      "text": "Hot-mix asphalt is produced and placed under its required elevated-temperature process. Warm-mix technologies permit specified production/placement approaches at reduced temperatures relative to the corresponding conventional process. Cold-mix products use a different material/process arrangement and are selected for the intended application. These categories do not supply one universal upper/lower temperature.\n\nThe approved mix, binder, equipment, haul, ambient conditions and placement/compaction procedure determine the usable temperature requirements. Read actual values from the governing documents and measure by the specified method. A surface infrared reading and an internal probe reading answer different questions. Temperature is recorded with location, time, method and instrument identity."
+    }
+  ],
+  "worked": {
+    "title": "Keep the percentage basis",
+    "case": "Fictional teaching JMF uses 5.2% binder by total mixture mass. A 25.0 t batch is considered for arithmetic only. No production temperature or field design is prescribed.",
+    "solution": "Binder model mass = 25.0 × .052 = 1.30 t; aggregate/other stated remainder = 23.70 t if no other components are separately specified. If the percentage were instead based on aggregate mass, this calculation would be different. Confirm the stated basis before comparing records."
+  },
+  "activities": [
+    {
+      "id": "E1-01",
+      "prompt": "Explain Marshall and Superpave as different specified design/testing frameworks. List five JMF fields needed by a production/placement crew.",
+      "answer": "Identify specimen/compaction and evaluation differences at a conceptual level; fields include formula/version, sources, mixture type, binder grade/content/basis, recovered inputs and governing requirements.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Explain Marshall and Superpave as different specified design/testing frameworks"
+    },
+    {
+      "id": "E1-02",
+      "prompt": "Recalculate binder model mass for 32.0 t at 5.2%. Explain why changing the mass percentage in the field is not an authorized design change.",
+      "answer": "32 × .052 = 1.664 t. A change requires the specified technical/contract process; appearance alone is insufficient.",
+      "skills": [
+        "Numeracy",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Recalculate binder model mass for 32.0 t at 5.2%"
+    },
+    {
+      "id": "E1-03",
+      "prompt": "Build a digital JMF-reading card and have a partner swap the version identifier. Revise the delivery check and record what must be confirmed.",
+      "answer": "Card connects the current approved formula with the load and tests. A different identifier triggers clarification/quality disposition rather than silently reusing old values.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Build a digital JMF-reading card and have a partner swap the version identifier"
+    }
+  ],
+  "practical": [
+    "Use an authorized real JMF or the complete fictional arithmetic card.",
+    "Assess accurate identification of mixture, design method, percentage basis and temperature measurement requirements.",
+    "Mix design approval and changes are assessed by the qualified design/quality process."
+  ],
+  "visuals": [
+    "mix-phases",
+    "ms4-marshall"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

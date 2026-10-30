@@ -1,0 +1,77 @@
+{
+  "code": "H1",
+  "title": "Describe milling and reclaiming equipment",
+  "intro": "Milling removes pavement to a controlled profile. Reclaiming processes existing pavement and underlying material to form a designed layer. Understanding the material route helps a learner recognize the machine’s working parts and the people who must stay clear of them.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe milling equipment",
+      "text": "Identify manufacturer, model, serial number, rotor configuration and fitted options before selecting information. The CAT cold-planer parts guide illustrates assemblies, while the performance handbook explains equipment families. Neither replaces the matching operation and maintenance manual (OMM). A brochure can show a machine’s purpose without describing its safe operating sequence. Record which document supports identification, which supports operation and which is specific to the training machine."
+    },
+    {
+      "number": 2,
+      "title": "Describe the function of milling equipment",
+      "text": "A cold planer uses a cutting rotor to remove a controlled depth, producing a milled profile and material for collection. A reclaimer mixes a designed depth of existing layers; specified water, binder or stabilizing agents may be introduced through a controlled system. Foamed asphalt is a particular binder-treatment process, not simply any hot asphalt mixed with water. Reclaiming, grading, compaction and paving form a coordinated sequence with design and testing requirements. Reuse can reduce virgin-material demand, but mixture suitability and performance still need verification."
+    },
+    {
+      "number": 3,
+      "title": "Describe major mechanical components",
+      "text": "Trace power from engine through the drive systems to the rotor and travel system. Identify cutting tools and holders, rotor drum, cutting chamber, side plates, collecting and discharge conveyors, tracks or wheels, lifting columns, water/dust-control system, operator station, grade sensors and guards. The cutting tools fracture the surface; conveyors move the recovered material; grade controls influence the cut relative to a reference. Call a component by its actual manual name and point to it from a safe position. A guard is part of the machine’s protection, not an optional cover."
+    },
+    {
+      "number": 4,
+      "title": "Describe potential failures, symptoms and indicators of failure",
+      "text": "Unusual noise, vibration, smell, leaks, damaged tools, cracks or warning messages are observations requiring action. State where and when they occur and whether conditions are worsening. Stop and secure the machine when a hazard or serious fault is suspected, keep others clear and notify the responsible person. Only authorized personnel diagnose or repair within their competence. Never search for a high-pressure leak with a hand or reach into a stopped-looking conveyor. Record the defect and authorized return-to-service decision."
+    }
+  ],
+  "worked": {
+    "title": "A noise with a location",
+    "case": "A new rhythmic noise and vibration begin at the discharge conveyor after a load change. A learner suggests increasing speed to clear it.",
+    "solution": "Report the change and location, stop safely under the machine procedure and protect the area. Have the responsible person arrange inspection under the required isolation. Increasing speed is an unsupported intervention and may worsen the fault."
+  },
+  "activities": [
+    {
+      "id": "H1-01",
+      "prompt": "Match rotor, discharge conveyor, lifting column and grade sensor to their functions.",
+      "answer": "Rotor cuts; discharge conveyor transfers recovered material; lifting column changes/supports machine elevation as designed; grade sensor reads a reference for control. Identify exact configurations on the selected machine.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Match rotor, discharge conveyor, lifting column and grade sensor to their functions."
+    },
+    {
+      "id": "H1-02",
+      "prompt": "A 90 m × 2 m strip is milled 0.04 m deep. Find its geometric removed volume. Is this its loose truck volume?",
+      "answer": "90 × 2 × 0.04 = 7.2 m³ in place. Loose volume requires a supported swell/conversion factor; it is not automatically 7.2 m³.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A 90 m × 2 m strip is milled 0.04 m deep"
+    },
+    {
+      "id": "H1-03",
+      "prompt": "Make a digital component card with model, image, name, function and hazard.",
+      "answer": "A valid card retains source/manual page and model scope, identifies one visible component accurately and explains its moving/energy hazard without inventing operating settings.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Creativity and innovation"
+      ],
+      "title": "Make a digital component card with model, image, name, function and hazard."
+    }
+  ],
+  "practical": [
+    "Identify ten components and explain their functions.",
+    "Distinguish milling, reclaiming and stabilized-base processes.",
+    "Record a fault and the appropriate hold/escalation."
+  ],
+  "visuals": [
+    "cat-milling-rotor",
+    "cat-milling-conveyor",
+    "milling-cut"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

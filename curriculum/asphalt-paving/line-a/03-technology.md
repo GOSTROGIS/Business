@@ -136,3 +136,14 @@ A team initially labels a photo “RAP going to a plant.” The caption is corre
 ### LA3-07 · Make a retrievable technology note
 
 Create a one-page document with the two plant distinctions, ingredient roles, two recycling routes and the unresolved product request. Save, close and reopen it; check that another learner can find its title and version. Offer a paper route for composing, while keeping actual Digital evidence separate. Finish by explaining one function without providing an operating setting. Add a small Figure LA-3 note: choose two of callouts 7, 10, 11 or 12, record the manufacturer’s names, explain each in plain language, and retain the model, manual number and page. State one thing the photograph cannot establish. Add the four-stage material route from Figure LA-5, using the words hopper, slat conveyors, augers and screed. Explain how the conveyor and auger functions differ. Use Figure LA-4 to check that your plant comparison describes the mixing process.
+
+
+**Use AI to create and audit the note.** ChatGPT or Claude can help explain the supplied text, draft a document and review a draft. Claude Code or Codex can help build an HTML page or SVG; Cowork can help with approved files and folders when that capability is available. Choose the tool for the task and check its current file capabilities.
+
+1. Give the assistant only the fictional case and approved source extracts. State the audience, required facts, missing information and requested files. Ask it to flag gaps instead of inventing settings.
+2. Request an editable DOCX note or Markdown draft, a labelled SVG of the material route, and a PDF or HTML reading copy. Keep the source title, edition and page with every technical claim or figure. Renaming a file extension does not convert its content.
+3. Ask for an audit table: **claim → source/page → supported, incorrect or unresolved → correction**. Check the table yourself against the actual documents. Another AI response is not independent technical approval.
+4. Make a 45–60 second study script with a question, pause and checked answer. Use a suitable audio tool for MP3/WAV, or a suitable video tool for MP4/WebM. Keep a TXT transcript and SRT/VTT captions. A script or storyboard alone is not a generated recording.
+5. Open the actual files, inspect every label and play the whole recording. Correct invented parts, unreadable captions or missing qualifications. Save the checked version and have a partner explain the material route from it.
+
+For a spreadsheet calculation, request XLSX formulas and a CSV data copy; check units and totals after reopening. For slides or revision cards, PPTX and CSV/TSV may be useful. Pick the format for the next person’s actual task, preserve the editable master and label the reviewed reading copy.

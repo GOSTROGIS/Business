@@ -1,0 +1,85 @@
+{
+  "code": "J2",
+  "title": "Apply screed work safety procedures",
+  "intro": "Screed work places people close to hot material, moving extensions and the roller path. Safe positions and clear communication must remain effective as the paving width and site conditions change.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Interpret job plan",
+      "text": "Review path, pattern, thickness, temperature requirements, crown, joints, obstacles and access. Confirm the current width and any planned changes before extending equipment. Agree on who controls each side, how adjustments are communicated and how the paver/roller crews respond to a stop."
+    },
+    {
+      "number": 2,
+      "title": "Describe machine-specific safety hazards",
+      "text": "Identify hot plates and mix, heater energy, fumes, noise, hydraulic pressure, extension pinch zones and moving machinery. Keep feet and clothing clear of the mat and hot surfaces. Wet or unsuitable footwear can worsen burn risk. Plan heat exposure, hydration and breaks through the site program. Do not step into the roller path to inspect the edge; coordinate a safe observation opportunity."
+    },
+    {
+      "number": 3,
+      "title": "Describe traffic-control requirements",
+      "text": "Use the traffic-control plan and assigned trained personnel. The required TCP arrangement depends on the site assessment, not a fixed number in a classroom example. Keep long tools, cables and extension movements inside the controlled work area. Reassess when the work passes an entrance or narrows a public route."
+    },
+    {
+      "number": 4,
+      "title": "Describe proper PPE",
+      "text": "Use the selected footwear, head, eye, hearing, visibility and heat/chemical protection, with training in use and limitations. Check fit and condition, including wet or contaminated clothing. Follow current Part 8 responsibilities and employer arrangements. PPE cannot protect a person who enters an uncontrolled crush zone."
+    },
+    {
+      "number": 5,
+      "title": "Describe lockout procedures",
+      "text": "Before service or hazardous access, apply the machine-specific isolation for electrical/heater, fuel where fitted, hydraulic, gravity and stored energy. Support raised components using specified devices and verify the safe state. Screed heating may be electric, propane or another system; identify the actual equipment rather than applying a generic fuel-isolation instruction."
+    },
+    {
+      "number": 6,
+      "title": "Describe how to secure machine for safety",
+      "text": "At parking or interruption, secure the screed and paver together using the required supports/locks, parking controls and access protection. Prevent unintended extension movement and protect people from residual heat. Report defects and confirm the status with the responsible operator."
+    }
+  ],
+  "worked": {
+    "title": "Width changes beside a walkway",
+    "case": "The plan calls for widening the mat, but the extension would enter a protected walking route.",
+    "solution": "Hold the extension movement, communicate the conflict and have the responsible lead resolve the work/access arrangement. Brief the change with traffic control and the crew before moving. Do not rely on a shouted warning as the only control."
+  },
+  "activities": [
+    {
+      "id": "J2-01",
+      "prompt": "Name three screed hazards that remain after travel stops.",
+      "answer": "Residual heat, stored hydraulic pressure and gravity/unsupported components; electrical/heater energy or automatic functions may also remain. Use the actual energy assessment.",
+      "skills": [
+        "Reading",
+        "Problem solving"
+      ],
+      "title": "Name three screed hazards that remain after travel stops."
+    },
+    {
+      "id": "J2-02",
+      "prompt": "A 3.0 m width is widened by 0.45 m on each side. What new width must the crew plan for?",
+      "answer": "3.90 m, plus the actual machine/people movement envelope and required controls. The dimension alone does not define a safe route.",
+      "skills": [
+        "Numeracy"
+      ],
+      "title": "A 3.0 m width is widened by 0.45 m on each side"
+    },
+    {
+      "id": "J2-03",
+      "prompt": "Rehearse a stop message when a worker approaches the extension zone.",
+      "answer": "Identify the machine/side and stop request clearly, obtain acknowledgement and maintain safe positions. Resume only after the area and plan are confirmed.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Rehearse a stop message when a worker approaches the extension zone."
+    }
+  ],
+  "practical": [
+    "Use PPE and safe positions appropriate to heat and movement.",
+    "Apply actual heater/hydraulic/gravity isolation.",
+    "Secure screed supports and coordinate paver/traffic roles."
+  ],
+  "visuals": [
+    "screed-safe-zones",
+    "isolation-states"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

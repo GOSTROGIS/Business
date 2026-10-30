@@ -1,0 +1,77 @@
+{
+  "code": "L1",
+  "title": "Describe compaction equipment",
+  "intro": "Compaction equipment changes the mixture’s density and surface through a planned application of load and, where fitted, dynamic energy. Choose equipment to suit the mixture, support, production and finished requirements.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe types of Compaction Rollers",
+      "text": "Manufacturers such as Caterpillar, Ammann, BOMAG and Dynapac offer different roller families and configurations. Compare drum width, operating mass, tire/drum arrangement, working modes, production and access. A small utility roller and a highway tandem roller are not interchangeable simply because both compact asphalt. Confirm the actual model, serial range and OMM. Equipment choice and the rolling plan belong to the responsible crew/quality process."
+    },
+    {
+      "number": 2,
+      "title": "Describe major components of compaction equipment",
+      "text": "A steel-drum roller may work statically or with fitted vibration/oscillation. A pneumatic-tired roller applies load through tires; tire condition, pressure, temperature and ballast affect its action under the manufacturer and project requirements. Do not invent tire pressures. A combination roller has both drum and tire contact. Identify engine, travel/steering controls, articulation joint, drums/tires, water/spray system, scrapers, vibration controls, ROPS and seat belt where fitted. Components and permitted modes vary by model."
+    },
+    {
+      "number": 3,
+      "title": "Describe basic functions of compaction equipment",
+      "text": "Breakdown rolling applies early compaction behind the paver within suitable mixture conditions. Intermediate rolling develops required density and surface condition as planned. Finish rolling removes marks and completes the surface without damaging it. One machine may perform more than one role where the plan supports it; role names do not prescribe a universal machine count or pass sequence."
+    },
+    {
+      "number": 4,
+      "title": "Describe emerging technology",
+      "text": "Oscillation applies a different dynamic action from conventional vertical vibration. Intelligent compaction, mapping and temperature displays can help monitor coverage and conditions. Their displayed values are not automatically the contract’s acceptance density. Confirm what each measurement represents and how it is calibrated/validated. Technology supports operator judgement and quality testing; a colourful coverage map does not prove every point meets specification."
+    }
+  ],
+  "worked": {
+    "title": "Choose by the task",
+    "case": "A narrow access area has restricted turning space, while the main road has a high production rate.",
+    "solution": "Compare suitable machine dimensions, modes, capacity and support for each area, then coordinate the planned roles and testing. Do not select only by the largest operating mass or assume one roller can maintain both areas without a scheduling conflict."
+  },
+  "activities": [
+    {
+      "id": "L1-01",
+      "prompt": "Identify drum, scraper, spray bar, articulation joint, ROPS and seat belt on the supplied model figures.",
+      "answer": "Use the actual visible labels and explain: drum contacts/compacts; scraper manages buildup; spray system wets as designed; articulation steers; ROPS/seat belt form the fitted protective arrangement. Stay clear of articulation hazards.",
+      "skills": [
+        "Reading",
+        "Communication"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "L1-02",
+      "prompt": "A fictional effective coverage width is 1.4 m over a 70 m strip. Find area for one full-length coverage strip.",
+      "answer": "1.4 × 70 = 98 m². Actual overlap, pass definitions and rolling pattern must be specified; this is geometry, not a density result.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A fictional effective coverage width is 1.4 m over a 70 m strip"
+    },
+    {
+      "id": "L1-03",
+      "prompt": "Ask an AI to compare static, vibratory and oscillatory action, then audit its table.",
+      "answer": "Require source-backed definitions and distinguish mechanism from recommended settings. Verify against the supplied guides; reject universal claims about pass counts, frequency or density acceptance.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Creativity and innovation"
+      ],
+      "title": "Ask an AI to compare static, vibratory and oscillatory action, then audit its table."
+    }
+  ],
+  "practical": [
+    "Identify roller families and actual components.",
+    "Explain breakdown, intermediate and finish roles.",
+    "Distinguish monitoring displays from acceptance tests."
+  ],
+  "visuals": [
+    "roller-types",
+    "cat-roller-controls",
+    "ms4-vibratory-roller"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

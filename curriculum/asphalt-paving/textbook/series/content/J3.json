@@ -1,0 +1,86 @@
+{
+  "code": "J3",
+  "title": "Describe asphalt screed operator roles and responsibilities",
+  "intro": "The screed operator helps turn the plan into a consistent mat. The role combines observation, measured checks, timely communication and controlled adjustment.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe how to plan work procedures",
+      "text": "Read the accepted thickness, width, crown, joint and end-product requirements before setup. Identify where measurements will be made, who records them and who authorizes changes. Confirm the drawing, JMF and quality plan versions. Plan transitions and obstacles before they reach the screed."
+    },
+    {
+      "number": 2,
+      "title": "Describe how to maintain mat thickness",
+      "text": "Monitor loose mat thickness and width using approved methods and the trial-based relationship to compacted thickness. Material volume depends on area and thickness; delivery and feed must support the intended rate. A thick area and thin area may average to the correct tonnage while both miss the geometry. Keep checks tied to locations."
+    },
+    {
+      "number": 3,
+      "title": "Describe communication techniques",
+      "text": "Communicate with the paver operator and handwork crew using short, specific messages: side, station, observation, requested action and acknowledgement. Share changes in head of material, speed, temperature or width. Do not issue several conflicting adjustments through different people."
+    },
+    {
+      "number": 4,
+      "title": "Describe problem solving strategies",
+      "text": "Investigate a symptom before adjusting. Compare current conditions with the stable setup, identify a plausible cause and make an authorized controlled change. Allow the response to develop over the machine’s relevant travel distance, then measure again. Document what changed. Repeated large corrections can produce waves and make the cause harder to identify."
+    },
+    {
+      "number": 5,
+      "title": "Describe the importance of teamwork",
+      "text": "The paver operator controls the steady supply/travel process; screed operators control assigned screed functions; rakers manage authorized handwork; quality personnel provide measurements and disposition. These roles depend on one another. Respectful challenge is useful when someone sees a discrepancy: ask for the observation and check it together."
+    },
+    {
+      "number": 6,
+      "title": "Describe importance of adhering to standards",
+      "text": "Meet the specified geometry and quantity without treating either excess or shortage as automatically acceptable. Record departures and obtain authorized correction. End-product specifications also include properties beyond screed control, such as density and smoothness. Do not promise full acceptance from a loose-thickness check alone."
+    }
+  ],
+  "worked": {
+    "title": "One controlled change",
+    "case": "A mat check is low after a speed change. One person wants more head, another wants a tow-point change and a third wants a different speed.",
+    "solution": "Pause the conflicting instructions, record the observation and changed condition, and have the responsible lead coordinate a controlled response. Recheck after the relevant response distance. Changing everything at once prevents a useful diagnosis."
+  },
+  "activities": [
+    {
+      "id": "J3-01",
+      "prompt": "A 40 m × 3.5 m area at 0.06 m loose thickness has what geometric loose volume?",
+      "answer": "40 × 3.5 × 0.06 = 8.4 m³. It is not a compacted volume or tonnage without the appropriate additional information.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A 40 m × 3.5 m area at 0.06 m loose thickness has what geometric loose volume"
+    },
+    {
+      "id": "J3-02",
+      "prompt": "Write a message reporting a low right-side loose-depth reading.",
+      "answer": "State station, right side, measured depth/unit, target and observed condition; ask the responsible operator to confirm the next action. Avoid “make it thicker” without location or evidence.",
+      "skills": [
+        "Writing",
+        "Communication"
+      ],
+      "title": "Write a message reporting a low right-side loose-depth reading."
+    },
+    {
+      "id": "J3-03",
+      "prompt": "Use a shared change log for one setup correction. What fields make it useful?",
+      "answer": "Time/station, original condition, measurement, authorized change, operator, response distance/time, new measurement and decision. AI may format the log, but the crew supplies and verifies actual observations.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Problem solving"
+      ],
+      "title": "Use a shared change log for one setup correction"
+    }
+  ],
+  "practical": [
+    "Plan and monitor geometry with location-based evidence.",
+    "Coordinate one clear authorized adjustment.",
+    "Explain the limits of thickness/quantity checks for overall acceptance."
+  ],
+  "visuals": [
+    "screed-response",
+    "application-rate"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

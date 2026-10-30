@@ -1,0 +1,62 @@
+{
+  "code": "G3",
+  "title": "Describe application",
+  "intro": "Application rate describes how much asphalt mixture was placed over a measured area. It is a mass-per-area quantity. It can help identify a quantity or thickness concern, but does not replace density, level or compacted-thickness checks.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Section 502",
+      "text": "Section 502.14 of the 2006 specification determines application rate from the delivered tonnage assigned to the lot and its covered area, with the specified treatment of entrance letdowns and intersections. Reconcile weigh tickets, returned material, location and lift according to the contract. Counting an entire truck twice or including a ticket from another lane changes the result even when the arithmetic is correct.\n\nUse consistent units: 1 tonne = 1,000 kg. Actual application rate in kg/m² = accepted assigned mass in kg ÷ measured area in m². The ratio used by Table 502-H is actual rate ÷ specified rate × 100. This ratio is a percentage of the specified rate, not a binder percentage and not percent density.\n\nThe dated table distinguishes bottom/single lifts from the top lift of multiple lifts. For the uncomplicated 96.0–103.9% band, both columns show +$0.50/t. Other bands include different deductions, restrictions on payment for excess material and rejection/remedial provisions. Read the full row and correct lift column. Do not treat over-application as a desirable way to earn payment: it can change grade, tie-ins and material demand.\n\nIf a calculated rate seems wrong, check area boundaries, units, tickets, lift identity and authorized changes first. Then compare with thickness and survey evidence. A rate alone cannot prove a uniform mat; a thick patch and a thin patch can average to the specified rate."
+    }
+  ],
+  "worked": {
+    "title": "Mass over area",
+    "case": "A fictional lot receives 288 t over 2,400 m². Specified application is 120 kg/m².",
+    "solution": "288 t = 288,000 kg. Actual = 288,000/2,400 = 120 kg/m². Ratio = 120/120 × 100 = 100%. In the dated 96.0–103.9% band, isolated adjustment = 288 × $0.50 = +$144, subject to all applicable conditions."
+  },
+  "activities": [
+    {
+      "id": "G3-01",
+      "prompt": "A 200 m × 3.5 m rectangle receives 77 t. Find actual application rate.",
+      "answer": "Area = 700 m². Mass = 77,000 kg. Rate = 110 kg/m². Compare with the specified rate only after checking the lot geometry and ticket allocation.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A 200 m × 3.5 m rectangle receives 77 t"
+    },
+    {
+      "id": "G3-02",
+      "prompt": "Specified rate is 115 kg/m². What percentage of specified is 110 kg/m²?",
+      "answer": "110/115 × 100 = 95.652…%, approximately 95.65% before applying the contract’s reporting rule. Do not round prematurely to 96% to choose a different band.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "Specified rate is 115 kg/m²"
+    },
+    {
+      "id": "G3-03",
+      "prompt": "Design a ticket register that a partner can audit.",
+      "answer": "Include ticket ID, truck, date/time, mass/unit, mix, lane/station, lift, lot, disposition of returned material and checker. Use unique IDs and preserve corrections.",
+      "skills": [
+        "Digital",
+        "Writing",
+        "Collaboration",
+        "Creativity and innovation"
+      ],
+      "title": "Design a ticket register that a partner can audit."
+    }
+  ],
+  "practical": [
+    "Measure and document a lot boundary.",
+    "Reconcile unique tickets to the correct lift.",
+    "Calculate rate and explain why average rate does not prove uniform thickness."
+  ],
+  "visuals": [
+    "application-rate",
+    "spec-application"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

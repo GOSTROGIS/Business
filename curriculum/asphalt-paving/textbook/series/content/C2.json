@@ -1,0 +1,73 @@
+{
+  "code": "C2",
+  "title": "Describe types and specifications of aggregates",
+  "intro": "An aggregate name is the beginning of a specification, not its complete meaning. The useful questions are: What particles are present? How do they interact? How do water and loading affect them? Which measured properties must the product meet? **Gradation** is the distribution of particle sizes; the properties of the blend are different from the properties of a single stone.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe aggregate processing",
+      "text": "Crushing, screening and washing perform different jobs. Crushing can alter size and particle shape; screening separates sizes; washing removes specified fine material. A product may pass through more than one stage. The process name does not prove the final result: test the identified product using the required method and compare it with the applicable specification. A change in source, wear or handling can affect results even when the nominal process remains the same."
+    },
+    {
+      "number": 2,
+      "title": "Describe characteristics",
+      "text": "**Permeability** describes the ability of a material arrangement to transmit water. **Load-bearing response** concerns how the structure supports loading. **Resistance to shearing** depends on particle interaction and other conditions. Particle shape, texture, grading, fines and moisture can influence these behaviours. An open-looking product is not automatically a designed drainage layer; the complete gradation, contamination and drainage arrangement matter.\n\n**Liquid limit** and **plastic limit** characterize consistency of the applicable fine-grained material under specified tests. The **plasticity index** is liquid limit minus plastic limit. These are not moisture limits for every whole aggregate or a visual test of a pile. Gradation is normally recorded as cumulative percent passing identified sieves. Keep sieve size, units, test method and product/sample identity with the result."
+    },
+    {
+      "number": 3,
+      "title": "Describe common products",
+      "text": "**Pit run** describes material taken from a deposit with limited processing; its properties can vary. **Screened road base**, including a nominal '3-inch minus' description, needs the specified grading and quality limits. **Bedding sand** is selected for the relevant pipe or bedding design. **Crushed road mulch** is a regional/product term that must be resolved through its actual specification. **Asphalt aggregates** are selected and blended for the approved mixture.\n\n**Drain rock** serves an intended drainage use with specified grading/cleanliness. **Chips** and **driveway chips** describe particular aggregate products whose intended application and grading must be established. **Reclaimed asphalt pavement (RAP)** contains recovered aggregate and aged binder; it is not interchangeable with clean virgin stone. **Concrete sand**, including material specified under ASTM C33, has its own requirements. **Stucco sand** is selected for a different mortar/render application. A shared word 'sand' does not authorize substitution among them."
+    }
+  ],
+  "worked": {
+    "title": "Read a sieve result",
+    "case": "Fictional dry sample mass is 1,000 g. The measured retained masses on three successive sieves are 150 g, 350 g and 300 g; the pan holds 200 g. Use these values only to practise the arithmetic.",
+    "solution": "The masses total 1,000 g. Cumulative retained percentages are 15%, 50% and 80%; cumulative passing values are 85%, 50% and 20%. The pan fraction is 20%. Whether the product conforms cannot be decided without sieve sizes, specified method, product identity and acceptance limits."
+  },
+  "activities": [
+    {
+      "id": "C2-01",
+      "prompt": "Make a product selection table for bedding, drainage, asphalt mixture and concrete sand. Name the information needed before accepting a substitution.",
+      "answer": "Use the intended product specification, grading/quality tests, source and application. Product nicknames or appearance alone are insufficient.",
+      "skills": [
+        "Reading",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Make a product selection table for bedding, drainage, asphalt mixture and concrete sand"
+    },
+    {
+      "id": "C2-02",
+      "prompt": "Recalculate the example if 20 g is missing from the total. Then calculate PI for fictional LL = 32 and PL = 21. Explain the limits of both results.",
+      "answer": "A 980 g recovery triggers the specified mass-reconciliation check; do not silently normalize an unexplained loss. PI = 11 for the tested fine fraction; it does not determine whole-aggregate suitability alone.",
+      "skills": [
+        "Numeracy",
+        "Communication"
+      ],
+      "title": "Recalculate the example if 20 g is missing from the total"
+    },
+    {
+      "id": "C2-03",
+      "prompt": "Plot the supplied cumulative passing values with clearly labelled sieve positions. Save the chart, let a partner find the missing real sieve sizes, and revise its title to avoid implying acceptance.",
+      "answer": "Chart preserves 85/50/20% and explicitly identifies a fictional arithmetic exercise. Missing sieve sizes prevent a real gradation comparison; actual digital plotting/save is observed.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Plot the supplied cumulative passing values with clearly labelled sieve positions"
+    }
+  ],
+  "practical": [
+    "Use labelled samples and the approved test method under supervision; do not identify a product by colour alone.",
+    "Observe correct terminology, sample/product traceability and interpretation of a sieve table.",
+    "Laboratory competence and approval of a source/product require the applicable qualified testing and decision process."
+  ],
+  "visuals": [
+    "gradation-curve",
+    "ms4-gradation"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

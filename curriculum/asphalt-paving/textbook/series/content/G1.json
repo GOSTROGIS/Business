@@ -1,0 +1,76 @@
+{
+  "code": "G1",
+  "title": "Describe gradation",
+  "intro": "Quality control connects the planned pavement with evidence from production and placement. The crew needs to know which document governs, which tests apply and who can release or reject work. This chapter uses the supplied BC Ministry of Transportation DB 2006 Section 502 for a dated contract-reading exercise.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Describe MOT Specs",
+      "text": "A quality management plan identifies materials, accepted mix design, sampling and testing, production controls, placement checks, records and responsibilities. Quality control is the producer/contractor’s process control; quality assurance provides the owner’s confidence and verification through the specified system. Neither term means that a crew can self-approve a departure. In the 2006 example, a mix design becomes the job mix formula (JMF) through the required written acceptance process. Identify the actual contract edition, special provisions and amendments before using any limit on a real job."
+    },
+    {
+      "number": 2,
+      "title": "Describe the audit process",
+      "text": "An audit follows evidence: approved procedure, actual activity, dated record, result and corrective action. A missing record and a failed result are different findings, and both require a response. Trace a sample from station and lot through laboratory report to disposition. Check instrument identification and calibration records. Record what was observed without inventing motives. Close a finding only when the responsible authority accepts the evidence of correction. A tidy binder with untraceable sample numbers does not demonstrate control."
+    },
+    {
+      "number": 3,
+      "title": "Describe penalty/bonus",
+      "text": "Payment adjustments are contract calculations tied to defined lots, tests and acceptance rules. A bonus for one property does not cancel rejection under another. The 2006 tables separately address binder content, gradation, application rate, segregation, density and smoothness. Always state parameter, units, applicable lift, table and edition. Crowns and crossfalls remain geometric requirements even where a payment table does not express them. Learners calculate an isolated adjustment first, then check all other acceptance conditions before discussing overall payment."
+    },
+    {
+      "number": 4,
+      "title": "Describe limit of asphalt layout",
+      "text": "Define the paving limits, lift, station range, lane and measured area before assigning tickets or samples to a lot. Mark intersections, letdowns and other geometry according to the contract’s measurement method. A layout change can affect quantity, sample locations and the meaning of a payment calculation. For the 2006 gradation exercise, Table 502-G compares departures from the JMF on specified sieves; it is not a width table. Keep layout verification and the appropriate quality-table lookup linked through the same lot identifier."
+    }
+  ],
+  "worked": {
+    "title": "One good result is not full acceptance",
+    "case": "A fictional 600 t lot qualifies for a +$0.75/t gradation adjustment under the complete applicable table conditions. A separate density result is under review.",
+    "solution": "The isolated gradation adjustment is 600 × $0.75 = +$450. Record it as provisional for this parameter. Do not declare the lot accepted or payable until all applicable requirements and the authorized disposition are resolved."
+  },
+  "activities": [
+    {
+      "id": "G1-01",
+      "prompt": "An audit finds sample Q17 on a report but no matching location log. Write a finding and action.",
+      "answer": "Finding: Q17 cannot be traced to a location/lot from the available log. Preserve records, notify the quality lead, investigate original evidence and obtain an authorized disposition; do not invent a location.",
+      "skills": [
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "An audit finds sample Q17 on a report but no matching location log"
+    },
+    {
+      "id": "G1-02",
+      "prompt": "For a fictional 420 t lot, calculate a −$1.50/t isolated adjustment.",
+      "answer": "420 × −$1.50 = −$630. It is a deduction for the identified parameter only, subject to the actual contract and acceptance process.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "For a fictional 420 t lot, calculate a −$1.50/t isolated adjustment."
+    },
+    {
+      "id": "G1-03",
+      "prompt": "Compare the 2006 document and the current project document in a digital register. What fields prevent accidental substitution?",
+      "answer": "Record title, issuer, edition/date, amendments, contract adoption, clause/table, file location and approval status. Flag superseded teaching examples separately from project instructions.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Compare the 2006 document and the current project document in a digital register"
+    }
+  ],
+  "practical": [
+    "Trace one fictional lot through plan, sample, result and disposition.",
+    "Identify the governing edition and amendments.",
+    "Communicate a quality hold with exact location and evidence."
+  ],
+  "visuals": [
+    "quality-chain",
+    "document-authority"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

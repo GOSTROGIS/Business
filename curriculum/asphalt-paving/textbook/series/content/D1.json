@@ -1,0 +1,63 @@
+{
+  "code": "D1",
+  "title": "Describe environmentally friendly properties",
+  "intro": "An environmental claim is useful when it names the material, exposure conditions, service provided and evidence. Asphalt can be recovered and used again, but 'recyclable' is not the same as 'recycled here', and neither word proves the lowest overall impact. The learning goal is a defensible comparison that respects the people, land and water affected by a project.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Green properties of asphalt",
+      "text": "**Reclaimed asphalt pavement (RAP)** contains recovered aggregate and aged binder. Processing and an approved mix or other permitted use can recover value from those materials. The receiving process must account for variability, contamination, binder properties and the required final performance. A recycling pathway has collection, processing, transport and production effects of its own.\n\nAvoid blanket claims that all installed asphalt is 'non-toxic' or 'does not leach' under every condition. Product composition, contamination, exposure, receiving environment and applicable criteria determine what evidence is needed. An intact pavement, hot production process, milling dust and a stored pile are different exposure situations. A claim about one does not automatically apply to the others.\n\nA fair comparison defines the same required service, area/loading, service period and maintenance assumptions. Include production, transport, construction, use/maintenance and end-of-life within the stated boundary. A lower production impact per tonne can be outweighed by different quantities, travel or service life. Environmental decisions can also involve water, noise, land, access and local priorities that a single emissions number does not capture.\n\nIn B.C., meaningful local engagement identifies the appropriate people and decision processes; a class cannot supply a Nation’s permission or knowledge. Use public/fictional evidence for the exercise and invite contributions only by choice. A careful conclusion can acknowledge a documented reuse pathway while asking for the data needed to compare actual options."
+    }
+  ],
+  "worked": {
+    "title": "Recycled proportion is not a full impact score",
+    "case": "Fictional material record: a 240 t proposed mix contains 48 t of approved RAP. A sales note calls it “20% recycled, therefore 20% lower whole-life emissions.” No emissions or service-life data is supplied.",
+    "solution": "48/240 × 100 = 20% by mass in this record. That establishes the stated proportion only. Whole-life emissions need comparable quantities, processing/production, transport, construction, maintenance and end-of-life evidence. The proposed reduction is not demonstrated by the recycled percentage."
+  },
+  "activities": [
+    {
+      "id": "D1-01",
+      "prompt": "Rewrite the sales note into one supported statement and three questions needed for a whole-life comparison.",
+      "answer": "Supported: proposed mixture contains 20% RAP by the stated total mass. Ask for common function/service period, production/haul data and maintenance/end-of-life assumptions, among other relevant needs.",
+      "skills": [
+        "Reading",
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Explain and apply the idea"
+    },
+    {
+      "id": "D1-02",
+      "prompt": "Calculate the RAP mass for a second fictional 300 t mix at 15%. Explain why comparing 48 t with the second mass does not rank environmental performance.",
+      "answer": "300 × .15 = 45 t. Different total quantities and proportions do not supply equivalent-service impacts; no ranking follows.",
+      "skills": [
+        "Numeracy",
+        "Communication"
+      ],
+      "title": "Calculate the RAP mass for a second fictional 300 t mix at 15%"
+    },
+    {
+      "id": "D1-03",
+      "prompt": "Create a visual comparison brief with explicit boundaries. Test it with a partner who asks about runoff or community access, then revise and save it.",
+      "answer": "The brief adds relevant non-carbon concerns and information needs without inventing local impacts or permissions. Individual revision and actual digital actions are recorded.",
+      "skills": [
+        "Digital",
+        "Collaboration",
+        "Adaptability",
+        "Creativity and innovation"
+      ],
+      "title": "Create a visual comparison brief with explicit boundaries"
+    }
+  ],
+  "practical": [
+    "Assess evidence interpretation using documented or fictional product records.",
+    "Check that the learner distinguishes recovery potential, actual reuse and verified environmental outcomes.",
+    "Environmental approvals and material-use decisions remain with the appropriate qualified/authorized processes."
+  ],
+  "visuals": [
+    "material-cycle",
+    "life-cycle"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

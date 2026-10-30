@@ -1,0 +1,79 @@
+{
+  "code": "I7",
+  "title": "Operate asphalt paver",
+  "intro": "Paver operation is learned through observed, supervised control of the actual machine. In-school practical work in the outline is on flat surfaces; workplace performance adds the approved grades, slopes and conditions under competent supervision.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform standard moves",
+      "text": "Complete pre-start checks and daily maintenance, identify controls and warnings, and enter using the designated access and three-point contact. Follow the OMM start and travel sequence. Practise forward–stop–reverse–stop on the cleared flat training area, checking surroundings before each movement. Apply the specified parking and transmission controls. Transmission neutral or a control lock is not a substitute for maintenance lockout."
+    },
+    {
+      "number": 2,
+      "title": "Maneuvering the paver",
+      "text": "Manoeuvre smoothly within the machine’s operating limits and the instructor’s plan. Maintain awareness of space, position, clearance and ground support. In-school learners stay on the approved flat area. Hills, slopes and varied conditions require a separate workplace plan, machine limits and supervised assessment; do not infer a safe slope from a generic diagram. Stop when visibility or support is uncertain."
+    },
+    {
+      "number": 3,
+      "title": "Position paver",
+      "text": "Position the paver for different starting scenarios, confirming line, width, joint, truck approach and screed readiness. Coordinate hopper opening/closing, material-flow settings and truck guidance through the actual controls and agreed signals. Observe the whole movement envelope. The instructor sets time and quantity appropriate to conditions; speed is not rewarded at the expense of control."
+    },
+    {
+      "number": 4,
+      "title": "Simulate paving laying down a mat using 5mm crush and sand mixture or similar compact quality material or asphalt",
+      "text": "For a simulated mat, use only an instructor- and manufacturer-approved training material and method; a sand/crushed-material exercise does not reproduce every hot-mix behaviour. For asphalt, follow the approved mixture, temperature, placement and rolling plan. Maintain the line and steady process, communicate with screed and ground crew, monitor performance, and clean/shut down using the safe procedure. Record classroom and workplace observations separately."
+    }
+  ],
+  "worked": {
+    "title": "Flat practice is a specific achievement",
+    "case": "A learner completes a controlled flat-pad pass with simulated material. The next job involves a steep access road and hot mix.",
+    "solution": "Record the demonstrated flat-pad skills. Plan the additional machine/site-specific preparation and supervised workplace assessment for grades, slopes and hot-mix conditions. Do not label the first exercise as proof of unrestricted operation."
+  },
+  "activities": [
+    {
+      "id": "I7-01",
+      "prompt": "List five observations an instructor should record during a flat-pad pass.",
+      "answer": "Examples: prechecks; safe entry/exit; surroundings checks; smooth forward/reverse stops; correct parking controls; hopper/feed control; alignment; acknowledged truck/screed communication. Record actual behaviour and help.",
+      "skills": [
+        "Writing",
+        "Reading"
+      ],
+      "title": "List five observations an instructor should record during a flat-pad pass."
+    },
+    {
+      "id": "I7-02",
+      "prompt": "A fictional 36 m practice pass takes 12 min. Calculate average travel speed and one reason not to compare learners by it alone.",
+      "answer": "3 m/min. Different support, material, interruptions and access needs affect time; safe control and specified quality are the criteria.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A fictional 36 m practice pass takes 12 min"
+    },
+    {
+      "id": "I7-03",
+      "prompt": "During the pass, a partner reports a person entering the work area. Demonstrate the response.",
+      "answer": "Stop affected movement safely, communicate the intrusion and maintain control until the area and plan are restored. Resume only after clear acknowledgement.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "During the pass, a partner reports a person entering the work area"
+    }
+  ],
+  "practical": [
+    "Precheck, maintain, start and monitor the actual machine.",
+    "Enter/exit safely and perform flat forward/stop/reverse/stop with correct parking controls.",
+    "Operate hopper, transmission and flow controls under supervision.",
+    "Position and guide the truck, follow the line and coordinate the screed/ground crew.",
+    "Place an approved simulated or asphalt mat, then clean and shut down.",
+    "Record additional workplace grades/slopes/conditions separately."
+  ],
+  "visuals": [
+    "paving-train",
+    "cat-paver-undercarriage"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

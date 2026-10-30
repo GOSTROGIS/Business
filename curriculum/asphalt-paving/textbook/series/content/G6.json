@@ -1,0 +1,62 @@
+{
+  "code": "G6",
+  "title": "Describe smoothness",
+  "intro": "Smoothness concerns the longitudinal profile experienced by a moving vehicle. It differs from crossfall, compacted thickness and density. A mat can meet one of those requirements while failing another.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Section 502",
+      "text": "Section 502.16 of the dated 2006 specification measures longitudinal profile with a specified precision rolling instrument and computes the International Roughness Index (IRI). IRI is commonly expressed in m/km; lower values indicate a smoother profile under the model. It is not a direct measurement of crossfall or a single bump’s height. Straightedge checks and localized-defect requirements answer different questions and may apply in addition to IRI.\n\nIdentify the lane, direction, station limits, lift and applicable lot/sub-lot rules. The historical clauses treat auxiliary lanes and short lengths specifically, and use the applicable Table 502-J or J-2 when adopted. Acceptance limits and payment schedules depend on the road classification and contract. Do not import an IRI threshold from another job. Preserve the instrument record and the quality lead’s interpretation.\n\nSmoothness begins before the profiler arrives: prepared base, correct setup, steady paving speed and material head, coordinated truck changes, careful joints and suitable rolling practice all matter. Abrupt control changes, stops and poorly matched joints can leave profile defects. A roller cannot reliably erase every paver setup error. Report an emerging pattern early enough for the lead to investigate the process.\n\nThe 2006 auxiliary-lane example prorates a qualifying adjustment by segment length relative to a 1 km lot. This is a contract rule, not a general conversion from IRI to dollars. Repairs and remeasurement require authorized procedures. Keep the original and subsequent profiles linked so the correction can be evaluated transparently."
+    }
+  ],
+  "worked": {
+    "title": "Prorating an authorized historical adjustment",
+    "case": "For a fictional exercise, the applicable table and acceptance checks establish a +$800 adjustment for a full 1 km lot. The qualifying auxiliary segment is 565 m.",
+    "solution": "Length factor = 565/1,000 = 0.565. Prorated adjustment = 0.565 × $800 = +$452. The $800 is an explicitly supplied exercise value, not a quoted Table 502-J value or a current project entitlement."
+  },
+  "activities": [
+    {
+      "id": "G6-01",
+      "prompt": "A qualifying segment is 240 m and the supplied full-kilometre adjustment is −$1,200. Calculate the exercise adjustment.",
+      "answer": "240/1,000 × −$1,200 = −$288, provided the applicable contract permits this prorating and all conditions are satisfied.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "A qualifying segment is 240 m and the supplied full-kilometre adjustment is −$1,200"
+    },
+    {
+      "id": "G6-02",
+      "prompt": "A learner says a good density result proves a smooth road. Explain the gap.",
+      "answer": "Density describes compaction relative to a reference. Smoothness describes longitudinal profile. Different measurements and acceptance requirements are needed.",
+      "skills": [
+        "Communication",
+        "Problem solving"
+      ],
+      "title": "A learner says a good density result proves a smooth road"
+    },
+    {
+      "id": "G6-03",
+      "prompt": "Create a handover for a repeated bump near each truck-change location.",
+      "answer": "Record station, lane, lift, time/load sequence and observation; preserve profile/inspection evidence. Ask the paving and quality leads to investigate supply, paver movement, setup and joints without assigning an unverified cause.",
+      "skills": [
+        "Writing",
+        "Digital",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Create a handover for a repeated bump near each truck-change location."
+    }
+  ],
+  "practical": [
+    "Identify the profile measurement and applicable contract limits.",
+    "Separate IRI, localized defects and crossfall.",
+    "Trace a profile concern to a location and authorized corrective process."
+  ],
+  "visuals": [
+    "smoothness-profile",
+    "spec-smoothness"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

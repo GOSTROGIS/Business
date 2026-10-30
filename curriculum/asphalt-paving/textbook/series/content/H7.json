@@ -1,0 +1,60 @@
+{
+  "code": "H7",
+  "title": "Follow shut down procedures",
+  "intro": "Shutdown leaves the machine in a known safe state for people, maintenance and the next shift. A parked machine can still contain heat, pressure and gravity hazards.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Perform shut down procedures",
+      "text": "Choose the designated stable parking location with service access and adequate separation from traffic, pedestrians, edges and drainage routes. Plan access for a possible failure to restart. Use level ground where the machine procedure requires it, including accurate fluid checks. Complete the machine’s stopping, cooling and shutdown sequence; do not invent a universal idle time.\n\nPlace the rotor, conveyor and raised components in their specified safe positions. Apply parking controls and required chocks or blocking. Shutdown and maintenance lockout serve different purposes: if someone will enter a hazardous area or service the machine, apply the full required isolation and verification. A parked machine with the key removed is not automatically ready for service.\n\nAfter the required safe state is established, walk around from safe access areas. Look for leaks, damage, missing guards, debris and anything that changed during the shift. Do not open a hot pressurized system to complete a routine check. Record defects, meter reading, remaining materials and unresolved work. Mark a machine out of service when required and ensure the status reaches the next operator.\n\nSecure keys, controls, access panels and detachable items according to the site plan. Consider public access after the crew leaves and protect residual hazards. Confirm the final state with the instructor or responsible person. A completed checklist identifies the actual machine, manual procedure and observer; a ticked generic form alone is not evidence of a safe shutdown."
+    }
+  ],
+  "worked": {
+    "title": "Service access tomorrow",
+    "case": "The nearest parking place is level but blocks an emergency access route. Another approved area provides stable ground and service access.",
+    "solution": "Use the approved location that preserves emergency access. Follow the machine shutdown procedure, secure components and parking controls, inspect safely and hand over the final state. Convenience does not justify blocking the route."
+  },
+  "activities": [
+    {
+      "id": "H7-01",
+      "prompt": "Name four items in a useful shutdown handover.",
+      "answer": "Machine/serial and meter; parking location/state; defects and isolation/out-of-service status; responsible person and next required action. Include keys/access and any residual hazards as applicable.",
+      "skills": [
+        "Writing",
+        "Collaboration"
+      ],
+      "title": "Name four items in a useful shutdown handover."
+    },
+    {
+      "id": "H7-02",
+      "prompt": "A checklist has ten equally weighted scored items and a learner earns 16/20. A critical parking check failed. Is the learner released?",
+      "answer": "No. 16/20 is 80%, but every safety-critical item must pass and the unsafe condition must be corrected. The numerical threshold cannot compensate for a critical failure.",
+      "skills": [
+        "Numeracy",
+        "Problem solving"
+      ],
+      "title": "A checklist has ten equally weighted scored items and a learner earns 16/20"
+    },
+    {
+      "id": "H7-03",
+      "prompt": "A colleague wants to inspect beneath a raised conveyor after shutdown. Explain the missing decision.",
+      "answer": "Determine and apply the required machine-specific isolation, stored-energy control and approved support before access. Engine shutdown alone is insufficient.",
+      "skills": [
+        "Communication",
+        "Reading"
+      ],
+      "title": "A colleague wants to inspect beneath a raised conveyor after shutdown"
+    }
+  ],
+  "practical": [
+    "Select a stable parking location preserving access.",
+    "Complete the actual shutdown and component-support procedure.",
+    "Inspect safely, secure access and communicate defects."
+  ],
+  "visuals": [
+    "shutdown-state",
+    "cat-milling-conveyor"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": 80
+}

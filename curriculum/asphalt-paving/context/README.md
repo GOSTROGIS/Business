@@ -1,6 +1,6 @@
 # Asphalt PDF context library
 
-**323 PDF paths · 322 unique PDFs · 7,856 original pages · 382 PDF chunks and 382 text extracts.**
+**351 PDF paths · 350 unique PDFs · 9,058 original pages · 440 PDF chunks and 440 text extracts.**
 
 Every available PDF under the asphalt curriculum is indexed here. Originals remain in place, byte-for-byte. Each chunk has no more than 25 original pages; the byte target is 16,777,216 bytes (16 MiB by default). The largest current chunk is **11,682,239 bytes** and **25 pages**. There are **0 single-page size exceptions**.
 
@@ -14,9 +14,9 @@ The complete **834-page MS-4 seventh-edition scan** is available as [searchable 
 
 Start with the source title and original PDF page range. Open the chunk PDF to inspect the actual page, then use its text file to search or provide smaller context. Text headings preserve the original one-based viewer page number. Printed page labels inside the document can differ. Tables, columns, symbols and diagrams may not extract faithfully; the PDF remains the visual reference.
 
-MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **104**; sparse-text page count: **93**.
+MS-4 text comes from the upstream Tesseract OCR pipeline; other texts use `pdftotext`. OCR does not replace the source image for exact technical wording, figures or tables. Empty-text pages are explicitly marked in the text and manifest. Sparse text is flagged without claiming that a page is unreadable. Missing extracted text does not mean the original page has no information. Current empty-text page count: **108**; sparse-text page count: **157**.
 
-New context splits omit internal page links and original outlines; external URI links remain. MS-4, CAT and readiness source parts are reused directly. Native source parts retain valid in-part destinations; destinations outside a source part may be omitted. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
+New context splits omit internal page links and original outlines; external URI links remain. MS-4, CAT, readiness and study-series source parts are reused directly. Native source parts retain valid in-part destinations; destinations outside a source part may be omitted. Page content is not downsampled or rewritten; original whole PDFs preserve their original navigation. The supplied 2006 specification has two identical repository paths and one shared chunk set.
 
 ## Original documents and chunks
 
@@ -3079,6 +3079,158 @@ Original: [curriculum/asphalt-paving/manuals/pdfs/multiquip-mrh800gs-operation-r
 | 1–25 | [PDF](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0001-0025.pdf) | [Text](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0001-0025.txt) | 2,727,958 | extracted |
 | 26–36 | [PDF](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0026-0036.pdf) | [Text](chunks/multiquip-mrh800gs-operation-rev10-2020-b5fcbfa48d79/p0026-0036.txt) | 255,243 | extracted |
 
+### Rosco RB50 operation, service and parts manual (1017258-03 Rev. B; serial 255027 and above)
+
+**PDF-bb218679ef4b** · manufacturer-original · 314 pages · original SHA-256 `bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-manual.pdf](../textbook/series/sources/rosco-rb50-manual.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0001-0025.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0001-0025.txt) | 1,324,356 | No OCR; empty: 2 |
+| 26–50 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0026-0050.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0026-0050.txt) | 2,467,889 | extracted |
+| 51–75 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0051-0075.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0051-0075.txt) | 3,457,563 | extracted |
+| 76–100 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0076-0100.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0076-0100.txt) | 2,649,021 | extracted |
+| 101–125 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0101-0125.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0101-0125.txt) | 2,310,340 | extracted |
+| 126–150 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0126-0150.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0126-0150.txt) | 1,611,173 | extracted |
+| 151–175 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0151-0175.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0151-0175.txt) | 2,004,447 | extracted |
+| 176–200 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0176-0200.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0176-0200.txt) | 5,648,462 | extracted |
+| 201–225 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0201-0225.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0201-0225.txt) | 3,691,328 | extracted |
+| 226–250 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0226-0250.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0226-0250.txt) | 2,968,727 | extracted |
+| 251–275 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0251-0275.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0251-0275.txt) | 2,928,377 | extracted |
+| 276–300 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0276-0300.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0276-0300.txt) | 162,459 | extracted |
+| 301–314 | [PDF](chunks/rosco-rb50-manual-bb218679ef4b/p0301-0314.pdf) | [Text](chunks/rosco-rb50-manual-bb218679ef4b/p0301-0314.txt) | 163,617 | No OCR; empty: 313 |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 1–25
+
+**PDF-231198e4a421** · manufacturer-original · 25 pages · original SHA-256 `231198e4a4213e57de6ccf7e6607d84b21fd8ed0ad09a94daf02e6dfd0a9b68b`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf) | [Text](chunks/rosco-rb50-p001-p025-231198e4a421/p0001-0025.txt) | 1,324,296 | No OCR; empty: 2 |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 26–50
+
+**PDF-421951d6f962** · manufacturer-original · 25 pages · original SHA-256 `421951d6f962628b78161f21f79cd6737c59c3c1619e684af4d4ade673273133`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf) | [Text](chunks/rosco-rb50-p026-p050-421951d6f962/p0001-0025.txt) | 2,467,829 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 51–75
+
+**PDF-fe42a2f45c81** · manufacturer-original · 25 pages · original SHA-256 `fe42a2f45c8148482a1bfee2ced4f45ec9d08ddf0f67617be776a52af12e4c40`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf) | [Text](chunks/rosco-rb50-p051-p075-fe42a2f45c81/p0001-0025.txt) | 3,457,503 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 76–100
+
+**PDF-82c19c592a53** · manufacturer-original · 25 pages · original SHA-256 `82c19c592a53a6ef0d9465572565c194f81a1eaef3c3063d3ba8aa6cc6e41f19`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf) | [Text](chunks/rosco-rb50-p076-p100-82c19c592a53/p0001-0025.txt) | 2,648,961 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 101–125
+
+**PDF-604f5d1cbc19** · manufacturer-original · 25 pages · original SHA-256 `604f5d1cbc19c94fdf864b30364765fd1813975bda63a5f586a161d9d1236168`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf) | [Text](chunks/rosco-rb50-p101-p125-604f5d1cbc19/p0001-0025.txt) | 2,310,280 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 126–150
+
+**PDF-b55ac98e5d22** · manufacturer-original · 25 pages · original SHA-256 `b55ac98e5d22d19fe7dc0f616914d482709d4bd4c3847a5d0189dd975acd3fd6`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf) | [Text](chunks/rosco-rb50-p126-p150-b55ac98e5d22/p0001-0025.txt) | 1,611,113 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 151–175
+
+**PDF-ce5b8f796ef3** · manufacturer-original · 25 pages · original SHA-256 `ce5b8f796ef3a4b4e6d69681960b7e3514c5341a92d7a333897264c24062c8ae`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf) | [Text](chunks/rosco-rb50-p151-p175-ce5b8f796ef3/p0001-0025.txt) | 2,004,387 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 176–200
+
+**PDF-d4f14329a29b** · manufacturer-original · 25 pages · original SHA-256 `d4f14329a29ba73829d1328540720522b4b15272056235bc79598c399b7de599`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf) | [Text](chunks/rosco-rb50-p176-p200-d4f14329a29b/p0001-0025.txt) | 5,648,402 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 201–225
+
+**PDF-b0344a7f8ec5** · manufacturer-original · 25 pages · original SHA-256 `b0344a7f8ec54736bfedb14232844d6080f9032a6ee381b5e781ff0be14eb72b`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf) | [Text](chunks/rosco-rb50-p201-p225-b0344a7f8ec5/p0001-0025.txt) | 3,691,268 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 226–250
+
+**PDF-610022043733** · manufacturer-original · 25 pages · original SHA-256 `610022043733d3a2a0c5e03a7a93425c96dae5d4edf92c3c27e682c4c5811d64`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf) | [Text](chunks/rosco-rb50-p226-p250-610022043733/p0001-0025.txt) | 2,968,667 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 251–275
+
+**PDF-5dd4ae5c0c3a** · manufacturer-original · 25 pages · original SHA-256 `5dd4ae5c0c3a60493247d0bff2510cd186a99320d0b74e446e34f30701151734`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf) | [Text](chunks/rosco-rb50-p251-p275-5dd4ae5c0c3a/p0001-0025.txt) | 2,928,317 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 276–300
+
+**PDF-a95e29bccd70** · manufacturer-original · 25 pages · original SHA-256 `a95e29bccd7081a9feda6ce083a1008d22e9dd976e5c4299dd8863a88691564c`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf) | [Text](chunks/rosco-rb50-p276-p300-a95e29bccd70/p0001-0025.txt) | 162,399 | extracted |
+
+### Rosco RB50 operation, service and parts manual · original PDF pages 301–314
+
+**PDF-1e3436cbf97e** · manufacturer-original · 14 pages · original SHA-256 `1e3436cbf97e90a7c41d2909a3692e504267eee06074a19fa31478a54dec429d`
+
+Original: [curriculum/asphalt-paving/textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–14 | [PDF](../textbook/series/sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf) | [Text](chunks/rosco-rb50-p301-p314-1e3436cbf97e/p0001-0014.txt) | 163,557 | No OCR; empty: 13 |
+
 ### Caterpillar · parts atlas
 
 **PDF-44a200c663ac** · generated-curriculum · 23 pages · original SHA-256 `44a200c663acd56b254ddbf6e6c02c47a75910540c201723b27fe83d436ec8eb`
@@ -3112,24 +3264,24 @@ Original: [curriculum/asphalt-paving/caterpillar/teaching-guide.pdf](../caterpil
 
 ### Line A · roadbuilding foundations
 
-**PDF-a0c50f5f039e** · generated-curriculum · 38 pages · original SHA-256 `a0c50f5f039e264207951637d5a6f4209231486cfccd9b51c6955a077f6715a4`
+**PDF-5f81a063f4ab** · generated-curriculum · 39 pages · original SHA-256 `5f81a063f4ab26f293f1f80dff85756c29b68f94bdcb90676b96bd5b3b21389e`
 
 Original: [curriculum/asphalt-paving/line-a/roadbuilding-foundations.pdf](../line-a/roadbuilding-foundations.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–25 | [PDF](chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-a0c50f5f039e/p0001-0025.txt) | 1,665,269 | extracted |
-| 26–38 | [PDF](chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.pdf) | [Text](chunks/roadbuilding-foundations-a0c50f5f039e/p0026-0038.txt) | 865,635 | extracted |
+| 1–25 | [PDF](chunks/roadbuilding-foundations-5f81a063f4ab/p0001-0025.pdf) | [Text](chunks/roadbuilding-foundations-5f81a063f4ab/p0001-0025.txt) | 1,664,817 | extracted |
+| 26–39 | [PDF](chunks/roadbuilding-foundations-5f81a063f4ab/p0026-0039.pdf) | [Text](chunks/roadbuilding-foundations-5f81a063f4ab/p0026-0039.txt) | 873,038 | extracted |
 
 ### Line A · teaching guide
 
-**PDF-8ded550dcc0d** · generated-curriculum · 17 pages · original SHA-256 `8ded550dcc0d7963cbfd9aada46a99edfeb38d47b3f44552bebb52118072d16d`
+**PDF-c77af84593f6** · generated-curriculum · 18 pages · original SHA-256 `c77af84593f6da52803524650df376d8b78b1510d1755277174a1ff2d9e13c80`
 
 Original: [curriculum/asphalt-paving/line-a/teaching-guide.pdf](../line-a/teaching-guide.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–17 | [PDF](chunks/teaching-guide-8ded550dcc0d/p0001-0017.pdf) | [Text](chunks/teaching-guide-8ded550dcc0d/p0001-0017.txt) | 152,246 | extracted |
+| 1–18 | [PDF](chunks/teaching-guide-c77af84593f6/p0001-0018.pdf) | [Text](chunks/teaching-guide-c77af84593f6/p0001-0018.txt) | 163,440 | extracted |
 
 ### Manuals · manual reading instructor
 
@@ -3203,26 +3355,184 @@ Original: [curriculum/asphalt-paving/specifications/teaching-guide.pdf](../speci
 
 ### Textbook · answers
 
-**PDF-d9248b33bf59** · generated-curriculum · 20 pages · original SHA-256 `d9248b33bf59821c2f42a7126d4ed776d6a61b6f2ddbafae4bf7206e9469bbe6`
+**PDF-6ec6551957c7** · generated-curriculum · 24 pages · original SHA-256 `6ec6551957c708fb815b852185e9cce25885e8f34c7d39882c43907ea7bdf310`
 
 Original: [curriculum/asphalt-paving/textbook/answers.pdf](../textbook/answers.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–20 | [PDF](chunks/answers-d9248b33bf59/p0001-0020.pdf) | [Text](chunks/answers-d9248b33bf59/p0001-0020.txt) | 188,656 | extracted |
+| 1–24 | [PDF](chunks/answers-6ec6551957c7/p0001-0024.pdf) | [Text](chunks/answers-6ec6551957c7/p0001-0024.txt) | 203,010 | extracted |
+
+### Series · volume 2 answers
+
+**PDF-2942e4c343f9** · generated-curriculum · 27 pages · original SHA-256 `2942e4c343f934a253f7a3f55b18cb207a61ea28495aa7d03d80e2779c58c805`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-2-answers.pdf](../textbook/series/volume-2-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-2-answers-2942e4c343f9/p0001-0025.pdf) | [Text](chunks/volume-2-answers-2942e4c343f9/p0001-0025.txt) | 222,764 | extracted |
+| 26–27 | [PDF](chunks/volume-2-answers-2942e4c343f9/p0026-0027.pdf) | [Text](chunks/volume-2-answers-2942e4c343f9/p0026-0027.txt) | 60,088 | extracted |
+
+### Series · volume 2
+
+**PDF-61d6326a9bd8** · generated-curriculum · 55 pages · original SHA-256 `61d6326a9bd824ee7c389dae6a14b068f785bbbbf98eb651d96a0a04b11da93a`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-2.pdf](../textbook/series/volume-2.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-2-61d6326a9bd8/p0001-0025.pdf) | [Text](chunks/volume-2-61d6326a9bd8/p0001-0025.txt) | 2,801,232 | extracted |
+| 26–50 | [PDF](chunks/volume-2-61d6326a9bd8/p0026-0050.pdf) | [Text](chunks/volume-2-61d6326a9bd8/p0026-0050.txt) | 1,601,911 | extracted |
+| 51–55 | [PDF](chunks/volume-2-61d6326a9bd8/p0051-0055.pdf) | [Text](chunks/volume-2-61d6326a9bd8/p0051-0055.txt) | 85,449 | extracted |
+
+### Series · volume 3 answers
+
+**PDF-50072f1bf1c6** · generated-curriculum · 32 pages · original SHA-256 `50072f1bf1c6285c24b19d7afa8b6f41f85374212bfb8b0fd6d807f4275ac5c7`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-3-answers.pdf](../textbook/series/volume-3-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-3-answers-50072f1bf1c6/p0001-0025.pdf) | [Text](chunks/volume-3-answers-50072f1bf1c6/p0001-0025.txt) | 220,595 | extracted |
+| 26–32 | [PDF](chunks/volume-3-answers-50072f1bf1c6/p0026-0032.pdf) | [Text](chunks/volume-3-answers-50072f1bf1c6/p0026-0032.txt) | 100,418 | extracted |
+
+### Series · volume 3
+
+**PDF-cf997daf6a49** · generated-curriculum · 67 pages · original SHA-256 `cf997daf6a494e33d3823ae5911f2978d7107901caffda04970526b5b4b566f7`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-3.pdf](../textbook/series/volume-3.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-3-cf997daf6a49/p0001-0025.pdf) | [Text](chunks/volume-3-cf997daf6a49/p0001-0025.txt) | 593,842 | extracted |
+| 26–50 | [PDF](chunks/volume-3-cf997daf6a49/p0026-0050.pdf) | [Text](chunks/volume-3-cf997daf6a49/p0026-0050.txt) | 1,052,625 | extracted |
+| 51–67 | [PDF](chunks/volume-3-cf997daf6a49/p0051-0067.pdf) | [Text](chunks/volume-3-cf997daf6a49/p0051-0067.txt) | 480,178 | extracted |
+
+### Series · volume 4 answers
+
+**PDF-8f0348647c88** · generated-curriculum · 27 pages · original SHA-256 `8f0348647c88fc6510dec41023d006e4c9ab090adf3ffd57f0b56eaa8145e418`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-4-answers.pdf](../textbook/series/volume-4-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-4-answers-8f0348647c88/p0001-0025.pdf) | [Text](chunks/volume-4-answers-8f0348647c88/p0001-0025.txt) | 208,245 | extracted |
+| 26–27 | [PDF](chunks/volume-4-answers-8f0348647c88/p0026-0027.pdf) | [Text](chunks/volume-4-answers-8f0348647c88/p0026-0027.txt) | 61,526 | extracted |
+
+### Series · volume 4
+
+**PDF-b32e770c1aff** · generated-curriculum · 53 pages · original SHA-256 `b32e770c1aff3a864beb34d382640de4eaf7596633e007b248d3adb1589ea5e5`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-4.pdf](../textbook/series/volume-4.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-4-b32e770c1aff/p0001-0025.pdf) | [Text](chunks/volume-4-b32e770c1aff/p0001-0025.txt) | 1,947,996 | extracted |
+| 26–50 | [PDF](chunks/volume-4-b32e770c1aff/p0026-0050.pdf) | [Text](chunks/volume-4-b32e770c1aff/p0026-0050.txt) | 1,106,577 | extracted |
+| 51–53 | [PDF](chunks/volume-4-b32e770c1aff/p0051-0053.pdf) | [Text](chunks/volume-4-b32e770c1aff/p0051-0053.txt) | 71,563 | extracted |
+
+### Series · volume 5 answers
+
+**PDF-5aaf7a9e0bad** · generated-curriculum · 24 pages · original SHA-256 `5aaf7a9e0badf89627819dd61c3521d3defcc407b7274b917b066c4c3679e463`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-5-answers.pdf](../textbook/series/volume-5-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–24 | [PDF](chunks/volume-5-answers-5aaf7a9e0bad/p0001-0024.pdf) | [Text](chunks/volume-5-answers-5aaf7a9e0bad/p0001-0024.txt) | 202,259 | extracted |
+
+### Series · volume 5
+
+**PDF-844c71a1adc8** · generated-curriculum · 51 pages · original SHA-256 `844c71a1adc85d19d1a2e4e1303f5e7c5e330fa34b09fd8277ff2827ef9b92e3`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-5.pdf](../textbook/series/volume-5.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-5-844c71a1adc8/p0001-0025.pdf) | [Text](chunks/volume-5-844c71a1adc8/p0001-0025.txt) | 3,661,677 | extracted |
+| 26–50 | [PDF](chunks/volume-5-844c71a1adc8/p0026-0050.pdf) | [Text](chunks/volume-5-844c71a1adc8/p0026-0050.txt) | 2,018,558 | extracted |
+| 51–51 | [PDF](chunks/volume-5-844c71a1adc8/p0051-0051.pdf) | [Text](chunks/volume-5-844c71a1adc8/p0051-0051.txt) | 39,309 | extracted |
+
+### Series · volume 6 answers
+
+**PDF-83afb7f989a8** · generated-curriculum · 26 pages · original SHA-256 `83afb7f989a8521d52b6831bceef1ce6e8b0ae3abfb3a002dc31b1dd4374a5ea`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-6-answers.pdf](../textbook/series/volume-6-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-6-answers-83afb7f989a8/p0001-0025.pdf) | [Text](chunks/volume-6-answers-83afb7f989a8/p0001-0025.txt) | 211,772 | extracted |
+| 26–26 | [PDF](chunks/volume-6-answers-83afb7f989a8/p0026-0026.pdf) | [Text](chunks/volume-6-answers-83afb7f989a8/p0026-0026.txt) | 29,314 | extracted |
+
+### Series · volume 6
+
+**PDF-3dbd9786ff48** · generated-curriculum · 58 pages · original SHA-256 `3dbd9786ff488125a2fbf5efb2cf0ffd3db670b6ef10a2a2b46511d29602f50a`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-6.pdf](../textbook/series/volume-6.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-6-3dbd9786ff48/p0001-0025.pdf) | [Text](chunks/volume-6-3dbd9786ff48/p0001-0025.txt) | 4,989,383 | extracted |
+| 26–50 | [PDF](chunks/volume-6-3dbd9786ff48/p0026-0050.pdf) | [Text](chunks/volume-6-3dbd9786ff48/p0026-0050.txt) | 4,045,480 | extracted |
+| 51–58 | [PDF](chunks/volume-6-3dbd9786ff48/p0051-0058.pdf) | [Text](chunks/volume-6-3dbd9786ff48/p0051-0058.txt) | 260,976 | extracted |
+
+### Series · volume 7 answers
+
+**PDF-95a068da3dd6** · generated-curriculum · 27 pages · original SHA-256 `95a068da3dd6d88b8d73e0f17214fcaf9972ca7b2bbc814086cfe1013c9908dd`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-7-answers.pdf](../textbook/series/volume-7-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-7-answers-95a068da3dd6/p0001-0025.pdf) | [Text](chunks/volume-7-answers-95a068da3dd6/p0001-0025.txt) | 205,083 | extracted |
+| 26–27 | [PDF](chunks/volume-7-answers-95a068da3dd6/p0026-0027.pdf) | [Text](chunks/volume-7-answers-95a068da3dd6/p0026-0027.txt) | 58,855 | extracted |
+
+### Series · volume 7
+
+**PDF-efcee644784d** · generated-curriculum · 55 pages · original SHA-256 `efcee644784dc58a4b8088c6de907179cdab3a69da7f947adb75afafb23deab0`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-7.pdf](../textbook/series/volume-7.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-7-efcee644784d/p0001-0025.pdf) | [Text](chunks/volume-7-efcee644784d/p0001-0025.txt) | 1,931,764 | extracted |
+| 26–50 | [PDF](chunks/volume-7-efcee644784d/p0026-0050.pdf) | [Text](chunks/volume-7-efcee644784d/p0026-0050.txt) | 1,929,897 | extracted |
+| 51–55 | [PDF](chunks/volume-7-efcee644784d/p0051-0055.pdf) | [Text](chunks/volume-7-efcee644784d/p0051-0055.txt) | 89,176 | extracted |
+
+### Series · volume 8 answers
+
+**PDF-b5e5fb5b6066** · generated-curriculum · 21 pages · original SHA-256 `b5e5fb5b60663698d1921941deddb0f0f8fb6bc0e0575e56b08efc7ffd7bf85b`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-8-answers.pdf](../textbook/series/volume-8-answers.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–21 | [PDF](chunks/volume-8-answers-b5e5fb5b6066/p0001-0021.pdf) | [Text](chunks/volume-8-answers-b5e5fb5b6066/p0001-0021.txt) | 174,133 | extracted |
+
+### Series · volume 8
+
+**PDF-fb2feedcca97** · generated-curriculum · 44 pages · original SHA-256 `fb2feedcca97f9e6e6c3821ac4822390b6dbc53c7afa1061832cb2063867e38f`
+
+Original: [curriculum/asphalt-paving/textbook/series/volume-8.pdf](../textbook/series/volume-8.pdf)
+
+| Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
+|---|---|---|---:|---|
+| 1–25 | [PDF](chunks/volume-8-fb2feedcca97/p0001-0025.pdf) | [Text](chunks/volume-8-fb2feedcca97/p0001-0025.txt) | 1,153,757 | extracted |
+| 26–44 | [PDF](chunks/volume-8-fb2feedcca97/p0026-0044.pdf) | [Text](chunks/volume-8-fb2feedcca97/p0026-0044.txt) | 793,253 | extracted |
 
 ### Textbook · study textbook
 
-**PDF-c3e6f453d41f** · generated-curriculum · 77 pages · original SHA-256 `c3e6f453d41f6e02637600b94d89a00950a671496c712a1d792b086037ec91e4`
+**PDF-8dc630b760ba** · generated-curriculum · 78 pages · original SHA-256 `8dc630b760bac91d2a0fce4d3e4c0530cd801ad167b0d7347598c674f33fd82f`
 
 Original: [curriculum/asphalt-paving/textbook/study-textbook.pdf](../textbook/study-textbook.pdf)
 
 | Original PDF pages | Chunk PDF | Text extract | PDF bytes | Text status |
 |---|---|---|---:|---|
-| 1–25 | [PDF](chunks/study-textbook-c3e6f453d41f/p0001-0025.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0001-0025.txt) | 1,916,393 | extracted |
-| 26–50 | [PDF](chunks/study-textbook-c3e6f453d41f/p0026-0050.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0026-0050.txt) | 5,041,158 | extracted |
-| 51–75 | [PDF](chunks/study-textbook-c3e6f453d41f/p0051-0075.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0051-0075.txt) | 1,729,357 | extracted |
-| 76–77 | [PDF](chunks/study-textbook-c3e6f453d41f/p0076-0077.pdf) | [Text](chunks/study-textbook-c3e6f453d41f/p0076-0077.txt) | 77,424 | extracted |
+| 1–25 | [PDF](chunks/study-textbook-8dc630b760ba/p0001-0025.pdf) | [Text](chunks/study-textbook-8dc630b760ba/p0001-0025.txt) | 1,917,310 | extracted |
+| 26–50 | [PDF](chunks/study-textbook-8dc630b760ba/p0026-0050.pdf) | [Text](chunks/study-textbook-8dc630b760ba/p0026-0050.txt) | 5,042,438 | extracted |
+| 51–75 | [PDF](chunks/study-textbook-8dc630b760ba/p0051-0075.pdf) | [Text](chunks/study-textbook-8dc630b760ba/p0051-0075.txt) | 1,716,298 | extracted |
+| 76–78 | [PDF](chunks/study-textbook-8dc630b760ba/p0076-0078.pdf) | [Text](chunks/study-textbook-8dc630b760ba/p0076-0078.txt) | 94,917 | extracted |
 
 ### Unit 01 · instructor guide
 

@@ -1,0 +1,86 @@
+{
+  "code": "L2",
+  "title": "Apply compaction work safety procedures",
+  "intro": "A roller repeatedly changes direction near people and other equipment. Safe operation depends on visibility, ground support, communication and the machine’s protective systems throughout the pattern.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Interpret job planning",
+      "text": "Review the path, pattern, thickness, temperature conditions, crown, joints, obstacles and coordination of the asphalt train. Identify edges, slopes, structures, traffic and public access. Confirm the current plan and who authorizes a change. Walk the inspection route only under controlled conditions."
+    },
+    {
+      "number": 2,
+      "title": "Describe machine-specific safety hazards",
+      "text": "Recognize blind areas, crush/articulation zones, hot surfaces, noise, fumes, hydraulic pressure, rollover hazards and proximity to pavers/other rollers. Inspect and use the fitted ROPS and seat belt according to the OMM and applicable rules; do not modify protective structures. A fixed three-metre spacing is not a universal safe separation. Establish actual clearances from the machine instructions and site assessment, including stopping distance and visibility."
+    },
+    {
+      "number": 3,
+      "title": "Describe traffic control requirements",
+      "text": "Use the traffic-control plan, trained personnel, signs and communication arrangement. Keep the public route separate from reversing/turning areas. Obtain acknowledgement before entering another machine’s working zone. If a pedestrian, vehicle or unexpected obstacle enters, stop affected movement safely and restore control before continuing."
+    },
+    {
+      "number": 4,
+      "title": "Describe PPE",
+      "text": "Wear the selected footwear, head, eye, hearing and high-visibility protection and any task-specific items. Ensure the belt and operator position remain compatible with safe control. PPE does not replace the protective structure, separation or visibility checks. Supply, use and maintenance responsibilities follow current Part 8 and employer arrangements."
+    },
+    {
+      "number": 5,
+      "title": "Describe lockout procedures",
+      "text": "Service and hazardous access require the actual machine’s lockout, stored-energy and support procedure. The articulation joint can move and crush; use the prescribed steering-frame lock where required and only in the specified conditions. A parked engine does not remove every hydraulic or gravity hazard. Verify the safe state before work."
+    },
+    {
+      "number": 6,
+      "title": "Describe how to secure machine for safety",
+      "text": "Park on the approved stable ground, apply the specified parking controls and required chocks, and secure keys/access. Position away from unsupported edges and public routes. Record defects and protect people from a machine that could roll or be moved by an unauthorized person. A battery/night switch is only one part of the actual security/isolation arrangement."
+    }
+  ],
+  "worked": {
+    "title": "A shortcut behind the roller",
+    "case": "A worker steps behind a roller to shorten the route while the operator is preparing to reverse.",
+    "solution": "Stop the affected movement and re-establish the controlled pedestrian route and communication. Review the blind-area conflict with the crew. High-visibility clothing does not authorize crossing an active reversing path."
+  },
+  "activities": [
+    {
+      "id": "L2-01",
+      "prompt": "Explain why “three metres is always safe” is an inadequate rule.",
+      "answer": "Safe separation depends on machine size, movement, visibility, stopping distance, ground conditions and the site plan. Use the actual assessment and instructions; a generic number can be unsafe.",
+      "skills": [
+        "Problem solving",
+        "Reading"
+      ],
+      "title": "Explain why “three metres is always safe” is an inadequate rule."
+    },
+    {
+      "id": "L2-02",
+      "prompt": "A route change reduces available clearance by 0.6 m. What should be recorded?",
+      "answer": "Original and revised geometry, machine/movement envelope, affected people/routes, assessment and authorized decision. The subtraction alone cannot establish safe clearance.",
+      "skills": [
+        "Numeracy",
+        "Writing"
+      ],
+      "title": "A route change reduces available clearance by 0.6 m"
+    },
+    {
+      "id": "L2-03",
+      "prompt": "Demonstrate a clear stop and read-back with the paver lead.",
+      "answer": "Use machine ID, location and the specific conflict; obtain acknowledgement, maintain safe positions and confirm the restored plan before resuming.",
+      "skills": [
+        "Communication",
+        "Collaboration",
+        "Adaptability"
+      ],
+      "title": "Demonstrate a clear stop and read-back with the paver lead."
+    }
+  ],
+  "practical": [
+    "Inspect/use fitted ROPS and belt and recognize blind/articulation zones.",
+    "Demonstrate the applicable lockout and frame-lock procedure.",
+    "Park and secure with required chocks/controls and access protection."
+  ],
+  "visuals": [
+    "roller-safe-zones",
+    "cat-steering-frame-lock"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

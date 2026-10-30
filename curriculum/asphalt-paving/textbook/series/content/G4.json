@@ -1,0 +1,62 @@
+{
+  "code": "G4",
+  "title": "Describe segregation",
+  "intro": "Segregation is separation within the mixture that produces an uneven distribution of aggregate sizes or other mixture characteristics. A visibly coarse patch can be a clue, but a crew needs agreed inspection criteria and a traceable location before deciding its cause or treatment.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Define Section 502",
+      "text": "Section 502.15 of the 2006 specification calls for a homogeneous mixture and uniform surface texture. Its visual classification distinguishes slight, moderate and severe segregation using the amount of stone and remaining binder/fine-aggregate matrix. The project’s agreed comparison areas or photographs support consistent judgement. Temperature differences can also affect paving behaviour; thermal segregation and aggregate-size segregation are related quality concerns but are not interchangeable descriptions.\n\nTrack where a pattern occurs: at truck changes, the end of loads, edges, behind a particular part of the screed or at repeated stops. Material handling, stockpiles, truck loading/unloading, hopper management and the feed system all deserve investigation. Do not claim a single cause from a photograph alone. Record station, lane, lift, time, load and observed texture, then notify the responsible lead while the crew can still investigate the process.\n\nThe historical top-lift tables 502-I-1 and I-2 address remediation and payment. They include different remedies by severity and counts per lane kilometre. These dated repair descriptions are an exercise in reading a contract, not a field instruction to apply slurry or overlay without approval. Current project specifications and the authorized repair design govern actual work. A payment deduction does not automatically remove the requirement for remediation.\n\nPrevention is a coordinated task. Maintain the specified material-handling and paving process, communicate supply changes early, and avoid scattering coarse material onto a finished surface. When a defect is suspected, preserve evidence and obtain direction before an improvised repair hides the cause."
+    }
+  ],
+  "worked": {
+    "title": "Describe before diagnosing",
+    "case": "A coarse-looking strip appears near the right edge after three truck changes. The surrounding surface has more fine matrix.",
+    "solution": "Record the repeated location and timing, photograph from a safe position with a scale and location label, and notify the paving/quality lead. Compare with agreed criteria and inspect the process under authorized conditions. Do not declare severe segregation or choose a repair from appearance alone."
+  },
+  "activities": [
+    {
+      "id": "G4-01",
+      "prompt": "Write three useful observations and one unsupported conclusion for the case.",
+      "answer": "Useful: right-edge location; repeated after three truck changes; reduced visible fine matrix relative to surroundings. Unsupported: “the driver caused it” without investigation.",
+      "skills": [
+        "Writing",
+        "Problem solving"
+      ],
+      "title": "Write three useful observations and one unsupported conclusion for the case."
+    },
+    {
+      "id": "G4-02",
+      "prompt": "In the dated Table 502-I-2, a 1 lane-km top lift has 4 slight areas, zero moderate and zero severe. What is the isolated adjustment?",
+      "answer": "The row requiring 4–5 slight, 0 moderate and 0 severe gives +$500 per lane-km. All three columns and the clause conditions must apply. This does not remove remediation obligations.",
+      "skills": [
+        "Numeracy",
+        "Reading"
+      ],
+      "title": "In the dated Table 502-I-2, a 1 lane-km top lift has 4 slight areas, zero moderate and zero severe"
+    },
+    {
+      "id": "G4-03",
+      "prompt": "Propose a safe digital defect log and a respectful crew discussion.",
+      "answer": "Use location, time, lift, load, image, observed texture and status; avoid personal blame. Ask which process changes occurred and agree who will investigate and report the authorized correction.",
+      "skills": [
+        "Digital",
+        "Communication",
+        "Collaboration",
+        "Creativity and innovation"
+      ],
+      "title": "Propose a safe digital defect log and a respectful crew discussion."
+    }
+  ],
+  "practical": [
+    "Compare texture using approved project criteria.",
+    "Locate and record a suspected segregated area.",
+    "Separate observation, possible cause and authorized disposition."
+  ],
+  "visuals": [
+    "segregation",
+    "ms4-segregation"
+  ],
+  "additional_sources": [],
+  "assessment_threshold": null
+}

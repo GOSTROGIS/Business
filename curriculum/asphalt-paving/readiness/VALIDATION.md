@@ -16,3 +16,6 @@ Qualified technical approval, classroom pilots, complete later technical units a
 ## Post-textbook status update
 
 A1–A6 and B1 now point to the standalone study volume. The generated competency/gap pages and web/guide ZIP have been refreshed. [Post-update checks](post-textbook-checks.json) confirm 1,219 local HTML targets; all eight ZIP CRCs/hashes, all 161 PDF parts exactly once and 957 offline HTML targets pass. Source PDFs and their previously verified page fidelity are unchanged.
+
+
+The complete-series update refreshes all 68 authoring statuses and preserves equipment/site review requirements. [Update checks](update-checks.json) passed 1,222 local HTML targets, 957 offline ZIP targets, eight archive CRC/hash checks and all 161 unchanged source-part hashes. Full source-page comparisons from the original acquisition remain applicable to those unchanged bytes.

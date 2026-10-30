@@ -1,0 +1,110 @@
+{
+  "source": "sources/rosco-rb50-manual.pdf",
+  "source_sha256": "bb218679ef4b15369a7836346853a997b0758cbff2694ac6812d075045f71b80",
+  "parts": [
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p001-p025.pdf",
+      "first_pdf_page": 1,
+      "last_pdf_page": 25,
+      "pages": 25,
+      "bytes": 1324296,
+      "sha256": "231198e4a4213e57de6ccf7e6607d84b21fd8ed0ad09a94daf02e6dfd0a9b68b"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p026-p050.pdf",
+      "first_pdf_page": 26,
+      "last_pdf_page": 50,
+      "pages": 25,
+      "bytes": 2467829,
+      "sha256": "421951d6f962628b78161f21f79cd6737c59c3c1619e684af4d4ade673273133"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p051-p075.pdf",
+      "first_pdf_page": 51,
+      "last_pdf_page": 75,
+      "pages": 25,
+      "bytes": 3457503,
+      "sha256": "fe42a2f45c8148482a1bfee2ced4f45ec9d08ddf0f67617be776a52af12e4c40"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p076-p100.pdf",
+      "first_pdf_page": 76,
+      "last_pdf_page": 100,
+      "pages": 25,
+      "bytes": 2648961,
+      "sha256": "82c19c592a53a6ef0d9465572565c194f81a1eaef3c3063d3ba8aa6cc6e41f19"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p101-p125.pdf",
+      "first_pdf_page": 101,
+      "last_pdf_page": 125,
+      "pages": 25,
+      "bytes": 2310280,
+      "sha256": "604f5d1cbc19c94fdf864b30364765fd1813975bda63a5f586a161d9d1236168"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p126-p150.pdf",
+      "first_pdf_page": 126,
+      "last_pdf_page": 150,
+      "pages": 25,
+      "bytes": 1611113,
+      "sha256": "b55ac98e5d22d19fe7dc0f616914d482709d4bd4c3847a5d0189dd975acd3fd6"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p151-p175.pdf",
+      "first_pdf_page": 151,
+      "last_pdf_page": 175,
+      "pages": 25,
+      "bytes": 2004387,
+      "sha256": "ce5b8f796ef3a4b4e6d69681960b7e3514c5341a92d7a333897264c24062c8ae"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p176-p200.pdf",
+      "first_pdf_page": 176,
+      "last_pdf_page": 200,
+      "pages": 25,
+      "bytes": 5648402,
+      "sha256": "d4f14329a29ba73829d1328540720522b4b15272056235bc79598c399b7de599"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p201-p225.pdf",
+      "first_pdf_page": 201,
+      "last_pdf_page": 225,
+      "pages": 25,
+      "bytes": 3691268,
+      "sha256": "b0344a7f8ec54736bfedb14232844d6080f9032a6ee381b5e781ff0be14eb72b"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p226-p250.pdf",
+      "first_pdf_page": 226,
+      "last_pdf_page": 250,
+      "pages": 25,
+      "bytes": 2968667,
+      "sha256": "610022043733d3a2a0c5e03a7a93425c96dae5d4edf92c3c27e682c4c5811d64"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p251-p275.pdf",
+      "first_pdf_page": 251,
+      "last_pdf_page": 275,
+      "pages": 25,
+      "bytes": 2928317,
+      "sha256": "5dd4ae5c0c3a60493247d0bff2510cd186a99320d0b74e446e34f30701151734"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p276-p300.pdf",
+      "first_pdf_page": 276,
+      "last_pdf_page": 300,
+      "pages": 25,
+      "bytes": 162399,
+      "sha256": "a95e29bccd7081a9feda6ce083a1008d22e9dd976e5c4299dd8863a88691564c"
+    },
+    {
+      "file": "sources/rosco-rb50-parts/rosco-rb50-p301-p314.pdf",
+      "first_pdf_page": 301,
+      "last_pdf_page": 314,
+      "pages": 14,
+      "bytes": 163557,
+      "sha256": "1e3436cbf97e90a7c41d2909a3692e504267eee06074a19fa31478a54dec429d"
+    }
+  ]
+}
