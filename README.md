@@ -33,3 +33,9 @@ Six complete Roadbuilding foundations units develop A1–A6 with 37 activities, 
 This is an initial curriculum-development draft. Cohort information comes from the supplied planning reference; external program and regulatory claims still need primary-source verification and partner confirmation.
 
 The expanded [CAT library and parts atlas](curriculum/asphalt-paving/caterpillar/README.md) adds 22 publications (1,883 source pages), 20 credited equipment illustrations, 89 named components and ten identification tasks. [WHMIS and hazard symbols](curriculum/asphalt-paving/whmis/README.md) adds official SVG/PNG/EPS artwork, current source sheets, machine warnings and six classroom tasks. Both collections have smaller ZIP downloads.
+
+## Local coding assistant
+
+Run [Open Ollama Tools.cmd](Open%20Ollama%20Tools.cmd) from a Windows checkout to open a developer chat with this repository selected. The launcher looks for the shared Ollama Tools installation alongside your repository collection. For a different location, set `OLLAMA_TOOLS_DIR` to the folder containing `Start Ollama Tools.cmd`.
+
+The companion runs with the [Ollama](https://ollama.com/) model runtime on your computer.
